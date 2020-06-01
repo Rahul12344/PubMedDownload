@@ -21,7 +21,7 @@ class PubMedQuery:
         self.valid_ids.sort()
         smallest_id = self.valid_ids[0]
         largest_id = self.valid_ids[len(self.valid_ids)-1]
-        f = open("/u/scratch/r/rahul/PubMedDownload/abstracts.txt", "w")
+        f = open("/u/scratch/r/rahul/PubMedDownload/abstracts.csv", "w")
         f.write("labels,values")
         for start in range(0, 1054817, 100000):
             r = requests.get(self.createQuery(start))
@@ -31,22 +31,22 @@ class PubMedQuery:
                     if int(ID.text) >= smallest_id and int(ID.text) <= largest_id:
                         XML_ids.append(ID.text)
                         if ID.text in self.valid_ids:
-                            f.write("1,{0}.txt".format(ID.text))
+                            f.write("1,{0}.txt\n".format(ID.text))
                         else:
-                            f.write("0,{0}.txt".format(ID.text))
+                            f.write("0,{0}.txt\n".format(ID.text))
         f.close()
         return XML_ids
      
-def Query(uid, set_of_valid_ids, abstract_labels, file_labels):
+def Query(uid, set_of_valid_ids, abstract_labels, ab_file):
     try:
         r = requests.get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db={0}&id={1}&retmode=text&rettype=abstract&api_key=49c77251ac91cbaa16ec5ae4269ab17d9d09".format("pubmed", uid))
         output = " ".join(r.text.split("\n"))
         if uid in set_of_valid_ids:
             abstract_labels[1].append(output)
-            file_labels[1].append(uid)
+            ab_file.write("1,{0}\n".format(output))
         else:
             abstract_labels[0].append(output)
-            file_labels[0].append(uid)
+            ab_file.write("0,{0}\n".format(output))
         f = open("{0}.txt".format(str(uid)), "w")
         f.write(r.text)
         f.close()

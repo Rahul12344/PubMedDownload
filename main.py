@@ -22,16 +22,16 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(level
 logger = logging.getLogger(__name__)
 
 class DownloadWorker(Thread):   
-    def __init__(self, q, pipe, HGNC_Parsing, abstract_labels, file_labels):
+    def __init__(self, q, pipe, HGNC_Parsing, abstract_labels, ab_file):
         Thread.__init__(self)
         self.pipe = pipe
         self.q = q
         self.valid_ids = HGNC_Parsing
         self.abstract_labels = abstract_labels
-        self.file_labels = file_labels
+        self.ab_file = ab_file
         
     def query(self, curr_uid):
-        queries.Query(curr_uid, self.valid_ids, self.abstract_labels, self.file_labels)
+        queries.Query(curr_uid, self.valid_ids, self.abstract_labels, self.ab_file)
         
     def run(self):
         while True:
@@ -57,7 +57,7 @@ def main():
     gene_labels = labeler.BuildLabeler()
     
     abstract_labels = defaultdict(list)
-    file_labels = defaultdict(list)
+    ab_file = open("labels.csv", "w")
     
     readFile = parser.Parser("VIPs_PMID_for_Rahul.txt", "mart_export.txt")
     ensemble_genes, HGNC_Parsing, connectors = readFile.ReadFile()
@@ -70,7 +70,7 @@ def main():
     ts = time.time()
     q = queue.Queue(maxsize=0)
     for x in range(10):
-        worker = DownloadWorker(q, pipe, HGNC_Parsing, abstract_labels, file_labels)
+        worker = DownloadWorker(q, pipe, HGNC_Parsing, abstract_labels, ab_file)
         worker.daemon = True
         worker.start()
     for hgnc in hgncs:
@@ -79,11 +79,8 @@ def main():
         
     q.join()
     
-    f = open("labels.csv", "w")
-    #for positives in abstract_labels[1]:
         
-    #for positives in abstract_labels[0]:
-    f.close()
+    ab_file.close()
         
     logging.info('Downloaded {0} objects'.format(len(hgncs)))
     logging.info('Took %s s', time.time() - ts)
