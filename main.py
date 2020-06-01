@@ -2,6 +2,7 @@ from threading import Thread
 import logging
 import os.path
 from os import path
+import csv
 
 try:
    import queue
@@ -54,9 +55,8 @@ def main():
     labeler = labels.Labels(export_file_path="mart_export.txt", VIP_file_path="VIPs_PMID_for_Rahul.txt")
     gene_labels = labeler.BuildLabeler()
     f = open("labels.csv", "w")
-    f2 = open("abstract_names.csv", "w")
-    
     f.write("labels,values\n")
+    f2 = open("abstract_names.csv", "w")
     f2.write("labels,values\n")
     
     readFile = parser.Parser("VIPs_PMID_for_Rahul.txt", "mart_export.txt")

@@ -1,6 +1,7 @@
 import requests
 import xml.etree.ElementTree as ET
 import logging
+import csv
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
