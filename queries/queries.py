@@ -30,14 +30,16 @@ class PubMedQuery:
                         XML_ids.append(ID.text)
         return XML_ids
      
-def Query(uid, f_csv, set_of_valid_ids):
+def Query(uid, set_of_valid_ids, abstract_labels, file_labels):
     try:
         r = requests.get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db={0}&id={1}&retmode=text&rettype=abstract&api_key=49c77251ac91cbaa16ec5ae4269ab17d9d09".format("pubmed", uid))
         output = " ".join(r.text.split("\n"))
         if uid in set_of_valid_ids:
-            f_csv.write("{0},{1}\n".format("1", output))
+            abstract_labels[1].append(output)
+            file_labels[1].append(uid)
         else:
-            f_csv.write("{0},{1}\n".format("0", output))
+            abstract_labels[0].append(output)
+            file_labels[0].append(uid)
         f = open("{0}.txt".format(str(uid)), "w")
         f.write(r.text)
         f.close()
