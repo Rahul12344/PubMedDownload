@@ -21,6 +21,8 @@ class PubMedQuery:
         self.valid_ids.sort()
         smallest_id = self.valid_ids[0]
         largest_id = self.valid_ids[len(self.valid_ids)-1]
+        f = open("/u/scratch/r/rahul/PubMedDownload/abstracts.csv")
+        f.write("labels,values")
         for start in range(0, 1054817, 100000):
             r = requests.get(self.createQuery(start))
             root = ET.fromstring(r.content)
@@ -28,6 +30,11 @@ class PubMedQuery:
                 for ID in IdList.findall('Id'):
                     if int(ID.text) >= smallest_id and int(ID.text) <= largest_id:
                         XML_ids.append(ID.text)
+                        if ID.text in self.valid_ids:
+                            f.write("1,{0}.txt".format(ID.text))
+                        else:
+                            f.write("0,{0}.txt".format(ID.text))
+        f.close()
         return XML_ids
      
 def Query(uid, set_of_valid_ids, abstract_labels, file_labels):
@@ -37,11 +44,9 @@ def Query(uid, set_of_valid_ids, abstract_labels, file_labels):
         if uid in set_of_valid_ids:
             abstract_labels[1].append(output)
             file_labels[1].append(uid)
-            print(abstract_labels)
         else:
             abstract_labels[0].append(output)
             file_labels[0].append(uid)
-            print(abstract_labels)
         f = open("{0}.txt".format(str(uid)), "w")
         f.write(r.text)
         f.close()

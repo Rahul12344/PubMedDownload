@@ -78,6 +78,12 @@ def main():
         q.put(hgnc)
         
     q.join()
+    
+    f = open("/u/scratch/r/rahul/PubMedDownload/labels.csv")
+    for positives in abstract_labels[1]:
+        
+    for positives in abstract_labels[0]:
+        
     logging.info('Downloaded {0} objects'.format(len(hgncs)))
     logging.info('Took %s s', time.time() - ts)
     
