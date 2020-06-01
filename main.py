@@ -56,8 +56,8 @@ def main():
     f = open("labels.csv", "w")
     f2 = open("abstract_names.csv", "w")
     
-    f.write("labels,values")
-    f2.write("labels,values")
+    f.write("labels,values\n")
+    f2.write("labels,values\n")
     
     readFile = parser.Parser("VIPs_PMID_for_Rahul.txt", "mart_export.txt")
     ensemble_genes, HGNC_Parsing, connectors = readFile.ReadFile()
