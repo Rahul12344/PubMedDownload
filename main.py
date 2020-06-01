@@ -79,7 +79,7 @@ def main():
         
     q.join()
     
-    f = open("/u/scratch/r/rahul/PubMedDownload/labels.csv")
+    f = open("labels.csv")
     #for positives in abstract_labels[1]:
         
     #for positives in abstract_labels[0]:
