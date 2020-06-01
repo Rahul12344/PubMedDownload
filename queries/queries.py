@@ -1,5 +1,10 @@
-import urllib2
+import requests
 import xml.etree.ElementTree as ET
+import logging
+
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+
+logger = logging.getLogger(__name__)
 
 class PubMedQuery:
     def __init__(self, HGNC, valid_ids):
@@ -16,26 +21,29 @@ class PubMedQuery:
         smallest_id = self.valid_ids[0]
         largest_id = self.valid_ids[len(self.valid_ids)-1]
         for start in range(0, 1054817, 100000):
-            req = urllib2.Request(self.createQuery(start))
-            r = urllib2.urlopen(req)
-            root = ET.fromstring(r.read())
+            r = requests.get(self.createQuery(start))
+            root = ET.fromstring(r.content)
             for IdList in root.findall('IdList'):
                 for ID in IdList.findall('Id'):
                     if int(ID.text) >= smallest_id and int(ID.text) <= largest_id:
                         XML_ids.append(ID.text)
         return XML_ids
-    
-#@backoff.on_exception(backoff.expo,
-#                      (requests.exceptions.Timeout,
-#                       requests.exceptions.HTTPError))   
-def Query(uid):
+     
+def Query(uid, f_csv, set_of_valid_ids, f2):
     try:
-        r = urllib2.urlopen("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db={0}&id={1}&retmode=text&rettype=abstract&api_key=49c77251ac91cbaa16ec5ae4269ab17d9d09".format("pubmed", uid))
+        r = requests.get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db={0}&id={1}&retmode=text&rettype=abstract&api_key=49c77251ac91cbaa16ec5ae4269ab17d9d09".format("pubmed", uid))
+        output = " ".join(r.text.split("\n"))
+        if uid in set_of_valid_ids:
+            f_csv.write("{0}, {1}\n".format("1", output))
+            f2.write("{0}, {1}.txt\n".format("1", uid))
+        else:
+            f_csv.write("{0}, {1}\n".format("0", output))
+            f2.write("{0}, {1}.txt\n".format("1", uid))
         f = open("{0}.txt".format(str(uid)), "w")
-        f.write(r.read())
+        f.write(r.text)
         f.close()
-        #print(r.read())
-    except urllib2.HTTPError as e:
-        print (e.code)
-        print (e.read()) 
-        
+    except requests.HTTPError as e:
+        logger.error('Error Code: {0}'.format(e.code))
+        logger.error('Error: {0}'.format(e.read()))
+        raise requests.HTTPError 
+
