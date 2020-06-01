@@ -22,7 +22,7 @@ class PubMedQuery:
         print(self.valid_ids)
         smallest_id = self.valid_ids[0]
         largest_id = self.valid_ids[len(self.valid_ids)-1]
-        f = open("abstracts.csv", "w")
+        f = open("/u/scratch/r/rahul/PubMedDownload/abstracts.csv", "w")
         f.write("labels,values")
         for start in range(0, 1054817, 100000):
             r = requests.get(self.createQuery(start))
