@@ -27,10 +27,9 @@ class DownloadWorker(Thread):
         self.q = q
         self.valid_ids = HGNC_Parsing
         self.f = f
-        self.f2 = f2
         
     def query(self, curr_uid):
-        queries.Query(curr_uid, self.f, self.valid_ids, self.f2)
+        queries.Query(curr_uid, self.f, self.valid_ids)
         
     def run(self):
         while True:
@@ -56,8 +55,11 @@ def main():
     gene_labels = labeler.BuildLabeler()
     f = open("labels.csv", "w")
     f.write("labels,values\n")
-    f2 = open("abstract_names.csv", "w")
-    f2.write("labels,values\n")
+    
+    ab = open("abstract.csv", "w")
+    ab.write("labels,values\n")
+    ab.close(0)
+
     
     readFile = parser.Parser("VIPs_PMID_for_Rahul.txt", "mart_export.txt")
     ensemble_genes, HGNC_Parsing, connectors = readFile.ReadFile()
@@ -70,7 +72,7 @@ def main():
     ts = time.time()
     q = queue.Queue(maxsize=0)
     for x in range(10):
-        worker = DownloadWorker(q, pipe, HGNC_Parsing, f, f2)
+        worker = DownloadWorker(q, pipe, HGNC_Parsing, f)
         worker.daemon = True
         worker.start()
     for hgnc in hgncs:
@@ -82,7 +84,6 @@ def main():
     logging.info('Took %s s', time.time() - ts)
     
     f.close()
-    f2.close()
 
 if __name__ == '__main__':
     main()
