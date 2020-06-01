@@ -37,7 +37,7 @@ class DownloadWorker(Thread):
             logger.info('Downloading abstracts related to {0}'.format(curr_))
                 
             try:
-                if path.isfile("/u/home/r/rahul/Garud/{0}.txt".format(curr_)):
+                if path.isfile("/u/scratch/r/rahul/PubMedDownload/{0}.txt".format(curr_)):
                     logger.info('Already downloaded {0}'.format(curr_))
                 else:
                     self.query(curr_)
@@ -55,6 +55,9 @@ def main():
     gene_labels = labeler.BuildLabeler()
     f = open("labels.csv", "w")
     f2 = open("abstract_names.csv", "w")
+    
+    f.write("labels,values")
+    f2.write("labels,values")
     
     readFile = parser.Parser("VIPs_PMID_for_Rahul.txt", "mart_export.txt")
     ensemble_genes, HGNC_Parsing, connectors = readFile.ReadFile()

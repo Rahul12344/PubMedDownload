@@ -34,11 +34,11 @@ def Query(uid, f_csv, set_of_valid_ids, f2):
         r = requests.get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db={0}&id={1}&retmode=text&rettype=abstract&api_key=49c77251ac91cbaa16ec5ae4269ab17d9d09".format("pubmed", uid))
         output = " ".join(r.text.split("\n"))
         if uid in set_of_valid_ids:
-            f_csv.write("{0}, {1}\n".format("1", output))
-            f2.write("{0}, {1}.txt\n".format("1", uid))
+            f_csv.write("{0},{1}\n".format("1", output))
+            f2.write("{0},{1}.txt\n".format("1", uid))
         else:
-            f_csv.write("{0}, {1}\n".format("0", output))
-            f2.write("{0}, {1}.txt\n".format("1", uid))
+            f_csv.write("{0},{1}\n".format("0", output))
+            f2.write("{0},{1}.txt\n".format("1", uid))
         f = open("{0}.txt".format(str(uid)), "w")
         f.write(r.text)
         f.close()
