@@ -21,7 +21,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(level
 logger = logging.getLogger(__name__)
 
 class DownloadWorker(Thread):   
-    def __init__(self, q, pipe, HGNC_Parsing, f, f2):
+    def __init__(self, q, pipe, HGNC_Parsing, f):
         Thread.__init__(self)
         self.pipe = pipe
         self.q = q
@@ -55,11 +55,6 @@ def main():
     gene_labels = labeler.BuildLabeler()
     f = open("labels.csv", "w")
     f.write("labels,values\n")
-    
-    ab = open("abstract.csv", "w")
-    ab.write("labels,values\n")
-    ab.close(0)
-
     
     readFile = parser.Parser("VIPs_PMID_for_Rahul.txt", "mart_export.txt")
     ensemble_genes, HGNC_Parsing, connectors = readFile.ReadFile()
