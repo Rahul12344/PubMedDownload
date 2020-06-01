@@ -27,7 +27,6 @@ class DownloadWorker(Thread):
         self.pipe = pipe
         self.q = q
         self.valid_ids = HGNC_Parsing
-        self.f = f
         self.abstract_labels = abstract_labels
         self.file_labels = file_labels
         
