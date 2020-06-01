@@ -37,9 +37,11 @@ def Query(uid, set_of_valid_ids, abstract_labels, file_labels):
         if uid in set_of_valid_ids:
             abstract_labels[1].append(output)
             file_labels[1].append(uid)
+            print(abstract_labels)
         else:
             abstract_labels[0].append(output)
             file_labels[0].append(uid)
+            print(abstract_labels)
         f = open("{0}.txt".format(str(uid)), "w")
         f.write(r.text)
         f.close()
