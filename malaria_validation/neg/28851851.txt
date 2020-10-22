@@ -1,0 +1,56 @@
+
+1. mBio. 2017 Aug 29;8(4). pii: e01298-17. doi: 10.1128/mBio.01298-17.
+
+Multifunctional Involvement of a C2H2 Zinc Finger Protein (PbZfp) in Malaria
+Transmission, Histone Modification, and Susceptibility to DNA Damage Response.
+
+Gopalakrishnan AM(1), Aly ASI(1), Aravind L(2), Kumar N(3).
+
+Author information: 
+(1)Department of Tropical Medicine, School of Public Health and Tropical
+Medicine, Vector-Borne Infectious Diseases Research Center, Tulane University,
+New Orleans, Louisiana, USA.
+(2)National Center for Biotechnology Information, NIH, Bethesda, Maryland, USA.
+(3)Department of Tropical Medicine, School of Public Health and Tropical
+Medicine, Vector-Borne Infectious Diseases Research Center, Tulane University,
+New Orleans, Louisiana, USA nkumar@tulane.edu.
+
+In sexually reproducing organisms, meiosis is an essential step responsible for
+generation of haploid gametes from diploid somatic cells. The quest for
+understanding regulatory mechanisms of meiotic recombination in Plasmodium led to
+identification of a gene encoding a protein that contains 11 copies of C2H2 zinc 
+fingers (ZnF). Reverse genetic approaches were used to create Plasmodium berghei 
+parasites either lacking expression of full-length Plasmodium berghei zinc finger
+protein (PbZfp) (knockout [KO]) or expressing PbZfp lacking C-terminal zinc
+finger region (truncated [Trunc]). Mice infected with KO parasites survived two
+times longer (P < 0.0001) than mice infected with wild-type (WT) parasites. In
+mosquito transmission experiments, the infectivity of KO and Trunc parasites was 
+severely compromised (>95% oocyst reduction). KO parasites revealed a total lack 
+of trimethylation of histone 3 at several lysine residues (K4, K27, and K36)
+without any effect on acetylation patterns (H3K9, H3K14, and H4K16). Reduced DNA 
+damage and reduced expression of topoisomerase-like Spo11 in the KO parasites
+with normal Rad51 expression further suggest a functional role for PbZfp during
+genetic recombination that involves DNA double-strand break (DSB) formation
+followed by DNA repair. These finding raise the possibility of some convergent
+similarities of PbZfp functions to functions of mammalian PRDM9, also a C2H2 ZnF 
+protein with histone 3 lysine 4 (H3K4) methyltransferase activity. These
+functions include the major role played by the latter in binding recombination
+hotspots in the genome during meiosis and trimethylation of the associated
+histones and subsequent chromatin recruitment of topoisomerase-like Spo11 to
+catalyze DNA DSB formation and DMC1/Rad51-mediated DNA repair and homologous
+recombination.IMPORTANCE Malaria parasites are haploid throughout their life
+cycle except for a brief time period when zygotes are produced as a result of
+fertilization between male and female gametes during transmission through the
+mosquito vector. The reciprocal recombination events that follow zygote formation
+ensure orderly segregation of homologous chromosomes during meiosis, creating
+genetic diversity among offspring. Studies presented in the current manuscript
+identify a novel C2H2 ZnF-containing protein exhibiting multifunctional roles in 
+parasite virulence, mosquito transmission, and homologous recombination during
+meiosis. Understanding the transmission biology of malaria will result in the
+identification of novel targets for transmission-blocking intervention
+approaches.
+
+DOI: 10.1128/mBio.01298-17 
+PMCID: PMC5574716
+PMID: 28851851  [Indexed for MEDLINE]
+

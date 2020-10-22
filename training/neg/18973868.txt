@@ -1,0 +1,36 @@
+
+1. Genomics Proteomics Bioinformatics. 2008 Jun;6(2):121-8. doi:
+10.1016/S1672-0229(08)60027-3.
+
+Identification of microRNA precursors with support vector machine and string
+kernel.
+
+Xu JH(1), Li F, Sun QF.
+
+Author information: 
+(1)Department of Computer Science, Nanjing Normal University, Nanjing 210097,
+China. xujianhua@njnu.edu.cn
+
+MicroRNAs (miRNAs) are one family of short (21-23 nt) regulatory non-coding RNAs 
+processed from long (70-110 nt) miRNA precursors (pre-miRNAs). Identifying true
+and false precursors plays an important role in computational identification of
+miRNAs. Some numerical features have been extracted from precursor sequences and 
+their secondary structures to suit some classification methods; however, they may
+lose some usefully discriminative information hidden in sequences and structures.
+In this study, pre-miRNA sequences and their secondary structures are directly
+used to construct an exponential kernel based on weighted Levenshtein distance
+between two sequences. This string kernel is then combined with support vector
+machine (SVM) for detecting true and false pre-miRNAs. Based on 331 training
+samples of true and false human pre-miRNAs, 2 key parameters in SVM are selected 
+by 5-fold cross validation and grid search, and 5 realizations with different
+5-fold partitions are executed. Among 16 independent test sets from 3 human, 8
+animal, 2 plant, 1 virus, and 2 artificially false human pre-miRNAs, our method
+statistically outperforms the previous SVM-based technique on 11 sets, including 
+3 human, 7 animal, and 1 false human pre-miRNAs. In particular, premiRNAs with
+multiple loops that were usually excluded in the previous work are correctly
+identified in this study with an accuracy of 92.66%.
+
+DOI: 10.1016/S1672-0229(08)60027-3 
+PMCID: PMC5054094
+PMID: 18973868  [Indexed for MEDLINE]
+

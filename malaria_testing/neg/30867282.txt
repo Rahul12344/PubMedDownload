@@ -1,0 +1,41 @@
+
+1. Proc Natl Acad Sci U S A. 2019 Mar 26;116(13):6244-6249. doi:
+10.1073/pnas.1810239116. Epub 2019 Mar 13.
+
+Fractional coalescent.
+
+Mashayekhi S(1), Beerli P(2).
+
+Author information: 
+(1)Department of Scientific Computing, Florida State University, Tallahassee, FL 
+32306 smashayekhi@fsu.edu.
+(2)Department of Scientific Computing, Florida State University, Tallahassee, FL 
+32306.
+
+An approach to the coalescent, the fractional coalescent (f-coalescent), is
+introduced. The derivation is based on the discrete-time Cannings population
+model in which the variance of the number of offspring depends on the parameter
+α. This additional parameter α affects the variability of the patterns of the
+waiting times; values of [Formula: see text] lead to an increase of short time
+intervals, but occasionally allow for very long time intervals. When [Formula:
+see text], the f-coalescent and the Kingman's n-coalescent are equivalent. The
+distribution of the time to the most recent common ancestor and the probability
+that n genes descend from m ancestral genes in a time interval of length T for
+the f-coalescent are derived. The f-coalescent has been implemented in the
+population genetic model inference software Migrate Simulation studies suggest
+that it is possible to accurately estimate α values from data that were generated
+with known α values and that the f-coalescent can detect potential environmental 
+heterogeneity within a population. Bayes factor comparisons of simulated data
+with [Formula: see text] and real data (H1N1 influenza and malaria parasites)
+showed an improved model fit of the f-coalescent over the n-coalescent. The
+development of the f-coalescent and its inclusion into the inference program
+Migrate facilitates testing for deviations from the n-coalescent.
+
+Copyright © 2019 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.1810239116 
+PMCID: PMC6442577
+PMID: 30867282  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

@@ -1,0 +1,46 @@
+
+1. J Biomol Struct Dyn. 2019 Jan;37(1):131-146. doi: 10.1080/07391102.2017.1420489. 
+Epub 2018 Jan 7.
+
+Molecular docking, QSAR and ADMET based mining of natural compounds against prime
+targets of HIV.
+
+Vora J(1)(2), Patel S(3), Sinha S(1), Sharma S(1), Srivastava A(1), Chhabria
+M(3), Shrivastava N(1).
+
+Author information: 
+(1)a Department of Pharmacognosy and Phytochemistry , B. V. Patel Pharmaceutical 
+Education and Research Development (PERD) Centre , Ahmedabad , Gujarat , India.
+(2)b Department of Life science, School of Science , Gujarat University ,
+Ahmedabad , Gujarat , India.
+(3)c Department of Pharmaceutical Chemistry , L.M. College of Pharmacy ,
+Navrangpura, Ahmedabad , Gujarat , India.
+
+AIDS is one of the multifaceted diseases and this underlying complexity hampers
+its complete cure. The toxicity of existing drugs and emergence of
+multidrug-resistant virus makes the treatment worse. Development of effective,
+safe and low-cost anti-HIV drugs is among the top global priority. Exploration of
+natural resources may give ray of hope to develop new anti-HIV leads. Among the
+various therapeutic targets for HIV treatment, reverse transcriptase, protease,
+integrase, GP120, and ribonuclease are the prime focus. In the present study, we 
+predicted potential plant-derived natural molecules for HIV treatment using
+computational approach, i.e. molecular docking, quantitative structure activity
+relationship (QSAR), and ADMET studies. Receptor-ligand binding studies were
+performed using three different software for precise prediction - Discovery
+studio 4.0, Schrodinger and Molegrow virtual docker. Docking scores revealed that
+Mulberrosides, Anolignans, Curcumin and Chebulic acid are promising candidates
+that bind with multi targets of HIV, while Neo-andrographolide, Nimbolide and
+Punigluconin were target-specific candidates. Subsequently, QSAR was performed
+using biologically proved compounds which predicted the biological activity of
+compounds. We identified Anolignans, Curcumin, Mulberrosides, Chebulic acid and
+Neo-andrographolide as potential natural molecules for HIV treatment from results
+of molecular docking and 3D-QSAR. In silico ADMET studies showed drug-likeness of
+these lead molecules. Structure similarities of identified lead molecules were
+compared with identified marketed drugs by superimposing both the molecules.
+Using in silico studies, we have identified few best fit molecules of natural
+origin against identified targets which may give new drugs to combat HIV
+infection after wet lab validation.
+
+DOI: 10.1080/07391102.2017.1420489 
+PMID: 29268664  [Indexed for MEDLINE]
+

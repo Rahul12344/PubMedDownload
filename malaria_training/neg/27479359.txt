@@ -1,0 +1,47 @@
+
+1. Proteins. 2016 Nov;84(11):1658-1669. doi: 10.1002/prot.25107. Epub 2016 Aug 13.
+
+Role of W181 in modulating kinetic properties of Plasmodium falciparum
+hypoxanthine guanine xanthine phosphoribosyltransferase.
+
+Roy S(1), Karmakar T(2), Nagappa LK(1), Prahlada Rao VS(1), Balasubramanian S(3),
+Balaram H(4).
+
+Author information: 
+(1)Molecular Biology and Genetics Unit, Jawaharlal Nehru Centre for Advanced
+Scientific Research, Jakkur, Bangalore, 560064, India.
+(2)Chemistry and Physics of Materials Unit, Jawaharlal Nehru Centre for Advanced 
+Scientific Research, Jakkur, Bangalore, 560064, India.
+(3)Chemistry and Physics of Materials Unit, Jawaharlal Nehru Centre for Advanced 
+Scientific Research, Jakkur, Bangalore, 560064, India. bala@jncasr.ac.in.
+(4)Molecular Biology and Genetics Unit, Jawaharlal Nehru Centre for Advanced
+Scientific Research, Jakkur, Bangalore, 560064, India. hb@jncasr.ac.in.
+
+Hypoxanthine-guanine-xanthine phosphoribosyltransference (HGXPRT), a key enzyme
+in the purine salvage pathway of the malarial parasite, Plasmodium falciparum
+(Pf), catalyses the conversion of hypoxanthine, guanine, and xanthine to their
+corresponding mononucleotides; IMP, GMP, and XMP, respectively. Out of the five
+active site loops (I, II, III, III', and IV) in PfHGXPRT, loop III' facilitates
+the closure of the hood over the core domain which is the penultimate step during
+enzymatic catalysis. PfHGXPRT mutants were constructed wherein Trp 181 in loop
+III' was substituted with Ser, Thr, Tyr, and Phe. The mutants (W181S, W181Y and
+W181F), when examined for xanthine phosphoribosylation activity, showed an
+increase in Km for PRPP by 2.1-3.4 fold under unactivated condition and a
+decrease in catalytic efficiency by more than 5-fold under activated condition as
+compared to that of the wild-type enzyme. The W181T mutant showed 10-fold reduced
+xanthine phosphoribosylation activity. Furthermore, molecular dynamics
+simulations of WT and in silico W181S/Y/F/T PfHGXPRT mutants bound to
+IMP.PPi.Mg2+ have been carried out to address the effect of the mutation of W181 
+on the overall dynamics of the systems and identify local changes in loop III'.
+Dynamic cross-correlation analyses show a communication between loop III' and the
+substrate binding site. Differential cross-correlation maps indicate altered
+communication among different regions in the mutants. Changes in the local
+contacts and hydrogen bonding between residue 181 with the nearby residues cause 
+altered substrate affinity and catalytic efficiency of the mutant enzymes.
+Proteins 2016; 84:1658-1669. © 2016 Wiley Periodicals, Inc.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/prot.25107 
+PMID: 27479359  [Indexed for MEDLINE]
+

@@ -1,0 +1,43 @@
+
+1. J Biol Chem. 2008 Aug 1;283(31):21686-92. doi: 10.1074/jbc.M710298200. Epub 2008 
+Jun 4.
+
+Assembly with the Cul4A-DDB1DCAF1 ubiquitin ligase protects HIV-1 Vpr from
+proteasomal degradation.
+
+Le Rouzic E(1), Morel M, Ayinde D, Belaïdouni N, Letienne J, Transy C,
+Margottin-Goguet F.
+
+Author information: 
+(1)Institut Cochin, Université Paris Descartes, Centre National de la Recherche
+Scientifique, UMR 8104, bâtiment Gustave Roussy, 27 rue du faubourg Saint
+Jacques, Paris, France.
+
+Many viruses subvert the host ubiquitin-proteasome system to optimize their life 
+cycle. We recently documented such a mechanism for the human immunodeficiency
+virus type 1 Vpr protein, which promotes cell cycle arrest by recruiting the
+DCAF1 adaptor of the Cul4A-DDB1 ubiquitin ligase, a finding now confirmed by
+several groups. Here we examined the impact of Cul4A-DDB1(DCAF1) on Vpr
+stability. We show that the Vpr(Q65R) mutant, which is defective in DCAF1
+binding, undergoes proteasome-mediated degradation at a higher rate than
+wild-type Vpr. DCAF1 overexpression stabilizes wild-type Vpr and leads to its
+cytoplasmic accumulation, whereas it has no effect on the Vpr(Q65R) mutant.
+Conversely, small interfering RNA-mediated silencing of DCAF1 decreases the
+steady state amount of the viral protein. Stabilization by DCAF1, which is
+conserved by Vpr species from human immunodeficiency virus type 2 and the SIVmac 
+strain, results in increased G(2) arrest and requires the presence of DDB1,
+indicating that it occurs through assembly of Vpr with a functional
+Cul4A-DDB1(DCAF1) complex. Furthermore, in human immunodeficiency virus type
+1-infected cells, the Vpr protein, issued from the incoming viral particle, is
+destabilized under DCAF1 or DDB1 silencing. Together with our previous findings, 
+our data suggest that Cul4A-DDB1(DCAF1) acts at a dual level by providing Vpr
+with the equipment for the degradation of specific host proteins and by
+counter-acting its proteasome targeting by another cellular E3 ubiquitin ligase. 
+This protection mechanism may represent an efficient way to optimize the activity
+of Vpr molecules that are delivered by the incoming virus before neosynthesis
+takes place. Targeting the Vpr-DCAF1 interaction might therefore present
+therapeutic interest.
+
+DOI: 10.1074/jbc.M710298200 
+PMID: 18524771  [Indexed for MEDLINE]
+

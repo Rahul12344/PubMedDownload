@@ -1,0 +1,28 @@
+
+1. J Bacteriol. 1986 Nov;168(2):534-40.
+
+New locus (ttr) in Escherichia coli K-12 affecting sensitivity to bacteriophage
+T2 and growth on oleate as the sole carbon source.
+
+Morona R, Henning U.
+
+The nature of resistance to phage T2 in Escherichia coli K-12 was investigated by
+analyzing a known phage T2-resistant mutant and by isolating new T2-resistant
+mutants. It was found that mutational alterations at two loci, ompF (encoding the
+outer membrane protein OmpF) and ttr (T-two resistance), are needed to give full 
+resistance to phage T2. A ttr::Tn10 mutation was isolated and was mapped between 
+aroC and dsdA, where the fadL gene (required for long-chain fatty acid transport)
+is located. The receptor affected by ttr was the major receptor used by phage T2 
+and was located in the outer membrane. Phage T2 was thus able to use two outer
+membrane proteins as receptors. All strains having a ttr::Tn10 allele and most of
+the independently isolated phage T2-resistant mutants were unable to grow on
+oleate as the sole carbon and energy source, i.e., they had the phenotype of fadL
+mutants. The gene fadL is known to encode an inner membrane protein. The most
+likely explanation is that fadL and ttr are in an operon and that ttr encodes an 
+outer membrane protein which functions in translocating long-chain fatty acids
+across the outer membrane and also as a receptor for phage T2.
+
+DOI: 10.1128/jb.168.2.534-540.1986 
+PMCID: PMC213513
+PMID: 3536849  [Indexed for MEDLINE]
+

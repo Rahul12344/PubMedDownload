@@ -1,0 +1,39 @@
+
+1. Insect Mol Biol. 2017 Jun;26(3):298-307. doi: 10.1111/imb.12294. Epub 2017 Feb 9.
+
+Single molecule RNA sequencing uncovers trans-splicing and improves annotations
+in Anopheles stephensi.
+
+Jiang X(1)(2)(3), Hall AB(1)(3), Biedler JK(1)(2), Tu Z(1)(2)(3).
+
+Author information: 
+(1)Program in Genetics Bioinformatics and Computational Biology, Virginia Tech,
+Blacksburg, VA, USA.
+(2)Department of Biochemistry, Virginia Tech, Blacksburg, VA, USA.
+(3)Fralin Life Science Institute, Virginia Tech, Blacksburg, VA, USA.
+
+Single molecule real-time (SMRT) sequencing has recently been used to obtain
+full-length cDNA sequences that improve genome annotation and reveal RNA
+isoforms. Here, we used one such method called isoform sequencing from Pacific
+Biosciences (PacBio) to sequence a cDNA library from the Asian malaria mosquito
+Anopheles stephensi. More than 600 000 full-length cDNAs, referred to as reads of
+insert, were identified. Owing to the inherently high error rate of PacBio
+sequencing, we tested different approaches for error correction. We found that
+error correction using Illumina RNA sequencing (RNA-seq) generated more data than
+using the default SMRT pipeline. The full-length error-corrected PacBio reads
+greatly improved the gene annotation of Anopheles stephensi: 4867 gene models
+were updated and 1785 alternatively spliced isoforms were added to the
+annotation. In addition, six trans-splicing events, where exons from different
+primary transcripts were joined together, were identified in An. stephensi. All
+six trans-splicing events appear to be conserved in Culicidae, as they are also
+found in Anopheles gambiae and Aedes aegypti. The proteins encoded by
+trans-splicing events are also highly conserved and the orthologues of these
+proteins are cis-spliced in outgroup species, indicating that trans-splicing may 
+arise as a mechanism to rescue genes that broke up during evolution.
+
+© 2017 The Royal Entomological Society.
+
+DOI: 10.1111/imb.12294 
+PMCID: PMC5718059
+PMID: 28181326  [Indexed for MEDLINE]
+

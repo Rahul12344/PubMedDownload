@@ -1,0 +1,39 @@
+
+1. J Virol. 2007 Dec;81(24):13801-8. Epub 2007 Oct 17.
+
+Protective immunity to pseudomonas aeruginosa induced with a capsid-modified
+adenovirus expressing P. aeruginosa OprF.
+
+Worgall S(1), Krause A, Qiu J, Joh J, Hackett NR, Crystal RG.
+
+Author information: 
+(1)Department of Genetic Medicine, Weill Medical College of Cornell University,
+New York, New York 10021, USA. geneticmedicine@med.cornell.edu
+
+This study focuses on the development of a new clinical vaccine candidate
+(AdOprF.RGD.Epi8) against Pseudomonas aeruginosa using an E1(-) E3(-) adenovirus 
+(Ad) vector expressing OprF (AdOprF.RGD.Epi8) and modifications of the Ad genome 
+providing two capsid changes: (i) modification of the Ad hexon gene to
+incorporate an immune-dominant OprF epitope (Epi8) into loop 1 of the hexon,
+enabling repeat administration to boost the anti-OprF immune response, and (ii)
+modification of the fiber gene to incorporate an integrin-binding RGD sequence to
+enhance gene delivery to antigen-presenting cells. Western analysis confirmed
+that AdOprF.RGD.Epi8 expresses OprF, contains Epi8 in the hexon protein, and
+enhances gene transfer to dendritic cells compared to AdOprF, a comparable Ad
+vector expressing OprF with an unmodified capsid. Intramuscular immunization of
+C57BL/6 mice with AdOprF.RGD.Epi8 resulted in the generation of anti-OprF
+antibodies at comparable levels to those induced following immunization with
+AdOprF, but immunization with AdOprF.RGD.Epi8 was associated with increased CD4
+and CD8 gamma interferon T-cell responses against OprF as well as increased
+survival against lethal pulmonary challenge with agar-encapsulated P. aeruginosa.
+Importantly, repeat administration of AdOprF.RGD.Epi8 resulted in boosting of the
+humoral anti-OprF response as well as increased protection, whereas no boosting
+could be achieved with repeat administration of AdOprF. This suggests that the
+capsid-modified AdOprF.RGD.Epi8 vector is a more effective immunogen compared to 
+a comparable wild-type Ad capsid, making it a good candidate for an anti-P.
+aeruginosa vaccine.
+
+DOI: 10.1128/JVI.01246-07 
+PMCID: PMC2168865
+PMID: 17942539  [Indexed for MEDLINE]
+

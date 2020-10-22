@@ -1,0 +1,55 @@
+
+1. Proc Natl Acad Sci U S A. 2018 Jul 10;115(28):7404-7409. doi:
+10.1073/pnas.1801737115. Epub 2018 Jun 28.
+
+Targeting the IL33-NLRP3 axis improves therapy for experimental cerebral malaria.
+
+Strangward P(1), Haley MJ(1), Albornoz MG(1), Barrington J(1), Shaw T(1), Dookie 
+R(1), Zeef L(1), Baker SM(1), Winter E(1), Tzeng TC(2), Golenbock DT(2),
+Cruickshank SM(1), Allan SM(1), Craig A(3), Liew FY(4)(5), Brough D(6), Couper
+KN(6).
+
+Author information: 
+(1)School of Biological Sciences, Faculty of Biology, Medicine, and Health,
+Manchester Academic Health Science Centre, University of Manchester, Manchester
+M13 9PT, United Kingdom.
+(2)Division of Infectious Diseases and Immunology, University of Massachusetts
+Medical School, Worcester, MA 01605.
+(3)Department of Parasitology, Liverpool School of Tropical Medicine, Liverpool
+L3 5QA, United Kingdom.
+(4)Department of Immunology, Institute of Infection, Immunity, and Inflammation, 
+University of Glasgow, Glasgow G12 8TA, United Kingdom.
+(5)School of Biology and Basic Medical Sciences, Soochow University, 215006
+Suzhou, China.
+(6)School of Biological Sciences, Faculty of Biology, Medicine, and Health,
+Manchester Academic Health Science Centre, University of Manchester, Manchester
+M13 9PT, United Kingdom; david.brough@manchester.ac.uk
+kevin.couper@manchester.ac.uk.
+
+Cerebral malaria (CM) is a serious neurological complication caused by Plasmodium
+falciparum infection. Currently, the only treatment for CM is the provision of
+antimalarial drugs; however, such treatment by itself often fails to prevent
+death or development of neurological sequelae. To identify potential improved
+treatments for CM, we performed a nonbiased whole-brain transcriptomic
+time-course analysis of antimalarial drug chemotherapy of murine experimental CM 
+(ECM). Bioinformatics analyses revealed IL33 as a critical regulator of
+neuroinflammation and cerebral pathology that is down-regulated in the brain
+during fatal ECM and in the acute period following treatment of ECM. Consistent
+with this, administration of IL33 alongside antimalarial drugs significantly
+improved the treatment success of established ECM. Mechanistically, IL33
+treatment reduced inflammasome activation and IL1β production in microglia and
+intracerebral monocytes in the acute recovery period following treatment of ECM. 
+Moreover, treatment with the NLRP3-inflammasome inhibitor MCC950 alongside
+antimalarial drugs phenocopied the protective effect of IL33 therapy in improving
+the recovery from established ECM. We further showed that IL1β release from
+macrophages was stimulated by hemozoin and antimalarial drugs and that this was
+inhibited by MCC950. Our results therefore demonstrate that manipulation of the
+IL33-NLRP3 axis may be an effective therapy to suppress neuroinflammation and
+improve the efficacy of antimalarial drug treatment of CM.
+
+DOI: 10.1073/pnas.1801737115 
+PMCID: PMC6048513
+PMID: 29954866  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

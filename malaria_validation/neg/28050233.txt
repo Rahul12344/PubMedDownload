@@ -1,0 +1,53 @@
+
+1. Genes Cancer. 2016 Sep;7(9-10):323-339. doi: 10.18632/genesandcancer.118.
+
+Signaling transcript profile of the asexual intraerythrocytic development cycle
+of Plasmodium falciparum induced by melatonin and cAMP.
+
+Lima WR(#)(1)(2), Tessarin-Almeida G(#)(1), Rozanski A(3), Parreira KS(4), Moraes
+MS(1), Martins DC(5), Hashimoto RF(6), Galante PAF(3), Garcia CRS(1).
+
+Author information: 
+(1)Departamento de Fisiologia, Instituto de Biociências, Universidade de Sao
+Paulo, Sao Paulo, Brazil.
+(2)Instituto de Ciências Exatas e Naturais (ICEN)- Medicina, Universidade Federal
+do Mato Grosso - Campus Rondonópolis, Brazil.
+(3)Centro de Oncologia Molecular, Hospital Sírio-Libanês, Sao Paulo, Brazil.
+(4)Departamento de Imunologia e Parasitologia, Instituto de Ciências Biomédicas, 
+Universidade Federal de Uberlândia, Brazil.
+(5)Centro de Matemática, Computação e Cognição, Universidade Federal do ABC, São 
+Paulo, Brazil.
+(6)Departamento de Ciência da Computação, Instituto de Matemática e Estatística, 
+Universidade de São Paulo, São Paulo, Brazil.
+(#)Contributed equally
+
+According to the World Health Organization (WHO), Plasmodium falciparum is the
+deadliest parasite among all species. This parasite possesses the ability to
+sense molecules, including melatonin (MEL) and cAMP, and modulate its cell cycle 
+accordingly. MEL synchronizes the development of this malaria parasite by
+activating several cascades, including the generation of the second messenger
+cAMP. Therefore, we performed RNA sequencing (RNA-Seq) analysis in P. falciparum 
+erythrocytic stages (ring, trophozoite and schizont) treated with MEL and cAMP.
+To investigate the expression profile of P. falciparum genes regulated by MEL and
+cAMP, we performed RNA-Seq analysis in three P. falciparum strains (control, 3D7;
+protein kinase 7 knockout, PfPK7-; and PfPK7 complement, PfPK7C). In the 3D7
+strain, 38 genes were differentially expressed upon MEL treatment; however, none 
+of the genes in the trophozoite (T) stage PfPK7- knockout parasites were
+differentially expressed upon MEL treatment for 5 hours compared to untreated
+controls, suggesting that PfPK7 may be involved in the signaling leading to
+differential gene expression. Moreover, we found that MEL modified the mRNA
+expression of genes encoding membrane proteins, zinc ion-binding proteins and
+nucleic acid-binding proteins, which might influence numerous functions in the
+parasite. The RNA-Seq data following treatment with cAMP show that this molecule 
+modulates different genes throughout the intraerythrocytic cycle, namely, 75, 101
+and 141 genes, respectively, in the ring (R), T and schizont (S) stages. Our
+results highlight P. falciparum's perception of the external milieu through the
+signaling molecules MEL and cAMP, which are able to drive to changes in gene
+expression in the parasite.
+
+DOI: 10.18632/genesandcancer.118 
+PMCID: PMC5115173
+PMID: 28050233 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

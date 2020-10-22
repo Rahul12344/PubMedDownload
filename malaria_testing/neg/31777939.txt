@@ -1,0 +1,52 @@
+
+1. Nucleic Acids Res. 2020 Jan 10;48(1):184-199. doi: 10.1093/nar/gkz1093.
+
+Discovery of a new predominant cytosine DNA modification that is linked to gene
+expression in malaria parasites.
+
+Hammam E(1)(2)(3)(4), Ananda G(5), Sinha A(6)(7), Scheidig-Benatar C(1)(2)(3),
+Bohec M(8), Preiser PR(6)(7), Dedon PC(6)(9), Scherf A(1)(2)(3), Vembar
+SS(1)(2)(3).
+
+Author information: 
+(1)Institut Pasteur, 75015 Paris, France.
+(2)CNRS ERL9195, 75015 Paris, France.
+(3)INSERM U1201, 75015 Paris, France.
+(4)Sorbonne Université, Ecole doctorale Complexité du Vivant ED515, F-75005
+Paris, France.
+(5)The Jackson Laboratory for Genomic Medicine, Farmington, CT 06032, USA.
+(6)Antimicrobial Resistance Interdisciplinary Research Group, Singapore-MIT
+Alliance for Research and Technology, Singapore 138602, Singapore.
+(7)School of Biological Sciences, Nanyang Technological University, Singapore
+637551, Singapore.
+(8)Institut Curie Genomics of Excellence (ICGex) Platform, Institut Curie
+Research Center, 75005 Paris, France.
+(9)Department of Biological Engineering, Massachusetts Institute of Technology,
+Cambridge, MA 02139, USA.
+
+DNA cytosine modifications are key epigenetic regulators of cellular processes in
+mammalian cells, with their misregulation leading to varied disease states. In
+the human malaria parasite Plasmodium falciparum, a unicellular eukaryotic
+pathogen, little is known about the predominant cytosine modifications, cytosine 
+methylation (5mC) and hydroxymethylation (5hmC). Here, we report the first
+identification of a hydroxymethylcytosine-like (5hmC-like) modification in P.
+falciparum asexual blood stages using a suite of biochemical methods. In contrast
+to mammalian cells, we report 5hmC-like levels in the P. falciparum genome of
+0.2-0.4%, which are significantly higher than the methylated cytosine (mC) levels
+of 0.01-0.05%. Immunoprecipitation of hydroxymethylated DNA followed by next
+generation sequencing (hmeDIP-seq) revealed that 5hmC-like modifications are
+enriched in gene bodies with minimal dynamic changes during asexual development. 
+Moreover, levels of the 5hmC-like base in gene bodies positively correlated to
+transcript levels, with more than 2000 genes stably marked with this modification
+throughout asexual development. Our work highlights the existence of a new
+predominant cytosine DNA modification pathway in P. falciparum and opens up
+exciting avenues for gene regulation research and the development of
+antimalarials.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkz1093 
+PMCID: PMC6943133
+PMID: 31777939  [Indexed for MEDLINE]
+

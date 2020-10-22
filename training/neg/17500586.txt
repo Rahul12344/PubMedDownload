@@ -1,0 +1,42 @@
+
+1. PLoS Comput Biol. 2007 May;3(5):e87.
+
+HIV-1 subtype B protease and reverse transcriptase amino acid covariation.
+
+Rhee SY(1), Liu TF, Holmes SP, Shafer RW.
+
+Author information: 
+(1)Division of Infectious Diseases, Department of Medicine, Stanford University, 
+Stanford, California, United States of America.
+
+Despite the high degree of HIV-1 protease and reverse transcriptase (RT) mutation
+in the setting of antiretroviral therapy, the spectrum of possible virus variants
+appears to be limited by patterns of amino acid covariation. We analyzed patterns
+of amino acid covariation in protease and RT sequences from more than 7,000
+persons infected with HIV-1 subtype B viruses obtained from the Stanford HIV Drug
+Resistance Database (http://hivdb.stanford.edu). In addition, we examined the
+relationship between conditional probabilities associated with a pair of
+mutations and the order in which those mutations developed in viruses for which
+longitudinal sequence data were available. Patterns of RT covariation were
+dominated by the distinct clustering of Type I and Type II thymidine analog
+mutations and the Q151M-associated mutations. Patterns of protease covariation
+were dominated by the clustering of nelfinavir-associated mutations (D30N and
+N88D), two main groups of protease inhibitor (PI)-resistance mutations associated
+either with V82A or L90M, and a tight cluster of mutations associated with
+decreased susceptibility to amprenavir and the most recently approved PI
+darunavir. Different patterns of covariation were frequently observed for
+different mutations at the same position including the RT mutations T69D versus
+T69N, L74V versus L74I, V75I versus V75M, T215F versus T215Y, and K219Q/E versus 
+K219N/R, and the protease mutations M46I versus M46L, I54V versus I54M/L, and
+N88D versus N88S. Sequence data from persons with correlated mutations in whom
+earlier sequences were available confirmed that the conditional probabilities
+associated with correlated mutation pairs could be used to predict the order in
+which the mutations were likely to have developed. Whereas accessory nucleoside
+RT inhibitor-resistance mutations nearly always follow primary nucleoside RT
+inhibitor-resistance mutations, accessory PI-resistance mutations often preceded 
+primary PI-resistance mutations.
+
+DOI: 10.1371/journal.pcbi.0030087 
+PMCID: PMC1866358
+PMID: 17500586  [Indexed for MEDLINE]
+

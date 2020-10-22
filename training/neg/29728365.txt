@@ -1,0 +1,39 @@
+
+1. Genome Res. 2018 Jun;28(6):846-858. doi: 10.1101/gr.227280.117. Epub 2018 May 4.
+
+A CRISPR knockout screen identifies SETDB1-target retroelement silencing factors 
+in embryonic stem cells.
+
+Fukuda K(1), Okuda A(2), Yusa K(3), Shinkai Y(1).
+
+Author information: 
+(1)Cellular Memory Laboratory, Cluster for Pioneering Research, RIKEN, 2-1
+Hirosawa, Wako, Saitama 351-0198, Japan.
+(2)Division of Developmental Biology, Research Center for Genomic Medicine,
+Saitama Medical University, 1397-1 Yamane Hidaka Saitama 350-1241, Japan.
+(3)Wellcome Sanger Institute, Hinxton, Cambridge, CB10 1SA, United Kingdom.
+
+In mouse embryonic stem cells (mESCs), the expression of provirus and endogenous 
+retroelements is epigenetically repressed. Although many cellular factors
+involved in retroelement silencing have been identified, the complete molecular
+mechanism remains elusive. In this study, we performed a genome-wide CRISPR
+screen to advance our understanding of retroelement silencing in mESCs. The
+Moloney murine leukemia virus (MLV)-based retroviral vector MSCV-GFP, which is
+repressed by the SETDB1/TRIM28 pathway in mESCs, was used as a reporter provirus,
+and we identified more than 80 genes involved in this process. In particular,
+ATF7IP and the BAF complex components are linked with the repression of most of
+the SETDB1 targets. We characterized two factors, MORC2A and RESF1, of which
+RESF1 is a novel molecule in retroelement silencing. Although both factors are
+recruited to repress provirus, their roles in repression are different. MORC2A
+appears to function dependent on repressive epigenetic modifications, while RESF1
+regulates repressive epigenetic modifications associated with SETDB1. Our
+genome-wide CRISPR screen cataloged genes which function at different levels in
+silencing of SETDB1-target retroelements and provides a useful resource for
+further molecular studies.
+
+© 2018 Fukuda et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.227280.117 
+PMCID: PMC5991520
+PMID: 29728365  [Indexed for MEDLINE]
+

@@ -1,0 +1,44 @@
+
+1. Parasit Vectors. 2014 Apr 1;7:159. doi: 10.1186/1756-3305-7-159.
+
+Identification and characterization of the expression profile of microRNAs in
+Anopheles anthropophagus.
+
+Liu W, Huang H, Xing C, Li C, Tan F, Liang S(1).
+
+Author information: 
+(1)Department of Parasitology, Wenzhou Medical University, Wenzhou, Zhejiang
+Province 325035, PR China. lsh@wmu.edu.cn.
+
+BACKGROUND: Anopheles anthropophagus, one of the most important mosquito-borne
+disease vectors in Asia, mainly takes blood meals from humans and transmits both 
+malaria and filariae. MicroRNAs (miRNAs) are small non-coding RNAs, and play a
+critical role in many cellular processes, including development, differentiation,
+apoptosis and innate immunity.
+METHODS: We investigated the global miRNA expression profile of male and female
+adults of A. anthropophagus using illumina Hiseq2000 sequencing combined with
+Northern blot.
+RESULTS: By using the miRNAs of the closely-related species Anopheles gambiae and
+Aedes aegypti as reference, we obtained 102 miRNAs candidates out of 12.43
+million raw sequencing reads for male and 16.51 million reads for female, with 81
+of them found as known miRNAs in An. gambiae and/or Ae. aegypti, and the
+remaining 21 miRNAs were considered as novel. By analyzing the revised read count
+of miRNAs in male and female, 29 known miRNAs show sexual difference expression: 
+>2-fold in the read count of the same miRNAs in male and female. Especially for
+miR-989, which is highly expressed in the female mosquitoes, but shows almost no 
+detected expression in male mosquitoes, indicating that miR-989 may be involved
+in the physiological activity of female mosquito adults. The expression of four
+miRNAs in different growth stages of mosquito were further identified by Northern
+blot. Several miRNAs show the stage-specific expression, of which miR-2943 only
+expressed in the egg stage, suggesting that miR-2943 may be associated with the
+development of mosquito eggs.
+CONCLUSIONS: The present study represents the first global characterization of
+An. anthropophagus miRNAs in sexual differences and stage-specific functions. A
+better understanding of the functions of these miRNAs will offer new insights in 
+mosquito biology and has implications for the effective control of mosquito-borne
+infectious diseases.
+
+DOI: 10.1186/1756-3305-7-159 
+PMCID: PMC4022070
+PMID: 24690438  [Indexed for MEDLINE]
+

@@ -1,0 +1,55 @@
+
+1. BMC Genomics. 2015 Nov 2;16:890. doi: 10.1186/s12864-015-2092-1.
+
+A bioinformatic survey of RNA-binding proteins in Plasmodium.
+
+Reddy BP(1), Shrestha S(1), Hart KJ(2), Liang X(1), Kemirembe K(1), Cui L(3),
+Lindner SE(4).
+
+Author information: 
+(1)Department of Entomology, Center for Malaria Research, Pennsylvania State
+University, 501 ASI Bldg, University Park, PA, 16802, USA.
+(2)Department of Biochemistry and Molecular Biology, Center for Malaria Research,
+Pennsylvania State University, W223 Millennium Science Complex, University Park, 
+PA, 16802, USA.
+(3)Department of Entomology, Center for Malaria Research, Pennsylvania State
+University, 501 ASI Bldg, University Park, PA, 16802, USA. Luc2@psu.edu.
+(4)Department of Biochemistry and Molecular Biology, Center for Malaria Research,
+Pennsylvania State University, W223 Millennium Science Complex, University Park, 
+PA, 16802, USA. Scott.Lindner@psu.edu.
+
+BACKGROUND: The malaria parasites in the genus Plasmodium have a very complicated
+life cycle involving an invertebrate vector and a vertebrate host. RNA-binding
+proteins (RBPs) are critical factors involved in every aspect of the development 
+of these parasites. However, very few RBPs have been functionally characterized
+to date in the human parasite Plasmodium falciparum.
+METHODS: Using different bioinformatic methods and tools we searched P.
+falciparum genome to list and annotate RBPs. A representative 3D models for each 
+of the RBD domain identified in P. falciparum was created using I-TESSAR and
+SWISS-MODEL. Microarray and RNAseq data analysis pertaining PfRBPs was performed 
+using MeV software. Finally, Cytoscape was used to create protein-protein
+interaction network for CITH-Dozi and Caf1-CCR4-Not complexes.
+RESULTS: We report the identification of 189 putative RBP genes belonging to 13
+different families in Plasmodium, which comprise 3.5% of all annotated genes.
+Almost 90% (169/189) of these genes belong to six prominent RBP classes, namely
+RNA recognition motifs, DEAD/H-box RNA helicases, K homology, Zinc finger, Puf
+and Alba gene families. Interestingly, almost all of the identified RNA-binding
+helicases and KH genes have cognate homologs in model species, suggesting their
+evolutionary conservation. Exploration of the existing P. falciparum blood-stage 
+transcriptomes revealed that most RBPs have peak mRNA expression levels early
+during the intraerythrocytic development cycle, which taper off in later stages. 
+Nearly 27% of RBPs have elevated expression in gametocytes, while 47 and 24% have
+elevated mRNA expression in ookinete and asexual stages. Comparative interactome 
+analyses using human and Plasmodium protein-protein interaction datasets suggest 
+extensive conservation of the PfCITH/PfDOZI and PfCaf1-CCR4-NOT complexes.
+CONCLUSIONS: The Plasmodium parasites possess a large number of putative RBPs
+belonging to most of RBP families identified so far, suggesting the presence of
+extensive post-transcriptional regulation in these parasites. Taken together, in 
+silico identification of these putative RBPs provides a foundation for future
+functional studies aimed at defining a unique network of post-transcriptional
+regulation in P. falciparum.
+
+DOI: 10.1186/s12864-015-2092-1 
+PMCID: PMC4630921
+PMID: 26525978  [Indexed for MEDLINE]
+

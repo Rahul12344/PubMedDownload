@@ -1,0 +1,75 @@
+
+1. Parasit Vectors. 2018 Mar 12;11(1):172. doi: 10.1186/s13071-018-2734-7.
+
+Analysis of microRNA profile of Anopheles sinensis by deep sequencing and
+bioinformatic approaches.
+
+Feng X(1)(2), Zhou X(3), Zhou S(4), Wang J(5), Hu W(6)(7).
+
+Author information: 
+(1)National Institute of Parasitic Diseases, Chinese Center for Disease Control
+and Prevention, Key Laboratory of Parasite and Vector Biology, National Health
+and Family Planning Commission, WHO Collaborating Center for Tropical Diseases,
+National Center for International Research on Tropical Diseases, Shanghai,
+200025, People's Republic of China.
+(2)Joint Research Laboratory of Genetics and Ecology on Parasites-hosts
+Interaction, National Institute of Parasitic Diseases - Fudan University,
+Shanghai, 200025, China.
+(3)Institute of Software Engineering, Zhejiang University, Hangzhou, 310011,
+China.
+(4)National Institute of Parasitic Diseases, Chinese Center for Disease Control
+and Prevention, Key Laboratory of Parasite and Vector Biology, National Health
+and Family Planning Commission, WHO Collaborating Center for Tropical Diseases,
+National Center for International Research on Tropical Diseases, Shanghai,
+200025, People's Republic of China. zss163@hotmail.com.
+(5)State Key Laboratory of Genetic Engineering, Ministry of Education Key
+Laboratory of Contemporary Anthropology, Collaborative Innovation Center for
+Genetics and Development, School of Life Sciences, Fudan University, Shanghai,
+200438, People's Republic of China. jingwenwang@fudan.edu.cn.
+(6)National Institute of Parasitic Diseases, Chinese Center for Disease Control
+and Prevention, Key Laboratory of Parasite and Vector Biology, National Health
+and Family Planning Commission, WHO Collaborating Center for Tropical Diseases,
+National Center for International Research on Tropical Diseases, Shanghai,
+200025, People's Republic of China. huwwyz@163.com.
+(7)State Key Laboratory of Genetic Engineering, Ministry of Education Key
+Laboratory of Contemporary Anthropology, Collaborative Innovation Center for
+Genetics and Development, School of Life Sciences, Fudan University, Shanghai,
+200438, People's Republic of China. huwwyz@163.com.
+
+BACKGROUND: microRNAs (miRNAs) are small non-coding RNAs widely identified in
+many mosquitoes. They are reported to play important roles in development,
+differentiation and innate immunity. However, miRNAs in Anopheles sinensis, one
+of the Chinese malaria mosquitoes, remain largely unknown.
+METHODS: We investigated the global miRNA expression profile of An. sinensis
+using Illumina Hiseq 2000 sequencing. Meanwhile, we applied a bioinformatic
+approach to identify potential miRNAs in An. sinensis. The identified miRNA
+profiles were compared and analyzed by two approaches. The selected miRNAs from
+the sequencing result and the bioinformatic approach were confirmed with qRT-PCR.
+Moreover, target prediction, GO annotation and pathway analysis were carried out 
+to understand the role of miRNAs in An. sinensis.
+RESULTS: We identified 49 conserved miRNAs and 12 novel miRNAs by next-generation
+high-throughput sequencing technology. In contrast, 43 miRNAs were predicted by
+the bioinformatic approach, of which two were assigned as novel. Comparative
+analysis of miRNA profiles by two approaches showed that 21 miRNAs were shared
+between them. Twelve novel miRNAs did not match any known miRNAs of any organism,
+indicating that they are possibly species-specific. Forty miRNAs were found in
+many mosquito species, indicating that these miRNAs are evolutionally conserved
+and may have critical roles in the process of life. Both the selected known and
+novel miRNAs (asi-miR-281, asi-miR-184, asi-miR-14, asi-miR-nov5, asi-miR-nov4,
+asi-miR-9383, and asi-miR-2a) could be detected by quantitative real-time PCR
+(qRT-PCR) in the sequenced sample, and the expression patterns of these miRNAs
+measured by qRT-PCR were in concordance with the original miRNA sequencing data. 
+The predicted targets for the known and the novel miRNAs covered many important
+biological roles and pathways indicating the diversity of miRNA functions. We
+also found 21 conserved miRNAs and eight counterparts of target immune pathway
+genes in An. sinensis based on the analysis of An. gambiae.
+CONCLUSIONS: Our results provide the first lead to the elucidation of the miRNA
+profile in An. sinensis. Unveiling the roles of mosquito miRNAs will undoubtedly 
+lead to a better understanding of mosquito biology and mosquito-pathogen
+interactions. This work lays the foundation for the further functional study of
+An. sinensis miRNAs and will facilitate their application in vector control.
+
+DOI: 10.1186/s13071-018-2734-7 
+PMCID: PMC5848538
+PMID: 29530087  [Indexed for MEDLINE]
+

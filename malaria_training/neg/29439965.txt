@@ -1,0 +1,53 @@
+
+1. Antimicrob Agents Chemother. 2018 Mar 27;62(4). pii: e02474-17. doi:
+10.1128/AAC.02474-17. Print 2018 Apr.
+
+Next-Generation Sequencing and Bioinformatics Protocol for Malaria Drug
+Resistance Marker Surveillance.
+
+Talundzic E(1), Ravishankar S(2), Kelley J(3), Patel D(4), Plucinski M(4),
+Schmedes S(4)(5), Ljolje D(3), Clemons B(6), Madison-Antenucci S(6), Arguin
+PM(4), Lucchi NW(4), Vannberg F(2), Udhayakumar V(4).
+
+Author information: 
+(1)Malaria Branch, Division of Parasitic Diseases and Malaria, Center for Global 
+Health, Centers for Disease Control and Prevention, Atlanta, Georgia, USA
+etalundzic@cdc.gov.
+(2)School of Biology, Georgia Institute of Technology, Atlanta, Georgia, USA.
+(3)Atlanta Research and Education Foundation, VAMC, Atlanta, Georgia, USA.
+(4)Malaria Branch, Division of Parasitic Diseases and Malaria, Center for Global 
+Health, Centers for Disease Control and Prevention, Atlanta, Georgia, USA.
+(5)Association of Public Health Laboratories, Silver Spring, Maryland, USA.
+(6)Parasitology Laboratory, Wadsworth Center, New York State Department of
+Health, Albany, New York, USA.
+
+The recent advances in next-generation sequencing technologies provide a new and 
+effective way of tracking malaria drug-resistant parasites. To take advantage of 
+this technology, an end-to-end Illumina targeted amplicon deep sequencing (TADS) 
+and bioinformatics pipeline for molecular surveillance of drug resistance in P.
+falciparum, called malaria resistance surveillance (MaRS), was developed. TADS
+relies on PCR enriching genomic regions, specifically target genes of interest,
+prior to deep sequencing. MaRS enables researchers to simultaneously collect data
+on allele frequencies of multiple full-length P. falciparum drug resistance genes
+(crt, mdr1, k13, dhfr, dhps, and the cytochrome b gene), as well as the
+mitochondrial genome. Information is captured at the individual patient level for
+both known and potential new single nucleotide polymorphisms associated with drug
+resistance. The MaRS pipeline was validated using 245 imported malaria cases that
+were reported to the Centers for Disease Control and Prevention (CDC). The
+chloroquine resistance crt CVIET genotype (mutations underlined) was observed in 
+42% of samples, the highly pyrimethamine-resistant dhpsIRN triple mutant in 92%
+of samples, and the sulfadoxine resistance dhps mutation SGEAA in 26% of samples.
+The mdr1 NFSND genotype was found in 40% of samples. With the exception of two
+cases imported from Cambodia, no artemisinin resistance k13 alleles were
+identified, and 99% of patients carried parasites susceptible to
+atovaquone-proguanil. Our goal is to implement MaRS at the CDC for routine
+surveillance of imported malaria cases in the United States and to aid in the
+adoption of this system at participating state public health laboratories, as
+well as by global partners.
+
+Copyright © 2018 American Society for Microbiology.
+
+DOI: 10.1128/AAC.02474-17 
+PMCID: PMC5913988
+PMID: 29439965  [Indexed for MEDLINE]
+

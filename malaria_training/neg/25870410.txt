@@ -1,0 +1,54 @@
+
+1. Nucleic Acids Res. 2015 May 19;43(9):4661-75. doi: 10.1093/nar/gkv311. Epub 2015 
+Apr 13.
+
+A serine-arginine-rich (SR) splicing factor modulates alternative splicing of
+over a thousand genes in Toxoplasma gondii.
+
+Yeoh LM(1), Goodman CD(2), Hall NE(3), van Dooren GG(4), McFadden GI(2), Ralph
+SA(5).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Bio21 Molecular Science and 
+Biotechnology Institute, The University of Melbourne, Parkville, Victoria 3010,
+Australia School of BioSciences, The University of Melbourne, Parkville, Victoria
+3010, Australia.
+(2)School of BioSciences, The University of Melbourne, Parkville, Victoria 3010, 
+Australia.
+(3)Department of Genetics, La Trobe Institute for Molecular Science, La Trobe
+University, Bundoora, Victoria 3086, Australia Life Sciences Computation Centre, 
+Victorian Life Sciences Computation Initiative, Carlton, Victoria 3010,
+Australia.
+(4)Research School of Biology, The Australian National University, Acton, ACT
+2601, Australia.
+(5)Department of Biochemistry and Molecular Biology, Bio21 Molecular Science and 
+Biotechnology Institute, The University of Melbourne, Parkville, Victoria 3010,
+Australia saralph@unimelb.edu.au.
+
+Single genes are often subject to alternative splicing, which generates
+alternative mature mRNAs. This phenomenon is widespread in animals, and observed 
+in over 90% of human genes. Recent data suggest it may also be common in
+Apicomplexa. These parasites have small genomes, and economy of DNA is
+evolutionarily favoured in this phylum. We investigated the mechanism of
+alternative splicing in Toxoplasma gondii, and have identified and localized
+TgSR3, a homologue of ASF/SF2 (alternative-splicing factor/splicing factor 2, a
+serine-arginine-rich, or SR protein) to a subnuclear compartment. In addition, we
+conditionally overexpressed this protein, which was deleterious to growth.
+qRT-PCR was used to confirm perturbation of splicing in a known
+alternatively-spliced gene. We performed high-throughput RNA-seq to determine the
+extent of splicing modulated by this protein. Current RNA-seq algorithms are
+poorly suited to compact parasite genomes, and hence we complemented existing
+tools by writing a new program, GeneGuillotine, that addresses this deficiency by
+segregating overlapping reads into distinct genes. In order to identify the
+extent of alternative splicing, we released another program, JunctionJuror, that 
+detects changes in intron junctions. Using this program, we identified about 2000
+genes that were constitutively alternatively spliced in T. gondii. Overexpressing
+the splice regulator TgSR3 perturbed alternative splicing in over 1000 genes.
+
+© The Author(s) 2015. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkv311 
+PMCID: PMC4482073
+PMID: 25870410  [Indexed for MEDLINE]
+

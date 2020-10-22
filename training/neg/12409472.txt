@@ -1,0 +1,49 @@
+
+1. Nucleic Acids Res. 2002 Nov 1;30(21):e113.
+
+Advanced modular self-inactivating lentiviral expression vectors for multigene
+interventions in mammalian cells and in vivo transduction.
+
+Mitta B(1), Rimann M, Ehrengruber MU, Ehrbar M, Djonov V, Kelm J, Fussenegger M.
+
+Author information: 
+(1)Institute of Biotechnology, Swiss Federal Institute of Technology, ETH Zurich,
+ETH Hoenggerberg, HPT, CH-8093 Zurich, Switzerland.
+
+In recent years, lentiviral expression systems have gained an unmatched
+reputation among the gene therapy community for their ability to deliver
+therapeutic transgenes into a wide variety of difficult-to-transfect/transduce
+target tissues (brain, hematopoietic system, liver, lung, retina) without
+eliciting significant humoral immune responses. We have cloned a construction
+kit-like self-inactivating lentiviral expression vector family which is
+compatible to state-of-the-art packaging and pseudotyping technologies and
+contains, besides essential cis-acting lentiviral sequences, (i) unparalleled
+polylinkers with up to 29 unique sites for restriction endonucleases, many of
+which recognize 8 bp motifs, (ii) strong promoters derived from the human
+cytomegalovirus immediate-early promoter (P(hCMV)) or the human elongation factor
+1alpha (P(hEF1)(alpha)), (iii) P(hCMV-) or P(PGK-) (phosphoglycerate kinase
+promoter) driven G418 resistance markers or fluorescent protein-based expression 
+tracers and (iv) tricistronic expression cassettes for coordinated expression of 
+up to three transgenes. In addition, we have designed a size-optimized series of 
+highly modular lentiviral expression vectors (pLenti Module) which contain,
+besides the extensive central polylinker, unique restriction sites flanking any
+of the 5'U3, R-U5-psi+-SD, cPPT-RRE-SA and 3'LTR(DeltaU3) modules or placed
+within the 5'U3 (-78 bp) and 3'LTR(DeltaU3) (8666 bp). pLentiModule enables
+straightforward cassette-type module swapping between lentiviral expression
+vector family members and facilitates the design of Tat-independent (replacement 
+of 5'LTR by heterologous promoter elements), regulated and self-excisable
+proviruses (insertion of responsive operators or LoxP in the 3'LTR(DeltaU3)
+element). We have validated our lentiviral expression vectors by transduction of 
+a variety of insect, chicken, murine and human cell lines as well as adult rat
+cardiomyocytes, rat hippocampal slices and chicken embryos. The novel
+multi-purpose construction kit-like vector series described here is compatible
+with itself as well as many other (non-viral) mammalian expression vectors for
+straightforward exchange of key components (e.g. promoters, LTRs, resistance
+genes) and will assist the gene therapy and tissue engineering communities in
+developing lentiviral expression vectors tailored for optimal treatment of
+prominent human diseases.
+
+DOI: 10.1093/nar/gnf112 
+PMCID: PMC135834
+PMID: 12409472  [Indexed for MEDLINE]
+

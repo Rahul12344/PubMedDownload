@@ -1,0 +1,34 @@
+
+1. Cell Mol Immunol. 2014 Jan;11(1):49-57. doi: 10.1038/cmi.2013.40. Epub 2013 Sep
+16.
+
+The interaction between the helicase DHX33 and IPS-1 as a novel pathway to sense 
+double-stranded RNA and RNA viruses in myeloid dendritic cells.
+
+Liu Y(1), Lu N(2), Yuan B(2), Weng L(3), Wang F(1), Liu YJ(3), Zhang Z(3).
+
+Author information: 
+(1)Department of Infectious Diseases, The First Hospital, Jilin University,
+Changchun, China.
+(2)Department of Immunology, Center for Cancer Immunology Research, University of
+Texas MD Anderson Cancer Center, Houston, TX, USA.
+(3)Baylor Institute for Immunology Research, Baylor Research Institute, Dallas,
+TX, USA.
+
+In eukaryotes, there are at least 60 members of the DExD/H helicase family, many 
+of which are able to sense viral nucleic acids. By screening all known family
+members, we identified the helicase DHX33 as a novel double-stranded RNA (dsRNA) 
+sensor in myeloid dendritic cells (mDCs). The knockdown of DHX33 using small
+heteroduplex RNA (shRNA) blocked the ability of mDCs to produce type I interferon
+(IFN) in response to poly I:C and reovirus. The HELICc domain of DHX33 was shown 
+to bind poly I:C. The interaction between DHX33 and IPS-1 is mediated by the
+HELICc region of DHX33 and the C-terminal domain of IPS-1 (also referred to MAVS 
+and VISA). The inhibition of DHX33 expression by RNA interference blocked the
+poly I:C-induced activation of MAP kinases, NF-κB and IRF3. The interaction
+between the helicase DHX33 and IPS-1 was independent of RIG-I/MDA5 and may be a
+novel pathway for sensing poly I:C and RNA viruses in mDCs.
+
+DOI: 10.1038/cmi.2013.40 
+PMCID: PMC4002151
+PMID: 24037184  [Indexed for MEDLINE]
+

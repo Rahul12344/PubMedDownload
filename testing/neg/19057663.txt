@@ -1,0 +1,29 @@
+
+1. PLoS Pathog. 2008 Dec;4(12):e1000231. doi: 10.1371/journal.ppat.1000231. Epub
+2008 Dec 5.
+
+APOBEC3G inhibits elongation of HIV-1 reverse transcripts.
+
+Bishop KN(1), Verma M, Kim EY, Wolinsky SM, Malim MH.
+
+Author information: 
+(1)Department of Infectious Diseases, King's College London School of Medicine,
+Guy's Hospital, London, United Kingdom.
+
+APOBEC3G (A3G) is a host cytidine deaminase that, in the absence of Vif,
+restricts HIV-1 replication and reduces the amount of viral DNA that accumulates 
+in cells. Initial studies determined that A3G induces extensive mutation of
+nascent HIV-1 cDNA during reverse transcription. It has been proposed that this
+triggers the degradation of the viral DNA, but there is now mounting evidence
+that this mechanism may not be correct. Here, we use a natural endogenous reverse
+transcriptase assay to show that, in cell-free virus particles, A3G is able to
+inhibit HIV-1 cDNA accumulation not only in the absence of hypermutation but also
+without the apparent need for any target cell factors. We find that although
+reverse transcription initiates in the presence of A3G, elongation of the cDNA
+product is impeded. These data support the model that A3G reduces HIV-1 cDNA
+levels by inhibiting synthesis rather than by inducing degradation.
+
+DOI: 10.1371/journal.ppat.1000231 
+PMCID: PMC2584787
+PMID: 19057663  [Indexed for MEDLINE]
+

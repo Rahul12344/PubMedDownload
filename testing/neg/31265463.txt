@@ -1,0 +1,41 @@
+
+1. PLoS Comput Biol. 2019 Jul 2;15(7):e1007168. doi: 10.1371/journal.pcbi.1007168.
+eCollection 2019 Jul.
+
+Molecular noise of innate immunity shapes bacteria-phage ecologies.
+
+Ruess J(1)(2), Pleška M(3)(4), Guet CC(3), Tkačik G(3).
+
+Author information: 
+(1)Inria Saclay - Ile-de-France, 91120 Palaiseau, France.
+(2)Institut Pasteur, USR 3756 IP CNRS, 75015 Paris, France.
+(3)Institute of Science and Technology Austria, A-3400 Klosterneuburg, Austria.
+(4)Rockefeller University, New York, New York, United States of America.
+
+Mathematical models have been used successfully at diverse scales of biological
+organization, ranging from ecology and population dynamics to stochastic reaction
+events occurring between individual molecules in single cells. Generally, many
+biological processes unfold across multiple scales, with mutations being the best
+studied example of how stochasticity at the molecular scale can influence
+outcomes at the population scale. In many other contexts, however, an analogous
+link between micro- and macro-scale remains elusive, primarily due to the
+challenges involved in setting up and analyzing multi-scale models. Here, we
+employ such a model to investigate how stochasticity propagates from individual
+biochemical reaction events in the bacterial innate immune system to the ecology 
+of bacteria and bacterial viruses. We show analytically how the dynamics of
+bacterial populations are shaped by the activities of immunity-conferring enzymes
+in single cells and how the ecological consequences imply optimal bacterial
+defense strategies against viruses. Our results suggest that bacterial
+populations in the presence of viruses can either optimize their initial growth
+rate or their population size, with the first strategy favoring simple immunity
+featuring a single restriction modification system and the second strategy
+favoring complex bacterial innate immunity featuring several simultaneously
+active restriction modification systems.
+
+DOI: 10.1371/journal.pcbi.1007168 
+PMCID: PMC6629147
+PMID: 31265463  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

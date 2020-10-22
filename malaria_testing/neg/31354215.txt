@@ -1,0 +1,46 @@
+
+1. Chin J Cancer Res. 2019 Jun;31(3):463-470. doi:
+10.21147/j.issn.1000-9604.2019.03.08.
+
+Immune signature profiling identified prognostic factors for gastric cancer.
+
+Yang W(1)(2), Lai Z(1), Li Y(3), Mu J(4), Yang M(5), Xie J(2), Xu J(1).
+
+Author information: 
+(1)Shanxi Academy of Medical Sciences, Shanxi Dayi Hospital, Taiyuan 030032,
+China.
+(2)Department of Biochemistry and Molecular Biology, Shanxi Medical University,
+Taiyuan 030001, China.
+(3)Department of Oncology, Renmin Hospital of Wuhan University, Wuhan 430060,
+China.
+(4)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Rockville 20852, USA.
+(5)Shanxi Provincial Cancer Hospital, Affiliated Cancer Hospital of Shanxi
+Medical University, Taiyuan 030013, China.
+
+Objective: Tumor microenvironment, especially the host immune system, plays a
+pivotal role in tumor initiation and progression. Profiling of immune signature
+within tumor might uncover biomarkers for targeted therapies and clinical
+outcomes. However, systematic analysis of immune-related genes in gastric cancer 
+(GC) has not been reported.
+Methods: Expressions of a total of 718 immune-related genes were generated in 372
+stomach adenocarcinoma (STAD) patients from The Cancer Genome Atlas (TCGA)
+database using RNA-sequencing data. Integrated bioinformatics analyses were
+performed to identify prognostic factors as well.
+Results: Survival analyses revealed 73 genes, which were significantly associated
+with patient's overall survival (OS). Taken together with clinicopathological
+parameters, we established a predictive model, containing 10 immune-related
+genes, which were NRP1, C6, CXCR4, LBP, PNMA1, TLR5, ITGA6, MICB, PBK and
+TNFRSF18, with powerful efficiency in distinguishing satisfactory or poor
+survival of STAD patients. Moreover, the top 3 ranked prognostic genes, NRP1,
+TGFβ2 and MFGE8, were also significantly associated with patient's OS by an
+independent validation achieved from Kaplan-Meier plotter database.
+Conclusions: We profiled prognostic immune signature and established prognostic
+predictive model for GC, which could reflect immune disorders within tumor
+microenvironment, and also may provide novel predictive and therapeutic targets
+for GC patients in the near future.
+
+DOI: 10.21147/j.issn.1000-9604.2019.03.08 
+PMCID: PMC6613504
+PMID: 31354215 
+

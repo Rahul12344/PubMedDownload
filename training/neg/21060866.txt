@@ -1,0 +1,45 @@
+
+1. PLoS One. 2010 Oct 27;5(10):e13687. doi: 10.1371/journal.pone.0013687.
+
+DEB025 (Alisporivir) inhibits hepatitis C virus replication by preventing a
+cyclophilin A induced cis-trans isomerisation in domain II of NS5A.
+
+Coelmont L(1), Hanoulle X, Chatterji U, Berger C, Snoeck J, Bobardt M, Lim P,
+Vliegen I, Paeshuyse J, Vuagniaux G, Vandamme AM, Bartenschlager R, Gallay P,
+Lippens G, Neyts J.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Rega Institute for Medical
+Research, University of Leuven, Leuven, Belgium.
+
+DEB025/Debio 025 (Alisporivir) is a cyclophilin (Cyp)-binding molecule with
+potent anti-hepatitis C virus (HCV) activity both in vitro and in vivo. It is
+currently being evaluated in phase II clinical trials. DEB025 binds to CypA, a
+peptidyl-prolyl cis-trans isomerase which is a crucial cofactor for HCV
+replication. Here we report that it was very difficult to select resistant
+replicons (genotype 1b) to DEB025, requiring an average of 20 weeks (four
+independent experiments), compared to the typically <2 weeks with protease or
+polymerase inhibitors. This indicates a high genetic barrier to resistance for
+DEB025. Mutation D320E in NS5A was the only mutation consistently selected in the
+replicon genome. This mutation alone conferred a low-level (3.9-fold) resistance.
+Replacing the NS5A gene (but not the NS5B gene) from the wild type (WT) genome
+with the corresponding sequence from the DEB025(res) replicon resulted in
+transfer of resistance. Cross-resistance with cyclosporine A (CsA) was observed, 
+whereas NS3 protease and NS5B polymerase inhibitors retained WT-activity against 
+DEB025(res) replicons. Unlike WT, DEB025(res) replicon replicated efficiently in 
+CypA knock down cells. However, DEB025 disrupted the interaction between CypA and
+NS5A regardless of whether the NS5A protein was derived from WT or DEB025(res)
+replicon. NMR titration experiments with peptides derived from the WT or the
+DEB025(res) domain II of NS5A corroborated this observation in a quantitative
+manner. Interestingly, comparative NMR studies on two 20-mer NS5A peptides that
+contain D320 or E320 revealed a shift in population between the major and minor
+conformers. These data suggest that D320E conferred low-level resistance to
+DEB025 probably by reducing the need for CypA-dependent isomerisation of NS5A.
+Prolonged DEB025 treatment and multiple genotypic changes may be necessary to
+generate significant resistance to DEB025, underlying the high barrier to
+resistance.
+
+DOI: 10.1371/journal.pone.0013687 
+PMCID: PMC2965138
+PMID: 21060866  [Indexed for MEDLINE]
+

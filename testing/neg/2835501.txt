@@ -1,0 +1,42 @@
+
+1. J Virol. 1988 Jun;62(6):1963-73.
+
+Adeno-associated virus general transduction vectors: analysis of proviral
+structures.
+
+McLaughlin SK(1), Collis P, Hermonat PL, Muzyczka N.
+
+Author information: 
+(1)Department of Microbiology, University of Florida Medical School, Gainesville 
+32610.
+
+We used two kinds of adeno-associated virus (AAV) vectors to transduce the
+neomycin resistance gene into human cells. The first of these (dl52-91) retains
+the AAV rep genes; the second (dl3-94) retains only the AAV terminal repeats and 
+the AAV polyadenylation signal (428 base pairs). Both vectors could be packaged
+into AAV virions and produced proviral structures that were essentially the same.
+Thus, the AAV sequences that are required in cis for packaging (pac), integration
+(int), rescue (res), and replication (ori) of viral DNA are located within a
+284-base-pair sequence that includes the terminal repeat. Most of the G418r cell 
+lines (73%) contained proviruses which could be rescued (Res+) when the cells
+were superinfected with the appropriate helper viruses. Some produced high yields
+of viral DNA; other rescued at a 50-fold lower level. Most of the lines that were
+Res+ (79%) contained a tandem repeat of the AAV genome (2 to 20 copies) which was
+integrated randomly with respect to cellular DNA. Junctions between two
+consecutive AAV copies in a tandem array contained either one or two copies of
+the AAV terminal palindrome. Junctions between AAV and cellular sequences
+occurred predominantly at or within the AAV terminal repeat, but in some cases at
+internal AAV sequences. Two lines were seen that contained free episomal copies
+of AAV DNA. Res+ clones contained deleted proviruses or tandem repeats of a
+deleted genome. Occasionally, flanking cellular DNA was also amplified. There was
+no superinfection inhibition of AAV DNA integration. Our results suggest that AAV
+sequences are amplified by DNA replication either before or after integration and
+that the mechanism of replication is different from the one used during AAV lytic
+infections. In addition, we have described a new AAV general transduction vector,
+dl3-94, which provides the maximum amount of room for insertion of foreign DNA
+and integrates at a high frequency (80%).
+
+DOI: 10.1128/JVI.62.6.1963-1973.1988 
+PMCID: PMC253280
+PMID: 2835501  [Indexed for MEDLINE]
+

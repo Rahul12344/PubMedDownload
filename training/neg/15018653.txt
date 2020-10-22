@@ -1,0 +1,28 @@
+
+1. BMC Cell Biol. 2004 Feb 2;5:8.
+
+Protein-trap version 2.1: screening for expressed proteins in mammalian cells
+based on their localizations.
+
+Sineshchekova OO(1), Kawate T, Vdovychenko OV, Sato TN.
+
+Author information: 
+(1)The University of Texas Southwestern Medical Center at Dallas, Dallas, Texas
+75390, USA. Olga.Sineshchekova@UTSouthwestern.edu
+
+BACKGROUND: "Protein-trap" is a method that allows epitope-tagging of endogenous 
+proteins. This method allows for the identification of endogenously expressed
+proteins that exhibit specific localization of interest. This method has been
+recently reported for its application in the study of Drosophila development by
+using a relatively large epitope, green-fluorescent-protein (GFP).
+RESULT: Herein, we report a new "protein-trap" vector for mammalian cells. This
+new method utilizes a much smaller epitope-tag and also allows for drug-selection
+prior to the epitope-tagging. Pre-selection by drug resulted in the highly
+efficient protein-trapping frequency.
+CONCLUSION: The "protein-trap" method based on this new vector is expected to
+serve as a complimentary approach to the previously reported GFP-based method.
+
+DOI: 10.1186/1471-2121-5-8 
+PMCID: PMC356908
+PMID: 15018653  [Indexed for MEDLINE]
+

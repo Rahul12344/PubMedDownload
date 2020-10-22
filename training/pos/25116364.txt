@@ -1,0 +1,38 @@
+
+1. Retrovirology. 2014 Aug 13;11:67. doi: 10.1186/s12977-014-0067-y.
+
+NUCKS1, a novel Tat coactivator, plays a crucial role in HIV-1 replication by
+increasing Tat-mediated viral transcription on the HIV-1 LTR promoter.
+
+Kim HY, Choi BS, Kim SS, Roh TY, Park J, Yoon CH.
+
+BACKGROUND: Human immunodeficiency virus-1 (HIV-1) Tat protein plays an essential
+role in HIV gene transcription from the HIV-1 long terminal repeat (LTR) and
+replication. Transcriptional activity of Tat is modulated by several host
+factors, but the mechanism responsible for Tat regulation by host factors is not 
+understood fully.
+RESULTS: Using a yeast two-hybrid screening system, we identified Nuclear
+ubiquitous casein and cyclin-dependent kinase substrate 1 (NUCKS1) as a novel
+Tat-interacting partner. Here, we report its function as a positive regulator of 
+Tat. In a coimmunoprecipitation assay, HIV-1 Tat interacted sufficiently with
+both endogenous and ectopically expressed NUCKS1. In a reporter assay, ectopic
+expression of NUCKS1 significantly increased Tat-mediated transcription of the
+HIV-1 LTR, whereas knockdown of NUCKS1 by small interfering RNA diminished
+Tat-mediated transcription of the HIV-1 LTR. We also investigated which mechanism
+contributes to NUCKS1-mediated Tat activation. In a chromatin immunoprecipitation
+assay (ChIP), knockdown of NUCKS1 interrupted the accumulation of Tat in the
+transactivation-responsive (TAR) region on the LTR, which then led to suppression
+of viral replication. However, NUCKS1 expression did not increase Tat nuclear
+localization and interaction with Cyclin T1. Interestingly, the NUCKS1 expression
+level was lower in latently HIV-1-infected cells than in uninfected parent cells.
+Besides, expression level of NUCKS1 was markedly induced, which then facilitated 
+HIV-1 reactivation in latently infected cells.
+CONCLUSION: Taken together, our data demonstrate clearly that NUCKS1 is a novel
+Tat coactivator that is required for Tat-mediated HIV-1 transcription and
+replication, and that it may contribute to HIV-1 reactivation in latently HIV-1
+infected cells.
+
+DOI: 10.1186/s12977-014-0067-y 
+PMCID: PMC4181878
+PMID: 25116364  [Indexed for MEDLINE]
+

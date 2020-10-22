@@ -1,0 +1,62 @@
+
+1. Malar J. 2019 Aug 28;18(1):294. doi: 10.1186/s12936-019-2925-5.
+
+Gene silencing through RNAi and antisense Vivo-Morpholino increases the efficacy 
+of pyrethroids on larvae of Anopheles stephensi.
+
+Negri A(1)(2)(3), Ferrari M(2)(4), Nodari R(2)(3), Coppa E(2), Mastrantonio V(1),
+Zanzani S(5), Porretta D(1), Bandi C(2)(3), Urbanelli S(1), Epis S(6)(7).
+
+Author information: 
+(1)Department of Environmental Biology, Sapienza University of Rome, Via dei
+Sardi 70, 00185, Rome, Italy.
+(2)Department of Biosciences and Pediatric Clinical Research Center "Romeo ed
+Enrica Invernizzi", University of Milan, Via Celoria 26, 20133, Milan, Italy.
+(3)Centro Interuniversitario di Ricerca sulla Malaria/Italian Malaria Network,
+Via del Giochetto, 06126, Perugia, Italy.
+(4)Texas Biomedical Research Institute, San Antonio, 7620 NW Loop 410, San
+Antonio, TX, 78227-5301, USA.
+(5)Department of Veterinary Medicine-DIMEVET, Università degli Studi di Milano,
+Via Celoria, 10, 20133, Milan, Italy.
+(6)Department of Biosciences and Pediatric Clinical Research Center "Romeo ed
+Enrica Invernizzi", University of Milan, Via Celoria 26, 20133, Milan, Italy.
+sara.epis@unimi.it.
+(7)Centro Interuniversitario di Ricerca sulla Malaria/Italian Malaria Network,
+Via del Giochetto, 06126, Perugia, Italy. sara.epis@unimi.it.
+
+BACKGROUND: Insecticides are still at the core of insect pest and vector control 
+programmes. Several lines of evidence indicate that ABC transporters are involved
+in detoxification processes against insecticides, including permethrin and other 
+pyrethroids. In particular, the ABCG4 gene, a member of the G subfamily, has
+consistently been shown to be up-regulated in response to insecticide treatments 
+in the mosquito malaria vector Anopheles stephensi (both adults and larvae).
+METHODS: To verify the actual involvement of this transmembrane protein in the
+detoxification process of permethrin, bioassays on larvae of An. stephensi,
+combining the insecticide with a siRNA, specifically designed for the inhibition 
+of ABCG4 gene expression were performed. Administration to larvae of the same
+siRNA, labeled with a fluorescent molecule, was effected to investigate the
+systemic distribution of the inhibitory RNA into the larval bodies. Based on
+siRNA results, similar experiments using antisense Vivo-Morpholinos (Vivo-MOs)
+were effected. These molecules, compared to siRNA, are expected to guarantee a
+higher stability in environmental conditions and in the insect gut, and present
+thus a higher potential for future in-field applications.
+RESULTS: Bioassays using two different concentrations of siRNA, associated with
+permethrin, led to an increase of larval mortality, compared with results with
+permethrin alone. These outcomes confirm that ABCG4 transporter plays a role in
+the detoxification process against the selected insecticide. Moreover, after
+fluorescent labelling, it was shown the systemic dissemination of siRNA in
+different body districts of An. stephensi larvae, which suggest a potential
+systemic effect of the molecule. At the same time, results of Vivo-MO experiments
+were congruent with those obtained using siRNA, thus confirming the potential of 
+ABCG4 inhibition as a strategy to increase permethrin susceptibility in
+mosquitoes. For the first time, Vivo-MOs were administered in water to larvae,
+with evidence for a biological effect.
+CONCLUSIONS: Targeting ABCG4 gene for silencing through both techniques resulted 
+in an increased pyrethroid efficacy. These results open the way toward the
+possibility to exploit ABCG4 inhibition in the context of integrated programmes
+for the control An. stephensi mosquitoes and malaria transmission.
+
+DOI: 10.1186/s12936-019-2925-5 
+PMCID: PMC6712854
+PMID: 31462239  [Indexed for MEDLINE]
+

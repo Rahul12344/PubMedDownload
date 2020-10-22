@@ -1,0 +1,47 @@
+
+1. Bioinformation. 2012;8(24):1230-9. doi: 10.6026/97320630081230. Epub 2012 Dec 8.
+
+Comparative genome analysis of six malarial parasites using codon usage bias
+based tools.
+
+Yadav MK(1), Swati D.
+
+Author information: 
+(1)Department of Bioinformatics, MMV, Banaras Hindu University, Varanasi-221005, 
+INDIA.
+
+Codon usage bias (CUB) is an omnipresent phenomenon, which occurs in nearly all
+organisms. Previous studies of codon bias in Plasmodium species were based on a
+limited dataset. This study uses whole genome datasets for comparative genome
+analysis of six Plasmodium species using CUB and other related methods for the
+first time. Codon usage bias, compositional variation in translated amino acid
+frequency, effective number of codons and optimal codons are analyzed for
+P.falciparum, P.vivax, P.knowlesi, P.berghei, P.chabaudii and P.yoelli. A plot of
+effective number of codons versus GC3 shows their differential codon usage
+pattern arises due to a combination of mutational and translational selection
+pressure. The increased relative usage of adenine and thymine ending optimal
+codons in highly expressed genes of P.falciparum is the result of higher
+composition biased pressure, and usage of guanine and cytosine bases at third
+codon position can be explained by translational selection pressure acting on
+them. While higher usage of adenine and thymine bases at third codon position in 
+optimal codons of P.vivax highlights the role of translational selection pressure
+apart from composition biased mutation pressure in shaping their codon usage
+pattern. The frequency of those amino acids that are encoded by AT ending codons 
+are significantly high in P.falciparum due to action of high composition biased
+mutational pressure compared with other Plasmodium species. The CUB variation in 
+the three rodent parasites, P.berghei, P.chabaudii and P.yoelli is strikingly
+similar to that of P.falciparum. The simian and human malarial parasite,
+P.knowlesi shows a variation in codon usage bias similar to P.vivax but on closer
+study there are differences confirmed by the method of Principal Component
+Analysis (PCA).ABBREVIATIONS: CDS - Coding sequences, GC1 - GC composition at
+first site of codon, GC2 - GC composition at second site of codon, GC3 - GC
+composition at third site of codon, Ala - Alanine, Arg - Arginine, Asn -
+Asparagine, Asp - Aspartic acid, Cys - Cysteine, Gln - Glutamine Glu - Glutamic
+acid Gly - Glycine His - Histidine Ile - Isoleucine Leu - Leucine Lys - Lysine
+Met - Methionine Phe - Phenylalanine Pro - Proline Ser - Serine Thr - Threonine
+Trp - Tryptophan Tyr - Tyrosine Val - Valine.
+
+DOI: 10.6026/97320630081230 
+PMCID: PMC3530877
+PMID: 23275725 
+

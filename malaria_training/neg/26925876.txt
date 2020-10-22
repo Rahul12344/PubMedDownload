@@ -1,0 +1,33 @@
+
+1. Nat Commun. 2016 Mar 1;7:10727. doi: 10.1038/ncomms10727.
+
+Synthetic RNA-protein modules integrated with native translation mechanisms to
+control gene expression in malaria parasites.
+
+Ganesan SM(1), Falla A(1), Goldfless SJ(1), Nasamu AS(1), Niles JC(1).
+
+Author information: 
+(1)Department of Biological Engineering, Massachusetts Institute of Technology,
+Cambridge, 02139 Massachusetts, USA.
+
+Synthetic posttranscriptional regulation of gene expression is important for
+understanding fundamental biology and programming new cellular processes in
+synthetic biology. Previous strategies for regulating translation in eukaryotes
+have focused on disrupting individual steps in translation, including initiation 
+and mRNA cleavage. In emphasizing modularity and cross-organism functionality,
+these systems are designed to operate orthogonally to native control mechanisms. 
+Here we introduce a broadly applicable strategy for robustly controlling protein 
+translation by integrating synthetic translational control via a
+small-molecule-regulated RNA-protein module with native mechanisms that
+simultaneously regulate multiple facets of cellular RNA fate. We demonstrate that
+this strategy reduces 'leakiness' to improve overall expression dynamic range,
+and can be implemented without sacrificing modularity and cross-organism
+functionality. We illustrate this in Saccharomyces cerevisae and the non-model
+human malarial parasite, Plasmodium falciparum. Given the limited functional
+genetics toolkit available for P. falciparum, we establish the utility of this
+strategy for defining essential genes.
+
+DOI: 10.1038/ncomms10727 
+PMCID: PMC4773503
+PMID: 26925876  [Indexed for MEDLINE]
+

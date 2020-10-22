@@ -1,0 +1,44 @@
+
+1. BMC Genomics. 2014 Nov 6;15:959. doi: 10.1186/1471-2164-15-959.
+
+Genome-wide analysis in Plasmodium falciparum reveals early and late phases of
+RNA polymerase II occupancy during the infectious cycle.
+
+Rai R, Zhu L, Chen H, Gupta AP, Sze SK, Zheng J, Ruedl C, Bozdech Z(1),
+Featherstone M.
+
+Author information: 
+(1)School of Biological Sciences, Nanyang Technological University, 60 Nanyang
+Drive, Singapore 637551, Singapore. zbozdech@ntu.edu.sg.
+
+BACKGROUND: Over the course of its intraerythrocytic developmental cycle (IDC),
+the malaria parasite Plasmodium falciparum tightly orchestrates the rise and fall
+of transcript levels for hundreds of genes. Considerable debate has focused on
+the relative importance of transcriptional versus post-transcriptional processes 
+in the regulation of transcript levels. Enzymatically active forms of RNAPII in
+other organisms have been associated with phosphorylation on the serines at
+positions 2 and 5 of the heptad repeats within the C-terminal domain (CTD) of
+RNAPII. We reasoned that insight into the contribution of transcriptional
+mechanisms to gene expression in P. falciparum could be obtained by comparing the
+presence of enzymatically active forms of RNAPII at multiple genes with the
+abundance of their associated transcripts.
+RESULTS: We exploited the phosphorylation state of the CTD to detect
+enzymatically active forms of RNAPII at most P. falciparum genes across the IDC. 
+We raised highly specific monoclonal antibodies against three forms of the
+parasite CTD, namely unphosphorylated, Ser5-P and Ser2/5-P, and used these in
+ChIP-on-chip type experiments to map the genome-wide occupancy of RNAPII. Our
+data reveal that the IDC is divided into early and late phases of RNAPII
+occupancy evident from simple bi-phasic RNAPII binding profiles. By comparison to
+mRNA abundance, we identified sub-sets of genes with high occupancy by
+enzymatically active forms of RNAPII and relatively low transcript levels and
+vice versa. We further show that the presence of active and repressive histone
+modifications correlates with RNAPII occupancy over the IDC.
+CONCLUSIONS: The simple early/late occupancy by RNAPII cannot account for the
+complex dynamics of mRNA accumulation over the IDC, suggesting a major role for
+mechanisms acting downstream of RNAPII occupancy in the control of gene
+expression in this parasite.
+
+DOI: 10.1186/1471-2164-15-959 
+PMCID: PMC4232647
+PMID: 25373614  [Indexed for MEDLINE]
+

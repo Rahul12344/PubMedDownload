@@ -1,0 +1,56 @@
+
+1. Sci Transl Med. 2018 Jun 27;10(447). pii: eaar3619. doi:
+10.1126/scitranslmed.aar3619.
+
+Integrated pathogen load and dual transcriptome analysis of systemic
+host-pathogen interactions in severe malaria.
+
+Lee HJ(1), Georgiadou A(2), Walther M(3), Nwakanma D(3), Stewart LB(4), Levin
+M(2), Otto TD(5), Conway DJ(4), Coin LJ(1), Cunnington AJ(6).
+
+Author information: 
+(1)Institute for Molecular Bioscience, University of Queensland, Brisbane,
+Queensland 4072, Australia.
+(2)Section of Paediatrics, Imperial College, London W2 1PG, UK.
+(3)Medical Research Council Unit The Gambia at London School of Hygiene and
+Tropical Medicine, P.O. Box 273, Fajara, The Gambia.
+(4)Department of Pathogen Molecular Biology, London School of Hygiene and
+Tropical Medicine, London WC1E 7HT, UK.
+(5)Wellcome Trust Sanger Centre, Hinxton, Cambridge CB10 1SA, UK.
+(6)Section of Paediatrics, Imperial College, London W2 1PG, UK.
+a.cunnington@imperial.ac.uk.
+
+The pathogenesis of infectious diseases depends on the interaction of host and
+pathogen. In Plasmodium falciparum malaria, host and parasite processes can be
+assessed by dual RNA sequencing of blood from infected patients. We performed
+dual transcriptome analyses on samples from 46 malaria-infected Gambian children 
+to reveal mechanisms driving the systemic pathophysiology of severe malaria.
+Integrating these transcriptomic data with estimates of parasite load and
+detailed clinical information allowed consideration of potentially confounding
+effects due to differing leukocyte proportions in blood, parasite developmental
+stage, and whole-body pathogen load. We report hundreds of human and parasite
+genes differentially expressed between severe and uncomplicated malaria, with
+distinct profiles associated with coma, hyperlactatemia, and thrombocytopenia.
+High expression of neutrophil granule-related genes was consistently associated
+with all severe malaria phenotypes. We observed severity-associated variation in 
+the expression of parasite genes, which determine cytoadhesion to vascular
+endothelium, rigidity of infected erythrocytes, and parasite growth rate. Up to
+99% of human differential gene expression in severe malaria was driven by
+differences in parasite load, whereas parasite gene expression showed little
+association with parasite load. Coexpression analyses revealed interactions
+between human and P. falciparum, with prominent co-regulation of translation
+genes in severe malaria between host and parasite. Multivariate analyses
+suggested that increased expression of granulopoiesis and interferon-γ-related
+genes, together with inadequate suppression of type 1 interferon signaling, best 
+explained severity of infection. These findings provide a framework for
+understanding the contributions of host and parasite to the pathogenesis of
+severe malaria and identifying new treatments.
+
+Copyright © 2018 The Authors, some rights reserved; exclusive licensee American
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.
+
+DOI: 10.1126/scitranslmed.aar3619 
+PMCID: PMC6326353
+PMID: 29950443  [Indexed for MEDLINE]
+

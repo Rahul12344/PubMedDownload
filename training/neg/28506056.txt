@@ -1,0 +1,55 @@
+
+1. Clin Mol Hepatol. 2017 Jun;23(2):170-178. doi: 10.3350/cmh.2016.0086. Epub 2017
+May 16.
+
+Risk score model for the development of hepatocellular carcinoma in
+treatment-naïve patients receiving oral antiviral treatment for chronic hepatitis
+B.
+
+Sohn W(1), Cho JY(2), Kim JH(3), Lee JI(4), Kim HJ(5), Woo MA(6)(7), Jung
+SH(6)(7), Paik YH(7)(8).
+
+Author information: 
+(1)Department of Gastroenterology, Wonkwang University Sanbon Hospital, Gunpo,
+Korea.
+(2)Department of Medicine, Chosun University Hospital, Gwangju, Korea.
+(3)Department of Internal Medicine, Korea University College of Medicine, Seoul, 
+Korea.
+(4)Department of Internal Medicine, Yonsei University College of Medicine, Seoul,
+Korea.
+(5)Department of Internal Medicine, Chung-Ang University College of Medicine,
+Seoul, Korea.
+(6)Statistics and Data Center, Research Institute for Future Medicine, Samsung
+Medical Center, Seoul, Korea.
+(7)Department of Health Science and Technology, SAIHST, Sungkyunkwan University, 
+Seoul, Korea.
+(8)Department of Medicine, Samsung Medical Center, Sungkyunkwan University School
+of Medicine, Seoul, Korea.
+
+BACKGROUND/AIMS: This study aimed to develop and validate a risk prediction model
+for the development of hepatocellular carcinoma (HCC) in treatment-naïve patients
+receiving oral antiviral treatment for chronic hepatitis B (CHB).
+METHODS: We investigated 2,061 Korean treatment-naïve patients with CHB treated
+with entecavir as an initial therapy. A risk score model for HCC development was 
+developed based on multivariable Cox regression model in a single center (n=990) 
+and was validated using the time-dependent area under the receiver operating
+characteristic curve (AUROC) in three other centers (n=1,071). The difference of 
+HCC development among risk groups (low, intermediate, and high) categorized by
+risk score was also investigated.
+RESULTS: The cumulative incidence rates of HCC at 5 years were 11.2% and 8.9% in 
+the testing and validation cohorts, respectively. HCC-Risk Estimating Score in
+CHB patients Under Entecavir (HCC-RESCUE) is formulated as (age+15×gender
+[female=0 / male=1]+23×cirrhosis [absence=0 / presence=1]). The AUROCs at 1 year,
+3 years, and 5 years were 0.82, 0.81, and 0.81, respectively, in the validation
+cohort. A significant difference of HCC development in each risk group was
+determined by the 5-year HCC risk score in the validation cohort (low risk group,
+2.1%; intermediate risk group, 9.3%; high risk group, 41.2%, p<0.001).
+CONCLUSIONS: The study presents a new risk score model with a good ability to
+predict HCC development and determine high risk patients for HCC development
+consisting of readily available clinical factors in treatment-naïve CHB patients 
+receiving entecavir.
+
+DOI: 10.3350/cmh.2016.0086 
+PMCID: PMC5497662
+PMID: 28506056  [Indexed for MEDLINE]
+

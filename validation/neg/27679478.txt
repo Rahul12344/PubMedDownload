@@ -1,0 +1,52 @@
+
+1. Nucleic Acids Res. 2017 Jan 4;45(D1):D466-D474. doi: 10.1093/nar/gkw857. Epub
+2016 Sep 26.
+
+Influenza Research Database: An integrated bioinformatics resource for influenza 
+virus research.
+
+Zhang Y(1), Aevermann BD(1), Anderson TK(2), Burke DF(3), Dauphin G(4), Gu Z(5), 
+He S(5), Kumar S(5), Larsen CN(6), Lee AJ(1), Li X(5), Macken C(7), Mahaffey
+C(5), Pickett BE(1), Reardon B(1), Smith T(5), Stewart L(1), Suloway C(5), Sun
+G(6), Tong L(5), Vincent AL(2), Walters B(5), Zaremba S(5), Zhao H(5), Zhou L(5),
+Zmasek C(1), Klem EB(5), Scheuermann RH(8)(9)(10).
+
+Author information: 
+(1)J. Craig Venter Institute, La Jolla, CA 92037, USA.
+(2)Virus and Prion Research Unit, National Animal Disease Center, USDA-ARS, Ames,
+IA 50010, USA.
+(3)Department of Zoology, University of Cambridge, Cambridge, CB2 3EJ, UK.
+(4)Animal Health Service, Food and Agriculture Organization of the United
+Nations, Rome 00153, Italy.
+(5)Northrop Grumman Health Solutions, Rockville, MD 20850, USA.
+(6)Vecna Technologies, Greenbelt, MD 20770, USA.
+(7)Bioinformatics Institute, University of Auckland, Auckland 1010, New Zealand.
+(8)J. Craig Venter Institute, La Jolla, CA 92037, USA rscheuermann@jcvi.org.
+(9)Department of Pathology, University of California, San Diego, CA 92093, USA.
+(10)Division of Vaccine Discovery, La Jolla Institute for Allergy and Immunology,
+La Jolla, CA 92037, USA.
+
+The Influenza Research Database (IRD) is a U.S. National Institute of Allergy and
+Infectious Diseases (NIAID)-sponsored Bioinformatics Resource Center dedicated to
+providing bioinformatics support for influenza virus research. IRD facilitates
+the research and development of vaccines, diagnostics and therapeutics against
+influenza virus by providing a comprehensive collection of influenza-related data
+integrated from various sources, a growing suite of analysis and visualization
+tools for data mining and hypothesis generation, personal workbench spaces for
+data storage and sharing, and active user community support. Here, we describe
+the recent improvements in IRD including the use of cloud and high performance
+computing resources, analysis and visualization of user-provided sequence data
+with associated metadata, predictions of novel variant proteins, annotations of
+phenotype-associated sequence markers and their predicted phenotypic effects,
+hemagglutinin (HA) clade classifications, an automated tool for HA subtype
+numbering conversion, linkouts to disease event data and the addition of host
+factor and antiviral drug components. All data and tools are freely available
+without restriction from the IRD website at https://www.fludb.org.
+
+© The Author(s) 2016. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkw857 
+PMCID: PMC5210613
+PMID: 27679478  [Indexed for MEDLINE]
+

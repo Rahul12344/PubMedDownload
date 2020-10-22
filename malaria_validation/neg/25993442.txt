@@ -1,0 +1,51 @@
+
+1. PLoS Genet. 2015 May 19;11(5):e1005234. doi: 10.1371/journal.pgen.1005234.
+eCollection 2015 May.
+
+A Unique Virulence Gene Occupies a Principal Position in Immune Evasion by the
+Malaria Parasite Plasmodium falciparum.
+
+Ukaegbu UE(1), Zhang X(2), Heinberg AR(1), Wele M(3), Chen Q(4), Deitsch KW(1).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Weill Medical College of Cornell
+University, New York, New York, United States of America.
+(2)Department of Microbiology and Immunology, Weill Medical College of Cornell
+University, New York, New York, United States of America; Key Laboratory of
+Zoonosis, College of Veterinary Medicine, Jilin University, Xi An Da Lu,
+Changchun, China.
+(3)University of Sciences Techniques and Technologies of Bamako, Bamako, Mali.
+(4)Key Laboratory of Zoonosis, College of Veterinary Medicine, Jilin University, 
+Xi An Da Lu, Changchun, China.
+
+Mutually exclusive gene expression, whereby only one member of a multi-gene
+family is selected for activation, is used by the malaria parasite Plasmodium
+falciparum to escape the human immune system and perpetuate long-term, chronic
+infections. A family of genes called var encodes the chief antigenic and
+virulence determinant of P. falciparum malaria. var genes are transcribed in a
+mutually exclusive manner, with switching between active genes resulting in
+antigenic variation. While recent work has shed considerable light on the
+epigenetic basis for var gene activation and silencing, how switching is
+controlled remains a mystery. In particular, switching seems not to be random,
+but instead appears to be coordinated to result in timely activation of
+individual genes leading to sequential waves of antigenically distinct parasite
+populations. The molecular basis for this apparent coordination is unknown. Here 
+we show that var2csa, an unusual and highly conserved var gene, occupies a unique
+position within the var gene switching hierarchy. Induction of switching through 
+the destabilization of var specific chromatin using both genetic and chemical
+methods repeatedly led to the rapid and exclusive activation of var2csa.
+Additional experiments demonstrated that these represent "true" switching events 
+and not simply de-silencing of the var2csa promoter, and that activation is
+limited to the unique locus on chromosome 12. Combined with translational
+repression of var2csa transcripts, frequent "default" switching to this locus and
+detection of var2csa untranslated transcripts in non-pregnant individuals, these 
+data suggest that var2csa could play a central role in coordinating switching,
+fulfilling a prediction made by mathematical models derived from population
+switching patterns. These studies provide the first insights into the mechanisms 
+by which var gene switching is coordinated as well as an example of how a
+pharmacological agent can disrupt antigenic variation in Plasmodium falciparum.
+
+DOI: 10.1371/journal.pgen.1005234 
+PMCID: PMC4437904
+PMID: 25993442  [Indexed for MEDLINE]
+

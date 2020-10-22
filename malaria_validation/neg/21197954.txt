@@ -1,0 +1,37 @@
+
+1. Biochemistry. 2011 Feb 22;50(7):1247-54. doi: 10.1021/bi101642d. Epub 2011 Jan
+25.
+
+Methylthioinosine phosphorylase from Pseudomonas aeruginosa. Structure and
+annotation of a novel enzyme in quorum sensing.
+
+Guan R(1), Ho MC, Almo SC, Schramm VL.
+
+Author information: 
+(1)Department of Biochemistry, Albert Einstein College of Medicine, Yeshiva
+University, 1300 Morris Park Avenue, Bronx, New York 10461, United States.
+
+The PA3004 gene of Pseudomonas aeruginosa PAO1 was originally annotated as a
+5'-methylthioadenosine phosphorylase (MTAP). However, the PA3004 encoded protein 
+uses 5'-methylthioinosine (MTI) as a preferred substrate and represents the only 
+known example of a specific MTI phosphorylase (MTIP). MTIP does not utilize
+5'-methylthioadenosine (MTA). Inosine is a weak substrate with a k(cat)/K(m)
+value 290-fold less than MTI and is the second best substrate identified. The
+crystal structure of P. aeruginosa MTIP (PaMTIP) in complex with hypoxanthine was
+determined to 2.8 Å resolution and revealed a 3-fold symmetric homotrimer. The
+methylthioribose and phosphate binding regions of PaMTIP are similar to MTAPs,
+and the purine binding region is similar to that of purine nucleoside
+phosphorylases (PNPs). The catabolism of MTA in P. aeruginosa involves
+deamination to MTI and phosphorolysis to hypoxanthine (MTA → MTI → hypoxanthine).
+This pathway also exists in Plasmodium falciparum, where the purine nucleoside
+phosphorylase (PfPNP) acts on both inosine and MTI. Three tight-binding
+transition state analogue inhibitors of PaMTIP are identified with dissociation
+constants in the picomolar range. Inhibitor specificity suggests an early
+dissociative transition state for PaMTIP. Quorum sensing molecules are associated
+with MTA metabolism in bacterial pathogens suggesting PaMTIP as a potential
+therapeutic target.
+
+DOI: 10.1021/bi101642d 
+PMCID: PMC3040260
+PMID: 21197954  [Indexed for MEDLINE]
+

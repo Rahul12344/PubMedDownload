@@ -1,0 +1,44 @@
+
+1. OMICS. 2014 Aug;18(8):524-38. doi: 10.1089/omi.2013.0172. Epub 2014 Jun 24.
+
+An orthology-based analysis of pathogenic protozoa impacting global health: an
+improved comparative genomics approach with prokaryotes and model eukaryote
+orthologs.
+
+Cuadrat RR(1), da Serra Cruz SM, Tschoeke DA, Silva E, Tosta F, Jucá H, Jardim R,
+Campos ML, Mattoso M, Dávila AM.
+
+Author information: 
+(1)1 Computational and Systems Biology Laboratory, Computational and Systems
+Biology Pole, Oswaldo Cruz Institute , Fiocruz, Brazil .
+
+A key focus in 21(st) century integrative biology and drug discovery for
+neglected tropical and other diseases has been the use of BLAST-based
+computational methods for identification of orthologous groups in pathogenic
+organisms to discern orthologs, with a view to evaluate similarities and
+differences among species, and thus allow the transfer of annotation from
+known/curated proteins to new/non-annotated ones. We used here a profile-based
+sensitive methodology to identify distant homologs, coupled to the NCBI's COG
+(Unicellular orthologs) and KOG (Eukaryote orthologs), permitting us to perform
+comparative genomics analyses on five protozoan genomes. OrthoSearch was used in 
+five protozoan proteomes showing that 3901 and 7473 orthologs can be identified
+by comparison with COG and KOG proteomes, respectively. The core protozoa
+proteome inferred was 418 Protozoa-COG orthologous groups and 704 Protozoa-KOG
+orthologous groups: (i) 31.58% (132/418) belongs to the category J (translation, 
+ribosomal structure, and biogenesis), and 9.81% (41/418) to the category O
+(post-translational modification, protein turnover, chaperones) using COG; (ii)
+21.45% (151/704) belongs to the categories J, and 13.92% (98/704) to the O using 
+KOG. The phylogenomic analysis showed four well-supported clades for Eukarya,
+discriminating Multicellular [(i) human, fly, plant and worm] and Unicellular
+[(ii) yeast, (iii) fungi, and (iv) protozoa] species. These encouraging results
+attest to the usefulness of the profile-based methodology for comparative
+genomics to accelerate semi-automatic re-annotation, especially of the protozoan 
+proteomes. This approach may also lend itself for applications in global health, 
+for example, in the case of novel drug target discovery against pathogenic
+organisms previously considered difficult to research with traditional drug
+discovery tools.
+
+DOI: 10.1089/omi.2013.0172 
+PMCID: PMC4108940
+PMID: 24960463  [Indexed for MEDLINE]
+

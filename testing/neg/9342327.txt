@@ -1,0 +1,35 @@
+
+1. Proc Natl Acad Sci U S A. 1997 Oct 28;94(22):11857-62.
+
+Respiratory chain is required to maintain oxidized states of the DsbA-DsbB
+disulfide bond formation system in aerobically growing Escherichia coli cells.
+
+Kobayashi T(1), Kishigami S, Sone M, Inokuchi H, Mogi T, Ito K.
+
+Author information: 
+(1)Institute for Virus Research, Kyoto University, Kyoto 606-01, Japan.
+
+DsbA, the disulfide bond catalyst of Escherichia coli, is a periplasmic protein
+having a thioredoxin-like Cys-30-Xaa-Xaa-Cys-33 motif. The Cys-30-Cys-33
+disulfide is donated to a pair of cysteines on the target proteins. Although
+DsbA, having high oxidizing potential, is prone to reduction, it is maintained
+essentially all oxidized in vivo. DsbB, an integral membrane protein having two
+pairs of essential cysteines, reoxidizes DsbA that has been reduced upon
+functioning. It is not known, however, what might provide the overall oxidizing
+power to the DsbA-DsbB disulfide bond formation system. We now report that E.
+coli mutants defective in the hemA gene or in the ubiA-menA genes markedly
+accumulate the reduced form of DsbA during growth under the conditions of
+protoheme deprivation as well as ubiquinone/menaquinone deprivation. Disulfide
+bond formation of beta-lactamase was impaired under these conditions.
+Intracellular state of DsbB was found to be affected by deprivation of quinones, 
+such that it accumulates first as a reduced form and then as a form of a
+disulfide-linked complex with DsbA. This is followed by reduction of the bulk of 
+DsbA molecules. These results suggest that the respiratory electron transfer
+chain participates in the oxidation of DsbA, by acting primarily on DsbB. It is
+remarkable that a cellular catalyst of protein folding is connected to the
+respiratory chain.
+
+DOI: 10.1073/pnas.94.22.11857 
+PMCID: PMC23636
+PMID: 9342327  [Indexed for MEDLINE]
+

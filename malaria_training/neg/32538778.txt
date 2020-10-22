@@ -1,0 +1,66 @@
+
+1. Elife. 2020 Jun 15;9. pii: e58019. doi: 10.7554/eLife.58019.
+
+Isolation and transcriptomic analysis of Anopheles gambiae oenocytes enables the 
+delineation of hydrocarbon biosynthesis.
+
+Grigoraki L(1), Grau-Bové X(1), Carrington Yates H(1), Lycett GJ(1), Ranson H(1).
+
+Author information: 
+(1)Liverpool School of Tropical Medicine, Vector Biology Department, Liverpool,
+United Kingdom.
+
+The surface of insects is coated in cuticular hydrocarbons (CHCs); variations in 
+the composition of this layer affect a range of traits including adaptation to
+arid environments and defence against pathogens and toxins. In the African
+malaria vector, Anopheles gambiae quantitative and qualitative variance in CHC
+composition have been associated with speciation, ecological habitat and
+insecticide resistance. Understanding how these modifications arise will inform
+us of how mosquitoes are responding to climate change and vector control
+interventions. CHCs are synthesised in sub-epidermal cells called oenocytes that 
+are very difficult to isolate from surrounding tissues. Here we utilise a
+transgenic line with fluorescent oenocytes to purify these cells for the first
+time. Comparative transcriptomics revealed the enrichment of biological processes
+related to long chain fatty acyl-CoA biosynthesis and elongation of mono-,
+poly-unsaturated and saturated fatty acids and enabled us to delineate, and
+partially validate, the hydrocarbon biosynthetic pathway in An. gambiae.
+
+plain-language-summary: The bodies of insects are encased in an exoskeleton or
+cuticle that is key for their survival. The cuticle helps protect insects against
+damage, prevents water loss and can defend against pesticides. A better
+understanding of the role of the cuticle for survival in mosquitoes and other
+insects could lead to new ways to prevent the spread of diseases such as malaria.
+The cuticle is coated with various molecules from a group of chemicals called
+hydrocarbons. This coating is made by specialized cells called oenocytes and
+helps to protect insects. Hydrocarbons can also influence communications between 
+certain insects by acting as recognition signals. In mosquitoes, oenocytes make
+several hydrocarbons using a set of processes that are not well understood, and
+the types of hydrocarbons they make can vary between individuals of the same
+species. It is unclear how this mixture of hydrocarbons is generated and how
+differences in the mixture can determine how mosquitoes adapt to their
+surroundings. Grigoraki et al. studied the genes that were active in isolated
+oenocytes from the mosquito Anopheles gambiae, which carries the parasite that
+causes malaria. The study revealed a set of genes which are highly active in
+oenocytes and control the production of fatty acids, a group of molecules used to
+make hydrocarbons. Other genes involved in creating hydrocarbons were also found.
+Grigoraki et al. further investigated a specific gene called FAS1899 and showed
+that loss of this gene reduces overall hydrocarbon production by 25%.
+Additionally, genes for transporting and recycling molecules and for producing
+fats were also shown to be active, which may indicate that oenocytes have a
+variety of unexplored roles besides making hydrocarbons. Grigoraki et al.
+identify the genes involved in producing the hydrocarbon coating of mosquitoes
+and demonstrate their significance. Further work is needed to understand the
+precise roles of each of these genes and how they are regulated to adapt the
+hydrocarbon coating to different situations. This can help explain how the
+hydrocarbon coating changes in mosquitoes, for example in response to the use of 
+insecticides or climate change. This information is important to adapt and
+develop new tools to improve mosquito control.
+© 2020, Grigoraki et al.
+
+DOI: 10.7554/eLife.58019 
+PMCID: PMC7351493
+PMID: 32538778 
+
+Conflict of interest statement: LG, XG, HC, GL, HR No competing interests
+declared
+

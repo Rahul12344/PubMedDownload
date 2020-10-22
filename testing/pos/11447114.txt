@@ -1,0 +1,35 @@
+
+1. EMBO J. 2001 Jul 16;20(14):3728-37.
+
+Heterologous dimerization domains functionally substitute for the double-stranded
+RNA binding domains of the kinase PKR.
+
+Ung TL(1), Cao C, Lu J, Ozato K, Dever TE.
+
+Author information: 
+(1)Laboratory of Gene Regulation and Development, National Institute of Child
+Health and Human Development, National Institutes of Health, Bethesda, MD 20892, 
+USA.
+
+The protein kinase PKR (dsRNA-dependent protein kinase) phosphorylates the
+eukaryotic translation initiation factor eIF2alpha to downregulate protein
+synthesis in virus-infected cells. Two double-stranded RNA binding domains
+(dsRBDs) in the N-terminal half of PKR are thought to bind the activator
+double-stranded RNA, mediate dimerization of the protein and target PKR to the
+ribosome. To investigate further the importance of dimerization for PKR activity,
+fusion proteins were generated linking the PKR kinase domain to heterologous
+dimerization domains. Whereas the isolated PKR kinase domain (KD) was
+non-functional in vivo, expression of a glutathione S-transferase-KD fusion, or
+co-expression of KD fusions containing the heterodimerization domains of the
+Xlim-1 and Ldb1 proteins, restored PKR activity in yeast cells. Finally,
+coumermycin-mediated dimerization of a GyrB-KD fusion protein increased eIF2alpha
+phosphorylation and inhibited reporter gene translation in mammalian cells. These
+results demonstrate the critical importance of dimerization for PKR activity in
+vivo, and suggest that a primary function of double-stranded RNA binding to the
+dsRBDs of native PKR is to promote dimerization and activation of the kinase
+domain.
+
+DOI: 10.1093/emboj/20.14.3728 
+PMCID: PMC125533
+PMID: 11447114  [Indexed for MEDLINE]
+

@@ -1,0 +1,60 @@
+
+1. Front Microbiol. 2016 Dec 22;7:2077. doi: 10.3389/fmicb.2016.02077. eCollection
+2016.
+
+CRISPR-Cas Defense System and Potential Prophages in Cyanobacteria Associated
+with the Coral Black Band Disease.
+
+Buerger P(1), Wood-Charlson EM(2), Weynberg KD(3), Willis BL(4), van Oppen MJ(5).
+
+Author information: 
+(1)Australian Institute of Marine Science (AIMS), TownsvilleQLD, Australia;
+Australian Institute of Marine Science, James Cook University (AIMS@JCU),
+TownsvilleQLD, Australia; College of Science and Engineering, James Cook
+University (JCU), TownsvilleQLD, Australia.
+(2)Center for Microbial Oceanography: Research and Education, University of
+Hawaii, Honolulu HI, USA.
+(3)Australian Institute of Marine Science (AIMS), Townsville QLD, Australia.
+(4)College of Science and Engineering, James Cook University (JCU),
+TownsvilleQLD, Australia; Australian Research Council (ARC) Centre of Excellence 
+for Coral Reef Studies, College of Science and Engineering, TownsvilleQLD,
+Australia.
+(5)Australian Institute of Marine Science (AIMS), TownsvilleQLD, Australia;
+School of BioSciences, University of Melbourne, MelbourneVIC, Australia.
+
+Understanding how pathogens maintain their virulence is critical to developing
+tools to mitigate disease in animal populations. We sequenced and assembled the
+first draft genome of Roseofilum reptotaenium AO1, the dominant cyanobacterium
+underlying pathogenicity of the virulent coral black band disease (BBD), and
+analyzed parts of the BBD-associated Geitlerinema sp. BBD_1991 genome in silico. 
+Both cyanobacteria are equipped with an adaptive, heritable clustered regularly
+interspaced short palindromic repeats (CRISPR)-Cas defense system type I-D and
+have potential virulence genes located within several prophage regions. The
+defense system helps to prevent infection by viruses and mobile genetic elements 
+via identification of short fingerprints of the intruding DNA, which are stored
+as templates in the bacterial genome, in so-called "CRISPRs." Analysis of CRISPR 
+target sequences (protospacers) revealed an unusually high number of
+self-targeting spacers in R. reptotaenium AO1 and extraordinary long CRIPSR
+arrays of up to 260 spacers in Geitlerinema sp. BBD_1991. The self-targeting
+spacers are unlikely to be a form of autoimmunity; instead these target an
+incomplete lysogenic bacteriophage. Lysogenic virus induction experiments with
+mitomycin C and UV light did not reveal an actively replicating virus population 
+in R. reptotaenium AO1 cultures, suggesting that phage functionality is
+compromised or excision could be blocked by the CRISPR-Cas system. Potential
+prophages were identified in three regions of R. reptotaenium AO1 and five
+regions of Geitlerinema sp. BBD_1991, containing putative BBD relevant virulence 
+genes, such as an NAD-dependent epimerase/dehydratase (a homolog in terms of
+functionality to the third and fourth most expressed gene in BBD),
+lysozyme/metalloendopeptidases and other lipopolysaccharide modification genes.
+To date, viruses have not been considered to be a component of the BBD consortium
+or a contributor to the virulence of R. reptotaenium AO1 and Geitlerinema sp.
+BBD_1991. We suggest that the presence of virulence genes in potential prophage
+regions, and the CRISPR-Cas defense systems are evidence of an arms race between 
+the respective cyanobacteria and their bacteriophage predators. The presence of
+such a defense system likely reduces the number of successful bacteriophage
+infections and mortality in the cyanobacteria, facilitating the progress of BBD.
+
+DOI: 10.3389/fmicb.2016.02077 
+PMCID: PMC5177637
+PMID: 28066391 
+

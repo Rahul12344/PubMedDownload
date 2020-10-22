@@ -1,0 +1,24 @@
+
+1. Methods Mol Biol. 2013;923:221-39.
+
+Transcriptome analysis using RNA-Seq.
+
+Hoeijmakers WA(1), Bártfai R, Stunnenberg HG.
+
+Author information: 
+(1)Department of Molecular Biology, Nijmegen Center for Molecular Life Sciences, 
+Nijmegen, The Netherlands.
+
+Transcriptome analysis by next-generation sequencing (RNA-seq) allows
+investigation of a transcriptome at unsurpassed resolution. One major benefit is 
+that RNA-seq is independent of a priori knowledge on the sequence under
+investigation, thereby also allowing analysis of poorly characterized Plasmodium 
+species. Here we provide a detailed protocol for RNA isolation and fragmentation,
+ribosomal RNA depletion, and cDNA synthesis that enables the preparation of a
+sequencing library from 1 to 2 μg of total RNA. Although we focus our discussion 
+on the quantitative measurement of gene expression, this protocol is suited for
+many applications of RNA-seq and allows analysis of most RNA species.
+
+DOI: 10.1007/978-1-62703-026-7_15 
+PMID: 22990781  [Indexed for MEDLINE]
+

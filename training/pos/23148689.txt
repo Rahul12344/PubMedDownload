@@ -1,0 +1,48 @@
+
+1. BMC Struct Biol. 2012 Nov 13;12:28. doi: 10.1186/1472-6807-12-28.
+
+Structural and molecular basis of interaction of HCV non-structural protein 5A
+with human casein kinase 1α and PKR.
+
+Sudha G(1), Yamunadevi S, Tyagi N, Das S, Srinivasan N.
+
+Author information: 
+(1)Molecular Biophysics Unit, Indian Institute of Science, Bangalore, 560 012,
+India.
+
+BACKGROUND: Interaction of non-structural protein 5A (NS5A) of Hepatitis C virus 
+(HCV) with human kinases namely, casein kinase 1α (ck1α) and protein kinase R
+(PKR) have different functional implications such as regulation of viral
+replication and evasion of interferon induced immune response respectively.
+Understanding the structural and molecular basis of interactions of the viral
+protein with two different human kinases can be useful in developing strategies
+for treatment against HCV.
+RESULTS: Serine 232 of NS5A is known to be phosphorylated by human ck1α. A
+structural model of NS5A peptide containing phosphoacceptor residue Serine 232
+bound to ck1α has been generated using the known 3-D structures of kinase-peptide
+complexes. The substrate interacting residues in ck1α has been identified from
+the model and these are found to be conserved well in the ck1 family. ck1α -
+substrate peptide complex has also been used to understand the structural basis
+of association between ck1α and its other viral stress induced substrate, tumour 
+suppressor p53 transactivation domain which has a crystal structure
+available.Interaction of NS5A with another human kinase PKR is primarily genotype
+specific. NS5A from genotype 1b has been shown to interact and inhibit PKR
+whereas NS5A from genotype 2a/3a are unable to bind and inhibit PKR efficiently. 
+This is one of the main reasons for the varied response to interferon therapy in 
+HCV patients across different genotypes. Using PKR crystal structure, sequence
+alignment and evolutionary trace analysis some of the critical residues
+responsible for the interaction of NS5A 1b with PKR have been identified.
+CONCLUSIONS: The substrate interacting residues in ck1α have been identified
+using the structural model of kinase - substrate peptide. The PKR interacting
+NS5A 1b residues have also been predicted using PKR crystal structure, NS5A
+sequence analysis along with known experimental results. Functional significance 
+and nature of interaction of interferon sensitivity determining region and
+variable region 3 of NS5A in different genotypes with PKR which was
+experimentally shown are also supported by the findings of evolutionary trace
+analysis. Designing inhibitors to prevent this interaction could enable the HCV
+genotype 1 infected patients respond well to interferon therapy.
+
+DOI: 10.1186/1472-6807-12-28 
+PMCID: PMC3534215
+PMID: 23148689  [Indexed for MEDLINE]
+

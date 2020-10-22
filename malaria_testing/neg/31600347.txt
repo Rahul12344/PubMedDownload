@@ -1,0 +1,63 @@
+
+1. PLoS Pathog. 2019 Oct 10;15(10):e1008048. doi: 10.1371/journal.ppat.1008048.
+eCollection 2019 Oct.
+
+Plasmodium kinesin-8X associates with mitotic spindles and is essential for
+oocyst development during parasite proliferation and transmission.
+
+Zeeshan M(1), Shilliday F(2), Liu T(2), Abel S(3), Mourier T(4), Ferguson
+DJP(5)(6), Rea E(1), Stanway RR(7), Roques M(7), Williams D(3), Daniel E(1),
+Brady D(1), Roberts AJ(2), Holder AA(8), Pain A(4)(9), Le Roch KG(3), Moores
+CA(2), Tewari R(1).
+
+Author information: 
+(1)School of Life Sciences, Queens Medical Centre, University of Nottingham,
+Nottingham, United Kingdom.
+(2)Institute of Structural and Molecular Biology, Department of Biological
+Sciences, Birkbeck College, London, United Kingdom.
+(3)Department of Molecular, Cell and Systems Biology, University of California
+Riverside, Riverside, California, United States of America.
+(4)Biological Environmental Sciences and Engineering Division, King Abdullah
+University of Science and Technology, Thuwal, Jeddah, Kingdom of Saudi Arabia.
+(5)Nuffield Department of Clinical Laboratory Sciences, University of Oxford,
+John Radcliffe Hospital, Oxford, United Kingdom.
+(6)Department of Biological and Medical Sciences, Faculty of Health and Life
+Science, Oxford Brookes University, Gipsy Lane, Oxford, United Kingdom.
+(7)Institute of Cell Biology, University of Bern, Bern, Switzerland.
+(8)Malaria Parasitology Laboratory, The Francis Crick Institute, London, United
+Kingdom.
+(9)Research Center for Zoonosis Control, Global Institution for Collaborative
+Research and Education (GI-CoRE), Hokkaido University, Kita-ku, Sapporo, Japan.
+
+Kinesin-8 proteins are microtubule motors that are often involved in regulation
+of mitotic spindle length and chromosome alignment. They move towards the plus
+ends of spindle microtubules and regulate the dynamics of these ends due, at
+least in some species, to their microtubule depolymerization activity. Plasmodium
+spp. exhibit an atypical endomitotic cell division in which chromosome
+condensation and spindle dynamics in the different proliferative stages are not
+well understood. Genome-wide shared orthology analysis of Plasmodium spp.
+revealed the presence of two kinesin-8 motor proteins, kinesin-8X and kinesin-8B.
+Here we studied the biochemical properties of kinesin-8X and its role in parasite
+proliferation. In vitro, kinesin-8X has motility and depolymerization activities 
+like other kinesin-8 motors. To understand the role of Plasmodium kinesin-8X in
+cell division, we used fluorescence-tagging and live cell imaging to define its
+location, and gene targeting to analyse its function, during all proliferative
+stages of the rodent malaria parasite P. berghei life cycle. The results revealed
+a spatio-temporal involvement of kinesin-8X in spindle dynamics and an
+association with both mitotic and meiotic spindles and the putative microtubule
+organising centre (MTOC). Deletion of the kinesin-8X gene revealed a defect in
+oocyst development, confirmed by ultrastructural studies, suggesting that this
+protein is required for oocyst development and sporogony. Transcriptome analysis 
+of Δkinesin-8X gametocytes revealed modulated expression of genes involved mainly
+in microtubule-based processes, chromosome organisation and the regulation of
+gene expression, supporting a role for kinesin-8X in cell division. Kinesin-8X is
+thus required for parasite proliferation within the mosquito and for transmission
+to the vertebrate host.
+
+DOI: 10.1371/journal.ppat.1008048 
+PMCID: PMC6786531
+PMID: 31600347  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

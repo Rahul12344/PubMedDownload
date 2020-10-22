@@ -1,0 +1,42 @@
+
+1. BMC Genomics. 2013 Apr 23;14:273. doi: 10.1186/1471-2164-14-273.
+
+Six novel Y chromosome genes in Anopheles mosquitoes discovered by independently 
+sequencing males and females.
+
+Hall AB(1), Qi Y, Timoshevskiy V, Sharakhova MV, Sharakhov IV, Tu Z.
+
+Author information: 
+(1)Department of Biochemistry, Virginia Tech, Blacksburg, VA, USA.
+
+BACKGROUND: Y chromosomes are responsible for the initiation of male development,
+male fertility, and other male-related functions in diverse species. However, Y
+genes are rarely characterized outside a few model species due to the arduous
+nature of studying the repeat-rich Y.
+RESULTS: The chromosome quotient (CQ) is a novel approach to systematically
+discover Y chromosome genes. In the CQ method, genomic DNA from males and females
+is sequenced independently and aligned to candidate reference sequences. The
+female to male ratio of the number of alignments to a reference sequence, a
+parameter called the chromosome quotient (CQ), is used to determine whether the
+sequence is Y-linked. Using the CQ method, we successfully identified known Y
+sequences from Homo sapiens and Drosophila melanogaster. The CQ method
+facilitated the discovery of Y chromosome sequences from the malaria mosquitoes
+Anopheles stephensi and An. gambiae. Comparisons to transcriptome sequence data
+with blastn led to the discovery of six Anopheles Y genes, three from each
+species. All six genes are expressed in the early embryo. Two of the three An.
+stephensi Y genes were recently acquired from the autosomes or the X. Although
+An. stephensi and An. gambiae belong to the same subgenus, we found no evidence
+of Y genes shared between the species.
+CONCLUSIONS: The CQ method can reliably identify Y chromosome sequences using the
+ratio of alignments from male and female sequence data. The CQ method is widely
+applicable to species with fragmented genome assemblies produced from
+next-generation sequencing data. Analysis of the six Y genes characterized in
+this study indicates rapid Y chromosome evolution between An. stephensi and An.
+gambiae. The Anopheles Y genes discovered by the CQ method provide unique markers
+for population and phylogenetic analysis, and opportunities for novel mosquito
+control measures through the manipulation of sexual dimorphism and fertility.
+
+DOI: 10.1186/1471-2164-14-273 
+PMCID: PMC3660176
+PMID: 23617698  [Indexed for MEDLINE]
+

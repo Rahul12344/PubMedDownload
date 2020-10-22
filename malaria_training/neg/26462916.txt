@@ -1,0 +1,102 @@
+
+1. BMC Genomics. 2015 Oct 13;16:779. doi: 10.1186/s12864-015-2009-z.
+
+Association mapping by pooled sequencing identifies TOLL 11 as a protective
+factor against Plasmodium falciparum in Anopheles gambiae.
+
+Redmond SN(1)(2), Eiglmeier K(3)(4), Mitri C(5)(6), Markianos K(7), Guelbeogo
+WM(8), Gneme A(9), Isaacs AT(10)(11), Coulibaly B(12), Brito-Fravallo E(13)(14), 
+Maslen G(15)(16), Mead D(17)(18), Niare O(19), Traore SF(20), Sagnon N(21),
+Kwiatkowski D(22)(23), Riehle MM(24), Vernick KD(25)(26)(27).
+
+Author information: 
+(1)Department of Parasites and Insect Vectors, Institut Pasteur, Unit of Insect
+Vector Genetics and Genomics, 28 rue du Docteur Roux, Paris, 75015, France.
+snr@sanger.ac.uk.
+(2)CNRS Unit of Hosts, Vectors and Pathogens, Paris, France (URA3012), 28 rue du 
+Docteur Roux, Paris, 75015, France. snr@sanger.ac.uk.
+(3)Department of Parasites and Insect Vectors, Institut Pasteur, Unit of Insect
+Vector Genetics and Genomics, 28 rue du Docteur Roux, Paris, 75015, France.
+kei@pasteur.fr.
+(4)CNRS Unit of Hosts, Vectors and Pathogens, Paris, France (URA3012), 28 rue du 
+Docteur Roux, Paris, 75015, France. kei@pasteur.fr.
+(5)Department of Parasites and Insect Vectors, Institut Pasteur, Unit of Insect
+Vector Genetics and Genomics, 28 rue du Docteur Roux, Paris, 75015, France.
+cmitri@pasteur.fr.
+(6)CNRS Unit of Hosts, Vectors and Pathogens, Paris, France (URA3012), 28 rue du 
+Docteur Roux, Paris, 75015, France. cmitri@pasteur.fr.
+(7)Program in Genomics, Boston Children's Hospital, Harvard Medical School, 3
+Blackfan Street, Boston, MA, 02115, USA. kmarkianos@enders.tch.harvard.edu.
+(8)Centre National de Recherche et de Formation sur le Paludisme, 1487 Avenue de 
+l'Oubritenga, 01 BP 2208, Ouagadougou, Burkina Faso. guelbeogo.cnrfp@fasonet.bf.
+(9)Centre National de Recherche et de Formation sur le Paludisme, 1487 Avenue de 
+l'Oubritenga, 01 BP 2208, Ouagadougou, Burkina Faso. gplouise@yahoo.fr.
+(10)Department of Parasites and Insect Vectors, Institut Pasteur, Unit of Insect 
+Vector Genetics and Genomics, 28 rue du Docteur Roux, Paris, 75015, France.
+Alison.Isaacs@lstmed.ac.uk.
+(11)CNRS Unit of Hosts, Vectors and Pathogens, Paris, France (URA3012), 28 rue du
+Docteur Roux, Paris, 75015, France. Alison.Isaacs@lstmed.ac.uk.
+(12)Malaria Research and Training Centre, Faculty of Medicine and Dentistry,
+University of Mali, Point G, Bamako, Mali. bcoulibaly@mrtcbko.org.
+(13)Department of Parasites and Insect Vectors, Institut Pasteur, Unit of Insect 
+Vector Genetics and Genomics, 28 rue du Docteur Roux, Paris, 75015, France.
+emma.brito-fravallo@pasteur.fr.
+(14)CNRS Unit of Hosts, Vectors and Pathogens, Paris, France (URA3012), 28 rue du
+Docteur Roux, Paris, 75015, France. emma.brito-fravallo@pasteur.fr.
+(15)Wellcome Trust Sanger Institute, Hinxton, Cambridge, UK. gmaslen@ebi.ac.uk.
+(16)Wellcome Trust Centre for Human Genetics, Oxford, UK. gmaslen@ebi.ac.uk.
+(17)Wellcome Trust Sanger Institute, Hinxton, Cambridge, UK. da2@sanger.ac.uk.
+(18)Wellcome Trust Centre for Human Genetics, Oxford, UK. da2@sanger.ac.uk.
+(19)Malaria Research and Training Centre, Faculty of Medicine and Dentistry,
+University of Mali, Point G, Bamako, Mali. niare@mrtcbko.org.
+(20)Malaria Research and Training Centre, Faculty of Medicine and Dentistry,
+University of Mali, Point G, Bamako, Mali. cheick@icermali.org.
+(21)Centre National de Recherche et de Formation sur le Paludisme, 1487 Avenue de
+l'Oubritenga, 01 BP 2208, Ouagadougou, Burkina Faso. n.fale.cnlp@fasonet.bf.
+(22)Wellcome Trust Sanger Institute, Hinxton, Cambridge, UK.
+dominic@well.ox.ac.uk.
+(23)Wellcome Trust Centre for Human Genetics, Oxford, UK. dominic@well.ox.ac.uk.
+(24)Department of Microbiology, University of Minnesota, 1500 Gortner Avenue,
+Saint Paul, MN 55108, USA. mriehle@umn.edu.
+(25)Department of Parasites and Insect Vectors, Institut Pasteur, Unit of Insect 
+Vector Genetics and Genomics, 28 rue du Docteur Roux, Paris, 75015, France.
+kvernick@pasteur.fr.
+(26)CNRS Unit of Hosts, Vectors and Pathogens, Paris, France (URA3012), 28 rue du
+Docteur Roux, Paris, 75015, France. kvernick@pasteur.fr.
+(27)Malaria Research and Training Centre, Faculty of Medicine and Dentistry,
+University of Mali, Point G, Bamako, Mali. kvernick@pasteur.fr.
+
+BACKGROUND: The genome-wide association study (GWAS) techniques that have been
+used for genetic mapping in other organisms have not been successfully applied to
+mosquitoes, which have genetic characteristics of high nucleotide diversity, low 
+linkage disequilibrium, and complex population stratification that render
+population-based GWAS essentially unfeasible at realistic sample size and marker 
+density.
+METHODS: We designed a novel mapping strategy for the mosquito system that
+combines the power of linkage mapping with the resolution afforded by genetic
+association. We established founder colonies from West Africa, controlled for
+diversity, linkage disequilibrium and population stratification. Colonies were
+challenged by feeding on the infectious stage of the human malaria parasite,
+Plasmodium falciparum, mosquitoes were phenotyped for parasite load, and DNA
+pools for phenotypically similar mosquitoes were Illumina sequenced.
+Phenotype-genotype mapping was carried out in two stages, coarse and fine.
+RESULTS: In the first mapping stage, pooled sequences were analysed genome-wide
+for intervals displaying relativereduction in diversity between phenotype pools, 
+and candidate genomic loci were identified for influence upon parasite infection 
+levels. In the second mapping stage, focused genotyping of SNPs from the first
+mapping stage was carried out in unpooled individual mosquitoes and replicates.
+The second stage confirmed significant SNPs in a locus encoding two Toll-family
+proteins. RNAi-mediated gene silencing and infection challenge revealed that TOLL
+11 protects mosquitoes against P. falciparum infection.
+CONCLUSIONS: We present an efficient and cost-effective method for genetic
+mapping using natural variation segregating in defined recent Anopheles founder
+colonies, and demonstrate its applicability for mapping in a complex non-model
+genome. This approach is a practical and preferred alternative to
+population-based GWAS for first-pass mapping of phenotypes in Anopheles. This
+design should facilitate mapping of other traits involved in physiology,
+epidemiology, and behaviour.
+
+DOI: 10.1186/s12864-015-2009-z 
+PMCID: PMC4603968
+PMID: 26462916  [Indexed for MEDLINE]
+

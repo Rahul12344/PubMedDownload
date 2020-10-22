@@ -1,0 +1,46 @@
+
+1. PLoS Pathog. 2013;9(11):e1003775. doi: 10.1371/journal.ppat.1003775. Epub 2013
+Nov 21.
+
+SPOC1-mediated antiviral host cell response is antagonized early in human
+adenovirus type 5 infection.
+
+Schreiner S(1), Kinkley S, Bürck C, Mund A, Wimmer P, Schubert T, Groitl P, Will 
+H, Dobner T.
+
+Author information: 
+(1)Heinrich Pette Institute, Leibniz Institute for Experimental Virology,
+Hamburg, Germany.
+
+Little is known about immediate phases after viral infection and how an incoming 
+viral genome complex counteracts host cell defenses, before the start of viral
+gene expression. Adenovirus (Ad) serves as an ideal model, since entry and onset 
+of gene expression are rapid and highly efficient, and mechanisms used 24-48
+hours post infection to counteract host antiviral and DNA repair factors (e.g.
+p53, Mre11, Daxx) are well studied. Here, we identify an even earlier host cell
+target for Ad, the chromatin-associated factor and epigenetic reader, SPOC1,
+recently found recruited to double strand breaks, and playing a role in DNA
+damage response. SPOC1 co-localized with viral replication centers in the host
+cell nucleus, interacted with Ad DNA, and repressed viral gene expression at the 
+transcriptional level. We discovered that this SPOC1-mediated restriction imposed
+upon Ad growth is relieved by its functional association with the Ad major core
+protein pVII that enters with the viral genome, followed by
+E1B-55K/E4orf6-dependent proteasomal degradation of SPOC1. Mimicking removal of
+SPOC1 in the cell, knock down of this cellular restriction factor using RNAi
+techniques resulted in significantly increased Ad replication, including enhanced
+viral gene expression. However, depletion of SPOC1 also reduced the efficiency of
+E1B-55K transcriptional repression of cellular promoters, with possible
+implications for viral transformation. Intriguingly, not exclusive to Ad
+infection, other human pathogenic viruses (HSV-1, HSV-2, HIV-1, and HCV) also
+depleted SPOC1 in infected cells. Our findings provide a general model for how
+pathogenic human viruses antagonize intrinsic SPOC1-mediated antiviral responses 
+in their host cells. A better understanding of viral entry and early restrictive 
+functions in host cells should provide new perspectives for developing antiviral 
+agents and therapies. Conversely, for Ad vectors used in gene therapy,
+counteracting mechanisms eradicating incoming viral DNA would increase Ad vector 
+efficacy and safety for the patient.
+
+DOI: 10.1371/journal.ppat.1003775 
+PMCID: PMC3836738
+PMID: 24278021  [Indexed for MEDLINE]
+

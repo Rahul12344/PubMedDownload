@@ -1,0 +1,48 @@
+
+1. BMC Genomics. 2015 Dec 9;16:1038. doi: 10.1186/s12864-015-2254-1.
+
+De novo assembly of the dual transcriptomes of a polymorphic raptor species and
+its malarial parasite.
+
+Pauli M(1), Chakarov N(2)(3), Rupp O(4)(5), Kalinowski J(5), Goesmann A(4)(5),
+Sorenson MD(6), Krüger O(1), Hoffman JI(1).
+
+Author information: 
+(1)Department of Animal Behaviour, Bielefeld University, 33501, Bielefeld,
+Germany.
+(2)Department of Animal Behaviour, Bielefeld University, 33501, Bielefeld,
+Germany. az.nayden@gmail.com.
+(3)Present address: Molecular Ecology and Evolution Lab, Lund University, 223 62,
+Lund, Sweden. az.nayden@gmail.com.
+(4)Bioinformatics and Systems Biology, Justus-Liebig-University, 35390, Giessen, 
+Germany.
+(5)Center for Biotechnology, Bielefeld University, 33501, Bielefeld, Germany.
+(6)Department of Biology, Boston University, Boston, MA, 02215, USA.
+
+BACKGROUND: Studies of non-model species are important for understanding the
+molecular processes underpinning phenotypic variation under natural ecological
+conditions. The common buzzard (Buteo buteo; Aves: Accipitriformes) is a
+widespread and common Eurasian raptor with three distinct plumage morphs that
+differ in several fitness-related traits, including parasite infestation. To
+provide a genomic resource for plumage polymorphic birds in general and to search
+for candidate genes relating to fitness, we generated a transcriptome from a
+single dead buzzard specimen plus easily accessible, minimally invasive samples
+from live chicks.
+RESULTS: We not only de novo assembled a near-complete buzzard transcriptome, but
+also obtained a significant fraction of the transcriptome of its malaria-like
+parasite, Leucocytozoon buteonis. By identifying melanogenesis-related
+transcripts that are differentially expressed in light ventral and dark dorsal
+feathers, but which are also expressed in other regions of the body, we also
+identified a suite of candidate genes that could be associated with fitness
+differences among the morphs. These include several immune-related genes,
+providing a plausible link between melanisation and parasite load. qPCR analysis 
+of a subset of these genes revealed significant differences between ventral and
+dorsal feathers and an additional effect of morph.
+CONCLUSION: This new resource provides preliminary insights into genes that could
+be involved in fitness differences between the buzzard colour morphs, and should 
+facilitate future studies of raptors and their malaria-like parasites.
+
+DOI: 10.1186/s12864-015-2254-1 
+PMCID: PMC4673757
+PMID: 26645667  [Indexed for MEDLINE]
+

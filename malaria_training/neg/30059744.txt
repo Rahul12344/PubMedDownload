@@ -1,0 +1,50 @@
+
+1. Protein Expr Purif. 2018 Dec;152:122-130. doi: 10.1016/j.pep.2018.07.012. Epub
+2018 Jul 27.
+
+Downstream processing of a plant-derived malaria transmission-blocking vaccine
+candidate.
+
+Menzel S(1), Holland T(2), Boes A(1), Spiegel H(1), Fischer R(3), Buyel JF(4).
+
+Author information: 
+(1)Fraunhofer Institute for Molecular Biology and Applied Ecology IME, Aachen,
+Germany.
+(2)Fraunhofer Institute for Molecular Biology and Applied Ecology IME, Aachen,
+Germany; Eppendorf AG, Bioprocess Center, Rudolf-Schulten-Str. 5, 52428, Juelich,
+Germany.
+(3)Institute for Molecular Biotechnology, RWTH Aachen University, Aachen,
+Germany.
+(4)Fraunhofer Institute for Molecular Biology and Applied Ecology IME, Aachen,
+Germany; Institute for Molecular Biotechnology, RWTH Aachen University, Aachen,
+Germany. Electronic address: johannes.buyel@ime.fraunhofer.de.
+
+Plants as a platform for recombinant protein expression are now economically
+comparable to well-established systems, such as microbes and mammalian cells,
+thanks to advantages such as scalability and product safety. However, downstream 
+processing accounts for the majority of the final product costs because plant
+extracts contain large quantities of host cell proteins (HCPs) that must be
+removed using elaborate purification strategies. Heat precipitation in planta
+(blanching) can remove ∼80% of HCPs and thus simplify further purification steps,
+but this is only possible if the target protein is thermostable. Here we describe
+a combination of blanching and chromatography to purify the thermostable
+transmission-blocking malaria vaccine candidate FQS, which was transiently
+expressed in Nicotiana benthamiana leaves. If the blanching temperature exceeded 
+a critical threshold of ∼75 °C, FQS was no longer recognized by the malaria
+transmission-blocking monoclonal antibody 4B7. A design-of-experiments approach
+revealed that reducing the blanching temperature from 80 °C to 70 °C restored
+antibody binding while still precipitating most HCPs. We also found that
+blanching inhibited the degradation of FQS in plant extracts, probably due to the
+thermal inactivation of proteases. We screened hydrophobic interaction
+chromatography materials using miniature columns and a liquid-handling station.
+Octyl Sepharose achieved the highest FQS purity during the primary capture step
+and led to a final purity of ∼72% with 60% recovery via step elution. We found
+that 30-75% FQS was lost during ultrafiltration/diafiltration, giving a final
+yield of 9 mg kg-1 plant material after purification based on an initial yield of
+∼49 mg kg-1 biomass after blanching.
+
+Copyright © 2018 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pep.2018.07.012 
+PMID: 30059744  [Indexed for MEDLINE]
+

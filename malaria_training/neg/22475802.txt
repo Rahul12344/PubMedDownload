@@ -1,0 +1,43 @@
+
+1. BMC Bioinformatics. 2012 Apr 4;13:54. doi: 10.1186/1471-2105-13-54.
+
+Mining biological information from 3D short time-series gene expression data: the
+OPTricluster algorithm.
+
+Tchagang AB(1), Phan S, Famili F, Shearer H, Fobert P, Huang Y, Zou J, Huang D,
+Cutler A, Liu Z, Pan Y.
+
+Author information: 
+(1)Knowledge Discovery Group, Institute for Information Technology, National
+Research Council Canada, 1200 Montréal Road, Ottawa, ON K1A 0R6, Canada.
+alain.tchagang@nrc-cnrc.gc.ca
+
+BACKGROUND: Nowadays, it is possible to collect expression levels of a set of
+genes from a set of biological samples during a series of time points. Such data 
+have three dimensions: gene-sample-time (GST). Thus they are called 3D microarray
+gene expression data. To take advantage of the 3D data collected, and to fully
+understand the biological knowledge hidden in the GST data, novel subspace
+clustering algorithms have to be developed to effectively address the biological 
+problem in the corresponding space.
+RESULTS: We developed a subspace clustering algorithm called Order Preserving
+Triclustering (OPTricluster), for 3D short time-series data mining. OPTricluster 
+is able to identify 3D clusters with coherent evolution from a given 3D dataset
+using a combinatorial approach on the sample dimension, and the order preserving 
+(OP) concept on the time dimension. The fusion of the two methodologies allows
+one to study similarities and differences between samples in terms of their
+temporal expression profile. OPTricluster has been successfully applied to four
+case studies: immune response in mice infected by malaria (Plasmodium chabaudi), 
+systemic acquired resistance in Arabidopsis thaliana, similarities and
+differences between inner and outer cotyledon in Brassica napus during seed
+development, and to Brassica napus whole seed development. These studies showed
+that OPTricluster is robust to noise and is able to detect the similarities and
+differences between biological samples.
+CONCLUSIONS: Our analysis showed that OPTricluster generally outperforms other
+well known clustering algorithms such as the TRICLUSTER, gTRICLUSTER and K-means;
+it is robust to noise and can effectively mine the biological knowledge hidden in
+the 3D short time-series gene expression data.
+
+DOI: 10.1186/1471-2105-13-54 
+PMCID: PMC3376030
+PMID: 22475802  [Indexed for MEDLINE]
+

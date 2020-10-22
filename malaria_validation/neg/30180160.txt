@@ -1,0 +1,51 @@
+
+1. PLoS Negl Trop Dis. 2018 Sep 4;12(9):e0006769. doi: 10.1371/journal.pntd.0006769.
+eCollection 2018 Sep.
+
+Optimization of sand fly embryo microinjection for gene editing by CRISPR/Cas9.
+
+Martin-Martin I(1), Aryan A(2), Meneses C(1), Adelman ZN(3), Calvo E(1).
+
+Author information: 
+(1)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Rockville, Maryland, United
+States of America.
+(2)Department of Entomology and Fralin Life Science Institute, Virginia Tech,
+Blacksburg, Virginia, United States of America.
+(3)Department of Entomology and Agrilife Research, Texas A&M University, College 
+Station, Texas, United States of America.
+
+BACKGROUND: Clustered Regularly Interspaced Short Palindromic Repeats
+(CRISPR)/Cas9 technology has rapidly emerged as a very effective tool for gene
+editing. Although great advances on gene editing in the medical entomology field 
+have arisen, no attempts of gene editing have been reported in sand flies, the
+vectors of Leishmaniasis.
+METHODOLOGY/PRINCIPAL FINDINGS: Here, we described a detailed protocol for sand
+fly embryo microinjection taking into consideration the sand fly life cycle, and 
+manipulation and oviposition requirements of this non-model organism. Following
+our microinjection protocol, a hatching rate of injected embryos of 11.90%-14.22%
+was achieved, a rate consistent with other non-model organism dipterans such as
+mosquitoes. Essential factors for the adaptation of CRISPR/Cas9 technology to the
+sand fly field were addressed including the selection of a target gene and the
+design and production of sgRNA. An in vitro cleavage assay was optimized to test 
+the activity of each sgRNA and a protocol for Streptococcus pyogenes Cas9
+(spCas9) protein expression and purification was described. Relevant
+considerations for a successful gene editing in the sand fly such as specifics of
+embryology and double-stranded break DNA repair mechanisms were discussed.
+CONCLUSION AND SIGNIFICANCE: The step-by-step methodology reported in this
+article will be of significant use for setting up a sand fly embryo
+microinjection station for the incorporation of CRISPR/Cas9 technology in the
+sand fly field. Gene editing strategies used in mosquitoes and other model
+insects have been adapted to work with sand flies, providing the tools and
+relevant information for adapting gene editing techniques to the vectors of
+Leishmaniasis. Gene editing in sand flies will provide essential information on
+the biology of these vectors of medical and veterinary relevance and will rise a 
+better understanding of vector-parasite-host interactions.
+
+DOI: 10.1371/journal.pntd.0006769 
+PMCID: PMC6150542
+PMID: 30180160  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

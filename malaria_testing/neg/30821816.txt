@@ -1,0 +1,36 @@
+
+1. Gigascience. 2019 Apr 1;8(4). pii: giz014. doi: 10.1093/gigascience/giz014.
+
+Common workflow language (CWL)-based software pipeline for de novo genome
+assembly from long- and short-read data.
+
+Korhonen PK(1), Hall RS(1), Young ND(1), Gasser RB(1).
+
+Author information: 
+(1)Department of Veterinary Biosciences, Melbourne Veterinary School, The
+University of Melbourne, Parkville, Victoria 3010, Australia.
+
+BACKGROUND: Here, we created an automated pipeline for the de novoassembly of
+genomes from Pacific Biosciences long-read and Illumina short-read data using
+common workflow language (CWL). To evaluate the performance of this pipeline, we 
+assembled the nuclear genomes of the eukaryotes Caenorhabditis elegans (∼100 Mb),
+Drosophila melanogaster (∼138 Mb), and Plasmodium falciparum (∼23 Mb) directly
+from publicly accessible nucleotide sequence datasets and assessed the quality of
+the assemblies against curated reference genomes.
+FINDINGS: We showed a dependency of the accuracy of assembly on sequencing
+technology and GC content and repeatedly achieved assemblies that meet the high
+standards set by the National Human Genome Research Institute, being applicable
+to gene prediction and subsequent genomic analyses.
+CONCLUSIONS: This CWL pipeline overcomes current challenges of achieving
+repeatability and reproducibility of assembly results and offers a platform for
+the re-use of the workflow and the integration of diverse datasets. This workflow
+is publicly available via GitHub (https://github.com/vetscience/Assemblosis) and 
+is currently applicable to the assembly of haploid and diploid genomes of
+eukaryotes.
+
+© The Author(s) 2019. Published by Oxford University Press.
+
+DOI: 10.1093/gigascience/giz014 
+PMCID: PMC6451199
+PMID: 30821816  [Indexed for MEDLINE]
+

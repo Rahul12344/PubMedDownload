@@ -1,0 +1,40 @@
+
+1. Sci Rep. 2014 May 30;4:5127. doi: 10.1038/srep05127.
+
+A viral over-expression system for the major malaria mosquito Anopheles gambiae.
+
+Suzuki Y(1), Niu G(2), Hughes GL(1), Rasgon JL(1).
+
+Author information: 
+(1)Department of Entomology, Center for Infectious Disease Dynamics and the Huck 
+Institutes of the Life Sciences, Pennsylvania State University, University Park, 
+Pennsylvania, 16802, United States of America.
+(2)1] Department of Entomology, Center for Infectious Disease Dynamics and the
+Huck Institutes of the Life Sciences, Pennsylvania State University, University
+Park, Pennsylvania, 16802, United States of America [2].
+
+Understanding pathogen/mosquito interactions is essential for developing novel
+strategies to control mosquito-borne diseases. Technical advances in
+reverse-genetics, such as RNA interference (RNAi), have facilitated elucidation
+of components of the mosquito immune system that are antagonistic to pathogen
+development, and host proteins essential for parasite development. Forward
+genetic approaches, however, are limited to generation of transgenic insects, and
+while powerful, mosquito transgenesis is a resource- and time-intensive technique
+that is not broadly available to most laboratories. The ability to easily
+"over-express" genes would enhance molecular studies in vector biology and
+expedite elucidation of pathogen-refractory genes without the need to make
+transgenic insects. We developed and characterized an efficient Anopheles gambiae
+densovirus (AgDNV) over-expression system for the major malaria vector Anopheles 
+gambiae. High-levels of gene expression were detected at 3 days post-infection
+and increased over time, suggesting this is an effective system for gene
+induction. Strong expression was observed in the fat body and ovaries. We
+validated multiple short promoters for gene induction studies. Finally, we
+developed a polycistronic system to simultaneously express multiple genes of
+interest. This AgDNV-based toolset allows for consistent transduction of genes of
+interest and will be a powerful molecular tool for research in Anopheles gambiae 
+mosquitoes.
+
+DOI: 10.1038/srep05127 
+PMCID: PMC4038844
+PMID: 24875042  [Indexed for MEDLINE]
+

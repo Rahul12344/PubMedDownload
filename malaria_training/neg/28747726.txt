@@ -1,0 +1,40 @@
+
+1. Sci Rep. 2017 Jul 26;7(1):6493. doi: 10.1038/s41598-017-07013-1.
+
+Association of microRNAs with Argonaute proteins in the malaria mosquito
+Anopheles gambiae after blood ingestion.
+
+Fu X(1), Dimopoulos G(2), Zhu J(3).
+
+Author information: 
+(1)The Interdisciplinary PhD Program in Genetics, Bioinformatics, and
+Computational Biology, Virginia Tech, Blacksburg, Virginia, USA.
+(2)W. Harry Feinstone Department of Molecular Microbiology and Immunology,
+Bloomberg School of Public Health, Johns Hopkins University, Baltimore, Maryland,
+USA.
+(3)Department of Biochemistry, Virginia Tech, 340 West Campus Drive, Blacksburg, 
+Virginia, 24061, USA. zhujin@vt.edu.
+
+Drastic changes in gene expression occur after adult female mosquitoes take a
+blood meal and use the nutrients for egg maturation. A growing body of evidence
+indicates that microRNAs (miRNAs) contribute to this tightly controlled tissue-
+and stage-specific gene expression. To investigate the role of miRNAs, we
+monitored miRNA expression in the mosquito Anopheles gambiae during the 72-h
+period immediately after blood feeding. We also measured the association of
+miRNAs with Argonaute 1 (Ago1) and Argonaute 2 (Ago2) to assess the functional
+status of individual miRNA species. Overall, 173 mature miRNAs were precipitated 
+with Ago1 and Ago2, including 12 new miRNAs, the orthologs of which are found
+thus far only in other Anopheles species. Ago1 is the predominant carrier of
+miRNAs in Anopheles gambiae. The abundance and Ago loading of most of the mature 
+miRNAs were relatively stable after blood ingestion. However, miRNAs of the
+miR-309/286/2944 cluster were considerably upregulated after blood feeding.
+Injection of the specific antagomir for miR-309 resulted in smaller developing
+oocytes and ultimately fewer eggs. In addition, the Ago association of some
+miRNAs was not proportional to their cellular abundance, suggesting that
+integration of miRNAs into the Ago complexes is regulated by additional
+mechanisms.
+
+DOI: 10.1038/s41598-017-07013-1 
+PMCID: PMC5529372
+PMID: 28747726  [Indexed for MEDLINE]
+

@@ -1,0 +1,52 @@
+
+1. mBio. 2014 Jul 1;5(4):e01414-14. doi: 10.1128/mBio.01414-14.
+
+Efficient editing of malaria parasite genome using the CRISPR/Cas9 system.
+
+Zhang C(1), Xiao B(1), Jiang Y(1), Zhao Y(1), Li Z(1), Gao H(1), Ling Y(1), Wei
+J(1), Li S(1), Lu M(1), Su XZ(2), Cui H(3), Yuan J(1).
+
+Author information: 
+(1)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian, China.
+(2)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA
+cuihuiting@xmu.edu.cn yuanjing@xmu.edu.cn.
+(3)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian, China
+cuihuiting@xmu.edu.cn yuanjing@xmu.edu.cn.
+
+Malaria parasites are unicellular organisms residing inside the red blood cells, 
+and current methods for editing the parasite genes have been inefficient. The
+CRISPR/Cas9 (clustered regularly interspaced short palindromic repeats and Cas9
+endonuclease-mediated genome editing) system is a new powerful technique for
+genome editing and has been widely employed to study gene function in various
+organisms. However, whether this technique can be applied to modify the genomes
+of malaria parasites has not been determined. In this paper, we demonstrated that
+Cas9 is able to introduce site-specific DNA double-strand breaks in the
+Plasmodium yoelii genome that can be repaired through homologous recombination.
+By supplying engineered homologous repair templates, we generated targeted
+deletion, reporter knock-in, and nucleotide replacement in multiple parasite
+genes, achieving up to 100% efficiency in gene deletion and 22 to 45%
+efficiencies in knock-in and allelic replacement. Our results establish
+methodologies for introducing desired modifications in the P. yoelii genome with 
+high efficiency and accuracy, which will greatly improve our ability to study
+gene function of malaria parasites. Importance: Malaria, caused by infection of
+Plasmodium parasites, remains a world-wide public health burden. Although the
+genomes of many malaria parasites have been sequenced, we still do not know the
+functions of approximately half of the genes in the genomes. Studying gene
+function has become the focus of many studies; however, editing genes in malaria 
+parasite genomes is still inefficient. Here we designed several efficient
+approaches, based on the CRISPR/Cas9 system, to introduce site-specific DNA
+double-strand breaks in the Plasmodium yoelii genome that can be repaired through
+homologous recombination. Using this system, we achieved high efficiencies in
+gene deletion, reporter tagging, and allelic replacement in multiple parasite
+genes. This technique for editing the malaria parasite genome will greatly
+facilitate our ability to elucidate gene function.
+
+Copyright © 2014 Zhang et al.
+
+DOI: 10.1128/mBio.01414-14 
+PMCID: PMC4161241
+PMID: 24987097  [Indexed for MEDLINE]
+

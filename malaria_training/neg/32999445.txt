@@ -1,0 +1,31 @@
+
+1. Commun Biol. 2020 Sep 30;3(1):540. doi: 10.1038/s42003-020-01203-w.
+
+Regulatory gene function handoff allows essential gene loss in mosquitoes.
+
+Cheatle Jarvela AM(1), Trelstad CS(1), Pick L(2).
+
+Author information: 
+(1)Department of Entomology, University of Maryland, Collage Park, MD, USA.
+(2)Department of Entomology, University of Maryland, Collage Park, MD, USA.
+lpick@umd.edu.
+
+Regulatory genes are often multifunctional and constrained, which results in
+evolutionary conservation. It is difficult to understand how a regulatory gene
+could be lost from one species' genome when it is essential for viability in
+closely related species. The gene paired is a classic Drosophila pair-rule gene, 
+required for formation of alternate body segments in diverse insect species.
+Surprisingly, paired was lost in mosquitoes without disrupting body patterning.
+Here, we demonstrate that a paired family member, gooseberry, has acquired
+paired-like expression in the malaria mosquito Anopheles stephensi.
+Anopheles-gooseberry CRISPR-Cas9 knock-out mutants display pair-rule phenotypes
+and alteration of target gene expression similar to what is seen in Drosophila
+and beetle paired mutants. Thus, paired was functionally replaced by the related 
+gene, gooseberry, in mosquitoes. Our findings document a rare example of a
+functional replacement of an essential regulatory gene and provide a mechanistic 
+explanation of how such loss can occur.
+
+DOI: 10.1038/s42003-020-01203-w 
+PMCID: PMC7528073
+PMID: 32999445 
+

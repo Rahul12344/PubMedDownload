@@ -1,0 +1,37 @@
+
+1. Proc Natl Acad Sci U S A. 2013 Jul 16;110(29):12036-41. doi:
+10.1073/pnas.1307157110. Epub 2013 Jul 1.
+
+BET proteins promote efficient murine leukemia virus integration at transcription
+start sites.
+
+Sharma A(1), Larue RC, Plumb MR, Malani N, Male F, Slaughter A, Kessl JJ,
+Shkriabai N, Coward E, Aiyer SS, Green PL, Wu L, Roth MJ, Bushman FD,
+Kvaratskhelia M.
+
+Author information: 
+(1)Center for Retrovirus Research, College of Pharmacy, The Ohio State
+University, Columbus, OH 43210, USA.
+
+The selection of chromosomal targets for retroviral integration varies markedly, 
+tracking with the genus of the retrovirus, suggestive of targeting by binding to 
+cellular factors. γ-Retroviral murine leukemia virus (MLV) DNA integration into
+the host genome is favored at transcription start sites, but the underlying
+mechanism for this preference is unknown. Here, we have identified bromodomain
+and extraterminal domain (BET) proteins (Brd2, -3, -4) as cellular-binding
+partners of MLV integrase. We show that purified recombinant Brd4(1-720) binds
+with high affinity to MLV integrase and stimulates correct concerted integration 
+in vitro. JQ-1, a small molecule that selectively inhibits interactions of BET
+proteins with modified histone sites impaired MLV but not HIV-1 integration in
+infected cells. Comparison of the distribution of BET protein-binding sites
+analyzed using ChIP-Seq data and MLV-integration sites revealed significant
+positive correlations. Antagonism of BET proteins, via JQ-1 treatment or RNA
+interference, reduced MLV-integration frequencies at transcription start sites.
+These findings elucidate the importance of BET proteins for MLV integration
+efficiency and targeting and provide a route to developing safer MLV-based
+vectors for human gene therapy.
+
+DOI: 10.1073/pnas.1307157110 
+PMCID: PMC3718171
+PMID: 23818621  [Indexed for MEDLINE]
+

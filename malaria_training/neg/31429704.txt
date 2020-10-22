@@ -1,0 +1,70 @@
+
+1. BMC Genomics. 2019 Aug 20;20(1):664. doi: 10.1186/s12864-019-6034-1.
+
+De novo profiling of RNA viruses in Anopheles malaria vector mosquitoes from
+forest ecological zones in Senegal and Cambodia.
+
+Belda E(1)(2)(3), Nanfack-Minkeu F(1)(2)(4), Eiglmeier K(1)(2), Carissimo G(5),
+Holm I(1)(2), Diallo M(6), Diallo D(6), Vantaux A(7), Kim S(7), Sharakhov IV(8), 
+Vernick KD(9)(10).
+
+Author information: 
+(1)Unit of Insect Vector Genetics and Genomics, Department of Parasites and
+Insect Vectors, Institut Pasteur, Paris, France.
+(2)CNRS Unit of Evolutionary Genomics, Modeling, and Health (UMR2000), Institut
+Pasteur, Paris, France.
+(3)Integromics Unit, Institute of Cardiometabolism and Nutrition, Assistance
+Publique Hôpitaux de Paris, Pitié-Salpêtrière Hospital, Paris, France.
+(4)Sorbonne Université, Graduate School of Life Sciences ED515, UPMC - Université
+Pierre et Marie Curie - Paris 6, 4 Place Jussieu, 75252, Paris, France.
+(5)Laboratory of Microbial Immunity, Singapore Immunology Network, Agency for
+Science, Technology and Research (A(∗)STAR), Singapore, Singapore.
+(6)Institut Pasteur de Dakar, Dakar, Senegal.
+(7)Institut Pasteur of Cambodia, Phnom Penh, Cambodia.
+(8)Department of Entomology, Virginia Polytechnic Institute and State University,
+Blacksburg, VA, USA.
+(9)Unit of Insect Vector Genetics and Genomics, Department of Parasites and
+Insect Vectors, Institut Pasteur, Paris, France. kvernick@pasteur.fr.
+(10)CNRS Unit of Evolutionary Genomics, Modeling, and Health (UMR2000), Institut 
+Pasteur, Paris, France. kvernick@pasteur.fr.
+
+Erratum in
+    BMC Genomics. 2019 Sep 5;20(1):698.
+
+BACKGROUND: Mosquitoes are colonized by a large but mostly uncharacterized
+natural virome of RNA viruses, and the composition and distribution of the
+natural RNA virome may influence the biology and immunity of Anopheles malaria
+vector populations.
+RESULTS: Anopheles mosquitoes were sampled in malaria endemic forest village
+sites in Senegal and Cambodia, including Anopheles funestus, Anopheles gambiae
+group sp., and Anopheles coustani in Senegal, and Anopheles hyrcanus group sp.,
+Anopheles maculatus group sp., and Anopheles dirus in Cambodia. The most frequent
+mosquito species sampled at both study sites are human malaria vectors. Small and
+long RNA sequences were depleted of mosquito host sequences, de novo assembled
+and clustered to yield non-redundant contigs longer than 500 nucleotides.
+Analysis of the assemblies by sequence similarity to known virus families yielded
+115 novel virus sequences, and evidence supports a functional status for at least
+86 of the novel viral contigs. Important monophyletic virus clades in the
+Bunyavirales and Mononegavirales orders were found in these Anopheles from Africa
+and Asia. The remaining non-host RNA assemblies that were unclassified by
+sequence similarity to known viruses were clustered by small RNA profiles, and 39
+high-quality independent contigs strongly matched a pattern of classic RNAi
+processing of viral replication intermediates, suggesting they are entirely
+undescribed viruses. One thousand five hundred sixty-six additional high-quality 
+unclassified contigs matched a pattern consistent with Piwi-interacting RNAs
+(piRNAs), suggesting that strand-biased piRNAs are generated from the natural
+virome in Anopheles. To functionally query piRNA effect, we analyzed piRNA
+expression in Anopheles coluzzii after infection with O'nyong nyong virus (family
+Togaviridae), and identified two piRNAs that appear to display specifically
+altered abundance upon arbovirus infection.
+CONCLUSIONS: Anopheles vectors of human malaria in Africa and Asia are
+ubiquitously colonized by RNA viruses, some of which are monophyletic but clearly
+diverged from other arthropod viruses. The interplay between small RNA pathways, 
+immunity, and the virome may represent part of the homeostatic mechanism
+maintaining virome members in a commensal or nonpathogenic state, and could
+potentially influence vector competence.
+
+DOI: 10.1186/s12864-019-6034-1 
+PMCID: PMC6702732
+PMID: 31429704  [Indexed for MEDLINE]
+

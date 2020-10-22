@@ -1,0 +1,30 @@
+
+1. Vaccine. 2001 Oct 12;20(1-2):3-6.
+
+Effector cytotoxic T lymphocyte numbers induced by vaccination should exceed
+levels in chronic infection for protection from HIV.
+
+Altes HK(1), Price DA, Jansen VA.
+
+Author information: 
+(1)WTCEID, University of Oxford, South Parks Road, OX1 3PS, Oxford, UK.
+korthals@ccr.jussieu.fr
+
+Recent technological advances have revolutionised our capacity to induce
+cytotoxic T lymphocyte (CTL) responses with a variety of vaccine formulations and
+delivery systems. However, the conditions required for a CTL-inducing vaccine to 
+provide protection from infection or disease are poorly understood, and the
+results of challenge experiments have not been consistent. Here we use a
+mathematical model to examine the requirements necessary for successful
+vaccination against human immunodeficiency virus (HIV) through cellular immunity.
+We describe the interaction between cytotoxic T cells and infected lymphocytes,
+capturing the essence of a persistent infection of immune cells. We conclude that
+to protect from infection, the cellular immune response should be boosted to
+levels exceeding those in chronic infection. This requires either that effector
+CTL exceed this threshold before infection, or that a memory CTL population is
+established that can yield this level of effector CTL very quickly upon
+infection.
+
+DOI: 10.1016/s0264-410x(01)00318-8 
+PMID: 11567737  [Indexed for MEDLINE]
+

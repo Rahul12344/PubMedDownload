@@ -1,0 +1,40 @@
+
+1. Adv Exp Med Biol. 2018;1087:17-33. doi: 10.1007/978-981-13-1426-1_2.
+
+RNA sequencing and Prediction Tools for Circular RNAs Analysis.
+
+López-Jiménez E(1), Rojas AM(2), Andrés-León E(3).
+
+Author information: 
+(1)Imperial College London, London, UK.
+(2)Computational Biology and Bioinformatics Group, Institute of Biomedicine of
+Seville, Seville, Spain.
+(3)Bioinformatics Unit, Instituto de Parasitología y Biomedicina "López-Neyra",
+Consejo Superior de Investigaciones Científicas (IPBLN-CSIC), Granada, Spain.
+eandres@ipb.csic.es.
+
+Circular RNAs (circRNAs) are noncoding and single-stranded RNA transcripts able
+to form covalently circular-closed structures. They are generated through
+alternative splicing events and widely expressed from human to viruses. CircRNAs 
+have been appointed as potential regulators of microRNAs (miRNAs), RNA-binding
+proteins (RPBs), and lineal protein-coding transcripts. Although their mechanism 
+of action remains unclear, the deregulation of circular RNAs has been confirmed
+in different diseases such as Alzheimer or cancer.The introduction of
+high-throughput next-generation sequencing (NGS) technology provides millions of 
+short RNA sequences at single-nucleotide level, allowing an accurate and
+proficient method to measure circular RNAs. Novel protocols based on
+non-polyadenylated RNAs, rRNA-depleted, and RNA exonuclease-based enrichment
+approaches (RNase R) have taken even further the possibility of detecting
+circRNAs.Besides, the identification of circRNAs presence requires the
+development of specific bioinformatics tools to detect junction-spanning
+sequences from transcriptome deep-sequencing samples. Thus, recently established 
+bioinformatics' approaches have permitted the discovery of an elevated number of 
+different circRNAs in diverse organisms. In that sense, recent studies have
+compared different methods and advocate the simultaneous use of more than one
+prediction tool. For that reason, we want to highlight pipelines such as
+miARma-Seq that is able to execute various circular RNA identification algorithms
+in an easy way, without the tedious installation of third-party prerequisites.
+
+DOI: 10.1007/978-981-13-1426-1_2 
+PMID: 30259354  [Indexed for MEDLINE]
+

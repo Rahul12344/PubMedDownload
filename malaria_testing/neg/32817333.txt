@@ -1,0 +1,58 @@
+
+1. J Immunol. 2020 Sep 15;205(6):1608-1619. doi: 10.4049/jimmunol.2000450. Epub 2020
+Aug 17.
+
+Exhausted CD4+ T Cells during Malaria Exhibit Reduced mTORc1 Activity Correlated 
+with Loss of T-bet Expression.
+
+Villegas-Mendez A(1), Khandelwal G(2), McGowan LM(1)(3), Dookie RS(1), Haley
+MJ(1), George C(4), Sims D(4), Lord GM(1), Sinclair LV(5), Jenner RG(2), Couper
+KN(6).
+
+Author information: 
+(1)The Lydia Becker Institute of Immunology and Inflammation, Faculty of Biology,
+Medicine and Health, University of Manchester, Manchester M13 9PT, United
+Kingdom.
+(2)University College London Cancer Institute, University College London, London 
+WC1E 6DD, United Kingdom.
+(3)Department of Physiology, Pharmacology and Neuroscience, Faculty of Life
+Sciences, University of Bristol, Bristol BS8 1TD, United Kingdom.
+(4)Oxford Biomedical Data Science Training Programme, Medical Research Council
+Wetherall Institute of Molecular Medicine Centre for Computational Biology,
+Medical Research Council Wetherall Institute of Molecular Medicine, University of
+Oxford, John Radcliffe Hospital, Oxford OX3 9DS, United Kingdom; and.
+(5)Division of Cell Signaling and Immunology, School of Life Sciences, University
+of Dundee, Dundee DD1 5EH, United Kingdom.
+(6)The Lydia Becker Institute of Immunology and Inflammation, Faculty of Biology,
+Medicine and Health, University of Manchester, Manchester M13 9PT, United
+Kingdom; kevin.couper@manchester.ac.uk.
+
+CD4+ T cell functional inhibition (exhaustion) is a hallmark of malaria and
+correlates with impaired parasite control and infection chronicity. However, the 
+mechanisms of CD4+ T cell exhaustion are still poorly understood. In this study, 
+we show that Ag-experienced (Ag-exp) CD4+ T cell exhaustion during Plasmodium
+yoelii nonlethal infection occurs alongside the reduction in mammalian target of 
+rapamycin (mTOR) activity and restriction in CD4+ T cell glycolytic capacity. We 
+demonstrate that the loss of glycolytic metabolism and mTOR activity within the
+exhausted Ag-expCD4+ T cell population during infection coincides with reduction 
+in T-bet expression. T-bet was found to directly bind to and control the
+transcription of various mTOR and metabolism-related genes within effector CD4+ T
+cells. Consistent with this, Ag-expTh1 cells exhibited significantly higher and
+sustained mTOR activity than effector T-bet- (non-Th1) Ag-expT cells throughout
+the course of malaria. We identified mTOR to be redundant for sustaining T-bet
+expression in activated Th1 cells, whereas mTOR was necessary but not sufficient 
+for maintaining IFN-γ production by Th1 cells. Immunotherapy targeting PD-1,
+CTLA-4, and IL-27 blocked CD4+ T cell exhaustion during malaria infection and was
+associated with elevated T-bet expression and a concomitant increased CD4+ T cell
+glycolytic metabolism. Collectively, our data suggest that mTOR activity is
+linked to T-bet in Ag-expCD4+ T cells but that reduction in mTOR activity may not
+directly underpin Ag-expTh1 cell loss and exhaustion during malaria infection.
+These data have implications for therapeutic reactivation of exhausted CD4+ T
+cells during malaria infection and other chronic conditions.
+
+Copyright © 2020 The Authors.
+
+DOI: 10.4049/jimmunol.2000450 
+PMCID: PMC7477746
+PMID: 32817333 
+

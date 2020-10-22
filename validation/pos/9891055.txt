@@ -1,0 +1,36 @@
+
+1. Mol Cell Biol. 1999 Feb;19(2):1210-7.
+
+The arginine-rich domains present in human immunodeficiency virus type 1 Tat and 
+Rev function as direct importin beta-dependent nuclear localization signals.
+
+Truant R(1), Cullen BR.
+
+Author information: 
+(1)Howard Hughes Medical Institute and Department of Genetics, Duke University
+Medical Center, Durham, North Carolina 27710, USA.
+
+Protein nuclear import is generally mediated by basic nuclear localization
+signals (NLSs) that serve as targets for the importin alpha (Imp alpha) NLS
+receptor. Imp alpha is in turn bound by importin beta (Imp beta), which targets
+the resultant protein complex to the nucleus. Here, we report that the
+arginine-rich NLS sequences present in the human immunodeficiency virus type 1
+regulatory proteins Tat and Rev fail to interact with Imp alpha and instead bind 
+directly to Imp beta. Using in vitro nuclear import assays, we demonstrate that
+Imp alpha is entirely dispensable for Tat and Rev nuclear import. In contrast,
+Imp beta proved both sufficient and necessary, in that other beta-like import
+factors, such as transportin, were unable to support Tat or Rev nuclear import.
+Using in vitro competition assays, it was demonstrated that the target sites on
+Imp beta for Imp alpha, Tat, and Rev binding either are identical or at least
+overlap. The interaction of Tat and Rev with Imp beta is also similar to Imp
+alpha binding in that it is inhibited by RanGTP but not RanGDP, a finding that
+may in part explain why the interaction of the Rev nuclear RNA export factor with
+target RNA species is efficient in the cell nucleus yet is released in the
+cytoplasm. Together, these studies define a novel class of arginine-rich NLS
+sequences that are direct targets for Imp beta and that therefore function
+independently of Imp alpha.
+
+DOI: 10.1128/mcb.19.2.1210 
+PMCID: PMC116050
+PMID: 9891055  [Indexed for MEDLINE]
+

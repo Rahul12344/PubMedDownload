@@ -1,0 +1,44 @@
+
+1. Retrovirology. 2008 Jan 28;5:8. doi: 10.1186/1742-4690-5-8.
+
+The histone chaperone protein Nucleosome Assembly Protein-1 (hNAP-1) binds HIV-1 
+Tat and promotes viral transcription.
+
+Vardabasso C(1), Manganaro L, Lusic M, Marcello A, Giacca M.
+
+Author information: 
+(1)Molecular Medicine Laboratory, International Centre for Genetic Engineering
+and Biotechnology (ICGEB), Padriciano 99, 34012 Trieste, Italy.
+vardabas@icgeb.org
+
+BACKGROUND: Despite the large amount of data available on the molecular
+mechanisms that regulate HIV-1 transcription, crucial information is still
+lacking about the interplay between chromatin conformation and the events that
+regulate initiation and elongation of viral transcription. During transcriptional
+activation, histone acetyltransferases and ATP-dependent chromatin remodeling
+complexes cooperate with histone chaperones in altering chromatin structure. In
+particular, human Nucleosome Assembly Protein-1 (hNAP-1) is known to act as a
+histone chaperone that shuttles histones H2A/H2B into the nucleus, assembles
+nucleosomes and promotes chromatin fluidity, thereby affecting transcription of
+several cellular genes.
+RESULTS: Using a proteomic screening, we identified hNAP-1 as a novel cellular
+protein interacting with HIV-1 Tat. We observed that Tat specifically binds
+hNAP1, but not other members of the same family of factors. Binding between the
+two proteins required the integrity of the basic domain of Tat and of two
+separable domains of hNAP-1 (aa 162-290 and 290-391). Overexpression of hNAP-1
+significantly enhanced Tat-mediated activation of the LTR. Conversely, silencing 
+of the protein decreased viral promoter activity. To explore the effects of
+hNAP-1 on viral infection, a reporter HIV-1 virus was used to infect cells in
+which hNAP-1 had been either overexpressed or knocked-down. Consistent with the
+gene expression results, these two treatments were found to increase and inhibit 
+viral infection, respectively. Finally, we also observed that the overexpression 
+of p300, a known co-activator of both Tat and hNAP-1, enhanced hNAP-1-mediated
+transcriptional activation as well as its interaction with Tat.
+CONCLUSION: Our study reveals that HIV-1 Tat binds the histone chaperone hNAP-1
+both in vitro and in vivo and shows that this interaction participates in the
+regulation of Tat-mediated activation of viral gene expression.
+
+DOI: 10.1186/1742-4690-5-8 
+PMCID: PMC2266780
+PMID: 18226242  [Indexed for MEDLINE]
+

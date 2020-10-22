@@ -1,0 +1,43 @@
+
+1. Nature. 2011 Aug 24;477(7364):340-3. doi: 10.1038/nature10348.
+
+Ebola virus entry requires the cholesterol transporter Niemann-Pick C1.
+
+Carette JE(1), Raaben M, Wong AC, Herbert AS, Obernosterer G, Mulherkar N, Kuehne
+AI, Kranzusch PJ, Griffin AM, Ruthel G, Dal Cin P, Dye JM, Whelan SP, Chandran K,
+Brummelkamp TR.
+
+Author information: 
+(1)Whitehead Institute for Biomedical Research, Nine Cambridge Center, Cambridge,
+Massachusetts 02142, USA.
+
+Comment in
+    Nat Rev Drug Discov. 2011 Oct;10(10):731.
+
+Infections by the Ebola and Marburg filoviruses cause a rapidly fatal
+haemorrhagic fever in humans for which no approved antivirals are available.
+Filovirus entry is mediated by the viral spike glycoprotein (GP), which attaches 
+viral particles to the cell surface, delivers them to endosomes and catalyses
+fusion between viral and endosomal membranes. Additional host factors in the
+endosomal compartment are probably required for viral membrane fusion; however,
+despite considerable efforts, these critical host factors have defied molecular
+identification. Here we describe a genome-wide haploid genetic screen in human
+cells to identify host factors required for Ebola virus entry. Our screen
+uncovered 67 mutations disrupting all six members of the homotypic fusion and
+vacuole protein-sorting (HOPS) multisubunit tethering complex, which is involved 
+in the fusion of endosomes to lysosomes, and 39 independent mutations that
+disrupt the endo/lysosomal cholesterol transporter protein Niemann-Pick C1
+(NPC1). Cells defective for the HOPS complex or NPC1 function, including primary 
+fibroblasts derived from human Niemann-Pick type C1 disease patients, are
+resistant to infection by Ebola virus and Marburg virus, but remain fully
+susceptible to a suite of unrelated viruses. We show that membrane fusion
+mediated by filovirus glycoproteins and viral escape from the vesicular
+compartment require the NPC1 protein, independent of its known function in
+cholesterol transport. Our findings uncover unique features of the entry pathway 
+used by filoviruses and indicate potential antiviral strategies to combat these
+deadly agents.
+
+DOI: 10.1038/nature10348 
+PMCID: PMC3175325
+PMID: 21866103  [Indexed for MEDLINE]
+

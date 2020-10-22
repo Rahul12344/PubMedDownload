@@ -1,0 +1,51 @@
+
+1. Malar J. 2014 Mar 17;13:102. doi: 10.1186/1475-2875-13-102.
+
+Estimation of malaria haplotype and genotype frequencies: a statistical approach 
+to overcome the challenge associated with multiclonal infections.
+
+Taylor AR(1), Flegg JA, Nsobya SL, Yeka A, Kamya MR, Rosenthal PJ, Dorsey G,
+Sibley CH, Guerin PJ, Holmes CC.
+
+Author information: 
+(1)WorldWide Antimalarial Resistance Network (WWARN), Oxford, UK.
+aimee.taylor@wwarn.org.
+
+BACKGROUND: Reliable measures of anti-malarial resistance are crucial for malaria
+control. Resistance is typically a complex trait: multiple mutations in a single 
+parasite (a haplotype or genotype) are necessary for elaboration of the resistant
+phenotype. The frequency of a genetic motif (proportion of parasite clones in the
+parasite population that carry a given allele, haplotype or genotype) is a useful
+measure of resistance. In areas of high endemicity, malaria patients generally
+harbour multiple parasite clones; they have multiplicities of infection (MOIs)
+greater than one. However, most standard experimental procedures only allow
+measurement of marker prevalence (proportion of patient blood samples that test
+positive for a given mutation or combination of mutations), not frequency. It is 
+misleading to compare marker prevalence between sites that have different mean
+MOIs; frequencies are required instead.
+METHODS: A Bayesian statistical model was developed to estimate Plasmodium
+falciparum genetic motif frequencies from prevalence data collected in the field.
+To assess model performance and computational speed, a detailed simulation study 
+was implemented. Application of the model was tested using datasets from five
+sites in Uganda. The datasets included prevalence data on markers of resistance
+to sulphadoxine-pyrimethamine and an average MOI estimate for each study site.
+RESULTS: The simulation study revealed that the genetic motif frequencies that
+were estimated using the model were more accurate and precise than conventional
+estimates based on direct counting. Importantly, the model did not require
+measurements of the MOI in each patient; it used the average MOI in the patient
+population. Furthermore, if a dataset included partially genotyped patient blood 
+samples, the model imputed the data that were missing. Using the model and the
+Ugandan data, genotype frequencies were estimated and four biologically relevant 
+genotypes were identified.
+CONCLUSIONS: The model allows fast, accurate, reliable estimation of the
+frequency of genetic motifs associated with resistance to anti-malarials using
+prevalence data collected from malaria patients. The model does not require
+per-patient MOI measurements and can easily analyse data from five markers. The
+model will be a valuable tool for monitoring markers of anti-malarial drug
+resistance, including markers of resistance to artemisinin derivatives and
+partner drugs.
+
+DOI: 10.1186/1475-2875-13-102 
+PMCID: PMC4004158
+PMID: 24636676  [Indexed for MEDLINE]
+

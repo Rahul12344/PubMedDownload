@@ -1,0 +1,33 @@
+
+1. J Mol Biol. 2006 Apr 28;358(2):430-42. Epub 2006 Feb 13.
+
+Specific recognition of HIV TAR RNA by the dsRNA binding domains (dsRBD1-dsRBD2) 
+of PKR.
+
+Kim I(1), Liu CW, Puglisi JD.
+
+Author information: 
+(1)Department of Structural Biology, Stanford University School of Medicine,
+Stanford, CA 94305-5126, USA.
+
+PKR (double-stranded RNA-dependent protein kinase) is an important component of
+host defense to virus infection. Binding of dsRNA to two dsRBDs (double-stranded 
+RNA binding domains) of PKR modulates its own kinase activation. How structural
+features of natural target RNAs, such as bulges and loops, have an effect on the 
+binding to two dsRBDs of PKR still remains unclear. By using ITC and NMR, we show
+here that both the bulge and loop of TAR RNA are necessary for the high affinity 
+binding to dsRBD1-dsRBD2 of PKR with 1:1 stoichiometry. The binding site for the 
+dsRBD1-dsRBD2 spans from upper bulge to lower stem of the TAR RNA, based on
+chemical shift mapping. The backbone resonances in the 40 kDa TAR.dsRBD1-dsRBD2
+were assigned. NMR chemical shift perturbation data suggest that the beta1-beta2 
+loop of the dsRBD1 interacts with the TAR RNA, whereas that of the dsRBD2 is less
+involved in the TAR RNA recognition. In addition, the residues of the interdomain
+linker between the dsRBD1 and the dsRBD2 also show large chemical perturbations
+indicating that the linker is involved in the recognition of TAR RNA. The results
+presented here provide the biophysical and spectroscopic basis for
+high-resolution structural studies, and show how local RNA structural features
+modulate recognition by dsRBDs.
+
+DOI: 10.1016/j.jmb.2006.01.099 
+PMID: 16516925  [Indexed for MEDLINE]
+

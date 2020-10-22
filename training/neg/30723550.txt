@@ -1,0 +1,51 @@
+
+1. Virus Evol. 2019 Jan 30;5(1):vey038. doi: 10.1093/ve/vey038. eCollection 2019
+Jan.
+
+Link between the numbers of particles and variants founding new HIV-1 infections 
+depends on the timing of transmission.
+
+Thompson RN(1)(2)(3), Wymant C(4), Spriggs RA(5), Raghwani J(1)(4), Fraser C(4), 
+Lythgoe KA(1)(4).
+
+Author information: 
+(1)Department of Zoology, University of Oxford, South Parks Road, Oxford, UK.
+(2)Mathematical Institute, University of Oxford, Andrew Wiles Building, Radcliffe
+Observatory Quarter, Oxford, UK.
+(3)Christ Church, University of Oxford, St Aldates, Oxford, UK.
+(4)Big Data Institute, Li Ka Shing Centre for Health Information and Discovery,
+Nuffield Department of Medicine, University of Oxford, Oxford, UK.
+(5)Department of Plant Sciences, University of Cambridge, Downing Street,
+Cambridge, UK.
+
+Understanding which HIV-1 variants are most likely to be transmitted is important
+for vaccine design and predicting virus evolution. Since most infections are
+founded by single variants, it has been suggested that selection at transmission 
+has a key role in governing which variants are transmitted. We show that the
+composition of the viral population within the donor at the time of transmission 
+is also important. To support this argument, we developed a probabilistic model
+describing HIV-1 transmission in an untreated population, and parameterised the
+model using both within-host next generation sequencing data and population-level
+epidemiological data on heterosexual transmission. The most basic HIV-1
+transmission models cannot explain simultaneously the low probability of
+transmission and the non-negligible proportion of infections founded by multiple 
+variants. In our model, transmission can only occur when environmental conditions
+are appropriate (e.g. abrasions are present in the genital tract of the potential
+recipient), allowing these observations to be reconciled. As well as reproducing 
+features of transmission in real populations, our model demonstrates that,
+contrary to expectation, there is not a simple link between the number of viral
+variants and the number of viral particles founding each new infection. These
+quantities depend on the timing of transmission, and infections can be founded
+with small numbers of variants yet large numbers of particles. Including
+selection, or a bias towards early transmission (e.g. due to treatment), acts to 
+enhance this conclusion. In addition, we find that infections initiated by
+multiple variants are most likely to have derived from donors with intermediate
+set-point viral loads, and not from individuals with high set-point viral loads
+as might be expected. We therefore emphasise the importance of considering viral 
+diversity in donors, and the timings of transmissions, when trying to discern the
+complex factors governing single or multiple variant transmission.
+
+DOI: 10.1093/ve/vey038 
+PMCID: PMC6354028
+PMID: 30723550 
+

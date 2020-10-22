@@ -1,0 +1,49 @@
+
+1. Sci Rep. 2017 Jun 12;7(1):3241. doi: 10.1038/s41598-017-03487-1.
+
+Preferential suppression of Anopheles gambiae host sequences allows detection of 
+the mosquito eukaryotic microbiome.
+
+Belda E(1)(2), Coulibaly B(3), Fofana A(3), Beavogui AH(4), Traore SF(3), Gohl
+DM(5), Vernick KD(6)(7), Riehle MM(8).
+
+Author information: 
+(1)Department of Parasites and Insect Vectors, Unit of Genetics and Genomics of
+Insect Vectors, Institut Pasteur, Paris, France.
+(2)CNRS Unit of Hosts, Vectors and Pathogens (URA3012), Paris, France.
+(3)Malaria Research and Training Centre (MRTC), Faculty of Medicine and
+Dentistry, University of Mali, Bamako, Mali.
+(4)Centre de Formation et de Recherche en Santé Rurale de Mafèrinyah, Conakry,
+Guinea.
+(5)University of Minnesota Genomics Center, Minneapolis, Minnesota, USA.
+(6)Department of Parasites and Insect Vectors, Unit of Genetics and Genomics of
+Insect Vectors, Institut Pasteur, Paris, France. kvernick@pasteur.fr.
+(7)CNRS Unit of Hosts, Vectors and Pathogens (URA3012), Paris, France.
+kvernick@pasteur.fr.
+(8)Department of Microbiology and Immunology, University of Minnesota,
+Minneapolis, MN, USA.
+
+Anopheles mosquitoes are vectors of the human malaria parasite, Plasmodium
+falciparum. The vector microbiota is a likely factor influencing parasite
+transmission. The prokaryotic microbiota of mosquitoes is efficiently surveyed by
+sequencing of hypervariable regions of the 16s ribosomal RNA (rRNA) gene.
+However, identification of the eukaryotic microbiota by targeting the 18s rRNA
+gene is challenging due to simultaneous amplification of the abundant 18s rRNA
+gene target in the mosquito host. Consequently, the eukaryotic microbial
+diversity of mosquitoes is vastly underexplored. An efficient methodology is
+needed to identify this component of the microbiota, expected to include
+relatives of Plasmodium. Here, we use defined panels of Anopheles samples from
+West Africa to test two experimental PCR clamp approaches to maximize the
+specific amplification of 18s rRNA gene hypervariable regions from eukaryotic
+microbes: anneal-inhibiting blocking primers and peptide-nucleic acid (PNA)
+oligonucleotide blockers. Of the two, PNA blockers were the only efficient
+blocking strategy, allowing a reduction of mosquito 18s rRNA gene sequences by
+more than 80% for the V4 hypervariable region. These PNA blockers will facilitate
+taxonomic profiling of the eukaryotic microbiota of the A. gambiae species
+complex, and contribute to a better understanding of microbial influence upon
+immunity and pathogen infection.
+
+DOI: 10.1038/s41598-017-03487-1 
+PMCID: PMC5468309
+PMID: 28607435  [Indexed for MEDLINE]
+

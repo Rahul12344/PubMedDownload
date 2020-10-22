@@ -1,0 +1,44 @@
+
+1. Proc Natl Acad Sci U S A. 2007 Jul 31;104(31):12884-9. Epub 2007 Jul 6.
+
+Cellular cofactors affecting hepatitis C virus infection and replication.
+
+Randall G(1), Panis M, Cooper JD, Tellinghuisen TL, Sukhodolets KE, Pfeffer S,
+Landthaler M, Landgraf P, Kan S, Lindenbach BD, Chien M, Weir DB, Russo JJ, Ju J,
+Brownstein MJ, Sheridan R, Sander C, Zavolan M, Tuschl T, Rice CM.
+
+Author information: 
+(1)Laboratory of Virology and Infectious Disease, Center for the Study of
+Hepatitis C, and Howard Hughes Medical Institute, Laboratory of RNA Molecular
+Biology, The Rockefeller University, New York, NY 10021, USA.
+
+Comment in
+    Proc Natl Acad Sci U S A. 2007 Aug 14;104(33):13215-6.
+    J Hepatol. 2008 Mar;48(3):523-5.
+
+Recently identified hepatitis C virus (HCV) isolates that are infectious in cell 
+culture provide a genetic system to evaluate the significance of virus-host
+interactions for HCV replication. We have completed a systematic RNAi screen
+wherein siRNAs were designed that target 62 host genes encoding proteins that
+physically interact with HCV RNA or proteins or belong to cellular pathways
+thought to modulate HCV infection. This includes 10 host proteins that we
+identify in this study to bind HCV NS5A. siRNAs that target 26 of these host
+genes alter infectious HCV production >3-fold. Included in this set of 26 were
+siRNAs that target Dicer, a principal component of the RNAi silencing pathway.
+Contrary to the hypothesis that RNAi is an antiviral pathway in mammals, as has
+been reported for subgenomic HCV replicons, siRNAs that target Dicer inhibited
+HCV replication. Furthermore, siRNAs that target several other components of the 
+RNAi pathway also inhibit HCV replication. MicroRNA profiling of human liver,
+human hepatoma Huh-7.5 cells, and Huh-7.5 cells that harbor replicating HCV
+demonstrated that miR-122 is the predominant microRNA in each environment.
+miR-122 has been previously implicated in positively regulating the replication
+of HCV genotype 1 replicons. We find that 2'-O-methyl antisense oligonucleotide
+depletion of miR-122 also inhibits HCV genotype 2a replication and infectious
+virus production. Our data define 26 host genes that modulate HCV infection and
+indicate that the requirement for functional RNAi for HCV replication is dominant
+over any antiviral activity this pathway may exert against HCV.
+
+DOI: 10.1073/pnas.0704894104 
+PMCID: PMC1937561
+PMID: 17616579  [Indexed for MEDLINE]
+

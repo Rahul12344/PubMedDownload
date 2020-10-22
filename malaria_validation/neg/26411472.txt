@@ -1,0 +1,47 @@
+
+1. Brief Bioinform. 2016 Jul;17(4):576-92. doi: 10.1093/bib/bbv078. Epub 2015 Sep
+26.
+
+Big-data-based edge biomarkers: study on dynamical drug sensitivity and
+resistance in individuals.
+
+Zeng T, Zhang W, Yu X, Liu X, Li M, Chen L.
+
+Big-data-based edge biomarker is a new concept to characterize disease features
+based on biomedical big data in a dynamical and network manner, which also
+provides alternative strategies to indicate disease status in single samples.
+This article gives a comprehensive review on big-data-based edge biomarkers for
+complex diseases in an individual patient, which are defined as biomarkers based 
+on network information and high-dimensional data. Specifically, we firstly
+introduce the sources and structures of biomedical big data accessible in public 
+for edge biomarker and disease study. We show that biomedical big data are
+typically 'small-sample size in high-dimension space', i.e. small samples but
+with high dimensions on features (e.g. omics data) for each individual, in
+contrast to traditional big data in many other fields characterized as
+'large-sample size in low-dimension space', i.e. big samples but with low
+dimensions on features. Then, we demonstrate the concept, model and algorithm for
+edge biomarkers and further big-data-based edge biomarkers. Dissimilar to
+conventional biomarkers, edge biomarkers, e.g. module biomarkers in module
+network rewiring-analysis, are able to predict the disease state by learning
+differential associations between molecules rather than differential expressions 
+of molecules during disease progression or treatment in individual patients. In
+particular, in contrast to using the information of the common molecules or edges
+(i.e.molecule-pairs) across a population in traditional biomarkers including
+network and edge biomarkers, big-data-based edge biomarkers are specific for each
+individual and thus can accurately evaluate the disease state by considering the 
+individual heterogeneity. Therefore, the measurement of big data in a
+high-dimensional space is required not only in the learning process but also in
+the diagnosing or predicting process of the tested individual. Finally, we
+provide a case study on analyzing the temporal expression data from a malaria
+vaccine trial by big-data-based edge biomarkers from module network
+rewiring-analysis. The illustrative results show that the identified module
+biomarkers can accurately distinguish vaccines with or without protection and
+outperformed previous reported gene signatures in terms of effectiveness and
+efficiency.
+
+© The Author 2015. Published by Oxford University Press. For Permissions, please 
+email: journals.permissions@oup.com.
+
+DOI: 10.1093/bib/bbv078 
+PMID: 26411472  [Indexed for MEDLINE]
+

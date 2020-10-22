@@ -1,0 +1,47 @@
+
+1. PLoS One. 2013;8(3):e60077. doi: 10.1371/journal.pone.0060077. Epub 2013 Mar 29.
+
+Imperfect duplicate insertions type of mutations in plasmepsin V modulates
+binding properties of PEXEL motifs of export proteins in Indian Plasmodium vivax.
+
+Rawat M(1), Vijay S, Gupta Y, Tiwari PK, Sharma A.
+
+Author information: 
+(1)Protein Biochemistry and Structural Biology Division, National Institute of
+Malaria Research (ICMR), Dwarka, New Delhi, India.
+
+INTRODUCTION: Plasmepsin V (PM-V) have functionally conserved orthologues across 
+the Plasmodium genus who's binding and antigenic processing at the PEXEL motifs
+for export about 200-300 essential proteins is important for the virulence and
+viability of the causative Plasmodium species. This study was undertaken to
+determine P. vivax plasmepsin V Ind (PvPM-V-Ind) PEXEL motif export pathway for
+pathogenicity-related proteins/antigens export thereby altering plasmodium
+exportome during erythrocytic stages.
+METHOD: We identify and characterize Plasmodium vivax plasmepsin-V-Ind (mutant)
+gene by cloning, sequence analysis, in silico bioinformatic protocols and
+structural modeling predictions based on docking studies on binding capacity with
+PEXEL motifs processing in terms of binding and accessibility of export proteins.
+RESULTS: Cloning and sequence analysis for genetic diversity demonstrates
+PvPM-V-Ind (mutant) gene is highly conserved among all isolates from different
+geographical regions of India. Imperfect duplicate insertion types of mutations
+(SVSE from 246-249 AA and SLSE from 266-269 AA) were identified among all Indian 
+isolates in comparison to P.vivax Sal-1 (PvPM-V-Sal 1) isolate. In silico
+bioinformatics interaction studies of PEXEL peptide and active enzyme reveal that
+PvPM-V-Ind (mutant) is only active in endoplasmic reticulum lumen and membrane
+embedding is essential for activation of plasmepsin V. Structural modeling
+predictions based on docking studies with PEXEL motif show significant variation 
+in substrate protein binding of these imperfect mutations with data mined PEXEL
+sequences. The predicted variation in the docking score and interacting amino
+acids of PvPM-V-Ind (mutant) proteins with PEXEL and lopinavir suggests a
+modulation in the activity of PvPM-V in terms of binding and accessibility at
+these sites.
+CONCLUSION/SIGNIFICANCE: Our functional modeled validation of PvPM-V-Ind (mutant)
+imperfect duplicate insertions with data mined PEXEL sequences leading to altered
+binding and substrate accessibility of the enzyme makes it a plausible target to 
+investigate export mechanisms for in silico virtual screening and novel
+pharmacophore designing.
+
+DOI: 10.1371/journal.pone.0060077 
+PMCID: PMC3612065
+PMID: 23555891  [Indexed for MEDLINE]
+

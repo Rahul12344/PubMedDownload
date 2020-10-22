@@ -1,0 +1,57 @@
+
+1. Malar J. 2018 Apr 4;17(1):154. doi: 10.1186/s12936-018-2259-8.
+
+The use of driving endonuclease genes to suppress mosquito vectors of malaria in 
+temporally variable environments.
+
+Lambert B(1)(2), North A(3), Burt A(4), Godfray HCJ(3).
+
+Author information: 
+(1)Department of Zoology, University of Oxford, South Parks Road, Oxford, OX1
+3PS, UK. ben.c.lambert@gmail.com.
+(2)Department of Infectious Disease Epidemiology, School of Public Health,
+Faculty of Medicine, Imperial College London, St. Mary's Campus, Norfolk Place,
+London, W2 1PG, UK. ben.c.lambert@gmail.com.
+(3)Department of Zoology, University of Oxford, South Parks Road, Oxford, OX1
+3PS, UK.
+(4)Department of Life Sciences, Imperial College London, Silwood Park, Ascot,
+Berks, SL5 7PY, UK.
+
+BACKGROUND: The use of gene drive systems to manipulate populations of malaria
+vectors is currently being investigated as a method of malaria control. One
+potential system uses driving endonuclease genes (DEGs) to spread genes that
+impose a genetic load. Previously, models have shown that the introduction of
+DEG-bearing mosquitoes could suppress or even extinguish vector populations in
+spatially-heterogeneous environments which were constant over time. In this
+study, a stochastic spatially-explicit model of mosquito ecology is combined with
+a rainfall model which enables the generation of a variety of daily precipitation
+patterns. The model is then used to investigate how releases of a DEG that cause 
+a bias in population sex ratios towards males are affected by seasonal or random 
+rainfall patterns. The parameters of the rainfall model are then fitted using
+data from Bamako, Mali, and Mbita, Kenya, to evaluate release strategies in
+similar climatic conditions.
+RESULTS: In landscapes with abundant resources and large mosquito populations the
+spread of a DEG is reliable, irrespective of variability in rainfall. This study 
+thus focuses mainly on landscapes with low density mosquito populations where the
+spread of a DEG may be sensitive to variation in rainfall. It is found that an
+introduced DEG will spread into its target population more reliably in wet
+conditions, yet an established DEG will have more impact in dry conditions. In
+strongly seasonal environments, it is thus preferable to release DEGs at the
+onset of a wet season to maximize their spread before the following dry season.
+If the variability in rainfall has a substantial random component, there is a net
+increase in the probability that a DEG release will lead to population
+extinction, due to the increased impact of a DEG which manages to establish in
+these conditions. For Bamako, where annual rainfall patterns are characterized by
+a long dry season, it is optimal to release a DEG at the start of the wet season,
+where the population is growing fastest. By contrast release timing is of lower
+importance for the less seasonal Mbita.
+CONCLUSION: This analysis suggests that DEG based methods of malaria vector
+control can be effective in a wide range of climates. In environments with
+substantial temporal variation in rainfall, careful timing of releases which
+accounts for the temporal variation in population density can substantially
+improve the probability of mosquito suppression or extinction.
+
+DOI: 10.1186/s12936-018-2259-8 
+PMCID: PMC5885365
+PMID: 29618367  [Indexed for MEDLINE]
+

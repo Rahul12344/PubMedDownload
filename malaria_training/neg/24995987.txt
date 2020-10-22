@@ -1,0 +1,46 @@
+
+1. Cell. 2014 Jul 3;158(1):213-25. doi: 10.1016/j.cell.2014.05.034.
+
+Expansion of biological pathways based on evolutionary inference.
+
+Li Y(1), Calvo SE(2), Gutman R(3), Liu JS(4), Mootha VK(5).
+
+Author information: 
+(1)Howard Hughes Medical Institute and Department of Molecular Biology,
+Massachusetts General Hospital, Boston, MA 02114, USA; Department of Statistics, 
+Harvard University, Cambridge, MA 02138, USA.
+(2)Howard Hughes Medical Institute and Department of Molecular Biology,
+Massachusetts General Hospital, Boston, MA 02114, USA; Broad Institute,
+Cambridge, MA 02141, USA.
+(3)Department of Biostatistics, Brown University, Providence, RI 02912, USA.
+(4)Department of Statistics, Harvard University, Cambridge, MA 02138, USA.
+Electronic address: jliu@stat.harvard.edu.
+(5)Howard Hughes Medical Institute and Department of Molecular Biology,
+Massachusetts General Hospital, Boston, MA 02114, USA; Broad Institute,
+Cambridge, MA 02141, USA; Department of Systems Biology, Harvard Medical School, 
+Boston, MA 02115, USA. Electronic address: vamsi@hms.harvard.edu.
+
+Comment in
+    Dev Cell. 2014 Jul 14;30(1):4-5.
+
+The availability of diverse genomes makes it possible to predict gene function
+based on shared evolutionary history. This approach can be challenging, however, 
+for pathways whose components do not exhibit a shared history but rather consist 
+of distinct "evolutionary modules." We introduce a computational algorithm,
+clustering by inferred models of evolution (CLIME), which inputs a eukaryotic
+species tree, homology matrix, and pathway (gene set) of interest. CLIME
+partitions the gene set into disjoint evolutionary modules, simultaneously
+learning the number of modules and a tree-based evolutionary history that defines
+each module. CLIME then expands each module by scanning the genome for new
+components that likely arose under the inferred evolutionary model. Application
+of CLIME to ∼1,000 annotated human pathways and to the proteomes of yeast, red
+algae, and malaria reveals unanticipated evolutionary modularity and coevolving
+components. CLIME is freely available and should become increasingly powerful
+with the growing wealth of eukaryotic genomes.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2014.05.034 
+PMCID: PMC4171950
+PMID: 24995987  [Indexed for MEDLINE]
+

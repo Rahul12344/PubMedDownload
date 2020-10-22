@@ -1,0 +1,38 @@
+
+1. Mol Biosyst. 2013 Dec;9(12):3091-100. doi: 10.1039/c3mb70342h. Epub 2013 Oct 2.
+
+Artemisinin rewires the protein interaction network in cancer cells: network
+analysis, pathway identification, and target prediction.
+
+Huang C(1), Ba Q, Yue Q, Li J, Li J, Chu R, Wang H.
+
+Author information: 
+(1)Key Laboratory of Food Safety Research, Institute for Nutritional Sciences,
+Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences,
+University of the Chinese Academy of Sciences, 320 Yueyang Road, Shanghai 200031,
+China. huiwang@sibs.ac.cn.
+
+Artemisinin and related compounds (artemisinins), as a frontline treatment for
+malaria, have been used to save millions of lives. Their potential application in
+cancer treatment is promising. Nevertheless, the precise mechanisms of action of 
+artemisinins are still controversial. In particular, the system-level influence
+of artemisinins on protein interactions and regulatory networks remains unknown, 
+limiting progress in development of this class of compounds as anticancer drugs. 
+In the present study, we investigated the mechanism of action of artemisinins in 
+cancer therapy through an analysis based on biological networks. According to
+experimental evidence from more than 400 literature studies, 558 key proteins
+were derived and the artemisinins-rewired protein interaction network was
+constructed. Topological properties were analyzed to show that the protein
+network was a scale-free biological system. And the modularity analysis and
+pathway identification were performed. Five key pathways including PI3K-Akt, T
+cell receptor, Toll-like receptor, TGF-beta and insulin signaling pathways were
+involved in artemisinins-mediated anticancer effects; their identification was
+confirmed by microarray data. Based on these results, predictions were made about
+the targets of artemisinins in various pathways. These results provide a deeper
+understanding of the molecular mechanisms of action of artemisinins and will
+contribute to the development and application of this class of compounds in
+cancer treatment.
+
+DOI: 10.1039/c3mb70342h 
+PMID: 24085322  [Indexed for MEDLINE]
+

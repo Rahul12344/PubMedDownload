@@ -1,0 +1,55 @@
+
+1. J Virol. 2016 Jun 10;90(13):5915-27. doi: 10.1128/JVI.00500-16. Print 2016 Jul 1.
+
+Diminished Innate Antiviral Response to Adenovirus Vectors in
+cGAS/STING-Deficient Mice Minimally Impacts Adaptive Immunity.
+
+Anghelina D(1), Lam E(1), Falck-Pedersen E(2).
+
+Author information: 
+(1)Weill Cornell Medical College, Department of Microbiology and Immunology,
+Molecular Biology Graduate Program, New York, New York, USAUniversity of Florida.
+(2)Weill Cornell Medical College, Department of Microbiology and Immunology,
+Molecular Biology Graduate Program, New York, New York, USAUniversity of Florida 
+efalckp@med.cornell.edu.
+
+Infection by adenovirus, a nonenveloped DNA virus, induces antiviral innate and
+adaptive immune responses. Studies of transformed human and murine cell lines
+using short hairpin RNA (shRNA) knockdown strategies identified cyclic guanine
+adenine synthase (cGAS) as a pattern recognition receptor (PRR) that contributes 
+to the antiadenovirus response. Here we demonstrate how the cGAS/STING cascade
+influences the antiviral innate and adaptive immune responses in a murine
+knockout model. Using knockout bone marrow-derived dendritic cells (BMDCs) and
+bone marrow-derived macrophages (BMMOs), we determined that cGAS and STING are
+essential to the induction of the antiadenovirus response in these
+antigen-presenting cells (APCs) in vitro We next determined how the cGAS/STING
+cascade impacts the antiviral response following systemic administration of a
+recombinant adenovirus type 5 vector (rAd5V). Infection of cGAS(-/-) and
+STING(-/-) mice results in a compromised early antiviral innate response compared
+to that in wild-type (WT) controls: significantly lower levels of beta interferon
+(IFN-β) secretion, low levels of proinflammatory chemokine induction, and reduced
+levels of antiviral transcript induction in hepatic tissue. At 24 h
+postinfection, levels of viral DNA and reporter gene expression in the liver were
+similar in all strains. At 28 days postinfection, clearance of infected
+hepatocytes in cGAS or STING knockout mice was comparable to that in WT C57BL/6
+mice. Levels of neutralizing anti-Ad5V antibody were modestly reduced in infected
+cGAS mice. These data support a dominant role for the cGAS/STING cascade in the
+early innate antiviral inflammatory response to adenovirus vectors. However, loss
+of the cGAS/STING pathway did not affect viral clearance, and cGAS deficiency had
+a modest influence on the magnitude of the antiviral humoral immune response to
+adenovirus infections.IMPORTANCE: The detection of viral infection by host
+sentinel immune cells contributes to the activation of a complex and varied
+antiviral innate and adaptive immune response, which limits virus replication,
+spread, and susceptibility to infection. In this study, we have characterized how
+the cGAS/STING DNA-sensing cascade contributes to early detection of adenovirus
+infections. cGAS influences APC activation and early innate antiviral
+inflammatory immune responses, but adaptive immune pathways associated with virus
+clearance and anti-Ad antibody production were minimally influenced by the loss
+of the cGAS PRR signaling cascade.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.00500-16 
+PMCID: PMC4907218
+PMID: 27076643  [Indexed for MEDLINE]
+

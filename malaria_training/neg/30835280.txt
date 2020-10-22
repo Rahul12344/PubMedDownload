@@ -1,0 +1,38 @@
+
+1. Glycobiology. 2019 May 1;29(5):385-396. doi: 10.1093/glycob/cwz011.
+
+An updated view of the oligosaccharyltransferase complex in Plasmodium.
+
+Tamana S(1), Promponas VJ(1).
+
+Author information: 
+(1)Bioinformatics Research Laboratory, Department of Biological Sciences,
+University of Cyprus, CY, Nicosia, Cyprus.
+
+Despite the controversy regarding the importance of protein N-linked
+glycosylation in species of the genus Plasmodium, genes potentially encoding core
+subunits of the oligosaccharyltransferase (OST) complex have already been
+characterized in completely sequenced genomes of malaria parasites. Nevertheless,
+the currently established notion is that only four out of eight subunits of the
+OST complex-which is considered conserved across eukaryotes-are present in
+Plasmodium species. In this study, we carefully conduct computational analysis to
+provide unequivocal evidence that all components of the OST complex, with the
+exception of Swp1/Ribophorin II, can be reliably identified within completely
+sequenced plasmodial genomes. In fact, most of the subunits currently considered 
+as absent from Plasmodium refer to uncharacterized protein sequences already
+existing in sequence databases. Interestingly, the main reason why the unusually 
+short Ost4 subunit (36 residues long in yeast) has not been identified so far in 
+plasmodia (and possibly other species) is the failure of gene-prediction
+pipelines to detect such a short coding sequence. We further identify elusive OST
+subunits in select protist species with completely sequenced genomes. Thus, our
+work highlights the necessity of a systematic approach towards the
+characterization of OST subunits across eukaryotes. This is necessary both for
+obtaining a concrete picture of the evolution of the OST complex but also for
+elucidating its possible role in eukaryotic pathogens.
+
+© The Author(s) 2019. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/glycob/cwz011 
+PMID: 30835280  [Indexed for MEDLINE]
+

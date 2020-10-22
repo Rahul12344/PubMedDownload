@@ -1,0 +1,73 @@
+
+1. Proc Natl Acad Sci U S A. 2020 Jul 14;117(28):16567-16578. doi:
+10.1073/pnas.2004332117. Epub 2020 Jun 30.
+
+The E3 ubiquitin ligase MARCH1 regulates antimalaria immunity through interferon 
+signaling and T cell activation.
+
+Wu J(1), Xia L(1)(2), Yao X(1), Yu X(3)(4), Tumas KC(1), Sun W(5), Cheng Y(6), He
+X(1), Peng YC(1), Singh BK(1), Zhang C(1), Qi CF(7), Bolland S(5), Best SM(8),
+Gowda C(9), Huang R(10), Myers TG(11), Long CA(1), Wang RF(12)(13)(14), Su
+XZ(15).
+
+Author information: 
+(1)Malaria Functional Genomics Section, Laboratory of Malaria and Vector
+Research, National Institute of Allergy and Infectious Diseases, NIH, Bethesda,
+MD 20892-8132.
+(2)Center for Medical Genetics, School of Life Sciences, Central South
+University, Changsha, 410078 Hunan, The People's Republic of China.
+(3)Center for Inflammation and Epigenetics, Houston Methodist Research Institute,
+Houston, TX 77030.
+(4)Department of Immunology, School of Basic Medical Sciences, Southern Medical
+University, Guangzhou, 510515 Guangdong, The People's Republic of China.
+(5)Laboratory of Immunogenetics, National Institute of Allergy and Infectious
+Diseases, NIH, Bethesda, MD 20892-8132.
+(6)Laboratory of Pathogen Infection and Immunity, Department of Public Health and
+Preventive Medicine, Wuxi School of Medicine, Jiangnan University, Wuxi, 214000
+Jiangsu, The People's Republic of China.
+(7)Pathology Core, Laboratory of Immunogenetics, National Institute of Allergy
+and Infectious Diseases, NIH, Bethesda, MD 20892-8132.
+(8)Laboratory of Virology, National Institute of Allergy and Infectious Diseases,
+NIH, Bethesda, MD 20892-8132.
+(9)Department of Biochemistry and Molecular Biology, College of Medicine,
+Pennsylvania State University, Hershey, PA 17033-0850.
+(10)National Center for Advancing Translational Sciences, NIH, Bethesda, MD
+20892-8132.
+(11)Genomic Technologies Section, Research Technologies Branch, National
+Institute of Allergy and Infectious Diseases, NIH, Bethesda, MD 20892-8132.
+(12)Center for Inflammation and Epigenetics, Houston Methodist Research
+Institute, Houston, TX 77030; xsu@niaid.nih.gov rongfuwa@usc.edu.
+(13)Department of Pediatrics, Children's Hospital, Keck School of Medicine,
+University of Southern California, Los Angeles, CA 90027.
+(14)Department of Medicine, Norris Comprehensive Cancer Center, Keck School of
+Medicine, University of Southern California, Los Angeles, CA 90033.
+(15)Malaria Functional Genomics Section, Laboratory of Malaria and Vector
+Research, National Institute of Allergy and Infectious Diseases, NIH, Bethesda,
+MD 20892-8132; xsu@niaid.nih.gov rongfuwa@usc.edu.
+
+Malaria infection induces complex and diverse immune responses. To elucidate the 
+mechanisms underlying host-parasite interaction, we performed a genetic screen
+during early (24 h) Plasmodium yoelii infection in mice and identified a large
+number of interacting host and parasite genes/loci after transspecies expression 
+quantitative trait locus (Ts-eQTL) analysis. We next investigated a host E3
+ubiquitin ligase gene (March1) that was clustered with interferon
+(IFN)-stimulated genes (ISGs) based on the similarity of the genome-wide pattern 
+of logarithm of the odds (LOD) scores (GPLS). March1 inhibits
+MAVS/STING/TRIF-induced type I IFN (IFN-I) signaling in vitro and in vivo.
+However, in malaria-infected hosts, deficiency of March1 reduces IFN-I production
+by activating inhibitors such as SOCS1, USP18, and TRIM24 and by altering immune 
+cell populations. March1 deficiency increases CD86+DC (dendritic cell)
+populations and levels of IFN-γ and interleukin 10 (IL-10) at day 4 post
+infection, leading to improved host survival. T cell depletion reduces IFN-γ
+level and reverse the protective effects of March1 deficiency, which can also be 
+achieved by antibody neutralization of IFN-γ. This study reveals functions of
+MARCH1 (membrane-associated ring-CH-type finger 1) in innate immune responses and
+provides potential avenues for activating antimalaria immunity and enhancing
+vaccine efficacy.
+
+DOI: 10.1073/pnas.2004332117 
+PMCID: PMC7368286 [Available on 2020-12-30]
+PMID: 32606244  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+

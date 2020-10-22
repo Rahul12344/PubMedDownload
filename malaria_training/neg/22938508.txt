@@ -1,0 +1,48 @@
+
+1. Genet Vaccines Ther. 2012 Aug 31;10(1):8. doi: 10.1186/1479-0556-10-8.
+
+Targeting wild-type Erythrocyte receptors for Plasmodium falciparum and vivax
+Merozoites by Zinc Finger Nucleases In- silico: Towards a Genetic Vaccine against
+Malaria.
+
+Kajumbula H(1), Byarugaba W, Wayengera M.
+
+Author information: 
+(1)Dept of Medical Microbiology, School of Biomedical Science, College of Health 
+Sciences, Makerere University, P O Box 7072, Kampala, Uganda. wmisaki@yahoo.com.
+
+BACKGROUND: Malaria causes immense human morbidity and mortality globally. The
+plasmodium species vivax and falciparum cause over 75 % clinical malaria cases.
+Until now, gene-based strategies against malaria have only been applied to
+plasmodium species and their mosquito-vector. Merozoites of these two respective 
+plasmodium species target and invade red blood cells (RBCs) by using the duffy
+antigen receptor for chemokines (DARC), and Sialic Acid (SLC4A1) residues of the 
+O-linked glycans of Glycophorin A. RBCs of naturally selected duffy-negative
+blacks are resistant to P.vivax tropism. We hypothesized that artificial
+aberration of the host-pathway by target mutagenesis of either RBC -receptors,
+may abolish or reduce susceptibility of the host to malaria. As a first step
+towards the experimental actualization of these concepts, we aimed to identify
+zinc finger arrays (ZFAs) for constructing ZFNs that target genes of either
+wild-type host-RBC- receptors.
+METHODS: In-Silico Gene & Genome Informatics
+RESULTS: Using the genomic contextual nucleotide-sequences of homo-sapiens darc
+and glycophorin-a, and the ZFN-consortia software- CoDA-ZiFiT-ZFA and
+CoDA-ZiFiT-ZFN: we identified 163 and over 1,000 single zinc finger arrays
+(sZFAs) that bind sequences within the genes for the two respective
+RBC-receptors. Second, 2 and 18 paired zinc finger arrays (pZFAs) that are
+precursors for zinc finger nucleases (ZFNs) capable of cleaving the genes for
+darc and glycophorin-a were respectively assembled. Third, a mega-BLAST
+evaluation of the genome-wide cleavage specificity of this set of ZFNs was done, 
+revealing alternate homologous nucleotide targets in the human genome other than 
+darc or glycophorin A.
+CONCLUSIONS: ZFNs engineered with these ZFA-precursors--with further optimization
+to enhance their specificity to only darc and glycophorin-a, could be used in
+constructing an experimental gene-based-malaria vaccine. Alternatively,
+meganucleases and transcription activator-like (TAL) nucleases that target
+conserved stretches of darc and glycophorin-a DNA may serve the purpose of
+abrogating invasion of RBCs by falciparam and vivax plasmodia species.
+
+DOI: 10.1186/1479-0556-10-8 
+PMCID: PMC3500210
+PMID: 22938508 
+

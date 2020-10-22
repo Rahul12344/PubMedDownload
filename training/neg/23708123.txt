@@ -1,0 +1,35 @@
+
+1. J Biomol Screen. 2013 Oct;18(9):1027-34. doi: 10.1177/1087057113489883. Epub 2013
+May 24.
+
+A fluorescence-based high-throughput screen to identify small compound inhibitors
+of the genotype 3a hepatitis C virus RNA polymerase.
+
+Eltahla AA(1), Lackovic K, Marquis C, Eden JS, White PA.
+
+Author information: 
+(1)1School of Biotechnology and Biomolecular Sciences, Faculty of Science,
+University of New South Wales, Sydney, NSW, Australia.
+
+The hepatitis C virus (HCV) RNA-dependent RNA polymerase (RdRp) plays an
+essential role in the replication of HCV and is a key target for novel antiviral 
+therapies. Several RdRp inhibitors are in clinical trials and have increased
+response rates when combined with current interferon-based therapies for genotype
+1 (G1) HCV patients. These inhibitors, however, show poor efficacy against non-G1
+genotypes, including G3a, which represents ~20% of HCV cases globally. Here, we
+used a commercially available fluorescent dye to characterize G3a HCV RdRp in
+vitro. RdRp activity was assessed via synthesis of double-stranded RNA from the
+single-stranded RNA poly(C) template. The assay was miniaturized to a 384-well
+microplate format and a pilot high-throughput screen was conducted using 10,208
+"lead-like" compounds, randomly selected to identify inhibitors of HCV G3a RdRp. 
+Of 150 compounds demonstrating greatest inhibition, 10 were confirmed using both 
+fluorescent and radioactive assays. The top two inhibitors (HAC001 and HAC002)
+demonstrated specific activity, with an IC(50) of 12.7 µM and 1.0 µM,
+respectively. In conclusion, we describe simple, fluorescent-based
+high-throughput screening (HTS) for the identification of inhibitors of de novo
+RdRp activity, using HCV G3a RdRp as the target. The HTS system could be used
+against any positive-sense RNA virus that cannot be cultured.
+
+DOI: 10.1177/1087057113489883 
+PMID: 23708123  [Indexed for MEDLINE]
+

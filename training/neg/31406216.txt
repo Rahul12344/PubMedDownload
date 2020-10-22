@@ -1,0 +1,38 @@
+
+1. Sci Rep. 2019 Aug 12;9(1):11706. doi: 10.1038/s41598-019-48177-2.
+
+A thermosensitive electromechanical model for detecting biological particles.
+
+SoltanRezaee M(1), Bodaghi M(2), Farrokhabadi A(3).
+
+Author information: 
+(1)Young Researchers and Elites Club, Science and Research Branch, Islamic Azad
+University, Tehran, Iran. soltanrezaee@gmail.com.
+(2)Department of Engineering, School of Science and Technology, Nottingham Trent 
+University, Nottingham, NG11 8NS, United Kingdom.
+(3)Department of Mechanical Engineering, Tarbiat Modares University, Tehran,
+Iran.
+
+Miniature electromechanical systems form a class of bioMEMS that can provide
+appropriate sensitivity. In this research, a thermo-electro-mechanical model is
+presented to detect biological particles in the microscale. Identification in the
+model is based on analyzing pull-in instability parameters and frequency shifts. 
+Here, governing equations are derived via the extended Hamilton's principle. The 
+coupled effects of system parameters such as surface layer energy, electric field
+correction, and material properties are incorporated in this thermosensitive
+model. Afterward, the accuracy of the present model and obtained results are
+validated with experimental, analytical, and numerical data for several cases.
+Performing a parametric study reveals that mechanical properties of biosensors
+can significantly affect the detection sensitivity of actuated ultra-small
+detectors and should be taken into account. Furthermore, it is shown that the
+number or dimension of deposited particles on the sensing zone can be estimated
+by investigating the changes in the threshold voltage, electrode deflection, and 
+frequency shifts. The present analysis is likely to provide pertinent guidelines 
+to design thermal switches and miniature detectors with the desired performance. 
+The developed biosensor is more appropriate to detect and characterize viruses in
+samples with different temperatures.
+
+DOI: 10.1038/s41598-019-48177-2 
+PMCID: PMC6691007
+PMID: 31406216 
+

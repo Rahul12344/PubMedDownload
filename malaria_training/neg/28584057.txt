@@ -1,0 +1,56 @@
+
+1. J Biol Chem. 2017 Jul 28;292(30):12577-12588. doi: 10.1074/jbc.M117.775155. Epub 
+2017 Jun 5.
+
+An RNAi-based high-throughput screening assay to identify small molecule
+inhibitors of hepatitis B virus replication.
+
+Ghosh S(1), Kaushik A(2), Khurana S(3), Varshney A(4), Singh AK(4), Dahiya P(5), 
+Thakur JK(5), Sarin SK(4), Gupta D(2), Malhotra P(6), Mukherjee SK(7), Bhatnagar 
+RK(8).
+
+Author information: 
+(1)From the Insect Resistance Group.
+(2)Translational Bioinformatics Group, and.
+(3)Malaria Biology Group, International Centre for Genetic Engineering and
+Biotechnology, Aruna Asaf Ali Marg, 110067 New Delhi, India.
+(4)the Institute of Liver and Biliary Sciences, D-1, Vasant Kunj, 110070 New
+Delhi, India.
+(5)the National Institute of Plant Genome Research, Aruna Asaf Ali Marg, 110067
+New Delhi, India, and.
+(6)Malaria Biology Group, International Centre for Genetic Engineering and
+Biotechnology, Aruna Asaf Ali Marg, 110067 New Delhi, India, pawanmal@gmail.com.
+(7)the Division of Plant Pathology, Indian Agriculture Research Institute, 110012
+New Delhi, India sunilm@icgeb.res.in.
+(8)From the Insect Resistance Group, raj@icgeb.res.in.
+
+Persistent or chronic infection with the hepatitis B virus (HBV) represents one
+of the most common viral diseases in humans. The hepatitis B virus deploys the
+hepatitis B virus X protein (HBx) as a suppressor of host defenses consisting of 
+RNAi-based silencing of viral genes. Because of its critical role in countering
+host defenses, HBx represents an attractive target for antiviral drugs. Here, we 
+developed and optimized a loss-of-function screening procedure, which identified 
+a potential pharmacophore that abrogated HBx RNAi suppression activity. In a
+survey of 14,400 compounds in the Maybridge Screening Collection, we prioritized 
+candidate compounds via high-throughput screening based on reversal of green
+fluorescent protein (GFP)-reported, RNAi-mediated silencing in a HepG2/GFP-shRNA 
+RNAi sensor line. The screening yielded a pharmacologically active compound,
+N-(2,4-difluorophenyl)-N'-[3-(1H-imidazol-1-yl) propyl] thiourea (IR415), which
+blocked HBx-mediated RNAi suppression indicated by the GFP reporter assay. We
+also found that IR415 reversed the inhibitory effect of HBx protein on activity
+of the Dicer endoribonuclease. We further confirmed the results of the primary
+screen in IR415-treated, HBV-infected HepG2 cells, which exhibited a marked
+depletion of HBV core protein synthesis and down-regulation of pre-genomic HBV
+RNA. Using a molecular interaction analysis system, we confirmed that IR415
+selectively targets HBx in a concentration-dependent manner. The screening assay 
+presented here allows rapid and improved detection of small-molecule inhibitors
+of HBx and related viral proteins. The assay may therefore potentiate the
+development of next-generation RNAi pathway-based therapeutics and promises to
+accelerate our search for novel and effective drugs in antiviral research.
+
+© 2017 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1074/jbc.M117.775155 
+PMCID: PMC5535032
+PMID: 28584057  [Indexed for MEDLINE]
+

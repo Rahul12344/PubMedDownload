@@ -1,0 +1,47 @@
+
+1. Environ Sci Technol. 2018 Jun 5;52(11):6399-6407. doi: 10.1021/acs.est.8b00241.
+Epub 2018 May 16.
+
+Smartphone-Based in-Gel Loop-Mediated Isothermal Amplification (gLAMP) System
+Enables Rapid Coliphage MS2 Quantification in Environmental Waters.
+
+Huang X(1), Lin X(1), Urmann K(1), Li L(1), Xie X(1)(2), Jiang S(3), Hoffmann
+MR(1).
+
+Author information: 
+(1)Linde + Robinson Laboratories , California Institute of Technology , Pasadena 
+, California 91125 , United States.
+(2)School of Civil and Environmental Engineering , Georgia Institute of
+Technology , Atlanta , Georgia 30332 , United States.
+(3)Department of Civil and Environmental Engineering, Henry Samueli School of
+Engineering , University of California , Irvine , California 92697 , United
+States.
+
+Model coliphages (e.g., ΦX174, MS2, and PRD1) have been widely used as surrogates
+to study the fate and transport of pathogenic viruses in the environment and
+during wastewater treatment. Two groups of coliphages (F-specific and somatic)
+are being explored as indicators of viral fecal pollution in ambient water.
+However, the detection and quantification of coliphages still largely rely on
+time-consuming culture-based plaque assays. In this study, we developed an in-gel
+loop-mediated isothermal amplification (gLAMP) system enabling coliphage MS2
+quantification within 30 min using standard laboratory devices. Viral particles
+(MS2) were immobilized with LAMP reagents in polyethylene glycol hydrogel, and
+then viral RNAs were amplified through a LAMP reaction. Due to the restriction
+effect of the hydrogel matrix, one viral particle would only produce one amplicon
+dot. Therefore, the sample virus concentrations can be determined based on the
+number of fluorescent amplicon dots using a smartphone for imaging. The method
+was validated by using artificially spiked and naturally contaminated water
+samples. gLAMP results were shown to correlate well with plaque assay counts ( R2
+= 0.984, p < 0.05) and achieved similar sensitivity to quantitative
+reverse-transcription polymerase chain reaction (RT-qPCR; 1 plaque-forming unit
+per reaction). Moreover, gLAMP demonstrated a high level of tolerance against
+inhibitors naturally present in wastewater, in which RT-qPCR was completely
+inhibited. Besides MS2, gLAMP can also be used for the quantification of other
+microbial targets (e.g., Escherichia coli and Salmonella). Considering its
+simplicity, sensitivity, rapidity, and versatility, gLAMP holds great potential
+for microbial water-quality analysis, especially in resource-limited settings.
+
+DOI: 10.1021/acs.est.8b00241 
+PMCID: PMC5990930
+PMID: 29738236  [Indexed for MEDLINE]
+

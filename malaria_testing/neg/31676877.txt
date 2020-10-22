@@ -1,0 +1,44 @@
+
+1. Sci Rep. 2019 Nov 1;9(1):15853. doi: 10.1038/s41598-019-52388-y.
+
+Comparison of whole blood and spleen transcriptional signatures over the course
+of an experimental malaria infection.
+
+Talavera-López C(1), Bediako Y(1)(2), Lin JW(1)(3), Joseph Valletta J(4), Recker 
+M(4), Langhorne J(5).
+
+Author information: 
+(1)The Francis Crick Institute, London, United Kingdom.
+(2)West African Centre for Cell Biology of Infectious Pathogens, University of
+Ghana, Accra, Ghana.
+(3)Division of Pediatric Infectious Diseases, State Key Laboratory of Biotherapy,
+West China Second Hospital, Sichuan University and Collaboration Innovation
+Centre, Chengdu, 610041, China.
+(4)College of Engineering, Mathematics and Physical Sciences, University of
+Exeter, Exeter, United Kingdom.
+(5)The Francis Crick Institute, London, United Kingdom.
+jean.langhorne@crick.ac.uk.
+
+Although the spleen is broadly accepted as the major lymphoid organ involved in
+generating immune responses to the erythrocytic stages of the malaria parasite,
+Plasmodium, human splenic tissue is not readily available in most cases. As a
+result, most studies of malaria in humans rely on peripheral blood to assess
+cellular immune responses to malaria. The suitability of peripheral blood as a
+proxy for splenic immune responses is however unknown. Here, we have
+simultaneously analysed the transcriptomes of whole blood and spleen over 12 days
+of erythrocytic stage Plasmodium chabaudi infection in C57BL/6 mice. Using both
+unsupervised and directed approaches, we compared gene expression between blood
+and spleen over the course of infection. Taking advantage of publicly available
+datasets, we used machine learning approaches to infer cell proportions and
+cell-specific gene expression signatures from our whole tissue transcriptome
+data. Our findings demonstrate that spleen and blood are quite dissimilar,
+sharing only a small amount of transcriptional information between them, with
+transcriptional differences in both cellular composition and transcriptional
+activity. These results suggest that while blood transcriptome data may be useful
+in defining surrogate markers of protection and pathology, they should not be
+used to predict specific immune responses occurring in lymphoid organs.
+
+DOI: 10.1038/s41598-019-52388-y 
+PMCID: PMC6825210
+PMID: 31676877 
+

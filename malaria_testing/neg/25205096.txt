@@ -1,0 +1,56 @@
+
+1. mBio. 2014 Sep 9;5(5):e01606-14. doi: 10.1128/mBio.01606-14.
+
+Critical glycosylated residues in exon three of erythrocyte glycophorin A engage 
+Plasmodium falciparum EBA-175 and define receptor specificity.
+
+Salinas ND(1), Paing MM(1), Tolia NH(2).
+
+Author information: 
+(1)Department of Molecular Microbiology and Microbial Pathogenesis, Washington
+University School of Medicine, St. Louis, Missouri, USA.
+(2)tolia@wustl.edu.
+
+Erythrocyte invasion is an essential step in the pathogenesis of malaria. The
+erythrocyte binding-like (EBL) family of Plasmodium falciparum proteins
+recognizes glycophorins (Gp) on erythrocytes and plays a critical role in
+attachment during invasion. However, the molecular basis for specific receptor
+recognition by each parasite ligand has remained elusive, as is the case with the
+ligand/receptor pair P. falciparum EBA-175 (PfEBA-175)/GpA. This is due largely
+to difficulties in producing properly glycosylated and functional receptors.
+Here, we developed an expression system to produce recombinant glycosylated and
+functional GpA, as well as mutations and truncations. We identified the essential
+binding region and determinants for PfEBA-175 engagement, demonstrated that these
+determinants are required for the inhibition of parasite growth, and identified
+the glycans important in mediating the PfEBA-175-GpA interaction. The results
+suggest that PfEBA-175 engages multiple glycans of GpA encoded by exon 3 and that
+the presentation of glycans is likely required for high-avidity binding. The
+absence of exon 3 in GpB and GpE due to a splice site mutation confers specific
+recognition of GpA by PfEBA-175. We speculate that GpB and GpE may have arisen
+due to selective pressure to lose the PfEBA-175 binding site in GpA. The
+expression system described here has wider application for examining other EBL
+members important in parasite invasion, as well as additional pathogens that
+recognize glycophorins. The ability to define critical binding determinants in
+receptor-ligand interactions, as well as a system to genetically manipulate
+glycosylated receptors, opens new avenues for the design of interventions that
+disrupt parasite invasion.IMPORTANCE: Plasmodium falciparum uses distinct ligands
+that bind host cell receptors for invasion of red blood cells (RBCs) during
+malaria infection. A key entry pathway involves P. falciparum EBA-175 (PfEBA-175)
+recognizing glycophorin A (GpA) on RBCs. Despite knowledge of this
+protein-protein interaction, the complete mechanism for specific receptor
+engagement is not known. PfEBA-175 recognizes GpA but is unable to engage the
+related RBC receptor GpB or GpE. Understanding the necessary elements that enable
+PfEBA-175 to specifically recognize GpA is critical in developing specific and
+potent inhibitors of PfEBA-175 that disrupt host cell invasion and aid in malaria
+control. Here, we describe a novel system to produce and manipulate the host
+receptor GpA. Using this system, we probed the elements in GpA necessary for
+engagement and thus for host cell invasion. These studies have important
+implications for understanding how ligands and receptors interact and for the
+future development of malaria interventions.
+
+Copyright © 2014 Salinas et al.
+
+DOI: 10.1128/mBio.01606-14 
+PMCID: PMC4173783
+PMID: 25205096  [Indexed for MEDLINE]
+

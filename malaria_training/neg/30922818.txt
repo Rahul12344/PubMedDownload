@@ -1,0 +1,95 @@
+
+1. Lancet Infect Dis. 2019 May;19(5):546-556. doi: 10.1016/S1473-3099(18)30732-1.
+Epub 2019 Mar 25.
+
+Effect of Plasmodium falciparum sulfadoxine-pyrimethamine resistance on the
+effectiveness of intermittent preventive therapy for malaria in pregnancy in
+Africa: a systematic review and meta-analysis.
+
+van Eijk AM(1), Larsen DA(2), Kayentao K(3), Koshy G(1), Slaughter DEC(4), Roper 
+C(5), Okell LC(6), Desai M(7), Gutman J(7), Khairallah C(1), Rogerson SJ(8),
+Hopkins Sibley C(9), Meshnick SR(10), Taylor SM(11), Ter Kuile FO(12).
+
+Author information: 
+(1)Department of Clinical Sciences, Liverpool School of Tropical Medicine,
+Liverpool, UK.
+(2)Department of Public Health, Food Studies and Nutrition, Syracuse University, 
+Syracuse, NY, USA.
+(3)Malaria Research and Training Centre, Department of Epidemiology of Parasitic 
+Diseases, Faculty of Medicine, Pharmacy, and Dentistry, University of Sciences,
+Techniques, and Technologies of Bamako, Bamako, Mali.
+(4)Rollins School of Public Health, Emory University, Atlanta, GA, USA.
+(5)Faculty of Infectious and Tropical Diseases, London School of Hygiene &
+Tropical Medicine, London, UK.
+(6)MRC Centre for Outbreak Analysis and Modelling, Department of Infectious
+Disease Epidemiology, Imperial College London, London, UK.
+(7)Malaria Branch, US Centers for Diseases Control and Prevention, Atlanta, GA,
+USA.
+(8)Department of Medicine, University of Melbourne, Melbourne, VIC, Australia.
+(9)Department of Genome Sciences, University of Washington, Seattle, WA, USA;
+WorldWide Antimalarial Resistance Network, University of Oxford, Oxford, UK.
+(10)Department of Epidemiology, Gillings School of Global Public Health,
+University of North Carolina, Chapel Hill, NC, USA.
+(11)Department of Epidemiology, Gillings School of Global Public Health,
+University of North Carolina, Chapel Hill, NC, USA; Division of Infectious
+Diseases and Duke Global Health Institute, Duke University Medical Center,
+Durham, NC, USA.
+(12)Department of Clinical Sciences, Liverpool School of Tropical Medicine,
+Liverpool, UK. Electronic address: feiko.terkuile@lstmed.ac.uk.
+
+Comment in
+    Lancet Infect Dis. 2019 May;19(5):460-461.
+
+BACKGROUND: Resistance of Plasmodium falciparum to sulfadoxine-pyrimethamine
+threatens the antimalarial effectiveness of intermittent preventive treatment
+during pregnancy (IPTp) in sub-Saharan Africa. We aimed to assess the
+associations between markers of sulfadoxine-pyrimethamine resistance in P
+falciparum and the effectiveness of sulfadoxine-pyrimethamine IPTp for
+malaria-associated outcomes.
+METHODS: For this systematic review and meta-analysis, we searched databases
+(from Jan 1, 1990 to March 1, 2018) for clinical studies (aggregated data) or
+surveys (individual participant data) that reported data on low birthweight
+(primary outcome) and malaria by sulfadoxine-pyrimethamine IPTp dose, and for
+studies that reported on molecular markers of sulfadoxine-pyrimethamine
+resistance. Studies that involved only HIV-infected women or combined
+interventions were excluded. We did a random-effects meta-analysis (clinical
+studies) or multivariate log-binomial regression (surveys) to obtain summarised
+dose-response data (relative risk reduction [RRR]) and multivariate
+meta-regression to explore the modifying effects of sulfadoxine-pyrimethamine
+resistance (as indicated by Ala437Gly, Lys540Glu, and Ala581Gly substitutions in 
+the dhps gene). This study is registered with PROSPERO, number 42016035540.
+FINDINGS: Of 1097 records screened, 57 studies were included in the
+aggregated-data meta-analysis (including 59 457 births). The RRR for low
+birthweight declined with increasing prevalence of dhps Lys540Glu (ptrend=0·0060)
+but not Ala437Gly (ptrend=0·35). The RRR was 7% (95% CI 0 to 13) in areas of high
+resistance to sulfadoxine-pyrimethamine (Lys540Glu ≥90% in east and southern
+Africa; n=11), 21% (14 to 29) in moderate-resistance areas (Ala437Gly ≥90%
+[central and west Africa], or Lys540Glu ≥30% to <90% [east and southern Africa]; 
+n=16), and 27% (21 to 33) in low-resistance areas (Ala437Gly <90% [central and
+west Africa], or Lys540Glu <30% [east and southern Africa]; n=30; ptrend=0·0054
+[univariate], I2=69·5%). The overall RRR in all resistance strata was 21% (17 to 
+25). In the analysis of individual participant data from 13 surveys (42 394
+births), sulfadoxine-pyrimethamine IPTp was associated with reduced prevalence of
+low birthweight in areas with a Lys540Glu prevalence of more than 90% and
+Ala581Gly prevalence of less than 10% (RRR 10% [7 to 12]), but not in those with 
+an Ala581Gly prevalence of 10% or higher (pooled Ala581Gly prevalence 37% [range 
+29 to 46]; RRR 0·5% [-16 to 14]; 2326 births).
+INTERPRETATION: The effectiveness of sulfadoxine-pyrimethamine IPTp is reduced in
+areas with high resistance to sulfadoxine-pyrimethamine among P falciparum
+parasites, but remains associated with reductions in low birthweight even in
+areas where dhps Lys540Glu prevalence exceeds 90% but where the sextuple-mutant
+parasite (harbouring the additional dhps Ala581Gly mutation) is uncommon.
+Therapeutic alternatives to sulfadoxine-pyrimethamine IPTp are needed in areas
+where the prevalence of the sextuple-mutant parasite exceeds 37%.
+FUNDING: US Centers for Disease Control and Prevention, the Malaria in Pregnancy 
+Consortium (funded through a grant from the Bill & Melinda Gates Foundation to
+the Liverpool School of Tropical Medicine), Worldwide Antimalarial Resistance
+Network, European and Developing Countries Clinical Trials Partnership.
+
+Copyright © 2019 The Author(s). Published by Elsevier Ltd. This is an Open Access
+article under the CC BY 4.0 license. Published by Elsevier Ltd.. All rights
+reserved.
+
+DOI: 10.1016/S1473-3099(18)30732-1 
+PMID: 30922818  [Indexed for MEDLINE]
+

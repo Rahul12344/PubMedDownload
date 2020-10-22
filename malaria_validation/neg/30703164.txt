@@ -1,0 +1,48 @@
+
+1. PLoS Pathog. 2019 Jan 31;15(1):e1007164. doi: 10.1371/journal.ppat.1007164.
+eCollection 2019 Jan.
+
+Plasmodium male gametocyte development and transmission are critically regulated 
+by the two putative deadenylases of the CAF1/CCR4/NOT complex.
+
+Hart KJ(1), Oberstaller J(2), Walker MP(1), Minns AM(1), Kennedy MF(1), Padykula 
+I(2), Adams JH(2), Lindner SE(1).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Center for Malaria Research,
+Pennsylvania State University, University Park, State College, Pennsylvania,
+United States of America.
+(2)Center for Global Health and Infectious Diseases Research, Department of
+Global Health, University of South Florida, Tampa, Florida, United States of
+America.
+
+With relatively few known specific transcription factors to control the abundance
+of specific mRNAs, Plasmodium parasites may rely more on the regulation of
+transcript stability and turnover to provide sufficient gene regulation.
+Plasmodium transmission stages impose translational repression on specific
+transcripts in part to accomplish this. However, few proteins are known to
+participate in this process, and those that are characterized primarily affect
+female gametocytes. We have identified and characterized Plasmodium yoelii (Py)
+CCR4-1, a putative deadenylase, which plays a role in the development and
+activation of male gametocytes, regulates the abundance of specific mRNAs in
+gametocytes, and ultimately increases the efficiency of host-to-vector
+transmission. We find that when pyccr4-1 is deleted or its protein made
+catalytically inactive, there is a loss in the initial coordination of male
+gametocyte maturation and a reduction of parasite infectivity of the mosquito.
+Expression of only the N-terminal CAF1 domain of the essential CAF1 deadenylase
+leads to a similar phenotype. Comparative RNA-seq revealed that PyCCR4-1 affects 
+transcripts important for transmission-related functions that are associated with
+male or female gametocytes, some of which directly associate with the
+immunoprecipitated complex. Finally, circular RT-PCR of one of the bound,
+dysregulated transcripts showed that deletion of the pyccr4-1 gene does not
+result in gross changes to its UTR or poly(A) tail length. We conclude that the
+two putative deadenylases of the CAF1/CCR4/NOT complex play critical and
+intertwined roles in gametocyte maturation and transmission.
+
+DOI: 10.1371/journal.ppat.1007164 
+PMCID: PMC6355032
+PMID: 30703164  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

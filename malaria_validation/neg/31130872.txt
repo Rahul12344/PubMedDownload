@@ -1,0 +1,57 @@
+
+1. Front Physiol. 2019 May 3;10:529. doi: 10.3389/fphys.2019.00529. eCollection
+2019.
+
+The Transcriptome of the Salivary Glands of Amblyomma aureolatum Reveals the
+Antimicrobial Peptide Microplusin as an Important Factor for the Tick Protection 
+Against Rickettsia rickettsii Infection.
+
+Martins LA(1), Malossi CD(1), Galletti MFBM(1), Ribeiro JM(2), Fujita A(3),
+Esteves E(4), Costa FB(5), Labruna MB(5), Daffre S(1), Fogaça AC(1).
+
+Author information: 
+(1)Departamento de Parasitologia, Instituto de Ciências Biomédicas, Universidade 
+de São Paulo, São Paulo, Brazil.
+(2)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, Bethesda, MD, United States.
+(3)Departamento de Ciência da Computação, Instituto de Matemática e Estatística, 
+Universidade de São Paulo, São Paulo, Brazil.
+(4)Departamento de Imunologia, Instituto de Ciências Biomédicas, Universidade de 
+São Paulo, São Paulo, Brazil.
+(5)Departamento de Medicina Veterinária Preventiva e Saúde Animal, Faculdade de
+Medicina Veterinária e Zootecnia, Universidade de São Paulo, São Paulo, Brazil.
+
+The salivary glands (SG) of ixodid ticks play a pivotal role in blood feeding,
+producing both the cement and the saliva. The cement is an adhesive substance
+that helps the attachment of the tick to the host skin, while the saliva contains
+a rich mixture of antihemostatic, anti-inflammatory, and immunomodulatory
+substances that allow ticks to properly acquire the blood meal. The tick saliva
+is also a vehicle used by several pathogens to be transmitted to the vertebrate
+host, including various bacterial species from the genus Rickettsia. Rickettsia
+rickettsii is a tick-borne obligate intracellular bacterium that causes the
+severe Rocky Mountain spotted fever. In Brazil, the dog yellow tick Amblyomma
+aureolatum is a vector of R. rickettsii. In the current study, the effects of an 
+experimental infection with R. rickettsii on the global gene expression profile
+of A. aureolatum SG was determined by next-generation RNA sequencing. A total of 
+260 coding sequences (CDSs) were modulated by infection, among which 161 were
+upregulated and 99 were downregulated. Regarding CDSs in the immunity category,
+we highlight one sequence encoding one microplusin-like antimicrobial peptide
+(AMP) (Ambaur-69859). AMPs are important effectors of the arthropod immune
+system, which lack the adaptive response of the immune system of vertebrates. The
+expression of microplusin was confirmed to be significantly upregulated in the SG
+as well as in the midgut (MG) of infected A. aureolatum by a quantitative
+polymerase chain reaction preceded by reverse transcription. The knockdown of the
+microplusin expression by RNA interference caused a significant increase in the
+prevalence of infected ticks in relation to the control. In addition, a higher
+rickettsial load of one order of magnitude was recorded in both the MG and SG of 
+ticks that received microplusin-specific dsRNA. No effect of microplusin
+knockdown was observed on the R. rickettsii transmission to rabbits. Moreover, no
+significant differences in tick engorgement and oviposition were recorded in
+ticks that received dsMicroplusin, demonstrating that microplusin knockdown has
+no effect on tick fitness. Further studies must be performed to determine the
+mechanism of action of this AMP against R. rickettsii.
+
+DOI: 10.3389/fphys.2019.00529 
+PMCID: PMC6509419
+PMID: 31130872 
+

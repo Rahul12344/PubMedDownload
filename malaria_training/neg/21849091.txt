@@ -1,0 +1,46 @@
+
+1. Malar J. 2011 Aug 18;10:242. doi: 10.1186/1475-2875-10-242.
+
+Global gene expression profiling of Plasmodium falciparum in response to the
+anti-malarial drug pyronaridine.
+
+Kritsiriwuthinan K(1), Chaotheing S, Shaw PJ, Wongsombat C,
+Chavalitshewinkoon-Petmitr P, Kamchonwongpaisan S.
+
+Author information: 
+(1)National Center for Genetic Engineering and Biotechnology (BIOTEC), National
+Science and Technology Development Agency (NSTDA), Thailand Science Park,
+Pathumthani 12120, Thailand.
+
+BACKGROUND: Pyronaridine (PN) and chloroquine (CQ) are structurally related
+anti-malarial drugs with primarily the same mode of action. However, PN is
+effective against several multidrug-resistant lines of Plasmodium falciparum,
+including CQ resistant lines, suggestive of important operational differences
+between the two drugs.
+METHODS: Synchronized trophozoite stage cultures of P. falciparum strain K1 (CQ
+resistant) were exposed to 50% inhibitory concentrations (IC50) of PN and CQ, and
+parasites were harvested from culture after 4 and 24 hours exposure. Global
+transcriptional changes effected by drug treatment were investigated using DNA
+microarrays.
+RESULTS: After a 4 h drug exposure, PN induced a greater degree of
+transcriptional perturbation (61 differentially expressed features) than CQ (10
+features). More genes were found to respond to 24 h treatments with both drugs,
+and 461 features were found to be significantly responsive to one or both drugs
+across all treatment conditions. Filtering was employed to remove features
+unrelated to primary drug action, specifically features representing genes
+developmentally regulated, secondary stress/death related processes and sexual
+stage development. The only significant gene ontologies represented among the 46 
+remaining features after filtering relate to host exported proteins from
+multi-gene families.
+CONCLUSIONS: The malaria parasite's molecular responses to PN and CQ treatment
+are similar in terms of the genes and pathways affected. However, PN appears to
+exert a more rapid response than CQ. The faster action of PN may explain why PN
+is more efficacious than CQ, particularly against CQ resistant isolates. In
+agreement with several other microarray studies of drug action on the parasite,
+it is not possible, however, to discern mechanism of drug action from the
+drug-responsive genes.
+
+DOI: 10.1186/1475-2875-10-242 
+PMCID: PMC3224238
+PMID: 21849091  [Indexed for MEDLINE]
+

@@ -1,0 +1,44 @@
+
+1. Cell Host Microbe. 2018 Apr 11;23(4):557-569.e9. doi: 10.1016/j.chom.2018.03.007.
+
+Chromatin Accessibility-Based Characterization of the Gene Regulatory Network
+Underlying Plasmodium falciparum Blood-Stage Development.
+
+Toenhake CG(1), Fraschka SA(1), Vijayabaskar MS(2), Westhead DR(2), van Heeringen
+SJ(3), Bártfai R(4).
+
+Author information: 
+(1)Radboud University, Faculty of Science, Department of Molecular Biology,
+Nijmegen, 6525 GA, the Netherlands.
+(2)School of Molecular and Cellular Biology, Faculty of Biological Sciences,
+University of Leeds, Leeds LS2 9JT, UK.
+(3)Radboud University, Faculty of Science, Department of Molecular Developmental 
+Biology, Nijmegen, 6525 GA, the Netherlands.
+(4)Radboud University, Faculty of Science, Department of Molecular Biology,
+Nijmegen, 6525 GA, the Netherlands. Electronic address: r.bartfai@science.ru.nl.
+
+Comment in
+    Cell Host Microbe. 2018 Apr 11;23 (4):425-426.
+
+Underlying the development of malaria parasites within erythrocytes and the
+resulting pathogenicity is a hardwired program that secures proper timing of gene
+transcription and production of functionally relevant proteins. How
+stage-specific gene expression is orchestrated in vivo remains unclear. Here,
+using the assay for transposase accessible chromatin sequencing (ATAC-seq), we
+identified ∼4,000 regulatory regions in P. falciparum intraerythrocytic stages.
+The vast majority of these sites are located within 2 kb upstream of transcribed 
+genes and their chromatin accessibility pattern correlates positively
+with abundance of the respective mRNA transcript. Importantly, these regions are 
+sufficient to drive stage-specific reporter gene expression and DNA motifs
+enriched in stage-specific sets of regulatory regions interact with members of
+the P. falciparum AP2 transcription factor family. Collectively, this study
+provides initial insights into the in vivo gene regulatory network of
+P. falciparum intraerythrocytic stages and should serve as a valuable resource
+for future studies.
+
+Copyright © 2018 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chom.2018.03.007 
+PMCID: PMC5899830
+PMID: 29649445  [Indexed for MEDLINE]
+

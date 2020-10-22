@@ -1,0 +1,57 @@
+
+1. PLoS Genet. 2015 Apr 30;11(4):e1005131. doi: 10.1371/journal.pgen.1005131.
+eCollection 2015 Apr.
+
+Imputation-based population genetics analysis of Plasmodium falciparum malaria
+parasites.
+
+Samad H(1), Coll F(1), Preston MD(1), Ocholla H(2), Fairhurst RM(3), Clark TG(4).
+
+Author information: 
+(1)Faculty of Infectious and Tropical Diseases, London School of Hygiene and
+Tropical Medicine, London, United Kingdom.
+(2)Malawi-Liverpool-Wellcome Trust Clinical Research Programme, Blantyre, Malawi 
+and Liverpool School of Tropical Medicine, Liverpool, United Kingdom.
+(3)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Bethesda, Maryland, United
+States of America.
+(4)Faculty of Infectious and Tropical Diseases, London School of Hygiene and
+Tropical Medicine, London, United Kingdom; Faculty of Epidemiology and Population
+Health, London School of Hygiene and Tropical Medicine, London, United Kingdom.
+
+Erratum in
+    PLoS Genet. 2016 Aug;12(8):e1006300.
+
+Whole-genome sequencing technologies are being increasingly applied to Plasmodium
+falciparum clinical isolates to identify genetic determinants of malaria
+pathogenesis. However, genome-wide discovery methods, such as haplotype scans for
+signatures of natural selection, are hindered by missing genotypes in sequence
+data. Poor correlation between single nucleotide polymorphisms (SNPs) in the P.
+falciparum genome complicates efforts to apply established missing-genotype
+imputation methods that leverage off patterns of linkage disequilibrium (LD). The
+accuracy of state-of-the-art, LD-based imputation methods (IMPUTE, Beagle) was
+assessed by measuring allelic r2 for 459 P. falciparum samples from malaria
+patients in 4 countries: Thailand, Cambodia, Gambia, and Malawi. In restricting
+our analysis to 86 k high-quality SNPs across the populations, we found that the 
+complete-case analysis was restricted to 21k SNPs (24.5%), despite no single SNP 
+having more than 10% missing genotypes. The accuracy of Beagle in filling in
+missing genotypes was consistently high across all populations (allelic r2,
+0.87-0.96), but the performance of IMPUTE was mixed (allelic r2, 0.34-0.99)
+depending on reference haplotypes and population. Positive selection analysis
+using Beagle-imputed haplotypes identified loci involved in resistance to
+chloroquine (crt) in Thailand, Cambodia, and Gambia, sulfadoxine-pyrimethamine
+(dhfr, dhps) in Cambodia, and artemisinin (kelch13) in Cambodia. Tajima's D-based
+analysis identified genes under balancing selection that encode
+well-characterized vaccine candidates: apical merozoite antigen 1 (ama1) and
+merozoite surface protein 1 (msp1). In contrast, the complete-case analysis
+failed to identify any well-validated drug resistance or candidate vaccine loci, 
+except kelch13. In a setting of low LD and modest levels of missing genotypes,
+using Beagle to impute P. falciparum genotypes is a viable strategy for
+conducting accurate large-scale population genetics and association analyses, and
+supporting global surveillance for drug resistance markers and candidate vaccine 
+antigens.
+
+DOI: 10.1371/journal.pgen.1005131 
+PMCID: PMC4415759
+PMID: 25928499  [Indexed for MEDLINE]
+

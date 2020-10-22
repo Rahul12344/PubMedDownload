@@ -1,0 +1,39 @@
+
+1. EMBO J. 1994 Dec 15;13(24):6152-61.
+
+Chromosome end formation in phage lambda, catalyzed by terminase, is controlled
+by two DNA elements of cos, cosN and R3, and by ATP.
+
+Higgins RR(1), Becker A.
+
+Author information: 
+(1)Department of Molecular and Medical Genetics, University of Toronto, Ontario, 
+Canada.
+
+The terminase enzyme of phage lambda is a site-specific endonuclease that nicks
+DNA concatemers to regenerate the 12 nucleotide cohesive ends of the mature
+chromosome. The enzyme's DNA target, cos, consists of a nicking domain, cosN, and
+a binding domain, cosB. cosB, situated to the right of cosN, comprises three 16
+bp repeat sequences, R1, R2 and R3. A similar sequence, R4, is present to the
+left of cosN. It is shown here that terminase has an intrinsic specificity for
+cosN which is independent of the R sites. The interaction with cosN is mediated
+by binding to target sites that include 12 bp on the 5', and 2-7 bp on the 3'
+side of the nick. Of the four R sites, only R3 is required for the proper
+formation of ends. When R3 is present, an ATP-charged terminase system correctly 
+catalyzes the production of staggered nicks in cosN, at sites N1 and N2 on the
+bottom and top strands, respectively. When ATP is omitted, the bottom strand is
+nicked incorrectly, at the site Nx, 8 bp to the left of N1. If R3 is removed or
+disabled by a point mutation, nicking in cosN becomes dependent upon ATP but,
+even in the presence of ATP, bottom strand nicking is divided between sites N1,
+the correct site, and Nx, the incorrect one. Thus, R3 is an important regulatory 
+element and must reside in cis in respect to cosN. Furthermore, cosN substrates
+bearing point mutations at N1 and N2 are nicked at sites Nx and Ny, 8 bp to the
+left of N1 and N2, respectively. When R3 is present and ATP is added, nicking is 
+redirected to the N1 and N2 positions despite the mutations present. Thus,
+terminase binding to R3, on one side of cosN, regulates the rotationally
+symmetric nicking reactions on the bottom and top strands within cosN.
+
+
+PMCID: PMC395595
+PMID: 7813452  [Indexed for MEDLINE]
+

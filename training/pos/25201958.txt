@@ -1,0 +1,46 @@
+
+1. Proc Natl Acad Sci U S A. 2014 Oct 7;111(40):E4244-53. doi:
+10.1073/pnas.1409986111. Epub 2014 Sep 8.
+
+Involvement of the host DNA-repair enzyme TDP2 in formation of the covalently
+closed circular DNA persistence reservoir of hepatitis B viruses.
+
+Königer C(1), Wingert I(2), Marsmann M(2), Rösler C(2), Beck J(3), Nassal M(3).
+
+Author information: 
+(1)Department of Internal Medicine 2/Molecular Biology, University Hospital
+Freiburg, D-79106 Freiburg, Germany; and Faculty of Biology, University of
+Freiburg, D-79104 Freiburg, Germany.
+(2)Department of Internal Medicine 2/Molecular Biology, University Hospital
+Freiburg, D-79106 Freiburg, Germany; and.
+(3)Department of Internal Medicine 2/Molecular Biology, University Hospital
+Freiburg, D-79106 Freiburg, Germany; and juergen.beck@uniklinik-freiburg.de
+nassal2@ukl.uni-freiburg.de.
+
+Hepatitis B virus (HBV), the causative agent of chronic hepatitis B and
+prototypic hepadnavirus, is a small DNA virus that replicates by protein-primed
+reverse transcription. The product is a 3-kb relaxed circular DNA (RC-DNA) in
+which one strand is linked to the viral polymerase (P protein) through a
+tyrosyl-DNA phosphodiester bond. Upon infection, the incoming RC-DNA is converted
+into covalently closed circular (ccc) DNA, which serves as a viral persistence
+reservoir that is refractory to current anti-HBV treatments. The mechanism of
+cccDNA formation is unknown, but the release of P protein is one mandatory step. 
+Structural similarities between RC-DNA and cellular topoisomerase-DNA adducts and
+their known repair by tyrosyl-DNA-phosphodiesterase (TDP) 1 or TDP2 suggested
+that HBV may usurp these enzymes for its own purpose. Here we demonstrate that
+human and chicken TDP2, but only the yeast ortholog of TDP1, can specifically
+cleave the Tyr-DNA bond in virus-adapted model substrates and release P protein
+from authentic HBV and duck HBV (DHBV) RC-DNA in vitro, without prior proteolysis
+of the large P proteins. Consistent with TPD2's having a physiological role in
+cccDNA formation, RNAi-mediated TDP2 depletion in human cells significantly
+slowed the conversion of RC-DNA to cccDNA. Ectopic TDP2 expression in the same
+cells restored faster conversion kinetics. These data strongly suggest that TDP2 
+is a first, although likely not the only, host DNA-repair factor involved in HBV 
+cccDNA biogenesis. In addition to establishing a functional link between
+hepadnaviruses and DNA repair, our results open new prospects for directly
+targeting HBV persistence.
+
+DOI: 10.1073/pnas.1409986111 
+PMCID: PMC4209993
+PMID: 25201958  [Indexed for MEDLINE]
+

@@ -1,0 +1,55 @@
+
+1. PLoS Negl Trop Dis. 2017 Jul 31;11(7):e0005824. doi:
+10.1371/journal.pntd.0005824. eCollection 2017 Jul.
+
+Genome-wide diversity and differentiation in New World populations of the human
+malaria parasite Plasmodium vivax.
+
+de Oliveira TC(1), Rodrigues PT(1), Menezes MJ(1), Gonçalves-Lopes RM(1), Bastos 
+MS(1), Lima NF(1), Barbosa S(1), Gerber AL(2), Loss de Morais G(2), Berná L(3),
+Phelan J(4), Robello C(3), de Vasconcelos ATR(2), Alves JMP(1), Ferreira MU(1).
+
+Author information: 
+(1)Department of Parasitology, Institute of Biomedical Sciences, University of
+São Paulo, São Paulo, Brazil.
+(2)Unit of Computational Genomics Darcy Fontoura de Almeida, Laboratory of
+Bioinformatics, National Laboratory of Scientific Computation, Petrópolis,
+Brazil.
+(3)Unit of Molecular Biology, Pasteur Institute of Montevideo, Montevideo,
+Uruguay.
+(4)London School of Hygiene and Tropical Medicine, London, United Kingdom.
+
+BACKGROUND: The Americas were the last continent colonized by humans carrying
+malaria parasites. Plasmodium falciparum from the New World shows very little
+genetic diversity and greater linkage disequilibrium, compared with its African
+counterparts, and is clearly subdivided into local, highly divergent populations.
+However, limited available data have revealed extensive genetic diversity in
+American populations of another major human malaria parasite, P. vivax.
+METHODS: We used an improved sample preparation strategy and next-generation
+sequencing to characterize 9 high-quality P. vivax genome sequences from
+northwestern Brazil. These new data were compared with publicly available
+sequences from recently sampled clinical P. vivax isolates from Brazil (BRA,
+total n = 11 sequences), Peru (PER, n = 23), Colombia (COL, n = 31), and Mexico
+(MEX, n = 19).
+PRINCIPAL FINDINGS/CONCLUSIONS: We found that New World populations of P. vivax
+are as diverse (nucleotide diversity π between 5.2 × 10-4 and 6.2 × 10-4) as P.
+vivax populations from Southeast Asia, where malaria transmission is
+substantially more intense. They display several non-synonymous nucleotide
+substitutions (some of them previously undescribed) in genes known or suspected
+to be involved in antimalarial drug resistance, such as dhfr, dhps, mdr1, mrp1,
+and mrp-2, but not in the chloroquine resistance transporter ortholog (crt-o)
+gene. Moreover, P. vivax in the Americas is much less geographically
+substructured than local P. falciparum populations, with relatively little
+between-population genome-wide differentiation (pairwise FST values ranging
+between 0.025 and 0.092). Finally, P. vivax populations show a rapid decline in
+linkage disequilibrium with increasing distance between pairs of polymorphic
+sites, consistent with very frequent outcrossing. We hypothesize that the high
+diversity of present-day P. vivax lineages in the Americas originated from
+successive migratory waves and subsequent admixture between parasite lineages
+from geographically diverse sites. Further genome-wide analyses are required to
+test the demographic scenario suggested by our data.
+
+DOI: 10.1371/journal.pntd.0005824 
+PMCID: PMC5552344
+PMID: 28759591  [Indexed for MEDLINE]
+

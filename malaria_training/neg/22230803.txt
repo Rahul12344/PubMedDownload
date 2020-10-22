@@ -1,0 +1,50 @@
+
+1. J Vis Exp. 2012 Jan 3;(59):e3122. doi: 10.3791/3122.
+
+Selection of Plasmodium falciparum parasites for cytoadhesion to human brain
+endothelial cells.
+
+Claessens A(1), Rowe JA.
+
+Author information: 
+(1)Centre for Immunity, Infection and Evolution, University of Edinburgh.
+
+Most human malaria deaths are caused by blood-stage Plasmodium falciparum
+parasites. Cerebral malaria, the most life-threatening complication of the
+disease, is characterised by an accumulation of Plasmodium falciparum infected
+red blood cells (iRBC) at pigmented trophozoite stage in the microvasculature of 
+the brain(2-4). This microvessel obstruction (sequestration) leads to acidosis,
+hypoxia and harmful inflammatory cytokines (reviewed in (5)). Sequestration is
+also found in most microvascular tissues of the human body(2, 3). The mechanism
+by which iRBC attach to the blood vessel walls is still poorly understood. The
+immortalized Human Brain microvascular Endothelial Cell line (HBEC-5i) has been
+used as an in vitro model of the blood-brain barrier(6). However, Plasmodium
+falciparum iRBC attach only poorly to HBEC-5i in vitro, unlike the dense
+sequestration that occurs in cerebral malaria cases. We therefore developed a
+panning assay to select (enrich) various P. falciparum strains for adhesion to
+HBEC-5i in order to obtain populations of high-binding parasites, more
+representative of what occurs in vivo. A sample of a parasite culture (mixture of
+iRBC and uninfected RBC) at the pigmented trophozoite stage is washed and
+incubated on a layer of HBEC-5i grown on a Petri dish. After incubation, the dish
+is gently washed free from uRBC and unbound iRBC. Fresh uRBC are added to the few
+iRBC attached to HBEC-5i and incubated overnight. As schizont stage parasites
+burst, merozoites reinvade RBC and these ring stage parasites are harvested the
+following day. Parasites are cultured until enough material is obtained
+(typically 2 to 4 weeks) and a new round of selection can be performed. Depending
+on the P. falciparum strain, 4 to 7 rounds of selection are needed in order to
+get a population where most parasites bind to HBEC-5i. The binding phenotype is
+progressively lost after a few weeks, indicating a switch in variant surface
+antigen gene expression, thus regular selection on HBEC-5i is required to
+maintain the phenotype. In summary, we developed a selection assay rendering P.
+falciparum parasites a more "cerebral malaria adhesive" phenotype. We were able
+to select 3 out of 4 P. falciparum strains on HBEC-5i. This assay has also
+successfully been used to select parasites for binding to human dermal and
+pulmonary endothelial cells. Importantly, this method can be used to select
+tissue-specific parasite populations in order to identify candidate parasite
+ligands for binding to brain endothelium. Moreover, this assay can be used to
+screen for putative anti-sequestration drugs(7).
+
+DOI: 10.3791/3122 
+PMCID: PMC3369769
+PMID: 22230803  [Indexed for MEDLINE]
+

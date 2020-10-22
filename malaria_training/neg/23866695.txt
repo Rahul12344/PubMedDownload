@@ -1,0 +1,46 @@
+
+1. Malar J. 2013 Jul 17;12:249. doi: 10.1186/1475-2875-12-249.
+
+Spatiotemporal mathematical modelling of mutations of the dhps gene in African
+Plasmodium falciparum.
+
+Flegg JA(1), Patil AP, Venkatesan M, Roper C, Naidoo I, Hay SI, Sibley CH, Guerin
+PJ.
+
+Author information: 
+(1)WorldWide Antimalarial Resistance Network-WWARN, University of Oxford, Oxford,
+UK. jennifer.flegg@wwarn.org
+
+BACKGROUND: Plasmodium falciparum has repeatedly evolved resistance to first-line
+anti-malarial drugs, thwarting efforts to control and eliminate the disease and
+in some period of time this contributed largely to an increase in mortality. Here
+a mathematical model was developed to map the spatiotemporal trends in the
+distribution of mutations in the P. falciparum dihydropteroate synthetase (dhps) 
+gene that confer resistance to the anti-malarial sulphadoxine, and are a useful
+marker for the combination of alleles in dhfr and dhps that is highly correlated 
+with resistance to sulphadoxine-pyrimethamine (SP). The aim of this study was to 
+present a proof of concept for spatiotemporal modelling of trends in
+anti-malarial drug resistance that can be applied to monitor trends in resistance
+to components of artemisinin combination therapy (ACT) or other anti-malarials,
+as they emerge or spread.
+METHODS: Prevalence measurements of single nucleotide polymorphisms in three
+codon positions of the dihydropteroate synthetase (dhps) gene from published
+studies of dhps mutations across Africa were used. A model-based geostatistics
+approach was adopted to create predictive surfaces of the dhps540E mutation over 
+the spatial domain of sub-Saharan Africa from 1990-2010. The statistical model
+was implemented within a Bayesian framework and hence quantified the associated
+uncertainty of the prediction of the prevalence of the dhps540E mutation in
+sub-Saharan Africa.
+CONCLUSIONS: The maps presented visualize the changing prevalence of the dhps540E
+mutation in sub-Saharan Africa. These allow prediction of space-time trends in
+the parasite resistance to SP, and provide probability distributions of
+resistance prevalence in places where no data are available as well as insight on
+the spread of resistance in a way that the data alone do not allow. The results
+of this work will be extended to design optimal sampling strategies for the
+future molecular surveillance of resistance, providing a proof of concept for
+similar techniques to design optimal strategies to monitor resistance to ACT.
+
+DOI: 10.1186/1475-2875-12-249 
+PMCID: PMC3728261
+PMID: 23866695  [Indexed for MEDLINE]
+

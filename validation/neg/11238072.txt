@@ -1,0 +1,29 @@
+
+1. Bioinformatics. 2001 Feb;17(2):162-6.
+
+GeneOrder: comparing the order of genes in small genomes.
+
+Mazumder R(1), Kolaskar A, Seto D.
+
+Author information: 
+(1)School of Computational Sciences, George Mason University, 10900 University
+Boulevard, MSN 4E3, Manassas, VA 20110, USA.
+
+MOTIVATION: The recent rapid rise in the availability of whole genome DNA
+sequence data has led to bottlenecks in their complete analysis. Specifically,
+there is a need for software tools that will allow mining of gene and putative
+gene data at a whole genome level. These new tools will complement the current
+set already in use for studying specific aspects of individual genes and putative
+genes in detail. A key software challenge is to make them user-friendly, without 
+losing their flexibility and capability for use in research.
+RESULTS: The creation of GeneOrder-a web-based interactive, computational
+tool-allows researchers to compare the order of genes in two genomes. It has been
+tested on full genome sequence data for viruses, mitochondria and chloroplasts
+that were obtained from the NCBI GenBank database. It is accessible at
+http://www.bif.atcc.org/GENEOrder/index.html. GeneOrder prepares the comparison
+in table form, listing the order of similar genes. Hyperlinks are provided from
+this output; these lead to the 'Protein Coding Regions' in the NCBI database.
+
+DOI: 10.1093/bioinformatics/17.2.162 
+PMID: 11238072  [Indexed for MEDLINE]
+

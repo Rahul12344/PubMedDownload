@@ -1,0 +1,67 @@
+
+1. PLoS One. 2019 Mar 18;14(3):e0213686. doi: 10.1371/journal.pone.0213686.
+eCollection 2019.
+
+Artemisinin resistance-associated markers in Plasmodium falciparum parasites from
+the China-Myanmar border: predicted structural stability of K13 propeller
+variants detected in a low-prevalence area.
+
+He Y(1)(2), Campino S(3), Diez Benavente E(3), Warhurst DC(3), Beshir KB(3),
+Lubis I(3), Gomes AR(3), Feng J(1)(2), Jiazhi W(4), Sun X(5), Huang F(1)(2), Tang
+LH(1)(2), Sutherland CJ(3), Clark TG(3)(6).
+
+Author information: 
+(1)National Institute of Parasitic Diseases, Chinese Center for Disease Control
+and Prevention, Shanghai, Shanghai, People's Republic of China.
+(2)WHO Collaborating Centre for Malaria, Schistosomiasis and Filariasis, Key
+Laboratory of Parasite and Vector Biology, Ministry of Health, Shanghai, People's
+Republic of China.
+(3)Faculty of Infectious and Tropical Diseases, London School of Hygiene and
+Tropical Medicine, London, United Kingdom.
+(4)Yunnan Institute of Parasitic Diseases, Provincial Centre of Malaria Research,
+Provincial Collaborative Innovation Centre for Public Health and Disease
+Prevention and Control, Provincial Key Laboratory of Vector-borne Diseases
+Control and Research, Puer, China.
+(5)Tengchong County Centers for Disease Control and Prevention, Guanghua village,
+Tiancheng district, Tengchong, Yunnan Province, China.
+(6)Faculty of Epidemiology and Population Health, London School of Hygiene and
+Tropical Medicine, London, United Kingdom.
+
+BACKGROUND: Malaria reduction and future elimination in China is made more
+difficult by the importation of cases from neighboring endemic countries,
+particularly Myanmar, Laos, and Vietnam, and increased travel to Africa by
+Chinese nationals. The increasing prevalence of artemisinin resistant parasites
+across Southeast Asia highlights the importance of monitoring the parasite
+importation into China. Artemisinin resistance in the Mekong region is associated
+with variants of genes encoding the K13 kelch domain protein (pf13k), found in
+specific genetic backgrounds, including certain alleles of genes encoding the
+chloroquine resistance transporter (pfcrt) and multidrug resistance transporter
+PgH1 (pfmdr1).
+METHODS: In this study we investigated the prevalence of drug resistance markers 
+in 72 P. falciparum samples from uncomplicated malaria infections in Tengchong
+and Yingjiang, counties on the Yunnan-Myanmar border. Variants of pf13k, pfcrt
+and pfmdr1 are described.
+RESULTS: Almost all parasites harboured chloroquine-resistant alleles of pfcrt,
+whereas pfmdr1 was more diverse. Major mutations in the K13 propeller domain
+associated with artemisinin resistance in the Mekong region (C580Y, R539T and
+Y493H) were absent, but F446I and two previously undescribed mutations (V603E and
+V454I) were identified. Protein structural modelling was carried out in silico on
+each of these K13 variants, based on recently published crystal structures for
+the K13 propeller domain. Whereas F446I was predicted to elicit a moderate
+destabilisation of the propeller structure, the V603E substitution is likely to
+lead to relatively high protein instability. We plotted these stability
+estimates, and those for all previously described variants, against published
+values for in vivo parasitaemia half-life, and found that quadratic regression
+generates a useful predictive algorithm.
+CONCLUSION: This study provides a baseline of P. falciparum resistance-associated
+mutations prevalent at the China-Myanmar border. We also show that protein
+modelling can be used to generate testable predictions as to the impact of pfk13 
+mutations on in vivo (and potentially in vitro) artemisinin susceptibility.
+
+DOI: 10.1371/journal.pone.0213686 
+PMCID: PMC6422288
+PMID: 30883571  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

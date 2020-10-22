@@ -1,0 +1,59 @@
+
+1. BMC Genomics. 2017 Sep 18;18(1):734. doi: 10.1186/s12864-017-4100-0.
+
+Comparative transcriptomics of female and male gametocytes in Plasmodium berghei 
+and the evolution of sex in alveolates.
+
+Yeoh LM(1)(2), Goodman CD(2), Mollard V(2), McFadden GI(3), Ralph SA(4).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Bio21 Molecular Science and 
+Biotechnology Institute, The University of Melbourne, Parkville, 3010, Australia.
+(2)School of BioSciences, The University of Melbourne, Parkville, 3010,
+Australia.
+(3)School of BioSciences, The University of Melbourne, Parkville, 3010,
+Australia. g.mcfadden@unimelb.edu.au.
+(4)Department of Biochemistry and Molecular Biology, Bio21 Molecular Science and 
+Biotechnology Institute, The University of Melbourne, Parkville, 3010, Australia.
+saralph@unimelb.edu.au.
+
+BACKGROUND: The clinical symptoms of malaria are caused by the asexual
+replication of Plasmodium parasites in the blood of the vertebrate host. To
+spread to new hosts, however, the malaria parasite must differentiate into sexual
+forms, termed gametocytes, which are ingested by a mosquito vector. Sexual
+differentiation produces either female or male gametocytes, and involves
+significant morphological and biochemical changes. These transformations prepare 
+gametocytes for the rapid progression to gamete formation and fertilisation,
+which occur within 20 min of ingestion. Here we present the transcriptomes of
+asexual, female, and male gametocytes in P. berghei, and a comprehensive
+statistically-based differential-expression analysis of the transcriptional
+changes that underpin this sexual differentiation.
+RESULTS: RNA-seq analysis revealed numerous differences in the transcriptomes of 
+female and male gametocytes compared to asexual stages. Overall, there is net
+downregulation of transcripts in gametocytes compared to asexual stages, with
+this trend more marked in female gametocytes. Our analysis identified
+transcriptional changes in previously-characterised gametocyte-specific pathways,
+which validated our approach. We also detected many previously-unreported female-
+and male-specific pathways and genes. Transcriptional biases in stage and gender 
+were then used to investigate sex-specificity and sexual dimorphism of Plasmodium
+in an evolutionary context. Sex-related gene expression is well conserved between
+Plasmodium species, but relatively poorly conserved in related organisms outside 
+this genus. This pattern of conservation is most evident in genes necessary for
+both male and female gametocyte formation. However, this trend is less pronounced
+for male-specific genes, which are more highly conserved outside the genus than
+genes specific to female development.
+CONCLUSIONS: We characterised the transcriptional changes that are integral to
+the development of the female and male sexual forms of Plasmodium. These
+differential-expression patterns provide a vital insight into understanding the
+gender-specific characteristics of this essential stage that is the primary
+target for treatments that block parasite transmission. Our results also offer
+insight into the evolution of sex genes through Alveolata, and suggest that many 
+Plasmodium sex genes evolved within the genus. We further hypothesise that male
+gametocytes co-opted pre-existing cellular machinery in their evolutionary
+history, whereas female gametocytes evolved more through the development of
+novel, parasite-specific pathways.
+
+DOI: 10.1186/s12864-017-4100-0 
+PMCID: PMC5604118
+PMID: 28923023  [Indexed for MEDLINE]
+

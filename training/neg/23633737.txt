@@ -1,0 +1,42 @@
+
+1. Public Health Rep. 2013 May-Jun;128(3):221-30.
+
+Correlation between aerial insecticide spraying to interrupt west nile virus
+transmission and emergency department visits in Sacramento County, California.
+
+Geraghty EM(1), Margolis HG, Kjemtrup A, Reisen W, Franks P.
+
+Author information: 
+(1)University of California, Davis, Division of General Medicine, Sacramento, CA 
+95817, USA. estella.geraghty@ucdmc.ucdavis.edu
+
+OBJECTIVES: Insecticides reduce vector-borne pathogen transmission but also pose 
+health risks. In August 2005, Sacramento County, California, underwent emergency 
+aerial ultralow-volume (ULV) application of pyrethrin insecticide to reduce the
+population of West Nile virus (WNV)-infected mosquitoes and thereby interrupt
+enzootic and tangential transmission. We assessed the association between
+aerially applied pyrethrin insecticide and patterns of emergency department (ED) 
+visit diagnoses.
+METHODS: We used geographic information systems software to determine ZIP
+Code-level exposure to pyrethrin. We used logistic regression models to examine
+the relationship between exposure status and three-digit International
+Classification of Diseases, Ninth Edition, Clinical Modification (ICD-9-CM) codes
+(785 in total) for all ED visits (n=253,648) within Sacramento County in 2005 and
+for specific diagnostic clusters (e.g., respiratory, gastrointestinal, skin, eye,
+and neurologic). All models were adjusted for age, gender, race/ethnicity
+(individual level), median income, ozone, and temperature (ZIP Code level).
+RESULTS: Exposure to aerially applied insecticide was not associated with
+clusters of respiratory, gastrointestinal, skin, eye, and neurologic complaints
+in adjusted models but was inversely associated with ICD-9-CM code 799 ("other
+ill-defined morbidity and mortality"), with adjusted odds ratios (AORs) ranging
+from 0.31 to 0.36 for 0-3 lag days (95% confidence interval 0.17, 0.68). Spraying
+was also directly associated with ICD-9-CM code 553 ("other abdominal hernia"),
+with AORs ranging from 2.34 to 2.96 for 2-3 lag days.
+CONCLUSIONS: The observed significant ICD-9-CM code associations likely
+represented chance findings. Aerial ULV pyrethrin applications were not
+associated with ED visits for specific diagnoses or clusters of diagnoses.
+
+DOI: 10.1177/003335491312800312 
+PMCID: PMC3610074
+PMID: 23633737  [Indexed for MEDLINE]
+

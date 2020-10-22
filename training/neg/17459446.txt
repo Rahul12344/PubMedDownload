@@ -1,0 +1,42 @@
+
+1. Virology. 2007 Aug 15;365(1):144-56. Epub 2007 Apr 24.
+
+TLR-4 and -6 agonists reverse apoptosis and promote maturation of simian virus
+5-infected human dendritic cells through NFkB-dependent pathways.
+
+Arimilli S(1), Johnson JB, Alexander-Miller MA, Parks GD.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Wake Forest University School of
+Medicine, Medical Center Blvd., Winston-Salem, NC 27157-1064, USA.
+
+Infection of primary cultures of human immature monocyte-derived dendritic cells 
+(moDC) with the paramyxovirus Simian Virus 5 (SV5) results in extensive
+cytopathic effect (CPE) and induction of apoptosis, but DC maturation pathways
+are not activated. In this study, we investigated the relationship between
+SV5-induced apoptosis and the lack of DC maturation. Reducing CPE and apoptosis
+in SV5-infected immature DC by the addition of a pancaspase inhibitor resulted in
+only low level expression of maturation markers CD40, CD80 and CD86, suggesting
+that SV5 infection either actively blocked maturation pathways or failed to
+provide sufficient signals to activate maturation. To distinguish between these
+hypotheses, SV5-infected immature DC were challenged with agonists that stimulate
+toll-like receptors (TLRs). Treatment with the TLR-4 agonist LPS or TLR-6 agonist
+FSL1 enhanced cell surface expression of CD40, CD80 and CD86 on SV5-infected
+cells to levels approaching that of mock-infected TLR-treated moDC, but treatment
+with agonists for TLR-2, -3, -5 or -8 had little effect. Addition of TLR-4 or -6 
+agonists to SV5-infected DC also dramatically reduced CPE and apoptosis, but the 
+levels of viral protein and virus yield were not affected. Similarly,
+SV5-infected immature moDC were matured by treatment with IL-1beta, and these
+mature infected cells also showed reduced CPE and apoptosis. In the presence of
+NFkB inhibitors, TLR-4 and -6 agonists did not promote maturation or reduce
+apoptosis of SV5-infected DC, indicating that maturation and cell survival were
+both dependent on signaling through NFkB-dependent pathways. Our results suggest 
+a model whereby SV5 replication induces apoptosis in immature DC but fails to
+provide strong maturation signals, while activation of NFkB-dependent pathways by
+exogenous ligands can lead to moDC maturation and override SV5-induced cell
+death.
+
+DOI: 10.1016/j.virol.2007.02.035 
+PMCID: PMC1949023
+PMID: 17459446  [Indexed for MEDLINE]
+

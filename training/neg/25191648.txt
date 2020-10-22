@@ -1,0 +1,43 @@
+
+1. Front Pediatr. 2014 Aug 19;2:85. doi: 10.3389/fped.2014.00085. eCollection 2014.
+
+Rethinking Molecular Mimicry in Rheumatic Heart Disease and Autoimmune
+Myocarditis: Laminin, Collagen IV, CAR, and B1AR as Initial Targets of Disease.
+
+Root-Bernstein R(1).
+
+Author information: 
+(1)Department of Physiology, Michigan State University , East Lansing, MI , USA.
+
+RATIONALE: Molecular mimicry theory (MMT) suggests that epitope mimicry between
+pathogens and human proteins can activate autoimmune disease. Group A
+streptococci (GAS) mimics human cardiac myosin in rheumatic heart disease (RHD)
+and coxsackie viruses (CX) mimic actin in autoimmune myocarditis (AM). But myosin
+and actin are immunologically inaccessible and unlikely initial targets.
+Extracellular cardiac proteins that mimic GAS and CX would be more likely.
+OBJECTIVES: To determine whether extracellular cardiac proteins such as coxsackie
+and adenovirus receptor (CAR), beta 1 adrenergic receptor (B1AR), CD55/DAF,
+laminin, and collagen IV mimic GAS, CX, and/or cardiac myosin or actin.
+METHODS: BLAST 2.0 and LALIGN searches of the UniProt protein database were
+employed to identify potential molecular mimics. Quantitative enzyme-linked
+immunosorbent assay was used to measure antibody cross-reactivity.
+MEASUREMENTS: Similarities were considered to be significant if a sequence
+contained at least 5 identical amino acids in 10. Antibodies were considered to
+be cross-reactive if the binding constant had a K d less than 10(-9) M.
+MAIN RESULTS: Group A streptococci mimics laminin, CAR, and myosin. CX mimics
+actin and collagen IV and B1AR. The similarity search results are mirrored by
+antibody cross-reactivities. Additionally, antibodies against laminin recognize
+antibodies against collagen IV; antibodies against actin recognize antibodies
+against myosin, and antibodies against GAS recognize antibodies against CX. Thus,
+there is both mimicry of extracellular proteins and antigenic complementarity
+between GAS-CX in RHD/AM.
+CONCLUSION: Rheumatic heart disease/AM may be due to combined infections of GAS
+with CX localized at cardiomyocytes that may produce a synergistic,
+hyperinflammatory response that cross-reacts with laminin, collagen IV, CAR,
+and/or B1AR. Epitope drift shifts the immune response to myosin and actin after
+cardiomyocytes become damaged.
+
+DOI: 10.3389/fped.2014.00085 
+PMCID: PMC4137453
+PMID: 25191648 
+

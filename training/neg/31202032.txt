@@ -1,0 +1,44 @@
+
+1. Spectrochim Acta A Mol Biomol Spectrosc. 2019 Nov 5;222:117181. doi:
+10.1016/j.saa.2019.117181. Epub 2019 May 28.
+
+Identification of new spectral signatures from hepatitis C virus infected human
+sera.
+
+Naseer K(1), Saleem M(2), Ali S(3), Mirza B(1), Qazi J(4).
+
+Author information: 
+(1)Faculty of Biological Sciences, Qauid-i-Azam University, Islamabad, Pakistan.
+(2)Agri. & Biophotonics Division, National Institute of Laser and Optronics
+(NILOP), Lehtrar Road, Islamabad, Pakistan.
+(3)Directorate General National Repository, P.O. Box 1175, Islamabad, Pakistan.
+(4)Faculty of Biological Sciences, Qauid-i-Azam University, Islamabad, Pakistan. 
+Electronic address: javariaq@yahoo.com.
+
+Hepatitis C virus (HCV) infection is one of the leading causes of morbidity and
+mortality worldwide. Mortality linked with HCV infection can be lowered with
+effective and prompt diagnosis in early stages of infection. In this study
+potential of Raman spectroscopy to differentiate between healthy and HCV infected
+serum samples was investigated. Clear differences were observed in the Raman
+spectra of HCV infected and healthy sera samples. Using the analysis of variance 
+(ANOVA) and t-test (p < 0.001) on Raman spectra of diseased and healthy samples, 
+we observed eleven unique Raman bands at 676, 825, 853, 936, 1029, 1105, 1155,
+1305, 1620, 1654 and 1757 cm-1 associated with only HCV infected sera and have
+not been reported in earlier studies. In addition, six Raman bands at 556, 585,
+716, 815, 1273 and 1142 cm-1were observed in healthy sera only. Three Raman bands
+at 1330, 1526 and 1572 cm-1 were observed in both type of samples but their
+intensity was drastically reduced in diseased samples. Various multivariate
+analysis techniques were employed to demonstrate the robustness of the results.
+We employed multivariate and unsupervised principal component analysis (PCA) in
+conjunction with supervised classification linear discriminant analysis (LDA),
+using ten-fold jackknife cross-validation, in order to develop effective
+diagnostic algorithm technique (PCA-LDA). Our PCA-LDA model yielded sufficient
+sensitivity and specificity i.e. correctly identified all infected samples
+included in this study. Ours results indicate that these unique Raman bands have 
+the potential to be used as biomarkers for optical diagnosis of HCV infection.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.saa.2019.117181 
+PMID: 31202032  [Indexed for MEDLINE]
+

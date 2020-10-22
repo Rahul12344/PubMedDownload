@@ -1,0 +1,50 @@
+
+1. PLoS Pathog. 2019 Nov 7;15(11):e1008063. doi: 10.1371/journal.ppat.1008063.
+eCollection 2019 Nov.
+
+The male mosquito contribution towards malaria transmission: Mating influences
+the Anopheles female midgut transcriptome and increases female susceptibility to 
+human malaria parasites.
+
+Dahalan FA(1), Churcher TS(2), Windbichler N(1), Lawniczak MKN(1)(3).
+
+Author information: 
+(1)Imperial College London, South Kensington, United Kingdom.
+(2)MRC Centre for Outbreak Analysis and Modelling, Department of Infectious
+Disease Epidemiology, Imperial College London, London, United Kingdom.
+(3)Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, United Kingdom.
+
+Mating causes dramatic changes in female physiology, behaviour, and immunity in
+many insects, inducing oogenesis, oviposition, and refractoriness to further
+mating. Females from the Anopheles gambiae species complex typically mate only
+once in their lifetime during which they receive sperm and seminal fluid proteins
+as well as a mating plug that contains the steroid hormone 20-hydroxyecdysone.
+This hormone, which is also induced by blood-feeding, plays a major role in
+activating vitellogenesis for egg production. Here we show that female Anopheles 
+coluzzii susceptibility to Plasmodium falciparum infection is significantly
+higher in mated females compared to virgins. We also find that mating status has 
+a major impact on the midgut transcriptome, detectable only under sugar-fed
+conditions: once females have blood-fed, the transcriptional changes that are
+induced by mating are likely masked by the widespread effects of blood-feeding on
+gene expression. To determine whether increased susceptibility to parasites could
+be driven by the additional 20E that mated females receive from males, we
+mimicked mating by injecting virgin females with 20E, finding that these females 
+are significantly more susceptible to human malaria parasites than virgin females
+injected with the control 20E carrier. Further RNAseq was carried out to examine 
+whether the genes that change upon 20E injection in the midgut are similar to
+those that change upon mating. We find that 79 midgut-expressed genes are
+regulated in common by both mating and 20E, and 96% (n = 76) of these are
+regulated in the same direction (up vs down in 20E/mated). Together, these
+findings show that male Anopheles mosquitoes induce changes in the female midgut 
+that can affect female susceptibility to P. falciparum. This implies that in
+nature, males might contribute to malaria transmission in previously
+unappreciated ways, and that vector control strategies that target males may have
+additional benefits towards reducing transmission.
+
+DOI: 10.1371/journal.ppat.1008063 
+PMCID: PMC6837289
+PMID: 31697788  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

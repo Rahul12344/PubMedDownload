@@ -1,0 +1,70 @@
+
+1. mSphere. 2016 May 18;1(3). pii: e00086-16. doi: 10.1128/mSphere.00086-16.
+eCollection 2016 May-Jun.
+
+Engineering Recombinant Reoviruses To Display gp41 Membrane-Proximal
+External-Region Epitopes from HIV-1.
+
+Boehme KW(1), Ikizler M(1), Iskarpatyoti JA(1), Wetzel JD(1), Willis J(2), Crowe 
+JE Jr(3), LaBranche CC(4), Montefiori DC(4), Wilson GJ(1), Dermody TS(5).
+
+Author information: 
+(1)Department of Pediatrics, Vanderbilt University Medical Center, Nashville,
+Tennessee, USA; Elizabeth B. Lamb Center for Pediatric Research, Vanderbilt
+University Medical Center, Nashville, Tennessee, USA.
+(2)Department of Chemistry, Vanderbilt University, Nashville, Tennessee, USA;
+Vanderbilt Vaccine Center, Vanderbilt University Medical Center, Nashville,
+Tennessee, USA.
+(3)Department of Pediatrics, Vanderbilt University Medical Center, Nashville,
+Tennessee, USA; Vanderbilt Vaccine Center, Vanderbilt University Medical Center, 
+Nashville, Tennessee, USA; Department of Pathology, Microbiology, and Immunology,
+Vanderbilt University Medical Center, Nashville, Tennessee, USA.
+(4)Department of Surgery, Duke University Medical Center, Durham, North Carolina,
+USA; Department of Pathology, Duke University Medical Center, Durham, North
+Carolina, USA; Laboratory for AIDS Vaccine Research and Development, Duke
+University Medical Center, Durham, North Carolina, USA.
+(5)Department of Pediatrics, Vanderbilt University Medical Center, Nashville,
+Tennessee, USA; Elizabeth B. Lamb Center for Pediatric Research, Vanderbilt
+University Medical Center, Nashville, Tennessee, USA; Department of Pathology,
+Microbiology, and Immunology, Vanderbilt University Medical Center, Nashville,
+Tennessee, USA.
+
+The gp41 membrane-proximal external region (MPER) is a target for broadly
+neutralizing antibody responses against human immunodeficiency virus type 1
+(HIV-1). However, replication-defective virus vaccines currently under evaluation
+in clinical trials do not efficiently elicit MPER-specific antibodies. Structural
+modeling suggests that the MPER forms an α-helical coiled coil that is required
+for function and immunogenicity. To maintain the native MPER conformation, we
+used reverse genetics to engineer replication-competent reovirus vectors that
+displayed MPER sequences in the α-helical coiled-coil tail domain of viral
+attachment protein σ1. Sequences in reovirus strain type 1 Lang (T1L) σ1 were
+exchanged with sequences encoding HIV-1 strain Ba-L MPER epitope 2F5 or the
+entire MPER. Individual 2F5 or MPER substitutions were introduced at
+virion-proximal or virion-distal sites in the σ1 tail. Recombinant reoviruses
+containing heterologous HIV-1 sequences were viable and produced progeny yields
+comparable to those with wild-type virus. HIV-1 sequences were retained following
+10 serial passages in cell culture, indicating that the substitutions were
+genetically stable. Recombinant viruses engineered to display the 2F5 epitope or 
+full-length MPER in σ1 were recognized by purified 2F5 antibody. Inoculation of
+mice with 2F5-containing vectors or rabbits with 2F5- or MPER-containing vectors 
+elicited anti-reovirus antibodies, but HIV-1-specific antibodies were not
+detected. Together, these findings indicate that heterologous sequences that form
+α-helices can functionally replace native sequences in the α-helical tail domain 
+of reovirus attachment protein σ1. However, although these vectors retain native 
+antigenicity, they were not immunogenic, illustrating the difficulty of
+experimentally inducing immune responses to this essential region of HIV-1.
+IMPORTANCE Vaccines to protect against HIV-1, the causative agent of AIDS, are
+not approved for use. Antibodies that neutralize genetically diverse strains of
+HIV-1 bind to discrete regions of the envelope glycoproteins, including the gp41 
+MPER. We engineered recombinant reoviruses that displayed MPER epitopes in
+attachment protein σ1 (REO-MPER vectors). The REO-MPER vectors replicated with
+wild-type efficiency, were genetically stable, and retained native antigenicity. 
+However, we did not detect HIV-1-specific immune responses following inoculation 
+of the REO-MPER vectors into small animals. This work provides proof of principle
+for engineering reovirus to express antigenic epitopes and illustrates the
+difficulty in eliciting MPER-specific immune responses.
+
+DOI: 10.1128/mSphere.00086-16 
+PMCID: PMC4888892
+PMID: 27303748 
+

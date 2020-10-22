@@ -1,0 +1,36 @@
+
+1. Proteins. 2005 Jun 1;59(4):723-41.
+
+Comparative molecular dynamics simulations of HIV-1 integrase and the T66I/M154I 
+mutant: binding modes and drug resistance to a diketo acid inhibitor.
+
+Brigo A(1), Lee KW, Fogolari F, Mustata GI, Briggs JM.
+
+Author information: 
+(1)Dipartimento di Scienze Farmaceutiche, Università degli Studi di Padova,
+Padova, Italy.
+
+HIV-1 IN is an essential enzyme for viral replication and an interesting target
+for the design of new pharmaceuticals for use in multidrug therapy of AIDS.
+L-731,988 is one of the most active molecules of the class of beta-diketo acids. 
+Individual and combined mutations of HIV-1 IN at residues T66, S153, and M154
+confer important degrees of resistance to one or more inhibitors belonging to
+this class. In an effort to understand the molecular mechanism of the resistance 
+of T66I/M154I IN to the inhibitor L-731,988 and its specific binding modes, we
+have carried out docking studies, explicit solvent MD simulations, and binding
+free energy calculations. The inhibitor was docked against different protein
+conformations chosen from prior MD trajectories, resulting in 2 major
+orientations within the active site. MD simulations have been carried out for the
+T66I/M154I DM IN, DM IN in complex with L-731,988 in 2 different orientations,
+and 1QS4 IN in complex with L-731,988. The results of these simulations show a
+similar dynamical behavior between T66I/M154I IN alone and in complex with
+L-731,988, while significant differences are observed in the mobility of the IN
+catalytic loop (residues 138-149). Water molecules bridging the inhibitor to
+residues from the active site have been identified, and residue Gln62 has been
+found to play an important role in the interactions between the inhibitor and the
+protein. This work provides information about the binding modes of L-731,988, as 
+well as insight into the mechanism of inhibitor-resistance in HIV-1 integrase.
+
+DOI: 10.1002/prot.20447 
+PMID: 15815973  [Indexed for MEDLINE]
+

@@ -1,0 +1,65 @@
+
+1. mBio. 2020 Mar 17;11(2). pii: e03272-19. doi: 10.1128/mBio.03272-19.
+
+Evolution of Host Specificity by Malaria Parasites through Altered Mechanisms
+Controlling Genome Maintenance.
+
+Siao MC(1), Borner J(2)(3), Perkins SL(2), Deitsch KW(4), Kirkman LA(5)(6).
+
+Author information: 
+(1)Tri-Institutional MD-PhD Program, Weill Cornell Medical College, New York, New
+York, USA.
+(2)Sackler Institute for Comparative Genomics & Division of Invertebrate Zoology,
+American Museum of Natural History, New York, New York, USA.
+(3)Institute of Evolutionary Ecology and Conservation Genomics, University of
+Ulm, Ulm, Germany.
+(4)Department of Microbiology and Immunology, Weill Cornell Medical College, New 
+York, New York, USA.
+(5)Department of Microbiology and Immunology, Weill Cornell Medical College, New 
+York, New York, USA lak9015@med.cornell.edu.
+(6)Department of Internal Medicine, Division of Infectious Diseases, Weill
+Cornell Medical College, New York, New York, USA.
+
+The protozoan parasites that cause malaria infect a wide variety of vertebrate
+hosts, including birds, reptiles, and mammals, and the evolutionary pressures
+inherent to the host-parasite relationship have profoundly shaped the genomes of 
+both host and parasite. Here, we report that these selective pressures have
+resulted in unexpected alterations to one of the most basic aspects of eukaryotic
+biology, the maintenance of genome integrity through DNA repair. Malaria
+parasites that infect humans continuously generate genetic diversity within their
+antigen-encoding gene families through frequent ectopic recombination between
+gene family members, a process that is a crucial feature of the persistence of
+malaria globally. The continuous generation of antigen diversity ensures that
+different parasite isolates are antigenically distinct, thus preventing extensive
+cross-reactive immunity and enabling parasites to maintain stable transmission
+within human populations. However, the molecular basis of the recombination
+between gene family members is not well understood. Through computational
+analyses of the antigen-encoding, multicopy gene families of different Plasmodium
+species, we report the unexpected observation that malaria parasites that infect 
+rodents do not display the same degree of antigen diversity as observed in
+Plasmodium falciparum and appear to undergo significantly less ectopic
+recombination. Using comparative genomics, we also identify key molecular
+components of the diversification process, thus shedding new light on how malaria
+parasites balance the maintenance of genome integrity with the requirement for
+continuous genetic diversification.IMPORTANCE Malaria remains one of the most
+prevalent and deadly infectious diseases of the developing world, causing
+approximately 228 million clinical cases and nearly half a million deaths
+annually. The disease is caused by protozoan parasites of the genus Plasmodium,
+and of the five species capable of infecting humans, infections with P.
+falciparum are the most severe. In addition to the parasites that infect people, 
+there are hundreds of additional species that infect birds, reptiles, and other
+mammals, each exquisitely evolved to meet the specific challenges inherent to
+survival within their respective hosts. By comparing the unique strategies that
+each species has evolved, key insights into host-parasite interactions can be
+gained, including discoveries regarding the pathogenesis of human disease. Here, 
+we describe the surprising observation that closely related parasites with
+different hosts have evolved remarkably different methods for repairing their
+genomes. This observation has important implications for the ability of parasites
+to maintain chronic infections and for the development of host immunity.
+
+Copyright © 2020 Siao et al.
+
+DOI: 10.1128/mBio.03272-19 
+PMCID: PMC7078485
+PMID: 32184256 
+

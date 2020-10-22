@@ -1,0 +1,42 @@
+
+1. Cell Microbiol. 2017 Oct;19(10). doi: 10.1111/cmi.12754. Epub 2017 Jun 19.
+
+LC3-association with the parasitophorous vacuole membrane of Plasmodium berghei
+liver stages follows a noncanonical autophagy pathway.
+
+Wacker R(1)(2), Eickel N(1)(2), Schmuckli-Maurer J(1), Annoura T(3), Niklaus
+L(1)(2), Khan SM(4), Guan JL(5), Heussler VT(1).
+
+Author information: 
+(1)Institute of Cell Biology, University of Bern, Bern, Switzerland.
+(2)Graduate School for Cellular and Biomedical Sciences, University of Bern,
+Bern, Switzerland.
+(3)Department of Parasitology, National Institute of Infectious Diseases (NIID), 
+Tokyo, Japan.
+(4)Center of Infectious Diseases, Leiden University Medical Center, Leiden, The
+Netherlands.
+(5)Department of Cancer Biology, University of Cincinnati College of Medicine,
+Cincinnati, OH, USA.
+
+Eukaryotic cells can employ autophagy to defend themselves against invading
+pathogens. Upon infection by Plasmodium berghei sporozoites, the host hepatocyte 
+targets the invader by labelling the parasitophorous vacuole membrane (PVM) with 
+the autophagy marker protein LC3. Until now, it has not been clear whether LC3
+recruitment to the PVM is mediated by fusion of autophagosomes or by direct
+incorporation. To distinguish between these possibilities, we knocked out genes
+that are essential for autophagosome formation and for direct LC3 incorporation
+into membranes. The CRISPR/Cas9 system was employed to generate host cell lines
+deficient for either FIP200, a member of the initiation complex for autophagosome
+formation, or ATG5, responsible for LC3 lipidation and incorporation of LC3 into 
+membranes. Infection of these knockout cell lines with P. berghei sporozoites
+revealed that LC3 recruitment to the PVM indeed depends on functional ATG5 and
+the elongation machinery, but not on FIP200 and the initiation complex,
+suggesting a direct incorporation of LC3 into the PVM. Importantly, in
+P. berghei-infected ATG5-/- host cells, lysosomes still accumulated at the PVM,
+indicating that the recruitment of lysosomes follows an LC3-independent pathway.
+
+© 2017 The Authors Cellular Microbiology Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/cmi.12754 
+PMID: 28573684  [Indexed for MEDLINE]
+

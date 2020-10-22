@@ -1,0 +1,58 @@
+
+1. mBio. 2017 Dec 12;8(6). pii: e01986-17. doi: 10.1128/mBio.01986-17.
+
+Systematic CRISPR-Cas9-Mediated Modifications of Plasmodium yoelii ApiAP2 Genes
+Reveal Functional Insights into Parasite Development.
+
+Zhang C(1), Li Z(1), Cui H(1), Jiang Y(1), Yang Z(1), Wang X(1), Gao H(1), Liu
+C(1), Zhang S(1), Su XZ(2), Yuan J(3).
+
+Author information: 
+(1)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Signaling Network, School of Life Sciences, Xiamen University, Xiamen, Fujian,
+China.
+(2)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Bethesda, Maryland, USA
+xsu@niaid.nih.gov yuanjing@xmu.edu.cn.
+(3)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Signaling Network, School of Life Sciences, Xiamen University, Xiamen, Fujian,
+China xsu@niaid.nih.gov yuanjing@xmu.edu.cn.
+
+Malaria parasites have a complex life cycle with multiple developmental stages in
+mosquito and vertebrate hosts, and different developmental stages express unique 
+sets of genes. Unexpectedly, many transcription factors (TFs) commonly found in
+eukaryotic organisms are absent in malaria parasites; instead, a family of genes 
+encoding proteins similar to the plant Apetala2 (ApiAP2) transcription factors is
+expanded in the parasites. Several malaria ApiAP2 genes have been shown to play a
+critical role in parasite development; however, the functions of the majority of 
+the ApiAP2 genes remain to be elucidated. In particular, no study on the
+Plasmodium yoelii ApiAP2 (PyApiAP2) gene family has been reported so far. This
+study systematically investigated the functional roles of PyApiAP2 genes in
+parasite development. Twenty-four of the 26 PyApiAP2 genes were selected for
+disruption, and 12 were successfully knocked out using the clustered regularly
+interspaced short palindromic repeat-CRISPR-associated protein 9 (CRISPR-Cas9)
+method. The effects of gene knockout (KO) on parasite development in mouse and
+mosquito stages were evaluated. Ten of 12 successfully disrupted genes, including
+two genes that have not been functionally characterized in any Plasmodium species
+previously, were shown to be critical for P. yoelii development of sexual and
+mosquito stages. Additionally, seven of the genes were labeled for protein
+expression analysis, revealing important information supporting their functions. 
+This study represents the first systematic functional characterization of the
+P. yoelii ApiAP2 gene family and discovers important insights on the roles of the
+ApiAP2 genes in parasite development.IMPORTANCE Malaria is a parasitic disease
+that infects hundreds of millions of people, leading to an estimated 0.35 million
+deaths in 2015. A better understanding of the mechanism of gene expression
+regulation during parasite development may provide important clues for disease
+control and prevention. In this study, systematic gene disruption experiments
+were performed to study the functional roles of members of the Plasmodium yoelii 
+ApiAP2 (PyApiAP2) gene family in parasite development. Genes that are critical
+for the development of male and female gametocytes, oocysts, and sporozoites were
+characterized. The protein expression profiles for seven of the PyApiAP2 gene
+products were also analyzed, revealing important information on their functions. 
+This study provides expression and functional information for many PyApiAP2
+genes, which can be explored for disease management.
+
+DOI: 10.1128/mBio.01986-17 
+PMCID: PMC5727417
+PMID: 29233900  [Indexed for MEDLINE]
+

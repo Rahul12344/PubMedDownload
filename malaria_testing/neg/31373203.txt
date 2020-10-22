@@ -1,0 +1,46 @@
+
+1. ACS Infect Dis. 2019 Oct 11;5(10):1738-1753. doi: 10.1021/acsinfecdis.9b00168.
+Epub 2019 Aug 14.
+
+Identification via a Parallel Hit Progression Strategy of Improved Small Molecule
+Inhibitors of the Malaria Purine Uptake Transporter that Inhibit Plasmodium
+falciparum Parasite Proliferation.
+
+Sosa Y, Deniskin R, Frame IJ, Steiginga MS(1), Bandyopadhyay D(1), Graybill
+TL(1), Kallal LA(1), Ouellette MT(1), Pope AJ(1), Widdowson KL(1), Young RJ(1),
+Akabas MH.
+
+Author information: 
+(1)Platform Technology & Science and Discovery Partners in Academia ,
+GlaxoSmithKline , 1250 South Collegeville Road , Collegeville , Pennsylvania
+19426 , United States.
+
+Emerging resistance to current antimalarial medicines underscores the importance 
+of identifying new drug targets and novel compounds. Malaria parasites are purine
+auxotrophic and import purines via the Plasmodium falciparum equilibrative
+nucleoside transporter type 1 (PfENT1). We previously showed that PfENT1
+inhibitors block parasite proliferation in culture. Our goal was to identify
+additional, possibly more optimal chemical starting points for a drug discovery
+campaign. We performed a high throughput screen (HTS) of GlaxoSmithKline's 1.8
+million compound library with a yeast-based assay to identify PfENT1 inhibitors. 
+We used a parallel progression strategy for hit validation and expansion, with an
+emphasis on chemical properties in addition to potency. In one arm, the most
+active hits were tested for human cell toxicity; 201 had minimal toxicity. The
+second arm, hit expansion, used a scaffold-based substructure search with the HTS
+hits as templates to identify over 2000 compounds; 123 compounds had activity. Of
+these 324 compounds, 175 compounds inhibited proliferation of P. falciparum
+parasite strain 3D7 with IC50 values between 0.8 and ∼180 μM. One hundred
+forty-two compounds inhibited PfENT1 knockout (pfent1Δ) parasite growth,
+indicating they also hit secondary targets. Thirty-two hits inhibited growth of
+3D7 but not pfent1Δ parasites. Thus, PfENT1 inhibition was sufficient to block
+parasite proliferation. Therefore, PfENT1 may be a viable target for antimalarial
+drug development. Six compounds with novel chemical scaffolds were extensively
+characterized in yeast-, parasite-, and human-erythrocyte-based assays. The
+inhibitors showed similar potencies against drug sensitive and resistant P.
+falciparum strains. They represent attractive starting points for development of 
+novel antimalarial drugs.
+
+DOI: 10.1021/acsinfecdis.9b00168 
+PMCID: PMC7171677
+PMID: 31373203  [Indexed for MEDLINE]
+

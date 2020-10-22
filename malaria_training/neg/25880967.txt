@@ -1,0 +1,64 @@
+
+1. Malar J. 2015 Mar 13;14:110. doi: 10.1186/s12936-015-0612-8.
+
+Plasmodium knowlesi gene expression differs in ex vivo compared to in vitro
+blood-stage cultures.
+
+Lapp SA(1), Mok S(2), Zhu L(3), Wu H(4), Preiser PR(5), Bozdech Z(6), Galinski
+MR(7)(8).
+
+Author information: 
+(1)Emory Vaccine Center, Yerkes National Primate Research Center, Emory
+University, Atlanta, GA, USA. salapp@emory.edu.
+(2)School of Biological Sciences, Nanyang Technological University, Singapore,
+Singapore. MOKS0007@ntu.edu.sg.
+(3)School of Biological Sciences, Nanyang Technological University, Singapore,
+Singapore. ZhuLei@ntu.edu.sg.
+(4)Department of Biostatistics and Bioinformatics, Rollins School of Public
+Health, Emory University, Atlanta, GA, USA. hao.wu@emory.edu.
+(5)School of Biological Sciences, Nanyang Technological University, Singapore,
+Singapore. PRPREISER@ntu.edu.sg.
+(6)School of Biological Sciences, Nanyang Technological University, Singapore,
+Singapore. zbozdech@ntu.edu.sg.
+(7)Emory Vaccine Center, Yerkes National Primate Research Center, Emory
+University, Atlanta, GA, USA. mary.galinski@emory.edu.
+(8)Department of Medicine, Division of Infectious Diseases, Emory University,
+Atlanta, GA, USA. mary.galinski@emory.edu.
+
+BACKGROUND: Plasmodium knowlesi is one of five Plasmodium species known to cause 
+malaria in humans and can result in severe illness and death. While a zoonosis in
+humans, this simian malaria parasite species infects macaque monkeys and serves
+as an experimental model for in vivo, ex vivo and in vitro studies. It has
+underpinned malaria discoveries relating to host-pathogen interactions, the
+immune response and immune evasion strategies. This study investigated
+differences in P. knowlesi gene expression in samples from ex vivo and in vitro
+cultures.
+METHODS: Gene expression profiles were generated using microarrays to compare the
+stage-specific transcripts detected for a clone of P. knowlesi propagated in the 
+blood of a rhesus macaque host and then grown in an ex-vivo culture, and the same
+clone adapted to long-term in vitro culture. Parasite samples covering one
+blood-stage cycle were analysed at four-hour intervals. cDNA was generated and
+hybridized to an oligoarray representing the P. knowlesi genome. Two replicate
+experiments were developed from in vitro cultures. Expression values were
+filtered, normalized, and analysed using R and Perl language and applied to a
+sine wave model to determine changes in equilibrium and amplitude. Differentially
+expressed genes from ex vivo and in vitro time points were detected using limma
+R/Bioconductor and gene set enrichment analysis (GSEA).
+RESULTS: Major differences were noted between the ex vivo and in vitro time
+courses in overall gene expression and the length of the cycle (25.5 hours ex
+vivo; 33.5 hours in vitro). GSEA of genes up-regulated ex vivo showed an
+enrichment of various genes including SICAvar, ribosomal- associated and histone 
+acetylation pathway genes. In contrast, certain genes involved in metabolism and 
+cell growth, such as porphobilinogen deaminase and tyrosine phosphatase, and one 
+SICAvar gene, were significantly up-regulated in vitro.
+CONCLUSIONS: This study demonstrates how gene expression in P. knowlesi
+blood-stage parasites can differ dramatically depending on whether the parasites 
+are grown in vivo, with only one cycle of development ex vivo, or as an adapted
+isolate in long-term in vitro culture. These data bring emphasis to the
+importance of studying the parasite, its biology and disease manifestations in
+the context of the host.
+
+DOI: 10.1186/s12936-015-0612-8 
+PMCID: PMC4369371
+PMID: 25880967  [Indexed for MEDLINE]
+

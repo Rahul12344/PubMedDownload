@@ -1,0 +1,45 @@
+
+1. Wellcome Open Res. 2017 Sep 19;2:86. doi: 10.12688/wellcomeopenres.12053.1.
+eCollection 2017.
+
+A re-assessment of gene-tag classification approaches for describing var gene
+expression patterns during human Plasmodium falciparum malaria parasite
+infections.
+
+Githinji G(1), Bull PC(2).
+
+Author information: 
+(1)Kenya Medical Research Institute (KEMRI)-Wellcome Trust Research Programme,
+Centre for Geographic Medicine Research-Coast, Kilifi, Kenya.
+(2)Department of Pathology, University of Cambridge, Cambridge, UK.
+
+PfEMP1 are variant parasite antigens that are inserted on the surface of
+Plasmodium falciparum infected erythrocytes (IE). Through interactions with
+various host molecules, PfEMP1 mediate IE sequestration in tissues and play a key
+role in the pathology of severe malaria. PfEMP1 is encoded by a diverse
+multi-gene family called var. Previous studies have shown that that expression of
+specific subsets of var genes are associated with low levels of host immunity and
+severe malaria. However, in most clinical studies to date, full-length var gene
+sequences were unavailable and various approaches have been used to make
+comparisons between var gene expression profiles in different parasite isolates
+using limited information. Several studies have relied on the classification of a
+300 - 500 base-pair "DBLα tag" region in the DBLα domain located at the 5' end of
+most var genes. We assessed the relationship between various DBLα tag
+classification methods, and sequence features that are only fully assessable
+through full-length var gene sequences. We compared these different sequence
+features in full-length var gene from six fully sequenced laboratory isolates.
+These comparisons show that despite a long history of recombination,  DBLα
+sequence tag classification can provide functional information on important
+features of full-length var genes. Notably, a specific subset of DBLα tags
+previously defined as "group A-like" is associated with CIDRα1 domains proposed
+to bind to endothelial protein C receptor. This analysis helps to bring together 
+different sources of data that have been used to assess var gene expression in
+clinical parasite isolates.
+
+DOI: 10.12688/wellcomeopenres.12053.1 
+PMCID: PMC5635463
+PMID: 29062916 
+
+Conflict of interest statement: Competing interests: No competing interests were 
+disclosed.
+

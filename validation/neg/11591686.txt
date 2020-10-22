@@ -1,0 +1,39 @@
+
+1. J Bacteriol. 2001 Nov;183(21):6413-21.
+
+Bacterial two-hybrid analysis of interactions between region 4 of the sigma(70)
+subunit of RNA polymerase and the transcriptional regulators Rsd from Escherichia
+coli and AlgQ from Pseudomonas aeruginosa.
+
+Dove SL(1), Hochschild A.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, Harvard Medical School,
+Boston, Massachusetts 02115, USA.
+
+A number of transcriptional regulators mediate their effects through direct
+contact with the sigma(70) subunit of Escherichia coli RNA polymerase (RNAP). In 
+particular, several regulators have been shown to contact a C-terminal portion of
+sigma(70) that harbors conserved region 4. This region of sigma contains a
+putative helix-turn-helix DNA-binding motif that contacts the -35 element of
+sigma(70)-dependent promoters directly. Here we report the use of a recently
+developed bacterial two-hybrid system to study the interaction between the
+putative anti-sigma factor Rsd and the sigma(70) subunit of E. coli RNAP. Using
+this system, we found that Rsd can interact with an 86-amino-acid C-terminal
+fragment of sigma(70) and also that amino acid substitution R596H, within region 
+4 of sigma(70), weakens this interaction. We demonstrated the specificity of this
+effect by showing that substitution R596H does not weaken the interaction between
+sigma and two other regulators shown previously to contact region 4 of sigma(70).
+We also demonstrated that AlgQ, a homolog of Rsd that positively regulates
+virulence gene expression in Pseudomonas aeruginosa, can contact the C-terminal
+region of the sigma(70) subunit of RNAP from this organism. We found that amino
+acid substitution R600H in sigma(70) from P. aeruginosa, corresponding to the
+R596H substitution in E. coli sigma(70), specifically weakens the interaction
+between AlgQ and sigma(70). Taken together, our findings suggest that Rsd and
+AlgQ contact similar surfaces of RNAP present in region 4 of sigma(70) and
+probably regulate gene expression through this contact.
+
+DOI: 10.1128/JB.183.21.6413-6421.2001 
+PMCID: PMC100137
+PMID: 11591686  [Indexed for MEDLINE]
+

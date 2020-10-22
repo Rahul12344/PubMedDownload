@@ -1,0 +1,52 @@
+
+1. Proc Natl Acad Sci U S A. 2019 Feb 19;116(8):3177-3182. doi:
+10.1073/pnas.1811766116. Epub 2019 Feb 6.
+
+DNA helicase RecQ1 regulates mutually exclusive expression of virulence genes in 
+Plasmodium falciparum via heterochromatin alteration.
+
+Li Z(1), Yin S(1), Sun M(1)(2), Cheng X(1), Wei J(1), Gilbert N(1), Miao J(3),
+Cui L(3), Huang Z(4), Dai X(4), Jiang L(4)(2).
+
+Author information: 
+(1)Unit of Human Parasite Molecular and Cell Biology, Key Laboratory of Molecular
+Virology and Immunology, Institut Pasteur of Shanghai, University of Chinese
+Academy of Sciences, Chinese Academy of Sciences, 200031 Shanghai, People's
+Republic of China.
+(2)School of Life Science and Technology, ShanghaiTech University, 201210
+Shanghai, People's Republic of China.
+(3)Department of Internal Medicine, Morsani College of Medicine, University of
+South Florida, Tampa, FL 33612.
+(4)Unit of Human Parasite Molecular and Cell Biology, Key Laboratory of Molecular
+Virology and Immunology, Institut Pasteur of Shanghai, University of Chinese
+Academy of Sciences, Chinese Academy of Sciences, 200031 Shanghai, People's
+Republic of China; zhhuang@ips.ac.cn xydai@ips.ac.cn lbjiang@ips.ac.cn.
+
+The Plasmodium falciparum var gene family encodes ∼60 surface antigens by which
+parasites escape the host immune responses via clonal expression of var genes.
+However, the mechanism controlling this mutual exclusivity, associated with
+alterations in chromatin assembly, is not understood. Here, we determined how
+expression of the var gene family is regulated by two RecQ DNA helicase family
+members, PfRecQ1 and PfWRN, in P. falciparum Through genetic manipulation, we
+found that the complete var repertoire was silenced on PfRecQ1 knockout, whereas 
+their expression did not show noticeable changes when PfWRN was knocked out. More
+important, mutually exclusive expression of var genes could be rescued by
+complementation of PfRecQ1. In addition, knocking out either of these two
+helicase genes changed the perinuclear cluster distribution of subtelomeres and
+subtelomeric var genes. Whereas deletion of PfRecQ1 increased the heterochromatin
+mark trimethylated (H3K9me3) at the transcription start site (TSS) of the var
+gene upsC1, that deletion had no effect on the global distribution of H3K9me3
+over gene bodies, including those for the var genes. ChIP-seq assay showed that
+PfRecQ1 was enriched globally at the TSSs of all genes, whereas PfWRN-enriched
+regions occurred at the gene bodies of the var gene family, but not of other
+genes or at TSSs of all genes. On PfRecQ1 deletion, the upsC1 var gene moved from
+the active perinuclear transcription region to a silenced region of the upsC
+type. These findings imply that PfRecQ1, but not PfWRN, is essential for
+maintaining the clonal expression of var genes.
+
+DOI: 10.1073/pnas.1811766116 
+PMCID: PMC6386683
+PMID: 30728298  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

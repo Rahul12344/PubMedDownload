@@ -1,0 +1,49 @@
+
+1. BMC Public Health. 2010 Oct 27;10:650. doi: 10.1186/1471-2458-10-650.
+
+Internet-based surveillance of Influenza-like-illness in the UK during the 2009
+H1N1 influenza pandemic.
+
+Tilston NL(1), Eames KT, Paolotti D, Ealden T, Edmunds WJ.
+
+Author information: 
+(1)London School of Hygiene and Tropical Medicine, Keppel Street, London, WC1E
+7HT, UK. natasha.tilston@gmail.com
+
+BACKGROUND: Internet-based surveillance systems to monitor influenza-like illness
+(ILI) have advantages over traditional (physician-based) reporting systems, as
+they can potentially monitor a wider range of cases (i.e. including those that do
+not seek care). However, the requirement for participants to have internet access
+and to actively participate calls into question the representativeness of the
+data. Such systems have been in place in a number of European countries over the 
+last few years, and in July 2009 this was extended to the UK. Here we present
+results of this survey with the aim of assessing the reliability of the data, and
+to evaluate methods to correct for possible biases.
+METHODS: Internet-based monitoring of ILI was launched near the peak of the first
+wave of the UK H1N1v influenza pandemic. We compared the recorded ILI incidence
+with physician-recorded incidence and an estimate of the true number of cases
+over the course of the epidemic. We also compared overall attack rates. The
+effect of using different ILI definitions and alternative denominator assumptions
+on incidence estimates was explored.
+RESULTS: The crude incidence measured by the internet-based system appears to be 
+influenced by individuals who participated only once in the survey and who
+appeared more likely to be ill. This distorted the overall incidence trend.
+Concentrating on individuals who reported more than once results in a time series
+of ILI incidence that matches the trend of case estimates reasonably closely,
+with a correlation of 0.713 (P-value: 0.0001, 95% CI: 0.435, 0.867). Indeed, the 
+internet-based system appears to give a better estimate of the relative height of
+the two waves of the UK pandemic than the physician-recorded incidence. The
+overall attack rate is, however, higher than other estimates, at about 16% when
+compared with a model-based estimate of 6%.
+CONCLUSION: Internet-based monitoring of ILI can capture the trends in case
+numbers if appropriate weighting is used to correct for differential response.
+The overall level of incidence is, however, difficult to measure. Internet-based 
+systems may be a useful adjunct to existing ILI surveillance systems as they
+capture cases that do not necessarily contact health care. However, further
+research is required before they can be used to accurately assess the absolute
+level of incidence in the community.
+
+DOI: 10.1186/1471-2458-10-650 
+PMCID: PMC2988734
+PMID: 20979640  [Indexed for MEDLINE]
+

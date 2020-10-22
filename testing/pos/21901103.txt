@@ -1,0 +1,44 @@
+
+1. PLoS Pathog. 2011 Aug;7(8):e1002240. doi: 10.1371/journal.ppat.1002240. Epub 2011
+Aug 25.
+
+Tumor cell marker PVRL4 (nectin 4) is an epithelial cell receptor for measles
+virus.
+
+Noyce RS(1), Bondre DG, Ha MN, Lin LT, Sisson G, Tsao MS, Richardson CD.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Dalhousie University, Halifax, Nova
+Scotia, Canada.
+
+Vaccine and laboratory adapted strains of measles virus can use CD46 as a
+receptor to infect many human cell lines. However, wild type isolates of measles 
+virus cannot use CD46, and they infect activated lymphocytes, dendritic cells,
+and macrophages via the receptor CD150/SLAM. Wild type virus can also infect
+epithelial cells of the respiratory tract through an unidentified receptor. We
+demonstrate that wild type measles virus infects primary airway epithelial cells 
+grown in fetal calf serum and many adenocarcinoma cell lines of the lung, breast,
+and colon. Transfection of non-infectable adenocarcinoma cell lines with an
+expression vector encoding CD150/SLAM rendered them susceptible to measles virus,
+indicating that they were virus replication competent, but lacked a receptor for 
+virus attachment and entry. Microarray analysis of susceptible versus
+non-susceptible cell lines was performed, and comparison of membrane protein gene
+transcripts produced a list of 11 candidate receptors. Of these, only the human
+tumor cell marker PVRL4 (Nectin 4) rendered cells amenable to measles virus
+infections. Flow cytometry confirmed that PVRL4 is highly expressed on the
+surfaces of susceptible lung, breast, and colon adenocarcinoma cell lines.
+Measles virus preferentially infected adenocarcinoma cell lines from the apical
+surface, although basolateral infection was observed with reduced kinetics.
+Confocal immune fluorescence microscopy and surface biotinylation experiments
+revealed that PVRL4 was expressed on both the apical and basolateral surfaces of 
+these cell lines. Antibodies and siRNA directed against PVRL4 were able to block 
+measles virus infections in MCF7 and NCI-H358 cancer cells. A virus binding assay
+indicated that PVRL4 was a bona fide receptor that supported virus attachment to 
+the host cell. Several strains of measles virus were also shown to use PVRL4 as a
+receptor. Measles virus infection reduced PVRL4 surface expression in MCF7 cells,
+a property that is characteristic of receptor-associated viral infections.
+
+DOI: 10.1371/journal.ppat.1002240 
+PMCID: PMC3161989
+PMID: 21901103  [Indexed for MEDLINE]
+

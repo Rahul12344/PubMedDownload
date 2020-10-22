@@ -1,0 +1,47 @@
+
+1. Parasit Vectors. 2014 Jul 29;7:349. doi: 10.1186/1756-3305-7-349.
+
+ABC transporters are involved in defense against permethrin insecticide in the
+malaria vector Anopheles stephensi.
+
+Epis S, Porretta D, Mastrantonio V, Comandatore F, Sassera D, Rossi P, Cafarchia 
+C, Otranto D, Favia G, Genchi C, Bandi C(1), Urbanelli S.
+
+Author information: 
+(1)Department of Veterinary Science and Public Health, University of Milan,
+Milan, Italy. claudio.bandi@unimi.it.
+
+BACKGROUND: Proteins from the ABC family (ATP-binding cassette) represent the
+largest known group of efflux pumps, responsible for transporting specific
+molecules across lipid membranes in both prokaryotic and eukaryotic organisms. In
+arthropods they have been shown to play a role in insecticide defense/resistance.
+The presence of ABC transporters and their possible association with insecticide 
+transport have not yet been investigated in the mosquito Anopheles stephensi, the
+major vector of human malaria in the Middle East and South Asian regions. Here we
+investigated the presence and role of ABCs in transport of permethrin insecticide
+in a susceptible strain of this mosquito species.
+METHODS: To identify ABC transporter genes we obtained a transcriptome from
+untreated larvae of An. stephensi and then compared it with the annotated
+transcriptome of Anopheles gambiae. To analyse the association between ABC
+transporters and permethrin we conducted bioassays with permethrin alone and in
+combination with an ABC inhibitor, and then we investigated expression profiles
+of the identified genes in larvae exposed to permethrin.
+RESULTS: Bioassays showed an increased mortality of mosquitoes when permethrin
+was used in combination with the ABC-transporter inhibitor. Genes for ABC
+transporters were detected in the transcriptome, and five were selected
+(AnstABCB2, AnstABCB3, AnstABCB4, AnstABCmember6 and AnstABCG4). An increased
+expression in one of them (AnstABCG4) was observed in larvae exposed to the LD50 
+dose of permethrin. Contrary to what was found in other insect species, no
+up-regulation was observed in the AnstABCB genes.
+CONCLUSIONS: Our results show for the first time the involvement of ABC
+transporters in larval defense against permethrin in An. stephensi and, more in
+general, confirm the role of ABC transporters in insecticide defense. The
+differences observed with previous studies highlight the need of further research
+as, despite the growing number of studies on ABC transporters in insects, the
+heterogeneity of the results available at present does not allow us to infer
+general trends in ABC transporter-insecticide interactions.
+
+DOI: 10.1186/1756-3305-7-349 
+PMCID: PMC4124152
+PMID: 25073980  [Indexed for MEDLINE]
+

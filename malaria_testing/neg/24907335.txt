@@ -1,0 +1,49 @@
+
+1. Appl Environ Microbiol. 2014 Aug;80(16):5021-7. doi: 10.1128/AEM.01172-14. Epub
+2014 Jun 6.
+
+Biosynthesis of the β-methylarginine residue of peptidyl nucleoside arginomycin
+in Streptomyces arginensis NRRL 15941.
+
+Feng J(1), Wu J(2), Gao J(2), Xia Z(3), Deng Z(2), He X(4).
+
+Author information: 
+(1)State Key Laboratory of Microbial Metabolism and School of Life Science and
+Biotechnology, Shanghai Jiao Tong University, Shanghai, China National Institute 
+of Parasitic Diseases, Chinese Center for Disease Control and Prevention, Key
+Laboratory of Parasite and Vector Biology, Ministry of Health, and WHO
+Collaborating Centre for Malaria, Schistosomiasis and Filariasis, Shanghai,
+China.
+(2)State Key Laboratory of Microbial Metabolism and School of Life Science and
+Biotechnology, Shanghai Jiao Tong University, Shanghai, China.
+(3)National Institute of Parasitic Diseases, Chinese Center for Disease Control
+and Prevention, Key Laboratory of Parasite and Vector Biology, Ministry of
+Health, and WHO Collaborating Centre for Malaria, Schistosomiasis and Filariasis,
+Shanghai, China.
+(4)State Key Laboratory of Microbial Metabolism and School of Life Science and
+Biotechnology, Shanghai Jiao Tong University, Shanghai, China xyhe@sjtu.edu.cn.
+
+The peptidyl nucleoside arginomycin is active against Gram-positive bacteria and 
+fungi but displays much lower toxicity to mice than its analog blasticidin S. It 
+features a rare amino acid, β-methylarginine, which is attached to the
+deoxyhexose moiety via a 4'-aminoacyl bond. We here report cloning of the
+complete biosynthetic gene cluster for arginomycin from Streptomyces arginensis
+NRRL 15941. Among the 14 putative essential open reading frames, argM, encoding
+an aspartate aminotransferase (AAT), and adjacent argN, encoding an S-adenosyl
+methionine (SAM)-dependent methyltransferase, are coupled to catalyze arginine
+and yield β-methylarginine in Escherichia coli. Purified ArgM can transfer the
+α-amino group of l-arginine to α-ketoglutaric acid to give glutamate and thereby 
+converts l-arginine to 5-guanidino-2-oxopentanoic acid, which is methylated at
+the C-3 position by ArgN to form 5-guanidino-3-methyl-2-oxopentanoic acid.
+Iteratively, ArgM specifically catalyzes transamination from the donor
+l-aspartate to the resulting 5-guanidino-3-methyl-2-oxopentanoic acid, generating
+β-methylarginine. The complete and concise biosynthetic pathway for the rare and 
+bioactive amino acid revealed by this study may pave the way for the production
+of β-methylarginine either by enzymatic conversion or by engineered living cells.
+
+Copyright © 2014, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/AEM.01172-14 
+PMCID: PMC4135772
+PMID: 24907335  [Indexed for MEDLINE]
+

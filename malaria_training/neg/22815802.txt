@@ -1,0 +1,43 @@
+
+1. PLoS One. 2012;7(7):e40739. doi: 10.1371/journal.pone.0040739. Epub 2012 Jul 18.
+
+Transcriptional profiling of Plasmodium falciparum parasites from patients with
+severe malaria identifies distinct low vs. high parasitemic clusters.
+
+Milner DA Jr(1), Pochet N, Krupka M, Williams C, Seydel K, Taylor TE, Van de Peer
+Y, Regev A, Wirth D, Daily JP, Mesirov JP.
+
+Author information: 
+(1)The Brigham and Women's Hospital, Department of Pathology, Boston,
+Massachusetts, United States of America. dmilner@partners.org
+
+BACKGROUND: In the past decade, estimates of malaria infections have dropped from
+500 million to 225 million per year; likewise, mortality rates have dropped from 
+3 million to 791,000 per year. However, approximately 90% of these deaths
+continue to occur in sub-Saharan Africa, and 85% involve children less than 5
+years of age. Malaria mortality in children generally results from one or more of
+the following clinical syndromes: severe anemia, acidosis, and cerebral malaria. 
+Although much is known about the clinical and pathological manifestations of CM, 
+insights into the biology of the malaria parasite, specifically transcription
+during this manifestation of severe infection, are lacking.
+METHODS AND FINDINGS: We collected peripheral blood from children meeting the
+clinical case definition of cerebral malaria from a cohort in Malawi, examined
+the patients for the presence or absence of malaria retinopathy, and performed
+whole genome transcriptional profiling for Plasmodium falciparum using a custom
+designed Affymetrix array. We identified two distinct physiological states that
+showed highly significant association with the level of parasitemia. We compared 
+both groups of Malawi expression profiles with our previously acquired ex vivo
+expression profiles of parasites derived from infected patients with mild
+disease; a large collection of in vitro Plasmodium falciparum life cycle gene
+expression profiles; and an extensively annotated compendium of expression data
+from Saccharomyces cerevisiae. The high parasitemia patient group demonstrated a 
+unique biology with elevated expression of Hrd1, a member of endoplasmic
+reticulum-associated protein degradation system.
+CONCLUSIONS: The presence of a unique high parasitemia state may be indicative of
+the parasite biology of the clinically recognized hyperparasitemic severe disease
+syndrome.
+
+DOI: 10.1371/journal.pone.0040739 
+PMCID: PMC3399889
+PMID: 22815802  [Indexed for MEDLINE]
+

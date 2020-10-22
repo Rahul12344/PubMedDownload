@@ -1,0 +1,37 @@
+
+1. Data Brief. 2019 Jan 11;22:1068-1073. doi: 10.1016/j.dib.2019.01.016. eCollection
+2019 Feb.
+
+Dataset on fat body proteome of Anopheles stephensi Liston.
+
+Kumar M(1)(2), Mohanty AK(3), Dey G(1)(2), Sreenivasamurthy SK(1)(2), Kumar A(3),
+Prasad K(1)(4).
+
+Author information: 
+(1)Institute of Bioinformatics, International Technology Park, Bangalore 560066, 
+Karnataka, India.
+(2)Manipal Academy of Higher Education, Manipal 576104, Karnataka, India.
+(3)ICMR-National Institute of Malaria Research, Field Station, Goa 403001, India.
+(4)Center for Systems Biology and Molecular Medicine, Yenepoya Research Center,
+Yenepoya (Deemed to be University), University Road, Mangalore 575018, India.
+
+Fat body from Anopheles stephensi female mosquitoes were dissected and processed 
+for proteomic analysis. Both SDS-PAGE and basic Reverse Phase Liquid
+Chromatography-based fractionation strategies were used to achieve a broad
+coverage of protein identification. The fractionated peptides were then analyzed 
+on a high-resolution mass spectrometer. Searching the raw data against the
+protein database of An. stephensi resulted in identification of 4535 proteins,
+which is, to our knowledge, the largest catalog of fat body proteome in any
+mosquito vector species reported so far. Bioinformatics analysis on these fat
+body proteins suggested the enrichment of biological processes including carbon
+and lipid metabolism, amino acid metabolism, signal peptide processing and
+oxidation-reduction. In addition, using proteogenomic approaches, 43 novel
+proteins were identified, which were not listed in the annotated gene annotations
+of An. stephensi. The data used in the analysis are related to the article
+'Integrating transcriptomic and proteomic data for accurate assembly and
+annotation of genomes' (Prasad et al., 2017).
+
+DOI: 10.1016/j.dib.2019.01.016 
+PMCID: PMC6355961
+PMID: 30740495 
+

@@ -1,0 +1,41 @@
+
+1. J Virol. 2001 Mar;75(5):2174-84.
+
+Type B leukemogenic virus has a T-cell-specific enhancer that binds AML-1.
+
+Mertz JA(1), Mustafa F, Meyers S, Dudley JP.
+
+Author information: 
+(1)Section of Molecular Genetics and Microbiology and Institute for Cellular and 
+Molecular Biology, The University of Texas at Austin, Austin, Texas 78712, USA.
+
+Type B leukemogenic virus (TBLV) induces rapidly appearing T-cell tumors in mice.
+TBLV is highly related to mouse mammary tumor virus (MMTV) except that TBLV long 
+terminal repeats (LTRs) have a deletion of negative regulatory elements and a
+triplication of sequences flanking the deletion. To determine if the LTR
+triplication represents a viral enhancer element, we inserted the triplication
+upstream and downstream in either orientation relative to the thymidine kinase
+promoter linked to the luciferase gene. These experiments showed that
+upregulation of reporter gene activity by the TBLV triplication was relatively
+orientation independent, consistent with the activity of eukaryotic enhancer
+elements. TBLV enhancer activity was observed in T-cell lines but not in
+fibroblasts, B cells, or mammary cells, suggesting that enhancer function is cell
+type dependent. To analyze the transcription factor binding sites that are
+important for TBLV enhancer function, we prepared substitution mutations in a
+reconstituted C3H MMTV LTR that recapitulates the deletion observed in the TBLV
+LTR. Transient transfections showed that a single mutation (556M) decreased TBLV 
+enhancer activity at least 20-fold in two different T-cell lines. This mutation
+greatly diminished AML-1 (recently renamed RUNX1) binding in gel shift assays
+with a mutant oligonucleotide, whereas AML-1 binding to a wild-type TBLV oligomer
+was specific, as judged by competition and supershift experiments. The 556
+mutation also reduced TBLV enhancer binding of two other protein complexes,
+called NF-A and NF-B, that did not appear to be related to c-Myb or Ets. AML-1
+overexpression in a mammary cell line enhanced expression from the TBLV LTR
+approximately 30-fold. These data suggest that binding of AML-1 to the TBLV
+enhancer, likely in combination with other factors, is necessary for optimal
+enhancer function.
+
+DOI: 10.1128/JVI.75.5.2174-2184.2001 
+PMCID: PMC114801
+PMID: 11160721  [Indexed for MEDLINE]
+

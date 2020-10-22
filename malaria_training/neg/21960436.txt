@@ -1,0 +1,41 @@
+
+1. Mol Genet Genomics. 2011 Dec;286(5-6):333-46. doi: 10.1007/s00438-011-0649-5.
+Epub 2011 Sep 30.
+
+A genome-wide screen identifies yeast genes required for protection against or
+enhanced cytotoxicity of the antimalarial drug quinine.
+
+Dos Santos SC(1), Sá-Correia I.
+
+Author information: 
+(1)IBB - Institute for Biotechnology and Bioengineering, Centre for Biological
+and Chemical Engineering, Instituto Superior Técnico, Av. Rovisco Pais, 1049-001,
+Lisbon, Portugal.
+
+Quinine is used in the treatment of Plasmodium falciparum severe malaria.
+However, both the drug's mode of action and mechanisms of resistance are still
+poorly understood and subject to debate. In an effort to clarify these questions,
+we used the yeast Saccharomyces cerevisiae as a model for pharmacological studies
+with quinine. Following on a previous work that examined the yeast genomic
+expression program in response to quinine, we now explore a genome-wide screen
+for altered susceptibility to quinine using the EUROSCARF collection of yeast
+deletion strains. We identified 279 quinine-susceptible strains, among which 112 
+conferred a hyper-susceptibility phenotype. The expression of these genes, mainly
+involved in carbohydrate metabolism, iron uptake and ion homeostasis functions,
+is required for quinine resistance in yeast. Sixty-two genes whose deletion leads
+to increased quinine resistance were also identified in this screen, including
+several genes encoding ribosome protein subunits. These well-known potential drug
+targets in Plasmodium are associated with quinine action for the first time in
+this study. The suggested involvement of phosphate signaling and transport in
+quinine tolerance was also studied, and activation of phosphate
+starvation-responsive genes was observed under a mild-induced quinine stress.
+Finally, P. falciparum homology searches were performed for a selected group of
+41 genes. Thirty-two encoded proteins possess homologs in the parasite, including
+subunits of a parasitic vacuolar H(+)-ATPase complex, ion and phosphate
+importers, and several ribosome protein subunits, suggesting that the results
+obtained in yeast are good candidates to be transposed and explored in a P.
+falciparum context.
+
+DOI: 10.1007/s00438-011-0649-5 
+PMID: 21960436  [Indexed for MEDLINE]
+

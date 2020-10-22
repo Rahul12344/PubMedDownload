@@ -1,0 +1,37 @@
+
+1. J Biol Chem. 2001 Jul 6;276(27):24946-58. Epub 2001 May 3.
+
+Binding of double-stranded RNA to protein kinase PKR is required for dimerization
+and promotes critical autophosphorylation events in the activation loop.
+
+Zhang F(1), Romano PR, Nagamura-Inoue T, Tian B, Dever TE, Mathews MB, Ozato K,
+Hinnebusch AG.
+
+Author information: 
+(1)Laboratory of Gene Regulation and Development, NICHHD, National Institutes of 
+Health, Bethesda, MD 20892, USA.
+
+Protein kinase PKR is activated by double-stranded RNA (dsRNA) and phosphorylates
+translation initiation factor 2alpha to inhibit protein synthesis in
+virus-infected mammalian cells. PKR contains two dsRNA binding motifs (DRBMs I
+and II) required for activation by dsRNA. There is strong evidence that PKR
+activation requires dimerization, but the role of dsRNA in dimer formation is
+controversial. By making alanine substitutions predicted to remove increasing
+numbers of side chain contacts between the DRBMs and dsRNA, we found that
+dimerization of full-length PKR in yeast was impaired by the minimal combinations
+of mutations required to impair dsRNA binding in vitro. Mutation of Ala-67 to Glu
+in DRBM-I, reported to abolish dimerization without affecting dsRNA binding,
+destroyed both activities in our assays. By contrast, deletion of a second
+dimerization region that overlaps the kinase domain had no effect on PKR
+dimerization in yeast. Human PKR contains at least 15 autophosphorylation sites, 
+but only Thr-446 and Thr-451 in the activation loop were found here to be
+critical for kinase activity in yeast. Using an antibody specific for
+phosphorylated Thr-451, we showed that Thr-451 phosphorylation is stimulated by
+dsRNA binding. Our results provide strong evidence that dsRNA binding is required
+for dimerization of full-length PKR molecules in vivo, leading to
+autophosphorylation in the activation loop and stimulation of the eIF2alpha
+kinase function of PKR.
+
+DOI: 10.1074/jbc.M102108200 
+PMID: 11337501  [Indexed for MEDLINE]
+

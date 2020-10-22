@@ -1,0 +1,58 @@
+
+1. Biophys Chem. 2016 Jan;208:54-61. doi: 10.1016/j.bpc.2015.06.005. Epub 2015 Jun
+11.
+
+On-chip purification and detection of hepatitis C virus RNA from human plasma.
+
+Vaghi V(1), Potrich C(2), Pasquardini L(1), Lunelli L(3), Vanzetti L(4), Ebranati
+E(5), Lai A(5), Zehender G(5), Mombello D(6), Cocuzza M(7), Pirri CF(8),
+Pederzolli C(1).
+
+Author information: 
+(1)Fondazione Bruno Kessler, Laboratory of Biomolecular Sequence and Structure
+Analysis for Health, Via Sommarive 18, I-38123, Povo, Trento, Italy.
+(2)Fondazione Bruno Kessler, Laboratory of Biomolecular Sequence and Structure
+Analysis for Health, Via Sommarive 18, I-38123, Povo, Trento, Italy; CNR -
+Consiglio Nazionale delle Ricerche, Istituto di Biofisica, Via alla Cascata 56/C,
+I-38123, Povo, Trento, Italy. Electronic address: cpotrich@fbk.eu.
+(3)Fondazione Bruno Kessler, Laboratory of Biomolecular Sequence and Structure
+Analysis for Health, Via Sommarive 18, I-38123, Povo, Trento, Italy; CNR -
+Consiglio Nazionale delle Ricerche, Istituto di Biofisica, Via alla Cascata 56/C,
+I-38123, Povo, Trento, Italy.
+(4)Fondazione Bruno Kessler, Center for Materials and Microsystem (CMM), Via
+Sommarive 18, I-38123, Povo, Trento, Italy.
+(5)Department of Biomedical and Clinical Sciences "Luigi Sacco", Section of
+Infectious Diseases and Immunopathology, University of Milan, Milano, Italy.
+(6)Department of Applied Science and Technology, Politecnico di Torino, Corso
+Duca degli Abruzzi 24, Torino I-10129, Italy.
+(7)Department of Applied Science and Technology, Politecnico di Torino, Corso
+Duca degli Abruzzi 24, Torino I-10129, Italy; CNR-IMEM, Parco Area delle Scienze 
+37a, 43124 Parma, Italy.
+(8)Department of Applied Science and Technology, Politecnico di Torino, Corso
+Duca degli Abruzzi 24, Torino I-10129, Italy; Center for Space Human
+Robotics@PoliTo, Istituto Italiano di Tecnologia, C. so Trento 21, 10129 Torino, 
+Italy.
+
+Hepatitis C virus (HCV) is one of the main causes of chronic liver disease
+worldwide. The diagnosis and monitoring of HCV infection is a crucial need in the
+clinical management. The conventional diagnostic technologies are challenged when
+trying to address molecular diagnostics, especially because they require a
+complex and time-consuming sample preparation phase. Here, a new concept based on
+surface functionalization was applied to viral RNA purification: first of all
+polydimethylsiloxane (PDMS) flat surfaces were modified to hold RNA adsorption.
+After a careful chemical and morphological analysis of the modified surfaces, the
+functionalization protocols giving the best RNA adsorbing surfaces were applied
+to PDMS microdevices. The functionalized microdevices were then used for RNA
+purification from HCV infected human plasma samples. RNA purification and RT were
+successfully performed in the same microdevice chamber, saving time of analysis, 
+reagents, and labor. The PCR protocol for HCV cDNA amplification was also
+implemented in the microdevice, demonstrating that the entire process of HCV
+analysis, from plasma to molecular readout, could be performed on-chip. Not only 
+HCV but also other microdevice-based viral RNA detection could therefore result
+in a successful Point-of-Care (POC) diagnostics for resource-limited settings.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bpc.2015.06.005 
+PMID: 26091724  [Indexed for MEDLINE]
+

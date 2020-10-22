@@ -1,0 +1,45 @@
+
+1. Sci Rep. 2018 Oct 29;8(1):15984. doi: 10.1038/s41598-018-34404-9.
+
+Forces acting on codon bias in malaria parasites.
+
+Sinha I(1)(2), Woodrow CJ(3)(4).
+
+Author information: 
+(1)Mahidol-Oxford Tropical Medicine Research Unit (MORU), Mahidol University,
+Bangkok, Thailand.
+(2)Centre for Tropical Medicine and Global Health, University of Oxford, Oxford, 
+UK.
+(3)Mahidol-Oxford Tropical Medicine Research Unit (MORU), Mahidol University,
+Bangkok, Thailand. charlie.woodrow@ouh.nhs.uk.
+(4)Centre for Tropical Medicine and Global Health, University of Oxford, Oxford, 
+UK. charlie.woodrow@ouh.nhs.uk.
+
+Malaria parasite genomes have a range of codon biases, with Plasmodium falciparum
+one of the most AT-biased genomes known. We examined the make up of synonymous
+coding sites and stop codons in the core genomes of representative malaria
+parasites, showing first that local DNA context influences codon bias similarly
+across P. falciparum, P. vivax and P. berghei, with suppression of CpG
+dinucleotides and enhancement of CpC dinucleotides, both within and aross codons.
+Intense asexual phase gene expression in P. falciparum and P. berghei is
+associated with increased A3:G3 bias but reduced T3:C3 bias at 2-fold sites,
+consistent with adaptation of codons to tRNA pools and avoidance of wobble tRNA
+interactions that potentially slow down translation. In highly expressed genes,
+the A3:G3 ratio can exceed 30-fold while the T3:C3 ratio can be less than 1,
+according to the encoded amino acid and subsequent base. Lysine codons (AAA/G)
+show distinctive behaviour with substantially reduced A3:G3 bias in highly
+expressed genes, perhaps because of selection against frameshifting when the AAA 
+codon is followed by another adenine. Intense expression is also associated with 
+a strong bias towards TAA stop codons (found in 94% and 89% of highly expressed
+P. falciparum and P. berghei genes respectively) and a proportional rise in the
+TAAA stop 'tetranucleotide'. The presence of these expression-linked effects in
+the relatively AT-rich malaria parasite species adds weight to the suggestion
+that AT-richness in the Plasmodium genus might be a fitness adaptation. Potential
+explanations for the relative lack of codon bias in P. vivax include the distinct
+features of its lifecycle and its effective population size over evolutionary
+time.
+
+DOI: 10.1038/s41598-018-34404-9 
+PMCID: PMC6206010
+PMID: 30374097  [Indexed for MEDLINE]
+

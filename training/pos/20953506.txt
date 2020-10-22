@@ -1,0 +1,38 @@
+
+1. Mol Biosyst. 2010 Dec;6(12):2539-53. doi: 10.1039/c0mb00103a. Epub 2010 Oct 18.
+
+Network based analysis of hepatitis C virus core and NS4B protein interactions.
+
+Tripathi LP(1), Kataoka C, Taguwa S, Moriishi K, Mori Y, Matsuura Y, Mizuguchi K.
+
+Author information: 
+(1)National Institute of Biomedical Innovation, 7-6-8 Asagi-Saito, Ibaraki-City, 
+Osaka, 567-0085, Japan.
+
+Hepatitis C virus (HCV) is a major cause of chronic liver disease worldwide. Here
+we attempt to further our understanding of the biological context of protein
+interactions in HCV pathogenesis, by investigating interactions between HCV
+proteins Core and NS4B and human host proteins. Using the yeast two-hybrid (Y2H) 
+membrane protein system, eleven human host proteins interacting with Core and 45 
+interacting with NS4B were identified, most of which are novel. These
+interactions were used to infer overall protein interaction maps linking the
+viral proteins with components of the host cellular networks. Core and NS4B
+proteins contribute to highly compact interaction networks that may enable the
+virus to respond rapidly to host physiological responses to HCV infection.
+Analysis of the interaction networks highlighted enriched biological pathways
+likely influenced in HCV infection. Inspection of individual interactions offered
+further insights into the possible mechanisms that permit HCV to evade the host
+immune response and appropriate host metabolic machinery. Follow-up cellular
+assays with cell lines infected with HCV genotype 1b and 2a strains validated
+Core interacting proteins ENO1 and SLC25A5 and host protein PXN as novel
+regulators of HCV replication and viral production. ENO1 siRNA knockdown was
+found to inhibit HCV replication in both the HCV genotypes and viral RNA release 
+in genotype 2a. PXN siRNA inhibition was observed to inhibit replication
+specifically in genotype 1b but not in genotype 2a, while SLC25A5 siRNA
+facilitated a minor increase in the viral RNA release in genotype 2a. Thus, our
+analysis can provide potential targets for more effective anti-HCV therapeutic
+intervention.
+
+DOI: 10.1039/c0mb00103a 
+PMID: 20953506  [Indexed for MEDLINE]
+

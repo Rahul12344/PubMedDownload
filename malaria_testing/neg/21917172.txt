@@ -1,0 +1,49 @@
+
+1. BMC Evol Biol. 2011 Sep 14;11:257. doi: 10.1186/1471-2148-11-257.
+
+Protein-based signatures of functional evolution in Plasmodium falciparum.
+
+Gardner KB(1), Sinha I, Bustamante LY, Day NP, White NJ, Woodrow CJ.
+
+Author information: 
+(1)Wellcome Trust Mahidol University-Oxford Tropical Medicine Research Unit
+(MORU), 420/6 Rajwithi Road, Bangkok, 10400 Thailand.
+
+BACKGROUND: It has been known for over a decade that Plasmodium falciparum
+proteins are enriched in non-globular domains of unknown function. The potential 
+for these regions of protein sequence to undergo high levels of genetic drift
+provides a fundamental challenge to attempts to identify the molecular basis of
+adaptive change in malaria parasites.
+RESULTS: Evolutionary comparisons were undertaken using a set of forty P.
+falciparum metabolic enzyme genes, both within the hominid malaria clade (P.
+reichenowi) and across the genus (P. chabaudi). All genes contained coding
+elements highly conserved across the genus, but there were also a large number of
+regions of weakly or non-aligning coding sequence. These displayed remarkable
+levels of non-synonymous fixed differences within the hominid malaria clade
+indicating near complete release from purifying selection (dN/dS ratio at
+residues non-aligning across genus: 0.64, dN/dS ratio at residues identical
+across genus: 0.03). Regions of low conservation also possessed high levels of
+hydrophilicity, a marker of non-globularity. The propensity for such regions to
+act as potent sources of non-synonymous genetic drift within extant P. falciparum
+isolates was confirmed at chromosomal regions containing genes known to mediate
+drug resistance in field isolates, where 150 of 153 amino acid variants were
+located in poorly conserved regions. In contrast, all 22 amino acid variants
+associated with drug resistance were restricted to highly conserved regions.
+Additional mutations associated with laboratory-selected drug resistance, such as
+those in PfATPase4 selected by spiroindolone, were similarly restricted while
+mutations in another calcium ATPase (PfSERCA, a gene proposed to mediate
+artemisinin resistance) that reach significant frequencies in field isolates were
+located exclusively in poorly conserved regions consistent with genetic drift.
+CONCLUSION: Coding sequences of malaria parasites contain prospectively definable
+domains subject to neutral or nearly neutral evolution on a scale that appears
+unrivalled in biology. This distinct evolutionary landscape has potential to
+confound analytical methods developed for other genera. Against this tide of
+genetic drift, polymorphisms mediating functional change stand out to such an
+extent that evolutionary context provides a useful signal for identifying the
+molecular basis of drug resistance in malaria parasites, a finding that is of
+relevance to both genome-wide and candidate gene studies in this genus.
+
+DOI: 10.1186/1471-2148-11-257 
+PMCID: PMC3197514
+PMID: 21917172  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+1. Methods Mol Biol. 2017;1521:41-53.
+
+Generation of Efficient miRNA Inhibitors Using Tough Decoy Constructs.
+
+Yoo J(1), Hajjar RJ(1), Jeong D(2).
+
+Author information: 
+(1)Cardiovascular Research Center, Icahn School of Medicine at Mount Sinai, 1
+Gustave L. Levy Place, Box 1030, New York, NY, 10029-6574, USA.
+(2)Cardiovascular Research Center, Icahn School of Medicine at Mount Sinai, 1
+Gustave L. Levy Place, Box 1030, New York, NY, 10029-6574, USA.
+dongtak.jeong@mssm.edu.
+
+Over the last decade a previously unappreciated mechanism of gene regulation has 
+been uncovered that is mediated by a large class of small noncoding RNAs known as
+microRNAs (miRNAs), and this mechanism is utilized by organisms ranging from
+plants to humans. MiRNAs are important downregulators of gene expression and are 
+seen to be dysregulated in disease development. Thus inhibition of aberrantly
+upregulated miRNAs as a therapeutic approach has become a promising field.Many
+models of miRNA inhibitors currently exist, with decoy models being the most
+successful in current research. A promising inhibition model is the tough decoy
+(TuD) RNAs inhibitor, which uses antisense sequences to bind to target miRNAs,
+preventing them from binding to their endogenous targets. Since the TuD
+inhibitors have the ability to be successfully used in vitro and in vivo studies,
+this is a covetable inhibition method. In this chapter, we introduce how to
+design and generate miRNA tough decoy inhibitors with an adeno-associated viral
+construct. TuD inhibitors will have two miRNA binding sites. The TuD will include
+stem sequences, a miRNA binding site, and linkers. In vitro validation
+experiments to confirm the effectiveness of the TuD to inhibit miRNA are
+described. We also propose some practical approaches for making a TuD for miRNA
+of interest. We hope this chapter facilitates readers to create a simpler method 
+to generate TuD that can be used for miRNA loss of function studies.
+
+DOI: 10.1007/978-1-4939-6588-5_3 
+PMID: 27910040  [Indexed for MEDLINE]
+

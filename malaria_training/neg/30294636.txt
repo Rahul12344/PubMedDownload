@@ -1,0 +1,36 @@
+
+1. Data Brief. 2018 Sep 5;20:1861-1866. doi: 10.1016/j.dib.2018.08.189. eCollection 
+2018 Oct.
+
+Quantitative proteome of midgut, Malpighian tubules, ovaries and fat body from
+sugar-fed adult An. stephensi mosquitoes.
+
+Sreenivasamurthy SK(1)(2), Dey G(1)(2)(3), Kumar M(1)(2), Mohanty AK(4), Kumar
+A(4), Prasad TSK(1)(3).
+
+Author information: 
+(1)Institute of Bioinformatics, International Tech Park, Bangalore 560066, India.
+(2)Manipal Academy of Higher Education, Manipal 576104, India.
+(3)Center for Systems Biology and Molecular Medicine, Yenepoya Research Centre,
+Yenepoya (Deemed to be University), Mangalore 575018, India.
+(4)ICMR-National Institute of Malaria Research, Field Station, Campal, Panaji,
+Goa 403001, India.
+
+The data presented in this article is associated with the quantitative proteomic 
+analysis of four mosquito tissues - midgut, Malpighian tubules, ovaries and fat
+body from female Anopheles stephensi mosquitoes. To identify the proteins that
+were expressed in a tissue-specific manner, the four mosquito tissues were
+labelled with iTRAQ labels and analyzed using a high-resolution mass
+spectrometer. Database searches of the 1,10,616 raw spectra from 23 peptide
+fractions resulted in the identification of 84,733 peptide spectrum matches
+corresponding to 16,278 peptides and 3372 proteins. Of these, 959 proteins were
+found to be differentially expressed across the tissues. Gene ontology-based
+bioinformatic analysis of the differentially expressed proteins are also provided
+in the article. The data in this article has been deposited in the
+(ProteomeXchange) Consortium via the PRIDE repository and can be accessed through
+the accession ID, PXD001128.
+
+DOI: 10.1016/j.dib.2018.08.189 
+PMCID: PMC6168791
+PMID: 30294636 
+

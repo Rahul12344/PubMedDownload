@@ -1,0 +1,45 @@
+
+1. BMC Vet Res. 2014 May 12;10:111. doi: 10.1186/1746-6148-10-111.
+
+Identification of serum biomarkers in dogs naturally infected with Babesia canis 
+canis using a proteomic approach.
+
+Kuleš J, Mrljak V, Barić Rafaj R, Selanec J, Burchmore R, Eckersall PD(1).
+
+Author information: 
+(1)Institute of Infection, Immunity and Inflammation, College of Medical,
+Veterinary and Life Sciences, University of Glasgow, Glasgow, UK.
+David.Eckersall@glasgow.ac.uk.
+
+BACKGROUND: Canine babesiosis is a tick-borne disease that is caused by the
+haemoprotozoan parasites of the genus Babesia. There are limited data on serum
+proteomics in dogs, and none of the effect of babesiosis on the serum proteome.
+The aim of this study was to identify the potential serum biomarkers of
+babesiosis using proteomic techniques in order to increase our understanding
+about disease pathogenesis.
+RESULTS: Serum samples were collected from 25 dogs of various breeds and sex with
+naturally occurring babesiosis caused by B. canis canis. Blood was collected on
+the day of admission (day 0), and subsequently on the 1st and 6th day of
+treatment. Two-dimensional electrophoresis (2DE) of pooled serum samples of dogs 
+with naturally occurring babesiosis (day 0, day 1 and day 6) and healthy dogs
+were run in triplicate. 2DE image analysis showed 64 differentially expressed
+spots with p ≤ 0.05 and 49 spots with fold change ≥2. Six selected spots were
+excised manually and subjected to trypsin digest prior to identification by
+electrospray ionisation mass spectrometry on an Amazon ion trap tandem mass
+spectrometry (MS/MS). Mass spectrometry data was processed using Data Analysis
+software and the automated Matrix Science Mascot Daemon server. Protein
+identifications were assigned using the Mascot search engine to interrogate
+protein sequences in the NCBI Genbank database. A number of differentially
+expressed serum proteins involved in inflammation mediated acute phase response, 
+complement and coagulation cascades, apolipoproteins and vitamin D metabolism
+pathway were identified in dogs with babesiosis.
+CONCLUSIONS: Our findings confirmed two dominant pathogenic mechanisms of
+babesiosis, haemolysis and acute phase response. These results may provide
+possible serum biomarker candidates for clinical monitoring of babesiosis and
+this study could serve as the basis for further proteomic investigations in
+canine babesiosis.
+
+DOI: 10.1186/1746-6148-10-111 
+PMCID: PMC4045879
+PMID: 24885808  [Indexed for MEDLINE]
+

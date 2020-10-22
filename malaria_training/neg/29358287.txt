@@ -1,0 +1,30 @@
+
+1. Antimicrob Agents Chemother. 2018 Mar 27;62(4). pii: e01533-17. doi:
+10.1128/AAC.01533-17. Print 2018 Apr.
+
+Using Yeast Synthetic Lethality To Inform Drug Combination for Malaria.
+
+Subramaniam S(1)(2), Schmid CD(1)(2)(3), Guan XL(4), Mäser P(5)(2).
+
+Author information: 
+(1)Swiss Tropical and Public Health Institute, Basel, Switzerland.
+(2)University of Basel, Basel, Switzerland.
+(3)Swiss Institute of Bioinformatics, Basel, Switzerland.
+(4)Nanyang Technological University, Singapore.
+(5)Swiss Tropical and Public Health Institute, Basel, Switzerland
+pascal.maeser@swisstph.ch.
+
+Combinatorial chemotherapy is necessary for the treatment of malaria. However,
+finding a suitable partner drug for a new candidate is challenging. Here we
+develop an algorithm that identifies all of the gene pairs of Plasmodium
+falciparum that possess orthologues in yeast that have a synthetic lethal
+interaction but are absent in humans. This suggests new options for drug
+combinations, particularly for inhibitors of targets such as P. falciparum
+calcineurin, cation ATPase 4, or phosphatidylinositol 4-kinase.
+
+Copyright © 2018 Subramaniam et al.
+
+DOI: 10.1128/AAC.01533-17 
+PMCID: PMC5913926
+PMID: 29358287  [Indexed for MEDLINE]
+

@@ -1,0 +1,38 @@
+
+1. J Virol. 2013 Dec;87(24):13354-69. doi: 10.1128/JVI.02465-13. Epub 2013 Oct 2.
+
+Evasion of superinfection exclusion and elimination of primary viral RNA by an
+adapted strain of hepatitis C virus.
+
+Webster B(1), Ott M, Greene WC.
+
+Author information: 
+(1)Gladstone Institute of Virology and Immunology.
+
+Cells that are productively infected by hepatitis C virus (HCV) are refractory to
+a second infection by HCV via a block in viral replication known as
+superinfection exclusion. The block occurs at a postentry step and likely
+involves translation or replication of the secondary viral RNA, but the mechanism
+is largely unknown. To characterize HCV superinfection exclusion, we selected for
+an HCV variant that could overcome the block. We produced a high-titer HC-J6/JFH1
+(Jc1) viral genome with a fluorescent reporter inserted between NS5A and NS5B and
+used it to infect Huh7.5 cells containing a Jc1 replicon. With multiple passages 
+of these infected cells, we isolated an HCV variant that can superinfect cells at
+high levels. Notably, the superinfectious virus rapidly cleared the primary
+replicon from superinfected cells. Viral competition experiments, using a novel
+strategy of sequence-barcoding viral strains, as well as superinfection of
+replicon cells demonstrated that mutations in E1, p7, NS5A, and the poly(U/UC)
+tract of the 3' untranslated region were important for superinfection.
+Furthermore, these mutations dramatically increased the infectivity of the virus 
+in naive cells. Interestingly, viruses with a shorter poly(U/UC) and an NS5A
+domain II mutation were most effective in overcoming the postentry block. Neither
+of these changes affected viral RNA translation, indicating that the major
+barrier to postentry exclusion occurs at viral RNA replication. The evolution of 
+the ability to superinfect after less than a month in culture and the concomitant
+exclusion of the primary replicon suggest that superinfection exclusion
+dramatically affects viral fitness and dynamics in vivo.
+
+DOI: 10.1128/JVI.02465-13 
+PMCID: PMC3838274
+PMID: 24089557  [Indexed for MEDLINE]
+

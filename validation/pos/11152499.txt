@@ -1,0 +1,40 @@
+
+1. J Virol. 2001 Feb;75(3):1265-73.
+
+Hepatitis C virus envelope protein E2 does not inhibit PKR by simple competition 
+with autophosphorylation sites in the RNA-binding domain.
+
+Taylor DR(1), Tian B, Romano PR, Hinnebusch AG, Lai MM, Mathews MB.
+
+Author information: 
+(1)Cold Spring Harbor Laboratory, Cold Spring Harbor, New York 11724, USA.
+
+Double-stranded-RNA (dsRNA)-dependent protein kinase PKR is induced by interferon
+and activated upon autophosphorylation. We previously identified four
+autophosphorylated amino acids and elucidated their participation in PKR
+activation. Three of these sites are in the central region of the protein, and
+one is in the kinase domain. Here we describe the identification of four
+additional autophosphorylated amino acids in the spacer region that separates the
+two dsRNA-binding motifs in the RNA-binding domain. Eight amino acids, including 
+these autophosphorylation sites, are duplicated in hepatitis C virus (HCV)
+envelope protein E2. This region of E2 is required for its inhibition of PKR
+although the mechanism of inhibition is not known. Replacement of all four of
+these residues in PKR with alanines did not dramatically affect kinase activity
+in vitro or in yeast Saccharomyces cerevisiae. However, when coupled with
+mutations of serine 242 and threonines 255 and 258 in the central region, these
+mutations increased PKR protein expression in mammalian cells, consistent with
+diminished kinase activity. A synthetic peptide corresponding to this region of
+PKR was phosphorylated in vitro by PKR, but phosphorylation was strongly
+inhibited after PKR was preincubated with HCV E2. Another synthetic peptide,
+corresponding to the central region of PKR and containing serine 242, was also
+phosphorylated by active PKR, but E2 did not inhibit this peptide as efficiently.
+Neither of the PKR peptides was able to disrupt the HCV E2-PKR interaction. Taken
+together, these results show that PKR is autophosphorylated on serine 83 and
+threonines 88, 89, and 90, that this autophosphorylation may enhance kinase
+activation, and that the inhibition of PKR by HCV E2 is not solely due to
+duplication of and competition with these autophosphorylation sites.
+
+DOI: 10.1128/JVI.75.3.1265-1273.2001 
+PMCID: PMC114032
+PMID: 11152499  [Indexed for MEDLINE]
+

@@ -1,0 +1,47 @@
+
+1. PLoS Comput Biol. 2015 May 1;11(5):e1004178. doi: 10.1371/journal.pcbi.1004178.
+eCollection 2015 May.
+
+Estimating the In Vivo Killing Efficacy of Cytotoxic T Lymphocytes across
+Different Peptide-MHC Complex Densities.
+
+Garcia V(1), Richter K(2), Graw F(3), Oxenius A(2), Regoes RR(1).
+
+Author information: 
+(1)Institute of Integrative Biology, ETH Zurich, Universitätstr, Zurich,
+Switzerland.
+(2)Institute of Microbiology, ETH Zurich, Zurich, Switzerland.
+(3)Center for Modeling and Simulation in the Biosciences, Bio-Quant Center,
+Heidelberg University, Heidelberg, Germany.
+
+Cytotoxic T lymphocytes (CTLs) are important agents in the control of
+intracellular pathogens, which specifically recognize and kill infected cells.
+Recently developed experimental methods allow the estimation of the CTL's
+efficacy in detecting and clearing infected host cells. One method, the in vivo
+killing assay, utilizes the adoptive transfer of antigen displaying target cells 
+into the bloodstream of mice. Surprisingly, killing efficacies measured by this
+method are often much higher than estimates obtained by other methods based on,
+for instance, the dynamics of escape mutations. In this study, we investigated
+what fraction of this variation can be explained by differences in peptide loads 
+employed in in vivo killing assays. We addressed this question in mice immunized 
+with lymphocytic choriomeningitis virus (LCMV). We conducted in vivo killing
+assays varying the loads of the immunodominant epitope GP33 on target cells.
+Using a mathematical model, we determined the efficacy of effector and memory
+CTL, as well as CTL in chronically infected mice. We found that the killing
+efficacy is substantially reduced at lower peptide loads. For physiological
+peptide loads, our analysis predicts more than a factor 10 lower CTL efficacies
+than at maximum peptide loads. Assuming that the efficacy scales linearly with
+the frequency of CTL, a clear hierarchy emerges among the groups across all
+peptide antigen concentrations. The group of mice with chronic LCMV infections
+shows a consistently higher killing efficacy per CTL than the acutely infected
+mouse group, which in turn has a consistently larger efficacy than the memory
+mouse group. We conclude that CTL killing efficacy dependence on surface epitope 
+frequencies can only partially explain the variation in in vivo killing efficacy 
+estimates across experimental methods and viral systems, which vary about four
+orders of magnitude. In contrast, peptide load differences can explain at most
+two orders of magnitude.
+
+DOI: 10.1371/journal.pcbi.1004178 
+PMCID: PMC4416789
+PMID: 25933039  [Indexed for MEDLINE]
+

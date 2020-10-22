@@ -1,0 +1,41 @@
+
+1. Nat Commun. 2020 Apr 9;11(1):1764. doi: 10.1038/s41467-020-15479-3.
+
+An intracellular membrane protein GEP1 regulates xanthurenic acid induced
+gametogenesis of malaria parasites.
+
+Jiang Y(1), Wei J(1), Cui H(1), Liu C(1), Zhi Y(1), Jiang Z(1), Li Z(1), Li S(1),
+Yang Z(1), Wang X(1), Qian P(1), Zhang C(1), Zhong C(1), Su XZ(2), Yuan J(3)(4).
+
+Author information: 
+(1)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Signaling Network, School of Life Sciences, Xiamen University, 361102, Xiamen,
+Fujian, China.
+(2)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Bethesda, MD, 20892, USA.
+(3)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Signaling Network, School of Life Sciences, Xiamen University, 361102, Xiamen,
+Fujian, China. yuanjing@xmu.edu.cn.
+(4)Lingnan Guangdong Laboratory of Modern Agriculture, 510642, Guangzhou, China. 
+yuanjing@xmu.edu.cn.
+
+Gametocytes differentiation to gametes (gametogenesis) within mosquitos is
+essential for malaria parasite transmission. Both reduction in temperature and
+mosquito-derived XA or elevated pH are required for triggering cGMP/PKG dependent
+gametogenesis. However, the parasite molecule for sensing or transducing these
+environmental signals to initiate gametogenesis remains unknown. Here we perform 
+a CRISPR/Cas9-based functional screening of 59 membrane proteins expressed in the
+gametocytes of Plasmodium yoelii and identify that GEP1 is required for
+XA-stimulated gametogenesis. GEP1 disruption abolishes XA-stimulated cGMP
+synthesis and the subsequent signaling and cellular events, such as Ca2+
+mobilization, gamete formation, and gametes egress out of erythrocytes. GEP1
+interacts with GCα, a cGMP synthesizing enzyme in gametocytes. Both GEP1 and GCα 
+are expressed in cytoplasmic puncta of both male and female gametocytes.
+Depletion of GCα impairs XA-stimulated gametogenesis, mimicking the defect of
+GEP1 disruption. The identification of GEP1 being essential for gametogenesis
+provides a potential new target for intervention of parasite transmission.
+
+DOI: 10.1038/s41467-020-15479-3 
+PMCID: PMC7145802
+PMID: 32273496  [Indexed for MEDLINE]
+

@@ -1,0 +1,41 @@
+
+1. J Gen Virol. 2008 Jan;89(Pt 1):288-296. doi: 10.1099/vir.0.83412-0.
+
+N-Myristoyltransferase isozymes exhibit differential specificity for human
+immunodeficiency virus type 1 Gag and Nef.
+
+Seaton KE(1), Smith CD(2)(1).
+
+Author information: 
+(1)Department of Pharmacology, Penn State College of Medicine, Hershey, PA, USA.
+(2)Department of Pharmaceutical Sciences, Medical University of South Carolina,
+Charleston, SC, USA.
+
+Myristoylation of the human immunodeficiency virus type 1 (HIV-1) proteins Gag
+and Nef by N-myristoyltransferase (NMT) is a key process in retroviral
+replication and virulence, yet remains incompletely characterized. Therefore, the
+roles of the two isozymes, NMT1 and NMT2, in myristoylating Gag and Nef were
+examined using biochemical and molecular approaches. Fluorescently labelled
+peptides corresponding to the N terminus of HIV-1 Gag or Nef were myristoylated
+by recombinant human NMT1 and NMT2. Kinetic analyses indicated that NMT1 and NMT2
+had 30- and 130-fold lower K(m )values for Nef than Gag, respectively. Values for
+K(cat) indicated that, once Gag or Nef binds to the enzyme, myristoylation by
+NMT1 and NMT2 proceeds at comparable rates. Furthermore, the catalytic
+efficiencies for the processing of Gag by NMT1 and NMT2 were equivalent. In
+contrast, NMT2 had approximately 5-fold higher catalytic efficiency for the
+myristoylation of Nef than NMT1. Competition experiments confirmed that the Nef
+peptide acts as a competitive inhibitor for the myristoylation of Gag.
+Experiments using full-length recombinant Nef protein also indicated a lower K(m)
+for Nef myristoylation by NMT2 than NMT1. Small interfering RNAs were used to
+selectively deplete NMT1 and/or NMT2 from HEK293T cells expressing a recombinant 
+Nef-sgGFP fusion protein. Depletion of NMT1 had minimal effect on the
+intracellular distribution of Nef-sgGFP, whereas depletion of NMT2 altered
+distribution to a diffuse, widespread pattern, mimicking that of a
+myristoylation-deficient mutant of Nef-sgGFP. Together, these findings indicate
+that Nef is preferentially myristoylated by NMT2, suggesting that selective
+inhibition of NMT2 may provide a novel means of blocking HIV virulence.
+
+DOI: 10.1099/vir.0.83412-0 
+PMCID: PMC2888270
+PMID: 18089753  [Indexed for MEDLINE]
+

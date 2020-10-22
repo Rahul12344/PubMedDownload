@@ -1,0 +1,36 @@
+
+1. J Clin Invest. 2011 Mar;121(3):1119-29. doi: 10.1172/JCI43457. Epub 2011 Feb 7.
+
+NSR-seq transcriptional profiling enables identification of a gene signature of
+Plasmodium falciparum parasites infecting children.
+
+Vignali M(1), Armour CD, Chen J, Morrison R, Castle JC, Biery MC, Bouzek H, Moon 
+W, Babak T, Fried M, Raymond CK, Duffy PE.
+
+Author information: 
+(1)Seattle Biomedical Research Institute, Seattle, Washington, USA.
+
+Malaria caused by Plasmodium falciparum results in approximately 1 million annual
+deaths worldwide, with young children and pregnant mothers at highest risk.
+Disease severity might be related to parasite virulence factors, but expression
+profiling studies of parasites to test this hypothesis have been hindered by
+extensive sequence variation in putative virulence genes and a preponderance of
+host RNA in clinical samples. We report here the application of RNA sequencing to
+clinical isolates of P. falciparum, using not-so-random (NSR) primers to
+successfully exclude human ribosomal RNA and globin transcripts and enrich for
+parasite transcripts. Using NSR-seq, we confirmed earlier microarray studies
+showing upregulation of a distinct subset of genes in parasites infecting
+pregnant women, including that encoding the well-established pregnancy malaria
+vaccine candidate var2csa. We also describe a subset of parasite transcripts that
+distinguished parasites infecting children from those infecting pregnant women
+and confirmed this observation using quantitative real-time PCR and mass
+spectrometry proteomic analyses. Based on their putative functional properties,
+we propose that these proteins could have a role in childhood malaria
+pathogenesis. Our study provides proof of principle that NSR-seq represents an
+approach that can be used to study clinical isolates of parasites causing severe 
+malaria syndromes as well other blood-borne pathogens and blood-related diseases.
+
+DOI: 10.1172/JCI43457 
+PMCID: PMC3046638
+PMID: 21317536  [Indexed for MEDLINE]
+

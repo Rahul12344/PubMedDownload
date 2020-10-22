@@ -2,6 +2,7 @@ import requests
 import xml.etree.ElementTree as ET
 import logging
 import csv
+import random
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
@@ -19,11 +20,9 @@ class PubMedQuery:
     def Query(self):
         XML_ids = []
         self.valid_ids.sort()
-        print(self.valid_ids)
+        num_ones = 0
         smallest_id = self.valid_ids[0]
         largest_id = self.valid_ids[len(self.valid_ids)-1]
-        f = open("/u/scratch/r/rahul/PubMedDownload/abstracts.csv", "w")
-        f.write("labels,values")
         for start in range(0, 1054817, 100000):
             r = requests.get(self.createQuery(start))
             root = ET.fromstring(r.content)
@@ -31,28 +30,121 @@ class PubMedQuery:
                 for ID in IdList.findall('Id'):
                     if int(ID.text) >= smallest_id and int(ID.text) <= largest_id:
                         XML_ids.append(ID.text)
-                        if int(ID.text) in self.valid_ids:
-                            f.write("1,{0}.txt\n".format(ID.text))
-                        else:
-                            f.write("0,{0}.txt\n".format(ID.text))
-        f.close()
+
+
         return XML_ids
      
-def Query(uid, set_of_valid_ids, abstract_labels, ab_file):
+def Query(uid, set_of_valid_ids, path, testing_threshold, validation_threshold):
     try:
+        dataset = random.random()  
         r = requests.get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db={0}&id={1}&retmode=text&rettype=abstract&api_key=49c77251ac91cbaa16ec5ae4269ab17d9d09".format("pubmed", uid))
-        output = " ".join(r.text.split("\n"))
         if int(uid) in set_of_valid_ids:
-            abstract_labels[1].append(output)
-            ab_file.write("1,{0}\n".format(output))
+            if dataset <= testing_threshold:
+                f = open("/Users/rahulnatarajan/Research/Garud/testing/pos/{0}.txt".format(str(uid)), "w")
+                f.write(r.text)
+                f.close()
+            elif dataset <= testing_threshold + validation_threshold:
+                f = open("/Users/rahulnatarajan/Research/Garud/validation/pos/{0}.txt".format(str(uid)), "w")
+                f.write(r.text)
+                f.close()
+            else:
+                f = open("/Users/rahulnatarajan/Research/Garud/training/pos/{0}.txt".format(str(uid)), "w")
+                f.write(r.text)
+                f.close()
+            logger.info('Added abstracts related to {0}'.format(uid))
         else:
-            abstract_labels[0].append(output)
-            ab_file.write("0,{0}\n".format(output))
-        f = open("{0}.txt".format(str(uid)), "w")
-        f.write(r.text)
-        f.close()
+            if dataset <= testing_threshold:
+                f = open("/Users/rahulnatarajan/Research/Garud/testing/neg/{0}.txt".format(str(uid)), "w")
+                f.write(r.text)
+                f.close()
+            elif dataset <= testing_threshold + validation_threshold:
+                f = open("/Users/rahulnatarajan/Research/Garud/validation/neg/{0}.txt".format(str(uid)), "w")
+                f.write(r.text)
+                f.close()
+            else:
+                f = open("/Users/rahulnatarajan/Research/Garud/training/neg/{0}.txt".format(str(uid)), "w")
+                f.write(r.text)
+                f.close()
+            logger.info('Added abstracts related to {0}'.format(uid))
     except requests.HTTPError as e:
         logger.error('Error Code: {0}'.format(e.code))
         logger.error('Error: {0}'.format(e.read()))
         raise requests.HTTPError 
+    
+class MalariaQuery:
+    def __init__(self, term_one, term_two):
+        self.prefix = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
+        self.term_one = term_one
+        self.term_two = term_two
+        
+    def createQuery(self):
+        return self.prefix + "esearch.fcgi?db={0}&term={1}+AND+{2}&retstart=0&retmax=5000".format("pubmed", self.term_one, self.term_two)
+    
+    def Query(self):
+        XML_ids = []
+        r = requests.get(self.createQuery())
+        root = ET.fromstring(r.content)
+        for IdList in root.findall('IdList'):
+            for ID in IdList.findall('Id'):
+                XML_ids.append(ID.text)
 
+        return XML_ids
+
+def MalariaQueryForDataset(uid, set_of_valid_ids, path, testing_threshold, validation_threshold):
+    try:
+        dataset = random.random()  
+        r = requests.get("https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db={0}&id={1}&retmode=text&rettype=abstract&api_key=49c77251ac91cbaa16ec5ae4269ab17d9d09".format("pubmed", uid))
+        if uid in set_of_valid_ids:
+            if dataset <= testing_threshold:
+                f = open("/Users/rahulnatarajan/Research/Garud/malaria_testing/pos/{0}.txt".format(str(uid)), "w")
+                f.write(r.text)
+                f.close()
+            elif dataset <= testing_threshold + validation_threshold:
+                f = open("/Users/rahulnatarajan/Research/Garud/malaria_validation/pos/{0}.txt".format(str(uid)), "w")
+                f.write(r.text)
+                f.close()
+            else:
+                f = open("/Users/rahulnatarajan/Research/Garud/malaria_training/pos/{0}.txt".format(str(uid)), "w")
+                f.write(r.text)
+                f.close()
+            logger.info('Added abstracts related to {0}'.format(uid))
+        else:
+            if dataset <= testing_threshold:
+                f = open("/Users/rahulnatarajan/Research/Garud/malaria_testing/neg/{0}.txt".format(str(uid)), "w")
+                f.write(r.text)
+                f.close()
+            elif dataset <= testing_threshold + validation_threshold:
+                f = open("/Users/rahulnatarajan/Research/Garud/malaria_validation/neg/{0}.txt".format(str(uid)), "w")
+                f.write(r.text)
+                f.close()
+            else:
+                f = open("/Users/rahulnatarajan/Research/Garud/malaria_training/neg/{0}.txt".format(str(uid)), "w")
+                f.write(r.text)
+                f.close()
+            logger.info('Added abstracts related to {0}'.format(uid))
+    except requests.HTTPError as e:
+        logger.error('Error Code: {0}'.format(e.code))
+        logger.error('Error: {0}'.format(e.read()))
+        raise requests.HTTPError 
+    
+class BacteriaQuery:
+    def __init__(self, term_one, term_two):
+        self.prefix = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
+        self.term_one = term_one
+        self.term_two = term_two
+        
+    def createQuery(self):
+        return self.prefix + "esearch.fcgi?db={0}&term={1}+AND+{2}&retstart=0&retmax=5000".format("pubmed", self.term_one, self.term_two)
+    
+    def Query(self):
+        XML_ids = []
+        try:
+            r = requests.get(self.createQuery())
+            root = ET.fromstring(r.content)
+            for IdList in root.findall('IdList'):
+                for ID in IdList.findall('Id'):
+                    XML_ids.append(ID.text)
+
+            return XML_ids
+        except:
+            return []

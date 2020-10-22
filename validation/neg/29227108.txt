@@ -1,0 +1,36 @@
+
+1. Nano Lett. 2018 Jan 10;18(1):513-519. doi: 10.1021/acs.nanolett.7b04494. Epub
+2017 Dec 19.
+
+Visualizing Single-Cell Secretion Dynamics with Single-Protein Sensitivity.
+
+McDonald MP(1), Gemeinhardt A(1), König K(1)(2), Piliarik M(1), Schaffer S(3),
+Völkl S(3), Aigner M(3), Mackensen A(3), Sandoghdar V(1)(2).
+
+Author information: 
+(1)Nano-Optics Division, Max Planck Institute for the Science of Light ,
+Staudtstraße 2, 91058 Erlangen, Germany.
+(2)Department of Physics , Friedrich Alexander University Erlangen-Nuremberg ,
+Schloßplatz 4, 91054 Erlangen, Germany.
+(3)Department of Internal Medicine 5, Hematology and Oncology, Friedrich
+Alexander University Erlangen-Nuremberg , Ulmenweg 18, 91054 Erlangen, Germany.
+
+Cellular secretion of proteins into the extracellular environment is an essential
+mediator of critical biological mechanisms, including cell-to-cell communication,
+immunological response, targeted delivery, and differentiation. Here, we report a
+novel methodology that allows for the real-time detection and imaging of single
+unlabeled proteins that are secreted from individual living cells. This is
+accomplished via interferometric detection of scattered light (iSCAT) and is
+demonstrated with Laz388 cells, an Epstein-Barr virus (EBV)-transformed B cell
+line. We find that single Laz388 cells actively secrete IgG antibodies at a rate 
+of the order of 100 molecules per second. Intriguingly, we also find that other
+proteins and particles spanning ca. 100 kDa-1 MDa are secreted from the Laz388
+cells in tandem with IgG antibody release, likely arising from EBV-related viral 
+proteins. The technique is general and, as we show, can also be applied to
+studying the lysate of a single cell. Our results establish label-free iSCAT
+imaging as a powerful tool for studying the real-time exchange between cells and 
+their immediate environment with single-protein sensitivity.
+
+DOI: 10.1021/acs.nanolett.7b04494 
+PMID: 29227108  [Indexed for MEDLINE]
+

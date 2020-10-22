@@ -1,0 +1,42 @@
+
+1. Proc Natl Acad Sci U S A. 2015 Oct 13;112(41):12824-9. doi:
+10.1073/pnas.1504389112. Epub 2015 Sep 28.
+
+Global transcriptional repression: An initial and essential step for Plasmodium
+sexual development.
+
+Yuda M(1), Iwanaga S(2), Kaneko I(2), Kato T(2).
+
+Author information: 
+(1)Department of Medical Zoology, Mie University School of Medicine, Mie, Tsu
+514-0001, Japan m-yuda@doc.medic.mie-u.ac.jp.
+(2)Department of Medical Zoology, Mie University School of Medicine, Mie, Tsu
+514-0001, Japan.
+
+Comment in
+    Nat Rev Microbiol. 2016 Jan;14(1):4.
+
+Gametocytes are nonreplicative sexual forms that mediate malaria transmission to 
+a mosquito vector. They are generated from asexual blood-stage parasites that
+proliferate in the circulation. However, little is known about how this
+transition is genetically regulated. Here, we report that an Apetala2 (AP2)
+family transcription factor, AP2-G2, regulates this transition as a
+transcriptional repressor. Disruption of AP2-G2 in the rodent malaria parasite
+Plasmodium berghei did not prevent commitment to the sexual stage but did halt
+development before the appearance of sex-specific morphologies. ChIP-seq analysis
+revealed that AP2-G2 targeted ∼1,500 genes and recognized a five-base motif in
+their promoters. Most of these target genes are required for asexual
+proliferation of the parasites in the blood, suggesting that AP2-G2 blocks the
+program that precedes asexual replication to promote conversion to the sexual
+stage. Microarray analysis showed that the identified targets constituted ∼70% of
+the up-regulated genes in AP2-G2-depleted parasites, suggesting that AP2-G2
+actually functions as a repressor in gametocytes. A promoter assay using a
+centromere plasmid demonstrated that the binding motif functions as a cis-acting 
+negative regulatory element. These results suggest that global transcriptional
+repression, which occurs during the initial phase of gametocytogenesis, is an
+essential step in Plasmodium sexual development.
+
+DOI: 10.1073/pnas.1504389112 
+PMCID: PMC4611670
+PMID: 26417110  [Indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+1. Mol Biochem Parasitol. 2012 Aug;184(2):71-81. doi:
+10.1016/j.molbiopara.2012.04.009. Epub 2012 May 8.
+
+Biochemical and molecular characterization of the pyrimidine biosynthetic enzyme 
+dihydroorotate dehydrogenase from Toxoplasma gondii.
+
+Hortua Triana MA(1), Huynh MH, Garavito MF, Fox BA, Bzik DJ, Carruthers VB,
+Löffler M, Zimmermann BH.
+
+Author information: 
+(1)Departamento de Ciencias Biologicas, Universidad de los Andes, Carrera 1, No. 
+18A-10, Bogotá, Colombia.
+
+The pyrimidine biosynthesis pathway in the protozoan pathogen Toxoplasma gondii
+is essential for parasite growth during infection. To investigate the properties 
+of dihydroorotate dehydrogenase (TgDHOD), the fourth enzyme in the T. gondii
+pyrimidine pathway, we expressed and purified recombinant TgDHOD. TgDHOD
+exhibited a specific activity of 84U/mg, a k(cat) of 89s(-1), a K(m)=60μM for
+l-dihydroorotate, and a K(m)=29μM for decylubiquinone (Q(D)). Quinones lacking or
+having short isoprenoid side chains yielded lower k(cat)s than Q(D). As expected,
+fumarate was a poor electron acceptor for this family 2 DHOD. The IC(50)s
+determined for A77-1726, the active derivative of the human DHOD inhibitor
+leflunomide, and related compounds MD249 and MD209 were, 91μM, 96μM, and 60μM,
+respectively. The enzyme was not significantly affected by brequinar or TTFA,
+known inhibitors of human DHOD, or by atovaquone. DSM190, a known inhibitor of
+Plasmodium falciparum DHOD, was a poor inhibitor of TgDHOD. TgDHOD exhibits a
+lengthy 157-residue N-terminal extension, consistent with a potential organellar 
+targeting signal. We constructed C-terminally c-myc tagged TgDHODs to examine
+subcellular localization of TgDHOD in transgenic parasites expressing the tagged 
+protein. Using both exogenous and endogenous expression strategies, anti-myc
+fluorescence signal colocalized with antibodies against the mitochondrial marker 
+ATPase. These findings demonstrate that TgDHOD is associated with the parasite's 
+mitochondrion, revealing this organelle as the site of orotate production in T.
+gondii. The TgDHOD gene appears to be essential because while gene tagging was
+successful at the TgDHOD gene locus, attempts to delete the TgDHOD gene were not 
+successful in the KU80 background. Collectively, our study suggests that TgDHOD
+is an excellent target for the development of anti-Toxoplasma drugs.
+
+Copyright © 2012 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.molbiopara.2012.04.009 
+PMCID: PMC3855825
+PMID: 22580100  [Indexed for MEDLINE]
+

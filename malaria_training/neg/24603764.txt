@@ -1,0 +1,47 @@
+
+1. PLoS Pathog. 2014 Mar 6;10(3):e1003897. doi: 10.1371/journal.ppat.1003897.
+eCollection 2014 Mar.
+
+Genetic dissection of Anopheles gambiae gut epithelial responses to Serratia
+marcescens.
+
+Stathopoulos S(1), Neafsey DE(2), Lawniczak MK(1), Muskavitch MA(3),
+Christophides GK(4).
+
+Author information: 
+(1)Department of Life Sciences, Imperial College London, London, United Kingdom.
+(2)Broad Institute, Cambridge, Massachusetts, United States of America.
+(3)Boston College, Chestnut Hill, Massachusetts, United States of America.
+(4)Department of Life Sciences, Imperial College London, London, United Kingdom; 
+The Cyprus Institute, Nicosia, Cyprus.
+
+Genetic variation in the mosquito Anopheles gambiae profoundly influences its
+ability to transmit malaria. Mosquito gut bacteria are shown to influence the
+outcome of infections with Plasmodium parasites and are also thought to exert a
+strong drive on genetic variation through natural selection; however, a link
+between antibacterial effects and genetic variation is yet to emerge. Here, we
+combined SNP genotyping and expression profiling with phenotypic analyses of
+candidate genes by RNAi-mediated silencing and 454 pyrosequencing to investigate 
+this intricate biological system. We identified 138 An. gambiae genes to be
+genetically associated with the outcome of Serratia marcescens infection,
+including the peptidoglycan recognition receptor PGRPLC that triggers activation 
+of the antibacterial IMD/REL2 pathway and the epidermal growth factor receptor
+EGFR. Silencing of three genes encoding type III fibronectin domain proteins
+(FN3Ds) increased the Serratia load and altered the gut microbiota composition in
+favor of Enterobacteriaceae. These data suggest that natural genetic variation in
+immune-related genes can shape the bacterial population structure of the mosquito
+gut with high specificity. Importantly, FN3D2 encodes a homolog of the
+hypervariable pattern recognition receptor Dscam, suggesting that
+pathogen-specific recognition may involve a broader family of immune factors.
+Additionally, we showed that silencing the gene encoding the gustatory receptor
+Gr9 that is also associated with the Serratia infection phenotype drastically
+increased Serratia levels. The Gr9 antibacterial activity appears to be related
+to mosquito feeding behavior and to mostly rely on changes of neuropeptide F
+expression, together suggesting a behavioral immune response following Serratia
+infection. Our findings reveal that the mosquito response to oral Serratia
+infection comprises both an epithelial and a behavioral immune component.
+
+DOI: 10.1371/journal.ppat.1003897 
+PMCID: PMC3946313
+PMID: 24603764  [Indexed for MEDLINE]
+

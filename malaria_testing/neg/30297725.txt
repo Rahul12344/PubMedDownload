@@ -1,0 +1,50 @@
+
+1. Sci Rep. 2018 Oct 8;8(1):14902. doi: 10.1038/s41598-018-33236-x.
+
+The Plasmodium falciparum male gametocyte protein P230p, a paralog of P230, is
+vital for ookinete formation and mosquito transmission.
+
+Marin-Mogollon C(1), van de Vegte-Bolmer M(2), van Gemert GJ(2), van Pul FJA(1), 
+Ramesar J(1), Othman AS(1)(3), Kroeze H(1), Miao J(4), Cui L(4), Williamson
+KC(5), Sauerwein RW(2), Janse CJ(1), Khan SM(6).
+
+Author information: 
+(1)Leiden Malaria Research Group, Parasitology, Leiden University Medical Center 
+(LUMC), Leiden, The Netherlands.
+(2)Department of Medical Microbiology, Radboud University Medical Center,
+Nijmegen, The Netherlands.
+(3)Faculty of Health Sciences, Universiti Sultan Zainal Abidin, Terengganu,
+Malaysia.
+(4)Department of Entomology, The Pennsylvania State University, University Park, 
+Pennsylvania, United States.
+(5)Microbiology and Immunology Department, Uniformed Services University of the
+Health Sciences, Bethesda, Maryland, United States.
+(6)Leiden Malaria Research Group, Parasitology, Leiden University Medical Center 
+(LUMC), Leiden, The Netherlands. S.M.Khan@lumc.nl.
+
+Erratum in
+    Sci Rep. 2019 May 3;9(1):7061.
+
+Two members of 6-cysteine (6-cys) protein family, P48/45 and P230, are important 
+for gamete fertility in rodent and human malaria parasites and are leading
+transmission blocking vaccine antigens. Rodent and human parasites encode a
+paralog of P230, called P230p. While P230 is expressed in male and female
+parasites, P230p is expressed only in male gametocytes and gametes. In rodent
+malaria parasites this protein is dispensable throughout the complete life-cycle;
+however, its function in P. falciparum is unknown. Using CRISPR/Cas9 methodology 
+we disrupted the gene encoding Pfp230p resulting in P. falciparum mutants
+(PfΔp230p) lacking P230p expression. The PfΔp230p mutants produced normal numbers
+of male and female gametocytes, which retained expression of P48/45 and P230.
+Upon activation male PfΔp230p gametocytes undergo exflagellation and form male
+gametes. However, male gametes are unable to attach to red blood cells resulting 
+in the absence of characteristic exflagellation centres in vitro. In the absence 
+of P230p, zygote formation as well as oocyst and sporozoite development were
+strongly reduced (>98%) in mosquitoes. These observations demonstrate that P230p,
+like P230 and P48/45, has a vital role in P. falciparum male fertility and zygote
+formation and warrants further investigation as a potential transmission blocking
+vaccine candidate.
+
+DOI: 10.1038/s41598-018-33236-x 
+PMCID: PMC6175877
+PMID: 30297725  [Indexed for MEDLINE]
+

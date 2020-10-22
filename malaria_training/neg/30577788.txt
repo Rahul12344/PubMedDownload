@@ -1,0 +1,57 @@
+
+1. BMC Bioinformatics. 2018 Dec 22;19(1):538. doi: 10.1186/s12859-018-2487-5.
+
+FELLA: an R package to enrich metabolomics data.
+
+Picart-Armada S(1)(2)(3), Fernández-Albert F(4)(5)(6), Vinaixa M(7)(8), Yanes
+O(7)(8), Perera-Lluna A(4)(5)(9).
+
+Author information: 
+(1)B2SLab, Departament d'Enginyeria de Sistemes, Automàtica i Informàtica
+Industrial, Universitat Politècnica de Catalunya, Barcelona, 08028, Spain.
+sergi.picart@upc.edu.
+(2)Networking Biomedical Research Centre in the subject area of Bioengineering,
+Biomaterials and Nanomedicine (CIBER-BBN), Madrid, 28029, Spain.
+sergi.picart@upc.edu.
+(3)Institut de Recerca Pediàtrica Hospital Sant Joan de Déu, Esplugues de
+Llobregat, Barcelona, 08950, Spain. sergi.picart@upc.edu.
+(4)B2SLab, Departament d'Enginyeria de Sistemes, Automàtica i Informàtica
+Industrial, Universitat Politècnica de Catalunya, Barcelona, 08028, Spain.
+(5)Networking Biomedical Research Centre in the subject area of Bioengineering,
+Biomaterials and Nanomedicine (CIBER-BBN), Madrid, 28029, Spain.
+(6)Takeda Cambridge Ltd, Cambridge, CB4 0PZ, UK.
+(7)Metabolomics Platform, IISPV, Department of Electronic Engineering (DEEEA),
+Universitat Rovira i Virgili, Tarragona, 43003, Spain.
+(8)CIBER of Diabetes and Associated Metabolic Diseases (CIBERDEM), Madrid, 28029,
+Spain.
+(9)Institut de Recerca Pediàtrica Hospital Sant Joan de Déu, Esplugues de
+Llobregat, Barcelona, 08950, Spain.
+
+BACKGROUND: Pathway enrichment techniques are useful for understanding
+experimental metabolomics data. Their purpose is to give context to the affected 
+metabolites in terms of the prior knowledge contained in metabolic pathways.
+However, the interpretation of a prioritized pathway list is still challenging,
+as pathways show overlap and cross talk effects.
+RESULTS: We introduce FELLA, an R package to perform a network-based enrichment
+of a list of affected metabolites. FELLA builds a hierarchical representation of 
+an organism biochemistry from the Kyoto Encyclopedia of Genes and Genomes (KEGG),
+containing pathways, modules, enzymes, reactions and metabolites. In addition to 
+providing a list of pathways, FELLA reports intermediate entities (modules,
+enzymes, reactions) that link the input metabolites to them. This sheds light on 
+pathway cross talk and potential enzymes or metabolites as targets for the
+condition under study. FELLA has been applied to six public datasets -three from 
+Homo sapiens, two from Danio rerio and one from Mus musculus- and has reproduced 
+findings from the original studies and from independent literature.
+CONCLUSIONS: The R package FELLA offers an innovative enrichment concept starting
+from a list of metabolites, based on a knowledge graph representation of the KEGG
+database that focuses on interpretability. Besides reporting a list of pathways, 
+FELLA suggests intermediate entities that are of interest per se. Its usefulness 
+has been shown at several molecular levels on six public datasets, including
+human and animal models. The user can run the enrichment analysis through a
+simple interactive graphical interface or programmatically. FELLA is publicly
+available in Bioconductor under the GPL-3 license.
+
+DOI: 10.1186/s12859-018-2487-5 
+PMCID: PMC6303911
+PMID: 30577788  [Indexed for MEDLINE]
+

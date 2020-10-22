@@ -1,0 +1,38 @@
+
+1. EMBO J. 1993 Aug;12(8):3007-16.
+
+Conversion of the FhuA transport protein into a diffusion channel through the
+outer membrane of Escherichia coli.
+
+Killmann H(1), Benz R, Braun V.
+
+Author information: 
+(1)Universität Tübingen, Germany.
+
+The FhuA receptor protein is involved in energy-coupled transport of Fe3+ via
+ferrichrome through the outer membrane of Escherichia coli. Since no energy
+source is known in the outer membrane it is assumed that energy is provided
+through the action of the TonB, ExbB and ExbD proteins, which are anchored to the
+cytoplasmic membrane. By deleting 34 amino acid residues of a putative cell
+surface exposed loop, FhuA was converted from a ligand specific transport protein
+into a TonB independent and nonspecific diffusion channel. The FhuA deletion
+derivative FhuA delta 322-355 formed stable channels in black lipid membranes, in
+contrast to wild-type FhuA which did not increase membrane conductance. The
+single-channel conductance of the FhuA mutant channels was at least three times
+larger than that of the general diffusion porins of E. coli outer membrane. It is
+proposed that the basic structure of FhuA in the outer membrane is a channel
+formed by beta-barrels. Since the loop extending from residue 316 to 356 is part 
+of the active site of FhuA, it probably controls the permeability of the channel.
+The transport-active conformation of FhuA is mediated by a TonB-induced
+conformational change in response to the energized cytoplasmic membrane. The
+ferrichrome transport rate into cells expressing FhuA delta 322-355 increased
+linearly with increasing substrate concentration (from 0.5 to 20 microM), in
+contrast to FhuA wild-type cells, which displayed saturation at 5 microM. This
+implies that in wild-type cells ferrichrome transport through the outer membrane 
+is the rate-limiting step and that TonB, ExbB and ExbD are only required for
+outer membrane transport.
+
+
+PMCID: PMC413565
+PMID: 7688295  [Indexed for MEDLINE]
+

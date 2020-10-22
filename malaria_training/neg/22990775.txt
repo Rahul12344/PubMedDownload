@@ -1,0 +1,32 @@
+
+1. Methods Mol Biol. 2013;923:139-50.
+
+Standardization in generating and reporting genetically modified rodent malaria
+parasites: the RMgmDB database.
+
+Khan SM(1), Kroeze H, Franke-Fayard B, Janse CJ.
+
+Author information: 
+(1)Center of Infectious Diseases, Leiden University Medical Center, Leiden, The
+Netherlands.
+
+Genetically modified Plasmodium parasites are central gene function reagents in
+malaria research. The Rodent Malaria genetically modified DataBase (RMgmDB) (
+www.pberghei.eu ) is a manually curated Web - based repository that contains
+information on genetically modified rodent malaria parasites. It provides easy
+and rapid access to information on the genotype and phenotype of genetically
+modified mutant and reporter parasites. Here, we provide guidelines for
+generating and describing rodent malaria parasite mutants. Standardization in
+describing mutant genotypes and phenotypes is important not only to enhance
+publication quality but also to facilitate cross-linking and mining data from
+multiple sources, and should permit information derived from mutant parasites to 
+be used in integrative system biology approaches. We also provide guidelines on
+how to submit information to RMgmDB on non-published mutants, mutants that do not
+exhibit a clear phenotype, as well as negative attempts to disrupt/mutate genes. 
+Such information helps to prevent unnecessary duplication of experiments in
+different laboratories, and can provide indirect evidence that these genes are
+essential for blood-stage development.
+
+DOI: 10.1007/978-1-62703-026-7_9 
+PMID: 22990775  [Indexed for MEDLINE]
+

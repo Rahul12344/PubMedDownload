@@ -1,0 +1,52 @@
+
+1. Malar J. 2013 Oct 30;12:381. doi: 10.1186/1475-2875-12-381.
+
+Identification and characterization of the merozoite surface protein 1 (msp1)
+gene in a host-generalist avian malaria parasite, Plasmodium relictum (lineages
+SGS1 and GRW4) with the use of blood transcriptome.
+
+Hellgren O(1), Kutzer M, Bensch S, Valkiūnas G, Palinauskas V.
+
+Author information: 
+(1)MEEL Department of Biology, Lund University, Lund, Sweden.
+olof.hellgren@biol.lu.se.
+
+BACKGROUND: The merozoite surface protein 1 (msp1) is one of the most studied
+vaccine candidate genes in mammalian Plasmodium spp. to have been used for
+investigations of epidemiology, population structures, and immunity to
+infections. However methodological difficulties have impeded the use of nuclear
+markers such as msp1 in Plasmodium parasites causing avian malaria. Data from an 
+infection transcriptome of the host generalist avian malaria parasite Plasmodium 
+relictum was used to identify and characterize the msp1 gene from two different
+isolates (mtDNA lineages SGS1 and GRW4). The aim was to investigate whether the
+msp1 gene in avian malaria species shares the properties of the msp1 gene in
+Plasmodium falciparum in terms of block variability, conserved anchor points and 
+repeat motifs, and further to investigate the degree to which the gene might be
+informative in avian malaria parasites for population and epidemiological
+studies.
+METHODS: Reads from 454 sequencing of birds infected with avian malaria was used 
+to develop Sanger sequencing protocols for the msp1 gene of P. relictum. Genetic 
+variability between variable and conserved blocks of the gene was compared within
+and between avian malaria parasite species, including P. falciparum. Genetic
+variability of the msp1 gene in P. relictum was compared with six other nuclear
+genes and the mtDNA gene cytochrome b.
+RESULTS: The msp1 gene of P. relictum shares the same general pattern of variable
+and conserved blocks as found in P. falciparum, although the variable blocks
+exhibited less variability than P. falciparum. The variation across the gene
+blocks in P. falciparum spanned from being as conserved as within species
+variation in P. relictum to being as variable as between the two avian malaria
+species (P. relictum and Plasmodium gallinaceum) in the variable blocks. In P.
+relictum the highly conserved p19 region of the peptide was identified, which
+included two epidermal growth factor-like domains and a fully conserved GPI
+anchor point.
+CONCLUSION: This study provides protocols for evaluation of the msp1 gene in the 
+avian malaria generalist parasite P. relictum. The msp1 gene in avian Plasmodium 
+shares the genetic properties seen in P. falciparum, indicating evolutionary
+conserved functions for the gene. The data on the variable blocks of the gene
+show that the msp1 gene in P. relictum might serve as a good candidate gene for
+future population and epidemiological studies of the parasite.
+
+DOI: 10.1186/1475-2875-12-381 
+PMCID: PMC3827925
+PMID: 24172200  [Indexed for MEDLINE]
+

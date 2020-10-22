@@ -1,0 +1,43 @@
+
+1. Proc Natl Acad Sci U S A. 2012 Dec 11;109(50):20661-6. doi:
+10.1073/pnas.1213559109. Epub 2012 Nov 26.
+
+Structural basis for Marburg virus VP35-mediated immune evasion mechanisms.
+
+Ramanan P(1), Edwards MR, Shabman RS, Leung DW, Endlich-Frazier AC, Borek DM,
+Otwinowski Z, Liu G, Huh J, Basler CF, Amarasinghe GK.
+
+Author information: 
+(1)Department of Pathology and Immunology, Washington University School of
+Medicine, St. Louis, MO 63110, USA.
+
+Filoviruses, marburgvirus (MARV) and ebolavirus (EBOV), are causative agents of
+highly lethal hemorrhagic fever in humans. MARV and EBOV share a common genome
+organization but show important differences in replication complex formation,
+cell entry, host tropism, transcriptional regulation, and immune evasion.
+Multifunctional filoviral viral protein (VP) 35 proteins inhibit innate immune
+responses. Recent studies suggest double-stranded (ds)RNA sequestration is a
+potential mechanism that allows EBOV VP35 to antagonize retinoic-acid inducible
+gene-I (RIG-I) like receptors (RLRs) that are activated by viral
+pathogen-associated molecular patterns (PAMPs), such as double-strandedness and
+dsRNA blunt ends. Here, we show that MARV VP35 can inhibit IFN production at
+multiple steps in the signaling pathways downstream of RLRs. The crystal
+structure of MARV VP35 IID in complex with 18-bp dsRNA reveals that despite the
+similar protein fold as EBOV VP35 IID, MARV VP35 IID interacts with the dsRNA
+backbone and not with blunt ends. Functional studies show that MARV VP35 can
+inhibit dsRNA-dependent RLR activation and interferon (IFN) regulatory factor 3
+(IRF3) phosphorylation by IFN kinases TRAF family member-associated NFkb
+activator (TANK) binding kinase-1 (TBK-1) and IFN kB kinase e (IKKe) in
+cell-based studies. We also show that MARV VP35 can only inhibit RIG-I and
+melanoma differentiation associated gene 5 (MDA5) activation by double
+strandedness of RNA PAMPs (coating backbone) but is unable to inhibit activation 
+of RLRs by dsRNA blunt ends (end capping). In contrast, EBOV VP35 can inhibit
+activation by both PAMPs. Insights on differential PAMP recognition and
+inhibition of IFN induction by a similar filoviral VP35 fold, as shown here,
+reveal the structural and functional plasticity of a highly conserved virulence
+factor.
+
+DOI: 10.1073/pnas.1213559109 
+PMCID: PMC3528546
+PMID: 23185024  [Indexed for MEDLINE]
+

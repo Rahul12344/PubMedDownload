@@ -1,0 +1,47 @@
+
+1. J Vis Exp. 2011 Dec 1;(58). pii: 3264. doi: 10.3791/3264.
+
+Prediction of HIV-1 coreceptor usage (tropism) by sequence analysis using a
+genotypic approach.
+
+Sierra S(1), Kaiser R, Lübke N, Thielen A, Schuelter E, Heger E, Däumer M, Reuter
+S, Esser S, Fätkenheuer G, Pfister H, Oette M, Lengauer T.
+
+Author information: 
+(1)Institute of Virology, University of Cologne.
+
+Maraviroc (MVC) is the first licensed antiretroviral drug from the class of
+coreceptor antagonists. It binds to the host coreceptor CCR5, which is used by
+the majority of HIV strains in order to infect the human immune cells (Fig. 1).
+Other HIV isolates use a different coreceptor, the CXCR4. Which receptor is used,
+is determined in the virus by the Env protein (Fig. 2). Depending on the
+coreceptor used, the viruses are classified as R5 or X4, respectively. MVC binds 
+to the CCR5 receptor inhibiting the entry of R5 viruses into the target cell.
+During the course of disease, X4 viruses may emerge and outgrow the R5 viruses.
+Determination of coreceptor usage (also called tropism) is therefore mandatory
+prior to administration of MVC, as demanded by EMA and FDA. The studies for MVC
+efficiency MOTIVATE, MERIT and 1029 have been performed with the Trofile assay
+from Monogram, San Francisco, U.S.A. This is a high quality assay based on
+sophisticated recombinant tests. The acceptance for this test for daily routine
+is rather low outside of the U.S.A., since the European physicians rather tend to
+work with decentralized expert laboratories, which also provide concomitant
+resistance testing. These laboratories have undergone several quality assurance
+evaluations, the last one being presented in 2011. For several years now, we have
+performed tropism determinations based on sequence analysis from the HIV env-V3
+gene region (V3). This region carries enough information to perform a reliable
+prediction. The genotypic determination of coreceptor usage presents advantages
+such as: shorter turnover time (equivalent to resistance testing), lower costs,
+possibility to adapt the results to the patients' needs and possibility of
+analysing clinical samples with very low or even undetectable viral load (VL),
+particularly since the number of samples analysed with VL < 1000 copies/μl
+roughly increased in the last years (Fig. 3). The main steps for tropism testing 
+(Fig. 4) demonstrated in this video: Collection of a blood sample Isolation of
+the HIV RNA from the plasma and/or HIV proviral DNA from blood mononuclear cells 
+Amplification of the env region Amplification of the V3 region Sequence reaction 
+of the V3 amplicon Purification of the sequencing samples Sequencing the purified
+samples Sequence editing Sequencing data interpretation and tropism prediction.
+
+DOI: 10.3791/3264 
+PMCID: PMC3369655
+PMID: 22157596  [Indexed for MEDLINE]
+

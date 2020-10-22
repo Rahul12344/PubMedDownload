@@ -1,0 +1,46 @@
+
+1. Malar J. 2017 Jul 14;16(1):286. doi: 10.1186/s12936-017-1932-7.
+
+Vector control with driving Y chromosomes: modelling the evolution of resistance.
+
+Beaghton A(1), Beaghton PJ(2), Burt A(2).
+
+Author information: 
+(1)Life Sciences, Imperial College, Silwood Park, Ascot, Berkshire, SL5 7PY, UK. 
+a.beaghton@imperial.ac.uk.
+(2)Life Sciences, Imperial College, Silwood Park, Ascot, Berkshire, SL5 7PY, UK.
+
+BACKGROUND: The introduction of new malaria control interventions has often led
+to the evolution of resistance, both of the parasite to new drugs and of the
+mosquito vector to new insecticides, compromising the efficacy of the
+interventions. Recent progress in molecular and population biology raises the
+possibility of new genetic-based interventions, and the potential for resistance 
+to evolve against these should be considered. Here, population modelling is used 
+to determine the main factors affecting the likelihood that resistance will
+evolve against a synthetic, nuclease-based driving Y chromosome that produces a
+male-biased sex ratio.
+METHODS: A combination of deterministic differential equation models and
+stochastic analyses involving branching processes and Gillespie simulations is
+utilized to assess the probability that resistance evolves against a driving Y
+that otherwise is strong enough to eliminate the target population. The model
+considers resistance due to changes at the target site such that they are no
+longer cleaved by the nuclease, and due to trans-acting autosomal suppressor
+alleles.
+RESULTS: The probability that resistance evolves increases with the mutation rate
+and the intrinsic rate of increase of the population, and decreases with the
+strength of drive and any pleiotropic fitness costs of the resistant allele. In
+seasonally varying environments, the time of release can also affect the
+probability of resistance evolving. Trans-acting suppressor alleles are more
+likely to suffer stochastic loss at low frequencies than target site resistant
+alleles.
+CONCLUSIONS: As with any other intervention, there is a risk that resistance will
+evolve to new genetic approaches to vector control, and steps should be taken to 
+minimize this probability. Two design features that should help in this regard
+are to reduce the rate at which resistant mutations arise, and to target
+sequences such that if they do arise, they impose a significant fitness cost on
+the mosquito.
+
+DOI: 10.1186/s12936-017-1932-7 
+PMCID: PMC5513332
+PMID: 28705249  [Indexed for MEDLINE]
+

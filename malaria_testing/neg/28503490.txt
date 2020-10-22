@@ -1,0 +1,54 @@
+
+1. Front Cell Infect Microbiol. 2017 Apr 28;7:129. doi: 10.3389/fcimb.2017.00129.
+eCollection 2017.
+
+The Distinct Transcriptional Response of the Midgut of Amblyomma sculptum and
+Amblyomma aureolatum Ticks to Rickettsia rickettsii Correlates to Their
+Differences in Susceptibility to Infection.
+
+Martins LA(1), Galletti MFBM(1), Ribeiro JM(2), Fujita A(3), Costa FB(4), Labruna
+MB(4), Daffre S(1), Fogaça AC(1).
+
+Author information: 
+(1)Departamento de Parasitologia, Instituto de Ciências Biomédicas, Universidade 
+de São PauloSão Paulo, Brazil.
+(2)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious DiseasesRockville, MD, USA.
+(3)Departamento de Ciência da Computação, Instituto de Matemática e Estatística, 
+Universidade de São PauloSão Paulo, Brazil.
+(4)Departamento de Medicina Veterinária Preventiva e Saúde Animal, Faculdade de
+Medicina Veterinária e Zootecnia, Universidade de São PauloSão Paulo, Brazil.
+
+Rickettsia rickettsii is a tick-borne obligate intracellular bacterium that
+causes Rocky Mountain Spotted Fever (RMSF). In Brazil, two species of ticks in
+the genus Amblyomma, A. sculptum and A. aureolatum, are incriminated as vectors
+of this bacterium. Importantly, these two species present remarkable differences 
+in susceptibility to R. rickettsii infection, where A. aureolatum is more
+susceptible than A. sculptum. In the current study, A. aureolatum and A. sculptum
+ticks were fed on suitable hosts previously inoculated with R. rickettsii,
+mimicking a natural infection. As control, ticks were fed on non-infected
+animals. Both midgut and salivary glands of all positively infected ticks were
+colonized by R. rickettsii. We did not observe ticks with infection restricted to
+midgut, suggesting that important factors for controlling rickettsial
+colonization were produced in this organ. In order to identify such factors, the 
+total RNA extracted from the midgut (MG) was submitted to next generation RNA
+sequencing (RNA-seq). The majority of the coding sequences (CDSs) of A. sculptum 
+differentially expressed by infection were upregulated, whereas most of modulated
+CDSs of A. aureolatum were downregulated. The functional categories that comprise
+upregulated CDSs of A. sculptum, for instance, metabolism, signal transduction,
+protein modification, extracellular matrix, and immunity also include CDSs of A. 
+aureolatum that were downregulated by infection. This is the first study that
+reports the effects of an experimental infection with the highly virulent R.
+rickettsii on the gene expression of two natural tick vectors. The distinct
+transcriptional profiles of MG of A. sculptum and A. aureolatum upon infection
+stimulus strongly suggest that molecular factors in this organ are responsible
+for delineating the susceptibility to R. rickettsii. Functional studies to
+determine the role played by proteins encoded by differentially expressed CDSs in
+the acquisition of R. rickettsii are warranted and may be considered as targets
+for the development of strategies to control the tick-borne pathogens as well as 
+to control the tick vectors.
+
+DOI: 10.3389/fcimb.2017.00129 
+PMCID: PMC5409265
+PMID: 28503490  [Indexed for MEDLINE]
+

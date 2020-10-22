@@ -1,0 +1,44 @@
+
+1. J Immunol Methods. 2016 Jun;433:51-8. doi: 10.1016/j.jim.2016.03.002. Epub 2016
+Mar 8.
+
+A new cell line for high throughput HIV-specific antibody-dependent cellular
+cytotoxicity (ADCC) and cell-to-cell virus transmission studies.
+
+Orlandi C(1), Flinko R(2), Lewis GK(3).
+
+Author information: 
+(1)The Institute of Human Virology of the University of Maryland School of
+Medicine, Baltimore, MD, USA. Electronic address: corlandi@ihv.umaryland.edu.
+(2)The Institute of Human Virology of the University of Maryland School of
+Medicine, Baltimore, MD, USA.
+(3)The Institute of Human Virology of the University of Maryland School of
+Medicine, Baltimore, MD, USA. Electronic address: glewis@ihv.umaryland.edu.
+
+Several lines of evidence indicate that antibody-dependent cellular cytotoxicity 
+(Wren et al., 2013) is important in the pathogenesis of HIV-1 infection. Namely, 
+ADCC is induced during natural HIV-1 infection or in HIV-1 vaccine studies, the
+latter demonstrated by the RV144 vaccine trial. To expedite the assessment of
+ADCC in studies of HIV, we have developed a high throughput assay. We have
+optimized the rapid fluorometric antibody-mediated cytotoxicity assay (RFADCC) by
+transfecting the EGFP-CEM-NKr cell line to constitutively express SNAP-tagged
+CCR5. This cell line can then serve as a source of HIV-specific targets when
+coated with monomeric gp120, spinoculated with inactivated intact virions,
+infected by cell-free viral diffusion or infected by cell-to-cell transmission of
+virus. The optimized strategy has two significant advantages over the original
+RFADCC method: First, the preparation of detectable target cells is less labor
+intensive and faster as it does not rely on multiple staining and washing steps
+for target cells. Second, because the target cell markers GFP and SNAP are
+constitutively expressed, the assay provides highly reproducible data. These
+strengths make the optimized RFADCC assay suitable not only for studies of HIV-1 
+specific cytotoxicity but also for studies of cell-cell transmission of virus. In
+conclusion, this assay provides a new generation T cell line that can expedite
+large clinical studies as well as research studies in humans or non-human
+primates.
+
+Copyright © 2016 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jim.2016.03.002 
+PMCID: PMC4869150
+PMID: 26969387  [Indexed for MEDLINE]
+

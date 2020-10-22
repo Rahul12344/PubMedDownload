@@ -1,0 +1,41 @@
+
+1. J Vis Exp. 2010 Dec 26;(46). pii: 2355. doi: 10.3791/2355.
+
+Transfection and mutagenesis of target genes in mosquito cells by locked nucleic 
+acid-modified oligonucleotides.
+
+Pakpour N(1), Cheung KW, Souvannaseng L, Concordet JP, Luckhart S.
+
+Author information: 
+(1)Department of Medical Microbiology and Immunology, University of California,
+Davis, USA.
+
+Plasmodium parasites, the causative agent of malaria, are transmitted through the
+bites of infected Anopheles mosquitoes resulting in over 250 million new
+infections each year. Despite decades of research, there is still no vaccine
+against malaria, highlighting the need for novel control strategies. One
+innovative approach is the use of genetically modified mosquitoes to effectively 
+control malaria parasite transmission. Deliberate alterations of cell signaling
+pathways in the mosquito, via targeted mutagenesis, have been found to regulate
+parasite development (1). From these studies, we can begin to identify potential 
+gene targets for transformation. Targeted mutagenesis has traditionally relied
+upon the homologous recombination between a target gene and a large DNA molecule.
+However, the construction and use of such complex DNA molecules for generation of
+stably transformed cell lines is costly, time consuming and often inefficient.
+Therefore, a strategy using locked nucleic acid-modified oligonucleotides
+(LNA-ONs) provides a useful alternative for introducing artificial single
+nucleotide substitutions into episomal and chromosomal DNA gene targets (reviewed
+in (2)). LNA-ON-mediated targeted mutagenesis has been used to introduce point
+mutations into genes of interest in cultured cells of both yeast and mice (3,4). 
+We show here that LNA-ONs can be used to introduce a single nucleotide change in 
+a transfected episomal target that results in a switch from blue fluorescent
+protein (BFP) expression to green fluorescent protein (GFP) expression in both
+Anopheles gambiae and Anopheles stephensi cells. This conversion demonstrates for
+the first time that effective mutagenesis of target genes in mosquito cells can
+be mediated by LNA-ONs and suggests that this technique may be applicable to
+mutagenesis of chromosomal targets in vitro and in vivo.
+
+DOI: 10.3791/2355 
+PMCID: PMC3159651
+PMID: 21206476  [Indexed for MEDLINE]
+

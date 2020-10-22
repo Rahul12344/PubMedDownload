@@ -1,0 +1,49 @@
+
+1. J Pharm Pharm Sci. 2013;16(2):217-30.
+
+Optimisation and validation of a high throughput screening compatible assay to
+identify inhibitors of the plasma membrane calcium ATPase pump--a novel
+therapeutic target for contraception and malaria.
+
+Mohamed TM(1), Zakeri SA, Baudoin F, Wolf M, Oceandy D, Cartwright EJ, Gul S,
+Neyses L.
+
+Author information: 
+(1)Institute of Cardiovascular Sciences, Manchester Academic Health Sciences
+Centre, University of Manchester, Manchester M13 9PT, UK.
+tamer.mohamed@manchester.ac.uk
+
+PURPOSE: ATPases, which constitute a major category of ion transporters in the
+human body, have a variety of significant biological and pathological roles.
+However, the lack of high throughput assays for ATPases has significantly limited
+drug discovery in this area. We have recently found that the genetic deletion of 
+the ATP dependent calcium pump PMCA4 (plasma membrane calcium/calmodulin
+dependent ATPase, isoform 4) results in infertility in male mice due to a
+selective defect in sperm motility. In addition, recent discoveries in humans
+have indicated that a single nucleotide polymorphism (SNP) in the PMCA4 gene
+determines the susceptibility towards malaria plasmodium infection. Therefore,
+there is an urgent need to develop specific PMCA4 inhibitors. In the current
+study, we aim to optimise and validate a high throughput screening compatible
+assay using recombinantly expressed PMCA4 and the HTRF® Transcreener® ADP
+(TR-FRET) assay to screen a drug library.
+METHODS AND RESULTS: PMCA4 membrane microsomes were prepared from HEK293 cells
+overexpressing PMCA4. Western blot quantification revealed nearly nine-fold
+increased expression of PMCA4 compared to LacZ (control virus)-infected cells.
+Maximal PMCA4 microsomal activity was achieved in the TR-FRET assay with 15ng/μl 
+microsomal concentration, 30-minute pre-incubation with compounds at 37°C, and
+calcium buffering with 1mM EGTA providing 1μM free-calcium. Finally a
+dose-response curve for carboxyeosin (a non-specific PMCA inhibitor) under
+optimised conditions showed significant PMCA4 inhibition. Upon confirmation that 
+the assay was suitable for high-throughput screening, we have screened the
+ChemBioNet small molecule library (~21,000 compounds) against the PMCA4 assay to 
+identify those that are its apparent inhibitors. This screening yielded 1,494
+primary hits.
+CONCLUSIONS: We have optimised the HTRF® Transcreener® ADP assay for
+high-throughput screening to identify PMCA4 inhibitors. The output of the
+screening campaign has provided preliminary chemical starting points that could
+be further developed to specific PMCA4 inhibitors for non-hormonal contraception 
+or anti-malaria therapy.
+
+DOI: 10.18433/j3pg68 
+PMID: 23958191  [Indexed for MEDLINE]
+

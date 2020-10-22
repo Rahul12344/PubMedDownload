@@ -1,0 +1,39 @@
+
+1. Brief Bioinform. 2017 May 1;18(3):394-402. doi: 10.1093/bib/bbw039.
+
+Detecting multi-way epistasis in family-based association studies.
+
+Loucoubar C, Grant AV, Bureau JF, Casademont I, Bar NA, Bar-Hen A, Diop M, Faye
+J, Sarr FD, Badiane A, Tall A, Trape JF, Cliquet F, Schwikowski B, Lathrop M,
+Paul RE, Sakuntabhai A.
+
+The era of genome-wide association studies (GWAS) has led to the discovery of
+numerous genetic variants associated with disease. Better understanding of
+whether these or other variants interact leading to differential risk compared
+with individual marker effects will increase our understanding of the genetic
+architecture of disease, which may be investigated using the family-based study
+design. We present M-TDT (the multi-locus transmission disequilibrium test), a
+tool for detecting family-based multi-locus multi-allelic effects for qualitative
+or quantitative traits, extended from the original transmission disequilibrium
+test (TDT). Tests to handle the comparison between additive and epistatic models,
+lack of independence between markers and multiple offspring are described.
+Performance of M-TDT is compared with a multifactor dimensionality reduction
+(MDR) approach designed for investigating families in the hypothesis-free
+genome-wide setting (the multifactor dimensionality reduction pedigree
+disequilibrium test, MDR-PDT). Other methods derived from the TDT or MDR to
+investigate genetic interaction in the family-based design are also discussed.
+The case of three independent biallelic loci is illustrated using simulations for
+one- to three-locus alternative hypotheses. M-TDT identified joint-locus effects 
+and distinguished effectively between additive and epistatic models. We showed a 
+practical example of M-TDT based on three genes already known to be implicated in
+malaria susceptibility. Our findings demonstrate the value of M-TDT in a
+hypothesis-driven context to test for multi-way epistasis underlying common
+disease etiology, whereas MDR-PDT-based methods are more appropriate in a
+hypothesis-free genome-wide setting.
+
+© The Author 2016. Published by Oxford University Press. All rights reserved. For
+Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/bib/bbw039 
+PMID: 27178992  [Indexed for MEDLINE]
+

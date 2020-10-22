@@ -1,0 +1,58 @@
+
+1. PLoS Genet. 2018 Jul 2;14(7):e1007490. doi: 10.1371/journal.pgen.1007490.
+eCollection 2018 Jul.
+
+RecQ helicases in the malaria parasite Plasmodium falciparum affect genome
+stability, gene expression patterns and DNA replication dynamics.
+
+Claessens A(1)(2), Harris LM(3), Stanojcic S(4), Chappell L(5), Stanton A(6), Kuk
+N(4), Veneziano-Broccia P(3), Sterkers Y(4)(7)(8), Rayner JC(5), Merrick CJ(9).
+
+Author information: 
+(1)London School of Hygiene and Tropical Medicine, London, United Kingdom.
+(2)Medical Research Council Unit The Gambia, Fajara, Banjul, The Gambia.
+(3)Centre for Applied Entomology and Parasitology, Faculty of Natural Sciences,
+Keele University, Keele, Staffordshire, United Kingdom.
+(4)University of Montpellier, Faculty of Medicine, Laboratory of
+Parasitology-Mycology, Montpellier, France.
+(5)Malaria Programme, Wellcome Sanger Institute, Hinxton, Cambridge, United
+Kingdom.
+(6)School of Computing and Mathematics, Faculty of Natural Sciences, Keele
+University, Keele, Staffordshire, United Kingdom.
+(7)CNRS 5290 - IRD 224 - University of Montpellier (UMR "MiVEGEC"), Montpellier, 
+France.
+(8)University Hospital Centre (CHU), Department of Parasitology-Mycology,
+Montpellier, France.
+(9)Department of Pathology, Cambridge University, Cambridge, United Kingdom.
+
+The malaria parasite Plasmodium falciparum has evolved an unusual genome
+structure. The majority of the genome is relatively stable, with mutation rates
+similar to most eukaryotic species. However, some regions are very unstable with 
+high recombination rates, driving the generation of new immune evasion-associated
+var genes. The molecular factors controlling the inconsistent stability of this
+genome are not known. Here we studied the roles of the two putative RecQ
+helicases in P. falciparum, PfBLM and PfWRN. When PfWRN was knocked down,
+recombination rates increased four-fold, generating chromosomal abnormalities, a 
+high rate of chimeric var genes and many microindels, particularly in known
+'fragile sites'. This is the first identification of a gene involved in
+suppressing recombination and maintaining genome stability in Plasmodium. By
+contrast, no change in mutation rate appeared when the second RecQ helicase,
+PfBLM, was mutated. At the transcriptional level, however, both helicases
+evidently modulate the transcription of large cohorts of genes, with several
+hundred genes-including a large proportion of vars-showing deregulated expression
+in each RecQ mutant. Aberrant processing of stalled replication forks is a
+possible mechanism underlying elevated mutation rates and this was assessed by
+measuring DNA replication dynamics in the RecQ mutant lines. Replication forks
+moved slowly and stalled at elevated rates in both mutants, confirming that RecQ 
+helicases are required for efficient DNA replication. Overall, this work
+identifies the Plasmodium RecQ helicases as major players in DNA replication,
+antigenic diversification and genome stability in the most lethal human malaria
+parasite, with important implications for genome evolution in this pathogen.
+
+DOI: 10.1371/journal.pgen.1007490 
+PMCID: PMC6044543
+PMID: 29965959  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

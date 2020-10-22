@@ -1,0 +1,46 @@
+
+1. Nucleic Acids Res. 2018 Jan 4;46(D1):D413-D418. doi: 10.1093/nar/gkx1015.
+
+Target-Pathogen: a structural bioinformatic approach to prioritize drug targets
+in pathogens.
+
+Sosa EJ(1)(2), Burguener G(1)(2), Lanzarotti E(1)(2), Defelipe L(1)(2), Radusky
+L(1)(2), Pardo AM(3), Marti M(1)(2)(3), Turjanski AG(1)(2)(3), Fernández Do Porto
+D(1)(2).
+
+Author information: 
+(1)IQUIBICEN-CONICET, Ciudad Universitaria, Pabellón 2, C1428EHA Ciudad de Buenos
+Aires, Argentina.
+(2)Departamento de Química Biológica, Facultad de Ciencias Exactas y Naturales,
+Universidad de Buenos Aires, Ciudad Universitaria, Pabellón 2, C1428EHA Ciudad de
+Buenos Aires, Argentina.
+(3)Plataforma de Bioinformática Argentina (BIA), Instituto de Cálculo, Facultad
+de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Ciudad
+Universitaria, Pabellón 2, C1428EHA Ciudad de Buenos Aires, Argentina.
+
+Available genomic data for pathogens has created new opportunities for drug
+discovery and development to fight them, including new resistant and
+multiresistant strains. In particular structural data must be integrated with
+both, gene information and experimental results. In this sense, there is a lack
+of an online resource that allows genome wide-based data consolidation from
+diverse sources together with thorough bioinformatic analysis that allows easy
+filtering and scoring for fast target selection for drug discovery. Here, we
+present Target-Pathogen database (http://target.sbg.qb.fcen.uba.ar/patho),
+designed and developed as an online resource that allows the integration and
+weighting of protein information such as: function, metabolic role,
+off-targeting, structural properties including druggability, essentiality and
+omic experiments, to facilitate the identification and prioritization of
+candidate drug targets in pathogens. We include in the database 10 genomes of
+some of the most relevant microorganisms for human health (Mycobacterium
+tuberculosis, Mycobacterium leprae, Klebsiella pneumoniae, Plasmodium vivax,
+Toxoplasma gondii, Leishmania major, Wolbachia bancrofti, Trypanosoma brucei,
+Shigella dysenteriae and Schistosoma Smanosoni) and show its applicability. New
+genomes can be uploaded upon request.
+
+© The Author(s) 2017. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkx1015 
+PMCID: PMC5753371
+PMID: 29106651  [Indexed for MEDLINE]
+

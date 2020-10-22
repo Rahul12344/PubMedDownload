@@ -1,0 +1,45 @@
+
+1. Retrovirology. 2011 Feb 16;8:11. doi: 10.1186/1742-4690-8-11.
+
+Highly conserved serine residue 40 in HIV-1 p6 regulates capsid processing and
+virus core assembly.
+
+Votteler J(1), Neumann L, Hahn S, Hahn F, Rauch P, Schmidt K, Studtrucker N,
+Solbak SM, Fossen T, Henklein P, Ott DE, Holland G, Bannert N, Schubert U.
+
+Author information: 
+(1)Institute of Virology, Friedrich-Alexander-University, Erlangen, Germany.
+
+BACKGROUND: The HIV-1 p6 Gag protein regulates the final abscission step of
+nascent virions from the cell membrane by the action of two late assembly (L-)
+domains. Although p6 is located within one of the most polymorphic regions of the
+HIV-1 gag gene, the 52 amino acid peptide binds at least to two cellular budding 
+factors (Tsg101 and ALIX), is a substrate for phosphorylation, ubiquitination,
+and sumoylation, and mediates the incorporation of the HIV-1 accessory protein
+Vpr into viral particles. As expected, known functional domains mostly overlap
+with several conserved residues in p6. In this study, we investigated the
+importance of the highly conserved serine residue at position 40, which until now
+has not been assigned to any known function of p6.
+RESULTS: Consistently with previous data, we found that mutation of Ser-40 has no
+effect on ALIX mediated rescue of HIV-1 L-domain mutants. However, the only
+feasible S40F mutation that preserves the overlapping pol open reading frame
+(ORF) reduces virus replication in T-cell lines and in human lymphocyte tissue
+cultivated ex vivo. Most intriguingly, L-domain mediated virus release is not
+dependent on the integrity of Ser-40. However, the S40F mutation significantly
+reduces the specific infectivity of released virions. Further, it was observed
+that mutation of Ser-40 selectively interferes with the cleavage between capsid
+(CA) and the spacer peptide SP1 in Gag, without affecting cleavage of other Gag
+products. This deficiency in processing of CA, in consequence, led to an
+irregular morphology of the virus core and the formation of an electron dense
+extra core structure. Moreover, the defects induced by the S40F mutation in p6
+can be rescued by the A1V mutation in SP1 that generally enhances processing of
+the CA-SP1 cleavage site.
+CONCLUSIONS: Overall, these data support a so far unrecognized function of p6
+mediated by Ser-40 that occurs independently of the L-domain function, but
+selectively affects CA maturation and virus core formation, and consequently the 
+infectivity of released virions.
+
+DOI: 10.1186/1742-4690-8-11 
+PMCID: PMC3049138
+PMID: 21324168  [Indexed for MEDLINE]
+

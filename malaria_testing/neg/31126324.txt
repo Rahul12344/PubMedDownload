@@ -1,0 +1,57 @@
+
+1. Parasit Vectors. 2019 May 24;12(1):261. doi: 10.1186/s13071-019-3506-8.
+
+Anopheles aquasalis transcriptome reveals autophagic responses to Plasmodium
+vivax midgut invasion.
+
+Santana RAG(1), Oliveira MC(1), Cabral I(1), Junior RCAS(1), de Sousa DRT(1),
+Ferreira L(1), Lacerda MVG(1)(2), Monteiro WM(1), Abrantes P(3), Guerra MDGVB(1),
+Silveira H(4)(5).
+
+Author information: 
+(1)Programa de Pós-Graduação em Medicina Tropical, Universidade do Estado do
+Amazonas/Fundação de Medicina Tropical Dr. Heitor Vieira Dourado, Manaus, Brazil.
+(2)Instituto Leônidas & Maria Deane, Fundação Oswaldo Cruz, Manaus, Brazil.
+(3)Instituto de Higiene e Medicina Tropical, Global Health and Tropical Medicine,
+Universidade Nova de Lisboa, Lisboa, Portugal.
+(4)Programa de Pós-Graduação em Medicina Tropical, Universidade do Estado do
+Amazonas/Fundação de Medicina Tropical Dr. Heitor Vieira Dourado, Manaus, Brazil.
+hsilveira@ihmt.unl.pt.
+(5)Instituto de Higiene e Medicina Tropical, Global Health and Tropical Medicine,
+Universidade Nova de Lisboa, Lisboa, Portugal. hsilveira@ihmt.unl.pt.
+
+BACKGROUND: Elimination of malaria depends on mastering transmission and
+understanding the biological basis of Plasmodium infection in the vector. The
+first mosquito organ to interact with the parasite is the midgut and its
+transcriptomic characterization during infection can reveal effective
+antiplasmodial responses able to limit the survival of the parasite. The vector
+response to Plasmodium vivax is not fully characterized, and its specificities
+when compared with other malaria parasites can be of fundamental interest for
+specific control measures.
+METHODS: Experimental infections were performed using a membrane-feeding device. 
+Three groups were used: P. vivax-blood-fed, blood-fed on inactivated gametocytes,
+and unfed mosquitoes. Twenty-four hours after feeding, the mosquitoes were
+dissected and the midgut collected for transcriptomic analysis using RNAseq. Nine
+cDNA libraries were generated and sequenced on an Illumina HiSeq2500. Readings
+were checked for quality control and analysed using the Trinity platform for de
+novo transcriptome assembly. Transcript quantification was performed and the
+transcriptome was functionally annotated. Differential expression gene analysis
+was carried out. The role of the identified mechanisms was further explored using
+functional approaches.
+RESULTS: Forty-nine genes were identified as being differentially expressed with 
+P. vivax infection: 34 were upregulated and 15 were downregulated. Half of the P.
+vivax-related differentially expressed genes could be related to autophagy;
+therefore, the effect of the known inhibitor (wortmannin) and activator
+(spermidine) was tested on the infection outcome. Autophagic activation
+significantly reduced the intensity and prevalence of infection. This was
+associated with transcription alterations of the autophagy regulating genes
+Beclin, DRAM and Apg8.
+CONCLUSIONS: Our data indicate that P. vivax invasion of An. aquasalis midgut
+epithelium triggers an autophagic response and its activation reduces infection. 
+This suggests a novel mechanism that mosquitoes can use to fight Plasmodium
+infection.
+
+DOI: 10.1186/s13071-019-3506-8 
+PMCID: PMC6534896
+PMID: 31126324  [Indexed for MEDLINE]
+

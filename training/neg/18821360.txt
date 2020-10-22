@@ -1,0 +1,38 @@
+
+1. Cytotherapy. 2008;10(5):526-39. doi: 10.1080/14653240802192636.
+
+Flanking-sequence exponential anchored-polymerase chain reaction amplification: a
+sensitive and highly specific method for detecting retroviral
+integrant-host-junction sequences.
+
+Pule MA(1), Rousseau A, Vera J, Heslop HE, Brenner MK, Vanin EF.
+
+Author information: 
+(1)Center for Cell and Gene Therapy, Baylor College of Medicine, Houston, TX,
+USA. mpule@ucl.ac.uk
+
+BACKGROUND: Retroviral vectors are regularly used to transduce stem cells and
+their derivatives for experimental and therapeutic purposes. Because these
+vectors integrate semi-randomly into the cellular genome, analysis of
+integranated retroviral DNA/host cell DNA junctions (IHJ) facilitates clonality
+studies of engrafted cells, allowing their differentiation, survival and fate to 
+be tracked. In the case of any adverse events, IHJ analysis can allow the
+identification of potentially oncogenic integration sites. At present, most
+measures to assess IHJ are complex, insensitive and may be subject to IHJ
+selection bias inherent to the technology used.
+METHODS: We have developed and validated a simple but effective technique for
+generating libraries of IHJ, which we term flanking-sequence exponential
+anchored-polymerase chain reaction (FLEA-PCR). Flanking-sequence random anchoring
+is used as an alternative to restriction enzyme digestion and cassette ligation
+to allow consistent detection of IHJ and decrease bias.
+RESULTS: Individual clones from plasmid libraries can be sequenced and assembled 
+using custom-written software, and FLEA-PCR smears can be analyzed by capillary
+electrophoresis after digestion with restriction enzymes.
+DISCUSSION: This approach can readily analyze complex mixtures of IHJ, allowing
+localization of these sequences to their genomic sites. This approach should
+simplify analysis of retroviral integration.
+
+DOI: 10.1080/14653240802192636 
+PMCID: PMC2749733
+PMID: 18821360  [Indexed for MEDLINE]
+

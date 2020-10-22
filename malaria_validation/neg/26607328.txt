@@ -1,0 +1,66 @@
+
+1. BMC Genomics. 2015 Nov 25;16:1005. doi: 10.1186/s12864-015-2214-9.
+
+Analysis of nucleosome positioning landscapes enables gene discovery in the human
+malaria parasite Plasmodium falciparum.
+
+Lu XM(1), Bunnik EM(2), Pokhriyal N(3), Nasseri S(4), Lonardi S(5), Le Roch
+KG(6).
+
+Author information: 
+(1)Department of Cell Biology and Neuroscience, Institute for Integrative Genome 
+Biology, Center for Disease Vector Research, University of California, Riverside,
+900 University Avenue, Riverside, CA, 92521, USA. xlu006@ucr.edu.
+(2)Department of Cell Biology and Neuroscience, Institute for Integrative Genome 
+Biology, Center for Disease Vector Research, University of California, Riverside,
+900 University Avenue, Riverside, CA, 92521, USA. evelien.bunnik@ucr.edu.
+(3)Department of Computer Science and Engineering, University of California,
+Riverside, 900 University Avenue, Riverside, CA, 92521, USA.
+neetipok@buffalo.edu.
+(4)Department of Computer Science and Engineering, University of California,
+Riverside, 900 University Avenue, Riverside, CA, 92521, USA.
+sara.nasseri@email.ucr.edu.
+(5)Department of Computer Science and Engineering, University of California,
+Riverside, 900 University Avenue, Riverside, CA, 92521, USA. stelo@cs.ucr.edu.
+(6)Department of Cell Biology and Neuroscience, Institute for Integrative Genome 
+Biology, Center for Disease Vector Research, University of California, Riverside,
+900 University Avenue, Riverside, CA, 92521, USA. karine.leroch@ucr.edu.
+
+BACKGROUND: Plasmodium falciparum, the deadliest malaria-causing parasite, has an
+extremely AT-rich (80.7 %) genome. Because of high AT-content, sequence-based
+annotation of genes and functional elements remains challenging. In order to
+better understand the regulatory network controlling gene expression in the
+parasite, a more complete genome annotation as well as analysis tools adapted for
+AT-rich genomes are needed. Recent studies on genome-wide nucleosome positioning 
+in eukaryotes have shown that nucleosome landscapes exhibit regular
+characteristic patterns at the 5'- and 3'-end of protein and non-protein coding
+genes. In addition, nucleosome depleted regions can be found near transcription
+start sites. These unique nucleosome landscape patterns may be exploited for the 
+identification of novel genes. In this paper, we propose a computational approach
+to discover novel putative genes based exclusively on nucleosome positioning data
+in the AT-rich genome of P. falciparum.
+RESULTS: Using binary classifiers trained on nucleosome landscapes at the gene
+boundaries from two independent nucleosome positioning data sets, we were able to
+detect a total of 231 regions containing putative genes in the genome of
+Plasmodium falciparum, of which 67 highly confident genes were found in both data
+sets. Eighty-eight of these 231 newly predicted genes exhibited transcription
+signal in RNA-Seq data, indicative of active transcription. In addition, 20 out
+of 21 selected gene candidates were further validated by RT-PCR, and 28 out of
+the 231 genes showed significant matches using BLASTN against an expressed
+sequence tag (EST) database. Furthermore, 108 (47%) out of the 231 putative novel
+genes overlapped with previously identified but unannotated long non-coding RNAs.
+Collectively, these results provide experimental validation for 163 predicted
+genes (70.6%). Finally, 73 out of 231 genes were found to be potentially
+translated based on their signal in polysome-associated RNA-Seq representing
+transcripts that are actively being translated.
+CONCLUSION: Our results clearly indicate that nucleosome positioning data
+contains sufficient information for novel gene discovery. As distinct nucleosome 
+landscapes around genes are found in many other eukaryotic organisms, this
+methodology could be used to characterize the transcriptome of any organism,
+especially when coupled with other DNA-based gene finding and experimental
+methods (e.g., RNA-Seq).
+
+DOI: 10.1186/s12864-015-2214-9 
+PMCID: PMC4658763
+PMID: 26607328  [Indexed for MEDLINE]
+

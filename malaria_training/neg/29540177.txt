@@ -1,0 +1,53 @@
+
+1. Malar J. 2018 Mar 14;17(1):115. doi: 10.1186/s12936-018-2256-y.
+
+Genetic diversity and natural selection of Plasmodium knowlesi merozoite surface 
+protein 1 paralog gene in Malaysia.
+
+Ahmed MA(1), Fauzi M(1), Han ET(2).
+
+Author information: 
+(1)Department of Medical Environmental Biology and Tropical Medicine, School of
+Medicine, Kangwon National University, Chuncheon, Gangwon-do, 24341, Republic of 
+Korea.
+(2)Department of Medical Environmental Biology and Tropical Medicine, School of
+Medicine, Kangwon National University, Chuncheon, Gangwon-do, 24341, Republic of 
+Korea. ethan@kangwon.ac.kr.
+
+BACKGROUND: Human infections due to the monkey malaria parasite Plasmodium
+knowlesi is on the rise in most Southeast Asian countries specifically Malaysia. 
+The C-terminal 19 kDa domain of PvMSP1P is a potential vaccine candidate,
+however, no study has been conducted in the orthologous gene of P. knowlesi. This
+study investigates level of polymorphisms, haplotypes and natural selection of
+full-length pkmsp1p in clinical samples from Malaysia.
+METHODS: A total of 36 full-length pkmsp1p sequences along with the reference
+H-strain and 40 C-terminal pkmsp1p sequences from clinical isolates of Malaysia
+were downloaded from published genomes. Genetic diversity, polymorphism,
+haplotype and natural selection were determined using DnaSP 5.10 and MEGA 5.0
+software. Genealogical relationships were determined using haplotype network tree
+in NETWORK software v5.0. Population genetic differentiation index (F ST ) and
+population structure of parasite was determined using Arlequin v3.5 and STRUCTURE
+v2.3.4 software.
+RESULTS: Comparison of 36 full-length pkmsp1p sequences along with the H-strain
+identified 339 SNPs (175 non-synonymous and 164 synonymous substitutions). The
+nucleotide diversity across the full-length gene was low compared to its ortholog
+pvmsp1p. The nucleotide diversity was higher toward the N-terminal domains
+(pkmsp1p-83 and 30) compared to the C-terminal domains (pkmsp1p-38, 33 and 19).
+Phylogenetic analysis of full-length genes identified 2 distinct clusters of P.
+knowlesi from Malaysian Borneo. The 40 pkmsp1p-19 sequences showed low
+polymorphisms with 16 polymorphisms leading to 18 haplotypes. In total there were
+10 synonymous and 6 non-synonymous substitutions and 12 cysteine residues were
+intact within the two EGF domains. Evidence of strong purifying selection was
+observed within the full-length sequences as well in all the domains. Shared
+haplotypes of 40 pkmsp1p-19 were identified within Malaysian Borneo haplotypes.
+CONCLUSIONS: This study is the first to report on the genetic diversity and
+natural selection of pkmsp1p. A low level of genetic diversity and strong
+evidence of negative selection was detected and observed in all the domains of
+pkmsp1p of P. knowlesi indicating functional constrains. Shared haplotypes were
+identified within pkmsp1p-19 highlighting further evaluation using larger number 
+of clinical samples from Malaysia.
+
+DOI: 10.1186/s12936-018-2256-y 
+PMCID: PMC5853062
+PMID: 29540177  [Indexed for MEDLINE]
+

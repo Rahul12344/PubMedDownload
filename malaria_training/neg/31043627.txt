@@ -1,0 +1,48 @@
+
+1. Sci Rep. 2019 May 1;9(1):6764. doi: 10.1038/s41598-019-42899-z.
+
+RNA-seq analysis of the salivary glands and midgut of the Argasid tick
+Ornithodoros rostratus.
+
+Araujo RN(1), Silva NCS(1), Mendes-Sousa A(1)(2), Paim R(1), Costa GCA(1), Dias
+LR(1), Oliveira K(3), Sant'Anna MRV(1), Gontijo NF(1), Pereira MH(1), Pessoa
+GD(1), Valenzuela JG(4), Koerich LB(5), Oliveira F(6).
+
+Author information: 
+(1)Laboratório de Fisiologia de Insetos Hematófagos, Departamento de
+Parasitologia, Instituto de Biologia, Universidade Federal de Minas Gerais, Belo 
+Horizonte, Minas Gerais, Brazil.
+(2)Departamento de Medicina, Universidade Federal do Piauí, Picos, Piaui, Brazil.
+(3)Departamento de Bioquímica e Farmacologia, Centro de Ciências da Saúde,
+Universidade Federal do Piaui, Teresina, Piauí, Brazil.
+(4)Section of Vector Biology, Laboratory of Malaria and Vector Research, National
+Institute of Allergy and Infectious Diseases, National Institutes of Health,
+Bethesda, Maryland, United States of America.
+(5)Laboratório de Fisiologia de Insetos Hematófagos, Departamento de
+Parasitologia, Instituto de Biologia, Universidade Federal de Minas Gerais, Belo 
+Horizonte, Minas Gerais, Brazil. lbkoerich@ufmg.br.
+(6)Section of Vector Biology, Laboratory of Malaria and Vector Research, National
+Institute of Allergy and Infectious Diseases, National Institutes of Health,
+Bethesda, Maryland, United States of America. loliveira@niaid.nih.gov.
+
+Ornithodoros rostratus is a South American argasid tick which importance relies
+on its itchy bite and potential as disease vector. They feed on a wide variety of
+hosts and secrete different molecules in their saliva and intestinal content that
+counteract host defences and help to accommodate and metabolize the relatively
+large quantity of blood upon feeding. The present work describes the
+transcriptome profile of salivary gland (SG) and midgut (MG) of O. rostratus
+using Illumina sequencing. A total of 8,031 contigs were assembled and assigned
+to different functional classes. Secreted proteins were the most abundant in the 
+SG and accounted for ~67% of all expressed transcripts with contigs with identity
+to lipocalins and acid tail proteins being the most representative. On the other 
+hand, immunity genes were upregulated in MG with a predominance of defensins and 
+lysozymes. Only 10 transcripts in SG and 8 in MG represented ~30% of all RNA
+expressed in each tissue and one single contig (the acid tail protein ORN-9707)
+represented ~7% of all expressed contigs in SG. Results highlight the functional 
+difference of each organ and identified the most expressed classes and contigs of
+O. rostratus SG and MG.
+
+DOI: 10.1038/s41598-019-42899-z 
+PMCID: PMC6494864
+PMID: 31043627 
+

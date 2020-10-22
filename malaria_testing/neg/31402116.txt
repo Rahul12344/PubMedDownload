@@ -1,0 +1,42 @@
+
+1. Biochem Biophys Res Commun. 2019 Oct 8;518(1):38-43. doi:
+10.1016/j.bbrc.2019.08.005. Epub 2019 Aug 9.
+
+Development of mCherry tagged UdgX as a highly sensitive molecular probe for
+specific detection of uracils in DNA.
+
+Datta M(1), Aroli S(1), Karmakar K(1), Dutta S(2), Chakravortty D(1), Varshney
+U(3).
+
+Author information: 
+(1)Department of Microbiology and Cell Biology, Indian Institute of Science,
+Bangalore, 560012, India.
+(2)Molecular Biophysics Unit, Indian Institute of Science, Bangalore, 560012,
+India.
+(3)Department of Microbiology and Cell Biology, Indian Institute of Science,
+Bangalore, 560012, India; Jawaharlal Nehru Centre for Advanced Scientific
+Research, Bangalore, 560064, India. Electronic address: varshney@iisc.ac.in.
+
+Uracil is not always a mistakenly occurring base in DNA. Uracils in DNA genomes
+are known to be important in the life cycles of Bacillus subtilis phages (PBS1/2)
+and the malarial parasite, Plasmodium falciparum; and have been implicated in the
+development of fruit fly and antibody maturation in B-lymphocytes. Availability
+of a sensitive, specific and robust technique for the detection uracils in
+genes/genomes is essential to understand its varied biological roles.
+Mycobacterium smegmatis UdgX (MsmUdgX), identified and characterised in our
+laboratory, forms covalent complexes with the uracil sites in DNA in a specific
+manner. MsmUdgX cleaves the glycosidic bond between uracil and the deoxyribose
+sugar in DNA to produce uracilate and oxocarbenium ions. The oxocarbenium ion is 
+then captured into a covalent complex by the nucleophilic attack of a histidine
+side chain of MsmUdgX. Here, we describe the use of a fusion protein, mCherry
+tagged MsmUdgX (mChUdgX), which combines the property of MsmUdgX to covalently
+and specifically bind the uracil sites in the genome, with the sensitivity of
+fluorescent detection of mCherry as a reporter. We show that both the purified
+mChUdgX and the Escherichia coli cell-extracts overexpressing mChUdgX provide
+high sensitivity and specificity of detecting uracils in DNA.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2019.08.005 
+PMID: 31402116  [Indexed for MEDLINE]
+

@@ -1,0 +1,64 @@
+
+1. PLoS Genet. 2016 Sep 15;12(9):e1006303. doi: 10.1371/journal.pgen.1006303.
+eCollection 2016 Sep.
+
+The Genetic Basis of Host Preference and Resting Behavior in the Major African
+Malaria Vector, Anopheles arabiensis.
+
+Main BJ(1), Lee Y(1), Ferguson HM(2), Kreppel KS(2)(3), Kihonda A(3), Govella
+NJ(3), Collier TC(1), Cornel AJ(4), Eskin E(5), Kang EY(5), Nieman CC(1), Weakley
+AM(1), Lanzaro GC(1).
+
+Author information: 
+(1)Vector Genetics Laboratory, Department of Pathology, Microbiology and
+Immunology/University of California, Davis, Davis, California, United States of
+America.
+(2)Institute of Biodiversity, Animal Health and Comparative Medicine, University 
+of Glasgow, Glasgow, United Kingdom.
+(3)Environmental Health and Ecological Sciences Group, Ifakara Health Institute, 
+Ifakara, United Republic of Tanzania.
+(4)Department of Entomology and Nematology, University of California, Davis,
+Davis, California, United States of America.
+(5)Department of Computer Science, University of California, Los Angeles, Los
+Angeles, California, United States of America.
+
+Malaria transmission is dependent on the propensity of Anopheles mosquitoes to
+bite humans (anthropophily) instead of other dead end hosts. Recent increases in 
+the usage of Long Lasting Insecticide Treated Nets (LLINs) in Africa have been
+associated with reductions in highly anthropophilic and endophilic vectors such
+as Anopheles gambiae s.s., leaving species with a broader host range, such as
+Anopheles arabiensis, as the most prominent remaining source of transmission in
+many settings. An. arabiensis appears to be more of a generalist in terms of its 
+host choice and resting behavior, which may be due to phenotypic plasticity
+and/or segregating allelic variation. To investigate the genetic basis of host
+choice and resting behavior in An. arabiensis we sequenced the genomes of 23
+human-fed and 25 cattle-fed mosquitoes collected both in-doors and out-doors in
+the Kilombero Valley, Tanzania. We identified a total of 4,820,851 SNPs, which
+were used to conduct the first genome-wide estimates of "SNP heritability" for
+host choice and resting behavior in this species. A genetic component was
+detected for host choice (human vs cow fed; permuted P = 0.002), but there was no
+evidence of a genetic component for resting behavior (indoors versus outside;
+permuted P = 0.465). A principal component analysis (PCA) segregated individuals 
+based on genomic variation into three groups which were characterized by
+differences at the 2Rb and/or 3Ra paracentromeric chromosome inversions. There
+was a non-random distribution of cattle-fed mosquitoes between the PCA clusters, 
+suggesting that alleles linked to the 2Rb and/or 3Ra inversions may influence
+host choice. Using a novel inversion genotyping assay, we detected a significant 
+enrichment of the standard arrangement (non-inverted) of 3Ra among cattle-fed
+mosquitoes (N = 129) versus all non-cattle-fed individuals (N = 234; χ2, p =
+0.007). Thus, tracking the frequency of the 3Ra in An. arabiensis populations may
+be of use to infer selection on host choice behavior within these vector
+populations; possibly in response to vector control. Controlled host-choice
+assays are needed to discern whether the observed genetic component has a direct 
+relationship with innate host preference. A better understanding of the genetic
+basis for host feeding behavior in An. arabiensis may also open avenues for novel
+vector control strategies based on driving genes for zoophily into wild mosquito 
+populations.
+
+DOI: 10.1371/journal.pgen.1006303 
+PMCID: PMC5025075
+PMID: 27631375  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

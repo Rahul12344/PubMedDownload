@@ -1,0 +1,58 @@
+
+1. Malar J. 2019 Apr 29;18(1):150. doi: 10.1186/s12936-019-2782-2.
+
+Plasmodium knowlesi clinical isolates from Malaysia show extensive diversity and 
+strong differential selection pressure at the merozoite surface protein 7D
+(MSP7D).
+
+Ahmed MA(1), Quan FS(2)(3).
+
+Author information: 
+(1)Department of Medical Zoology, School of Medicine, Kyung Hee University,
+Seoul, 02447, Republic of Korea.
+(2)Department of Medical Zoology, School of Medicine, Kyung Hee University,
+Seoul, 02447, Republic of Korea. fquan01@gmail.com.
+(3)Medical Research Center for Bioreaction to Reactive Oxygen Species and
+Biomedical Science Institute, School of Medicine, Graduate School, Kyung Hee
+University, Seoul, Republic of Korea. fquan01@gmail.com.
+
+BACKGROUND: The high proportion of human cases due to the simian malaria parasite
+Plasmodium knowlesi in Malaysia is a cause of concern, as they can be severe and 
+even fatal. Merozoite surface protein 7 (MSP7) is a multigene family which forms 
+a non-covalent complex with MSP-1 prior to receptor-ligand recognition in
+Plasmodium falciparum and thus an important antigen for vaccine development.
+However, no study has been done in any of the ortholog family members in P.
+knowlesi from clinical samples. This study investigates the level of
+polymorphism, haplotypes, and natural selection acting at the pkmsp-7D gene in
+clinical samples from Malaysia.
+METHODS: Thirty-six full-length pkmsp7D gene sequences (along with the reference 
+H-strain: PKNH_1266000) obtained from clinical isolates of Malaysia, which were
+orthologous to pvmsp7H (PVX_082680) were downloaded from public databases.
+Population genetic, evolutionary and phylogenetic analyses were performed to
+determine the level of genetic diversity, polymorphism, recombination and natural
+selection.
+RESULTS: Analysis of 36 full-length pkmsp7D sequences identified 147 SNPs (91
+non-synonymous and 56 synonymous substitutions). Nucleotide diversity across the 
+full-length gene was higher than its ortholog in Plasmodium vivax (msp7H).
+Region-wise analysis of the gene indicated that the nucleotide diversity at the
+central region was very high (π = 0.14) compared to the 5' and 3' regions. Most
+hyper-variable SNPs were detected at the central domain. Multiple test for
+natural selection indicated the central region was under strong positive natural 
+selection however, the 5' and 3' regions were under negative/purifying selection.
+Evidence of intragenic recombination were detected at the central region of the
+gene. Phylogenetic analysis using full-length msp7D genes indicated there was no 
+geographical clustering of parasite population.
+CONCLUSIONS: High genetic diversity with hyper-variable SNPs and strong evidence 
+of positive natural selection at the central region of MSP7D indicated exposure
+of the region to host immune pressure. Negative selection at the 5' and the 3'
+regions of MSP7D might be because of functional constraints at the unexposed
+regions during the merozoite invasion process of P. knowlesi. No evidence of
+geographical clustering among the clinical isolates from Malaysia indicated
+uniform selection pressure in all populations. These findings highlight the
+further evaluation of the regions and functional characterization of the protein 
+as a potential blood stage vaccine candidate for P. knowlesi.
+
+DOI: 10.1186/s12936-019-2782-2 
+PMCID: PMC6489361
+PMID: 31035999  [Indexed for MEDLINE]
+

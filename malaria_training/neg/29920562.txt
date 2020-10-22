@@ -1,0 +1,51 @@
+
+1. PLoS One. 2018 Jun 19;13(6):e0199392. doi: 10.1371/journal.pone.0199392.
+eCollection 2018.
+
+Whole blood transcriptome changes following controlled human malaria infection in
+malaria pre-exposed volunteers correlate with parasite prepatent period.
+
+Rothen J(1)(2), Murie C(3), Carnes J(4), Anupama A(4), Abdulla S(5), Chemba M(5),
+Mpina M(1)(2)(5), Tanner M(1)(2), Lee Sim BK(6), Hoffman SL(6), Gottardo R(3),
+Daubenberger C(1)(2), Stuart K(4).
+
+Author information: 
+(1)Department of Medical Parasitology and Infection Biology, Swiss Tropical and
+Public Health Institute, Basel, Switzerland.
+(2)University of Basel, Basel, Switzerland.
+(3)Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research
+Center, Seattle, Washington, United States of America.
+(4)Center for Infectious Disease Research, Seattle, Washington, United States of 
+America.
+(5)Bagamoyo Research and Training Centre, Ifakara Health Institute, Bagamoyo,
+Tanzania.
+(6)Sanaria Inc., Rockville, Maryland, United States of America.
+
+Malaria continues to be one of mankind's most devastating diseases despite the
+many and varied efforts to combat it. Indispensable for malaria elimination and
+eventual eradication is the development of effective vaccines. Controlled human
+malaria infection (CHMI) is an invaluable tool for vaccine efficacy assessment
+and investigation of early immunological and molecular responses against
+Plasmodium falciparum infection. Here, we investigated gene expression changes
+following CHMI using RNA-Seq. Peripheral blood samples were collected in
+Bagamoyo, Tanzania, from ten adults who were injected intradermally (ID) with
+2.5x104 aseptic, purified, cryopreserved P. falciparum sporozoites (Sanaria®
+PfSPZ Challenge). A total of 2,758 genes were identified as differentially
+expressed following CHMI. Transcriptional changes were most pronounced on day 5
+after inoculation, during the clinically silent liver phase. A secondary
+analysis, grouping the volunteers according to their prepatent period duration,
+identified 265 genes whose expression levels were linked to time of blood stage
+parasitemia detection. Gene modules associated with these 265 genes were linked
+to regulation of transcription, cell cycle, phosphatidylinositol signaling and
+erythrocyte development. Our study showed that in malaria pre-exposed volunteers,
+parasite prepatent period in each individual is linked to magnitude and timing of
+early gene expression changes after ID CHMI.
+
+DOI: 10.1371/journal.pone.0199392 
+PMCID: PMC6007927
+PMID: 29920562  [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors KLS and SH are affiliated with the
+commercial company Sanaria Inc., the manufacturer of PfSPZ Challenge. This does
+not alter our adherence to PLOS ONE policies on sharing data and materials.
+

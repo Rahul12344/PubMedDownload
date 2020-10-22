@@ -1,0 +1,69 @@
+
+1. Chin Med. 2020 Jul 1;15:67. doi: 10.1186/s13020-020-00344-8. eCollection 2020.
+
+Transcriptome analyses revealed the ultraviolet B irradiation and phytohormone
+gibberellins coordinately promoted the accumulation of artemisinin in Artemisia
+annua L.
+
+Ma T(#)(1), Gao H(#)(2), Zhang D(1), Shi Y(1), Zhang T(3), Shen X(1), Wu L(1),
+Xiang L(1), Chen S(1).
+
+Author information: 
+(1)Key Laboratory of Beijing for Identification and Safety Evaluation of Chinese 
+Medicine, Institute of Chinese Materia Medica, China Academy of Chinese Medical
+Sciences, Beijing, 100700 China.
+(2)School of Chemistry, Chemical Engineering and Life Science, Wuhan University
+of Technology, Wuhan, 430070 China.
+(3)State Key Laboratory of Agricultural Microbiology, Huazhong Agricultural
+University, Wuhan, 430070 China.
+(#)Contributed equally
+
+Background: Artemisinin-based combination therapy has become the preferred
+approach for treating malaria and has successfully reduced malaria-related
+mortality. Currently, the main source of artemisinin is Artemisia annua L., and
+thus, it is of strategic importance to enhance artemisinin contents in A. annua
+plants. Phytohormones and illumination are known to be important external
+environmental factor that can have notable effects on the production of secondary
+metabolite. The activities of different hormones can be influenced to varying
+degrees by light, and thus light and hormones may jointly regulate various
+processes in plants. Here, we performed transcriptome and metabolome analyses
+revealed that ultraviolet B irradiation and phytohormone gibberellins
+coordinately promoted the accumulation of artemisinin in Artemisia annua.
+Methods: Artemisinin analysis was performed by ultra-high performance liquid
+chromatography-tandem quadrupole mass spectrometry (UPLC-ESI-QqQ-MS/MS). RNA
+sequencing, GO and KEGG enrichment analysis were applied to analyzing the
+differentially expressed genes (DEGs) under ultraviolet B irradiation and
+gibberellins treatments. Weighted gene co-expression network (WGCNA) analyzed the
+genes in artemisinin‑related modules and identified candidate hub genes in these 
+modules.
+Results: In this study, we found that cross-talk between UV-B and GA induced
+processes leading to modifications in artemisinin accumulation. A total of 14,762
+genes differentially expressed (DEGs) among different treatments were identified 
+by transcriptome analysis. UV-B and GA treatments enhanced the accumulation of
+artemisinin by up-regulating the expression of the key artemisinin biosynthesis
+genes ADS and CYP71AV1. According to the high degree value and high expression
+level, a total of 84 co-expressed transcription factors were identified. Among
+them, MYB and NAC TFs mainly involved in regulating the biosynthesis of
+artemisinin. Weighted gene co-expression network analysis revealed that GA + UV
+in blue modules was positively correlated with artemisinin synthesis, suggesting 
+that the candidate hub genes in these modules should be up-regulated to enhance
+artemisinin synthesis in response to GA + UV treatment.
+Conclusion: Our study demonstrated the co-regulation of artemisinin biosynthetic 
+pathway genes under ultraviolet B irradiation and phytohormone gibberellins
+treatment. The co-expression was analysis revealed that the selected MYB and NAC 
+TFs might have regulated the artemisinin biosynthesis gene expression with ADS
+and CYP71AV1 genes. Weighted gene co-expression network analysis revealed that
+GA + UV treatment in blue modules was positively correlated with artemisinin
+synthesis. We established the network to distinguish candidate hub genes in blue 
+modules might be up-regulated to enhance artemisinin synthesis in response to
+GA + UV treatment.
+
+© The Author(s) 2020.
+
+DOI: 10.1186/s13020-020-00344-8 
+PMCID: PMC7329506
+PMID: 32625243 
+
+Conflict of interest statement: Competing interestsThe authors declare that they 
+have no competing interests.
+

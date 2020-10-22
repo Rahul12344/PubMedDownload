@@ -1,0 +1,37 @@
+
+1. PLoS One. 2013 Jun 25;8(6):e67047. doi: 10.1371/journal.pone.0067047. Print 2013.
+
+Plasmodium falciparum erythrocytic stage parasites require the putative autophagy
+protein PfAtg7 for normal growth.
+
+Walker DM(1), Mahfooz N, Kemme KA, Patel VC, Spangler M, Drew ME.
+
+Author information: 
+(1)Department of Microbial Infection and Immunity, The Ohio State University
+Wexner Medical Center, Columbus, Ohio, United States of America.
+
+Analysis of the Plasmodium falciparum genome reveals a limited number of putative
+autophagy genes, specifically the four genes involved in ATG8 lipidation, an
+essential step in formation of autophagosomes. In yeast, Atg8 lipidation requires
+the E1-type ligase Atg7, an E2-type ligase Atg3, and a cysteine protease Atg4.
+These four putative P. falciparum ATG (PfATG) genes are transcribed during the
+parasite's erythrocytic stages. PfAtg7 has relatively low identity and similarity
+to yeast Atg7 (14.7% and 32.2%, respectively), due primarily to long insertions
+typical of P. falciparum. Excluding the insertions the identity and similarity
+are higher (38.0% and 70.8%, respectively). This and the fact that key residues
+are conserved, including the catalytic cysteine and ATP binding domain, we
+hypothesize that PfAtg7 is the activating enzyme of PfAtg8. To assess the role of
+PfAtg7 we have generated two transgenic parasite lines. In one, the PfATG7 locus 
+was modified to introduce a C-terminal hemagglutinin tag. Western blotting
+reveals two distinct protein species, one migrating near the predicted 150 kDa
+and one at approximately 65 kDa. The second transgenic line introduces an
+inducible degradation domain into the PfATG7 locus, allowing us to rapidly
+attenuate PfAtg7 protein levels. Corresponding species are also observed in this 
+parasite line at approximately 200 kDa and 100 kDa. Upon PfATG7 attenuation
+parasites exhibit a slow growth phenotype indicating the essentiality of this
+putative enzyme for normal growth.
+
+DOI: 10.1371/journal.pone.0067047 
+PMCID: PMC3692556
+PMID: 23825614  [Indexed for MEDLINE]
+

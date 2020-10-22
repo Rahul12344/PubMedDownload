@@ -1,0 +1,41 @@
+
+1. Elife. 2019 Jun 17;8. pii: e45829. doi: 10.7554/eLife.45829.
+
+Rapid and iterative genome editing in the malaria parasite Plasmodium knowlesi
+provides new tools for P. vivax research.
+
+Mohring F(1), Hart MN(1), Rawlinson TA(2), Henrici R(1), Charleston JA(1), Diez
+Benavente E(1), Patel A(1), Hall J(3), Almond N(3), Campino S(1), Clark TG(1),
+Sutherland CJ(1), Baker DA(1), Draper SJ(2), Moon RW(1).
+
+Author information: 
+(1)Faculty of Infectious and Tropical Diseases, London School of Hygiene &
+Tropical Medicine, London, United Kingdom.
+(2)The Jenner Institute, University of Oxford, Oxford, United Kingdom.
+(3)Division of Infectious Disease Diagnostics, National Institute for Biological 
+Standards and Control, Health Protection Agency, Hertfordshire, United Kingdom.
+
+Tackling relapsing Plasmodium vivax and zoonotic Plasmodium knowlesi infections
+is critical to reducing malaria incidence and mortality worldwide. Understanding 
+the biology of these important and related parasites was previously constrained
+by the lack of robust molecular and genetic approaches. Here, we establish
+CRISPR-Cas9 genome editing in a culture-adapted P. knowlesi strain and define
+parameters for optimal homology-driven repair. We establish a scalable protocol
+for the production of repair templates by PCR and demonstrate the flexibility of 
+the system by tagging proteins with distinct cellular localisations. Using
+iterative rounds of genome-editing we generate a transgenic line expressing P.
+vivax Duffy binding protein (PvDBP), a lead vaccine candidate. We demonstrate
+that PvDBP plays no role in reticulocyte restriction but can alter the
+macaque/human host cell tropism of P. knowlesi. Critically, antibodies raised
+against the P. vivax antigen potently inhibit proliferation of this strain,
+providing an invaluable tool to support vaccine development.
+
+© 2019, Mohring et al.
+
+DOI: 10.7554/eLife.45829 
+PMCID: PMC6579517
+PMID: 31205002  [Indexed for MEDLINE]
+
+Conflict of interest statement: FM, MH, TR, RH, JC, ED, AP, JH, NA, SC, TC, CS,
+DB, SD, RM No competing interests declared
+

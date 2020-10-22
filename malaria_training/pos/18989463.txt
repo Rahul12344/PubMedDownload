@@ -1,0 +1,40 @@
+
+1. PLoS Pathog. 2008 Nov;4(11):e1000201. doi: 10.1371/journal.ppat.1000201. Epub
+2008 Nov 7.
+
+Kinome-wide RNAi screen implicates at least 5 host hepatocyte kinases in
+Plasmodium sporozoite infection.
+
+Prudêncio M(1), Rodrigues CD, Hannus M, Martin C, Real E, Gonçalves LA, Carret C,
+Dorkin R, Röhl I, Jahn-Hoffmann K, Luty AJ, Sauerwein R, Echeverri CJ, Mota MM.
+
+Author information: 
+(1)Unidade de Malária, Instituto de Medicina Molecular, Universidade de Lisboa,
+Lisboa, Portugal.
+
+Plasmodium sporozoites, the causative agent of malaria, are injected into their
+vertebrate host through the bite of an infected Anopheles mosquito, homing to the
+liver where they invade hepatocytes to proliferate and develop into merozoites
+that, upon reaching the bloodstream, give rise to the clinical phase of
+infection. To investigate how host cell signal transduction pathways affect
+hepatocyte infection, we used RNAi to systematically test the entire kinome and
+associated genes in human Huh7 hepatoma cells for their potential roles during
+infection by P. berghei sporozoites. The three-phase screen covered 727 genes,
+which were tested with a total of 2,307 individual siRNAs using an automated
+microscopy assay to quantify infection rates and qRT-PCR to assess silencing
+levels. Five protein kinases thereby emerged as top hits, all of which caused
+significant reductions in infection when silenced by RNAi. Follow-up validation
+experiments on one of these hits, PKCsigma (PKCzeta), confirmed the physiological
+relevance of our findings by reproducing the inhibitory effect on P. berghei
+infection in adult mice treated systemically with liposome-formulated
+PKCsigma-targeting siRNAs. Additional cell-based analyses using a
+pseudo-substrate inhibitor of PKCsigma added further RNAi-independent support,
+indicating a role for host PKCsigma on the invasion of hepatocytes by
+sporozoites. This study represents the first comprehensive, functional
+genomics-driven identification of novel host factors involved in Plasmodium
+sporozoite infection.
+
+DOI: 10.1371/journal.ppat.1000201 
+PMCID: PMC2574010
+PMID: 18989463  [Indexed for MEDLINE]
+

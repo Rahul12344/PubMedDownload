@@ -1,0 +1,54 @@
+
+1. J Leukoc Biol. 2020 May 3. doi: 10.1002/JLB.1MA0320-731R. [Epub ahead of print]
+
+Integrative analysis of microRNA and mRNA expression profiles of monocyte-derived
+dendritic cells differentiation during experimental cerebral malaria.
+
+Assis PA(1), Fernandes Durso D(2), Chacon Cavalcante F(3), Zaniratto R(4),
+Carvalho-Silva AC(5), Cunha-Neto E(4)(6), Golenbock DT(2), Rodrigues Pinto
+Ferreira L(5), Tostes Gazzinelli R(2)(3)(7).
+
+Author information: 
+(1)Department of Pathology, University of Michigan Medical School, Ann Arbor,
+Michigan, USA.
+(2)Division of Infectious Diseases and Immunology, University of Massachusetts
+Medical School, Worcester, Massachusetts, USA.
+(3)Laboratory of Immunopathology, Fundação Oswaldo Cruz - Minas, Belo Horizonte, 
+Minas Gerais, Brazil.
+(4)Laboratory of Immunology, Heart Institute (InCor), University of São Paulo
+School of Medicine, São Paulo, Brazil.
+(5)RNA Systems Biology Laboratory (RSBL), Departamento de Morfologia, Instituto
+de Ciências Biológicas, Universidade Federal de Minas Gerais, Belo Horizonte,
+Minas Gerais, Brazil.
+(6)Division of Clinical Immunology and Allergy, University of São Paulo School of
+Medicine, São Paulo, Brazil.
+(7)Plataforma de Medicina Translacional, Fundação Oswaldo Cruz/Faculdade de
+Medicina de Ribeirão Preto, Ribeirão Preto, São Paulo, Brazil.
+
+Heterogeneity and high plasticity are common features of cells from the
+mononuclear phagocyte system: monocytes (MOs), macrophages, and dendritic cells
+(DCs). Upon activation by microbial agents, MO can differentiate into MO-derived 
+DCs (MODCs). In previous work, we have shown that during acute infection with
+Plasmodium berghei ANKA (PbA), MODCs become, transiently, the main CD11b+ myeloid
+population in the spleen (SP) and once recruited to the brain play an important
+role in the development of experimental cerebral malaria (ECM). Here, we isolated
+4 cell populations: bone marrow (BM) MOs (BM-MOs) and SP-MOs from uninfected
+mice; BM inflammatory MOs (BM-iMOs) and SP-MODCs from PbA-infected mice and used 
+a system biology approach to a holistic transcriptomic comparison and provide an 
+interactome analysis by integrating differentially expressed miRNAs (DEMs) and
+their differentially expressed gene targets (DEGs) data. The Jaccard index (JI)
+was used for gauging the similarity and diversity among these cell populations.
+Whereas BM-MOs, BM-iMOs, and SP-MOs presented high similarity of DEGs, SP-MODCs
+distinguished by showing a greater number of DEGs. Moreover, functional analysis 
+identified an enrichment in canonical pathways, such as DC maturation,
+neuroinflammation, and IFN signaling. Upstream regulator analysis identified IFNγ
+as the potential upstream molecule that can explain the observed DEMs-Target DEGs
+intersections in SP-MODCs. Finally, directed target analysis and in vivo/ex vivo 
+assays indicate that SP-MODCs differentiate in the SP and IFNγ is a main driver
+of this process.
+
+©2020 Society for Leukocyte Biology.
+
+DOI: 10.1002/JLB.1MA0320-731R 
+PMID: 32362022 
+

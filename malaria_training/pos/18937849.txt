@@ -1,0 +1,45 @@
+
+1. Malar J. 2008 Oct 20;7:211. doi: 10.1186/1475-2875-7-211.
+
+Interaction of an atypical Plasmodium falciparum ETRAMP with human
+apolipoproteins.
+
+Vignali M(1), McKinlay A, LaCount DJ, Chettier R, Bell R, Sahasrabudhe S, Hughes 
+RE, Fields S.
+
+Author information: 
+(1)Department of Genome Sciences, University of Washington, Box 355065, Seattle, 
+WA 98195, USA. marissa.vignali@sbri.org
+
+BACKGROUND: In order to establish a successful infection in the human host, the
+malaria parasite Plasmodium falciparum must establish interactions with a variety
+of human proteins on the surface of different cell types, as well as with
+proteins inside the host cells. To better understand this aspect of malaria
+pathogenesis, a study was conducted with the goal of identifying interactions
+between proteins of the parasite and those of its human host.
+METHODS: A modified yeast two-hybrid methodology that preferentially selects
+protein fragments that can be expressed in yeast was used to conduct
+high-throughput screens with P. falciparum protein fragments against human liver 
+and cerebellum libraries. The resulting dataset was analyzed to exclude
+interactions that are not likely to occur in the human host during infection.
+RESULTS: An initial set of 2,200 interactions was curated to remove proteins that
+are unlikely to play a role in pathogenesis based on their annotation or
+localization, and proteins that behave promiscuously in the two-hybrid assay,
+resulting in a final dataset of 456 interactions. A cluster that implicates
+binding between P. falciparum PFE1590w/ETRAMP5, a putative parasitophorous
+vacuole membrane protein, and human apolipoproteins ApoA, ApoB and ApoE was
+selected for further analysis. Different isoforms of ApoE, which are associated
+with different outcomes of malaria infection, were shown to display differential 
+interactions with PFE1590w.
+CONCLUSION: A dataset of interactions between proteins of P. falciparum and those
+of its human host was generated. The preferential interaction of the P.
+falciparum PFE1590w protein with the human ApoE epsilon3 and ApoE epsilon4
+isoforms, but not the ApoE epsilon2 isoform, supports the hypothesis that ApoE
+genotype affects risk of malaria infection. The dataset contains other
+interactions of potential relevance to disease that may identify possible vaccine
+candidates and drug targets.
+
+DOI: 10.1186/1475-2875-7-211 
+PMCID: PMC2577112
+PMID: 18937849  [Indexed for MEDLINE]
+

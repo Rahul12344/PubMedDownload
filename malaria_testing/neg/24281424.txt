@@ -1,0 +1,42 @@
+
+1. G3 (Bethesda). 2014 Jan 10;4(1):121-31. doi: 10.1534/g3.113.008326.
+
+Diversity, differentiation, and linkage disequilibrium: prospects for association
+mapping in the malaria vector Anopheles arabiensis.
+
+Marsden CD(1), Lee Y, Kreppel K, Weakley A, Cornel A, Ferguson HM, Eskin E,
+Lanzaro GC.
+
+Author information: 
+(1)Vector Genetics Laboratory, Department of Pathology, Microbiology, and
+Immunology, School of Veterinary Medicine, University of California-Davis,
+California 95616.
+
+Association mapping is a widely applied method for elucidating the genetic basis 
+of phenotypic traits. However, factors such as linkage disequilibrium and levels 
+of genetic diversity influence the power and resolution of this approach.
+Moreover, the presence of population subdivision among samples can result in
+spurious associations if not accounted for. As such, it is useful to have a
+detailed understanding of these factors before conducting association mapping
+experiments. Here we conducted whole-genome sequencing on 24 specimens of the
+malaria mosquito vector, Anopheles arabiensis, to further understanding of
+patterns of genetic diversity, population subdivision and linkage disequilibrium 
+in this species. We found high levels of genetic diversity within the An.
+arabiensis genome, with ~800,000 high-confidence, single- nucleotide
+polymorphisms detected. However, levels of nucleotide diversity varied
+significantly both within and between chromosomes. We observed lower diversity on
+the X chromosome, within some inversions, and near centromeres. Population
+structure was absent at the local scale (Kilombero Valley, Tanzania) but detected
+between distant populations (Cameroon vs. Tanzania) where differentiation was
+largely restricted to certain autosomal chromosomal inversions such as 2Rb.
+Overall, linkage disequilibrium within An. arabiensis decayed very rapidly
+(within 200 bp) across all chromosomes. However, elevated linkage disequilibrium 
+was observed within some inversions, suggesting that recombination is reduced in 
+those regions. The overall low levels of linkage disequilibrium suggests that
+association studies in this taxon will be very challenging for all but variants
+of large effect, and will require large sample sizes.
+
+DOI: 10.1534/g3.113.008326 
+PMCID: PMC3887528
+PMID: 24281424  [Indexed for MEDLINE]
+

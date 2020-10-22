@@ -1,0 +1,54 @@
+
+1. PLoS Comput Biol. 2018 Jun 13;14(6):e1006174. doi: 10.1371/journal.pcbi.1006174. 
+eCollection 2018 Jun.
+
+Identifying functional groups among the diverse, recombining antigenic var genes 
+of the malaria parasite Plasmodium falciparum from a local community in Ghana.
+
+Rorick MM(1)(2), Baskerville EB(1), Rask TS(3)(4), Day KP(3)(4), Pascual M(1)(5).
+
+Author information: 
+(1)Department of Ecology and Evolution, University of Chicago, Chicago, IL,
+United States of America.
+(2)Department of Biology, University of Utah, Salt Lake City, UT, United States
+of America.
+(3)School of Biosciences, Bio21 Institute, The University of Melbourne,
+Melbourne, AU.
+(4)Department of Microbiology, New York University, New York, NY, United States
+of America.
+(5)The Santa Fe Institute, Santa Fe, NM, United States of America.
+
+A challenge in studying diverse multi-copy gene families is deciphering distinct 
+functional types within immense sequence variation. Functional changes can in
+some cases be tracked through the evolutionary history of a gene family; however 
+phylogenetic approaches are not possible in cases where gene families diversify
+primarily by recombination. We take a network theoretical approach to
+functionally classify the highly recombining var antigenic gene family of the
+malaria parasite Plasmodium falciparum. We sample var DBLα sequence types from a 
+local population in Ghana, and classify 9,276 of these variants into just 48
+functional types. Our approach is to first decompose each sequence type into its 
+constituent, recombining parts; we then use a stochastic block model to identify 
+functional groups among the parts; finally, we classify the sequence types based 
+on which functional groups they contain. This method for functional
+classification does not rely on an inferred phylogenetic history, nor does it
+rely on inferring function based on conserved sequence features. Instead, it
+infers functional similarity among recombining parts based on the sharing of
+similar co-occurrence interactions with other parts. This method can therefore
+group sequences that have undetectable sequence homology or even distinct
+origination. Describing these 48 var functional types allows us to simplify the
+antigenic diversity within our dataset by over two orders of magnitude. We
+consider how the var functional types are distributed in isolates, and find a
+nonrandom pattern reflecting that common var functional types are non-randomly
+distinct from one another in terms of their functional composition. The
+coarse-graining of var gene diversity into biologically meaningful functional
+groups has important implications for understanding the disease ecology and
+evolution of this system, as well as for designing effective epidemiological
+monitoring and intervention.
+
+DOI: 10.1371/journal.pcbi.1006174 
+PMCID: PMC6016947
+PMID: 29897905  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

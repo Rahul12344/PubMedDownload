@@ -1,0 +1,61 @@
+
+1. Malar J. 2017 Sep 22;16(1):384. doi: 10.1186/s12936-017-2029-z.
+
+Integrative analysis associates monocytes with insufficient erythropoiesis during
+acute Plasmodium cynomolgi malaria in rhesus macaques.
+
+Tang Y(1)(2), Joyner CJ(2), Cabrera-Mora M(2), Saney CL(2), Lapp SA(2), Nural
+MV(2)(3)(4), Pakala SB(2)(3), DeBarry JD(2)(3), Soderberg S(2); MaHPIC
+Consortium, Kissinger JC(2)(3)(5)(6)(4), Lamb TJ(2)(7), Galinski MR(2)(8),
+Styczynski MP(9)(10).
+
+Author information: 
+(1)School of Chemical & Biomolecular Engineering, Georgia Institute of
+Technology, Atlanta, GA, USA.
+(2)Malaria Host-Pathogen Interaction Center, Emory Vaccine Center, Yerkes
+National Primate Research Center, Emory University, Atlanta, GA, USA.
+(3)Institute of Bioinformatics, University of Georgia, Athens, GA, USA.
+(4)Department of Computer Science, University of Georgia, Athens, GA, USA.
+(5)Department of Genetics, University of Georgia, Athens, GA, USA.
+(6)Center for Tropical and Emerging Global Diseases, University of Georgia,
+Athens, GA, USA.
+(7)Department of Pathology, University of Utah, Salt Lake City, UT, USA.
+(8)Division of Infectious Diseases, Department of Medicine, Emory University,
+Atlanta, GA, USA.
+(9)School of Chemical & Biomolecular Engineering, Georgia Institute of
+Technology, Atlanta, GA, USA. mark.styczynski@chbe.gatech.edu.
+(10)Malaria Host-Pathogen Interaction Center, Emory Vaccine Center, Yerkes
+National Primate Research Center, Emory University, Atlanta, GA, USA.
+mark.styczynski@chbe.gatech.edu.
+
+Erratum in
+    Malar J. 2017 Dec 4;16(1):486.
+
+BACKGROUND: Mild to severe anaemia is a common complication of malaria that is
+caused in part by insufficient erythropoiesis in the bone marrow. This study used
+systems biology to evaluate the transcriptional and alterations in cell
+populations in the bone marrow during Plasmodium cynomolgi infection of rhesus
+macaques (a model of Plasmodium vivax malaria) that may affect erythropoiesis.
+RESULTS: An appropriate erythropoietic response did not occur to compensate for
+anaemia during acute cynomolgi malaria despite an increase in erythropoietin
+levels. During this period, there were significant perturbations in the bone
+marrow transcriptome. In contrast, relapses did not induce anaemia and minimal
+changes in the bone marrow transcriptome were detected. The differentially
+expressed genes during acute infection were primarily related to ongoing
+inflammatory responses with significant contributions from Type I and Type II
+Interferon transcriptional signatures. These were associated with increased
+frequency of intermediate and non-classical monocytes. Recruitment and/or
+expansion of these populations was correlated with a decrease in the erythroid
+progenitor population during acute infection, suggesting that monocyte-associated
+inflammation may have contributed to anaemia. The decrease in erythroid
+progenitors was associated with downregulation of genes regulated by GATA1 and
+GATA2, two master regulators of erythropoiesis, providing a potential molecular
+basis for these findings.
+CONCLUSIONS: These data suggest the possibility that malarial anaemia may be
+driven by monocyte-associated disruption of GATA1/GATA2 function in erythroid
+progenitors resulting in insufficient erythropoiesis during acute infection.
+
+DOI: 10.1186/s12936-017-2029-z 
+PMCID: PMC5610412
+PMID: 28938907  [Indexed for MEDLINE]
+

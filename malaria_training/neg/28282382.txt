@@ -1,0 +1,48 @@
+
+1. PLoS Genet. 2017 Mar 10;13(3):e1006560. doi: 10.1371/journal.pgen.1006560.
+eCollection 2017 Mar.
+
+Population genetic analysis of the DARC locus (Duffy) reveals adaptation from
+standing variation associated with malaria resistance in humans.
+
+McManus KF(1), Taravella AM(2), Henn BM(2), Bustamante CD(1)(3), Sikora M(3)(4), 
+Cornejo OE(3)(5).
+
+Author information: 
+(1)Department of Biology, Stanford University, Stanford, California, United
+States of America.
+(2)Department of Ecology and Evolution, Stony Brook University, Stony Brook, New 
+York, United States of America.
+(3)Department of Genetics, Stanford University, Stanford, California, United
+States of America.
+(4)Centre for Geogenetics, Natural History Museum Denmark, Copenhagen, Denmark.
+(5)Department of Biological Sciences, Washington State University, Pullman,
+washington, United States of America.
+
+The human DARC (Duffy antigen receptor for chemokines) gene encodes a
+membrane-bound chemokine receptor crucial for the infection of red blood cells by
+Plasmodium vivax, a major causative agent of malaria. Of the three major allelic 
+classes segregating in human populations, the FY*O allele has been shown to
+protect against P. vivax infection and is at near fixation in sub-Saharan Africa,
+while FY*B and FY*A are common in Europe and Asia, respectively. Due to the
+combination of strong geographic differentiation and association with malaria
+resistance, DARC is considered a canonical example of positive selection in
+humans. Despite this, details of the timing and mode of selection at DARC remain 
+poorly understood. Here, we use sequencing data from over 1,000 individuals in
+twenty-one human populations, as well as ancient human genomes, to perform a
+fine-scale investigation of the evolutionary history of DARC. We estimate the
+time to most recent common ancestor (TMRCA) of the most common FY*O haplotype to 
+be 42 kya (95% CI: 34-49 kya). We infer the FY*O null mutation swept to fixation 
+in Africa from standing variation with very low initial frequency (0.1%) and a
+selection coefficient of 0.043 (95% CI:0.011-0.18), which is among the strongest 
+estimated in the human genome. We estimate the TMRCA of the FY*A mutation in
+non-Africans to be 57 kya (95% CI: 48-65 kya) and infer that, prior to the sweep 
+of FY*O, all three alleles were segregating in Africa, as highly diverged
+populations from Asia and ≠Khomani San hunter-gatherers share the same FY*A
+haplotypes. We test multiple models of admixture that may account for this
+observation and reject recent Asian or European admixture as the cause.
+
+DOI: 10.1371/journal.pgen.1006560 
+PMCID: PMC5365118
+PMID: 28282382  [Indexed for MEDLINE]
+

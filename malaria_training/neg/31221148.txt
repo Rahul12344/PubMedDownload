@@ -1,0 +1,63 @@
+
+1. Malar J. 2019 Jun 20;18(1):202. doi: 10.1186/s12936-019-2834-7.
+
+Development of molecular assays to detect target-site mechanisms associated with 
+insecticide resistance in malaria vectors from Latin America.
+
+Lol JC(1), Castañeda D(1), Mackenzie-Impoinvil L(2), Romero CG(3), Lenhart A(2), 
+Padilla NR(4).
+
+Author information: 
+(1)Grupo de Biología y Control de Vectores, Centro de Estudios en Salud,
+Universidad del Valle de Guatemala (CES-UVG), 18 Avenida 11-95, Zona 15, Vista
+Hermosa 3, Guatemala, Guatemala.
+(2)Division of Parasitic Disease and Malaria, Entomology Branch, Centers for
+Disease Control and Prevention (CDC), Center for Global Health, 1600 Clifton
+Road, Atlanta, GA, 30329, USA.
+(3)Programa Nacional de Dengue, Chikingunya, y Zika, Ministerio de Salud, Esquina
+Cañada Strongest, Plaza del Estudiante, Zona Central, La Paz, Bolivia.
+(4)Grupo de Biología y Control de Vectores, Centro de Estudios en Salud,
+Universidad del Valle de Guatemala (CES-UVG), 18 Avenida 11-95, Zona 15, Vista
+Hermosa 3, Guatemala, Guatemala. npadilla@ces.uvg.edu.gt.
+
+BACKGROUND: Malaria remains an important public health problem in Latin America, 
+and the development of insecticide resistance in malaria vectors poses a major
+threat to malaria elimination efforts. Monitoring of insecticide susceptibility
+and the determination of the mechanisms involved in insecticide resistance are
+needed to effectively guide the deployment of appropriate vector control
+measures. Here, molecular assays have been developed to screen for mutations
+associated with insecticide resistance on the voltage-gated sodium channel (VGSC)
+and acetylcholinesterase-1 (Ace-1) genes in four malaria vectors from Latin
+America.
+METHODS: Degenerate primers were designed to amplify a partial fragment on the
+VGSC and Ace-1 genes. Wild-caught individuals for Anopheles albimanus (also
+historical samples and individuals from a laboratory strain), Anopheles darlingi,
+Anopheles vestitipennis and Anopheles pseudopunctipennis were used to optimize
+the PCR assays. All samples were sequenced to validate the PCR results and DNA
+alignments were constructed for each gene using the unique haplotypes observed.
+RESULTS: Primers designed successfully amplified the VGSC gene in An. albimanus, 
+An. darlingi, An. vestitipennis and An. pseudopunctipennis, and the Ace-1 gene in
+both An. albimanus and An. darlingi. DNA sequencing revealed that compared with
+Anopheles gambiae, there were a total of 29, 28, 21 and 24 single nucleotide
+polymorphisms (SNPs) on the VGSC gene for An. albimanus (308 bp), An. darlingi
+(311 bp), An. pseudopunctipennis (263 bp) and An. vestitipennis (254 bp),
+respectively. On the 459 bp fragment of the Ace-1 gene, a total of 70 SNPs were
+detected in An. darlingi and 59 SNPs were detected in An. albimanus compared with
+An. gambiae. The SNPs detected on the VGSC gene were all synonymous. On the Ace-1
+gene, non-synonymous substitutions were identified on three different codons. All
+species showed the homozygous wild-type kdr allele (coding for leucine) at codon 
+995 (formerly reported as codon 1014) on the VGSC gene, but one sample was
+heterozygous at codon 280 (formerly reported as codon 119) on the Ace-1 gene,
+coding for both the resistant (serine) and susceptible (glycine) amino acids.
+CONCLUSIONS: New molecular assays to amplify and screen the regions of the VGSC
+and Ace-1 genes associated with insecticide resistance are reported for An.
+albimanus, An. darlingi, An. vestitipennis, and An. pseudopunctipennis. The
+development of these PCR assays presents an important advance in the analysis of 
+target-site resistance in malaria vectors in the Americas, and will further
+facilitate the characterization of insecticide resistance mechanisms in these
+species.
+
+DOI: 10.1186/s12936-019-2834-7 
+PMCID: PMC6585033
+PMID: 31221148  [Indexed for MEDLINE]
+

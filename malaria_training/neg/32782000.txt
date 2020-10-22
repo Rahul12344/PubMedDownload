@@ -1,0 +1,53 @@
+
+1. BMC Biol. 2020 Aug 11;18(1):98. doi: 10.1186/s12915-020-00834-z.
+
+Modelling the suppression of a malaria vector using a CRISPR-Cas9 gene drive to
+reduce female fertility.
+
+North AR(1), Burt A(2), Godfray HCJ(3).
+
+Author information: 
+(1)Department of Zoology, University of Oxford, Oxford, UK.
+Ace.north@zoo.ox.ac.uk.
+(2)Imperial College, London, UK.
+(3)Oxford Martin School, University of Oxford, Oxford, UK.
+
+BACKGROUND: Gene drives based on CRISPR-Cas9 technology are increasingly being
+considered as tools for reducing the capacity of mosquito populations to transmit
+malaria, and one of the most promising options is driving endonuclease genes that
+reduce the fertility of female mosquitoes. In particular, there is much interest 
+in constructs that target the conserved mosquito doublesex (dsx) gene such that
+the emergence of functional drive-resistant alleles is unlikely. Proof of
+principle that these constructs can lead to substantial population suppression
+has been obtained in population cages, and they are being evaluated for use in
+sub-Saharan Africa. Here, we use simulation modelling to understand the factors
+affecting the spread of this type of gene drive over a one million-square
+kilometre area of West Africa containing substantial environmental and social
+heterogeneity.
+RESULTS: We found that a driving endonuclease gene targeting female fertility
+could lead to substantial reductions in malaria vector populations on a regional 
+scale. The exact level of suppression is influenced by additional fitness costs
+of the transgene such as the somatic expression of Cas9, and its deposition in
+sperm or eggs leading to damage to the zygote. In the absence of these costs, or 
+of emergent drive-resistant alleles that restore female fertility, population
+suppression across the study area is predicted to stabilise at ~ 95% 4 years
+after releases commence. Small additional fitness costs do not greatly affect
+levels of suppression, though if the fertility of females whose offspring
+transmit the construct drops by more than ~ 40%, then population suppression is
+much less efficient. We show the suppression potential of a drive allele with
+high fitness costs can be enhanced by engineering it also to express male bias in
+the progeny of transgenic males. Irrespective of the strength of the drive
+allele, the spatial model predicts somewhat less suppression than equivalent
+non-spatial models, in particular in highly seasonal regions where dry season
+stochasticity reduces drive efficiency. We explored the robustness of these
+results to uncertainties in mosquito ecology, in particular their method of
+surviving the dry season and their dispersal rates.
+CONCLUSIONS: The modelling presented here indicates that considerable suppression
+of vector populations can be achieved within a few years of using a female
+sterility gene drive, though the impact is likely to be heterogeneous in space
+and time.
+
+DOI: 10.1186/s12915-020-00834-z 
+PMCID: PMC7422583
+PMID: 32782000 
+

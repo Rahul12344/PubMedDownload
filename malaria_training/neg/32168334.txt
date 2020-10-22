@@ -1,0 +1,43 @@
+
+1. PLoS Genet. 2020 Mar 13;16(3):e1008647. doi: 10.1371/journal.pgen.1008647.
+eCollection 2020 Mar.
+
+A fly model establishes distinct mechanisms for synthetic CRISPR/Cas9 sex
+distorters.
+
+Fasulo B(1), Meccariello A(1), Morgan M(1), Borufka C(1), Papathanos PA(2),
+Windbichler N(1).
+
+Author information: 
+(1)Department of Life Sciences, Imperial College London, Sir Alexander Fleming
+Building, South Kensington Campus, London, United Kingdom.
+(2)Department of Entomology, Robert H. Smith Faculty of Agriculture, Food and
+Environment, Hebrew University of Jerusalem, Rehovot, Israel.
+
+Synthetic sex distorters have recently been developed in the malaria mosquito,
+relying on endonucleases that target the X-chromosome during spermatogenesis.
+Although inspired by naturally-occurring traits, it has remained unclear how they
+function and, given their potential for genetic control, how portable this
+strategy is across species. We established Drosophila models for two distinct
+mechanisms for CRISPR/Cas9 sex-ratio distortion-"X-shredding" and
+"X-poisoning"-and dissected their target-site requirements and repair dynamics.
+X-shredding resulted in sex distortion when Cas9 endonuclease activity occurred
+during the meiotic stages of spermatogenesis but not when Cas9 was expressed from
+the stem cell stages onwards. Our results suggest that X-shredding is
+counteracted by the NHEJ DNA repair pathway and can operate on a single repeat
+cluster of non-essential sequences, although the targeting of a number of such
+repeats had no effect on the sex ratio. X-poisoning by contrast, i.e. targeting
+putative haplolethal genes on the X chromosome, induced a high bias towards males
+(>92%) when we directed Cas9 cleavage to the X-linked ribosomal target gene RpS6.
+In the case of X-poisoning sex distortion was coupled to a loss in reproductive
+output, although a dominant-negative effect appeared to drive the mechanism of
+female lethality. These model systems will guide the study and the application of
+sex distorters to medically or agriculturally important insect target species.
+
+DOI: 10.1371/journal.pgen.1008647 
+PMCID: PMC7108745
+PMID: 32168334  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

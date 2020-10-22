@@ -1,0 +1,49 @@
+
+1. BMC Genomics. 2012;13 Suppl 6:S7. doi: 10.1186/1471-2164-13-S6-S7. Epub 2012 Oct 
+26.
+
+Assessing the gain of biological data integration in gene networks inference.
+
+Vicente FF(1), Lopes FM, Hashimoto RF, Cesar RM Jr.
+
+Author information: 
+(1)Federal University of Technology - Paraná, Brazil. fabiofernandes@utfpr.edu.br
+
+BACKGROUND: A current challenge in gene annotation is to define the gene function
+in the context of the network of relationships instead of using single genes. The
+inference of gene networks (GNs) has emerged as an approach to better understand 
+the biology of the system and to study how several components of this network
+interact with each other and keep their functions stable. However, in general
+there is no sufficient data to accurately recover the GNs from their expression
+levels leading to the curse of dimensionality, in which the number of variables
+is higher than samples. One way to mitigate this problem is to integrate
+biological data instead of using only the expression profiles in the inference
+process. Nowadays, the use of several biological information in inference methods
+had a significant increase in order to better recover the connections between
+genes and reduce the false positives. What makes this strategy so interesting is 
+the possibility of confirming the known connections through the included
+biological data, and the possibility of discovering new relationships between
+genes when observed the expression data. Although several works in data
+integration have increased the performance of the network inference methods, the 
+real contribution of adding each type of biological information in the obtained
+improvement is not clear.
+METHODS: We propose a methodology to include biological information into an
+inference algorithm in order to assess its prediction gain by using biological
+information and expression profile together. We also evaluated and compared the
+gain of adding four types of biological information: (a) protein-protein
+interaction, (b) Rosetta stone fusion proteins, (c) KEGG and (d) KEGG+GO.
+RESULTS AND CONCLUSIONS: This work presents a first comparison of the gain in the
+use of prior biological information in the inference of GNs by considering the
+eukaryote (P. falciparum) organism. Our results indicates that information based 
+on direct interaction can produce a higher improvement in the gain than data
+about a less specific relationship as GO or KEGG. Also, as expected, the results 
+show that the use of biological information is a very important approach for the 
+improvement of the inference. We also compared the gain in the inference of the
+global network and only the hubs. The results indicates that the use of
+biological information can improve the identification of the most connected
+proteins.
+
+DOI: 10.1186/1471-2164-13-S6-S7 
+PMCID: PMC3481449
+PMID: 23134775  [Indexed for MEDLINE]
+

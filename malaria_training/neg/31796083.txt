@@ -1,0 +1,64 @@
+
+1. Malar J. 2019 Dec 3;18(1):392. doi: 10.1186/s12936-019-3025-2.
+
+Validation of Plasmodium falciparum dUTPase as the target of 5'-tritylated
+deoxyuridine analogues with anti-malarial activity.
+
+Pérez-Moreno G(1), Sánchez-Carrasco P(1), Ruiz-Pérez LM(1), Johansson NG(2),
+Müller S(3), Baragaña B(4), Hampton SE(4), Gilbert IH(4), Kaiser M(5)(6), Sarkar 
+S(7), Pandurangan T(7), Kumar V(7), González-Pacanowska D(8).
+
+Author information: 
+(1)Instituto de Parasitología y Biomedicina López-Neyra. Consejo Superior de
+Investigaciones Científicas. Parque Tecnológico de Ciencias de la Salud, Avenida 
+del Conocimiento, s/n 18016-Armilla, Granada, Spain.
+(2)Medivir AB, P.O. Box 1086, 14122, Huddinge, Sweden.
+(3)Institute of Infection, Immunity and Inflammation, College of Medical,
+Veterinary and Life Sciences, University of Glasgow, 120 University Place,
+Glasgow, G12 8TA, UK.
+(4)Drug Discovery Unit, Division of Biological Chemistry and Drug Discovery,
+School of Life Sciences, University of Dundee, Dundee, DD1 5EH, UK.
+(5)Swiss Tropical and Public Health Institute (Swiss TPH), Socinstrasse 57, 4051,
+Basel, Switzerland.
+(6)University of Basel, Petersplatz 1, 4003, Basel, Switzerland.
+(7)Syngene International Ltd, Biocon Park, SEZ, Bommasandra Industrial Area -
+Phase-IV Bommasandra-Jigani Link Road, Bangalore, 560 099, India.
+(8)Instituto de Parasitología y Biomedicina López-Neyra. Consejo Superior de
+Investigaciones Científicas. Parque Tecnológico de Ciencias de la Salud, Avenida 
+del Conocimiento, s/n 18016-Armilla, Granada, Spain. dgonzalez@ipb.csic.es.
+
+BACKGROUND: Malaria remains as a major global problem, being one of the
+infectious diseases that engender highest mortality across the world. Due to the 
+appearance of resistance and the lack of an effective vaccine, the search of
+novel anti-malarials is required. Deoxyuridine 5'-triphosphate
+nucleotido-hydrolase (dUTPase) is responsible for the hydrolysis of dUTP to dUMP 
+within the parasite and has been proposed as an essential step in pyrimidine
+metabolism by providing dUMP for thymidylate biosynthesis. In this work, efforts 
+to validate dUTPase as a drug target in Plasmodium falciparum are reported.
+METHODS: To investigate the role of PfdUTPase in cell survival different
+strategies to generate knockout mutants were used. For validation of PfdUTPase as
+the intracellular target of four inhibitors of the enzyme, mutants overexpressing
+PfdUTPase and HsdUTPase were created and the IC50 for each cell line with each
+compound was determined. The effect of these compounds on dUTP and dTTP levels
+from P. falciparum was measured using a DNA polymerase assay. Detailed
+localization studies by indirect immunofluorescence microscopy and live cell
+imaging were also performed using a cell line overexpressing a Pfdut-GFP fusion
+protein.
+RESULTS: Different attempts of disruption of the dut gene of P. falciparum were
+unsuccessful while a 3' replacement construct could recombine correctly in the
+locus suggesting that the enzyme is essential. The four 5'-tritylated
+deoxyuridine analogues described are potent inhibitors of the P. falciparum
+dUTPase and exhibit antiplasmodial activity. Overexpression of the Plasmodium and
+human enzymes conferred resistance against selective compounds, providing
+chemical validation of the target and confirming that indeed dUTPase inhibition
+is involved in anti-malarial activity. In addition, incubation with these
+inhibitors was associated with a depletion of the dTTP pool corroborating the
+central role of dUTPase in dTTP synthesis. PfdUTPase is mainly localized in the
+cytosol.
+CONCLUSION: These results strongly confirm the pivotal and essential role of
+dUTPase in pyrimidine biosynthesis of P. falciparum intraerythrocytic stages.
+
+DOI: 10.1186/s12936-019-3025-2 
+PMCID: PMC6889535
+PMID: 31796083  [Indexed for MEDLINE]
+

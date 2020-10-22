@@ -1,0 +1,39 @@
+
+1. Malar J. 2018 Apr 24;17(1):174. doi: 10.1186/s12936-018-2321-6.
+
+Optimal control of malaria: combining vector interventions and drug therapies.
+
+Khamis D(1), El Mouden C(1), Kura K(1), Bonsall MB(2).
+
+Author information: 
+(1)Mathematical Ecology Research Group, Department of Zoology, University of
+Oxford, South Parks Road, Oxford, OX1 3PS, UK.
+(2)Mathematical Ecology Research Group, Department of Zoology, University of
+Oxford, South Parks Road, Oxford, OX1 3PS, UK. michael.bonsall@zoo.ox.ac.uk.
+
+BACKGROUND: The sterile insect technique and transgenic equivalents are
+considered promising tools for controlling vector-borne disease in an age of
+increasing insecticide and drug-resistance. Combining vector interventions with
+artemisinin-based therapies may achieve the twin goals of suppressing malaria
+endemicity while managing artemisinin resistance. While the cost-effectiveness of
+these controls has been investigated independently, their combined usage has not 
+been dynamically optimized in response to ecological and epidemiological
+processes.
+RESULTS: An optimal control framework based on coupled models of mosquito
+population dynamics and malaria epidemiology is used to investigate the
+cost-effectiveness of combining vector control with drug therapies in homogeneous
+environments with and without vector migration. The costs of endemic malaria are 
+weighed against the costs of administering artemisinin therapies and releasing
+modified mosquitoes using various cost structures. Larval density dependence is
+shown to reduce the cost-effectiveness of conventional sterile insect releases
+compared with transgenic mosquitoes with a late-acting lethal gene. Using drug
+treatments can reduce the critical vector control release ratio necessary to
+cause disease fadeout.
+CONCLUSIONS: Combining vector control and drug therapies is the most effective
+and efficient use of resources, and using optimized implementation strategies can
+substantially reduce costs.
+
+DOI: 10.1186/s12936-018-2321-6 
+PMCID: PMC5937842
+PMID: 29690874  [Indexed for MEDLINE]
+

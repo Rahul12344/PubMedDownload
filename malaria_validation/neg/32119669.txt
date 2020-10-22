@@ -1,0 +1,46 @@
+
+1. PLoS Negl Trop Dis. 2020 Mar 2;14(3):e0008104. doi: 10.1371/journal.pntd.0008104.
+eCollection 2020 Mar.
+
+Plasmodium vivax transcriptional profiling of low input cryopreserved isolates
+through the intraerythrocytic development cycle.
+
+Rangel GW(1), Clark MA(1), Kanjee U(1), Goldberg JM(1), MacInnis B(2), José
+Menezes M(3), Ferreira MU(3), Duraisingh MT(1)(2).
+
+Author information: 
+(1)Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of 
+Public Health, Boston, Massachusetts, United States of America.
+(2)Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United States of
+America.
+(3)Department of Parasitology, Institute of Biomedical Sciences, University of
+São Paulo, São Paulo, Brazil.
+
+Approximately one-third of the global population is at risk of Plasmodium vivax
+infection, and an estimated 7.51 million cases were reported in 2017. Although,
+P. vivax research is currently limited by the lack of a robust continuous in
+vitro culture system for this parasite, recent work optimizing short-term ex vivo
+culture of P. vivax from cryopreserved isolates has facilitated quantitative
+assays on synchronous parasites. Pairing this improved culture system with
+low-input Smart-seq2 RNAseq library preparation, we sought to determine whether
+transcriptional profiling of P. vivax would provide insight into the differential
+survival of parasites in different culture media. To this end we probed the
+transcriptional signature of three different ex vivo P. vivax samples in four
+different culture media using only 1000 cells for each time point taken during
+the course of the intraerythrocytic development cycle (IDC). Using this strategy,
+we achieved similar quality transcriptional data to previously reported P. vivax 
+transcriptomes. We found little effect with varying culture media on parasite
+transcriptional signatures, identified many novel gametocyte-specific genes from 
+transcriptomes of FACS-isolated gametocytes, and determined invasion ligand
+expression in schizonts in biological isolates and across the IDC. In total,
+these data demonstrate the feasibility and utility of P. vivax RNAseq-based
+transcriptomic studies using minimal biomass input to maximize experimental
+capacity.
+
+DOI: 10.1371/journal.pntd.0008104 
+PMCID: PMC7067476
+PMID: 32119669  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

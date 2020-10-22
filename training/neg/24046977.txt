@@ -1,0 +1,28 @@
+
+1. IET Syst Biol. 2013 Jun;7(3):79-88.
+
+Constant drug dose in human immuno-deficiency virus-infected patients to induce
+long-term non-progressor status: bifurcation and controllability approach.
+
+Kim W(1), Chung HB, Chung CC.
+
+Author information: 
+(1)Department of Electrical Engineering, Hanyang University, Seoul 133-791,
+Korea.
+
+The authors propose a therapy consisting of a constant dosage of reverse
+transcription inhibitor and protease inhibitor to achieve long-term
+non-progressor (LTNP) status in human immuno-deficiency virus (HIV) patients.
+Based on the authors analyses of cytotoxic T lymphocyte precursor (CTLp)
+concentration at several equilibrium points and the bifurcation of these
+equilibrium points, they find that administration of drugs with an efficacy lower
+than a certain level induces a higher CTLp concentration. As a result, drug doses
+of moderate efficacy result in more patients with LTNP status than doses with
+high efficacy. In analyses of controllability, they show that a treatment of
+moderate efficacy is more efficient than one of very high efficacy in terms of
+controlling the immune system. Using simulations, they demonstrate that their
+proposed method results in LTNP status in HIV patients.
+
+DOI: 10.1049/iet-syb.2012.0006 
+PMID: 24046977  [Indexed for MEDLINE]
+

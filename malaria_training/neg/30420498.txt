@@ -1,0 +1,55 @@
+
+1. Proc Natl Acad Sci U S A. 2018 Dec 11;115(50):12799-12804. doi:
+10.1073/pnas.1812317115. Epub 2018 Nov 12.
+
+Mutations in Plasmodium falciparum actin-binding protein coronin confer reduced
+artemisinin susceptibility.
+
+Demas AR(1), Sharma AI(1), Wong W(1), Early AM(2), Redmond S(2), Bopp S(1),
+Neafsey DE(1)(2), Volkman SK(1)(2)(3), Hartl DL(4)(5), Wirth DF(4)(2).
+
+Author information: 
+(1)Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of 
+Public Health, Boston, MA 02115.
+(2)Infectious Disease and Microbiome Program, Broad Institute, Cambridge, MA
+02142.
+(3)School of Nursing and Health Sciences, Simmons College, Boston, MA 02115.
+(4)Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of 
+Public Health, Boston, MA 02115; dhartl@oeb.harvard.edu dfwirth@hsph.harvard.edu.
+(5)Department of Organismic and Evolutionary Biology, Harvard University,
+Cambridge, MA 02138.
+
+Comment in
+    Proc Natl Acad Sci U S A. 2018 Dec 11;115(50):12556-12558.
+    Proc Natl Acad Sci U S A. 2019 Jun 25;116(26):12611-12612.
+    Proc Natl Acad Sci U S A. 2019 Jun 25;116(26):12613-12614.
+
+Drug resistance is an obstacle to global malaria control, as evidenced by the
+recent emergence and rapid spread of delayed artemisinin (ART) clearance by
+mutant forms of the PfKelch13 protein in Southeast Asia. Identifying genetic
+determinants of ART resistance in African-derived parasites is important for
+surveillance and for understanding the mechanism of resistance. In this study, we
+carried out long-term in vitro selection of two recently isolated West African
+parasites (from Pikine and Thiès, Senegal) with increasing concentrations of
+dihydroartemisinin (DHA), the biologically active form of ART, over a 4-y period.
+We isolated two parasite clones, one from each original isolate, that exhibited
+enhanced survival to DHA in the ring-stage survival assay. Whole-genome sequence 
+analysis identified 10 mutations in seven different genes. We chose to focus on
+the gene encoding PfCoronin, a member of the WD40-propeller domain protein
+family, because mutations in this gene occurred in both independent selections,
+and the protein shares the β-propeller motif with PfKelch13 protein. For
+functional validation, when pfcoronin mutations were introduced into the parental
+parasites by CRISPR/Cas9-mediated gene editing, these mutations were sufficient
+to reduce ART susceptibility in the parental lines. The discovery of a second
+gene for ART resistance may yield insights into the molecular mechanisms of
+resistance. It also suggests that pfcoronin mutants could emerge as a nonkelch13 
+type of resistance to ART in natural settings.
+
+Copyright © 2018 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.1812317115 
+PMCID: PMC6294886
+PMID: 30420498  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

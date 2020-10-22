@@ -1,0 +1,57 @@
+
+1. Sci Rep. 2017 Oct 25;7(1):14042. doi: 10.1038/s41598-017-12578-y.
+
+An ApiAP2 member regulates expression of clonally variant genes of the human
+malaria parasite Plasmodium falciparum.
+
+Martins RM(1)(2)(3)(4), Macpherson CR(5)(6)(7), Claes A(5)(6)(7),
+Scheidig-Benatar C(5)(6)(7), Sakamoto H(5)(6)(7), Yam XY(8), Preiser P(8), Goel
+S(9)(10), Wahlgren M(9), Sismeiro O(11), Coppée JY(11), Scherf A(12)(13)(14).
+
+Author information: 
+(1)Unité Biologie des Interactions Hôte-Parasite, Institut Pasteur, Paris, 75015,
+France. rafamiya@gmail.com.
+(2)CNRS, ERL 9195, Paris, 75015, France. rafamiya@gmail.com.
+(3)INSERM, Unit U1201, Paris, 75015, France. rafamiya@gmail.com.
+(4)CNRS 5290/IRD 224/University of Montpellier ("MiVEGEC"), Montpellier, France. 
+rafamiya@gmail.com.
+(5)Unité Biologie des Interactions Hôte-Parasite, Institut Pasteur, Paris, 75015,
+France.
+(6)CNRS, ERL 9195, Paris, 75015, France.
+(7)INSERM, Unit U1201, Paris, 75015, France.
+(8)School of Biological Sciences, Nanyang Technological University, Singapore,
+637551, Singapore.
+(9)MTC, Nobels väg 16, KI Solna Campus Karolinska Institutet, Box 280, SE-171 77,
+Stockholm, Sweden.
+(10)Institute of Science Education and Research (IISER), Tirupati Rami Reddy
+Nagar, 517507, Mangalam, Tirupati Andhra Pradhesh, India.
+(11)Plateforme 2, Transcriptome et Epigenome, Institut Pasteur, Paris, 75015,
+France.
+(12)Unité Biologie des Interactions Hôte-Parasite, Institut Pasteur, Paris,
+75015, France. artur.scherf@pasteur.fr.
+(13)CNRS, ERL 9195, Paris, 75015, France. artur.scherf@pasteur.fr.
+(14)INSERM, Unit U1201, Paris, 75015, France. artur.scherf@pasteur.fr.
+
+Variegated surface antigen expression is key to chronic infection and
+pathogenesis of the human malaria parasite Plasmodium falciparum. This protozoan 
+parasite expresses distinct surface molecules that are encoded by clonally
+variant gene families such as var, rif and stevor. The molecular mechanisms
+governing activation of individual members remain ill-defined. To investigate the
+molecular events of the initial transcriptional activation process we focused on 
+a member of the apicomplexan ApiAP2 transcription factor family predicted to bind
+to the 5' upstream regions of the var gene family, AP2-exp (PF3D7_1466400).
+Viable AP2-exp mutant parasites rely on expressing no less than a short truncated
+protein including the N-terminal AP2 DNA-binding domain. RNA-seq analysis in
+mutant parasites revealed transcriptional changes in a subset of exported
+proteins encoded by clonally variant gene families. Upregulation of RIFINs and
+STEVORs was validated at the protein levels. In addition, morphological
+alterations were observed on the surface of the host cells infected by the
+mutants. This work points to a complex regulatory network of clonally variant
+gene families in which transcription of a subset of members is regulated by the
+same transcription factor. In addition, we highlight the importance of the
+non-DNA binding AP2 domain in functional gene regulation.
+
+DOI: 10.1038/s41598-017-12578-y 
+PMCID: PMC5656681
+PMID: 29070841  [Indexed for MEDLINE]
+

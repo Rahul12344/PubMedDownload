@@ -1,0 +1,39 @@
+
+1. PLoS One. 2015 Jun 19;10(6):e0130356. doi: 10.1371/journal.pone.0130356.
+eCollection 2015.
+
+Conditional U1 Gene Silencing in Toxoplasma gondii.
+
+Pieperhoff MS(1), Pall GS(1), Jiménez-Ruiz E(1), Das S(2), Melatti C(1), Gow
+M(1), Wong EH(1), Heng J(1), Müller S(3), Blackman MJ(2), Meissner M(1).
+
+Author information: 
+(1)Wellcome Trust Centre for Molecular Parasitology, Institute of Infection,
+Immunity & Inflammation, College of Medical, Veterinary and Life Sciences,
+Glasgow, Lanarkshire, United Kingdom.
+(2)Division of Parasitology, MRC National Institute for Medical Research, Mill
+Hill, London, United Kingdom.
+(3)Institute of Infection, Immunity & Inflammation, College of Medical,
+Veterinary and Life Sciences, Glasgow, Lanarkshire, United Kingdom.
+
+The functional characterisation of essential genes in apicomplexan parasites,
+such as Toxoplasma gondii or Plasmodium falciparum, relies on conditional
+mutagenesis systems. Here we present a novel strategy based on U1 snRNP-mediated 
+gene silencing. U1 snRNP is critical in pre-mRNA splicing by defining the
+exon-intron boundaries. When a U1 recognition site is placed into the 3'-terminal
+exon or adjacent to the termination codon, pre-mRNA is cleaved at the 3'-end and 
+degraded, leading to an efficient knockdown of the gene of interest (GOI). Here
+we describe a simple method that combines endogenous tagging with DiCre-mediated 
+positioning of U1 recognition sites adjacent to the termination codon of the GOI 
+which leads to a conditional knockdown of the GOI upon rapamycin-induction.
+Specific knockdown mutants of the reporter gene GFP and several endogenous genes 
+of T. gondii including the clathrin heavy chain gene 1 (chc1), the vacuolar
+protein sorting gene 26 (vps26), and the dynamin-related protein C gene (drpC)
+were silenced using this approach and demonstrate the potential of this
+technology. We also discuss advantages and disadvantages of this method in
+comparison to other technologies in more detail.
+
+DOI: 10.1371/journal.pone.0130356 
+PMCID: PMC4474610
+PMID: 26090798  [Indexed for MEDLINE]
+

@@ -1,0 +1,68 @@
+
+1. PLoS Genet. 2014 Aug 7;10(8):e1004547. doi: 10.1371/journal.pgen.1004547.
+eCollection 2014 Aug.
+
+Comprehensive identification of single nucleotide polymorphisms associated with
+beta-lactam resistance within pneumococcal mosaic genes.
+
+Chewapreecha C(1), Marttinen P(2), Croucher NJ(3), Salter SJ(1), Harris SR(1),
+Mather AE(1), Hanage WP(4), Goldblatt D(5), Nosten FH(6), Turner C(7), Turner
+P(7), Bentley SD(8), Parkhill J(1).
+
+Author information: 
+(1)The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton,
+Cambridge, United Kingdom.
+(2)Center for Communicable Disease Dynamics, Harvard School of Public Health,
+Boston, Massachusetts, United States of America; Helsinki Institute for
+Information Technology HIIT, Department of Information and Computer Science,
+Aalto University, Espoo, Finland.
+(3)Department of Infectious Disease Epidemiology, Imperial College London,
+London, United Kingdom.
+(4)Center for Communicable Disease Dynamics, Harvard School of Public Health,
+Boston, Massachusetts, United States of America.
+(5)Immunobiology Unit, Institute of Child Health, University College London,
+London, United Kingdom.
+(6)Shoklo Malaria Research Unit, Mahidol-Oxford Tropical Medicine Research Unit, 
+Faculty of Tropical Medicine, Mahidol University, Maesot, Thailand; Centre for
+Tropical Medicine, Nuffield Department of Medicine, University of Oxford, Oxford,
+United Kingdom.
+(7)Shoklo Malaria Research Unit, Mahidol-Oxford Tropical Medicine Research Unit, 
+Faculty of Tropical Medicine, Mahidol University, Maesot, Thailand; Centre for
+Tropical Medicine, Nuffield Department of Medicine, University of Oxford, Oxford,
+United Kingdom; Cambodia-Oxford Medical Research Unit, Angkor Hospital for
+Children, Siem Reap, Cambodia.
+(8)The Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton,
+Cambridge, United Kingdom; Department of Medicine, University of Cambridge,
+Addenbrooke's Hospital, Cambridge, United Kingdom.
+
+Traditional genetic association studies are very difficult in bacteria, as the
+generally limited recombination leads to large linked haplotype blocks,
+confounding the identification of causative variants. Beta-lactam antibiotic
+resistance in Streptococcus pneumoniae arises readily as the bacteria can quickly
+incorporate DNA fragments encompassing variants that make the transformed strains
+resistant. However, the causative mutations themselves are embedded within larger
+recombined blocks, and previous studies have only analysed a limited number of
+isolates, leading to the description of "mosaic genes" as being responsible for
+resistance. By comparing a large number of genomes of beta-lactam susceptible and
+non-susceptible strains, the high frequency of recombination should break up
+these haplotype blocks and allow the use of genetic association approaches to
+identify individual causative variants. Here, we performed a genome-wide
+association study to identify single nucleotide polymorphisms (SNPs) and indels
+that could confer beta-lactam non-susceptibility using 3,085 Thai and 616 USA
+pneumococcal isolates as independent datasets for the variant discovery. The
+large sample sizes allowed us to narrow the source of beta-lactam
+non-susceptibility from long recombinant fragments down to much smaller loci
+comprised of discrete or linked SNPs. While some loci appear to be universal
+resistance determinants, contributing equally to non-susceptibility for at least 
+two classes of beta-lactam antibiotics, some play a larger role in resistance to 
+particular antibiotics. All of the identified loci have a highly non-uniform
+distribution in the populations. They are enriched not only in vaccine-targeted, 
+but also non-vaccine-targeted lineages, which may raise clinical concerns.
+Identification of single nucleotide polymorphisms underlying resistance will be
+essential for future use of genome sequencing to predict antibiotic sensitivity
+in clinical microbiology.
+
+DOI: 10.1371/journal.pgen.1004547 
+PMCID: PMC4125147
+PMID: 25101644  [Indexed for MEDLINE]
+

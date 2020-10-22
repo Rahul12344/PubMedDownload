@@ -1,0 +1,57 @@
+
+1. Malar J. 2019 Dec 5;18(1):407. doi: 10.1186/s12936-019-3036-z.
+
+Pesticides and the evolution of the genetic structure of Anopheles coluzzii
+populations in some localities in Benin (West Africa).
+
+Fassinou AJYH(1)(2), Koukpo CZ(3)(4), Ossè RA(3)(5), Agossa FR(3), Azondékon
+R(3), Sominahouin A(3), Kpanou C(3)(4), Sagbohan H(3)(4), Yovogan B(3), Akogbéto 
+MC(3)(6), Sezonlin M(3)(6).
+
+Author information: 
+(1)Centre de Recherche Entomologique de Cotonou (CREC), Cotonou, Benin.
+arsenf88@yahoo.fr.
+(2)Ecole Doctorale Sciences de la Vie et de la Terre (EDSVT/FAST/UAC),
+Abomey-Calavi, Benin. arsenf88@yahoo.fr.
+(3)Centre de Recherche Entomologique de Cotonou (CREC), Cotonou, Benin.
+(4)Ecole Doctorale Sciences de la Vie et de la Terre (EDSVT/FAST/UAC),
+Abomey-Calavi, Benin.
+(5)Université Nationale d'Agriculture (UNA), Porto-Novo, Benin.
+(6)Laboratoire Evolution Biodiversité des arthropodes et Assainissement, Faculté 
+des Sciences et Techniques/Université d'Abomey-Calavi (FAST/UAC), Abomey-Calavi, 
+Benin.
+
+BACKGROUND: Changes in the natural habitats of insect groups are determined the
+genetic polymorphisms between individuals. The objective of this study was to
+establish the genetic structure of the Anopheles coluzzii populations in four
+localities of Benin.
+METHODS: Insecticide surveys and larval sampling were conducted on 4 study
+localities, including Cotonou, Ketou, Zagnanado, and Sô-Ava. Molecular
+characterizations were performed on the Anopheles mosquitoes collected with the
+allelic and genotypic frequencies of kdr gene determined. The multiple comparison
+Chi square test for proportions was performed with R version 3.3.3. Next, the
+observed heterozygosity, expected heterozygosity, and indices of fixation, and
+genetic differentiation were estimated. Finally, the Hardy-Weinberg equilibrium
+(EHW) was determined to assess whether panmixia exists in the different
+populations of mosquitoes of the agroecological zones under study.
+RESULTS: Carbamates, pyrethroids, organophosphorus and organochlorines use have
+been reported in all localities except Sô-Ava. Anopheles coluzzii was strongly
+represented across all study localities. The L1014F allele was observed in the
+localities of Kétou, Cotonou and Zagnanado. Likewise, insecticide selection
+pressure of homozygous resistant individuals (L1014F/L1014F) was significantly
+higher in Kétou, Cotonou and Zagnanado (p value < 0.05). Surprisingly in Sô-Ava, 
+a relatively high frequency of the L1014F allele despite the reported absence of 
+pesticide use was observed. All mosquito populations were found to be deficient
+in heterozygosity across the study sites (FIS< 0). No genetic differentiation
+(FST< 0) was observed in the localities of Zagnanado and Kétou.
+CONCLUSION: The survey on the use of insecticides showed that insecticide
+selection pressures differ across the investigated localities. It would be
+desirable to rotate or apply formulations of combined products with different
+modes of action. Doing so would enable a better management of resistant
+homozygous individuals, and mitigate the resistance effect of commonly used
+insecticides.
+
+DOI: 10.1186/s12936-019-3036-z 
+PMCID: PMC6896764
+PMID: 31805939  [Indexed for MEDLINE]
+

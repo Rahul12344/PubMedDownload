@@ -1,0 +1,46 @@
+
+1. PLoS Negl Trop Dis. 2015 Aug 5;9(8):e0003978. doi: 10.1371/journal.pntd.0003978. 
+eCollection 2015.
+
+Transcription Profiling of Malaria-Naïve and Semi-immune Colombian Volunteers in 
+a Plasmodium vivax Sporozoite Challenge.
+
+Rojas-Peña ML(1), Vallejo A(2), Herrera S(2), Gibson G(1), Arévalo-Herrera M(3).
+
+Author information: 
+(1)Center for Integrative Genomics, School of Biology, Georgia Institute of
+Technology, Atlanta, Georgia, United States of America.
+(2)Caucaseco Scientific Research Center (CSRC), Cali, Colombia.
+(3)Caucaseco Scientific Research Center (CSRC), Cali, Colombia; School of Health,
+Universidad del Valle, Cali, Colombia.
+
+BACKGROUND: Continued exposure to malaria-causing parasites in endemic regions of
+malaria induces significant levels of acquired immunity in adult individuals. A
+better understanding of the transcriptional basis for this acquired immunological
+response may provide insight into how the immune system can be boosted during
+vaccination, and into why infected individuals differ in symptomology.
+METHODOLOGY/PRINCIPAL FINDINGS: Peripheral blood gene expression profiles of 9
+semi-immune volunteers from a Plasmodium vivax malaria prevalent region
+(Buenaventura, Colombia) were compared to those of 7 naïve individuals from a
+region with no reported transmission of malaria (Cali, Colombia) after a
+controlled infection mosquito bite challenge with P. vivax. A Fluidigm nanoscale 
+quantitative RT-PCR array was used to survey altered expression of 96 blood
+informative transcripts at 7 timepoints after controlled infection, and RNASeq
+was used to contrast pre-infection and early parasitemia timepoints. There was no
+evidence for transcriptional changes prior to the appearance of blood stage
+parasites at day 12 or 13, at which time there was a strong interferon response
+and, unexpectedly, down-regulation of transcripts related to inflammation and
+innate immunity. This differential expression was confirmed with RNASeq, which
+also suggested perturbations of aspects of T cell function and erythropoiesis.
+Despite differences in clinical symptoms between the semi-immune and malaria
+naïve individuals, only subtle differences in their transcriptomes were observed,
+although 175 genes showed significantly greater induction or repression in the
+naïve volunteers from Cali.
+CONCLUSION/SIGNIFICANCE: Gene expression profiling of whole blood reveals the
+type and duration of the immune response to P. vivax infection, and highlights a 
+subset of genes that may mediate adaptive immunity.
+
+DOI: 10.1371/journal.pntd.0003978 
+PMCID: PMC4526565
+PMID: 26244760  [Indexed for MEDLINE]
+

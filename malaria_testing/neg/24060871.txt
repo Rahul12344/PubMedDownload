@@ -1,0 +1,42 @@
+
+1. Antimicrob Agents Chemother. 2013 Dec;57(12):6050-62. doi: 10.1128/AAC.00870-13. 
+Epub 2013 Sep 23.
+
+Identification of MMV malaria box inhibitors of plasmodium falciparum early-stage
+gametocytes using a luciferase-based high-throughput assay.
+
+Lucantoni L(1), Duffy S, Adjalley SH, Fidock DA, Avery VM.
+
+Author information: 
+(1)Discovery Biology, Eskitis Institute for Drug Discovery, Griffith University, 
+Nathan, Queensland, Australia.
+
+The design of new antimalarial combinations to treat Plasmodium falciparum
+infections requires drugs that, in addition to resolving disease symptoms caused 
+by asexual blood stage parasites, can also interrupt transmission to the mosquito
+vector. Gametocytes, which are essential for transmission, develop as sexual
+blood stage parasites in the human host over 8 to 12 days and are the most
+accessible developmental stage for transmission-blocking drugs. Considerable
+effort is currently being devoted to identifying compounds active against mature 
+gametocytes. However, investigations on the drug sensitivity of developing
+gametocytes, as well as screening methods for identifying inhibitors of early
+gametocytogenesis, remain scarce. We have developed a luciferase-based
+high-throughput screening (HTS) assay using tightly synchronous stage I to III
+gametocytes from a recombinant P. falciparum line expressing green fluorescent
+protein (GFP)-luciferase. The assay has been used to evaluate the early-stage
+gametocytocidal activity of the MMV Malaria Box, a collection of 400 compounds
+with known antimalarial (asexual blood stage) activity. Screening this collection
+against early-stage (I to III) gametocytes yielded 64 gametocytocidal compounds
+with 50% inhibitory concentrations (IC50s) below 2.5 μM. This assay is
+reproducible and suitable for the screening of large compound libraries, with an 
+average percent coefficient of variance (%CV) of ≤5%, an average signal-to-noise 
+ratio (S:N) of >30, and a Z' of ∼0.8. Our findings highlight the need for
+screening efforts directed specifically against early gametocytogenesis and
+indicate the importance of experimental verification of early-stage
+gametocytocidal activity in the development of new antimalarial candidates for
+combination therapy.
+
+DOI: 10.1128/AAC.00870-13 
+PMCID: PMC3837862
+PMID: 24060871  [Indexed for MEDLINE]
+

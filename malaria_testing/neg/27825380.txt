@@ -1,0 +1,55 @@
+
+1. Malar J. 2016 Nov 8;15(1):542.
+
+Identification and characterization of microRNAs expressed in the African malaria
+vector Anopheles funestus life stages using high throughput sequencing.
+
+Allam M(1)(2), Spillings BL(3), Abdalla H(3)(4)(5), Mapiye D(1), Koekemoer
+LL(3)(4), Christoffels A(6).
+
+Author information: 
+(1)SA Medical Research Council Bioinformatics Unit, South African National
+Bioinformatics Institute, University of the Western Cape, Robert Sobukwe Road,
+Cape Town, 7535, South Africa.
+(2)Sequencing Core Facility, National Institute for Communicable Diseases,
+National Health Laboratory Service, 1 Modderfontein Road, Johannesburg, 2131,
+South Africa.
+(3)Vector Control Reference Laboratory, Centre for Opportunistic, Tropical and
+Hospital Infections, National Institute for Communicable Diseases, National
+Health Laboratory Service, 1 Modderfontein Road, Johannesburg, 2131, South
+Africa.
+(4)Faculty of Health Sciences, Wits Research Institute for Malaria, University of
+the Witwatersrand, 1 Jan Smuts Ave, Johannesburg, 2000, South Africa.
+(5)Vector Biology & Control Unit, Blue Nile National Institute for Communicable
+Disease, Wad Medani, Sudan.
+(6)SA Medical Research Council Bioinformatics Unit, South African National
+Bioinformatics Institute, University of the Western Cape, Robert Sobukwe Road,
+Cape Town, 7535, South Africa. alan@sanbi.ac.za.
+
+BACKGROUND: Over the past several years, thousands of microRNAs (miRNAs) have
+been identified in the genomes of various insects through cloning and sequencing 
+or even by computational prediction. However, the number of miRNAs identified in 
+anopheline species is low and little is known about their role. The mosquito
+Anopheles funestus is one of the dominant malaria vectors in Africa, which
+infects and kills millions of people every year. Therefore, small RNA molecules
+isolated from the four life stages (eggs, larvae, pupae and unfed adult females) 
+of An. funestus were sequenced using next generation sequencing technology.
+RESULTS: High throughput sequencing of four replicates in combination with
+computational analysis identified 107 mature miRNA sequences expressed in the An.
+funestus mosquito. These include 20 novel miRNAs without sequence identity in any
+organism and eight miRNAs not previously reported in the Anopheles genus but are 
+known in non-anopheles mosquitoes. Finally, the changes in the expression of
+miRNAs during the mosquito development were determined and the analysis showed
+that many miRNAs have stage-specific expression, and are co-transcribed and
+co-regulated during development.
+CONCLUSIONS: This study presents the first direct experimental evidence of miRNAs
+in An. funestus and the first profiling study of miRNA associated with the
+maturation in this mosquito. Overall, the results indicate that miRNAs play
+important roles during the growth and development. Silencing such molecules in a 
+specific life stage could decrease the vector population and therefore interrupt 
+malaria transmission.
+
+DOI: 10.1186/s12936-016-1591-0 
+PMCID: PMC5101901
+PMID: 27825380  [Indexed for MEDLINE]
+

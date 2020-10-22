@@ -1,0 +1,55 @@
+
+1. J Vis Exp. 2011 Jun 17;(52). pii: 2599. doi: 10.3791/2599.
+
+Neuromodulation and mitochondrial transport: live imaging in hippocampal neurons 
+over long durations.
+
+Edelman DB(1), Owens GC, Chen S.
+
+Author information: 
+(1)Department of Experimental Neurobiology, The Neurosciences Institute.
+david_edelman@nsi.edu
+
+To understand the relationship between mitochondrial transport and neuronal
+function, it is critical to observe mitochondrial behavior in live cultured
+neurons for extended durations(1-3). This is now possible through the use of
+vital dyes and fluorescent proteins with which cytoskeletal components,
+organelles, and other structures in living cells can be labeled and then
+visualized via dynamic fluorescence microscopy. For example, in embryonic chicken
+sympathetic neurons, mitochondrial movement was characterized using the vital dye
+rhodamine 123(4). In another study, mitochondria were visualized in rat forebrain
+neurons by transfection of mitochondrially targeted eYFP(5). However, imaging of 
+primary neurons over minutes, hours, or even days presents a number of issues.
+Foremost among these are: 1) maintenance of culture conditions such as
+temperature, humidity, and pH during long imaging sessions; 2) a strong, stable
+fluorescent signal to assure both the quality of acquired images and accurate
+measurement of signal intensity during image analysis; and 3) limiting exposure
+times during image acquisition to minimize photobleaching and avoid
+phototoxicity. Here, we describe a protocol that permits the observation,
+visualization, and analysis of mitochondrial movement in cultured hippocampal
+neurons with high temporal resolution and under optimal life support conditions. 
+We have constructed an affordable stage-top incubator that provides good
+temperature regulation and atmospheric gas flow, and also limits the degree of
+media evaporation, assuring stable pH and osmolarity. This incubator is
+connected, via inlet and outlet hoses, to a standard tissue culture incubator,
+which provides constant humidity levels and an atmosphere of 5-10% CO(2;)/air.
+This design offers a cost-effective alternative to significantly more expensive
+microscope incubators that don't necessarily assure the viability of cells over
+many hours or even days. To visualize mitochondria, we infect cells with a
+lentivirus encoding a red fluorescent protein that is targeted to the
+mitochondrion. This assures a strong and persistent signal, which, in conjunction
+with the use of a stable xenon light source, allows us to limit exposure times
+during image acquisition and all but precludes photobleaching and phototoxicity. 
+Two injection ports on the top of the stage-top incubator allow the acute
+administration of neurotransmitters and other reagents intended to modulate
+mitochondrial movement. In sum, lentivirus-mediated expression of an
+organelle-targeted red fluorescent protein and the combination of our stage-top
+incubator, a conventional inverted fluorescence microscope, CCD camera, and xenon
+light source allow us to acquire time-lapse images of mitochondrial transport in 
+living neurons over longer durations than those possible in studies deploying
+conventional vital dyes and off-the-shelf life support systems.
+
+DOI: 10.3791/2599 
+PMCID: PMC3197030
+PMID: 21712797  [Indexed for MEDLINE]
+

@@ -1,0 +1,42 @@
+
+1. Sci Rep. 2017 Apr 7;7(1):723. doi: 10.1038/s41598-017-00801-9.
+
+Frequent GU wobble pairings reduce translation efficiency in Plasmodium
+falciparum.
+
+Chan S(1), Ch'ng JH(2)(3), Wahlgren M(2), Thutkawkorapin J(4).
+
+Author information: 
+(1)Department of Microbiology, Tumor and Cell Biology (MTC), Karolinska
+Institutet, Box 280, Nobels väg 16, 171 65, Stockholm, Sweden.
+sherwin.chan@ki.se.
+(2)Department of Microbiology, Tumor and Cell Biology (MTC), Karolinska
+Institutet, Box 280, Nobels väg 16, 171 65, Stockholm, Sweden.
+(3)Department of Microbiology and Immunology, National University of Singapore,
+Singapore, Singapore.
+(4)Department of Molecular Medicine and Surgery, Karolinska Institutet,
+Stockholm, Sweden.
+
+Plasmodium falciparum genome has 81% A+T content. This nucleotide bias leads to
+extreme codon usage bias and culminates in frequent insertion of asparagine
+homorepeats in the proteome. Using recodonized GFP sequences, we show that codons
+decoded via G:U wobble pairing are suboptimal codons that are negatively
+associated to protein translation efficiency. Despite this, one third of all
+codons in the genome are GU wobble codons, suggesting that codon usage in P.
+falciparum has not been driven to maximize translation efficiency, but may have
+evolved as translational regulatory mechanism. Particularly, asparagine
+homorepeats are generally encoded by locally clustered GU wobble AAT codons, we
+demonstrated that this GU wobble-rich codon context is the determining factor
+that causes reduction of protein level. Moreover, insertion of clustered AAT
+codons also causes destabilization of the transcripts. Interestingly, more
+frequent asparagine homorepeats insertion is seen in single-exon genes,
+suggesting transcripts of these genes may have been programmed for rapid mRNA
+decay to compensate for the inefficiency of mRNA surveillance regulation on
+intronless genes. To our knowledge, this is the first study that addresses P.
+falciparum codon usage in vitro and provides new insights on translational
+regulation and genome evolution of this parasite.
+
+DOI: 10.1038/s41598-017-00801-9 
+PMCID: PMC5429705
+PMID: 28389662  [Indexed for MEDLINE]
+

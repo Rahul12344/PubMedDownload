@@ -1,0 +1,54 @@
+
+1. PLoS One. 2018 Aug 1;13(8):e0201556. doi: 10.1371/journal.pone.0201556.
+eCollection 2018.
+
+Deciphering the targets of retroviral protease inhibitors in Plasmodium berghei.
+
+Onchieku NM(1)(2), Mogire R(1)(3), Ndung'u L(1), Mwitari P(2), Kimani F(4),
+Matoke-Muhia D(4), Kiboi D(3)(5)(6), Magoma G(1)(6).
+
+Author information: 
+(1)Department of Molecular Biology and Biotechnology, Pan African University
+Institute for Basic Sciences Technology and Innovation (PAUSTI), Nairobi, Kenya.
+(2)Centre for Traditional Medicine and Drug Research, Kenya Medical Research
+Institute (KEMRI), Nairobi, Kenya.
+(3)Kenya Medical Research Institute (KEMRI)/Wellcome Trust, Collaborative
+Research Program, Kilifi, Kenya.
+(4)Centre for Biotechnology Research and Development, Kenya Medical Research
+Institute (KEMRI), Nairobi, Kenya.
+(5)West Africa Centre for Cell Biology and Infectious Pathogens, University of
+Ghana, Accra, Ghana.
+(6)Department of Biochemistry, Jomo Kenyatta University of Agriculture and
+Technology (JKUAT), Nairobi, Kenya.
+
+Retroviral protease inhibitors (RPIs) such as lopinavir (LP) and saquinavir (SQ) 
+are active against Plasmodium parasites. However, the exact molecular target(s)
+for these RPIs in the Plasmodium parasites remains poorly understood. We
+hypothesised that LP and SQ suppress parasite growth through inhibition of
+aspartyl proteases. Using reverse genetics approach, we embarked on separately
+generating knockout (KO) parasite lines lacking Plasmepsin 4 (PM4), PM7, PM8, or 
+DNA damage-inducible protein 1 (Ddi1) in the rodent malaria parasite Plasmodium
+berghei ANKA. We then tested the suppressive profiles of the LP/Ritonavir (LP/RT)
+and SQ/RT as well as antimalarials; Amodiaquine (AQ) and Piperaquine (PQ) against
+the KO parasites in the standard 4-day suppressive test. The Ddi1 gene proved
+refractory to deletion suggesting that the gene is essential for the growth of
+the asexual blood stage parasites. Our results revealed that deletion of PM4
+significantly reduces normal parasite growth rate phenotype (P = 0.003). Unlike
+PM4_KO parasites which were less susceptible to LP and SQ (P = 0.036, P = 0.030),
+the suppressive profiles for PM7_KO and PM8_KO parasites were comparable to those
+for the WT parasites. This finding suggests a potential role of PM4 in the LP and
+SQ action. On further analysis, modelling and molecular docking studies revealed 
+that both LP and SQ displayed high binding affinities (-6.3 kcal/mol to -10.3
+kcal/mol) towards the Plasmodium aspartyl proteases. We concluded that PM4 plays 
+a vital role in assuring asexual stage parasite fitness and might be mediating LP
+and SQ action. The essential nature of the Ddi1 gene warrants further studies to 
+evaluate its role in the parasite asexual blood stage growth as well as a
+possible target for the RPIs.
+
+DOI: 10.1371/journal.pone.0201556 
+PMCID: PMC6070271
+PMID: 30067811  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

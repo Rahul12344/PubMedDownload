@@ -1,0 +1,43 @@
+
+1. Sci Rep. 2017 Jun 20;7(1):3881. doi: 10.1038/s41598-017-03984-3.
+
+Generating conditional gene knockouts in Plasmodium - a toolkit to produce stable
+DiCre recombinase-expressing parasite lines using CRISPR/Cas9.
+
+Knuepfer E(1), Napiorkowska M(2)(3), van Ooij C(4), Holder AA(5).
+
+Author information: 
+(1)Malaria Parasitology Laboratory, The Francis Crick Institute, 1 Midland Road, 
+London, NW1 1AT, United Kingdom. Ellen.Knuepfer@crick.ac.uk.
+(2)Malaria Biochemistry Laboratory, The Francis Crick Institute, 1 Midland Road, 
+London, NW1 1AT, United Kingdom.
+(3)Department of Biosystems Science and Engineering, ETH Zurich, Mattenstrasse
+26, Basel, 4058, Switzerland.
+(4)Malaria Biochemistry Laboratory, The Francis Crick Institute, 1 Midland Road, 
+London, NW1 1AT, United Kingdom. Christiaan.vanOoij@crick.ac.uk.
+(5)Malaria Parasitology Laboratory, The Francis Crick Institute, 1 Midland Road, 
+London, NW1 1AT, United Kingdom. Tony.Holder@crick.ac.uk.
+
+Successful establishment of CRISPR/Cas9 genome editing technology in Plasmodium
+spp. has provided a powerful tool to transform Plasmodium falciparum into a
+genetically more tractable organism. Conditional gene regulation approaches are
+required to study the function of gene products critical for growth and
+erythrocyte invasion of blood stage parasites. Here we employ CRISPR/Cas9 to
+facilitate use of the dimerisable Cre-recombinase (DiCre) that is frequently used
+to mediate the excision and loss of loxP-flanked DNA sequences in a rapamycin
+controlled manner. We describe novel CRISPR/Cas9 transfection plasmids and
+approaches for the speedy, stable and marker-free introduction of transgenes
+encoding the DiCre recombinase into genomic loci dispensable for blood stage
+development. Together these plasmids form a toolkit that will allow the rapid
+generation of transgenic DiCre-expressing P. falciparum lines in any genetic
+background. Furthermore, the newly developed 3D7-derived parasite lines,
+constitutively and stably expressing DiCre, generated using this toolkit will
+prove useful for the analysis of gene products. Lastly, we introduce an improved 
+treatment protocol that uses a lower rapamycin concentration and shorter
+treatment times, leading to loxP-guided recombination with close to 100%
+efficiency within the same replication cycle.
+
+DOI: 10.1038/s41598-017-03984-3 
+PMCID: PMC5478596
+PMID: 28634346  [Indexed for MEDLINE]
+

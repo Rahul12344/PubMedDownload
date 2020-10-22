@@ -1,0 +1,52 @@
+
+1. Virol J. 2013 Jun 22;10:205. doi: 10.1186/1743-422X-10-205.
+
+The eukaryotic translation initiation factor 3 subunit L protein interacts with
+Flavivirus NS5 and may modulate yellow fever virus replication.
+
+Morais ATs(1), Terzian AC, Duarte DV, Bronzoni RV, Madrid MC, Gavioli AF, Gil LH,
+Oliveira AG, Zanelli CF, Valentini SR, Rahal P, Nogueira ML.
+
+Author information: 
+(1)Laboratório de Pesquisas em Virologia, Departamento de Doenças Dermatológicas,
+Infecciosas e Parasitárias, Faculdade de Medicina de São José do Rio
+Preto-FAMERP, Av. Brigadeiro Faria Lima 5416, São José do Rio Preto, SP
+15090-000, Brazil.
+
+BACKGROUND: Yellow fever virus (YFV) belongs to the Flavivirus genus and causes
+an important disease. An alarming resurgence of viral circulation and the
+expansion of YFV-endemic zones have been detected in Africa and South America in 
+recent years. NS5 is a viral protein that contains methyltransferase and
+RNA-dependent RNA polymerase (RdRp) domains, which are essential for viral
+replication, and the interactions between NS5 and cellular proteins have been
+studied to better understand viral replication. The aim of this study was to
+characterize the interaction of the NS5 protein with eukaryotic translation
+initiation factor 3 subunit L (eIF3L) and to evaluate the role of eIF3L in yellow
+fever replication.
+METHODS: To identify interactions of YFV NS5 with cellular proteins, we performed
+a two-hybrid screen using the YFV NS5 RdRp domain as bait with a human cDNA
+library, and RNApol deletion mutants were generated and analyzed using the
+two-hybrid system for mapping the interactions. The RNApol region involved was
+segmented into three fragments and analyzed using an eIF3L-expressing yeast
+strain. To map the NS5 residues that are critical for the interactions, we
+performed site-direct mutagenesis in segment 3 of the interaction domain (ID) and
+confirmed the interaction using in vitro assays and in vivo
+coimmunoprecipitation. The significance of eIF3L for YFV replication was
+investigated using eIF3L overexpression and RNA interference.
+RESULTS: In this work, we describe and characterize the interaction of NS5 with
+the translation factor eIF3L. The interaction between NS5 and eIF3L was confirmed
+using in vitro binding and in vivo coimmunoprecipitation assays. This interaction
+occurs at a region (the interaction domain of the RNApol domain) that is
+conserved in several flaviviruses and that is, therefore, likely to be relevant
+to the genus. eIF3L overexpression and plaque reduction assays showed a slight
+effect on YFV replication, indicating that the interaction of eIF3L with YFV NS5 
+may play a role in YFV replication.
+CONCLUSIONS: Although the precise function of eIF3L on interactions with viral
+proteins is not entirely understood, these results indicate an interaction of
+eIF3L with YF NS5 and that eIF3L overexpression facilitates translation, which
+has potential implications for virus replication.
+
+DOI: 10.1186/1743-422X-10-205 
+PMCID: PMC3698205
+PMID: 23800076  [Indexed for MEDLINE]
+

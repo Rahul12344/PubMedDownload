@@ -1,0 +1,54 @@
+
+1. Malar J. 2015 Feb 8;14:70. doi: 10.1186/s12936-015-0562-1.
+
+Identification of important interacting proteins (IIPs) in Plasmodium falciparum 
+using large-scale interaction network analysis and in-silico knock-out studies.
+
+Bhattacharyya M(1), Chakrabarti S(2).
+
+Author information: 
+(1)Structural Biology and Bioinformatics Division, Council of Scientific and
+Industrial Research-Indian Institute of Chemical Biology, Kolkata, 700032, West
+Bengal, India. madhu84.life@gmail.com.
+(2)Structural Biology and Bioinformatics Division, Council of Scientific and
+Industrial Research-Indian Institute of Chemical Biology, Kolkata, 700032, West
+Bengal, India. saikat@iicb.res.in.
+
+BACKGROUND: Plasmodium falciparum causes the most severe form of malaria and
+affects 3.2 million people annually. Due to the increasing incidence of
+resistance to existing drugs, there is a growing need to discover new and more
+effective drugs against malaria. Despite the global importance of P. falciparum, 
+vast majority of its proteins are uncharacterized experimentally. Application of 
+newer approaches using several "omics" data has become successful for exploring
+the biological interactions underlying cellular processes. Till date not many
+system level study has been published using P. falciparum protein protein
+interaction. Hence, the purpose of this study is to develop a standardized
+pipeline for structural, functional, and topographical analysis of large scale
+protein protein interaction network (PPIN) in order to identify proteins
+important for network topology and integrity. Here, P. falciparum PPIN has been
+utilized as a model for better understanding of the molecular mechanisms of
+survival and pathogenesis of malaria parasite.
+METHODS: Various graph theoretical approaches were implemented to identify highly
+interacting hub and central proteins that are crucial for network integrity.
+Further, potential network perturbing proteins via an in-silico knock-out (KO)
+analysis to isolate important interacting proteins (IIPs), which in principle,
+can elicit significant impact on the global and local environments of the P.
+falciparum interaction network.
+RESULTS: 177 hubs and 132 central proteins were identified from the malarial
+(proteins: 1607; interactions: 4750) PPI networks. Using the in-silico knock-out 
+exercise 131 and 99 global and local network perturbing proteins were also
+identified. Finally, 271 proteins from P. falciparum were shortlisted as
+important interacting proteins (IIPs), which not only play crucial role in
+intra-pathogen network integrity, stage specificity but also interact with
+various human proteins involved in multiple metabolic pathways within the host
+cell. These IIPs could be used as potential drug targets in malarial research.
+CONCLUSION: Graph theoretical analysis of PPIN can be a very useful approach to
+identify proteins that are important for regulation of the interactions required 
+for an organism's survival. Important interacting proteins (IIPs) identified
+using P. falciparum PPIN provides a useful dataset containing probable candidates
+for future drug target analysis.
+
+DOI: 10.1186/s12936-015-0562-1 
+PMCID: PMC4333160
+PMID: 25879642  [Indexed for MEDLINE]
+

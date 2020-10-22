@@ -1,0 +1,27 @@
+
+1. J R Soc Interface. 2007 Aug 22;4(15):699-706.
+
+A stochastic model for infectious salmon anemia (ISA) in Atlantic salmon farming.
+
+Scheel I(1), Aldrin M, Frigessi A, Jansen PA.
+
+Author information: 
+(1)Department of Mathematics and (sfi)2 - Statistics for Innovation, University
+of Oslo, Blindern, 0316 Oslo, Norway. idasch@math.uio.no
+
+Infectious salmon anemia (ISA) is one of the main infectious diseases in Atlantic
+salmon farming with major economical implications. Despite the strong regulatory 
+interventions, the ISA epidemic is not under control, worldwide. We study the
+data covering salmon farming in Norway from 2002 to 2005 and propose a stochastic
+space-time model for the transmission of the virus. We model seaway transmission 
+between farm sites, transmission through shared management and infrastructure,
+biomass effects and other potential pathways within the farming industry. We find
+that biomass has an effect on infectiousness, the local contact network and
+seaway distance of 5 km represent similar risks, but a large component of risk
+originates from other sources, among which are possibly infected salmon smolt and
+boat traffic.
+
+DOI: 10.1098/rsif.2007.0217 
+PMCID: PMC2373393
+PMID: 17301014  [Indexed for MEDLINE]
+

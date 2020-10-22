@@ -1,0 +1,66 @@
+
+1. PLoS Comput Biol. 2013;9(12):e1003392. doi: 10.1371/journal.pcbi.1003392. Epub
+2013 Dec 12.
+
+Inferring developmental stage composition from gene expression in human malaria.
+
+Joice R(1), Narasimhan V(2), Montgomery J(3), Sidhu AB(4), Oh K(2), Meyer E(1),
+Pierre-Louis W(2), Seydel K(5), Milner D(6), Williamson K(7), Wiegand R(4),
+Ndiaye D(8), Daily J(9), Wirth D(10), Taylor T(5), Huttenhower C(11), Marti M(1).
+
+Author information: 
+(1)Department of Immunology and Infectious Diseases, Harvard School of Public
+Health, Boston, Massachusetts, United States of America.
+(2)Department of Biostatistics, Harvard School of Public Health, Boston,
+Massachusetts, United States of America.
+(3)Malawi-Liverpool-Wellcome Trust Clinical Research Programme, Blantyre, Malawi 
+; Liverpool School of Tropical Medicine, Liverpool, United Kingdom.
+(4)The Broad Institute of Harvard and MIT, Cambridge, Massachusetts, United
+States of America.
+(5)College of Osteopathic Medicine, Michigan State University, East Lansing,
+Michigan, United States of America ; Blantyre Malaria Project, University of
+Malawi College of Medicine, Blantyre, Malawi.
+(6)Department of Immunology and Infectious Diseases, Harvard School of Public
+Health, Boston, Massachusetts, United States of America ; Department of
+Pathology, Brigham and Women's Hospital, Boston, Massachusetts, United States of 
+America.
+(7)Department of Biology, Loyola University Chicago, Chicago, Illinois, United
+States of America.
+(8)Faculty of Medicine and Pharmacy, Cheikh Anta Diop University, Dakar, Senegal.
+(9)Department of Immunology and Infectious Diseases, Harvard School of Public
+Health, Boston, Massachusetts, United States of America ; Department of Medicine,
+Albert Einstein College of Medicine, Bronx, New York, New York, United States of 
+America.
+(10)Department of Immunology and Infectious Diseases, Harvard School of Public
+Health, Boston, Massachusetts, United States of America ; The Broad Institute of 
+Harvard and MIT, Cambridge, Massachusetts, United States of America.
+(11)Department of Biostatistics, Harvard School of Public Health, Boston,
+Massachusetts, United States of America ; The Broad Institute of Harvard and MIT,
+Cambridge, Massachusetts, United States of America.
+
+In the current era of malaria eradication, reducing transmission is critical.
+Assessment of transmissibility requires tools that can accurately identify the
+various developmental stages of the malaria parasite, particularly those required
+for transmission (sexual stages). Here, we present a method for estimating
+relative amounts of Plasmodium falciparum asexual and sexual stages from gene
+expression measurements. These are modeled using constrained linear regression to
+characterize stage-specific expression profiles within mixed-stage populations.
+The resulting profiles were analyzed functionally by gene set enrichment analysis
+(GSEA), confirming differentially active pathways such as increased mitochondrial
+activity and lipid metabolism during sexual development. We validated model
+predictions both from microarrays and from quantitative RT-PCR (qRT-PCR)
+measurements, based on the expression of a small set of key transcriptional
+markers. This sufficient marker set was identified by backward selection from the
+whole genome as available from expression arrays, targeting one sentinel marker
+per stage. The model as learned can be applied to any new microarray or qRT-PCR
+transcriptional measurement. We illustrate its use in vitro in inferring changes 
+in stage distribution following stress and drug treatment and in vivo in
+identifying immature and mature sexual stage carriers within patient cohorts. We 
+believe this approach will be a valuable resource for staging lab and field
+samples alike and will have wide applicability in epidemiological studies of
+malaria transmission.
+
+DOI: 10.1371/journal.pcbi.1003392 
+PMCID: PMC3861035
+PMID: 24348235  [Indexed for MEDLINE]
+

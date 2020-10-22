@@ -1,0 +1,60 @@
+
+1. mBio. 2020 Sep 8;11(5). pii: e01354-20. doi: 10.1128/mBio.01354-20.
+
+Live-Cell FRET Reveals that Malaria Nutrient Channel Proteins CLAG3 and RhopH2
+Remain Associated throughout Their Tortuous Trafficking.
+
+Ahmad M(1), Manzella-Lapeira J(2), Saggu G(1), Ito D(1), Brzostowski JA(2), Desai
+SA(3).
+
+Author information: 
+(1)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Rockville, Maryland, USA.
+(2)Laboratory of Immunogenetics, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, Rockville, Maryland, USA.
+(3)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Rockville, Maryland, USA
+sdesai@niaid.nih.gov.
+
+Malaria parasites increase their host erythrocyte's permeability to various
+nutrients, fueling intracellular pathogen development and replication. The
+plasmodial surface anion channel (PSAC) mediates this uptake and is linked to the
+parasite-encoded RhopH complex, consisting of CLAG3, RhopH2, and RhopH3. While
+interactions between these subunits are well established, it is not clear whether
+they remain associated from their synthesis in developing merozoites through
+erythrocyte invasion and trafficking to the host membrane. Here, we explored
+protein-protein interactions between RhopH subunits using live-cell imaging and
+Förster resonance energy transfer (FRET) experiments. Using the green fluorescent
+protein (GFP) derivatives mCerulean and mVenus, we generated single- and
+double-tagged parasite lines for fluorescence measurements. While CLAG3-mCerulean
+served as an efficient FRET donor for RhopH2-mVenus within rhoptry organelles,
+mCerulean targeted to this organelle via a short signal sequence produced
+negligible FRET. Upon merozoite egress and reinvasion, these tagged RhopH
+subunits were deposited into the new host cell's parasitophorous vacuole; these
+proteins were then exported and trafficked to the erythrocyte membrane, where
+CLAG3 and RhopH2 remained fully associated. Fluorescence intensity measurements
+identified stoichiometric increases in exported RhopH protein when erythrocytes
+are infected with two parasites; whole-cell patch-clamp revealed a concomitant
+increase in PSAC functional copy number and a dose effect for RhopH contribution 
+to ion and nutrient permeability. These studies establish live-cell FRET imaging 
+in human malaria parasites, reveal that RhopH subunits traffic to their host
+membrane destination without dissociation, and suggest quantitative contribution 
+to PSAC formation.IMPORTANCE Malaria parasites grow within circulating red blood 
+cells and uptake nutrients through a pore on their host membrane. Here, we used
+gene editing to tag CLAG3 and RhopH2, two proteins linked to the nutrient pore,
+with fluorescent markers and tracked these proteins in living infected cells.
+After their synthesis in mature parasites, imaging showed that both proteins are 
+packaged into membrane-bound rhoptries. When parasites ruptured their host cells 
+and invaded new red blood cells, these proteins were detected within a vacuole
+around the parasite before they migrated and inserted in the surface membrane of 
+the host cell. Using simultaneous labeling of CLAG3 and RhopH2, we determined
+that these proteins interact tightly during migration and after surface membrane 
+insertion. Red blood cells infected with two parasites had twice the protein at
+their surface and a parallel increase in the number of nutrient pores. Our work
+suggests that these proteins directly facilitate parasite nutrient uptake from
+human plasma.
+
+DOI: 10.1128/mBio.01354-20 
+PMCID: PMC7482060
+PMID: 32900800 
+

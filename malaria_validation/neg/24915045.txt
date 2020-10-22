@@ -1,0 +1,47 @@
+
+1. Nat Commun. 2014 Jun 10;5:3977. doi: 10.1038/ncomms4977.
+
+A synthetic sex ratio distortion system for the control of the human malaria
+mosquito.
+
+Galizi R(1), Doyle LA(2), Menichelli M(3), Bernardini F(3), Deredec A(3), Burt
+A(3), Stoddard BL(2), Windbichler N(4), Crisanti A(5).
+
+Author information: 
+(1)1] Department of Life Sciences, Imperial College London, South Kensington
+Campus, London SW7 2AZ, UK [2] Centro di Genomica Funzionale, University of
+Perugia, Dipartimento di Medicina Sperimentale Via Gambuli, Edificio D, 3° Piano,
+06132 Perugia, Italy.
+(2)Division of Basic Sciences, Fred Hutchinson Cancer Research Center, Seattle,
+Washington 98109, USA.
+(3)Department of Life Sciences, Imperial College London, South Kensington Campus,
+London SW7 2AZ, UK.
+(4)1] Department of Life Sciences, Imperial College London, South Kensington
+Campus, London SW7 2AZ, UK [2].
+(5)1] Department of Life Sciences, Imperial College London, South Kensington
+Campus, London SW7 2AZ, UK [2] Centro di Genomica Funzionale, University of
+Perugia, Dipartimento di Medicina Sperimentale Via Gambuli, Edificio D, 3° Piano,
+06132 Perugia, Italy [3].
+
+Comment in
+    Nat Methods. 2014 Aug;11(8):793.
+
+It has been theorized that inducing extreme reproductive sex ratios could be a
+method to suppress or eliminate pest populations. Limited knowledge about the
+genetic makeup and mode of action of naturally occurring sex distorters and the
+prevalence of co-evolving suppressors has hampered their use for control. Here we
+generate a synthetic sex distortion system by exploiting the specificity of the
+homing endonuclease I-PpoI, which is able to selectively cleave ribosomal gene
+sequences of the malaria vector Anopheles gambiae that are located exclusively on
+the mosquito's X chromosome. We combine structure-based protein engineering and
+molecular genetics to restrict the activity of the potentially toxic endonuclease
+to spermatogenesis. Shredding of the paternal X chromosome prevents it from being
+transmitted to the next generation, resulting in fully fertile mosquito strains
+that produce >95% male offspring. We demonstrate that distorter male mosquitoes
+can efficiently suppress caged wild-type mosquito populations, providing the
+foundation for a new class of genetic vector control strategies.
+
+DOI: 10.1038/ncomms4977 
+PMCID: PMC4057611
+PMID: 24915045  [Indexed for MEDLINE]
+

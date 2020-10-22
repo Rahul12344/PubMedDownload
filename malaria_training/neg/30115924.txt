@@ -1,0 +1,54 @@
+
+1. Nat Commun. 2018 Aug 17;9(1):3314. doi: 10.1038/s41467-018-05652-0.
+
+Emerging Southeast Asian PfCRT mutations confer Plasmodium falciparum resistance 
+to the first-line antimalarial piperaquine.
+
+Ross LS(1), Dhingra SK(1), Mok S(1), Yeo T(1), Wicht KJ(1), Kümpornsin K(1)(2),
+Takala-Harrison S(3), Witkowski B(4), Fairhurst RM(5)(6), Ariey F(7), Menard
+D(4)(8), Fidock DA(9)(10).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Columbia University Irving Medical 
+Center, 1502 Hammer Health Sciences Center, 701 W. 168th St., New York, NY,
+10032, USA.
+(2)Parasites and Microbes, Wellcome Sanger Institute, Wellcome Genome Campus,
+Hinxton, Cambridge, CB10 1SA, UK.
+(3)Center for Vaccine Development and Global Health, University of Maryland
+School of Medicine, 685 W. Baltimore Street, Baltimore, MD, 21201, USA.
+(4)Malaria Molecular Epidemiology Unit, Pasteur Institute in Cambodia, PO Box
+983, Phnom Penh, Cambodia.
+(5)Laboratory of Malaria and Vector Research, NIAID, NIH, 12735 Twinbrook
+Parkway, Bethesda, MD, 20852, USA.
+(6)Parasitology and International Programs Branch, DHHS, NIAID, NIH, Rockville,
+MD, 20852, USA.
+(7)Cochin Institute INSERM U1016, University Paris Descartes, and Laboratory of
+Parasitology-Mycology, Cochin Hospital, 22 rue Méchain, 75014, Paris, France.
+(8)Malaria Genetic and Resistance Group, Biology of Host-Parasite Interactions
+Unit, Pasteur Institute, 25-28 Rue du Dr. Roux, 75724, Paris, France.
+(9)Department of Microbiology and Immunology, Columbia University Irving Medical 
+Center, 1502 Hammer Health Sciences Center, 701 W. 168th St., New York, NY,
+10032, USA. df2260@cumc.columbia.edu.
+(10)Division of Infectious Diseases, Department of Medicine, Columbia University 
+Irving Medical Center, New York, NY, 10032, USA. df2260@cumc.columbia.edu.
+
+The widely used antimalarial combination therapy dihydroartemisinin + piperaquine
+(DHA + PPQ) has failed in Cambodia. Here, we perform a genomic analysis that
+reveals a rapid increase in the prevalence of novel mutations in the Plasmodium
+falciparum chloroquine resistance transporter PfCRT following DHA + PPQ
+implementation. These mutations occur in parasites harboring the K13 C580Y
+artemisinin resistance marker. By introducing PfCRT mutations into sensitive Dd2 
+parasites or removing them from resistant Cambodian isolates, we show that the
+H97Y, F145I, M343L, or G353V mutations each confer resistance to PPQ, albeit with
+fitness costs for all but M343L. These mutations sensitize Dd2 parasites to
+chloroquine, amodiaquine, and quinine. In Dd2 parasites, multicopy plasmepsin 2, 
+a candidate molecular marker, is not necessary for PPQ resistance. Distended
+digestive vacuoles were observed in pfcrt-edited Dd2 parasites but not in
+Cambodian isolates. Our findings provide compelling evidence that emerging
+mutations in PfCRT can serve as a molecular marker and mediator of PPQ
+resistance.
+
+DOI: 10.1038/s41467-018-05652-0 
+PMCID: PMC6095916
+PMID: 30115924  [Indexed for MEDLINE]
+

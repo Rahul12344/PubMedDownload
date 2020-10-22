@@ -1,0 +1,34 @@
+
+1. Math Biosci. 2015 Sep;267:24-40. doi: 10.1016/j.mbs.2015.06.007. Epub 2015 Jun
+23.
+
+Mathematical analysis of a multiple strain, multi-locus-allele system for
+antigenically variable infectious diseases revisited.
+
+Cherif A(1).
+
+Author information: 
+(1)Wolfson Centre for Mathematical Biology, Mathematical Institute, University of
+Oxford, Andrew Wiles Building, Radcliffe Observatory Quarter, Woodstock Road,
+Oxford OX2 6GG, United Kingdom. Electronic address: alhaji.cherif@maths.ox.ac.uk.
+
+Many important pathogens such as HIV/AIDS, influenza, malaria, dengue and
+meningitis generally exist in phenotypically distinct serotypes that compete for 
+hosts. Models used to study these diseases appear as meta-population systems.
+Herein, we revisit one of the multiple strain models that have been used to
+investigate the dynamics of infectious diseases with co-circulating serotypes or 
+strains, and provide analytical results underlying the numerical investigations. 
+In particular, we establish the necessary conditions for the local asymptotic
+stability of the steady states and for the existence of oscillatory behaviors via
+Hopf bifurcation. In addition, we show that the existence of discrete antigenic
+forms among pathogens can either fully or partially self-organize, where (i)
+strains exhibit no strain structures and coexist or (ii) antigenic variants sort 
+into non-overlapping or minimally overlapping clusters that either undergo the
+principle of competitive exclusion exhibiting discrete strain structures, or
+co-exist cyclically.
+
+Copyright © 2015. Published by Elsevier Inc.
+
+DOI: 10.1016/j.mbs.2015.06.007 
+PMID: 26116427  [Indexed for MEDLINE]
+

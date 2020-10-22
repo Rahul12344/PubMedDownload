@@ -1,0 +1,28 @@
+
+1. Nat Immunol. 2013 Feb;14(2):179-85. doi: 10.1038/ni.2509. Epub 2012 Dec 23.
+
+Identification of regulators of the innate immune response to cytosolic DNA and
+retroviral infection by an integrative approach.
+
+Lee MN(1), Roy M, Ong SE, Mertins P, Villani AC, Li W, Dotiwala F, Sen J, Doench 
+JG, Orzalli MH, Kramnik I, Knipe DM, Lieberman J, Carr SA, Hacohen N.
+
+Author information: 
+(1)Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA.
+
+The innate immune system senses viral DNA that enters mammalian cells, or in
+aberrant situations self-DNA, and triggers type I interferon production. Here we 
+present an integrative approach that combines quantitative proteomics, genomics
+and small molecule perturbations to identify genes involved in this pathway. We
+silenced 809 candidate genes, measured the response to dsDNA and connected
+resulting hits with the known signaling network. We identified ABCF1 as a
+critical protein that associates with dsDNA and the DNA-sensing components HMGB2 
+and IFI204. We also found that CDC37 regulates the stability of the signaling
+molecule TBK1 and that chemical inhibition of the CDC37-HSP90 interaction and
+several other pathway regulators potently modulates the innate immune response to
+DNA and retroviral infection.
+
+DOI: 10.1038/ni.2509 
+PMCID: PMC3838897
+PMID: 23263557  [Indexed for MEDLINE]
+

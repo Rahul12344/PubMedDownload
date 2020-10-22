@@ -1,0 +1,42 @@
+
+1. J Virol. 2010 Oct;84(19):9718-32. doi: 10.1128/JVI.00713-10. Epub 2010 Jul 21.
+
+Bub1 and CENP-F can contribute to Kaposi's sarcoma-associated herpesvirus genome 
+persistence by targeting LANA to kinetochores.
+
+Xiao B(1), Verma SC, Cai Q, Kaul R, Lu J, Saha A, Robertson ES.
+
+Author information: 
+(1)Department of Microbiology and Tumor Virology Program of the Abramson
+Comprehensive Cancer Center, University of Pennsylvania School of Medicine,
+Philadelphia, PA 19104, USA.
+
+The latency-associated nuclear antigen (LANA) encoded by Kaposi's
+sarcoma-associated herpesvirus (KSHV) is critical for segregation of viral
+episomes to progeny nuclei and allows for maintenance of the viral genome in
+newly divided daughter cells. LANA binds to KSHV terminal repeat (TR) DNA and
+simultaneously associates with chromatin-bound cellular proteins. This process
+tethers the viral episomes to host chromosomes. However, the mechanism of
+tethering is complex and involves multiple protein-protein interactions. Our
+previous proteomics studies which showed the association of LANA with centromeric
+protein F (CENP-F) prompted us to further study whether LANA targets centromeric 
+proteins for persistence of KSHV episomes during cell division. Here we show that
+LANA colocalized with CENP-F as speckles, some of which are paired at centromeric
+regions of a subset of chromosomes in KSHV-infected JSC-1 cells. We also confirm 
+that both the amino and carboxy termini of LANA can bind to CENP-F. Moreover,
+LANA associated with another kinetochore protein, Bub1 (budding uninhibited by
+benzimidazole 1), which is known to form a complex with CENP-F. Importantly, we
+demonstrated the dynamic association of LANA and Bub1/CENP-F and the
+colocalization between Bub1, LANA, and the KSHV episome tethered to the host
+chromosome using fluorescence in situ hybridization (FISH). Knockdown of Bub1
+expression by lentivirus-delivered short hairpin RNA (shRNA) dramatically reduced
+the number of KSHV genome copies, whereas no dramatic effect was seen with CENP-F
+knockdown. Therefore, the interaction between LANA and the kinetochore proteins
+CENP-F and Bub1 is important for KSHV genome tethering and its segregation to new
+daughter cells, with Bub1 potentially playing a more critical role in the
+long-term persistence of the viral genome in the infected cell.
+
+DOI: 10.1128/JVI.00713-10 
+PMCID: PMC2937805
+PMID: 20660191  [Indexed for MEDLINE]
+

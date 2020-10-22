@@ -1,0 +1,39 @@
+
+1. J Vis Exp. 2016 Mar 8;(109). doi: 10.3791/53738.
+
+RNAi Trigger Delivery into Anopheles gambiae Pupae.
+
+Regna K(1), Harrison RM(1), Heyse SA(1), Chiles TC(1), Michel K(2), Muskavitch
+MA(3).
+
+Author information: 
+(1)Biology Department, Boston College.
+(2)Division of Biology, Kansas State University.
+(3)Biology Department, Boston College; Discovery Research, Biogen;
+marc.muskavitch@biogen.com.
+
+RNA interference (RNAi), a naturally occurring phenomenon in eukaryotic
+organisms, is an extremely valuable tool that can be utilized in the laboratory
+for functional genomic studies. The ability to knockdown individual genes
+selectively via this reverse genetic technique has allowed many researchers to
+rapidly uncover the biological roles of numerous genes within many organisms, by 
+evaluation of loss-of-function phenotypes. In the major human malaria vector
+Anopheles gambiae, the predominant method used to reduce the function of targeted
+genes involves injection of double-stranded (dsRNA) into the hemocoel of the
+adult mosquito. While this method has been successful, gene knockdown in adults
+excludes the functional assessment of genes that are expressed and potentially
+play roles during pre-adult stages, as well as genes that are expressed in
+limited numbers of cells in adult mosquitoes. We describe a method for the
+injection of Serine Protease Inhibitor 2 (SRPN2) dsRNA during the early pupal
+stage and validate SRPN2 protein knockdown by observing decreased target protein 
+levels and the formation of melanotic pseudo-tumors in SRPN2 knockdown adult
+mosquitoes. This evident phenotype has been described previously for adult stage 
+knockdown of SRPN2 function, and we have recapitulated this adult phenotype by
+SRPN2 knockdown initiated during pupal development. When used in conjunction with
+a dye-labeled dsRNA solution, this technique enables easy visualization by simple
+light microscopy of injection quality and distribution of dsRNA in the hemocoel.
+
+DOI: 10.3791/53738 
+PMCID: PMC4828232
+PMID: 27023367  [Indexed for MEDLINE]
+

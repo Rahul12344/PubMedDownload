@@ -1,0 +1,33 @@
+
+1. Biochemistry. 2005 Nov 8;44(44):14577-85.
+
+Hammerheads derived from sTRSV show enhanced cleavage and ligation rate
+constants.
+
+Nelson JA(1), Shepotinovskaya I, Uhlenbeck OC.
+
+Author information: 
+(1)Department of Biochemistry, Molecular Biology and Cell Biology, Northwestern
+University, 2205 Tech Drive, Hogan 2-100, Evanston, Illinois 60208, USA.
+
+The catalytic properties of the hammerhead ribozyme embedded in the (+) strand of
+the satellite tobacco ringspot viral genome are analyzed with the goal of
+obtaining the elemental rate constants of the cleavage (k(2)) and ligation
+(k(-)(2)) steps. Two different chimeras combining the sTRSV (+) hammerhead and
+the well-characterized hammerhead 16 were used to measure the cleavage rate
+constant (k(2)), the rate of approach to equilibrium (k(obs) = k(2) + k(-)(2)),
+and the fraction of full-length hammerhead at equilibrium (k(-)(2)/k(2) +
+k(-)(2)). When compared to minimal hammerheads that lack the recently discovered 
+loop I-loop II interaction, an extended format hammerhead derived from sTRSV
+studied here shows at least a 20-fold faster k(2) and a 1300-fold faster k(-)(2) 
+at 10 mM MgCl(2). However, the magnesium dependence of the cleavage rate is not
+significantly changed. Thus, the enhanced cleavage of this hammerhead observed in
+vivo is due to its higher intrinsic rate and not due to its tighter binding of
+magnesium ions. The faster k(-)(2) of this hammerhead suggests that ligation may 
+be used to form circular RNA genomes. This in vitro system will be valuable for
+experiments directed at understanding the hammerhead mechanism and the role of
+the loop I-loop II interaction.
+
+DOI: 10.1021/bi051130t 
+PMID: 16262257  [Indexed for MEDLINE]
+

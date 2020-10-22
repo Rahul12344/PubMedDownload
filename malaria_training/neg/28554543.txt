@@ -1,0 +1,43 @@
+
+1. J Immunol Methods. 2017 Sep;448:66-73. doi: 10.1016/j.jim.2017.05.010. Epub 2017 
+May 26.
+
+A method for the isolation and characterization of functional murine monoclonal
+antibodies by single B cell cloning.
+
+Carbonetti S(1), Oliver BG(1), Vigdorovich V(1), Dambrauskas N(1), Sack B(1),
+Bergl E(1), Kappe SHI(1), Sather DN(2).
+
+Author information: 
+(1)Center for Infectious Disease Research (formerly Seattle BioMed), Seattle, WA,
+USA.
+(2)Center for Infectious Disease Research (formerly Seattle BioMed), Seattle, WA,
+USA. Electronic address: noah.sather@cidresearch.org.
+
+Monoclonal antibody technologies have enabled dramatic advances in immunology,
+the study of infectious disease, and modern medicine over the past 40years.
+However, many monoclonal antibody discovery procedures are labor- and
+time-intensive, low efficiency, and expensive. Here we describe an optimized mAb 
+discovery platform for the rapid and efficient isolation, cloning and
+characterization of monoclonal antibodies in murine systems. In this platform,
+antigen-binding splenic B cells from immunized mice are isolated by FACS and
+cocultured with CD40L positive cells to induce proliferation and mAb production. 
+After 12days of coculture, cell culture supernatants are screened for antigen,
+and IgG positivity and RNA is isolated for reverse-transcription. Positive-well
+cDNA is then amplified by PCR and the resulting amplicons can be cloned into
+ligation-independent expression vectors, which are then used directly to
+transfect HEK293 cells for recombinant antibody production. After 4days of
+growth, conditioned medium can be screened using biolayer interferometry for
+antigen binding and affinity measurements. Using this method, we were able to
+isolate six unique, functional monoclonal antibodies against an antigen of the
+human malaria parasite Plasmodium falciparum. Importantly, this method
+incorporates several important advances that circumvent the need for single-cell 
+PCR, restriction cloning, and large scale protein production, and can be applied 
+to a wide array of protein antigens.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jim.2017.05.010 
+PMCID: PMC5546949
+PMID: 28554543  [Indexed for MEDLINE]
+

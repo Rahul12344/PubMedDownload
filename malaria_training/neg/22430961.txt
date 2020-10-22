@@ -1,0 +1,41 @@
+
+1. Antimicrob Agents Chemother. 2012 Jun;56(6):2976-86. doi: 10.1128/AAC.05737-11.
+Epub 2012 Mar 19.
+
+Rapid, field-deployable method for genotyping and discovery of single-nucleotide 
+polymorphisms associated with drug resistance in Plasmodium falciparum.
+
+Daniels R(1), Ndiaye D, Wall M, McKinney J, Séne PD, Sabeti PC, Volkman SK, Mboup
+S, Wirth DF.
+
+Author information: 
+(1)Broad Institute, Cambridge, Massachusetts, USA. rdaniels@broadinstitute.org
+
+Despite efforts to reduce malaria morbidity and mortality, drug-resistant
+parasites continue to evade control strategies. Recently, emphasis has shifted
+away from control and toward regional elimination and global eradication of
+malaria. Such a campaign requires tools to monitor genetic changes in the
+parasite that could compromise the effectiveness of antimalarial drugs and
+undermine eradication programs. These tools must be fast, sensitive, unambiguous,
+and cost-effective to offer real-time reports of parasite drug susceptibility
+status across the globe. We have developed and validated a set of genotyping
+assays using high-resolution melting (HRM) analysis to detect molecular
+biomarkers associated with drug resistance across six genes in Plasmodium
+falciparum. We improved on existing technical approaches by developing
+refinements and extensions of HRM, including the use of blocked probes
+(LunaProbes) and the mutant allele amplification bias (MAAB) technique. To
+validate the sensitivity and accuracy of our assays, we compared our findings to 
+sequencing results in both culture-adapted lines and clinical isolates from
+Senegal. We demonstrate that our assays (i) identify both known and novel
+polymorphisms, (ii) detect multiple genotypes indicative of mixed infections, and
+(iii) distinguish between variants when multiple copies of a locus are present.
+These rapid and inexpensive assays can track drug resistance and detect emerging 
+mutations in targeted genetic loci in P. falciparum. They provide tools for
+monitoring molecular changes associated with changes in drug response across
+populations and for determining whether parasites present after drug treatment
+are the result of recrudescence or reinfection in clinical settings.
+
+DOI: 10.1128/AAC.05737-11 
+PMCID: PMC3370755
+PMID: 22430961  [Indexed for MEDLINE]
+

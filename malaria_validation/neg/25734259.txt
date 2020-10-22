@@ -1,0 +1,63 @@
+
+1. PLoS Med. 2015 Mar 3;12(3):e1001788. doi: 10.1371/journal.pmed.1001788.
+eCollection 2015 Mar.
+
+Ultra-sensitive detection of Plasmodium falciparum by amplification of multi-copy
+subtelomeric targets.
+
+Hofmann N(1), Mwingira F(2), Shekalaghe S(3), Robinson LJ(4), Mueller I(5),
+Felger I(1).
+
+Author information: 
+(1)Swiss Tropical and Public Health Institute, Basel, Switzerland; University of 
+Basel, Basel, Switzerland.
+(2)Swiss Tropical and Public Health Institute, Basel, Switzerland; University of 
+Basel, Basel, Switzerland; Biological Sciences Department, Dar es Salaam
+University College of Education, Dar es Salaam, Tanzania.
+(3)Ifakara Health Institute, Bagamoyo, Tanzania.
+(4)Papua New Guinea Institute of Medical Research, Madang and Maprik, Papua New
+Guinea; Walter and Eliza Hall Institute, Parkville, Victoria, Australia;
+Department of Medical Biology, University of Melbourne, Parkville, Victoria,
+Australia.
+(5)Walter and Eliza Hall Institute, Parkville, Victoria, Australia; Department of
+Medical Biology, University of Melbourne, Parkville, Victoria, Australia; Centre 
+de Recerca en Salut Internacional de Barcelona, Barcelona, Spain.
+
+BACKGROUND: Planning and evaluating malaria control strategies relies on accurate
+definition of parasite prevalence in the population. A large proportion of
+asymptomatic parasite infections can only be identified by surveillance with
+molecular methods, yet these infections also contribute to onward transmission to
+mosquitoes. The sensitivity of molecular detection by PCR is limited by the
+abundance of the target sequence in a DNA sample; thus, detection becomes
+imperfect at low densities. We aimed to increase PCR diagnostic sensitivity by
+targeting multi-copy genomic sequences for reliable detection of low-density
+infections, and investigated the impact of these PCR assays on community
+prevalence data.
+METHODS AND FINDINGS: Two quantitative PCR (qPCR) assays were developed for
+ultra-sensitive detection of Plasmodium falciparum, targeting the high-copy
+telomere-associated repetitive element 2 (TARE-2, ∼250 copies/genome) and the var
+gene acidic terminal sequence (varATS, 59 copies/genome). Our assays reached a
+limit of detection of 0.03 to 0.15 parasites/μl blood and were 10× more sensitive
+than standard 18S rRNA qPCR. In a population cross-sectional study in Tanzania,
+295/498 samples tested positive using ultra-sensitive assays. Light microscopy
+missed 169 infections (57%). 18S rRNA qPCR failed to identify 48 infections
+(16%), of which 40% carried gametocytes detected by pfs25 quantitative
+reverse-transcription PCR. To judge the suitability of the TARE-2 and varATS
+assays for high-throughput screens, their performance was tested on sample pools.
+Both ultra-sensitive assays correctly detected all pools containing one
+low-density P. falciparum-positive sample, which went undetected by 18S rRNA
+qPCR, among nine negatives. TARE-2 and varATS qPCRs improve estimates of
+prevalence rates, yet other infections might still remain undetected when absent 
+in the limited blood volume sampled.
+CONCLUSIONS: Measured malaria prevalence in communities is largely determined by 
+the sensitivity of the diagnostic tool used. Even when applying standard
+molecular diagnostics, prevalence in our study population was underestimated by
+8% compared to the new assays. Our findings highlight the need for highly
+sensitive tools such as TARE-2 and varATS qPCR in community surveillance and for 
+monitoring interventions to better describe malaria epidemiology and inform
+malaria elimination efforts.
+
+DOI: 10.1371/journal.pmed.1001788 
+PMCID: PMC4348198
+PMID: 25734259  [Indexed for MEDLINE]
+

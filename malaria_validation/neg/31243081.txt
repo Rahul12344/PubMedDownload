@@ -1,0 +1,57 @@
+
+1. mSphere. 2019 Jun 26;4(3). pii: e00386-19. doi: 10.1128/mSphere.00386-19.
+
+Optimizing Systems for Cas9 Expression in Toxoplasma gondii.
+
+Markus BM(1)(2), Bell GW(1), Lorenzi HA(3), Lourido S(4)(5).
+
+Author information: 
+(1)Whitehead Institute for Biomedical Research, Cambridge, Massachusetts, USA.
+(2)University of Freiburg, Faculty of Biology, Freiburg, Germany.
+(3)J. Craig Venter Institute, Rockville, Maryland, USA.
+(4)Whitehead Institute for Biomedical Research, Cambridge, Massachusetts, USA
+lourido@wi.mit.edu.
+(5)Department of Biology, Massachusetts Institute of Technology, Cambridge,
+Massachusetts, USA.
+
+CRISPR-Cas9 technologies have enabled genome engineering in an unprecedented
+array of species, accelerating biological studies in both model and nonmodel
+systems. However, Cas9 can be inherently toxic, which has limited its use in some
+organisms. We previously described the serendipitous discovery of a single guide 
+RNA (sgRNA) that helped overcome Cas9 toxicity in the apicomplexan parasite
+Toxoplasma gondii, enabling the first genome-wide loss-of-function screens in any
+apicomplexan. Even in the presence of the buffering sgRNA, low-level Cas9
+toxicity persists and results in frequent loss of Cas9 expression, which can
+affect the outcome of these screens. Similar Cas9-mediated toxicity has also been
+described in other organisms. We therefore sought to define the requirements for 
+stable Cas9 expression, comparing different expression constructs and
+characterizing the role of the buffering sgRNA to understand the basis of Cas9
+toxicity. We find that viral 2A peptides can substantially improve the selection 
+and stability of Cas9 expression. We also demonstrate that the sgRNA has two
+functions: primarily facilitating integration of the Cas9-expression construct
+following initial genome targeting and secondarily improving long-term parasite
+fitness by alleviating Cas9 toxicity. We define a set of guidelines for the
+expression of Cas9 with improved stability and selection stringency, which are
+directly applicable to a variety of genetic approaches in diverse organisms. Our 
+work also emphasizes the need for further characterizing the effects of Cas9
+expression.IMPORTANCE Toxoplasma gondii is an intracellular parasite that causes 
+life-threatening disease in immunocompromised patients and affects the developing
+fetus when contracted during pregnancy. Closely related species cause malaria and
+severe diarrhea, thereby constituting leading causes for childhood mortality.
+Despite their importance to global health, this family of parasites has remained 
+enigmatic. Given its remarkable experimental tractability, T. gondii has emerged 
+as a model also for the study of related parasites. Genetic approaches are
+important tools for studying the biology of organisms, including T. gondii As
+such, the recent developments of CRISPR-Cas9-based techniques for genome editing 
+have vastly expanded our ability to study the biology of numerous species. In
+some organisms, however, CRISPR-Cas9 has been difficult to implement due to its
+inherent toxicity. Our research characterizes the basis of the observed toxicity,
+using T. gondii as a model, allowing us to develop approaches to aid the use of
+CRISPR-Cas9 in diverse species.
+
+Copyright © 2019 Markus et al.
+
+DOI: 10.1128/mSphere.00386-19 
+PMCID: PMC6595152
+PMID: 31243081  [Indexed for MEDLINE]
+

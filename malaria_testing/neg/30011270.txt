@@ -1,0 +1,48 @@
+
+1. PLoS Biol. 2018 Jul 16;16(7):e2005345. doi: 10.1371/journal.pbio.2005345.
+eCollection 2018 Jul.
+
+Inter-subunit interactions drive divergent dynamics in mammalian and Plasmodium
+actin filaments.
+
+Douglas RG(1), Nandekar P(2)(3), Aktories JE(1), Kumar H(1)(2), Weber R(1),
+Sattler JM(1), Singer M(1), Lepper S(1), Sadiq SK(2), Wade RC(2)(3)(4),
+Frischknecht F(1).
+
+Author information: 
+(1)Integrative Parasitology, Center for Infectious Diseases, Heidelberg
+University Medical School, Heidelberg, Germany.
+(2)Molecular and Cellular Modeling, Heidelberg Institute for Theoretical Studies 
+(HITS), Heidelberg, Germany.
+(3)Center for Molecular Biology (ZMBH), DKFZ-ZMBH Alliance, Heidelberg, Germany.
+(4)Interdisciplinary Center for Scientific Computing (IWR), Heidelberg, Germany.
+
+Cell motility is essential for protozoan and metazoan organisms and typically
+relies on the dynamic turnover of actin filaments. In metazoans, monomeric actin 
+polymerises into usually long and stable filaments, while some protozoans form
+only short and highly dynamic actin filaments. These different dynamics are
+partly due to the different sets of actin regulatory proteins and partly due to
+the sequence of actin itself. Here we probe the interactions of actin subunits
+within divergent actin filaments using a comparative dynamic molecular model and 
+explore their functions using Plasmodium, the protozoan causing malaria, and
+mouse melanoma derived B16-F1 cells as model systems. Parasite actin tagged to a 
+fluorescent protein (FP) did not incorporate into mammalian actin filaments, and 
+rabbit actin-FP did not incorporate into parasite actin filaments. However,
+exchanging the most divergent region of actin subdomain 3 allowed such reciprocal
+incorporation. The exchange of a single amino acid residue in subdomain 2 (N41H) 
+of Plasmodium actin markedly improved incorporation into mammalian filaments. In 
+the parasite, modification of most subunit-subunit interaction sites was lethal, 
+whereas changes in actin subdomains 1 and 4 reduced efficient parasite motility
+and hence mosquito organ penetration. The strong penetration defects could be
+rescued by overexpression of the actin filament regulator coronin. Through these 
+comparative approaches we identified an essential and common contributor,
+subdomain 3, which drives the differential dynamic behaviour of two highly
+divergent eukaryotic actins in motile cells.
+
+DOI: 10.1371/journal.pbio.2005345 
+PMCID: PMC6055528
+PMID: 30011270  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

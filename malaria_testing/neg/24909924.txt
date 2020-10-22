@@ -1,0 +1,44 @@
+
+1. BMC Genomics. 2014 Jun 9;15:448. doi: 10.1186/1471-2164-15-448.
+
+Transcriptome profiling of pyrethroid resistant and susceptible mosquitoes in the
+malaria vector, Anopheles sinensis.
+
+Zhu G, Zhong D, Cao J, Zhou H, Li J, Liu Y, Bai L, Xu S, Wang MH, Zhou G, Chang
+X, Gao Q(1), Yan G.
+
+Author information: 
+(1)Department of Parasitology, Medical College of Soochow University, Suzhou
+215123, PR China. gaoqi54@hotmail.com.
+
+BACKGROUND: Anopheles sinensis is a major malaria vector in China and other
+Southeast Asian countries, and it is becoming increasingly resistant to the
+insecticides used for agriculture, net impregnation, and indoor residual spray.
+Very limited genomic information on this species is available, which has hindered
+the development of new tools for resistance surveillance and vector control. We
+used the 454 GS FLX system and generated expressed sequence tag (EST) databases
+of various life stages of An. sinensis, and we determined the transcriptional
+differences between deltamethrin resistant and susceptible mosquitoes.
+RESULTS: The 454 GS FLX transcriptome sequencing yielded a total of 624,559 reads
+(average length of 290 bp) with the pooled An. sinensis mosquitoes across various
+development stages. The de novo assembly generated 33,411 contigs with average
+length of 493 bp. A total of 8,057 ESTs were generated with Gene Ontology (GO)
+and Kyoto Encyclopedia of Genes and Genomes (KEGG) annotation. A total of 2,131
+ESTs were differentially expressed between deltamethrin resistant and susceptible
+mosquitoes collected from the same field site in Jiangsu, China. Among these
+differentially expressed ESTs, a total of 294 pathways were mapped to the KEGG
+database, with the predominant ESTs belonging to metabolic pathways. Furthermore,
+a total of 2,408 microsatellites and 15,496 single nucleotide polymorphisms
+(SNPs) were identified.
+CONCLUSIONS: The annotated EST and transcriptome databases provide a valuable
+genomic resource for further genetic studies of this important malaria vector
+species. The differentially expressed ESTs associated with insecticide resistance
+identified in this study lay an important foundation for further functional
+analysis. The identified microsatellite and SNP markers will provide useful tools
+for future population genetic and comparative genomic analyses of malaria
+vectors.
+
+DOI: 10.1186/1471-2164-15-448 
+PMCID: PMC4070547
+PMID: 24909924  [Indexed for MEDLINE]
+

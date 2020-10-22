@@ -1,0 +1,37 @@
+
+1. J Biol Chem. 2003 Jan 24;278(4):2101-5. Epub 2002 Nov 8.
+
+Kruppel-like factor 4 mediates p53-dependent G1/S cell cycle arrest in response
+to DNA damage.
+
+Yoon HS(1), Chen X, Yang VW.
+
+Author information: 
+(1)Division of Digestive Diseases, Department of Medicine and Winship Cancer
+Institute, Emory University School of Medicine, Atlanta, Georgia 30322, USA.
+
+The tumor suppressor p53 is required for the maintenance of genomic integrity
+following DNA damage. One mechanism by which p53 functions is to induce a block
+in the transition between the G(1) and S phase of the cell cycle. Previous
+studies indicate that the Krüppel-like factor 4 (KLF4) gene is activated
+following DNA damage and that such activation depends on p53. In addition,
+enforced expression of KLF4 causes G(1)/S arrest. The present study examines the 
+requirement of KLF4 in mediating the p53-dependent cell cycle arrest process in
+response to DNA damage. We show that the G(1) population of a colon cancer cell
+line, HCT116, that is null for the p53 alleles (-/-) was abolished following
+gamma irradiation compared with cells with wild-type p53 (+/+). Conditional
+expression of KLF4 in irradiated HCT116 p53-/- cells restored the G(1) cell
+population to a level similar to that seen in irradiated HCT116 p53+/+ cells.
+Conversely, treatment of HCT116 p53+/+ cells with small interfering RNA (siRNA)
+specific for KLF4 significantly reduced the number of cells in the G(1) phase
+following gamma irradiation compared with the untreated control or those treated 
+with a nonspecific siRNA. In each case the increase or decrease in KLF4 level
+because of conditional induction or siRNA inhibition, respectively, was
+accompanied by an increase or decrease in the level of p21(WAF1/CIP1). Results of
+our study indicate that KLF4 is an essential mediator of p53 in controlling
+G(1)/S progression of the cell cycle following DNA damage.
+
+DOI: 10.1074/jbc.M211027200 
+PMCID: PMC2229830
+PMID: 12427745  [Indexed for MEDLINE]
+

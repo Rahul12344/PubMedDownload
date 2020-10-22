@@ -1,0 +1,56 @@
+
+1. mBio. 2019 Apr 30;10(2). pii: e02731-18. doi: 10.1128/mBio.02731-18.
+
+Global Spread of Mutant PfCRT and Its Pleiotropic Impact on Plasmodium falciparum
+Multidrug Resistance and Fitness.
+
+Dhingra SK(1), Gabryszewski SJ(1), Small-Saunders JL(1)(2), Yeo T(1), Henrich
+PP(1), Mok S(1), Fidock DA(3)(2).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Columbia University Irving Medical 
+Center, New York, New York, USA.
+(2)Division of Infectious Diseases, Department of Medicine, Columbia University
+Medical Center, New York, New York, USA.
+(3)Department of Microbiology and Immunology, Columbia University Irving Medical 
+Center, New York, New York, USA df2260@columbia.edu.
+
+The global spread of Plasmodium falciparum chloroquine resistance transporter
+(PfCRT) variant haplotypes earlier caused the widespread loss of chloroquine (CQ)
+efficacy. In Asia, novel PfCRT mutations that emerged on the Dd2 allelic
+background have recently been implicated in high-level resistance to piperaquine,
+and N326S and I356T have been associated with genetic backgrounds in which
+resistance emerged to artemisinin derivatives. By analyzing large-scale genome
+sequencing data, we report that the predominant Asian CQ-resistant Dd2 haplotype 
+is undetectable in Africa. Instead, the GB4 and previously unexplored Cam783
+haplotypes predominate, along with wild-type, drug-sensitive PfCRT that has
+reemerged as the major haplotype. To interrogate how these alleles impact drug
+susceptibility, we generated pfcrt-modified isogenic parasite lines spanning the 
+mutational interval between GB4 and Dd2, which includes Cam783 and involves amino
+acid substitutions at residues 326 and 356. Relative to Dd2, the GB4 and Cam783
+alleles were observed to mediate lower degrees of resistance to CQ and the
+first-line drug amodiaquine, while resulting in higher growth rates. These
+findings suggest that differences in growth rates, a surrogate of parasite
+fitness, influence selection in the context of African infections that are
+frequently characterized by high transmission rates, mixed infections, increased 
+immunity, and less recourse to treatment. We also observe that the Asian Dd2
+allele affords partial protection against piperaquine yet does not directly
+impact artemisinin efficacy. Our results can help inform the regional
+recommendations of antimalarials, whose activity is influenced by and, in certain
+cases, enhanced against select PfCRT variant haplotypes.IMPORTANCE Our study
+defines the allelic distribution of pfcrt, an important mediator of multidrug
+resistance in Plasmodium falciparum, in Africa and Asia. We leveraged
+whole-genome sequence analysis and gene editing to demonstrate how current drug
+combinations can select different allelic variants of this gene and shape
+region-specific parasite population structures. We document the ability of PfCRT 
+mutations to modulate parasite susceptibility to current antimalarials in
+dissimilar, pfcrt allele-specific ways. This study underscores the importance of 
+actively monitoring pfcrt genotypes to identify emerging patterns of multidrug
+resistance and help guide region-specific treatment options.
+
+Copyright © 2019 Dhingra et al.
+
+DOI: 10.1128/mBio.02731-18 
+PMCID: PMC6495381
+PMID: 31040246  [Indexed for MEDLINE]
+

@@ -1,0 +1,34 @@
+
+1. Evol Bioinform Online. 2011;7:235-55. doi: 10.4137/EBO.S8162. Epub 2011 Nov 10.
+
+In Silico Prediction of Evolutionarily Conserved GC-Rich Elements Associated with
+Antigenic Proteins of Plasmodium falciparum.
+
+Panneerselvam P(1), Bawankar P, Kulkarni S, Patankar S.
+
+Author information: 
+(1)Centre for Biotechnology, Anna University, Sardar Patel Road, Guindy, Chennai 
+600025, India.
+
+The Plasmodium falciparum genome being AT-rich, the presence of GC-rich regions
+suggests functional significance. Evolution imposes selection pressure to retain 
+functionally important coding and regulatory elements. Hence searching for
+evolutionarily conserved GC-rich, intergenic regions in an AT-rich genome will
+help in discovering new coding regions and regulatory elements. We have used
+elevated GC content in intergenic regions coupled with sequence conservation
+against P. reichenowi, which is evolutionarily closely related to P. falciparum
+to identify potential sequences of functional importance. Interestingly, ~30% of 
+the GC-rich, conserved sequences were associated with antigenic proteins encoded 
+by var and rifin genes. The majority of sequences identified in the 5' UTR of var
+genes are represented by short expressed sequence tags (ESTs) in cDNA libraries
+signifying that they are transcribed in the parasite. Additionally, 19 sequences 
+were located in the 3' UTR of rifins and 4 also have overlapping ESTs. Further
+analysis showed that several sequences associated with var genes have the
+capacity to encode small peptides. A previous report has shown that upstream
+peptides can regulate the expression of var genes hence we propose that these
+conserved GC-rich sequences may play roles in regulation of gene expression.
+
+DOI: 10.4137/EBO.S8162 
+PMCID: PMC3283219
+PMID: 22375094 
+

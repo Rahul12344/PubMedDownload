@@ -1,0 +1,51 @@
+
+1. mBio. 2015 Mar 17;6(2):e02330. doi: 10.1128/mBio.02330-14.
+
+Cyclic GMP balance is critical for malaria parasite transmission from the
+mosquito to the mammalian host.
+
+Lakshmanan V(1), Fishbaugher ME(1), Morrison B(1), Baldwin M(1), Macarulay M(1), 
+Vaughan AM(1), Mikolajczak SA(1), Kappe SH(2).
+
+Author information: 
+(1)Seattle Biomedical Research Institute (Seattle BioMed), Seattle, Washington,
+USA.
+(2)stefan.kappe@seattlebiomed.org.
+
+Transmission of malaria occurs during Anopheles mosquito vector blood meals, when
+Plasmodium sporozoites that have invaded the mosquito salivary glands are
+delivered to the mammalian host. Sporozoites display a unique form of motility
+that is essential for their movement across cellular host barriers and invasion
+of hepatocytes. While the molecular machinery powering motility and invasion is
+increasingly well defined, the signaling events that control these essential
+parasite activities have not been clearly delineated. Here, we identify a
+phosphodiesterase (PDEγ) in Plasmodium, a regulator of signaling through cyclic
+nucleotide second messengers. Reverse transcriptase PCR (RT-PCR) analysis and
+epitope tagging of endogenous PDEγ detected its expression in blood stages and
+sporozoites of Plasmodium yoelii. Deletion of PDEγ (pdeγ(-)) rendered sporozoites
+nonmotile, and they failed to invade the mosquito salivary glands. Consequently, 
+PDEγ deletion completely blocked parasite transmission by mosquito bite.
+Strikingly, pdeγ(-) sporozoites showed dramatically elevated levels of cyclic GMP
+(cGMP), indicating that a perturbation in cyclic nucleotide balance is involved
+in the observed phenotypic defects. Transcriptome sequencing (RNA-Seq) analysis
+of pdeγ(-) sporozoites revealed reduced transcript abundance of genes that encode
+key components of the motility and invasion apparatus. Our data reveal a crucial 
+role for PDEγ in maintaining the cyclic nucleotide balance in the malaria
+parasite sporozoite stage, which in turn is essential for parasite transmission
+from mosquito to mammal.IMPORTANCE: Malaria is a formidable threat to human
+health worldwide, and there is an urgent need to identify novel drug targets for 
+this parasitic disease. The parasite is transmitted by mosquito bite, inoculating
+the host with infectious sporozoite stages. We show that cellular signaling by
+cyclic nucleotides is critical for transmission of the parasite from the mosquito
+vector to the mammalian host. Parasite phosphodiesterase γ is essential for
+maintaining cyclic nucleotide balance, and its deletion blocks transmission of
+sporozoites. A deeper understanding of the signaling mechanisms involved in
+transmission might inform the discovery of novel drugs that interrupt this
+essential step in the parasite life cycle.
+
+Copyright © 2015 Lakshmanan et al.
+
+DOI: 10.1128/mBio.02330-14 
+PMCID: PMC4453516
+PMID: 25784701  [Indexed for MEDLINE]
+

@@ -1,0 +1,33 @@
+
+1. EMBO J. 2006 Sep 20;25(18):4390-9. Epub 2006 Aug 24.
+
+The UL144 gene product of human cytomegalovirus activates NFkappaB via a
+TRAF6-dependent mechanism.
+
+Poole E(1), King CA, Sinclair JH, Alcami A.
+
+Author information: 
+(1)Department of Medicine, University of Cambridge, Addenbrooke's Hospital,
+Cambridge, UK.
+
+Molecular mimicry of cytokines and cytokine receptors is a strategy used by
+poxviruses and herpesviruses to modulate host immunity. The human cytomegalovirus
+(HCMV) UL144 gene, situated in the UL/b' region of the viral genome, has
+amino-acid sequence similarity to members of the tumour necrosis factor receptor 
+superfamily. We report that UL144 is a potent activator of NFkappaB-induced
+transcription in a TRAF6-dependent manner. This NFkappaB activation enhances
+expression of the chemokine CCL22 through the NFkappaB responsive elements found 
+in its promoter. In contrast to the clinical HCMV isolates, extensively passaged 
+laboratory strains lack the UL/b' region and hence do not encode UL144.
+Consistent with this, infection with viruses that carry UL/b' causes NFkappaB
+activation and CCL22 expression, a phenotype that is not observed after
+infections with strains lacking the UL/b' region. Moreover, knockdown of UL144,
+TRAF6 or NFkappaB by specific siRNA in infections with UL144-encoding HCMV
+prevents the activation of CCL22 expression normally observed after infection
+with UL/b' positive HCMV. Upregulation of CCL22, which attracts Th2 and
+regulatory T cells, may help HCMV evade immune surveillance.
+
+DOI: 10.1038/sj.emboj.7601287 
+PMCID: PMC1570428
+PMID: 16932746  [Indexed for MEDLINE]
+

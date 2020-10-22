@@ -1,0 +1,42 @@
+
+1. Inflamm Bowel Dis. 2015 Jun;21(6):1419-27. doi: 10.1097/MIB.0000000000000344.
+
+Metagenomic analysis of microbiome in colon tissue from subjects with
+inflammatory bowel diseases reveals interplay of viruses and bacteria.
+
+Wang W(1), Jovel J, Halloran B, Wine E, Patterson J, Ford G, OʼKeefe S, Meng B,
+Song D, Zhang Y, Tian Z, Wasilenko ST, Rahbari M, Reza S, Mitchell T, Jordan T,
+Carpenter E, Madsen K, Fedorak R, Dielemann LA, Ka-Shu Wong G, Mason AL.
+
+Author information: 
+(1)*Center of Excellence in Gastrointestinal Inflammation and Immunity Research, 
+Department of Medicine, University of Alberta, Edmonton, Canada; and †Beijing
+Genomics Institute, Shenzhen, China.
+
+Inflammatory bowel diseases (IBD), Crohn's disease and ulcerative colitis, are
+poorly understood disorders affecting the intestinal tract. The current model for
+disease suggests that genetically susceptible patients develop intolerance to gut
+microflora, and chronic inflammation develops as a result of environmental
+insults. Although interest has mainly focused on studying genetic variants and
+gut bacterial flora, little is known about the potential of viral infection to
+contribute to disease. Accordingly, we conducted a metagenomic analysis to
+document the baseline virome in colonic biopsy samples from patients with IBD in 
+order to assess the contribution of viral infection to IBD. Libraries were
+generated from colon RNA to create approximately 2 GB sequence data per library. 
+Using a bioinformatic pipeline designed to detect viral sequences, more than 1000
+viral reads were derived directly from tissue without any coculture or isolation 
+procedure. Herein, we describe the complexity and abundance of viruses,
+bacteria/bacteriophage, and human endogenous retroviral sequences from 10
+patients with IBD and 5 healthy subjects undergoing surveillance colonoscopy.
+Differences in gut microflora and the abundance of mammalian viruses and human
+endogenous retroviruses were readily detected in the metagenomic analyses.
+Specifically, patients with herpesviridae sequences in their colon demonstrated
+increased expression of human endogenous viral sequences and differences in the
+diversity of their microbiome. This study provides a promising metagenomic
+approach to describe the colonic microbiome that can be used to better understand
+virus-host and phage-bacteria interactions in IBD.
+
+DOI: 10.1097/MIB.0000000000000344 
+PMCID: PMC4450971
+PMID: 25939040  [Indexed for MEDLINE]
+

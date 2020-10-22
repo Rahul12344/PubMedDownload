@@ -1,0 +1,57 @@
+
+1. Malar J. 2016 Aug 22;15(1):425. doi: 10.1186/s12936-016-1468-2.
+
+Functional genomic analyses of Enterobacter, Anopheles and Plasmodium reciprocal 
+interactions that impact vector competence.
+
+Dennison NJ(1), Saraiva RG(1), Cirimotich CM(1), Mlambo G(1), Mongodin EF(2),
+Dimopoulos G(3).
+
+Author information: 
+(1)W. Harry Feinstone Department of Molecular Microbiology and Immunology,
+Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD, USA.
+(2)Institute for Genome Sciences, University of Maryland School of Medicine,
+Baltimore, MD, USA.
+(3)W. Harry Feinstone Department of Molecular Microbiology and Immunology,
+Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD, USA. 
+gdimopo1@jhu.edu.
+
+BACKGROUND: Malaria exerts a tremendous socioeconomic impact worldwide despite
+current control efforts, and novel disease transmission-blocking strategies are
+urgently needed. The Enterobacter bacterium Esp_Z, which is naturally harboured
+in the mosquito midgut, can inhibit the development of Plasmodium parasites prior
+to their invasion of the midgut epithelium through a mechanism that involves
+oxidative stress. Here, a multifaceted approach is used to study the tripartite
+interactions between the mosquito, Esp_Z and Plasmodium, towards addressing the
+feasibility of using sugar-baited exposure of mosquitoes to the Esp_Z bacterium
+for interruption of malaria transmission.
+METHODS: The ability of Esp_Z to colonize Anopheles gambiae midguts harbouring
+microbiota derived from wild mosquitoes was determined by qPCR. Upon introduction
+of Esp_Z via nectar feeding, the permissiveness of colonized mosquitoes to
+Plasmodium falciparum infection was determined, as well as the impact of Esp_Z on
+mosquito fitness parameters, such as longevity, number of eggs laid and number of
+larvae hatched. The genome of Esp_Z was sequenced, and transcriptome analyses
+were performed to identify bacterial genes that are important for colonization of
+the mosquito midgut, as well as for ROS-production. A gene expression analysis of
+members of the oxidative defence pathway of Plasmodium berghei was also conducted
+to assess the parasite's oxidative defence response to Esp_Z exposure.
+RESULTS: Esp_Z persisted for up to 4 days in the An. gambiae midgut after
+introduction via nectar feeding, and was able to significantly inhibit Plasmodium
+sporogonic development. Introduction of this bacterium did not adversely affect
+mosquito fitness. Candidate genes involved in the selection of a better fit Esp_Z
+to the mosquito midgut environment and in its ability to condition oxidative
+status of its surroundings were identified, and parasite expression data
+indicated that Esp_Z is able to induce a partial and temporary shutdown of the
+ookinetes antioxidant response.
+CONCLUSIONS: Esp_Z is capable of inhibiting sporogonic development of Plasmodium 
+in the presence of the mosquito's native microbiota without affecting mosquito
+fitness. Several candidate bacterial genes are likely mediating midgut
+colonization and ROS production, and inhibition of Plasmodium development appears
+to involve a shutdown of the parasite's oxidative defence system. A better
+understanding of the complex reciprocal tripartite interactions can facilitate
+the development and optimization of an Esp_Z-based malaria control strategy.
+
+DOI: 10.1186/s12936-016-1468-2 
+PMCID: PMC4994321
+PMID: 27549662  [Indexed for MEDLINE]
+

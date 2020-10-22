@@ -1,0 +1,35 @@
+
+1. Mol Plant Microbe Interact. 2011 Mar;24(3):294-304. doi: 10.1094/MPMI-10-10-0236.
+
+Identification and validation of reference genes for normalization of transcripts
+from virus-infected Arabidopsis thaliana.
+
+Lilly ST(1), Drummond RS, Pearson MN, MacDiarmid RM.
+
+Author information: 
+(1)The New Zealand Institute for Plant and Food Research, Limited.
+
+Erratum in
+    Mol Plant Microbe Interact. 2011 Jul;24(7):862.
+
+Real-time quantitative polymerase chain reaction (qPCR) of complementary DNA is
+now a standard method for studies of gene expression. However, qPCR can identify 
+genuine variation only when transcript quantities are accurately normalized to an
+appropriate reference. To identify the most reliable reference genes for
+transcript quantification by qPCR, we describe a systematic evaluation of
+candidate reference genes of Arabidopsis thaliana ecotype Columbia-0 (Col-0).
+Twelve genes were selected for transcript stability studies by qPCR of
+complementary DNA prepared from Arabidopsis leaf tissue infected with one of five
+plant viruses (Cauliflower mosaic virus, Tobacco mosaic virus, Tomato spotted
+wilt virus, Turnip mosaic virus, and Turnip yellow mosaic virus). The F-box
+family protein, elongation factor 1-α, sand family protein, and protodermal
+factor 2 gene transcripts showed the most stable accumulation, whereas a
+traditionally used reference gene, Actin8, showed the least stable accumulation
+as measured by the geNorm algorithm. The data furnish plant virologists with
+reference genes for normalization of qPCR-derived gene expression in
+virus-infected Arabidopsis and will be beneficial to the selection and design of 
+primers targeting orthologous genes in other plant species.
+
+DOI: 10.1094/MPMI-10-10-0236 
+PMID: 21091160  [Indexed for MEDLINE]
+

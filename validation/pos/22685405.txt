@@ -1,0 +1,44 @@
+
+1. PLoS Pathog. 2012;8(6):e1002748. doi: 10.1371/journal.ppat.1002748. Epub 2012 Jun
+7.
+
+Human herpesvirus 8 interferon regulatory factor-mediated BH3-only protein
+inhibition via Bid BH3-B mimicry.
+
+Choi YB(1), Sandford G, Nicholas J.
+
+Author information: 
+(1)Sidney Kimmel Comprehensive Cancer Center, Department of Oncology, Johns
+Hopkins University School of Medicine, Baltimore, Maryland, United States of
+America.
+
+Viral replication efficiency is in large part governed by the ability of viruses 
+to counteract pro-apoptotic signals induced by infection of host cells. For
+HHV-8, viral interferon regulatory factor-1 (vIRF-1) contributes to this process 
+in part via inhibitory interactions with BH3-only protein (BOP) Bim, recently
+identified as an interaction partner of vIRF-1. Here we recognize that the
+Bim-binding domain (BBD) of vIRF-1 resembles a region (BH3-B) of Bid, another
+BOP, which interacts intramolecularly with the functional BH3 domain of Bid to
+inhibit it pro-apoptotic activity. Indeed, vIRF-1 was found to target Bid in
+addition to Bim and to interact, via its BBD region, with the BH3 domain of each.
+In functional assays, BBD could substitute for BH3-B in the context of Bid, to
+suppress Bid-induced apoptosis in a BH3-binding-dependent manner, and vIRF-1 was 
+able to protect transfected cells from apoptosis induced by Bid. While vIRF-1 can
+mediate nuclear sequestration of Bim, this was not the case for Bid, and
+inhibition of Bid and Bim by vIRF-1 could occur independently of nuclear
+localization of the viral protein. Consistent with this finding, direct
+BBD-dependent inactivation by vIRF-1 of Bid-induced mitochondrial
+permeabilization was demonstrable in vitro and isolated BBD sequences were also
+active in this assay. In addition to Bim and Bid BH3 domains, BH3s of BOPs Bik,
+Bmf, Hrk, and Noxa also were found to bind BBD, while those of both pro- and
+anti-apoptotic multi-BH domain Bcl-2 proteins were not. Finally, the significance
+of Bid to virus replication was demonstrated via Bid-depletion in HHV-8 infected 
+cells, which enhanced virus production. Together, our data demonstrate and
+characterize BH3 targeting and associated inhibition of BOP pro-apoptotic
+activity by vIRF-1 via Bid BH3-B mimicry, identifying a novel mechanism of viral 
+evasion from host cell defenses.
+
+DOI: 10.1371/journal.ppat.1002748 
+PMCID: PMC3369933
+PMID: 22685405  [Indexed for MEDLINE]
+

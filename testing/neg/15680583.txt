@@ -1,0 +1,41 @@
+
+1. Comput Biol Chem. 2005 Feb;29(1):25-35.
+
+Relative importance of secondary structure and solvent accessibility to the
+stability of protein mutants. A case study with amino acid properties and
+energetics on T4 and human lysozymes.
+
+Saraboji K(1), Gromiha MM, Ponnuswamy MN.
+
+Author information: 
+(1)Department of Crystallography and Biophysics, University of Madras, Guindy
+Campus, Chennai 600025, India.
+
+Understanding the factors influencing the stability of protein mutants is an
+important task in molecular and computational biology. In this work, we have
+approached this problem by examining the relative importance of secondary
+structure and solvent accessibility of the mutant residue for
+understanding/predicting the stability of protein mutants. We have used
+hydrophobic, electrostatic and hydrogen bond free energy terms and nine unique
+physicochemical, energetic and conformational properties of amino acids in the
+present study and these parameters have been related with changes in thermal
+stability (DeltaTm) of all the single mutants of lysozymes based on single and
+multiple correlation coefficients. As expected the properties reflecting
+hydrophobicity and hydrophobic free energy play a major role to distinguish
+stabilizing and destabilizing mutants. The hydrophobic free energy due to carbon 
+and nitrogen atoms distinguish the stability of coil and strand mutations to the 
+accuracy of 100 and 90%, respectively. In agreement with previous results, the
+subgroup classification based on secondary structure and the information about
+its location in the structure yielded good relationship with the experimental
+DeltaTm. We revealed that the secondary structure information is equally or more 
+important than solvent accessibility for understanding the stability of protein
+mutants. The comparison of amino acid properties with free-energy terms indicate 
+that the energetic contribution explains the mutant stability better in coil
+region whereas the amino acid properties do better in strand region. Further, the
+combination of free energies with amino acid properties increased the correlation
+significantly. The present study demonstrates the importance of classifying the
+mutants based on secondary structure to the stability of proteins upon mutations.
+
+DOI: 10.1016/j.compbiolchem.2004.12.002 
+PMID: 15680583  [Indexed for MEDLINE]
+

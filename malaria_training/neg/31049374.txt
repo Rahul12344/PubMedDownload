@@ -1,0 +1,38 @@
+
+1. Data Brief. 2019 Apr 8;24:103911. doi: 10.1016/j.dib.2019.103911. eCollection
+2019 Jun.
+
+Proteome data of female Anopheles stephensi antennae.
+
+Mohanty AK(1), Dey G(2), Kumar M(3), Sreenivasamurthy SK(2), Garg S(4), Prasad
+TSK(5), Kumar A(1).
+
+Author information: 
+(1)ICMR - National Institute of Malaria Research, Field Unit, Campal, Panaji, Goa
+403001, India.
+(2)Institute of Bioinformatics, Discoverer Building, International Tech Park,
+Bangalore 560 066, India.
+(3)Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of 
+Public Health, Boston, MA, USA.
+(4)Department of Microbiology, Goa University, Taleigao Plateau, Goa Pin -
+403206, India.
+(5)Center for Systems Biology and Molecular Medicine, Yenepoya Research Center,
+Yenepoya University, Mangalore 575018, India.
+
+Antennae of female Anopheles stephensi mosquitoes were dissected and lysed with
+1% SDS. Proteins were extracted using ultra sonication and analyzed on high
+resolution mass spectrometer. Proteomic data was analyzed using two search
+algorithms SEQUEST and Mascot, resulting in the identification of 22,729 peptides
+corresponding to 3262 proteins. These proteins were characterized using different
+bioinformatics tools. VectorBase resource was used to assign Gene Ontology (GO)
+terms. Using Biomart tool ortholog information was fetched from the VectorBase
+database. Raw mass spectrometric data was deposited in ProteomeXchange Consortium
+via PRIDE partner repository in the public dataset PXD001128. Proteins involved
+in insecticide resistance and odorant binding were the most abundant in the
+antennae. The proteins identified in this study could be targeted for developing 
+novel vector control strategy.
+
+DOI: 10.1016/j.dib.2019.103911 
+PMCID: PMC6479098
+PMID: 31049374 
+

@@ -1,0 +1,73 @@
+
+1. Elife. 2015 Jul 15;4:e06974. doi: 10.7554/eLife.06974.
+
+Chromerid genomes reveal the evolutionary path from photosynthetic algae to
+obligate intracellular parasites.
+
+Woo YH(1), Ansari H(1), Otto TD(2), Klinger CM(3), Kolisko M(4), Michálek J(5),
+Saxena A(1), Shanmugam D(6), Tayyrov A(1), Veluchamy A(7), Ali S(8), Bernal A(9),
+del Campo J(4), Cihlář J(5), Flegontov P(5), Gornik SG(10), Hajdušková E(5),
+Horák A(5), Janouškovec J(4), Katris NJ(10), Mast FD(11), Miranda-Saavedra D(12),
+Mourier T(13), Naeem R(1), Nair M(1), Panigrahi AK(8), Rawlings ND(14),
+Padron-Regalado E(1), Ramaprasad A(1), Samad N(10), Tomčala A(5), Wilkes J(15),
+Neafsey DE(16), Doerig C(17), Bowler C(7), Keeling PJ(4), Roos DS(9), Dacks
+JB(3), Templeton TJ(18), Waller RF(10), Lukeš J(5), Oborník M(5), Pain A(1).
+
+Author information: 
+(1)Pathogen Genomics Laboratory, Biological and Environmental Sciences and
+Engineering Division, King Abdullah University of Science and Technology, Thuwal,
+Saudi Arabia.
+(2)Parasite Genomics, Wellcome Trust Sanger Institute, Wellcome Trust Genome
+Campus, Cambridge, United Kingdom.
+(3)Department of Cell Biology, University of Alberta, Edmonton, Canada.
+(4)Canadian Institute for Advanced Research, Department of Botany, University of 
+British Columbia, Vancouver, Canada.
+(5)Institute of Parasitology, Biology Centre, Czech Academy of Sciences, České
+Budějovice, Czech Republic.
+(6)Biochemical Sciences Division, CSIR National Chemical Laboratory, Pune, India.
+(7)Ecology and Evolutionary Biology Section, Institut de Biologie de l'Ecole
+Normale Supérieure, CNRS UMR8197 INSERM U1024, Paris, France.
+(8)Bioscience Core Laboratory, King Abdullah University of Science and
+Technology, Thuwal, Saudi Arabia.
+(9)Department of Biology, University of Pennsylvania, Philadelphia, United
+States.
+(10)School of Botany, University of Melbourne, Parkville, Australia.
+(11)Seattle Biomedical Research Institute, Seattle, United States.
+(12)Centro de Biología Molecular Severo Ochoa, CSIC/Universidad Autónoma de
+Madrid, Madrid, Spain.
+(13)Centre for GeoGenetics, Natural History Museum of Denmark, University of
+Copenhagen, Copenhagen, Denmark.
+(14)European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus,
+Hinxton, Cambridge, United Kingdom.
+(15)Wellcome Trust Centre For Molecular Parasitology, Institute of Infection,
+Immunity and Inflammation, College of Medical, Veterinary and Life Sciences,
+University of Glasgow, Glasgow, United Kingdom.
+(16)Broad Genome Sequencing and Analysis Program, Broad Institute of MIT and
+Harvard, Cambridge, United States.
+(17)Department of Microbiology, Monash University, Clayton, Australia.
+(18)Department of Microbiology and Immunology, Weill Cornell Medical College, New
+York, United States.
+
+Comment in
+    Nat Rev Microbiol. 2015 Oct;13(10):603.
+
+The eukaryotic phylum Apicomplexa encompasses thousands of obligate intracellular
+parasites of humans and animals with immense socio-economic and health impacts.
+We sequenced nuclear genomes of Chromera velia and Vitrella brassicaformis,
+free-living non-parasitic photosynthetic algae closely related to apicomplexans. 
+Proteins from key metabolic pathways and from the endomembrane trafficking
+systems associated with a free-living lifestyle have been progressively and
+non-randomly lost during adaptation to parasitism. The free-living ancestor
+contained a broad repertoire of genes many of which were repurposed for parasitic
+processes, such as extracellular proteins, components of a motility apparatus,
+and DNA- and RNA-binding protein families. Based on transcriptome analyses across
+36 environmental conditions, Chromera orthologs of apicomplexan invasion-related 
+motility genes were co-regulated with genes encoding the flagellar apparatus,
+supporting the functional contribution of flagella to the evolution of invasion
+machinery. This study provides insights into how obligate parasites with diverse 
+life strategies arose from a once free-living phototrophic marine alga.
+
+DOI: 10.7554/eLife.06974 
+PMCID: PMC4501334
+PMID: 26175406  [Indexed for MEDLINE]
+

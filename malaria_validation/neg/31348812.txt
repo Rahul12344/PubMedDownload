@@ -1,0 +1,49 @@
+
+1. PLoS Pathog. 2019 Jul 26;15(7):e1007946. doi: 10.1371/journal.ppat.1007946.
+eCollection 2019 Jul.
+
+Toxoplasma F-box protein 1 is required for daughter cell scaffold function during
+parasite replication.
+
+Baptista CG(1), Lis A(1), Deng B(2), Gas-Pascual E(2), Dittmar A(1), Sigurdson
+W(3), West CM(2), Blader IJ(1).
+
+Author information: 
+(1)Department of Microbiology and Immunology, University at Buffalo School of
+Medicine, Buffalo, New York, United States of America.
+(2)Department of Biochemistry & Molecular Biology, University of Georgia, Athens,
+Georgia, United States of America.
+(3)Department of Physiology and Biophysics, University at Buffalo School of
+Medicine, Buffalo, New York, United States of America.
+
+By binding to the adaptor protein SKP1 and serving as substrate receptors for the
+SKP1 Cullin, F-box E3 ubiquitin ligase complex, F-box proteins regulate critical 
+cellular processes including cell cycle progression and membrane trafficking.
+While F-box proteins are conserved throughout eukaryotes and are well studied in 
+yeast, plants, and animals, studies in parasitic protozoa are lagging. We have
+identified eighteen putative F-box proteins in the Toxoplasma genome of which
+four have predicted homologs in Plasmodium. Two of the conserved F-box proteins
+were demonstrated to be important for Toxoplasma fitness and here we focus on an 
+F-box protein, named TgFBXO1, because it is the most highly expressed by
+replicative tachyzoites and was also identified in an interactome screen as a
+Toxoplasma SKP1 binding protein. TgFBXO1 interacts with Toxoplasma SKP1
+confirming it as a bona fide F-box protein. In interphase parasites, TgFBXO1 is a
+component of the Inner Membrane Complex (IMC), which is an organelle that
+underlies the plasma membrane. Early during replication, TgFBXO1 localizes to the
+developing daughter cell scaffold, which is the site where the daughter cell IMC 
+and microtubules form and extend from. TgFBXO1 localization to the daughter cell 
+scaffold required centrosome duplication but before kinetochore separation was
+completed. Daughter cell scaffold localization required TgFBXO1 N-myristoylation 
+and was dependent on the small molecular weight GTPase, TgRab11b. Finally, we
+demonstrate that TgFBXO1 is required for parasite growth due to its function as a
+daughter cell scaffold effector. TgFBXO1 is the first F-box protein to be studied
+in apicomplexan parasites and represents the first protein demonstrated to be
+important for daughter cell scaffold function.
+
+DOI: 10.1371/journal.ppat.1007946 
+PMCID: PMC6685633
+PMID: 31348812  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

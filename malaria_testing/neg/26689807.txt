@@ -1,0 +1,61 @@
+
+1. BMC Genomics. 2015 Dec 21;16:1090. doi: 10.1186/s12864-015-2320-8.
+
+Genome-wide transcriptome profiling reveals functional networks involving the
+Plasmodium falciparum drug resistance transporters PfCRT and PfMDR1.
+
+Adjalley SH(1)(2), Scanfeld D(3)(4), Kozlowski E(5)(6), Llinás M(7)(8), Fidock
+DA(9)(10).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Columbia University Medical Center,
+New York, NY, 10032, USA. sa18@sanger.ac.uk.
+(2)Present addresses: Wellcome Trust Sanger Institute, Hinxton, UK.
+sa18@sanger.ac.uk.
+(3)Department of Microbiology and Immunology, Columbia University Medical Center,
+New York, NY, 10032, USA. scanfeld@gmail.com.
+(4)Present addresses: Google Inc., New York, NY, 10011, USA. scanfeld@gmail.com.
+(5)Department of Molecular Biology & Lewis-Sigler Institute for Integrative
+Genomics, Princeton University, Princeton, NJ, 08544, USA. elyseko@bu.edu.
+(6)Present addresses: Pulmonary Center, Boston University School of Medicine,
+Boston, MA, 02118, USA. elyseko@bu.edu.
+(7)Department of Molecular Biology & Lewis-Sigler Institute for Integrative
+Genomics, Princeton University, Princeton, NJ, 08544, USA. manuel@psu.edu.
+(8)Department of Biochemistry and Molecular Biology, Department of Chemistry,
+Center for Malaria Research and Center for Infectious Diseases Dynamics,
+Pennsylvania State University, University Park, PA, 16802, USA. manuel@psu.edu.
+(9)Department of Microbiology and Immunology, Columbia University Medical Center,
+New York, NY, 10032, USA. df2260@columbia.edu.
+(10)Division of Infectious Diseases, Department of Medicine, Columbia University 
+Medical Center, New York, NY, 10032, USA. df2260@columbia.edu.
+
+BACKGROUND: The acquisition of multidrug resistance by Plasmodium falciparum
+underscores the need to understand the underlying molecular mechanisms so as to
+counter their impact on malaria control. For the many antimalarials whose mode of
+action relates to inhibition of heme detoxification inside infected erythrocytes,
+the digestive vacuole transporters PfCRT and PfMDR1 constitute primary resistance
+determinants.
+RESULTS: Using gene expression microarrays over the course of the parasite
+intra-erythrocytic developmental cycle, we compared the transcriptomic profiles
+between P. falciparum strains displaying mutant or wild-type pfcrt or varying in 
+pfcrt or pfmdr1 expression levels. To account for differences in the time of
+sampling, we developed a computational method termed Hypergeometric Analysis of
+Time Series, which combines Fast Fourier Transform with a modified Gene Set
+Enrichment Analysis. Our analysis revealed coordinated changes in genes involved 
+in protein catabolism, translation initiation and DNA/RNA metabolism. We also
+observed differential expression of genes with a role in transport or coding for 
+components of the digestive vacuole. Interestingly, a global comparison of all
+profiled transcriptomes uncovered a tight correlation between the transcript
+levels of pfcrt and pfmdr1, extending to dozens of other genes, suggesting an
+intricate regulatory balance in order to maintain optimal physiological
+processes.
+CONCLUSIONS: This study provides insight into the mechanisms by which P.
+falciparum adjusts to the acquisition of mutations or gene amplification in key
+transporter loci that mediate drug resistance. Our results implicate several
+biological pathways that may be differentially regulated to compensate for
+impaired transporter function and alterations in parasite vacuole physiology.
+
+DOI: 10.1186/s12864-015-2320-8 
+PMCID: PMC4687325
+PMID: 26689807  [Indexed for MEDLINE]
+

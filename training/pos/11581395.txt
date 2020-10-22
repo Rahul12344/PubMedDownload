@@ -1,0 +1,33 @@
+
+1. J Virol. 2001 Nov;75(21):10272-80.
+
+mRNA decay during herpesvirus infections: interaction between a putative viral
+nuclease and a cellular translation factor.
+
+Feng P(1), Everly DN Jr, Read GS.
+
+Author information: 
+(1)School of Biological Sciences, University of Missouri-Kansas City, Kansas
+City, Missouri 64110, USA.
+
+During lytic infections, the virion host shutoff (Vhs) protein (UL41) of herpes
+simplex virus destabilizes both host and viral mRNAs. By accelerating mRNA decay,
+it helps determine the levels and kinetics of viral and cellular gene expression.
+In vivo, Vhs shows a strong preference for mRNAs, as opposed to non-mRNAs, and
+degrades the 5' end of mRNAs prior to the 3' end. In contrast, partially purified
+Vhs is not restricted to mRNAs and causes cleavage of target RNAs at various
+sites throughout the molecule. To explain this discrepancy, we searched for
+cellular proteins that interact with Vhs using the Saccharomyces cerevisiae
+two-hybrid system. Vhs was found to interact with the human translation
+initiation factor, eIF4H. This interaction was verified by glutathione
+S-transferase pull-down experiments and by coimmunoprecipitation of Vhs and
+epitope-tagged eIF4H from extracts of mammalian cells. The interaction was
+abolished by several point mutations in Vhs that abrogate its ability to degrade 
+mRNAs in vivo. The results suggest that Vhs is a viral mRNA degradation factor
+that is targeted to mRNAs, and to regions of translation initiation, through an
+interaction with eIF4H.
+
+DOI: 10.1128/JVI.75.21.10272-10280.2001 
+PMCID: PMC114601
+PMID: 11581395  [Indexed for MEDLINE]
+

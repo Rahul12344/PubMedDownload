@@ -1,0 +1,41 @@
+
+1. Nat Commun. 2018 Mar 19;9(1):1133. doi: 10.1038/s41467-018-03475-7.
+
+CtIP fusion to Cas9 enhances transgene integration by homology-dependent repair.
+
+Charpentier M(1), Khedher AHY(1)(2), Menoret S(3), Brion A(1), Lamribet K(1),
+Dardillac E(4), Boix C(1), Perrouault L(1), Tesson L(3), Geny S(1), De Cian A(1),
+Itier JM(2), Anegon I(3), Lopez B(4), Giovannangeli C(1), Concordet JP(5).
+
+Author information: 
+(1)Museum National d'Histoire Naturelle, INSERM U1154, CNRS UMR 7196, Sorbonne
+Universités, 43 rue Cuvier, Paris, F-75231, France.
+(2)Translational Sciences, Sanofi, 13 Quai Jules Guesde, F-94400,
+Vitry-sur-Seine, France.
+(3)Centre de Recherche en Transplantation et Immunologie UMR1064, INSERM,
+Université de Nantes, CHU de Nantes, 30 Avenue Jean Monnet, F-44093, Nantes,
+France.
+(4)Equipe Labellisée Ligue Contre le Cancer, Institut de Cancérologie
+Gustave-Roussy, Université Paris-Saclay, CNRS UMR 8200, 114 rue Edouard Vaillant,
+Villejuif, F-94805, France.
+(5)Museum National d'Histoire Naturelle, INSERM U1154, CNRS UMR 7196, Sorbonne
+Universités, 43 rue Cuvier, Paris, F-75231, France. jean-paul.concordet@mnhn.fr.
+
+In genome editing with CRISPR-Cas9, transgene integration often remains
+challenging. Here, we present an approach for increasing the efficiency of
+transgene integration by homology-dependent repair (HDR). CtIP, a key protein in 
+early steps of homologous recombination, is fused to Cas9 and stimulates
+transgene integration by HDR at the human AAVS1 safe harbor locus. A minimal
+N-terminal fragment of CtIP, designated HE for HDR enhancer, is sufficient to
+stimulate HDR and this depends on CDK phosphorylation sites and the
+multimerization domain essential for CtIP activity in homologous recombination.
+HDR stimulation by Cas9-HE, however, depends on the guide RNA used, a limitation 
+that may be overcome by testing multiple guides to the locus of interest. The
+Cas9-HE fusion is simple to use and allows obtaining twofold or more efficient
+transgene integration than that with Cas9 in several experimental systems,
+including human cell lines, iPS cells, and rat zygotes.
+
+DOI: 10.1038/s41467-018-03475-7 
+PMCID: PMC5859065
+PMID: 29556040  [Indexed for MEDLINE]
+

@@ -1,0 +1,49 @@
+
+1. Malar J. 2011 Jun 30;10:180. doi: 10.1186/1475-2875-10-180.
+
+Design of a variant surface antigen-supplemented microarray chip for whole
+transcriptome analysis of multiple Plasmodium falciparum cytoadherent strains,
+and identification of strain-transcendent rif and stevor genes.
+
+Claessens A(1), Ghumra A, Gupta AP, Mok S, Bozdech Z, Rowe JA.
+
+Author information: 
+(1)Centre for Immunity, Infection and Evolution, Institute of Immunology and
+Infection Research, School of Biological Sciences, University of Edinburgh, West 
+Mains Rd, Edinburgh, EH9 3JT, UK.
+
+BACKGROUND: The cytoadherence of Plasmodium falciparum is thought to be mediated 
+by variant surface antigens (VSA), encoded by var, rif, stevor and pfmc-2tm
+genes. The last three families have rarely been studied in the context of
+cytoadherence. As most VSA genes are unique, the variability among sequences has 
+impeded the functional study of VSA across different P. falciparum strains.
+However, many P. falciparum genomes have recently been sequenced, allowing the
+development of specific microarray probes for each VSA gene.
+METHODS: All VSA sequences from the HB3, Dd2 and IT/FCR3 genomes were extracted
+using HMMer software. Oligonucleotide probes were designed with OligoRankPick and
+added to the 3D7-based microarray chip. As a proof of concept, IT/R29 parasites
+were selected for and against rosette formation and the transcriptomes of
+isogenic rosetting and non-rosetting parasites were compared by microarray.
+RESULTS: From each parasite strain 50-56 var genes, 125-132 rif genes, 26-33
+stevor genes and 3-8 pfmc-2tm genes were identified. Bioinformatic analysis of
+the new VSA sequences showed that 13 rif genes and five stevor genes were
+well-conserved across at least three strains (83-100% amino acid identity). The
+ability of the VSA-supplemented microarray chip to detect cytoadherence-related
+genes was assessed using P. falciparum clone IT/R29, in which rosetting is known 
+to be mediated by PfEMP1 encoded by ITvar9. Whole transcriptome analysis showed
+that the most highly up-regulated gene in rosetting parasites was ITvar9 (19 to
+429-fold up-regulated over six time points). Only one rif gene (IT4rifA_042) was 
+up-regulated by more than four fold (five fold at 12 hours post-invasion), and no
+stevor or pfmc-2tm genes were up-regulated by more than two fold. 377 non-VSA
+genes were differentially expressed by three fold or more in rosetting parasites,
+although none was as markedly or consistently up-regulated as ITvar9.
+CONCLUSIONS: Probes for the VSA of newly sequenced P. falciparum strains can be
+added to the 3D7-based microarray chip, allowing the analysis of the entire
+transcriptome of multiple strains. For the rosetting clone IT/R29, the striking
+transcriptional upregulation of ITvar9 was confirmed, and the data did not
+support the involvement of other VSA families in rosette formation.
+
+DOI: 10.1186/1475-2875-10-180 
+PMCID: PMC3155837
+PMID: 21718533  [Indexed for MEDLINE]
+

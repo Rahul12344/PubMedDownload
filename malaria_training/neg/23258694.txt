@@ -1,0 +1,38 @@
+
+1. Stat Med. 2013 Jul 30;32(17):3020-38. doi: 10.1002/sim.5706. Epub 2012 Dec 19.
+
+Analysing malaria drug trials on a per-individual or per-clone basis:
+a comparison of methods.
+
+Jaki T(1), Parry A, Winter K, Hastings I.
+
+Author information: 
+(1)Medical and Pharmaceutical Research Unit, Department of Mathematics and
+Statistics, Lancaster University, Lancaster, UK.
+
+There are a variety of methods used to estimate the effectiveness of antimalarial
+drugs in clinical trials, invariably on a per-person basis. A person, however,
+may have more than one malaria infection present at the time of treatment. We
+evaluate currently used methods for analysing malaria trials on a per-individual 
+basis and introduce a novel method to estimate the cure rate on a per-infection
+(clone) basis. We used simulated and real data to highlight the differences of
+the various methods. We give special attention to classifying outcomes as cured, 
+recrudescent (infections that never fully cleared) or ambiguous on the basis of
+genetic markers at three loci. To estimate cure rates on a per-clone basis, we
+used the genetic information within an individual before treatment to determine
+the number of clones present. We used the genetic information obtained at the
+time of treatment failure to classify clones as recrudescence or new infections. 
+On the per-individual level, we find that the most accurate methods of
+classification label an individual as newly infected if all alleles are different
+at the beginning and at the time of failure and as a recrudescence if all or some
+alleles were the same. The most appropriate analysis method is survival analysis 
+or alternatively for complete data/per-protocol analysis a proportion estimate
+that treats new infections as successes. We show that the analysis of drug
+effectiveness on a per-clone basis estimates the cure rate accurately and allows 
+more detailed evaluation of the performance of the treatment.
+
+Copyright © 2012 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/sim.5706 
+PMID: 23258694  [Indexed for MEDLINE]
+

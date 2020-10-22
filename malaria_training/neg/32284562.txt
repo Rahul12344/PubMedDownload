@@ -1,0 +1,49 @@
+
+1. Nat Microbiol. 2020 Jun;5(6):848-863. doi: 10.1038/s41564-020-0702-4. Epub 2020
+Apr 13.
+
+An exported kinase family mediates species-specific erythrocyte remodelling and
+virulence in human malaria.
+
+Davies H(1), Belda H(1), Broncel M(1), Ye X(1)(2), Bisson C(3), Introini V(4),
+Dorin-Semblat D(5)(6)(7), Semblat JP(5)(6)(7), Tibúrcio M(1), Gamain B(5)(6)(7), 
+Kaforou M(2), Treeck M(8).
+
+Author information: 
+(1)Signalling in Apicomplexan Parasites Laboratory, The Francis Crick Institute, 
+London, UK.
+(2)Division of Infectious Diseases, Department of Medicine, Imperial College
+London, London, UK.
+(3)Institute of Structural and Molecular Biology, Birkbeck College, University of
+London, London, UK.
+(4)Cavendish Laboratory, University of Cambridge, Cambridge, UK.
+(5)Université de Paris, Biologie Intégrée du Globule Rouge, UMR_S1134, BIGR,
+INSERM, Paris, France.
+(6)Institut National de la Transfusion Sanguine, Paris, France.
+(7)Laboratory of Excellence GR-Ex, Paris, France.
+(8)Signalling in Apicomplexan Parasites Laboratory, The Francis Crick Institute, 
+London, UK. moritz.treeck@crick.ac.uk.
+
+The most severe form of human malaria is caused by Plasmodium falciparum. Its
+virulence is closely linked to the increase in rigidity of infected erythrocytes 
+and their adhesion to endothelial receptors, obstructing blood flow to vital
+organs. Unlike other human-infecting Plasmodium species, P. falciparum exports a 
+family of 18 FIKK serine/threonine kinases into the host cell, suggesting that
+phosphorylation may modulate erythrocyte modifications. We reveal substantial
+species-specific phosphorylation of erythrocyte proteins by P. falciparum but not
+by Plasmodium knowlesi, which does not export FIKK kinases. By conditionally
+deleting all FIKK kinases combined with large-scale quantitative
+phosphoproteomics we identified unique phosphorylation fingerprints for each
+kinase, including phosphosites on parasite virulence factors and host erythrocyte
+proteins. Despite their non-overlapping target sites, a network analysis revealed
+that some FIKKs may act in the same pathways. Only the deletion of the
+non-exported kinase FIKK8 resulted in reduced parasite growth, suggesting the
+exported FIKKs may instead support functions important for survival in the host. 
+We show that one kinase, FIKK4.1, mediates both rigidification of the erythrocyte
+cytoskeleton and trafficking of the adhesin and key virulence factor PfEMP1 to
+the host cell surface. This establishes the FIKK family as important drivers of
+parasite evolution and malaria pathology.
+
+DOI: 10.1038/s41564-020-0702-4 
+PMID: 32284562  [Indexed for MEDLINE]
+

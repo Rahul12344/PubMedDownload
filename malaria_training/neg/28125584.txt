@@ -1,0 +1,63 @@
+
+1. PLoS Comput Biol. 2017 Jan 26;13(1):e1005348. doi: 10.1371/journal.pcbi.1005348. 
+eCollection 2017 Jan.
+
+THE REAL McCOIL: A method for the concurrent estimation of the complexity of
+infection and SNP allele frequency for malaria parasites.
+
+Chang HH(1), Worby CJ(1), Yeka A(2)(3), Nankabirwa J(3)(4), Kamya MR(3)(4),
+Staedke SG(5), Dorsey G(6), Murphy M(6), Neafsey DE(7), Jeffreys AE(8), Hubbart
+C(8), Rockett KA(8)(9), Amato R(9), Kwiatkowski DP(8)(9), Buckee CO(1),
+Greenhouse B(6).
+
+Author information: 
+(1)Center for Communicable Disease Dynamics, Department of Epidemiology, Harvard 
+T.H. Chan School of Public Health, Boston, Massachusetts, United States.
+(2)Makerere University School of Public Health, College of Health Sciences,
+Kampala, Uganda.
+(3)Infectious Disease Research Collaboration, Kampala, Uganda.
+(4)Department of Medicine, Makerere University College of Health Sciences,
+Kampala, Uganda.
+(5)London School of Hygiene and Tropical Medicine, London, United Kingdom.
+(6)Department of Medicine, University of California, San Francisco, San
+Francisco, California, United States.
+(7)Genome Sequencing and Analysis Program, Broad Institute, Cambridge,
+Massachusetts, United States.
+(8)Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United
+Kingdom.
+(9)Wellcome Trust Sanger Institute, Cambridge, United Kingdom.
+
+As many malaria-endemic countries move towards elimination of Plasmodium
+falciparum, the most virulent human malaria parasite, effective tools for
+monitoring malaria epidemiology are urgent priorities. P. falciparum population
+genetic approaches offer promising tools for understanding transmission and
+spread of the disease, but a high prevalence of multi-clone or polygenomic
+infections can render estimation of even the most basic parameters, such as
+allele frequencies, challenging. A previous method, COIL, was developed to
+estimate complexity of infection (COI) from single nucleotide polymorphism (SNP) 
+data, but relies on monogenomic infections to estimate allele frequencies or
+requires external allele frequency data which may not available. Estimates
+limited to monogenomic infections may not be representative, however, and when
+the average COI is high, they can be difficult or impossible to obtain.
+Therefore, we developed THE REAL McCOIL, Turning HEterozygous SNP data into
+Robust Estimates of ALelle frequency, via Markov chain Monte Carlo, and
+Complexity Of Infection using Likelihood, to incorporate polygenomic samples and 
+simultaneously estimate allele frequency and COI. This approach was tested via
+simulations then applied to SNP data from cross-sectional surveys performed in
+three Ugandan sites with varying malaria transmission. We show that THE REAL
+McCOIL consistently outperforms COIL on simulated data, particularly when most
+infections are polygenomic. Using field data we show that, unlike with COIL, we
+can distinguish epidemiologically relevant differences in COI between and within 
+these sites. Surprisingly, for example, we estimated high average COI in a
+peri-urban subregion with lower transmission intensity, suggesting that many of
+these cases were imported from surrounding regions with higher transmission
+intensity. THE REAL McCOIL therefore provides a robust tool for understanding the
+molecular epidemiology of malaria across transmission settings.
+
+DOI: 10.1371/journal.pcbi.1005348 
+PMCID: PMC5300274
+PMID: 28125584  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

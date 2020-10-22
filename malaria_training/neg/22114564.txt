@@ -1,0 +1,45 @@
+
+1. PLoS Pathog. 2011 Nov;7(11):e1002394. doi: 10.1371/journal.ppat.1002394. Epub
+2011 Nov 17.
+
+Transcriptome analysis of Aedes aegypti transgenic mosquitoes with altered
+immunity.
+
+Zou Z(1), Souza-Neto J, Xi Z, Kokoza V, Shin SW, Dimopoulos G, Raikhel A.
+
+Author information: 
+(1)Department of Entomology and the Institute for Integrative Genome Biology,
+University of California, Riverside, California, United States of America.
+
+The mosquito immune system is involved in pathogen-elicited defense responses.
+The NF-κB factors REL1 and REL2 are downstream transcription activators of Toll
+and IMD immune pathways, respectively. We have used genome-wide microarray
+analyses to characterize fat-body-specific gene transcript repertoires activated 
+by either REL1 or REL2 in two transgenic strains of the mosquito Aedes aegypti.
+Vitellogenin gene promoter was used in each transgenic strain to ectopically
+express either REL1 (REL1+) or REL2 (REL2+) in a sex, tissue, and stage specific 
+manner. There was a significant change in the transcript abundance of 297 (79 up-
+and 218 down-regulated) and 299 (123 up- and 176 down-regulated) genes in fat
+bodies of REL1+ and REL2+, respectively. Over half of the induced genes had
+predicted functions in immunity, and a large group of these was co-regulated by
+REL1 and REL2. By generating a hybrid transgenic strain, which ectopically
+expresses both REL1 and REL2, we have shown a synergistic action of these NF-κB
+factors in activating immune genes. The REL1+ immune transcriptome showed a
+significant overlap with that of cactus (RNAi)-depleted mosquitoes (50%). In
+contrast, the REL2+ -regulated transcriptome differed from the relatively small
+group of gene transcripts regulated by RNAi depletion of a putative inhibitor of 
+the IMD pathway, caspar (35 up- and 140 down-regulated), suggesting that caspar
+contributes to regulation of a subset of IMD-pathway controlled genes. Infections
+of the wild type Ae. aegypti with Plasmodium gallinaceum elicited the
+transcription of a distinct subset of immune genes (76 up- and 25 down-regulated)
+relative to that observed in REL1+ and REL2+ mosquitoes. Considerable overlap was
+observed between the fat body transcriptome of Plasmodium-infected mosquitoes and
+that of mosquitoes with transiently depleted PIAS, an inhibitor of the JAK-STAT
+pathway. PIAS gene silencing reduced Plasmodium proliferation in Ae. aegypti,
+indicating the involvement of the JAK-STAT pathway in anti-Plasmodium defense in 
+this infection model.
+
+DOI: 10.1371/journal.ppat.1002394 
+PMCID: PMC3219725
+PMID: 22114564  [Indexed for MEDLINE]
+

@@ -1,0 +1,49 @@
+
+1. PLoS Pathog. 2017 Jan 17;13(1):e1006113. doi: 10.1371/journal.ppat.1006113.
+eCollection 2017 Jan.
+
+Transgenic Expression of the Anti-parasitic Factor TEP1 in the Malaria Mosquito
+Anopheles gambiae.
+
+Volohonsky G(1), Hopp AK(1), Saenger M(1), Soichot J(1), Scholze H(2), Boch J(2),
+Blandin SA(1), Marois E(1).
+
+Author information: 
+(1)Université de Strasbourg, CNRS UPR9022, INSERM U963, Institut de Biologie
+Moléculaire et Cellulaire, Strasbourg, France.
+(2)Martin-Luther Universität Halle-Wittenberg, Institut für Genetik, Halle
+(Saale), Germany.
+
+Mosquitoes genetically engineered to be resistant to Plasmodium parasites
+represent a promising novel approach in the fight against malaria. The insect
+immune system itself is a source of anti-parasitic genes potentially exploitable 
+for transgenic designs. The Anopheles gambiae thioester containing protein 1
+(TEP1) is a potent anti-parasitic protein. TEP1 is secreted and circulates in the
+mosquito hemolymph, where its activated cleaved form binds and eliminates malaria
+parasites. Here we investigated whether TEP1 can be used to create malaria
+resistant mosquitoes. Using a GFP reporter transgene, we determined that the fat 
+body is the main site of TEP1 expression. We generated transgenic mosquitoes that
+express TEP1r, a potent refractory allele of TEP1, in the fat body and examined
+the activity of the transgenic protein in wild-type or TEP1 mutant genetic
+backgrounds. Transgenic TEP1r rescued loss-of-function mutations, but did not
+increase parasite resistance in the presence of a wild-type susceptible allele.
+Consistent with previous reports, TEP1 protein expressed from the transgene in
+the fat body was taken up by hemocytes upon a challenge with injected bacteria.
+Furthermore, although maturation of transgenic TEP1 into the cleaved form was
+impaired in one of the TEP1 mutant lines, it was still sufficient to reduce
+parasite numbers and induce parasite melanization. We also report here the first 
+use of Transcription Activator Like Effectors (TALEs) in Anopheles gambiae to
+stimulate expression of endogenous TEP1. We found that artificial elevation of
+TEP1 expression remains moderate in vivo and that enhancement of endogenous TEP1 
+expression did not result in increased resistance to Plasmodium. Taken together, 
+our results reveal the difficulty of artificially influencing TEP1-mediated
+Plasmodium resistance, and contribute to further our understanding of the
+molecular mechanisms underlying mosquito resistance to Plasmodium parasites.
+
+DOI: 10.1371/journal.ppat.1006113 
+PMCID: PMC5240933
+PMID: 28095489  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

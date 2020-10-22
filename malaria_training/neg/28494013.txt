@@ -1,0 +1,49 @@
+
+1. PLoS One. 2017 May 11;12(5):e0177274. doi: 10.1371/journal.pone.0177274.
+eCollection 2017.
+
+Modeling spatial variation in risk of presence and insecticide resistance for
+malaria vectors in Laos.
+
+Souris M(1)(2), Marcombe S(3), Laforet J(4), Brey PT(3), Corbel V(5), Overgaard
+HJ(5)(6)(7).
+
+Author information: 
+(1)UMR "Émergence des Pathologies Virales" (EPV: Aix-Marseille Univ-IRD 190
+-Inserm 1207 -EHESP-IHU Méditerranée Infection), Marseille, France.
+(2)Asian Institute of Technology, Remote Sensing and GIS FoS, Klong Luang,
+Pathumthani, Thailand.
+(3)Institut Pasteur du Laos, Vientiane, Lao PDR.
+(4)Université de Toulouse-Le Mirail, Département de Géographie & Aménagement-UFR 
+Sciences, Espaces, Sociétés Université, Toulouse, France.
+(5)UMR « Maladies Infectieuses et Vecteurs, Ecologie, Génétique, Evolution et
+Contrôle » (MIVEGEC, UM1-CNRS 5290-IRD 224), Montpellier, France.
+(6)Kasetsart University, Department of Entomology, Faculty of Agriculture,
+Bangkok, Thailand.
+(7)Faculty of Science and Technology, Norwegian University of Life Sciences, Ås, 
+Norway.
+
+Climatic, sociological and environmental conditions are known to affect the
+spatial distribution of malaria vectors and disease transmission. Intensive use
+of insecticides in the agricultural and public health sectors exerts a strong
+selective pressure on resistance genes in malaria vectors. Spatio-temporal models
+of favorable conditions for Anopheles species' presence were developed to
+estimate the probability of presence of malaria vectors and insecticide
+resistance in Lao PDR. These models were based on environmental and
+meteorological conditions, and demographic factors. GIS software was used to
+build and manage a spatial database with data collected from various geographic
+information providers. GIS was also used to build and run the models. Results
+showed that potential insecticide use and therefore the probability of resistance
+to insecticide is greater in the southwestern part of the country, specifically
+in Champasack province and where malaria incidence is already known to be high.
+These findings can help national authorities to implement targeted and effective 
+vector control strategies for malaria prevention and elimination among
+populations most at risk. Results can also be used to focus the insecticide
+resistance surveillance in Anopheles mosquito populations in more restricted
+area, reducing the area of surveys, and making the implementation of surveillance
+system for Anopheles mosquito insecticide resistance possible.
+
+DOI: 10.1371/journal.pone.0177274 
+PMCID: PMC5426714
+PMID: 28494013  [Indexed for MEDLINE]
+

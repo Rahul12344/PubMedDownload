@@ -1,0 +1,42 @@
+
+1. Retrovirology. 2009 Apr 3;6:31. doi: 10.1186/1742-4690-6-31.
+
+A novel HIV-1 restriction factor that is biologically distinct from APOBEC3
+cytidine deaminases in a human T cell line CEM.NKR.
+
+Zhou T(1), Han Y, Dang Y, Wang X, Zheng YH.
+
+Author information: 
+(1)Department of Microbiology & Molecular Genetics, Michigan State University,
+East Lansing, MI 48824-4320, USA. taoz@msu.edu
+
+BACKGROUND: Isolation of novel retroviral restriction factors will open new
+avenues for anti-HIV/AIDS treatment. Although HIV-1 replication is restricted by 
+APOBEC3G/APOBEC3F, TRIM5alpha, and CD317, none defend HIV-1 infection under
+natural conditions. Previously, we demonstrated a host factor from the human T
+cell line CEM.NKR that potently restricted wild-type HIV-1 replication.
+Interestingly, this restriction resembled the APOBEC3G/APOBEC3F pattern in that
+viral replication was inhibited from the second round of replication cycle at a
+post-entry step.
+RESULTS: Here, we further characterized this factor and found it distinguishable 
+from the known anti-HIV APOBEC3 proteins. Although CEM.NKR cells expressed both
+APOBEC3G and APOBEC3F, their levels were at least 10 or 4-fold lower than those
+in H9 cells, and importantly, Vif effectively neutralized their activity. Among
+eight subclones isolated from CEM.NKR cells, one was relatively permissive, four 
+were semi-permissive, and three were completely non-permissive for HIV-1
+replication. When the levels of APOBEC3 expression were determined, all these
+clones retained similar low levels of APOBEC3DE, APOBEC3F, APOBEC3G and APOBEC3H 
+expression, and no APOBEC3B expression was detected. Since the vif from SIVmac
+can effectively neutralize APOBEC3B and APOBEC3H, recombinant HIV-1 expressing
+this SIV gene were created. However, these viruses still failed to replicate in
+CEM.NKR cells. We also confirmed that HIV-1 restriction in CEM.NKR was not due to
+a loss of calnexin expression.
+CONCLUSION: Taken together, these results not only demonstrate that all these
+aforementioned anti-HIV APOBEC3 proteins do not contribute to this HIV-1
+restriction, but also shed light on a novel and potent HIV-1 inhibitor in CEM.NKR
+cells.
+
+DOI: 10.1186/1742-4690-6-31 
+PMCID: PMC2676246
+PMID: 19344514  [Indexed for MEDLINE]
+

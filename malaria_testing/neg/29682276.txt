@@ -1,0 +1,62 @@
+
+1. Cell Biosci. 2018 Apr 12;8:29. doi: 10.1186/s13578-018-0227-1. eCollection 2018.
+
+Characterization and potential role of microRNA in the Chinese dominant malaria
+mosquito Anopheles sinensis (Diptera: Culicidae) throughout four different life
+stages.
+
+Feng X(1)(2), Wu J(1), Zhou S(1), Wang J(3)(4), Hu W(1)(2)(3)(4).
+
+Author information: 
+(1)National Institute of Parasitic Diseases, Chinese Center for Disease Control
+and Prevention, Key Laboratory of Parasite and Vector Biology, National Health
+and Family Planning Commission, WHO Collaborating Center for Tropical Diseases,
+National Center for International Research On Tropical Diseases, Shanghai, 200025
+People's Republic of China.
+(2)2Joint Research Laboratory of Genetics and Ecology on Parasites-hosts
+Interaction, National Institute of Parasitic Diseases-Fudan University, Shanghai,
+200025 People's Republic of China.
+(3)3State Key Laboratory of Genetic Engineering, Ministry of Education Key
+Laboratory of Contemporary Anthropology, Collaborative Innovation Center for
+Genetics and Development, School of Life Sciences, Fudan University, Shanghai,
+200438 People's Republic of China.
+(4)4Department of Microbiology and Microbial Engineering, School of Life Science,
+Fudan University, Shanghai, 200433 China.
+
+Background: microRNAs (miRNAs) are one kind of small non-coding RNAs widely
+distributed in insects. Many studies have shown that miRNAs play critical roles
+in development, differentiation, apoptosis, and innate immunity. However, there
+are a few reports describing miRNAs in Anopheles sinensis, the most common, and
+one of the dominant malaria mosquito in China. Here, we investigated the global
+miRNA expression profile across four different developmental stages including
+embryo, larval, pupal, and adult stages using Illumina Hiseq 2500 sequencing.
+Results: In total, 164 miRNAs were obtained out of 107.46 million raw sequencing 
+reads. 99 of them identified as known miRNAs, and the remaining 65 miRNAs were
+considered as novel. By analyzing the read counts of miRNAs in all developmental 
+stages, 95 miRNAs showed stage-specific expression (q < 0.01 and |log2 (fold
+change)| > 1) in consecutive stages, indicating that these miRNAs may be involved
+in critical physiological activity during development. Sixteen miRNAs were
+identified to be commonly dysregulated throughout four developmental stages. Many
+miRNAs showed stage-specific expression, such as asi-miR-2943 was exclusively
+expressed in the embryo stage, and asi-miR-1891 could not be detected in larval
+stage. The expression of six selected differentially expressed miRNAs identified 
+by qRT-PCR were consistent with our sequencing results. Furthermore, 5296 and
+1902 target genes were identified for the dysregulated 68 known and 27 novel
+miRNAs respectively by combining miRanda and RNAhybrid prediction. GO annotation 
+and KEGG pathway analysis for the predicted genes of dysregulated miRNAs revealed
+that they might be involved in a broad range of biological processes related with
+the development, such as membrane, organic substance transport and several key
+pathways including protein processing in endoplasmic reticulum, propanoate
+metabolism and folate biosynthesis. Thirty-two key miRNAs were identified by
+microRNA-gene network analysis.
+Conclusion: The present study represents the first global characterization of An.
+sinensis miRNAs in its four developmental stages. The presence and differential
+expression of An. sinensis miRNAs imply that such miRNAs may play critical roles 
+in An. sinensis life cycle. A better understanding of the functions of these
+miRNAs will have great implication for the effective control of vector population
+and therefore interrupting malaria transmission.
+
+DOI: 10.1186/s13578-018-0227-1 
+PMCID: PMC5898052
+PMID: 29682276 
+

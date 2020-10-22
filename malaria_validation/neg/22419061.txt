@@ -1,0 +1,38 @@
+
+1. Mol Biosyst. 2012 Apr;8(5):1544-52. doi: 10.1039/c2mb05333k. Epub 2012 Mar 15.
+
+Symmetric Epistasis Estimation (SEE) and its application to dissecting
+interaction map of Plasmodium falciparum.
+
+Huang Y(1), Siwo G, Wuchty S, Ferdig MT, Przytycka TM.
+
+Author information: 
+(1)National Center for Biotechnology Information, NLM, NIH, 8600 Rockville Pike, 
+Building 38A, Bethesda, MD 20894, USA.
+
+It is being increasingly recognized that many important phenotypic traits,
+including various diseases, are governed by a combination of weak genetic effects
+and their interactions. While the detection of epistatic interactions that
+involve a non-additive effect of two loci on a quantitative trait is particularly
+challenging, this interaction type is fundamental for the understanding of genome
+organization and gene regulation. However, current methods that detect epistatic 
+interactions typically rely on the existence of a strong primary effect,
+considerably limiting the sensitivity of the search. To fill this gap, we
+developed a new method, SEE (Symmetric Epistasis Estimation), allowing the
+genome-wide detection of epistatic interactions without the need for a strong
+primary effect. We applied our approach to progeny crosses of the human malaria
+parasite P. falciparum and S. cerevisiae. We found an abundance of epistatic
+interactions in the parasite and a much smaller number of such interactions in
+yeast. The genome of P. falciparum also harboured several epistatic interaction
+hotspots that putatively play a role in drug resistance mechanisms. The abundance
+of observed epistatic interactions might suggest a mechanism of compensation for 
+the extremely limited repertoire of transcription factors. Interestingly,
+epistatic interaction hotspots were associated with elevated levels of linkage
+disequilibrium, an observation that suggests selection pressure acting on P.
+falciparum, potentially reflecting host-pathogen interactions or drug-induced
+selection.
+
+DOI: 10.1039/c2mb05333k 
+PMCID: PMC3480327
+PMID: 22419061  [Indexed for MEDLINE]
+

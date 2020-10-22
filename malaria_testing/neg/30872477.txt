@@ -1,0 +1,44 @@
+
+1. Proc Natl Acad Sci U S A. 2019 Apr 2;116(14):7053-7061. doi:
+10.1073/pnas.1818485116. Epub 2019 Mar 14.
+
+Transcriptome profiling of Plasmodium vivax in Saimiri monkeys identifies
+potential ligands for invasion.
+
+Gunalan K(1), Sá JM(2), Moraes Barros RR(2), Anzick SL(3), Caleon RL(2), Mershon 
+JP(2), Kanakabandi K(3), Paneru M(3), Virtaneva K(3), Martens C(3), Barnwell
+JW(4), Ribeiro JM(2), Miller LH(1).
+
+Author information: 
+(1)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Rockville, MD 20852;
+karthigayan.gunalan@nih.gov lmiller@niaid.nih.gov.
+(2)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Rockville, MD 20852.
+(3)Rocky Mountain Laboratories, RTS Genomics Unit, National Institute of Allergy 
+and Infectious Diseases, National Institutes of Health, Hamilton, MT 59840.
+(4)Centers for Disease Control and Prevention, Atlanta, GA 30333.
+
+Unlike the case in Asia and Latin America, Plasmodium vivax infections are rare
+in sub-Saharan Africa due to the absence of the Duffy blood group antigen (Duffy 
+antigen), the only known erythrocyte receptor for the P. vivax merozoite invasion
+ligand, Duffy binding protein 1 (DBP1). However, P. vivax infections have been
+documented in Duffy-negative individuals throughout Africa, suggesting that P.
+vivax may use ligands other than DBP1 to invade Duffy-negative erythrocytes
+through other receptors. To identify potential P. vivax ligands, we compared
+parasite gene expression in Saimiri and Aotus monkey erythrocytes infected with
+P. vivax Salvador I (Sal I). DBP1 binds Aotus but does not bind to Saimiri
+erythrocytes; thus, P. vivax Sal I must invade Saimiri erythrocytes independent
+of DBP1. Comparing RNA sequencing (RNAseq) data for late-stage infections in
+Saimiri and Aotus erythrocytes when invasion ligands are expressed, we identified
+genes that belong to tryptophan-rich antigen and merozoite surface protein 3
+(MSP3) families that were more abundantly expressed in Saimiri infections
+compared with Aotus infections. These genes may encode potential ligands
+responsible for P. vivax infections of Duffy-negative Africans.
+
+DOI: 10.1073/pnas.1818485116 
+PMCID: PMC6452724
+PMID: 30872477  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

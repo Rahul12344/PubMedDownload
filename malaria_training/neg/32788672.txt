@@ -1,0 +1,54 @@
+
+1. Sci Rep. 2020 Aug 12;10(1):13630. doi: 10.1038/s41598-020-70617-7.
+
+Testing the impact of a single nucleotide polymorphism in a Plasmodium berghei
+ApiAP2 transcription factor on experimental cerebral malaria in mice.
+
+Akkaya M(1), Bansal A(2)(3), Sheehan PW(4)(5), Pena M(4), Cimperman CK(4)(6), Qi 
+CF(4), Yazew T(4)(7), Otto TD(8), Billker O(9), Miller LH(2), Pierce SK(10).
+
+Author information: 
+(1)Laboratory of Immunogenetics, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, 5625 Fishers Lane, Room 4S04, Rockville,
+MD, USA. munir.akkaya@nih.gov.
+(2)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Rockville, MD, USA.
+(3)School of Life Sciences, Jawaharlal Nehru University, New Delhi, India.
+(4)Laboratory of Immunogenetics, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, 5625 Fishers Lane, Room 4S04, Rockville,
+MD, USA.
+(5)Department of Neurology, Washington University School of Medicine in St.
+Louis, St. Louis, MO, USA.
+(6)Department of Microbiology, University of Pennsylvania, Philadelphia, PA, USA.
+(7)Department of Veterinary Medicine, College of Agriculture and Natural
+Resources, University of Maryland, College Park, MD, USA.
+(8)Institute of Infection, Immunity and Inflammation, University of Glasgow,
+Glasgow, UK.
+(9)Laboratory for Molecular Infection Medicine Sweden and Molecular Biology
+Department, Umea University, Umea, Sweden.
+(10)Laboratory of Immunogenetics, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, 5625 Fishers Lane, Room 4S04, Rockville,
+MD, USA. spierce@niaid.nih.gov.
+
+Cerebral malaria (CM) is the deadliest form of severe Plasmodium infections.
+Currently, we have limited understanding of the mechanisms by which Plasmodium
+parasites induce CM. The mouse model of CM, experimental CM (ECM), induced by
+infection with the rodent parasite, Plasmodium berghei ANKA (PbANKA) has been
+extensively used to study the pathophysiology of CM. Recent genomic analyses
+revealed that the coding regions of PbANKA and the closely related Plasmodium
+berghei NK65 (PbNK65), that does not cause ECM, differ in only 21 single
+nucleotide polymorphysims (SNPs). Thus, the SNP-containing genes might contribute
+to the pathogenesis of ECM. Although the majority of these SNPs are located in
+genes of unknown function, one SNP is located in the DNA binding site of a member
+of the Plasmodium ApiAP2 transcription factor family, that we recently showed
+functions as a virulence factor alternating the host's immune response to the
+parasite. Here, we investigated the impact of this SNP on the development of ECM.
+Our results using CRISPR-Cas9 engineered parasites indicate that despite its
+immune modulatory function, the SNP is neither necessary nor sufficient to induce
+ECM and thus cannot account for parasite strain-specific differences in ECM
+phenotypes.
+
+DOI: 10.1038/s41598-020-70617-7 
+PMCID: PMC7424516
+PMID: 32788672 
+

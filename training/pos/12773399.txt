@@ -1,0 +1,32 @@
+
+1. EMBO J. 2003 Jun 2;22(11):2852-9.
+
+The genome-linked protein VPg of the Norwalk virus binds eIF3, suggesting its
+role in translation initiation complex recruitment.
+
+Daughenbaugh KF(1), Fraser CS, Hershey JW, Hardy ME.
+
+Author information: 
+(1)Veterinary Molecular Biology, PO Box 173610, Montana State University,
+Bozeman, MT 59717, USA.
+
+The positive-strand RNA genomes of caliciviruses are not capped, but are instead 
+covalently linked at their 5' ends to a viral protein called VPg. The lack of a
+cap structure typical of eukaryotic mRNA and absence of an internal ribosomal
+entry site suggest that VPg may function in translation initiation on calicivirus
+RNA. This hypothesis was tested by analyzing binding of Norwalk virus VPg to
+translation initiation factors. The eIF3d subunit of eIF3 was identified as a
+binding partner of VPg by yeast two-hybrid analysis. VPg bound to purified
+mammalian eIF3 and to eIF3 in mammalian cell lysates. To test the effects of the 
+VPg- eIF3 interaction on translation, VPg was added to cell-free translation
+reactions programmed with either capped reporter RNA, an RNA containing an EMCV
+internal ribosomal entry site (IRES) or an RNA with a cricket paralysis virus
+IRES. VPg inhibited translation of all reporter RNAs in a dose-dependent manner. 
+Together, the data suggest that VPg may play a role in initiating translation on 
+calicivirus RNA through unique protein-protein interactions with the translation 
+machinery.
+
+DOI: 10.1093/emboj/cdg251 
+PMCID: PMC156748
+PMID: 12773399  [Indexed for MEDLINE]
+

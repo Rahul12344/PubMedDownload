@@ -1,0 +1,38 @@
+
+1. J Virol. 2001 Feb;75(3):1348-58.
+
+Hepatitis C virus 3'X region interacts with human ribosomal proteins.
+
+Wood J(1), Frederickson RM, Fields S, Patel AH.
+
+Author information: 
+(1)MRC Virology Unit, Institute of Virology, Glasgow G11 5JR, United Kingdom.
+
+To identify proteins that can bind the 3' untranslated region (UTR) of hepatitis 
+C virus (HCV) we screened human cDNA libraries using the Saccharomyces cerevisiae
+three-hybrid system. Screening with an RNA sequence derived from the 3'-terminal 
+98 nucleotides (3'X region) of an infectious clone of HCV (H77c) yielded clones
+of human ribosomal proteins L22, L3, S3, and mL3, a mitochondrial homologue of
+L3. We performed preliminary characterization of the binding between the 3'X
+region and these proteins by a three-hybrid mating assay using mutant 3'X
+sequences. We have further characterized the interaction between 3'X and L22,
+since this protein is known to be associated with two small Epstein-Barr virus
+(EBV)-encoded RNA species (EBERs) which are abundantly produced in cells latently
+infected with EBV. The EBERs, which have similar predicted secondary structure to
+the HCV 3'X, assemble into ribonucleoprotein particles that include L22 and La
+protein. To confirm that L22 binds HCV 3'X we performed in vitro binding assays
+using recombinant L22 (expressed as a glutathione S-transferase [GST] fusion
+protein) together with a 3'X riboprobe. The 3'X region binds to the GST-L22
+fusion protein (but not to GST alone), and this interaction is subject to
+competition with unlabeled 3'X RNA. To establish the functional role played by
+L22 in internal ribosome entry site (IRES)-mediated translation of HCV sequences 
+we performed translational analysis in HuH-7 cells using monocistronic and
+bicistronic reporter constructs. The relative amount of core-chloramphenicol
+acetyltransferase reporter protein translated under the control of the HCV IRES
+was stimulated in the presence of L22 and La when these proteins were supplied in
+trans.
+
+DOI: 10.1128/JVI.75.3.1348-1358.2001 
+PMCID: PMC114041
+PMID: 11152508  [Indexed for MEDLINE]
+

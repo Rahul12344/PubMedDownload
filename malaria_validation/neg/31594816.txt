@@ -1,0 +1,61 @@
+
+1. mBio. 2019 Oct 8;10(5). pii: e01972-19. doi: 10.1128/mBio.01972-19.
+
+Protein Kinase A Is Essential for Invasion of Plasmodium falciparum into Human
+Erythrocytes.
+
+Wilde ML(1)(2), Triglia T(1), Marapana D(1), Thompson JK(1), Kouzmitchev AA(3),
+Bullen HE(4), Gilson PR(4)(5), Cowman AF(1)(2), Tonkin CJ(6)(2).
+
+Author information: 
+(1)The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne,
+Victoria, Australia.
+(2)Department of Medical Biology, The University of Melbourne, Melbourne,
+Victoria, Australia.
+(3)Utrecht University, Utrecht, Netherlands.
+(4)Burnet Institute, Melbourne, Australia.
+(5)Department of Microbiology, Monash University, Melbourne, Australia.
+(6)The Walter and Eliza Hall Institute of Medical Research, Parkville, Melbourne,
+Victoria, Australia tonkin@wehi.edu.au.
+
+Understanding the mechanisms behind host cell invasion by Plasmodium falciparum
+remains a major hurdle to developing antimalarial therapeutics that target the
+asexual cycle and the symptomatic stage of malaria. Host cell entry is enabled by
+a multitude of precisely timed and tightly regulated receptor-ligand
+interactions. Cyclic nucleotide signaling has been implicated in regulating
+parasite invasion, and an important downstream effector of the cAMP-signaling
+pathway is protein kinase A (PKA), a cAMP-dependent protein kinase. There is
+increasing evidence that P. falciparum PKA (PfPKA) is responsible for
+phosphorylation of the cytoplasmic domain of P. falciparum apical membrane
+antigen 1 (PfAMA1) at Ser610, a cAMP-dependent event that is crucial for
+successful parasite invasion. In the present study, CRISPR-Cas9 and conditional
+gene deletion (dimerizable cre) technologies were implemented to generate a P.
+falciparum parasite line in which expression of the catalytic subunit of PfPKA
+(PfPKAc) is under conditional control, demonstrating highly efficient dimerizable
+Cre recombinase (DiCre)-mediated gene excision and complete knockdown of protein 
+expression. Parasites lacking PfPKAc show severely reduced growth after one
+intraerythrocytic growth cycle and are deficient in host cell invasion, as
+highlighted by live-imaging experiments. Furthermore, PfPKAc-deficient parasites 
+are unable to phosphorylate PfAMA1 at Ser610. This work not only identifies an
+essential role for PfPKAc in the P. falciparum asexual life cycle but also
+confirms that PfPKAc is the kinase responsible for phosphorylating PfAMA1
+Ser610.IMPORTANCE Malaria continues to present a major global health burden,
+particularly in low-resource countries. Plasmodium falciparum, the parasite
+responsible for the most severe form of malaria, causes disease through rapid and
+repeated rounds of invasion and replication within red blood cells. Invasion into
+red blood cells is essential for P. falciparum survival, and the molecular events
+mediating this process have gained much attention as potential therapeutic
+targets. With no effective vaccine available, and with the emergence of
+resistance to antimalarials, there is an urgent need for the development of new
+therapeutics. Our research has used genetic techniques to provide evidence of an 
+essential protein kinase involved in P. falciparum invasion. Our work adds to the
+current understanding of parasite signaling processes required for invasion,
+highlighting PKA as a potential drug target to inhibit invasion for the treatment
+of malaria.
+
+Copyright © 2019 Wilde et al.
+
+DOI: 10.1128/mBio.01972-19 
+PMCID: PMC6786871
+PMID: 31594816  [Indexed for MEDLINE]
+

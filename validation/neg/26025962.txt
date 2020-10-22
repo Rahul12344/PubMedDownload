@@ -1,0 +1,64 @@
+
+1. J Nucl Med. 2015 Jul;56(7):1055-60. doi: 10.2967/jnumed.115.159855. Epub 2015 May
+29.
+
+Comparative Analysis of T Cell Imaging with Human Nuclear Reporter Genes.
+
+Moroz MA(1), Zhang H(1), Lee J(2), Moroz E(3), Zurita J(1), Shenker L(1),
+Serganova I(3), Blasberg R(4), Ponomarev V(5).
+
+Author information: 
+(1)Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, New
+York.
+(2)Crump Institute for Molecular Imaging, University of California, Los Angeles, 
+California.
+(3)Department of Neurology, Memorial Sloan Kettering Cancer Center, New York, New
+York; and.
+(4)Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, New
+York Department of Neurology, Memorial Sloan Kettering Cancer Center, New York,
+New York; and Sloan Kettering Institute Molecular Pharmacology and Chemistry
+Program, Memorial Sloan Kettering Cancer Center, New York, New York.
+(5)Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, New
+York Sloan Kettering Institute Molecular Pharmacology and Chemistry Program,
+Memorial Sloan Kettering Cancer Center, New York, New York ponomarv@mskcc.org.
+
+Monitoring genetically altered T cells is an important component of adoptive T
+cell therapy in patients, and the ability to visualize their
+trafficking/targeting, proliferation/expansion, and retention/death using highly 
+sensitive reporter systems that do not induce an immunologic response would
+provide useful information. Therefore, we focused on human reporter gene systems 
+that have the potential for translation to clinical studies. The objective of the
+in vivo imaging studies was to determine the minimum number of T cells that could
+be visualized with the different nuclear reporter systems. We determined the
+imaging sensitivity (lower limit of T cell detection) of each reporter using
+appropriate radiolabeled probes for PET or SPECT imaging.METHODS: Human T cells
+were transduced with retroviral vectors encoding for the human norepinephrine
+transporter (hNET), human sodium-iodide symporter (hNIS), a human deoxycytidine
+kinase double mutant (hdCKDM), and herpes simplex virus type 1 thymidine kinase
+(hsvTK) reporter genes. After viability and growth were assessed, 10(5) to 3 ×
+10(6) reporter T cells were injected subcutaneously on the shoulder area. The
+corresponding radiolabeled probe was injected intravenously 30 min later,
+followed by sequential PET or SPECT imaging. Radioactivity at the T cell
+injection sites and in the thigh (background) was measured.
+RESULTS: The viability and growth of experimental cells were unaffected by
+transduction. The hNET/meta-(18)F-fluorobenzylguanidine ((18)F-MFBG) reporter
+system could detect less than 1 × 10(5) T cells because of its high uptake in the
+transduced T cells and low background activity. The hNIS/(124)I-iodide reporter
+system could detect approximately 1 × 10(6) T cells; (124)I-iodide uptake at the 
+T cell injection site was time-dependent and associated with high background. The
+hdCKDM/2'-(18)F-fluoro-5-ethyl-1-β-d-arabinofuranosyluracil ((18)F-FEAU) and
+hsvTK/(18)F-FEAU reporter systems detected approximately 3 × 10(5) T cells,
+respectively. (18)F-FEAU was a more efficient probe (higher uptake, lower
+background) than (124)I-1-(2-deoxy-2-fluoro-1-d-arabinofuranosyl)-5-iodouracil
+for both hdCKDM and hsvTK.
+CONCLUSION: A comparison of different reporter gene-reporter probe systems for
+imaging of T cell number was performed, and the hNET/(18)F-MFBG PET reporter
+system was found to be the most sensitive and capable of detecting approximately 
+35-40 × 10(3) T cells at the site of T cell injection in the animal model.
+
+© 2015 by the Society of Nuclear Medicine and Molecular Imaging, Inc.
+
+DOI: 10.2967/jnumed.115.159855 
+PMCID: PMC4511596
+PMID: 26025962  [Indexed for MEDLINE]
+

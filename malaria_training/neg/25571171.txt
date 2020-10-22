@@ -1,0 +1,25 @@
+
+1. Annu Int Conf IEEE Eng Med Biol Soc. 2014;2014:5224-7. doi:
+10.1109/EMBC.2014.6944803.
+
+The effects of cell asynchrony on time-series data: an analysis on gene
+expression level of Plasmodium falciparum.
+
+Zhao W, Dauwels J, Cao J.
+
+To investigate the intraerythrocytic cycle of Plasmodium falciparum, time-series 
+gene expression data are measured of infected red blood cells. However, the
+observed data is blurred due to cell asynchrony during experiments. In this
+paper, the effects of cell asynchrony are investigated by conducting numerical
+experiments. The simulation results suggest that cell asynchrony has varying
+effects on different intrinsic expression patterns. Specifically, the intrinsic
+patterns with high expression around the late life stage are more likely to be
+affected by cell asynchrony. It is also investigated how the effects of cell
+asynchrony are influenced by the experimental conditions. Certain parameters are 
+identified that have a strong effects on cell asynchrony, and these parameters
+should be measured during biological experiments in order to deblur time-series
+gene expression data.
+
+DOI: 10.1109/EMBC.2014.6944803 
+PMID: 25571171  [Indexed for MEDLINE]
+

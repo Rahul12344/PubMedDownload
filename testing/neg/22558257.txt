@@ -1,0 +1,42 @@
+
+1. PLoS One. 2012;7(4):e35888. doi: 10.1371/journal.pone.0035888. Epub 2012 Apr 27.
+
+CRISPR interference directs strand specific spacer acquisition.
+
+Swarts DC(1), Mosterd C, van Passel MW, Brouns SJ.
+
+Author information: 
+(1)Laboratory of Microbiology, Department of Agrotechnology and Food Sciences,
+Wageningen University, Wageningen, The Netherlands.
+
+BACKGROUND: CRISPR/Cas is a widespread adaptive immune system in prokaryotes.
+This system integrates short stretches of DNA derived from invading nucleic acids
+into genomic CRISPR loci, which function as memory of previously encountered
+invaders. In Escherichia coli, transcripts of these loci are cleaved into small
+RNAs and utilized by the Cascade complex to bind invader DNA, which is then
+likely degraded by Cas3 during CRISPR interference.
+RESULTS: We describe how a CRISPR-activated E. coli K12 is cured from a high copy
+number plasmid under non-selective conditions in a CRISPR-mediated way. Cured
+clones integrated at least one up to five anti-plasmid spacers in genomic CRISPR 
+loci. New spacers are integrated directly downstream of the leader sequence. The 
+spacers are non-randomly selected to target protospacers with an AAG protospacer 
+adjacent motif, which is located directly upstream of the protospacer. A
+co-occurrence of PAM deviations and CRISPR repeat mutations was observed,
+indicating that one nucleotide from the PAM is incorporated as the last
+nucleotide of the repeat during integration of a new spacer. When multiple
+spacers were integrated in a single clone, all spacer targeted the same strand of
+the plasmid, implying that CRISPR interference caused by the first integrated
+spacer directs subsequent spacer acquisition events in a strand specific manner.
+CONCLUSIONS: The E. coli Type I-E CRISPR/Cas system provides resistance against
+bacteriophage infection, but also enables removal of residing plasmids. We
+established that there is a positive feedback loop between active spacers in a
+cluster--in our case the first acquired spacer--and spacers acquired thereafter, 
+possibly through the use of specific DNA degradation products of the CRISPR
+interference machinery by the CRISPR adaptation machinery. This loop enables a
+rapid expansion of the spacer repertoire against an actively present DNA element 
+that is already targeted, amplifying the CRISPR interference effect.
+
+DOI: 10.1371/journal.pone.0035888 
+PMCID: PMC3338789
+PMID: 22558257  [Indexed for MEDLINE]
+

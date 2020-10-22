@@ -1,0 +1,46 @@
+
+1. Biotechnol Prog. 2017 Jul;33(4):954-965. doi: 10.1002/btpr.2442. Epub 2017 Mar
+17.
+
+Design, construction, and optimization of a novel, modular, and scalable
+incubation chamber for continuous viral inactivation.
+
+Orozco R(1), Godfrey S(1), Coffman J(2), Amarikwa L(3), Parker S(3), Hernandez
+L(3), Wachuku C(3), Mai B(3), Song B(3), Hoskatti S(3), Asong J(3), Shamlou P(3),
+Bardliving C(3), Fiadeiro M(4).
+
+Author information: 
+(1)Boehringer Ingelheim, Process Science Department, Fremont, CA, 94555.
+(2)Boehringer Ingelheim, Global Innovation and Technology Department, Fremont,
+CA, 94555.
+(3)Keck Graduate Institute, Amgen Bioprocessing Center, Claremont, CA, 91711.
+(4)Pfizer, Bioprocess R&D, Andover, MA, 01810.
+
+We designed, built or 3D printed, and screened tubular reactors that minimize
+axial dispersion to serve as incubation chambers for continuous virus
+inactivation of biological products. Empirical residence time distribution data
+were used to derive each tubular design's volume equivalent to a theoretical
+plate (VETP) values at a various process flow rates. One design, the Jig in a Box
+(JIB), yielded the lowest VETP, indicating optimal radial mixing and minimal
+axial dispersion. A minimum residence time (MRT) approach was employed, where the
+MRT is the minimum time the product spends in the tubular reactor. This
+incubation time is typically 60 minutes in a batch process. We provide
+recommendations for combinations of flow rates and device dimensions for
+operation of the JIB connected in series that will meet a 60-min MRT. The results
+show that under a wide range of flow rates and corresponding volumes, it takes
+75 ± 3 min for 99% of the product to exit the reactor while meeting the 60-min
+MRT criterion and fulfilling the constraint of keeping a differential pressure
+drop under 5 psi. Under these conditions, the VETP increases slightly from 3 to 5
+mL though the number of theoretical plates stays constant at about 1326 ± 88. We 
+also demonstrated that the final design volume was only 6% ± 1% larger than the
+ideal plug flow volume. Using such a device would enable continuous viral
+inactivation in a truly continuous process or in the effluent of a batch
+chromatography column. Viral inactivation studies would be required to validate
+such a design. © 2017 American Institute of Chemical Engineers Biotechnol. Prog.,
+33:954-965, 2017.
+
+© 2017 American Institute of Chemical Engineers.
+
+DOI: 10.1002/btpr.2442 
+PMID: 28188705  [Indexed for MEDLINE]
+

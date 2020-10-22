@@ -1,0 +1,41 @@
+
+1. Int J Parasitol Drugs Drug Resist. 2012 Jul 17;2:191-9. doi:
+10.1016/j.ijpddr.2012.07.002. eCollection 2012 Dec.
+
+In silico prediction of antimalarial drug target candidates.
+
+Ludin P(1), Woodcroft B(2), Ralph SA(2), Mäser P(1).
+
+Author information: 
+(1)Swiss Tropical and Public Health Institute, 4002 Basel, Switzerland ;
+University of Basel, 4000 Basel, Switzerland.
+(2)Department of Biochemistry and Molecular Biology, Bio21 Molecular Science and 
+Biotechnology Institute, University of Melbourne, Victoria 3010, Australia.
+
+The need for new antimalarials is persistent due to the emergence of drug
+resistant parasites. Here we aim to identify new drug targets in Plasmodium
+falciparum by phylogenomics among the Plasmodium spp. and comparative genomics to
+Homo sapiens. The proposed target discovery pipeline is largely independent of
+experimental data and based on the assumption that P. falciparum proteins are
+likely to be essential if (i) there are no similar proteins in the same proteome 
+and (ii) they are highly conserved across the malaria parasites of mammals. This 
+hypothesis was tested using sequenced Saccharomycetaceae species as a touchstone.
+Consecutive filters narrowed down the potential target space of P. falciparum to 
+proteins that are likely to be essential, matchless in the human proteome,
+expressed in the blood stages of the parasite, and amenable to small molecule
+inhibition. The final set of 40 candidate drug targets was significantly enriched
+in essential proteins and comprised proven targets (e.g. dihydropteroate
+synthetase or enzymes of the non-mevalonate pathway), targets currently under
+investigation (e.g. calcium-dependent protein kinases), and new candidates of
+potential interest such as phosphomannose isomerase, phosphoenolpyruvate
+carboxylase, signaling components, and transporters. The targets were prioritized
+based on druggability indices and on the availability of in vitro assays.
+Potential inhibitors were inferred from similarity to known targets of other
+disease systems. The identified candidates from P. falciparum provide insight
+into biochemical peculiarities and vulnerable points of the malaria parasite and 
+might serve as starting points for rational drug discovery.
+
+DOI: 10.1016/j.ijpddr.2012.07.002 
+PMCID: PMC3862442
+PMID: 24533280 
+

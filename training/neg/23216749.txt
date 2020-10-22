@@ -1,0 +1,45 @@
+
+1. BMC Genomics. 2012 Dec 5;13:682. doi: 10.1186/1471-2164-13-682.
+
+Asymmetric purine-pyrimidine distribution in cellular small RNA population of
+papaya.
+
+Aryal R(1), Yang X, Yu Q, Sunkar R, Li L, Ming R.
+
+Author information: 
+(1)Department of Plant Biology, University of Illinois at Urbana-Champaign,
+Urbana, IL 61801, USA.
+
+BACKGROUND: The small RNAs (sRNA) are a regulatory class of RNA mainly
+represented by the 21 and 24-nucleotide size classes. The cellular sRNAs are
+processed by RNase III family enzyme dicer (Dicer like in plant) from a
+self-complementary hairpin loop or other type of RNA duplexes. The papaya genome 
+has been sequenced, but its microRNAs and other regulatory RNAs are yet to be
+analyzed.
+RESULTS: We analyzed the genomic features of the papaya sRNA population from
+three sRNA deep sequencing libraries made from leaves, flowers, and leaves
+infected with Papaya Ringspot Virus (PRSV). We also used the deep sequencing data
+to annotate the micro RNA (miRNA) in papaya. We identified 60 miRNAs, 24 of which
+were conserved in other species, and 36 of which were novel miRNAs specific to
+papaya. In contrast to the Chargaff's purine-pyrimidine equilibrium, cellular
+sRNA was significantly biased towards a purine rich population. Of the two purine
+bases, higher frequency of adenine was present in 23nt or longer sRNAs, while
+22nt or shorter sRNAs were over represented by guanine bases. However, this bias 
+was not observed in the annotated miRNAs in plants. The 21nt species were
+expressed from fewer loci but expressed at higher levels relative to the 24nt
+species. The highly expressed 21nt species were clustered in a few isolated
+locations of the genome. The PRSV infected leaves showed higher accumulation of
+21 and 22nt sRNA compared to uninfected leaves. We observed higher accumulation
+of miRNA* of seven annotated miRNAs in virus-infected tissue, indicating the
+potential function of miRNA* under stressed conditions.
+CONCLUSIONS: We have identified 60 miRNAs in papaya. Our study revealed the
+asymmetric purine-pyrimidine distribution in cellular sRNA population. The 21nt
+species of sRNAs have higher expression levels than 24nt sRNA. The miRNA* of some
+miRNAs shows higher accumulation in PRSV infected tissues, suggesting that these 
+strands are not totally functionally redundant. The findings open a new avenue
+for further investigation of the sRNA silencing pathway in plants.
+
+DOI: 10.1186/1471-2164-13-682 
+PMCID: PMC3582581
+PMID: 23216749  [Indexed for MEDLINE]
+

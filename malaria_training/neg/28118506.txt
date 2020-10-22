@@ -1,0 +1,52 @@
+
+1. Mol Microbiol. 2017 Apr;104(2):306-318. doi: 10.1111/mmi.13626. Epub 2017 Feb 21.
+
+A high susceptibility to redox imbalance of the transmissible stages of
+Plasmodium falciparum revealed with a luciferase-based mature gametocyte assay.
+
+Siciliano G(1), Santha Kumar TR(2), Bona R(3), Camarda G(1), Calabretta MM(4),
+Cevenini L(4), Davioud-Charvet E(5), Becker K(6), Cara A(3), Fidock DA(2)(7),
+Alano P(1).
+
+Author information: 
+(1)Dipartimento di Malattie Infettive, Parassitarie ed Immunomediate, Istituto
+Superiore di Sanità, Rome, Italy.
+(2)Department of Microbiology and Immunology, Columbia University Medical Center,
+New York, NY, USA.
+(3)Dipartimento Farmaco, Istituto Superiore di Sanità, Rome, Italy.
+(4)Department of Chemistry "G. Ciamician", University of Bologna, Bologna, Italy.
+(5)European School of Chemistry, Polymers and Materials (ECPM), UMR 7509 Centre
+National de la Recherche Scientifique and University of Strasbourg, Strasbourg,
+France.
+(6)Biochemistry and Molecular Biology, Interdisciplinary Research Center, Justus 
+Liebig University Giessen, Germany.
+(7)Division of Infectious Diseases, Department of Medicine, Columbia University
+Medical Center, New York, NY, USA.
+
+The goal to prevent Plasmodium falciparum transmission from humans to mosquitoes 
+requires the identification of targetable metabolic processes in the mature
+(stage V) gametocytes, the sexual stages circulating in the bloodstream. This
+task is complicated by the apparently low metabolism of these cells, which
+renders them refractory to most antimalarial inhibitors and constrains the
+development of specific and sensitive cell-based assays. Here, we identify and
+functionally characterize the regulatory regions of the P. falciparum gene
+PF3D7_1234700, encoding a CPW-WPC protein and named here Upregulated in Late
+Gametocytes (ULG8), which we have leveraged to express reporter genes in mature
+male and female gametocytes. Using transgenic parasites containing a
+pfULG8-luciferase cassette, we investigated the susceptibility of stage V
+gametocytes to compounds specifically affecting redox metabolism. Our results
+reveal a high sensitivity of mature gametocytes to the glutathione reductase
+inhibitor and redox cycler drug methylene blue (MB). Using isobologram analysis, 
+we find that a concomitant inhibition of the parasite enzyme glucose-6-phosphate 
+dehydrogenase-6-phosphogluconolactonase, a key component of NADPH synthesis,
+potently synergizes MB activity. These data suggest that redox metabolism and
+detoxification activity play an unsuspected yet vital role in stage V
+gametocytes, rendering these cells exquisitely sensitive to decreases in NADPH
+concentration.
+
+© 2017 John Wiley & Sons Ltd.
+
+DOI: 10.1111/mmi.13626 
+PMCID: PMC5380559
+PMID: 28118506  [Indexed for MEDLINE]
+

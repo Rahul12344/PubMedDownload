@@ -1,0 +1,45 @@
+
+1. Parasit Vectors. 2020 Jun 5;13(1):285. doi: 10.1186/s13071-020-04155-6.
+
+Glucose transporter GLUT1 influences Plasmodium berghei infection in Anopheles
+stephensi.
+
+Wang M(1), Wang J(2).
+
+Author information: 
+(1)Ministry of Education Key Laboratory of Contemporary Anthropology, School of
+Life Sciences, Fudan University, Shanghai, People's Republic of China.
+(2)Ministry of Education Key Laboratory of Contemporary Anthropology, School of
+Life Sciences, Fudan University, Shanghai, People's Republic of China.
+jingwenwang@fudan.edu.cn.
+
+BACKGROUND: Sugar-feeding provides energy for mosquitoes. Facilitated glucose
+transporters (GLUTs) are responsible for the uptake of glucose in animals.
+However, knowledge of GLUTs function in Anopheles spp. is limited.
+METHODS: Phylogenetic analysis of GLUTs in Anopheles stephensi was performed by
+the maximum likelihood and Bayesian inference methods. The spatial and temporal
+expression patterns of four Asteglut genes were analyzed by qPCR. The function of
+Asteglut1 was examined using a dsRNA-mediated RNA interference method.
+Transcriptome analysis was used to investigate the global influence of Asteglut1 
+on mosquito physiology.
+RESULTS: We identified 4 glut genes, Asteglut1, Asteglutx, Asteglut3 and
+Asteglut4 in An. stephensi. Asteglut1, Asteglut3 and Asteglut4 were mainly
+expressed in the midgut. Plasmodium berghei infection differentially regulated
+the expression of Asteglut genes with significant downregulation of Asteglut1 and
+Asteglut4, while upregulation of Asteglutx. Only knocking-down Asteglut1
+facilitated Plasmodium berghei infection in An. stephensi. This might be due to
+the accumulation of glucose prior to blood-feeding in dsAsteglut1-treated
+mosquitoes. Our transcriptome analysis revealed that knockdown of Asteglut1
+differentially regulated expression of genes associated with multiple functional 
+clusters, especially those related to detoxification and immunity. The
+dysregulation of multiple pathways might contribute to the increased P. berghei
+infection.
+CONCLUSIONS: Our study shows that Asteglut1 participates in defense against P.
+berghei in An. stephensi. The regulation of Asteglut1 on vector competence might 
+through modulating multiple biological processes, such as detoxification and
+immunity.
+
+DOI: 10.1186/s13071-020-04155-6 
+PMCID: PMC7275331
+PMID: 32503601 
+

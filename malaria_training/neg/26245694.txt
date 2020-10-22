@@ -1,0 +1,43 @@
+
+1. Biotechnol Bioeng. 2016 Feb;113(2):384-92. doi: 10.1002/bit.25719. Epub 2015 Sep 
+3.
+
+Combinatorial pathway engineering for optimized production of the anti-malarial
+FR900098.
+
+Freestone TS(1), Zhao H(2)(3).
+
+Author information: 
+(1)Department of Chemical and Biomolecular Engineering and Institute for Genomic 
+Biology, University of Illinois at Urbana-Champaign, Urbana, Illinois.
+(2)Department of Chemical and Biomolecular Engineering and Institute for Genomic 
+Biology, University of Illinois at Urbana-Champaign, Urbana, Illinois.
+zhao5@illinois.edu.
+(3)Departments of Chemistry, Biochemistry, and Bioengineering, Center for
+Biophysics and Computational Biology, School of Molecular and Cellular Biology,
+University of Illinois at Urbana-Champaign, Urbana, Illinois, 61801.
+zhao5@illinois.edu.
+
+As resistance to current anti-malarial therapeutics spreads, new compounds to
+treat malaria are increasingly needed. One promising compound is FR900098, a
+naturally occurring phosphonate. Due to limitations in both chemical synthesis
+and biosynthetic methods for FR900098 production, this potential therapeutic has 
+yet to see widespread implementation. Here we applied a combinatorial pathway
+engineering strategy to improve the production of FR900098 in Escherichia coli by
+modulating each of the pathway's nine genes with four promoters of different
+strengths. Due to the large size of the library and the low screening throughput,
+it was necessary to develop a novel screening strategy that significantly reduced
+the sample size needed to find an optimal strain. This was done by using biased
+libraries that localize searching around top hits and home in on high-producing
+strains. By incorporating this strategy, a significantly improved strain was
+found after screening less than 3% of the entire library. When coupled with
+culturing optimization, a strain was found to produce 96 mg/L, a 16-fold
+improvement over the original strain. We believe the enriched library method
+developed here can be used on other large pathways that may be difficult to
+engineer by combinatorial methods due to low screening throughput.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/bit.25719 
+PMID: 26245694  [Indexed for MEDLINE]
+

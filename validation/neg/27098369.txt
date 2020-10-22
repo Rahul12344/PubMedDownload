@@ -1,0 +1,39 @@
+
+1. Sci Rep. 2016 Apr 21;6:24496. doi: 10.1038/srep24496.
+
+Circulating microRNA profiles of Ebola virus infection.
+
+Duy J(1), Koehler JW(1), Honko AN(2), Schoepp RJ(1), Wauquier N(3), Gonzalez
+JP(4), Pitt ML(2), Mucker EM(2), Johnson JC(2), O'Hearn A(1), Bangura J(3),
+Coomber M(3), Minogue TD(1).
+
+Author information: 
+(1)Diagnostic Systems Division, U.S. Army Medical Research Institute of
+Infectious Diseases, Fort Detrick, Frederick, MD, USA.
+(2)Virology Division, U.S. Army Medical Institute of Infectious Diseases, Fort
+Detrick, Frederick, MD, USA.
+(3)Metabiota, Kenema, Sierra Leone.
+(4)Metabiota, Washington, DC, USA.
+
+Early detection of Ebola virus (EBOV) infection is essential to halting
+transmission and adjudicating appropriate treatment. However, current methods
+rely on viral identification, and this approach can misdiagnose presymptomatic
+and asymptomatic individuals. In contrast, disease-driven alterations in the host
+transcriptome can be exploited for pathogen-specific diagnostic biomarkers. Here,
+we present for the first time EBOV-induced changes in circulating miRNA
+populations of nonhuman primates (NHPs) and humans. We retrospectively profiled
+longitudinally-collected plasma samples from rhesus macaques challenged via
+intramuscular and aerosol routes and found 36 miRNAs differentially present in
+both groups. Comparison of miRNA abundances to viral loads uncovered 15 highly
+correlated miRNAs common to EBOV-infected NHPs and humans. As proof of principle,
+we developed an eight-miRNA classifier that correctly categorized infection
+status in 64/74 (86%) human and NHP samples. The classifier identified acute
+infections in 27/29 (93.1%) samples and in 6/12 (50%) presymptomatic NHPs. These 
+findings showed applicability of NHP-derived miRNAs to a human cohort, and with
+additional research the resulting classifiers could impact the current capability
+to diagnose presymptomatic and asymptomatic EBOV infections.
+
+DOI: 10.1038/srep24496 
+PMCID: PMC4838880
+PMID: 27098369  [Indexed for MEDLINE]
+

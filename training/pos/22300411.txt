@@ -1,0 +1,44 @@
+
+1. J Biomed Sci. 2012 Feb 2;19:12. doi: 10.1186/1423-0127-19-12.
+
+Suppressive regulation of KSHV RTA with O-GlcNAcylation.
+
+Ko YC(1), Tsai WH, Wang PW, Wu IL, Lin SY, Chen YL, Chen JY, Lin SF.
+
+Author information: 
+(1)National Institute of Cancer Research, National Health Research Institutes,
+Miaoli County, Taiwan.
+
+BACKGROUND: The replication and transcription activator (RTA) of Kaposi's
+sarcoma-associated herpesvirus (KSHV) is a molecular switch that initiates a
+productive replication of latent KSHV genomes. KSHV RTA (K-RTA) is composed of
+691 amino acids with high Ser and Thr content (17.7%), but to what extent these
+Ser and Thr are modified in vivo has not been explored.
+METHODS: By using tandem mass spectrometric analysis of affinity-purified FLAG
+tagged K-RTA, we sought to identify Ser and Thr residues that are
+post-translationally modified in K-RTA.
+RESULTS: We found that K-RTA is an O-GlcNAcylated protein and Thr-366/Thr-367 is 
+the primary motif with O-GlcNAcylation in vivo. The biological significance of
+O-GlcNAc modified Thr-366 and Thr-367 was assessed by site-specific amino acid
+substitution. Replacement of Thr with Ala at amino acid 366 or 367 caused a
+modest enhancement of K-RTA transactivation activity in a luciferase reporter
+assay and a cell model for KSHV reactivation. By using co-immunoprecipitation
+coupled with western blot analysis, we showed that the capacity of K-RTA in
+associating with endogenous PARP1 was significantly reduced in the
+Thr-366/Thr-367 O-GlcNAc mutants. PARP1 is a documented negative regulator of
+K-RTA that can be ascribed by the attachment of large negatively charged polymer 
+onto K-RTA via PARP1's poly (ADP-ribose) polymerase activity. In agreement,
+shRNA-mediated depletion of O-GlcNAc transferase (OGT) in KSHV infected cells
+augmented viral reactivation and virus production that was accompanied by
+diminished K-RTA and PARP1 complexes.
+CONCLUSIONS: KSHV latent-lytic switch K-RTA is modified by cellular
+O-GlcNAcylation, which imposes a negative effect on K-RTA transactivation
+activity. This inhibitory effect involves OGT and PARP1, two nutritional sensors 
+recently emerging as chromatin modifiers. Thus, we speculate that the activity of
+K-RTA on its target genes is continuously checked and modulated by OGT and PARP1 
+in response to cellular metabolic state.
+
+DOI: 10.1186/1423-0127-19-12 
+PMCID: PMC3395832
+PMID: 22300411  [Indexed for MEDLINE]
+

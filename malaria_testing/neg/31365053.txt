@@ -1,0 +1,31 @@
+
+1. Brief Funct Genomics. 2019 Sep 24;18(5):281-289. doi: 10.1093/bfgp/elz012.
+
+Cutting back malaria: CRISPR/Cas9 genome editing of Plasmodium.
+
+Lee MCS(1), Lindner SE(2), Lopez-Rubio JJ(3), Llinás M(2)(4).
+
+Author information: 
+(1)Parasites and Microbes Programme, Wellcome Sanger Institute, Hinxton, UK.
+(2)Department of Biochemistry and Molecular Biology, Huck Center for Malaria
+Research, The Pennsylvania State University, Pennsylvania, USA.
+(3)Dynamique des Interactions Membranaires Normales et Pathologiques, UMR5235
+CNRS, INSERM, Université Montpellier, Montpellier, France.
+(4)Department of Chemistry, The Pennsylvania State University, Pennsylvania, USA.
+
+CRISPR/Cas9 approaches are revolutionizing our ability to perform functional
+genomics across a wide range of organisms, including the Plasmodium parasites
+that cause malaria. The ability to deliver single point mutations, epitope tags
+and gene deletions at increased speed and scale is enabling our understanding of 
+the biology of these complex parasites, and pointing to potential new therapeutic
+targets. In this review, we describe some of the biological and technical
+considerations for designing CRISPR-based experiments, and discuss potential
+future developments that broaden the applications for CRISPR/Cas9 interrogation
+of the malaria parasite genome.
+
+© The Author(s) 2019. Published by Oxford University Press.
+
+DOI: 10.1093/bfgp/elz012 
+PMCID: PMC6859820
+PMID: 31365053  [Indexed for MEDLINE]
+

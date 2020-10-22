@@ -1,0 +1,43 @@
+
+1. Malar J. 2014 Sep 24;13:380. doi: 10.1186/1475-2875-13-380.
+
+The diminishing returns of atovaquone-proguanil for elimination of Plasmodium
+falciparum malaria: modelling mass drug administration and treatment.
+
+Maude RJ(1), Nguon C, Dondorp AM, White LJ, White NJ.
+
+Author information: 
+(1)Mahidol-Oxford Tropical Medicine Research Unit, Faculty of Tropical Medicine, 
+Mahidol University, Bangkok, Thailand. richardmaude@gmail.com.
+
+BACKGROUND: Artemisinin resistance is a major threat to current efforts to
+eliminate Plasmodium falciparum malaria which rely heavily on the continuing
+efficacy of artemisinin combination therapy (ACT). It has been suggested that ACT
+should not be used in mass drug administration (MDA) in areas where
+artemisinin-resistant P. falciparum is prevalent, and that atovaquone-proguanil
+(A-P) might be a preferable alternative. However, a single point mutation in the 
+cytochrome b gene confers high level resistance to atovaquone, and such mutant
+parasites arise frequently during treatment making A-P a vulnerable tool for
+elimination.
+METHODS: A deterministic, population level, mathematical model was developed
+based on data from Cambodia to explore the possible effects of large-scale use of
+A-P compared to dihydroartemisinin-piperaquine ACT for mass drug administration
+and/or treatment of P. falciparum malaria, with and without adjunctive primaquine
+(PQ) and long-lasting insecticide-treated bed nets (LLIN). The aim was local
+elimination.
+RESULTS: The model showed the initial efficacy of ACT and A-P for MDA to be
+similar. However, each round of A-P MDA resulted in rapid acquisition and spread 
+of atovaquone resistance. Even a single round of MDA could compromise efficacy
+sufficient to preclude its use for treatment or prophylaxis. A switch to A-P for 
+treatment of symptomatic episodes resulted in a complete loss of efficacy in the 
+population within four to five years of its introduction. The impact of MDA was
+temporary and a combination of maintained high coverage with ACT treatment for
+symptomatic individuals and LLIN was necessary for elimination.
+CONCLUSION: For malaria elimination, A-P for MDA or treatment of symptomatic
+cases should be avoided. A combined strategy of high coverage with ACT for
+treatment of symptomatic episodes, LLIN and ACT + P MDA would be preferable.
+
+DOI: 10.1186/1475-2875-13-380 
+PMCID: PMC4192368
+PMID: 25249272  [Indexed for MEDLINE]
+

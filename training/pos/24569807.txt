@@ -1,0 +1,44 @@
+
+1. Proc Natl Acad Sci U S A. 2014 Feb 25;111(8):3152-7. doi:
+10.1073/pnas.1314718111. Epub 2014 Feb 3.
+
+Tyrosine sulfation in the second variable loop (V2) of HIV-1 gp120 stabilizes
+V2-V3 interaction and modulates neutralization sensitivity.
+
+Cimbro R(1), Gallant TR, Dolan MA, Guzzo C, Zhang P, Lin Y, Miao H, Van Ryk D,
+Arthos J, Gorshkova I, Brown PH, Hurt DE, Lusso P.
+
+Author information: 
+(1)Laboratory of Immunoregulation and Bioinformatics and Computational
+Biosciences Branch, National Institute of Allergy and Infectious Diseases,
+National Institutes of Health, Bethesda, MD 20892.
+
+Elicitation of broadly neutralizing antibodies is essential for the development
+of a protective vaccine against HIV-1. However, the native HIV-1 envelope adopts 
+a protected conformation that conceals highly conserved sites of vulnerability
+from antibody recognition. Although high-definition structures of the monomeric
+core of the envelope glycoprotein subunit gp120 and, more recently, of a
+stabilized soluble gp140 trimer have been solved, fundamental aspects related to 
+the conformation and function of the native envelope remain unresolved. Here, we 
+show that the conserved central region of the second variable loop (V2) of gp120 
+contains sulfated tyrosines (Tys173 and Tys177) that in the CD4-unbound prefusion
+state mediate intramolecular interaction between V2 and the conserved base of the
+third variable loop (V3), functionally mimicking sulfated tyrosines in CCR5 and
+anti-coreceptor-binding-site antibodies such as 412d. Recombinant gp120 expressed
+in continuous cell lines displays low constitutive levels of V2 tyrosine
+sulfation, which can be enhanced markedly by overexpression of the tyrosyl
+sulfotransferase TPST2. In contrast, virion-associated gp120 produced by primary 
+CD4(+) T cells is inherently highly sulfated. Consistent with a functional role
+of the V2 sulfotyrosines, enhancement of tyrosine sulfation decreased binding and
+neutralization of HIV-1 BaL by monomeric soluble CD4, 412d, and anti-V3
+antibodies and increased recognition by the trimer-preferring antibodies PG9,
+PG16, CH01, and PGT145. Conversely, inhibition of tyrosine sulfation increased
+sensitivity to soluble CD4, 412d, and anti-V3 antibodies and diminished
+recognition by trimer-preferring antibodies. These results identify the
+sulfotyrosine-mediated V2-V3 interaction as a critical constraint that stabilizes
+the native HIV-1 envelope trimer and modulates its sensitivity to neutralization.
+
+DOI: 10.1073/pnas.1314718111 
+PMCID: PMC3939864
+PMID: 24569807  [Indexed for MEDLINE]
+

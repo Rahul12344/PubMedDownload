@@ -1,0 +1,52 @@
+
+1. Malar J. 2015 Feb 14;14:76. doi: 10.1186/s12936-015-0581-y.
+
+PfMDR2 and PfMDR5 are dispensable for Plasmodium falciparum asexual parasite
+multiplication but change in vitro susceptibility to anti-malarial drugs.
+
+van der Velden M(1), Rijpma SR(2), Russel FG(3), Sauerwein RW(4), Koenderink
+JB(5).
+
+Author information: 
+(1)Department of Pharmacology and Toxicology, Radboud University Medical Center, 
+Nijmegen, The Netherlands. Maarten.vanderVelden@radboudumc.nl.
+(2)Department of Pharmacology and Toxicology, Radboud University Medical Center, 
+Nijmegen, The Netherlands. Sanna.Rijpma@radboudumc.nl.
+(3)Department of Pharmacology and Toxicology, Radboud University Medical Center, 
+Nijmegen, The Netherlands. Frans.Russel@radboudumc.nl.
+(4)Department of Medical Microbiology, Radboud University Medical Center,
+Nijmegen, The Netherlands. Robert.Sauerwein@radboudumc.nl.
+(5)Department of Pharmacology and Toxicology, Radboud University Medical Center, 
+Nijmegen, The Netherlands. Jan.Koenderink@radboudumc.nl.
+
+BACKGROUND: Membrane-associated ATP binding cassette (ABC) transport proteins
+hydrolyze ATP in order to translocate a broad spectrum of substrates, from single
+ions to macromolecules across membranes. In humans, members from this transport
+family have been linked to drug resistance phenotypes, e.g., tumour resistance by
+enhanced export of chemotherapeutic agents from cancer cells due to gene
+amplifications or polymorphisms in multidrug resistance (MDR) protein 1. Similar 
+mechanisms have linked the Plasmodium falciparum PfMDR1 transporter to
+anti-malarial drug resistance acquisition. In this study, the possible
+involvement of two related MDR proteins, PfMDR2 and PfMDR5, to emerging drug
+resistance is investigated by a reverse genetics approach.
+METHODS: A homologous double crossover strategy was used to generate P.
+falciparum parasites lacking the Pfmdr2 (PfΔmdr2) or Pfmdr5 (PfΔmdr5) gene.
+Plasmodium lactate dehydrogenase activity was used as read-out for sensitivity to
+artemisinin (ART), atovaquone (ATO), dihydroartemisinin (DHA), chloroquine (CQ), 
+lumefantrine (LUM), mefloquine (MQ), and quinine (QN). Differences in half
+maximal inhibitory concentration (IC₅₀) values between wild type and each mutant 
+line were determined using a paired t-test.
+RESULTS: Both PfΔmdr2 and PfΔmdr5 clones were capable of asexual multiplication. 
+Upon drug exposure, PfΔmdr2 showed a marginally decreased sensitivity to ATO
+(IC₅₀ of 1.2 nM to 1.8 nM), MQ (124 nM to 185 nM) and QN (40 nM to 70 nM), as
+compared to wild type (NF54) parasites. On the other hand, PfΔmdr5 showed
+slightly increased sensitivity to ART (IC₅₀ of 26 nM to 19 nM).
+CONCLUSION: Both Pfmdr2 and Pfmdr5 are dispensable for blood stage development
+while the deletion lines show altered sensitivity profiles to commonly used
+anti-malarial drugs. The findings show for the first time that next to PfMDR2,
+the PfMDR5 transport protein could play a role in emerging drug resistance.
+
+DOI: 10.1186/s12936-015-0581-y 
+PMCID: PMC4350286
+PMID: 25884516  [Indexed for MEDLINE]
+

@@ -1,0 +1,50 @@
+
+1. Malar J. 2014 Sep 26;13:382. doi: 10.1186/1475-2875-13-382.
+
+Transcriptome sequencing and analysis of Plasmodium gallinaceum reveals
+polymorphisms and selection on the apical membrane antigen-1.
+
+Lauron EJ(1), Oakgrove KS, Tell LA, Biskar K, Roy SW, Sehgal RN.
+
+Author information: 
+(1)Department of Biology, San Francisco State University, San Francisco, CA
+94132, USA. elauron@mail.sfsu.edu.
+
+BACKGROUND: Plasmodium erythrocyte invasion genes play a key role in malaria
+parasite transmission, host-specificity and immuno-evasion. However, the
+evolution of the genes responsible remains understudied. Investigating these
+genes in avian malaria parasites, where diversity is particularly high, offers
+new insights into the processes that confer malaria pathogenesis. These parasites
+can pose a significant threat to birds and since birds play crucial ecological
+roles they serve as important models for disease dynamics. Comprehensive
+knowledge of the genetic factors involved in avian malaria parasite invasion is
+lacking and has been hampered by difficulties in obtaining nuclear data from
+avian malaria parasites. Thus the first Illumina-based de novo transcriptome
+sequencing and analysis of the chicken parasite Plasmodium gallinaceum was
+performed to assess the evolution of essential Plasmodium genes.
+METHODS: White leghorn chickens were inoculated intravenously with erythrocytes
+containing P. gallinaceum. cDNA libraries were prepared from RNA extracts
+collected from infected chick blood and sequencing was run on the HiSeq2000
+platform. Orthologues identified by transcriptome sequencing were characterized
+using phylogenetic, ab initio protein modelling and comparative and
+population-based methods.
+RESULTS: Analysis of the transcriptome identified several orthologues required
+for intra-erythrocytic survival and erythrocyte invasion, including the rhoptry
+neck protein 2 (RON2) and the apical membrane antigen-1 (AMA-1). Ama-1 of avian
+malaria parasites exhibits high levels of genetic diversity and evolves under
+positive diversifying selection, ostensibly due to protective host immune
+responses.
+CONCLUSION: Erythrocyte invasion by Plasmodium parasites require AMA-1 and RON2
+interactions. AMA-1 and RON2 of P. gallinaceum are evolutionarily and
+structurally conserved, suggesting that these proteins may play essential roles
+for avian malaria parasites to invade host erythrocytes. In addition, host-driven
+selection presumably results in the high levels of genetic variation found in
+ama-1 of avian Plasmodium species. These findings have implications for
+investigating avian malaria epidemiology and population dynamics. Moreover, this 
+work highlights the P. gallinaceum transcriptome as an important public resource 
+for investigating the diversity and evolution of essential Plasmodium genes.
+
+DOI: 10.1186/1475-2875-13-382 
+PMCID: PMC4182871
+PMID: 25261185  [Indexed for MEDLINE]
+

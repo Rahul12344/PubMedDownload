@@ -1,0 +1,39 @@
+
+1. Proc Natl Acad Sci U S A. 2017 Mar 14;114(11):E2068-E2076. doi:
+10.1073/pnas.1615195114. Epub 2017 Feb 27.
+
+Quantification of labile heme in live malaria parasites using a genetically
+encoded biosensor.
+
+Abshire JR(1), Rowlands CJ(1), Ganesan SM(1), So PT(1)(2), Niles JC(3).
+
+Author information: 
+(1)Department of Biological Engineering, Massachusetts Institute of Technology,
+Cambridge, MA 02139.
+(2)Department of Mechanical Engineering, Massachusetts Institute of Technology,
+Cambridge, MA 02139.
+(3)Department of Biological Engineering, Massachusetts Institute of Technology,
+Cambridge, MA 02139; jcniles@mit.edu.
+
+Heme is ubiquitous, yet relatively little is known about the maintenance of
+labile pools of this cofactor, which likely ensures its timely bioavailability
+for proper cellular function. Quantitative analysis of labile heme is of
+fundamental importance to understanding how nature preserves access to the
+diverse chemistry heme enables, while minimizing cellular damage caused by its
+redox activity. Here, we have developed and characterized a protein-based sensor 
+that undergoes fluorescence quenching upon heme binding. By genetically encoding 
+this sensor in the human malarial parasite, Plasmodium falciparum, we have
+quantified cytosolic labile heme levels in intact, blood-stage parasites. Our
+findings indicate that a labile heme pool (∼1.6 µM) is stably maintained
+throughout parasite development within red blood cells, even during a period
+coincident with extensive hemoglobin degradation by the parasite. We also find
+that the heme-binding antimalarial drug chloroquine specifically increases labile
+cytosolic heme, indicative of dysregulation of this homeostatic pool that may be 
+a relevant component of the antimalarial activity of this compound class. We
+propose that use of this technology under various environmental perturbations in 
+P. falciparum can yield quantitative insights into fundamental heme biology.
+
+DOI: 10.1073/pnas.1615195114 
+PMCID: PMC5358388
+PMID: 28242687  [Indexed for MEDLINE]
+

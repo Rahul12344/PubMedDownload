@@ -1,0 +1,56 @@
+
+1. mSphere. 2020 Aug 12;5(4). pii: e00457-20. doi: 10.1128/mSphere.00457-20.
+
+Redesigned TetR-Aptamer System To Control Gene Expression in Plasmodium
+falciparum.
+
+Rajaram K(1), Liu HB(1), Prigge ST(2).
+
+Author information: 
+(1)Department of Molecular Microbiology and Immunology, Johns Hopkins Bloomberg
+School of Public Health, Baltimore, Maryland, USA.
+(2)Department of Molecular Microbiology and Immunology, Johns Hopkins Bloomberg
+School of Public Health, Baltimore, Maryland, USA sprigge2@jhu.edu.
+
+One of the most powerful approaches to understanding gene function involves
+turning genes on and off at will and measuring the impact at the cellular or
+organismal level. This particularly applies to the cohort of essential genes
+where traditional gene knockouts are inviable. In Plasmodium falciparum,
+conditional control of gene expression has been achieved by using multicomponent 
+systems in which individual modules interact with each other to regulate DNA
+recombination, transcription, or posttranscriptional processes. The recently
+devised TetR-DOZI aptamer system relies on the ligand-regulatable interaction of 
+a protein module with synthetic RNA aptamers to control the translation of a
+target gene. This technique has been successfully employed to study essential
+genes in P. falciparum and involves the insertion of several aptamer copies into 
+the 3' untranslated regions (UTRs), which provide control over mRNA fate.
+However, aptamer repeats are prone to recombination and one or more copies can be
+lost from the system, resulting in a loss of control over target gene expression.
+We rectified this issue by redesigning the aptamer array to minimize
+recombination while preserving the control elements. As proof of concept, we
+compared the original and modified arrays for their ability to knock down the
+levels of a putative essential apicoplast protein (PF3D7_0815700) and
+demonstrated that the modified array is highly stable and efficient. This
+redesign will enhance the utility of a tool that is quickly becoming a favored
+strategy for genetic studies in P. falciparum IMPORTANCE Malaria elimination
+efforts have been repeatedly hindered by the evolution and spread of
+multidrug-resistant strains of Plasmodium falciparum The absence of a
+commercially available vaccine emphasizes the need for a better understanding of 
+Plasmodium biology in order to further translational research. This has been
+partly facilitated by targeted gene deletion strategies for the functional
+analysis of parasite genes. However, genes that are essential for parasite
+replication in erythrocytes are refractory to such methods, and require
+conditional knockdown or knockout approaches to dissect their function. One such 
+approach is the TetR-DOZI system that employs multiple synthetic aptamers in the 
+untranslated regions of target genes to control their expression in a
+tetracycline-dependent manner. Maintaining modified parasites with intact aptamer
+copies has been challenging since these repeats can be lost by recombination. By 
+interspacing the aptamers with unique sequences, we created a stable genetic
+system that remains effective at controlling target gene expression.
+
+Copyright © 2020 Rajaram et al.
+
+DOI: 10.1128/mSphere.00457-20 
+PMCID: PMC7426165
+PMID: 32817449 
+

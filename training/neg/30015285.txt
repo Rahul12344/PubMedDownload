@@ -1,0 +1,49 @@
+
+1. J Clin Virol. 2018 Sep;106:23-27. doi: 10.1016/j.jcv.2018.07.001. Epub 2018 Jul
+6.
+
+Combination random isothermal amplification and nanopore sequencing for rapid
+identification of the causative agent of an outbreak.
+
+Hansen S(1), Faye O(2), Sanabani SS(3), Faye M(2), Böhlken-Fascher S(1), Faye
+O(2), Sall AA(2), Bekaert M(4), Weidmann M(4), Czerny CP(1), Abd El Wahed A(5).
+
+Author information: 
+(1)Division of Microbiology and Animal Hygiene, University of Goettingen,
+Burckhardtweg 2, 37077 Goettingen, Germany.
+(2)Institut Pasteur de Dakar, 43 Avenue Pasteur, BP 220, Dakar, Senegal.
+(3)Department of Pathology, School of Medicine, R. Teodoro Sampaio, 115,
+University of São Paulo, São Paulo, Brazil.
+(4)Institute of Aquaculture, University of Stirling, FK9 4LA Stirling, Scotland, 
+UK.
+(5)Division of Microbiology and Animal Hygiene, University of Goettingen,
+Burckhardtweg 2, 37077 Goettingen, Germany. Electronic address:
+abdelwahed@gwdg.de.
+
+BACKGROUND: Outbreaks of fever of unknown origin start with nonspecific symptoms 
+and case definition is only slowly developed and adapted, therefore, identifying 
+the causative agent is crucial to ensure suitable treatment and control measures.
+As an alternative method for Polymerase Chain Reaction in molecular diagnostics
+diagnostic, metagenomics can be applied to identify the pathogen responsible for 
+the outbreak through sequencing all nucleic acids present in a sample extract.
+Sequencing data obtained can identify new or variants of known agents.
+OBJECTIVES: To develop a rapid and field applicable protocol to allow the
+identification of the causative agent of an outbreak.
+STUDY DESIGN: We explored a sequencing protocol relying on multiple displacement 
+isothermal amplification and nanopore sequencing in order to allow the
+identification of the causative agent in a sample. To develop the procedure, a
+mock sample consisting of supernatant from Zika virus tissue culture was used.
+RESULTS: The procedure took under seven hours including sample preparation and
+data analysis using an offline BLAST search. In total, 63,678 sequence files
+covering around 10,000 bases were extracted. BLAST search revealed the presence
+of Zika virus.
+CONCLUSION: In conclusion, the protocol has potential for point of need
+sequencing to identify RNA viruses. The whole procedure was operated in a
+suitcase laboratory. However, the procedure is cooling chain dependent and the
+cost per sequencing run is still high.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jcv.2018.07.001 
+PMID: 30015285  [Indexed for MEDLINE]
+

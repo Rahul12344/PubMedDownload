@@ -1,0 +1,42 @@
+
+1. J Virol. 2013 Jun;87(12):6782-93. doi: 10.1128/JVI.00011-13. Epub 2013 Apr 10.
+
+Kaposi's sarcoma-associated herpesvirus (KSHV) latency-associated nuclear antigen
+regulates the KSHV epigenome by association with the histone demethylase KDM3A.
+
+Kim KY(1), Huerta SB, Izumiya C, Wang DH, Martinez A, Shevchenko B, Kung HJ,
+Campbell M, Izumiya Y.
+
+Author information: 
+(1)Department of Dermatology, University of California, Davis, School of
+Medicine, Sacramento, California, USA.
+
+Kaposi's sarcoma-associated herpesvirus (KSHV) latent genomes are tethered to
+host histones to form a minichromosome also known as an "episome." Histones,
+which are core components of chromatin, are heavily modified by various
+histone-targeting enzymes. Posttranslational modifications of histones
+significantly influence accessibility of transcriptional factors and thus have
+profound effects on gene expression. Recent studies showed that epigenetic marks 
+on the KSHV episome are well organized, exemplified by the absence of histone H3 
+lysine 9 (H3K9) methylation, a heterochromatic histone mark, from immediate early
+and latent gene promoters in naturally infected cells. The present study revealed
+a mechanistic insight into KSHV epigenome regulation via a complex consisting of 
+LANA and the H3K9me1/2 histone demethylase JMJD1A/KDM3A. This complex was
+isolated from HeLa cell nuclear extracts stably expressing LANA and was verified 
+by coimmunoprecipitation analyses and with purified proteins. LANA recruitment
+sites on the KSHV genome inversely correlated with H3K9me2 histone marks in
+naturally infected cells, and methylation of H3K9 significantly inhibited LANA
+binding to the histone H3 tail. Chromatin immunoprecipitation coupled with KSHV
+tiling arrays identified the recruitment sites of the complex, while depletion of
+LANA expression or overexpression of a KDM3A binding-deficient mutant decreased
+KDM3A recruitment to the KSHV genome. Finally, ablation of KDM3A expression from 
+latently KSHV-infected cells significantly inhibited KSHV gene expression,
+leading to decreased KSHV replication during reactivation. Taken together, our
+results suggest that LANA may play a role in regulation of epigenetic marks on
+the KSHV genome, which is in part through association with the histone
+demethylase KDM3A.
+
+DOI: 10.1128/JVI.00011-13 
+PMCID: PMC3676133
+PMID: 23576503  [Indexed for MEDLINE]
+

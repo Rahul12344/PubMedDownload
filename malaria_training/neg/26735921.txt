@@ -1,0 +1,45 @@
+
+1. PLoS Pathog. 2016 Jan 6;12(1):e1005370. doi: 10.1371/journal.ppat.1005370.
+eCollection 2016 Jan.
+
+UIS2: A Unique Phosphatase Required for the Development of Plasmodium Liver
+Stages.
+
+Zhang M(1)(2), Mishra S(3), Sakthivel R(4), Fontoura BM(4), Nussenzweig V(1).
+
+Author information: 
+(1)Department of Pathology, New York University School of Medicine, New York, New
+York, United States of America.
+(2)HIV and Malaria Vaccine Program, Aaron Diamond AIDS Research Center, Affiliate
+of The Rockefeller University, New York, New York, United States of America.
+(3)Division of Parasitology, CSIR-Central Drug Research Institute, Lucknow, Uttar
+Pradesh, India.
+(4)Department of Cell Biology, University of Texas Southwestern Medical Center,
+Dallas, Texas, United States of America.
+
+Comment in
+    Microb Cell. 2016 Apr 05;3(5):227-229.
+
+Plasmodium salivary sporozoites are the infectious form of the malaria parasite
+and are dormant inside salivary glands of Anopheles mosquitoes. During dormancy, 
+protein translation is inhibited by the kinase UIS1 that phosphorylates serine 59
+in the eukaryotic initiation factor 2α (eIF2α). De-phosphorylation of eIF2α-P is 
+required for the transformation of sporozoites into the liver stage. In mammalian
+cells, the de-phosphorylation of eIF2α-P is mediated by the protein phosphatase 1
+(PP1). Using a series of genetically knockout parasites we showed that in malaria
+sporozoites, contrary to mammalian cells, the eIF2α-P phosphatase is a member of 
+the PP2C/PPM phosphatase family termed UIS2. We found that eIF2α was highly
+phosphorylated in uis2 conditional knockout sporozoites. These mutant sporozoites
+maintained the crescent shape after delivery into mammalian host and lost their
+infectivity. Both uis1 and uis2 were highly transcribed in the salivary gland
+sporozoites but uis2 expression was inhibited by the Pumilio protein Puf2. The
+repression of uis2 expression was alleviated when sporozoites developed into
+liver stage. While most eukaryotic phosphatases interact transiently with their
+substrates, UIS2 stably bound to phosphorylated eIF2α, raising the possibility
+that high-throughput searches may identify chemicals that disrupt this
+interaction and prevent malaria infection.
+
+DOI: 10.1371/journal.ppat.1005370 
+PMCID: PMC4712141
+PMID: 26735921  [Indexed for MEDLINE]
+

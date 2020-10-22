@@ -1,0 +1,34 @@
+
+1. Nucleic Acids Res. 1998 Jan 15;26(2):490-6.
+
+Replacement of the active site tyrosine of vaccinia DNA topoisomerase by
+glutamate, cysteine or histidine converts the enzyme into a site-specific
+endonuclease.
+
+Wittschieben J(1), Petersen BO, Shuman S.
+
+Author information: 
+(1)Molecular Biology Program, Sloan-Kettering Institute, New York, NY 10021, USA.
+
+Vaccinia topoisomerase forms a covalent protein-DNA intermediate at 5'-CCCTT
+downward arrow sites in duplex DNA. The T downward arrow nucleotide is linked via
+a 3'-phosphodiester bond to Tyr-274 of the enzyme. Here, we report that mutant
+enzymes containing glutamate, cysteine or histidine in lieu of Tyr-274 catalyze
+endonucleolytic cleavage of a 60 bp duplex DNA at the CCCTT downward arrow site
+to yield a 3' phosphate-terminated product. The Cys-274 mutant forms trace levels
+of a covalent protein-DNA complex, suggesting that the DNA cleavage reaction may 
+proceed through a cysteinyl-phosphate intermediate. However, the His-274 and
+Glu-274 mutants evince no detectable accumulation of a covalent protein-DNA
+adduct. Glu-274 is the most active of the mutants tested. The pH dependence of
+the endonuclease activity of Glu-274 (optimum pH = 6.5) is distinct from that of 
+the wild-type enzyme in hydrolysis of the covalent adduct (optimum pH = 9.5). At 
+pH 6.5, the Glu-274 endonuclease reaction is slower by 5-6 orders of magnitude
+than the rate of covalent adduct formation by the wild-type topoisomerase, but is
+approximately 20 times faster than the rate of hydrolysis by the wild-type
+covalent adduct. We discuss two potential mechanisms to account for the apparent 
+conversion of a topoisomerase into an endonuclease.
+
+DOI: 10.1093/nar/26.2.490 
+PMCID: PMC147276
+PMID: 9421505  [Indexed for MEDLINE]
+

@@ -1,0 +1,49 @@
+
+1. PLoS Pathog. 2019 Jul 26;15(7):e1007973. doi: 10.1371/journal.ppat.1007973.
+eCollection 2019 Jul.
+
+Essential role of GEXP15, a specific Protein Phosphatase type 1 partner, in
+Plasmodium berghei in asexual erythrocytic proliferation and transmission.
+
+Hollin T(1), De Witte C(1), Fréville A(1), Guerrera IC(2), Chhuon C(2), Saliou
+JM(1), Herbert F(1), Pierrot C(1), Khalife J(1).
+
+Author information: 
+(1)Univ. Lille, CNRS, Inserm, CHU Lille, Institut Pasteur de Lille, U1019 -
+UMR8204 - CIIL - Center for Infection and Immunity of Lille, Lille, France.
+(2)Proteomics platform 3P5-Necker, Université Paris Descartes - Structure
+Fédérative de Recherche Necker, INSERM US24/CNRS UMS3633, Paris, France.
+
+The essential and distinct functions of Protein Phosphatase type 1 (PP1)
+catalytic subunit in eukaryotes are exclusively achieved through its interaction 
+with a myriad of regulatory partners. In this work, we report the molecular and
+functional characterization of Gametocyte EXported Protein 15 (GEXP15), a
+Plasmodium specific protein, as a regulator of PP1. In vitro interaction studies 
+demonstrated that GEXP15 physically interacts with PP1 through the RVxF binding
+motif in P. berghei. Functional assays showed that GEXP15 was able to increase
+PP1 activity and the mutation of the RVxF motif completely abolished this
+regulation. Immunoprecipitation assays of tagged GEXP15 or PP1 in P. berghei
+followed by immunoblot or mass spectrometry analyses confirmed their interaction 
+and showed that they are present both in schizont and gametocyte stages in shared
+protein complexes involved in the spliceosome and proteasome pathways and known
+to play essential role in parasite development. Phenotypic analysis of viable
+GEXP15 deficient P. berghei blood parasites showed that they were unable to
+develop lethal infection in BALB/c mice or to establish experimental cerebral
+malaria in C57BL/6 mice. Further, although deficient parasites produced
+gametocytes they did not produce any oocysts/sporozoites indicating a high
+fitness cost in the mosquito. Global proteomic and phosphoproteomic analyses of
+GEXP15 deficient schizonts revealed a profound defect with a significant decrease
+in the abundance and an impact on phosphorylation status of proteins involved in 
+regulation of gene expression or invasion. Moreover, depletion of GEXP15 seemed
+to impact mainly the abundance of some specific proteins of female gametocytes.
+Our study provides the first insight into the contribution of a PP1 regulator to 
+Plasmodium virulence and suggests that GEXP15 affects both the asexual and sexual
+life cycle.
+
+DOI: 10.1371/journal.ppat.1007973 
+PMCID: PMC6685639
+PMID: 31348803  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

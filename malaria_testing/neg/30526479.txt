@@ -1,0 +1,60 @@
+
+1. BMC Genomics. 2018 Dec 10;19(1):894. doi: 10.1186/s12864-018-5257-x.
+
+Schizont transcriptome variation among clinical isolates and laboratory-adapted
+clones of the malaria parasite Plasmodium falciparum.
+
+Tarr SJ(1), Díaz-Ingelmo O(2), Stewart LB(2), Hocking SE(2), Murray L(2), Duffy
+CW(2), Otto TD(3)(4), Chappell L(4), Rayner JC(4), Awandare GA(5), Conway DJ(6).
+
+Author information: 
+(1)Pathogen Molecular Biology Department, London School of Hygiene and Tropical
+Medicine, London, UK. sarah.tarr@lshtm.ac.uk.
+(2)Pathogen Molecular Biology Department, London School of Hygiene and Tropical
+Medicine, London, UK.
+(3)Institute of Infection, Immunity and Inflammation, University of Glasgow,
+Scotland, UK.
+(4)Wellcome Sanger Institute, Hinxton, Cambridge, UK.
+(5)West African Centre for Cell Biology of Infectious Pathogens, Department of
+Biochemistry, Cell and Molecular Biology, University of Ghana, Legon, Ghana.
+(6)Pathogen Molecular Biology Department, London School of Hygiene and Tropical
+Medicine, London, UK. david.conway@lshtm.ac.uk.
+
+BACKGROUND: Malaria parasites are genetically polymorphic and phenotypically
+plastic. In studying transcriptome variation among parasites from different
+infections, it is challenging to overcome potentially confounding technical and
+biological variation between samples. We investigate variation in the major human
+parasite Plasmodium falciparum, generating RNA-seq data on multiple independent
+replicate sample preparations of merozoite-containing intra-erythrocytic
+schizonts from a panel of clinical isolates and from long-term laboratory-adapted
+clones, with a goal of robustly identifying differentially expressed genes.
+RESULTS: Analysis of biological sample replicates shows that increased numbers
+improve the true discovery rate of differentially expressed genes, and that six
+independent replicates of each parasite line allowed identification of most
+differences that could be detected with larger numbers. For highly expressed
+genes, focusing on the top quartile at schizont stages, there was more power to
+detect differences. Comparing cultured clinical isolates and laboratory-adapted
+clones, genes more highly expressed in the laboratory-adapted clones include
+those encoding an AP2 transcription factor (PF3D7_0420300), a ubiquitin-binding
+protein and two putative methyl transferases. In contrast, higher expression in
+clinical isolates was seen for the merozoite surface protein gene dblmsp2,
+proposed to be a marker of schizonts forming merozoites committed to sexual
+differentiation. Variable expression was extremely strongly, but not exclusively,
+associated with genes known to be targeted by Heterochromatin Protein 1. Clinical
+isolates show variable expression of several known merozoite invasion ligands, as
+well as other genes for which new RT-qPCR assays validate the quantitation and
+allow characterisation in samples with more limited material. Expression levels
+of these genes vary among schizont preparations of different clinical isolates in
+the first ex vivo cycle in patient erythrocytes, but mean levels are similar to
+those in continuously cultured clinical isolates.
+CONCLUSIONS: Analysis of multiple biological sample replicates greatly improves
+identification of genes variably expressed between different cultured parasite
+lines. Clinical isolates recently established in culture show differences from
+long-term adapted clones in transcript levels of particular genes, and are
+suitable for analyses requiring biological replicates to understand parasite
+phenotypes and variable expression likely to be relevant in nature.
+
+DOI: 10.1186/s12864-018-5257-x 
+PMCID: PMC6288915
+PMID: 30526479  [Indexed for MEDLINE]
+

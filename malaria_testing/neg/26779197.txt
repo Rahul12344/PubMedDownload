@@ -1,0 +1,53 @@
+
+1. Front Plant Sci. 2015 Dec 23;6:1169. doi: 10.3389/fpls.2015.01169. eCollection
+2015.
+
+Application of a Scalable Plant Transient Gene Expression Platform for Malaria
+Vaccine Development.
+
+Spiegel H(1), Boes A(1), Voepel N(1), Beiss V(1), Edgue G(1), Rademacher T(1),
+Sack M(2), Schillberg S(1), Reimann A(1), Fischer R(3).
+
+Author information: 
+(1)Fraunhofer Institute for Molecular Biology and Applied Ecology IME Aachen,
+Germany.
+(2)Institute for Molecular Biotechnology, RWTH Aachen University Aachen, Germany.
+(3)Fraunhofer Institute for Molecular Biology and Applied Ecology IMEAachen,
+Germany; Institute for Molecular Biotechnology, RWTH Aachen UniversityAachen,
+Germany.
+
+Despite decades of intensive research efforts there is currently no vaccine that 
+provides sustained sterile immunity against malaria. In this context, a large
+number of targets from the different stages of the Plasmodium falciparum life
+cycle have been evaluated as vaccine candidates. None of these candidates has
+fulfilled expectations, and as long as we lack a single target that induces
+strain-transcending protective immune responses, combining key antigens from
+different life cycle stages seems to be the most promising route toward the
+development of efficacious malaria vaccines. After the identification of
+potential targets using approaches such as omics-based technology and reverse
+immunology, the rapid expression, purification, and characterization of these
+proteins, as well as the generation and analysis of fusion constructs combining
+different promising antigens or antigen domains before committing to expensive
+and time consuming clinical development, represents one of the bottlenecks in the
+vaccine development pipeline. The production of recombinant proteins by transient
+gene expression in plants is a robust and versatile alternative to cell-based
+microbial and eukaryotic production platforms. The transfection of plant tissues 
+and/or whole plants using Agrobacterium tumefaciens offers a low technical entry 
+barrier, low costs, and a high degree of flexibility embedded within a rapid and 
+scalable workflow. Recombinant proteins can easily be targeted to different
+subcellular compartments according to their physicochemical requirements,
+including post-translational modifications, to ensure optimal yields of high
+quality product, and to support simple and economical downstream processing.
+Here, we demonstrate the use of a plant transient expression platform based on
+transfection with A. tumefaciens as essential component of a malaria vaccine
+development workflow involving screens for expression, solubility, and stability 
+using fluorescent fusion proteins. Our results have been implemented for the
+evidence-based iterative design and expression of vaccine candidates combining
+suitable P. falciparum antigen domains. The antigens were also produced,
+purified, and characterized in further studies by taking advantage of the
+scalability of this platform.
+
+DOI: 10.3389/fpls.2015.01169 
+PMCID: PMC4688378
+PMID: 26779197 
+

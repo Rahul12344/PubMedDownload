@@ -1,0 +1,35 @@
+
+1. Immunol Res. 2017 Aug;65(4):828-840. doi: 10.1007/s12026-017-8919-x.
+
+miR-451 limits CD4+ T cell proliferative responses to infection in mice.
+
+Chapman LM(1)(2), Ture SK(1), Field DJ(1), Morrell CN(3).
+
+Author information: 
+(1)Aab Cardiovascular Research Institute, University of Rochester Medical Center,
+601 Elmwood Avenue, Rochester, NY, 14642, USA.
+(2)CTSI Translational Biomedical Science, Rochester, NY, USA.
+(3)Aab Cardiovascular Research Institute, University of Rochester Medical Center,
+601 Elmwood Avenue, Rochester, NY, 14642, USA. Craig_Morrell@urmc.rochester.edu.
+
+MicroRNAs (miRNAs) are major regulators of cell responses, particularly in
+stressed cell states and host immune responses. Some miRNAs have a role in
+pathogen defense, including regulation of immune responses to Plasmodium parasite
+infection. Using a nonlethal mouse model of blood stage malaria infection, we
+have found that miR-451-/- mice infected with Plasmodium yoelii XNL cleared
+infection at a faster rate than did wild-type (WT) mice. MiR-451-/- mice had an
+increased leukocyte response to infection, with the protective phenotype
+primarily driven by CD4+ T cells. WT and miR-451-/- CD4+ T cells had similar
+activation responses, but miR-451-/- CD4+ cells had significantly increased
+proliferation, both in vitro and in vivo. Myc is a miR-451 target with a central 
+role in cell cycle progression and cell proliferation. CD4+ T cells from
+miR-451-/- mice had increased postactivation Myc expression. RNA-Seq analysis of 
+CD4+ cells demonstrated over 5000 differentially expressed genes in miR-451-/-
+mice postinfection, many of which are directly or indirectly Myc regulated. This 
+study demonstrates that miR-451 regulates T cell proliferative responses in part 
+via a Myc-dependent mechanism.
+
+DOI: 10.1007/s12026-017-8919-x 
+PMCID: PMC5545071
+PMID: 28378118  [Indexed for MEDLINE]
+

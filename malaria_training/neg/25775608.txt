@@ -1,0 +1,49 @@
+
+1. Proc Natl Acad Sci U S A. 2015 Mar 31;112(13):4038-43. doi:
+10.1073/pnas.1502370112. Epub 2015 Mar 16.
+
+Silencing of end-joining repair for efficient site-specific gene insertion after 
+TALEN/CRISPR mutagenesis in Aedes aegypti.
+
+Basu S(1), Aryan A(1), Overcash JM(1), Samuel GH(1), Anderson MA(1), Dahlem
+TJ(2), Myles KM(3), Adelman ZN(3).
+
+Author information: 
+(1)Fralin Life Science Institute and Department of Entomology, Virginia Tech,
+Blacksburg, VA 24061; and.
+(2)Mutation Generation and Detection Core, Health Science Center Core Research
+Facility, University of Utah, Salt Lake City, UT 84132.
+(3)Fralin Life Science Institute and Department of Entomology, Virginia Tech,
+Blacksburg, VA 24061; and mylesk@vt.edu zachadel@vt.edu.
+
+Conventional control strategies for mosquito-borne pathogens such as malaria and 
+dengue are now being complemented by the development of transgenic mosquito
+strains reprogrammed to generate beneficial phenotypes such as conditional
+sterility or pathogen resistance. The widespread success of site-specific
+nucleases such as transcription activator-like effector nucleases (TALENs) and
+clustered regularly interspaced short palindromic repeats (CRISPR)/Cas9 in model 
+organisms also suggests that reprogrammable gene drive systems based on these
+nucleases may be capable of spreading such beneficial phenotypes in wild mosquito
+populations. Using the mosquito Aedes aegypti, we determined that mutations in
+the FokI domain used in TALENs to generate obligate heterodimeric complexes
+substantially and significantly reduce gene editing rates. We found that
+CRISPR/Cas9-based editing in the mosquito Ae. aegypti is also highly variable,
+with the majority of guide RNAs unable to generate detectable editing. By first
+evaluating candidate guide RNAs using a transient embryo assay, we were able to
+rapidly identify highly effective guide RNAs; focusing germ line-based
+experiments only on this cohort resulted in consistently high editing rates of
+24-90%. Microinjection of double-stranded RNAs targeting ku70 or lig4, both
+essential components of the end-joining response, increased recombination-based
+repair in early embryos as determined by plasmid-based reporters. RNAi-based
+suppression of Ku70 concurrent with embryonic microinjection of site-specific
+nucleases yielded consistent gene insertion frequencies of 2-3%, similar to
+traditional transposon- or ΦC31-based integration methods but without the
+requirement for an initial docking step. These studies should greatly accelerate 
+investigations into mosquito biology, streamline development of transgenic
+strains for field releases, and simplify the evaluation of novel Cas9-based gene 
+drive systems.
+
+DOI: 10.1073/pnas.1502370112 
+PMCID: PMC4386333
+PMID: 25775608  [Indexed for MEDLINE]
+

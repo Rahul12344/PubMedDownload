@@ -1,0 +1,63 @@
+
+1. PLoS One. 2018 Oct 3;13(10):e0204982. doi: 10.1371/journal.pone.0204982.
+eCollection 2018.
+
+Developing a model to predict unfavourable treatment outcomes in patients with
+tuberculosis and human immunodeficiency virus co-infection in Delhi, India.
+
+Madan C(1), Chopra KK(2), Satyanarayana S(3), Surie D(4), Chadha V(5), Sachdeva
+KS(6), Khanna A(7), Deshmukh R(6), Dutta L(8), Namdeo A(8), Shukla A(9), Sagili
+K(3), Chauhan LS(10).
+
+Author information: 
+(1)Evidence Action- Deworm the World Initiative, New Delhi, India.
+(2)New Delhi Tuberculosis Centre, New Delhi, India.
+(3)International Union Against Tuberculosis and Lung Disease, New Delhi, India.
+(4)Division of Global HIV and TB, Centers for Disease Control and Prevention,
+Atlanta, Georgia, United States of America.
+(5)National Tuberculosis Institute, Bangalore, Karnataka, India.
+(6)National AIDS Control Organisation, New Delhi, India.
+(7)Lok Nayak Chest Clinic, New Delhi, India.
+(8)The United Nations Children's Fund (UNICEF), New Delhi, India.
+(9)Uttar Pradesh State AIDS Control Society, Lucknow, Uttar Pradesh, India.
+(10)Tuberculosis Association of India, New Delhi, India.
+
+BACKGROUND: Tuberculosis (TB) patients with human immunodeficiency virus (HIV)
+co-infection have worse TB treatment outcomes compared to patients with TB alone.
+The distribution of unfavourable treatment outcomes differs by socio-demographic 
+and clinical characteristics, allowing for early identification of patients at
+risk.
+OBJECTIVE: To develop a statistical model that can provide individual
+probabilities of unfavourable outcomes based on demographic and clinical
+characteristics of TB-HIV co-infected patients.
+METHODOLOGY: We used data from all TB patients with known HIV-positive test
+results (aged ≥15 years) registered for first-line anti-TB treatment (ATT) in
+2015 under the Revised National TB Control Programme (RNTCP) in Delhi, India. We 
+included variables on demographics and pre-treatment clinical characteristics
+routinely recorded and reported to RNTCP and the National AIDS Control
+Organization. Binomial logistic regression was used to develop a statistical
+model to estimate probabilities of unfavourable TB treatment outcomes (i.e.,
+death, loss to follow-up, treatment failure, transfer out of program, and a
+switch to drug-resistant regimen).
+RESULTS: Of 55,260 TB patients registered for ATT in 2015 in Delhi, 928 (2%) had 
+known HIV-positive test results. Of these, 816 (88%) had drug-sensitive TB and
+were ≥15 years. Among 816 TB-HIV patients included, 157 (19%) had unfavourable TB
+treatment outcomes. We developed a model for predicting unfavourable outcomes
+using age, sex, disease classification (pulmonary versus extra-pulmonary), TB
+treatment category (new or previously treated case), sputum smear grade, known
+HIV status at TB diagnosis, antiretroviral treatment at TB diagnosis, and CD4
+cell count at ATT initiation. The chi-square p-value for model calibration
+assessed using the Hosmer-Lemeshow test was 0.15. The model discrimination,
+measured as the area under the receiver operator characteristic (ROC) curve, was 
+0.78.
+CONCLUSION: The model had good internal validity, but should be validated with an
+independent cohort of TB-HIV co-infected patients to assess its performance
+before clinical or programmatic use.
+
+DOI: 10.1371/journal.pone.0204982 
+PMCID: PMC6169917
+PMID: 30281679  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

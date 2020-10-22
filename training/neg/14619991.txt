@@ -1,0 +1,24 @@
+
+1. IEEE Trans Biomed Eng. 2003 Nov;50(11):1213-20.
+
+When to initiate HIV therapy: a control theoretic approach.
+
+Jeffrey AM(1), Xia X, Craig IK.
+
+Author information: 
+(1)Department of Electrical, Electronic, and Computer Engineering Engineering,
+University of Pretoria, Pretoria 0002, South Africa. mjeffrey@tuks.co.za
+
+This paper shows an application of control theory to human immunodeficiency virus
+(HIV)/AIDS models. Minimum singular value decomposition is applied to HIV/AIDS
+models to measure the extent to which the different stages in the progression of 
+HIV/AIDS disease are controllable and, consequently, when best to initiate
+therapy such that the general objectives of therapy are satisfied. Simulations
+will be used to demonstrate the effect of treatment at various stages.
+Comparisons will be made between mono-class and combination therapies and between
+when therapy is initiated at the acute infection, asymptomatic and the advanced
+stages.
+
+DOI: 10.1109/TBME.2003.818465 
+PMID: 14619991  [Indexed for MEDLINE]
+

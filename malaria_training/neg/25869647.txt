@@ -1,0 +1,42 @@
+
+1. G3 (Bethesda). 2015 Apr 13;5(6):1151-63. doi: 10.1534/g3.115.016808.
+
+Tools for Anopheles gambiae Transgenesis.
+
+Volohonsky G(1), Terenzi O(1), Soichot J(1), Naujoks DA(2), Nolan T(2),
+Windbichler N(2), Kapps D(1), Smidler AL(1), Vittu A(1), Costa G(3), Steinert
+S(1), Levashina EA(3), Blandin SA(1), Marois E(4).
+
+Author information: 
+(1)INSERM U963, CNRS UPR9022, Université de Strasbourg, Institut de Biologie
+Moléculaire et Cellulaire, 67084 Strasbourg, France.
+(2)Imperial College London, Division of Cell and Molecular Biology, Imperial
+College Road, London SW7 2AZ, United Kingdom.
+(3)Department of Vector Biology, Max-Planck Institute for Infection Biology,
+Charitéplatz 1, 10117 Berlin, Germany.
+(4)INSERM U963, CNRS UPR9022, Université de Strasbourg, Institut de Biologie
+Moléculaire et Cellulaire, 67084 Strasbourg, France e.marois@unistra.fr.
+
+Transgenesis is an essential tool to investigate gene function and to introduce
+desired characters in laboratory organisms. Setting-up transgenesis in non-model 
+organisms is challenging due to the diversity of biological life traits and due
+to knowledge gaps in genomic information. Some procedures will be broadly
+applicable to many organisms, and others have to be specifically developed for
+the target species. Transgenesis in disease vector mosquitoes has existed since
+the 2000s but has remained limited by the delicate biology of these insects.
+Here, we report a compilation of the transgenesis tools that we have designed for
+the malaria vector Anopheles gambiae, including new docking strains, convenient
+transgenesis plasmids, a puromycin resistance selection marker, mosquitoes
+expressing cre recombinase, and various reporter lines defining the activity of
+cloned promoters. This toolbox contributed to rendering transgenesis routine in
+this species and is now enabling the development of increasingly refined genetic 
+manipulations such as targeted mutagenesis. Some of the reagents and procedures
+reported here are easily transferable to other nonmodel species, including other 
+disease vector or agricultural pest insects.
+
+Copyright © 2015 Volohonsky et al.
+
+DOI: 10.1534/g3.115.016808 
+PMCID: PMC4478545
+PMID: 25869647  [Indexed for MEDLINE]
+

@@ -1,0 +1,34 @@
+
+1. Elife. 2014 Jun 25;3. doi: 10.7554/eLife.02304.
+
+An atomic-resolution view of neofunctionalization in the evolution of
+apicomplexan lactate dehydrogenases.
+
+Boucher JI(1), Jacobowitz JR(1), Beckett BC(1), Classen S(2), Theobald DL(1).
+
+Author information: 
+(1)Department of Biochemistry, Brandeis University, Waltham, United States.
+(2)Physical Biosciences Division, Lawrence Berkeley National Laboratory,
+Berkeley, United States.
+
+Malate and lactate dehydrogenases (MDH and LDH) are homologous, core metabolic
+enzymes that share a fold and catalytic mechanism yet possess strict specificity 
+for their substrates. In the Apicomplexa, convergent evolution of an unusual LDH 
+from MDH produced a difference in specificity exceeding 12 orders of magnitude.
+The mechanisms responsible for this extraordinary functional shift are currently 
+unknown. Using ancestral protein resurrection, we find that specificity evolved
+in apicomplexan LDHs by classic neofunctionalization characterized by long-range 
+epistasis, a promiscuous intermediate, and few gain-of-function mutations of
+large effect. In canonical MDHs and LDHs, a single residue in the active-site
+loop governs substrate specificity: Arg102 in MDHs and Gln102 in LDHs. During the
+evolution of the apicomplexan LDH, however, specificity switched via an insertion
+that shifted the position and identity of this 'specificity residue' to Trp107f. 
+Residues far from the active site also determine specificity, as shown by the
+crystal structures of three ancestral proteins bracketing the key duplication
+event. This work provides an unprecedented atomic-resolution view of evolutionary
+trajectories creating a nascent enzymatic function.
+
+DOI: 10.7554/eLife.02304 
+PMCID: PMC4109310
+PMID: 24966208  [Indexed for MEDLINE]
+

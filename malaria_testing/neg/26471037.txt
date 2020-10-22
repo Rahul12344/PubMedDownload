@@ -1,0 +1,84 @@
+
+1. BMC Genomics. 2015 Oct 15;16:797. doi: 10.1186/s12864-015-2029-8.
+
+Age and prior blood feeding of Anopheles gambiae influences their susceptibility 
+and gene expression patterns to ivermectin-containing blood meals.
+
+Seaman JA(1), Alout H(2), Meyers JI(3), Stenglein MD(4), Dabiré RK(5),
+Lozano-Fuentes S(6), Burton TA(7), Kuklinski WS(8), Black WC 4th(9), Foy BD(10).
+
+Author information: 
+(1)Department of Microbiology, Immunology and Pathology, Arthropod-borne and
+Infectious Diseases Laboratory, Colorado State University 1692 Campus Delivery,
+Fort Collins, CO, 80525, USA. jon.a.seaman@gmail.com.
+(2)Department of Microbiology, Immunology and Pathology, Arthropod-borne and
+Infectious Diseases Laboratory, Colorado State University 1692 Campus Delivery,
+Fort Collins, CO, 80525, USA. haoues.alout@gmail.com.
+(3)Department of Microbiology, Immunology and Pathology, Arthropod-borne and
+Infectious Diseases Laboratory, Colorado State University 1692 Campus Delivery,
+Fort Collins, CO, 80525, USA. jacob.i.meyers@gmail.com.
+(4)Department of Microbiology, Immunology and Pathology, Arthropod-borne and
+Infectious Diseases Laboratory, Colorado State University 1692 Campus Delivery,
+Fort Collins, CO, 80525, USA. mark.stenglein@colostate.edu.
+(5)Institute de Recherche en Sciences de la Santé (IRSS)/Centre Muraz, Direction 
+Régionale de l'Ouest, 399 Ave de la Liberté, Bobo Dioulasso, Houet, 10400-000,
+Burkina Faso. dabire_roch@hotmail.com.
+(6)Department of Microbiology, Immunology and Pathology, Arthropod-borne and
+Infectious Diseases Laboratory, Colorado State University 1692 Campus Delivery,
+Fort Collins, CO, 80525, USA. lozano.saul@gmail.com.
+(7)Department of Microbiology, Immunology and Pathology, Arthropod-borne and
+Infectious Diseases Laboratory, Colorado State University 1692 Campus Delivery,
+Fort Collins, CO, 80525, USA. timaburton@gmail.com.
+(8)Department of Microbiology, Immunology and Pathology, Arthropod-borne and
+Infectious Diseases Laboratory, Colorado State University 1692 Campus Delivery,
+Fort Collins, CO, 80525, USA. wojtek94@yahoo.com.
+(9)Department of Microbiology, Immunology and Pathology, Arthropod-borne and
+Infectious Diseases Laboratory, Colorado State University 1692 Campus Delivery,
+Fort Collins, CO, 80525, USA. william.black@colostate.edu.
+(10)Department of Microbiology, Immunology and Pathology, Arthropod-borne and
+Infectious Diseases Laboratory, Colorado State University 1692 Campus Delivery,
+Fort Collins, CO, 80525, USA. brian.foy@colostate.edu.
+
+BACKGROUND: Ivermectin has been proposed as a novel malaria transmission control 
+tool based on its insecticidal properties and unique route of acquisition through
+human blood. To maximize ivermectin's effect and identify potential
+resistance/tolerance mechanisms, it is important to understand its effect on
+mosquito physiology and potential to shift mosquito population age-structure. We 
+therefore investigated ivermectin susceptibility and gene expression changes in
+several age groups of female Anopheles gambiae mosquitoes.
+METHODS: The effect of aging on ivermectin susceptibility was analyzed in three
+age groups (2, 6, and 14-days) of colonized female Anopheles gambiaemosquitoes
+using standard survivorship assays. Gene expression patterns were then analyzed
+by transcriptome sequencing on an Illumina HiSeq 2500 platform. RT-qPCR was used 
+to validate transcriptional changes and also to examine expression in a
+different, colonized strain and in wild mosquitoes, both of which blood fed
+naturally on an ivermectin-treated person.
+RESULTS: Mosquitoes of different ages and blood meal history died at different
+frequencies after ingesting ivermectin. Mortality was lowest in 2-day old
+mosquitoes exposed on their first blood meal and highest in 6-day old mosquitoes 
+exposed on their second blood meal. Twenty-four hours following ivermectin
+ingestion, 101 and 187 genes were differentially-expressed relative to control
+blood-fed, in 2 and 6-day groups, respectively. Transcription patterns of select 
+genes were similar in membrane-fed, colonized, and naturally-fed wild vectors.
+Transcripts from several unexpected functional classes were highly up-regulated, 
+including Niemann-Pick Type C (NPC) genes, peritrophic matrix-associated genes,
+and immune-response genes, and these exhibited different transcription patterns
+between age groups, which may explain the observed susceptibility differences.
+Niemann-Pick Type 2 genes were the most highly up-regulated transcripts after
+ivermectin ingestion (up to 160 fold) and comparing phylogeny to transcriptional 
+patterns revealed that NPCs have rapidly evolved and separate members respond to 
+either blood meals or to ivermectin.
+CONCLUSION: We present evidence of increased ivermectin susceptibility in older
+An. gambiae mosquitoes that had previously bloodfed. Differential expression
+analysis suggests complex midgut interactions resulting from ivermectin ingestion
+that likely involve blood meal digestion physiological responses, midgut
+microflora, and innate immune responses. Thus, the transcription of certain gene 
+families is consistently affected by ivermectin ingestion, and may provide
+important clues to ivermectin's broad effects on malaria vectors. These findings 
+contribute to the growing understanding of ivermectin's potential as a
+transmission control tool.
+
+DOI: 10.1186/s12864-015-2029-8 
+PMCID: PMC4608139
+PMID: 26471037  [Indexed for MEDLINE]
+

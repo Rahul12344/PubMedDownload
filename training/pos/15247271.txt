@@ -1,0 +1,42 @@
+
+1. J Biol Chem. 2004 Sep 10;279(37):38325-30. Epub 2004 Jul 5.
+
+ORF36 protein kinase of Kaposi's sarcoma herpesvirus activates the c-Jun
+N-terminal kinase signaling pathway.
+
+Hamza MS(1), Reyes RA, Izumiya Y, Wisdom R, Kung HJ, Luciw PA.
+
+Author information: 
+(1)Center for Comparative Medicine, University of California, Davis, California
+95616, USA.
+
+alpha-, beta-, and gamma-Herpesviruses encode putative viral protein kinases. The
+herpes simplex virus UL13, varicella-zoster virus ORF47, and Epstein-Barr virus
+BGLF4 genes all show protein kinase domains in their protein sequences.
+Mutational analysis of these herpesviruses demonstrated that the viral kinase is 
+important for optimal virus growth. Previous studies have shown that ORF36 of
+Kaposi's sarcoma herpesvirus (KSHV) has protein kinase activity and is
+autophosphorylated on serine. The gene for ORF36 is expressed during lytic growth
+of the virus and has been classified as a late gene. Inspection of the ORF36
+sequence indicated potential motifs that could be involved in activation of
+cellular transcription factors. To analyze the function of ORF36, the cDNA for
+this viral gene was tagged with the FLAG epitope and inserted into an expression 
+vector for mammalian cells. Transfection experiments in 293T and SLK cells
+demonstrated that expression of ORF36 resulted in phosphorylation of the c-Jun
+N-terminal kinase. Autophosphorylation of ORF36 is important for JNK activation
+because a mutation in the predicted catalytic domain of ORF36 blocked its ability
+to phosphorylate JNK. Western blot analysis, using phosphospecific antibodies,
+revealed that mitogen-activated kinases MKK4 and MKK7 were phosphorylated by
+ORF36 but not by the kinase-negative mutant. Binding experiments in transfected
+cells also demonstrated that both the wild type and kinase-negative mutant of
+ORF36 form a complex with JNK, MKK4, and MKK7. In addition, using a
+tetracycline-inducible Rta BCBL-1 cell line (TREx BCBL1-Rta), JNK was
+phosphorylated during lytic replication, and inhibition of JNK activation blocked
+late viral gene expression but not early viral gene expression. In summary, these
+studies demonstrate that KSHV ORF36 activates the JNK pathway; thus this cell
+signaling pathway may function in the KSHV life cycle by regulating viral and/or 
+cellular transcription.
+
+DOI: 10.1074/jbc.M400964200 
+PMID: 15247271  [Indexed for MEDLINE]
+

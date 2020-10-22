@@ -1,0 +1,43 @@
+
+1. Proc Natl Acad Sci U S A. 1998 Jul 7;95(14):8005-10.
+
+gp120 envelope glycoproteins of human immunodeficiency viruses competitively
+antagonize signaling by coreceptors CXCR4 and CCR5.
+
+Madani N(1), Kozak SL, Kavanaugh MP, Kabat D.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Oregon Health Sciences
+University, Portland, OR 97201-3098, USA.
+
+Signal transductions by the dual-function CXCR4 and CCR5 chemokine receptors/HIV 
+type 1 (HIV-1) coreceptors were electrophysiologically monitored in Xenopus
+laevis oocytes that also coexpressed the viral receptor CD4 and a G
+protein-coupled inward-rectifying K+ channel (Kir 3.1). Large Kir 3.1-dependent
+currents generated in response to the corresponding chemokines (SDF-1alpha for
+CXCR4 and MIP-1alpha; MIP-1beta and RANTES for CCR5) were blocked by pertussis
+toxin, suggesting involvement of inhibitory guanine nucleotide-binding proteins. 
+Prolonged exposures to chemokines caused substantial but incomplete
+desensitization of responses with time constants of 5-7 min and recovery time
+constants of 12-19 min. CXCR4 and CCR5 exhibited heterologous desensitization in 
+this oocyte system, suggesting possible inhibition of a common downstream step in
+their signaling pathways. In contrast to chemokines, perfusion with monomeric or 
+oligomeric preparations of the glycoprotein of Mr 120, 000 (gp120) derived from
+several isolates of HIV-1 did not activate signaling by CXCR4 or CCR5 regardless 
+of CD4 coexpression. However, adsorption of the gp120 from a T-cell-tropic virus 
+resulted in CD4-dependent antagonism of CXCR4 response to SDF-1alpha, whereas
+gp120 from macrophage-tropic viruses caused CD4-dependent antagonism of CCR5
+response to MIP-1alpha. These antagonisms could be partially overcome by high
+concentrations of chemokines and were specific for coreceptors of the
+corresponding HIV-1 isolates, suggesting that they resulted from direct
+interactions of gp120-CD4 complexes with coreceptors and that they did not
+involve the desensitization pathway. These results indicate that monomeric or
+oligomeric gp120s specifically antagonize CXCR4 and CCR5 signaling in response to
+chemokines, but they do not exclude the possibility that gp120s might also
+function as weak agonists in some cells. The gp120-mediated disruption of CXCR4
+and CCR5 signaling may contribute to AIDS pathogenesis.
+
+DOI: 10.1073/pnas.95.14.8005 
+PMCID: PMC20919
+PMID: 9653130  [Indexed for MEDLINE]
+

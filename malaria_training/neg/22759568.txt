@@ -1,0 +1,48 @@
+
+1. Proteome Sci. 2012 Jun 21;10 Suppl 1:S10. doi: 10.1186/1477-5956-10-S1-S10.
+
+Computational synchronization of microarray data with application to Plasmodium
+falciparum.
+
+Zhao W(1), Dauwels J, Niles JC, Cao J.
+
+Author information: 
+(1)Singapore-MIT Alliance for Research and Technology, Centre for Life Sciences, 
+28 Medical Drive, Singapore 117456. jdauwels@ntu.edu.sg.
+
+BACKGROUND: Microarrays are widely used to investigate the blood stage of
+Plasmodium falciparum infection. Starting with synchronized cells, gene
+expression levels are continually measured over the 48-hour intra-erythrocytic
+cycle (IDC). However, the cell population gradually loses synchrony during the
+experiment. As a result, the microarray measurements are blurred. In this paper, 
+we propose a generalized deconvolution approach to reconstruct the intrinsic
+expression pattern, and apply it to P. falciparum IDC microarray data.
+METHODS: We develop a statistical model for the decay of synchrony among cells,
+and reconstruct the expression pattern through statistical inference. The
+proposed method can handle microarray measurements with noise and missing data.
+The original gene expression patterns become more apparent in the reconstructed
+profiles, making it easier to analyze and interpret the data. We hypothesize that
+reconstructed gene expression patterns represent better temporally resolved
+expression profiles that can be probabilistically modeled to match changes in
+expression level to IDC transitions. In particular, we identify transcriptionally
+regulated protein kinases putatively involved in regulating the P. falciparum
+IDC.
+RESULTS: By analyzing publicly available microarray data sets for the P.
+falciparum IDC, protein kinases are ranked in terms of their likelihood to be
+involved in regulating transitions between the ring, trophozoite and schizont
+developmental stages of the P. falciparum IDC. In our theoretical framework, a
+few protein kinases have high probability rankings, and could potentially be
+involved in regulating these developmental transitions.
+CONCLUSIONS: This study proposes a new methodology for extracting intrinsic
+expression patterns from microarray data. By applying this method to P.
+falciparum microarray data, several protein kinases are predicted to play a
+significant role in the P. falciparum IDC. Earlier experiments have indeed
+confirmed that several of these kinases are involved in this process. Overall,
+these results indicate that further functional analysis of these additional
+putative protein kinases may reveal new insights into how the P. falciparum IDC
+is regulated.
+
+DOI: 10.1186/1477-5956-10-S1-S10 
+PMCID: PMC3380736
+PMID: 22759568 
+

@@ -1,0 +1,51 @@
+
+1. Exp Ther Med. 2018 Sep;16(3):2460-2470. doi: 10.3892/etm.2018.6479. Epub 2018 Jul
+19.
+
+Screening of genes associated with inflammatory responses in the endolymphatic
+sac reveals underlying mechanisms for autoimmune inner ear diseases.
+
+Zhang J(1)(2), Wang N(1), Xu A(1)(3).
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, The Second Hospital of
+Shandong University, Jinan, Shandong 250033, P.R. China.
+(2)Department of Otolaryngology, Shanghai Jiao Tong University, Affiliated to
+Sixth People's Hospital South Campus, Shanghai 201411, P.R. China.
+(3)Department of Otolaryngology, Affiliated Tenth People's Hospital of Tongji
+University, Shanghai 200072, P.R. China.
+
+The current study analyzed gene expression profiles of the endolymphatic sac (ES)
+in rats and identified expressed genes, present in the human and rat ES, to
+reveal key hubs for inflammatory responses. Microarray data (accession no.
+E-MEXP-3022) were obtained from the European Bioinformatics Institute database,
+including three biological replicates of ES plus dura tissues and three
+replicates of pure dura tissues form rats. Differentially expressed genes (DEGs) 
+were screened using the Linear Model for Microarray data method and a
+protein-protein interaction (PPI) network was constructed using data from the
+Search Tool for the Retrieval of Interacting Genes/Proteins database followed by 
+a module analysis via Clustering with Overlapping Neighborhood Expansion.
+Function enrichment analysis was performed using the Database for Annotation,
+Visualization and Integrated Discovery online tool. A total of 612 DEGs were
+identified, including 396 upregulated and 216 downregulated genes. Gene ontology 
+term enrichment analysis indicated DEGs were associated with cell adhesion,
+including α5-integrin (Itga1) and secreted phosphoprotein 1 (Spp1); T cell
+co-stimulation, including C-C chemokine ligand (Ccl)21 and Ccl19; and the
+toll-like receptor signaling pathway, including toll-like receptor (Tlr)2, Tlr7
+and Tlr8. These conclusions were supported by Kyoto Encyclopedia of Genes and
+Genomes pathway analyses revealing extracellular matrix-receptor interaction,
+including Itga1 and Spp1; leukocyte transendothelial migration,
+includingclaudin-4 (Cldn4); and malaria, including Tlr2. The hub roles of Itga1, 
+Cd24 and Spp1 were revealed by calculating three topological properties of the
+PPI network. Ccl21, Ccl19 and Cldn4 were demonstrated to be crucial following
+significant module analysis according to the corresponding threshold, which
+revealed they were enriched in inflammation pathways. Tlr7, Tlr2, granzyme m and 
+Tlr8 were common genes associated with inflammatory responses in rat and human
+ES. In conclusion, abnormal expression of the aforementioned
+inflammation-associated genes may be associated with the development of
+autoimmune inner ear diseases.
+
+DOI: 10.3892/etm.2018.6479 
+PMCID: PMC6122540
+PMID: 30210597 
+

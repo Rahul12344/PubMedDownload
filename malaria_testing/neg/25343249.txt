@@ -1,0 +1,58 @@
+
+1. PLoS One. 2014 Oct 24;9(10):e110800. doi: 10.1371/journal.pone.0110800.
+eCollection 2014.
+
+Characterization of the commercially-available fluorescent chloroquine-BODIPY
+conjugate, LynxTag-CQGREEN, as a marker for chloroquine resistance and uptake in 
+a 96-well plate assay.
+
+Loh CC(1), Suwanarusk R(2), Lee YQ(3), Chan KW(1), Choy KY(4), Rénia L(2),
+Russell B(1), Lear MJ(5), Nosten FH(6), Tan KS(3), Chow LM(4).
+
+Author information: 
+(1)Department of Microbiology, Yong Loo Lin School of Medicine, National
+University of Singapore, Singapore, Singapore.
+(2)Singapore Immunology Network, Agency for Science Technology and Research,
+Biopolis, Singapore, Singapore.
+(3)Department of Microbiology, Yong Loo Lin School of Medicine, National
+University of Singapore, Singapore, Singapore; NUS Graduate School for
+Integrative Sciences and Engineering, National University of Singapore,
+Singapore, Singapore.
+(4)Department of Applied Biology and Chemical Technology, The State Key
+Laboratory of Chirosciences, The Hong Kong Polytechnic University, Hung Hom,
+Kowloon, Hong Kong SAR, PR China.
+(5)Department of Chemistry, Graduate School of Science, Tohoku University, Aza
+Aramaki, Aoba-ku, Sendai, Japan.
+(6)Centre for Tropical Medicine, Nuffield Department of Medicine, University of
+Oxford, Oxford, United Kingdom; Shoklo Malaria Research Unit, Mahidol-Oxford
+Tropical Medicine Research Unit, Faculty of Tropical Medicine, Mahidol
+University, Mae Sot, Thailand; Centre for Tropical Medicine, University of
+Oxford, Churchill Hospital, Oxford, United Kingdom.
+
+Chloroquine was a cheap, extremely effective drug against Plasmodium falciparum
+until resistance arose. One approach to reversing resistance is the inhibition of
+chloroquine efflux from its site of action, the parasite digestive vacuole.
+Chloroquine accumulation studies have traditionally relied on radiolabelled
+chloroquine, which poses several challenges. There is a need for development of a
+safe and biologically relevant substitute. We report here a
+commercially-available green fluorescent chloroquine-BODIPY conjugate,
+LynxTag-CQGREEN, as a proxy for chloroquine accumulation. This compound localized
+to the digestive vacuole of the parasite as observed under confocal microscopy,
+and inhibited growth of chloroquine-sensitive strain 3D7 more extensively than in
+the resistant strains 7G8 and K1. Microplate reader measurements indicated
+suppression of LynxTag-CQGREEN efflux after pretreatment of parasites with known 
+reversal agents. Microsomes carrying either sensitive- or resistant-type PfCRT
+were assayed for uptake; resistant-type PfCRT exhibited increased accumulation of
+LynxTag-CQGREEN, which was suppressed by pretreatment with known
+chemosensitizers. Eight laboratory strains and twelve clinical isolates were
+sequenced for PfCRT and Pgh1 haplotypes previously reported to contribute to drug
+resistance, and pfmdr1 copy number and chloroquine IC50s were determined. These
+data were compared with LynxTag-CQGREEN uptake/fluorescence by multiple linear
+regression to identify genetic correlates of uptake. Uptake of the compound
+correlated with the logIC50 of chloroquine and, more weakly, a mutation in Pgh1, 
+F1226Y.
+
+DOI: 10.1371/journal.pone.0110800 
+PMCID: PMC4208776
+PMID: 25343249  [Indexed for MEDLINE]
+

@@ -1,0 +1,58 @@
+
+1. Infect Genet Evol. 2015 Oct;35:96-108. doi: 10.1016/j.meegid.2015.08.007. Epub
+2015 Aug 4.
+
+Disease specific modules and hub genes for intervention strategies: A
+co-expression network based approach for Plasmodium falciparum clinical isolates.
+
+Subudhi AK(1), Boopathi PA(2), Pandey I(3), Kaur R(4), Middha S(5), Acharya J(6),
+Kochar SK(7), Kochar DK(8), Das A(9).
+
+Author information: 
+(1)Department of Biological Sciences, Birla Institute of Technology and Science
+(BITS), Pilani, Rajasthan, India. Electronic address: amit4help@gmail.com.
+(2)Department of Biological Sciences, Birla Institute of Technology and Science
+(BITS), Pilani, Rajasthan, India. Electronic address:
+boopathiarunachalam@gmail.com.
+(3)Department of Biological Sciences, Birla Institute of Technology and Science
+(BITS), Pilani, Rajasthan, India. Electronic address: aahana10123@gmail.com.
+(4)Department of Biological Sciences, Birla Institute of Technology and Science
+(BITS), Pilani, Rajasthan, India. Electronic address: ramanme24@gmail.com.
+(5)Department of Medicine, S.P. Medical College, Bikaner, Rajasthan, India.
+Electronic address: Sheetumig21@gmail.com.
+(6)Department of Medicine, S.P. Medical College, Bikaner, Rajasthan, India.
+Electronic address: Jyotiacharya2@gmail.com.
+(7)Department of Medicine, S.P. Medical College, Bikaner, Rajasthan, India.
+Electronic address: drskkochar@rediffmail.com.
+(8)Rajasthan University of Health Sciences, Jaipur, Rajasthan, India. Electronic 
+address: drdkkochar@yahoo.com.
+(9)Department of Biological Sciences, Birla Institute of Technology and Science
+(BITS), Pilani, Rajasthan, India. Electronic address: ashisd28@gmail.com.
+
+Systems biology approaches that are based on gene expression and bioinformatics
+analysis have been successful in predicting the functions of many genes in
+Plasmodium falciparum, a protozoan parasite responsible for most of the deaths
+due to malaria. However, approaches that can provide information about the
+biological processes that are active in this parasite in vivo during complicated 
+malaria conditions have been scarcely deployed. Here we report the analysis of a 
+weighted gene co-expression based network for P. falciparum, from non-cerebral
+clinical complications. Gene expression profiles of 20 P. falciparum clinical
+isolates were utilized to construct the same. A total of 20 highly interacting
+modules were identified post network creation. In 12 of these modules, at least
+10% of the member genes, were found to be differentially regulated in parasites
+from patient isolates showing complications, when compared with those from
+patients with uncomplicated disease. Enrichment analysis helped identify
+biological processes like oxidation-reduction, electron transport chain, protein 
+synthesis, ubiquitin dependent catabolic processes, RNA binding and purine
+nucleotide metabolic processes as associated with these modules. Additionally,
+for each module, highly connected hub genes were identified. Detailed functional 
+analysis of many of these, which have known annotated functions underline their
+importance in parasite development and survival. This suggests, that other hub
+genes with unknown functions may also be playing crucial roles in parasite
+biology, and, are potential candidates for intervention strategies.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.meegid.2015.08.007 
+PMID: 26247716  [Indexed for MEDLINE]
+

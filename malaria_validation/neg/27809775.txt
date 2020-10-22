@@ -1,0 +1,45 @@
+
+1. BMC Genomics. 2016 Nov 3;17(1):859.
+
+Recombination events among virulence genes in malaria parasites are associated
+with G-quadruplex-forming DNA motifs.
+
+Stanton A(1), Harris LM(2), Graham G(3), Merrick CJ(4).
+
+Author information: 
+(1)School of Computing and Mathematics, Faculty of Natural Sciences, Keele
+University, Keele, Staffordshire, ST55BG, UK.
+(2)Centre for Applied Entomology and Parasitology, Faculty of Natural Sciences,
+Keele University, Keele, Staffordshire, ST55BG, UK.
+(3)School of Medicine, Keele University, Keele, Staffordshire, ST55BG, UK.
+(4)Centre for Applied Entomology and Parasitology, Faculty of Natural Sciences,
+Keele University, Keele, Staffordshire, ST55BG, UK. c.merrick@keele.ac.uk.
+
+BACKGROUND: Malaria parasites of the genus Plasmodium possess large
+hyper-variable families of antigen-encoding genes. These are often
+variantly-expressed and are major virulence factors for immune evasion and the
+maintenance of chronic infections. Recombination and diversification of these
+gene families occurs readily, and may be promoted by G-quadruplex (G4) DNA motifs
+within and close to the variant genes. G4s have been shown to cause replication
+fork stalling, DNA breakage and recombination in model systems, but these motifs 
+remain largely unstudied in Plasmodium.
+RESULTS: We examined the nature and distribution of putative G4-forming sequences
+in multiple Plasmodium genomes, finding that their co-distribution with variant
+gene families is conserved across different Plasmodium species that have
+different types of variant gene families. In P. falciparum, where a large set of 
+recombination events that occurred over time in cultured parasites has been
+mapped, we found a strong spatial association between these recombination events 
+and putative G4-forming sequences. Finally, we searched Plasmodium genomes for
+the three classes of helicase that can unwind G4s: Plasmodium spp. have no
+identifiable homologue of the highly efficient G4 helicase PIF1, but they do
+encode two putative RecQ helicases and one homologue of the RAD3-family helicase 
+FANCJ.
+CONCLUSIONS: Our analyses, conducted at the whole-genome level in multiple
+species of Plasmodium, support the concept that G4s are likely to be involved in 
+recombination and diversification of antigen-encoding gene families in this
+important protozoan pathogen.
+
+DOI: 10.1186/s12864-016-3183-3 
+PMCID: PMC5093961
+PMID: 27809775  [Indexed for MEDLINE]
+

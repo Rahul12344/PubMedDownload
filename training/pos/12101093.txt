@@ -1,0 +1,31 @@
+
+1. EMBO Rep. 2002 Jul;3(7):622-7.
+
+The binding site of the RNA-dependent protein kinase (PKR) on EBER1 RNA from
+Epstein-Barr virus.
+
+Vuyisich M(1), Spanggord RJ, Beal PA.
+
+Author information: 
+(1)University of Utah, Department of Chemistry, Salt Lake City 84112, USA.
+
+The RNA-dependent protein kinase (PKR) is an interferon-induced, RNA-activated
+enzyme that phosphorylates the eukaryotic initiation factor 2alpha, rendering the
+translation machinery inactive. Viruses have developed strategies for preventing 
+the action of PKR, one of which is the production of small RNAs that inhibit the 
+enzyme. Epstein-Barr virus (EBV) encodes EBER1, a 167 nucleotide non-coding RNA
+that is constitutively expressed by the EBV-infected cells. EBER1 binds PKR in
+vitro and has been shown to prevent inhibition of translation by PKR in vitro. We
+used affinity cleavage by the EDTA.Fe-modified double-stranded RNA-binding domain
+(dsRBD) of PKR to show that stem-loop IV (nucleotides 87-123) of EBER1 makes
+specific contacts with the dsRBD. To further demonstrate the specificity of this 
+interaction, we generated a deletion mutant of EBER1, comprising only stem-loop
+IV (mEBER1). Cleavage patterns produced on mEBER1 by the bound dsRBD were
+remarkably similar to those found on full-length EBER1. Using cleavage data from 
+two different dsRBD mutants, we present a model of the interaction of PKR dsRBD
+and mEBER1.
+
+DOI: 10.1093/embo-reports/kvf137 
+PMCID: PMC1084191
+PMID: 12101093  [Indexed for MEDLINE]
+

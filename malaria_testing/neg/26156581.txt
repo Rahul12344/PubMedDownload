@@ -1,0 +1,49 @@
+
+1. BMC Plant Biol. 2015 Jul 9;15:175. doi: 10.1186/s12870-015-0565-7.
+
+Proteomic analysis of Artemisia annua--towards elucidating the biosynthetic
+pathways of the antimalarial pro-drug artemisinin.
+
+Bryant L(1), Flatley B(2), Patole C(3), Brown GD(4), Cramer R(5).
+
+Author information: 
+(1)Department of Chemistry, Whiteknights, Reading, RG6 6AD, United Kingdom.
+gk002242@reading.ac.uk.
+(2)Department of Chemistry, Whiteknights, Reading, RG6 6AD, United Kingdom.
+flatley3@gmail.com.
+(3)Department of Chemistry, Whiteknights, Reading, RG6 6AD, United Kingdom.
+chhayapatole@gmail.com.
+(4)Department of Chemistry, Whiteknights, Reading, RG6 6AD, United Kingdom.
+g.d.brown@reading.ac.uk.
+(5)Department of Chemistry, Whiteknights, Reading, RG6 6AD, United Kingdom.
+r.k.cramer@reading.ac.uk.
+
+BACKGROUND: MS-based proteomics was applied to the analysis of the medicinal
+plant Artemisia annua, exploiting a recently published contig sequence database
+(Graham et al. (2010) Science 327, 328-331) and other genomic and proteomic
+sequence databases for comparison. A. annua is the predominant natural source of 
+artemisinin, the precursor for artemisinin-based combination therapies (ACTs),
+which are the WHO-recommended treatment for P. falciparum malaria.
+RESULTS: The comparison of various databases containing A. annua sequences
+(NCBInr/viridiplantae, UniProt/viridiplantae, UniProt/A. annua, an A. annua
+trichome Trinity contig database, the above contig database and another A. annua 
+EST database) revealed significant differences in respect of their suitability
+for proteomic analysis, showing that an organism-specific database that has
+undergone extensive curation, leading to longer contig sequences, can greatly
+increase the number of true positive protein identifications, while reducing the 
+number of false positives. Compared to previously published data an
+order-of-magnitude more proteins have been identified from trichome-enriched A.
+annua samples, including proteins which are known to be involved in the
+biosynthesis of artemisinin, as well as other highly abundant proteins, which
+suggest additional enzymatic processes occurring within the trichomes that are
+important for the biosynthesis of artemisinin.
+CONCLUSIONS: The newly gained information allows for the possibility of an
+enzymatic pathway, utilizing peroxidases, for the less well understood final
+stages of artemisinin's biosynthesis, as an alternative to the known
+non-enzymatic in vitro conversion of dihydroartemisinic acid to artemisinin. Data
+are available via ProteomeXchange with identifier PXD000703.
+
+DOI: 10.1186/s12870-015-0565-7 
+PMCID: PMC4496932
+PMID: 26156581  [Indexed for MEDLINE]
+

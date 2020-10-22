@@ -1,0 +1,44 @@
+
+1. PeerJ. 2019 Jul 10;7:e7313. doi: 10.7717/peerj.7313. eCollection 2019.
+
+Bioinformatics analysis of microarray data to identify the candidate biomarkers
+of lung adenocarcinoma.
+
+Guo T(#)(1), Ma H(#)(1), Zhou Y(1).
+
+Author information: 
+(1)Department of Biotechnology, College of Life Science & Bioengineering, Beijing
+University of Technology, Beijing, China.
+(#)Contributed equally
+
+Background: Lung adenocarcinoma (LUAD) is the major subtype of lung cancer and
+the most lethal malignant disease worldwide. However, the molecular mechanisms
+underlying LUAD are not fully understood.
+Methods: Four datasets (GSE118370, GSE85841, GSE43458 and GSE32863) were obtained
+from the gene expression omnibus (GEO). Identification of differentially
+expressed genes (DEGs) and functional enrichment analysis were performed using
+the limma and clusterProfiler packages, respectively. A protein-protein
+interaction (PPI) network was constructed via Search Tool for the Retrieval of
+Interacting Genes (STRING) database, and the module analysis was performed by
+Cytoscape. Then, overall survival analysis was performed using the Kaplan-Meier
+curve, and prognostic candidate biomarkers were further analyzed using the
+Oncomine database.
+Results: Totally, 349 DEGs were identified, including 275 downregulated and 74
+upregulated genes which were significantly enriched in the biological process of 
+extracellular structure organization, leukocyte migration and response to
+peptide. The mainly enriched pathways were complement and coagulation cascades,
+malaria and prion diseases. By extracting key modules from the PPI network, 11
+hub genes were screened out. Survival analysis showed that except VSIG4, other
+hub genes may be involved in the development of LUAD, in which MYH10, METTL7A,
+FCER1G and TMOD1 have not been reported previously to correlated with LUAD.
+Briefly, novel hub genes identified in this study will help to deepen our
+understanding of the molecular mechanisms of LUAD carcinogenesis and progression,
+and to discover candidate targets for early detection and treatment of LUAD.
+
+DOI: 10.7717/peerj.7313 
+PMCID: PMC6626531
+PMID: 31333911 
+
+Conflict of interest statement: The authors declare that they have no competing
+interests.
+

@@ -1,0 +1,41 @@
+
+1. Mol Biosyst. 2014 Jul 29;10(9):2466-79. doi: 10.1039/c4mb00274a.
+
+Comparative study of Plasmodium falciparum erythrocyte membrane protein 1-DBLα
+domain variants with respect to antigenic variations and docking interaction
+analysis with glycosaminoglycans.
+
+Agrawal MR(1), Ozarkar AD, Gupta S, Deobagkar DN, Deobagkar DD.
+
+Author information: 
+(1)Bioinformatics Centre & Department of Zoology, Center of Advanced Studies,
+University of Pune, Pune 411007, India. deepti.deobagkar@gmail.com.
+
+The variant surface antigen PfEMP1 (Plasmodium falciparum erythrocyte membrane
+protein 1) encoded by the polymorphic multi-copy var gene family plays an
+important role in parasite biology and the host-parasite interactions.
+Sequestration and antigenic variation is an essential component in the survival
+and pathogenesis of Plasmodium falciparum and contributes to chronic infection.
+The DBLα domain of PfEMP1 is a potential target for immuno-epidemiological
+studies and has been visualized as a vaccine candidate against severe malaria.
+Specific host receptors like heparin, heparan sulphate, blood group A and
+complement receptor 1 have been reported to bind the DBLα domain. Although
+heparin has been experimentally shown to disrupt the parasite-host interaction
+and effectively disrupt rosetting, the binding sites for the DBLα domain and the 
+mechanism behind heparin-mediated rosette inhibition have not been elucidated. In
+this study, 3D structures and epitopes of the DBLα domain in 3D7 and in two
+Indian isolates have been predicted and compared. We have carried out docking
+studies on DBLα domains with human GAG receptors (heparin and heparan sulphate)
+to predict the strength of association between the protein-ligand interactions.
+The DBLα domain structures showed extensive diversity and polymorphism in their
+binding sites. The docking results indicate that heparin binds more effectively
+with high affinity as compared to heparan sulphate with some common interacting
+residues. These common residues can play an important role in rosetting and will 
+aid in the designing of inhibitors specific to the interactions between DBLα and 
+heparin or heparan sulphate would be important in malaria treatment. Thus it may 
+lead to the development of novel interference strategies to block red blood cell 
+invasion and provide protection against malaria.
+
+DOI: 10.1039/c4mb00274a 
+PMID: 24995459  [Indexed for MEDLINE]
+

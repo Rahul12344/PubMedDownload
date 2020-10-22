@@ -1,0 +1,46 @@
+
+1. PLoS Pathog. 2009 Jun;5(6):e1000463. doi: 10.1371/journal.ppat.1000463. Epub 2009
+Jun 5.
+
+Recruitment of a SAP18-HDAC1 complex into HIV-1 virions and its requirement for
+viral replication.
+
+Sorin M(1), Cano J, Das S, Mathew S, Wu X, Davies KP, Shi X, Cheng SW, Ott D,
+Kalpana GV.
+
+Author information: 
+(1)Department of Genetics, Albert Einstein College of Medicine, Bronx, New York, 
+United States of America.
+
+HIV-1 integrase (IN) is a virally encoded protein required for integration of
+viral cDNA into host chromosomes. INI1/hSNF5 is a component of the SWI/SNF
+complex that interacts with HIV-1 IN, is selectively incorporated into HIV-1 (but
+not other retroviral) virions, and modulates multiple steps, including particle
+production and infectivity. To gain further insight into the role of INI1 in
+HIV-1 replication, we screened for INI1-interacting proteins using the yeast
+two-hybrid system. We found that SAP18 (Sin3a associated protein 18 kD), a
+component of the Sin3a-HDAC1 complex, directly binds to INI1 in yeast, in vitro
+and in vivo. Interestingly, we found that IN also binds to SAP18 in vitro and in 
+vivo. SAP18 and components of a Sin3A-HDAC1 complex were specifically
+incorporated into HIV-1 (but not SIV and HTLV-1) virions in an HIV-1 IN-dependent
+manner. Using a fluorescence-based assay, we found that HIV-1 (but not SIV)
+virion preparations harbour significant deacetylase activity, indicating the
+specific recruitment of catalytically active HDAC into the virions. To determine 
+the requirement of virion-associated HDAC1 to HIV-1 replication, an inactive,
+transdominant negative mutant of HDAC1 (HDAC1(H141A)) was utilized. Incorporation
+of HDAC1(H141A) decreased the virion-associated histone deacetylase activity.
+Furthermore, incorporation of HDAC1(H141A) decreased the infectivity of HIV-1
+(but not SIV) virions. The block in infectivity due to virion-associated
+HDAC1(H141A) occurred specifically at the early reverse transcription stage,
+while entry of the virions was unaffected. RNA-interference mediated knock-down
+of HDAC1 in producer cells resulted in decreased virion-associated HDAC1 activity
+and a reduction in infectivity of these virions. These studies indicate that
+HIV-1 IN and INI1/hSNF5 bind SAP18 and selectively recruit components of
+Sin3a-HDAC1 complex into HIV-1 virions. Furthermore, HIV-1 virion-associated
+HDAC1 is required for efficient early post-entry events, indicating a novel role 
+for HDAC1 during HIV-1 replication.
+
+DOI: 10.1371/journal.ppat.1000463 
+PMCID: PMC2685004
+PMID: 19503603  [Indexed for MEDLINE]
+

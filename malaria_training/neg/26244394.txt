@@ -1,0 +1,44 @@
+
+1. AIDS. 2015 Jul 31;29(12):1549-56. doi: 10.1097/QAD.0000000000000731.
+
+Disentangling the impact of within-host evolution and transmission dynamics on
+the tempo of HIV-1 evolution.
+
+Vrancken B(1), Baele G, Vandamme AM, van Laethem K, Suchard MA, Lemey P.
+
+Author information: 
+(1)aDepartment of Microbiology and Immunology, Rega Institute, KU Leuven, Leuven,
+Belgium bCentro de Malária e Outras Doenças Tropicais Instituto de Higiene e
+Medicina Tropical and Unidade de Microbiologia, Universidade Nova de Lisboa,
+Lisboa, Portugal cDepartment of Biomathematics dDepartment of Human Genetics,
+David Geffen School of Medicine at UCLA eDepartment of Biostatistics, UCLA
+Fielding School of Public Health, University of California, Los Angeles,
+California, USA.
+
+OBJECTIVE: To determine how HIV-1 risk groups impact transmitted diversity and
+the tempo of viral evolution at a population scale.
+METHODS: We investigated a set of previously described transmission chains
+(n = 70) using a population genetic approach, and tested whether the expected
+differences in proportions of multivariant transmissions are reflected by varying
+proportions of transmitted diversity between men having sex with men (MSM) and
+heterosexual (HET) subpopulations - the largest contributors to HIV spread. To
+assess evolutionary rate differences among the different risk groups, we compiled
+risk group datasets for subtypes A1, B and CRF01_AE, and directly compared the
+absolute substitution rate and its synonymous and non-synonymous components.
+RESULTS: There was sufficient demographic signal to inform the transmission model
+in Bayesian evolutionary analysis by sampling trees using env data to compare the
+transmission bottleneck size between the MSM and HET risk groups. We found no
+indications for a different proportion of transmitted genetic diversity at the
+population level between these groups. In the direct rate comparisons between the
+risk groups, however, we consistently recovered a higher evolutionary rate in the
+male-dominated risk group compared to the HET datasets.
+CONCLUSION: We find that the risk group composition affects the viral
+evolutionary rate and therefore potentially also the adaptation rate. In
+particular, risk group-specific sex ratios, and the variation in within-host
+evolutionary rates between men and women, impose evolutionary rate differences at
+the epidemic level, but we cannot exclude a role of varying transmission rates.
+
+DOI: 10.1097/QAD.0000000000000731 
+PMCID: PMC5348249
+PMID: 26244394  [Indexed for MEDLINE]
+

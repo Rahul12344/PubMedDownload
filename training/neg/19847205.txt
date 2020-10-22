@@ -1,0 +1,35 @@
+
+1. Gene Ther. 2010 Feb;17(2):217-26. doi: 10.1038/gt.2009.136. Epub 2009 Oct 22.
+
+Effect of nuclear localization and hydrodynamic delivery-induced cell division on
+phiC31 integrase activity.
+
+Woodard LE(1), Hillman RT, Keravala A, Lee S, Calos MP.
+
+Author information: 
+(1)Department of Genetics, Stanford University School of Medicine, Stanford, CA
+94305-5120, USA.
+
+Phage phiC31 integrase is a recombinase that can be expressed in mammalian cells 
+to integrate plasmids carrying an attB sequence into the genome at specific
+pseudo attP locations. We show by immunofluoresence that wild-type phiC31
+integrase is cytoplasmic and that addition of the SV40 nuclear localization
+signal (NLS) localized phiC31 integrase to the nucleus. Unexpectedly, the NLS
+depressed integration efficiency in HeLa cells and provided no benefit when used 
+to integrate the human Factor IX (hFIX) gene into mouse liver. As breakdown of
+the nuclear membrane during mitosis could allow cytoplasmic integrase access to
+the chromosomes, we analyzed whether cell division was required for integration
+into liver cells in vivo. Hepatocytes were labeled with iododeoxyuridine to mark 
+cells that underwent DNA replication during the week after hydrodynamic
+injection. Hydrodynamic delivery led to DNA replication in one-third of
+hepatocytes. Approximately three out of four cells having phiC31
+integrase-mediated stable hFIX expression did not undergo replication, indicating
+that cell division was not required for integrase function in liver. Therefore,
+although the bulk of phiC31 integrase protein seems to be cytoplasmic in
+mammalian cells, integration can still occur in the nucleus, even without cell
+division.
+
+DOI: 10.1038/gt.2009.136 
+PMCID: PMC2820593
+PMID: 19847205  [Indexed for MEDLINE]
+

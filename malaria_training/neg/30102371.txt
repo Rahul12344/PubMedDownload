@@ -1,0 +1,37 @@
+
+1. Nucleic Acids Res. 2018 Nov 2;46(19):10417-10431. doi: 10.1093/nar/gky710.
+
+Identification of clustered organellar short (cos) RNAs and of a conserved family
+of organellar RNA-binding proteins, the heptatricopeptide repeat proteins, in the
+malaria parasite.
+
+Hillebrand A(1), Matz JM(2), Almendinger M(1), Müller K(2), Matuschewski K(2),
+Schmitz-Linneweber C(1).
+
+Author information: 
+(1)Humboldt University Berlin, Molecular Genetics, Berlin, Germany.
+(2)Humboldt University, Department of Molecular Parasitology, Berlin, Germany.
+
+Gene expression in mitochondria of Plasmodium falciparum is essential for
+parasite survival. The molecular mechanisms of Plasmodium organellar gene
+expression remain poorly understood. This includes the enigmatic assembly of the 
+mitochondrial ribosome from highly fragmented rRNAs. Here, we present the
+identification of clustered organellar short RNA fragments (cosRNAs) that are
+possible footprints of RNA-binding proteins (RBPs) in Plasmodium organelles. In
+plants, RBPs of the pentatricopeptide repeat (PPR) class produce footprints as a 
+consequence of their function in processing organellar RNAs. Intriguingly, many
+of the Plasmodium cosRNAs overlap with 5'-ends of rRNA fragments. We hypothesize 
+that these are footprints of RBPs involved in assembling the rRNA fragments into 
+a functioning ribosome. A bioinformatics search of the Plasmodium nuclear genome 
+identified a hitherto unrecognized organellar helical-hairpin-repeat protein
+family that we term heptatricopeptide repeat (HPR) proteins. We demonstrate that 
+selected HPR proteins are targeted to mitochondria in P. berghei and that one of 
+them, PbHPR1, associates with RNA, but not DNA in vitro. A phylogenetic search
+identified HPR proteins in a wide variety of eukaryotes. We hypothesize that HPR 
+proteins are required for processing and stabilizing RNAs in Apicomplexa and
+other taxa.
+
+DOI: 10.1093/nar/gky710 
+PMCID: PMC6212722
+PMID: 30102371  [Indexed for MEDLINE]
+

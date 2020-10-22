@@ -1,0 +1,40 @@
+
+1. J Virol. 2011 Apr;85(7):3270-82. doi: 10.1128/JVI.02243-10. Epub 2011 Jan 19.
+
+M062 is a host range factor essential for myxoma virus pathogenesis and functions
+as an antagonist of host SAMD9 in human cells.
+
+Liu J(1), Wennier S, Zhang L, McFadden G.
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, University of Florida
+College of Medicine, 1600 SW Archer Rd., P.O. Box 100266, Gainesville, FL 32610, 
+USA.
+
+Myxoma virus (MYXV) M062R is a functional homolog of the C7L family of host range
+genes from orthopoxviruses. We constructed a targeted M062R-knockout-MYXV
+(vMyxM062-KO) and characterized its properties in vitro and in vivo. In European 
+rabbits, infection by vMyxM062-KO was completely asymptomatic. The surviving
+rabbits did not gain full protection against the subsequent lethal-dose challenge
+with wild-type MYXV. We also looked for cellular tropism defects in a variety of 
+cultured cells. In all of the rabbit cells tested, vMyxM062-KO conducts an
+abortive infection, although it initiates viral DNA replication. In many, but not
+all, human cancer cells that are permissive for wild-type MYXV, vMyxM062-KO
+exhibited a profound replication defect. We categorized human cells tested into
+two groups: (i) type A, which support productive replication for wild-type MYXV
+but are unable to produce significant levels of progeny virus by vMyxM062-KO, and
+(ii) type B, which are permissive to infections by both wild-type MYXV and
+vMyxM062-KO. Furthermore, using proteomic strategies, we identified sterile α
+motif domain containing 9 (SAMD9), an interferon-regulated cellular protein
+implicated in human inflammatory disorders, as a unique host binding partner of
+M062 in human cells. Significantly, knocking down SAMD9 in type A human cancer
+cells led to a substantial rescue of vMyxM062-KO infection. In summary, M062 is a
+novel host range factor that controls productive MYXV replication in rabbit cells
+and in a wide variety of human cells. M062 also binds and antagonizes cellular
+SAMD9 in human cells, suggesting that SAMD9 is a novel innate antiviral factor
+against poxviruses.
+
+DOI: 10.1128/JVI.02243-10 
+PMCID: PMC3067850
+PMID: 21248034  [Indexed for MEDLINE]
+

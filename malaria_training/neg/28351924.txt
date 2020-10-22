@@ -1,0 +1,57 @@
+
+1. mBio. 2017 Mar 28;8(2). pii: e02317-16. doi: 10.1128/mBio.02317-16.
+
+Plasmodium falciparum Maf1 Confers Survival upon Amino Acid Starvation.
+
+McLean KJ(1), Jacobs-Lorena M(2).
+
+Author information: 
+(1)Department of Molecular Microbiology and Immunology, Johns Hopkins Bloomberg
+School of Public Health, Johns Hopkins Malaria Research Institute, Baltimore,
+Maryland, USA.
+(2)Department of Molecular Microbiology and Immunology, Johns Hopkins Bloomberg
+School of Public Health, Johns Hopkins Malaria Research Institute, Baltimore,
+Maryland, USA ljacob13@jhu.edu.
+
+The target of rapamycin complex 1 (TORC1) pathway is a highly conserved signaling
+pathway across eukaryotes that integrates nutrient and stress signals to regulate
+the cellular growth rate and the transition into and maintenance of dormancy. The
+majority of the pathway's components, including the central TOR kinase, have been
+lost in the apicomplexan lineage, and it is unknown how these organisms detect
+and respond to nutrient starvation in its absence. Plasmodium falciparum encodes 
+a putative ortholog of the RNA polymerase (Pol) III repressor Maf1, which has
+been demonstrated to modulate Pol III transcription in a TOR-dependent manner in 
+a number of organisms. Here, we investigate the role of P. falciparum Maf1
+(PfMaf1) in regulating RNA Pol III expression under conditions of nutrient
+starvation and other stresses. Using a transposon insertion mutant with an
+altered Maf1 expression profile, we demonstrated that proper Maf1 expression is
+necessary for survival of the dormancy-like state induced by prolonged amino acid
+starvation and is needed for full recovery from other stresses that slow or stall
+the parasite cell cycle. This Maf1 mutant is defective in the downregulation of
+pre-tRNA synthesis under nutrient-limiting conditions, indicating that the
+function of Maf1 as a stress-responsive regulator of structural RNA transcription
+is conserved in P. falciparum Recent work has demonstrated that parasites
+carrying artemisinin-resistant K13 alleles display an enhanced ability to recover
+from drug-induced growth retardation. We show that one such artemisinin-resistant
+line displays greater regulation of pre-tRNA expression and higher survival upon 
+prolonged amino acid starvation, suggesting that overlapping, PfMaf1-associated
+pathways may regulate growth recovery from both artemisinin treatment and amino
+acid starvation.IMPORTANCE Eukaryote organisms sense changes in their environment
+and integrate this information through signaling pathways to activate response
+programs to ensure survival. The TOR pathway is a well-studied signaling pathway 
+found throughout eukaryotes that is known to integrate a variety of signals to
+regulate organismal growth in response to starvation and other stresses. The
+human malaria parasite Plasmodium falciparum appears to have lost the TOR pathway
+over the course of evolution, and it is unclear how the parasite modulates its
+growth in response to starvation and drug treatment. Here, we show that Maf1, a
+protein regulated by TOR in other eukaryotes, plays an important role in
+maintaining the parasite's viability in the face of starvation and other forms of
+stress. This suggests that PfMaf1 is a component of a yet-to-be-described
+nutrient and stress response pathway.
+
+Copyright © 2017 McLean and Jacobs-Lorena.
+
+DOI: 10.1128/mBio.02317-16 
+PMCID: PMC5371417
+PMID: 28351924  [Indexed for MEDLINE]
+

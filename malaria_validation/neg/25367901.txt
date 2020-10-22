@@ -1,0 +1,54 @@
+
+1. Antimicrob Agents Chemother. 2015 Jan;59(1):365-71. doi: 10.1128/AAC.03395-14.
+Epub 2014 Nov 3.
+
+Detection of single-nucleotide polymorphisms in Plasmodium falciparum by PCR
+primer extension and lateral flow immunoassay.
+
+Moers AP(1), Hallett RL(2), Burrow R(2), Schallig HD(3), Sutherland CJ(4), van
+Amerongen A(5).
+
+Author information: 
+(1)Biomolecular Sensing & Diagnostics, Food & Biobased Research, Wageningen
+University and Research Centre, Wageningen, The Netherlands.
+(2)Faculty of Infectious and Tropical Diseases, London School of Hygiene and
+Tropical Medicine, London, United Kingdom.
+(3)Koninklijk Instituut voor de Tropen/Royal Tropical Institute, Biomedical
+Research, Amsterdam, The Netherlands.
+(4)Faculty of Infectious and Tropical Diseases, London School of Hygiene and
+Tropical Medicine, London, United Kingdom PHE Malaria Reference Laboratory,
+London School of Hygiene and Tropical Medicine, London, United Kingdom.
+(5)Biomolecular Sensing & Diagnostics, Food & Biobased Research, Wageningen
+University and Research Centre, Wageningen, The Netherlands
+aart.vanamerongen@wur.nl.
+
+The resistance of Plasmodium falciparum to some antimalarial drugs is linked to
+single-nucleotide polymorphisms (SNPs). Currently, there are no methods for the
+identification of resistant parasites that are sufficiently simple, cheap, and
+fast enough to be performed at point-of-care, i.e., in local hospitals where
+drugs are prescribed. Primer extension methods (PEXT) were developed to identify 
+4 SNPs in P. falciparum positioned at amino acids 86, 184, and 1246 of the P.
+falciparum multidrug resistance 1 gene (pfmdr1) and amino acid 76 of the
+chloroquine resistance transporter gene (pfcrt). The PEXT products were
+visualized by a nucleic acid lateral flow immunoassay (NALFIA) with carbon
+nanoparticles as the detection labels. PCR-PEXT-NALFIAs showed good correlation
+to the reference methods, quantitative PCR (qPCR) or direct amplicon sequence
+analysis, in an initial open-label evaluation with 17 field samples. The tests
+were further evaluated in a blind study design in a set of 150 patient isolates. 
+High specificities of 98 to 100% were found for all 4 PCR-PEXT genotyping assays.
+The sensitivities ranged from 75% to 100% when all PEXT-positive tests were
+considered. A number of samples with a low parasite density were successfully
+characterized by the reference methods but failed to generate a result in the
+PCR-PEXT-NALFIA, particularly those samples with microscopy-negative subpatent
+infections. This proof-of principle study validates the use of PCR-PEXT-NALFIA
+for the detection of resistance-associated mutations in P. falciparum,
+particularly for microscopy-positive infections. Although it requires a standard 
+thermal cycler, the procedure is cheap and rapid and thus a potentially valuable 
+tool for point-of-care detection in developing countries.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/AAC.03395-14 
+PMCID: PMC4291373
+PMID: 25367901  [Indexed for MEDLINE]
+

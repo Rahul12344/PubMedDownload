@@ -1,0 +1,45 @@
+
+1. PLoS Pathog. 2011 May;7(5):e1002032. doi: 10.1371/journal.ppat.1002032. Epub 2011
+May 5.
+
+Investigating the host binding signature on the Plasmodium falciparum PfEMP1
+protein family.
+
+Janes JH(1), Wang CP, Levin-Edens E, Vigan-Womas I, Guillotte M, Melcher M,
+Mercereau-Puijalon O, Smith JD.
+
+Author information: 
+(1)Department of Global Health, University of Washington, Seattle, Washington,
+United States of America.
+
+The Plasmodium falciparum erythrocyte membrane protein 1 (PfEMP1) family plays a 
+central role in antigenic variation and cytoadhesion of P. falciparum infected
+erythrocytes. PfEMP1 proteins/var genes are classified into three main
+subfamilies (UpsA, UpsB, and UpsC) that are hypothesized to have different roles 
+in binding and disease. To investigate whether these subfamilies have diverged in
+binding specificity and test if binding could be predicted by adhesion domain
+classification, we generated a panel of 19 parasite lines that primarily
+expressed a single dominant var transcript and assayed binding against 12 known
+host receptors. By limited dilution cloning, only UpsB and UpsC var genes were
+isolated, indicating that UpsA var gene expression is rare under in vitro culture
+conditions. Consequently, three UpsA variants were obtained by rosette
+purification and selection with specific monoclonal antibodies to create a more
+representative panel. Binding assays showed that CD36 was the most common
+adhesion partner of the parasite panel, followed by ICAM-1 and TSP-1, and that
+CD36 and ICAM-1 binding variants were highly predicted by adhesion domain
+sequence classification. Binding to other host receptors, including CSA, VCAM-1, 
+HABP1, CD31/PECAM, E-selectin, Endoglin, CHO receptor "X", and Fractalkine, was
+rare or absent. Our findings identify a category of larger PfEMP1 proteins that
+are under dual selection for ICAM-1 and CD36 binding. They also support that the 
+UpsA group, in contrast to UpsB and UpsC var genes, has diverged from binding to 
+the major microvasculature receptor CD36 and likely uses other mechanisms to
+sequester in the microvasculature. These results demonstrate that CD36 and ICAM-1
+have left strong signatures of selection on the PfEMP1 family that can be
+detected by adhesion domain sequence classification and have implications for how
+this family of proteins is specializing to exploit hosts with varying levels of
+anti-malaria immunity.
+
+DOI: 10.1371/journal.ppat.1002032 
+PMCID: PMC3088720
+PMID: 21573138  [Indexed for MEDLINE]
+

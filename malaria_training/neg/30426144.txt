@@ -1,0 +1,50 @@
+
+1. J Mol Evol. 2018 Dec;86(9):646-654. doi: 10.1007/s00239-018-9875-3. Epub 2018 Nov
+13.
+
+Delineation of the Genera Haemoproteus and Plasmodium Using RNA-Seq and
+Multi-gene Phylogenetics.
+
+Toscani Field J(1), Weinberg J(2), Bensch S(3), Matta NE(4), Valkiūnas G(5),
+Sehgal RNM(2).
+
+Author information: 
+(1)Department of Biology, San Francisco State University, 1700 Holloway Ave, San 
+Francisco, CA, 94132, USA. jtoscanifield@ucmerced.edu.
+(2)Department of Biology, San Francisco State University, 1700 Holloway Ave, San 
+Francisco, CA, 94132, USA.
+(3)Department of Biology, Lund University, Ecology Building, 223 62, Lund,
+Sweden.
+(4)Sede Bogotá, Facultad de Ciencias, Departamento de Biología, Grupo de
+Investigación Caracterización genética e inmunología, Universidad Nacional de
+Colombia, Carrera 30 No. 45-03, Bogotá, 111321, Colombia.
+(5)Nature Research Centre, Akademijos 2, 08412, Vilnius 21, Lithuania.
+
+Members of the order Haemosporida are protist parasites that infect mammals,
+reptiles and birds. This group includes the causal agents of malaria, Plasmodium 
+parasites, the genera Leucocytozoon and Fallisia, as well as the species rich
+genus Haemoproteus with its two subgenera Haemoproteus and Parahaemoproteus. Some
+species of Haemoproteus cause severe disease in avian hosts, and these parasites 
+display high levels of diversity worldwide. This diversity emphasizes the need
+for accurate evolutionary information. Most molecular studies of wildlife
+haemosporidians use a bar coding approach by sequencing a fragment of the
+mitochondrial cytochrome b gene. This method is efficient at differentiating
+parasite lineages but insufficient for accurate phylogenetic inferences in highly
+diverse taxa such as haemosporidians. Recent studies have utilized multiple
+mitochondrial genes (cyt b, cox1 and cox3), sometimes combined with a few
+apicoplast and nuclear genes. These studies have been highly successful with one 
+notable exception: the evolutionary relationships of the genus Haemoproteus
+remain unresolved. Here we describe the transcriptome of Haemoproteus columbae
+and investigate its phylogenetic position recovered from a multi-gene dataset
+(600 genes). This genomic approach restricts the taxon sampling to 18 species of 
+apicomplexan parasites. We employed Bayesian inference and maximum likelihood
+methods of phylogenetic analyses and found H. columbae and a representative from 
+the subgenus Parahaemoproteus to be sister taxa. This result strengthens the
+hypothesis of genus Haemoproteus being monophyletic; however, resolving this
+question will require sequences of orthologs from, in particular, representatives
+of Leucocytozoon species.
+
+DOI: 10.1007/s00239-018-9875-3 
+PMCID: PMC6430206
+PMID: 30426144  [Indexed for MEDLINE]
+

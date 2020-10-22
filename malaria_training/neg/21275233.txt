@@ -1,0 +1,39 @@
+
+1. Parasite. 2010 Dec;17(4):273-83.
+
+Bioinformatic strategies to provide functional clues to the unknown genes in
+Plasmodium falciparum genome.
+
+Florent I(1), Maréchal E, Gascuel O, Bréhélin L.
+
+Author information: 
+(1)Centre National de la Recherche Scientifique/Muséum National d'Histoire
+Naturelle, FRE3206, Molécules de Communication et Adaptation des
+Micro-organismes, Adaptation des Protozoaires à leur Environnent, CP 52, 61, rue 
+Buffon, 75231 Paris Cedex 05, France. florent@mnhn.fr
+
+The fight against Plasmodium falciparum, the species responsible for 90% of the
+lethal forms of human malaria, took a new direction with the publication of its
+genome in 2002. However, the hopes that the genome should help bringing to the
+foreground the expected new "vaccines candidates" or "targets of new medicines"
+were disappointed by the low number of genes that could be functionally
+annotated--less than 40% upon the genome publication, just over 50% eight years
+later. This 10% gain of knowledge was made possible by the efforts of the entire 
+scientific community in many directions which include: the production of
+transcriptomic and proteomic profiles at various stages of the parasite
+development and in response to drug or stress treatments; the proteomic study of 
+subcellular compartments; the sequencing of numerous Plasmodium related species
+(allowing whole genome comparisons) and the sequencing of numerous P. falciparum 
+strains (allowing investigations of gene polymorphism). In parallel with this
+production of experimental biological data, the development of original mining
+tools adapted to the P falciparum specificities quickly appeared as a priority,
+as the performances of "classical" bioinformatic tools, used successfully for
+other genomes, had limited efficacy. This was the aim of the PlasmoExplore
+project launched in 2007. This brief review does not cover all efforts made by
+the international community to decipher the P falciparum genome but focuses on
+improvements and novel mining methods investigated by the PlasmoExplore
+consortium, and some of the lessons we could learn from these efforts.
+
+DOI: 10.1051/parasite/2010174273 
+PMID: 21275233  [Indexed for MEDLINE]
+

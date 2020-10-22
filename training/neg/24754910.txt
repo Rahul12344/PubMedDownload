@@ -1,0 +1,48 @@
+
+1. J Biomol Struct Dyn. 2015;33(4):749-69. doi: 10.1080/07391102.2014.909744. Epub
+2014 Apr 22.
+
+How good are ensembles in improving QSAR models? The case with eCoRIA.
+
+Khedkar VM(1), Joseph J, Pissurlenkar R, Saran A, Coutinho EC.
+
+Author information: 
+(1)a Department of Pharmaceutical Chemistry , Bombay College of Pharmacy ,
+Kalina, Santacruz (E), Mumbai 400098 , India.
+
+A conceptually new idea in quantitative structure-activity relationships (QSAR)
+which makes use of ensembles from molecular dynamics (MD) trajectories and
+information retrieved from enzyme-inhibitor binding thermodynamics is presented
+in this study. This new methodology, termed ensemble comparative residue
+interaction analysis (eCoRIA), attempts to overcome the current one chemical-one 
+structure-one parameter value dogma in computational chemistry by modeling the
+biological activity as a function of molecular descriptors derived from an
+ensemble of conformers of enzyme-inhibitor complexes. The approach is distinctly 
+different from the standard QSAR methodology which uses a single low-energy
+conformation or the properties averaged over a set of conformers to correlate
+with the activity. Each conformational ensemble derived from MD simulations is
+analyzed for the distribution of the non-bonded interaction energies (steric,
+electrostatic, and hydrophobic) along with solvation, strain, and entropic energy
+of the inhibitors with the individual amino acid residues in the receptor and
+these are correlated to the activity through a QSAR model. The scope of the new
+method is demonstrated with three diverse enzyme-inhibitor data-sets - glycogen
+phosphorylase b, human immunodeficiency virus-1 protease and cyclin-dependent
+kinase 2. The QSAR equations derived from the methodology have revealed all the
+structure activity relationships previously reported for these classes of
+molecules as well as uncovered some features that were hitherto unknown and may
+have a hidden role in driving the ligand-receptor-binding process. Impressive
+improvements in the predictions of affinity have been achieved compared to other 
+QSAR formalisms namely CoMFA, CoMSIA (receptor-independent QSAR techniques), and 
+CoRIA (a receptor-dependent QSAR technique). eCoRIA could provide an
+understanding of the thermodynamic properties influencing the ligand-receptor
+binding over a time scale as sampled by the MD simulation. The advantage of
+analyzing enzyme-inhibitor interaction energies in a statistical domain is that
+the noise due to inaccuracies in the potential energy functions can be reduced
+and mechanistically important interaction terms related to protein-ligand binding
+specificity can be identified which can assist the medicinal chemists in
+designing new molecules and biologists in studying the influence of
+position-specific mutations in the receptor on ligand binding.
+
+DOI: 10.1080/07391102.2014.909744 
+PMID: 24754910  [Indexed for MEDLINE]
+

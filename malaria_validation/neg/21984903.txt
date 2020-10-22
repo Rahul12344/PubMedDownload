@@ -1,0 +1,44 @@
+
+1. PLoS One. 2011;6(10):e25189. doi: 10.1371/journal.pone.0025189. Epub 2011 Oct 3.
+
+Identification of Plasmodium vivax proteins with potential role in invasion using
+sequence redundancy reduction and profile hidden Markov models.
+
+Restrepo-Montoya D(1), Becerra D, Carvajal-Patiño JG, Mongui A, Niño LF,
+Patarroyo ME, Patarroyo MA.
+
+Author information: 
+(1)Bioinformatics and Intelligent Systems Research Laboratory - BIOLISI,
+Universidad Nacional de Colombia, Bogotá D.C., Colombia.
+
+BACKGROUND: This study describes a bioinformatics approach designed to identify
+Plasmodium vivax proteins potentially involved in reticulocyte invasion.
+Specifically, different protein training sets were built and tuned based on
+different biological parameters, such as experimental evidence of secretion
+and/or involvement in invasion-related processes. A profile-based sequence method
+supported by hidden Markov models (HMMs) was then used to build classifiers to
+search for biologically-related proteins. The transcriptional profile of the P.
+vivax intra-erythrocyte developmental cycle was then screened using these
+classifiers.
+RESULTS: A bioinformatics methodology for identifying potentially secreted P.
+vivax proteins was designed using sequence redundancy reduction and probabilistic
+profiles. This methodology led to identifying a set of 45 proteins that are
+potentially secreted during the P. vivax intra-erythrocyte development cycle and 
+could be involved in cell invasion. Thirteen of the 45 proteins have already been
+described as vaccine candidates; there is experimental evidence of protein
+expression for 7 of the 32 remaining ones, while no previous studies of
+expression, function or immunology have been carried out for the additional 25.
+CONCLUSIONS: The results support the idea that probabilistic techniques like
+profile HMMs improve similarity searches. Also, different adjustments such as
+sequence redundancy reduction using Pisces or Cd-Hit allowed data clustering
+based on rational reproducible measurements. This kind of approach for selecting 
+proteins with specific functions is highly important for supporting large-scale
+analyses that could aid in the identification of genes encoding potential new
+target antigens for vaccine development and drug design. The present study has
+led to targeting 32 proteins for further testing regarding their ability to
+induce protective immune responses against P. vivax malaria.
+
+DOI: 10.1371/journal.pone.0025189 
+PMCID: PMC3184965
+PMID: 21984903  [Indexed for MEDLINE]
+

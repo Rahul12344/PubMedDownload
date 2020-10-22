@@ -1,0 +1,66 @@
+
+1. Sci Rep. 2018 May 29;8(1):8286. doi: 10.1038/s41598-018-26334-3.
+
+Nanopore sequencing of drug-resistance-associated genes in malaria parasites,
+Plasmodium falciparum.
+
+Runtuwene LR(1), Tuda JSB(2), Mongan AE(2), Makalowski W(3), Frith MC(1)(4)(5),
+Imwong M(6), Srisutham S(6), Nguyen Thi LA(7), Tuan NN(7), Eshita Y(8)(9), Maeda 
+R(10), Yamagishi J(11), Suzuki Y(12).
+
+Author information: 
+(1)Department of Computational Biology and Medical Sciences, Graduate School of
+Frontier Sciences, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba,
+277-8562, Japan.
+(2)Faculty of Medicine, Sam Ratulangi University, Kampus Unsrat, Bahu Manado,
+95115, Indonesia.
+(3)Institute of Bioinformatics, Faculty of Medicine, University of Münster,
+Niels-Stensen Strasse 14, Münster, 48149, Germany.
+(4)Artificial Intelligence Research Center, Advanced Industrial Science and
+Technology, 2-3-26, Aomi, Koto-ku, Tokyo, 135-0064, Japan.
+(5)AIST-Waseda CBBD-OIL, 3-4-1 Ookubo, Shinjuku-ku, Tokyo, 169-8555, Japan.
+(6)Department of Molecular Tropical Medicine and Genetics, Faculty of Tropical
+Medicine, Mahidol University, 420/6 Ratchawithi Road, Thung Phaya Thai,
+Ratchathewi, Bangkok, 10400, Thailand.
+(7)National Institute of Hygiene and Epidemiology, 1 Yersin Street, Hanoi,
+112800, Vietnam.
+(8)Division of Collaboration and Education, Research Center for Zoonosis Control,
+Hokkaido University, North 20, West 10 Kita-ku, Sapporo, Hokkaido, 001-0020,
+Japan.
+(9)Department of Medical Entomology, Faculty of Tropical Medicine, Mahidol
+University, 420/6 Ratchawithi Road, Thung Phaya Thai, Ratchathewi, Bangkok,
+10400, Thailand.
+(10)Division of Biomedical Science, Department of Basic Veterinary Medicine,
+Obihiro University of Agriculture and Veterinary Medicine, Nishi 2 Sen-11
+Inadacho, Obihiro, Hokkaido, 080-0834, Japan.
+(11)Global Station for Zoonosis Control, GI-CoRE, Hokkaido University, North 20, 
+West 10 Kita-ku, Sapporo, Hokkaido, 001-0020, Japan.
+(12)Department of Computational Biology and Medical Sciences, Graduate School of 
+Frontier Sciences, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba,
+277-8562, Japan. ysuzuki@k.u-tokyo.ac.jp.
+
+Here, we report the application of a portable sequencer, MinION, for genotyping
+the malaria parasite Plasmodium falciparum. In the present study, an amplicon
+mixture of nine representative genes causing resistance to anti-malaria drugs is 
+diagnosed. First, we developed the procedure for four laboratory strains (3D7,
+Dd2, 7G8, and K1), and then applied the developed procedure to ten clinical
+samples. We sequenced and re-sequenced the samples using the obsolete flow cell
+R7.3 and the most recent flow cell R9.4. Although the average base-call accuracy 
+of the MinION sequencer was 74.3%, performing >50 reads at a given position
+improves the accuracy of the SNP call, yielding a precision and recall rate of
+0.92 and 0.8, respectively, with flow cell R7.3. These numbers increased
+significantly with flow cell R9.4, in which the precision and recall are 1 and
+0.97, respectively. Based on the SNP information, the drug resistance status in
+ten clinical samples was inferred. We also analyzed K13 gene mutations from 54
+additional clinical samples as a proof of concept. We found that a novel
+amino-acid changing variation is dominant in this area. In addition, we performed
+a small population-based analysis using 3 and 5 cases (K13) and 10 and 5 cases
+(PfCRT) from Thailand and Vietnam, respectively. We identified distinct genotypes
+from the respective regions. This approach will change the standard methodology
+for the sequencing diagnosis of malaria parasites, especially in developing
+countries.
+
+DOI: 10.1038/s41598-018-26334-3 
+PMCID: PMC5974085
+PMID: 29844487  [Indexed for MEDLINE]
+

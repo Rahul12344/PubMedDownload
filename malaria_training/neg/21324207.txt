@@ -1,0 +1,40 @@
+
+1. BMC Genomics. 2011 Feb 17;12:116. doi: 10.1186/1471-2164-12-116.
+
+High-throughput 454 resequencing for allele discovery and recombination mapping
+in Plasmodium falciparum.
+
+Samarakoon U(1), Regier A, Tan A, Desany BA, Collins B, Tan JC, Emrich SJ, Ferdig
+MT.
+
+Author information: 
+(1)Department of Biological Sciences, Eck Institute for Global Health, University
+of Notre Dame, Notre Dame, IN 46556, USA.
+
+BACKGROUND: Knowledge of the origins, distribution, and inheritance of variation 
+in the malaria parasite (Plasmodium falciparum) genome is crucial for
+understanding its evolution; however the 81% (A+T) genome poses challenges to
+high-throughput sequencing technologies. We explore the viability of the Roche
+454 Genome Sequencer FLX (GS FLX) high throughput sequencing technology for both 
+whole genome sequencing and fine-resolution characterization of genetic exchange 
+in malaria parasites.
+RESULTS: We present a scheme to survey recombination in the haploid stage genomes
+of two sibling parasite clones, using whole genome pyrosequencing that includes a
+sliding window approach to predict recombination breakpoints. Whole genome
+shotgun (WGS) sequencing generated approximately 2 million reads, with an average
+read length of approximately 300 bp. De novo assembly using a combination of WGS 
+and 3 kb paired end libraries resulted in contigs ≤ 34 kb. More than 8,000 of the
+24,599 SNP markers identified between parents were genotyped in the progeny,
+resulting in a marker density of approximately 1 marker/3.3 kb and allowing for
+the detection of previously unrecognized crossovers (COs) and many non crossover 
+(NCO) gene conversions throughout the genome.
+CONCLUSIONS: By sequencing the 23 Mb genomes of two haploid progeny clones
+derived from a genetic cross at more than 30× coverage, we captured high
+resolution information on COs, NCOs and genetic variation within the progeny
+genomes. This study is the first to resequence progeny clones to examine fine
+structure of COs and NCOs in malaria parasites.
+
+DOI: 10.1186/1471-2164-12-116 
+PMCID: PMC3055840
+PMID: 21324207  [Indexed for MEDLINE]
+

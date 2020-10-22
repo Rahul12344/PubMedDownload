@@ -1,0 +1,56 @@
+
+1. Malar J. 2017 Jun 7;16(1):241. doi: 10.1186/s12936-017-1887-8.
+
+Plasmobase: a comparative database of predicted domain architectures for
+Plasmodium genomes.
+
+Bernardes J(1), Vaquero C(2), Carbone A(3)(4).
+
+Author information: 
+(1)Laboratoire de Biologie Computationnelle et Quantitative, UMR 7238, IBPS,
+CNRS, UPMC Univ-Paris 6, Sorbonne Universités, 4 place Jussieu, 75005, Paris,
+France.
+(2)Centre d' Immunologie et des Maladies Infectieuses (CIMI-Paris), CNRS ERL
+8255, INSERM U1135, UPMC Univ-Paris 6, Sorbonne Universités, Paris, France.
+(3)Laboratoire de Biologie Computationnelle et Quantitative, UMR 7238, IBPS,
+CNRS, UPMC Univ-Paris 6, Sorbonne Universités, 4 place Jussieu, 75005, Paris,
+France. alessandra.carbone@lip6.fr.
+(4)Institut Universitaire de France, 75005, Paris, France.
+alessandra.carbone@lip6.fr.
+
+BACKGROUND: With the availability of complete genome sequences of both human and 
+non-human Plasmodium parasites, it is now possible to use comparative genomics to
+look for orthology across Plasmodium species and for species specific genes. This
+comparative analyses could provide important clues for the development of new
+strategies to prevent and treat malaria in humans, however, the number of
+functionally annotated proteins is still low for all Plasmodium species. In the
+context of genomes that are hard to annotate because of sequence divergence, such
+as Plasmodium, domain co-occurrence becomes particularly important to trust
+predictions. In particular, domain architecture prediction can be used to improve
+the performance of existing annotation methods since homologous proteins might
+share their architectural context.
+RESULTS: Plasmobase is a unique database designed for the comparative study of
+Plasmodium genomes. Domain architecture reconstruction in Plasmobase relies on
+DAMA, the state-of-the-art method in architecture prediction, while domain
+annotation is realised with CLADE, a novel annotation tool based on a
+multi-source strategy. Plasmobase significantly increases the Pfam domain
+coverage of all Plasmodium genomes, it proposes new domain architectures as well 
+as new domain families that have never been reported before for these genomes. It
+proposes a visualization of domain architectures and allows for an easy
+comparison among architectures within Plasmodium species and with other species, 
+described in UniProt.
+CONCLUSIONS: Plasmobase is a valuable new resource for domain annotation in
+Plasmodium genomes. Its graphical presentation of protein sequences, based on
+domain architectures, will hopefully be of interest for comparative genomic
+studies. It should help to discover species-specific genes, possibly underlying
+important phenotypic differences between parasites, and orthologous gene families
+for deciphering the biology of these complex and important Apicomplexan
+organisms. In conclusion, Plasmobase is a flexible and rich site where any
+biologist can find something of his/her own interest.
+AVAILABILITY: Plasmobase is accessible at http://genome.lcqb.upmc.fr/plasmobase/ 
+.
+
+DOI: 10.1186/s12936-017-1887-8 
+PMCID: PMC5463329
+PMID: 28592293  [Indexed for MEDLINE]
+

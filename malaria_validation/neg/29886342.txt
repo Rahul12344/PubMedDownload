@@ -1,0 +1,40 @@
+
+1. Parasitol Int. 2018 Oct;67(5):605-608. doi: 10.1016/j.parint.2018.06.002. Epub
+2018 Jun 8.
+
+CRISPR/Cas9 system in Plasmodium falciparum using the centromere plasmid.
+
+Payungwoung T(1), Shinzawa N(2), Hino A(2), Nishi T(2), Murata Y(1), Yuda M(1),
+Iwanaga S(3).
+
+Author information: 
+(1)Department of Medical Zoology, Mie University School of Medicine, Tsu
+514-0001, Mie, Japan.
+(2)Department of Environmental Parasitology, Graduate School of Medical and
+Dental Sciences, Tokyo Medical and Dental University, 1-5-45 Yushima, Bunkyo-ku
+Tokyo 113-8519, Japan.
+(3)Department of Environmental Parasitology, Graduate School of Medical and
+Dental Sciences, Tokyo Medical and Dental University, 1-5-45 Yushima, Bunkyo-ku
+Tokyo 113-8519, Japan. Electronic address: iwanaga.vip@tmd.ac.jp.
+
+The CRISPR/Cas9 nuclease system is a powerful method to genetically modify the
+human malarial parasite, Plasmodium falciparum. Currently, this method is carried
+out by co-transfection with two plasmids, one containing the Cas9 nuclease gene, 
+and another encoding the sgRNA and the donor template DNA. However, the
+efficiency of modification is currently low owing to the low frequency of these
+plasmids in the parasites. To improve the CRISPR/Cas9 nuclease system for P.
+falciparum, we developed a novel method using the transgenic parasite, PfCAS9,
+which stably expresses the Cas9 nuclease using the centromere plasmid. To examine
+the efficiency of genetic modification using the PfCAS9 parasite, we performed
+site-directed mutagenesis of kelch13 gene, which is considered to be involved in 
+artemisinin resistance. Our results demonstrated that the targeted mutation could
+be introduced with almost 100% efficiency when the transfected PfCAS9 parasites
+were treated with two drugs to maintain both the centromere plasmid containing
+the Cas9 nuclease and the plasmid having the sgRNA. Therefore, the PfCAS9
+parasite is a useful parasite line for the genetic modification of P. falciparum.
+
+Copyright © 2018. Published by Elsevier B.V.
+
+DOI: 10.1016/j.parint.2018.06.002 
+PMID: 29886342  [Indexed for MEDLINE]
+

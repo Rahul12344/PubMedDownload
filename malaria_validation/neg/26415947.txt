@@ -1,0 +1,60 @@
+
+1. Genome Biol. 2015 Sep 28;16:212. doi: 10.1186/s13059-015-0771-5.
+
+The PfAlba1 RNA-binding protein is an important regulator of translational timing
+in Plasmodium falciparum blood stages.
+
+Vembar SS(1)(2)(3), Macpherson CR(4)(5)(6), Sismeiro O(7), Coppée JY(7), Scherf
+A(8)(9)(10).
+
+Author information: 
+(1)Unité Biologie des Interactions Hôte-Parasite, Département de Parasites et
+Insectes Vecteurs, Institut Pasteur, Paris, 75015, France.
+shruthi-sridhar.vembar@pasteur.fr.
+(2)CNRS, ERL 9195, Paris, 75015, France. shruthi-sridhar.vembar@pasteur.fr.
+(3)INSERM, UMR 1201, Paris, 75015, France. shruthi-sridhar.vembar@pasteur.fr.
+(4)Unité Biologie des Interactions Hôte-Parasite, Département de Parasites et
+Insectes Vecteurs, Institut Pasteur, Paris, 75015, France.
+(5)CNRS, ERL 9195, Paris, 75015, France.
+(6)INSERM, UMR 1201, Paris, 75015, France.
+(7)Plate-forme 2, Transcriptome et Epigenome, Institut Pasteur, Paris, 75015,
+France.
+(8)Unité Biologie des Interactions Hôte-Parasite, Département de Parasites et
+Insectes Vecteurs, Institut Pasteur, Paris, 75015, France.
+artur.scherf@pasteur.fr.
+(9)CNRS, ERL 9195, Paris, 75015, France. artur.scherf@pasteur.fr.
+(10)INSERM, UMR 1201, Paris, 75015, France. artur.scherf@pasteur.fr.
+
+Comment in
+    Genome Biol. 2015;16:221.
+
+BACKGROUND: Transcriptome-wide ribosome occupancy studies have suggested that
+during the intra-erythrocytic lifecycle of Plasmodium falciparum, select mRNAs
+are post-transcriptionally regulated. A subset of these encodes parasite
+virulence factors required for invading host erythrocytes, and are currently
+being developed as vaccine candidates. However, the molecular mechanisms that
+govern post-transcriptional regulation are currently unknown.
+RESULTS: We explore the previously identified DNA/RNA-binding protein PfAlba1,
+which localizes to multiple foci in the cytoplasm of P. falciparum trophozoites. 
+We establish that PfAlba1 is essential for asexual proliferation, and
+subsequently investigate parasites overexpressing epitope-tagged PfAlba1 to
+identify its RNA targets and effects on mRNA homeostasis and translational
+regulation. Using deep sequencing of affinity-purified PfAlba1-associated RNAs,
+we identify 1193 transcripts that directly bind to PfAlba1 in trophozoites. For
+105 such transcripts, 43 % of which are uncharacterized and 13 % of which encode 
+erythrocyte invasion components, the steady state levels significantly change at 
+this stage, evidencing a role for PfAlba1 in maintaining mRNA homeostasis.
+Additionally, we discover that binding of PfAlba1 to four erythrocyte invasion
+mRNAs, Rap1, RhopH3, CDPK1, and AMA1, is linked to translation repression in
+trophozoites whereas release of these mRNAs from a PfAlba1 complex in mature
+stages correlates with protein synthesis.
+CONCLUSIONS: We show that PfAlba1 binds to a sub-population of asexual stage
+mRNAs and fine-tunes the timing of translation. This mode of post-transcriptional
+regulation may be especially important for P. falciparum erythrocyte invasion
+components that have to be assembled into apical secretory organelles in a highly
+time-dependent manner towards the end of the parasite's asexual lifecycle.
+
+DOI: 10.1186/s13059-015-0771-5 
+PMCID: PMC4587749
+PMID: 26415947  [Indexed for MEDLINE]
+

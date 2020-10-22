@@ -1,0 +1,60 @@
+
+1. Antimicrob Agents Chemother. 2018 Sep 24;62(10). pii: e00725-18. doi:
+10.1128/AAC.00725-18. Print 2018 Oct.
+
+Development and Validation of a Phenotypic High-Content Imaging Assay for
+Assessing the Antiviral Activity of Small-Molecule Inhibitors Targeting Zika
+Virus.
+
+Bernatchez JA(1)(2), Yang Z(3), Coste M(4), Li J(3), Beck S(1), Liu Y(3), Clark
+AE(1)(5), Zhu Z(6)(7), Luna LA(4), Sohl CD(4), Purse BW(4), Li R(8),
+Siqueira-Neto JL(9)(2).
+
+Author information: 
+(1)Skaggs School of Pharmacy and Pharmaceutical Sciences, University of
+California, San Diego, La Jolla, California, USA.
+(2)Center for Discovery and Innovation in Parasitic Diseases, University of
+California, San Diego, La Jolla, California, USA.
+(3)Department of Pharmaceutical Sciences, University of Nebraska Medical Center, 
+Omaha, Nebraska, USA.
+(4)Department of Chemistry and Biochemistry, San Diego State University, San
+Diego, California, USA.
+(5)Department of Cellular and Molecular Medicine, University of California, San
+Diego, La Jolla, California, USA.
+(6)Sanford Consortium for Regenerative Medicine, La Jolla, California, USA.
+(7)Department of Medicine, Division of Regenerative Medicine, School of Medicine,
+University of California, San Diego, La Jolla, California, USA.
+(8)Department of Pharmaceutical Sciences, University of Nebraska Medical Center, 
+Omaha, Nebraska, USA rongshi.li@unmc.edu jairlage@ucsd.edu.
+(9)Skaggs School of Pharmacy and Pharmaceutical Sciences, University of
+California, San Diego, La Jolla, California, USA rongshi.li@unmc.edu
+jairlage@ucsd.edu.
+
+Zika virus (ZIKV) has been linked to the development of microcephaly in newborns,
+as well as Guillain-Barré syndrome. There are currently no drugs available to
+treat ZIKV infection, and accordingly, there is an unmet medical need for the
+discovery of new therapies. High-throughput drug screening efforts focusing on
+indirect readouts of cell viability are prone to a higher frequency of false
+positives in cases where the virus is viable in the cell but the cytopathic
+effect (CPE) is reduced or delayed. Here, we describe a fast and label-free
+phenotypic high-content imaging assay to detect cells affected by the
+virus-induced CPE using automated imaging and analysis. Protection from the CPE
+correlates with a decrease in viral antigen production, as observed by
+immunofluorescence. We trained our assay using a collection of nucleoside
+analogues with activity against ZIKV; the previously reported antiviral
+activities of 2'-C-methylribonucleosides and ribavirin against the Zika virus in 
+Vero cells were confirmed using our developed method. To validate the ability of 
+our assay to reveal new anti-ZIKV compounds, we profiled a novel library of 24
+natural product derivatives and found compound 1 to be an inhibitor of the
+ZIKV-induced cytopathic effect; the activity of the compound was confirmed in
+human fetal neural stem cells (NSCs). The described technique can be easily
+leveraged as a primary screening assay for profiling of the activities of large
+compound libraries against ZIKV and can be expanded to other ZIKV strains and
+other cell lines displaying morphological changes upon ZIKV infection.
+
+Copyright © 2018 American Society for Microbiology.
+
+DOI: 10.1128/AAC.00725-18 
+PMCID: PMC6153842
+PMID: 30061280  [Indexed for MEDLINE]
+

@@ -1,0 +1,43 @@
+
+1. Mol Med Rep. 2019 Jul;20(1):417-432. doi: 10.3892/mmr.2019.10300. Epub 2019 May
+27.
+
+Bioinformatics analysis of a long non‑coding RNA and mRNA regulation network in
+rats with middle cerebral artery occlusion based on RNA sequencing.
+
+Duan X(1), Han L(2), Peng D(2), Peng C(2), Xiao L(3), Bao Q(3), Peng H(2).
+
+Author information: 
+(1)Department of Pharmacy, The First Affiliated Hospital of Anhui University of
+Chinese Medicine, Hefei, Anhui 230031, P.R. China.
+(2)School of Pharmacy, Anhui University of Chinese Medicine, Hefei, Anhui 230012,
+P.R. China.
+(3)School of Pharmacy, China Pharmaceutical University, Nanjing, Jiangsu 211198, 
+P.R. China.
+
+Long non‑coding RNAs (lncRNAs) have been proven to be critical gene regulators of
+development and disease. The main aim of the present study was to elucidate the
+lncRNA‑mRNA regulation network in ischemic stroke induced by middle cerebral
+artery occlusion (MCAO) using RNA sequencing (RNA‑seq) in rats. lncRNA expression
+profiles were screened in brain tissues to identify a number of differentially
+expressed lncRNAs (DELs) and genes (DEGs) by RNA‑seq. Reverse
+transcription‑quantitative polymerase chain reaction was performed to further
+confirm the lncRNA expression data. Furthermore, Gene Ontology (GO) and Kyoto
+Encyclopedia of Genes and Genomes (KEGG) pathway analysis were used to mine mRNA 
+functions, and a lncRNA‑mRNA network was constructed. Additionally, cis‑ and
+trans‑regulatory gene analyses of DELs were predicted. A total of 134 DELs (fold 
+change >2, false discovery rate <0.05) and 1,006 DEGs (fold change >2 and P<0.05)
+were identified. Eighteen lncRNAs were predicted to regulate heme oxygenase 1,
+mitotic checkpoint serine/threonine kinase B, chemokine ligand 2 and DNA
+Topoisomerase IIα, amongst other genes. These genes are all associated with a
+cellular response to inorganic substances, alkaloids, estradiol, reactive oxygen 
+species, metal ions, oxidative stress, and are associated with metabolic
+pathways, chemokine signaling pathways, malaria, Parkinson's disease, the cell
+cycle and other GO and KEGG pathway enrichments. The present study identifies
+novel DELs and an lncRNA‑mRNA regulatory network that may allow for an improved
+understanding of the molecular mechanism of ischemic stroke induced by MCAO.
+
+DOI: 10.3892/mmr.2019.10300 
+PMCID: PMC6580035
+PMID: 31180537  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+1. Elife. 2020 Aug 20;9. pii: e50807. doi: 10.7554/eLife.50807.
+
+The NTP generating activity of pyruvate kinase II is critical for apicoplast
+maintenance in Plasmodium falciparum.
+
+Swift RP(1), Rajaram K(1), Keutcha C(1), Liu HB(1), Kwan B(1), Dziedzic A(1),
+Jedlicka AE(1), Prigge ST(1).
+
+Author information: 
+(1)Department of Molecular Microbiology and Immunology, Johns Hopkins Bloomberg
+School of Public Health, Baltimore, United States.
+
+The apicoplast of Plasmodium falciparum parasites is believed to rely on the
+import of three-carbon phosphate compounds for use in organelle anabolic
+pathways, in addition to the generation of energy and reducing power within the
+organelle. We generated a series of genetic deletions in an apicoplast metabolic 
+bypass line to determine which genes involved in apicoplast carbon metabolism are
+required for blood-stage parasite survival and organelle maintenance. We found
+that pyruvate kinase II (PyrKII) is essential for organelle maintenance, but that
+production of pyruvate by PyrKII is not responsible for this phenomenon.
+Enzymatic characterization of PyrKII revealed activity against all NDPs and dNDPs
+tested, suggesting that it may be capable of generating a broad range of
+nucleotide triphosphates. Conditional mislocalization of PyrKII resulted in
+decreased transcript levels within the apicoplast that preceded organelle
+disruption, suggesting that PyrKII is required for organelle maintenance due to
+its role in nucleotide triphosphate generation.
+
+© 2020, Swift et al.
+
+DOI: 10.7554/eLife.50807 
+PMCID: PMC7556864
+PMID: 32815516 
+
+Conflict of interest statement: RS, KR, CK, HL, BK, AD, AJ, SP No competing
+interests declared
+

@@ -1,0 +1,72 @@
+
+1. PLoS Negl Trop Dis. 2019 Sep 16;13(9):e0007609. doi:
+10.1371/journal.pntd.0007609. eCollection 2019 Sep.
+
+A global genotyping survey of Strongyloides stercoralis and Strongyloides
+fuelleborni using deep amplicon sequencing.
+
+Barratt JLN(1)(2), Lane M(1)(3), Talundzic E(4), Richins T(5), Robertson G(6),
+Formenti F(7), Pritt B(8), Verocai G(9), Nascimento de Souza J(10), Mato Soares
+N(10), Traub R(11), Buonfrate D(7), Bradbury RS(1).
+
+Author information: 
+(1)Division of Parasitic Diseases and Malaria, Parasitic Diseases Branch, Centers
+for Disease Control and Prevention, Atlanta, Georgia, United States of America.
+(2)Oak Ridge Associated Universities, Oak Ridge, Tennessee, United States of
+America.
+(3)Synergy America Inc., Atlanta, Georgia, United States of America.
+(4)Franklin College of Arts and Sciences, University of Georgia, Athens, Georgia,
+United States of America.
+(5)Rollins School of Public Health, Emory University, Atlanta, Georgia, United
+States of America.
+(6)Forensic and Scientific Services, Health Support Queensland, Brisbane,
+Queensland, Australia.
+(7)Department of Infectious-Tropical Diseases and Microbiology, IRCCS Sacro Cuore
+Don Calabria Hospital, Negrar, Verona, Italy.
+(8)Mayo Clinic, Rochester, Minnesota, United States of America.
+(9)College of Veterinary Medicine and Biomedical Sciences, Texas A&M University, 
+Texas, United States of America.
+(10)Faculdade de Farmacia, Universidade Federal da Bahia, Bahia, Brazil.
+(11)Faculty of Veterinary Science, University of Melbourne, Victoria, Australia.
+
+Strongyloidiasis is a neglected tropical disease caused by the human infective
+nematodes Strongyloides stercoralis, Strongyloides fuelleborni fuelleborni and
+Strongyloides fuelleborni kellyi. Previous large-scale studies exploring the
+genetic diversity of this important genus have focused on Southeast Asia, with a 
+small number of isolates from the USA, Switzerland, Australia and several African
+countries having been genotyped. Consequently, little is known about the global
+distribution of geographic sub-variants of these nematodes and the genetic
+diversity that exists within the genus Strongyloides generally. We extracted DNA 
+from human, dog and primate feces containing Strongyloides, collected from
+several countries representing all inhabited continents. Using a genotyping assay
+adapted for deep amplicon sequencing on the Illumina MiSeq platform, we sequenced
+the hyper-variable I and hyper-variable IV regions of the Strongyloides 18S rRNA 
+gene and a fragment of the mitochondrial cytochrome c oxidase subunit 1 (cox1)
+gene from these specimens. We report several novel findings including unique S.
+stercoralis and S. fuelleborni genotypes, and the first identifications of a
+previously unknown S. fuelleborni infecting humans within Australia. We expand on
+an existing Strongyloides genotyping scheme to accommodate S. fuelleborni and
+these novel genotypes. In doing so, we compare our data to all 18S and cox1
+sequences of S. fuelleborni and S. stercoralis available in GenBank (to our
+knowledge), that overlap with the sequences generated using our approach. As this
+analysis represents more than 1,000 sequences collected from diverse hosts and
+locations, representing all inhabited continents, it allows a truly global
+understanding of the population genetic structure of the Strongyloides species
+infecting humans, non-human primates, and domestic dogs.
+
+DOI: 10.1371/journal.pntd.0007609 
+PMCID: PMC6762204
+PMID: 31525192  [Indexed for MEDLINE]
+
+Conflict of interest statement: RB is a co-author on the following International 
+Patent: #PCT/US2018/052469. Talundzic E, Bradbury R, Olsen C, Flaherty B.
+Removing Interfering Host Nucleic Acids for Molecular Parasite Detection.
+Meredith Lane is employed by Synergy America as a contractor to provide
+laboratory technical service to the Division of Parasitic Diseases and Malaria at
+the Centers for Disease Control and Prevention. In this capacity, there are no
+competing Interests in Ms. Lane's employment at Synergy and her authorship of
+this paper. Meredith Lane is correctly affiliated to this company (Synergy
+America). Meredith Lane and Synergy America hold no consultancies or patents and 
+have no products in development or marketed products that are competing interests
+with this publication.
+

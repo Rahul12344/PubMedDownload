@@ -1,0 +1,40 @@
+
+1. Sci Rep. 2016 Feb 9;6:20498. doi: 10.1038/srep20498.
+
+New insights into the Plasmodium vivax transcriptome using RNA-Seq.
+
+Zhu L(1), Mok S(1), Imwong M(2)(3), Jaidee A(4), Russell B(5), Nosten F(3)(4),
+Day NP(2)(3), White NJ(2)(3), Preiser PR(1), Bozdech Z(1).
+
+Author information: 
+(1)School of Biological Sciences, Nanyang Technological University, Singapore.
+(2)Mahidol-Oxford Tropical Medicine Research Unit, Faculty of Tropical Medicine, 
+Mahidol University, Bangkok, Thailand.
+(3)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Medicine, University of Oxford, Oxford, UK.
+(4)Shoklo Malaria Research Unit, Mahidol-Oxford Tropical Medicine Research Unit, 
+Faculty of Tropical Medicine, Mahidol University, Mae Sot, Thailand.
+(5)Yong Loo Lin School of Medicine, National University Singapore, Singapore.
+
+Historically seen as a benign disease, it is now becoming clear that Plasmodium
+vivax can cause significant morbidity. Effective control strategies targeting P. 
+vivax malaria is hindered by our limited understanding of vivax biology. Here we 
+established the P. vivax transcriptome of the Intraerythrocytic Developmental
+Cycle (IDC) of two clinical isolates in high resolution by Illumina HiSeq
+platform. The detailed map of transcriptome generates new insights into
+regulatory mechanisms of individual genes and reveals their intimate relationship
+with specific biological functions. A transcriptional hotspot of vir genes
+observed on chromosome 2 suggests a potential active site modulating immune
+evasion of the Plasmodium parasite across patients. Compared to other eukaryotes,
+P. vivax genes tend to have unusually long 5' untranslated regions and also
+present multiple transcription start sites. In contrast, alternative splicing is 
+rare in P. vivax but its association with the late schizont stage suggests some
+of its significance for gene function. The newly identified transcripts,
+including up to 179 vir like genes and 3018 noncoding RNAs suggest an important
+role of these gene/transcript classes in strain specific transcriptional
+regulation.
+
+DOI: 10.1038/srep20498 
+PMCID: PMC4746618
+PMID: 26858037  [Indexed for MEDLINE]
+

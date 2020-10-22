@@ -1,0 +1,41 @@
+
+1. Proc Natl Acad Sci U S A. 2012 Aug 7;109(32):13052-7. doi:
+10.1073/pnas.1210585109. Epub 2012 Jul 23.
+
+Sequence-based association and selection scans identify drug resistance loci in
+the Plasmodium falciparum malaria parasite.
+
+Park DJ(1), Lukens AK, Neafsey DE, Schaffner SF, Chang HH, Valim C, Ribacke U,
+Van Tyne D, Galinsky K, Galligan M, Becker JS, Ndiaye D, Mboup S, Wiegand RC,
+Hartl DL, Sabeti PC, Wirth DF, Volkman SK.
+
+Author information: 
+(1)Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA.
+dpark@broadinstitute.org
+
+Through rapid genetic adaptation and natural selection, the Plasmodium falciparum
+parasite--the deadliest of those that cause malaria--is able to develop
+resistance to antimalarial drugs, thwarting present efforts to control it.
+Genome-wide association studies (GWAS) provide a critical hypothesis-generating
+tool for understanding how this occurs. However, in P. falciparum, the limited
+amount of linkage disequilibrium hinders the power of traditional array-based
+GWAS. Here, we demonstrate the feasibility and power improvements gained by using
+whole-genome sequencing for association studies. We analyzed data from 45
+Senegalese parasites and identified genetic changes associated with the
+parasites' in vitro response to 12 different antimalarials. To further increase
+statistical power, we adapted a common test for natural selection, XP-EHH
+(cross-population extended haplotype homozygosity), and used it to identify
+genomic regions associated with resistance to drugs. Using this sequence-based
+approach and the combination of association and selection-based tests, we
+detected several loci associated with drug resistance. These loci included the
+previously known signals at pfcrt, dhfr, and pfmdr1, as well as many genes not
+previously implicated in drug-resistance roles, including genes in the
+ubiquitination pathway. Based on the success of the analysis presented in this
+study, and on the demonstrated shortcomings of array-based approaches, we argue
+for a complete transition to sequence-based GWAS for small, low
+linkage-disequilibrium genomes like that of P. falciparum.
+
+DOI: 10.1073/pnas.1210585109 
+PMCID: PMC3420184
+PMID: 22826220  [Indexed for MEDLINE]
+

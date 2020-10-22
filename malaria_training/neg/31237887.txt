@@ -1,0 +1,55 @@
+
+1. PLoS One. 2019 Jun 25;14(6):e0218203. doi: 10.1371/journal.pone.0218203.
+eCollection 2019.
+
+Anopheles gambiae TEP1 forms a complex with the coiled-coil domain of LRIM1/APL1C
+following a conformational change in the thioester domain.
+
+Williams M(1)(2), Contet A(1)(2), Hou CD(3), Levashina EA(4), Baxter
+RHG(1)(2)(3).
+
+Author information: 
+(1)Dept. of Chemistry, Yale University, New Haven, Connecticut, United States of 
+America.
+(2)Dept. of Molecular Biophysics & Biochemistry, Yale University, New Haven,
+Connecticut, United States of America.
+(3)Dept. of Medical Genetics & Molecular Biochemistry, Lewis Katz School of
+Medicine at Temple University, Philadelphia, Pennsylvania, United States of
+America.
+(4)Vector Biology Unit, Max Planck Institute for Infection Biology, Berlin,
+Germany.
+
+The complement-like protein thioester-containing protein 1 (TEP1) is a key factor
+in the immune response of the malaria vector Anopheles gambiae to pathogens.
+Multiple allelic variants of TEP1 have been identified in laboratory strains and 
+in the field, and are correlated with distinct immunophenotypes. TEP1 is tightly 
+regulated by conformational changes induced by cleavage in a protease-sensitive
+region. Cleaved TEP1 forms exhibit significant variation in stability from hours 
+to days at room temperature. In particular, the refractory allele TEP1*R1 is
+significantly more stable than the susceptible allele TEP1*S1. This raises the
+question of whether the stability of cleaved TEP1 is linked to allelic variation 
+and varying immunophenotypes. We have analyzed the stability of the cleaved form 
+of additional TEP1 alleles and constructs. We show that stability is correlated
+with allelic variation within two specific loops in direct proximity to the
+thioester bond. The variable loops are part of an interface between the TED and
+MG8 domains of TEP1 that protect the thioester from hydrolysis. Engineering
+specific disulfide bonds to prevent separation of the TED-MG8 interface
+stabilizes the cleaved form of TEP1 for months at room temperature. Cleaved TEP1 
+forms a soluble complex with a heterodimer of two leucine-rich repeat proteins,
+LRIM1 and APL1C, and precipitates in the absence of this complex. The molecular
+structure and oligomeric state of the TEP1/LRIM1/APL1C complex is unclear. The
+C-terminal coiled-coil domain of the LRIM1/APL1C complex is sufficient to
+stabilize the cleaved form of TEP1 in solution but cleaved forms of
+disulfide-stabilized TEP1 do not interact with LRIM1/APL1C. This implies that
+formation of the TEP1cut/LRIM1/APL1C complex is related to the conformational
+change that induces the precipitation of cleaved TEP1.
+
+DOI: 10.1371/journal.pone.0218203 
+PMCID: PMC6592522
+PMID: 31237887  [Indexed for MEDLINE]
+
+Conflict of interest statement: MW declares the following potential competing
+interest: Shift Health (paid employment). AC declares the following potential
+competing interest: Pierre Fabre (paid employment) This does not alter our
+adherence to PLOS ONE policies on sharing data and materials.
+

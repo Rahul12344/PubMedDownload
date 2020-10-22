@@ -1,0 +1,59 @@
+
+1. Ann Transl Med. 2020 Aug;8(16):997. doi: 10.21037/atm-20-5171.
+
+Identification of hub genes in diabetic kidney disease via multiple-microarray
+analysis.
+
+Zhang Y(1)(2), Li W(1)(2)(3), Zhou Y(1)(2)(4).
+
+Author information: 
+(1)Department of Endocrinology, Zhongda Hospital, Southeast University, Nanjing, 
+China.
+(2)Institute of Diabetes, Medical School, Southeast University, Nanjing, China.
+(3)Suzhou Hospital Affiliated To Anhui Medical University, Suzhou, China.
+(4)Department of Endocrinology, Nanjing First Hospital, Nanjing Medical
+University, Nanjing, China.
+
+Background: Diabetic kidney disease (DKD) is a leading cause of end-stage renal
+disease; however, the underlying molecular mechanisms remain unclear. Recently,
+bioinformatics analysis has provided a comprehensive insight toward the molecular
+mechanisms of DKD. Here, we re-analyzed three mRNA microarray datasets including 
+a single-cell RNA sequencing (scRNA-seq) dataset, with the aim of identifying
+crucial genes correlated with DKD and contribute to a better understanding of DKD
+pathogenesis.
+Methods: Three datasets including GSE131882, GSE30122, and GSE30529 were utilized
+to find differentially expressed genes (DEGs). The potential functions of DEGs
+were analyzed by the Gene Ontology (GO) and Kyoto Encyclopedia of Genes and
+Genomes (KEGG) pathway enrichment analysis. A protein-protein interaction (PPI)
+network was constructed, and hub genes were selected with the top three molecular
+complex detection (MCODE) score. A correlation analysis between hub genes and
+clinical indicators was also performed.
+Results: In total, 84 upregulated DEGs and 49 downregulated DEGs were identified.
+Enriched pathways of the upregulated DEGs included extracellular matrix (ECM)
+receptor interaction, focal adhesion, human papillomavirus infection, malaria,
+and cell adhesion molecules. The downregulated DEGs were mainly enriched in
+ascorbate and aldarate metabolism, arginine and proline metabolism, endocrine-
+and other factor-regulated calcium reabsorption, mineral absorption and longevity
+regulating pathway, and multiple species signaling pathway. Seventeen hub genes
+were identified, and correlation analysis between unexplored hub genes and
+clinical features of DKD suggested that EGF, KNG1, GADD45B, and CDH2 might have
+reno-protective roles in DKD. Meanwhile, ATF3, B2M, VCAM1, CLDN4, SPP1, SOX9,
+JAG1, C3, and CD24 might promote the progression of DKD. Finally, most hub genes 
+were found present in the immune cells of diabetic kidneys, which suggest the
+important role of inflammation infiltration in DKD pathogenesis.
+Conclusions: In this study, we found seventeen hub genes using a scRNA-seq
+contained multiple-microarray analysis, which enriched the present understanding 
+of molecular mechanisms underlying the pathogenesis of DKD in cells' level and
+provided candidate targets for diagnosis and treatment of DKD.
+
+2020 Annals of Translational Medicine. All rights reserved.
+
+DOI: 10.21037/atm-20-5171 
+PMCID: PMC7475500
+PMID: 32953797 
+
+Conflict of interest statement: Conflicts of Interest: All authors have completed
+the ICMJE uniform disclosure form (available at
+http://dx.doi.org/10.21037/atm-20-5171). The authors have no conflicts of
+interest to declare.
+

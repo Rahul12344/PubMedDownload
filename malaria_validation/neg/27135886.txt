@@ -1,0 +1,45 @@
+
+1. Mol Ecol. 2016 Jul;25(14):3436-52. doi: 10.1111/mec.13673. Epub 2016 Jun 15.
+
+The P450 CYP6Z1 confers carbamate/pyrethroid cross-resistance in a major African 
+malaria vector beside a novel carbamate-insensitive N485I acetylcholinesterase-1 
+mutation.
+
+Ibrahim SS(1), Ndula M(1), Riveron JM(1), Irving H(1), Wondji CS(1).
+
+Author information: 
+(1)Vector Biology Department, Liverpool School of Tropical Medicine, Pembroke
+Place, Liverpool, L3 5QA, UK.
+
+Carbamates are increasingly used for vector control notably in areas with
+pyrethroid resistance. However, a cross-resistance between these insecticides in 
+major malaria vectors such as Anopheles funestus could severely limit available
+resistance management options. Unfortunately, the molecular basis of such
+cross-resistance remains uncharacterized in An. funestus, preventing effective
+resistance management. Here, using a genomewide transcription profiling, we
+revealed that metabolic resistance through upregulation of cytochrome P450 genes 
+is driving carbamate resistance. The P450s CYP6P9a, CYP6P9b and CYP6Z1 were the
+most upregulated detoxification genes in the multiple resistant mosquitoes.
+However, in silico docking simulations predicted CYP6Z1 to metabolize both
+pyrethroids and carbamates, whereas CYP6P9a and CYP6P9b were predicted to
+metabolize only the pyrethroids. Using recombinant enzyme metabolism and
+inhibition assays, we demonstrated that CYP6Z1 metabolizes bendiocarb and
+pyrethroids, whereas CYP6P9a and CYP6P9b metabolize only the pyrethroids. Other
+upregulated gene families in resistant mosquitoes included several cuticular
+protein genes suggesting a possible reduced penetration resistance mechanism.
+Investigation of the target-site resistance in acetylcholinesterase 1 (ace-1)
+gene detected and established the association between the new N485I mutation and 
+bendiocarb resistance (odds ratio 7.3; P < 0.0001). The detection of multiple
+haplotypes in single mosquitoes after cloning suggested the duplication of ace-1.
+A TaqMan genotyping of the N485I in nine countries revealed that the mutation is 
+located only in southern Africa with frequency of 10-15% suggesting its recent
+occurrence. These findings will help in monitoring the spread and evolution of
+carbamate resistance and improve the design of effective resistance management
+strategies to control this malaria vector.
+
+© 2016 The Authors. Molecular Ecology Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/mec.13673 
+PMCID: PMC4950264
+PMID: 27135886  [Indexed for MEDLINE]
+

@@ -1,0 +1,53 @@
+
+1. PLoS Pathog. 2020 Aug 3;16(8):e1008717. doi: 10.1371/journal.ppat.1008717.
+eCollection 2020 Aug.
+
+Genomic and transcriptomic evidence for descent from Plasmodium and loss of blood
+schizogony in Hepatocystis parasites from naturally infected red colobus monkeys.
+
+Aunin E(1), Böhme U(1), Sanderson T(2), Simons ND(3), Goldberg TL(4), Ting N(3), 
+Chapman CA(5)(6)(7), Newbold CI(1)(8), Berriman M(1), Reid AJ(1).
+
+Author information: 
+(1)Parasite Genomics, Wellcome Sanger Institute, Hinxton, Cambridge, United
+Kingdom.
+(2)Malaria Biochemistry Laboratory, The Francis Crick Institute, London, United
+Kingdom.
+(3)Department of Anthropology and Institute of Ecology and Evolution, University 
+of Oregon, Eugene, Oregon, United States of America.
+(4)Department of Pathobiological Sciences, School of Veterinary Medicine,
+University of Wisconsin-Madison, Madison, Wisconsin, United States of America.
+(5)Department of Anthropology, Center for the Advanced Study of Human
+Paleobiology, The George Washington University, Washington DC, United States of
+America.
+(6)Shaanxi Key Laboratory for Animal Conservation, Northwest University, Xi'an,
+China.
+(7)School of Life Sciences, University of KwaZulu-Natal, Scottsville,
+Pietermaritzburg, South Africa.
+(8)Weatherall Institute of Molecular Medicine, University of Oxford, John
+Radcliffe Hospital, Oxford, United Kingdom.
+
+Hepatocystis is a genus of single-celled parasites infecting, amongst other
+hosts, monkeys, bats and squirrels. Although thought to have descended from
+malaria parasites (Plasmodium spp.), Hepatocystis spp. are thought not to undergo
+replication in the blood-the part of the Plasmodium life cycle which causes the
+symptoms of malaria. Furthermore, Hepatocystis is transmitted by biting midges,
+not mosquitoes. Comparative genomics of Hepatocystis and Plasmodium species
+therefore presents an opportunity to better understand some of the most important
+aspects of malaria parasite biology. We were able to generate a draft genome for 
+Hepatocystis sp. using DNA sequencing reads from the blood of a naturally
+infected red colobus monkey. We provide robust phylogenetic support for
+Hepatocystis sp. as a sister group to Plasmodium parasites infecting rodents. We 
+show transcriptomic support for a lack of replication in the blood and genomic
+support for a complete loss of a family of genes involved in red blood cell
+invasion. Our analyses highlight the rapid evolution of genes involved in
+parasite vector stages, revealing genes that may be critical for interactions
+between malaria parasites and mosquitoes.
+
+DOI: 10.1371/journal.ppat.1008717 
+PMCID: PMC7425995
+PMID: 32745123  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,51 @@
+
+1. J Virol. 2014 May;88(10):5834-44. doi: 10.1128/JVI.00155-14. Epub 2014 Mar 12.
+
+Identification of cellular proteins interacting with the retroviral restriction
+factor SAMHD1.
+
+St Gelais C(1), de Silva S, Hach JC, White TE, Diaz-Griffero F, Yount JS, Wu L.
+
+Author information: 
+(1)Center for Retrovirus Research, Department of Veterinary Biosciences, The Ohio
+State University, Columbus, Ohio, USA.
+
+Erratum in
+    J Virol. 2014 Jul;88(13):7689.
+
+Human and mouse SAMHD1 proteins block human immunodeficiency virus type 1 (HIV-1)
+infection in noncycling human monocytic cells by reducing the intracellular
+deoxynucleoside triphosphate (dNTP) concentrations. Phosphorylation of human
+SAMHD1 at threonine 592 (T592) by cyclin-dependent kinase 1 (CDK1) and cyclin A2 
+impairs its HIV-1 restriction activity, but not the dNTP hydrolase activity,
+suggesting that dNTP depletion is not the sole mechanism of SAMHD1-mediated HIV-1
+restriction. Using coimmunoprecipitation and mass spectrometry, we identified and
+validated two additional host proteins interacting with human SAMHD1, namely,
+cyclin-dependent kinase 2 (CDK2) and S-phase kinase-associated protein 2 (SKP2). 
+We observed that mouse SAMHD1 specifically interacted with cyclin A2, cyclin B1, 
+CDK1, and CDK2. Given the role of these SAMHD1-interacting proteins in cell cycle
+progression, we investigated the regulation of these host proteins by monocyte
+differentiation and activation of CD4+ T cells and examined their effect on the
+phosphorylation of human SAMHD1 at T592. Our results indicate that primary
+monocyte differentiation and CD4+ T-cell activation regulate the expression of
+these SAMHD1-interacting proteins. Furthermore, our results suggest that, in
+addition to CDK1 and cyclin A2, CDK2 phosphorylates T592 of human SAMHD1 and
+thereby regulates its HIV-1 restriction function.IMPORTANCE: SAMHD1 is the first 
+dNTP triphosphohydrolase found in mammalian cells. Human and mouse SAMHD1
+proteins block HIV-1 infection in noncycling cells. Previous studies suggested
+that phosphorylation of human SAMHD1 at threonine 592 by CDK1 and cyclin A2
+negatively regulates its HIV-1 restriction activity. However, it is unclear
+whether human SAMHD1 interacts with other host proteins in the cyclin A2 and CDK1
+complex and whether mouse SAMHD1 shares similar cellular interacting partners.
+Here, we identify five cell cycle-related host proteins that interact with human 
+and mouse SAMHD1, including three previously unknown cellular proteins (CDK2,
+cyclin B1, and SKP2). Our results demonstrate that several SAMHD1-interacting
+cellular proteins regulate phosphorylation of SAMHD1 and play an important role
+in HIV-1 restriction function. Our findings help define the role of these
+cellular interacting partners of SAMHD1 that regulate its HIV-1 restriction
+function.
+
+DOI: 10.1128/JVI.00155-14 
+PMCID: PMC4019113
+PMID: 24623419  [Indexed for MEDLINE]
+

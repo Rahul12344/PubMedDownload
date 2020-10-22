@@ -1,0 +1,39 @@
+
+1. PLoS Pathog. 2012;8(5):e1002678. doi: 10.1371/journal.ppat.1002678. Epub 2012 May
+24.
+
+Comparative genomics reveals two novel RNAi factors in Trypanosoma brucei and
+provides insight into the core machinery.
+
+Barnes RL(1), Shi H, Kolev NG, Tschudi C, Ullu E.
+
+Author information: 
+(1)Department of Internal Medicine, Yale University, New Haven, Connecticut, USA.
+
+The introduction ten years ago of RNA interference (RNAi) as a tool for molecular
+exploration in Trypanosoma brucei has led to a surge in our understanding of the 
+pathogenesis and biology of this human parasite. In particular, a genome-wide
+RNAi screen has recently been combined with next-generation Illumina sequencing
+to expose catalogues of genes associated with loss of fitness in distinct
+developmental stages. At present, this technology is restricted to RNAi-positive 
+protozoan parasites, which excludes T. cruzi, Leishmania major, and Plasmodium
+falciparum. Therefore, elucidating the mechanism of RNAi and identifying the
+essential components of the pathway is fundamental for improving RNAi efficiency 
+in T. brucei and for transferring the RNAi tool to RNAi-deficient pathogens. Here
+we used comparative genomics of RNAi-positive and -negative trypanosomatid
+protozoans to identify the repertoire of factors in T. brucei. In addition to the
+previously characterized Argonaute 1 (AGO1) protein and the cytoplasmic and
+nuclear Dicers, TbDCL1 and TbDCL2, respectively, we identified the RNA
+Interference Factors 4 and 5 (TbRIF4 and TbRIF5). TbRIF4 is a 3'-5' exonuclease
+of the DnaQ superfamily and plays a critical role in the conversion of duplex
+siRNAs to the single-stranded form, thus generating a TbAGO1-siRNA complex
+required for target-specific cleavage. TbRIF5 is essential for cytoplasmic RNAi
+and appears to act as a TbDCL1 cofactor. The availability of the core RNAi
+machinery in T. brucei provides a platform to gain mechanistic insights in this
+ancient eukaryote and to identify the minimal set of components required to
+reconstitute RNAi in RNAi-deficient parasites.
+
+DOI: 10.1371/journal.ppat.1002678 
+PMCID: PMC3359990
+PMID: 22654659  [Indexed for MEDLINE]
+

@@ -1,0 +1,36 @@
+
+1. Biochem Biophys Res Commun. 2010 Feb 26;393(1):131-6. doi:
+10.1016/j.bbrc.2010.01.100. Epub 2010 Feb 1.
+
+Real-time monitoring of RNA helicase activity using fluorescence resonance energy
+transfer in vitro.
+
+Tani H(1), Fujita O, Furuta A, Matsuda Y, Miyata R, Akimitsu N, Tanaka J, Tsuneda
+S, Sekiguchi Y, Noda N.
+
+Author information: 
+(1)Department of Life Science and Medical Bio-Science, Waseda University,
+Shinjuku-ku, Tokyo 162-8480, Japan.
+
+We have developed a continuous fluorescence assay based on fluorescence resonance
+energy transfer (FRET) for the monitoring of RNA helicase activity in vitro. The 
+assay is tested using the hepatitis C virus (HCV) NS3 helicase as a model. We
+prepared a double-stranded RNA (dsRNA) substrate with a 5' fluorophore-labeled
+strand hybridized to a 3' quencher-labeled strand. When the dsRNA is unwound by
+helicase, the fluorescence of the fluorophore is emitted following the separation
+of the strands. Unlike in conventional gel-based assays, this new assay
+eliminates the complex and time-consuming steps, and can be used to simply
+measure the real-time kinetics in a single helicase reaction. Our results
+demonstrate that Alexa Fluor 488 and BHQ1 are an effective fluorophore-quencher
+pair, and this assay is suitable for the quantitative measurement of the RNA
+helicase activity of HCV NS3. Moreover, we found that several extracts of marine 
+organisms exhibited different inhibitory effects on the RNA and DNA helicase
+activities of HCV NS3. We propose that this assay will be useful for monitoring
+the detailed kinetics of RNA unwinding mechanisms and screening RNA helicase
+inhibitors at high throughput.
+
+Copyright 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2010.01.100 
+PMID: 20117090  [Indexed for MEDLINE]
+

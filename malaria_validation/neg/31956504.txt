@@ -1,0 +1,46 @@
+
+1. Metab Eng Commun. 2020 Jan 2;10:e00121. doi: 10.1016/j.mec.2019.e00121.
+eCollection 2020 Jun.
+
+Debottlenecking mevalonate pathway for antimalarial drug precursor amorphadiene
+biosynthesis in Yarrowia lipolytica.
+
+Marsafari M(1), Xu P(1).
+
+Author information: 
+(1)Department of Chemical, Biochemical and Environmental Engineering, University 
+of Maryland Baltimore County, Baltimore, MD, 21250, USA.
+
+World Health Organization reports that half of the population in developing
+countries are at risk of malaria infection. Artemisinin, the most potent
+anti-malaria drug, is a sesquiterpene endoperoxide extracted from the plant
+Artemisia annua. Due to scalability and economics issues, plant extraction or
+chemical synthesis could not provide a sustainable route for large-scale
+manufacturing of artemisinin. The price of artemisinin has been fluctuating from 
+200$/Kg to 1100$/Kg, due to geopolitical and climate factors. Microbial
+fermentation was considered as a promising method to stabilize the artemisinin
+supply chain. Yarrowia lipolytica, is an oleaginous yeast with proven capacity to
+produce large quantity of lipids and oleochemicals. In this report, the lipogenic
+acetyl-CoA pathways and the endogenous mevalonate pathway of Y. lipolytica were
+harnessed for amorphadiene production. Gene overexpression indicate that HMG-CoA 
+and acetyl-CoA supply are two limiting bottlenecks for amorphadiene production.
+We have identified the optimal HMG-CoA reductase and determined the optimal gene 
+copy number for the precursor pathways. Amorphadiene production was improved
+further by either inhibiting fatty acids synthase or activating the fatty acid
+degradation pathway. With co-expression of mevalonate kinase (encoded by Erg12), 
+a push-and-pull strategy enabled the engineered strain to produce 171.5 ​mg/L of 
+amorphadiene in shake flasks. These results demonstrate that balancing carbon
+flux and manipulation of precursor competing pathways are key factors to improve 
+amorphadiene biosynthesis in oleaginous yeast; and Y. lipolytica is a promising
+microbial host to expand nature's biosynthetic capacity, allowing us to quickly
+access antimalarial drug precursors.
+
+© 2020 The Authors.
+
+DOI: 10.1016/j.mec.2019.e00121 
+PMCID: PMC6957783
+PMID: 31956504 
+
+Conflict of interest statement: A provisional patent has been filed based on the 
+results of this study.
+

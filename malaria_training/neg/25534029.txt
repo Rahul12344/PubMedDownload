@@ -1,0 +1,52 @@
+
+1. Mol Biol Evol. 2015 Apr;32(4):1080-90. doi: 10.1093/molbev/msu397. Epub 2014 Dec 
+21.
+
+Pooled sequencing and rare variant association tests for identifying the
+determinants of emerging drug resistance in malaria parasites.
+
+Cheeseman IH(1), McDew-White M(2), Phyo AP(3), Sriprawat K(3), Nosten F(4),
+Anderson TJ(1).
+
+Author information: 
+(1)Texas Biomedical Research Institute, San Antonio, TX ianc@txbiomedgenetics.org
+tanderso@txbiomedgenetics.org.
+(2)Texas Biomedical Research Institute, San Antonio, TX.
+(3)Shoklo Malaria Research Unit, Mahidol-Oxford Tropical Medicine Research Unit, 
+Faculty of Tropical Medicine, Mahidol University, Mae Sot, Thailand.
+(4)Shoklo Malaria Research Unit, Mahidol-Oxford Tropical Medicine Research Unit, 
+Faculty of Tropical Medicine, Mahidol University, Mae Sot, Thailand Centre for
+Tropical Medicine, Nuffield Department of Medicine, University of Oxford, Oxford,
+United Kingdom.
+
+We explored the potential of pooled sequencing to swiftly and economically
+identify selective sweeps due to emerging artemisinin (ART) resistance in a
+South-East Asian malaria parasite population. ART resistance is defined by slow
+parasite clearance from the blood of ART-treated patients and mutations in the
+kelch gene (chr. 13) have been strongly implicated to play a role. We constructed
+triplicate pools of 70 slow-clearing (resistant) and 70 fast-clearing (sensitive)
+infections collected from the Thai-Myanmar border and sequenced these to high (∼ 
+150-fold) read depth. Allele frequency estimates from pools showed almost perfect
+correlation (Lin's concordance = 0.98) with allele frequencies at 93 single
+nucleotide polymorphisms measured directly from individual infections, giving us 
+confidence in the accuracy of this approach. By mapping genome-wide divergence
+(FST) between pools of drug-resistant and drug-sensitive parasites, we identified
+two large (>150 kb) regions (on chrs. 13 and 14) and 17 smaller candidate genome 
+regions. To identify individual genes within these genome regions, we resequenced
+an additional 38 parasite genomes (16 slow and 22 fast-clearing) and performed
+rare variant association tests. These confirmed kelch as a major molecular marker
+for ART resistance (P = 6.03 × 10(-6)). This two-tier approach is powerful
+because pooled sequencing rapidly narrows down genome regions of interest, while 
+targeted rare variant association testing within these regions can pinpoint the
+genetic basis of resistance. We show that our approach is robust to recurrent
+mutation and the generation of soft selective sweeps, which are predicted to be
+common in pathogen populations with large effective population sizes, and may
+confound more traditional gene mapping approaches.
+
+© The Author 2014. Published by Oxford University Press on behalf of the Society 
+for Molecular Biology and Evolution.
+
+DOI: 10.1093/molbev/msu397 
+PMCID: PMC4379400
+PMID: 25534029  [Indexed for MEDLINE]
+

@@ -1,0 +1,52 @@
+
+1. Sci Rep. 2015 Jun 2;5:10833. doi: 10.1038/srep10833.
+
+CRISPR/Cas9 cleavage of viral DNA efficiently suppresses hepatitis B virus.
+
+Ramanan V(1), Shlomai A(2), Cox DB(3), Schwartz RE(4), Michailidis E(2), Bhatta
+A(2), Scott DA(5), Zhang F(6), Rice CM(2), Bhatia SN(7).
+
+Author information: 
+(1)Department of Health Sciences and Technology, Massachusetts Institute of
+Technology, Cambridge, MA 02139, USA.
+(2)Laboratory of Virology and Infectious Disease, Center for the Study of
+Hepatitis C, The Rockefeller University, New York, NY 10065, USA.
+(3)1] Department of Health Sciences and Technology, Massachusetts Institute of
+Technology, Cambridge, MA 02139, USA [2] Broad Institute, Cambridge, MA 02139,
+USA [3] Department of Biology, Massachusetts Institute of Technology, Cambridge, 
+MA 02139.
+(4)1] Department of Health Sciences and Technology, Massachusetts Institute of
+Technology, Cambridge, MA 02139, USA [2] Department of Medicine, Brigham and
+Women's Hospital, Boston, MA 02115, USA [3] Division of Gastroenterology and
+Hepatology, Weill Cornell Medical College, New York, NY 10065, USA.
+(5)1] Broad Institute, Cambridge, MA 02139, USA [2] McGovern Institute for Brain 
+Research, Massachusetts Institute of Technology, Cambridge, MA 02139.
+(6)1] Department of Health Sciences and Technology, Massachusetts Institute of
+Technology, Cambridge, MA 02139, USA [2] Broad Institute, Cambridge, MA 02139,
+USA [3] Department of Brain and Cognitive Sciences, Massachusetts Institute of
+Technology, Cambridge, MA 02139 [4] McGovern Institute for Brain Research,
+Massachusetts Institute of Technology, Cambridge, MA 02139.
+(7)1] Department of Health Sciences and Technology, Massachusetts Institute of
+Technology, Cambridge, MA 02139, USA [2] Department of Medicine, Brigham and
+Women's Hospital, Boston, MA 02115, USA [3] Department of Electrical Engineering 
+and Computer Science, Massachusetts Institute of Technology, Cambridge, MA 02139,
+USA [4] Broad Institute, Cambridge, MA 02139, USA [5] Howard Hughes Medical
+Institute, Cambridge, MA 02139, USA [6] Koch Institute for Integrative Cancer
+Research, Massachusetts Institute of Technology, Cambridge, MA 02139, USA.
+
+Chronic hepatitis B virus (HBV) infection is prevalent, deadly, and seldom cured 
+due to the persistence of viral episomal DNA (cccDNA) in infected cells. Newly
+developed genome engineering tools may offer the ability to directly cleave viral
+DNA, thereby promoting viral clearance. Here, we show that the CRISPR/Cas9 system
+can specifically target and cleave conserved regions in the HBV genome, resulting
+in robust suppression of viral gene expression and replication. Upon sustained
+expression of Cas9 and appropriately chosen guide RNAs, we demonstrate cleavage
+of cccDNA by Cas9 and a dramatic reduction in both cccDNA and other parameters of
+viral gene expression and replication. Thus, we show that directly targeting
+viral episomal DNA is a novel therapeutic approach to control the virus and
+possibly cure patients.
+
+DOI: 10.1038/srep10833 
+PMCID: PMC4649911
+PMID: 26035283  [Indexed for MEDLINE]
+

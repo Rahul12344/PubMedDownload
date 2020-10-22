@@ -1,0 +1,70 @@
+
+1. Nat Microbiol. 2019 Sep;4(9):1592-1602. doi: 10.1038/s41564-019-0474-x. Epub 2019
+Jun 17.
+
+Modelling pathogen load dynamics to elucidate mechanistic determinants of
+host-Plasmodium falciparum interactions.
+
+Georgiadou A(1), Lee HJ(2)(3), Walther M(4), van Beek AE(5)(6), Fitriani F(1),
+Wouters D(5)(7), Kuijpers TW(6)(8), Nwakanma D(4), D'Alessandro U(4), Riley
+EM(9)(10), Otto TD(11), Ghani A(12), Levin M(1), Coin LJ(2), Conway DJ(13),
+Bretscher MT(12)(14), Cunnington AJ(15).
+
+Author information: 
+(1)Section of Paediatrics, Imperial College, London, UK.
+(2)Institute for Molecular Bioscience, University of Queensland, Brisbane,
+Queensland, Australia.
+(3)QIMR Berghofer Medical Research Institute, Brisbane, Queensland, Australia.
+(4)Medical Research Council Unit, Fajara, The Gambia at the London School of
+Hygiene and Tropical Medicine, Fajara, The Gambia.
+(5)Department of Immunopathology, Sanquin Research and Landsteiner Laboratory,
+Amsterdam University Medical Centre, University of Amsterdam, Amsterdam, The
+Netherlands.
+(6)Department of Pediatric Hematology, Immunology and Infectious Diseases, Emma
+Children's Hospital, Amsterdam University Medical Centre, Amsterdam, The
+Netherlands.
+(7)Centre for Infectious Disease Control, National Institute for Public Health
+and the Environment, Bilthoven, The Netherlands.
+(8)Department of Blood Cell Research, Sanquin Research and Landsteiner
+Laboratory, Amsterdam University Medical Centre, University of Amsterdam,
+Amsterdam, The Netherlands.
+(9)The Roslin Institute and the Royal (Dick) School of Veterinary Studies,
+University of Edinburgh, Edinburgh, UK.
+(10)Department of Immunology and Infection, London School of Hygiene and Tropical
+Medicine, London, UK.
+(11)Centre of Immunobiology, Institute of Infection, Immunity & Inflammation,
+College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow,
+UK.
+(12)MRC Centre for Global Infectious Disease Analysis, Imperial College, London, 
+UK.
+(13)Department of Pathogen Molecular Biology, London School of Hygiene and
+Tropical Medicine, London, UK.
+(14)F. Hoffmann-La Roche Ltd., Basel, Switzerland.
+(15)Section of Paediatrics, Imperial College, London, UK.
+a.cunnington@imperial.ac.uk.
+
+During infection, increasing pathogen load stimulates both protective and harmful
+aspects of the host response. The dynamics of this interaction are hard to
+quantify in humans, but doing so could improve understanding of the mechanisms of
+disease and protection. We sought to model the contributions of the parasite
+multiplication rate and host response to observed parasite load in individual
+subjects infected with Plasmodium falciparum malaria, using only data obtained at
+the time of clinical presentation, and then to identify their mechanistic
+correlates. We predicted higher parasite multiplication rates and lower host
+responsiveness in cases of severe malaria, with severe anaemia being more
+insidious than cerebral malaria. We predicted that parasite-growth inhibition was
+associated with platelet consumption, lower expression of CXCL10 and type 1
+interferon-associated genes, but increased cathepsin G and matrix
+metallopeptidase 9 expression. We found that cathepsin G and matrix
+metallopeptidase 9 directly inhibit parasite invasion into erythrocytes. The
+parasite multiplication rate was associated with host iron availability and
+higher complement factor H levels, lower expression of gametocyte-associated
+genes but higher expression of translation-associated genes in the parasite. Our 
+findings demonstrate the potential of using explicit modelling of pathogen load
+dynamics to deepen understanding of host-pathogen interactions and identify
+mechanistic correlates of protection.
+
+DOI: 10.1038/s41564-019-0474-x 
+PMCID: PMC6708439
+PMID: 31209307  [Indexed for MEDLINE]
+

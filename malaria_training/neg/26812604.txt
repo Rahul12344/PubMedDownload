@@ -1,0 +1,56 @@
+
+1. PLoS Negl Trop Dis. 2016 Jan 26;10(1):e0004401. doi:
+10.1371/journal.pntd.0004401. eCollection 2016 Jan.
+
+Yeast-Based High-Throughput Screens to Identify Novel Compounds Active against
+Brugia malayi.
+
+Bilsland E(1)(2), Bean DM(1), Devaney E(3), Oliver SG(1).
+
+Author information: 
+(1)Cambridge Systems Biology Centre and Department of Biochemistry, University of
+Cambridge, Cambridge, United Kingdom.
+(2)Department of Structural and Functional Biology, Institute of Biology,
+UNICAMP, Campinas, São Paulo, Brazil.
+(3)Institute of Biodiversity, Animal Health and Comparative Medicine, University 
+of Glasgow, Glasgow, United Kingdom.
+
+BACKGROUND: Lymphatic filariasis is caused by the parasitic worms Wuchereria
+bancrofti, Brugia malayi or B. timori, which are transmitted via the bites from
+infected mosquitoes. Once in the human body, the parasites develop into adult
+worms in the lymphatic vessels, causing severe damage and swelling of the
+affected tissues. According to the World Health Organization, over 1.2 billion
+people in 58 countries are at risk of contracting lymphatic filariasis. Very few 
+drugs are available to treat patients infected with these parasites, and these
+have low efficacy against the adult stages of the worms, which can live for 7-15 
+years in the human body. The requirement for annual treatment increases the risk 
+of drug-resistant worms emerging, making it imperative to develop new drugs
+against these devastating diseases.
+METHODOLOGY/PRINCIPAL FINDINGS: We have developed a yeast-based, high-throughput 
+screening system whereby essential yeast genes are replaced with their filarial
+or human counterparts. These strains are labeled with different fluorescent
+proteins to allow the simultaneous monitoring of strains with parasite or human
+genes in competition, and hence the identification of compounds that inhibit the 
+parasite target without affecting its human ortholog. We constructed yeast
+strains expressing eight different Brugia malayi drug targets (as well as seven
+of their human counterparts), and performed medium-throughput drug screens for
+compounds that specifically inhibit the parasite enzymes. Using the Malaria Box
+collection (400 compounds), we identified nine filarial specific inhibitors and
+confirmed the antifilarial activity of five of these using in vitro assays
+against Brugia pahangi.
+CONCLUSIONS/SIGNIFICANCE: We were able to functionally complement yeast deletions
+with eight different Brugia malayi enzymes that represent potential drug targets.
+We demonstrated that our yeast-based screening platform is efficient in
+identifying compounds that can discriminate between human and filarial enzymes.
+Hence, we are confident that we can extend our efforts to the construction of
+strains with further filarial targets (in particular for those species that
+cannot be cultivated in the laboratory), and perform high-throughput drug screens
+to identify specific inhibitors of the parasite enzymes. By establishing
+synergistic collaborations with researchers working directly on different
+parasitic worms, we aim to aid antihelmintic drug development for both human and 
+veterinary infections.
+
+DOI: 10.1371/journal.pntd.0004401 
+PMCID: PMC4727890
+PMID: 26812604  [Indexed for MEDLINE]
+

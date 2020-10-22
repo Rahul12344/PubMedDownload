@@ -1,0 +1,35 @@
+
+1. Int J Biostat. 2018 Jun 7;15(2). pii:
+/j/ijb.2019.15.issue-2/ijb-2017-0061/ijb-2017-0061.xml. doi:
+10.1515/ijb-2017-0061.
+
+Unfolding the Genome: The Case Study of P. falciparum.
+
+Varoquaux N(1)(2).
+
+Author information: 
+(1)Statistics, University of California, Berkeley, 367 Evans Hall, Berkeley,
+California, USA.
+(2)Berkeley Institute for Data Science, 190, Doe library Berkeley, United States 
+of America.
+
+The development of new ways to probe samples for the three-dimensional (3D)
+structure of DNA paves the way for in depth and systematic analyses of the genome
+architecture. 3C-like methods coupled with high-throughput sequencing can now
+assess physical interactions between pairs of loci in a genome-wide fashion, thus
+enabling the creation of genome-by-genome contact maps. The spreading of such
+protocols creates many new opportunities for methodological development: how can 
+we infer 3D models from these contact maps? Can such models help us gain insights
+into biological processes? Several recent studies applied such protocols to P.
+falciparum (the deadliest of the five human malaria parasites), assessing its
+genome organization at different moments of its life cycle. With its small
+genomic size, fairly simple (yet changing) genomic organization during its
+lifecyle and strong correlation between chromatin folding and gene expression,
+this parasite is the ideal case study for applying and developing methods to
+infer 3D models and use them for downstream analysis. Here, I review a set of
+methods used to build and analyse three-dimensional models from contact maps data
+with a special highlight on P. falciparum's genome organization.
+
+DOI: 10.1515/ijb-2017-0061 
+PMID: 29878883 
+

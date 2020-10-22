@@ -1,0 +1,46 @@
+
+1. Nat Commun. 2019 Oct 4;10(1):4512. doi: 10.1038/s41467-019-12294-3.
+
+Adaptation of Plasmodium falciparum to humans involved the loss of an
+ape-specific erythrocyte invasion ligand.
+
+Proto WR(1), Siegel SV(1), Dankwa S(2), Liu W(3)(4), Kemp A(1), Marsden S(1),
+Zenonos ZA(1), Unwin S(5)(6), Sharp PM(7), Wright GJ(1), Hahn BH(3)(4),
+Duraisingh MT(2), Rayner JC(8)(9).
+
+Author information: 
+(1)Malaria Programme, Wellcome Sanger Institute, Wellcome Genome Campus,
+Cambridge, CB10 1SA, UK.
+(2)Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of 
+Public Health, Boston, MA, USA.
+(3)Departments of Medicine and Microbiology, University of Pennsylvania,
+Philadelphia, PA, 19104, USA.
+(4)Department of Microbiology, University of Pennsylvania, Philadelphia, PA,
+19104, USA.
+(5)Chester Zoo, Chester, CH2 1LH, UK.
+(6)School of Biosciences, University of Birmingham, Edgbaston, B15 2TT, UK.
+(7)Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, UK.
+(8)Malaria Programme, Wellcome Sanger Institute, Wellcome Genome Campus,
+Cambridge, CB10 1SA, UK. julian.rayner@sanger.ac.uk.
+(9)Cambridge Institute for Medical Research, University of Cambridge, Hills Road,
+Cambridge, CB2 0XY, UK. julian.rayner@sanger.ac.uk.
+
+Plasmodium species are frequently host-specific, but little is currently known
+about the molecular factors restricting host switching. This is particularly
+relevant for P. falciparum, the only known human-infective species of the
+Laverania sub-genus, all other members of which infect African apes. Here we show
+that all tested P. falciparum isolates contain an inactivating mutation in an
+erythrocyte invasion associated gene, PfEBA165, the homologues of which are
+intact in all ape-infective Laverania species. Recombinant EBA165 proteins only
+bind ape, not human, erythrocytes, and this specificity is due to differences in 
+erythrocyte surface sialic acids. Correction of PfEBA165 inactivating mutations
+by genome editing yields viable parasites, but is associated with down regulation
+of both PfEBA165 and an adjacent invasion ligand, which suggests that PfEBA165
+expression is incompatible with parasite growth in human erythrocytes.
+Pseudogenization of PfEBA165 may represent a key step in the emergence and
+evolution of P. falciparum.
+
+DOI: 10.1038/s41467-019-12294-3 
+PMCID: PMC6778099
+PMID: 31586047  [Indexed for MEDLINE]
+

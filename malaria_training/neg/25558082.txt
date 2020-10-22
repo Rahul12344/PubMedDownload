@@ -1,0 +1,47 @@
+
+1. J Appl Ecol. 2013 Oct;50(5):1216-1225. Epub 2013 Jul 23.
+
+Modelling the spatial spread of a homing endonuclease gene in a mosquito
+population.
+
+North A(1), Burt A(2), Godfray HC(1).
+
+Author information: 
+(1)Department of Zoology, University of Oxford South Parks Road, Oxford, OX1 3PS,
+UK.
+(2)Department of Biology, Imperial College London Silwood Park, Ascot, Berks, SL5
+7PY, UK.
+
+SUMMARY: Homing endonuclease genes (HEGs) exist naturally in many single-celled
+organisms and can show extremely strong genetic drive allowing them to spread
+through populations into which they are introduced. They are being investigated
+as tools to manipulate the populations of important vectors of human disease, in 
+particular the mosquitoes that transmit malaria. Before HEGs can be deployed, it 
+is important to study their spatial spread in order to design efficient release
+strategies.A spatially explicit model is developed to study the spread of a HEG
+through a landscape whose structure is defined by the distribution of mosquito
+breeding and feeding sites. The model is motivated by the biology of the major
+vectors of malaria in Africa. The conditions for spread, fixation and loss of two
+major types of HEG are explored in different landscapes.In landscapes where
+mosquito resources are abundant, the conditions for spread are well approximated 
+by a mean-field model. Where a HEG imposes a genetic load, it can cause
+population extinction, though spatial models more often predict population
+suppression.In certain types of landscapes where mosquito resources are rare, an 
+introduced HEG may be prevented from moving between local mosquito populations
+and so a simple release strategy is unlikely to be effective, yet if the HEG
+succeeds in spreading population extinction is a feasible outcome. Increasing the
+number of release sites at the expense of releasing fewer mosquitoes per site
+reduces the probability that a HEG will fail.Synthesis and applications. The
+model presented asks for the first time how the spatial structure of mosquito
+populations will influence the effectiveness of a technology that is being
+rapidly developed for vector control. If homing endonuclease genes (HEGs) are to 
+be used in this way, we have qualified the importance of accounting for landscape
+characteristics in both the execution and the expectation of their application.
+The next stage is to use the model to study the spread of HEGs through real
+landscapes where releases may take place, something that will be facilitated by
+the results of the present study.
+
+DOI: 10.1111/1365-2664.12133 
+PMCID: PMC4277857
+PMID: 25558082 
+

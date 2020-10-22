@@ -1,0 +1,42 @@
+
+1. PLoS Genet. 2017 Sep 28;13(9):e1007023. doi: 10.1371/journal.pgen.1007023.
+eCollection 2017 Sep.
+
+High rate of adaptation of mammalian proteins that interact with Plasmodium and
+related parasites.
+
+Ebel ER(1), Telis N(2), Venkataram S(1), Petrov DA(1), Enard D(1).
+
+Author information: 
+(1)Department of Biology, Stanford University, Stanford, California, United
+States of America.
+(2)Program in Biomedical Informatics, Stanford University, Stanford, California, 
+United States of America.
+
+Plasmodium parasites, along with their Piroplasm relatives, have caused
+malaria-like illnesses in terrestrial mammals for millions of years. Several
+Plasmodium-protective alleles have recently evolved in human populations, but
+little is known about host adaptation to blood parasites over deeper evolutionary
+timescales. In this work, we analyze mammalian adaptation in ~500 Plasmodium- or 
+Piroplasm- interacting proteins (PPIPs) manually curated from the scientific
+literature. We show that (i) PPIPs are enriched for both immune functions and
+pleiotropy with other pathogens, and (ii) the rate of adaptation across mammals
+is significantly elevated in PPIPs, compared to carefully matched control
+proteins. PPIPs with high pathogen pleiotropy show the strongest signatures of
+adaptation, but this pattern is fully explained by their immune enrichment.
+Several pieces of evidence suggest that blood parasites specifically have imposed
+selection on PPIPs. First, even non-immune PPIPs that lack interactions with
+other pathogens have adapted at twice the rate of matched controls. Second, PPIP 
+adaptation is linked to high expression in the liver, a critical organ in the
+parasite life cycle. Finally, our detailed investigation of alpha-spectrin, a
+major red blood cell membrane protein, shows that domains with particularly high 
+rates of adaptation are those known to interact specifically with P. falciparum. 
+Overall, we show that host proteins that interact with Plasmodium and Piroplasm
+parasites have experienced elevated rates of adaptation across mammals, and
+provide evidence that some of this adaptation has likely been driven by blood
+parasites.
+
+DOI: 10.1371/journal.pgen.1007023 
+PMCID: PMC5634635
+PMID: 28957326  [Indexed for MEDLINE]
+

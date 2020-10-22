@@ -1,0 +1,42 @@
+
+1. Mol Biol Evol. 2019 Jan 1;36(1):177-199. doi: 10.1093/molbev/msy202.
+
+Detection of Shared Balancing Selection in the Absence of Trans-Species
+Polymorphism.
+
+Cheng X(1)(2), DeGiorgio M(2)(3)(4).
+
+Author information: 
+(1)Huck Institutes of the Life Sciences, Pennsylvania State University,
+University Park, PA.
+(2)Department of Biology, Pennsylvania State University, University Park, PA.
+(3)Department of Statistics, Pennsylvania State University, University Park, PA.
+(4)Institute for CyberScience, Pennsylvania State University, University Park,
+PA.
+
+Trans-species polymorphism has been widely used as a key sign of long-term
+balancing selection across multiple species. However, such sites are often rare
+in the genome and could result from mutational processes or technical artifacts. 
+Few methods are yet available to specifically detect footprints of trans-species 
+balancing selection without using trans-species polymorphic sites. In this study,
+we develop summary- and model-based approaches that are each specifically
+tailored to uncover regions of long-term balancing selection shared by a set of
+species by using genomic patterns of intraspecific polymorphism and interspecific
+fixed differences. We demonstrate that our trans-species statistics have
+substantially higher power than single-species approaches to detect footprints of
+trans-species balancing selection, and are robust to those that do not affect all
+tested species. We further apply our model-based methods to human and chimpanzee 
+whole-genome sequencing data. In addition to the previously established major
+histocompatibility complex and malaria resistance-associated FREM3/GYPE regions, 
+we also find outstanding genomic regions involved in barrier integrity and innate
+immunity, such as the GRIK1/CLDN17 intergenic region, and the SLC35F1 and ABCA13 
+genes. Our findings not only echo the significance of pathogen defense but also
+reveal novel candidates in maintaining balanced polymorphisms across human and
+chimpanzee lineages. Finally, we show that these trans-species statistics can be 
+applied to and work well for an arbitrary number of species, and integrate them
+into open-source software packages for ease of use by the scientific community.
+
+DOI: 10.1093/molbev/msy202 
+PMCID: PMC6530816
+PMID: 30380122  [Indexed for MEDLINE]
+

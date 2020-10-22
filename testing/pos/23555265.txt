@@ -1,0 +1,37 @@
+
+1. PLoS Pathog. 2013 Mar;9(3):e1003265. doi: 10.1371/journal.ppat.1003265. Epub 2013
+Mar 28.
+
+Dengue virus co-opts UBR4 to degrade STAT2 and antagonize type I interferon
+signaling.
+
+Morrison J(1), Laurent-Rolle M, Maestre AM, Rajsbaum R, Pisanelli G, Simon V,
+Mulder LC, Fernandez-Sesma A, García-Sastre A.
+
+Author information: 
+(1)Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+New York, United States of America.
+
+An estimated 50 million dengue virus (DENV) infections occur annually and more
+than forty percent of the human population is currently at risk of developing
+dengue fever (DF) or dengue hemorrhagic fever (DHF). Despite the prevalence and
+potential severity of DF and DHF, there are no approved vaccines or antiviral
+therapeutics available. An improved understanding of DENV immune evasion is
+pivotal for the rational development of anti-DENV therapeutics. Antagonism of
+type I interferon (IFN-I) signaling is a crucial mechanism of DENV immune
+evasion. DENV NS5 protein inhibits IFN-I signaling by mediating
+proteasome-dependent STAT2 degradation. Only proteolytically-processed NS5 can
+efficiently mediate STAT2 degradation, though both unprocessed and processed NS5 
+bind STAT2. Here we identify UBR4, a 600-kDa member of the N-recognin family, as 
+an interacting partner of DENV NS5 that preferentially binds to processed NS5.
+Our results also demonstrate that DENV NS5 bridges STAT2 and UBR4. Furthermore,
+we show that UBR4 promotes DENV-mediated STAT2 degradation, and most importantly,
+that UBR4 is necessary for efficient viral replication in IFN-I competent cells. 
+Our data underscore the importance of NS5-mediated STAT2 degradation in DENV
+replication and identify UBR4 as a host protein that is specifically exploited by
+DENV to inhibit IFN-I signaling via STAT2 degradation.
+
+DOI: 10.1371/journal.ppat.1003265 
+PMCID: PMC3610674
+PMID: 23555265  [Indexed for MEDLINE]
+

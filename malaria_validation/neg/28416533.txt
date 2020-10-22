@@ -1,0 +1,49 @@
+
+1. Genome Res. 2017 Jun;27(6):1074-1086. doi: 10.1101/gr.217356.116. Epub 2017 Apr
+17.
+
+Capturing in vivo RNA transcriptional dynamics from the malaria parasite
+Plasmodium falciparum.
+
+Painter HJ(1), Carrasquilla M(1), Llinás M(1)(2).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology and Huck Center for Malaria
+Research, Pennsylvania State University, University Park, Pennsylvania 16802,
+USA.
+(2)Department of Chemistry, Pennsylvania State University, University Park,
+Pennsylvania 16802, USA.
+
+To capture the transcriptional dynamics within proliferating cells, methods to
+differentiate nascent transcription from preexisting mRNAs are desired. One
+approach is to label newly synthesized mRNA transcripts in vivo through the
+incorporation of modified pyrimidines. However, the human malaria parasite,
+Plasmodium falciparum, is incapable of pyrimidine salvage for mRNA biogenesis. To
+capture cellular mRNA dynamics during Plasmodium development, we engineered
+parasites that can salvage pyrimidines through the expression of a single
+bifunctional yeast fusion gene, cytosine deaminase/uracil
+phosphoribosyltransferase (FCU). We show that expression of FCU allows for the
+direct incorporation of thiol-modified pyrimidines into nascent mRNAs. Using
+developmental stage-specific promoters to express FCU-GFP enables the
+biosynthetic capture and in-depth analysis of mRNA dynamics from subpopulations
+of cells undergoing differentiation. We demonstrate the utility of this method by
+examining the transcriptional dynamics of the sexual gametocyte stage transition,
+a process that is essential to malaria transmission between hosts. Using the
+pfs16 gametocyte-specific promoter to express FCU-GFP in 3D7 parasites, we found 
+that sexual stage commitment is governed by transcriptional reprogramming and
+stabilization of a subset of essential gametocyte transcripts. We also measured
+mRNA dynamics in F12 gametocyte-deficient parasites and demonstrate that the
+transcriptional program required for sexual commitment and maturation is
+initiated but likely aborted due to the absence of the PfAP2-G transcriptional
+regulator and a lack of gametocyte-specific mRNA stabilization. Biosynthetic
+labeling of Plasmodium mRNAs is incredibly versatile, can be used to measure
+transcriptional dynamics at any stage of parasite development, and will allow for
+future applications to comprehensively measure RNA-protein interactions in the
+malaria parasite.
+
+© 2017 Painter et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.217356.116 
+PMCID: PMC5453321
+PMID: 28416533  [Indexed for MEDLINE]
+

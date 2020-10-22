@@ -1,0 +1,33 @@
+
+1. Front Immunol. 2017 May 23;8:557. doi: 10.3389/fimmu.2017.00557. eCollection
+2017.
+
+Predicting RTS,S Vaccine-Mediated Protection from Transcriptomes in a
+Malaria-Challenge Clinical Trial.
+
+van den Berg RA(1), Coccia M(1), Ballou WR(1), Kester KE(2), Ockenhouse CF(2),
+Vekemans J(1), Jongert E(1), Didierlaurent AM(1), van der Most RG(1).
+
+Author information: 
+(1)GSK Vaccines, Rue de l'Institut, Rixensart, Belgium.
+(2)Walter Reed Army Institute of Research, Silver Spring, MD, USA.
+
+The RTS,S candidate malaria vaccine can protect against controlled human malaria 
+infection (CHMI), but how protection is achieved remains unclear. Here, we have
+analyzed longitudinal peripheral blood transcriptome and immunogenicity data from
+a clinical efficacy trial in which healthy adults received three RTS,S doses
+4 weeks apart followed by CHMI 2 weeks later. Multiway partial least squares
+discriminant analysis (N-PLS-DA) of transcriptome data identified 110 genes that 
+could be used in predictive models of protection. Among the 110 genes, 42 had
+known immune-related functions, including 29 that were related to the
+NF-κB-signaling pathway and 14 to the IFN-γ-signaling pathway. Post-dose 3 serum 
+IFN-γ concentrations were also correlated with protection; and N-PLS-DA of
+IFN-γ-signaling pathway transcriptome data selected almost all (44/45) of the
+representative genes for predictive models of protection. Hence, the
+identification of the NF-κB and IFN-γ pathways provides further insight into how 
+vaccine-mediated protection may be achieved.
+
+DOI: 10.3389/fimmu.2017.00557 
+PMCID: PMC5440508
+PMID: 28588574 
+

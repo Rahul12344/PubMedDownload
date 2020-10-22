@@ -1,0 +1,41 @@
+
+1. PLoS Pathog. 2012 Sep;8(9):e1002927. doi: 10.1371/journal.ppat.1002927. Epub 2012
+Sep 27.
+
+Kaposi's sarcoma herpesvirus K15 protein contributes to virus-induced
+angiogenesis by recruiting PLCγ1 and activating NFAT1-dependent RCAN1 expression.
+
+Bala K(1), Bosco R, Gramolelli S, Haas DA, Kati S, Pietrek M, Hävemeier A,
+Yakushko Y, Singh VV, Dittrich-Breiholz O, Kracht M, Schulz TF.
+
+Author information: 
+(1)Institute of Virology, Hannover Medical School, Hannover, Germany.
+
+Kaposi's Sarcoma (KS), caused by Kaposi's Sarcoma Herpesvirus (KSHV), is a highly
+vascularised angiogenic tumor of endothelial cells, characterized by latently
+KSHV-infected spindle cells and a pronounced inflammatory infiltrate. Several
+KSHV proteins, including LANA-1 (ORF73), vCyclin (ORF72), vGPCR (ORF74), vIL6
+(ORF-K2), vCCL-1 (ORF-K6), vCCL-2 (ORF-K4) and K1 have been shown to exert
+effects that can lead to the proliferation and atypical differentiation of
+endothelial cells and/or the secretion of cytokines with angiogenic and
+inflammatory properties (VEGF, bFGF, IL6, IL8, GROα, and TNFβ). To investigate a 
+role of the KSHV K15 protein in KSHV-mediated angiogenesis, we carried out a
+genome wide gene expression analysis on primary endothelial cells infected with
+KSHV wildtype (KSHVwt) and a KSHV K15 deletion mutant (KSHVΔK15). We found
+RCAN1/DSCR1 (Regulator of Calcineurin 1/Down Syndrome critical region 1), a
+cellular gene involved in angiogenesis, to be differentially expressed in KSHVwt-
+vs KSHVΔK15-infected cells. During physiological angiogenesis, expression of
+RCAN1 in endothelial cells is regulated by VEGF (vascular endothelial growth
+factor) through a pathway involving the activation of PLCγ1, Calcineurin and
+NFAT1. We found that K15 directly recruits PLCγ1, and thereby activates
+Calcineurin/NFAT1-dependent RCAN1 expression which results in the formation of
+angiogenic tubes. Primary endothelial cells infected with KSHVwt form angiogenic 
+tubes upon activation of the lytic replication cycle. This effect is abrogated
+when K15 is deleted (KSHVΔK15) or silenced by an siRNA targeting the K15
+expression. Our study establishes K15 as one of the KSHV proteins that contribute
+to KSHV-induced angiogenesis.
+
+DOI: 10.1371/journal.ppat.1002927 
+PMCID: PMC3460623
+PMID: 23028325  [Indexed for MEDLINE]
+

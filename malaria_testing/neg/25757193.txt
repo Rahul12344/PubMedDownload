@@ -1,0 +1,46 @@
+
+1. DNA Repair (Amst). 2015 Apr;28:60-72. doi: 10.1016/j.dnarep.2015.02.009. Epub
+2015 Feb 20.
+
+Comparative insight into nucleotide excision repair components of Plasmodium
+falciparum.
+
+Tajedin L(1), Anwar M(1), Gupta D(1), Tuteja R(2).
+
+Author information: 
+(1)Malaria Group, International Centre for Genetic Engineering and Biotechnology,
+P.O. Box 10504, Aruna Asaf Ali Marg, New Delhi 110067, India.
+(2)Malaria Group, International Centre for Genetic Engineering and Biotechnology,
+P.O. Box 10504, Aruna Asaf Ali Marg, New Delhi 110067, India. Electronic address:
+renututeja@gmail.com.
+
+Nucleotide excision repair (NER) is one of the DNA repair pathways crucial for
+maintenance of genome integrity and deals with repair of DNA damages arising due 
+to exogenous and endogenous factors. The multi-protein transcription initiation
+factor TFIIH plays a critical role in NER and transcription and is highly
+conserved throughout evolution. The malaria parasite Plasmodium falciparum has
+been a challenge for the researchers for a long time because of emergence of drug
+resistance. The availability of its genome sequence has opened new avenues for
+research. Antimalarial drugs like chloroquine and mefloquine have been reported
+to inhibit NER pathway mediated repair reactions and thus promote mutagenesis.
+Previous studies have validated existence and implied possible association of
+defective or altered DNA repair pathways with development of drug resistant
+phenotype in certain P. falciparum strains. We conjecture that a compromised NER 
+pathway in combination with other DNA repair pathways might be conducive for the 
+emergence and sustenance of drug resistance in P. falciparum. Therefore we
+decided to unravel the components of NER pathway in P. falciparum and using
+bioinformatics based approaches here we report a genome wide in silico analysis
+of NER components from P. falciparum and their comparison with the human host.
+Our results reveal that P. falciparum genome contains almost all the components
+of NER but we were unable to find clear homologue for p62 and XPC in its genome. 
+The structure modeling of all the components further suggests that their
+structures are significantly conserved. Furthermore this study lays a foundation 
+to perform similar comparative studies between drug resistant and drug sensitive 
+strains of parasite in order to understand DNA repair-related mechanisms of drug 
+resistance.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.dnarep.2015.02.009 
+PMID: 25757193  [Indexed for MEDLINE]
+

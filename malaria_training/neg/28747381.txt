@@ -1,0 +1,52 @@
+
+1. Genome Res. 2017 Sep;27(9):1536-1548. doi: 10.1101/gr.217216.116. Epub 2017 Jul
+26.
+
+Rapid evolution of female-biased genes among four species of Anopheles malaria
+mosquitoes.
+
+Papa F(1), Windbichler N(2), Waterhouse RM(3)(4)(5), Cagnetti A(1)(6), D'Amato
+R(1), Persampieri T(1)(6), Lawniczak MKN(7), Nolan T(2), Papathanos PA(1).
+
+Author information: 
+(1)Section of Genomics and Genetics, Department of Experimental Medicine,
+University of Perugia, 06132 Perugia, Italy.
+(2)Department of Life Sciences, Imperial College London, SW7 2AZ London, United
+Kingdom.
+(3)University of Geneva Medical School and Swiss Institute of Bioinformatics,
+1211 Geneva, Switzerland.
+(4)Massachusetts Institute of Technology and the Broad Institute of MIT and
+Harvard, Cambridge, Massachusetts 02139, USA.
+(5)Department of Ecology and Evolution, University of Lausanne, CH-1015 Lausanne,
+Switzerland.
+(6)Polo d'Innovazione di Genomica, Genetica e Biologia, 06132 Perugia, Italy.
+(7)Welcome Trust Sanger Institute, CB10 1SA Hinxton, United Kingdom.
+
+Understanding how phenotypic differences between males and females arise from the
+sex-biased expression of nearly identical genomes can reveal important insights
+into the biology and evolution of a species. Among Anopheles mosquito species,
+these phenotypic differences include vectorial capacity, as it is only females
+that blood feed and thus transmit human malaria. Here, we use RNA-seq data from
+multiple tissues of four vector species spanning the Anopheles phylogeny to
+explore the genomic and evolutionary properties of sex-biased genes. We find
+that, in these mosquitoes, in contrast to what has been found in many other
+organisms, female-biased genes are more rapidly evolving in sequence, expression,
+and genic turnover than male-biased genes. Our results suggest that this atypical
+pattern may be due to the combination of sex-specific life history challenges
+encountered by females, such as blood feeding. Furthermore, female propensity to 
+mate only once in nature in male swarms likely diminishes sexual selection of
+post-reproductive traits related to sperm competition among males. We also
+develop a comparative framework to systematically explore tissue- and
+sex-specific splicing to document its conservation throughout the genus and
+identify a set of candidate genes for future functional analyses of sex-specific 
+isoform usage. Finally, our data reveal that the deficit of male-biased genes on 
+the X Chromosomes in Anopheles is a conserved feature in this genus and can be
+directly attributed to chromosome-wide transcriptional regulation that
+de-masculinizes the X in male reproductive tissues.
+
+© 2017 Papa et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.217216.116 
+PMCID: PMC5580713
+PMID: 28747381  [Indexed for MEDLINE]
+

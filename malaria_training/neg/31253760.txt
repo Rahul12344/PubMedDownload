@@ -1,0 +1,74 @@
+
+1. Nat Commun. 2019 Jun 28;10(1):2887. doi: 10.1038/s41467-019-10601-6.
+
+Transcriptional profiling unveils type I and II interferon networks in blood and 
+tissues across diseases.
+
+Singhania A(1), Graham CM(1), Gabryšová L(1), Moreira-Teixeira L(1), Stavropoulos
+E(1), Pitt JM(1), Chakravarty P(2), Warnatsch A(3), Branchett WJ(4), Conejero
+L(5), Lin JW(6), Davidson S(7), Wilson MS(8), Bancroft G(5), Langhorne J(6),
+Frickel E(9), Sesay AK(10), Priestnall SL(11), Herbert E(11), Ioannou M(3), Wang 
+Q(3), Humphreys IR(12), Dodd J(13), Openshaw PJM(13), Mayer-Barber KD(14),
+Jankovic D(15), Sher A(15), Lloyd CM(4), Baldwin N(16), Chaussabel D(17),
+Papayannopoulos V(3), Wack A(7), Banchereau JF(18), Pascual VM(19), O'Garra
+A(20)(21).
+
+Author information: 
+(1)Laboratory of Immunoregulation and Infection, The Francis Crick Institute,
+London, NW1 1AT, UK.
+(2)Bioinformatics Core, The Francis Crick Institute, London, NW1 1AT, UK.
+(3)Antimicrobial Defence Laboratory, The Francis Crick Institute, London, NW1
+1AT, UK.
+(4)Inflammation, Repair and Development Section, National Heart and Lung
+Institute, Imperial College London, London, SW7 2AZ, UK.
+(5)London School of Hygiene and Tropical Medicine, London, WC1E 7HT, UK.
+(6)Malaria Laboratory, The Francis Crick Institute, London, NW1 1AT, UK.
+(7)Immunoregulation Laboratory, The Francis Crick Institute, London, NW1 1AT, UK.
+(8)Helminth Immunology Laboratory, The Francis Crick Institute, London, NW1 1AT, 
+UK.
+(9)Host-Toxoplasma Interaction Laboratory, The Francis Crick Institute, London,
+NW1 1AT, UK.
+(10)Advanced Sequencing Facility, The Francis Crick Institute, London, NW1 1AT,
+UK.
+(11)Department of Pathobiology & Population Sciences, Royal Veterinary College,
+London, AL9 7TA, UK.
+(12)Division of Infection and Immunity/Systems Immunity University Research
+Institute, Cardiff University, Cardiff, CF14 4XN, UK.
+(13)Respiratory Infection Section, National Heart and Lung Institute, Imperial
+College London, London, W2 1PG, UK.
+(14)Inflammation and Innate Immunity Unit, Laboratory of Clinical Immunology and 
+Microbiology, National Institute of Allergy and Infectious Diseases, National
+Institutes of Health, Bethesda, MD, 20892, USA.
+(15)Immunobiology Section, Laboratory of Parasitic Diseases, National Institute
+of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD, 
+20892, USA.
+(16)Baylor Institute for Immunology Research, Dallas, TX, 75204, USA.
+(17)Systems Biology and Immunology Department, Sidra Medicine, PO BOX 26999,
+Doha, Qatar.
+(18)The Jackson Laboratory for Genomic Medicine, Farmington, CT, 06030, USA.
+(19)Drukier Institute for Children's Health, Weill Cornell Medical College, New
+York, NY, 10065, USA.
+(20)Laboratory of Immunoregulation and Infection, The Francis Crick Institute,
+London, NW1 1AT, UK. Anne.OGarra@crick.ac.uk.
+(21)National Heart and Lung Institute, Imperial College London, London, W2 1PG,
+UK. Anne.OGarra@crick.ac.uk.
+
+Understanding how immune challenges elicit different responses is critical for
+diagnosing and deciphering immune regulation. Using a modular strategy to
+interpret the complex transcriptional host response in mouse models of infection 
+and inflammation, we show a breadth of immune responses in the lung. Lung immune 
+signatures are dominated by either IFN-γ and IFN-inducible, IL-17-induced
+neutrophil- or allergy-associated gene expression. Type I IFN and
+IFN-γ-inducible, but not IL-17- or allergy-associated signatures, are preserved
+in the blood. While IL-17-associated genes identified in lung are detected in
+blood, the allergy signature is only detectable in blood CD4+ effector cells.
+Type I IFN-inducible genes are abrogated in the absence of IFN-γ signaling and
+decrease in the absence of IFNAR signaling, both independently contributing to
+the regulation of granulocyte responses and pathology during Toxoplasma gondii
+infection. Our framework provides an ideal tool for comparative analyses of
+transcriptional signatures contributing to protection or pathogenesis in disease.
+
+DOI: 10.1038/s41467-019-10601-6 
+PMCID: PMC6599044
+PMID: 31253760  [Indexed for MEDLINE]
+

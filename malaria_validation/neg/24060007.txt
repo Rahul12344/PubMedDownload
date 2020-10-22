@@ -1,0 +1,47 @@
+
+1. BMC Genomics. 2013 Aug 1;14:528. doi: 10.1186/1471-2164-14-528.
+
+Genomic distribution of AFLP markers relative to gene locations for different
+eukaryotic species.
+
+Caballero A(1), García-Pereira MJ, Quesada H.
+
+Author information: 
+(1)Departamento de Bioquímica, Genética e Inmunología, Facultad de Biología,
+Universidade de Vigo, 36310 Vigo, Spain. armando@uvigo.es
+
+BACKGROUND: Amplified fragment length polymorphism (AFLP) markers are frequently 
+used for a wide range of studies, such as genome-wide mapping, population genetic
+diversity estimation, hybridization and introgression studies, phylogenetic
+analyses, and detection of signatures of selection. An important issue to be
+addressed for some of these fields is the distribution of the markers across the 
+genome, particularly in relation to gene sequences.
+RESULTS: Using in-silico restriction fragment analysis of the genomes of nine
+eukaryotic species we characterise the distribution of AFLP fragments across the 
+genome and, particularly, in relation to gene locations. First, we identify the
+physical position of markers across the chromosomes of all species. An observed
+accumulation of fragments around (peri) centromeric regions in some species is
+produced by repeated sequences, and this accumulation disappears when AFLP bands 
+rather than fragments are considered. Second, we calculate the percentage of AFLP
+markers positioned within gene sequences. For the typical EcoRI/MseI enzyme pair,
+this ranges between 28 and 87% and is usually larger than that expected by chance
+because of the higher GC content of gene sequences relative to intergenic ones.
+In agreement with this, the use of enzyme pairs with GC-rich restriction sites
+substantially increases the above percentages. For example, using the enzyme
+system SacI/HpaII, 86% of AFLP markers are located within gene sequences in A.
+thaliana, and 100% of markers in Plasmodium falciparun. We further find that for 
+a typical trait controlled by 50 genes of average size, if 1000 AFLPs are used in
+a study, the number of those within 1 kb distance from any of the genes would be 
+only about 1-2, and only about 50% of the genes would have markers within that
+distance.
+CONCLUSIONS: The high coverage of AFLP markers across the genomes and the high
+proportion of markers within or close to gene sequences make them suitable for
+genome scans and detecting large islands of differentiation in the genome.
+However, for specific traits, the percentage of AFLP markers close to genes can
+be rather small. Therefore, genome scans directed towards the search of markers
+closely linked to selected loci can be a difficult task in many instances.
+
+DOI: 10.1186/1471-2164-14-528 
+PMCID: PMC3750350
+PMID: 24060007  [Indexed for MEDLINE]
+

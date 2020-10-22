@@ -1,0 +1,56 @@
+
+1. Malar J. 2018 Oct 1;17(1):345. doi: 10.1186/s12936-018-2475-2.
+
+An expanded global inventory of allelic variation in the most extremely
+polymorphic region of Plasmodium falciparum merozoite surface protein 1 provided 
+by short read sequence data.
+
+Aspeling-Jones H(1), Conway DJ(2).
+
+Author information: 
+(1)Pathogen Molecular Biology Department, School of Hygiene and Tropical Medicine
+London, Keppel St, London, WC1E 7HT, UK. harvey.aspelingjones@gmail.com.
+(2)Pathogen Molecular Biology Department, School of Hygiene and Tropical Medicine
+London, Keppel St, London, WC1E 7HT, UK. david.conway@lshtm.ac.uk.
+
+BACKGROUND: Within Plasmodium falciparum merozoite surface protein 1 (MSP1), the 
+N-terminal block 2 region is a highly polymorphic target of naturally acquired
+antibody responses. The antigenic diversity is determined by complex repeat
+sequences as well as non-repeat sequences, grouping into three major allelic
+types that appear to be maintained within populations by natural selection.
+Within these major types, many distinct allelic sequences have been described in 
+different studies, but the extent and significance of the diversity remains
+unresolved.
+METHODS: To survey the diversity more extensively, block 2 allelic sequences in
+the msp1 gene were characterized in 2400 P. falciparum infection isolates with
+whole genome short read sequence data available from the Pf3K project, and
+compared with the data from previous studies.
+RESULTS: Mapping the short read sequence data in the 2400 isolates to a reference
+library of msp1 block 2 allelic sequences yielded 3815 allele scores at the level
+of major allelic family types, with 46% of isolates containing two or more of
+these major types. Overall frequencies were similar to those previously reported 
+in other samples with different methods, the K1-like allelic type being most
+common in Africa, MAD20-like most common in Southeast Asia, and RO33-like being
+the third most abundant type in each continent. The rare MR type, formed by
+recombination between MAD20-like and RO33-like alleles, was only seen in Africa
+and very rarely in the Indian subcontinent but not in Southeast Asia. A
+combination of mapped short read assembly approaches enabled 1522 complete msp1
+block 2 sequences to be determined, among which there were 363 different allele
+sequences, of which 246 have not been described previously. In these data, the
+K1-like msp1 block 2 alleles are most diverse and encode 225 distinct amino acid 
+sequences, compared with 123 different MAD20-like, 9 RO33-like and 6 MR type
+sequences. Within each of the major types, the different allelic sequences show
+highly skewed geographical distributions, with most of the more common sequences 
+being detected in either Africa or Asia, but not in both.
+CONCLUSIONS: Allelic sequences of this extremely polymorphic locus have been
+derived from whole genome short read sequence data by mapping to a reference
+library followed by assembly of mapped reads. The catalogue of sequence variation
+has been greatly expanded, so that there are now more than 500 different msp1
+block 2 allelic sequences described. This provides an extensive reference for
+molecular epidemiological genotyping and sequencing studies, and potentially for 
+design of a multi-allelic vaccine.
+
+DOI: 10.1186/s12936-018-2475-2 
+PMCID: PMC6167803
+PMID: 30285849  [Indexed for MEDLINE]
+

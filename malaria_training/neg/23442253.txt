@@ -1,0 +1,43 @@
+
+1. BMC Genomics. 2013 Feb 26;14:128. doi: 10.1186/1471-2164-14-128.
+
+A Poisson hierarchical modelling approach to detecting copy number variation in
+sequence coverage data.
+
+Sepúlveda N(1), Campino SG, Assefa SA, Sutherland CJ, Pain A, Clark TG.
+
+Author information: 
+(1)London School of Hygiene and Tropical Medicine, London, UK.
+nuno.sepulveda@lshtm.ac.uk
+
+BACKGROUND: The advent of next generation sequencing technology has accelerated
+efforts to map and catalogue copy number variation (CNV) in genomes of important 
+micro-organisms for public health. A typical analysis of the sequence data
+involves mapping reads onto a reference genome, calculating the respective
+coverage, and detecting regions with too-low or too-high coverage (deletions and 
+amplifications, respectively). Current CNV detection methods rely on statistical 
+assumptions (e.g., a Poisson model) that may not hold in general, or require
+fine-tuning the underlying algorithms to detect known hits. We propose a new CNV 
+detection methodology based on two Poisson hierarchical models, the Poisson-Gamma
+and Poisson-Lognormal, with the advantage of being sufficiently flexible to
+describe different data patterns, whilst robust against deviations from the often
+assumed Poisson model.
+RESULTS: Using sequence coverage data of 7 Plasmodium falciparum malaria genomes 
+(3D7 reference strain, HB3, DD2, 7G8, GB4, OX005, and OX006), we showed that
+empirical coverage distributions are intrinsically asymmetric and overdispersed
+in relation to the Poisson model. We also demonstrated a low baseline false
+positive rate for the proposed methodology using 3D7 resequencing data and
+simulation. When applied to the non-reference isolate data, our approach detected
+known CNV hits, including an amplification of the PfMDR1 locus in DD2 and a large
+deletion in the CLAG3.2 gene in GB4, and putative novel CNV regions. When
+compared to the recently available FREEC and cn.MOPS approaches, our findings
+were more concordant with putative hits from the highest quality array data for
+the 7G8 and GB4 isolates.
+CONCLUSIONS: In summary, the proposed methodology brings an increase in
+flexibility, robustness, accuracy and statistical rigour to CNV detection using
+sequence coverage data.
+
+DOI: 10.1186/1471-2164-14-128 
+PMCID: PMC3679970
+PMID: 23442253  [Indexed for MEDLINE]
+

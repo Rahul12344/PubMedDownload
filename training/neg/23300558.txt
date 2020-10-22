@@ -1,0 +1,46 @@
+
+1. PLoS One. 2012;7(12):e51715. doi: 10.1371/journal.pone.0051715. Epub 2012 Dec 27.
+
+An automated HIV-1 Env-pseudotyped virus production for global HIV vaccine
+trials.
+
+Schultz A(1), Koch S, Fuss M, Mazzotta AS, Sarzotti-Kelsoe M, Ozaki DA,
+Montefiori DC, von Briesen H, Zimmermann H, Meyerhans A.
+
+Author information: 
+(1)Fraunhofer Institute for Biomedical Engineering, St. Ingbert, Germany.
+
+BACKGROUND: Infections with HIV still represent a major human health problem
+worldwide and a vaccine is the only long-term option to fight efficiently against
+this virus. Standardized assessments of HIV-specific immune responses in vaccine 
+trials are essential for prioritizing vaccine candidates in preclinical and
+clinical stages of development. With respect to neutralizing antibodies, assays
+with HIV-1 Env-pseudotyped viruses are a high priority. To cover the increasing
+demands of HIV pseudoviruses, a complete cell culture and transfection automation
+system has been developed.
+METHODOLOGY/PRINCIPAL FINDINGS: The automation system for HIV pseudovirus
+production comprises a modified Tecan-based Cellerity system. It covers an area
+of 5×3 meters and includes a robot platform, a cell counting machine, a CO(2)
+incubator for cell cultivation and a media refrigerator. The processes for cell
+handling, transfection and pseudovirus production have been implemented according
+to manual standard operating procedures and are controlled and scheduled
+autonomously by the system. The system is housed in a biosafety level II cabinet 
+that guarantees protection of personnel, environment and the product. HIV
+pseudovirus stocks in a scale from 140 ml to 1000 ml have been produced on the
+automated system. Parallel manual production of HIV pseudoviruses and comparisons
+(bridging assays) confirmed that the automated produced pseudoviruses were of
+equivalent quality as those produced manually. In addition, the automated method 
+was fully validated according to Good Clinical Laboratory Practice (GCLP)
+guidelines, including the validation parameters accuracy, precision, robustness
+and specificity.
+CONCLUSIONS: An automated HIV pseudovirus production system has been successfully
+established. It allows the high quality production of HIV pseudoviruses under
+GCLP conditions. In its present form, the installed module enables the production
+of 1000 ml of virus-containing cell culture supernatant per week. Thus, this
+novel automation facilitates standardized large-scale productions of HIV
+pseudoviruses for ongoing and upcoming HIV vaccine trials.
+
+DOI: 10.1371/journal.pone.0051715 
+PMCID: PMC3531445
+PMID: 23300558  [Indexed for MEDLINE]
+

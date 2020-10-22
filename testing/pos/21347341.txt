@@ -1,0 +1,40 @@
+
+1. PLoS Pathog. 2011 Feb 10;7(2):e1001275. doi: 10.1371/journal.ppat.1001275.
+
+Epstein-Barr virus nuclear antigen 3C facilitates G1-S transition by stabilizing 
+and enhancing the function of cyclin D1.
+
+Saha A(1), Halder S, Upadhyay SK, Lu J, Kumar P, Murakami M, Cai Q, Robertson ES.
+
+Author information: 
+(1)Department of Microbiology and Tumor Virology Program, Abramson Comprehensive 
+Cancer Center, University of Pennsylvania Medical School, Philadelphia,
+Pennsylvania, United States of America.
+
+EBNA3C, one of the Epstein-Barr virus (EBV)-encoded latent antigens, is essential
+for primary B-cell transformation. Cyclin D1, a key regulator of G1 to S phase
+progression, is tightly associated and aberrantly expressed in numerous human
+cancers. Previously, EBNA3C was shown to bind to Cyclin D1 in vitro along with
+Cyclin A and Cyclin E. In the present study, we provide evidence which
+demonstrates that EBNA3C forms a complex with Cyclin D1 in human cells. Detailed 
+mapping experiments show that a small N-terminal region which lies between amino 
+acids 130-160 of EBNA3C binds to two different sites of Cyclin D1- the N-terminal
+pRb binding domain (residues 1-50), and C-terminal domain (residues 171-240),
+known to regulate Cyclin D1 stability. Cyclin D1 is short-lived and
+ubiquitin-mediated proteasomal degradation has been targeted as a means of
+therapeutic intervention. Here, we show that EBNA3C stabilizes Cyclin D1 through 
+inhibition of its poly-ubiquitination, and also increases its nuclear
+localization by blocking GSK3β activity. We further show that EBNA3C enhances the
+kinase activity of Cyclin D1/CDK6 which enables subsequent ubiquitination and
+degradation of pRb. EBNA3C together with Cyclin D1-CDK6 complex also efficiently 
+nullifies the inhibitory effect of pRb on cell growth. Moreover, an sh-RNA based 
+strategy for knock-down of both cyclin D1 and EBNA3C genes in EBV transformed
+lymphoblastoid cell lines (LCLs) shows a significant reduction in cell-growth.
+Based on these results, we propose that EBNA3C can stabilize as well as enhance
+the functional activity of Cyclin D1 thereby facilitating the G1-S transition in 
+EBV transformed lymphoblastoid cell lines.
+
+DOI: 10.1371/journal.ppat.1001275 
+PMCID: PMC3037348
+PMID: 21347341  [Indexed for MEDLINE]
+

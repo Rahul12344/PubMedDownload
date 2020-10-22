@@ -1,0 +1,34 @@
+
+1. J Virol. 2006 Nov;80(21):10346-56.
+
+Host cell DNA repair pathways in adeno-associated viral genome processing.
+
+Choi VW(1), McCarty DM, Samulski RJ.
+
+Author information: 
+(1)Department of Pharmacology, University of North Carolina at Chapel Hill, NC
+27599, USA.
+
+Recentstudies have shown that wild-type and recombinant adeno-associated virus
+(AAV and rAAV) genomes persist in human tissue predominantly as double-stranded
+(ds) circular episomes derived from input linear single-stranded virion DNA.
+Using self-complementary recombinant AAV (scAAV) vectors, we generated
+intermediates that directly transition to ds circular episomes. The scAAV genome 
+ends are palindromic hairpin-structured terminal repeats, resembling a
+double-stranded break repair intermediate. Utilizing this substrate, we found
+cellular DNA recombination and repair factors to be essential for generating
+circular episomal products. To identify the specific cellular proteins involved, 
+the scAAV circularization-dependent vector was used as a reporter in 19 mammalian
+DNA repair-deficient cell lines. The results show that RecQ helicase family
+members (BLM and WRN), Mre11 and NBS1 of the Mre11-Rad50-Nbs1 (MRN) complex, and 
+ATM are required for efficient scAAV genome circularization. We further
+demonstrated that the scAAV genome requires ATM and DNA-PK(CS), but not NBS1, to 
+efficiently convert to a circular form in nondividing cells in vivo using
+transgenic mice. These studies identify specific pathways involved for further
+elucidating viral and cellular mechanisms of DNA maintenance important to the
+viral life cycle and vector utilizations.
+
+DOI: 10.1128/JVI.00841-06 
+PMCID: PMC1641795
+PMID: 17041215  [Indexed for MEDLINE]
+

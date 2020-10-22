@@ -1,0 +1,70 @@
+
+1. Genome Res. 2015 Sep;25(9):1347-59. doi: 10.1101/gr.189225.115. Epub 2015 Jul 23.
+
+Identifying genomic changes associated with insecticide resistance in the dengue 
+mosquito Aedes aegypti by deep targeted sequencing.
+
+Faucon F(1), Dusfour I(2), Gaude T(1), Navratil V(3), Boyer F(1), Chandre F(4),
+Sirisopa P(5), Thanispong K(6), Juntarajumnong W(5), Poupardin R(7),
+Chareonviriyaphap T(5), Girod R(2), Corbel V(8), Reynaud S(1), David JP(1).
+
+Author information: 
+(1)Laboratoire d'Ecologie Alpine (LECA), CNRS, UMR 5553, 38041 Grenoble Cedex 9, 
+France; Université Grenoble-Alpes, 38041 Grenoble Cedex 9, France; Environmental 
+and Systems Biology (BEeSy), Université Grenoble-Alpes, 38041 Grenoble Cedex 9,
+France;
+(2)Unité d'Entomologie Médicale, Institut Pasteur de la Guyane, 97306 Cayenne
+Cedex, France;
+(3)Pôle Rhône Alpes de Bioinformatique, Université Lyon 1, 69100 Villeurbanne,
+France;
+(4)Institut de Recherche pour le Développement (IRD), Maladies Infectieuses et
+Vecteurs, Ecologie, Génétique, Evolution et Contrôle (IRD 224-CNRS 5290 UM1-UM2),
+34394 Montpellier Cedex 5, France;
+(5)Department of Entomology, Faculty of Agriculture, Kasetsart University, Lat
+Yao Chatuchak Bangkok 10900, Thailand; Center for Advanced Studies for
+Agriculture and Food, Kasetsart University Institute for Advanced Studies,
+Kasetsart University, Bangkok 10900, Thailand (CASAF, NRU-KU, Thailand);
+(6)Bureau of Vector Borne Diseases, Department of Disease Control, Ministry of
+Public Health, Mueang, Nonthaburi 11000, Thailand;
+(7)Vector Biology Group, Liverpool School of Tropical Medicine, L35QA Liverpool, 
+United Kingdom.
+(8)Institut de Recherche pour le Développement (IRD), Maladies Infectieuses et
+Vecteurs, Ecologie, Génétique, Evolution et Contrôle (IRD 224-CNRS 5290 UM1-UM2),
+34394 Montpellier Cedex 5, France; Department of Entomology, Faculty of
+Agriculture, Kasetsart University, Lat Yao Chatuchak Bangkok 10900, Thailand;
+Center for Advanced Studies for Agriculture and Food, Kasetsart University
+Institute for Advanced Studies, Kasetsart University, Bangkok 10900, Thailand
+(CASAF, NRU-KU, Thailand);
+
+The capacity of mosquitoes to resist insecticides threatens the control of
+diseases such as dengue and malaria. Until alternative control tools are
+implemented, characterizing resistance mechanisms is crucial for managing
+resistance in natural populations. Insecticide biodegradation by detoxification
+enzymes is a common resistance mechanism; however, the genomic changes underlying
+this mechanism have rarely been identified, precluding individual resistance
+genotyping. In particular, the role of copy number variations (CNVs) and
+polymorphisms of detoxification enzymes have never been investigated at the
+genome level, although they can represent robust markers of metabolic resistance.
+In this context, we combined target enrichment with high-throughput sequencing
+for conducting the first comprehensive screening of gene amplifications and
+polymorphisms associated with insecticide resistance in mosquitoes. More than 760
+candidate genes were captured and deep sequenced in several populations of the
+dengue mosquito Ae. aegypti displaying distinct genetic backgrounds and
+contrasted resistance levels to the insecticide deltamethrin. CNV analysis
+identified 41 gene amplifications associated with resistance, most affecting
+cytochrome P450s overtranscribed in resistant populations. Polymorphism analysis 
+detected more than 30,000 variants and strong selection footprints in specific
+genomic regions. Combining Bayesian and allele frequency filtering approaches
+identified 55 nonsynonymous variants strongly associated with resistance. Both
+CNVs and polymorphisms were conserved within regions but differed across
+continents, confirming that genomic changes underlying metabolic resistance to
+insecticides are not universal. By identifying novel DNA markers of insecticide
+resistance, this study opens the way for tracking down metabolic changes
+developed by mosquitoes to resist insecticides within and among populations.
+
+© 2015 Faucon et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.189225.115 
+PMCID: PMC4561493
+PMID: 26206155  [Indexed for MEDLINE]
+

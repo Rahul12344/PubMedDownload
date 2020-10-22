@@ -1,0 +1,50 @@
+
+1. BMC Cancer. 2005 May 25;5:54.
+
+Surface TRAIL decoy receptor-4 expression is correlated with TRAIL resistance in 
+MCF7 breast cancer cells.
+
+Sanlioglu AD(1), Dirice E, Aydin C, Erin N, Koksoy S, Sanlioglu S.
+
+Author information: 
+(1)The Human Gene Therapy Unit, Akdeniz University, Faculty of Medicine, Antalya,
+Turkey. ahter@akdeniz.edu.tr
+
+BACKGROUND: Tumor Necrosis Factor (TNF)-Related Apoptosis-Inducing Ligand (TRAIL)
+selectively induces apoptosis in cancer cells but not in normal cells. Despite
+this promising feature, TRAIL resistance observed in cancer cells seriously
+challenged the use of TRAIL as a death ligand in gene therapy. The current
+dispute concerns whether or not TRAIL receptor expression pattern is the primary 
+determinant of TRAIL sensitivity in cancer cells. This study investigates TRAIL
+receptor expression pattern and its connection to TRAIL resistance in breast
+cancer cells. In addition, a DcR2 siRNA approach and a complementary gene therapy
+modality involving IKK inhibition (AdIKKbetaKA) were also tested to verify if
+these approaches could sensitize MCF7 breast cancer cells to adenovirus delivery 
+of TRAIL (Ad5hTRAIL).
+METHODS: TRAIL sensitivity assays were conducted using Molecular Probe's
+Live/Dead Cellular Viability/Cytotoxicity Kit following the infection of breast
+cancer cells with Ad5hTRAIL. The molecular mechanism of TRAIL induced cell death 
+under the setting of IKK inhibition was revealed by Annexin V binding. Novel
+quantitative Real Time RT-PCR and flow cytometry analysis were performed to
+disclose TRAIL receptor composition in breast cancer cells.
+RESULTS: MCF7 but not MDA-MB-231 breast cancer cells displayed strong resistance 
+to adenovirus delivery of TRAIL. Only the combinatorial use of Ad5hTRAIL and
+AdIKKbetaKA infection sensitized MCF7 breast cancer cells to TRAIL induced cell
+death. Moreover, novel quantitative Real Time RT-PCR assays suggested that while 
+the level of TRAIL Decoy Receptor-4 (TRAIL-R4) expression was the highest in MCF7
+cells, it was the lowest TRAIL receptor expressed in MDA-MB-231 cells. In
+addition, conventional flow cytometry analysis demonstrated that TRAIL resistant 
+MCF7 cells exhibited substantial levels of TRAIL-R4 expression but not TRAIL
+decoy receptor-3 (TRAIL-R3) on surface. On the contrary, TRAIL sensitive
+MDA-MB-231 cells displayed very low levels of surface TRAIL-R4 expression.
+Furthermore, a DcR2 siRNA approach lowered TRAIL-R4 expression on surface and
+this sensitized MCF7 cells to TRAIL.
+CONCLUSION: The expression of TRAIL-R4 decoy receptor appeared to be well
+correlated with TRAIL resistance encountered in breast cancer cells. Both
+adenovirus mediated IKKbetaKA expression and a DcR2 siRNA approach sensitized
+MCF7 breast cancer cells to TRAIL.
+
+DOI: 10.1186/1471-2407-5-54 
+PMCID: PMC1156874
+PMID: 15916713  [Indexed for MEDLINE]
+

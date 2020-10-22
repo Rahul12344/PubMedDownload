@@ -1,0 +1,60 @@
+
+1. BMC Genomics. 2018 Jul 9;19(1):526. doi: 10.1186/s12864-018-4918-0.
+
+Highly focused transcriptional response of Anopheles coluzzii to O'nyong nyong
+arbovirus during the primary midgut infection.
+
+Carissimo G(1)(2)(3), Pain A(1)(2)(4), Belda E(1)(2)(5), Vernick KD(6)(7).
+
+Author information: 
+(1)Unit of Insect Vector Genetics and Genomics, Department of Parasites and
+Insect Vectors, Institut Pasteur, Paris, France.
+(2)CNRS Unit of Evolutionary Genomics, Modeling, and Health (UMR2000), Institut
+Pasteur, Paris, France.
+(3)Laboratory of Microbial Immunity, Singapore Immunology Network, Agency for
+Science, Technology and Research (A(∗)STAR), Singapore, Singapore.
+(4)Bioinformatics and Biostatistics Hub (C3BI), USR 3756 IP CNRS, Institut
+Pasteur, 75017, Paris, France.
+(5)Integromics Unit, Institute of Cardiometabolism and Nutrition, Assistance
+Publique Hôpitaux de Paris, Pitié-Salpêtrière Hospital, Paris, France.
+(6)Unit of Insect Vector Genetics and Genomics, Department of Parasites and
+Insect Vectors, Institut Pasteur, Paris, France. kvernick@pasteur.fr.
+(7)CNRS Unit of Evolutionary Genomics, Modeling, and Health (UMR2000), Institut
+Pasteur, Paris, France. kvernick@pasteur.fr.
+
+BACKGROUND: Anopheles mosquitoes are efficient vectors of human malaria, but it
+is unknown why they do not transmit viruses as well as Aedes and Culex
+mosquitoes. The only arbovirus known to be consistently transmitted by Anopheles 
+mosquitoes is O'nyong nyong virus (ONNV, genus Alphavirus, family Togaviridae).
+The interaction of Anopheles mosquitoes with RNA viruses has been relatively
+unexamined.
+RESULTS: We transcriptionally profiled the African malaria vector, Anopheles
+coluzzii, infected with ONNV. Mosquitoes were fed on an infectious bloodmeal and 
+were analyzed by Illumina RNAseq at 3 days post-bloodmeal during the primary
+virus infection of the midgut epithelium, before systemic dissemination. Virus
+infection triggers transcriptional regulation of just 30 host candidate genes.
+Most of the regulated candidate genes are novel, without known function. Of the
+known genes, a significant cluster includes candidates with predicted involvement
+in carbohydrate metabolism. Two candidate genes encoding leucine-rich repeat
+immune (LRIM) factors point to possible involvement of immune protein complexes
+in the mosquito antiviral response. The primary ONNV infection by bloodmeal
+shares little transcriptional response in common with ONNV infection by
+intrathoracic injection, nor with midgut infection by the malaria parasites,
+Plasmodium falciparum or P. berghei. Profiling of A. coluzzii microRNA (miRNA)
+identified 118 known miRNAs and 182 potential novel miRNA candidates, with just
+one miRNA regulated by ONNV infection. This miRNA was not regulated by other
+previously reported treatments, and may be virus specific. Coexpression analysis 
+of miRNA abundance and messenger RNA expression revealed discrete clusters of
+genes regulated by Imd and JAK/STAT, immune signaling pathways that are
+protective against ONNV in the primary infection.
+CONCLUSIONS: ONNV infection of the A. coluzzii midgut triggers a remarkably
+limited gene regulation program of mostly novel candidate genes, which likely
+includes host genes deployed for antiviral defense, as well as genes manipulated 
+by the virus to facilitate infection. Functional dissection of the ONNV-response 
+candidate genes is expected to generate novel insight into the mechanisms of
+virus-vector interaction.
+
+DOI: 10.1186/s12864-018-4918-0 
+PMCID: PMC6038350
+PMID: 29986645  [Indexed for MEDLINE]
+

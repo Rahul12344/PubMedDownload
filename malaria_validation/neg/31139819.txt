@@ -1,0 +1,51 @@
+
+1. Acta Biochim Biophys Sin (Shanghai). 2019 Jun 20;51(6):615-626. doi:
+10.1093/abbs/gmz040.
+
+Identification and characterization of stearoyl-CoA desaturase in Toxoplasma
+gondii.
+
+Hao P(1)(2)(3), Cui X(4), Liu J(1)(2), Li M(1)(2), Fu Y(1)(2), Liu Q(1)(2).
+
+Author information: 
+(1)National Animal Protozoa Laboratory, College of Veterinary Medicine, China
+Agricultural University, Beijing, China.
+(2)Key Laboratory of Animal Epidemiology and Zoonosis, Ministry of Agriculture,
+College of Veterinary Medicine, China Agricultural University, Beijing, China.
+(3)Patent Examination Cooperation Sichuan Center of the Patent Office, CNIPA,
+Chengdu, China.
+(4)Beijing Key Laboratory of Diagnostic and Traceability Technologies for Food
+Poisoning, Beijing Research Centre for Preventive Medicine, Beijing, China.
+
+Few information of the function of stearoyl-coenzyme A (CoA) desaturase (SCD) in 
+apicomplaxan parasite has been obtained. In this study, we retrieved a putative
+fatty acyl-CoA desaturase (TGGT1_238950) by a protein alignment with Plasmodium
+falciparum SCD in ToxoDB. A typical Δ9-desaturase domain was revealed in this
+protein. The putative desaturase was tagged with HA endogenously in Toxoplasma
+gondii, and the endoplasmic reticulum localization of the putative desaturase was
+revealed, which was consistent with the fatty acid desaturases in other
+organisms. Therefore, the TGGT1_238950 was designated T. gondii SCD. Based on
+CRISPR/Cas9 gene editing technology, SCD conditional knockout mutants in the T.
+gondii TATi strain were obtained. The growth in vitro and pathogenicity in mice
+of the mutants suggested that SCD might be dispensable for tachyzoite growth and 
+proliferation. The SCD-overexpressing line was constructed to further explore SCD
+function. The portion of palmitoleic acid and oleic acid were increased in
+SCD-overexpressing parasites, compared with the RH parental strain, indicating
+that T. gondii indeed is competent for unsaturated fatty acid synthesis. The
+SCD-overexpressing tachyzoites propagated slower than the parental strain, with a
+decreased invasion capability and weaker pathogenicity in mice. The TgIF2α
+phosphorylation and the expression changes of several genes demonstrated that ER 
+stress was triggered in the SCD-overexpressing parasites, which were more apt
+toward autophagy and apoptosis. The function of unsaturated fatty acid synthesis 
+of TgSCD was consistent with our hypothesis. On the other hand, SCD might also be
+involved in tachyzoite autophagy and apoptosis.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of the
+Institute of Biochemistry and Cell Biology, Shanghai Institutes for Biological
+Sciences, Chinese Academy of Sciences. All rights reserved. For permissions,
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/abbs/gmz040 
+PMCID: PMC6574064
+PMID: 31139819  [Indexed for MEDLINE]
+

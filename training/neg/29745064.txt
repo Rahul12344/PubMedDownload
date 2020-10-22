@@ -1,0 +1,32 @@
+
+1. Chem Biol Drug Des. 2018 Sep;92(3):1638-1646. doi: 10.1111/cbdd.13329. Epub 2018 
+Jul 1.
+
+Molecular basis of benzimidazole inhibitors to hepatitis C virus envelope
+glycoprotein.
+
+Uddin R(1), Downard KM(1).
+
+Author information: 
+(1)Infectious Disease Responses Laboratory, University of New South Wales,
+Sydney, NSW, Australia.
+
+The molecular basis for the inhibitory action of a benzimidazole inhibitor
+compound to hepatitis C virus E1 envelope protein was examined computationally.
+Structures for the wild-type E1 protein and seven mutants were modelled using an 
+ab initio protein structure prediction algorithm, and these models were docked
+with the benzimidazole inhibitor. Top-ranked conformers for each docked structure
+were examined in the context of the putative function of the inhibitor that
+blocks fusion of the envelope protein to the host cells. The results for the
+wild-type protein and that for a series of mutants containing reported single,
+double and triple resistance mutations demonstrate that the inhibitor binds in
+the vicinity of residue Phe99 (at position 291 in the encoded polyprotein) at the
+C-terminal end of a putative fusion domain. In so doing, the compound inhibits
+the virus from fusing to host cells and blocks viral replication in accord with
+the results from cell-based infection studies.
+
+© 2018 John Wiley & Sons A/S.
+
+DOI: 10.1111/cbdd.13329 
+PMID: 29745064  [Indexed for MEDLINE]
+

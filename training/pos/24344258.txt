@@ -1,0 +1,41 @@
+
+1. Proc Natl Acad Sci U S A. 2014 Jan 7;111(1):421-6. doi: 10.1073/pnas.1321704111. 
+Epub 2013 Dec 16.
+
+Epstein-Barr virus nuclear antigen 3C binds to BATF/IRF4 or SPI1/IRF4 composite
+sites and recruits Sin3A to repress CDKN2A.
+
+Jiang S(1), Willox B, Zhou H, Holthaus AM, Wang A, Shi TT, Maruo S, Kharchenko
+PV, Johannsen EC, Kieff E, Zhao B.
+
+Author information: 
+(1)Department of Medicine, Brigham and Women's Hospital, Program in Virology,
+Department of Microbiology and Immunobiology, and Center for Biomedical
+Informatics, Harvard Medical School, Boston, MA 02115.
+
+Epstein-Barr virus nuclear antigen 3C (EBNA3C) repression of CDKN2A p14(ARF) and 
+p16(INK4A) is essential for immortal human B-lymphoblastoid cell line (LCL)
+growth. EBNA3C ChIP-sequencing identified >13,000 EBNA3C sites in LCL DNA. Most
+EBNA3C sites were associated with active transcription; 64% were strong H3K4me1- 
+and H3K27ac-marked enhancers and 16% were active promoters marked by H3K4me3 and 
+H3K9ac. Using ENCODE LCL transcription factor ChIP-sequencing data, EBNA3C sites 
+coincided (±250 bp) with RUNX3 (64%), BATF (55%), ATF2 (51%), IRF4 (41%), MEF2A
+(35%), PAX5 (34%), SPI1 (29%), BCL11a (28%), SP1 (26%), TCF12 (23%), NF-κB (23%),
+POU2F2 (23%), and RBPJ (16%). EBNA3C sites separated into five distinct clusters:
+(i) Sin3A, (ii) EBNA2/RBPJ, (iii) SPI1, and (iv) strong or (v) weak BATF/IRF4.
+EBNA3C signals were positively affected by RUNX3, BATF/IRF4 (AICE) and SPI1/IRF4 
+(EICE) cooccupancy. Gene set enrichment analyses correlated EBNA3C/Sin3A promoter
+sites with transcription down-regulation (P < 1.6 × 10(-4)). EBNA3C signals were 
+strongest at BATF/IRF4 and SPI1/IRF4 composite sites. EBNA3C bound strongly to
+the p14(ARF) promoter through SPI1/IRF4/BATF/RUNX3, establishing RBPJ-, Sin3A-,
+and REST-mediated repression. EBNA3C immune precipitated with Sin3A and
+conditional EBNA3C inactivation significantly decreased Sin3A binding at the
+p14(ARF) promoter (P < 0.05). These data support a model in which EBNA3C binds
+strongly to BATF/IRF4/SPI1/RUNX3 sites to enhance transcription and recruits
+RBPJ/Sin3A- and REST/NRSF-repressive complexes to repress p14(ARF) and p16(INK4A)
+expression.
+
+DOI: 10.1073/pnas.1321704111 
+PMCID: PMC3890834
+PMID: 24344258  [Indexed for MEDLINE]
+

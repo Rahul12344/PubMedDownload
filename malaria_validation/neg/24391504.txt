@@ -1,0 +1,49 @@
+
+1. PLoS Pathog. 2014 Jan;10(1):e1003854. doi: 10.1371/journal.ppat.1003854. Epub
+2014 Jan 2.
+
+Recruitment of PfSET2 by RNA polymerase II to variant antigen encoding loci
+contributes to antigenic variation in P. falciparum.
+
+Ukaegbu UE(1), Kishore SP(1), Kwiatkowski DL(1), Pandarinath C(2),
+Dahan-Pasternak N(3), Dzikowski R(3), Deitsch KW(1).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Weill Medical College of Cornell
+University, New York, New York, United States of America.
+(2)Program in Computational Biology, Weill Medical College of Cornell University,
+New York, New York, United States of America.
+(3)Department of Microbiology and Molecular Genetics, The Institute for Medical
+Research Israel-Canada, The Kuvin Center for the Study of Infectious and Tropical
+Diseases, Hebrew University-Hadassah Medical School, Jerusalem, Israel.
+
+Histone modifications are important regulators of gene expression in all
+eukaryotes. In Plasmodium falciparum, these epigenetic marks regulate expression 
+of genes involved in several aspects of host-parasite interactions, including
+antigenic variation. While the identities and genomic positions of many histone
+modifications have now been cataloged, how they are targeted to defined genomic
+regions remains poorly understood. For example, how variant antigen encoding loci
+(var) are targeted for deposition of unique histone marks is a mystery that
+continues to perplex the field. Here we describe the recruitment of an ortholog
+of the histone modifier SET2 to var genes through direct interactions with the
+C-terminal domain (CTD) of RNA polymerase II. In higher eukaryotes, SET2 is a
+histone methyltransferase recruited by RNA pol II during mRNA transcription;
+however, the ortholog in P. falciparum (PfSET2) has an atypical architecture and 
+its role in regulating transcription is unknown. Here we show that PfSET2 binds
+to the unphosphorylated form of the CTD, a property inconsistent with its
+recruitment during mRNA synthesis. Further, we show that H3K36me3, the epigenetic
+mark deposited by PfSET2, is enriched at both active and silent var gene loci,
+providing additional evidence that its recruitment is not associated with mRNA
+production. Over-expression of a dominant negative form of PfSET2 designed to
+disrupt binding to RNA pol II induced rapid var gene expression switching,
+confirming both the importance of PfSET2 in var gene regulation and a role for
+RNA pol II in its recruitment. RNA pol II is known to transcribe non-coding RNAs 
+from both active and silent var genes, providing a possible mechanism by which it
+could recruit PfSET2 to var loci. This work unifies previous reports of histone
+modifications, the production of ncRNAs, and the promoter activity of var introns
+into a mechanism that contributes to antigenic variation by malaria parasites.
+
+DOI: 10.1371/journal.ppat.1003854 
+PMCID: PMC3879369
+PMID: 24391504  [Indexed for MEDLINE]
+

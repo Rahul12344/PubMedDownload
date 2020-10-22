@@ -1,0 +1,85 @@
+
+1. Malar J. 2016 Jan 15;15:28. doi: 10.1186/s12936-015-1016-5.
+
+Functional analysis of monoclonal antibodies against the Plasmodium falciparum
+PfEMP1-VarO adhesin.
+
+Guillotte M(1)(2), Nato F(3), Juillerat A(4)(5), Hessel A(6)(7), Marchand F(8),
+Lewit-Bentley A(9)(10), Bentley GA(11)(12), Vigan-Womas I(13)(14)(15),
+Mercereau-Puijalon O(16)(17).
+
+Author information: 
+(1)Institut Pasteur, Unité d'Immunologie Moléculaire des Parasites, 25-28 rue du 
+Dr ROUX, 75015, Paris, France. micheline.guillotte-blisnick@pasteur.fr.
+(2)URA CNRS 2581, 25-28 rue du Dr ROUX, 75015, Paris, France.
+micheline.guillotte-blisnick@pasteur.fr.
+(3)Institut Pasteur, Plate-forme de Production de Protéines recombinantes et
+d'Anticorps (PF5), 25-28 rue du Dr ROUX, 75015, Paris, France. natofar@gmail.fr.
+(4)Institut Pasteur, Unité d'Immunologie Structurale, 25-28 rue du Dr ROUX,
+75015, Paris, France. alexandre.juillerat@cellectis.com.
+(5)CNRS URA 2185, 25-28 rue du Dr ROUX, 75015, Paris, France.
+alexandre.juillerat@cellectis.com.
+(6)Institut Pasteur, Unité d'Immunologie Moléculaire des Parasites, 25-28 rue du 
+Dr ROUX, 75015, Paris, France. audrey.hessel@ibs.fr.
+(7)Institut Pasteur, Unité d'Immunologie Structurale, 25-28 rue du Dr ROUX,
+75015, Paris, France. audrey.hessel@ibs.fr.
+(8)Institut Pasteur, Plate-forme de Production de Protéines recombinantes et
+d'Anticorps (PF5), 25-28 rue du Dr ROUX, 75015, Paris, France.
+francoise.marchand@pasteur.fr.
+(9)Institut Pasteur, Unité d'Immunologie Structurale, 25-28 rue du Dr ROUX,
+75015, Paris, France. anita.bentley@orange.fr.
+(10)CNRS URA 2185, 25-28 rue du Dr ROUX, 75015, Paris, France.
+anita.bentley@orange.fr.
+(11)Institut Pasteur, Unité d'Immunologie Structurale, 25-28 rue du Dr ROUX,
+75015, Paris, France. graham.bentley@pasteur.fr.
+(12)CNRS URA 2185, 25-28 rue du Dr ROUX, 75015, Paris, France.
+graham.bentley@pasteur.fr.
+(13)Institut Pasteur, Unité d'Immunologie Moléculaire des Parasites, 25-28 rue du
+Dr ROUX, 75015, Paris, France. ines@pasteur.mg.
+(14)URA CNRS 2581, 25-28 rue du Dr ROUX, 75015, Paris, France. ines@pasteur.mg.
+(15)Institut Pasteur de Madagascar, Unité d'Immunologie des Maladies
+Infectieuses, BP 1274, Antananarivo 101, Madagascar. ines@pasteur.mg.
+(16)Institut Pasteur, Unité d'Immunologie Moléculaire des Parasites, 25-28 rue du
+Dr ROUX, 75015, Paris, France. odile.puijalon@pasteur.fr.
+(17)URA CNRS 2581, 25-28 rue du Dr ROUX, 75015, Paris, France.
+odile.puijalon@pasteur.fr.
+
+BACKGROUND: Rosetting, namely the capacity of the Plasmodium falciparum-infected 
+red blood cells to bind uninfected RBCs, is commonly observed in African children
+with severe malaria. Rosetting results from specific interactions between a
+subset of variant P. falciparum erythrocyte membrane protein 1 (PfEMP1) adhesins 
+encoded by var genes, serum components and RBC receptors. Rosette formation is a 
+redundant phenotype, as there exists more than one var gene encoding a
+rosette-mediating PfEMP1 in each genome and hence a diverse array of underlying
+interactions. Moreover, field diversity creates a large panel of
+rosetting-associated serotypes and studies with human immune sera indicate that
+surface-reacting antibodies are essentially variant-specific. To gain better
+insight into the interactions involved in rosetting and map surface epitopes, a
+panel of monoclonal antibodies (mAbs) was investigated.
+METHODS: Monoclonal antibodies were isolated from mice immunized with PfEMP1-VarO
+recombinant domains. They were characterized using ELISA and reactivity with the 
+native PfEMP1-VarO adhesin on immunoblots of reduced and unreduced extracts, as
+well as SDS-extracts of Palo Alto 89F5 VarO schizonts. Functionality was assessed
+using inhibition of Palo Alto 89F5 VarO rosette formation and disruption of Palo 
+Alto 89F5 VarO rosettes. Competition ELISAs were performed with biotinylated
+antibodies against DBL1 to identify reactivity groups. Specificity of mAbs
+reacting with the DBL1 adhesion domain was explored using recombinant proteins
+carrying mutations abolishing RBC binding or binding to heparin, a potent
+inhibitor of rosette formation.
+RESULTS: Domain-specific, surface-reacting mAbs were obtained for four individual
+domains (DBL1, CIDR1, DBL2, DBL4). Monoclonal antibodies reacting with DBL1
+potently inhibited the formation of rosettes and disrupted Palo Alto 89F5 VarO
+rosettes. Most surface-reactive mAbs and all mAbs interfering with rosetting
+reacted on parasite immunoblots with disulfide bond-dependent PfEMP1 epitopes.
+Based on competition ELISA and binding to mutant DBL1 domains, two distinct
+binding sites for rosette-disrupting mAbs were identified in close proximity to
+the RBC-binding site.
+CONCLUSIONS: Rosette-inhibitory antibodies bind to conformation-dependent
+epitopes located close to the RBC-binding site and distant from the
+heparin-binding site. These results provide novel clues for a rational
+intervention strategy that targets rosetting.
+
+DOI: 10.1186/s12936-015-1016-5 
+PMCID: PMC4715314
+PMID: 26772184  [Indexed for MEDLINE]
+

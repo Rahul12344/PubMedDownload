@@ -1,0 +1,37 @@
+
+1. Am J Epidemiol. 2009 May 1;169(9):1124-32. doi: 10.1093/aje/kwp002. Epub 2009 Mar
+24.
+
+Effect of highly active antiretroviral therapy on incident AIDS using calendar
+period as an instrumental variable.
+
+Cain LE(1), Cole SR, Greenland S, Brown TT, Chmiel JS, Kingsley L, Detels R.
+
+Author information: 
+(1)Department of Epidemiology, Bloomberg School of Public Health, Johns Hopkins
+University, Baltimore, Maryland, USA. lcain@hsph.harvard.edu
+
+Human immunodeficiency virus (HIV) researchers often use calendar periods as an
+imperfect proxy for highly active antiretroviral therapy (HAART) when estimating 
+the effect of HAART on HIV disease progression. The authors report on 614
+HIV-positive homosexual men followed from 1984 to 2007 in 4 US cities. During
+5,321 person-years, 268 of 614 men incurred acquired immunodeficiency syndrome,
+49 died, and 90 were lost to follow-up. Comparing the pre-HAART calendar period
+(<1996) with the HAART calendar period (>or=1996) resulted in a naive rate ratio 
+of 3.62 (95% confidence limits: 2.67, 4.92). However, this estimate is likely
+biased because of misclassification of HAART use by calendar period. Simple
+calendar period approaches may circumvent confounding by indication at the cost
+of inducing exposure misclassification. To correct this misclassification, the
+authors propose an instrumental-variable estimator analogous to ones previously
+used for noncompliance corrections in randomized clinical trials. When the
+pre-HAART calendar period was compared with the HAART calendar period, the
+instrumental-variable rate ratio was 5.02 (95% confidence limits: 3.45, 7.31),
+39% higher than the naive result. Weighting by the inverse probability of
+calendar period given age at seroconversion, race/ethnicity, and time since
+seroconversion did not appreciably alter the results. These methods may help
+resolve discrepancies between observational and randomized evidence.
+
+DOI: 10.1093/aje/kwp002 
+PMCID: PMC2732979
+PMID: 19318615  [Indexed for MEDLINE]
+

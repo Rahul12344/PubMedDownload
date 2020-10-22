@@ -1,0 +1,49 @@
+
+1. PLoS One. 2018 Apr 25;13(4):e0195011. doi: 10.1371/journal.pone.0195011.
+eCollection 2018.
+
+Oligomeric interfaces as a tool in drug discovery: Specific interference with
+activity of malate dehydrogenase of Plasmodium falciparum in vitro.
+
+Lunev S(1), Butzloff S(2), Romero AR(1), Linzke M(3), Batista FA(1), Meissner
+KA(3), Müller IB(2), Adawy A(1), Wrenger C(3), Groves MR(1).
+
+Author information: 
+(1)Structural Biology Unit, XB20 Drug Design, Department of Pharmacy, University 
+of Groningen, Groningen, The Netherlands.
+(2)LG Müller, Bernhard Nocht Institute for Tropical Medicine, Hamburg, Germany.
+(3)Unit for Drug Discovery, Department of Parasitology, Institute of Biomedical
+Sciences, University of São Paulo, Saõ Paulo, Brazil.
+
+Malaria remains a major threat to human health, as strains resistant to current
+therapeutics are discovered. Efforts in finding new drug targets are hampered by 
+the lack of sufficiently specific tools to provide target validation prior to
+initiating expensive drug discovery projects. Thus, new approaches that can
+rapidly enable drug target validation are of significant interest. In this
+manuscript we present the crystal structure of malate dehydrogenase from
+Plasmodium falciparum (PfMDH) at 2.4 Å resolution and structure-based mutagenic
+experiments interfering with the inter-oligomeric interactions of the enzyme. We 
+report decreased thermal stability, significantly decreased specific activity and
+kinetic parameters of PfMDH mutants upon mutagenic disruption of either
+oligomeric interface. In contrast, stabilization of one of the interfaces
+resulted in increased thermal stability, increased substrate/cofactor affinity
+and hyperactivity of the enzyme towards malate production at sub-millimolar
+substrate concentrations. Furthermore, the presented data show that our designed 
+PfMDH mutant could be used as specific inhibitor of the wild type PfMDH activity,
+as mutated PfMDH copies were shown to be able to self-incorporate into the native
+assembly upon introduction in vitro, yielding deactivated mutant:wild-type
+species. These data provide an insight into the role of oligomeric assembly in
+regulation of PfMDH activity and reveal that recombinant mutants could be used as
+probe tool for specific modification of the wild type PfMDH activity, thus
+offering the potential to validate its druggability in vivo without recourse to
+complex genetics or initial tool compounds. Such tool compounds often lack
+specificity between host or pathogen proteins (or are toxic in in vivo trials)
+and result in difficulties in assessing cause and effect-particularly in cases
+when the enzymes of interest possess close homologs within the human host.
+Furthermore, our oligomeric interference approach could be used in the future in 
+order to assess druggability of other challenging human pathogen drug targets.
+
+DOI: 10.1371/journal.pone.0195011 
+PMCID: PMC5919072
+PMID: 29694407  [Indexed for MEDLINE]
+

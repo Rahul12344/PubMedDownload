@@ -1,0 +1,45 @@
+
+1. PLoS Pathog. 2013;9(7):e1003465. doi: 10.1371/journal.ppat.1003465. Epub 2013 Jul
+4.
+
+Myxoma virus protein M029 is a dual function immunomodulator that inhibits PKR
+and also conscripts RHA/DHX9 to promote expanded host tropism and viral
+replication.
+
+Rahman MM(1), Liu J, Chan WM, Rothenburg S, McFadden G.
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, University of Florida,
+Gainesville, Florida, United States of America.
+
+Myxoma virus (MYXV)-encoded protein M029 is a member of the poxvirus E3 family of
+dsRNA-binding proteins that antagonize the cellular interferon signaling
+pathways. In order to investigate additional functions of M029, we have
+constructed a series of targeted M029-minus (vMyx-M029KO and vMyx-M029ID) and
+V5-tagged M029 MYXV. We found that M029 plays a pivotal role in determining the
+cellular tropism of MYXV in all mammalian cells tested. The M029-minus viruses
+were able to replicate only in engineered cell lines that stably express a
+complementing protein, such as vaccinia E3, but underwent abortive or abated
+infection in all other tested mammalian cell lines. The M029-minus viruses were
+dramatically attenuated in susceptible host European rabbits and caused no
+observable signs of myxomatosis. Using V5-tagged M029 virus, we observed that
+M029 expressed as an early viral protein is localized in both the nuclear and
+cytosolic compartments in virus-infected cells, and is also incorporated into
+virions. Using proteomic approaches, we have identified Protein Kinase R (PKR)
+and RNA helicase A (RHA)/DHX9 as two cellular binding partners of M029 protein.
+In virus-infected cells, M029 interacts with PKR in a dsRNA-dependent manner,
+while binding with DHX9 was not dependent on dsRNA. Significantly, PKR knockdown 
+in human cells rescued the replication defect of the M029-knockout viruses.
+Unexpectedly, this rescue of M029-minus virus replication by PKR depletion could 
+then be reversed by RHA/DHX9 knockdown in human monocytic THP1 cells. This
+indicates that M029 not only inhibits generic PKR anti-viral pathways, but also
+binds and conscripts RHA/DHX9 as a pro-viral effector to promote virus
+replication in THP1 cells. Thus, M029 is a critical host range and virulence
+factor for MYXV that is required for replication in all mammalian cells by
+antagonizing PKR-mediated anti-viral functions, and also conscripts pro-viral
+RHA/DHX9 to promote viral replication specifically in myeloid cells.
+
+DOI: 10.1371/journal.ppat.1003465 
+PMCID: PMC3701710
+PMID: 23853588  [Indexed for MEDLINE]
+

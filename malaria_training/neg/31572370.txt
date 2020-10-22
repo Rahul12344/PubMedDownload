@@ -1,0 +1,55 @@
+
+1. Front Immunol. 2019 Sep 12;10:2150. doi: 10.3389/fimmu.2019.02150. eCollection
+2019.
+
+Application of Modeling Approaches to Explore Vaccine Adjuvant Mode-of-Action.
+
+Buckley PR(1)(2), Alden K(2), Coccia M(3), Chalon A(3), Collignon C(3), Temmerman
+ST(3), Didierlaurent AM(3), van der Most R(3), Timmis J(2)(4), Andersen CA(3),
+Coles MC(1).
+
+Author information: 
+(1)Kennedy Institute of Rheumatology, University of Oxford, Oxford, United
+Kingdom.
+(2)Department of Electronic Engineering, University of York, York, United
+Kingdom.
+(3)GSK, Rixensart, Belgium.
+(4)Faculty of Technology, University of Sunderland, Sunderland, United Kingdom.
+
+Erratum in
+    Front Immunol. 2019 Dec 02;10:2905.
+
+Novel adjuvant technologies have a key role in the development of next-generation
+vaccines, due to their capacity to modulate the duration, strength and quality of
+the immune response. The AS01 adjuvant is used in the malaria vaccine RTS,S/AS01 
+and in the licensed herpes-zoster vaccine (Shingrix) where the vaccine has proven
+its ability to generate protective responses with both robust humoral and T-cell 
+responses. For many years, animal models have provided insights into adjuvant
+mode-of-action (MoA), generally through investigating individual genes or
+proteins. Furthermore, modeling and simulation techniques can be utilized to
+integrate a variety of different data types; ranging from serum biomarkers to
+large scale "omics" datasets. In this perspective we present a framework to
+create a holistic integration of pre-clinical datasets and immunological
+literature in order to develop an evidence-based hypothesis of AS01 adjuvant MoA,
+creating a unified view of multiple experiments. Furthermore, we highlight how
+holistic systems-knowledge can serve as a basis for the construction of models
+and simulations supporting exploration of key questions surrounding adjuvant MoA.
+Using the Systems-Biology-Graphical-Notation, a tool for graphical representation
+of biological processes, we have captured high-level cellular behaviors and
+interactions, and cytokine dynamics during the early immune response, which are
+substantiated by a series of diagrams detailing cellular dynamics. Through
+explicitly describing AS01 MoA we have built a consensus of understanding across 
+multiple experiments, and so we present a framework to integrate modeling
+approaches into exploring adjuvant MoA, in order to guide experimental design,
+interpret results and inform rational design of vaccines.
+
+Copyright © 2019 Buckley, Alden, Coccia, Chalon, Collignon, Temmerman,
+Didierlaurent, van der Most, Timmis, Andersen and Coles.
+
+DOI: 10.3389/fimmu.2019.02150 
+PMCID: PMC6751289
+PMID: 31572370 
+
+Conflict of interest statement: CA, RM, AD, MC, and ST report ownership of GSK
+shares and/or restricted GSK shares.
+

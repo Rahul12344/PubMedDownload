@@ -1,0 +1,50 @@
+
+1. Version 2. Wellcome Open Res. 2018 Dec 6 [revised 2018 Dec 6];3:142. doi:
+10.12688/wellcomeopenres.14797.2. eCollection 2018.
+
+Genomic and transcriptomic comparisons of closely related malaria parasites
+differing in virulence and sequestration pattern.
+
+Lin JW(#)(1)(2), Reid AJ(#)(3), Cunningham D(1), Böhme U(3), Tumwine I(1),
+Keller-Mclaughlin S(1), Sanders M(3), Berriman M(3), Langhorne J(1).
+
+Author information: 
+(1)Malaria Immunology laboratory, Francis Crick Institute, London, NW1 1AT, UK.
+(2)Division of Pediatric Infectious Diseases, Sichuan University and
+Collaboration Innovation Centre, Chengdu, 610041, China.
+(3)Parasites & Microbes, Wellcome Trust Sanger Institute, Cambridge, CB10 1SA,
+UK.
+(#)Contributed equally
+
+Background: Malaria parasite species differ greatly in the harm they do to
+humans. While P. falciparum kills hundreds of thousands per year, P. vivax kills 
+much less often and P. malariae is relatively benign. Strains of the rodent
+malaria parasite Plasmodium chabaudi show phenotypic variation in virulence
+during infections of laboratory mice. This make it an excellent species to study 
+genes which may be responsible for this trait. By understanding the mechanisms
+which underlie differences in virulence we can learn how parasites adapt to their
+hosts and how we might prevent disease. Methods: Here we present a complete
+reference genome sequence for a more virulent P. chabaudi strain, PcCB, and
+perform a detailed comparison with the genome of the less virulent PcAS strain.
+Results: We found the greatest variation in the subtelomeric regions, in
+particular amongst the sequences of the pir gene family, which has been
+associated with virulence and establishment of chronic infection. Despite
+substantial variation at the sequence level, the repertoire of these genes has
+been largely maintained, highlighting the requirement for functional conservation
+as well as diversification in host-parasite interactions. However, a subset of
+pir genes, previously associated with increased virulence, were more highly
+expressed in PcCB, suggesting a role for this gene family in virulence
+differences between strains. We found that core genes involved in red blood cell 
+invasion have been under positive selection and that the more virulent strain has
+a greater preference for reticulocytes, which has elsewhere been associated with 
+increased virulence. Conclusions: These results provide the basis for a
+mechanistic understanding of the phenotypic differences between Plasmodium
+chabaudi strains, which might ultimately be translated into a better
+understanding of malaria parasites affecting humans.
+
+DOI: 10.12688/wellcomeopenres.14797.2 
+PMCID: PMC6259598
+PMID: 30542666 
+
+Conflict of interest statement: No competing interests were disclosed.
+

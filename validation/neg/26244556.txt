@@ -1,0 +1,43 @@
+
+1. PLoS One. 2015 Aug 5;10(8):e0135207. doi: 10.1371/journal.pone.0135207.
+eCollection 2015.
+
+Stable Reference Gene Selection for RT-qPCR Analysis in Nonviruliferous and
+Viruliferous Frankliniella occidentalis.
+
+Yang C(1), Li H(2), Pan H(3), Ma Y(2), Zhang D(1), Liu Y(1), Zhang Z(4), Zheng
+C(2), Chu D(2).
+
+Author information: 
+(1)Hunan Academy of Agricultural Sciences, Institute of Plant Protection,
+Changsha, Hunan, China.
+(2)College of Agronomy and Plant Protection, Qingdao Agricultural University,
+Qingdao, China.
+(3)Department of Entomology, University of Kentucky, Lexington, Kentucky, United 
+States of America.
+(4)Hunan Academy of Agricultural Sciences, Hunan Vegetable Institute, Changsha,
+Hunan, China.
+
+Reverse transcriptase-quantitative polymerase chain reaction (RT-qPCR) is a
+reliable technique for measuring and evaluating gene expression during variable
+biological processes. To facilitate gene expression studies, normalization of
+genes of interest relative to stable reference genes is crucial. The western
+flower thrips Frankliniella occidentalis (Pergande) (Thysanoptera: Thripidae),
+the main vector of tomato spotted wilt virus (TSWV), is a destructive invasive
+species. In this study, the expression profiles of 11 candidate reference genes
+from nonviruliferous and viruliferous F. occidentalis were investigated. Five
+distinct algorithms, geNorm, NormFinder, BestKeeper, the ΔCt method, and
+RefFinder, were used to determine the performance of these genes. geNorm,
+NormFinder, BestKeeper, and RefFinder identified heat shock protein 70 (HSP70),
+heat shock protein 60 (HSP60), elongation factor 1 α, and ribosomal protein l32
+(RPL32) as the most stable reference genes, and the ΔCt method identified HSP60, 
+HSP70, RPL32, and heat shock protein 90 as the most stable reference genes.
+Additionally, two reference genes were sufficient for reliable normalization in
+nonviruliferous and viruliferous F. occidentalis. This work provides a foundation
+for investigating the molecular mechanisms of TSWV and F. occidentalis
+interactions.
+
+DOI: 10.1371/journal.pone.0135207 
+PMCID: PMC4526564
+PMID: 26244556  [Indexed for MEDLINE]
+

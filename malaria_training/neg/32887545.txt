@@ -1,0 +1,59 @@
+
+1. BMC Genomics. 2020 Sep 4;21(1):608. doi: 10.1186/s12864-020-07025-8.
+
+Leishmania infection induces a limited differential gene expression in the sand
+fly midgut.
+
+Coutinho-Abreu IV(1), Serafim TD(2), Meneses C(2), Kamhawi S(2), Oliveira F(3),
+Valenzuela JG(4).
+
+Author information: 
+(1)Vector Molecular Biology Section, Laboratory of Malaria and Vector Research,
+National Institute of Allergy and Infectious Diseases, National Institutes of
+Health, Rockville, MD, USA. iliano.vieiracoutinhoabreugomes2@nih.gov.
+(2)Vector Molecular Biology Section, Laboratory of Malaria and Vector Research,
+National Institute of Allergy and Infectious Diseases, National Institutes of
+Health, Rockville, MD, USA.
+(3)Vector Molecular Biology Section, Laboratory of Malaria and Vector Research,
+National Institute of Allergy and Infectious Diseases, National Institutes of
+Health, Rockville, MD, USA. loliveira@niaid.nih.gov.
+(4)Vector Molecular Biology Section, Laboratory of Malaria and Vector Research,
+National Institute of Allergy and Infectious Diseases, National Institutes of
+Health, Rockville, MD, USA. jvalenzuela@niaid.nih.gov.
+
+BACKGROUND: Sand flies are the vectors of Leishmania parasites. To develop in the
+sand fly midgut, Leishmania multiplies and undergoes various stage
+differentiations giving rise to the infective form, the metacyclic promastigotes.
+To determine the changes in sand fly midgut gene expression caused by the
+presence of Leishmania, we performed RNA-Seq of uninfected and Leishmania
+infantum-infected Lutzomyia longipalpis midguts from seven different libraries
+corresponding to time points which cover the various Leishmania developmental
+stages.
+RESULTS: The combined transcriptomes resulted in the de novo assembly of 13,841
+sand fly midgut transcripts. Importantly, only 113 sand fly transcripts, about
+1%, were differentially expressed in the presence of Leishmania parasites.
+Further, we observed distinct differentially expressed sand fly midgut
+transcripts corresponding to the presence of each of the various Leishmania
+stages suggesting that each parasite stage influences midgut gene expression in a
+specific manner. Two main patterns of sand fly gene expression modulation were
+noted. At early time points (days 1-4), more transcripts were down-regulated by
+Leishmania infection at large fold changes (> 32 fold). Among the down-regulated 
+genes, the transcription factor Forkhead/HNF-3 and hormone degradation enzymes
+were differentially regulated on day 2 and appear to be the upstream regulators
+of nutrient transport, digestive enzymes, and peritrophic matrix proteins.
+Conversely, at later time points (days 6 onwards), most of the differentially
+expressed transcripts were up-regulated by Leishmania infection with small fold
+changes (< 32 fold). The molecular functions of these genes have been associated 
+with the metabolism of lipids and detoxification of xenobiotics.
+CONCLUSION: Overall, our data suggest that the presence of Leishmania produces a 
+limited change in the midgut transcript expression profile in sand flies.
+Further, Leishmania modulates sand fly gene expression early on in the
+developmental cycle in order to overcome the barriers imposed by the midgut, yet 
+it behaves like a commensal at later time points where a massive number of
+parasites in the anterior midgut results only in modest changes in midgut gene
+expression.
+
+DOI: 10.1186/s12864-020-07025-8 
+PMCID: PMC7487717
+PMID: 32887545 
+

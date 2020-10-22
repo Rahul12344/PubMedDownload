@@ -1,0 +1,44 @@
+
+1. PLoS Pathog. 2013;9(10):e1003640. doi: 10.1371/journal.ppat.1003640. Epub 2013
+Oct 17.
+
+A structural basis for BRD2/4-mediated host chromatin interaction and oligomer
+assembly of Kaposi sarcoma-associated herpesvirus and murine gammaherpesvirus
+LANA proteins.
+
+Hellert J(1), Weidner-Glunde M, Krausze J, Richter U, Adler H, Fedorov R, Pietrek
+M, Rückert J, Ritter C, Schulz TF, Lührs T.
+
+Author information: 
+(1)Department of Structural Biology, Helmholtz Centre for Infection Research,
+Braunschweig, Germany.
+
+Kaposi sarcoma-associated herpesvirus (KSHV) establishes a lifelong latent
+infection and causes several malignancies in humans. Murine herpesvirus 68
+(MHV-68) is a related γ2-herpesvirus frequently used as a model to study the
+biology of γ-herpesviruses in vivo. The KSHV latency-associated nuclear antigen
+(kLANA) and the MHV68 mLANA (orf73) protein are required for latent viral
+replication and persistence. Latent episomal KSHV genomes and kLANA form nuclear 
+microdomains, termed 'LANA speckles', which also contain cellular chromatin
+proteins, including BRD2 and BRD4, members of the BRD/BET family of chromatin
+modulators. We solved the X-ray crystal structure of the C-terminal DNA binding
+domains (CTD) of kLANA and MHV-68 mLANA. While these structures share the overall
+fold with the EBNA1 protein of Epstein-Barr virus, they differ substantially in
+their surface characteristics. Opposite to the DNA binding site, both kLANA and
+mLANA CTD contain a characteristic lysine-rich positively charged surface patch, 
+which appears to be a unique feature of γ2-herpesviral LANA proteins.
+Importantly, kLANA and mLANA CTD dimers undergo higher order oligomerization.
+Using NMR spectroscopy we identified a specific binding site for the ET domains
+of BRD2/4 on kLANA. Functional studies employing multiple kLANA mutants indicate 
+that the oligomerization of native kLANA CTD dimers, the characteristic basic
+patch and the ET binding site on the kLANA surface are required for the formation
+of kLANA 'nuclear speckles' and latent replication. Similarly, the basic patch on
+mLANA contributes to the establishment of MHV-68 latency in spleen cells in vivo.
+In summary, our data provide a structural basis for the formation of higher order
+LANA oligomers, which is required for nuclear speckle formation, latent
+replication and viral persistence.
+
+DOI: 10.1371/journal.ppat.1003640 
+PMCID: PMC3798688
+PMID: 24146614  [Indexed for MEDLINE]
+

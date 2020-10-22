@@ -1,0 +1,57 @@
+
+1. mBio. 2017 Aug 22;8(4). pii: e00579-17. doi: 10.1128/mBio.00579-17.
+
+The Toxoplasma Centrocone Houses Cell Cycle Regulatory Factors.
+
+Naumov A(1), Kratzer S(1), Ting LM(2), Kim K(2), Suvorova ES(1), White MW(3).
+
+Author information: 
+(1)Department of Global Health and Florida Center for Drug Discovery and
+Innovation, University of South Florida, Tampa, Florida, USA.
+(2)Departments of Medicine, Pathology, and Microbiology & Immunology, Albert
+Einstein College of Medicine, Bronx, New York, USA.
+(3)Department of Global Health and Florida Center for Drug Discovery and
+Innovation, University of South Florida, Tampa, Florida, USA
+mwhite.usf@gmail.com.
+
+Our knowledge of cell cycle regulatory mechanisms in apicomplexan parasites is
+very limited. In this study, we describe a novel Toxoplasma gondii factor that
+has a vital role in chromosome replication and the regulation of cytoplasmic and 
+nuclear mitotic structures, and we named this factor ECR1 for essential for
+chromosome replication 1. ECR1 was discovered by complementation of a
+temperature-sensitive (ts) mutant that suffers lethal, uncontrolled chromosome
+replication at 40°C similar to a ts mutant carrying a defect in topoisomerase.
+ECR1 is a 52-kDa protein containing divergent RING and TRAF-Sina-like zinc
+binding domains that are dynamically expressed in the tachyzoite cell cycle. ECR1
+first appears in the unique spindle compartment of the Apicomplexa (centrocone)
+of the nuclear envelope in early S phase and then in the nucleus in late S phase 
+where it reaches maximum expression. Following nuclear division, but before
+daughter parasites separate from the mother parasite, ECR1 is downregulated and
+is absent in new daughter parasites. The proteomics of ECR1 identified
+interactions with the ubiquitin-mediated protein degradation machinery and the
+minichromosome maintenance complex, and the loss of ECR1 led to increased
+stability of a key member of this complex, MCM2. ECR1 also forms a stable complex
+with the cyclin-dependent kinase (CDK)-related kinase, Tgondii Crk5 (TgCrk5),
+which displays a similar cell cycle expression and localization during tachyzoite
+replication. Importantly, the localization of ECR1/TgCrk5 in the centrocone
+indicates that this Apicomplexa-specific spindle compartment houses important
+regulatory factors that control the parasite cell cycle.IMPORTANCE Parasites of
+the apicomplexan family are important causes of human disease, including malaria,
+toxoplasmosis, and cryptosporidiosis. Parasite growth is the underlying cause of 
+pathogenesis, yet despite this importance, the molecular basis for parasite
+replication is poorly understood. Filling this knowledge gap cannot be
+accomplished by mining recent whole-genome sequencing data because apicomplexan
+cell cycles differ substantially and lack many of the key regulatory factors of
+well-studied yeast and mammalian cell division models. We have utilized forward
+genetics to discover essential factors that regulate cell division in these
+parasites using the Toxoplasma gondii model. An example of this approach is
+described here with the discovery of a putative E3 ligase/protein kinase
+mechanism involved in regulating chromosome replication and mitotic processes of 
+asexual stage parasites.
+
+Copyright © 2017 Naumov et al.
+
+DOI: 10.1128/mBio.00579-17 
+PMCID: PMC5565962
+PMID: 28830940  [Indexed for MEDLINE]
+

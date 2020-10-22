@@ -1,0 +1,43 @@
+
+1. J Mol Graph Model. 2009 Jun-Jul;27(8):921-9. doi: 10.1016/j.jmgm.2009.02.007.
+Epub 2009 Mar 9.
+
+Bridge water mediates nevirapine binding to wild type and Y181C HIV-1 reverse
+transcriptase--evidence from molecular dynamics simulations and MM-PBSA
+calculations.
+
+Treesuwan W(1), Hannongbua S.
+
+Author information: 
+(1)Department of Chemistry, Faculty of Science, Kasetsart University, Bangkok
+10900, Thailand.
+
+The important role of the bridge water molecule in the binding of HIV-1 reverse
+transcriptase (RT) inhibitor complex was elucidated by molecular dynamics (MD)
+simulations using an MM-PBSA approach. Binding free energies and thermodynamic
+property differences for nevirapine bound to wild type and Y181C HIV-1 reverse
+transcriptase were investigated, and the results were compared with available
+experimental data. MD simulations over 3 ns revealed that the bridge water formed
+three characteristic hydrogen bonds to nevirapine and two residues, His235 and
+Leu234, in the binding pocket. The energetic derived model, which was determined 
+from the consecutive addition of a water molecule, confirmed that only the
+contribution from the bridge water was essential in the binding configuration.
+Including this bridge water in the MM-PBSA calculations reoriented the binding
+energies from -32.20 to -37.65 kcal/mol and -28.07 to -29.82 kcal/mol in the wild
+type and Y181C HIV-1 RT, respectively. From the attractive interactions via the
+bridge water, His235 and Leu234 became major contributions. We found that the
+bridge water is the key in stabilizing the bound complex; however, in the Y181C
+RT complex this bridge water showed weaker hydrogen bond formation, lack of
+attractive force to nevirapine and lack of binding efficiency, leading to the
+failure of nevirapine against the Y181C HIV-1 RT. Moreover, the dynamics of
+Val179, Tyr181Cys, Gly190 and Leu234 in the binding pocket showed additional
+attractive energetic contributions in helping nevirapine binding. These findings 
+that the presence of a water molecule in the hydrophobic binding site plays an
+important role are a step towards a quantitative understanding of the character
+of bridge water in enzyme-inhibitor binding. This can be helpful in developing
+designs for novel non-nucleoside HIV-1 RT inhibitors active against the mutant
+enzyme.
+
+DOI: 10.1016/j.jmgm.2009.02.007 
+PMID: 19414275  [Indexed for MEDLINE]
+

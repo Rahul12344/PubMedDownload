@@ -1,0 +1,52 @@
+
+1. J Infect Dis. 2017 Jan 15;215(2):312-320. doi: 10.1093/infdis/jiw531.
+
+Transcriptional Categorization of the Etiology of Pneumonia Syndrome in Pediatric
+Patients in Malaria-Endemic Areas.
+
+Silterra J(1), Gillette MA(1)(2)(3), Lanaspa M(4)(5), Pellé KG(1)(6), Valim
+C(1)(6), Ahmad R(1), Acácio S(5)(7), Almendinger KD(1), Tan Y(1)(8), Madrid
+L(4)(5), Alonso PL(4)(5), Carr SA(1), Wiegand RC(1), Bassat Q(4)(9)(5), Mesirov
+JP(1)(10), Milner DA Jr(1)(3)(6)(11), Wirth DF(1)(6).
+
+Author information: 
+(1)Broad Institute of MIT and Harvard, Cambridge.
+(2)Massachusetts General Hospital.
+(3)Harvard Medical School.
+(4)Barcelona Institute for Global Health, Barcelona Centre of International
+Health Research, Hospital Clínic-Universitat de Barcelona.
+(5)Centro de Investigação em Saúde de Manhiça.
+(6)Department of Immunology and Infectious Diseases, Harvard T. H. Chan School of
+Public Health.
+(7)National Institute of Health, Health Ministry, Maputo, Mozambique.
+(8)Bioinformatics Program, Boston University.
+(9)Institució Catalana de Recerca i Estudis Avançats, Passeig Lluís Companys 23, 
+08010 Barcelona.
+(10)Department of Medicine, University of California, San Diego.
+(11)Brigham and Women's Hospital, Boston, Massachusetts.
+
+Background: Pediatric acute respiratory distress in tropical settings is very
+common. Bacterial pneumonia is a major contributor to morbidity and mortality
+rates and requires adequate diagnosis for correct treatment. A rapid test that
+could identify bacterial (vs other) infections would have great clinical utility.
+Methods and Results: We performed RNA (RNA-seq) sequencing and analyzed the
+transcriptomes of 68 pediatric patients with well-characterized clinical
+phenotype to identify transcriptional features associated with each disease
+class. We refined the features to predictive models (support vector machine,
+elastic net) and validated those models in an independent test set of 37 patients
+(80%-85% accuracy).
+Conclusions: We have identified sets of genes that are differentially expressed
+in pediatric patients with pneumonia syndrome attributable to different
+infections and requiring different therapeutic interventions. Findings of this
+study demonstrate that human transcription signatures in infected patients
+recapitulate the underlying biology and provide models for predicting a bacterial
+diagnosis to inform treatment.
+
+© The Author 2016. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiw531 
+PMCID: PMC6392473
+PMID: 27837008  [Indexed for MEDLINE]
+

@@ -1,0 +1,47 @@
+
+1. J Mol Biol. 2020 Feb 14;432(4):1048-1063. doi: 10.1016/j.jmb.2019.12.029. Epub
+2019 Dec 27.
+
+Diverse Antibody Responses to Conserved Structural Motifs in Plasmodium
+falciparum Circumsporozoite Protein.
+
+Pholcharee T(1), Oyen D(1), Torres JL(1), Flores-Garcia Y(2), Martin GM(1),
+González-Páez GE(1), Emerling D(3), Volkmuth W(3), Locke E(4), King CR(4), Zavala
+F(2), Ward AB(1), Wilson IA(5).
+
+Author information: 
+(1)Department of Integrative Structural and Computational Biology, The Scripps
+Research Institute, La Jolla, CA, 92037, USA.
+(2)Malaria Research Institute, Johns Hopkins Bloomberg School of Public Health,
+Baltimore, MD, 21204, USA.
+(3)Atreca Inc., Redwood City, CA, 94063, USA.
+(4)PATH's Malaria Vaccine Initiative, PATH Center for Vaccine Innovation and
+Access, Washington, DC, 20001, USA.
+(5)Department of Integrative Structural and Computational Biology, The Scripps
+Research Institute, La Jolla, CA, 92037, USA; The Skaggs Institute for Chemical
+Biology, The Scripps Research Institute, La Jolla, CA, 92037, USA. Electronic
+address: wilson@scripps.edu.
+
+Malaria vaccine candidate RTS,S/AS01 is based on the central and C-terminal
+regions of the circumsporozoite protein (CSP) of P. falciparum. mAb397 was
+isolated from a volunteer in an RTS,S/AS01 clinical trial, and it protects mice
+from infection by malaria sporozoites. However, mAb397 originates from the less
+commonly used VH3-15 germline gene compared to the VH3-30/33 antibodies generally
+elicited by RTS,S to the central NANP repeat region of CSP. The crystal structure
+of mAb397 with an NPNA4 peptide shows that the central NPNA forms a type I β-turn
+and is the main recognition motif. In most anti-NANP antibodies studied to date, 
+a germline-encoded Trp is used to engage the Pro in NPNA β-turns, but here the
+Trp interacts with the first Asn. This "conserved" Trp, however, can arise from
+different germline genes and be located in the heavy or the light chain.
+Variation in the terminal ψ angles of the NPNA β-turns results in different
+dispositions of the subsequent NPNA and, hence, different stoichiometries and
+modes of antibody binding to rsCSP. Diverse protective antibodies against NANP
+repeats are therefore not limited to a single germline gene response or mode of
+binding.
+
+Copyright © 2019 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jmb.2019.12.029 
+PMCID: PMC7057269
+PMID: 31883801  [Indexed for MEDLINE]
+

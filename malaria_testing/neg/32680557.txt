@@ -1,0 +1,56 @@
+
+1. Parasit Vectors. 2020 Jul 17;13(1):354. doi: 10.1186/s13071-020-04195-y.
+
+A new protocol for absolute quantification of haemosporidian parasites in raptors
+and comparison with current assays.
+
+Huang X(1)(2), Huang D(1), Liang Y(1), Zhang L(1), Yang G(1), Liu B(3), Peng
+Y(1), Deng W(4)(5), Dong L(6)(7).
+
+Author information: 
+(1)College of Life Sciences, Beijing Normal University, Beijing, China.
+(2)MOE Key Laboratory for Biodiversity Sciences and Ecological Engineering,
+Beijing Normal University, Beijing, China.
+(3)Shaanxi Institute of Zoology, Xi'an, China.
+(4)College of Life Sciences, Beijing Normal University, Beijing, China.
+dengwh@bnu.edu.cn.
+(5)MOE Key Laboratory for Biodiversity Sciences and Ecological Engineering,
+Beijing Normal University, Beijing, China. dengwh@bnu.edu.cn.
+(6)College of Life Sciences, Beijing Normal University, Beijing, China.
+donglu@bnu.edu.cn.
+(7)MOE Key Laboratory for Biodiversity Sciences and Ecological Engineering,
+Beijing Normal University, Beijing, China. donglu@bnu.edu.cn.
+
+BACKGROUND: Accurate quantification of infection intensity is essential to
+estimate infection patterns of avian haemosporidian parasites in order to
+understand the evolution of host-parasite associations. Traditional microscopy is
+cost-effective but requires high-quality blood smears and considerable
+experience, while the widely used semi-quantitative qPCR methods are mostly
+employed with ideal, laboratory-based golden samples and standard curves, which
+may limit the comparison of parasitemia from different laboratories.
+METHODS: Here we present a digital droplet PCR (ddPCR) protocol for absolute
+quantification of avian haemosporidians in raptors. Novel primers were designed
+that target a conserved fragment of a rRNA region of the mitochondrial genome of 
+the parasites. Sensitivity and repeatability were evaluated compared to qPCR and 
+other assays.
+RESULTS: This ddPCR assay enables accurate quantification of haemosporidian
+parasites belonging to Plasmodium, Haemoproteus and Leucocytozoon with minimum
+infection quantities of 10-5 (i.e. one parasite copy in 105 host genomes) without
+the use of standard curves. Quantities assessed by ddPCR were more accurate than 
+qPCR using the same primers through reduction of non-specific amplification in
+low-intensity samples. The ddPCR technique was more consistent among technical
+duplicates and reactions, especially when infection intensities were low, and
+this technique demonstrated equal sensitivity with high correspondence
+(R2 = 0.97) compared to the widely used qPCR assay. Both ddPCR and qPCR
+identified more positive samples than the standard nested PCR protocol for the
+cytb gene used for barcoding avian haemosporidians.
+CONCLUSIONS: We developed a novel ddPCR assay enabling accurate quantification of
+avian haemosporidians without golden samples or standard curves. This assay can
+be used as a robust method for investigating infection patterns in different
+host-parasite assemblages and can facilitate the comparison of results from
+different laboratories.
+
+DOI: 10.1186/s13071-020-04195-y 
+PMCID: PMC7368712
+PMID: 32680557 
+

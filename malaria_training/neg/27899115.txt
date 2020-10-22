@@ -1,0 +1,63 @@
+
+1. Malar J. 2016 Nov 29;15(1):575.
+
+Characterizing the impact of sustained sulfadoxine/pyrimethamine use upon the
+Plasmodium falciparum population in Malawi.
+
+Ravenhall M(1), Benavente ED(1), Mipando M(2), Jensen AT(3), Sutherland CJ(1),
+Roper C(1), Sepúlveda N(1)(4), Kwiatkowski DP(5), Montgomery J(6)(7), Phiri
+KS(8), Terlouw A(6)(7), Craig A(6), Campino S(9), Ocholla H(10)(11), Clark
+TG(12)(13).
+
+Author information: 
+(1)Faculty of Infectious and Tropical Diseases, London School of Hygiene and
+Tropical Medicine, London, UK.
+(2)Department of Physiology, College of Medicine, University of Malawi, Blantyre,
+Malawi.
+(3)Centre for Medical Parasitology, University of Copenhagen, Copenhagen,
+Denmark.
+(4)Centre for Statistics and Applications of University of Lisbon, Lisbon,
+Portugal.
+(5)Wellcome Trust Sanger Institute, Hinxton, UK.
+(6)Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, UK.
+(7)Malawi-Liverpool-Wellcome Trust Clinical Research Programme, College of
+Medicine, University of Malawi, Blantyre, Malawi.
+(8)School of Public Health and Family Medicine, College of Medicine, University
+of Malawi, Blantyre, Malawi.
+(9)Faculty of Infectious and Tropical Diseases, London School of Hygiene and
+Tropical Medicine, London, UK. susana.campino@lshtm.ac.uk.
+(10)Malawi-Liverpool-Wellcome Trust Clinical Research Programme, College of
+Medicine, University of Malawi, Blantyre, Malawi. harold.ocholla@gmail.com.
+(11)School of Public Health and Family Medicine, College of Medicine, University 
+of Malawi, Blantyre, Malawi. harold.ocholla@gmail.com.
+(12)Faculty of Infectious and Tropical Diseases, London School of Hygiene and
+Tropical Medicine, London, UK. taane.clark@lshtm.ac.uk.
+(13)Faculty of Epidemiology and Population Health, London School of Hygiene and
+Tropical Medicine, London, UK. taane.clark@lshtm.ac.uk.
+
+BACKGROUND: Malawi experienced prolonged use of sulfadoxine/pyrimethamine (SP) as
+the front-line anti-malarial drug, with early replacement of chloroquine and
+delayed introduction of artemisinin-based combination therapy. Extended use of
+SP, and its continued application in pregnancy is impacting the genomic variation
+of the Plasmodium falciparum population.
+METHODS: Whole genome sequence data of P. falciparum isolates covering 2 years of
+transmission within Malawi, alongside global datasets, were used. More than
+745,000 SNPs were identified, and differences in allele frequencies between
+countries assessed, as well as genetic regions under positive selection
+determined.
+RESULTS: Positive selection signals were identified within dhps, dhfr and gch1,
+all components of the parasite folate pathway associated with SP resistance.
+Sitting predominantly on a dhfr triple mutation background, a novel copy number
+increase of ~twofold was identified in the gch1 promoter. This copy number was
+almost fixed (96.8% frequency) in Malawi samples, but found at less than 45%
+frequency in other African populations, and distinct from a whole gene
+duplication previously reported in Southeast Asian parasites.
+CONCLUSIONS: SP resistance selection pressures have been retained in the Malawian
+population, with known resistance dhfr mutations at fixation, complemented by a
+novel gch1 promoter duplication. The effects of the duplication on the fitness
+costs of SP variants and resistance need to be elucidated.
+
+DOI: 10.1186/s12936-016-1634-6 
+PMCID: PMC5129638
+PMID: 27899115  [Indexed for MEDLINE]
+

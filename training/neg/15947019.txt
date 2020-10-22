@@ -1,0 +1,45 @@
+
+1. Bioinformatics. 2005 Aug 1;21(15):3248-54. Epub 2005 Jun 9.
+
+A quantitative determination of multi-protein interactions by the analysis of
+confocal images using a pixel-by-pixel assessment algorithm.
+
+Goucher DR(1), Wincovitch SM, Garfield SH, Carbone KM, Malik TH.
+
+Author information: 
+(1)DVP/OVRR, Center for Biologics Evaluation and Research, US Food and Drug
+Administration, Bethesda, MD 20892, USA.
+
+MOTIVATION: Recent advances in confocal microscopy have allowed scientists to
+assess the expression, and to some extent, the interaction/colocalization of
+multiple molecules within cells and tissues. In some instances, accurately
+quantifying the colocalization of two or more proteins may be critical. This can 
+require the acquisition of multiple Z plane images (Z stacks) throughout a
+specimen and, as such, we report here the successful development of a freeware,
+open-source image analysis tool, IMAJIN_COLOC, developed in PERL (v. 5.8, build
+806), using the PERLMagick libraries (ImageMagick). Using a pixel-by-pixel
+analysis algorithm, IMAJIN_COLOC can analyze images for antigen expression (any
+number of colors) and can measure all possible combinations of colocalization for
+up to three colors by analyzing a Z stack gallery acquired for each sample. The
+simultaneous (i.e. in a single pass) analysis of three-color colocalization, and 
+batch analysis capabilities are distinctive features of this program.
+RESULTS: A control image, containing known individual and colocalized pixel
+counts, was used to validate the accuracy of IMAJIN_COLOC. As further validation,
+pixel counts and colocalization values from the control image were compared to
+those obtained with the software packaged with the Zeiss laser-scanning
+microscope (LSM AIM, version 3.2). The values from both programs were found to be
+identical. To demonstrate the applicability of this program in addressing novel
+biological questions, we examined the role of neurons in eliciting an immune
+reaction in response to viral infection. Specifically, we successfully examined
+expression of the chemokine RANTES in measles virus (MV) infected hippocampal
+neurons and quantified changes in RANTES production throughout the disease
+period. The resultant quantitative data were also evaluated visually, using a gif
+image created during the analysis.
+AVAILABILITY: PERL (ActivePerl, version 5.8) is available at activestate.com; the
+PERLMagick libraries are available at imagemagick.org, and IMAJIN_COLOC, the
+source code and user documentation can be downloaded from
+http://www.fda.gov/cber/research/imaging/imageanalysis.htm.
+
+DOI: 10.1093/bioinformatics/bti531 
+PMID: 15947019  [Indexed for MEDLINE]
+

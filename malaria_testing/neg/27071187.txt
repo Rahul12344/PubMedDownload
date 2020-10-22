@@ -1,0 +1,53 @@
+
+1. IEEE/ACM Trans Comput Biol Bioinform. 2018 Mar-Apr;15(2):469-481. doi:
+10.1109/TCBB.2016.2550444. Epub 2016 Apr 7.
+
+Algorithmic Mapping and Characterization of the Drug-Induced Phenotypic-Response 
+Space of Parasites Causing Schistosomiasis.
+
+Singh R, Beasley R, Long T, Caffrey CR.
+
+Neglected tropical diseases, especially those caused by helminths, constitute
+some of the most common infections of the world's poorest people. Amongst these, 
+schistosomiasis (bilharzia or 'snail fever'), caused by blood flukes of the genus
+Schistosoma, ranks second only to malaria in terms of human impact: two hundred
+million people are infected and close to 800 million are at risk of infection.
+Drug screening against helminths poses unique challenges: the parasite cannot be 
+cloned and is difficult to target using gene knockouts or RNAi. Consequently,
+both lead identification and validation involve phenotypic screening, where
+parasites are exposed to compounds whose effects are determined through the
+analysis of the ensuing phenotypic responses. The efficacy of leads thus
+identified derives from one or more or even unknown molecular mechanisms of
+action. The two most immediate and significant challenges that confront the
+state-of-the-art in this area are: the development of automated and quantitative 
+phenotypic screening techniques and the mapping and quantitative characterization
+of the totality of phenotypic responses of the parasite. In this paper, we
+investigate and propose solutions for the latter problem in terms of the
+following: (1) mathematical formulation and algorithms that allow rigorous
+representation of the phenotypic response space of the parasite, (2) application 
+of graph-theoretic and network analysis techniques for quantitative modeling and 
+characterization of the phenotypic space, and (3) application of the
+aforementioned methodology to analyze the phenotypic space of S. mansoni - one of
+the etiological agents of schistosomiasis, induced by compounds that target its
+polo-like kinase 1 (PLK 1) gene - a recently validated drug target. In our
+approach, first, bio-image analysis algorithms are used to quantify the
+phenotypic responses of different drugs. Next, these responses are linearly
+mapped into a low- dimensional space using Principle Component Analysis (PCA).
+The phenotype space is modeled using neighborhood graphs which are used to
+represent the similarity amongst the phenotypes. These graphs are characterized
+and explored using network analysis algorithms. We present a number of results
+related to both the nature of the phenotypic space of the S. mansoni parasite as 
+well as algorithmic issues encountered in constructing and analyzing the
+phenotypic-response space. In particular, the phenotype distribution of the
+parasite was found to have a distinct shape and topology. We have also
+quantitatively characterized the phenotypic space by varying critical model
+parameters. Finally, these maps of the phenotype space allows visualization and
+reasoning about complex relationships between putative drugs and their
+system-wide effects and can serve as a highly efficient paradigm for assimilating
+and unifying information from phenotypic screens both during lead identification 
+and lead optimization.
+
+DOI: 10.1109/TCBB.2016.2550444 
+PMCID: PMC5915339
+PMID: 27071187  [Indexed for MEDLINE]
+

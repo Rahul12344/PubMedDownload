@@ -1,0 +1,74 @@
+
+1. Parasit Vectors. 2015 Sep 17;8:474. doi: 10.1186/s13071-015-1083-z.
+
+RNA-seq analyses of changes in the Anopheles gambiae transcriptome associated
+with resistance to pyrethroids in Kenya: identification of candidate-resistance
+genes and candidate-resistance SNPs.
+
+Bonizzoni M(1)(2), Ochomo E(3), Dunn WA(4), Britton M(5), Afrane Y(6), Zhou G(7),
+Hartsel J(8), Lee MC(9), Xu J(10), Githeko A(11), Fass J(12), Yan G(13).
+
+Author information: 
+(1)Program in Public Health, University of California, Irvine, CA, USA.
+m.bonizzoni@unipv.it.
+(2)Department of Biology and Biotechnology, University of Pavia, Pavia, Italy.
+m.bonizzoni@unipv.it.
+(3)Centre for Global health Research, Kenya Medical Research Institute, Kisumu,
+Kenya. ericochomo@yahoo.com.
+(4)Department of Ecology and Evolutionary Biology, Yale University, New Haven,
+CT, USA. gus.dunn@yale.edu.
+(5)Bioinformatics Core of the UC Davis Genome Center, University of California,
+Davis, CA, 95616, USA. mtbritton@ucdavis.edu.
+(6)School of Health Sciences, Jaramogi Oginga Odinga University of Science and
+Technology, Bondo, Kenya. yaw_afrane@yahoo.com.
+(7)Program in Public Health, University of California, Irvine, CA, USA.
+zhoug@uci.edu.
+(8)Delta-9 Technologies, San Diego, CA, 92101, USA. jhartsel@gmail.com.
+(9)Program in Public Health, University of California, Irvine, CA, USA.
+mingchil@uci.edu.
+(10)Program in Public Health, University of California, Irvine, CA, USA.
+jiabax1@uci.edu.
+(11)Centre for Global health Research, Kenya Medical Research Institute, Kisumu, 
+Kenya. Githeko@yahoo.com.
+(12)Bioinformatics Core of the UC Davis Genome Center, University of California, 
+Davis, CA, 95616, USA. joseph.fass@gmail.com.
+(13)Program in Public Health, University of California, Irvine, CA, USA.
+guiyuny@uci.edu.
+
+BACKGROUND: The extensive use of pyrethroids for control of malaria vectors,
+driven by their cost, efficacy and safety, has led to widespread resistance. To
+favor their sustainable use, the World Health Organization (WHO) formulated an
+insecticide resistance management plan, which includes the identification of the 
+mechanisms of resistance and resistance surveillance. Recognized physiological
+mechanisms of resistance include target site mutations in the para voltage-gated 
+sodium channel, metabolic detoxification and penetration resistance. Such
+understanding of resistance mechanisms has allowed the development of resistance 
+monitoring tools, including genotyping of the kdr mutation L1014F/S in the para
+gene.
+METHODS: The sequence-based technique RNA-seq was applied to study changes in the
+transcriptome of deltamethrin-resistant and -susceptible Anopheles gambiae
+mosquitoes from the Western Province of Kenya. The resulting gene expression
+profiles were compared to data in the most recent literature to derive a list of 
+candidate resistance genes. RNA-seq data were analyzed also to identify sequence 
+polymorphisms linked to resistance.
+RESULTS: A total of five candidate-resistance genes (AGAP04177, AGAP004572,
+AGAP008840, AGAP007530 and AGAP013036) were identified with altered expression
+between resistant and susceptible mosquitoes from West and East Africa. A change 
+from G to C at position 36043997 of chromosome 3R resulting in A101G of the
+sulfotransferase gene AGAP009551 was significantly associated with the resistance
+phenotype (odds ratio: 5.10). The kdr L1014S mutation was detected at similar
+frequencies in both phenotypically resistant and susceptible mosquitoes,
+suggesting it is no longer fully predictive of the resistant phenotype.
+CONCLUSIONS: Overall, these results support the conclusion that resistance to
+pyrethroids is a complex and evolving phenotype, dependent on multiple gene
+functions including, but not limited to, metabolic detoxification. Functional
+convergence among metabolic detoxification genes may exist, with the role of each
+gene being modulated by the life history and selection pressure on mosquito
+populations. As a consequence, biochemical assays that quantify overall enzyme
+activity may be a more suitable method for predicting metabolic resistance than
+gene-based assays.
+
+DOI: 10.1186/s13071-015-1083-z 
+PMCID: PMC4574070
+PMID: 26381877  [Indexed for MEDLINE]
+

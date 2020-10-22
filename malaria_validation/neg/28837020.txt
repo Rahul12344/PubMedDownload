@@ -1,0 +1,38 @@
+
+1. Elife. 2017 Aug 24;6. pii: e25008. doi: 10.7554/eLife.25008.
+
+Modelling the drivers of the spread of Plasmodium falciparum hrp2 gene deletions 
+in sub-Saharan Africa.
+
+Watson OJ(1), Slater HC(1), Verity R(1), Parr JB(2), Mwandagalirwa MK(2)(3),
+Tshefu A(3), Meshnick SR(2), Ghani AC(1).
+
+Author information: 
+(1)Medical Research Council Centre for Outbreak Analysis and Modelling,
+Department of Infectious Disease Epidemiology, Imperial College London, London,
+United Kingdom.
+(2)Division of Infectious Diseases, University of North Carolina, Chapel Hill,
+United States.
+(3)Ecole de Santé Publique, Faculté de Medecine, Université de Kinshasa,
+Kinshasa, Democratic Republic of the Congo.
+
+Rapid diagnostic tests (RDTs) have transformed malaria diagnosis. The most
+prevalent P. falciparum RDTs detect histidine-rich protein 2 (PfHRP2). However,
+pfhrp2 gene deletions yielding false-negative RDTs, first reported in South
+America in 2010, have been confirmed in Africa and Asia. We developed a
+mathematical model to explore the potential for RDT-led diagnosis to drive
+selection of pfhrp2-deleted parasites. Low malaria prevalence and high
+frequencies of people seeking treatment resulted in the greatest selection
+pressure. Calibrating our model against confirmed pfhrp2-deletions in the
+Democratic Republic of Congo, we estimate a starting frequency of 6%
+pfhrp2-deletion prior to RDT introduction. Furthermore, the patterns observed
+necessitate a degree of selection driven by the introduction of PfHRP2-based
+RDT-guided treatment. Combining this with parasite prevalence and treatment
+coverage estimates, we map the model-predicted spread of pfhrp2-deletion, and
+identify the geographic regions in which surveillance for pfhrp2-deletion should 
+be prioritised.
+
+DOI: 10.7554/eLife.25008 
+PMCID: PMC5602420
+PMID: 28837020  [Indexed for MEDLINE]
+

@@ -1,0 +1,63 @@
+
+1. Proc Natl Acad Sci U S A. 2017 May 16;114(20):E4103-E4111. doi:
+10.1073/pnas.1613018114. Epub 2017 May 1.
+
+Evidence of strain structure in Plasmodium falciparum var gene repertoires in
+children from Gabon, West Africa.
+
+Day KP(1)(2), Artzy-Randrup Y(3)(4), Tiedje KE(5)(2), Rougeron V(2)(6), Chen
+DS(2)(7), Rask TS(5)(2), Rorick MM(4)(8), Migot-Nabias F(9)(10), Deloron
+P(9)(10), Luty AJF(9)(10), Pascual M(8)(11).
+
+Author information: 
+(1)School of Biosciences, The University of Melbourne, Parkville, VIC 3052,
+Australia; karen.day@unimelb.edu.au.
+(2)Department of Microbiology, New York University, New York, NY 10016.
+(3)Theoretical Ecology Group, Institute for Biodiversity and Ecosystem Dynamics, 
+University of Amsterdam, 1090 GE Amsterdam, The Netherlands.
+(4)Department of Ecology and Evolutionary Biology, University of Michigan, Ann
+Arbor, MI 48109.
+(5)School of Biosciences, The University of Melbourne, Parkville, VIC 3052,
+Australia.
+(6)Laboratoire Maladies Infectieuses et Vecteurs: Ecologie, Génétique, Evolution 
+et Contrôle, UMR 224-5290 CNRS, Institut de Recherche pour le
+Développement-Université de Montpellier, Centre Institut de Recherche pour le
+Développement de Montpellier, 34394 Montpellier, France.
+(7)Department of Medicine, New York Medical College, Valhalla, NY 10595.
+(8)Department of Ecology and Evolution, University of Chicago, Chicago, IL 60637.
+(9)Institut de Recherche pour le Développement, UMR 216 Mère et Enfant Face aux
+Infections Tropicales, 75006 Paris, France.
+(10)Communautés d'Universités et Établissements, Sorbonne Paris Cité, Université 
+Paris Descartes, Faculté des Sciences Pharmaceutiques et Biologiques, 75006
+Paris, France.
+(11)Santa Fe Institute, Santa Fe, NM 87501.
+
+Existing theory on competition for hosts between pathogen strains has proposed
+that immune selection can lead to the maintenance of strain structure consisting 
+of discrete, weakly overlapping antigenic repertoires. This prediction of strain 
+theory has conceptual overlap with fundamental ideas in ecology on niche
+partitioning and limiting similarity between coexisting species in an ecosystem, 
+which oppose the hypothesis of neutral coexistence. For Plasmodium falciparum,
+strain theory has been specifically proposed in relation to the major surface
+antigen of the blood stage, known as PfEMP1 and encoded by the multicopy
+multigene family known as the var genes. Deep sampling of the DBLα domain of var 
+genes in the local population of Bakoumba, West Africa, was completed to define
+whether patterns of repertoire overlap support a role of immune selection under
+the opposing force of high outcrossing, a characteristic of areas of intense
+malaria transmission. Using a 454 high-throughput sequencing protocol, we report 
+extremely high diversity of the DBLα domain and a large parasite population with 
+DBLα repertoires structured into nonrandom patterns of overlap. Such population
+structure, significant for the high diversity of var genes that compose it at a
+local level, supports the existence of "strains" characterized by distinct var
+gene repertoires. Nonneutral, frequency-dependent competition would be at play
+and could underlie these patterns. With a computational experiment that simulates
+an intervention similar to mass drug administration, we argue that the observed
+repertoire structure matters for the antigenic var diversity of the parasite
+population remaining after intervention.
+
+DOI: 10.1073/pnas.1613018114 
+PMCID: PMC5441825
+PMID: 28461509  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

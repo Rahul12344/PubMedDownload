@@ -1,0 +1,45 @@
+
+1. PLoS Pathog. 2013;9(5):e1003345. doi: 10.1371/journal.ppat.1003345. Epub 2013 May
+23.
+
+Class A scavenger receptor 1 (MSR1) restricts hepatitis C virus replication by
+mediating toll-like receptor 3 recognition of viral RNAs produced in neighboring 
+cells.
+
+Dansako H(1), Yamane D, Welsch C, McGivern DR, Hu F, Kato N, Lemon SM.
+
+Author information: 
+(1)Division of Infectious Diseases, Department of Medicine, and the Lineberger
+Comprehensive Cancer Center, The University of North Carolina at Chapel Hill,
+Chapel Hill, North Carolina, United States of America.
+
+Persistent infections with hepatitis C virus (HCV) may result in life-threatening
+liver disease, including cirrhosis and cancer, and impose an important burden on 
+human health. Understanding how the virus is capable of achieving persistence in 
+the majority of those infected is thus an important goal. Although HCV has
+evolved multiple mechanisms to disrupt and block cellular signaling pathways
+involved in the induction of interferon (IFN) responses, IFN-stimulated gene
+(ISG) expression is typically prominent in the HCV-infected liver. Here, we show 
+that Toll-like receptor 3 (TLR3) expressed within uninfected hepatocytes is
+capable of sensing infection in adjacent cells, initiating a local antiviral
+response that partially restricts HCV replication. We demonstrate that this is
+dependent upon the expression of class A scavenger receptor type 1 (MSR1). MSR1
+binds extracellular dsRNA, mediating its endocytosis and transport toward the
+endosome where it is engaged by TLR3, thereby triggering IFN responses in both
+infected and uninfected cells. RNAi-mediated knockdown of MSR1 expression blocks 
+TLR3 sensing of HCV in infected hepatocyte cultures, leading to increased
+cellular permissiveness to virus infection. Exogenous expression of Myc-MSR1
+restores TLR3 signaling in MSR1-depleted cells with subsequent induction of an
+antiviral state. A series of conserved basic residues within the carboxy-terminus
+of the collagen superfamily domain of MSR1 are required for binding and transport
+of dsRNA, and likely facilitate acidification-dependent release of dsRNA at the
+site of TLR3 expression in the endosome. Our findings reveal MSR1 to be a
+critical component of a TLR3-mediated pattern recognition receptor response that 
+exerts an antiviral state in both infected and uninfected hepatocytes, thereby
+limiting the impact of HCV proteins that disrupt IFN signaling in infected cells 
+and restricting the spread of HCV within the liver.
+
+DOI: 10.1371/journal.ppat.1003345 
+PMCID: PMC3662657
+PMID: 23717201  [Indexed for MEDLINE]
+

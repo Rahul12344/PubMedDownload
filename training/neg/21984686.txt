@@ -1,0 +1,35 @@
+
+1. Antivir Chem Chemother. 2011 Oct 7;22(2):67-74. doi: 10.3851/IMP1857.
+
+Evaluation of a system to screen for stimulators of non-specific DNA nicking by
+HIV-1 integrase: application to a library of 50,000 compounds.
+
+Sudol M(1), Fritz JL, Tran M, Robertson GP, Ealy JB, Katzman M.
+
+Author information: 
+(1)Department of Medicine, Penn State College of Medicine, Milton S Hershey
+Medical Center, Hershey, PA, USA.
+
+BACKGROUND: In addition to activities needed to catalyse integration, retroviral 
+integrases exhibit non-specific endonuclease activity that is enhanced by certain
+small compounds, suggesting that integrase could be stimulated to damage viral
+DNA before integration occurs.
+METHODS: A non-radioactive, plate-based, solution phase, fluorescence assay was
+used to screen a library of 50,080 drug-like chemicals for stimulation of
+non-specific DNA nicking by HIV-1 integrase.
+RESULTS: A semi-automated workflow was established and primary hits were readily 
+identified from a graphic output. Overall, 0.6% of the chemicals caused a large
+increase in fluorescence (the primary hit rate) without also having visible
+colour that could have artifactually caused this result. None of the potential
+stimulators from this moderate-size library, however, passed a secondary test
+that included an inactive integrase mutant that assessed whether the increased
+fluorescence depended on the endonuclease activity of integrase.
+CONCLUSIONS: This first attempt at identifying integrase stimulator compounds
+establishes the necessary logistics and workflow required. The results from this 
+study should encourage larger scale high-throughput screening to advance the
+novel antiviral strategy of stimulating integrase to damage retroviral DNA.
+
+DOI: 10.3851/IMP1857 
+PMCID: PMC3651814
+PMID: 21984686  [Indexed for MEDLINE]
+

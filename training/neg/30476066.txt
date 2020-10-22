@@ -1,0 +1,46 @@
+
+1. Gigascience. 2018 Dec 1;7(12). doi: 10.1093/gigascience/giy139.
+
+Dynamic transcriptome profiling dataset of vaccinia virus obtained from long-read
+sequencing techniques.
+
+Tombácz D(1), Prazsák I(1), Szucs A(1), Dénes B(2), Snyder M(3), Boldogkoi Z(1).
+
+Author information: 
+(1)Department of Medical Biology, Faculty of Medicine, University of Szeged,
+Somogyi B. u. 4., 6720 Szeged, Hungary.
+(2)Veterinary Diagnostic Directorate of the National Food Chain Safety Office,
+Tábornok u. 2., 1143 Budapest, Hungary.
+(3)Department of Genetics, School of Medicine, Stanford University, 300 Pasteur
+Dr, Stanford, California, USA.
+
+Background: Poxviruses are large DNA viruses that infect humans and animals.
+Vaccinia virus (VACV) has been applied as a live vaccine for immunization against
+smallpox, which was eradicated by 1980 as a result of worldwide vaccination. VACV
+is the prototype of poxviruses in the investigation of the molecular pathogenesis
+of the virus. Short-read sequencing methods have revolutionized transcriptomics; 
+however, they are not efficient in distinguishing between the RNA isoforms and
+transcript overlaps. Long-read sequencing (LRS) is much better suited to solve
+these problems and also allow direct RNA sequencing. Despite the scientific
+relevance of VACV, no LRS data have been generated for the viral transcriptome to
+date.
+Findings: For the deep characterization of the VACV RNA profile, various LRS
+platforms and library preparation approaches were applied. The raw reads were
+mapped to the VACV reference genome and also to the host (Chlorocebus sabaeus)
+genome. In this study, we applied the Pacific Biosciences RSII and Sequel
+platforms, which altogether resulted in 937,531 mapped reads of inserts (1.42
+Gb), while we obtained 2,160,348 aligned reads (1.75 Gb) from the different
+library preparation methods using the MinION device from Oxford Nanopore
+Technologies.
+Conclusions: By applying cutting-edge technologies, we were able to generate a
+large dataset that can serve as a valuable resource for the investigation of the 
+dynamic VACV transcriptome, the virus-host interactions, and RNA base
+modifications. These data can provide useful information for novel gene
+annotations in the VACV genome. Our dataset can also be used to analyze the
+currently available LRS platforms, library preparation methods, and
+bioinformatics pipelines.
+
+DOI: 10.1093/gigascience/giy139 
+PMCID: PMC6290886
+PMID: 30476066  [Indexed for MEDLINE]
+

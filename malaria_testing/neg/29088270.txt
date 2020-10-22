@@ -1,0 +1,42 @@
+
+1. PLoS One. 2017 Oct 31;12(10):e0186614. doi: 10.1371/journal.pone.0186614.
+eCollection 2017.
+
+IRAK4 is essential for TLR9-induced suppression of Epstein-Barr virus BZLF1
+transcription in Akata Burkitt's lymphoma cells.
+
+Jordi M(1)(2), Marty J(1)(2), Mordasini V(1)(2), Lünemann A(1)(2), McComb
+S(1)(2), Bernasconi M(1)(2), Nadal D(1)(2).
+
+Author information: 
+(1)Laboratory for Experimental Infectious Diseases and Cancer Research of the
+Division of Infectious Diseases and Hospital Epidemiology and the Division of
+Oncology, University Children's Hospital of Zurich, University of Zurich, Zurich,
+Switzerland.
+(2)Children's Research Center, University Children's Hospital of Zurich,
+University of Zurich, Zurich, Switzerland.
+
+Burkitt's lymphoma (BL) is the most common childhood cancer in equatorial Africa,
+and is endemic to areas where people are chronically co-infected with
+Epstein-Barr virus (EBV) and the malaria pathogen Plasmodium falciparum. The
+contribution of these pathogens in the oncogenic process remains poorly
+understood. We showed earlier that the activation of Toll-like receptor (TLR) 9
+by hemozoin, a disposal product formed from the digestion of blood by P.
+falciparum, suppresses the lytic reactivation of EBV in BL cells. EBV lytic
+reactivation is regulated by the expression of transcription factor Zta (ZEBRA), 
+encoded by the EBV gene BZLF1. Here, we explore in the BL cell line Akata, the
+mechanism involved in repression by TLR9 of expression of BZLF1. We show that
+BZLF1 repression is mediated upon TLR9 engagement by a mechanism that is largely 
+independent of de novo protein synthesis. By CRISPR/Cas9-induced inactivation of 
+TLR9, MyD88, IRAK4 and IRAK1 we confirm that BZLF1 repression is dependent on
+functional TLR9 and MyD88 signaling, and identify IRAK4 as an essential element
+for TLR9-induced repression of BZLF1 expression upon BCR cross-linking. Our
+results unprecedentedly show that TLR9-mediated inhibition of lytic EBV is
+largely independent of new protein synthesis and demonstrate the central roles of
+MyD88 and IRAK4 in this process contributing to EBV's persistence in the host's
+B-cell pool.
+
+DOI: 10.1371/journal.pone.0186614 
+PMCID: PMC5663394
+PMID: 29088270  [Indexed for MEDLINE]
+

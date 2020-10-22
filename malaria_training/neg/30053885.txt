@@ -1,0 +1,59 @@
+
+1. Malar J. 2018 Jul 27;17(1):274. doi: 10.1186/s12936-018-2423-1.
+
+Diversity and natural selection on the thrombospondin-related adhesive protein
+(TRAP) gene of Plasmodium knowlesi in Malaysia.
+
+Ahmed MA(1), Lau YL(2), Quan FS(3)(4).
+
+Author information: 
+(1)Department of Medical Zoology, Kyung Hee University School of Medicine, Seoul,
+130-705, South Korea.
+(2)Department of Parasitology, University of Malaya, Kuala Lumpur, Malaysia.
+(3)Department of Medical Zoology, Kyung Hee University School of Medicine, Seoul,
+130-705, South Korea. fquan01@gmail.com.
+(4)Biomedical Science Institute, Kyung Hee University, Seoul, 130-705, South
+Korea. fquan01@gmail.com.
+
+BACKGROUND: Plasmodium knowlesi a parasite of the macaques is currently the most 
+common cause of human malaria in Malaysia. The thrombospondin-related adhesive
+protein (TRAP) gene is pre-erythrocytic stage antigen. It is a well-characterized
+vaccine candidate in Plasmodium vivax and Plasmodium falciparum, however, no
+study has been done in the orthologous gene of P. knowlesi. This study
+investigates nucleotide diversity, haplotypes, natural selection and population
+differentiation of full-length pktrap genes in clinical samples from Malaysia.
+METHODS: Forty full-length pktrap sequences from clinical isolates of Malaysia
+along with the reference H-strain were downloaded from published databases.
+Genetic diversity, polymorphism, haplotype and natural selection were determined 
+using DnaSP 5.10 software. McDonald-Kreitman test was conducted using P. vivax
+and Plasmodium coatneyi as ortholog sequence in DnaSP 5.10 software. Population
+genetic differentiation index (FST) of parasite populations was determined using 
+Arlequin v3.5. Phylogenetic relationships between trap ortholog genes were
+determined using MEGA 5.0 software.
+RESULTS: Comparison of 40 full-length pktrap sequences along with the H-strain
+identified 74 SNPs (53 non-synonymous and 21 synonymous substitutions) resulting 
+in 29 haplotypes. Analysis of the full-length gene showed that the nucleotide
+diversity was lower compared to its nearest ortholog pvtrap. Domain-wise analysis
+indicated that the proline/asparagine rich region had higher nucleotide diversity
+compared to the von Willebrand factor domain and the thrombospondin-type-1
+domain. McDonald-Kreitman test identified that the ratio of the number of
+nonsynonymous to synonymous polymorphic sites within P. knowlesi was
+significantly higher than that of the number of nonsynonymous to synonymous fixed
+sites between P. knowlesi and P. vivax. The von Willebrand factor domain also
+indicated balancing selection using MK test, however, it did not give significant
+results when tested with P. coatneyi as an outgroup. Phylogenetic analysis of
+full-length genes identified three distinct sub-clusters of P. knowlesi, one
+originating from Peninsular Malaysia and two originating from Malaysian Borneo.
+High population differentiation values was observed within samples from
+Peninsular Malaysia and Malaysian Borneo.
+CONCLUSIONS: This study is the first to report on the genetic diversity and
+natural selection of full-length pktrap. Low level of genetic diversity was found
+across the full-length gene of pktrap. Balancing selection of the von Willebrand 
+factor domain indicated that TRAP could be a target in inducing immune response
+against P. knowlesi infections. However, higher number of samples would be
+necessary to further confirm the findings.
+
+DOI: 10.1186/s12936-018-2423-1 
+PMCID: PMC6062916
+PMID: 30053885  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+1. Methods Mol Biol. 2020;2151:109-133. doi: 10.1007/978-1-0716-0635-3_10.
+
+Step-by-Step Bioinformatics Analysis of Schistosoma mansoni Long Non-coding RNA
+Sequences.
+
+Maciel LF(1)(2), Verjovski-Almeida S(3)(4).
+
+Author information: 
+(1)Instituto Butantan, São Paulo, SP, Brazil.
+(2)Instituto de Química, Universidade de São Paulo, São Paulo, SP, Brazil.
+(3)Instituto Butantan, São Paulo, SP, Brazil. verjo@iq.usp.br.
+(4)Instituto de Química, Universidade de São Paulo, São Paulo, SP, Brazil.
+verjo@iq.usp.br.
+
+In the last few years, long non-coding RNAs (lncRNAs) have been widely studied in
+humans, and their relevance for physiological and pathological conditions has
+been demonstrated. In parasites, there are only a few works, such as in
+Plasmodium falciparum, where it was shown that an lncRNA regulates the expression
+of a gene associated with immune system evasion, also indicating the relevance of
+understanding the role of this class of RNAs in parasites. In Schistosoma
+mansoni, in the last 2 years, there were four published articles related to the
+annotation of lncRNAs in different life cycle stages using RNA-Seq libraries. In 
+order to make this process of lncRNA identification and annotation more
+accessible to biologists with no bioinformatics training, considering the growing
+number of S. mansoni RNA-Seq libraries publicly available from different sources,
+such as ovary tissues from bi-sex and single-sex infections, and the potential of
+lncRNAs as therapeutic targets, we provide this step-by-step protocol of lncRNA
+identification and quantification. This guide includes the download of RNA-Seq
+libraries from a public database and reads processing and mapping against the
+genome, transcript reconstruction, novel lncRNA identification, transcripts
+expression level determination, and the identification of differentially
+expressed lncRNAs.
+
+DOI: 10.1007/978-1-0716-0635-3_10 
+PMID: 32452000 
+

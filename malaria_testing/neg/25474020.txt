@@ -1,0 +1,43 @@
+
+1. PLoS One. 2014 Dec 4;9(12):e114461. doi: 10.1371/journal.pone.0114461.
+eCollection 2014.
+
+Inference of the oxidative stress network in Anopheles stephensi upon Plasmodium 
+infection.
+
+Shrinet J(1), Nandal UK(2), Adak T(3), Bhatnagar RK(1), Sunil S(1).
+
+Author information: 
+(1)International Centre for Genetic Engineering and Biotechnology, New Delhi,
+India.
+(2)Bioinformatics Laboratory, Department of Clinical Epidemiology, Biostatistics 
+and Bioinformatics, Academic Medical Center, Amsterdam, the Netherlands.
+(3)National Institute of Malaria Research, New Delhi, India.
+
+Ookinete invasion of Anopheles midgut is a critical step for malaria
+transmission; the parasite numbers drop drastically and practically reach a
+minimum during the parasite's whole life cycle. At this stage, the parasite as
+well as the vector undergoes immense oxidative stress. Thereafter, the vector
+undergoes oxidative stress at different time points as the parasite invades its
+tissues during the parasite development. The present study was undertaken to
+reconstruct the network of differentially expressed genes involved in oxidative
+stress in Anopheles stephensi during Plasmodium development and maturation in the
+midgut. Using high throughput next generation sequencing methods, we generated
+the transcriptome of the An. stephensi midgut during Plasmodium vinckei petteri
+oocyst invasion of the midgut epithelium. Further, we utilized large datasets
+available on public domain on Anopheles during Plasmodium ookinete invasion and
+Drosophila datasets and arrived upon clusters of genes that may play a role in
+oxidative stress. Finally, we used support vector machines for the functional
+prediction of the un-annotated genes of An. stephensi. Integrating the results
+from all the different data analyses, we identified a total of 516 genes that
+were involved in oxidative stress in An. stephensi during Plasmodium development.
+The significantly regulated genes were further extracted from this gene cluster
+and used to infer an oxidative stress network of An. stephensi. Using system
+biology approaches, we have been able to ascertain the role of several putative
+genes in An. stephensi with respect to oxidative stress. Further experimental
+validations of these genes are underway.
+
+DOI: 10.1371/journal.pone.0114461 
+PMCID: PMC4256432
+PMID: 25474020  [Indexed for MEDLINE]
+

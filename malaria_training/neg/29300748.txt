@@ -1,0 +1,46 @@
+
+1. PLoS Comput Biol. 2018 Jan 4;14(1):e1005895. doi: 10.1371/journal.pcbi.1005895.
+eCollection 2018 Jan.
+
+Functional interrogation of Plasmodium genus metabolism identifies species- and
+stage-specific differences in nutrient essentiality and drug targeting.
+
+Abdel-Haleem AM(1)(2), Hefzi H(3)(4), Mineta K(1), Gao X(1), Gojobori T(1),
+Palsson BO(3)(4)(5), Lewis NE(4)(5), Jamshidi N(6)(7).
+
+Author information: 
+(1)King Abdullah University of Science and Technology (KAUST), Computational
+Bioscience Research Centre (CBRC), Thuwal, Saudi Arabia.
+(2)King Abdullah University of Science and Technology (KAUST), Biological and
+Environmental Sciences and Engineering (BESE) division, Thuwal, Saudi Arabia.
+(3)Department of Bioengineering, University of California, San Diego, La Jolla,
+CA, United States of America.
+(4)Novo Nordisk Foundation Center for Biosustainability at the University of
+California, San Diego School of Medicine, La Jolla, CA, United States of America.
+(5)Department of Pediatrics, University of California, San Diego, La Jolla, CA,
+United States of America.
+(6)Institute of Engineering in Medicine, University of California, San Diego, La 
+Jolla, CA, United States of America.
+(7)Department of Radiological Sciences, University of California, Los Angeles,
+CA, United States of America.
+
+Several antimalarial drugs exist, but differences between life cycle stages among
+malaria species pose challenges for developing more effective therapies. To
+understand the diversity among stages and species, we reconstructed genome-scale 
+metabolic models (GeMMs) of metabolism for five life cycle stages and five
+species of Plasmodium spanning the blood, transmission, and mosquito stages. The 
+stage-specific models of Plasmodium falciparum uncovered stage-dependent changes 
+in central carbon metabolism and predicted potential targets that could affect
+several life cycle stages. The species-specific models further highlight
+differences between experimental animal models and the human-infecting species.
+Comparisons between human- and rodent-infecting species revealed differences in
+thiamine (vitamin B1), choline, and pantothenate (vitamin B5) metabolism. Thus,
+we show that genome-scale analysis of multiple stages and species of Plasmodium
+can prioritize potential drug targets that could be both anti-malarials and
+transmission blocking agents, in addition to guiding translation from non-human
+experimental disease models.
+
+DOI: 10.1371/journal.pcbi.1005895 
+PMCID: PMC5771636
+PMID: 29300748  [Indexed for MEDLINE]
+

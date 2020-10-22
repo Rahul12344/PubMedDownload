@@ -1,0 +1,51 @@
+
+1. Nat Commun. 2017 Mar 6;8:14574. doi: 10.1038/ncomms14574.
+
+A potent antimalarial benzoxaborole targets a Plasmodium falciparum cleavage and 
+polyadenylation specificity factor homologue.
+
+Sonoiki E(1)(2), Ng CL(3), Lee MC(3), Guo D(1), Zhang YK(4), Zhou Y(4), Alley
+MR(4), Ahyong V(5), Sanz LM(6), Lafuente-Monasterio MJ(6), Dong C(4), Schupp
+PG(3), Gut J(1), Legac J(1), Cooper RA(7), Gamo FJ(6), DeRisi J(5), Freund YR(4),
+Fidock DA(3)(8), Rosenthal PJ(1).
+
+Author information: 
+(1)Department of Medicine, University of California, Box 0811, San Francisco,
+California 94143, USA.
+(2)Division of Infectious Diseases and Vaccinology, School of Public Health,
+University of California, 293 University Hall, 2199 Addison Street, Berkeley,
+California 94720-7360, USA.
+(3)Department of Microbiology and Immunology, Columbia University Medical Center,
+Room 1502 HHSC, 701 West 168th Street, New York, New York 10032, USA.
+(4)Anacor Pharmaceuticals, Inc., 1020 East Meadow Circle, Palo Alto, California
+94303-4230, USA.
+(5)Department of Biochemistry and Biophysics, Howard Hughes Medical Institute,
+University of California, Box 2542, 1700 4th Street, 403C, San Francisco,
+California 94158, USA.
+(6)Malaria Discovery Performance Unit, Diseases of the Developing World, Tres
+Cantos Medicines Development Campus,GlaxoSmithKline, c/Severo Ochoa 2, Tres
+Cantos 28760, Spain.
+(7)Department of Natural Sciences and Mathematics, Dominican University of
+California, 50 Acacia Avenue, San Rafael, California 94901, USA.
+(8)Division of Infectious Diseases, Department of Medicine, Columbia University
+Medical Center, New York, New York 10032, USA.
+
+Benzoxaboroles are effective against bacterial, fungal and protozoan pathogens.
+We report potent activity of the benzoxaborole AN3661 against Plasmodium
+falciparum laboratory-adapted strains (mean IC50 32 nM), Ugandan field isolates
+(mean ex vivo IC50 64 nM), and murine P. berghei and P. falciparum infections
+(day 4 ED90 0.34 and 0.57 mg kg-1, respectively). Multiple P. falciparum lines
+selected in vitro for resistance to AN3661 harboured point mutations in pfcpsf3, 
+which encodes a homologue of mammalian cleavage and polyadenylation specificity
+factor subunit 3 (CPSF-73 or CPSF3). CRISPR-Cas9-mediated introduction of pfcpsf3
+mutations into parental lines recapitulated AN3661 resistance. PfCPSF3 homology
+models placed these mutations in the active site, where AN3661 is predicted to
+bind. Transcripts for three trophozoite-expressed genes were lost in
+AN3661-treated trophozoites, which was not observed in parasites selected or
+engineered for AN3661 resistance. Our results identify the pre-mRNA processing
+factor PfCPSF3 as a promising antimalarial drug target.
+
+DOI: 10.1038/ncomms14574 
+PMCID: PMC5343452
+PMID: 28262680  [Indexed for MEDLINE]
+

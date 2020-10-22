@@ -1,0 +1,43 @@
+
+1. J Microbiol Methods. 2013 Dec;95(3):313-9. doi: 10.1016/j.mimet.2013.09.017. Epub
+2013 Oct 3.
+
+ApicoAMP: the first computational model for identifying apicoplast-targeted
+transmembrane proteins in Apicomplexa.
+
+Cilingir G(1), Lau AO, Broschat SL.
+
+Author information: 
+(1)School of Electrical Engineering and Computer Science, Washington State
+University, Pullman, WA 99164, USA.
+
+BACKGROUND: Computational identification of apicoplast-targeted proteins is
+important in drug target determination for diseases such as malaria. While there 
+are established methods for identifying proteins with a bipartite signal in
+multiple species of Apicomplexa, not all apicoplast-targeted proteins possess
+this bipartite signature. The publication of recent experimental findings of
+apicoplast membrane proteins, called transmembrane proteins, that do not possess 
+a bipartite signal has made it feasible to devise a machine learning approach for
+identifying this new class of apicoplast-targeted proteins computationally.
+METHODOLOGY/PRINCIPAL FINDINGS: In this work, we develop a method for predicting 
+apicoplast-targeted transmembrane proteins for multiple species of Apicomplexa,
+whereby several classifiers trained on different feature sets and based on
+different algorithms are evaluated and combined in an ensemble classification
+model to obtain the best expected performance. The feature sets considered are
+the hydrophobicity and composition characteristics of amino acids over
+transmembrane domains, the existence of short sequence motifs over cytosolically 
+disposed regions, and Gene Ontology (GO) terms associated with given proteins.
+Our model, ApicoAMP, is an ensemble classification model that combines decisions 
+of classifiers following the majority vote principle. ApicoAMP is trained on a
+set of proteins from 11 apicomplexan species and achieves 91% overall expected
+accuracy.
+CONCLUSIONS/SIGNIFICANCE: ApicoAMP is the first computational model capable of
+identifying apicoplast-targeted transmembrane proteins in Apicomplexa. The
+ApicoAMP prediction software is available at http://code.google.com/p/apicoamp/
+and http://bcb.eecs.wsu.edu.
+
+© 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.mimet.2013.09.017 
+PMID: 24095682  [Indexed for MEDLINE]
+

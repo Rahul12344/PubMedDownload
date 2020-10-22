@@ -1,0 +1,51 @@
+
+1. Nucleic Acids Res. 2014 Feb;42(4):2270-81. doi: 10.1093/nar/gkt1174. Epub 2013
+Nov 18.
+
+DNA secondary structures are associated with recombination in major Plasmodium
+falciparum variable surface antigen gene families.
+
+Sander AF(1), Lavstsen T, Rask TS, Lisby M, Salanti A, Fordyce SL, Jespersen JS, 
+Carter R, Deitsch KW, Theander TG, Pedersen AG, Arnot DE.
+
+Author information: 
+(1)Centre for Medical Parasitology, Department of International Health,
+Immunology and Microbiology, Faculty of Health and Medical Sciences, University
+of Copenhagen, Øster Farimagsgade 5, Building 22 & 23, PO Box 2099, 1014
+Copenhagen K, Denmark, Centre for Medical Parasitology, Department of Infectious 
+Diseases, Copenhagen University Hospital (Rigshospitalet), Copenhagen K, Denmark,
+Department of Systems Biology, Center for Biological Sequence Analysis, Technical
+University of Denmark, 2800 Lyngby, Denmark, Department of Biology, University of
+Copenhagen, Ole Maaloees Vej 5, DK-2200 Copenhagen N, Denmark, Centre for
+GeoGenetics, Natural History Museum of Denmark, University of Copenhagen, Øster
+Voldgade 5-7, 1350 Copenhagen, Denmark, Institute of Infection and Immunology
+Research, School of Biological Sciences, University of Edinburgh, West Mains
+Road, Edinburgh EH9 3JT, Scotland, UK and Department of Microbiology and
+Immunology, Weill Cornell Medical College, New York, NY 10065, USA.
+
+Many bacterial, viral and parasitic pathogens undergo antigenic variation to
+counter host immune defense mechanisms. In Plasmodium falciparum, the most lethal
+of human malaria parasites, switching of var gene expression results in
+alternating expression of the adhesion proteins of the Plasmodium
+falciparum-erythrocyte membrane protein 1 class on the infected erythrocyte
+surface. Recombination clearly generates var diversity, but the nature and
+control of the genetic exchanges involved remain unclear. By experimental and
+bioinformatic identification of recombination events and genome-wide
+recombination hotspots in var genes, we show that during the parasite's sexual
+stages, ectopic recombination between isogenous var paralogs occurs near low
+folding free energy DNA 50-mers and that these sequences are heavily concentrated
+at the boundaries of regions encoding individual Plasmodium
+falciparum-erythrocyte membrane protein 1 structural domains. The recombinogenic 
+potential of these 50-mers is not parasite-specific because these sequences also 
+induce recombination when transferred to the yeast Saccharomyces cerevisiae.
+Genetic cross data suggest that DNA secondary structures (DSS) act as inducers of
+recombination during DNA replication in P. falciparum sexual stages, and that
+these DSS-regulated genetic exchanges generate functional and diverse P.
+falciparum adhesion antigens. DSS-induced recombination may represent a common
+mechanism for optimizing the evolvability of virulence gene families in
+pathogens.
+
+DOI: 10.1093/nar/gkt1174 
+PMCID: PMC3936766
+PMID: 24253306  [Indexed for MEDLINE]
+

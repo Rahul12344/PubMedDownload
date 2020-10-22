@@ -1,0 +1,48 @@
+
+1. Mol Cell Biol. 1990 Nov;10(11):5736-46.
+
+On the mechanism for efficient repression of the interleukin-6 promoter by
+glucocorticoids: enhancer, TATA box, and RNA start site (Inr motif) occlusion.
+
+Ray A(1), LaForge KS, Sehgal PB.
+
+Author information: 
+(1)Rockefeller University, New York, New York 10021-6399.
+
+The feedback inhibition of interleukin-6 (IL-6) gene expression by
+glucocorticoids represents a regulatory link between the endocrine and immune
+systems. The mechanism of the efficient repression of the IL-6 promoter by
+dexamethasone (Dex) was investigated in HeLa cells transiently transfected with
+plasmid constructs containing different IL-6 promoter elements linked to the
+herpesvirus thymidine kinase gene (tk) promoter and the bacterial chloramphenicol
+acetyltransferase gene (cat) and cotransfected with cDNA vectors constitutively
+expressing either the active wild-type or inactive mutant human glucocorticoid
+receptor (GR). The induction by interleukin-1, tumor necrosis factor, phorbol
+ester, or forskolin of IL-6-tk-cat chimeric constructs containing a single copy
+of the IL-6 DNA segment from -173 to -151 (MRE I) or from -158 to -145 (MRE II), 
+which derive from within the multiple cytokine- and second-messenger-responsive
+enhancer (MRE) region, was strongly repressed by Dex in a wild-type GR-dependent 
+fashion irrespective of the inducer used. The induction by pseudorabies virus of 
+an IL-6 construct containing the IL-6 TATA box and the RNA start site
+("initiator" or Inr element) but not the MRE region was also repressed by Dex in 
+the presence of wild-type GR. DNase I footprinting showed that the purified
+DNA-binding fragment of GR bound across the MRE, the TATA box, and the Inr site
+in the IL-6 promoter; this footprint overlapped that produced by proteins present
+in nuclear extracts from uninduced or induced HeLa cells. Imperfect palindromic
+nucleotide sequence motifs moderately related to the consensus GR-responsive
+element (GRE) motif were present at the Inr, the TATA box, and the MRE II site in
+the IL-6 promoter; although MRE I and a GR-binding site between -201 and -210 in 
+IL-6 both lacked a discernible inverted repeat motif, their sequences showed
+considerable similarity with negative GRE sequences in other Dex-repressed genes.
+Surprisingly, chimeric genes containing MRE II, which lacks a recognizable
+GACGTCA cyclic AMP- and phorbol ester-responsive motif, were strongly induced by 
+both phorbol ester and forskolin, suggesting that MRE II (ACATTGCACAATCT) may be 
+the prototype of a novel cyclic AMP- and phorbol ester-responsive element. Taken 
+together, these observations suggest that ligand-activated GR represses the IL-6 
+gene by occlusion not only of the inducible IL-6 MRE enhancer region but also of 
+the basal IL-6 promoter elements.
+
+DOI: 10.1128/mcb.10.11.5736 
+PMCID: PMC361346
+PMID: 2233715  [Indexed for MEDLINE]
+

@@ -1,0 +1,51 @@
+
+1. Sci Rep. 2016 Aug 10;6:31291. doi: 10.1038/srep31291.
+
+Transcriptomic evidence for modulation of host inflammatory responses during
+febrile Plasmodium falciparum malaria.
+
+Tran TM(1)(2), Jones MB(3), Ongoiba A(4), Bijker EM(5), Schats R(6), Venepally
+P(3), Skinner J(1), Doumbo S(4), Quinten E(6), Visser LG(6), Whalen E(7),
+Presnell S(7), O'Connell EM(8), Kayentao K(4), Doumbo OK(4), Chaussabel D(7)(9), 
+Lorenzi H(10), Nutman TB(8), Ottenhoff TH(6), Haks MC(6), Traore B(4), Kirkness
+EF(3), Sauerwein RW(5), Crompton PD(1).
+
+Author information: 
+(1)Laboratory of Immunogenetics, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, Rockville, MD, USA.
+(2)Division of Infectious Diseases, Department of Medicine, Indiana University
+School of Medicine, Indianapolis, IN, USA.
+(3)Genomic Medicine Group, J. Craig Venter Institute, Rockville, Maryland, USA.
+(4)Mali International Center of Excellence in Research, University of Sciences,
+Technique and Technology of Bamako, Bamako, Mali.
+(5)Department of Medical Microbiology, Radboud University Medical Center,
+Nijmegen, The Netherlands.
+(6)Department of Infectious Diseases, Leiden University Medical Center, Leiden,
+The Netherlands.
+(7)Systems Immunology Division, Benaroya Research Institute, Seattle, WA, USA.
+(8)Laboratory of Parasitic Diseases, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, Bethesda, MD, USA.
+(9)Sidra Medical and Research Center, Doha, Qatar.
+(10)Infectious Diseases Group, J. Craig Venter Institute, Bethesda, Maryland,
+USA.
+
+Identifying molecular predictors and mechanisms of malaria disease is important
+for understanding how Plasmodium falciparum malaria is controlled. Transcriptomic
+studies in humans have so far been limited to retrospective analysis of blood
+samples from clinical cases. In this prospective, proof-of-principle study, we
+compared whole-blood RNA-seq profiles at pre-and post-infection time points from 
+Malian adults who were either asymptomatic (n = 5) or febrile (n = 3) during
+their first seasonal PCR-positive P. falciparum infection with those from
+malaria-naïve Dutch adults after a single controlled human malaria infection
+(n = 5). Our data show a graded activation of pathways downstream of
+pro-inflammatory cytokines, with the highest activation in malaria-naïve Dutch
+individuals and significantly reduced activation in malaria-experienced Malians. 
+Newly febrile and asymptomatic infections in Malians were statistically
+indistinguishable except for genes activated by pro-inflammatory cytokines. The
+combined data provide a molecular basis for the development of a pyrogenic
+threshold as individuals acquire immunity to clinical malaria.
+
+DOI: 10.1038/srep31291 
+PMCID: PMC4978957
+PMID: 27506615  [Indexed for MEDLINE]
+

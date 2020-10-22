@@ -1,0 +1,69 @@
+
+1. BMC Infect Dis. 2017 Sep 13;17(1):621. doi: 10.1186/s12879-017-2718-9.
+
+A novel diagnostic method for malaria using loop-mediated isothermal
+amplification (LAMP) and MinION™ nanopore sequencer.
+
+Imai K(1), Tarumoto N(2)(3), Misawa K(1), Runtuwene LR(4), Sakai J(2)(3),
+Hayashida K(5), Eshita Y(5)(6)(7)(8), Maeda R(9), Tuda J(10), Murakami T(3)(11), 
+Maesaki S(2)(3), Suzuki Y(4), Yamagishi J(5)(12), Maeda T(13)(14).
+
+Author information: 
+(1)Division of Infectious Diseases and Pulmonary Medicine, Department of Internal
+Medicine, National Defense Medical College, 3-2 Namiki, Tokorozawa, Saitama,
+359-8513, Japan.
+(2)Department of Infectious Disease and Infection Control, Saitama Medical
+University, 38 Morohongo, Moroyama-machi, Iruma-gun, Saitama, 350-0495, Japan.
+(3)Center for Clinical Infectious Diseases and Research, Saitama Medical
+University, 38 Morohongo, Moroyama-machi, Iruma-gun, Saitama, 350-0495, Japan.
+(4)Department of Computational Biology and Medical Science, Graduate School of
+Frontier Sciences, The University of Tokyo, 5-1-5 Kashiwanoha, Kashiwa, Chiba,
+277-8562, Japan.
+(5)Research Center for Zoonosis Control, Hokkaido University, North 20, West 10
+Kita-ku, Sapporo, Hokkaido, 001-0020, Japan.
+(6)Faculty of Medicine, Oita University, 1-1 Hasama-machi, Yufu, Oita, 879-5593, 
+Japan.
+(7)Department of Medical Entomology, Faculty of Tropical Medicine, Mahidol
+University, 420/6 Ratchawithi Road, Thung Phaya, Ratchathewi, Bangkok, 10400,
+Thailand.
+(8)Research Institute for Microbial Diseases, Osaka University, 3-1 Yamadaoka,
+Suita, Osaka, 565-0871, Japan.
+(9)Division of Biomedical Sciences, Department of Basic Veterinary Medicine,
+Obihiro University of Agriculture and Veterinary Medicine, 2-11 Inada-cho,
+Obihiro, Hokkaido, 080-8555, Japan.
+(10)Department of Parasitology, Faculty of Medicine, Sam Ratulangi University,
+Kampus Unsrat, Manado, Bahu, 95115, Indonesia.
+(11)Department of Microbiology, Saitama Medical University, 38 Morohongo,
+Moroyama-machi, Iruma-gun, Saitama, 350-0495, Japan.
+(12)Global Station for Zoonosis Control, GI-CoRE, Hokkaido University, North 20, 
+West 10 Kita-ku, Sapporo, Hokkaido, 001-0020, Japan.
+(13)Center for Clinical Infectious Diseases and Research, Saitama Medical
+University, 38 Morohongo, Moroyama-machi, Iruma-gun, Saitama, 350-0495, Japan.
+t_maeda@saitama-med.ac.jp.
+(14)Department of Microbiology, Saitama Medical University, 38 Morohongo,
+Moroyama-machi, Iruma-gun, Saitama, 350-0495, Japan. t_maeda@saitama-med.ac.jp.
+
+BACKGROUND: A simple and accurate molecular diagnostic method for malaria is
+urgently needed due to the limitations of conventional microscopic examination.
+In this study, we demonstrate a new diagnostic procedure for human malaria using 
+loop mediated isothermal amplification (LAMP) and the MinION™ nanopore sequencer.
+METHODS: We generated specific LAMP primers targeting the 18S-rRNA gene of all
+five human Plasmodium species including two P. ovale subspecies (P. falciparum,
+P. vivax, P. ovale wallikeri, P. ovale curtisi, P. knowlesi and P. malariae) and 
+examined human blood samples collected from 63 malaria patients in Indonesia.
+Additionally, we performed amplicon sequencing of our LAMP products using MinION™
+nanopore sequencer to identify each Plasmodium species.
+RESULTS: Our LAMP method allowed amplification of all targeted 18S-rRNA genes of 
+the reference plasmids with detection limits of 10-100 copies per reaction. Among
+the 63 clinical samples, 54 and 55 samples were positive by nested PCR and our
+LAMP method, respectively. Identification of the Plasmodium species by LAMP
+amplicon sequencing analysis using the MinION™ was consistent with the reference 
+plasmid sequences and the results of nested PCR.
+CONCLUSIONS: Our diagnostic method combined with LAMP and MinION™ could become a 
+simple and accurate tool for the identification of human Plasmodium species, even
+in resource-limited situations.
+
+DOI: 10.1186/s12879-017-2718-9 
+PMCID: PMC5598014
+PMID: 28903726  [Indexed for MEDLINE]
+

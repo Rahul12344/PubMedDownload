@@ -1,0 +1,42 @@
+
+1. J Virol. 2012 May;86(9):5179-91. doi: 10.1128/JVI.00169-12. Epub 2012 Feb 29.
+
+A protein array screen for Kaposi's sarcoma-associated herpesvirus LANA
+interactors links LANA to TIP60, PP2A activity, and telomere shortening.
+
+Shamay M(1), Liu J, Li R, Liao G, Shen L, Greenway M, Hu S, Zhu J, Xie Z,
+Ambinder RF, Qian J, Zhu H, Hayward SD.
+
+Author information: 
+(1)Viral Oncology Program, Department of Oncology, Johns Hopkins University
+School of Medicine, Baltimore, Maryland, USA.
+
+The Kaposi's sarcoma-associated herpesvirus (KSHV) LANA protein functions in
+latently infected cells as an essential participant in KSHV genome replication
+and as a driver of dysregulated cell growth. To identify novel LANA protein-cell 
+protein interactions that could contribute to these activities, we performed a
+proteomic screen in which purified, adenovirus-expressed Flag-LANA protein was
+incubated with an array displaying 4,192 nonredundant human proteins. Sixty-one
+interacting cell proteins were consistently detected. LANA interactions with
+high-mobility group AT-hook 1 (HMGA1), HMGB1, telomeric repeat binding factor 1
+(TRF1), xeroderma pigmentosum complementation group A (XPA), pygopus homolog 2
+(PYGO2), protein phosphatase 2A (PP2A)B subunit, Tat-interactive protein 60
+(TIP60), replication protein A1 (RPA1), and RPA2 proteins were confirmed in
+coimmunoprecipitation assays. LANA-associated TIP60 retained acetyltransferase
+activity and, unlike human papillomavirus E6 and HIV-1 TAT proteins, LANA did not
+reduce TIP60 stability. The LANA-bound PP2A B subunit was associated with the
+PP2A A subunit but not the catalytic C subunit, suggesting a disruption of PP2A
+phosphatase activity. This is reminiscent of the role of simian virus 40 (SV40)
+small t antigen. Chromatin immunoprecipitation (ChIP) assays showed binding of
+RPA1 and RPA2 to the KSHV terminal repeats. Interestingly, LANA expression
+ablated RPA1 and RPA2 binding to the cell telomeric repeats. In U2OS cells that
+rely on the alternative mechanism for telomere maintenance, LANA expression had
+minimal effect on telomere length. However, LANA expression in telomerase
+immortalized endothelial cells resulted in telomere shortening. In KSHV-infected 
+cells, telomere shortening may be one more mechanism by which LANA contributes to
+the development of malignancy.
+
+DOI: 10.1128/JVI.00169-12 
+PMCID: PMC3347335
+PMID: 22379092  [Indexed for MEDLINE]
+

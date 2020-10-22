@@ -1,0 +1,51 @@
+
+1. Biochim Biophys Acta Biomembr. 2018 Jun;1860(6):1259-1271. doi:
+10.1016/j.bbamem.2018.02.019. Epub 2018 Feb 23.
+
+Exposure of the HIV-1 broadly neutralizing antibody 10E8 MPER epitope on the
+membrane surface by gp41 transmembrane domain scaffolds.
+
+Oakes V(1), Torralba J(2), Rujas E(2), Nieva JL(2), Domene C(3), Apellaniz B(4).
+
+Author information: 
+(1)Department of Chemistry, Britannia House, 7 Trinity Street, King's College
+London, London SE1 1DB, UK; Department of Chemistry, 1 South Building, Claverton 
+Down Road, University of Bath, Bath BA2 7AY, UK.
+(2)Biofisika Institute (CSIC, UPV/EHU), Biochemistry and Molecular Biology
+Department, University of the Basque Country (UPV/EHU), PO Box 644, 48080 Bilbao,
+Spain.
+(3)Department of Chemistry, 1 South Building, Claverton Down Road, University of 
+Bath, Bath BA2 7AY, UK; Chemistry Research Laboratory, Mansfield Road, University
+of Oxford, Oxford OX1 3TA, UK. Electronic address: C.Domene@bath.ac.uk.
+(4)Biofisika Institute (CSIC, UPV/EHU), Biochemistry and Molecular Biology
+Department, University of the Basque Country (UPV/EHU), PO Box 644, 48080 Bilbao,
+Spain. Electronic address: beatriz.apellaniz@ehu.eus.
+
+The 10E8 antibody achieves near-pan neutralization of HIV-1 by targeting the
+remarkably conserved gp41 membrane-proximal external region (MPER) and the
+connected transmembrane domain (TMD) of the HIV-1 envelope glycoprotein (Env).
+Thus, recreating the structure that generates 10E8-like antibodies is a major
+goal of the rational design of anti-HIV vaccines. Unfortunately, high-resolution 
+information of this segment in the native Env is lacking, limiting our
+understanding of the behavior of the crucial 10E8 epitope residues. In this
+report, two sequences, namely, MPER-TMD1 (gp41 residues 671-700) and MPER-TMD2
+(gp41 residues 671-709) were compared both experimentally and computationally, to
+assess the TMD as a potential membrane integral scaffold for the 10E8 epitope.
+These sequences were selected to represent a minimal (MPER-TMD1) or full-length
+(MPER-TMD2) TMD membrane anchor according to mutagenesis results reported by Yue 
+et al. (2009) J. Virol. 83, 11,588. Immunochemical assays revealed that
+MPER-TMD1, but not MPER-TMD2, effectively exposed the MPER C-terminal stretch,
+harboring the 10E8 epitope on the surface of phospholipid bilayers containing a
+cholesterol concentration equivalent to that of the viral envelope. Molecular
+dynamics simulations, using the recently resolved TMD trimer structure combined
+with the MPER in a cholesterol-enriched model membrane confirmed these results
+and provided an atomistic mechanism of epitope exposure which revealed that TMD
+truncation at position A700 combined with N-terminal addition of lysine residues 
+positively impacts epitope exposure. Overall, these results provide crucial
+insights into the design of effective MPER-TMD derived immunogens.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbamem.2018.02.019 
+PMID: 29477358  [Indexed for MEDLINE]
+

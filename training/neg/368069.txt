@@ -1,0 +1,28 @@
+
+1. J Biol Chem. 1979 Feb 25;254(4):1227-32.
+
+Processiveness of DNA polymerases. A comparative study using a simple procedure.
+
+Das SK, Fujimura RK.
+
+In this communication, we describe a simple procedure for analyzing the
+processiveness of DNA polymerases in general. By choosing conditions for which
+the number of incorporations per available primer is less than 1, we have reduced
+the probability of a primer molecule being utilized by the enzyme more than once.
+The primer-template used was poly(dA)300:oligo(dT)10, and the product was
+isolated by oligo(dT)-cellulose chromatography. The number of dTMP residues added
+per association was determined from the [3H]dThd + [3'-3H]dTMP/[3H]dThd ratio of 
+the product after its digestion by micrococcal nuclease and spleen
+phosphodiesterase. Using this procedure, we have found that Escherichia coli DNA 
+polymerase I, T4 DNA polymerase, and calf thymus alpha- and beta-DNA polymerase
+are "quasi-processive." Most of these enzymes add on the average approximately 10
+to 15 nucleotides before dissociating from the template. T5 DNA polymerase, on
+the other hand, is processive, i.e. it continues to replicate a given template
+until it is very close to the 5' end of the template. With "nicked DNA-like"
+poly(dA):oligo(dT), the processiveness of E. coli DNA polymerase I is increased
+2- to 2.5-fold. The significance of this increase in determining the "patch size"
+during DNA repair is discussed.
+
+
+PMID: 368069  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+1. Biomed Res Int. 2015;2015:238139. doi: 10.1155/2015/238139. Epub 2015 Sep 3.
+
+Constructing a Genome-Wide LD Map of Wild A. gambiae Using Next-Generation
+Sequencing.
+
+Wang X(1), Afrane YA(2), Yan G(3), Li J(1).
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, University of Oklahoma, Norman, OK
+73019, USA.
+(2)Centre for Global Health Research, Kenya Medical Research Institute, Kisumu
+40100, Kenya.
+(3)Program in Public Health, University of California, Irvine, CA 92697, USA.
+
+Anopheles gambiae is the major malaria vector in Africa. Examining the molecular 
+basis of A. gambiae traits requires knowledge of both genetic variation and
+genome-wide linkage disequilibrium (LD) map of wild A. gambiae populations from
+malaria-endemic areas. We sequenced the genomes of nine wild A. gambiae
+mosquitoes individually using next-generation sequencing technologies and
+detected 2,219,815 common single nucleotide polymorphisms (SNPs), 88% of which
+are novel. SNPs are not evenly distributed across A. gambiae chromosomes. The low
+SNP-frequency regions overlay heterochromatin and chromosome inversion domains,
+consistent with the lower recombinant rates at these regions. Nearly one million 
+SNPs that were genotyped correctly in all individual mosquitoes with 99.6%
+confidence were extracted from these high-throughput sequencing data. Based on
+these SNP genotypes, we constructed a genome-wide LD map for wild A. gambiae from
+malaria-endemic areas in Kenya and made it available through a public Website.
+The average size of LD blocks is less than 40 bp, and several large LD blocks
+were also discovered clustered around the para gene, which is consistent with the
+effect of insecticide selective sweeps. The SNPs and the LD map will be valuable 
+resources for scientific communities to dissect the A. gambiae genome.
+
+DOI: 10.1155/2015/238139 
+PMCID: PMC4573223
+PMID: 26421280  [Indexed for MEDLINE]
+

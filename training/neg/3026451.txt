@@ -1,0 +1,35 @@
+
+1. Biochemistry. 1986 Nov 18;25(23):7344-54.
+
+Energetics of cooperative protein-DNA interactions: comparison between
+quantitative deoxyribonuclease footprint titration and filter binding.
+
+Senear DF, Brenowitz M, Shea MA, Ackers GK.
+
+Using the binding of cI repressor protein to the lambda right and left operators 
+as a model system, we have analyzed the two common experimental techniques for
+studying the interactions of genome regulatory proteins with multiple, specific
+sites on DNA. These are the quantitative DNase footprint titration technique
+[Brenowitz, M., Senear, D. F., Shea, M. A., & Ackers, G. K. (1986) Methods
+Enzymol. 130, 132-181] and the nitrocellulose filter binding assay [Riggs, A.,
+Suzuki, H., & Bourgeois, S. (1970) J. Mol. Biol. 48, 67-83]. The footprint
+titration technique provides binding curves that separately represent the
+fractional saturation for each site. In principle, such data contain the
+information necessary to determine the thermodynamic constants for local site
+binding and cooperativity. We show that in practice, this is not possible for all
+values of the constants in multisite systems, such as the lambda operators. We
+show how these constants can nevertheless be uniquely determined by using
+additional binding data from a small number of mutant operators in which the
+number of binding sites has been reduced. The filter binding technique does not
+distinguish binding to the individual sites and yields only macroscopic binding
+parameters which are composite averages of the various local site and
+cooperativity constants. Moreover, the resolution of even macroscopic constants
+from filter binding data for multisite systems requires ad hoc assumptions as to 
+a relationship between the number of ligands bound and the filter retention of
+the complex. Our results indicate that no such relationship exists. Hence, the
+technique does not permit determination of thermodynamically valid interaction
+constants (even macroscopic) in multisite systems.
+
+DOI: 10.1021/bi00371a016 
+PMID: 3026451  [Indexed for MEDLINE]
+

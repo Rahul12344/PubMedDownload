@@ -1,0 +1,38 @@
+
+1. J Virol. 2011 Dec;85(24):13010-8. doi: 10.1128/JVI.02651-10. Epub 2011 Oct 12.
+
+Generation and comprehensive analysis of an influenza virus polymerase cellular
+interaction network.
+
+Tafforeau L(1), Chantier T, Pradezynski F, Pellet J, Mangeot PE, Vidalain PO,
+Andre P, Rabourdin-Combe C, Lotteau V.
+
+Author information: 
+(1)RNA Metabolism, IBMM, ULB, rue Profs. Jeener & Brachet 12, 6041 Gosselies,
+Belgium. lionel.tafforeau@ulb.ac.be
+
+The influenza virus transcribes and replicates its genome inside the nucleus of
+infected cells. Both activities are performed by the viral RNA-dependent RNA
+polymerase that is composed of the three subunits PA, PB1, and PB2, and recent
+studies have shown that it requires host cell factors to transcribe and replicate
+the viral genome. To identify these cellular partners, we generated a
+comprehensive physical interaction map between each polymerase subunit and the
+host cellular proteome. A total of 109 human interactors were identified by yeast
+two-hybrid screens, whereas 90 were retrieved by literature mining. We built the 
+FluPol interactome network composed of the influenza virus polymerase (PA, PB1,
+and PB2) and the nucleoprotein NP and 234 human proteins that are connected
+through 279 viral-cellular protein interactions. Analysis of this interactome map
+revealed enriched cellular functions associated with the influenza virus
+polymerase, including host factors involved in RNA polymerase II-dependent
+transcription and mRNA processing. We confirmed that eight influenza virus
+polymerase-interacting proteins are required for virus replication and
+transcriptional activity of the viral polymerase. These are involved in cellular 
+transcription (C14orf166, COPS5, MNAT1, NMI, and POLR2A), translation (EIF3S6IP),
+nuclear transport (NUP54), and DNA repair (FANCG). Conversely, we identified
+PRKRA, which acts as an inhibitor of the viral polymerase transcriptional
+activity and thus is required for the cellular antiviral response.
+
+DOI: 10.1128/JVI.02651-10 
+PMCID: PMC3233135
+PMID: 21994455  [Indexed for MEDLINE]
+

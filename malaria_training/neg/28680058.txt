@@ -1,0 +1,50 @@
+
+1. Nat Commun. 2017 Jul 5;8(1):63. doi: 10.1038/s41467-017-00053-1.
+
+PfCDPK1 mediated signaling in erythrocytic stages of Plasmodium falciparum.
+
+Kumar S(1), Kumar M(2)(3), Ekka R(1), Dvorin JD(4)(5), Paul AS(4), Madugundu
+AK(2)(6), Gilberger T(7), Gowda H(2)(8), Duraisingh MT(4), Keshava Prasad
+TS(2)(8)(9), Sharma P(10).
+
+Author information: 
+(1)Eukaryotic Gene Expression laboratory, National Institute of Immunology, New
+Delhi, 110067, India.
+(2)Institute of Bioinformatics, Bangalore, Karnataka, 560066, India.
+(3)Manipal University, Madhav Nagar, Manipal, Karnataka, 576104, India.
+(4)Harvard TH Chan School of Public Health, Harvard University, Boston,
+Massachusetts, 02115, USA.
+(5)Boston Children's Hospital and Harvard Medical School, Boston, Massachusetts, 
+02115, USA.
+(6)Centre for Bioinformatics, Pondicherry University, Puducherry, 605014, India.
+(7)Bernhard Nocht Institute for Tropical Medicine and Centre for Structural
+Systems Biology, Hamburg, 20359, Germany.
+(8)YU-IOB Center for Systems Biology and Molecular Medicine, Yenepoya University,
+Mangalore, 575018, India.
+(9)Proteomics and Bioinformatics Laboratory, Neurobiology Research Centre,
+National Institute of Mental Health and Neuro Sciences, Bangalore, Karnataka,
+560029, India.
+(10)Eukaryotic Gene Expression laboratory, National Institute of Immunology, New 
+Delhi, 110067, India. pushkar@nii.ac.in.
+
+Calcium Dependent Protein Kinases are key effectors of calcium signaling in
+malaria parasite. PfCDPK1 is critical for asexual development of Plasmodium
+falciparum, but its precise function and substrates remain largely unknown. Using
+a conditional knockdown strategy, we here establish that this kinase is critical 
+for the invasion of host erythrocytes. Furthermore, using a multidisciplinary
+approach involving comparative phosphoproteomics we gain insights into the
+underlying molecular mechanisms. We identify substrates of PfCDPK1, which
+includes proteins of Inner Membrane Complex and glideosome-actomyosin motor
+assembly. Interestingly, PfCDPK1 phosphorylates PfPKA regulatory subunit
+(PfPKA-R) and regulates PfPKA activity in the parasite, which may be relevant for
+the process of invasion. This study delineates the signaling network of PfCDPK1
+and sheds light on mechanisms via which it regulates invasion.Calcium dependent
+protein kinase 1 (CDPK1) plays an important role in asexual development of
+Plasmodium falciparum. Using phosphoproteomics and conditional knockdown of
+CDPK1, the authors here identify CDPK1 substrates and a cross-talk between CDPK1 
+and PKA, and show the role of CDPK1 in parasite invasion.
+
+DOI: 10.1038/s41467-017-00053-1 
+PMCID: PMC5498596
+PMID: 28680058  [Indexed for MEDLINE]
+

@@ -1,0 +1,40 @@
+
+1. Front Microbiol. 2017 Feb 9;8:130. doi: 10.3389/fmicb.2017.00130. eCollection
+2017.
+
+Genome Wide In silico Analysis of the Mismatch Repair Components of Plasmodium
+falciparum and Their Comparison with Human Host.
+
+Tarique M(1), Ahmad M(1), Chauhan M(1), Tuteja R(1).
+
+Author information: 
+(1)Parasite Biology Group, International Centre for Genetic Engineering and
+Biotechnology New Delhi, India.
+
+Malaria a major parasitic infection globally particularly in tropical and
+sub-tropical regions of the world is responsible for about 198 million cases and 
+estimated deaths due to this disease are about 0.6 million. The emergence of drug
+resistance in the malaria parasite is alarming and it is necessary to understand 
+its underlying cause and molecular mechanisms. It has been established that drug 
+resistant malaria parasites have defective mismatch repair (MMR) therefore it is 
+essential to study this pathway and its components in detail. Recently a number
+of non-synonymous Single Nucleotide Polymorphisms have been reported in genes
+involved in MMR pathways. PfMLH is an endonuclease essential to restore the MMR
+in drug resistant strains of Plasmodium falciparum. Considering all these facts
+about the role of MMR in emergence of drug resistant parasite, in this manuscript
+we report a genome wide analysis of the components of the MMR pathway such as
+MLH, Pms1, MSH2-1, MSH2-2, MSH6, and UvrD using in silico bioinformatics based
+approaches. The phylogenetic analysis revealed evolutionary closeness with the
+MMR components of various organisms. It is noteworthy that P. falciparum contains
+two homologs of MSH2, which are located on different chromosomes. The structural 
+modeling of these components showed their similarity with the human/yeast MMR
+components. The docking studies reveal that PfUvrD and PfMLH interact with each
+other. The in silico identification of interacting partners of the major MMR
+components identified numerous P. falciparum specific proteins. In line with our 
+previous studies the present study will also contribute significantly to
+understand the MMR pathway of malaria parasite.
+
+DOI: 10.3389/fmicb.2017.00130 
+PMCID: PMC5298969
+PMID: 28232818 
+

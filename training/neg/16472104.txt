@@ -1,0 +1,39 @@
+
+1. Curr Drug Metab. 2006 Feb;7(2):135-46.
+
+Prediction of drug-drug interactions for AUCoral of high clearance drug from in
+vitro data: utilization of a microtiter plate assay and a dispersion model.
+
+Yamamoto T(1), Suzuki A, Kohno Y, Nagata K, Yamazoe Y.
+
+Author information: 
+(1)Drug Metabolism Laboratory, Medicinal Development Research Laboratories,
+Taisho Pharmaceutical Co., Ltd., 403, Yoshino-cho 1-chome, Kita-ku, Saitama-shi, 
+Saitama 331-9530, Japan. takahito.yamamoto@po.rd.taisho.co.jp
+
+The purpose of this study was to propose a new method to predict in vivo
+drug-drug interactions (DDIs) for a high clearance drug from in vitro data. As
+the high clearance drug, NE-100 (N,
+N-dipropyl-2-[4-methoxy-3-(2-phenylethoxy)phenyl]ethylamine monohydrochloride)
+was used. First, approach based on I(u)/K(i) value was used for the prediction of
+DDIs between NE-100 and concomitant drugs. When the K(i) values (K(i-cal))
+obtained from the microtiter plate (MTP) assay and the reported K(i) values
+(K(i-rep)) for these drugs were used to predict increases at levels of NE-100
+AUC(oral) (AUC(oral) ratio), the AUC(oral) ratios from the I(u)/K(i-cal)
+correlated with those from the I(u)/K(i-rep). This result suggests that the
+K(i-cal) from the MTP assay can be used for prediction of DDIs instead of the
+K(i-rep) value. Second, a new approach combining the inhibition rate (R)
+calculated from the MTP assay and two physiological models was used to predict
+DDIs. When the AUC(oral) ratios of NE-100 by various drugs were predicted using
+the R value and the well-stirred model, the ratios were similar to those
+predicted using the I(u)/K(i). However, after co-administration of drugs such as 
+quinidine, propafenone and thioridazine (potent inhibitors of CYP2D6), the NE-100
+AUC(oral) ratios predicted from the dispersion model was much greater than those 
+from well-stirred model. This result shows that application of the dispersion
+model to the prediction method using the R value might sensitively and precisely 
+predict the increased levels of AUC(oral) by DDIs for high clearance drug,
+compared with the prediction method using I(u)/K(i) value.
+
+DOI: 10.2174/138920006775541570 
+PMID: 16472104  [Indexed for MEDLINE]
+

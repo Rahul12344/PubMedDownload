@@ -1,0 +1,51 @@
+
+1. Front Cell Infect Microbiol. 2020 Jul 24;10:374. doi: 10.3389/fcimb.2020.00374.
+eCollection 2020.
+
+TickSialoFam (TSFam): A Database That Helps to Classify Tick Salivary Proteins, a
+Review on Tick Salivary Protein Function and Evolution, With Considerations on
+the Tick Sialome Switching Phenomenon.
+
+Ribeiro JMC(1), Mans BJ(2)(3)(4).
+
+Author information: 
+(1)Section of Vector Biology, Laboratory of Malaria and Vector Research, National
+Institute of Allergy and Infectious Diseases, Rockville, MD, United States.
+(2)Epidemiology, Parasites and Vectors, Agricultural Research Council -
+Onderstepoort Veterinary Research, Pretoria, South Africa.
+(3)The Department of Veterinary Tropical Diseases, University of Pretoria,
+Pretoria, South Africa.
+(4)Department of Life and Consumer Sciences, University of South Africa,
+Pretoria, South Africa.
+
+Tick saliva contains a complex mixture of peptides and non-peptides that
+counteract their hosts' hemostasis, immunity, and tissue-repair reactions. Recent
+transcriptomic studies have revealed over one thousand different transcripts
+coding for secreted polypeptides in a single tick species. Not only do these gene
+products belong to many expanded families, such as the lipocalins,
+metalloproteases, Antigen-5, cystatins, and apyrases, but also families that are 
+found exclusively in ticks, such as the evasins, Isac, DAP36, and many others.
+Phylogenetic analysis of the deduced protein sequences indicate that the salivary
+genes exhibit an increased rate of evolution due to a lower evolutionary
+constraint and/or positive selection, allowing for a large diversity of tick
+salivary proteins. Thus, for each new tick species that has its salivary
+transcriptome sequenced and assembled, a formidable task of annotation of these
+transcripts awaits. Currently, as of November 2019, there are over 287 thousand
+coding sequences deposited at the National Center for Biotechnology Information
+(NCBI) that are derived from tick salivary gland mRNA. Here, from these 287
+thousand sequences we identified 45,264 potential secretory proteins which
+possess a signal peptide and no transmembrane domains on the mature peptide. By
+using the psiblast tools, position-specific matrices were constructed and
+assembled into the TickSialoFam (TSF) database. The TSF is a rpsblastable
+database that can help with the annotation of tick sialotranscriptomes. The TSA
+database identified 136 tick salivary secreted protein families, as well as 80
+families of endosomal-related products, mostly having a protein modification
+function. As the number of sequences increases, and new annotation details become
+available, new releases of the TSF database may become available.
+
+Copyright © 2020 Ribeiro and Mans.
+
+DOI: 10.3389/fcimb.2020.00374 
+PMCID: PMC7396615
+PMID: 32850476 
+

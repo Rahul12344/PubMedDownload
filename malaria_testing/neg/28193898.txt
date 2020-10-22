@@ -1,0 +1,56 @@
+
+1. Proc Natl Acad Sci U S A. 2017 Feb 28;114(9):2425-2430. doi:
+10.1073/pnas.1621489114. Epub 2017 Feb 13.
+
+Systems analysis of protective immune responses to RTS,S malaria vaccination in
+humans.
+
+Kazmin D(1), Nakaya HI(2), Lee EK(3), Johnson MJ(4), van der Most R(5), van den
+Berg RA(6), Ballou WR(6), Jongert E(5), Wille-Reece U(7), Ockenhouse C(7), Aderem
+A(8), Zak DE(8), Sadoff J(9), Hendriks J(9), Wrammert J(1), Ahmed R(10),
+Pulendran B(10)(11).
+
+Author information: 
+(1)Emory Vaccine Center, Emory University, Atlanta, GA 30329.
+(2)School of Pharmaceutical Sciences, University of Sao Paulo, São Paulo 05508,
+Brazil.
+(3)School of Industrial and Systems Engineering, Georgia Institute of Technology,
+Atlanta, GA 30332.
+(4)Center for Genome Engineering, University of Minnesota, Minneapolis, MN 55108.
+(5)GSK Vaccines, Rixensart 1330, Belgium.
+(6)GSK Vaccines, Rockville, MD 20850.
+(7)Program for Appropriate Technology in Health-Malaria Vaccine Initiative,
+Washington, DC 20001.
+(8)Center for Infectious Disease Research, Seattle, WA 98109.
+(9)Crucell, Leiden 2333, The Netherlands.
+(10)Emory Vaccine Center, Emory University, Atlanta, GA 30329; bpulend@emory.edu 
+rahmed@emory.edu.
+(11)Department of Pathology, Emory University School of Medicine, Atlanta, GA
+30322.
+
+RTS,S is an advanced malaria vaccine candidate and confers significant protection
+against Plasmodium falciparum infection in humans. Little is known about the
+molecular mechanisms driving vaccine immunity. Here, we applied a systems biology
+approach to study immune responses in subjects receiving three consecutive
+immunizations with RTS,S (RRR), or in those receiving two immunizations of
+RTS,S/AS01 following a primary immunization with adenovirus 35 (Ad35) (ARR)
+vector expressing circumsporozoite protein. Subsequent controlled human malaria
+challenge (CHMI) of the vaccinees with Plasmodium-infected mosquitoes, 3 wk after
+the final immunization, resulted in ∼50% protection in both groups of vaccinees. 
+Circumsporozoite protein (CSP)-specific antibody titers, prechallenge, were
+associated with protection in the RRR group. In contrast, ARR-induced lower
+antibody responses, and protection was associated with polyfunctional CD4+ T-cell
+responses 2 wk after priming with Ad35. Molecular signatures of B and plasma
+cells detected in PBMCs were highly correlated with antibody titers prechallenge 
+and protection in the RRR cohort. In contrast, early signatures of innate
+immunity and dendritic cell activation were highly associated with protection in 
+the ARR cohort. For both vaccine regimens, natural killer (NK) cell signatures
+negatively correlated with and predicted protection. These results suggest that
+protective immunity against P. falciparum can be achieved via multiple mechanisms
+and highlight the utility of systems approaches in defining molecular correlates 
+of protection to vaccination.
+
+DOI: 10.1073/pnas.1621489114 
+PMCID: PMC5338562
+PMID: 28193898  [Indexed for MEDLINE]
+

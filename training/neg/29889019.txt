@@ -1,0 +1,33 @@
+
+1. J Gen Virol. 2018 Aug;99(8):1141-1146. doi: 10.1099/jgv.0.001097. Epub 2018 Jun
+11.
+
+Detecting viral genomes in the female urinary microbiome.
+
+Garretto A(1), Thomas-White K(2)(3), Wolfe AJ(2), Putonti C(2)(4)(1)(5).
+
+Author information: 
+(1)1​Bioinformatics Program, Loyola University Chicago, Chicago, IL, USA.
+(2)2​Department of Microbiology and Immunology, Loyola University Chicago,
+Maywood, IL, USA.
+(3)†​Present address: 325 Sharon Park Dr, Suite 522, Menlo Park, CA, USA.
+(4)3​Department of Biology, Loyola University Chicago, Chicago, IL, USA.
+(5)4​Department of Computer Science, Loyola University Chicago, Chicago, IL, USA.
+
+Viruses are the most abundant component of the human microbiota. Recent evidence 
+has uncovered a rich diversity of viruses within the female bladder, including
+both bacteriophages and eukaryotic viruses. We conducted whole-genome sequencing 
+of the bladder microbiome of 30 women: 10 asymptomatic 'healthy' women and 20
+women with an overactive bladder. These metagenomes include sequences
+representative of human, bacterial and viral DNA. This analysis, however, focused
+specifically on viral sequences. Using the bioinformatic tool virMine, we
+discovered sequence fragments, as well as complete genomes, of bacteriophages and
+the eukaryotic virus JC polyomavirus. The method employed here is a critical
+proof of concept: the genomes of viral populations within the low-biomass bladder
+microbiota can be reconstructed through whole-genome sequencing of the entire
+microbial community.
+
+DOI: 10.1099/jgv.0.001097 
+PMCID: PMC6171713
+PMID: 29889019  [Indexed for MEDLINE]
+

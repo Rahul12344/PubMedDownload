@@ -1,0 +1,47 @@
+
+1. mBio. 2014 Feb 4;5(1):e01086-13. doi: 10.1128/mBio.01086-13.
+
+A targeted RNA interference screen reveals novel epigenetic factors that regulate
+herpesviral gene expression.
+
+Oh HS, Bryant KF, Nieland TJ, Mazumder A, Bagul M, Bathe M, Root DE, Knipe DM.
+
+Herpes simplex virus (HSV) utilizes and subverts host chromatin mechanisms to
+express its lytic gene products in mammalian cells. The host cell attempts to
+silence the incoming viral genome by epigenetic mechanisms, but the viral VP16
+and ICP0 proteins promote active chromatin on the viral genome by recruiting
+other host epigenetic factors. However, the dependence on VP16 and ICP0 differs
+in different cell lines, implying cell type-dependent functional contributions of
+epigenetic factors for HSV gene expression. In this study, we performed a
+targeted RNA interference (RNAi) screen for cellular chromatin factors that are
+involved in regulation of herpes simplex virus (HSV) gene expression in U2OS
+osteosarcoma cells, a cell line that complements ICP0 mutant and VP16 mutant
+virus replication. In this screen, we found the same general classes of chromatin
+factors that regulate HSV gene expression in U2OS cells as in other cell types,
+including histone demethylases (HDMs), histone deacetylases (HDACs), histone
+acetyltransferases (HATs), and chromatin-remodeling factors, but the specific
+factors within these classes are different from those identified previously for
+other cell types. For example, KDM3A and KDM1A (LSD1) both demethylate mono- and 
+dimethylated H3K9, but KDM3A emerged in our screen of U2OS cells. Further, small 
+interfering RNA (siRNA) and inhibitor studies support the idea that KDM1A is more
+critical in HeLa cells, as observed previously, while KDM3A is more critical in
+U2OS cells. These results argue that different cellular chromatin factors are
+critical in different cell lines to carry out the positive and negative
+epigenetic effects exerted on the HSV genome.IMPORTANCE: Upon entry into the host
+cell nucleus, the herpes simplex virus genome is subjected to host epigenetic
+silencing mechanisms. Viral proteins recruit cellular epigenetic activator
+proteins to reverse and counter the cellular silencing mechanisms. Some of the
+host silencing and activator functions involved in HSV gene expression have been 
+identified, but there have been indications that the host cell factors may vary
+in different cell types. In this study, we performed a screen of chromatin
+factors involved in HSV gene regulation in osteosarcoma cells, and we found that 
+the chromatin factors that are critical for HSV gene expression in these cells
+are different from those for previously studied cell types. These results argue
+that the specific chromatin factors operative in different cell lines and cell
+types may differ. This has implications for epigenetic drugs that are under
+development.
+
+DOI: 10.1128/mBio.01086-13 
+PMCID: PMC3950524
+PMID: 24496796  [Indexed for MEDLINE]
+

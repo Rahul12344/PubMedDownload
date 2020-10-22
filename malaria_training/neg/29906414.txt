@@ -1,0 +1,41 @@
+
+1. Int J Parasitol. 2018 Sep;48(11):825-832. doi: 10.1016/j.ijpara.2018.03.009. Epub
+2018 Jun 15.
+
+Guide RNA selection for CRISPR-Cas9 transfections in Plasmodium falciparum.
+
+Ribeiro JM(1), Garriga M(1), Potchen N(1), Crater AK(1), Gupta A(1), Ito D(1),
+Desai SA(2).
+
+Author information: 
+(1)The Laboratory of Malaria and Vector Research, National Institute of Allergy
+and Infectious Diseases, National Institutes of Health, Rockville, MD 20852, USA.
+(2)The Laboratory of Malaria and Vector Research, National Institute of Allergy
+and Infectious Diseases, National Institutes of Health, Rockville, MD 20852, USA.
+Electronic address: sdesai@niaid.nih.gov.
+
+CRISPR-Cas9 mediated genome editing is addressing key limitations in the
+transfection of malaria parasites. While this method has already simplified the
+needed molecular cloning and reduced the time required to generate mutants in the
+human pathogen Plasmodium falciparum, optimal selection of required guide RNAs
+and guidelines for successful transfections have not been well characterised,
+leading workers to use time-consuming trial and error approaches. We used a
+genome-wide computational approach to create a comprehensive and publicly
+accessible database of possible guide RNA sequences in the P. falciparum genome. 
+For each guide, we report on-target efficiency and specificity scores as well as 
+information about the genomic site relevant to optimal design of CRISPR-Cas9
+transfections to modify, disrupt, or conditionally knockdown any gene. As many
+antimalarial drug and vaccine targets are encoded by multigene families, we also 
+developed a new paralog specificity score that should facilitate modification of 
+either a single family member of interest or multiple paralogs that serve
+overlapping roles. Finally, we tabulated features of successful transfections in 
+our laboratory, providing broadly useful guidelines for parasite transfections.
+Molecular studies aimed at understanding parasite biology or characterising drug 
+and vaccine targets in P. falciparum should be facilitated by this comprehensive 
+database.
+
+Published by Elsevier Ltd.
+
+DOI: 10.1016/j.ijpara.2018.03.009 
+PMID: 29906414  [Indexed for MEDLINE]
+

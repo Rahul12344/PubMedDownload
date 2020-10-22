@@ -1,0 +1,33 @@
+
+1. Elife. 2017 Dec 20;6. pii: e28629. doi: 10.7554/eLife.28629.
+
+Inferring genetic interactions from comparative fitness data.
+
+Crona K(1), Gavryushkin A(2)(3), Greene D(1), Beerenwinkel N(2)(3).
+
+Author information: 
+(1)Department of Mathematics and Statistics, American University, Washington, DC,
+United States.
+(2)Department of Biosystems Science and Engineering, ETH Zurich, Basel,
+Switzerland.
+(3)SIB Swiss Institute of Bioinformatics, Basel, Switzerland.
+
+Darwinian fitness is a central concept in evolutionary biology. In practice,
+however, it is hardly possible to measure fitness for all genotypes in a natural 
+population. Here, we present quantitative tools to make inferences about
+epistatic gene interactions when the fitness landscape is only incompletely
+determined due to imprecise measurements or missing observations. We demonstrate 
+that genetic interactions can often be inferred from fitness rank orders, where
+all genotypes are ordered according to fitness, and even from partial fitness
+orders. We provide a complete characterization of rank orders that imply higher
+order epistasis. Our theory applies to all common types of gene interactions and 
+facilitates comprehensive investigations of diverse genetic interactions. We
+analyzed various genetic systems comprising HIV-1, the malaria-causing parasite
+Plasmodium vivax, the fungus Aspergillus niger, and the TEM-family of β-lactamase
+associated with antibiotic resistance. For all systems, our approach revealed
+higher order interactions among mutations.
+
+DOI: 10.7554/eLife.28629 
+PMCID: PMC5737811
+PMID: 29260711  [Indexed for MEDLINE]
+

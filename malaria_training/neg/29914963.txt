@@ -1,0 +1,47 @@
+
+1. Antimicrob Agents Chemother. 2018 Aug 27;62(9). pii: e00605-18. doi:
+10.1128/AAC.00605-18. Print 2018 Sep.
+
+Fitness Costs and the Rapid Spread of kelch13-C580Y Substitutions Conferring
+Artemisinin Resistance.
+
+Nair S(1), Li X(1), Arya GA(2), McDew-White M(2), Ferrari M(3), Nosten F(4)(5),
+Anderson TJC(2).
+
+Author information: 
+(1)Texas Biomedical Research Institute, San Antonio, Texas, USA
+snair@txbiomed.org xli@txbiomed.org.
+(2)Texas Biomedical Research Institute, San Antonio, Texas, USA.
+(3)Department of Biosciences, University of Milan, Milan, Italy.
+(4)Shoklo Malaria Research Unit, Mahidol-Oxford Tropical Medicine Research Unit, 
+Faculty of Tropical Medicine, Mahidol University, Mae Sot, Thailand.
+(5)Centre for Tropical Medicine and Global Health, University of Oxford, Oxford, 
+United Kingdom.
+
+Fitness costs are key determinants of whether drug resistance alleles establish
+and how fast they spread within populations. More than 125 different kelch13
+alleles, each containing a different amino acid substitution, have arisen in
+Southeast Asian malaria parasite (Plasmodium falciparum) populations under
+artemisinin selection over the past 15 years in a dramatic example of a soft
+selective event. However, just one of these alleles (C580Y) is now outcompeting
+other alleles in multiple different countries and is spreading toward fixation.
+Here we examine the fitness consequences of C580Y, relative to another less
+successful kelch13 mutation (R561H), to try to explain the distinctive dynamics
+of C580Y. We hypothesized that C580Y will show lower fitness costs than other
+kelch13 substitutions in the absence of artemisinin treatment. We used
+CRISPR/Cas9 methods to introduce single mutations (C580Y or R561H) or synonymous 
+control edits into a wild-type parasite isolated on the Thailand-Myanmar border, 
+conducted replicated head-to-head competition assays, and determined the outcome 
+of competition using deep sequencing of kelch13 amplicons. Contrary to our
+predictions, these experiments reveal that C580Y carries higher fitness costs (s 
+[selection coefficient] = 0.15 ± 0.008 [1 standard error {SE}]) than R561H (s =
+0.084 ± 0.005). Furthermore, R561H outcompetes C580Y in direct competition (s =
+0.065 ± 0.004). We conclude that fitness costs of C580Y in isolation are unlikely
+to explain the rapid spread of this substitution.
+
+Copyright © 2018 Nair et al.
+
+DOI: 10.1128/AAC.00605-18 
+PMCID: PMC6125530
+PMID: 29914963  [Indexed for MEDLINE]
+

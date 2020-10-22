@@ -1,0 +1,47 @@
+
+1. Sci Rep. 2017 Sep 5;7(1):10449. doi: 10.1038/s41598-017-10093-8.
+
+Hydrogen peroxide dynamics in subcellular compartments of malaria parasites using
+genetically encoded redox probes.
+
+Rahbari M(1), Rahlfs S(1), Przyborski JM(2), Schuh AK(1), Hunt NH(3), Fidock
+DA(4), Grau GE(3), Becker K(5).
+
+Author information: 
+(1)Biochemistry and Molecular Biology, Interdisciplinary Research Center, Justus 
+Liebig University Giessen, 35392, Giessen, Germany.
+(2)Department of Parasitology, Philipps University Marburg, 35043, Marburg,
+Germany.
+(3)Discipline of Pathology, Sydney Medical School and Bosch Institute, University
+of Sydney, Medical Foundation Building (K25), Camperdown, NSW, 2050, Australia.
+(4)Department of Microbiology and Immunology and Division of Infectious Diseases,
+Department of Medicine, Columbia University Medical Center, New York, 10032, USA.
+(5)Biochemistry and Molecular Biology, Interdisciplinary Research Center, Justus 
+Liebig University Giessen, 35392, Giessen, Germany. katja.becker@uni-giessen.de.
+
+Redox balance is essential for the survival, growth and multiplication of malaria
+parasites and oxidative stress is involved in the mechanism of action of many
+antimalarial drugs. Hydrogen peroxide (H2O2) plays an important role in redox
+signalling and pathogen-host cell interactions. For monitoring intra- and
+subcellular redox events, highly sensitive and specific probes are required.
+Here, we stably expressed the ratiometric H2O2 redox sensor roGFP2-Orp1 in the
+cytosol and the mitochondria of Plasmodium falciparum (P. falciparum) NF54-attB
+blood-stage parasites and evaluated its sensitivity towards oxidative stress,
+selected antimalarial drugs, and novel lead compounds. In both compartments, the 
+sensor showed reproducible sensitivity towards H2O2 in the low micromolar range
+and towards antimalarial compounds at pharmacologically relevant concentrations. 
+Upon short-term exposure (4 h), artemisinin derivatives, quinine and mefloquine
+impacted H2O2 levels in mitochondria, whereas chloroquine and a
+glucose-6-phosphate dehydrogenase (G6PD) inhibitor affected the cytosol; 24 h
+exposure to arylmethylamino steroids and G6PD inhibitors revealed oxidation of
+mitochondria and cytosol, respectively. Genomic integration of an H2O2 sensor
+expressed in subcellular compartments of P. falciparum provides the basis for
+studying complex parasite-host cell interactions or drug effects with
+spatio-temporal resolution while preserving cell integrity, and sets the stage
+for high-throughput approaches to identify antimalarial agents perturbing redox
+equilibrium.
+
+DOI: 10.1038/s41598-017-10093-8 
+PMCID: PMC5585161
+PMID: 28874682  [Indexed for MEDLINE]
+

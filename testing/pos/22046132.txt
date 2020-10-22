@@ -1,0 +1,41 @@
+
+1. PLoS Pathog. 2011 Oct;7(10):e1002331. doi: 10.1371/journal.ppat.1002331. Epub
+2011 Oct 27.
+
+The SARS-coronavirus-host interactome: identification of cyclophilins as target
+for pan-coronavirus inhibitors.
+
+Pfefferle S(1), Schöpf J, Kögl M, Friedel CC, Müller MA, Carbajo-Lozoya J,
+Stellberger T, von Dall'Armi E, Herzog P, Kallies S, Niemeyer D, Ditt V, Kuri T, 
+Züst R, Pumpor K, Hilgenfeld R, Schwarz F, Zimmer R, Steffen I, Weber F, Thiel V,
+Herrler G, Thiel HJ, Schwegmann-Wessels C, Pöhlmann S, Haas J, Drosten C, von
+Brunn A.
+
+Author information: 
+(1)Bernhard-Nocht-Institute, Hamburg, Germany.
+
+Coronaviruses (CoVs) are important human and animal pathogens that induce fatal
+respiratory, gastrointestinal and neurological disease. The outbreak of the
+severe acute respiratory syndrome (SARS) in 2002/2003 has demonstrated human
+vulnerability to (Coronavirus) CoV epidemics. Neither vaccines nor therapeutics
+are available against human and animal CoVs. Knowledge of host cell proteins that
+take part in pivotal virus-host interactions could define broad-spectrum
+antiviral targets. In this study, we used a systems biology approach employing a 
+genome-wide yeast-two hybrid interaction screen to identify immunopilins (PPIA,
+PPIB, PPIH, PPIG, FKBP1A, FKBP1B) as interaction partners of the CoV
+non-structural protein 1 (Nsp1). These molecules modulate the Calcineurin/NFAT
+pathway that plays an important role in immune cell activation. Overexpression of
+NSP1 and infection with live SARS-CoV strongly increased signalling through the
+Calcineurin/NFAT pathway and enhanced the induction of interleukin 2, compatible 
+with late-stage immunopathogenicity and long-term cytokine dysregulation as
+observed in severe SARS cases. Conversely, inhibition of cyclophilins by
+cyclosporine A (CspA) blocked the replication of CoVs of all genera, including
+SARS-CoV, human CoV-229E and -NL-63, feline CoV, as well as avian infectious
+bronchitis virus. Non-immunosuppressive derivatives of CspA might serve as
+broad-range CoV inhibitors applicable against emerging CoVs as well as ubiquitous
+pathogens of humans and livestock.
+
+DOI: 10.1371/journal.ppat.1002331 
+PMCID: PMC3203193
+PMID: 22046132  [Indexed for MEDLINE]
+

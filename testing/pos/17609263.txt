@@ -1,0 +1,34 @@
+
+1. J Virol. 2007 Sep;81(18):9769-77. Epub 2007 Jul 3.
+
+The role of WWP1-Gag interaction and Gag ubiquitination in assembly and release
+of human T-cell leukemia virus type 1.
+
+Heidecker G(1), Lloyd PA, Soheilian F, Nagashima K, Derse D.
+
+Author information: 
+(1)National Cancer Institute-Frederick, Frederick, MD 21702-1201, USA.
+heidecke@ncifcrf.gov
+
+The PPPY motif in the matrix (MA) domain of human T-cell leukemia virus type 1
+(HTLV-1) Gag associates with WWP1, a member of the HECT domain containing family 
+of E3 ubiquitin ligases. Mutation of the PPPY motif arrests particle assembly at 
+an early stage and abolishes ubiquitination of MA. Similar effects are seen when 
+Gag is expressed in the presence of a truncated form of WWP1 that lacks the
+catalytically active HECT domain (C2WW). To understand the role of ubiquitination
+in budding, we mutated the four lysines in MA to arginines and identified lysine 
+74 as the unique site of ubiquitination. Virus-like particles produced by the
+K74R mutant did not contain ubiquitinated MA and showed a fourfold reduction in
+the release of infectious particles. Furthermore, the K74R mutation rendered
+assembly hypersensitive to C2WW inhibition; K74R Gag budding was inhibited at
+significantly lower levels of expression of C2WW compared with wild-type Gag.
+This finding indicates that the interaction between Gag and WWP1 is required for 
+functions other than Gag ubiquitination. Additionally, we show that the PPPY(-)
+mutant Gag exerts a strong dominant-negative effect on the budding of wild-type
+Gag, further supporting the importance of recruitment of WWP1 to achieve particle
+assembly.
+
+DOI: 10.1128/JVI.00642-07 
+PMCID: PMC2045422
+PMID: 17609263  [Indexed for MEDLINE]
+

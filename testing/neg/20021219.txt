@@ -1,0 +1,37 @@
+
+1. Hum Gene Ther. 2010 May;21(5):543-53. doi: 10.1089/hum.2009.167.
+
+Fate of recombinant adeno-associated viral vector genomes during DNA
+double-strand break-induced gene targeting in human cells.
+
+Gellhaus K(1), Cornu TI, Heilbronn R, Cathomen T.
+
+Author information: 
+(1)Institute of Virology, Charité Medical School, Campus Benjamin Franklin,
+D-12203 Berlin, Germany.
+
+Recombinant vectors based on adeno-associated virus (rAAV) are promising tools to
+specifically alter complex genomes through homologous recombination (HR)-based
+gene targeting. In a therapeutic setting, an AAV donor vector will recombine with
+a mutant target locus in order to correct the mutation directly in the genome.
+The low frequency of HR in mammalian cells can be significantly improved by
+insertion of a DNA double-strand break (DSB) into the target locus through
+expression of a site-specific endonuclease. Here, we have scrutinized the fate of
+rAAV vector genomes during DSB-induced gene targeting and assessed the targeting 
+frequency and the targeting ratio as a risk-benefit indicator. In various human
+cell lines carrying a mutated enhanced green fluorescent protein locus with a
+recognition site for the homing endonuclease I-SceI, rAAV-transduced cells were
+assayed by flow cytometry and by quantitative allele-specific polymerase chain
+reaction to assess HR and unspecific integration events. Under optimal conditions
+gene-targeting frequencies of 65% and targeting ratios of 2:1 were achieved, that
+is, more gene correction than unspecific integrations. The gene-targeting
+frequency was highly dependent on rAAV vector design, the cell line, and on the
+presence of a DSB in the target locus. Although expression of I-SceI led to a
+significant increase in gene targeting, it did not augment unspecific
+integration. In conclusion, our results reveal the side effects associated with
+rAAV-mediated gene targeting, but also its great potential for precise genome
+engineering in a therapeutic context.
+
+DOI: 10.1089/hum.2009.167 
+PMID: 20021219  [Indexed for MEDLINE]
+

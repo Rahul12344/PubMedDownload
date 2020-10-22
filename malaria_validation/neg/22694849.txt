@@ -1,0 +1,51 @@
+
+1. BMC Microbiol. 2012 Jun 13;12:107. doi: 10.1186/1471-2180-12-107.
+
+In vitro and in vivo silencing of plasmodial dhs and eIf-5a genes in a putative, 
+non-canonical RNAi-related pathway.
+
+Schwentke A(1), Krepstakies M, Mueller AK, Hammerschmidt-Kamper C, Motaal BA,
+Bernhard T, Hauber J, Kaiser A.
+
+Author information: 
+(1)University Duisburg-Essen, Medical Research Centre, Institute of
+Pharmacogenetics, Essen, Germany.
+
+BACKGROUND: Deoxyhypusine synthase (DHS) catalyzes the first step in hypusine
+biosynthesis of eukaryotic initiation factor 5A (eIF-5A) in Plasmodium
+falciparum. Target evaluation of parasitic DHS has recently been performed with
+CNI-1493, a novel selective pro-inflammatory cytokine inhibitor used in clinical 
+phase II for the treatment of Crohn's disease. CNI-1493 prevented infected mice
+from experimental cerebral malaria by decreasing the levels in hypusinated eIF-5A
+and serum TNF, implicating a link between cytokine signaling and the hypusine
+pathway.Therefore we addressed the question whether either DHS itself or eIF-5A
+is required for the outcome of severe malaria. In a first set of experiments we
+performed an in vitro knockdown of the plasmodial eIF-5A and DHS proteins by RNA 
+interference (RNAi) in 293 T cells. Secondly, transfection of siRNA constructs
+into murine Plasmodium schizonts was performed which, in turn, were used for
+infection.
+RESULTS: 293 T cells treated with plasmodial DHS- and eIF-5A specific siRNAs or
+control siRNAs were analyzed by RT-PCR to determine endogenous dhs -and eIF-5A
+mRNA levels. The expressed DHS-shRNA and EIF-5A-shRNA clearly downregulated the
+corresponding transcript in these cells. Interestingly, mice infected with
+transgenic schizonts expressing either the eIF-5A or dhs shRNA showed an elevated
+parasitemia within the first two days post infection which then decreased
+intermittently. These results were obtained without drug selection. Blood
+samples, which were taken from the infected mice at day 5 post infection with
+either the expressed EIF-5A-shRNA or the DHS-shRNA were analyzed by RT-PCR and
+Western blot techniques, demonstrating the absence of either the hypusinated form
+of eIF-5A or DHS.
+CONCLUSIONS: Infection of NMRI mice with schizonts from the lethal P. berghei
+ANKA wildtype strain transgenic for plasmodial eIF-5A-specific shRNA or
+DHS-specific shRNA resulted in low parasitemia 2-9 days post infection before
+animals succumbed to hyperparasitemia similar to infections with the related but 
+non-lethal phenotype P. berghei strain NK65. RT-PCR and Western blot experiments 
+performed with blood from the transfected erythrocytic stages showed that both
+genes are important for the proliferation of the parasite. Moreover, these
+experiments clearly demonstrate that the hypusine pathway in Plasmodium is linked
+to human iNos induction.
+
+DOI: 10.1186/1471-2180-12-107 
+PMCID: PMC3438091
+PMID: 22694849  [Indexed for MEDLINE]
+

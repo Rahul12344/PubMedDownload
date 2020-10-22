@@ -1,0 +1,47 @@
+
+1. Prev Vet Med. 2009 Dec 1;92(4):324-32. doi: 10.1016/j.prevetmed.2009.07.013. Epub
+2009 Sep 20.
+
+A flock-tailored early warning system for low pathogenic avian influenza (LPAI)
+in commercial egg laying flocks.
+
+Beltrán-Alcrudo D(1), Carpenter TE, Cardona C.
+
+Author information: 
+(1)Department of Population Health and Reproduction, School of Veterinary
+Medicine, University of California - Davis, One Shields Avenue, Davis, CA 95616, 
+USA. dbeltran76@yahoo.co.uk
+
+The aim of this study was to develop and evaluate an early warning system (EWS)
+for commercial egg laying flocks to detect the subtle mortality and egg
+production changes that characterize low pathogenic avian influenza virus (LPAIV)
+infections. An EWS will create an alert when the recommended 'trigger point' is
+reached or exceeded. Previously used EWSs are based on fixed alert levels, while 
+the proposed EWS customizes the alert level to each flock. While a fixed approach
+may be valid for highly pathogenic diseases, it results in a lower detection
+probability for low pathogenic diseases. The EWS was based on daily data
+collected from flocks affected by the 2000-2004 H6N2 LPAI epidemic in California.
+Three EWSs were evaluated: (1) EWS1, which is triggered when the observed
+mortality increase or production decrease exceeds more than "x" times the
+expected daily value (2.75-3.50 times the expected mortality), (2) EWS2, which is
+triggered when the observed mortality increase or production decrease exceeds
+more than "y" times during each of 2 consecutive days the expected daily values
+(1.75-2.15 times the expected mortality), and (3) a combination of the two. The
+EWSs were evaluated according to three parameters: detection delay (days) of a
+LPAI outbreak, false alerts (%) and outbreaks missed (%). Results showed that an 
+egg production-based EWS added no benefit to a mortality-based system, mainly
+because H6N2 LPAI-related egg production decrease always occurred after increase 
+in mortality. Combining the two EWSs resulted in a reduced detection delay and no
+missed outbreaks, but at the expense of a slight increase in the number of false 
+alerts triggered. The system presented in this study also outperformed fixed EWSs
+in all three evaluated parameters. The proposed EWS, if used as part of a poultry
+cooperative program and combined with a rapid laboratory diagnosis, could be a
+useful tool in the detection and control of LPAI outbreaks and other poultry
+diseases. Built in a spreadsheet, the system could be inexpensively, easily and
+quickly incorporated into a commercial egg production farm decision support
+system. In addition, the proposed system could be quickly adjusted to changing
+epidemic situations, and easily customized to individual flocks.
+
+DOI: 10.1016/j.prevetmed.2009.07.013 
+PMID: 19767114  [Indexed for MEDLINE]
+

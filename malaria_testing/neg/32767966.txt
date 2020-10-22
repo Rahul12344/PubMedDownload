@@ -1,0 +1,53 @@
+
+1. BMC Genomics. 2020 Aug 7;21(1):547. doi: 10.1186/s12864-020-06956-6.
+
+Transcriptional variation of sensory-related genes in natural populations of
+Aedes albopictus.
+
+Gomulski LM(1), Manni M(1)(2), Carraretto D(1), Nolan T(3), Lawson D(4), Ribeiro 
+JM(5), Malacrida AR(1), Gasperi G(6).
+
+Author information: 
+(1)Department of Biology and Biotechnology, University of Pavia, Pavia, Italy.
+(2)Department of Genetic Medicine and Development, University of Geneva Medical
+School, and Swiss Institute of Bioinformatics, Geneva, Switzerland.
+(3)Department of Vector Biology, Liverpool School of Tropical Medicine,
+Liverpool, UK.
+(4)Department of Life Sciences, Imperial College London, London, UK.
+(5)NIAID, Laboratory of Malaria and Vector Research, NIH, Rockville, MD, 20852,
+USA.
+(6)Department of Biology and Biotechnology, University of Pavia, Pavia, Italy.
+gasperi@unipv.it.
+
+BACKGROUND: The Asian tiger mosquito, Aedes albopictus, is a highly dangerous
+invasive vector of numerous medically important arboviruses including dengue,
+chikungunya and Zika. In four decades it has spread from tropical Southeast Asia 
+to many parts of the world in both tropical and temperate climes. The rapid
+invasion process of this mosquito is supported by its high ecological and genetic
+plasticity across different life history traits. Our aim was to investigate
+whether wild populations, both native and adventive, also display transcriptional
+genetic variability for functions that may impact their biology, behaviour and
+ability to transmit arboviruses, such as sensory perception.
+RESULTS: Antennal transcriptome data were derived from mosquitoes from a native
+population from Ban Rai, Thailand and from three adventive Mediterranean
+populations: Athens, Greece and Arco and Trento from Italy. Clear
+inter-population differential transcriptional activity was observed in different 
+gene categories related to sound perception, olfaction and viral infection. The
+greatest differences were detected between the native Thai and the Mediterranean 
+populations. The two Italian populations were the most similar. Nearly one
+million quality filtered SNP loci were identified.
+CONCLUSION: The ability to express this great inter-population transcriptional
+variability highlights, at the functional level, the remarkable genetic
+flexibility of this mosquito species. We can hypothesize that the differential
+expression of genes, including those involved in sensory perception, in different
+populations may enable Ae. albopictus to exploit different environments and
+hosts, thus contributing to its status as a global vector of arboviruses of
+public health importance. The large number of SNP loci present in these
+transcripts represents a useful addition to the arsenal of high-resolution
+molecular markers and a resource that can be used to detect selective pressure
+and adaptive changes that may have occurred during the colonization process.
+
+DOI: 10.1186/s12864-020-06956-6 
+PMCID: PMC7430840
+PMID: 32767966 
+

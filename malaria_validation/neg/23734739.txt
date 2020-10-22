@@ -1,0 +1,46 @@
+
+1. Malar J. 2013 Jun 4;12:184. doi: 10.1186/1475-2875-12-184.
+
+Cloning and characterization of bifunctional enzyme farnesyl
+diphosphate/geranylgeranyl diphosphate synthase from Plasmodium falciparum.
+
+Jordão FM, Gabriel HB, Alves JM, Angeli CB, Bifano TD, Breda A, de Azevedo MF,
+Basso LA, Wunderlich G, Kimura EA, Katzin AM.
+
+BACKGROUND: Isoprenoids are the most diverse and abundant group of natural
+products. In Plasmodium falciparum, isoprenoid synthesis proceeds through the
+methyl erythritol diphosphate pathway and the products are further metabolized by
+farnesyl diphosphate synthase (FPPS), turning this enzyme into a key branch point
+of the isoprenoid synthesis. Changes in FPPS activity could alter the flux of
+isoprenoid compounds downstream of FPPS and, hence, play a central role in the
+regulation of a number of essential functions in Plasmodium parasites.
+METHODS: The isolation and cloning of gene PF3D7_18400 was done by amplification 
+from cDNA from mixed stage parasites of P. falciparum. After sequencing, the
+fragment was subcloned in pGEX2T for recombinant protein expression. To verify if
+the PF3D7_1128400 gene encodes a functional rPfFPPS protein, its catalytic
+activity was assessed using the substrate [4-14C] isopentenyl diphosphate and
+three different allylic substrates: dimethylallyl diphosphate, geranyl
+diphosphate or farnesyl diphosphate. The reaction products were identified by
+thin layer chromatography and reverse phase high-performance liquid
+chromatography. To confirm the product spectrum formed of rPfFPPS, isoprenic
+compounds were also identified by mass spectrometry. Apparent kinetic constants
+KM and Vmax for each substrate were determined by Michaelis-Menten; also,
+inhibition assays were performed using risedronate.
+RESULTS: The expressed protein of P. falciparum FPPS (rPfFPPS) catalyzes the
+synthesis of farnesyl diphosphate, as well as geranylgeranyl diphosphate, being
+therefore a bifunctional FPPS/geranylgeranyl diphosphate synthase (GGPPS) enzyme.
+The apparent KM values for the substrates dimethylallyl diphosphate, geranyl
+diphosphate and farnesyl diphosphate were, respectively, 68 ± 5 μM, 7.8 ± 1.3 μM 
+and 2.06 ± 0.4 μM. The protein is expressed constitutively in all
+intra-erythrocytic stages of P. falciparum, demonstrated by using transgenic
+parasites with a haemagglutinin-tagged version of FPPS. Also, the present data
+demonstrate that the recombinant protein is inhibited by risedronate.
+CONCLUSIONS: The rPfFPPS is a bifunctional FPPS/GGPPS enzyme and the structure of
+products FOH and GGOH were confirmed mass spectrometry. Plasmodial FPPS
+represents a potential target for the rational design of chemotherapeutic agents 
+to treat malaria.
+
+DOI: 10.1186/1475-2875-12-184 
+PMCID: PMC3679732
+PMID: 23734739  [Indexed for MEDLINE]
+

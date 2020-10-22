@@ -1,0 +1,52 @@
+
+1. J Clin Microbiol. 2016 Jun;54(6):1500-1511. doi: 10.1128/JCM.00235-16. Epub 2016 
+Mar 23.
+
+A Method for Amplicon Deep Sequencing of Drug Resistance Genes in Plasmodium
+falciparum Clinical Isolates from India.
+
+Rao PN(1), Uplekar S(1), Kayal S(2), Mallick PK(3), Bandyopadhyay N(3), Kale
+S(3), Singh OP(3), Mohanty A(4), Mohanty S(5), Wassmer SC(6), Carlton JM(7).
+
+Author information: 
+(1)Center for Genomics and Systems Biology, Department of Biology, New York
+University, New York, New York, USA.
+(2)National Institute of Technology, Raurkela, Odisha, India.
+(3)National Institute of Malaria Research, Indian Council of Medical Research,
+Dwarka, New Delhi, India.
+(4)Institute of Life Sciences, Bhubaneswar, Odisha, India.
+(5)Ispat General Hospital, Raurkela, Odisha, India.
+(6)Department of Microbiology, Division of Parasitology, New York University
+School of Medicine, New York, New York, USA.
+(7)Center for Genomics and Systems Biology, Department of Biology, New York
+University, New York, New York, USA jane.carlton@nyu.edu.
+
+A major challenge to global malaria control and elimination is early detection
+and containment of emerging drug resistance. Next-generation sequencing (NGS)
+methods provide the resolution, scalability, and sensitivity required for
+high-throughput surveillance of molecular markers of drug resistance. We have
+developed an amplicon sequencing method on the Ion Torrent PGM platform for
+targeted resequencing of a panel of six Plasmodium falciparum genes implicated in
+resistance to first-line antimalarial therapy, including artemisinin combination 
+therapy, chloroquine, and sulfadoxine-pyrimethamine. The protocol was optimized
+using 12 geographically diverse P. falciparum reference strains and successfully 
+applied to multiplexed sequencing of 16 clinical isolates from India. The
+sequencing results from the reference strains showed 100% concordance with
+previously reported drug resistance-associated mutations. Single-nucleotide
+polymorphisms (SNPs) in clinical isolates revealed a number of known
+resistance-associated mutations and other nonsynonymous mutations that have not
+been implicated in drug resistance. SNP positions containing multiple allelic
+variants were used to identify three clinical samples containing mixed genotypes 
+indicative of multiclonal infections. The amplicon sequencing protocol has been
+designed for the benchtop Ion Torrent PGM platform and can be operated with
+minimal bioinformatics infrastructure, making it ideal for use in countries that 
+are endemic for the disease to facilitate routine large-scale surveillance of the
+emergence of drug resistance and to ensure continued success of the malaria
+treatment policy.
+
+Copyright © 2016 Rao et al.
+
+DOI: 10.1128/JCM.00235-16 
+PMCID: PMC4879288
+PMID: 27008882  [Indexed for MEDLINE]
+

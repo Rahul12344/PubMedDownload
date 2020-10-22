@@ -1,0 +1,41 @@
+
+1. Proc Natl Acad Sci U S A. 2013 Feb 5;110(6):E448-57. doi:
+10.1073/pnas.1219702110. Epub 2013 Jan 22.
+
+Uracil DNA glycosylase initiates degradation of HIV-1 cDNA containing
+misincorporated dUTP and prevents viral integration.
+
+Weil AF(1), Ghosh D, Zhou Y, Seiple L, McMahon MA, Spivak AM, Siliciano RF,
+Stivers JT.
+
+Author information: 
+(1)Department of Pharmacology and Molecular Sciences, Johns Hopkins University
+School of Medicine, Baltimore, MD 21205, USA.
+
+HIV-1 reverse transcriptase discriminates poorly between dUTP and dTTP, and
+accordingly, viral DNA products become heavily uracilated when viruses infect
+host cells that contain high ratios of dUTP:dTTP. Uracilation of invading
+retroviral DNA is thought to be an innate immunity barrier to retroviral
+infection, but the mechanistic features of this immune pathway and the cellular
+fate of uracilated retroviral DNA products is not known. Here we developed a
+model system in which the cellular dUTP:dTTP ratio can be pharmacologically
+increased to favor dUTP incorporation, allowing dissection of this innate
+immunity pathway. When the virus-infected cells contained elevated dUTP levels,
+reverse transcription was found to proceed unperturbed, but integration and viral
+protein expression were largely blocked. Furthermore, successfully integrated
+proviruses lacked detectable uracil, suggesting that only nonuracilated viral DNA
+products were integration competent. Integration of the uracilated proviruses was
+restored using an isogenic cell line that had no detectable human uracil DNA
+glycosylase (hUNG2) activity, establishing that hUNG2 is a host restriction
+factor in cells that contain high dUTP. Biochemical studies in primary cells
+established that this immune pathway is not operative in CD4+ T cells, because
+these cells have high dUTPase activity (low dUTP), and only modest levels of hUNG
+activity. Although monocyte-derived macrophages have high dUTP levels, these
+cells have low hUNG activity, which may diminish the effectiveness of this
+restriction pathway. These findings establish the essential elements of this
+pathway and reconcile diverse observations in the literature.
+
+DOI: 10.1073/pnas.1219702110 
+PMCID: PMC3568341
+PMID: 23341616  [Indexed for MEDLINE]
+

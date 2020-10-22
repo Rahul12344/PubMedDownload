@@ -1,0 +1,54 @@
+
+1. BMC Genomics. 2016 Dec 1;17(1):986.
+
+Comparative genomics of Beauveria bassiana: uncovering signatures of virulence
+against mosquitoes.
+
+Valero-Jiménez CA(1)(2), Faino L(3), Spring In't Veld D(1)(4), Smit S(4), Zwaan
+BJ(5), van Kan JA(6).
+
+Author information: 
+(1)Laboratory of Genetics, Wageningen University, Droevendaalsesteeg 1, 6708 PB, 
+Wageningen, The Netherlands.
+(2)Laboratory of Entomology, Wageningen University, Droevendaalsesteeg 1,
+6708 PB, Wageningen, The Netherlands.
+(3)Laboratory of Phytopathology, Wageningen University, Droevendaalsesteeg 1,
+6708 PB, Wageningen, The Netherlands.
+(4)Bioinformatics Group, Wageningen University, Droevendaalsesteeg 1, 6708 PB,
+Wageningen, The Netherlands.
+(5)Laboratory of Genetics, Wageningen University, Droevendaalsesteeg 1, 6708 PB, 
+Wageningen, The Netherlands. bas.zwaan@wur.nl.
+(6)Laboratory of Phytopathology, Wageningen University, Droevendaalsesteeg 1,
+6708 PB, Wageningen, The Netherlands. jan.vankan@wur.nl.
+
+BACKGROUND: Entomopathogenic fungi such as Beauveria bassiana are promising
+biological agents for control of malaria mosquitoes. Indeed, infection with B.
+bassiana reduces the lifespan of mosquitoes in the laboratory and in the field.
+Natural isolates of B. bassiana show up to 10-fold differences in virulence
+between the most and the least virulent isolate. In this study, we sequenced the 
+genomes of five isolates representing the extremes of low/high virulence and
+three RNA libraries, and applied a genome comparison approach to uncover genetic 
+mechanisms underpinning virulence.
+RESULTS: A high-quality, near-complete genome assembly was achieved for the
+highly virulent isolate Bb8028, which was compared to the assemblies of the four 
+other isolates. Whole genome analysis showed a high level of genetic diversity
+between the five isolates (2.85-16.8 SNPs/kb), which grouped into two distinct
+phylogenetic clusters. Mating type gene analysis revealed the presence of either 
+the MAT1-1-1 or the MAT1-2-1 gene. Moreover, a putative new MAT gene (MAT1-2-8)
+was detected in the MAT1-2 locus. Comparative genome analysis revealed that
+Bb8028 contains 163 genes exclusive for this isolate. These unique genes have a
+tendency to cluster in the genome and to be often located near the telomeres.
+Among the genes unique to Bb8028 are a Non-Ribosomal Peptide Synthetase (NRPS)
+secondary metabolite gene cluster, a polyketide synthase (PKS) gene, and five
+genes with homology to bacterial toxins. A survey of candidate virulence genes
+for B. bassiana is presented.
+CONCLUSIONS: Our results indicate several genes and molecular processes that may 
+underpin virulence towards mosquitoes. Thus, the genome sequences of five
+isolates of B. bassiana provide a better understanding of the natural variation
+in virulence and will offer a major resource for future research on this
+important biological control agent.
+
+DOI: 10.1186/s12864-016-3339-1 
+PMCID: PMC5134283
+PMID: 27905873  [Indexed for MEDLINE]
+

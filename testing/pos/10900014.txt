@@ -1,0 +1,41 @@
+
+1. Proc Natl Acad Sci U S A. 2000 Jul 18;97(15):8566-71.
+
+Identification of eIF2Bgamma and eIF2gamma as cofactors of hepatitis C virus
+internal ribosome entry site-mediated translation using a functional genomics
+approach.
+
+Kruger M(1), Beger C, Li QX, Welch PJ, Tritz R, Leavitt M, Barber JR, Wong-Staal 
+F.
+
+Author information: 
+(1)Department of Medicine, University of California, San Diego School of
+Medicine, 9500 Gilman Drive, La Jolla, CA, 92093-0665, USA.
+
+The 5'-untranslated region of hepatitis C virus (HCV) is highly conserved, folds 
+into a complex secondary structure, and functions as an internal ribosome entry
+site (IRES) to initiate translation of HCV proteins. We have developed a
+selection system based on a randomized hairpin ribozyme gene library to identify 
+cellular factors involved in HCV IRES function. A retroviral vector ribozyme
+library with randomized target recognition sequences was introduced into HeLa
+cells, stably expressing a bicistronic construct encoding the hygromycin B
+phosphotransferase gene and the herpes simplex virus thymidine kinase gene
+(HSV-tk). Translation of the HSV-tk gene was mediated by the HCV IRES. Cells
+expressing ribozymes that inhibit HCV IRES-mediated translation of HSV-tk were
+selected via their resistance to both ganciclovir and hygromycin B. Two ribozymes
+reproducibly conferred the ganciclovir-resistant phenotype and were shown to
+inhibit IRES-mediated translation of HCV core protein but did not inhibit
+cap-dependent protein translation or cell growth. The functional targets of these
+ribozymes were identified as the gamma subunits of human eukaryotic initiation
+factors 2B (eIF2Bgamma) and 2 (eIF2gamma), respectively. The involvement of
+eIF2Bgamma and eIF2gamma in HCV IRES-mediated translation was further validated
+by ribozymes directed against additional sites within the mRNAs of these genes.
+In addition to leading to the identification of cellular IRES cofactors,
+ribozymes obtained from this cellular selection system could be directly used to 
+specifically inhibit HCV viral translation, thereby facilitating the development 
+of new antiviral strategies for HCV infection.
+
+DOI: 10.1073/pnas.97.15.8566 
+PMCID: PMC26988
+PMID: 10900014  [Indexed for MEDLINE]
+

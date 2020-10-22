@@ -1,0 +1,45 @@
+
+1. J Vis Exp. 2017 May 28;(123). doi: 10.3791/55919.
+
+Retroviral Scanning: Mapping MLV Integration Sites to Define Cell-specific
+Regulatory Regions.
+
+Romano O(1), Cifola I(2), Poletti V(3), Severgnini M(2), Peano C(2), De Bellis
+G(2), Mavilio F(4), Miccio A(5).
+
+Author information: 
+(1)Center for Genome Research, Department of Life Sciences, University of Modena 
+and Reggio Emilia; Laboratory of Chromatin and Gene Regulation During
+Development, Imagine Institute.
+(2)Institute for Biomedical Technologies, CNR.
+(3)Généthon.
+(4)Center for Genome Research, Department of Life Sciences, University of Modena 
+and Reggio Emilia; Généthon.
+(5)Center for Genome Research, Department of Life Sciences, University of Modena 
+and Reggio Emilia; Laboratory of Chromatin and Gene Regulation During
+Development, Imagine Institute; Généthon; Sorbonne Paris Cité - Université Paris 
+Descartes; annarita.miccio@institutimagine.org.
+
+Moloney murine leukemia (MLV) virus-based retroviral vectors integrate
+predominantly in acetylated enhancers and promoters. For this reason, mLV
+integration sites can be used as functional markers of active regulatory
+elements. Here, we present a retroviral scanning tool, which allows the
+genome-wide identification of cell-specific enhancers and promoters. Briefly, the
+target cell population is transduced with an mLV-derived vector and genomic DNA
+is digested with a frequently cutting restriction enzyme. After ligation of
+genomic fragments with a compatible DNA linker, linker-mediated polymerase chain 
+reaction (LM-PCR) allows the amplification of the virus-host genome junctions.
+Massive sequencing of the amplicons is used to define the mLV integration profile
+genome-wide. Finally, clusters of recurrent integrations are defined to identify 
+cell-specific regulatory regions, responsible for the activation of cell-type
+specific transcriptional programs. The retroviral scanning tool allows the
+genome-wide identification of cell-specific promoters and enhancers in
+prospectively isolated target cell populations. Notably, retroviral scanning
+represents an instrumental technique for the retrospective identification of rare
+populations (e.g. somatic stem cells) that lack robust markers for prospective
+isolation.
+
+DOI: 10.3791/55919 
+PMCID: PMC5608156
+PMID: 28605390  [Indexed for MEDLINE]
+

@@ -1,0 +1,55 @@
+
+1. Version 2. Wellcome Open Res. 2020 Jun 24 [revised 2020 Jun 24];5:71. doi:
+10.12688/wellcomeopenres.15587.2. eCollection 2020.
+
+An enhanced toolkit for the generation of knockout and marker-free fluorescent
+Plasmodium chabaudi.
+
+Marr EJ(1), Milne RM(1), Anar B(2), Girling G(2), Schwach F(2), Mooney JP(3),
+Nahrendorf W(1), Spence PJ(1), Cunningham D(4), Baker DA(5), Langhorne J(4),
+Rayner JC(2)(6), Billker O(2)(7), Bushell ES(2)(7), Thompson J(1).
+
+Author information: 
+(1)Institute of Immunology and Infection Research, School of Biological Sciences,
+University of Edinburgh, Ashworth Laboratories, The King's Buildings, Edinburgh, 
+EH9 3FL, UK.
+(2)Parasites and Microbes, Wellcome Sanger Institute, Wellcome Genome Campus,
+Cambridge, CB10 1SA, UK.
+(3)The Roslin Institute and Royal (Dick) School of Veterinary Studies, University
+of Edinburgh, Edinburgh, Midlothian, EH25 9RG, UK.
+(4)The Francis Crick Institute, London, NW1 1AT, UK.
+(5)Faculty of Infectious and Tropical Diseases, London School of Hygiene and
+Tropical Medicine, Keppel Street, London, WC1E 7HT, UK.
+(6)Cambridge Institute for Medical Research, University of Cambridge, The Keith
+Peters Building, Hills Road, Cambridge, CB2 0XY, UK.
+(7)Laboratory for Molecular Infection Medicine Sweden, Department of Molecular
+Biology, Umeå University, Umeå, 901 87, Sweden.
+
+The rodent parasite Plasmodium chabaudi is an important in vivo model of malaria.
+The ability to produce chronic infections makes it particularly useful for
+investigating the development of anti- Plasmodium immunity, as well as features
+associated with parasite virulence during both the acute and chronic phases of
+infection. P. chabaudi also undergoes asexual maturation (schizogony) and
+erythrocyte invasion in culture, so offers an experimentally-amenable in vivo to 
+in vitro model for studying gene function and drug activity during parasite
+replication. To extend the usefulness of this model, we have further optimised
+transfection protocols and plasmids for P. chabaudi and generated stable,
+fluorescent lines that are free from drug-selectable marker genes. These
+mother-lines show the same infection dynamics as wild-type parasites throughout
+the lifecycle in mice and mosquitoes; furthermore, their virulence can be
+increased by serial blood passage and reset by mosquito transmission. We have
+also adapted the large-insert, linear PlasmoGEM vectors that have revolutionised 
+the scale of experimental genetics in another rodent malaria parasite and used
+these to generate barcoded P. chabaudi gene-deletion and -tagging vectors for
+transfection in our fluorescent P. chabaudi mother-lines. This produces a
+tool-kit of P. chabaudi lines, vectors and transfection approaches that will be
+of broad utility to the research community.
+
+Copyright: © 2020 Marr EJ et al.
+
+DOI: 10.12688/wellcomeopenres.15587.2 
+PMCID: PMC7236590.2
+PMID: 32500098 
+
+Conflict of interest statement: No competing interests were disclosed.
+

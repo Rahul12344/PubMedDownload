@@ -1,0 +1,43 @@
+
+1. J Virol. 1999 Aug;73(8):6394-404.
+
+Myxoma virus Serp2 is a weak inhibitor of granzyme B and
+interleukin-1beta-converting enzyme in vitro and unlike CrmA cannot block
+apoptosis in cowpox virus-infected cells.
+
+Turner PC(1), Sancho MC, Thoennes SR, Caputo A, Bleackley RC, Moyer RW.
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, University of Florida,
+Gainesville, Florida 32610-0266, USA.
+
+The Serp2 protein encoded by the leporipoxvirus myxoma virus is essential for
+full virulence (F. Messud-Petit, J. Gelfi, M. Delverdier, M. F. Amardeilh, R. Py,
+G. Sutter, and S. Bertagnoli, J. Virol. 72:7830-7839, 1998) and, like crmA of
+cowpox virus (CPV), is reported to inhibit the interleukin-1beta-converting
+enzyme (ICE, caspase-1) (F. Petit, S. Bertagnoli, J. Gelfi, F. Fassy, C.
+Boucraut-Baralon, and A. Milon, J. Virol. 70:5860-5866, 1996). Serp2 and CrmA
+both contain Asp at the P1 position within the serpin reactive site loop and yet 
+are only 35% identical overall. Serp2 protein was cleaved by ICE but, unlike
+CrmA, did not form a stable complex with ICE that was detectable by native gel
+electrophoresis. Attempts to covalently cross-link ICE-serpin inhibitory
+complexes were successful with CrmA, but no complex between ICE and Serp2 was
+visible after cross-linking. Purified His10-tagged Serp2 protein was a relatively
+poor inhibitor of ICE, with a Ki of 80 nM compared to 4 pM for CrmA. Serp2
+protein resembled CrmA in that a stable complex with the serine proteinase
+granzyme B was detectable after sodium dodecyl sulfate-polyacrylamide gel
+electrophoresis. However, Serp2 was less effective at inhibiting granzyme B
+activity (Ki = 420 nM) than CrmA (Ki = 100 nM). Finally, Serp2 was tested for the
+ability to replace CrmA and inhibit apoptosis in LLC-PK1 cells infected with a
+CPV recombinant deleted for CrmA but expressing Serp2. Unlike
+wild-type-CPV-infected cells, apoptosis was readily observed in cells infected
+with the recombinant virus, as indicated by the induction of both nuclear
+fragmentation and caspase-mediated cleavage of DEVD-AMC
+[acetyl-Asp-Glu-Val-Asp-(amino-4-methyl coumarin)]. These results indicate that
+Serp2 is unable to functionally substitute for CrmA within the context of CPV and
+that the inhibition spectra for Serp2 and CrmA are distinct.
+
+DOI: 10.1128/JVI.73.8.6394-6404.1999 
+PMCID: PMC112719
+PMID: 10400732  [Indexed for MEDLINE]
+

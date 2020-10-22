@@ -1,0 +1,44 @@
+
+1. PLoS Pathog. 2017 Jun 15;13(6):e1006396. doi: 10.1371/journal.ppat.1006396.
+eCollection 2017 Jun.
+
+A novel genetic technique in Plasmodium berghei allows liver stage analysis of
+genes required for mosquito stage development and demonstrates that de novo heme 
+synthesis is essential for liver stage development in the malaria parasite.
+
+Rathnapala UL(1), Goodman CD(1), McFadden GI(1).
+
+Author information: 
+(1)School of BioSciences, University of Melbourne, Parkville, Victoria,
+Australia.
+
+The combination of drug resistance, lack of an effective vaccine, and ongoing
+conflict and poverty means that malaria remains a major global health crisis.
+Understanding metabolic pathways at all parasite life stages is important in
+prioritising and targeting novel anti-parasitic compounds. The unusual heme
+synthesis pathway of the rodent malaria parasite, Plasmodium berghei, requires
+eight enzymes distributed across the mitochondrion, apicoplast and cytoplasm.
+Deletion of the ferrochelatase (FC) gene, the final enzyme in the pathway,
+confirms that heme synthesis is not essential in the red blood cell stages of the
+life cycle but is required to complete oocyst development in mosquitoes. The
+lethality of FC deletions in the mosquito stage makes it difficult to study the
+impact of these mutations in the subsequent liver stage. To overcome this, we
+combined locus-specific fluorophore expression with a genetic complementation
+approach to generate viable, heterozygous oocysts able to produce a mix of FC
+expressing and FC deficient sporozoites. These sporozoites show normal motility
+and can invade liver cells, where FC deficient parasites can be distinguished by 
+fluorescence and phenotyped. Parasites lacking FC exhibit a severe growth defect 
+within liver cells, with development failure detectable in the early to mid
+stages of liver development in vitro. FC deficient parasites could not complete
+liver stage development in vitro nor infect naïve mice, confirming liver stage
+arrest. These results validate the heme pathway as a potential target for
+prophylactic drugs targeting liver stage parasites. In addition, we demonstrate
+that our simple genetic approach can extend the phenotyping window beyond the
+insect stages, opening considerable scope for straightforward reverse genetic
+analysis of genes that are dispensable in blood stages but essential for
+completing mosquito development.
+
+DOI: 10.1371/journal.ppat.1006396 
+PMCID: PMC5472305
+PMID: 28617870  [Indexed for MEDLINE]
+

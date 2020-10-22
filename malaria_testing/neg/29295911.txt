@@ -1,0 +1,61 @@
+
+1. mBio. 2018 Jan 2;9(1). pii: e02021-17. doi: 10.1128/mBio.02021-17.
+
+ATG8 Is Essential Specifically for an Autophagy-Independent Function in
+Apicoplast Biogenesis in Blood-Stage Malaria Parasites.
+
+Walczak M(1), Ganesan SM(2), Niles JC(2), Yeh E(3)(4)(5)(6).
+
+Author information: 
+(1)Department of Biochemistry, Stanford Medical School, San Francisco,
+California, USA.
+(2)Department of Biological Engineering, Massachusetts Institute of Technology,
+Cambridge, Massachusetts, USA.
+(3)Department of Biochemistry, Stanford Medical School, San Francisco,
+California, USA ellenyeh@stanford.edu.
+(4)Department of Pathology, Stanford Medical School, San Francisco, California,
+USA.
+(5)Department of Microbiology and Immunology, Stanford Medical School, San
+Francisco, California, USA.
+(6)Chan Zuckerberg Biohub, San Francisco, California, USA.
+
+Plasmodium parasites and related pathogens contain an essential nonphotosynthetic
+plastid organelle, the apicoplast, derived from secondary endosymbiosis.
+Intriguingly, a highly conserved eukaryotic protein, autophagy-related protein 8 
+(ATG8), has an autophagy-independent function in the apicoplast. Little is known 
+about the novel apicoplast function of ATG8 and its importance in blood-stage
+Plasmodium falciparum Using a P. falciparum strain in which ATG8 expression was
+conditionally regulated, we showed that P. falciparum ATG8 (PfATG8) is essential 
+for parasite replication. Significantly, growth inhibition caused by the loss of 
+PfATG8 was reversed by addition of isopentenyl pyrophosphate (IPP), which was
+previously shown to rescue apicoplast defects in P. falciparum Parasites
+deficient in PfATG8, but whose growth was rescued by IPP, had lost their
+apicoplast. We designed a suite of functional assays, including a new
+fluorescence in situ hybridization (FISH) method for detection of the
+low-copy-number apicoplast genome, to interrogate specific steps in apicoplast
+biogenesis and detect apicoplast defects which preceded the block in parasite
+replication. Though protein import and membrane expansion of the apicoplast were 
+unaffected, the apicoplast was not inherited by daughter parasites. Our findings 
+demonstrate that, though multiple autophagy-dependent and independent functions
+have been proposed for PfATG8, only its role in apicoplast biogenesis is
+essential in blood-stage parasites. We propose that PfATG8 is required for
+fission or segregation of the apicoplast during parasite
+replication.IMPORTANCEPlasmodium parasites, which cause malaria, and related
+apicomplexan parasites are important human and veterinary pathogens. They are
+evolutionarily distant from traditional model organisms and possess a unique
+plastid organelle, the apicoplast, acquired by an unusual eukaryote-eukaryote
+endosymbiosis which established novel protein/lipid import and organelle
+inheritance pathways in the parasite cell. Though the apicoplast is essential for
+parasite survival in all stages of its life cycle, little is known about these
+novel biogenesis pathways. We show that malaria parasites have adapted a highly
+conserved protein required for macroautophagy in yeast and mammals to function
+specifically in apicoplast inheritance. Our finding elucidates a novel mechanism 
+of organelle biogenesis, essential for pathogenesis, in this divergent branch of 
+pathogenic eukaryotes.
+
+Copyright © 2018 Walczak et al.
+
+DOI: 10.1128/mBio.02021-17 
+PMCID: PMC5750400
+PMID: 29295911  [Indexed for MEDLINE]
+

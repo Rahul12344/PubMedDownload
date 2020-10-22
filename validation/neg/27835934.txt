@@ -1,0 +1,44 @@
+
+1. J Biomol Struct Dyn. 2017 Dec;35(16):3469-3485. doi:
+10.1080/07391102.2016.1257955. Epub 2016 Nov 28.
+
+The conformational feasibility for the formation of reaching dimer in ASV and HIV
+integrase: a molecular dynamics study.
+
+Balasubramanian S(1), Rajagopalan M(1), Bojja RS(2), Skalka AM(2), Andrake MD(2),
+Ramaswamy A(1).
+
+Author information: 
+(1)a Centre for Bioinformatics, School of Life Sciences , Pondicherry University 
+, Puducherry 605014 , India.
+(2)b Institute for Cancer Research , Fox Chase Cancer Center , Philadelphia , PA 
+19111 , USA.
+
+Retroviral integrases are reported to form alternate dimer assemblies like the
+core-core dimer and reaching dimer. The core-core dimer is stabilized
+predominantly by an extensive interface between two catalytic core domains. The
+reaching dimer is stabilized by N-terminal domains that reach to form
+intermolecular interfaces with the other subunit's core and C-terminal domains
+(CTD), as well as CTD-CTD interactions. In this study, molecular dynamics (MD),
+Brownian dynamics (BD) simulations, and free energy analyses, were performed to
+elucidate determinants for the stability of the reaching dimer forms of
+full-length Avian Sarcoma Virus (ASV) and Human Immunodeficiency Virus (HIV) IN, 
+and to examine the role of the C-tails (the last ~16-18 residues at the
+C-termini) in their structural dynamics. The dynamics of an HIV reaching dimer
+derived from small angle X-ray scattering and protein crosslinking data, was
+compared with the dynamics of a core-core dimer model derived from combining the 
+crystal structures of two-domain fragments. The results showed that the core
+domains in the ASV reaching dimer express free dynamics, whereas those in the HIV
+reaching dimer are highly stable. BD simulations suggest a higher rate of
+association for the HIV core-core dimer than the reaching dimer. The predicted
+stability of these dimers was therefore ranked in the following order: ASV
+reaching dimer < HIV reaching dimer < composite core-core dimer. Analyses of MD
+trajectories have suggested residues that are critical for intermolecular
+contacts in each reaching dimer. Tests of these predictions and insights gained
+from these analyses could reveal a potential pathway for the association and
+dissociation of full-length IN multimers.
+
+DOI: 10.1080/07391102.2016.1257955 
+PMCID: PMC5570655
+PMID: 27835934  [Indexed for MEDLINE]
+

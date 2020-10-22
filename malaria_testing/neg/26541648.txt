@@ -1,0 +1,39 @@
+
+1. Sci Rep. 2015 Nov 6;5:15930. doi: 10.1038/srep15930.
+
+Chemogenomic profiling of Plasmodium falciparum as a tool to aid antimalarial
+drug discovery.
+
+Pradhan A(1), Siwo GH(2), Singh N(1), Martens B(1), Balu B(1), Button-Simons
+KA(2), Tan A(2), Zhang M(1), Udenze KO(1), Jiang RH(1), Ferdig MT(2), Adams
+JH(1), Kyle DE(1).
+
+Author information: 
+(1)Department of Global Health, College of Public Health, University of South
+Florida, Tampa, FL 33612.
+(2)Eck Institute for Global Health, Department of Biological Sciences, University
+of Notre Dame, IN 46556.
+
+The spread of Plasmodium falciparum multidrug resistance highlights the urgency
+to discover new targets and chemical scaffolds. Unfortunately, lack of
+experimentally validated functional information about most P. falciparum genes
+remains a strategic hurdle. Chemogenomic profiling is an established tool for
+classification of drugs with similar mechanisms of action by comparing drug
+fitness profiles in a collection of mutants. Inferences of drug mechanisms of
+action and targets can be obtained by associations between shifts in drug fitness
+and specific genetic changes in the mutants. In this screen, P. falciparum,
+piggyBac single insertion mutants were profiled for altered responses to
+antimalarial drugs and metabolic inhibitors to create chemogenomic profiles.
+Drugs targeting the same pathway shared similar response profiles and multiple
+pairwise correlations of the chemogenomic profiles revealed novel insights into
+drugs' mechanisms of action. A mutant of the artemisinin resistance candidate
+gene - "K13-propeller" gene (PF3D7_1343700) exhibited increased susceptibility to
+artemisinin drugs and identified a cluster of 7 mutants based on similar enhanced
+responses to the drugs tested. Our approach of chemogenomic profiling reveals
+artemisinin functional activity, linked by the unexpected drug-gene relationships
+of these mutants, to signal transduction and cell cycle regulation pathways.
+
+DOI: 10.1038/srep15930 
+PMCID: PMC4635350
+PMID: 26541648  [Indexed for MEDLINE]
+

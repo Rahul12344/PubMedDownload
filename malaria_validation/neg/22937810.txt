@@ -1,0 +1,39 @@
+
+1. BMC Syst Biol. 2012 Aug 31;6:118. doi: 10.1186/1752-0509-6-118.
+
+Network-based assessment of the selectivity of metabolic drug targets in
+Plasmodium falciparum with respect to human liver metabolism.
+
+Bazzani S(1), Hoppe A, Holzhütter HG.
+
+Author information: 
+(1)Institut für Biochemie, Charite-Universitätsmedizin, Berlin, Germany.
+susanna.bazzani@charite.de
+
+BACKGROUND: The search for new drug targets for antibiotics against Plasmodium
+falciparum, a major cause of human deaths, is a pressing scientific issue, as
+multiple resistance strains spread rapidly. Metabolic network-based analyses may 
+help to identify those parasite's essential enzymes whose homologous counterparts
+in the human host cells are either absent, non-essential or relatively less
+essential.
+RESULTS: Using the well-curated metabolic networks PlasmoNet of the parasite
+Plasmodium falciparum and HepatoNet1 of the human hepatocyte, the selectivity of 
+48 experimental antimalarial drug targets was analyzed. Applying in silico gene
+deletions, 24 of these drug targets were found to be perfectly selective, in that
+they were essential for the parasite but non-essential for the human cell. The
+selectivity of a subset of enzymes, that were essential in both models, was
+evaluated with the reduced fitness concept. It was, then, possible to quantify
+the reduction in functional fitness of the two networks under the progressive
+inhibition of the same enzymatic activity. Overall, this in silico analysis
+provided a selectivity ranking that was in line with numerous in vivo and in
+vitro observations.
+CONCLUSIONS: Genome-scale models can be useful to depict and quantify the effects
+of enzymatic inhibitions on the impaired production of biomass components. From
+the perspective of a host-pathogen metabolic interaction, an estimation of the
+drug targets-induced consequences can be beneficial for the development of a
+selective anti-parasitic drug.
+
+DOI: 10.1186/1752-0509-6-118 
+PMCID: PMC3543272
+PMID: 22937810  [Indexed for MEDLINE]
+

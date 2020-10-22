@@ -1,0 +1,45 @@
+
+1. PLoS One. 2014 Apr 11;9(4):e94611. doi: 10.1371/journal.pone.0094611. eCollection
+2014.
+
+Ribosomal protein S29 regulates metabolic insecticide resistance through binding 
+and degradation of CYP6N3.
+
+Yu J(1), Hu S(1), Ma K(1), Sun L(2), Hu H(1), Zou F(1), Guo Q(1), Lei Z(1), Zhou 
+D(1), Sun Y(1), Zhang D(1), Ma L(1), Shen B(1), Zhu C(1).
+
+Author information: 
+(1)Department of Pathogen Biology, Nanjing Medical University, Nanjing, China.
+(2)Pediatric Research Center, Nanjing Children's Hospital Affiliated to Nanjing
+Medical University, Nanjing, China.
+
+BACKGROUND: Many diseases are transmitted by mosquitoes, including malaria,
+dengue fever, yellow fever, filariasis, and West Nile fever. Chemical control
+plays a major role in managing mosquito-borne diseases. However, excessive and
+continuous application of insecticides has caused the development of insecticide 
+resistance in many species including mosquito, and this has become the major
+obstacle to controlling mosquito-borne diseases. Insecticide resistance is the
+result of complex polygenic inheritance, and the mechanisms are not well
+understood. Ribosomal protein RPS29 was found to be associated with DM resistance
+in our previous study. In this study, we aim to further investigate the
+involvement of RPS29 in deltamethrin resistance.
+METHODOLOGY AND PRINCIPAL FINDINGS: In this study, tandem affinity purification
+was used to identify proteins that can interact with RPS29. Among the candidate
+proteins, CYP6N3, a member of the CYP450 superfamily, was identified, and binding
+to RPS29 was confirmed in vitro and in vivo by GST pull-down and
+immunofluorescence. CCK-8 assay was used to investigate the RPS29-CTP6N3
+interaction in relation to DM resistance. CYP6N3 overexpression significantly
+enhanced DM resistance and insect cell viability, but this was reversed by RPS29 
+overexpression. Western blot was used to study the mechanism of interaction
+between RPS29 and CYP6N3. RPS29 increases CYP6N3 protein degradation through the 
+proteasome.
+CONCLUSIONS AND SIGNIFICANCE: These observations indicate that CYP6N3, a novel
+RPS29-interacting partner, could stimulate deltamethrin resistance in mosquito
+cells and RPS29 overexpression targeted CYP6N3 for proteosomal degradation,
+abrogating the CYP6N3-associated resistence to deltamethrin. Our findings provide
+a novel mechanism associated with CYP450s mediated DM resistance.
+
+DOI: 10.1371/journal.pone.0094611 
+PMCID: PMC3984272
+PMID: 24728095  [Indexed for MEDLINE]
+

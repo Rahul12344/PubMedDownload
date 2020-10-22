@@ -1,0 +1,37 @@
+
+1. Biotechnol Bioeng. 2009 Dec 15;104(6):1142-52. doi: 10.1002/bit.22495.
+
+Visualizing and quantifying the differential cleavages of the eukaryotic
+translation initiation factors eIF4GI and eIF4GII in the enterovirus-infected
+cell.
+
+Hsu YY(1), Liu YN, Lu WW, Kung SH.
+
+Author information: 
+(1)Department of Biotechnology, National Yang-Ming University, Taipei, Taiwan,
+R.O.C.
+
+Enterovirus (EV) infection has been shown to cause a marked shutoff of host
+protein synthesis, an event mainly achieved through the cleavages of eukaryotic
+translation initiation factors eIF4GI and eIF4GII that are mediated by viral 2A
+protease (2A(pro)). Using fluorescence resonance energy transfer (FRET), we
+developed genetically encoded and FRET-based biosensors to visualize and quantify
+the specific proteolytic process in intact cells. This was accomplished by stable
+expression of a fusion substrate construct composed of the green fluorescent
+protein 2 (GFP(2)) and red fluorescent protein 2 (DsRed2), with a cleavage motif 
+on eIF4GI or eIF4GII connected in between. The FRET biosensor showed a real-time 
+and quantifiable impairment of FRET upon EV infection. Levels of the reduced FRET
+closely correlated with the cleavage kinetics of the endogenous eIF4Gs isoforms. 
+The FRET impairments were solely attributed to 2A(pro) catalytic activity,
+irrespective of other viral-encoded protease, the activated caspases or general
+inhibition of protein synthesis in the EV-infected cells. The FRET biosensors
+appeared to be a universal platform for several related EVs. The spatiotemporal
+and quantitative imaging enabled by FRET can shed light on the protease-substrate
+behaviors in their normal milieu, permitting investigation into the molecular
+mechanism underlying virus-induced host translation inhibition.
+
+2009 Wiley Periodicals, Inc.
+
+DOI: 10.1002/bit.22495 
+PMID: 19655339  [Indexed for MEDLINE]
+

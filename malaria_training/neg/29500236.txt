@@ -1,0 +1,54 @@
+
+1. Genome Res. 2018 Apr;28(4):547-560. doi: 10.1101/gr.218123.116. Epub 2018 Mar 2.
+
+Complete avian malaria parasite genomes reveal features associated with
+lineage-specific evolution in birds and mammals.
+
+Böhme U(#)(1), Otto TD(#)(1), Cotton JA(1), Steinbiss S(1), Sanders M(1), Oyola
+SO(1)(2), Nicot A(3), Gandon S(3), Patra KP(4), Herd C(1), Bushell E(1),
+Modrzynska KK(1), Billker O(1), Vinetz JM(4), Rivero A(5), Newbold CI(1)(6),
+Berriman M(1).
+
+Author information: 
+(1)Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridge,
+CB10 1SA, United Kingdom.
+(2)International Livestock Research Institute, Nairobi 00100, Kenya.
+(3)CEFE UMR 5175, CNRS-Université de Montpellier-Université Paul-Valéry
+Montpellier-EPHE, 34293 Montpellier Cedex 5, France.
+(4)Department of Medicine, Division of Infectious Diseases, University of
+California San Diego, School of Medicine, La Jolla, California 92093, USA.
+(5)MIVEGEC (CNRS UMR 5290), 34394 Montpellier Cedex 5, France.
+(6)Weatherall Institute of Molecular Medicine, University of Oxford, John
+Radcliffe Hospital, Oxford OX3 9DS, United Kingdom.
+(#)Contributed equally
+
+Avian malaria parasites are prevalent around the world and infect a wide
+diversity of bird species. Here, we report the sequencing and analysis of
+high-quality draft genome sequences for two avian malaria species, Plasmodium
+relictum and Plasmodium gallinaceum We identify 50 genes that are specific to
+avian malaria, located in an otherwise conserved core of the genome that shares
+gene synteny with all other sequenced malaria genomes. Phylogenetic analysis
+suggests that the avian malaria species form an outgroup to the mammalian
+Plasmodium species, and using amino acid divergence between species, we estimate 
+the avian- and mammalian-infective lineages diverged in the order of 10 million
+years ago. Consistent with their phylogenetic position, we identify orthologs of 
+genes that had previously appeared to be restricted to the clades of parasites
+containing Plasmodium falciparum and Plasmodium vivax, the species with the
+greatest impact on human health. From these orthologs, we explore differential
+diversifying selection across the genus and show that the avian lineage is
+remarkable in the extent to which invasion-related genes are evolving. The
+subtelomeres of the P. relictum and P. gallinaceum genomes contain several novel 
+gene families, including an expanded surf multigene family. We also identify an
+expansion of reticulocyte binding protein homologs in P. relictum, and within
+these proteins, we detect distinct regions that are specific to nonhuman primate,
+humans, rodent, and avian hosts. For the first time in the Plasmodium lineage, we
+find evidence of transposable elements, including several hundred fragments of
+LTR-retrotransposons in both species and an apparently complete
+LTR-retrotransposon in the genome of P. gallinaceum.
+
+© 2018 Böhme et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.218123.116 
+PMCID: PMC5880244
+PMID: 29500236  [Indexed for MEDLINE]
+

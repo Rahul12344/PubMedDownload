@@ -1,0 +1,50 @@
+
+1. Nucleic Acids Res. 1993 Dec 11;21(24):5705-11.
+
+An unstructured mRNA region and a 5' hairpin represent important elements of the 
+E. coli translation initiation signal determined by using the bacteriophage T7
+gene 1 translation start site.
+
+Helke A(1), Geisen RM, Vollmer M, Sprengart ML, Fuchs E.
+
+Author information: 
+(1)University of Heidelberg, Germany.
+
+Gene 1 of bacteriophage T7 early region--the RNA polymerase gene--is very
+actively translated during the infectious cycle of this phage. A 29 base pair
+fragment of its ribosome binding site containing the initiation triplet, the
+Shine-Dalgarno sequence (S-D), 10 nucleotides (nt) upstream and 6 nt downstream
+of these central elements was cloned into a vector to control the expression of
+the mouse dihydrofolate reductase gene (dhfr). Although all essential parts of
+this translation initiation region (TIR) should be present, this fragment showed 
+only very low activity. Computer analysis revealed a potentially inhibitory
+hairpin binding the S-D sequence into its stem base paired to vector-derived
+upstream sequences. Mutational alterations demonstrated that this hairpin was not
+responsible for the low activity. However, addition of 21 nt of the T7 gene 1
+upstream sequence to the 29 base pair fragment were capable of increasing the
+translational efficiency by one order of magnitude. Computer analysis of this
+sequence, including nucleotide shuffling, revealed that it contains a highly
+unstructured region lacking mRNA secondary structures but with a hairpin at its
+5' end, here formed solely by T7 sequences. There was not much difference in
+activity whether the mRNA included or lacked vector-derived sequences upstream of
+the hairpin. Such highly unstructured mRNA regions were found in all very
+efficiently expressed T7 genes without any obvious sequence homologies. The delta
+G values of these regions were higher, i.e. potential secondary structural
+elements were fewer, than in TIR of genes from E. coli. This is likely due to the
+fact that T7 as a lytic phage is relying for successful infection on much
+stronger signals which a cell cannot afford because of the indispensable balanced
+equilibria of its interdependent biochemical processes. When the 5' ends of
+efficient T7 gene mRNA are formed by the action of RNase III they generally start
+with an unstructured region. Efficiently expressed T7 genes within a
+polycistronic mRNA, however, always contain a hairpin preceding the structure
+free sequence. We suggest that the formation of this 5' hairpin is releasing
+enough energy to keep the unstructured regions free of secondary RNA structures
+for sufficient time to give ribosomes and factors a good chance for binding to
+the TIR. In addition, sequences further downstream of the start codon give rise
+to an additional increase in efficiency of the TIR by almost two orders of
+magnitude.
+
+DOI: 10.1093/nar/21.24.5705 
+PMCID: PMC310538
+PMID: 8284218  [Indexed for MEDLINE]
+

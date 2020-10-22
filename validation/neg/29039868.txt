@@ -1,0 +1,32 @@
+
+1. Lab Chip. 2017 Nov 7;17(22):3874-3882. doi: 10.1039/c7lc00780a.
+
+Inkjet-printed barcodes for a rapid and multiplexed paper-based assay compatible 
+with mobile devices.
+
+Yang M(1), Zhang W, Zheng W, Cao F, Jiang X.
+
+Author information: 
+(1)Beijing Engineering Research Center for BioNanotechnology and CAS Key Lab for 
+Biological Effects of Nanomaterials and Nanosafety, CAS Center for Excellence in 
+Nanoscience, National Center for Nanoscience and Technology, Beijing 100190,
+China. zhangw@nanoctr.cn xingyujiang@nanoctr.cn.
+
+This study reports a simple, rapid, low-cost, robust, and multiplexed barcoded
+paper-based assay (BPA) compatible with mobile devices. An inkjet printer and an 
+XYZ dispensing platform were used to realize mass-manufacturing of barcoded
+paper-based analytical devices (BPADs) with high precision and efficiency. We
+designed a new group of barcodes and developed an application (APP) for the
+reading of the new code. The new barcodes possess a 16 times higher coding
+capacity than the standard Codabar code in our experiment on drug residue
+detection. The BPA system allows applications in the assays of blood-transmitted 
+infections, drug residues in milk and multiplex nucleic acids. The whole
+detection process and the readout of the results can be completed within 10
+minutes. The limit of detection for enrofloxacin (ENR) (8 ng mL-1) satisfies the 
+requirements of drug residue monitoring. Its high rapidity, simplicity,
+efficiency and selectivity make the BPA system extremely suitable to be applied
+in rapid and on-site detection.
+
+DOI: 10.1039/c7lc00780a 
+PMID: 29039868  [Indexed for MEDLINE]
+

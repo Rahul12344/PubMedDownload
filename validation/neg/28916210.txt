@@ -1,0 +1,60 @@
+
+1. Epidemics. 2017 Dec;21:80-87. doi: 10.1016/j.epidem.2017.08.001. Epub 2017 Aug
+25.
+
+Modelling multi-site transmission of the human papillomavirus and its impact on
+vaccination effectiveness.
+
+Lemieux-Mellouki P(1), Drolet M(2), Jit M(3), Gingras G(4), Brisson M(5).
+
+Author information: 
+(1)CHU de Québec Research Center - Université Laval; Department of Social and
+Preventive Medicine, Laval University, Québec, Canada. Electronic address:
+philippe.lemieux-mellouki.1@ulaval.ca.
+(2)CHU de Québec Research Center - Université Laval.
+(3)Department of Infectious Disease Epidemiology, London School of Hygiene and
+Tropical Medicine, London, United Kingdom; Modelling and Economics Unit, Public
+Health England, London, United Kingdom.
+(4)CHU de Québec Research Center - Université Laval; Department of Social and
+Preventive Medicine, Laval University, Québec, Canada.
+(5)CHU de Québec Research Center - Université Laval; Department of Social and
+Preventive Medicine, Laval University, Québec, Canada; Department of Infectious
+Disease Epidemiology, Imperial College, London, United Kingdom.
+
+OBJECTIVE: Previous HPV models have only included genital transmission, when
+evidence suggests that transmission between several anatomical sites occurs. We
+compared model predictions of population-level HPV vaccination effectiveness
+against genital HPV16 infection in women, using a 1) uni-site (genital site), and
+a 2) multi-site model (genital and one extragenital site).
+METHODS: We developed a uni-site and a multi-site deterministic HPV transmission 
+model, assuming natural immunity was either site-specific or systemic. Both
+models were calibrated to genital HPV16 prevalence (5%-7.5%), whilst the
+multi-site model was calibrated to HPV16 prevalence representative of oral
+(0%-1%) and anal (1%-7.5%) sites. For each model, we identified 2500 parameter
+sets that fit endemic genital and extragenital prevalences within pre-specified
+target ranges. In the Base-case analysis, vaccination was girls-only with 40%
+coverage. Vaccine efficacy was 100% for all sites with lifetime protection. The
+outcome was the relative reduction in genital HPV16 prevalence among women at
+post-vaccination equilibrium (RRprev). RRprev was stratified by extragenital
+prevalence pre-vaccination.
+RESULTS: Under assumptions of site-specific immunity, RRprev with the multi-site 
+model was generally greater than with the uni-site model. Differences between the
+uni-site and multi-site models were greater when transmission from the
+extragenital site to the genital site was high. Under assumptions of systemic
+immunity, the multi-site and uni-site models yielded similar RRprev in the
+scenario without immunity after extragenital infection. In the scenario with
+systemic immunity after extragenital infection, the multi-site model yielded
+lower predictions of RRprev than the uni-site model.
+CONCLUSIONS: Modelling genital-site only transmission may overestimate
+vaccination impact if extragenital infections contribute to systemic natural
+immunity or underestimate vaccination impact if a high proportion of genital
+infections originate from extragenital infections. Under current understanding of
+heterosexual HPV transmission and immunity, a substantial bias from using
+uni-site models in predicting vaccination effectiveness against genital HPV
+infection is unlikely to occur.
+
+Copyright © 2017 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.epidem.2017.08.001 
+PMID: 28916210  [Indexed for MEDLINE]
+

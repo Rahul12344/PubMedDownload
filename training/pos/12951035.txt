@@ -1,0 +1,37 @@
+
+1. Virology. 2003 Aug 15;313(1):224-34.
+
+Adenovirus ADP protein (E3-11.6K), which is required for efficient cell lysis and
+virus release, interacts with human MAD2B.
+
+Ying B(1), Wold WS.
+
+Author information: 
+(1)Department of Molecular Microbiology and Immunology, St. Louis University
+School of Medicine, 1402 South Grand Boulevard, St. Louis, MO 63104, USA.
+
+The human subgroup C adenovirus (Ad) protein named adenovirus death protein (ADP)
+(previously named E3-11.6K) is synthesized at very late stages of infection when 
+it mediates efficient lysis of cells and release of adenovirus to infect other
+cells. ADP is an integral membrane N-linked, O-linked palmitoylated glycoprotein 
+of 101 amino acids (aa) that localizes to the nuclear membrane, endoplasmic
+reticulum (ER), and Golgi. It has a single membrane spanning region (roughly aa
+40-60) and is oriented with aa 1-40 in the lumen and aa 61-101 in the nucleoplasm
+and cytoplasm. Using aa 61-101 of Ad2 ADP as bait in a yeast two-hybrid screen,
+we isolated a cDNA for a 211-aa protein that initially was not in the database
+but has now been published by others with the names human MAD2B, MAD2L2, and
+REV7. ADP binds strongly to human MAD2B not only in yeast but also in GST
+pull-down experiments and in coimmunoprecipitations of ADP and MAD2B synthesized 
+in vitro or in vivo. ADP mutants with deletions throughout the bait region do not
+interact with human MAD2B, whereas a Pro69Pro70 to Ala69Ala70 mutant in the
+"basic-proline" domain of ADP does interact. Northern blot analyses indicate that
+human MAD2B is expressed ubiquitously. Human MAD2B is about 25% identical to
+human MAD2, a spindle assembly checkpoint protein. Two human A549 cell lines were
+made that constitutively overexpress MAD2B. Wild-type adenovirus lyses these
+cells significantly more slowly than it lyses parental A549 cells, raising the
+possibility that ADP and MAD2B act in opposition and suggesting that the
+ADP-MAD2B interaction is biologically relevant.
+
+DOI: 10.1016/s0042-6822(03)00287-3 
+PMID: 12951035  [Indexed for MEDLINE]
+

@@ -1,0 +1,49 @@
+
+1. Malar J. 2012 Sep 5;11:312. doi: 10.1186/1475-2875-11-312.
+
+Optimization of flow cytometric detection and cell sorting of transgenic
+Plasmodium parasites using interchangeable optical filters.
+
+Vorobjev IA(1), Buchholz K, Prabhat P, Ketman K, Egan ES, Marti M, Duraisingh MT,
+Barteneva NS.
+
+Author information: 
+(1)Immune Disease Institute and Program in Cellular and Molecular Medicine,
+Children's Hospital, D-239, 200 Longwood Avenue, 02115, Boston, MA, USA.
+
+BACKGROUND: Malaria remains a major cause of morbidity and mortality worldwide.
+Flow cytometry-based assays that take advantage of fluorescent protein
+(FP)-expressing malaria parasites have proven to be valuable tools for
+quantification and sorting of specific subpopulations of parasite-infected red
+blood cells. However, identification of rare subpopulations of parasites using
+green fluorescent protein (GFP) labelling is complicated by autofluorescence (AF)
+of red blood cells and low signal from transgenic parasites. It has been
+suggested that cell sorting yield could be improved by using filters that
+precisely match the emission spectrum of GFP.
+METHODS: Detection of transgenic Plasmodium falciparum parasites expressing
+either tdTomato or GFP was performed using a flow cytometer with interchangeable 
+optical filters. Parasitaemia was evaluated using different optical filters and, 
+after optimization of optics, the GFP-expressing parasites were sorted and
+analysed by microscopy after cytospin preparation and by imaging cytometry.
+RESULTS: A new approach to evaluate filter performance in flow cytometry using
+two-dimensional dot blot was developed. By selecting optical filters with narrow 
+bandpass (BP) and maximum position of filter emission close to GFP maximum
+emission in the FL1 channel (510/20, 512/20 and 517/20; dichroics 502LP and
+466LP), AF was markedly decreased and signal-background improve dramatically.
+Sorting of GFP-expressing parasite populations in infected red blood cells at 90 
+or 95% purity with these filters resulted in 50-150% increased yield when
+compared to the standard filter set-up. The purity of the sorted population was
+confirmed using imaging cytometry and microscopy of cytospin preparations of
+sorted red blood cells infected with transgenic malaria parasites.
+DISCUSSION: Filter optimization is particularly important for applications where 
+the FP signal and percentage of positive events are relatively low, such as
+analysis of parasite-infected samples with in the intention of gene-expression
+profiling and analysis. The approach outlined here results in substantially
+improved yield of GFP-expressing parasites, and requires decreased sorting time
+in comparison to standard methods. It is anticipated that this protocol will be
+useful for a wide range of applications involving rare events.
+
+DOI: 10.1186/1475-2875-11-312 
+PMCID: PMC3544587
+PMID: 22950515  [Indexed for MEDLINE]
+

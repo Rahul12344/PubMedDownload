@@ -1,0 +1,46 @@
+
+1. BMC Genomics. 2014 May 8;15:347. doi: 10.1186/1471-2164-15-347.
+
+DNA-encoded nucleosome occupancy is associated with transcription levels in the
+human malaria parasite Plasmodium falciparum.
+
+Bunnik EM, Polishko A, Prudhomme J, Ponts N, Gill SS, Lonardi S, Le Roch KG(1).
+
+Author information: 
+(1)Department of Cell Biology and Neuroscience, Center for Disease Vector
+Research, Institute for Integrative Genome Biology, University of California,
+Riverside, 900 University Avenue, Riverside, CA 92521, USA.
+karine.leroch@ucr.edu.
+
+BACKGROUND: In eukaryotic organisms, packaging of DNA into nucleosomes controls
+gene expression by regulating access of the promoter to transcription factors.
+The human malaria parasite Plasmodium falciparum encodes relatively few
+transcription factors, while extensive nucleosome remodeling occurs during its
+replicative cycle in red blood cells. These observations point towards an
+important role of the nucleosome landscape in regulating gene expression.
+However, the relation between nucleosome positioning and transcriptional activity
+has thus far not been explored in detail in the parasite.
+RESULTS: Here, we analyzed nucleosome positioning in the asexual and sexual
+stages of the parasite's erythrocytic cycle using chromatin immunoprecipitation
+of MNase-digested chromatin, followed by next-generation sequencing. We observed 
+a relatively open chromatin structure at the trophozoite and gametocyte stages,
+consistent with high levels of transcriptional activity in these stages.
+Nucleosome occupancy of genes and promoter regions were subsequently compared to 
+steady-state mRNA expression levels. Transcript abundance showed a strong inverse
+correlation with nucleosome occupancy levels in promoter regions. In addition,
+AT-repeat sequences were strongly unfavorable for nucleosome binding in P.
+falciparum, and were overrepresented in promoters of highly expressed genes.
+CONCLUSIONS: The connection between chromatin structure and gene expression in P.
+falciparum shares similarities with other eukaryotes. However, the remarkable
+nucleosome dynamics during the erythrocytic stages and the absence of a large
+variety of transcription factors may indicate that nucleosome binding and
+remodeling are critical regulators of transcript levels. Moreover, the strong
+dependency between chromatin structure and DNA sequence suggests that the P.
+falciparum genome may have been shaped by nucleosome binding preferences.
+Nucleosome remodeling mechanisms in this deadly parasite could thus provide
+potent novel anti-malarial targets.
+
+DOI: 10.1186/1471-2164-15-347 
+PMCID: PMC4035074
+PMID: 24885191  [Indexed for MEDLINE]
+

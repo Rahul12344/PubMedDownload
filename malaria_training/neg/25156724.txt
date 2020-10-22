@@ -1,0 +1,53 @@
+
+1. Infect Immun. 2014 Nov;82(11):4654-65. doi: 10.1128/IAI.01940-14. Epub 2014 Aug
+25.
+
+The subcellular location of ovalbumin in Plasmodium berghei blood stages
+influences the magnitude of T-cell responses.
+
+Lin JW(1), Shaw TN(2), Annoura T(1), Fougère A(1), Bouchier P(1),
+Chevalley-Maurel S(1), Kroeze H(1), Franke-Fayard B(1), Janse CJ(1), Couper
+KN(2), Khan SM(3).
+
+Author information: 
+(1)Leiden Malaria Research Group, Parasitology, Leiden University Medical Centre,
+Leiden, The Netherlands.
+(2)Faculty of Life Sciences, University of Manchester, Manchester, United
+Kingdom.
+(3)Leiden Malaria Research Group, Parasitology, Leiden University Medical Centre,
+Leiden, The Netherlands S.M.Khan@lumc.nl.
+
+Model antigens are frequently introduced into pathogens to study determinants
+that influence T-cell responses to infections. To address whether an antigen's
+subcellular location influences the nature and magnitude of antigen-specific
+T-cell responses, we generated Plasmodium berghei parasites expressing the model 
+antigen ovalbumin (OVA) either in the parasite cytoplasm or on the
+parasitophorous vacuole membrane (PVM). For cytosolic expression, OVA alone or
+conjugated to mCherry was expressed from a strong constitutive promoter (OVAhsp70
+or OVA::mCherryhsp70); for PVM expression, OVA was fused to HEP17/EXP1
+(OVA::Hep17hep17). Unexpectedly, OVA expression in OVAhsp70 parasites was very
+low, but when OVA was fused to mCherry (OVA::mCherryhsp70), it was highly
+expressed. OVA expression in OVA::Hep17hep17 parasites was strong but
+significantly less than that in OVA::mCherryhsp70 parasites. These transgenic
+parasites were used to examine the effects of antigen subcellular location and
+expression level on the development of T-cell responses during blood-stage
+infections. While all OVA-expressing parasites induced activation and
+proliferation of OVA-specific CD8(+) T cells (OT-I) and CD4(+) T cells (OT-II),
+the level of activation varied: OVA::Hep17hep17 parasites induced significantly
+stronger splenic and intracerebral OT-I and OT-II responses than those of
+OVA::mCherryhsp70 parasites, but OVA::mCherryhsp70 parasites promoted stronger
+OT-I and OT-II responses than those of OVAhsp70 parasites. Despite lower OVA
+expression levels, OVA::Hep17hep17 parasites induced stronger T-cell responses
+than those of OVA::mCherryhsp70 parasites. These results indicate that
+unconjugated cytosolic OVA is not stably expressed in Plasmodium parasites and,
+importantly, that its cellular location and expression level influence both the
+induction and magnitude of parasite-specific T-cell responses. These parasites
+represent useful tools for studying the development and function of
+antigen-specific T-cell responses during malaria infection.
+
+Copyright © 2014, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/IAI.01940-14 
+PMCID: PMC4249308
+PMID: 25156724  [Indexed for MEDLINE]
+

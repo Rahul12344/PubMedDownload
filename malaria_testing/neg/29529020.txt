@@ -1,0 +1,66 @@
+
+1. PLoS Biol. 2018 Mar 12;16(3):e2004328. doi: 10.1371/journal.pbio.2004328.
+eCollection 2018 Mar.
+
+The Plasmodium falciparum transcriptome in severe malaria reveals altered
+expression of genes involved in important processes including surface
+antigen-encoding var genes.
+
+Tonkin-Hill GQ(1)(2), Trianty L(3), Noviyanti R(3), Nguyen HHT(4)(5), Sebayang
+BF(3), Lampah DA(6), Marfurt J(7), Cobbold SA(8), Rambhatla JS(5)(9), McConville 
+MJ(8), Rogerson SJ(5)(9), Brown GV(10), Day KP(4), Price RN(7)(11), Anstey NM(7),
+Papenfuss AT(1)(2)(12)(13)(14), Duffy MF(4).
+
+Author information: 
+(1)Bioinformatics Division, Walter and Eliza Hall Institute of Medical Research, 
+Parkville, Victoria, Australia.
+(2)Department of Mathematics and Statistics, University of Melbourne, Victoria,
+Australia.
+(3)The Eijkman Institute for Molecular Biology, Jakarta, Indonesia.
+(4)School of Biosciences, Bio21 Institute, University of Melbourne, Melbourne,
+Victoria, Australia.
+(5)Department of Medicine and Radiology, Royal Melbourne Hospital, University of 
+Melbourne, Melbourne, Victoria, Australia.
+(6)Timika Malaria Research Program, Papuan Health and Community Development
+Foundation, Timika, Papua, Indonesia.
+(7)Global and Tropical Health Division, Menzies School of Health Research,
+Charles Darwin University, Darwin, NT, Australia.
+(8)Department of Biochemistry and Molecular Biology, Bio21 Institute, University 
+of Melbourne, Melbourne, Victoria, Australia.
+(9)Peter Doherty Institute for Infection and Immunity, Melbourne, Victoria,
+Australia.
+(10)The Nossal Institute for Global Health, University of Melbourne, Parkville,
+Victoria, Australia.
+(11)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Clinical Medicine, University of Oxford, Oxford, United Kingdom.
+(12)Peter MacCallum Cancer Centre, Victorian Comprehensive Cancer Centre,
+Melbourne, Australia.
+(13)Department of Medical Biology, University of Melbourne, Parkville, Victoria, 
+Australia.
+(14)Sir Peter MacCallum Department of Oncology, University of Melbourne,
+Parkville, Victoria, Australia.
+
+Within the human host, the malaria parasite Plasmodium falciparum is exposed to
+multiple selection pressures. The host environment changes dramatically in severe
+malaria, but the extent to which the parasite responds to-or is selected by-this 
+environment remains unclear. From previous studies, the parasites that cause
+severe malaria appear to increase expression of a restricted but poorly defined
+subset of the PfEMP1 variant, surface antigens. PfEMP1s are major targets of
+protective immunity. Here, we used RNA sequencing (RNAseq) to analyse gene
+expression in 44 parasite isolates that caused severe and uncomplicated malaria
+in Papuan patients. The transcriptomes of 19 parasite isolates associated with
+severe malaria indicated that these parasites had decreased glycolysis without
+activation of compensatory pathways; altered chromatin structure and probably
+transcriptional regulation through decreased histone methylation; reduced surface
+expression of PfEMP1; and down-regulated expression of multiple chaperone
+proteins. Our RNAseq also identified novel associations between disease severity 
+and PfEMP1 transcripts, domains, and smaller sequence segments and also confirmed
+all previously reported associations between expressed PfEMP1 sequences and
+severe disease. These findings will inform efforts to identify vaccine targets
+for severe malaria and also indicate how parasites adapt to-or are selected
+by-the host environment in severe malaria.
+
+DOI: 10.1371/journal.pbio.2004328 
+PMCID: PMC5864071
+PMID: 29529020  [Indexed for MEDLINE]
+

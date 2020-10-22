@@ -1,0 +1,38 @@
+
+1. Genome Biol. 2014 Nov 3;15(11):493. doi: 10.1186/s13059-014-0493-0.
+
+Genome-wide RIP-Chip analysis of translational repressor-bound mRNAs in the
+Plasmodium gametocyte.
+
+Guerreiro A, Deligianni E, Santos JM, Silva PA, Louis C, Pain A, Janse CJ,
+Franke-Fayard B, Carret CK, Siden-Kiamos I, Mair GR.
+
+BACKGROUND: Following fertilization, the early proteomes of metazoans are defined
+by the translation of stored but repressed transcripts; further embryonic
+development relies on de novo transcription of the zygotic genome. During sexual 
+development of Plasmodium berghei, a rodent model for human malaria species
+including P. falciparum, the stability of repressed mRNAs requires the
+translational repressors DOZI and CITH. When these repressors are absent,
+Plasmodium zygote development and transmission to the mosquito vector is halted, 
+as hundreds of transcripts become destabilized. However, which mRNAs are direct
+targets of these RNA binding proteins, and thus subject to translational
+repression, is unknown.
+RESULTS: We identify the maternal mRNA contribution to post-fertilization
+development of P. berghei using RNA immunoprecipitation and microarray analysis. 
+We find that 731 mRNAs, approximately 50% of the transcriptome, are associated
+with DOZI and CITH, allowing zygote development to proceed in the absence of RNA 
+polymerase II transcription. Using GFP-tagging, we validate the repression
+phenotype of selected genes and identify mRNAs relying on the 5' untranslated
+region for translational control. Gene deletion reveals a novel protein located
+in the ookinete crystalloid with an essential function for sporozoite
+development.
+CONCLUSIONS: Our study details for the first time the P. berghei maternal
+repressome. This mRNA population provides the developing ookinete with coding
+potential for key molecules required for life-cycle progression, and that are
+likely to be critical for the transmission of the malaria parasite from the
+rodent and the human host to the mosquito vector.
+
+DOI: 10.1186/s13059-014-0493-0 
+PMCID: PMC4234863
+PMID: 25418785  [Indexed for MEDLINE]
+

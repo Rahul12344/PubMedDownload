@@ -1,0 +1,41 @@
+
+1. Oncotarget. 2016 Dec 27;7(52):87194-87205. doi: 10.18632/oncotarget.13554.
+
+Identification of differentially expressed genes in the development of
+osteosarcoma using RNA-seq.
+
+Yang Y(1), Zhang Y(1), Qu X(1), Xia J(1), Li D(1), Li X(1), Wang Y(1), He Z(1),
+Li S(1), Zhou Y(1), Xie L(1), Yang Z(1).
+
+Author information: 
+(1)Bone and Soft Tissue Tumors Research Center of Yunnan Province, Department of 
+Orthopaedics, The Third Affiliated Hospital of Kunming Medical University (Tumor 
+Hospital of Yunnan Province), Kunming, Yunnan 650118, China.
+
+OBJECTIVE: Osteosarcoma (OS) is a malignant bone tumor with high morbidity in
+young adults and adolescents. This study aimed to discover potential early
+diagnosis biomarkers in OS.
+RESULTS: In total, 111 differentially expressed genes (DEGs) were identified in
+primary OS compared with normal controls and 235 DEGs were identified in
+metastatic OS compared with primary OS. AURKB and PPP2R2B were the significantly 
+up-regulated and down-regulated hub proteins, respectively, in the PPI
+protein-protein network (PPI) network of primary OS. ISG15 and BTRC were the
+significantly up-regulated and down-regulated hub proteins, respectively, in the 
+network of metastatic OS. The DEGs in metastatic OS compared with primary OS were
+significantly enriched in the arachidonic acid metabolism, malaria, and chemokine
+signaling pathways. Finally, we employed quantitative real-time polymerase chain 
+reaction (qRT-PCR) to validate the expression levels of candidate DEGs and the
+results indicated that our bioinformatics approach was acceptable.
+MATERIALS AND METHODS: The mRNA expression profiling of 20 subjects was obtained 
+through high-throughput RNA-sequencing. DEGs were identified between primary OS
+and normal Control, and between primary OS and metastatic OS, respectively.
+Functional annotation and PPI networks were used to obtain insights into the
+functions of DEGs. qRT-PCR was performed to detect the expression levels of
+dysregulated genes in OS.
+CONCLUSIONS: Our work might provide groundwork for the further exploration of
+tumorigenesis and metastasis mechanisms of OS.
+
+DOI: 10.18632/oncotarget.13554 
+PMCID: PMC5349981
+PMID: 27888627  [Indexed for MEDLINE]
+

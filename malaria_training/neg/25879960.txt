@@ -1,0 +1,51 @@
+
+1. BMC Genomics. 2015 Apr 10;16:278. doi: 10.1186/s12864-015-1436-1.
+
+Endogenous siRNAs and piRNAs derived from transposable elements and genes in the 
+malaria vector mosquito Anopheles gambiae.
+
+Biryukova I(1), Ye T(2).
+
+Author information: 
+(1)Department of Vector Biology, Max Planck Institute for Infection Biology
+(MPIIB), Berlin, 10117, Germany. inbiryukova@gmail.com.
+(2)Microarrays and deep sequencing platform, Institut de Génétique et de Biologie
+Moléculaire et Cellulaire (IGBMC), Illkirch, Cedex 67404, France. yetao@igbmc.fr.
+
+BACKGROUND: The siRNA and piRNA pathways have been shown in insects to be
+essential for regulation of gene expression and defence against exogenous and
+endogenous genetic elements (viruses and transposable elements). The vast
+majority of endogenous small RNAs produced by the siRNA and piRNA pathways
+originate from repetitive or transposable elements (TE). In D. melanogaster,
+TE-derived endogenous siRNAs and piRNAs are involved in genome surveillance and
+maintenance of genome integrity. In the medically relevant malaria mosquito
+Anopheles gambiae TEs constitute 12-16% of the genome size. Genetic variations
+induced by TE activities are known to shape the genome landscape and to alter the
+fitness in An. gambiae.
+RESULTS: Here, using bioinformatics approaches we analyzed the small RNA data
+sets from 6 libraries formally reported in a previous study and examined the
+expression of the mixed germline/somatic siRNAs and piRNAs produced in adult An. 
+gambiae females. We characterized a large population of TE-derived endogenous
+siRNAs and piRNAs, which constitutes 56-60% of the total siRNA and piRNA reads in
+the analysed libraries. Moreover, we identified a number of protein coding genes 
+producing gene-specific siRNAs and piRNAs that were generally expressed at much
+lower levels than the TE-associated small RNAs. Detailed sequence analysis
+revealed that An. gambiae piRNAs were produced by both "ping-pong" dependent
+(TE-associated piRNAs) and independent mechanisms (genic piRNAs). Similarly to D.
+melanogaster, more than 90% of the detected piRNAs were produced from
+TE-associated clusters in An. gambiae. We also found that biotic stress as blood 
+feeding and infection with Plasmodium parasite, the etiological agent of malaria,
+modulated the expression levels of the endogenous siRNAs and piRNAs in An.
+gambiae.
+CONCLUSIONS: We identified a large and diverse set of the endogenously derived
+siRNAs and piRNAs that share common and distinct aspects of small RNA expression 
+across insect species, and inferred their impact on TE and gene activity in An.
+gambiae. The TE-specific small RNAs produced by both the siRNA and piRNA pathways
+represent an important aspect of genome stability and genetic variation, which
+might have a strong impact on the evolution of the genome and vector competence
+in the malaria mosquitoes.
+
+DOI: 10.1186/s12864-015-1436-1 
+PMCID: PMC4423592
+PMID: 25879960  [Indexed for MEDLINE]
+

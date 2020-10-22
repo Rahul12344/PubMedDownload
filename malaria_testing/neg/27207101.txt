@@ -1,0 +1,60 @@
+
+1. Malar J. 2016 May 20;15(1):281. doi: 10.1186/s12936-016-1337-z.
+
+An evolutionary approach to identify potentially protective B cell epitopes
+involved in naturally acquired immunity to malaria and the role of EBA-175 in
+protection amongst denizens of Bolifamba, Cameroon.
+
+Nyasa RB(1), Kimbi HK(2), Zofou D(3), DeBarry JD(4)(5), Kissinger JC(4)(5)(6),
+Titanji VP(7).
+
+Author information: 
+(1)Biotechnology Unit, Faculty of Science, University of Buea, Buea, Cameroon.
+nyasab@yahoo.co.uk.
+(2)Department of Medical Laboratory Sciences, Faculty of Health Sciences,
+University of Bamenda, Bamenda, NWR, Cameroon.
+(3)Biotechnology Unit, Faculty of Science, University of Buea, Buea, Cameroon.
+(4)Center for Tropical and Emerging Global Diseases, University of Georgia,
+Athens, USA.
+(5)Department of Genetics, University of Georgia, Athens, USA.
+(6)Institute of Bioinformatics, University of Georgia, Athens, USA.
+(7)Cameroon Christian University, PO Box 5, Bali, NW Region, Cameroon.
+
+BACKGROUND: The search for a vaccine against malaria caused by Plasmodium
+falciparum has lasted for more than 100 years, with considerable progress in the 
+identification of a number of vaccine candidates. The post-genomic era offers new
+opportunities for an expedited search using rational vaccine design and
+prioritization of key B-cell epitopes involved in natural acquired immunity.
+METHODS: Malaria vaccine candidate genes that have reached clinical trial were
+searched on an evolutionary relationship tree, to determine their level of
+lineage-specificity. Ten other genes with similar protein features and level of
+lineage specificity to the vaccine candidates were randomly selected, and
+computationally evaluated for the presence of B-cell epitopes. The protein
+fragment with maximum probability of putative epitopes were synthesized and used 
+in an ELISA experiment to determine the presence of antibodies to these peptides,
+in the serum of malaria patients and healthy malaria uninfected inhabitants from 
+a malaria endemic region (Bolifamba), alongside with a vaccine candidate EBA-175.
+RESULTS: Two peptide fragments of 25 and 30 amino acid length from PF3D7_1233400 
+and PF3D7_1437500 respectively, coded as PF4-123 and PF4-143 were shown to
+contain B-cell epitope(s). Total IgG antibodies to these peptides were not
+significantly different between sick and healthy participants, but cytophilic
+antibodies to these peptides were significantly higher in healthy participants
+(p < 0.03). Total IgG to the vaccine candidate EBA-175 was significantly higher
+in sick participants than in healthy participants, likewise cytophilic antibodies
+(p < 0.04). Antibodies to the peptides PF4-123 and PF4-143 correlated negatively 
+(p = 0.025 and 0.008 and r = -0.291 and -0.345, respectively) to parasite load.
+Total IgG antibodies to EBA-175 showed a negative correlation to parasite load
+(r = -0.144), which was not significant (p = 0.276). Duration of stay in
+Bolifamba also negatively correlated with parasite load (p = 0.026, r = -0.419)
+and total IgG to PF4-143 was significantly associated with prolonged duration of 
+stay in the locality of Bolifamba, Cameroon (p = 0.006, r = 0.361).
+CONCLUSIONS: The present study has identified two genes PF3D7_1233400 and
+PF3D7_1437500 containing peptide fragment (PF4-123 and PF4-143) with B-cell
+epitopes that are correlated with naturally acquired immunity to malaria. A
+pipeline has been developed for rapid identification of other B-cell epitopes
+involved in naturally acquired immunity.
+
+DOI: 10.1186/s12936-016-1337-z 
+PMCID: PMC4875671
+PMID: 27207101  [Indexed for MEDLINE]
+

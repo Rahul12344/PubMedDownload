@@ -1,0 +1,40 @@
+
+1. Nucleic Acids Res. 2018 Jun 1;46(10):4919-4932. doi: 10.1093/nar/gky178.
+
+An upstream open reading frame (uORF) signals for cellular localization of the
+virulence factor implicated in pregnancy associated malaria.
+
+Fastman Y(1), Assaraf S(1), Rose M(1), Milrot E(2), Basore K(3), Arasu BS(3),
+Desai SA(3), Elbaum M(4), Dzikowski R(1).
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, The Institute for Medical
+Research Israel - Canada, The Kuvin Center for the Study of Infectious and
+Tropical Diseases, The Hebrew University-Hadassah Medical School, Jerusalem
+91120, Israel.
+(2)Electron Microscopy Unit, Weizmann Institute of Science, Rehovot 76100,
+Israel.
+(3)The Laboratory of Malaria and Vector Research, National Institute of Allergy
+and Infectious Diseases, National Institutes of Health, Rockville, MD, USA.
+(4)Department of Materials and Interfaces, Weizmann Institute of Science, Rehovot
+76100, Israel.
+
+Plasmodium falciparum, the causative agent of the deadliest form of human
+malaria, alternates expression of variable antigens, encoded by members of a
+multi-copy gene family named var. In var2csa, the var gene implicated in
+pregnancy-associated malaria, translational repression is regulated by a unique
+upstream open reading frame (uORF) found only in its 5' UTR. Here, we report that
+this translated uORF significantly alters both transcription and
+posttranslational protein trafficking. The parasite can alter a protein's
+destination without any modifications to the protein itself, but instead by an
+element within the 5' UTR of the transcript. This uORF-dependent localization was
+confirmed by single molecule STORM imaging, followed by fusion of the uORF to a
+reporter gene which changes its cellular localization from cytoplasmic to
+ER-associated. These data point towards a novel regulatory role of uORF in
+protein trafficking, with important implications for the pathology of
+pregnancy-associated malaria.
+
+DOI: 10.1093/nar/gky178 
+PMCID: PMC6007598
+PMID: 29554358  [Indexed for MEDLINE]
+

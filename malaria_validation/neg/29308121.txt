@@ -1,0 +1,47 @@
+
+1. Medchemcomm. 2017 May 1;8(5):1069-1092. doi: 10.1039/c7md00052a. Epub 2017 Mar
+15.
+
+Histone lysine methyltransferase structure activity relationships that allow for 
+segregation of G9a inhibition and anti-Plasmodium activity.
+
+Sundriyal S(1), Chen PB(2)(3)(4), Lubin AS(1), Lueg GA(1), Li F(5), White AJP(1),
+Malmquist NA(2)(3)(4), Vedadi M(5)(6), Scherf A(2)(3)(4), Fuchter MJ(1).
+
+Author information: 
+(1)Department of Chemistry , Imperial College London , London SW7 2AZ , UK .
+Email: m.fuchter@imperial.ac.uk ; ; Tel: +44 (0)2075945815.
+(2)Unité Biologie des Interactions Hôte-Parasite , Département de Parasites et
+Insectes Vecteurs , Institut Pasteur , Paris 75015 , France.
+(3)CNRS ERL 9195 , Paris 75015 , France.
+(4)INSERM Unit U1201 , Paris 75015 , France.
+(5)Structural Genomics Consortium , University of Toronto , Toronto , ON M5G 1L7 
+, Canada.
+(6)Department of Pharmacology and Toxicology , University of Toronto , Toronto , 
+ON M5S 1A8 , Canada.
+
+Plasmodium falciparum HKMTs (PfHKMTs) play a key role in controlling Plasmodium
+gene expression and represent exciting new anti-malarial epigenetic targets.
+Using an inhibitor series derived from the diaminoquinazoline HKMT inhibitory
+chemotype, we have previously identified compounds with highly promising
+antimalarial activity, including irreversible asexual cycle blood
+stage-independent cytotoxic activity at nM concentrations, oral efficacy in in
+vivo models of disease, and the unprecedented ability to reactivate dormant liver
+stage parasites (hypnozoites). However, future development of this series will
+need to address host versus parasite selectivity, where inhibitory activity
+against human G9a is removed from the lead compounds, while maintaining potent
+anti-Plasmodium activity. Herein, we report an extensive study of the SAR of this
+series against both G9a and P. falciparum. We have identified key SAR features
+which demonstrate that high parasite vs. G9a selectivity can be achieved by
+selecting appropriate substituents at position 2, 4 and 7 of the quinazoline
+ring. We have also, in turn, discovered that potent G9a inhibitors can be
+identified by employing a 6-carbon 'Nle mimic' at position 7. Together, this data
+suggests that while broadly similar, the G9a and potential PfHKMT target(s)
+binding pockets and/or binding modes of the diaminoquinazoline analogues exhibit 
+clear and exploitable differences. Based on this, we believe this scaffold to
+have clear potential for development into a novel anti-malarial therapeutic.
+
+DOI: 10.1039/c7md00052a 
+PMCID: PMC5708365
+PMID: 29308121 
+

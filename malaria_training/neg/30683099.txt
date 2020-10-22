@@ -1,0 +1,50 @@
+
+1. Malar J. 2019 Jan 25;18(1):26. doi: 10.1186/s12936-019-2659-4.
+
+A fast and cost-effective microsampling protocol incorporating reduced animal
+usage for time-series transcriptomics in rodent malaria parasites.
+
+Ramaprasad A(1)(2), Subudhi AK(3), Culleton R(4), Pain A(5).
+
+Author information: 
+(1)Pathogen Genomics Laboratory, Biological and Environmental Sciences and
+Engineering (BESE) Division, King Abdullah University of Science and Technology
+(KAUST), Thuwal, Kingdom of Saudi Arabia. abhinay.ramaprasad@kaust.edu.sa.
+(2)Malaria Unit, Department of Pathology, Institute of Tropical Medicine
+(NEKKEN), Nagasaki University, 1-12-4 Sakamoto, Nagasaki, 852-8523, Japan.
+abhinay.ramaprasad@kaust.edu.sa.
+(3)Pathogen Genomics Laboratory, Biological and Environmental Sciences and
+Engineering (BESE) Division, King Abdullah University of Science and Technology
+(KAUST), Thuwal, Kingdom of Saudi Arabia.
+(4)Malaria Unit, Department of Pathology, Institute of Tropical Medicine
+(NEKKEN), Nagasaki University, 1-12-4 Sakamoto, Nagasaki, 852-8523, Japan.
+(5)Pathogen Genomics Laboratory, Biological and Environmental Sciences and
+Engineering (BESE) Division, King Abdullah University of Science and Technology
+(KAUST), Thuwal, Kingdom of Saudi Arabia. arnab.pain@kaust.edu.sa.
+
+BACKGROUND: The transcriptional regulation that occurs in malaria parasites
+during the erythrocytic stages of infection can be studied in vivo with rodent
+malaria parasites propagated in mice. Time-series transcriptome profiling
+commonly involves the euthanasia of groups of mice at specific time points
+followed by the extraction of parasite RNA from whole blood samples. Current
+methodologies for parasite RNA extraction involve several steps and when multiple
+time points are profiled, these protocols are laborious, time-consuming, and
+require the euthanization of large cohorts of mice.
+RESULTS: A simplified protocol has been designed for parasite RNA extraction from
+blood volumes as low as 20 μL (microsamples), serially bled from mice via tail
+snips and directly lysed with TRIzol reagent. Gene expression data derived from
+microsampling using RNA-seq were closely matched to those derived from larger
+volumes of leucocyte-depleted and saponin-treated blood obtained from euthanized 
+mice with high reproducibility between biological replicates. Transcriptome
+profiling of microsamples taken at different time points during the
+intra-erythrocytic developmental cycle of the rodent malaria parasite Plasmodium 
+vinckei revealed the transcriptional cascade commonly observed in malaria
+parasites.
+CONCLUSIONS: Microsampling is a quick, robust and cost-efficient approach to
+sample collection for in vivo time-series transcriptomic studies in rodent
+malaria parasites.
+
+DOI: 10.1186/s12936-019-2659-4 
+PMCID: PMC6347755
+PMID: 30683099  [Indexed for MEDLINE]
+

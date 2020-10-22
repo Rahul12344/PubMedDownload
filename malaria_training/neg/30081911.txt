@@ -1,0 +1,58 @@
+
+1. Malar J. 2018 Aug 6;17(1):285. doi: 10.1186/s12936-018-2432-0.
+
+Reduced-representation sequencing identifies small effective population sizes of 
+Anopheles gambiae in the north-western Lake Victoria basin, Uganda.
+
+Wiltshire RM(1), Bergey CM(2), Kayondo JK(3), Birungi J(3), Mukwaya LG(3), Emrich
+SJ(4), Besansky NJ(5), Collins FH(5).
+
+Author information: 
+(1)Eck Institute for Global Health, Department of Biological Sciences, University
+of Notre Dame, Notre Dame, IN, 46556, USA. rwiltshi@nd.edu.
+(2)Departments of Anthropology and Biology, The Pennsylvania State University,
+University Park, PA, 16802, USA.
+(3)Division of Entomology and Vector Biology, Uganda Virus Research Institute,
+Plot No. 51-59, Nakiwogo Road, Entebbe 49, Uganda.
+(4)Department of Electrical Engineering and Computer Science, University of
+Tennessee, Knoxville, TN, 37996, USA.
+(5)Eck Institute for Global Health, Department of Biological Sciences, University
+of Notre Dame, Notre Dame, IN, 46556, USA.
+
+BACKGROUND: Malaria is the leading cause of global paediatric mortality in
+children below 5 years of age. The number of fatalities has reduced significantly
+due to an expansion of control interventions but the development of new
+technologies remains necessary in order to achieve elimination. Recent attention 
+has been focused on the release of genetically modified (GM) mosquitoes into
+natural vector populations as a mechanism of interrupting parasite transmission
+but despite successful in vivo laboratory studies, a detailed population genetic 
+assessment, which must first precede any proposed field trial, has yet to be
+undertaken systematically. Here, the genetic structure of Anopheles gambiae
+populations in north-western Lake Victoria is explored to assess their
+suitability as candidates for a pilot field study release of GM mosquitoes.
+METHODS: 478 Anopheles gambiae mosquitoes were collected from six locations and a
+subset (N = 96) was selected for restriction site-associated DNA sequencing
+(RADseq). The resulting single nucleotide polymorphism (SNP) marker set was
+analysed for effective size (Ne), connectivity and population structure (PCA,
+FST).
+RESULTS: 5175 high-quality genome-wide SNPs were identified. A principal
+components analysis (PCA) of the collinear genomic regions illustrated that
+individuals clustered in concordance with geographic origin with some overlap
+between sites. Genetic differentiation between populations was varied with
+inter-island comparisons having the highest values (median FST 0.0480-0.0846). Ne
+estimates were generally small (124.2-1920.3).
+CONCLUSIONS: A reduced-representation SNP marker set for genome-wide An. gambiae 
+genetic analysis in the north-western Lake Victoria basin is reported. Island
+populations demonstrated low to moderate genetic differentiation and greater
+structure suggesting some limitation to migration. Smaller estimates of Ne
+indicate that an introduced effector transgene will be more susceptible to
+genetic drift but to ensure that it is driven to fixation a robust gene drive
+mechanism will likely be needed. These findings, together with their favourable
+location and suitability for frequent monitoring, indicate that the Ssese Islands
+contain several candidate field locations, which merit further evaluation as
+potential GM mosquito pilot release sites.
+
+DOI: 10.1186/s12936-018-2432-0 
+PMCID: PMC6080216
+PMID: 30081911  [Indexed for MEDLINE]
+

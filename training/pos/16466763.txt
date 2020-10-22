@@ -1,0 +1,39 @@
+
+1. Virology. 2006 May 25;349(1):13-21. Epub 2006 Feb 8.
+
+Binding of the influenza A virus NS1 protein to PKR mediates the inhibition of
+its activation by either PACT or double-stranded RNA.
+
+Li S(1), Min JY, Krug RM, Sen GC.
+
+Author information: 
+(1)Department of Molecular Genetics, Lerner Research Institute, Cleveland Clinic 
+Foundation, Cleveland, OH 44195, USA.
+
+A major component of the cellular antiviral system is the latent protein kinase
+PKR, which is activated by binding to either double-stranded RNA (dsRNA) or the
+cellular PACT protein. Activated PKR phosphorylates the translation initiation
+factor eIF2, thereby inhibiting viral and cellular protein synthesis and virus
+replication. To evade the antiviral effects of PKR, many viruses, including
+influenza A virus, have evolved multiple mechanisms. For influenza A virus, the
+non-structural (NS1A) protein plays a major role in blocking activation of PKR
+during virus infection. The mechanism by which the NS1A protein inhibits PKR
+activation in infected cells has not been established. In the present study, we
+first carried out a series of in vitro experiments to determine whether the NS1A 
+protein could utilize a common mechanism to inhibit PKR activation by both PACT
+and dsRNA, despite their different modes of activation. We demonstrated that the 
+direct binding of the NS1A protein to the N-terminal 230 amino acid region of PKR
+can serve as such a common mechanism and that this binding does not require the
+RNA-binding activity of the NS1A protein. The lack of requirement for NS1A
+RNA-binding activity for the inhibition of PKR activation in vivo was established
+by two approaches. First, we showed that an NS1A protein lacking RNA-binding
+activity, like the wild-type (wt) protein, blocked PKR activation by PACT in
+vivo, as well as the downstream effects of PKR activation in cells, namely, eIF2 
+phosphorylation and apoptosis. In addition, we demonstrated that PKR activation
+is inhibited in cells infected with a recombinant influenza A virus expressing
+NS1A mutant protein that cannot bind RNA, as is the case in cells infected with
+wild-type influenza A virus.
+
+DOI: 10.1016/j.virol.2006.01.005 
+PMID: 16466763  [Indexed for MEDLINE]
+

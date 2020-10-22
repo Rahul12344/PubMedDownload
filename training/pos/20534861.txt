@@ -1,0 +1,36 @@
+
+1. J Virol. 2010 Aug;84(16):7983-93. doi: 10.1128/JVI.00068-10. Epub 2010 Jun 9.
+
+Polo-like kinase 1 is involved in hepatitis C virus replication by
+hyperphosphorylating NS5A.
+
+Chen YC(1), Su WC, Huang JY, Chao TC, Jeng KS, Machida K, Lai MM.
+
+Author information: 
+(1)Institute of Microbiology and Immunology, National Yang-Ming University,
+Taipei 112, Taiwan.
+
+Hepatitis C virus (HCV) replication involves many viral and host factors. Here,
+we employed a lentivirus-based RNA interference (RNAi) screening approach to
+search for possible cellular factors. By using a kinase-phosphatase RNAi library 
+and an HCV replicon reporter system, we identified a serine-threonine kinase,
+Polo-like kinase 1 (Plk1), as a potential host factor regulating HCV replication.
+Knockdown of Plk1 reduced both HCV RNA replication and nonstructural (NS) protein
+production in both HCV replicon cells and HCV-infected cells while it did not
+significantly affect host cellular growth or cell cycle. Overexpression of Plk1
+in the knockdown cells rescued HCV replication. Interestingly, the ratio between 
+the hyperphosphorylated form (p58) and the basal phosphorylated form (p56) of
+NS5A was lower in the Plk1 knockdown cells and Plk1 kinase inhibitor-treated
+cells than in the control groups. Further studies showed that Plk1 could be
+immunoprecipitated together with NS5A. Both proteins partially colocalized in the
+perinuclear region. Furthermore, Plk1 could phosphorylate NS5A to both the p58
+and p56 forms in an in vitro assay system; the phosphorylation efficiency was
+comparable to that of the reported casein kinase. Taken together, this study
+shows that Plk1 is an NS5A phosphokinase and thereby indirectly regulates HCV RNA
+replication. Because of the differential effects of Plk1 on HCV replication and
+host cell growth, Plk1 could potentially serve as a target for anti-HCV therapy.
+
+DOI: 10.1128/JVI.00068-10 
+PMCID: PMC2916529
+PMID: 20534861  [Indexed for MEDLINE]
+

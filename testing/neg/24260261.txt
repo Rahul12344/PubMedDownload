@@ -1,0 +1,39 @@
+
+1. PLoS One. 2013 Nov 18;8(11):e79606. doi: 10.1371/journal.pone.0079606.
+eCollection 2013.
+
+Probability weighted ensemble transfer learning for predicting interactions
+between HIV-1 and human proteins.
+
+Mei S(1).
+
+Author information: 
+(1)Software College, Shenyang Normal University, Shenyang, China.
+
+Reconstruction of host-pathogen protein interaction networks is of great
+significance to reveal the underlying microbic pathogenesis. However, the current
+experimentally-derived networks are generally small and should be augmented by
+computational methods for less-biased biological inference. From the point of
+view of computational modelling, data scarcity, data unavailability and negative 
+data sampling are the three major problems for host-pathogen protein interaction 
+networks reconstruction. In this work, we are motivated to address the three
+concerns and propose a probability weighted ensemble transfer learning model for 
+HIV-human protein interaction prediction (PWEN-TLM), where support vector machine
+(SVM) is adopted as the individual classifier of the ensemble model. In the
+model, data scarcity and data unavailability are tackled by homolog knowledge
+transfer. The importance of homolog knowledge is measured by the ROC-AUC metric
+of the individual classifiers, whose outputs are probability weighted to yield
+the final decision. In addition, we further validate the assumption that only the
+homolog knowledge is sufficient to train a satisfactory model for host-pathogen
+protein interaction prediction. Thus the model is more robust against data
+unavailability with less demanding data constraint. As regards with negative data
+construction, experiments show that exclusiveness of subcellular co-localized
+proteins is unbiased and more reliable than random sampling. Last, we conduct
+analysis of overlapped predictions between our model and the existing models, and
+apply the model to novel host-pathogen PPIs recognition for further biological
+research.
+
+DOI: 10.1371/journal.pone.0079606 
+PMCID: PMC3832534
+PMID: 24260261  [Indexed for MEDLINE]
+

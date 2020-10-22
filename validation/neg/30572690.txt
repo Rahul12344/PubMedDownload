@@ -1,0 +1,46 @@
+
+1. Viruses. 2018 Dec 19;10(12). pii: E732. doi: 10.3390/v10120732.
+
+Engineering RNA Virus Interference via the CRISPR/Cas13 Machinery in Arabidopsis.
+
+Aman R(1), Mahas A(2), Butt H(3), Aljedaani F(4), Mahfouz M(5).
+
+Author information: 
+(1)Laboratory for Genome Engineering, Division of Biological Sciences, 4700 King 
+Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
+rashid.aman@kaust.edu.sa.
+(2)Laboratory for Genome Engineering, Division of Biological Sciences, 4700 King 
+Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
+ahmed.mahas@kaust.edu.sa.
+(3)Laboratory for Genome Engineering, Division of Biological Sciences, 4700 King 
+Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
+Haroon.butt.1@kaust.edu.sa.
+(4)Laboratory for Genome Engineering, Division of Biological Sciences, 4700 King 
+Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
+fatimah.aljedaani@kaust.edu.sa.
+(5)Laboratory for Genome Engineering, Division of Biological Sciences, 4700 King 
+Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia.
+magdy.mahfouz@kaust.edu.sa.
+
+Clustered regularly interspaced short palindromic repeats (CRISPR) and
+CRISPR-associated (Cas) systems are key immune mechanisms helping prokaryotic
+species fend off RNA and DNA viruses. CRISPR/Cas9 has broad applications in basic
+research and biotechnology and has been widely used across eukaryotic species for
+genome engineering and functional analysis of genes. The recently developed
+CRISPR/Cas13 systems target RNA rather than DNA and thus offer new potential for 
+transcriptome engineering and combatting RNA viruses. Here, we used
+CRISPR/LshCas13a to stably engineer Arabidopsis thaliana for interference against
+the RNA genome of Turnip mosaic virus (TuMV). Our data demonstrate that CRISPR
+RNAs (crRNAs) guiding Cas13a to the sequences encoding helper component
+proteinase silencing suppressor (HC-Pro) or GFP target 2 (GFP-T2) provide better 
+interference compared to crRNAs targeting other regions of the TuMV RNA genome.
+This work demonstrates the exciting potential of CRISPR/Cas13 to be used as an
+antiviral strategy to obstruct RNA viruses, and encourages the search for more
+robust and effective Cas13 variants or CRISPR systems that can target RNA.
+
+DOI: 10.3390/v10120732 
+PMCID: PMC6315463
+PMID: 30572690  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

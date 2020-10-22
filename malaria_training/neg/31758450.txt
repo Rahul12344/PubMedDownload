@@ -1,0 +1,34 @@
+
+1. Methods Mol Biol. 2020;2071:125-141. doi: 10.1007/978-1-4939-9857-9_7.
+
+CRISPR/Cas9-Mediated Generation of Tetracycline Repressor-Based Inducible
+Knockdown in Toxoplasma gondii.
+
+Jacot D(1), Soldati-Favre D(2).
+
+Author information: 
+(1)Department of Microbiology and Molecular Medicine, CMU, University of Geneva, 
+Geneva, Switzerland. Damien.Jacot@unige.ch.
+(2)Department of Microbiology and Molecular Medicine, CMU, University of Geneva, 
+Geneva, Switzerland.
+
+The phylum Apicomplexa groups numerous pathogenic protozoan parasites including
+Plasmodium, the causative agent of malaria, Cryptosporidium which can cause
+severe gastrointestinal infections, as well as Babesia, Eimeria, and Theileria
+that account for considerable economic burdens to poultry and cattle industry.
+Toxoplasma gondii is the most ubiquitous and opportunistic member of this phylum 
+able to infect all warm-blooded animals and responsible for severe disease in
+immunocompromised individuals and unborn fetuses.Due to its ease of cultivation
+and genetic tractability T. gondii has served as recipient for the transfer and
+adaptation of multiple genetic tools developed to control gene expression. In
+these parasites, a collection of tight conditional systems exists to control gene
+expression at the levels of transcription, RNA degradation or protein stability. 
+The recent implementation of the CRISPR/Cas9 technology considerably reduces time
+and effort to generate transgenic parasites and at the same time increases to an 
+ultimate level of precision the editing of the parasite genome. Here, we provide 
+a step-by-step protocol for CRISPR/Cas9-mediated generation of tetracycline
+repressor-based inducible knockdown in T. gondii.
+
+DOI: 10.1007/978-1-4939-9857-9_7 
+PMID: 31758450 
+

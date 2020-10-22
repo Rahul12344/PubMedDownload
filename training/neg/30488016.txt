@@ -1,0 +1,44 @@
+
+1. PeerJ. 2018 Nov 19;6:e5888. doi: 10.7717/peerj.5888. eCollection 2018.
+
+Exploratory investigation of region level risk factors of Ebola Virus Disease in 
+West Africa.
+
+Levy B(1), Odoi A(2).
+
+Author information: 
+(1)Department of Mathematics, Fitchburg State University, Fitchburg, MA, United
+States of America.
+(2)Department of Biomedical and Diagnostic Sciences, University of
+Tennessee-Knoxville, Knoxville, TN, United States of America.
+
+Background: Ebola Virus Disease (EVD) is a highly infectious disease that has
+produced over 25,000 cases in the past 50 years. While many past outbreaks
+resulted in relatively few cases, the 2014 outbreak in West Africa was the most
+deadly occurrence of EVD to date, producing over 15,000 confirmed cases.
+Objective: In this study, we investigated population level predictors of EVD risk
+at the regional level in Sierra Leone, Liberia, and Guinea.
+Methods: Spatial and descriptive analyses were conducted to assess distribution
+of EVD cases. Choropleth maps showing the spatial distribution of EVD risk across
+the study area were generated in ArcGIS. Poisson and negative binomial models
+were then used to investigate population and regional predictors of EVD risk.
+Results: Results indicated that the risk of EVD was significantly lower in areas 
+with higher proportions of: (a) the population living in urban areas, (b)
+households with a low quality or no toilets, and (c) married men working in blue 
+collar jobs. However, risk of EVD was significantly higher in areas with high
+mean years of education.
+Conclusions: The identified significant predictors of high risk were associated
+with areas with higher levels of urbanization. This may be due to higher
+population densities in the more urban centers and hence higher potential of
+infectious contact. However, there is need to better understand the role of
+urbanization and individual contact structure in an Ebola outbreak. We discuss
+shortcomings in available data and emphasize the need to consider spatial scale
+in future data collection and epidemiological studies.
+
+DOI: 10.7717/peerj.5888 
+PMCID: PMC6250096
+PMID: 30488016 
+
+Conflict of interest statement: The authors declare there are no competing
+interests.
+

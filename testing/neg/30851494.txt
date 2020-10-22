@@ -1,0 +1,44 @@
+
+1. Biosens Bioelectron. 2019 May 1;132:38-46. doi: 10.1016/j.bios.2019.02.036. Epub 
+2019 Feb 21.
+
+Localized surface plasmon resonance (LSPR) biosensor based on thermally annealed 
+silver nanostructures with on-chip blood-plasma separation for the detection of
+dengue non-structural protein NS1 antigen.
+
+Austin Suthanthiraraj PP(1), Sen AK(2).
+
+Author information: 
+(1)Department of Mechanical Engineering, Indian Institute of Technology Madras,
+Chennai 600036, India.
+(2)Department of Mechanical Engineering, Indian Institute of Technology Madras,
+Chennai 600036, India. Electronic address: ashis@iitm.ac.in.
+
+Early diagnosis of dengue biomarkers by employing a technology that is less
+labor- and time-intensive and offers higher sensitivity and lower limits of
+detection would find great significance in the developing world. Here, we report 
+the development of a biosensor that exploits the localized surface plasmon
+resonance (LSPR) effect of silver nanostructures, created via thermal annealing
+of thin metal film, to detect dengue NS1 antigen, which appears as early as the
+onset of infection. The biosensor integrates membrane-based blood-plasma
+separation to develop lab-on-chip device that facilitates rapid diagnosis (within
+30 min) of dengue NS1 antigen from a small volume (10 µL) of whole blood. The
+refractive index (RI) sensitivity of the LSPR biosensor was verified by using
+aqueous glycerol (0-100 wt%) which showed that it is sufficiently sensitive to
+detect 10-3 change in RI, which is comparable to that observed with
+protein-protein interaction. The RI sensitivity was utilized to demonstrate
+protein binding by using bovine serum albumin and detection of antibody-antigen
+immune reaction by binding human chorionic gonadotropin antigen to immunoglobulin
+antibody immobilized in our LSPR biosensor. Next, we demonstrated the detection
+of NS1 in plasma obtained via centrifugation and in plasma separated on-chip.
+From 10 µL of whole blood spiked with NS1 antigen, our biosensor reliably detects
+0.06 µg/mL of NS1, which lies within the clinical limit observed during the first
+seven days of infection, with a sensitivity of 9 nm/(µg/mL). These results
+confirm that the proposed LSPR biosensor can potentially be used in point-of-care
+dengue diagnostics.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bios.2019.02.036 
+PMID: 30851494  [Indexed for MEDLINE]
+

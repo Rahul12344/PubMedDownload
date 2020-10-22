@@ -1,0 +1,67 @@
+
+1. mSphere. 2020 Jan 8;5(1). pii: e00921-19. doi: 10.1128/mSphere.00921-19.
+
+Influence of Plasmodium falciparum Calcium-Dependent Protein Kinase 5 (PfCDPK5)
+on the Late Schizont Stage Phosphoproteome.
+
+Blomqvist K(1)(2)(3)(4), Helmel M(5)(6), Wang C(7), Absalon S(1)(2)(3), Labunska 
+T(1)(2)(3), Rudlaff RM(1)(2)(3), Adapa S(7), Jiang R(7), Steen H(5)(6), Dvorin
+JD(8)(2)(3).
+
+Author information: 
+(1)Division of Infectious Diseases, Boston Children's Hospital, Boston,
+Massachusetts, USA.
+(2)Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, USA.
+(3)Department of Microbiology, Harvard Medical School, Boston, Massachusetts,
+USA.
+(4)Department of Microbiology, Tumor and Cell Biology, Karolinska Institutet,
+Stockholm, Sweden.
+(5)Department of Pathology, Boston Children's Hospital, Boston, Massachusetts,
+USA.
+(6)Department of Pathology, Harvard Medical School, Boston, Massachusetts, USA.
+(7)Center for Global Health & Infectious Diseases Research, Department of Global 
+Health, College of Public Health, University of South Florida, Tampa, Florida,
+USA.
+(8)Division of Infectious Diseases, Boston Children's Hospital, Boston,
+Massachusetts, USA jeffrey.dvorin@childrens.harvard.edu.
+
+Protein kinases are important mediators of signal transduction in cellular
+pathways, and calcium-dependent protein kinases (CDPKs) compose a unique class of
+calcium-dependent kinases present in plants and apicomplexans, including
+Plasmodium parasites, the causative agents of malaria. During the asexual stage
+of infection, the human malaria parasite Plasmodium falciparum grows inside red
+blood cells, and P. falciparum calcium-dependent protein kinase 5 (PfCDPK5) is
+required for egress from the host cell. In this paper, we characterize the
+late-schizont-stage P. falciparum phosphoproteome by performing large-scale
+phosphoproteomic profiling on tightly synchronized parasites just prior to
+egress, identifying 2,704 phosphorylation sites on 919 proteins. Using a
+conditional knockdown of PfCDPK5, we identify 58 phosphorylation sites on 50
+proteins with significant reduction in levels of PfCDPK5-deficient parasites.
+Furthermore, gene ontology analysis of the identified proteins reveals enrichment
+in transmembrane- and membrane-associated proteins and in proteins associated
+with transport activity. Among the identified proteins is PfNPT1, a member of the
+apicomplexan-specific novel putative transporter (NPT) family of proteins. We
+show that PfNPT1 is a potential substrate of PfCDPK5 and that PfNPT1 localizes to
+the parasite plasma membrane. Importantly, P. falciparum egress relies on many
+proteins unique to Apicomplexa that are therefore attractive targets for
+antimalarial therapeutics.IMPORTANCE The malaria parasite Plasmodium falciparum
+is a major cause of morbidity and mortality globally. The P. falciparum parasite 
+proliferates inside red blood cells during the blood stage of infection, and
+egress from the red blood cell is critical for parasite survival. P. falciparum
+calcium-dependent protein kinase 5 (PfCDPK5) is essential for egress; parasites
+deficient in PfCDPK5 remain trapped inside their host cells. We have used a
+label-free quantitative mass spectrometry approach to identify the
+phosphoproteome of schizont-stage parasites just prior to egress and identify 50 
+proteins that display a significant reduction in phosphorylation in
+PfCDPK5-deficient parasites. We show that a member of the Apicomplexan-specific
+transport protein family, PfNPT1 is a potential substrate of PfCDPK5 and is
+localized to the parasite plasma membrane. P. falciparum egress requires several 
+proteins not present in human cells, thus making this pathway an ideal target for
+new therapeutics.
+
+Copyright © 2020 Blomqvist et al.
+
+DOI: 10.1128/mSphere.00921-19 
+PMCID: PMC6952208
+PMID: 31915223  [Indexed for MEDLINE]
+

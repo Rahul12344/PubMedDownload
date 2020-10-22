@@ -1,0 +1,44 @@
+
+1. PLoS Pathog. 2017 Jul 6;13(7):e1006453. doi: 10.1371/journal.ppat.1006453.
+eCollection 2017 Jul.
+
+The Plasmodium falciparum pseudoprotease SERA5 regulates the kinetics and
+efficiency of malaria parasite egress from host erythrocytes.
+
+Collins CR(1), Hackett F(1), Atid J(1), Tan MSY(1), Blackman MJ(1)(2).
+
+Author information: 
+(1)Malaria Biochemistry Laboratory, The Francis Crick Institute, London, United
+Kingdom.
+(2)Department of Pathogen Molecular Biology, London School of Hygiene & Tropical 
+Medicine, London, United Kingdom.
+
+Egress of the malaria parasite Plasmodium falciparum from its host red blood cell
+is a rapid, highly regulated event that is essential for maintenance and
+completion of the parasite life cycle. Egress is protease-dependent and is
+temporally associated with extensive proteolytic modification of parasite
+proteins, including a family of papain-like proteins called SERA that are
+expressed in the parasite parasitophorous vacuole. Previous work has shown that
+the most abundant SERA, SERA5, plays an important but non-enzymatic role in
+asexual blood stages. SERA5 is extensively proteolytically processed by a
+parasite serine protease called SUB1 as well as an unidentified cysteine protease
+just prior to egress. However, neither the function of SERA5 nor the role of its 
+processing is known. Here we show that conditional disruption of the SERA5 gene, 
+or of both the SERA5 and related SERA4 genes simultaneously, results in a
+dramatic egress and replication defect characterised by premature host cell
+rupture and the failure of daughter merozoites to efficiently disseminate,
+instead being transiently retained within residual bounding membranes. SERA5 is
+not required for poration (permeabilization) or vesiculation of the host cell
+membrane at egress, but the premature rupture phenotype requires the activity of 
+a parasite or host cell cysteine protease. Complementation of SERA5 null
+parasites by ectopic expression of wild-type SERA5 reversed the egress defect,
+whereas expression of a SERA5 mutant refractory to processing failed to rescue
+the phenotype. Our findings implicate SERA5 as an important regulator of the
+kinetics and efficiency of egress and suggest that proteolytic modification is
+required for SERA5 function. In addition, our study reveals that efficient egress
+requires tight control of the timing of membrane rupture.
+
+DOI: 10.1371/journal.ppat.1006453 
+PMCID: PMC5500368
+PMID: 28683142  [Indexed for MEDLINE]
+

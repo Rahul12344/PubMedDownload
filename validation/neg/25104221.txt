@@ -1,0 +1,44 @@
+
+1. BMC Bioinformatics. 2014;15 Suppl 4:S1. doi: 10.1186/1471-2105-15-S4-S1. Epub
+2014 Mar 19.
+
+Integrated assessment of predicted MHC binding and cross-conservation with self
+reveals patterns of viral camouflage.
+
+He L, De Groot AS, Gutierrez AH, Martin WD, Moise L, Bailey-Kellogg C.
+
+BACKGROUND: Immune recognition of foreign proteins by T cells hinges on the
+formation of a ternary complex sandwiching a constituent peptide of the protein
+between a major histocompatibility complex (MHC) molecule and a T cell receptor
+(TCR). Viruses have evolved means of "camouflaging" themselves, avoiding immune
+recognition by reducing the MHC and/or TCR binding of their constituent peptides.
+Computer-driven T cell epitope mapping tools have been used to evaluate the
+degree to which particular viruses have used this means of avoiding immune
+response, but most such analyses focus on MHC-facing 'agretopes'. Here we set out
+a new means of evaluating the TCR faces of viral peptides in addition to their
+agretopes, integrating evaluations of both sides of the ternary complex in a
+single analysis.
+METHODS: This paper develops what we call the Janus Immunogenicity Score (JIS),
+bringing together a well-established method for predicting MHC binding, with a
+novel assessment of the potential for TCR binding based on similarity with self. 
+Intuitively, both good MHC binding and poor self-similarity are required for high
+immunogenicity (i.e., a robust T effector response).
+RESULTS: Focusing on the class II antigen-processing pathway, we show that the
+JIS of T effector epitopes and null or regulatory epitopes deposited in a large
+database of epitopes (Immune Epitope Database) are significantly different. We
+then show that different types of viruses display significantly different
+patterns of scores over their constituent peptides, with viruses causing chronic 
+infection (Epstein-Barr and cytomegalovirus) strongly shifted to lower scores
+relative to those causing acute infection (Ebola and Marburg). Similarly we find 
+distinct patterns among influenza proteins in H1N1 (a strain against which human 
+populations rapidly developed immunity) and H5N1 and H7N9 (highly pathogenic
+avian flu strains, with significantly greater case mortality rates).
+CONCLUSION: The Janus Immunogenicity Score, which integrates MHC binding and TCR 
+cross-reactivity, provides a new tool for studying immunogenicity of pathogens
+and may improve the selection and optimization of antigenic elements for vaccine 
+design.
+
+DOI: 10.1186/1471-2105-15-S4-S1 
+PMCID: PMC4094998
+PMID: 25104221  [Indexed for MEDLINE]
+

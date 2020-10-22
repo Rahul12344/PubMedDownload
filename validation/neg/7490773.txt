@@ -1,0 +1,39 @@
+
+1. J Mol Evol. 1995 Nov;41(5):587-96.
+
+Molecular evolution of the hepatitis B virus genome.
+
+Yang Z(1), Lauder IJ, Lin HJ.
+
+Author information: 
+(1)College of Animal Science and Technology, Beijing Agricultural University,
+China.
+
+The hepatitis B virus (HBV) has a circular DNA genome of about 3,200 base pairs. 
+Economical use of the genome with overlapping reading frames may have led to
+severe constraints on nucleotide substitutions along the genome and to highly
+variable rates of substitution among nucleotide sites. Nucleotide sequences from 
+13 complete HBV genomes were compared to examine such variability of substitution
+rates among sites and to examine the phylogenetic relationships among the HBV
+variants. The maximum likelihood method was employed to fit models of DNA
+sequence evolution that can account for the complexity of the pattern of
+nucleotide substitution. Comparison of the models suggests that the rates of
+substitution are different in different genes and codon positions; for example,
+the third codon position changes at a rate over ten times higher than the second 
+position. Furthermore, substantial variation of substitution rates was detected
+even after the effects of genes and codon positions were corrected; that is,
+rates are different at different sites of the same gene or at the same codon
+position. Such rates after the correction were also found to be positively
+correlated at adjacent sites, which indicated the existence of conserved and
+variable domains in the proteins encoded by the viral genome. A multiparameter
+model validates the earlier finding that the variation in nucleotide conservation
+is not random around the HBV genome. The test for the existence of a molecular
+clock suggests that substitution rates are more or less constant among lineages. 
+The phylogenetic relationships among the viral variants were examined. Although
+the data do not seem to contain sufficient information to resolve the details of 
+the phylogeny, it appears quite certain that the serotypes of the viral variants 
+do not reflect their genetic relatedness.
+
+DOI: 10.1007/BF00175817 
+PMID: 7490773  [Indexed for MEDLINE]
+

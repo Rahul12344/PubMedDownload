@@ -1,0 +1,45 @@
+
+1. Malar J. 2013 Aug 21;12:287. doi: 10.1186/1475-2875-12-287.
+
+Identification of piggyBac-mediated insertions in Plasmodium berghei by next
+generation sequencing.
+
+Cao Y(1), Rui B, Wellems DL, Li M, Chen B, Zhang D, Pan W.
+
+Author information: 
+(1)Department of Tropical Infectious Diseases, Second Military Medical
+University, Shanghai, China.
+
+BACKGROUND: The piggyBac transposon system provides a powerful forward genetics
+tool to study gene function in Plasmodium parasites via random insertion
+mutagenesis and phenotypic screening. The identification of genotype of piggyBac 
+mutants in the Plasmodium genome is thus an indispensable step in forward genetic
+analysis. Several PCR-based approaches have been used to identify the piggyBac
+insertion sites in Plasmodium falciparum and Plasmodium berghei, but all are
+tedious and inefficient. Next generation sequencing can produce large amounts of 
+sequence data and is particularly suitable for genome-wide association studies.
+In this study, the Next generation sequencing technology was employed to
+efficiently identify piggyBac insertion sites in the genome of P. berghei.
+METHODS: Plasmodium berghei parasites were co-transfected with piggyBac donor and
+helper plasmids. Initially, the classical inverse PCR method was used to identify
+the existence of piggyBac insertions in the P. berghei genome. The whole genome
+of post-transfection parasites was subsequently sequenced with a PCR-free
+paired-end module using the Illumina HiSeq sequencing system. The two distinct
+methods ('BLAST method' and 'SOAP method') were employed to identify piggyBac
+insertion sites in the P. berghei genome with Illumina sequencing data. All the
+identified piggyBac insertions were further tested by half-nested PCR.
+RESULTS: The inverse PCR method resulted in a very low yield of ten individual
+insertions identified. Conversely, 47 piggyBac insertions were identified from
+about 1 Gb of Illumina sequencing data via the two distinct analysis methods. The
+majority of identified piggyBac insertions were confirmed by half-nested PCR. In 
+addition, 1,850 single nucleotide polymorphisms were identified through alignment
+of the Illumina sequencing data of the P. berghei ANKA strain used in this study 
+with the reference genome sequences.
+CONCLUSION: This study demonstrates that a high-throughput genome sequencing
+approach is an efficient tool for the identification of piggyBac-mediated
+insertions in Plasmodium parasites.
+
+DOI: 10.1186/1475-2875-12-287 
+PMCID: PMC3765144
+PMID: 23961915  [Indexed for MEDLINE]
+

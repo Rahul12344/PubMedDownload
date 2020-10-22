@@ -1,0 +1,43 @@
+
+1. Biol Trace Elem Res. 1997 Jan;56(1):93-106.
+
+Computational genomic analysis of hemorrhagic fever viruses. Viral selenoproteins
+as a potential factor in pathogenesis.
+
+Ramanathan CS(1), Taylor EW.
+
+Author information: 
+(1)Computational Center for Molecular Structure and Design, University of
+Georgia, Athens 30601-2352, USA. wtaylor@rx.uga.edu
+
+A number of distinct viruses are known as hemorrhagic fever viruses based on a
+shared ability to induce hemorrhage by poorly understood mechanisms, typically
+involving the formation of blood clots ("disseminated intravascular
+coagulation"). It is well documented that selenium plays a significant role in
+the regulation of blood clotting via its effects on the thromboxane/prostacyclin 
+ratio, and effects on the complement system. Selenium has an anticlotting effect,
+whereas selenium deficiency has a proclotting or thrombotic effect. It is also
+well documented that extreme dietary selenium deficiency, which is almost never
+seen in humans, has been associated with hemorrhagic effects in animals. Thus,
+the possibility that viral selenoprotein synthesis might contribute to
+hemorrhagic symptoms merits further consideration. Computational genomic analysis
+of certain hemorrhagic fever viruses reveals the presence of potential protein
+coding regions (PPCRs) containing large numbers of in-frame UGA codons,
+particularly in the -1 reading frame. In some cases, these clusterings of UGA
+codons are very unlikely to have arisen by chance, suggesting that these UGAs may
+have some function other than being a stop codon, such as encoding
+selenocysteine. For this to be possible, a downstream selenocysteine insertion
+element (SECIS) is required. Ebola Zaire, the most notorious hemorrhagic fever
+virus, has a PCR with 17 UGA codons, and several potential SECIS elements can be 
+identified in the viral genome. One potential viral selenoprotein may contain up 
+to 16 selenium atoms per molecule. Biosynthesis of this protein could impose an
+unprecedented selenium demand on the host, potentially, leading to severe lipid
+peroxidation and cell membrane destruction, and contributing to hemorrhagic
+symptoms. Alternatively, even in the absence of programmed selenoprotein
+synthesis, it is possible that random slippage errors would lead to increased
+encounters with UGA codons in overlapping reading frames, and thus potentially to
+nonspecific depletion of SeC in the host.
+
+DOI: 10.1007/BF02778985 
+PMID: 9152513  [Indexed for MEDLINE]
+

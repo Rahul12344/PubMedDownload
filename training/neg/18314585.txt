@@ -1,0 +1,32 @@
+
+1. Methods Mol Biol. 2007;408:211-21. doi: 10.1007/978-1-59745-547-3_12.
+
+Design and application of a shRNA-based gene replacement retrovirus.
+
+Zhang R(1), Adams PD, Ye X.
+
+Author information: 
+(1)Fox Chase Cancer Center, Philadelphia, PA, USA.
+
+To perform structure/function analyses of a protein in vivo, ideally one should
+be able to simultaneously abolish expression of the endogenous wild-type protein,
+substitute it with a form of the protein containing a targeted mutation, and
+analyze the functional consequences. Until recently, this was a highly
+challenging and/or laborious approach in mammalian systems, requiring a targeted 
+gene knockin in a human cell line or mouse. Herein is described a RNA
+interference (RNAi)-based approach to achieve this much more simply in mammalian 
+cells. A single retrovirus has been constructed, which directs expression of a
+short hairpin RNA (shRNA) to knockdown expression of the endogenous protein of
+interest; a cDNA coding for a wild-type or mutant version of the same protein
+that also contains "silent mutations" that do not affect the protein sequence,
+but do make the mRNA resistant to the shRNA; and a puromycin-resistance gene to
+allow rapid drug selection of the virus-infected cells. Using this virus,
+expression of the endogenous Anti-Silencing Function 1a (ASF1a) histone chaperone
+has been efficiently replaced in primary human cells, by an ectopically expressed
+epitope-tagged version. Moreover, the virus is designed so that other shRNA and
+shRNA-resistant cDNA cassettes can easily be substituted, making the approach
+readily applicable to other protein targets.
+
+DOI: 10.1007/978-1-59745-547-3_12 
+PMID: 18314585  [Indexed for MEDLINE]
+

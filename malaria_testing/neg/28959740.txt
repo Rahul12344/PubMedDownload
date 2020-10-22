@@ -1,0 +1,57 @@
+
+1. mSphere. 2017 Sep 27;2(5). pii: e00363-17. doi: 10.1128/mSphere.00363-17.
+eCollection 2017 Sep-Oct.
+
+The Exported Chaperone PfHsp70x Is Dispensable for the Plasmodium falciparum
+Intraerythrocytic Life Cycle.
+
+Cobb DW(1), Florentin A(1)(2), Fierro MA(1), Krakowiak M(1), Moore JM(2)(3),
+Muralidharan V(1)(2).
+
+Author information: 
+(1)Department of Cellular Biology, University of Georgia, Athens, Georgia, USA.
+(2)Center for Tropical and Emerging Global Diseases, University of Georgia,
+Athens, Georgia, USA.
+(3)Department of Infectious Diseases, University of Georgia, Athens, Georgia,
+USA.
+
+Export of parasite proteins into the host erythrocyte is essential for survival
+of Plasmodium falciparum during its asexual life cycle. While several studies
+described key factors within the parasite that are involved in protein export,
+the mechanisms employed to traffic exported proteins within the host cell are
+currently unknown. Members of the Hsp70 family of chaperones, together with their
+Hsp40 cochaperones, facilitate protein trafficking in other organisms, and are
+thus likely used by P. falciparum in the trafficking of its exported proteins. A 
+large group of Hsp40 proteins is encoded by the parasite and exported to the host
+cell, but only one Hsp70, P. falciparum Hsp70x (PfHsp70x), is exported with them.
+PfHsp70x is absent in most Plasmodium species and is found only in P. falciparum 
+and closely related species that infect apes. Herein, we have utilized clustered 
+regularly interspaced short palindromic repeat (CRISPR)/Cas9 genome editing in
+P. falciparum to investigate the essentiality of PfHsp70x. We show that parasitic
+growth was unaffected by knockdown of PfHsp70x using both the dihydrofolate
+reductase (DHFR)-based destabilization domain and the glmS ribozyme system.
+Similarly, a complete gene knockout of PfHsp70x did not affect the ability of
+P. falciparum to proceed through its intraerythrocytic life cycle. The effect of 
+PfHsp70x knockdown/knockout on the export of proteins to the host red blood cell 
+(RBC), including the critical virulence factor P. falciparum erythrocyte membrane
+protein 1 (PfEMP1), was tested, and we found that this process was unaffected.
+These data show that although PfHsp70x is the sole exported Hsp70, it is not
+essential for the asexual development of P. falciparum. IMPORTANCE Half of the
+world's population lives at risk for malaria. The intraerythrocytic life cycle of
+Plasmodium spp. is responsible for clinical manifestations of malaria; therefore,
+knowledge of the parasite's ability to survive within the erythrocyte is needed
+to combat the deadliest agent of malaria, P. falciparum. An outstanding question 
+in the field is how P. falciparum undertakes the essential process of trafficking
+its proteins within the host cell. In most organisms, chaperones such as Hsp70
+are employed in protein trafficking. Of the Plasmodium species causing human
+disease, the chaperone PfHsp70x is unique to P. falciparum, and it is the only
+parasite protein of its kind exported to the host (S. Külzer et al., Cell
+Microbiol 14:1784-1795, 2012). This has placed PfHsp70x as an ideal target to
+inhibit protein trafficking and kill the parasite. However, we show that PfHsp70x
+is not required for export of parasite effectors and it is not essential for
+parasite survival inside the RBC.
+
+DOI: 10.1128/mSphere.00363-17 
+PMCID: PMC5615134
+PMID: 28959740 
+

@@ -1,0 +1,57 @@
+
+1. J Mol Cell Biol. 2019 Aug 19;11(8):665-677. doi: 10.1093/jmcb/mjz025.
+
+Dynamic edge-based biomarker non-invasively predicts hepatocellular carcinoma
+with hepatitis B virus infection for individual patients based on blood testing.
+
+Lu Y(1), Fang Z(2), Li M(2)(3), Chen Q(1), Zeng T(2), Lu L(2), Chen Q(1), Zhang
+H(1), Zhou Q(1), Sun Y(4), Xue X(4), Hu Y(5), Chen L(2)(6)(7)(8), Su S(1).
+
+Author information: 
+(1)Institute of Interdisciplinary Integrative Medicine Research, Shanghai
+University of Traditional Chinese Medicine, Shanghai, China.
+(2)Key Laboratory of Systems Biology, Center for Excellence in Molecular Cell
+Science, Institute of Biochemistry and Cell Biology, Shanghai Institute of
+Biological Sciences, Chinese Academy of Sciences, Shanghai, China.
+(3)Minhang Branch, Zhongshan Hospital/Institute of Fudan-Minhang Academic Health 
+System, Minhang Hospital, Fudan University, Shanghai, China.
+(4)Qidong Liver Cancer Institute, Qidong People's Hospital, Qidong, China.
+(5)Institute of Liver Disease, Shuguang Hospital, Shanghai University of
+Traditional Chinese Medicine, Shanghai, China.
+(6)Center for Excellence in Animal Evolution and Genetics, Chinese Academy of
+Sciences, Kunming, China.
+(7)School of Life Science and Technology, Shanghai Tech University, Shanghai,
+China.
+(8)Research Center for Brain Science and Brain-Inspired Intelligence, Shanghai,
+China.
+
+Hepatitis B virus (HBV)-induced hepatocellular carcinoma (HCC) is a major cause
+of cancer-related deaths in Asia and Africa. Developing effective and
+non-invasive biomarkers of HCC for individual patients remains an urgent task for
+early diagnosis and convenient monitoring. Analyzing the transcriptomic profiles 
+of peripheral blood mononuclear cells from both healthy donors and patients with 
+chronic HBV infection in different states (i.e. HBV carrier, chronic hepatitis B,
+cirrhosis, and HCC), we identified a set of 19 candidate genes according to our
+algorithm of dynamic network biomarkers. These genes can both characterize
+different stages during HCC progression and identify cirrhosis as the critical
+transition stage before carcinogenesis. The interaction effects (i.e.
+co-expressions) of candidate genes were used to build an accurate prediction
+model: the so-called edge-based biomarker. Considering the convenience and
+robustness of biomarkers in clinical applications, we performed functional
+analysis, validated candidate genes in other independent samples of our collected
+cohort, and finally selected COL5A1, HLA-DQB1, MMP2, and CDK4 to build edge panel
+as prediction models. We demonstrated that the edge panel had great performance
+in both diagnosis and prognosis in terms of precision and specificity for HCC,
+especially for patients with alpha-fetoprotein-negative HCC. Our study not only
+provides a novel edge-based biomarker for non-invasive and effective diagnosis of
+HBV-associated HCC to each individual patient but also introduces a new way to
+integrate the interaction terms of individual molecules for clinical diagnosis
+and prognosis from the network and dynamics perspectives.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of Journal
+of Molecular Cell Biology, IBCB, SIBS, CAS.
+
+DOI: 10.1093/jmcb/mjz025 
+PMCID: PMC6788726
+PMID: 30925583  [Indexed for MEDLINE]
+

@@ -1,0 +1,59 @@
+
+1. Zhongguo Zhong Yao Za Zhi. 2020 May;45(10):2454-2463. doi:
+10.19540/j.cnki.cjcmm.20191031.401.
+
+[Method for rapid synchronization of different growth cycles of Plasmodium
+falciparum in vitro and application in differential gene expression profile of
+3D7 after dihydroartemisinin treatment].
+
+[Article in Chinese]
+
+Zheng ZY(1), Chen LN(2), Yang T(1), Liu H(3), Qu SQ(3), Yang YM(2), Li YJ(2),
+Zhang SQ(4).
+
+Author information: 
+(1)School of Pharmacy, Shanxi Medical University Taiyuan 030001, China
+Artemisinin Research Center, China Academy of Chinese Medical Sciences Beijing
+100700, China.
+(2)Artemisinin Research Center, China Academy of Chinese Medical Sciences Beijing
+100700, China Institute of Chinese Materia Medica, China Academy of Chinese
+Medical Sciences Beijing 100700, China.
+(3)Artemisinin Research Center, China Academy of Chinese Medical Sciences Beijing
+100700, China School of Traditional Chinese Medicine, Guangdong Pharmaceutical
+University Guangdong 510006, China.
+(4)School of Pharmacy, Shanxi Medical University Taiyuan 030001, China.
+
+Plasmodium culture in vitro is often used as an antimalarial drug evaluation
+model, but the lifecycle of P. falciparum culture in vitro tends to be
+disordered, which affects the research and evaluation of antimalarial drug
+mechanism in vitro. By combining magnetic bead separation method with sorbitol
+synchronization method, a synchronization method was constructed to quickly
+acquire different lifecycles of P. falciparum and obtain large amounts of
+parasite with a narrow synchronization window in a short period. Furthermore, the
+dihydroartemisinin(DHA) was used to treat the early trophozoite phase of P.
+falciparum 3 D7 for 4 h. Then mRNA was extracted and RNA-seq was conducted to
+analyze the differential expression of mRNA after drug treatment and obtain the
+differential gene expression profile. Differential expression of up-regulated
+genes and down-regulated genes was analyzed according to the screening criteria
+of |log_2FC|&gt;1 and P&lt;0.05. There, 262 genes were up-regulated and 77 genes 
+were down-regulated. GO functional enrichment analysis of all the differentially 
+expressed genes showed that the enrichment items mainly included cell membrane
+components, transporter activity, serine/threonine kinase activity, Maurer's
+clefts(MCs), rhoptry, antigen variation and immune evasion. The enrichment of
+KEGG pathway included malaria, fatty acid metabolism and peroxisome.
+Protein-protein interaction(PPI) analysis showed that the down-regulated genes in
+the modules with high degree of association included rhoptry, myosin complex,
+transporter and other genes related to the important life activities of malaria
+invasion and immune escape; the up-regulated genes were mainly related to various
+toxic exportins of malaria, such as PfSBP1 of MCs. qRT-PCR was used to verify the
+expression level of some genes, and most of the results were the same as the
+sequencing results. SBP1 was significantly up-regulated, while some antigenic
+protein expression levels were down-regulated. Above all, key molecules of DHA
+therapy were mainly involved in the parasites' rhoptry, transporter, antigenic
+variation, plasmodium exportin. These results offer us many hints to guide the
+further studies on mechanism of artemisinin and provide a new way for development
+of new antimalarial drugs.
+
+DOI: 10.19540/j.cnki.cjcmm.20191031.401 
+PMID: 32495606  [Indexed for MEDLINE]
+

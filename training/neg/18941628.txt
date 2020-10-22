@@ -1,0 +1,44 @@
+
+1. PLoS One. 2008;3(10):e3470. doi: 10.1371/journal.pone.0003470. Epub 2008 Oct 21.
+
+Comparison of classifier fusion methods for predicting response to anti HIV-1
+therapy.
+
+Altmann A(1), Rosen-Zvi M, Prosperi M, Aharoni E, Neuvirth H, Schülter E, Büch J,
+Struck D, Peres Y, Incardona F, Sönnerborg A, Kaiser R, Zazzi M, Lengauer T.
+
+Author information: 
+(1)Computational Biology and Applied Algorithmics, Max Planck Institute for
+Informatics, Saarbrücken, Germany. altmann@mpi-inf.mpg.de
+
+BACKGROUND: Analysis of the viral genome for drug resistance mutations is
+state-of-the-art for guiding treatment selection for human immunodeficiency virus
+type 1 (HIV-1)-infected patients. These mutations alter the structure of viral
+target proteins and reduce or in the worst case completely inhibit the effect of 
+antiretroviral compounds while maintaining the ability for effective replication.
+Modern anti-HIV-1 regimens comprise multiple drugs in order to prevent or at
+least delay the development of resistance mutations. However, commonly used HIV-1
+genotype interpretation systems provide only classifications for single drugs.
+The EuResist initiative has collected data from about 18,500 patients to train
+three classifiers for predicting response to combination antiretroviral therapy, 
+given the viral genotype and further information. In this work we compare
+different classifier fusion methods for combining the individual classifiers.
+PRINCIPAL FINDINGS: The individual classifiers yielded similar performance, and
+all the combination approaches considered performed equally well. The gain in
+performance due to combining methods did not reach statistical significance
+compared to the single best individual classifier on the complete training set.
+However, on smaller training set sizes (200 to 1,600 instances compared to 2,700)
+the combination significantly outperformed the individual classifiers (p<0.01;
+paired one-sided Wilcoxon test). Together with a consistent reduction of the
+standard deviation compared to the individual prediction engines this shows a
+more robust behavior of the combined system. Moreover, using the combined system 
+we were able to identify a class of therapy courses that led to a consistent
+underestimation (about 0.05 AUC) of the system performance. Discovery of these
+therapy courses is a further hint for the robustness of the combined system.
+CONCLUSION: The combined EuResist prediction engine is freely available at
+http://engine.euresist.org.
+
+DOI: 10.1371/journal.pone.0003470 
+PMCID: PMC2565127
+PMID: 18941628  [Indexed for MEDLINE]
+

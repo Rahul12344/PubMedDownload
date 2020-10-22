@@ -1,0 +1,35 @@
+
+1. Bioinformatics. 2010 Sep 15;26(18):i482-8. doi: 10.1093/bioinformatics/btq375.
+
+A predictor for toxin-like proteins exposes cell modulator candidates within
+viral genomes.
+
+Naamati G(1), Askenazi M, Linial M.
+
+Author information: 
+(1)School of Computer Science and Engineering, Hebrew University of Jerusalem,
+Israel.
+
+MOTIVATION: Animal toxins operate by binding to receptors and ion channels. These
+proteins are short and vary in sequence, structure and function. Sporadic
+discoveries have also revealed endogenous toxin-like proteins in non-venomous
+organisms. Viral proteins are the largest group of quickly evolving proteomes. We
+tested the hypothesis that toxin-like proteins exist in viruses and that they act
+to modulate functions of their hosts.
+RESULTS: We updated and improved a classifier for compact proteins resembling
+short animal toxins that is based on a machine-learning method. We applied it in 
+a large-scale setting to identify toxin-like proteins among short viral proteins.
+Among the approximately 26 000 representatives of such short proteins, 510
+sequences were positively identified. We focused on the 19 highest scoring
+proteins. Among them, we identified conotoxin-like proteins, growth factors
+receptor-like proteins and anti-bacterial peptides. Our predictor was shown to
+enhance annotation inference for many 'uncharacterized' proteins. We conclude
+that our protocol can expose toxin-like proteins in unexplored niches including
+metagenomics data and enhance the systematic discovery of novel cell modulators
+for drug development.
+AVAILABILITY: ClanTox is available at http://www.clantox.cs.huji.ac.il.
+
+DOI: 10.1093/bioinformatics/btq375 
+PMCID: PMC2935411
+PMID: 20823311  [Indexed for MEDLINE]
+

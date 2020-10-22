@@ -1,0 +1,52 @@
+
+1. Heliyon. 2020 Mar 3;6(3):e03453. doi: 10.1016/j.heliyon.2020.e03453. eCollection 
+2020 Mar.
+
+Single-nucleotide polymorphism characterization of gametocyte development 1 gene 
+in Plasmodium falciparum isolates from Baringo, Uasin Gishu, and Nandi Counties, 
+Kenya.
+
+Bungei JK(1)(2), Mobegi VA(2), Nyanjom SG(1).
+
+Author information: 
+(1)Department of Biochemistry, JKUAT, Kenya.
+(2)Department of Biochemistry, School of Medicine, University of Nairobi, Kenya.
+
+Introduction: Plasmodium falciparum relies on gametocytogenesis to transmit from 
+humans to mosquitoes. Gametocyte development 1 (Pfgdv1) is an upstream activator 
+and epigenetic controller of gametocytogenesis. The emergence of drug resistance 
+is a major public health concern and this requires the development of new
+strategies that target the transmission of malaria. As a putative drug target,
+Pfgdv1 has not been characterized to identify its polymorphisms and alleles under
+selection and how such polymorphisms influence protein structure.
+Methods: This study characterized single-nucleotide polymorphisms (SNPs) in
+primary sequences (n = 30) of Pfgdv1 gene generated from thirty blood samples
+collected from patients infected with P. falciparum and secondary sequences (n = 
+216) retrieved from PlasmoDB. ChromasPro, MUSCLE, Tajima's D statistic, SLAC, and
+STRUM were used in editing raw sequences, performing multiple sequence alignment 
+(MSA), identifying signatures of selection, detecting codon sites under selection
+pressure, and determining the effect of SNPs, respectively.
+Results: MSA of primary and secondary sequences established the existence of five
+SNPs, consisting of four non-synonymous substitutions (nsSNPs) (p.P217H, p.R398Q,
+p.H417N, and p.D497E), and a synonymous substitution (p.S514S). The analysis of
+amino acid changes reveals that p.P217H, p.R398Q, and p.H417N comprise
+non-conservative changes. Tajima's D statistic showed that these SNPs were under 
+balancing selection, while SLAC analysis identified p.P217H to be under the
+strongest positive selection. . Further analysis based on thermodynamics
+indicated that p.P217H has a destabilizing effect, while p.R398Q and p.D497E have
+stabilizing effects on the protein structure.
+Conclusions: The existence of four nsSNPs implies that Pfgdv1 has a minimal
+diversity in the encoded protein. Selection analysis demonstrates that these
+nsSNPs are under balancing selection in both local and global populations.
+However, p.P217H exhibits positive directional selection consistent with previous
+reports where it showed differentiatial selection of P. falciparum in low and
+high transmission regions. Therefore, in-silico prediction and experimental
+determination of protein structure are necessary to evaluate Pfgdv1 as a target
+candidate for drug design and development.
+
+© 2020 The Authors.
+
+DOI: 10.1016/j.heliyon.2020.e03453 
+PMCID: PMC7056661
+PMID: 32154414 
+

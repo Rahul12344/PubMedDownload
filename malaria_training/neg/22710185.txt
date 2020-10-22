@@ -1,0 +1,37 @@
+
+1. FEBS Lett. 2012 Jul 16;586(15):2157-63. doi: 10.1016/j.febslet.2012.01.057. Epub 
+2012 Feb 8.
+
+A Synthetic Biology Project - Developing a single-molecule device for screening
+drug-target interactions.
+
+Firman K(1), Evans L, Youell J.
+
+Author information: 
+(1)IBBS Biophysics Laboratories, School of Biological Sciences, University of
+Portsmouth, King Henry Building, King Henry I Street, Portsmouth PO1 2DY, United 
+Kingdom.
+
+This review describes a European-funded project in the area of Synthetic Biology.
+The project seeks to demonstrate the application of engineering techniques and
+methodologies to the design and construction of a biosensor for detecting
+drug-target interactions at the single-molecule level. Production of the proteins
+required for the system followed the principle of previously described "bioparts"
+concepts (a system where a database of biological parts - promoters, genes,
+terminators, linking tags and cleavage sequences - is used to construct novel
+gene assemblies) and cassette-type assembly of gene expression systems (the
+concept of linking different "bioparts" to produce functional "cassettes"), but
+problems were quickly identified with these approaches. DNA substrates for the
+device were also constructed using a cassette-system. Finally, micro-engineering 
+was used to build a magnetoresistive Magnetic Tweezer device for detection of
+single molecule DNA modifying enzymes (motors), while the possibility of
+constructing a Hall Effect version of this device was explored. The device is
+currently being used to study helicases from Plasmodium as potential targets for 
+anti-malarial drugs, but we also suggest other potential uses for the device.
+
+Copyright © 2012 Federation of European Biochemical Societies. Published by
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.febslet.2012.01.057 
+PMID: 22710185  [Indexed for MEDLINE]
+

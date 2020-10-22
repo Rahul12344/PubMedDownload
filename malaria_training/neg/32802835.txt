@@ -1,0 +1,54 @@
+
+1. Biomed Res Int. 2020 Aug 3;2020:2159460. doi: 10.1155/2020/2159460. eCollection
+2020.
+
+Potential Molecular Mechanism of the NPPB Gene in Postischemic Heart Failure with
+and without T2DM.
+
+Guan YZ(1), Yin RX(1)(2)(3), Deng GX(1), Zheng PF(1), Liu CX(1), Wei BL(1).
+
+Author information: 
+(1)Department of Cardiology, Institute of Cardiovascular Diseases, The First
+Affiliated Hospital, Guangxi Medical University, Nanning, 530021 Guangxi, China.
+(2)Guangxi Key Laboratory Base of Precision Medicine in Cardio-Cerebrovascular
+Disease Control and Prevention, Nanning, 530021 Guangxi, China.
+(3)Guangxi Clinical Research Center for Cardio-Cerebrovascular Diseases, Nanning,
+530021 Guangxi, China.
+
+Background: This study is aimed at investigating natriuretic peptide B (NPPB)
+coexpression genes and their pathways involved in heart failure (HF) among
+patients both with and without type 2 diabetes mellitus (T2DM).
+Methods: The microarray dataset GSE26887, containing 19 postischemic HF patients'
+peripheral blood samples (7 with T2DM and 12 without T2DM), was examined to
+detect the genes coexpressed with NPPB using the corr.test function in the R
+packet. Furthermore, using online analytical tools, we determined the Kyoto
+Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analysis, Gene
+Ontology (GO) annotation, and protein-protein interaction (PPI) network of the
+coexpression genes. The modules and hub genes of the PPI network were then
+identified using the Cytoscape software.
+Results: In patients with T2DM, a total of 41 biological processes (BP), 20
+cellular components (CC), 13 molecular functions (MF), and 41 pathways were
+identified. Furthermore, a total of 61 BPs, 16 CCs, 13 MFs, and 22 pathways in
+patients without T2DM were identified. In both groups of patients, 17 BPs, 10
+CCs, 6 MFs, and 13 pathways were enriched. We also identified 173 intersectional 
+coexpression genes (63 positively, 106 negatively, and 4 differently coexpressed 
+in patients with and without T2DM, respectively) in both types of patients, which
+were enriched in 16 BPs, 8 CCs, 3 MFs, and 8 KEGG pathways. Moreover, the PPI
+network (containing 237 edges and 170 nodes) with the top module significantly
+enriched in 4 BPs (tricarboxylic acid metabolic process, citrate metabolic
+process, tricarboxylic acid cycle, and aerobic respiration) and 3 pathways
+(citrate cycle, malaria parasite metabolic pathway, and AGE-RAGE signaling
+pathway in diabetic complications) was constructed. DECR1, BGN, TIMP1, VCAN, and 
+CTCF are the top hub genes.
+Conclusions: Our findings may elucidate the functions and roles of the NPPB gene 
+in patients with postischemic HF and facilitate HF management.
+
+Copyright © 2020 Yao-Zong Guan et al.
+
+DOI: 10.1155/2020/2159460 
+PMCID: PMC7424400
+PMID: 32802835 
+
+Conflict of interest statement: The authors declare that they have no competing
+interests.
+

@@ -1,0 +1,39 @@
+
+1. Curr Protein Pept Sci. 2016;17(3):220-7.
+
+Multi-output Model with Box-Jenkins Operators of Quadratic Indices for Prediction
+of Malaria and Cancer Inhibitors Targeting Ubiquitin- Proteasome Pathway (UPP)
+Proteins.
+
+Casañola-Martin GM, Le-Thi-Thu H, Pérez-Giménez F, Marrero-Ponce Y,
+Merino-Sanjuán M, Abad C, González-Díaz H(1).
+
+Author information: 
+(1)Departament de Bioquímica i Biologia Molecular, Universitat de València,
+E-46100 Burjassot, Spain and IKERBASQUE, Basque Foundation for Science, 48011,
+Bilbao, Spain. humberto.gonzalezdiaz@ehu.es.
+
+The ubiquitin-proteasome pathway (UPP) is the primary degradation system of
+short-lived regulatory proteins. Cellular processes such as the cell cycle,
+signal transduction, gene expression, DNA repair and apoptosis are regulated by
+this UPP and dysfunctions in this system have important implications in the
+development of cancer, neurodegenerative, cardiac and other human pathologies.
+UPP seems also to be very important in the function of eukaryote cells of the
+human parasites like Plasmodium falciparum, the causal agent of the neglected
+disease Malaria. Hence, the UPP could be considered as an attractive target for
+the development of compounds with Anti-Malarial or Anti-cancer properties. Recent
+online databases like ChEMBL contains a larger quantity of information in terms
+of pharmacological assay protocols and compounds tested as UPP inhibitors under
+many different conditions. This large amount of data give new openings for the
+computer-aided identification of UPP inhibitors, but the intrinsic data diversity
+is an obstacle for the development of successful classifiers. To solve this
+problem here we used the Bob-Jenkins moving average operators and the atom-based 
+quadratic molecular indices calculated with the software TOMOCOMD-CARDD (TC) to
+develop a quantitative model for the prediction of the multiple outputs in this
+complex dataset. Our multi-target model can predict results for drugs against 22 
+molecular or cellular targets of different organisms with accuracies above 70% in
+both training and validation sets.
+
+DOI: 10.2174/1389203717999160226173500 
+PMID: 26427384  [Indexed for MEDLINE]
+

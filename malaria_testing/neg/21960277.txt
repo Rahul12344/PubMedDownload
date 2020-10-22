@@ -1,0 +1,41 @@
+
+1. Funct Integr Genomics. 2012 Mar;12(1):11-23. doi: 10.1007/s10142-011-0254-z. Epub
+2011 Sep 29.
+
+Prediction of biological functions of Shewanella-like protein phosphatases
+(Shelphs) across different domains of life.
+
+Kutuzov MA(1), Andreeva AV.
+
+Author information: 
+(1)Department of Pharmacology, University of Illinois at Chicago, Chicago, IL
+60612, USA. m.kutuzov@usa.net
+
+PPP protein phosphatases are an important enzyme family involved in a variety of 
+aspects of cellular signalling and metabolism. PPPs are ubiquitous in eukaryotes,
+and are also present in many bacteria. Canonical eukaryotic PPP phosphotases are 
+represented by five major subfamilies (PP1, PP2A, calcineurin, PP5 and PPEF/PP7).
+We previously reported that three "bacterial-like" PPP groups span the
+prokaryote-eukaryote boundary, including "Shewanella-like" phosphatases
+(Shelphs), which are in the focus of this study. Here we predict possible
+biological functions and functional partners of Shelphs by examining composition 
+of bacterial operons and expression data for eukaryotes available in public
+databases. In Arabidopsis thaliana, the predicted possible roles include
+light-dependent regulation of chloroplast functions, signalling between the
+nucleus and the chloroplast, and defence responses. In Plasmodium falciparum,
+Shelphs are predicted to be associated with host cell invasion. One isoform has
+been located in the apical complex, essential for the interaction with the host
+cell. This makes P. falciparum Shelphs obvious potential candidates for
+therapeutic targets. Shelphs are also present in bacteria that constitute a
+considerable proportion of symbiotic microflora in humans. The predicted
+involvement of bacterial Shelphs in sensing and import of nutrients and extrusion
+of toxins may be relevant to the links between physiology of humans and our
+symbionts. Thus, despite the absence of Shelphs in animals, including humans,
+they may have a direct relationship to human health. Some predicted biological
+processes and potential functional partners of Shelphs are common between
+different bacterial and/or eukaryotic lineages, suggesting evolutionary
+conservation of some Shelph regulatory modules.
+
+DOI: 10.1007/s10142-011-0254-z 
+PMID: 21960277  [Indexed for MEDLINE]
+

@@ -1,0 +1,41 @@
+
+1. J Virol. 2012 Nov;86(22):12176-86. doi: 10.1128/JVI.01918-12. Epub 2012 Aug 29.
+
+Epstein-Barr virus BGLF4 kinase downregulates NF-κB transactivation through
+phosphorylation of coactivator UXT.
+
+Chang LS(1), Wang JT, Doong SL, Lee CP, Chang CW, Tsai CH, Yeh SW, Hsieh CY, Chen
+MR.
+
+Author information: 
+(1)Graduate Institute and Department of Microbiology, College of Medicine,
+National Taiwan University, Taipei, Taiwan.
+
+Epstein-Barr virus (EBV) BGLF4 is a member of the conserved herpesvirus kinases
+that regulate multiple cellular and viral substrates and play an important role
+in the viral lytic cycles. BGLF4 has been found to phosphorylate several cellular
+and viral transcription factors, modulate their activities, and regulate
+downstream events. In this study, we identify an NF-κB coactivator, UXT, as a
+substrate of BGLF4. BGLF4 downregulates not only NF-κB transactivation in
+reporter assays in response to tumor necrosis factor alpha (TNF-α) and poly(I·C) 
+stimulation, but also NF-κB-regulated cellular gene expression. Furthermore,
+BGLF4 attenuates NF-κB-mediated repression of the EBV lytic transactivators, Zta 
+and Rta. In EBV-positive NA cells, knockdown of BGLF4 during lytic progression
+elevates NF-κB activity and downregulates the activity of the EBV oriLyt BHLF1
+promoter, which is the first promoter activated upon lytic switch. We show that
+BGLF4 phosphorylates UXT at the Thr3 residue. This modification interferes with
+the interaction between UXT and NF-κB. The data also indicate that BGLF4 reduces 
+the interaction between UXT and NF-κB and attenuates NF-κB enhanceosome activity.
+Upon infection with short hairpin RNA (shRNA) lentivirus to knock down UXT, a
+spontaneous lytic cycle was observed in NA cells, suggesting UXT is required for 
+maintenance of EBV latency. Overexpression of wild-type, but not
+phosphorylation-deficient, UXT enhances the expression of lytic proteins both in 
+control and UXT knockdown cells. Taking the data together, transcription
+involving UXT may also be important for EBV lytic protein expression, whereas
+BGLF4-mediated phosphorylation of UXT at Thr3 plays a critical role in promoting 
+the lytic cycle.
+
+DOI: 10.1128/JVI.01918-12 
+PMCID: PMC3486492
+PMID: 22933289  [Indexed for MEDLINE]
+

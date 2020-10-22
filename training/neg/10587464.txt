@@ -1,0 +1,36 @@
+
+1. Biochemistry. 1999 Dec 7;38(49):16383-93.
+
+Determination of protein secondary structure and solvent accessibility using
+site-directed fluorescence labeling. Studies of T4 lysozyme using the fluorescent
+probe monobromobimane.
+
+Mansoor SE(1), McHaourab HS, Farrens DL.
+
+Author information: 
+(1)Department of Biochemistry, Oregon Health Sciences University, Portland
+97201-3098, USA.
+
+We report an investigation of how much protein structural information could be
+obtained using a site-directed fluorescence labeling (SDFL) strategy. In our
+experiments, we used 21 consecutive single-cysteine substitution mutants in T4
+lysozyme (residues T115-K135), located in a helix-turn-helix motif. The mutants
+were labeled with the fluorescent probe monobromobimane and subjected to an array
+of fluorescence measurements. Thermal stability measurements show that
+introduction of the label is substantially perturbing only when it is located at 
+buried residue sites. At buried sites (solvent surface accessibility of <40
+A(2)), the destabilizations are between 3 and 5.5 kcal/mol, whereas at more
+exposed sites, DeltaDeltaG values of < or = 1.5 kcal/mol are obtained. Of all the
+fluorescence parameters that were explored (excitation lambda(max), emission
+lambda(max), fluorescence lifetime, quantum yield, and steady-state anisotropy), 
+the emission lambda(max) and the steady-state anisotropy values most accurately
+reflect the solvent surface accessibility at each site as calculated from the
+crystal structure of cysteine-less T4 lysozyme. The parameters we identify allow 
+the classification of each site as buried, partially buried, or exposed. We find 
+that the variations in these parameters as a function of residue number reflect
+the sequence-specific secondary structure, the determination of which is a key
+step for modeling a protein of unknown structure.
+
+DOI: 10.1021/bi991331v 
+PMID: 10587464  [Indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+1. Malar J. 2010 Jun 9;9:155. doi: 10.1186/1475-2875-9-155.
+
+Cerebral malaria: insights from host-parasite protein-protein interactions.
+
+Rao A(1), Kumar MK, Joseph T, Bulusu G.
+
+Author information: 
+(1)Life Sciences Division, TCS Innovation Labs Hyderabad, Tata Consultancy
+Services Ltd, 1, Software Units Layout, Madhapur, Hyderabad-500081, India.
+adityar.rao@tcs.com
+
+BACKGROUND: Cerebral malaria is a form of human malaria wherein Plasmodium
+falciparum-infected red blood cells adhere to the blood capillaries in the brain,
+potentially leading to coma and death. Interactions between parasite and host
+proteins are important in understanding the pathogenesis of this deadly form of
+malaria. It is, therefore, necessary to study available protein-protein
+interactions to identify lesser known interactions that could throw light on key 
+events of cerebral malaria.
+METHODS: Sequestration, haemostasis dysfunction, systemic inflammation and
+neuronal damage are key processes of cerebral malaria. Key events were identified
+from literature as being crucial to these processes. An integrated interactome
+was created using available experimental and predicted datasets as well as from
+literature. Interactions from this interactome were filtered based on Gene
+Ontology and tissue-specific annotations, and further analysed for relevance to
+the key events.
+RESULTS: PfEMP1 presentation, platelet activation and astrocyte dysfunction were 
+identified as the key events influencing the disease. 48896 host-parasite along
+with other host-parasite, host-host and parasite-parasite protein-protein
+interactions obtained from a disease-specific corpus were combined to form an
+integrated interactome. Filtering of the interactome resulted in five
+host-parasite PPI, six parasite-parasite and two host-host PPI. The analysis of
+these interactions revealed the potential significance of apolipoproteins and
+temperature/Hsp expression on efficient PfEMP1 presentation; role of MSP-1 in
+platelet activation; effect of parasite proteins in TGF-beta regulation and the
+role of albumin in astrocyte dysfunction.
+CONCLUSIONS: This work links key host-parasite, parasite-parasite and host-host
+protein-protein interactions to key processes of cerebral malaria and generates
+hypotheses for disease pathogenesis based on a filtered interaction dataset.
+These hypotheses provide novel and significant insights to cerebral malaria.
+
+DOI: 10.1186/1475-2875-9-155 
+PMCID: PMC2891816
+PMID: 20529383  [Indexed for MEDLINE]
+

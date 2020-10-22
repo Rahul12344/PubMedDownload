@@ -1,0 +1,39 @@
+
+1. ACS Synth Biol. 2018 Dec 21;7(12):2824-2832. doi: 10.1021/acssynbio.8b00219. Epub
+2018 Dec 7.
+
+Genomic Deoxyxylulose Phosphate Reductoisomerase (DXR) Mutations Conferring
+Resistance to the Antimalarial Drug Fosmidomycin in E. coli.
+
+Pines G(1)(2), Oh EJ(1)(2), Bassalo MC(1)(3), Choudhury A(2), Garst AD(1),
+Fankhauser RG(1), Eckert CA(1)(4), Gill RT(1)(2).
+
+Author information: 
+(1)Renewable and Sustainable Energy Institute , University of Colorado Boulder , 
+027 UCB , Boulder , Colorado 80309 , United States.
+(2)Department of Chemical and Biological Engineering , University of Colorado
+Boulder , 596 UCB , Boulder , Colorado 80309 , United States.
+(3)Department of Molecular, Cellular, and Developmental Biology , University of
+Colorado Boulder , 347 UCB , Boulder , Colorado 80309 , United States.
+(4)Biosciences Center , National Renewable Energy Laboratory , 15013 Denver West 
+Parkway , Golden , Colorado 80401 , United States.
+
+Sequence to activity mapping technologies are rapidly developing, enabling the
+generation and isolation of mutations conferring novel phenotypes. Here we used
+the CRISPR enabled trackable genome engineering (CREATE) technology to
+investigate the inhibition of the essential ispC gene in its native genomic
+context in Escherichia coli. We created a full saturation library of 33 sites
+proximal to the ligand binding pocket and challenged this library with the
+antimalarial drug fosmidomycin, which targets the ispC gene product, DXR. This
+selection is especially challenging since it is relatively weak in E. coli, with 
+multiple naturally occurring pathways for resistance. We identified several
+previously unreported mutations that confer fosmidomycin resistance, in highly
+conserved sites that also exist in pathogens including the malaria-inducing
+Plasmodium falciparum. This approach may have implications for the isolation of
+resistance-conferring mutations and may affect the design of future generations
+of fosmidomycin-based drugs.
+
+DOI: 10.1021/acssynbio.8b00219 
+PMCID: PMC6928208
+PMID: 30462485  [Indexed for MEDLINE]
+

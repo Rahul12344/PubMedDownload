@@ -1,0 +1,44 @@
+
+1. PLoS One. 2019 Apr 9;14(4):e0214023. doi: 10.1371/journal.pone.0214023.
+eCollection 2019.
+
+Mitochondrial type II NADH dehydrogenase of Plasmodium falciparum (PfNDH2) is
+dispensable in the asexual blood stages.
+
+Ke H(1), Ganesan SM(1), Dass S(1), Morrisey JM(1), Pou S(2), Nilsen A(2), Riscoe 
+MK(2), Mather MW(1), Vaidya AB(1).
+
+Author information: 
+(1)Center for Molecular Parasitology, Department of Microbiology and Immunology, 
+Drexel University College of Medicine, Philadelphia, Pennsylvania, United States 
+of America.
+(2)Portland VA Medical Center, Portland, Oregon, United States of America.
+
+The battle against malaria has been substantially impeded by the recurrence of
+drug resistance in Plasmodium falciparum, the deadliest human malaria parasite.
+To counter the problem, novel antimalarial drugs are urgently needed, especially 
+those that target unique pathways of the parasite, since they are less likely to 
+have side effects. The mitochondrial type II NADH dehydrogenase (NDH2) of P.
+falciparum, PfNDH2 (PF3D7_0915000), has been considered a good prospective
+antimalarial drug target for over a decade, since malaria parasites lack the
+conventional multi-subunit NADH dehydrogenase, or Complex I, present in the
+mammalian mitochondrial electron transport chain (mtETC). Instead, Plasmodium
+parasites contain a single subunit NDH2, which lacks proton pumping activity and 
+is absent in humans. A significant amount of effort has been expended to develop 
+PfNDH2 specific inhibitors, yet the essentiality of PfNDH2 has not been
+convincingly verified. Herein, we knocked out PfNDH2 in P. falciparum via a
+CRISPR/Cas9 mediated approach. Deletion of PfNDH2 does not alter the parasite's
+susceptibility to multiple mtETC inhibitors, including atovaquone and ELQ-300. We
+also show that the antimalarial activity of the fungal NDH2 inhibitor HDQ and its
+new derivative CK-2-68 is due to inhibition of the parasite cytochrome bc1
+complex rather than PfNDH2. These compounds directly inhibit the
+ubiquinol-cytochrome c reductase activity of the malarial bc1 complex. Our
+results suggest that PfNDH2 is not likely a good antimalarial drug target.
+
+DOI: 10.1371/journal.pone.0214023 
+PMCID: PMC6456166
+PMID: 30964863  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

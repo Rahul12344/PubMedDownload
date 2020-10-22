@@ -1,0 +1,38 @@
+
+1. Stem Cells. 2017 Jan;35(1):147-157. doi: 10.1002/stem.2453. Epub 2016 Jul 6.
+
+TRIM28 is an Epigenetic Barrier to Induced Pluripotent Stem Cell Reprogramming.
+
+Miles DC(1), de Vries NA(1), Gisler S(1), Lieftink C(2), Akhtar W(1), Gogola
+E(3), Pawlitzky I(1), Hulsman D(1), Tanger E(1), Koppens M(1), Beijersbergen
+RL(2), van Lohuizen M(1)(4).
+
+Author information: 
+(1)Division of Molecular Genetics, NKI Robotics and Screening Center, The
+Netherlands Cancer Institute, Amsterdam, The Netherlands.
+(2)Division of Molecular Carcinogenesis, NKI Robotics and Screening Center, The
+Netherlands Cancer Institute, Amsterdam, The Netherlands.
+(3)Division of Molecular of Molecular Pathology, The Netherlands Cancer
+Institute, Amsterdam, The Netherlands.
+(4)Cancer Genomics Centre (CGC.nl), Amsterdam, The Netherlands.
+
+Since the discovery of induced pluripotent stem cells there has been intense
+interest in understanding the mechanisms that allow a somatic cell to be
+reprogrammed back to a pluripotent state. Several groups have studied the
+alterations in gene expression that occur as somatic cells modify their genome to
+that of an embryonic stem cell. Underpinning many of the gene expression changes 
+are modifications to the epigenetic profile of the associated chromatin. We have 
+used a large-scale shRNA screen to identify epigenetic modifiers that act as
+barriers to reprogramming. We have uncovered an important role for TRIM28 in
+cells resisting transition between somatic and pluripotent states. TRIM28
+achieves this by maintaining the H3K9me3 repressed state and keeping endogenous
+retroviruses (ERVs) silenced. We propose that knockdown of TRIM28 during
+reprogramming results in more plastic H3K9me3 domains, dysregulation of genes
+nearby H3K9me3 marks, and up regulation of ERVs, thus facilitating the transition
+through reprogramming. Stem Cells 2017;35:147-157.
+
+© 2016 AlphaMed Press.
+
+DOI: 10.1002/stem.2453 
+PMID: 27350605  [Indexed for MEDLINE]
+

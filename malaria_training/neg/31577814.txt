@@ -1,0 +1,66 @@
+
+1. PLoS One. 2019 Oct 2;14(10):e0222915. doi: 10.1371/journal.pone.0222915.
+eCollection 2019.
+
+Application of metagenomic shotgun sequencing to detect vector-borne pathogens in
+clinical blood samples.
+
+Vijayvargiya P(1), Jeraldo PR(2)(3), Thoendel MJ(1), Greenwood-Quaintance KE(4), 
+Esquer Garrigos Z(1), Sohail MR(1), Chia N(2)(3), Pritt BS(4), Patel R(1)(4).
+
+Author information: 
+(1)Division of Infectious Diseases, Mayo Clinic, Rochester, Minnesota, United
+States of America.
+(2)Department of Surgery, Mayo Clinic, Rochester, Minnesota, United States of
+America.
+(3)Center for Individualized Medicine, Mayo Clinic, Rochester, Minnesota, United 
+States of America.
+(4)Division of Clinical Microbiology, Mayo Clinic, Rochester, Minnesota, United
+States of America.
+
+BACKGROUND: Vector-borne pathogens are a significant public health concern
+worldwide. Infections with these pathogens, some of which are emerging, are
+likely under-recognized due to the lack of widely-available laboratory tests.
+There is an urgent need for further advancement in diagnostic modalities to
+detect new and known vector-borne pathogens. We evaluated the utility of
+metagenomic shotgun sequencing (MGS) as a pathogen agnostic approach for
+detecting vector-borne pathogens from human blood samples.
+METHODS: Residual whole blood samples from patients with known infection with
+Babesia microti, Borrelia hermsii, Plasmodium falciparum, Mansonella perstans,
+Anaplasma phagocytophilum or Ehrlichia chaffeensis were studied. Samples
+underwent DNA extraction, removal of human DNA, whole genome amplification, and
+paired-end library preparation, followed by sequencing on Illumina HiSeq 2500.
+Bioinformatic analysis was performed using the Livermore Metagenomics Analysis
+Toolkit (LMAT), Metagenomic Phylogenetic Analysis (MetaPhlAn2), Genomic Origin
+Through Taxonomic CHAllenge (GOTTCHA) and Kraken 2.
+RESULTS: Eight samples were included in the study (2 samples each for P.
+falciparum and A. phagocytophilum). An average of 27.5 million read pairs was
+generated per sample (range, 18.3-38.8 million) prior to removal of human reads. 
+At least one of the analytic tools was able to detect four of six organisms at
+the genus level, and the organism present in five of eight specimens at the
+species level. Mansonella and Ehrlichia species were not detected by any of the
+tools; however, mitochondrial cytochrome c oxidase subunit I amino acid sequence 
+analysis suggested the presence of M. perstans genetic material.
+CONCLUSIONS: MGS is a promising tool with the potential to evolve as a
+non-hypothesis driven diagnostic test to detect vector-borne pathogens, including
+protozoa and helminths.
+
+DOI: 10.1371/journal.pone.0222915 
+PMCID: PMC6774502
+PMID: 31577814  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have read the journal's policy and
+the authors of this manuscript have the following competing interests: RP reports
+grants from CD Diagnostics, Merck, Hutchison Biofilm Medical Solutions,
+Accelerate Diagnostics, ContraFect, TenNor Therapeutics Limited and Shionogi. RP 
+is a paid consultant of Curetis, Specific Technologies, Next Gen Diagnostics,
+PathoQuest, and Qvella; monies are paid to Mayo Clinic. RP receives travel
+reimbursement from ASM and IDSA, an editor’s stipend from ASM and IDSA, and
+honoraria from the NBME, Up-to-Date and the Infectious Diseases Board Review
+Course. The authors would like to declare the following patents/patent
+applications, none of which are associated with this research: Bordetella
+pertussis/parapertussis PCR issued [8507201], a patent on a device/method for
+sonication with royalties paid by Samsung to Mayo Clinic [8076117], and a patent 
+on an anti-biofilm substance issued [8802414]. This does not alter our adherence 
+to PLOS ONE policies on sharing data and materials.
+

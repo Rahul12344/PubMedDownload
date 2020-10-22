@@ -1,0 +1,31 @@
+
+1. Proc Natl Acad Sci U S A. 2000 Sep 26;97(20):10966-71.
+
+Influence of follicular dendritic cells on decay of HIV during antiretroviral
+therapy.
+
+Hlavacek WS(1), Stilianakis NI, Notermans DW, Danner SA, Perelson AS.
+
+Author information: 
+(1)Theoretical Division, Los Alamos National Laboratory, Los Alamos, NM 87545,
+USA.
+
+Drug treatment of HIV type 1 (HIV-1) infection leads to a rapid initial decay of 
+plasma virus followed by a slower second phase of decay. To investigate the role 
+of HIV-1 retained on follicular dendritic cells (FDCs) in this process, we have
+developed and analyzed a mathematical model for HIV-1 dynamics in lymphoid tissue
+(LT) that includes FDCs. Analysis of clinical data using this model indicates
+that decay of HIV-1 during therapy may be influenced by release of FDC-associated
+virus. The biphasic character of viral decay can be explained by reversible
+multivalent binding of HIV-1 to receptors on FDCs, indicating that the second
+phase of decay is not necessarily caused by long-lived or latently infected
+cells. Furthermore, viral clearance and death of short-lived productively
+infected cells may be faster than previously estimated. The model, with
+reasonable parameter values, is consistent with kinetic measurements of viral RNA
+in plasma, viral RNA on FDCs, productively infected cells in LT, and CD4(+) T
+cells in LT during therapy.
+
+DOI: 10.1073/pnas.190065897 
+PMCID: PMC27132
+PMID: 10995459  [Indexed for MEDLINE]
+

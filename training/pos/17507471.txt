@@ -1,0 +1,39 @@
+
+1. J Virol. 2007 Aug;81(15):7974-84. Epub 2007 May 16.
+
+Distance-dependent processing of adeno-associated virus type 5 RNA is controlled 
+by 5' exon definition.
+
+Qiu J(1), Cheng F, Pintel D.
+
+Author information: 
+(1)Department of Molecular Microbiology and Immunology, University of
+Missouri--Columbia, School of Medicine, Life Sciences Center, Columbia, Missouri 
+65212, USA.
+
+Adeno-associated virus type 5 (AAV5) is unique among human AAV serotypes in that 
+it uses a polyadenylation site [(pA)p] within the single small intron in the
+center of the genome. We previously reported that inhibition of polyadenylation
+at (pA)p, necessary for read-through of P41-generated capsid gene pre-mRNAs which
+are subsequently spliced, requires binding of U1 snRNP to the upstream donor.
+Inhibition was reduced as the distance between the cap site and the donor was
+increased (increasing the size of the 5' exon). Here, we have demonstrated that
+U1-70K is a key component of U1 snRNP that mediates inhibition of polyadenylation
+at (pA)p. Furthermore, introduction of a U-rich stretch, predicted to target
+TIA-1 and thus increase the affinity of U1 snRNP binding to the intervening donor
+site, significantly augmented inhibition of (pA)p, while depletion of TIA-1 by
+siRNA increased (pA)p read-through. Finally, artificially tethering the cap
+binding complex (CBC) components CBP80 and CBP20 upstream of the intron donor
+increased inhibition of polyadenylation at (pA)p. Our results suggest that
+interaction with the CBC strengthens U1 snRNP binding to the downstream intron
+donor in a manner inversely proportional to the size of the 5' exon, thus
+governing the competition between intron splicing and polyadenylation at (pA)p.
+This competition must be optimized to program both the levels of polyadenylation 
+of P7- and P19-generated RNA at (pA)p required to produce proper levels of the
+essential Rep proteins and the splicing of P41-generated RNAs to produce the
+proper ratio of capsid proteins during AAV5 infection.
+
+DOI: 10.1128/JVI.00714-07 
+PMCID: PMC1951275
+PMID: 17507471  [Indexed for MEDLINE]
+

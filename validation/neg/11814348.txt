@@ -1,0 +1,40 @@
+
+1. Biochemistry. 2002 Feb 5;41(5):1545-55.
+
+The genome factor in region-specific DNA damage: the DNA-reactive drug U-78779
+prefers mixed A/T-G/C sequences at the nucleotide level but is region-specific
+for long pure AT islands at the genomic level.
+
+Herzig MC(1), Rodriguez KA, Trevino AV, Dziegielewski J, Arnett B, Hurley L,
+Woynarowski JM.
+
+Author information: 
+(1)Cancer Therapy and Research Center, 14960 Omicron Drive, San Antonio, Texas
+78245, USA.
+
+Bizelesin is the first anticancer drug capable of damaging specific regions of
+the genome with clusters of its binding sites T(A/T)(4)A. This study
+characterized the sequence- and region-specificity of a bizelesin analogue,
+U-78779, designed to interact with mixed A/T-G/C motifs. At the nucleotide level,
+U-78779 was found to prefer runs of A/Ts interspersed with 1 or 2 G/C pairs,
+although 25% of the identified sites corresponded to pure AT motifs similar to
+bizelesin sites. The in silico computational analysis showed that the preferred
+mixed A/T-G/C motifs distribute uniformly at the genomic level. In contrast, the 
+secondary, pure AT motifs (A/T)(6)A were found densely clustered in the same long
+islands of AT-rich DNA that bizelesin targets. Mapping the sites and quantitating
+the frequencies of U-78779 adducts in model AT island and non-AT island naked
+DNAs demonstrated that clusters of pure AT motifs outcompete isolated mixed
+A/T-G/C sites in attracting drug binding. Regional preference of U-78779 for AT
+island domains was verified also in DNA from drug-treated cells. Thus, while the 
+primary sequence preference gives rise to non-region-specific scattered lesions, 
+the clustering of the minor pure AT binding motifs seems to determine
+region-specificity of U-78779 in the human genome. The closely correlated
+cytotoxic activities of U-78779 and bizelesin in several cell lines further imply
+that both drugs may share common cellular targets. This study underscores the
+significance of the genome factor in a drug's potential for region-specific DNA
+damage, by showing that it can take precedence over drug binding preferences at
+the nucleotide level.
+
+DOI: 10.1021/bi011907s 
+PMID: 11814348  [Indexed for MEDLINE]
+

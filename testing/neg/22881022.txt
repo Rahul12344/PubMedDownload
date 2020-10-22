@@ -1,0 +1,37 @@
+
+1. Math Biosci Eng. 2012 Jul;9(3):461-85. doi: 10.3934/mbe.2012.9.461.
+
+Stochastic models for competing species with a shared pathogen.
+
+Allen LJ(1), Bokil VA.
+
+Author information: 
+(1)Department of Mathematics and Statistics, Texas Tech University, Lubbock, TX
+79409-1042, United States. lallen@math.ttu.edu
+
+The presence of a pathogen among multiple competing species has important
+ecological implications. For example, a pathogen may change the competitive
+outcome, resulting in replacement of a native species by a non-native species.
+Alternately, if a pathogen becomes established, there may be a drastic reduction 
+in species numbers. Stochastic variability in the birth, death and pathogen
+transmission processes plays an important role in determining the success of
+species or pathogen invasion. We investigate these phenomena while studying the
+dynamics of deterministic and stochastic models for n competing species with a
+shared pathogen. The deterministic model is a system of ordinary differential
+equations for n competing species in which a single shared pathogen is
+transmitted among the n species. There is no immunity from infection, individuals
+either die or recover and become immediately susceptible, an SIS disease model.
+Analytical results about pathogen persistence or extinction are summarized for
+the deterministic model for two and three species and new results about stability
+of the infection-free state and invasion by one species of a system of n-1
+species are obtained. New stochastic models are derived in the form of
+continuous-time Markov chains and stochastic differential equations. Branching
+process theory is applied to the continuous-time Markov chain model to estimate
+probabilities for pathogen extinction or species invasion. Finally, numerical
+simulations are conducted to explore the effect of disease on two-species
+competition, to illustrate some of the analytical results and to highlight some
+of the differences in the stochastic and deterministic models.
+
+DOI: 10.3934/mbe.2012.9.461 
+PMID: 22881022  [Indexed for MEDLINE]
+

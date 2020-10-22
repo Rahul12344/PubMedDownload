@@ -1,0 +1,59 @@
+
+1. mBio. 2017 Jun 27;8(3). pii: e00950-17. doi: 10.1128/mBio.00950-17.
+
+A Plastid Protein That Evolved from Ubiquitin and Is Required for Apicoplast
+Protein Import in Toxoplasma gondii.
+
+Fellows JD(1), Cipriano MJ(2), Agrawal S(1), Striepen B(3)(2).
+
+Author information: 
+(1)Department of Cellular Biology, University of Georgia, Athens, Georgia, USA.
+(2)Center for Tropical and Emerging Global Diseases, University of Georgia,
+Athens, Georgia, USA.
+(3)Department of Cellular Biology, University of Georgia, Athens, Georgia, USA
+striepen@uga.edu.
+
+Apicomplexan parasites cause a variety of important infectious diseases,
+including malaria, toxoplasma encephalitis, and severe diarrhea due to
+Cryptosporidium Most apicomplexans depend on an organelle called the apicoplast
+which is derived from a red algal endosymbiont. The apicoplast is essential for
+the parasite as the compartment of fatty acid, heme, and isoprenoid biosynthesis.
+The majority of the approximate 500 apicoplast proteins are nucleus encoded and
+have to be imported across the four membranes that surround the apicoplast.
+Import across the second outermost membrane of the apicoplast, the periplastid
+membrane, depends on an apicoplast-specific endoplasmic reticulum-associated
+protein degradation (ERAD) complex and on enzymes of the associated
+ubiquitination cascade. However, identification of an apicoplast ubiquitin
+associated with this machinery has long been elusive. Here we identify a plastid 
+ubiquitin-like protein (PUBL), an apicoplast protein that is derived from a
+ubiquitin ancestor but that has significantly changed in its primary sequence.
+PUBL is distinct from known ubiquitin-like proteins, and phylogenomic analyses
+suggest a clade specific to apicomplexans. We demonstrate that PUBL and the AAA
+ATPase CDC48AP both act to translocate apicoplast proteins across the periplastid
+membrane during protein import. Conditional null mutants and genetic
+complementation show that both proteins are critical for this process and for
+parasite survival. PUBL residues homologous to those that are required for
+ubiquitin conjugation onto target proteins are essential for this function, while
+those required for polyubiquitination and preprotein processing are dispensable. 
+Our experiments provide a mechanistic understanding of the molecular machinery
+that drives protein import across the membranes of the apicoplast.IMPORTANCE
+Apicomplexan parasites are responsible for important human diseases. There are no
+effective vaccines for use in humans, and drug treatment faces multiple
+challenges, including emerging resistance, lack of efficacy across the lifecycle,
+and adverse drug effects. The apicoplast is a promising target for novel
+treatments: this chloroplast-like organelle is derived from an algal symbiont, is
+absent from the host, and is essential for parasite growth and pathogenesis. We
+use Toxoplasma gondii as a model to study the apicoplast due to its strong
+genetic tools and established functional assays. We identify a plastid
+ubiquitin-like protein (PUBL) which is a novel ubiquitin-like protein and
+demonstrate its importance and that of the motor protein CDC48AP for apicoplast
+protein import. These findings broaden our understanding of the evolution and
+mechanistic workings of a unique parasite organelle and may lead to new
+opportunities for treatments against important human pathogens.
+
+Copyright © 2017 Fellows et al.
+
+DOI: 10.1128/mBio.00950-17 
+PMCID: PMC5487736
+PMID: 28655825  [Indexed for MEDLINE]
+

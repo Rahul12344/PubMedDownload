@@ -1,0 +1,50 @@
+
+1. PLoS One. 2014 Sep 26;9(9):e108430. doi: 10.1371/journal.pone.0108430.
+eCollection 2014.
+
+Simulation modelling of population dynamics of mosquito vectors for rift valley
+Fever virus in a disease epidemic setting.
+
+Mweya CN(1), Holst N(2), Mboera LE(3), Kimera SI(4).
+
+Author information: 
+(1)National Institute for Medical Research, Tukuyu, Tanzania; Department of
+Veterinary Medicine and Public Health, Sokoine University of Agriculture,
+Morogoro, Tanzania.
+(2)Department of Agroecology, Aarhus University, Slagelse, Denmark.
+(3)National Institute for Medical Research, Dar es salaam, Tanzania.
+(4)Department of Veterinary Medicine and Public Health, Sokoine University of
+Agriculture, Morogoro, Tanzania.
+
+BACKGROUND: Rift Valley Fever (RVF) is weather dependent arboviral infection of
+livestock and humans. Population dynamics of mosquito vectors is associated with 
+disease epidemics. In our study, we use daily temperature and rainfall as model
+inputs to simulate dynamics of mosquito vectors population in relation to disease
+epidemics.
+METHODS/FINDINGS: Time-varying distributed delays (TVDD) and multi-way functional
+response equations were implemented to simulate mosquito vectors and hosts
+developmental stages and to establish interactions between stages and phases of
+mosquito vectors in relation to vertebrate hosts for infection introduction in
+compartmental phases. An open-source modelling platforms, Universal Simulator and
+Qt integrated development environment were used to develop models in C++
+programming language. Developed models include source codes for mosquito
+fecundity, host fecundity, water level, mosquito infection, host infection,
+interactions, and egg time. Extensible Markup Language (XML) files were used as
+recipes to integrate source codes in Qt creator with Universal Simulator plug-in.
+We observed that Floodwater Aedines and Culicine population continued to
+fluctuate with temperature and water level over simulation period while
+controlled by availability of host for blood feeding. Infection in the system was
+introduced by floodwater Aedines. Culicines pick infection from infected host
+once to amplify disease epidemic. Simulated mosquito population show sudden
+unusual increase between December 1997 and January 1998 a similar period when RVF
+outbreak occurred in Ngorongoro district.
+CONCLUSION/SIGNIFICANCE: Findings presented here provide new opportunities for
+weather-driven RVF epidemic simulation modelling. This is an ideal approach for
+understanding disease transmission dynamics towards epidemics prediction,
+prevention and control. This approach can be used as an alternative source for
+generation of calibrated RVF epidemics data in different settings.
+
+DOI: 10.1371/journal.pone.0108430 
+PMCID: PMC4178157
+PMID: 25259792  [Indexed for MEDLINE]
+

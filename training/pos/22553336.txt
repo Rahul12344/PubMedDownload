@@ -1,0 +1,39 @@
+
+1. J Virol. 2012 Jul;86(14):7530-43. doi: 10.1128/JVI.07021-11. Epub 2012 May 2.
+
+The human T-lymphotropic virus type 1 tax protein inhibits nonsense-mediated mRNA
+decay by interacting with INT6/EIF3E and UPF1.
+
+Mocquet V(1), Neusiedler J, Rende F, Cluet D, Robin JP, Terme JM, Duc Dodon M,
+Wittmann J, Morris C, Le Hir H, Ciminale V, Jalinot P.
+
+Author information: 
+(1)Laboratoire de Biologie Moléculaire de la Cellule, Unité Mixte de Recherche
+5239, Centre National de la Recherche Scientifique, Ecole Normale Supérieure de
+Lyon, Lyon, France.
+
+In this report, we analyzed whether the degradation of mRNAs by the
+nonsense-mediated mRNA decay (NMD) pathway was affected in human T-lymphotropic
+virus type 1 (HTLV-1)-infected cells. This pathway was indeed strongly inhibited 
+in C91PL, HUT102, and MT2 cells, and such an effect was also observed by the sole
+expression of the Tax protein in Jurkat and HeLa cells. In line with this
+activity, Tax binds INT6/EIF3E (here called INT6), which is a subunit of the
+translation initiation factor eukaryotic initiation factor 3 (eIF3) required for 
+efficient NMD, as well as the NMD core factor upstream frameshift protein 1
+(UPF1). It was also observed that Tax expression alters the morphology of
+processing bodies (P-bodies), the cytoplasmic structures which concentrate RNA
+degradation factors. The presence of UPF1 in these subcellular compartments was
+increased by Tax, whereas that of INT6 was decreased. In line with these effects,
+the level of the phosphorylated form of UPF1 was increased in the presence of
+Tax. Analysis of several mutants of the viral protein showed that the interaction
+with INT6 is necessary for NMD inhibition. The alteration of mRNA stability was
+observed to affect viral transcripts, such as that coding for the HTLV-1 basic
+leucine zipper factor (HBZ), and also several cellular mRNAs sensitive to the NMD
+pathway. Our data indicate that the effect of Tax on viral and cellular gene
+expression is not restricted to transcriptional control but can also involve
+posttranscriptional regulation.
+
+DOI: 10.1128/JVI.07021-11 
+PMCID: PMC3416306
+PMID: 22553336  [Indexed for MEDLINE]
+

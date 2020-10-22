@@ -1,0 +1,49 @@
+
+1. Cell Host Microbe. 2014 Jul 9;16(1):31-42. doi: 10.1016/j.chom.2014.06.008.
+
+Measles virus suppresses RIG-I-like receptor activation in dendritic cells via
+DC-SIGN-mediated inhibition of PP1 phosphatases.
+
+Mesman AW(1), Zijlstra-Willems EM(1), Kaptein TM(1), de Swart RL(2), Davis ME(3),
+Ludlow M(4), Duprex WP(4), Gack MU(3), Gringhuis SI(5), Geijtenbeek TB(6).
+
+Author information: 
+(1)Department of Experimental Immunology, Academic Medical Center, University of 
+Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands.
+(2)Department of Virology, Erasmus MC, 's-Gravendijkwal 230, 3015 CA Rotterdam,
+the Netherlands.
+(3)Department of Microbiology and Immunobiology, Harvard Medical School, Boston, 
+MA 02115, USA.
+(4)Department of Microbiology, Boston University, School of Medicine, Boston, MA 
+02118, USA.
+(5)Department of Experimental Immunology, Academic Medical Center, University of 
+Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands. Electronic
+address: s.i.gringhuis@amc.uva.nl.
+(6)Department of Experimental Immunology, Academic Medical Center, University of 
+Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, the Netherlands. Electronic
+address: t.b.geijtenbeek@amc.uva.nl.
+
+Comment in
+    Cell Host Microbe. 2014 Jul 9;16(1):1-2.
+
+Dendritic cells (DCs) are targets of measles virus (MV) and play central roles in
+viral dissemination. However, DCs express the RIG-I-like receptors (RLRs) RIG-I
+and Mda5 that sense MV and induce type I interferon (IFN) production. Given the
+potency of this antiviral response, RLRs are tightly regulated at various steps, 
+including dephosphorylation by PP1 phosphatases, which induces their activation. 
+We demonstrate that MV suppresses RIG-I and Mda5 by activating the C-type lectin 
+DC-SIGN and inducing signaling that prevents RLR dephosphorylation. MV binding to
+DC-SIGN leads to activation of the kinase Raf-1, which induces the association of
+PP1 inhibitor I-1 with GADD34-PP1 holoenzymes, thereby inhibiting phosphatase
+activity. Consequently, GADD34-PP1 holoenzymes are unable to dephosphorylate
+RIG-I and Mda5, hence suppressing type I IFN responses and enhancing MV
+replication. Blocking DC-SIGN signaling allows RLR activation and suppresses MV
+infection of DCs. Thus, MV subverts DC-SIGN to control RLR activation and escape 
+antiviral responses.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chom.2014.06.008 
+PMCID: PMC4159752
+PMID: 25011106  [Indexed for MEDLINE]
+

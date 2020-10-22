@@ -1,0 +1,40 @@
+
+1. J Immunother. 2011 May;34(4):343-52. doi: 10.1097/CJI.0b013e3182187600.
+
+Genetic engineering of murine CD8+ and CD4+ T cells for preclinical adoptive
+immunotherapy studies.
+
+Kerkar SP(1), Sanchez-Perez L, Yang S, Borman ZA, Muranski P, Ji Y, Chinnasamy D,
+Kaiser AD, Hinrichs CS, Klebanoff CA, Scott CD, Gattinoni L, Morgan RA, Rosenberg
+SA, Restifo NP.
+
+Author information: 
+(1)Surgery Branch, Center for Cancer Research, National Cancer Institute,
+National Institutes of Health, Bethesda, MD 20892, USA.
+
+T-cell receptor (TCR) gene therapy enables for the rapid creation of
+antigen-specific T cells from mice of any strain and represents a valuable tool
+for preclinical immunotherapy studies. Here, we describe the superiority of
+γ-retroviral vectors compared with lentiviral vectors for transduction of murine 
+T cells and surprisingly illustrate robust gene-transfer into phenotypically
+naive/memory-stem cell like (TN/TSCM; CD62L(hi)/CD44(low)) and central memory
+(TCM; CD62L(hi)/CD44(hi)) CD8+ T cells using murine stem cell-based γ-retroviral 
+vectors (MSGV1). We created MSGV1 vectors for a major histocompatibility
+complex-class I-restricted TCR specific for the melanocyte-differentiation
+antigen, glycoprotein 100 (MSGV1-pmel-1), and a major histocompatibility
+complex-class II-restricted TCR specific for tyrosinase-related protein-1
+(MSGV1-TRP-1), and found that robust gene expression required codon optimization 
+of TCR sequences for the pmel-1 TCR. To test for functionality, we adoptively
+transferred TCR-engineered T cells into mice bearing B16 melanomas and observed
+delayed growth of established tumors with pmel-1 TCR engineered CD8+ T cells and 
+significant tumor regression with TRP-1 TCR transduced CD4 T cells. We
+simultaneously created lentiviral vectors encoding the pmel-1 TCR, but found that
+these vectors mediated low TCR expression in murine T cells, but robust gene
+expression in other murine and human cell lines. These results indicate that
+preclinical murine models of adoptive immunotherapies are more practical using
+γ-retroviral rather than lentiviral vectors.
+
+DOI: 10.1097/CJI.0b013e3182187600 
+PMCID: PMC3100770
+PMID: 21499127  [Indexed for MEDLINE]
+

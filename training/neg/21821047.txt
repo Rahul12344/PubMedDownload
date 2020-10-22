@@ -1,0 +1,42 @@
+
+1. J Mol Biol. 2011 Sep 23;412(3):354-64. doi: 10.1016/j.jmb.2011.07.055. Epub 2011 
+Jul 29.
+
+HIV-1 reverse transcriptase dissociates during strand transfer.
+
+Muchiri JM(1), Rigby ST, Nguyen LA, Kim B, Bambara RA.
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Rochester School of
+Medicine and Dentistry, Rochester, NY 14642, USA.
+
+Steps in the replication of human immunodeficiency virus type 1 (HIV-1) occurring
+in the virus but not in the host are preferred targets of antiretroviral therapy.
+Strand transfer is unique; the DNA strand being made by viral reverse
+transcriptase (RT) is moved from one RNA template position to another.
+Understanding the mechanism requires knowing whether the RT directly mediates the
+template exchange or dissociates during the exchange, so that it occurs by
+polymer dynamics. Earlier work in vitro showed that the presence of an
+RT-trapping polymer would allow synthesis on the original or donor template but
+completely block transfer and subsequent synthesis on the second or acceptor
+template. One interpretation is that the RT must dissociate during transfer, but 
+an alternative is that sequestration of non-polymerizing RTs prevents
+polymerization-independent ribonuclease H (RNase H) cleavages of the donor
+template necessary for strand exchange. To resolve this ambiguity, we designed a 
+primer-template system that allows strand transfer without RNase H activity.
+Using an RNase H negative mutant RT, we showed that a polymer trap still
+prevented strand transfer. This confirms that RT dissociates during strand
+transfer. The presence of HIV-1 nucleocapsid protein, which promotes strand
+exchange, had little effect on this outcome. Additional assays showed that both
+the wild-type RT and a multiple nucleoside RT inhibitor-resistant HIV-1 RT
+containing an extended fingers domain, which is characterized by its enhanced
+primer-template binding affinity, were unable to transfer with the trapping
+polymer. This implies that common sequence variations among RTs are unlikely to
+alter dissociation feature.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jmb.2011.07.055 
+PMCID: PMC3166975
+PMID: 21821047  [Indexed for MEDLINE]
+

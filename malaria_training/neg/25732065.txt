@@ -1,0 +1,38 @@
+
+1. Cell Host Microbe. 2015 Mar 11;17(3):404-413. doi: 10.1016/j.chom.2015.01.014.
+Epub 2015 Feb 26.
+
+A genome-scale vector resource enables high-throughput reverse genetic screening 
+in a malaria parasite.
+
+Gomes AR(1), Bushell E(1), Schwach F(1), Girling G(1), Anar B(1), Quail MA(1),
+Herd C(1), Pfander C(1), Modrzynska K(1), Rayner JC(2), Billker O(3).
+
+Author information: 
+(1)Wellcome Trust Sanger Institute, Hinxton Cambridge CB10 1SA, UK.
+(2)Wellcome Trust Sanger Institute, Hinxton Cambridge CB10 1SA, UK. Electronic
+address: julian.rayner@sanger.ac.uk.
+(3)Wellcome Trust Sanger Institute, Hinxton Cambridge CB10 1SA, UK. Electronic
+address: oliver.billker@sanger.ac.uk.
+
+The genome-wide identification of gene functions in malaria parasites is hampered
+by a lack of reverse genetic screening methods. We present a large-scale resource
+of barcoded vectors with long homology arms for effective modification of the
+Plasmodium berghei genome. Cotransfecting dozens of vectors into the haploid
+blood stages creates complex pools of barcoded mutants, whose competitive fitness
+can be measured during infection of a single mouse using barcode sequencing
+(barseq). To validate the utility of this resource, we rescreen the P. berghei
+kinome, using published kinome screens for comparison. We find that several
+protein kinases function redundantly in asexual blood stages and confirm the
+targetability of kinases cdpk1, gsk3, tkl3, and PBANKA_082960 by genotyping
+cloned mutants. Thus, parallel phenotyping of barcoded mutants unlocks the power 
+of reverse genetic screening for a malaria parasite and will enable the
+systematic identification of genes essential for in vivo parasite growth and
+transmission.
+
+Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chom.2015.01.014 
+PMCID: PMC4362957
+PMID: 25732065  [Indexed for MEDLINE]
+

@@ -1,0 +1,33 @@
+
+1. Eur Biophys J. 2018 May;47(4):427-442. doi: 10.1007/s00249-018-1306-2. Epub 2018 
+May 21.
+
+Why, so far, have epidemics always eventually petered out? Quasispecies theory
+suggests a (testable!) answer.
+
+Dress A(1)(2)(3).
+
+Author information: 
+(1)CAS-MPG Partner Institute for Computational Biology, Shanghai, China.
+andreas@mathematik.uni-bielefeld.de.
+(2)Wiss. Zentrum@ vitroconnect-systems GmbH, Gütersloh, Germany.
+andreas@mathematik.uni-bielefeld.de.
+(3)Fakultät für Mathematik, Universität Bielefeld, Bielefeld, Germany.
+andreas@mathematik.uni-bielefeld.de.
+
+In this paper, it is argued that the fact that, so far, even the worst and most
+far-reaching epidemics-from the Plague of Athens in 430 BC and the Plague of
+Justinian in 541/542 AD to the Hong Kong Flu from 1968/69-always finally petered 
+out can be explained using Manfred Eigen's quasispecies concept: Indeed, as the
+infectious agents, while duplicating themselves in the infected organisms, mutate
+all the time, these infected organisms carry along quite a multitude of
+mutational variants or-in Manfred Eigen's terms-a whole quasispecies of
+infectious agents implying that, within that quasispecies, those variants that
+differ from the wild type may actually serve as some kind of vaccination program 
+when infecting some previously uninfected persons. In this context, some data
+regarding various recent epidemics will also be illustrated, using Daniel Huson's
+SplitsTree software tool.
+
+DOI: 10.1007/s00249-018-1306-2 
+PMID: 29785509  [Indexed for MEDLINE]
+

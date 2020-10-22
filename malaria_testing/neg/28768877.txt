@@ -1,0 +1,61 @@
+
+1. J Virol. 2017 Sep 27;91(20). pii: e01184-17. doi: 10.1128/JVI.01184-17. Print
+2017 Oct 15.
+
+Immunodominance of Adenovirus-Derived CD8+ T Cell Epitopes Interferes with the
+Induction of Transgene-Specific Immunity in Adenovirus-Based Immunization.
+
+Schöne D(1), Hrycak CP(1), Windmann S(1), Lapuente D(2)(3), Dittmer U(1),
+Tenbusch M(2)(3), Bayer W(4).
+
+Author information: 
+(1)Institute for Virology, University Hospital Essen, University Duisburg-Essen, 
+Essen, Germany.
+(2)Department of Molecular and Medical Virology, Institute for Microbiology, Ruhr
+University Bochum, Bochum, Germany.
+(3)Institute for Virology, University Erlangen, Erlangen, Germany.
+(4)Institute for Virology, University Hospital Essen, University Duisburg-Essen, 
+Essen, Germany wibke.bayer@uni-due.de.
+
+Adenovirus (Ad)-based immunization is a popular approach in vaccine development, 
+and Ad-based vectors are renowned for their potential to induce strong CD8+ T
+cell responses to the encoded transgene. Surprisingly, we previously found in the
+mouse Friend retrovirus (FV) model that Ad-based immunization did not induce CD8+
+T cell responses to the FV Leader-Gag-derived immunodominant epitope GagL85-93 We
+show now that induction of GagL85-93-specific CD8+ T cells was highly effective
+when leader-Gag was delivered by plasmid DNA immunization, implying a role for
+Ad-derived epitopes in mediating unresponsiveness. By immunizing with DNA
+constructs encoding strings of GagL85-93 and the two Ad-derived epitopes
+DNA-binding protein418-426 (DBP418-426) and hexon486-494, we confirmed that Ad
+epitopes prevent induction of GagL85-93-specific CD8+ T cells. Interestingly,
+while DBP418-426 did not interfere with GagL85-93-specific CD8+ T cell induction,
+the H-2Dd-restricted hexon486-494 suppressed the CD8+ T cell response to the
+H-2Db-restricted GagL85-93 strongly in H-2b/d mice but not in H-2b/b mice. This
+finding indicates that competition occurs at the level of responding CD8+ T
+cells, and we could indeed demonstrate that coimmunization with an interleukin 2 
+(IL-2)-encoding plasmid restored GagL85-93-specific CD8+ T cell responses to
+epitope strings in the presence of hexon486-494 IL-2 codelivery did not restore
+GagL85-93 responsiveness in Ad-based immunization, however, likely due to the
+presence of further epitopes in the Ad vector. Our findings show that seemingly
+immunodominant transgene epitopes can be dominated by Ad-derived epitopes. These 
+findings underline the importance of thorough characterization of vaccine
+vectors, and modifications of vectors or immunogens may be required to prevent
+impaired transgene-specific immune responses.IMPORTANCE Ad-based vectors are
+widely used in experimental preclinical and clinical immunization studies against
+numerous infectious agents, such as human immunodeficiency virus, Ebola virus,
+Plasmodium falciparum, or Mycobacterium tuberculosis Preexisting immunity to
+Ad-based vectors is widely recognized as a hindrance to the widespread use of
+Ad-based vectors for immunizations in humans; however, our data show that an
+immune response to Ad-derived T cell epitopes can also result in loss or
+impairment of transgene-specific immune responses in prenaive vaccinees due to
+immune competition. Our results highlight that seemingly immunodominant epitopes 
+may be affected by dominance of vector-derived epitopes, and modifications of the
+vector design or the immunogens employed in immunization may lead to more
+effective vaccines.
+
+Copyright © 2017 American Society for Microbiology.
+
+DOI: 10.1128/JVI.01184-17 
+PMCID: PMC5625516
+PMID: 28768877  [Indexed for MEDLINE]
+

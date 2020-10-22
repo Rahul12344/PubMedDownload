@@ -1,0 +1,47 @@
+
+1. Gene. 2013 Apr 10;518(1):7-16. doi: 10.1016/j.gene.2012.11.092. Epub 2012 Dec 26.
+
+Co-expression network with protein-protein interaction and transcription
+regulation in malaria parasite Plasmodium falciparum.
+
+Yu FD(1), Yang SY, Li YY, Hu W.
+
+Author information: 
+(1)School of Life Sciences, Fudan University, 220 Handan Road, Shanghai 200433,
+PR China. fudongyu@gmail.com
+
+BACKGROUND: Malaria continues to be one of the most severe global infectious
+diseases, as a major threat to human health and economic development.
+Network-based biological analysis is a promising approach to uncover key genes
+and biological processes from a network viewpoint, which could not be recognized 
+from individual gene-based signatures.
+RESULTS: We integrated gene co-expression profile with protein-protein
+interaction and transcriptional regulation information to construct a
+comprehensive gene co-expression network of Plasmodium falciparum. Based on this 
+network, we identified 10 core modules by using ICE (Iterative Clique
+Enumeration) algorithm, which were essential for malaria parasite development in 
+intraerythrocytic developmental cycle (IDC) stages. In each module, all genes
+were highly correlated probably due to co-regulation or formation of a protein
+complex. Some of these genes were recognized to be differentially coexpressed
+among three close-by IDC stages. The gene of prpf8 (PFD0265w) encoding pre-mRNA
+processing splicing factor 8 product was identified as DCGs (differentially
+co-expressed genes) among IDC stages, although this gene function was seldom
+reported in previous researches. Integrating the species-specific gene prediction
+and differential co-expression gene detection, we found some modules could
+perform species-specific functions according to some of genes in these modules
+were species-specific genes, like the module 10. Furthermore, in order to reveal 
+the underlying mechanisms of the erythrocyte invasion by P. falciparum, Steiner
+Tree algorithm was employed to identify the invasion subnetwork from our gene
+co-expression network. The subnetwork-based analysis indicated that some
+important Plasmodium parasite specific genes could corporate with each other and 
+be co-regulated during the parasite invasion process, which including a
+head-to-head gene pair of PfRH2a (PF13_0198) and PfRH2b (MAL13P1.176).
+CONCLUSIONS: This study based on gene co-expression network could shed new
+insights on the mechanisms of pathogenesis, even virulence and P. falciparum
+development.
+
+Crown Copyright © 2012. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.gene.2012.11.092 
+PMID: 23274650  [Indexed for MEDLINE]
+

@@ -1,0 +1,51 @@
+
+1. BMC Genomics. 2013 Apr 15;14:256. doi: 10.1186/1471-2164-14-256.
+
+Changes in the transcriptome of the malaria parasite Plasmodium falciparum during
+the initial phase of transmission from the human to the mosquito.
+
+Ngwa CJ(1), Scheuermayer M, Mair GR, Kern S, Brügl T, Wirth CC, Aminake MN,
+Wiesner J, Fischer R, Vilcinskas A, Pradel G.
+
+Author information: 
+(1)Research Center for Infectious Diseases, University of Würzburg,
+Josef-Schneider-Strasse 2/D15, 97080 Würzburg, Germany.
+
+BACKGROUND: The transmission of the malaria parasite Plasmodium falciparum from
+the human to the mosquito is mediated by dormant sexual precursor cells, the
+gametocytes, which become activated in the mosquito midgut. Because gametocytes
+are the only parasite stages able to establish an infection in the mosquito, they
+play a crucial role in spreading the tropical disease. The human-to-mosquito
+transmission triggers important molecular changes in the gametocytes, which
+initiate gametogenesis and prepare the parasite for life-cycle progression in the
+insect vector.
+RESULTS: To better understand gene regulations during the initial phase of
+malaria parasite transmission, we focused on the transcriptome changes that occur
+within the first half hour of parasite development in the mosquito. Comparison of
+mRNA levels of P. falciparum gametocytes before and 30 min following activation
+using suppression subtractive hybridization (SSH) identified 126 genes, which
+changed in expression during gametogenesis. Among these, 17.5% had putative
+functions in signaling, 14.3% were assigned to cell cycle and gene expression,
+8.7% were linked to the cytoskeleton or inner membrane complex, 7.9% were
+involved in proteostasis and 6.4% in metabolism, 12.7% were cell
+surface-associated proteins, 11.9% were assigned to other functions, and 20.6%
+represented genes of unknown function. For 40% of the identified genes there has 
+as yet not been any protein evidence.For a subset of 27 genes, transcript changes
+during gametogenesis were studied in detail by real-time RT-PCR. Of these, 22
+genes were expressed in gametocytes, and for 15 genes transcript expression in
+gametocytes was increased compared to asexual blood stage parasites. Transcript
+levels of seven genes were particularly high in activated gametocytes, pointing
+at functions downstream of gametocyte transmission to the mosquito. For selected 
+genes, a regulated expression during gametogenesis was confirmed on the protein
+level, using quantitative confocal microscopy.
+CONCLUSIONS: The obtained transcriptome data demonstrate the regulations of gene 
+expression immediately following malaria parasite transmission to the mosquito.
+Our findings support the identification of proteins important for sexual
+reproduction and further development of the mosquito midgut stages and provide
+insights into the genetic basis of the rapid adaption of Plasmodium to the insect
+vector.
+
+DOI: 10.1186/1471-2164-14-256 
+PMCID: PMC3640944
+PMID: 23586929  [Indexed for MEDLINE]
+

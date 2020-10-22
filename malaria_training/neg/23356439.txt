@@ -1,0 +1,40 @@
+
+1. Cell Microbiol. 2013 Jul;15(7):1266-83. doi: 10.1111/cmi.12116. Epub 2013 Feb 27.
+
+Perturbations of Plasmodium Puf2 expression and RNA-seq of Puf2-deficient
+sporozoites reveal a critical role in maintaining RNA homeostasis and parasite
+transmissibility.
+
+Lindner SE(1), Mikolajczak SA, Vaughan AM, Moon W, Joyce BR, Sullivan WJ Jr,
+Kappe SH.
+
+Author information: 
+(1)Seattle Biomedical Research Institute, Seattle, WA 98109, USA.
+
+Malaria's cycle of infection requires parasite transmission between a mosquito
+vector and a mammalian host. We here demonstrate that the Plasmodium yoelii
+Pumilio-FBF family member Puf2 allows the sporozoite to remain infectious in the 
+mosquito salivary glands while awaiting transmission. Puf2 mediates this solely
+through its RNA-binding domain (RBD) likely by stabilizing or hastening the
+degradation of specific mRNAs. Puf2 traffics to sporozoite cytosolic granules,
+which are negative for several markers of stress granules and P-bodies, and
+disappear rapidly after infection of hepatocytes. In contrast to previously
+described Plasmodium berghei pbpuf2(-) parasites, pypuf2(-) sporozoites have no
+apparent defect in host infection when tested early in salivary gland residence, 
+but become progressively non-infectious and prematurely transform into EEFs
+during prolonged salivary gland residence. The premature overexpression of Puf2
+in oocysts causes striking deregulation of sporozoite maturation and infectivity 
+while extension of Puf2 expression in liverstages causes no defect, suggesting
+that the presence of Puf2 alone is not sufficient for its functions. Finally, by 
+conducting the first comparative RNA-seq analysis of Plasmodium sporozoites, we
+find that Puf2 may play a role in directly or indirectly maintaining the
+homeostasis of specific transcripts. These findings uncover requirements for
+maintaining a window of opportunity for the malaria parasite to accommodate the
+unpredictable moment of transmission from mosquito to mammalian host.
+
+© 2013 John Wiley & Sons Ltd.
+
+DOI: 10.1111/cmi.12116 
+PMCID: PMC3815636
+PMID: 23356439  [Indexed for MEDLINE]
+

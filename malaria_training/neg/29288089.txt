@@ -1,0 +1,73 @@
+
+1. J Proteomics. 2018 Mar 1;174:47-60. doi: 10.1016/j.jprot.2017.12.016. Epub 2017
+Dec 27.
+
+Exploring the molecular complexity of Triatoma dimidiata sialome.
+
+Santiago PB(1), de Araújo CN(2), Charneau S(3), Bastos IMD(3), Assumpção TCF(4), 
+Queiroz RML(3), Praça YR(1), Cordeiro TM(3), Garcia CHS(3), da Silva IG(5), Raiol
+T(6), Motta FN(7), de Araújo Oliveira JV(8), de Sousa MV(3), Ribeiro JMC(4), de
+Santana JM(9).
+
+Author information: 
+(1)Programa Pós-Graduação em Ciências Médicas, Faculty of Medicine, The
+University of Brasília, Brasília, Brazil.
+(2)Programa Pós-Graduação em Ciências Médicas, Faculty of Medicine, The
+University of Brasília, Brasília, Brazil; Faculty of Ceilândia, The University of
+Brasília, Brasília, Brazil. Electronic address: cnunes@unb.br.
+(3)Department of Cell Biology, The University of Brasília, Brasília, Brazil.
+(4)Vector Biology Section, Laboratory of Malaria and Vector Research, National
+Institute of Allergy and Infectious Disease, Rockville, United States.
+(5)Department of Parasitology, The University of Goiás, Brazil.
+(6)Department of Cell Biology, The University of Brasília, Brasília, Brazil;
+Instituto Leônidas e Maria Deane - Fiocruz Amazônia, Manaus, AM, Brazil.
+(7)Faculty of Ceilândia, The University of Brasília, Brasília, Brazil.
+(8)Department of Computer Science, The University of Brasília, Brasília, Brazil.
+(9)Programa Pós-Graduação em Ciências Médicas, Faculty of Medicine, The
+University of Brasília, Brasília, Brazil; Department of Cell Biology, The
+University of Brasília, Brasília, Brazil.
+
+Triatoma dimidiata, a Chagas disease vector widely distributed along Central
+America, has great capability for domestic adaptation as the majority of
+specimens caught inside human dwellings or in peridomestic areas fed human blood.
+Exploring the salivary compounds that overcome host haemostatic and immune
+responses is of great scientific interest. Here, we provide a deeper insight into
+its salivary gland molecules. We used high-throughput RNA sequencing to examine
+in depth the T. dimidiata salivary gland transcriptome. From >51 million reads
+assembled, 92.21% are related to putative secreted proteins. Lipocalin is the
+most abundant gene family, confirming it is an expanded family in Triatoma genus 
+salivary repertoire. Other putatively secreted members include phosphatases,
+odorant binding protein, hemolysin, proteases, protease inhibitors, antigen-5 and
+antimicrobial peptides. This work expands the previous set of functionally
+annotated sequences from T. dimidiata salivary glands available in NCBI from 388 
+to 3815. Additionally, we complemented the salivary analysis through proteomics
+(available data via ProteomeXchange with identifier PXD008510), disclosing the
+set complexity of 119 secreted proteins and validating the transcriptomic
+results. Our large-scale approach enriches the pharmacologically active molecules
+database and improves our knowledge about the complexity of salivary compounds
+from haematophagous vectors and their biological interactions.SIGNIFICANCE:
+Several haematophagous triatomine species can transmit Trypanosoma cruzi, the
+etiological agent of Chagas disease. Due to the reemergence of this disease, new 
+drugs for its prevention and treatment are considered priorities. For this
+reason, the knowledge of vector saliva emerges as relevant biological finding,
+contributing to the design of different strategies for vector control and disease
+transmission. Here we report the transcriptomic and proteomic compositions of the
+salivary glands (sialome) of the reduviid bug Triatoma dimidiata, a relevant
+Chagas disease vector in Central America. Our results are robust and disclosed
+unprecedented insights into the notable diversity of its salivary glands content,
+revealing relevant anti-haemostatic salivary gene families. Our work expands
+almost ten times the previous set of functionally annotated sequences from T.
+dimidiata salivary glands available in NCBI. Moreover, using an integrated
+transcriptomic and proteomic approach, we showed a correlation pattern of
+transcription and translation processes for the main gene families found, an
+important contribution to the research of triatomine sialomes. Furthermore, data 
+generated here reinforces the secreted proteins encountered can greatly
+contribute for haematophagic habit, Trypanosoma cruzi transmission and
+development of therapeutic agent studies.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jprot.2017.12.016 
+PMCID: PMC5803406
+PMID: 29288089  [Indexed for MEDLINE]
+

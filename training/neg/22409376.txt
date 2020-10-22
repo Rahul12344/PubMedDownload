@@ -1,0 +1,42 @@
+
+1. Biochemistry. 2012 Apr 3;51(13):2899-910. doi: 10.1021/bi201791s. Epub 2012 Mar
+22.
+
+Structural studies of E73 from a hyperthermophilic archaeal virus identify the
+"RH3" domain, an elaborated ribbon-helix-helix motif involved in DNA recognition.
+
+Schlenker C(1), Goel A, Tripet BP, Menon S, Willi T, Dlakić M, Young MJ, Lawrence
+CM, Copié V.
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, Montana State University, Bozeman,
+Montana 59717, United States.
+
+Hyperthermophilic archaeal viruses, including Sulfolobus spindle-shaped viruses
+(SSVs) such as SSV-1 and SSV-Ragged Hills, exhibit remarkable morphology and
+genetic diversity. However, they remain poorly understood, in part because their 
+genomes exhibit limited or unrecognizable sequence similarity to genes with known
+function. Here we report structural and functional studies of E73, a 73-residue
+homodimeric protein encoded within the SSV-Ragged Hills genome. Despite lacking
+significant sequence similarity, the nuclear magnetic resonance (NMR) structure
+reveals clear similarity to ribbon-helix-helix (RHH) domains present in numerous 
+proteins involved in transcriptional regulation. In vitro double-stranded DNA
+(dsDNA) binding experiments confirm the ability of E73 to bind dsDNA in a
+nonspecific manner with micromolar affinity, and characterization of the K11E
+variant confirms the location of the predicted DNA binding surface. E73 is
+distinct, however, from known RHH domains. The RHH motif is elaborated upon by
+the insertion of a third helix that is tightly integrated into the structural
+domain, giving rise to the "RH3" fold. Within the homodimer, this helix results
+in the formation of a conserved, symmetric cleft distal to the DNA binding
+surface, where it may mediate protein-protein interactions or contribute to the
+high thermal stability of E73. Analysis of backbone amide dynamics by NMR
+provides evidence of a rigid core, fast picosecond to nanosecond time scale NH
+bond vector motions for residues located within the antiparallel β-sheet region
+of the proposed DNA-binding surface, and slower microsecond to millisecond time
+scale motions for residues in the α1-α2 loop. The roles of E73 and its SSV
+homologues in the viral life cycle are discussed.
+
+DOI: 10.1021/bi201791s 
+PMCID: PMC3326356
+PMID: 22409376  [Indexed for MEDLINE]
+

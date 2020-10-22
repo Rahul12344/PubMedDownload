@@ -1,0 +1,33 @@
+
+1. RNA. 2013 Feb;19(2):219-29. doi: 10.1261/rna.036681.112. Epub 2012 Dec 21.
+
+Molecular mimicry of human tRNALys anti-codon domain by HIV-1 RNA genome
+facilitates tRNA primer annealing.
+
+Jones CP(1), Saadatmand J, Kleiman L, Musier-Forsyth K.
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, Center for Retroviral Research, and 
+Center for RNA Biology, The Ohio State University, Columbus, Ohio 43210, USA.
+
+The primer for initiating reverse transcription in human immunodeficiency virus
+type 1 (HIV-1) is tRNA(Lys3). Host cell tRNA(Lys) is selectively packaged into
+HIV-1 through a specific interaction between the major tRNA(Lys)-binding protein,
+human lysyl-tRNA synthetase (hLysRS), and the viral proteins Gag and GagPol.
+Annealing of the tRNA primer onto the complementary primer-binding site (PBS) in 
+viral RNA is mediated by the nucleocapsid domain of Gag. The mechanism by which
+tRNA(Lys3) is targeted to the PBS and released from hLysRS prior to annealing is 
+unknown. Here, we show that hLysRS specifically binds to a tRNA anti-codon-like
+element (TLE) in the HIV-1 genome, which mimics the anti-codon loop of tRNA(Lys) 
+and is located proximal to the PBS. Mutation of the U-rich sequence within the
+TLE attenuates binding of hLysRS in vitro and reduces the amount of annealed
+tRNA(Lys3) in virions. Thus, LysRS binds specifically to the TLE, which is part
+of a larger LysRS binding domain in the viral RNA that includes elements of the
+Psi packaging signal. Our results suggest that HIV-1 uses molecular mimicry of
+the anti-codon of tRNA(Lys) to increase the efficiency of tRNA(Lys3) annealing to
+viral RNA.
+
+DOI: 10.1261/rna.036681.112 
+PMCID: PMC3543088
+PMID: 23264568  [Indexed for MEDLINE]
+

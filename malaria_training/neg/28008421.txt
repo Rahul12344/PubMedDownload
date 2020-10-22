@@ -1,0 +1,57 @@
+
+1. Wellcome Open Res. 2016 Nov 15;1:4. doi: 10.12688/wellcomeopenres.9876.1.
+
+A new Plasmodium vivax reference sequence with improved assembly of the
+subtelomeres reveals an abundance of pir genes.
+
+Auburn S(1), Böhme U(2), Steinbiss S(2), Trimarsanto H(3), Hostetler J(2)(4),
+Sanders M(2), Gao Q(5), Nosten F(6)(7), Newbold CI(2)(8), Berriman M(2), Price
+RN(1)(7), Otto TD(2).
+
+Author information: 
+(1)Global and Tropical Health Division, Menzies School of Health Research and
+Charles Darwin University, Darwin, Australia.
+(2)Malaria Programme, Wellcome Trust Sanger Institute, Hinxton, UK.
+(3)Eijkman Institute for Molecular Biology, Jakarta, Indonesia.
+(4)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Rockville, USA.
+(5)Jiangsu Institute of Parasitic Diseases, Key Laboratory of Parasitic Disease
+Control and Prevention (Ministry of Health), Jiangsu Provincial Key Laboratory of
+Parasite Molecular Biology, Jiangsu, China.
+(6)Shoklo Malaria Research Unit, Mahidol-Oxford Tropical Medicine Research Unit, 
+Faculty of Tropical Medicine, Mahidol University, Mae Sot, Thailand.
+(7)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Clinical Medicine, University of Oxford, Oxford, UK.
+(8)Weatherall Institute of Molecular Medicine, University of Oxford, John
+Radcliffe Hospital, Oxford, UK.
+
+Plasmodium vivax is now the predominant cause of malaria in the Asia-Pacific,
+South America and Horn of Africa. Laboratory studies of this species are
+constrained by the inability to maintain the parasite in continuous ex vivo
+culture, but genomic approaches provide an alternative and complementary avenue
+to investigate the parasite's biology and epidemiology. To date, molecular
+studies of P. vivax have relied on the Salvador-I reference genome sequence,
+derived from a monkey-adapted strain from South America. However, the Salvador-I 
+reference remains highly fragmented with over 2500 unassembled scaffolds.  Using 
+high-depth Illumina sequence data, we assembled and annotated a new reference
+sequence, PvP01, sourced directly from a patient from Papua Indonesia. Draft
+assemblies of isolates from China (PvC01) and Thailand (PvT01) were also prepared
+for comparative purposes. The quality of the PvP01 assembly is improved greatly
+over Salvador-I, with fragmentation reduced to 226 scaffolds. Detailed manual
+curation has ensured highly comprehensive annotation, with functions attributed
+to 58% core genes in PvP01 versus 38% in Salvador-I. The assemblies of PvP01,
+PvC01 and PvT01 are larger than that of Salvador-I (28-30 versus 27 Mb), owing to
+improved assembly of the subtelomeres.  An extensive repertoire of over 1200
+Plasmodium interspersed repeat (pir) genes were identified in PvP01 compared to
+346 in Salvador-I, suggesting a vital role in parasite survival or development.
+The manually curated PvP01 reference and PvC01 and PvT01 draft assemblies are
+important new resources to study vivax malaria. PvP01 is maintained at GeneDB and
+ongoing curation will ensure continual improvements in assembly and annotation
+quality.
+
+DOI: 10.12688/wellcomeopenres.9876.1 
+PMCID: PMC5172418
+PMID: 28008421 
+
+Conflict of interest statement: No competing interests were disclosed.
+

@@ -1,0 +1,78 @@
+
+1. Proc Natl Acad Sci U S A. 2019 Feb 19;116(8):3183-3192. doi:
+10.1073/pnas.1810815116. Epub 2019 Feb 5.
+
+Comparative 3D genome organization in apicomplexan parasites.
+
+Bunnik EM(1), Venkat A(2), Shao J(2), McGovern KE(3), Batugedara G(4), Worth
+D(3), Prudhomme J(4), Lapp SA(5)(6)(7), Andolina C(8)(9), Ross LS(10), Lawres
+L(11), Brady D(12), Sinnis P(13), Nosten F(8)(9), Fidock DA(10), Wilson EH(3),
+Tewari R(12), Galinski MR(5)(6)(7), Ben Mamoun C(11), Ay F(14)(15), Le Roch
+KG(16).
+
+Author information: 
+(1)Department of Microbiology, Immunology & Molecular Genetics, The University of
+Texas Health Science Center at San Antonio, San Antonio, TX 78229.
+(2)Division of Vaccine Discovery, La Jolla Institute for Immunology, La Jolla, CA
+92037.
+(3)Division of Biomedical Sciences, School of Medicine, University of California,
+Riverside, CA 92521.
+(4)Department of Molecular, Cell and Systems Biology, University of California,
+Riverside, CA 92521.
+(5)International Center for Malaria Research, Education and Development, Emory
+Vaccine Center, Yerkes National Primate Research Center, Emory University,
+Atlanta, GA 30329.
+(6)Division of Infectious Diseases, Department of Medicine, Emory University,
+Atlanta, GA 30329.
+(7)Malaria Host-Pathogen Interaction Center, Emory University, Atlanta, GA 30329.
+(8)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Medicine Research Building, University of Oxford, Oxford OX3 7FZ, United Kingdom.
+(9)Shoklo Malaria Research Unit, Mahidol-Oxford Tropical Medicine Research Unit, 
+Faculty of Tropical Medicine, Mahidol University, Mae Sot, 63110 Tak, Thailand.
+(10)Department of Microbiology and Immunology, Columbia University Medical
+Center, New York, NY 10032.
+(11)Department of Internal Medicine, Section of Infectious Diseases, Yale School 
+of Medicine, New Haven, CT 06520.
+(12)School of Life Sciences, Queens Medical Centre, University of Nottingham,
+Nottingham NG7 2UH, United Kingdom.
+(13)Department of Molecular Microbiology and Immunology, Johns Hopkins Bloomberg 
+School of Public Health, Baltimore, MD 21205.
+(14)Division of Vaccine Discovery, La Jolla Institute for Immunology, La Jolla,
+CA 92037; ferhatay@lji.org karinel@ucr.edu.
+(15)School of Medicine, University of California, San Diego, La Jolla, CA 92093.
+(16)Department of Molecular, Cell and Systems Biology, University of California, 
+Riverside, CA 92521; ferhatay@lji.org karinel@ucr.edu.
+
+Comment in
+    Epigenet Insights. 2019 Sep 29;12:2516865719879436.
+
+The positioning of chromosomes in the nucleus of a eukaryotic cell is highly
+organized and has a complex and dynamic relationship with gene expression. In the
+human malaria parasite Plasmodium falciparum, the clustering of a family of
+virulence genes correlates with their coordinated silencing and has a strong
+influence on the overall organization of the genome. To identify conserved and
+species-specific principles of genome organization, we performed Hi-C experiments
+and generated 3D genome models for five Plasmodium species and two related
+apicomplexan parasites. Plasmodium species mainly showed clustering of
+centromeres, telomeres, and virulence genes. In P. falciparum, the
+heterochromatic virulence gene cluster had a strong repressive effect on the
+surrounding nuclear space, while this was less pronounced in Plasmodium vivax and
+Plasmodium berghei, and absent in Plasmodium yoelii In Plasmodium knowlesi,
+telomeres and virulence genes were more dispersed throughout the nucleus, but its
+3D genome showed a strong correlation with gene expression. The Babesia microti
+genome showed a classical Rabl organization with colocalization of subtelomeric
+virulence genes, while the Toxoplasma gondii genome was dominated by clustering
+of the centromeres and lacked virulence gene clustering. Collectively, our
+results demonstrate that spatial genome organization in most Plasmodium species
+is constrained by the colocalization of virulence genes. P. falciparum and P.
+knowlesi, the only two Plasmodium species with gene families involved in
+antigenic variation, are unique in the effect of these genes on chromosome
+folding, indicating a potential link between genome organization and gene
+expression in more virulent pathogens.
+
+DOI: 10.1073/pnas.1810815116 
+PMCID: PMC6386730
+PMID: 30723152  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

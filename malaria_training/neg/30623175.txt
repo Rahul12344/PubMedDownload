@@ -1,0 +1,47 @@
+
+1. Life Sci Alliance. 2019 Jan 2;2(1):e201800191. doi: 10.26508/lsa.201800191.
+eCollection 2019 Feb.
+
+Evolution of gene expression levels in the male reproductive organs of Anopheles 
+mosquitoes.
+
+Izquierdo A(1), Fahrenberger M(1), Persampieri T(2), Benedict MQ(3), Giles T(4), 
+Catteruccia F(5), Emes RD(1)(4), Dottorini T(1).
+
+Author information: 
+(1)School of Veterinary Medicine and Science, Sutton Bonington Campus, University
+of Nottingham, Leicestershire, UK.
+(2)Department of Experimental Medicine, University of Perugia, Perugia, Italy.
+(3)Centers for Disease Control and Prevention, Division of Parasitic Diseases and
+Malaria, Entomology Branch, Atlanta, GA, USA.
+(4)Advanced Data Analysis Centre, Sutton Bonington Campus, University of
+Nottingham, Leicestershire, UK.
+(5)Department of Immunology and Infectious Diseases, Harvard T. H. Chan School of
+Public Health, Boston, MA, USA.
+
+Modifications in gene expression determine many of the phenotypic
+differentiations between closely related species. This is particularly evident in
+reproductive tissues, where evolution of genes is more rapid, facilitating the
+appearance of distinct reproductive characteristics which may lead to species
+isolation and phenotypic variation. Large-scale, comparative analyses of
+transcript expression levels have been limited until recently by lack of
+inter-species data mining solutions. Here, by combining expression normalisation 
+across lineages, multivariate statistical analysis, evolutionary rate, and
+protein-protein interaction analysis, we investigate ortholog transcripts in the 
+male accessory glands and testes across five closely related species in the
+Anopheles gambiae complex. We first demonstrate that the differentiation by
+transcript expression is consistent with the known Anopheles phylogeny. Then,
+through clustering, we discover groups of transcripts with tissue-dependent
+expression patterns conserved across lineages, or lineage-dependent patterns
+conserved across tissues. The strongest associations with reproductive function, 
+transcriptional regulatory networks, protein-protein subnetworks, and
+evolutionary rate are found for the groups of transcripts featuring large
+expression differences in lineage or tissue-conserved patterns.
+
+DOI: 10.26508/lsa.201800191 
+PMCID: PMC6315087
+PMID: 30623175  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict of
+interest.
+

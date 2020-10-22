@@ -1,0 +1,47 @@
+
+1. Data Brief. 2018 Feb 21;17:1295-1303. doi: 10.1016/j.dib.2018.02.028. eCollection
+2018 Apr.
+
+Mapping Anopheles stephensi midgut proteome using high-resolution mass
+spectrometry.
+
+Mohanty AK(1), Dey G(2)(3)(4), Kumar M(2)(4), Sreenivasamurthy SK(2)(4), Garg
+S(5), Prasad TSK(2)(3), Kumar A(1).
+
+Author information: 
+(1)ICMR-National Institute of Malaria Research, Field Unit, Campal, Panaji, Goa
+403001, India.
+(2)Institute of Bioinformatics, International Tech Park, Bangalore 560066, India.
+(3)Center for Systems Biology and Molecular Medicine, Yenepoya Research Center,
+Yenepoya (Deemed to be University), Mangalore 575018, India.
+(4)Manipal Academy of Higher Education, Madhav Nagar, Manipal, 576104, India.
+(5)Department of Microbiology, Goa University, Taleigao Plateau, Goa 403206,
+India.
+
+Anopheles stephensi Liston is one of the major vectors of malaria in urban areas 
+of India. Midgut plays a central role in the vector life cycle and transmission
+of malaria. Because gene expression of An. stephensi midgut has not been
+investigated at protein level, an unbiased mass spectrometry-based proteomic
+analysis of midgut tissue was carried out. Midgut tissue proteins from female An.
+stephensi mosquitoes were extracted using 0.5% SDS and digested with trypsin
+using two complementary approaches, in-gel and in-solution digestion. Fractions
+were analysed on high-resolution mass spectrometer, which resulted in acquisition
+of 494,960 MS/MS spectra. The MS/MS spectra were searched against protein
+database comprising of known and predicted proteins reported in An. stephensi
+using Sequest and Mascot software. In all, 47,438 peptides were identified
+corresponding to 5,709 An. stephensi proteins. The identified proteins were
+functionally categorized based on their cellular localization, biological
+processes and molecular functions using Gene Ontology (GO) annotation. Several
+proteins identified in this data are known to mediate the interaction of the
+Plasmodium with vector midgut and also regulate parasite maturation inside the
+vector host. This study provides information about the protein composition in
+midgut tissue of female An. stephensi, which would be useful in understanding
+vector parasite interaction at molecular level and besides being useful in
+devising malaria transmission blocking strategies. The data of this study is
+related to the research article "Integrating transcriptomics and proteomics data 
+for accurate assembly and annotation of genomes".
+
+DOI: 10.1016/j.dib.2018.02.028 
+PMCID: PMC5966514
+PMID: 29845101 
+

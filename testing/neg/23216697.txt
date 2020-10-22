@@ -1,0 +1,41 @@
+
+1. Microb Cell Fact. 2012 Dec 6;11:154. doi: 10.1186/1475-2859-11-154.
+
+Construction and characterization of an in-vivo linear covalently closed DNA
+vector production system.
+
+Nafissi N(1), Slavcev R.
+
+Author information: 
+(1)School of Pharmacy, Faculty of Science, University of Waterloo, Waterloo,
+Ontario, N2L 3G1, Canada.
+
+BACKGROUND: While safer than their viral counterparts, conventional non-viral
+gene delivery DNA vectors offer a limited safety profile. They often result in
+the delivery of unwanted prokaryotic sequences, antibiotic resistance genes, and 
+the bacterial origins of replication to the target, which may lead to the
+stimulation of unwanted immunological responses due to their chimeric DNA
+composition. Such vectors may also impart the potential for chromosomal
+integration, thus potentiating oncogenesis. We sought to engineer an in vivo
+system for the quick and simple production of safer DNA vector alternatives that 
+were devoid of non-transgene bacterial sequences and would lethally disrupt the
+host chromosome in the event of an unwanted vector integration event.
+RESULTS: We constructed a parent eukaryotic expression vector possessing a
+specialized manufactured multi-target site called "Super Sequence", and
+engineered E. coli cells (R-cell) that conditionally produce phage-derived
+recombinase Tel (PY54), TelN (N15), or Cre (P1). Passage of the parent plasmid
+vector through R-cells under optimized conditions, resulted in rapid, efficient, 
+and one step in vivo generation of mini lcc--linear covalently closed
+(Tel/TelN-cell), or mini ccc--circular covalently closed (Cre-cell), DNA
+constructs, separated from the backbone plasmid DNA. Site-specific integration of
+lcc plasmids into the host chromosome resulted in chromosomal disruption and
+10(5) fold lower viability than that seen with the ccc counterpart.
+CONCLUSION: We offer a high efficiency mini DNA vector production system that
+confers simple, rapid and scalable in vivo production of mini lcc DNA vectors
+that possess all the benefits of "minicircle" DNA vectors and virtually eliminate
+the potential for undesirable vector integration events.
+
+DOI: 10.1186/1475-2859-11-154 
+PMCID: PMC3540006
+PMID: 23216697  [Indexed for MEDLINE]
+

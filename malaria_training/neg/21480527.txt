@@ -1,0 +1,35 @@
+
+1. Proteomics. 2011 May;11(10):1857-67. doi: 10.1002/pmic.201000684. Epub 2011 Apr
+8.
+
+Path lengths in protein-protein interaction networks and biological complexity.
+
+Xu K(1), Bezakova I, Bunimovich L, Yi SV.
+
+Author information: 
+(1)School of Biology, Georgia Institute of Technology, Atlanta, GA 30332, USA.
+
+We investigated the biological significance of path lengths in 12 protein-protein
+interaction (PPI) networks. We put forward three predictions, based on the idea
+that biological complexity influences path lengths. First, at the network level, 
+path lengths are generally longer in PPIs than in random networks. Second, this
+pattern is more pronounced in more complex organisms. Third, within a PPI
+network, path lengths of individual proteins are biologically significant. We
+found that in 11 of the 12 species, average path lengths in PPI networks are
+significantly longer than those in randomly rewired networks. The PPI network of 
+the malaria parasite Plasmodium falciparum, however, does not exhibit deviation
+from rewired networks. Furthermore, eukaryotic PPIs exhibit significantly greater
+deviation from randomly rewired networks than prokaryotic PPIs. Thus our study
+highlights the potentially meaningful variation in path lengths of PPI networks. 
+Moreover, node eccentricity, defined as the longest path from a protein to
+others, is significantly correlated with the levels of gene expression and
+dispensability in the yeast PPI network. We conclude that biological complexity
+influences both global and local properties of path lengths in PPI networks.
+Investigating variation of path lengths may provide new tools to analyze the
+evolution of functional modules in biological systems.
+
+Copyright © 2011 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/pmic.201000684 
+PMID: 21480527  [Indexed for MEDLINE]
+

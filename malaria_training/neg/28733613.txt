@@ -1,0 +1,46 @@
+
+1. Sci Rep. 2017 Jul 21;7(1):6156. doi: 10.1038/s41598-017-06501-8.
+
+RNAi screening identifies Trypanosoma brucei stress response protein kinases
+required for survival in the mouse.
+
+Fernandez-Cortes F(1), Serafim TD(1)(2), Wilkes JM(1), Jones NG(1)(3), Ritchie
+R(1), McCulloch R(1), Mottram JC(4)(5).
+
+Author information: 
+(1)Wellcome Centre for Molecular Parasitology and Institute of Infection,
+Immunity and Inflammation, College of Medical, Veterinary and Life Sciences,
+University of Glasgow, Glasgow, UK.
+(2)Vector Molecular Biology Section, Laboratory of Malaria and Vector Research,
+National Institute of Allergy and Infectious Diseases, National Institutes of
+Health, Rockville, MD, USA.
+(3)Centre for Immunology and Infection, Department of Biology, University of
+York, Wentworth Way, Heslington, York, UK.
+(4)Wellcome Centre for Molecular Parasitology and Institute of Infection,
+Immunity and Inflammation, College of Medical, Veterinary and Life Sciences,
+University of Glasgow, Glasgow, UK. jeremy.mottram@york.ac.uk.
+(5)Centre for Immunology and Infection, Department of Biology, University of
+York, Wentworth Way, Heslington, York, UK. jeremy.mottram@york.ac.uk.
+
+Protein kinases (PKs) are a class of druggable targets in Trypanosoma brucei, the
+causative agent of Human African Trypanosomiasis (sleeping sickness), yet little 
+is known about which PKs are essential for survival in mammals. A recent
+kinome-wide RNAi screen with 176 individual bloodstream form Trypanosoma brucei
+lines identified PKs required for proliferation in culture. In order to assess
+which PKs are also potential virulence factors essential in vivo, lines were
+pooled, inoculated into mice, and screened for loss of fitness after 48 h RNAi.
+The presence of trypanosomes in the bloodstream was assessed using RNAi target
+sequencing (RITseq) and compared to growth in culture. We identified 49 PKs with 
+a significant loss of fitness in vivo in two independent experiments, and a
+strong correlation between in vitro and in vivo loss of fitness for the majority.
+Nine PKs had a more pronounced growth defect in vivo, than in vitro. Amongst
+these PKs were several with putative functions related to stress responses
+mediated through the PI3K/TOR or MAPK signaling cascades, which act to protect
+the parasite from complement-mediated and osmotic lysis. Identification of these 
+virulence-associated PKs provides new insights into T. brucei-host interaction
+and reveals novel potential protein kinase drug targets.
+
+DOI: 10.1038/s41598-017-06501-8 
+PMCID: PMC5522463
+PMID: 28733613  [Indexed for MEDLINE]
+

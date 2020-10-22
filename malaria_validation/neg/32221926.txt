@@ -1,0 +1,27 @@
+
+1. Methods Mol Biol. 2020;2116:285-294. doi: 10.1007/978-1-0716-0294-2_17.
+
+Identifying Trypanosome Protein-RNA Interactions Using RIP-Seq.
+
+Mugo E(1), Erben ED(2).
+
+Author information: 
+(1)Department of Biochemistry, Genetics and Microbiology, Institute for
+Sustainable Malaria Control, University of Pretoria, Hatfield, South Africa.
+(2)German Cancer Research Center (DKFZ), DKFZ-ZMBH Alliance, Heidelberg, Germany.
+e.erben@dkfz-heidelberg.de.
+
+Trypanosomatids rely primarily on posttranscriptional mechanisms for the control 
+of gene expression, with regulation of RNA processing, localization, degradation,
+and translation by RNA-binding proteins (RBPs). To determine the mechanisms by
+which RBPs control gene expression in trypanosomatids, transcriptome-wide
+identification of mRNA targets and mapping of the RNA-binding site is required.
+Here we present our most current RIP-Seq (RNA immunoprecipitation followed by
+high-throughput sequencing) protocol that we generally apply to elucidate
+RNA/protein interactions in Trypanosoma brucei. The technique provides valuable
+information about the workings of messenger ribonucleoprotein (mRNP) networks and
+trypanosome gene expression mechanisms.
+
+DOI: 10.1007/978-1-0716-0294-2_17 
+PMID: 32221926 
+

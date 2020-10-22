@@ -1,0 +1,44 @@
+
+1. Oncol Lett. 2018 May;15(5):6815-6824. doi: 10.3892/ol.2018.8221. Epub 2018 Mar 9.
+
+Identification and functional analysis of a core gene module associated with
+hepatitis C virus-induced human hepatocellular carcinoma progression.
+
+Bai G(1), Zheng W(1), Ma W(1).
+
+Author information: 
+(1)Institute of Genetic Engineering, Southern Medical University, Guangzhou,
+Guangdong 510515, P.R. China.
+
+Hepatitis C virus (HCV)-induced human hepatocellular carcinoma (HCC) progression 
+may be due to a complex multi-step processes. The developmental mechanism of
+these processes is worth investigating for the prevention, diagnosis and therapy 
+of HCC. The aim of the present study was to investigate the molecular mechanism
+underlying the progression of HCV-induced hepatocarcinogenesis. First, the
+dynamic gene module, consisting of key genes associated with progression between 
+the normal stage and HCC, was identified using the Weighted Gene Co-expression
+Network Analysis tool from R language. By defining those genes in the module as
+seeds, the change of co-expression in differentially expressed gene sets in two
+consecutive stages of pathological progression was examined. Finally, interaction
+pairs of HCV viral proteins and their directly targeted proteins in the
+identified module were extracted from the literature and a comprehensive
+interaction dataset from yeast two-hybrid experiments. By combining the
+interactions between HCV and their targets, and protein-protein interactions in
+the Search Tool for the Retrieval of Interacting Genes database (STRING), the
+HCV-key genes interaction network was constructed and visualized using Cytoscape 
+software 3.2. As a result, a module containing 44 key genes was identified to be 
+associated with HCC progression, due to the dynamic features and functions of
+those genes in the module. Several important differentially co-expressed gene
+pairs were identified between non-HCC and HCC stages. In the key genes, cyclin
+dependent kinase 1 (CDK1), NDC80, cyclin A2 (CCNA2) and rac GTPase activating
+protein 1 (RACGAP1) were shown to be targeted by the HCV nonstructural proteins
+NS5A, NS3 and NS5B, respectively. The four genes perform an intermediary role
+between the HCV viral proteins and the dysfunctional module in the HCV key genes 
+interaction network. These findings provided valuable information for
+understanding the mechanism of HCV-induced HCC progression and for seeking drug
+targets for the therapy and prevention of HCC.
+
+DOI: 10.3892/ol.2018.8221 
+PMCID: PMC5920388
+PMID: 29725417 
+

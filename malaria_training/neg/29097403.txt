@@ -1,0 +1,54 @@
+
+1. Genome Res. 2017 Dec;27(12):2050-2060. doi: 10.1101/gr.222109.117. Epub 2017 Nov 
+2.
+
+GRIDSS: sensitive and specific genomic rearrangement detection using positional
+de Bruijn graph assembly.
+
+Cameron DL(1)(2), Schröder J(1)(2)(3), Penington JS(1), Do H(4)(5)(6), Molania
+R(4)(7), Dobrovic A(4)(5)(6), Speed TP(1)(8), Papenfuss AT(1)(2)(8)(9)(10).
+
+Author information: 
+(1)Bioinformatics Division, Walter and Eliza Hall Institute of Medical Research, 
+Parkville, Victoria, 3052, Australia.
+(2)Department of Medical Biology, University of Melbourne, Parkville, Victoria,
+3010, Australia.
+(3)Department of Computing and Information Systems, The University of Melbourne, 
+Parkville, Victoria, 3010, Australia.
+(4)Translational Genomics and Epigenomics Laboratory, Olivia Newton-John Cancer
+Research Institute, Heidelberg, Victoria, 3084, Australia.
+(5)Department of Pathology, University of Melbourne, Parkville, Victoria, 3010,
+Australia.
+(6)School of Cancer Medicine, La Trobe University, Bundoora, Victoria, 3084,
+Australia.
+(7)Department of Medicine, University of Melbourne, Austin Health, Heidelberg,
+Victoria, 3084, Australia.
+(8)Department of Mathematics and Statistics, University of Melbourne, Parkville, 
+Victoria, 3010, Australia.
+(9)Peter MacCallum Cancer Centre, Victorian Comprehensive Cancer Centre,
+Melbourne, 3000, Australia.
+(10)Sir Peter MacCallum Department of Oncology, University of Melbourne,
+Parkville, Victoria, 3010, Australia.
+
+The identification of genomic rearrangements with high sensitivity and
+specificity using massively parallel sequencing remains a major challenge,
+particularly in precision medicine and cancer research. Here, we describe a new
+method for detecting rearrangements, GRIDSS (Genome Rearrangement IDentification 
+Software Suite). GRIDSS is a multithreaded structural variant (SV) caller that
+performs efficient genome-wide break-end assembly prior to variant calling using 
+a novel positional de Bruijn graph-based assembler. By combining assembly, split 
+read, and read pair evidence using a probabilistic scoring, GRIDSS achieves high 
+sensitivity and specificity on simulated, cell line, and patient tumor data,
+recently winning SV subchallenge #5 of the ICGC-TCGA DREAM8.5 Somatic Mutation
+Calling Challenge. On human cell line data, GRIDSS halves the false discovery
+rate compared to other recent methods while matching or exceeding their
+sensitivity. GRIDSS identifies nontemplate sequence insertions, microhomologies, 
+and large imperfect homologies, estimates a quality score for each breakpoint,
+stratifies calls into high or low confidence, and supports multisample analysis.
+
+© 2017 Cameron et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.222109.117 
+PMCID: PMC5741059
+PMID: 29097403  [Indexed for MEDLINE]
+

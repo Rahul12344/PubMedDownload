@@ -1,0 +1,36 @@
+
+1. PLoS Pathog. 2018 Mar 8;14(3):e1006898. doi: 10.1371/journal.ppat.1006898.
+eCollection 2018 Mar.
+
+CRISPR/Cas9 -mediated gene knockout of Anopheles gambiae FREP1 suppresses malaria
+parasite infection.
+
+Dong Y(1), Simões ML(1), Marois E(2), Dimopoulos G(1).
+
+Author information: 
+(1)W. Harry Feinstone Department of Molecular Microbiology and Immunology,
+Bloomberg School of Public Health, Malaria Research Institute, Johns Hopkins
+University, Baltimore, Maryland, United States of America.
+(2)Inserm, CNRS, Université de Strasbourg, Strasbourg, France.
+
+Plasmodium relies on numerous agonists during its journey through the mosquito
+vector, and these agonists represent potent targets for transmission-blocking by 
+either inhibiting or interfering with them pre- or post-transcriptionally. The
+recently developed CRISPR/Cas9-based genome editing tools for Anopheles
+mosquitoes provide new and promising opportunities for the study of agonist
+function and for developing malaria control strategies through gene deletion to
+achieve complete agonist inactivation. Here we have established a modified
+CRISPR/Cas9 gene editing procedure for the malaria vector Anopheles gambiae, and 
+studied the effect of inactivating the fibrinogen-related protein 1 (FREP1) gene 
+on the mosquito's susceptibility to Plasmodium and on mosquito fitness. FREP1
+knockout mutants developed into adult mosquitoes that showed profound suppression
+of infection with both human and rodent malaria parasites at the oocyst and
+sporozoite stages. FREP1 inactivation, however, resulted in fitness costs
+including a significantly lower blood-feeding propensity, fecundity and egg
+hatching rate, a retarded pupation time, and reduced longevity after a blood
+meal.
+
+DOI: 10.1371/journal.ppat.1006898 
+PMCID: PMC5843335
+PMID: 29518156  [Indexed for MEDLINE]
+

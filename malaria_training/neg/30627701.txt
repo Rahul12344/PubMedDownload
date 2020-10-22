@@ -1,0 +1,49 @@
+
+1. CRISPR J. 2018 Feb 1;1(1):88-98. doi: 10.1089/crispr.2017.0012.
+
+Redkmer: An Assembly-Free Pipeline for the Identification of Abundant and
+Specific X-Chromosome Target Sequences for X-Shredding by CRISPR Endonucleases.
+
+Papathanos PA(1), Windbichler N(2).
+
+Author information: 
+(1)Department of Experimental Medicine, Section of Genomics and Genetics,
+University of Perugia, Perugia, Italy.
+(2)Department of Life Sciences, Imperial College London, Sir Alexander Fleming
+Building, South Kensington Campus, London, United Kingdom.
+
+CRISPR-based synthetic sex ratio distorters, which operate by shredding the
+X-chromosome during male meiosis, are promising tools for the area-wide control
+of harmful insect pest or disease vector species. X-shredders have been proposed 
+as tools to suppress insect populations by biasing the sex ratio of the wild
+population toward males, thus reducing its natural reproductive potential.
+However, to build synthetic X-shredders based on CRISPR, the selection of gRNA
+targets, in the form of high-copy sequence repeats on the X chromosome of a given
+species, is difficult, since such repeats are not accurately resolved in genome
+assemblies and cannot be assigned to chromosomes with confidence. We have
+therefore developed the redkmer computational pipeline, designed to identify
+short and highly abundant sequence elements occurring uniquely on the X
+chromosome. Redkmer was designed to use as input minimally processed whole genome
+sequence data from males and females. We tested redkmer with short- and long-read
+whole genome sequence data of Anopheles gambiae, the major vector of human
+malaria, in which the X-shredding paradigm was originally developed. Redkmer
+established long reads as chromosomal proxies with excellent correlation to the
+genome assembly and used them to rank X-candidate kmers for their level of
+X-specificity and abundance. Among these, a high-confidence set of 25-mers was
+identified, many belonging to previously known X-chromosome repeats of Anopheles 
+gambiae, including the ribosomal gene array and the selfish elements harbored
+within it. Data from a control strain, in which these repeats are shared with the
+Y chromosome, confirmed the elimination of these kmers during filtering. Finally,
+we show that redkmer output can be linked directly to gRNA selection and
+off-target prediction. In addition, the output of redkmer, including the
+prediction of chromosomal origin of single-molecule long reads and chromosome
+specific kmers, could also be used for the characterization of other biologically
+relevant sex chromosome sequences, a task that is frequently hampered by the
+repetitiveness of sex chromosome sequence content.
+
+DOI: 10.1089/crispr.2017.0012 
+PMCID: PMC6319322
+PMID: 30627701 
+
+Conflict of interest statement: No competing financial interests exist.
+

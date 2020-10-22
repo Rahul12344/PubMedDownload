@@ -1,0 +1,26 @@
+
+1. EMBO Rep. 2013 Oct;14(10):938-44. doi: 10.1038/embor.2013.130. Epub 2013 Sep 6.
+
+Structure homology and interaction redundancy for discovering virus-host protein 
+interactions.
+
+de Chassey B(1), Meyniel-Schicklin L, Aublin-Gex A, Navratil V, Chantier T, André
+P, Lotteau V.
+
+Author information: 
+(1)Hospices Civils de Lyon, Hôpital de la Croix-Rousse, Laboratoire de virologie,
+103 grande rue de la Croix-Rousse, Lyon, F-69004, France.
+
+Virus-host interactomes are instrumental to understand global perturbations of
+cellular functions induced by infection and discover new therapies. The
+construction of such interactomes is, however, technically challenging and time
+consuming. Here we describe an original method for the prediction of
+high-confidence interactions between viral and human proteins through a
+combination of structure and high-quality interactome data. Validation was
+performed for the NS1 protein of the influenza virus, which led to the
+identification of new host factors that control viral replication.
+
+DOI: 10.1038/embor.2013.130 
+PMCID: PMC3807215
+PMID: 24008843  [Indexed for MEDLINE]
+

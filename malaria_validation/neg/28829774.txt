@@ -1,0 +1,51 @@
+
+1. PLoS One. 2017 Aug 22;12(8):e0182561. doi: 10.1371/journal.pone.0182561.
+eCollection 2017.
+
+A large scale Plasmodium vivax- Saimiri boliviensis trophozoite-schizont
+transition proteome.
+
+Anderson DC(1), Lapp SA(2), Barnwell JW(3), Galinski MR(2)(4).
+
+Author information: 
+(1)Bioscience Division, SRI International, Harrisonburg, VA, United States of
+America.
+(2)Emory Vaccine Center, Yerkes National Primate Research Center, Emory
+University, Atlanta, GA, United States of America.
+(3)Malaria Branch, Division of Parasitic Diseases, Centers for Disease Control
+and Prevention, Atlanta, GA, United States of America.
+(4)Department of Medicine, Division of Infectious Diseases, Emory University
+School of Medicine, Atlanta, GA, United States of America.
+
+Plasmodium vivax is a complex protozoan parasite with over 6,500 genes and
+stage-specific differential expression. Much of the unique biology of this
+pathogen remains unknown, including how it modifies and restructures the host
+reticulocyte. Using a recently published P. vivax reference genome, we report the
+proteome from two biological replicates of infected Saimiri boliviensis host
+reticulocytes undergoing transition from the late trophozoite to early schizont
+stages. Using five database search engines, we identified a total of 2000 P.
+vivax and 3487 S. boliviensis proteins, making this the most comprehensive P.
+vivax proteome to date. PlasmoDB GO-term enrichment analysis of proteins
+identified at least twice by a search engine highlighted core metabolic processes
+and molecular functions such as glycolysis, translation and protein folding, cell
+components such as ribosomes, proteasomes and the Golgi apparatus, and a number
+of vesicle and trafficking related clusters. Database for Annotation,
+Visualization and Integrated Discovery (DAVID) v6.8 enriched functional
+annotation clusters of S. boliviensis proteins highlighted vesicle and
+trafficking-related clusters, elements of the cytoskeleton, oxidative processes
+and response to oxidative stress, macromolecular complexes such as the proteasome
+and ribosome, metabolism, translation, and cell death. Host and parasite proteins
+potentially involved in cell adhesion were also identified. Over 25% of the P.
+vivax proteins have no functional annotation; this group includes 45 VIR members 
+of the large PIR family. A number of host and pathogen proteins contained highly 
+oxidized or nitrated residues, extending prior trophozoite-enriched stage
+observations from S. boliviensis infections, and supporting the possibility of
+oxidative stress in relation to the disease. This proteome significantly expands 
+the size and complexity of the known P. vivax and Saimiri host iRBC proteomes,
+and provides in-depth data that will be valuable for ongoing research on this
+parasite's biology and pathogenesis.
+
+DOI: 10.1371/journal.pone.0182561 
+PMCID: PMC5567661
+PMID: 28829774  [Indexed for MEDLINE]
+

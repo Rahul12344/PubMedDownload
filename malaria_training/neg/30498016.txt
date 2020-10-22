@@ -1,0 +1,48 @@
+
+1. Biol Open. 2019 Jan 3;8(1). pii: bio037762. doi: 10.1242/bio.037762.
+
+Integral gene drives for population replacement.
+
+Nash A(1), Urdaneta GM(1), Beaghton AK(1), Hoermann A(1), Papathanos PA(2)(3),
+Christophides GK(4), Windbichler N(4).
+
+Author information: 
+(1)Department of Life Sciences, Imperial College London, Sir Alexander Fleming
+Building, South Kensington Campus, London SW7 2AZ, UK.
+(2)Centre of Functional Genomics, Department of Experimental Medicine, University
+of Perugia, Perugia 06123, Italy.
+(3)Department of Entomology, Robert H. Smith Faculty of Agriculture, Food and
+Environment, Hebrew University of Jerusalem, Rehovot 7610001, Israel.
+(4)Department of Life Sciences, Imperial College London, Sir Alexander Fleming
+Building, South Kensington Campus, London SW7 2AZ, UK
+g.christophides@imperial.ac.uk n.windbichler@imperial.ac.uk.
+
+A first generation of CRISPR-based gene drives has now been tested in the
+laboratory in a number of organisms, including malaria vector mosquitoes.
+Challenges for their use in the area-wide genetic control of vector-borne disease
+have been identified, including the development of target site resistance, their 
+long-term efficacy in the field, their molecular complexity, and practical and
+legal limitations for field testing of both gene drive and coupled anti-pathogen 
+traits. We have evaluated theoretically the concept of integral gene drive (IGD) 
+as an alternative paradigm for population replacement. IGDs incorporate a minimal
+set of molecular components, including drive and anti-pathogen effector elements 
+directly embedded within endogenous genes - an arrangement that in theory allows 
+targeting functionally conserved coding sequences without disrupting their
+function. Autonomous and non-autonomous IGD strains could be generated,
+optimized, regulated and imported independently. We performed quantitative
+modeling comparing IGDs with classical replacement drives and show that selection
+for the function of the hijacked host gene can significantly reduce the
+establishment of resistant alleles in the population, while drive occurring at
+multiple genomic loci prolongs the duration of transmission blockage in the face 
+of pre-existing target site variation. IGD thus has potential as a more durable
+and flexible population replacement strategy.
+
+© 2019. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/bio.037762 
+PMCID: PMC6361204
+PMID: 30498016 
+
+Conflict of interest statement: Competing interestsThe authors declare no
+competing or financial interests.
+

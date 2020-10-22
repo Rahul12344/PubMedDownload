@@ -1,0 +1,38 @@
+
+1. Sci Rep. 2017 Dec 12;7(1):17409. doi: 10.1038/s41598-017-17618-1.
+
+Gene length as a regulator for ribosome recruitment and protein synthesis:
+theoretical insights.
+
+Fernandes LD(1)(2), Moura APS(2), Ciandrini L(3)(4).
+
+Author information: 
+(1)Departamento de Entomologia e Acarologia, Escola Superior de Agricultura Luiz 
+de Queiroz - Universidade de São Paulo (USP), 13418-900, Piracicaba/SP, Brazil.
+(2)Institute for Complex Systems and Mathematical Biology, University of
+Aberdeen, Aberdeen, AB24 3UE, UK.
+(3)DIMNP UMR 5235, Université de Montpellier and CNRS, F-34095, Montpellier,
+France. luca.ciandrini@umontpellier.fr.
+(4)Laboratoire Charles Coulomb UMR5221, Université de Montpellier and CNRS,
+F-34095, Montpellier, France. luca.ciandrini@umontpellier.fr.
+
+Protein synthesis rates are determined, at the translational level, by properties
+of the transcript's sequence. The efficiency of an mRNA can be tuned by varying
+the ribosome binding sites controlling the recruitment of the ribosomes, or the
+codon usage establishing the speed of protein elongation. In this work we propose
+transcript length as a further key determinant of translation efficiency. Based
+on a physical model that considers the kinetics of ribosomes advancing on the
+mRNA and diffusing in its surrounding, as well as mRNA circularisation and
+ribosome drop-off, we explain how the transcript length may play a central role
+in establishing ribosome recruitment and the overall translation rate of an mRNA.
+According to our results, the proximity of the 3' end to the ribosomal
+recruitment site of the mRNA could induce a feedback in the translation process
+that would favour the recycling of ribosomes. We also demonstrate how this
+process may be involved in shaping the experimental ribosome density-gene length 
+dependence. Finally, we argue that cells could exploit this mechanism to adjust
+and balance the usage of its ribosomal resources.
+
+DOI: 10.1038/s41598-017-17618-1 
+PMCID: PMC5727216
+PMID: 29234048  [Indexed for MEDLINE]
+

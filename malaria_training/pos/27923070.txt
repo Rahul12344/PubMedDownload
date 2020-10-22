@@ -1,0 +1,43 @@
+
+1. PLoS Pathog. 2016 Dec 6;12(12):e1006046. doi: 10.1371/journal.ppat.1006046.
+eCollection 2016 Dec.
+
+Macrophage Colony Stimulating Factor Derived from CD4+ T Cells Contributes to
+Control of a Blood-Borne Infection.
+
+Fontana MF(1), de Melo GL(1), Anidi C(1), Hamburger R(1), Kim CY(1), Lee SY(1),
+Pham J(1), Kim CC(1).
+
+Author information: 
+(1)Division of Experimental Medicine, Department of Medicine, University of
+California, San Francisco, San Francisco, CA, United States of America.
+
+Erratum in
+    PLoS Pathog. 2017 Feb 1;13(2):e1006192.
+
+Dynamic regulation of leukocyte population size and activation state is crucial
+for an effective immune response. In malaria, Plasmodium parasites elicit robust 
+host expansion of macrophages and monocytes, but the underlying mechanisms remain
+unclear. Here we show that myeloid expansion during P. chabaudi infection is
+dependent upon both CD4+ T cells and the cytokine Macrophage Colony Stimulating
+Factor (MCSF). Single-cell RNA-Seq analysis on antigen-experienced T cells
+revealed robust expression of Csf1, the gene encoding MCSF, in a sub-population
+of CD4+ T cells with distinct transcriptional and surface phenotypes. Selective
+deletion of Csf1 in CD4+ cells during P. chabaudi infection diminished
+proliferation and activation of certain myeloid subsets, most notably lymph
+node-resident CD169+ macrophages, and resulted in increased parasite burden and
+impaired recovery of infected mice. Depletion of CD169+ macrophages during
+infection also led to increased parasitemia and significant host mortality,
+confirming a previously unappreciated role for these cells in control of P.
+chabaudi. This work establishes the CD4+ T cell as a physiologically relevant
+source of MCSF in vivo; probes the complexity of the CD4+ T cell response during 
+type 1 infection; and delineates a novel mechanism by which T helper cells
+regulate myeloid cells to limit growth of a blood-borne intracellular pathogen.
+
+DOI: 10.1371/journal.ppat.1006046 
+PMCID: PMC5140069
+PMID: 27923070  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,46 @@
+
+1. Malar J. 2012 Jan 20;11:23. doi: 10.1186/1475-2875-11-23.
+
+Development of a TaqMan Allelic Discrimination assay for detection of single
+nucleotides polymorphisms associated with anti-malarial drug resistance.
+
+Kamau E(1), Alemayehu S, Feghali KC, Tolbert LS, Ogutu B, Ockenhouse CF.
+
+Author information: 
+(1)Military Malaria Research Program, Malaria Vaccine Branch, Department of
+Molecular Diagnostics and Genomic Studies, Walter Reed Army Institute of
+Research, 503 Robert Grant Ave, Silver Spring, 20 Maryland, USA.
+Edwin.kamau@us.army.mil
+
+BACKGROUND: Anti-malarial drug resistance poses a threat to current global
+efforts towards control and elimination of malaria. Several methods are used in
+monitoring anti-malarial drug resistance. Molecular markers such as single
+nucleotide polymorphism (SNP) for example are increasingly being used to identify
+genetic mutations related to anti-malarial drug resistance. Several methods are
+currently being used in analysis of SNP associated with anti-malarial drug
+resistance and although each one of these methods has unique strengths and
+shortcoming, there is still need to improve and/or develop new methods that will 
+close the gap found in the current methods.
+METHODS: TaqMan Allelic Discrimination assays for detection of SNPs associated
+with anti-malarial drug resistance were designed for analysis on Applied
+Biosystems PCR platform. These assays were designed by submitting SNP sequences
+associated with anti-malarial drug resistance to Applied Biosystems website.
+Eleven SNPs associated with resistance to anti-malarial drugs were selected and
+tested. The performance of each SNP assay was tested by creating plasmid DNAs
+carrying codons of interests and analysing them for analysis. To test the
+sensitivity and specificity of each SNP assay, 12 clinical samples were sequenced
+at codons of interest and used in the analysis. Plasmid DNAs were used to
+establish the Limit of Detection (LoD) for each assay.
+RESULTS: Data from genetic profiles of the Plasmodium falciparum laboratory
+strains and sequence data from 12 clinical samples was used as the reference
+method with which the performance of the SNP assays were compared to. The
+sensitivity and specificity of each SNP assay was establish at 100%. LoD for each
+assay was established at 2 GE, equivalent to less than 1 parasite/μL. SNP assays 
+performed well in detecting mixed infection and analysis of clinical samples.
+CONCLUSION: TaqMan Allelic Discrimination assay provides a good alternative tool 
+in detection of SNPs associated with anti-malarial drug.
+
+DOI: 10.1186/1475-2875-11-23 
+PMCID: PMC3273427
+PMID: 22264294  [Indexed for MEDLINE]
+

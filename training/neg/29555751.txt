@@ -1,0 +1,50 @@
+
+1. Proc Natl Acad Sci U S A. 2018 Apr 3;115(14):E3201-E3210. doi:
+10.1073/pnas.1720897115. Epub 2018 Mar 19.
+
+Diversification of AID/APOBEC-like deaminases in metazoa: multiplicity of clades 
+and widespread roles in immunity.
+
+Krishnan A(1), Iyer LM(1), Holland SJ(2), Boehm T(2), Aravind L(3).
+
+Author information: 
+(1)National Center for Biotechnology Information, National Library of Medicine,
+National Institutes of Health, Bethesda, MD 20894.
+(2)Department of Developmental Immunology, Max Planck Institute of Immunobiology 
+and Epigenetics, 79108 Freiburg, Germany.
+(3)National Center for Biotechnology Information, National Library of Medicine,
+National Institutes of Health, Bethesda, MD 20894; aravind@ncbi.nlm.nih.gov.
+
+AID/APOBEC deaminases (AADs) convert cytidine to uridine in single-stranded
+nucleic acids. They are involved in numerous mutagenic processes, including those
+underpinning vertebrate innate and adaptive immunity. Using a multipronged
+sequence analysis strategy, we uncover several AADs across metazoa,
+dictyosteliida, and algae, including multiple previously unreported vertebrate
+clades, and versions from urochordates, nematodes, echinoderms, arthropods,
+lophotrochozoans, cnidarians, and porifera. Evolutionary analysis suggests a
+fundamental division of AADs early in metazoan evolution into secreted deaminases
+(SNADs) and classical AADs, followed by diversification into several clades
+driven by rapid-sequence evolution, gene loss, lineage-specific expansions, and
+lateral transfer to various algae. Most vertebrate AADs, including AID and
+APOBECs1-3, diversified in the vertebrates, whereas the APOBEC4-like clade has a 
+deeper origin in metazoa. Positional entropy analysis suggests that several AAD
+clades are diversifying rapidly, especially in the positions predicted to
+interact with the nucleic acid target motif, and with potential viral inhibitors.
+Further, several AADs have evolved neomorphic metal-binding inserts, especially
+within loops predicted to interact with the target nucleic acid. We also observe 
+polymorphisms, driven by alternative splicing, gene loss, and possibly intergenic
+recombination between paralogs. We propose that biological conflicts of AADs with
+viruses and genomic retroelements are drivers of rapid AAD evolution, suggesting 
+a widespread presence of mutagenesis-based immune-defense systems. Deaminases
+like AID represent versions "institutionalized" from the broader array of AADs
+pitted in such arms races for mutagenesis of self-DNA, and similar recruitment
+might have independently occurred elsewhere in metazoa.
+
+Copyright © 2018 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.1720897115 
+PMCID: PMC5889660
+PMID: 29555751  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

@@ -1,0 +1,54 @@
+
+1. Magn Reson Med. 2018 Jul;80(1):304-316. doi: 10.1002/mrm.27018. Epub 2017 Nov 29.
+
+Using MRI cell tracking to monitor immune cell recruitment in response to a
+peptide-based cancer vaccine.
+
+Tremblay ML(1), Davis C(1), Bowen CV(1)(2)(3), Stanley O(1), Parsons C(1), Weir
+G(4), Karkada M(5), Stanford MM(4)(6), Brewer KD(1)(2)(3)(7)(6).
+
+Author information: 
+(1)Biomedical Translational Imaging Centre (BIOTIC), Halifax, Nova Scotia,
+Canada.
+(2)Department of Diagnostic Radiology, Dalhousie University, Halifax, Nova
+Scotia, Canada.
+(3)Department of Physics and Atmospheric Science, Dalhousie University, Halifax, 
+Nova Scotia, Canada.
+(4)Immunovaccine Inc., Halifax, Nova Scotia, Canada.
+(5)Wyss Institute at Harvard Medical School, Boston, Massachusetts, USA.
+(6)Department of Microbiology and Immunology, Dalhousie University, Halifax, Nova
+Scotia, Canada.
+(7)School of Biomedical Engineering, Dalhousie University, Halifax, Nova Scotia, 
+Canada.
+
+PURPOSE: MRI cell tracking can be used to monitor immune cells involved in the
+immunotherapy response, providing insight into the mechanism of action, temporal 
+progression of tumor growth, and individual potency of therapies. To evaluate
+whether MRI could be used to track immune cell populations in response to
+immunotherapy, CD8+ cytotoxic T cells, CD4+ CD25+ FoxP3+ regulatory T cells, and 
+myeloid-derived suppressor cells were labeled with superparamagnetic iron oxide
+particles.
+METHODS: Superparamagnetic iron oxide-labeled cells were injected into mice (one 
+cell type/mouse) implanted with a human papillomavirus-based cervical cancer
+model. Half of these mice were also vaccinated with DepoVaxTM (ImmunoVaccine,
+Inc., Halifax, Nova Scotia, Canada), a lipid-based vaccine platform that was
+developed to enhance the potency of peptide-based vaccines.
+RESULTS: MRI visualization of CD8+ cytotoxic T cells, regulatory T cells, and
+myeloid-derived suppressor cells was apparent 24 h post-injection, with
+hypointensities due to iron-labeled cells clearing approximately 72 h
+post-injection. Vaccination resulted in increased recruitment of CD8+ cytotoxic T
+cells, and decreased recruitment of myeloid-derived suppressor cells and
+regulatory T cells to the tumor. We also found that myeloid-derived suppressor
+cell and regulatory T cell recruitment were positively correlated with final
+tumor volume.
+CONCLUSION: This type of analysis can be used to noninvasively study changes in
+immune cell recruitment in individual mice over time, potentially allowing
+improved application and combination of immunotherapies. Magn Reson Med
+80:304-316, 2018. © 2017 International Society for Magnetic Resonance in
+Medicine.
+
+© 2017 International Society for Magnetic Resonance in Medicine.
+
+DOI: 10.1002/mrm.27018 
+PMID: 29193231  [Indexed for MEDLINE]
+

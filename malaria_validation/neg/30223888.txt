@@ -1,0 +1,51 @@
+
+1. Microbiome. 2018 Sep 17;6(1):164. doi: 10.1186/s40168-018-0540-2.
+
+Restriction enzyme digestion of host DNA enhances universal detection of
+parasitic pathogens in blood via targeted amplicon deep sequencing.
+
+Flaherty BR(1)(2), Talundzic E(3), Barratt J(1)(2), Kines KJ(1), Olsen C(4), Lane
+M(1)(5), Sheth M(6), Bradbury RS(7).
+
+Author information: 
+(1)Parasitic Diseases Branch, Division of Parasitic Diseases and Malaria, Centers
+for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA, 30329, USA.
+(2)Oak Ridge Institute for Science and Education, 100 ORAU Way, Oak Ridge, TN,
+37830, USA.
+(3)Malaria Branch, Division of Parasitic Diseases and Malaria, Centers for
+Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA, 30329, USA.
+(4)Pacific Biosciences, 1380 Willow Road, Menlo Park, CA, 94025, USA.
+(5)IHRC, Inc., 2 Ravinia Drive, Atlanta, GA, 30346, USA.
+(6)Biotechnology Core Facility, Centers for Disease Control and Prevention, 1600 
+Clifton Road, Atlanta, GA, 30329, USA.
+(7)Parasitic Diseases Branch, Division of Parasitic Diseases and Malaria, Centers
+for Disease Control and Prevention, 1600 Clifton Road, Atlanta, GA, 30329, USA.
+isl5@cdc.gov.
+
+BACKGROUND: Targeted amplicon deep sequencing (TADS) of the 16S rRNA gene is
+commonly used to explore and characterize bacterial microbiomes. Meanwhile,
+attempts to apply TADS to the detection and characterization of entire parasitic 
+communities have been hampered since conserved regions of many conserved parasite
+genes, such as the 18S rRNA gene, are also conserved in their eukaryotic hosts.
+As a result, targeted amplification of 18S rRNA from clinical samples using
+universal primers frequently results in competitive priming and preferential
+amplification of host DNA. Here, we describe a novel method that employs a single
+pair of universal primers to capture all blood-borne parasites while reducing
+host 18S rRNA template and enhancing the amplification of parasite 18S rRNA for
+TADS. This was achieved using restriction enzymes to digest the 18S rRNA gene at 
+cut sites present only in the host sequence prior to PCR amplification.
+RESULTS: This method was validated against 16 species of blood-borne helminths
+and protozoa. Enzyme digestion prior to PCR enrichment and Illumina amplicon deep
+sequencing led to a substantial reduction in human reads and a corresponding 5-
+to 10-fold increase in parasite reads relative to undigested samples. This method
+allowed for discrimination of all common parasitic agents found in human blood,
+even in cases of multi-parasite infection, and markedly reduced the limit of
+detection in digested versus undigested samples.
+CONCLUSIONS: The results herein provide a novel methodology for the reduction of 
+host DNA prior to TADS and establish the validity of a next-generation
+sequencing-based platform for universal parasite detection.
+
+DOI: 10.1186/s40168-018-0540-2 
+PMCID: PMC6142370
+PMID: 30223888  [Indexed for MEDLINE]
+

@@ -1,0 +1,51 @@
+
+1. Virol J. 2013 Jul 25;10:243. doi: 10.1186/1743-422X-10-243.
+
+Influenza A/Hong Kong/156/1997(H5N1) virus NS1 gene mutations F103L and M106I
+both increase IFN antagonism, virulence and cytoplasmic localization but differ
+in binding to RIG-I and CPSF30.
+
+Dankar SK(1), Miranda E, Forbes NE, Pelchat M, Tavassoli A, Selman M, Ping J, Jia
+J, Brown EG.
+
+Author information: 
+(1)Department of Biochemistry, Microbiology and Immunology, Faculty of Medicine, 
+University of Ottawa, 451 Smyth Rd, Ottawa, Ontario K1H 8M5, Canada.
+
+BACKGROUND: The genetic basis for avian to mammalian host switching in influenza 
+A virus is largely unknown. The human A/HK/156/1997 (H5N1) virus that transmitted
+from poultry possesses NS1 gene mutations F103L + M106I that are virulence
+determinants in the mouse model of pneumonia; however their individual roles have
+not been determined. The emergent A/Shanghai/patient1/2013(H7N9)-like viruses
+also possess these mutations which may contribute to their virulence and ability 
+to switch species.
+METHODS: NS1 mutant viruses were constructed by reverse genetics and site
+directed mutagenesis on human and mouse-adapted backbones. Mouse infections
+assessed virulence, virus yield, tissue infection, and IFN induction. NS1 protein
+properties were assessed for subcellular distribution, IFN antagonism (mouse and 
+human), CPSF30 and RIG-I domain binding, host transcription (microarray); and the
+natural prevalence of 103L and 106I mutants was assessed.
+RESULTS: Each of the F103L and M106I mutations contributes additively to
+virulence to reduce the lethal dose by >800 and >3,200 fold respectively by
+mediating alveolar tissue infection with >100 fold increased infectious yields.
+The 106I NS1 mutant lost CPSF binding but the 103L mutant maintained binding that
+correlated with an increased general decrease in host gene expression in human
+but not mouse cells. Each mutation positively modulated the inhibition of IFN
+induction in mouse cells and activation of the IFN-β promoter in human cells but 
+not in combination in human cells indicating negative epistasis. Each of the
+F103L and M106I mutations restored a defect in cytoplasmic localization of H5N1
+NS1 in mouse cells. Human H1N1 and H3N2 NS1 proteins bound to the CARD, helicase 
+and RD RIG-I domains, whereas the H5N1 NS1 with the same consensus 103F and 106M 
+mutations did not bind these domains, which was totally or partially restored by 
+the M106I or F103L mutations respectively.
+CONCLUSIONS: The F103L and M106I mutations in the H5N1 NS1 protein each increased
+IFN antagonism and mediated interstitial pneumonia in mice that was associated
+with increased cytoplasmic localization and altered host factor binding. These
+mutations may contribute to the ability of previous HPAI H5N1 and recent LPAI
+H7N9 and H6N1 (NS1-103L+106M) viruses to switch hosts and cause disease in
+humans.
+
+DOI: 10.1186/1743-422X-10-243 
+PMCID: PMC3733596
+PMID: 23886034  [Indexed for MEDLINE]
+

@@ -1,0 +1,39 @@
+
+1. J Biomol Struct Dyn. 2019 Sep;37(15):4104-4119. doi:
+10.1080/07391102.2018.1544509. Epub 2018 Dec 24.
+
+Pharmacoinformatics-based identification of chemically active molecules against
+Ebola virus.
+
+Islam MA(1)(2), Pillay TS(1)(3).
+
+Author information: 
+(1)a Department of Chemical Pathology, Faculty of Health Sciences, University of 
+Pretoria and National Health Laboratory Service Tshwane Academic Division ,
+Pretoria , South Africa.
+(2)b School of Health Sciences, University of Kwazulu-Natal, Westville Campus ,
+Durban , South Africa.
+(3)c Division of Chemical Pathology, University of Cape Town , Cape Town , South 
+Africa.
+
+Ebola is a dangerous virus transmitted by animals and humans and to date there is
+no curable agent for such a deadly infectious disease. In this study,
+pharmacoinformatics-based methods were adopted to find effective novel chemical
+entities against Ebola virus. A well predictive and statistical robust
+pharmacophore model was developed from known Ebola virus inhibitors collected
+from the literature. The model explained the significance of each of hydrogen
+bond acceptor and donor, and two hydrophobic regions for activity. The National
+Cancer Institute and Asinex (Antiviral library) databases were screened using the
+final validated pharmacophore model. Initial hits were further screened with a
+set of criteria and finally eight molecules from both databases were proposed as 
+promising anti Ebola agents. Further molecular docking and molecular dynamics
+studies were carried out and it was found that the proposed molecules possessed
+capability to interact with amino residues of Ebola protein as well as retaining 
+equilibrium of protein-ligand systems. Finally, the binding energies were
+calculated using molecular mechanics Poisson-Boltzmann surface area approach and 
+all proposed molecules showed strong binding affinity towards the Ebola protein
+receptor. Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2018.1544509 
+PMID: 30449258  [Indexed for MEDLINE]
+

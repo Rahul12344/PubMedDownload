@@ -1,0 +1,35 @@
+
+1. J Chem Phys. 2013 Feb 21;138(7):071103. doi: 10.1063/1.4791708.
+
+Communication: Origin of the contributions to DNA structure in phages.
+
+Myers CG(1), Pettitt BM.
+
+Author information: 
+(1)Program in Structural and Computational Biology and Molecular Biophysics,
+Baylor College of Medicine, Houston, Texas 77030-3411, USA.
+
+Cryo electron microscopy (cryo-EM) data of the interior of phages show ordering
+of the interior DNA that has been interpreted as a nearly perfectly ordered
+polymer. We show surface-induced correlations, excluded volume, and electrostatic
+forces are sufficient to predict most of the major features of the current
+structural data for DNA packaged within viral capsids without additional ordering
+due to elastic bending forces for the polymer. Current models assume
+highly-ordered, even spooled, hexagonally packed conformations based on
+interpretation of cryo-EM density maps. We show herein that the surface induced
+packing of short (6mer), unconnected DNA polymer segments is the only necessary
+ingredient in creating ringed densities consistent with experimental density
+maps. This implies the ensemble of possible conformations of polymeric DNA within
+the capsid that are consistent with cryo-EM data may be much larger than implied 
+by traditional interpretations where such rings can only result from
+highly-ordered spool-like conformations. This opens the possibility of a more
+disordered, entropically-driven view of phage packaging thermodynamics. We also
+show the electrostatics of the DNA contributes a large portion of the internal
+hydrostatic and osmotic pressures of a phage virion, suggesting that nonlinear
+elastic anomalies might reduce the overall elastic bending enthalpy of more
+disordered conformations to have allowable free energies.
+
+DOI: 10.1063/1.4791708 
+PMCID: PMC3592880
+PMID: 23444988  [Indexed for MEDLINE]
+

@@ -1,0 +1,46 @@
+
+1. Proc Natl Acad Sci U S A. 2015 Jan 13;112(2):554-9. doi: 10.1073/pnas.1422580112.
+Epub 2014 Dec 24.
+
+Epstein-Barr virus nuclear antigen 3A partially coincides with EBNA3C genome-wide
+and is tethered to DNA through BATF complexes.
+
+Schmidt SC(1), Jiang S(1), Zhou H(1), Willox B(2), Holthaus AM(2), Kharchenko
+PV(3), Johannsen EC(4), Kieff E(5), Zhao B(1).
+
+Author information: 
+(1)Department of Microbiology and Immunobiology, Harvard Medical School, Boston, 
+MA 02115; Department of Medicine, Brigham and Women's Hospital, Boston, MA 02115;
+(2)Department of Medicine, Brigham and Women's Hospital, Boston, MA 02115;
+(3)Center for Biomedical Informatics, Harvard Medical School and Division of
+Hematology, Children's Hospital, Boston, MA 02115; and.
+(4)Department of Medicine and McArdle Laboratory for Cancer Research, University 
+of Wisconsin, Madison, WI 53706.
+(5)Department of Microbiology and Immunobiology, Harvard Medical School, Boston, 
+MA 02115; Department of Medicine, Brigham and Women's Hospital, Boston, MA 02115;
+ekieff@rics.bwh.harvard.edu.
+
+Epstein-Barr Virus (EBV) conversion of B-lymphocytes to Lymphoblastoid Cell Lines
+(LCLs) requires four EBV nuclear antigen (EBNA) oncoproteins: EBNA2, EBNALP,
+EBNA3A, and EBNA3C. EBNA2 and EBNALP associate with EBV and cell enhancers,
+up-regulate the EBNA promoter, MYC, and EBV Latent infection Membrane Proteins
+(LMPs), which up-regulate BCL2 to protect EBV-infected B-cells from MYC
+proliferation-induced cell death. LCL proliferation induces p16(INK4A) and
+p14(ARF)-mediated cell senescence. EBNA3A and EBNA3C jointly suppress p16(INK4A) 
+and p14(ARF), enabling continuous cell proliferation. Analyses of the EBNA3A
+human genome-wide ChIP-seq landscape revealed 37% of 10,000 EBNA3A sites to be at
+strong enhancers; 28% to be at weak enhancers; 4.4% to be at active promoters;
+and 6.9% to be at weak and poised promoters. EBNA3A colocalized with BATF-IRF4,
+ETS-IRF4, RUNX3, and other B-cell Transcription Factors (TFs). EBNA3A sites
+clustered into seven unique groups, with differing B-cell TFs and epigenetic
+marks. EBNA3A coincidence with BATF-IRF4 or RUNX3 was associated with stronger
+EBNA3A ChIP-Seq signals. EBNA3A was at MYC, CDKN2A/B, CCND2, CXCL9/10, and BCL2, 
+together with RUNX3, BATF, IRF4, and SPI1. ChIP-re-ChIP revealed complexes of
+EBNA3A on DNA with BATF. These data strongly support a model in which EBNA3A is
+tethered to DNA through a BATF-containing protein complexes to enable continuous 
+cell proliferation.
+
+DOI: 10.1073/pnas.1422580112 
+PMCID: PMC4299249
+PMID: 25540416  [Indexed for MEDLINE]
+

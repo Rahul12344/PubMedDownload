@@ -1,0 +1,34 @@
+
+1. J Comput Chem. 2009 Feb;30(3):423-37. doi: 10.1002/jcc.21071.
+
+Molecular dynamics/order parameter extrapolation for bionanosystem simulations.
+
+Miao Y(1), Ortoleva PJ.
+
+Author information: 
+(1)Center for Cell and Virus Theory, Department of Chemistry, Indiana University,
+Bloomington, Indiana 47405, USA.
+
+A multiscale approach, molecular dynamics/order parameter extrapolation (MD/OPX),
+to the all-atom simulation of large bionanosystems is presented. The approach
+starts with the introduction of a set of order parameters (OPs) automatically
+generated with orthogonal polynomials to characterize the nanoscale features of
+bionanosystems. The OPs are shown to evolve slowly via Newton's equations, and
+the all-atom multiscale analysis (AMA) developed earlier (Miao and Ortoleva, J
+Chem Phys 2006, 125, 44901) demonstrates the existence of their stochastic
+dynamics, which serve as the justification for our MD/OPX approach. In MD/OPX, a 
+short MD run estimates the rate of change of the OPs, which is then used to
+extrapolate the state of the system over time that is much longer than the
+10(-14) second timescale of fast atomic vibrations and collisions. The approach
+is implemented in NAMD and demonstrated on cowpea chlorotic mottle virus (CCMV)
+capsid structural transitions (STs). It greatly accelerates the MD code and its
+underlying all-atom description of the nanosystems enables the use of a universal
+interatomic force field, avoiding recalibration with each new application as
+needed for coarse-grained models. The source code of MD/OPX is distributed free
+of charge at https://simtk.org/home/mdopx and a web portal will be available via 
+http://sysbio.indiana.edu/virusx.
+
+DOI: 10.1002/jcc.21071 
+PMCID: PMC3351762
+PMID: 18636559  [Indexed for MEDLINE]
+

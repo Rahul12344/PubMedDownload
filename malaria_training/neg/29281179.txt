@@ -1,0 +1,57 @@
+
+1. FEBS J. 2018 Mar;285(5):848-870. doi: 10.1111/febs.14370. Epub 2018 Jan 11.
+
+A high parasite density environment induces transcriptional changes and cell
+death in Plasmodium falciparum blood stages.
+
+Chou ES(1), Abidi SZ(2), Teye M(3), Leliwa-Sytek A(3), Rask TS(3), Cobbold SA(1),
+Tonkin-Hill GQ(4), Subramaniam KS(5), Sexton AE(6), Creek DJ(6), Daily JP(7),
+Duffy MF(1), Day KP(1).
+
+Author information: 
+(1)Bio21 Institute for Molecular Science and Biotechnology and School of
+BioSciences, University of Melbourne, Parkville, VIC., Australia.
+(2)Department of Materials Science and Engineering, Massachusetts Institute of
+Technology, Cambridge, MA, USA.
+(3)Department of Microbiology, Division of Medical Parasitology, New York
+University School of Medicine, NY, USA.
+(4)Walter and Eliza Hall Institute of Medical Research, Parkville, VIC.,
+Australia.
+(5)Department of Parasitology, Liverpool School of Tropical Medicine, Pembroke
+Place, Liverpool, UK.
+(6)Drug Delivery Disposition and Dynamics, Monash Institute of Pharmaceutical
+Sciences, Monash University, Parkville, VIC., Australia.
+(7)Department of Medicine, Department of Microbiology and Immunology, Albert
+Einstein College of Medicine, Bronx, NY, USA.
+
+Transient regulation of Plasmodium numbers below the density that induces fever
+has been observed in chronic malaria infections in humans. This species
+transcending control cannot be explained by immunity alone. Using an in vitro
+system we have observed density dependent regulation of malaria population size
+as a mechanism to possibly explain these in vivo observations. Specifically,
+Plasmodium falciparum blood stages from a high but not low-density environment
+exhibited unique phenotypic changes during the late trophozoite (LT) and schizont
+stages of the intraerythrocytic cycle. These included in order of appearance:
+failure of schizonts to mature and merozoites to replicate, apoptotic-like
+morphological changes including shrinking, loss of mitochondrial membrane
+potential, and blebbing with eventual release of aberrant parasites from infected
+erythrocytes. This unique death phenotype was triggered in a stage-specific
+manner by sensing of a high-density culture environment. Conditions of glucose
+starvation, nutrient depletion, and high lactate could not induce the phenotype. 
+A high-density culture environment induced rapid global changes in the parasite
+transcriptome including differential expression of genes involved in cell
+remodeling, clonal antigenic variation, metabolism, and cell death pathways
+including an apoptosis-associated metacaspase gene. This transcriptional profile 
+was also characterized by concomitant expression of asexual and sexual
+stage-specific genes. The data show strong evidence to support our hypothesis
+that density sensing exists in P. falciparum. They indicate that an
+apoptotic-like mechanism may play a role in P. falciparum density regulation,
+which, as in yeast, has features quite distinguishable from mammalian
+apoptosis.DATABASE: Gene expression data are available in the GEO databases under
+the accession number GSE91188.
+
+© 2017 Federation of European Biochemical Societies.
+
+DOI: 10.1111/febs.14370 
+PMID: 29281179  [Indexed for MEDLINE]
+

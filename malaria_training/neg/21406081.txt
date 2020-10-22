@@ -1,0 +1,45 @@
+
+1. BMC Evol Biol. 2011 Mar 15;11:70. doi: 10.1186/1471-2148-11-70.
+
+Mitochondrial genes support a common origin of rodent malaria parasites and
+Plasmodium falciparum's relatives infecting great apes.
+
+Blanquart S(1), Gascuel O.
+
+Author information: 
+(1)Méthodes et Algorithmes pour la Bioinformatique, LIRMM, UMR 5506,
+CNRS-Université de Montpellier 2, Montpellier, France. samuel.blanquart@inria.fr
+
+BACKGROUND: Plasmodium falciparum is responsible for the most acute form of human
+malaria. Most recent studies demonstrate that it belongs to a monophyletic
+lineage specialized in the infection of great ape hosts. Several other Plasmodium
+species cause human malaria. They all belong to another distinct lineage of
+parasites which infect a wider range of primate species. All known mammalian
+malaria parasites appear to be monophyletic. Their clade includes the two
+previous distinct lineages of parasites of primates and great apes, one lineage
+of rodent parasites, and presumably Hepatocystis species. Plasmodium falciparum
+and great ape parasites are commonly thought to be the sister-group of all other 
+mammal-infecting malaria parasites. However, some studies supported contradictory
+origins and found parasites of great apes to be closer to those of rodents, or to
+those of other primates.
+RESULTS: To distinguish between these mutually exclusive hypotheses on the origin
+of Plasmodium falciparum and its great ape infecting relatives, we performed a
+comprehensive phylogenetic analysis based on a data set of three mitochondrial
+genes from 33 to 84 malaria parasites. We showed that malarial mitochondrial
+genes have evolved slowly and are compositionally homogeneous. We estimated their
+phylogenetic relationships using Bayesian and maximum-likelihood methods.
+Inferred trees were checked for their robustness to the (i) site selection, (ii) 
+assumptions of various probabilistic models, and (iii) taxon sampling. Our
+results robustly support a common ancestry of rodent parasites and Plasmodium
+falciparum's relatives infecting great apes.
+CONCLUSIONS: Our results refute the most common view of the origin of great ape
+malaria parasites, and instead demonstrate the robustness of a less
+well-established phylogenetic hypothesis, under which Plasmodium falciparum and
+its relatives infecting great apes are closely related to rodent parasites. This 
+study sheds light on the evolutionary history of Plasmodium falciparum, a major
+issue for human health.
+
+DOI: 10.1186/1471-2148-11-70 
+PMCID: PMC3070646
+PMID: 21406081  [Indexed for MEDLINE]
+

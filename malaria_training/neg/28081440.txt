@@ -1,0 +1,38 @@
+
+1. Cell Host Microbe. 2017 Jan 11;21(1):11-22. doi: 10.1016/j.chom.2016.12.003.
+
+A Knockout Screen of ApiAP2 Genes Reveals Networks of Interacting Transcriptional
+Regulators Controlling the Plasmodium Life Cycle.
+
+Modrzynska K(1), Pfander C(2), Chappell L(2), Yu L(2), Suarez C(2), Dundas K(2), 
+Gomes AR(2), Goulding D(2), Rayner JC(2), Choudhary J(2), Billker O(3).
+
+Author information: 
+(1)Wellcome Trust Sanger Institute, Hinxton, Cambridge CB10 1SA, UK. Electronic
+address: km8@sanger.ac.uk.
+(2)Wellcome Trust Sanger Institute, Hinxton, Cambridge CB10 1SA, UK.
+(3)Wellcome Trust Sanger Institute, Hinxton, Cambridge CB10 1SA, UK. Electronic
+address: ob4@sanger.ac.uk.
+
+A family of apicomplexa-specific proteins containing AP2 DNA-binding domains
+(ApiAP2s) was identified in malaria parasites. This family includes
+sequence-specific transcription factors that are key regulators of development.
+However, functions for the majority of ApiAP2 genes remain unknown. Here, a
+systematic knockout screen in Plasmodium berghei identified ten ApiAP2 genes that
+were essential for mosquito transmission: four were critical for the formation of
+infectious ookinetes, and three were required for sporogony. We describe
+non-essential functions for AP2-O and AP2-SP proteins in blood stages, and
+identify AP2-G2 as a repressor active in both asexual and sexual stages.
+Comparative transcriptomics across mutants and developmental stages revealed
+clusters of co-regulated genes with shared cis promoter elements, whose
+expression can be controlled positively or negatively by different ApiAP2
+factors. We propose that stage-specific interactions between ApiAP2 proteins on
+partly overlapping sets of target genes generate the complex transcriptional
+network that controls the Plasmodium life cycle.
+
+Copyright © 2017 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chom.2016.12.003 
+PMCID: PMC5241200
+PMID: 28081440  [Indexed for MEDLINE]
+

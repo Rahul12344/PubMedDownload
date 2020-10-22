@@ -1,0 +1,36 @@
+
+1. Nucleic Acids Res. 2020 Jan 8;48(D1):D768-D775. doi: 10.1093/nar/gkz662.
+
+Malaria.tools-comparative genomic and transcriptomic database for Plasmodium
+species.
+
+Tan QW(1), Mutwil M(1).
+
+Author information: 
+(1)School of Biological Sciences, Nanyang Technological University, 60 Nanyang
+Drive, Singapore 637551, Singapore.
+
+Malaria is a tropical parasitic disease caused by the Plasmodium genus, which
+resulted in an estimated 219 million cases of malaria and 435 000 malaria-related
+deaths in 2017. Despite the availability of the Plasmodium falciparum genome
+since 2002, 74% of the genes remain uncharacterized. To remedy this paucity of
+functional information, we used transcriptomic data to build gene co-expression
+networks for two Plasmodium species (P. falciparum and P. berghei), and included 
+genomic data of four other Plasmodium species, P. yoelii, P. knowlesi, P. vivax
+and P. cynomolgi, as well as two non-Plasmodium species from the Apicomplexa,
+Toxoplasma gondii and Theileria parva. The genomic and transcriptomic data were
+incorporated into the resulting database, malaria.tools, which is preloaded with 
+tools that allow the identification and cross-species comparison of co-expressed 
+gene neighbourhoods, clusters and life stage-specific expression, thus providing 
+sophisticated tools to predict gene function. Moreover, we exemplify how the
+tools can be used to easily identify genes relevant for pathogenicity and various
+life stages of the malaria parasite. The database is freely available at
+www.malaria.tools.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkz662 
+PMCID: PMC6943069
+PMID: 31372645  [Indexed for MEDLINE]
+

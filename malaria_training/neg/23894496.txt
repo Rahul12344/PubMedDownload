@@ -1,0 +1,45 @@
+
+1. PLoS One. 2013 Jul 24;8(7):e69505. doi: 10.1371/journal.pone.0069505. Print 2013.
+
+Nonlinear mixed-effects modelling of in vitro drug susceptibility and molecular
+correlates of multidrug resistant Plasmodium falciparum.
+
+Simpson JA(1), Jamsen KM, Anderson TJ, Zaloumis S, Nair S, Woodrow C, White NJ,
+Nosten F, Price RN.
+
+Author information: 
+(1)Centre for Molecular, Environmental, Genetic & Analytic Epidemiology,
+Melbourne School of Population and Global Health, University of Melbourne,
+Melbourne, Australia. julieas@unimelb.edu.au
+
+The analysis of in vitro anti-malarial drug susceptibility testing is vulnerable 
+to the effects of different statistical approaches and selection biases. These
+confounding factors were assessed with respect to pfmdr1 gene mutation and
+amplification in 490 clinical isolates. Two statistical approaches for estimating
+the drug concentration associated with 50% effect (EC50 ) were compared: the
+commonly used standard two-stage (STS) method, and nonlinear mixed-effects
+modelling. The in vitro concentration-effect relationships for, chloroquine,
+mefloquine, lumefantrine and artesunate, were derived from clinical isolates
+obtained from patients on the western border of Thailand. All isolates were
+genotyped for polymorphisms in the pfmdr1 gene. The EC50 estimates were similar
+for the two statistical approaches but 15-28% of isolates in the STS method had a
+high coefficient of variation (>15%) for individual estimates of EC50 and these
+isolates had EC50 values that were 32 to 66% higher than isolates derived with
+more precision. In total 41% (202/490) of isolates had amplification of pfmdr1
+and single nucleotide polymorphisms were found in 50 (10%). Pfmdr1 amplification 
+was associated with an increase in EC50 for mefloquine (139% relative increase in
+EC50 for 2 copies, 188% for 3+ copies), lumefantrine (82% and 75% for 2 and 3+
+copies respectively) and artesunate (63% and 127% for 2 and 3+ copies
+respectively). In contrast pfmdr1 mutation at codons 86 or 1042 were associated
+with an increase in chloroquine EC50 (44-48%). Sample size calculations showed
+that to demonstrate an EC50 shift of 50% or more with 80% power if the prevalence
+was 10% would require 430 isolates and 245 isolates if the prevalence was 20%. In
+conclusion, although nonlinear mixed-effects modelling did not demonstrate any
+major advantage for determining estimates of anti-malarial drug susceptibility,
+the method includes all isolates, thereby, potentially improving confirmation of 
+candidate molecular markers of anti-malarial drug susceptibility.
+
+DOI: 10.1371/journal.pone.0069505 
+PMCID: PMC3722116
+PMID: 23894496  [Indexed for MEDLINE]
+

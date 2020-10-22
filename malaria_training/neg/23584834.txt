@@ -1,0 +1,42 @@
+
+1. Database (Oxford). 2013 Apr 12;2013:bat021. doi: 10.1093/database/bat021. Print
+2013.
+
+A database for curating the associations between killer cell immunoglobulin-like 
+receptors and diseases in worldwide populations.
+
+Takeshita LY(1), Gonzalez-Galarza FF, dos Santos EJ, Maia MH, Rahman MM, Zain SM,
+Middleton D, Jones AR.
+
+Author information: 
+(1)Institute of Integrative Biology, Functional and Comparative Genomics,
+University of Liverpool, Liverpool, L69 7ZB, UK. L.Takeshita@liverpool.ac.uk
+
+The killer cell immunoglobulin-like receptors (KIR) play a fundamental role in
+the innate immune system, through their interactions with human leucocyte antigen
+(HLA) molecules, leading to the modulation of activity in natural killer (NK)
+cells, mainly related to killing pathogen-infected cells. KIR genes are hugely
+polymorphic both in the number of genes an individual carries and in the number
+of alleles identified. We have previously developed the Allele Frequency Net
+Database (AFND, http://www.allelefrequencies.net), which captures worldwide
+frequencies of alleles, genes and haplotypes for several immune genes, including 
+KIR genes, in healthy populations, covering >4 million individuals. Here, we
+report the creation of a new database within AFND, named KIR and Diseases
+Database (KDDB), capturing a large quantity of data derived from publications in 
+which KIR genes, alleles, genotypes and/or haplotypes have been associated with
+infectious diseases (e.g. hepatitis C, HIV, malaria), autoimmune disorders (e.g. 
+type I diabetes, rheumatoid arthritis), cancer and pregnancy-related
+complications. KDDB has been created through an extensive manual curation effort,
+extracting data on more than a thousand KIR-disease records, comprising >50 000
+individuals. KDDB thus provides a new community resource for understanding not
+only how KIR genes are associated with disease, but also, by working in tandem
+with the large data sets already present in AFND, where particular genes,
+genotypes or haplotypes are present in worldwide populations or different ethnic 
+groups. We anticipate that KDDB will be an important resource for researchers
+working in immunogenetics. Database URL:
+http://www.allelefrequencies.net/diseases/.
+
+DOI: 10.1093/database/bat021 
+PMCID: PMC3625957
+PMID: 23584834  [Indexed for MEDLINE]
+

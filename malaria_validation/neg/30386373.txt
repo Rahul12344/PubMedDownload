@@ -1,0 +1,57 @@
+
+1. Front Genet. 2018 Oct 17;9:446. doi: 10.3389/fgene.2018.00446. eCollection 2018.
+
+Metanetwork Transmission Model for Predicting a Malaria-Control Strategy.
+
+Li B(1)(2), Liu X(3), Wang WJ(4), Zhao F(1)(2), An ZY(1)(2), Zhao H(3).
+
+Author information: 
+(1)Shandong Technology and Business University, School of Computer Science and
+Technology, Yantai, China.
+(2)Shandong Co-Innovation Center of Future Intelligent Computing, Yantai, China.
+(3)Northeastern University, School of Computer Science and Engineering, Shenyang,
+China.
+(4)Yantai Yuhuangding Hospital of Qingdao University, Reproduction Medical
+Center, Yantai, China.
+
+Background: Mosquitoes are the primary vectors responsible for malaria
+transmission to humans, with numerous experiments having been conducted to aid in
+the control of malaria transmission. One of the main approaches aims to develop
+malaria parasite resistance within the mosquito population by introducing a
+resistance (R) allele. However, when considering this approach, some critical
+factors, such as the life of the mosquito, female mosquito fertility capacity,
+and human and mosquito mobility, have not been considered. Thus, an understanding
+of how mosquitoes and humans affect disease dynamics is needed to better inform
+malaria control policymaking. Methods: In this study, a method was proposed to
+create a metanetwork on the basis of the geographic maps of Gambia, and a model
+was constructed to simulate evolution within a mixed population, with factors
+such as birth, death, reproduction, biting, infection, incubation, recovery, and 
+transmission between populations considered in the network metrics. First, the
+same number of refractory mosquitoes (RR genotype) was introduced into each
+population, and the prevalence of the R allele (the ratio of resistant alleles to
+all alleles) and malaria were examined. In addition, a series of simulations were
+performed to evaluate two different deployment strategies for the reduction of
+the prevalence of malaria. The R allele and malaria prevalence were calculated
+for both the strategies, with 10,000 refractory mosquitoes deployed into randomly
+selected populations or selection based on nodes with top-betweenness values. The
+10,000 mosquitoes were deployed among 1, 5, 10, 20, or 40 populations. Results:
+The simulations in this paper showed that a higher RR genotype
+(resistant-resistant genes) ratio leads to a higher R allele prevalence and
+lowers malaria prevalence. Considering the cost of deployment, the simulation was
+performed with 10,000 refractory mosquitoes deployed among 1 or 5 populations,
+but this approach did not reduce the original malaria prevalence. Thus, instead, 
+the 10,000 refractory mosquitoes were distributed among 10, 20, or 40 populations
+and were shown to effectively reduce the original malaria prevalence. Thus,
+deployment among a relatively small fraction of central nodes can offer an
+effective strategy to reduce malaria. Conclusion: The standard network centrality
+measure is suitable for planning the deployment of refractory mosquitoes.
+Importance: Malaria is an infectious disease that is caused by a plasmodial
+parasite, and some control strategies have focused on genetically modifying the
+mosquitoes. This work aims to create a model that takes into account mosquito
+development and malaria transmission among the population and how these factors
+influence disease dynamics so as to better inform malaria-control policymaking.
+
+DOI: 10.3389/fgene.2018.00446 
+PMCID: PMC6199348
+PMID: 30386373 
+

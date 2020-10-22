@@ -1,0 +1,49 @@
+
+1. Wellcome Open Res. 2017 Jun 16;2:42. doi: 10.12688/wellcomeopenres.11864.1.
+eCollection 2017.
+
+An improved Plasmodium cynomolgi genome assembly reveals an unexpected
+methyltransferase gene expansion.
+
+Pasini EM(1), Böhme U(2), Rutledge GG(2), Voorberg-Van der Wel A(1), Sanders
+M(2), Berriman M(2), Kocken CH(1), Otto TD(2).
+
+Author information: 
+(1)Biomedical Primate Research Centre, Rijswijk, Lange Kleiweg 161, 2288GJ
+Rijswijk, Netherlands.
+(2)The Wellcome Trust Sanger Institute, Hinxton, Cambridge, CB10 1SA, UK.
+
+BACKGROUND: Plasmodium cynomolgi, a non-human primate malaria parasite species,
+has been an important model parasite since its discovery in 1907. Similarities in
+the biology of P. cynomolgi to the closely related, but less tractable, human
+malaria parasite P. vivax make it the model parasite of choice for liver biology 
+and vaccine studies pertinent to P. vivax malaria. Molecular and genome-scale
+studies of P. cynomolgi have relied on the current reference genome sequence,
+which remains highly fragmented with 1,649 unassigned scaffolds and little
+representation of the subtelomeres.  Methods: Using long-read sequence data
+(Pacific Biosciences SMRT technology), we assembled and annotated a new reference
+genome sequence, PcyM, sourced from an Indian rhesus monkey. We compare the newly
+assembled genome sequence with those of several other Plasmodium species,
+including a re-annotated P. coatneyi assembly.
+RESULTS: The new PcyM genome assembly is of significantly higher quality than the
+existing reference, comprising only 56 pieces, no gaps and an improved average
+gene length. Detailed manual curation has ensured a comprehensive annotation of
+the genome with 6,632 genes, nearly 1,000 more than previously attributed to P.
+cynomolgi. The new assembly also has an improved representation of the
+subtelomeric regions, which account for nearly 40% of the sequence. Within the
+subtelomeres, we identified more than 1300 Plasmodium interspersed repeat ( pir) 
+genes, as well as a striking expansion of 36 methyltransferase pseudogenes that
+originated from a single copy on chromosome 9.
+CONCLUSIONS: The manually curated PcyM reference genome sequence is an important 
+new resource for the malaria research community. The high quality and contiguity 
+of the data have enabled the discovery of a novel expansion of methyltransferase 
+in the subtelomeres, and illustrates the new comparative genomics capabilities
+that are being unlocked by complete reference genomes.
+
+DOI: 10.12688/wellcomeopenres.11864.1 
+PMCID: PMC5500898
+PMID: 28748222 
+
+Conflict of interest statement: Competing interests: None of the authors declared
+competing interest.
+

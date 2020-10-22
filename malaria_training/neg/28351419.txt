@@ -1,0 +1,53 @@
+
+1. Genome Med. 2017 Mar 28;9(1):30. doi: 10.1186/s13073-017-0422-4.
+
+New var reconstruction algorithm exposes high var sequence diversity in a single 
+geographic location in Mali.
+
+Dara A(1), Drábek EF(2), Travassos MA(1), Moser KA(2), Delcher AL(2), Su Q(2),
+Hostelley T(2), Coulibaly D(3), Daou M(3), Dembele A(3), Diarra I(3), Kone AK(3),
+Kouriba B(3), Laurens MB(1), Niangaly A(3), Traore K(3), Tolo Y(3), Fraser
+CM(2)(4)(5), Thera MA(3), Djimde AA(3), Doumbo OK(3), Plowe CV(1), Silva
+JC(6)(7).
+
+Author information: 
+(1)Division of Malaria Research, Institute for Global Health, University of
+Maryland School of Medicine, Baltimore, MD, USA.
+(2)Institute for Genome Sciences, University of Maryland School of Medicine,
+Baltimore, MD, USA.
+(3)Malaria Research and Training Center, University of Science, Techniques and
+Technologies, Bamako, Mali.
+(4)Department of Microbiology and Immunology, University of Maryland School of
+Medicine, Baltimore, MD, USA.
+(5)Department of Medicine, University of Maryland School of Medicine, Baltimore, 
+MD, USA.
+(6)Institute for Genome Sciences, University of Maryland School of Medicine,
+Baltimore, MD, USA. jcsilva@som.umaryland.edu.
+(7)Department of Microbiology and Immunology, University of Maryland School of
+Medicine, Baltimore, MD, USA. jcsilva@som.umaryland.edu.
+
+BACKGROUND: Encoded by the var gene family, highly variable Plasmodium falciparum
+erythrocyte membrane protein-1 (PfEMP1) proteins mediate tissue-specific
+cytoadherence of infected erythrocytes, resulting in immune evasion and severe
+malaria disease. Sequencing and assembling the 40-60 var gene complement for
+individual infections has been notoriously difficult, impeding molecular
+epidemiological studies and the assessment of particular var elements as subunit 
+vaccine candidates.
+METHODS: We developed and validated a novel algorithm, Exon-Targeted Hybrid
+Assembly (ETHA), to perform targeted assembly of var gene sequences, based on a
+combination of Pacific Biosciences and Illumina data.
+RESULTS: Using ETHA, we characterized the repertoire of var genes in 12 samples
+from uncomplicated malaria infections in children from a single Malian village
+and showed them to be as genetically diverse as vars from isolates from around
+the globe. The gene var2csa, a member of the var family associated with placental
+malaria pathogenesis, was present in each genome, as were vars previously
+associated with severe malaria.
+CONCLUSION: ETHA, a tool to discover novel var sequences from clinical samples,
+will aid the understanding of malaria pathogenesis and inform the design of
+malaria vaccines based on PfEMP1. ETHA is available at:
+https://sourceforge.net/projects/etha/ .
+
+DOI: 10.1186/s13073-017-0422-4 
+PMCID: PMC5368897
+PMID: 28351419  [Indexed for MEDLINE]
+

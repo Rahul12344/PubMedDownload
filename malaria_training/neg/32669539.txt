@@ -1,0 +1,41 @@
+
+1. Nat Commun. 2020 Jul 15;11(1):3532. doi: 10.1038/s41467-020-17306-1.
+
+Co-option of Plasmodium falciparum PP1 for egress from host erythrocytes.
+
+Paul AS(1), Miliu A(2), Paulo JA(3), Goldberg JM(1), Bonilla AM(1), Berry L(2),
+Seveno M(2), Braun-Breton C(2), Kosber AL(1), Elsworth B(1), Arriola JSN(1),
+Lebrun M(2), Gygi SP(3), Lamarque MH(4), Duraisingh MT(5).
+
+Author information: 
+(1)Department of Immunology and Infectious Diseases, Harvard T. H. Chan School of
+Public Health, Boston, 02115, MA, USA.
+(2)Laboratory of Pathogen Host Interaction (LPHI), UMR5235, Centre National de la
+Recherche Scientifique (CNRS), Université de Montpellier, 34095, Montpellier,
+France.
+(3)Department of Cell Biology, Harvard Medical School, Boston, 02115, MA, USA.
+(4)Laboratory of Pathogen Host Interaction (LPHI), UMR5235, Centre National de la
+Recherche Scientifique (CNRS), Université de Montpellier, 34095, Montpellier,
+France. mauld.lamarque@umontpellier.fr.
+(5)Department of Immunology and Infectious Diseases, Harvard T. H. Chan School of
+Public Health, Boston, 02115, MA, USA. mduraisi@hsph.harvard.edu.
+
+Asexual proliferation of the Plasmodium parasites that cause malaria follows a
+developmental program that alternates non-canonical intraerythrocytic replication
+with dissemination to new host cells. We carried out a functional analysis of the
+Plasmodium falciparum homolog of Protein Phosphatase 1 (PfPP1), a universally
+conserved cell cycle factor in eukaryotes, to investigate regulation of parasite 
+proliferation. PfPP1 is indeed required for efficient replication, but is
+absolutely essential for egress of parasites from host red blood cells. By
+phosphoproteomic and chemical-genetic analysis, we isolate two functional targets
+of PfPP1 for egress: a HECT E3 protein-ubiquitin ligase; and GCα, a fusion
+protein composed of a guanylyl cyclase and a phospholipid transporter domain. We 
+hypothesize that PfPP1 regulates lipid sensing by GCα and find that
+phosphatidylcholine stimulates PfPP1-dependent egress. PfPP1 acts as a key
+regulator that integrates multiple cell-intrinsic pathways with external signals 
+to direct parasite egress from host cells.
+
+DOI: 10.1038/s41467-020-17306-1 
+PMCID: PMC7363832
+PMID: 32669539  [Indexed for MEDLINE]
+

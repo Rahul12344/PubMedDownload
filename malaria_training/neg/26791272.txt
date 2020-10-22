@@ -1,0 +1,87 @@
+
+1. Malar J. 2016 Jan 20;15:30. doi: 10.1186/s12936-015-1081-9.
+
+UTR introns, antisense RNA and differentially spliced transcripts between
+Plasmodium yoelii subspecies.
+
+Li J(1), Cai B(2), Qi Y(3)(4), Zhao W(5), Liu J(6), Xu R(7), Pang Q(8), Tao Z(9),
+Hong L(10), Liu S(11), Leerkes M(12), Quiñones M(13), Su XZ(14)(15).
+
+Author information: 
+(1)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Signaling Network, School of Life Sciences, Xiamen University, Xiamen, Fujian,
+361005, People's Republic of China. jianli_204@xmu.edu.cn.
+(2)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Signaling Network, School of Life Sciences, Xiamen University, Xiamen, Fujian,
+361005, People's Republic of China. bcai@houstonmethodist.org.
+(3)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Signaling Network, School of Life Sciences, Xiamen University, Xiamen, Fujian,
+361005, People's Republic of China. qiyanwei1987@163.com.
+(4)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health (NIH), Bethesda, MD, 20892,
+USA. qiyanwei1987@163.com.
+(5)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Signaling Network, School of Life Sciences, Xiamen University, Xiamen, Fujian,
+361005, People's Republic of China. ai_wt0205@126.com.
+(6)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Signaling Network, School of Life Sciences, Xiamen University, Xiamen, Fujian,
+361005, People's Republic of China. liujianwenyihui@163.com.
+(7)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Signaling Network, School of Life Sciences, Xiamen University, Xiamen, Fujian,
+361005, People's Republic of China. xujiaxuezi@163.com.
+(8)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Signaling Network, School of Life Sciences, Xiamen University, Xiamen, Fujian,
+361005, People's Republic of China. 18059238161@163.com.
+(9)Department of Parasitology, Bengbu Medical College, 2600 Donghai Dadao Road,
+Bengbu, 233030, People's Republic of China. bengbucity@163.com.
+(10)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Signaling Network, School of Life Sciences, Xiamen University, Xiamen, Fujian,
+361005, People's Republic of China. honglx@xmu.edu.cn.
+(11)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Signaling Network, School of Life Sciences, Xiamen University, Xiamen, Fujian,
+361005, People's Republic of China. liuxie@xmu.edu.cn.
+(12)Bioinformatics and Computational Biosciences Branch, National Institute of
+Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD,
+20892, USA. maarten.leerkes@nih.gov.
+(13)Bioinformatics and Computational Biosciences Branch, National Institute of
+Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD,
+20892, USA. quinonesm@niaid.nih.gov.
+(14)State Key Laboratory of Cellular Stress Biology, Innovation Center for Cell
+Signaling Network, School of Life Sciences, Xiamen University, Xiamen, Fujian,
+361005, People's Republic of China. xsu@niaid.nih.gov.
+(15)Laboratory of Malaria and Vector Research, National Institute of Allergy and 
+Infectious Diseases, National Institutes of Health (NIH), Bethesda, MD, 20892,
+USA. xsu@niaid.nih.gov.
+
+BACKGROUND: The rodent malaria parasite Plasmodium yoelii is an important animal 
+model for studying host-parasite interaction and molecular basis of malaria
+pathogenesis. Although a draft genome of P. yoelii yoelii YM is available, and
+RNA sequencing (RNA-seq) data for several rodent malaria species (RMP) were
+reported recently, variations in coding regions and structure of mRNA transcript 
+are likely present between different parasite strains or subspecies. Sequencing
+of cDNA libraries from additional parasite strains/subspecies will help improve
+the gene models and genome annotation.
+METHODS: Here two directional cDNA libraries from mixed blood stages of a
+subspecies of P. yoelii (P. y. nigeriensis NSM) with or without mefloquine (MQ)
+treatment were sequenced, and the sequence reads were compared to the genome and 
+cDNA sequences of P. y. yoelii YM in public databases to investigate single
+nucleotide polymorphisms (SNPs) in coding regions, variations in intron-exon
+structure and differential splicing between P. yoelii subspecies, and variations 
+in gene expression under MQ pressure.
+RESULTS: Approximately 56 million of 100 bp paired-end reads were obtained,
+providing an average of ~225-fold coverage for the coding regions. Comparison of 
+the sequence reads to the YM genome revealed introns in 5' and 3' untranslated
+regions (UTRs), altered intron/exon boundaries, alternative splicing, overlapping
+sense-antisense reads, and potentially new transcripts. Interestingly, comparison
+of the NSM RNA-seq reads obtained here with those of YM discovered differentially
+spliced introns; e.g., spliced introns in one subspecies but not the other.
+Alignment of the NSM cDNA sequences to the YM genome sequence also identified
+~84,000 SNPs between the two parasites.
+CONCLUSION: The discoveries of UTR introns and differentially spliced introns
+between P. yoelii subspecies raise interesting questions on the potential role of
+these introns in regulating gene expression and evolution of malaria parasites.
+
+DOI: 10.1186/s12936-015-1081-9 
+PMCID: PMC4721144
+PMID: 26791272  [Indexed for MEDLINE]
+

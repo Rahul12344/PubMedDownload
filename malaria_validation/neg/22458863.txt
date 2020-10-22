@@ -1,0 +1,45 @@
+
+1. BMC Genomics. 2012 Mar 29;13:125. doi: 10.1186/1471-2164-13-125.
+
+Characterization and gene expression analysis of the cir multi-gene family of
+Plasmodium chabaudi chabaudi (AS).
+
+Lawton J(1), Brugat T, Yan YX, Reid AJ, Böhme U, Otto TD, Pain A, Jackson A,
+Berriman M, Cunningham D, Preiser P, Langhorne J.
+
+Author information: 
+(1)Division of Parasitology, MRC National Institute for Medical Research, London,
+UK.
+
+BACKGROUND: The pir genes comprise the largest multi-gene family in Plasmodium,
+with members found in P. vivax, P. knowlesi and the rodent malaria species.
+Despite comprising up to 5% of the genome, little is known about the functions of
+the proteins encoded by pir genes. P. chabaudi causes chronic infection in mice, 
+which may be due to antigenic variation. In this model, pir genes are called cirs
+and may be involved in this mechanism, allowing evasion of host immune responses.
+In order to fully understand the role(s) of CIR proteins during P. chabaudi
+infection, a detailed characterization of the cir gene family was required.
+RESULTS: The cir repertoire was annotated and a detailed bioinformatic
+characterization of the encoded CIR proteins was performed. Two major
+sub-families were identified, which have been named A and B. Members of each
+sub-family displayed different amino acid motifs, and were thus predicted to have
+undergone functional divergence. In addition, the expression of the entire cir
+repertoire was analyzed via RNA sequencing and microarray. Up to 40% of the cir
+gene repertoire was expressed in the parasite population during infection, and
+dominant cir transcripts could be identified. In addition, some differences were 
+observed in the pattern of expression between the cir subgroups at the peak of P.
+chabaudi infection. Finally, specific cir genes were expressed at different time 
+points during asexual blood stages.
+CONCLUSIONS: In conclusion, the large number of cir genes and their expression
+throughout the intraerythrocytic cycle of development indicates that CIR proteins
+are likely to be important for parasite survival. In particular, the detection of
+dominant cir transcripts at the peak of P. chabaudi infection supports the idea
+that CIR proteins are expressed, and could perform important functions in the
+biology of this parasite. Further application of the methodologies described here
+may allow the elucidation of CIR sub-family A and B protein functions, including 
+their contribution to antigenic variation and immune evasion.
+
+DOI: 10.1186/1471-2164-13-125 
+PMCID: PMC3384456
+PMID: 22458863  [Indexed for MEDLINE]
+

@@ -1,0 +1,41 @@
+
+1. PLoS Comput Biol. 2012;8(4):e1002451. doi: 10.1371/journal.pcbi.1002451. Epub
+2012 Apr 12.
+
+Evolution of the multi-domain structures of virulence genes in the human malaria 
+parasite, Plasmodium falciparum.
+
+Buckee CO(1), Recker M.
+
+Author information: 
+(1)Center for Communicable Disease Dynamics, Department of Epidemiology, Harvard 
+School of Public Health, Boston, Massachusetts, United States of America.
+
+The var gene family of Plasmodium falciparum encodes the immunodominant variant
+surface antigens PfEMP1. These highly polymorphic proteins are important
+virulence factors that mediate cytoadhesion to a variety of host tissues, causing
+sequestration of parasitized red blood cells in vital organs, including the brain
+or placenta. Acquisition of variant-specific antibodies correlates with
+protection against severe malarial infections; however, understanding the
+relationship between gene expression and infection outcome is complicated by the 
+modular genetic architectures of var genes that encode varying numbers of
+antigenic domains with differential binding specificities. By analyzing the
+domain architectures of fully sequenced var gene repertoires we reveal a
+significant, non-random association between the number of domains comprising a
+var gene and their sequence conservation. As such, var genes can be grouped into 
+those that are short and diverse and genes that are long and conserved,
+suggesting gene length as an important characteristic in the classification of
+var genes. We then use an evolutionary framework to demonstrate how the same
+evolutionary forces acting on the level of an individual gene may have also
+shaped the parasite's gene repertoire. The observed associations between sequence
+conservation, gene architecture and repertoire structure can thus be explained by
+a trade-off between optimizing within-host fitness and minimizing between-host
+immune selection pressure. Our results demonstrate how simple evolutionary
+mechanisms can explain var gene structuring on multiple levels and have important
+implications for understanding the multifaceted epidemiology of P. falciparum
+malaria.
+
+DOI: 10.1371/journal.pcbi.1002451 
+PMCID: PMC3325180
+PMID: 22511852  [Indexed for MEDLINE]
+

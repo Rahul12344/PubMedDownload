@@ -1,0 +1,50 @@
+
+1. Mol Biol Rep. 2020 Jan;47(1):211-224. doi: 10.1007/s11033-019-05121-x. Epub 2019 
+Oct 23.
+
+Bacterial communities associated with the midgut microbiota of wild Anopheles
+gambiae complex in Burkina Faso.
+
+Zoure AA(1)(2), Sare AR(3), Yameogo F(4), Somda Z(4), Massart S(3), Badolo A(4), 
+Francis F(5).
+
+Author information: 
+(1)Functional and Evolutionary Entomology, TERRA, Gembloux Agro-Bio Tech,
+University of Liège, Passage des Déportés 2, 5030, Gembloux, Belgium.
+abdouazaque@gmail.com.
+(2)(IRSS/CNRST)/Department of Biomedical and Public Health, Institute of Health
+Sciences Research, Ouagadougou, 03 BP 7192, Burkina Faso. abdouazaque@gmail.com.
+(3)Integrated and Urban Plant Pathology Laboratory, Gembloux Agro-Bio Tech,
+University of Liège, Passage des Déportés 2, 5030, Gembloux, Belgium.
+(4)Laboratoire d'Entomologie Fondamentale et Appliquée, UFR/SVT, Université
+Joseph KI-ZERBO, Ouagadougou, 03 BP 7021, Burkina Faso.
+(5)Functional and Evolutionary Entomology, TERRA, Gembloux Agro-Bio Tech,
+University of Liège, Passage des Déportés 2, 5030, Gembloux, Belgium.
+
+Plasmodium falciparum is transmitted by mosquitoes from the Anopheles gambiae
+sensu lato (s.l) species complex and is responsible for severe forms of malaria. 
+The composition of the mosquitoes' microbiota plays a role in P. falciparum
+transmission, so we studied midgut bacterial communities of An. gambiae s.l from 
+Burkina Faso. DNA was extracted from 17 pools of midgut of mosquitoes from the
+Anopheles gambiae complex from six localities in three climatic areas, including 
+cotton-growing and cotton-free localities to include potential differences in
+insecticide selection pressure. The v3-v4 region of the 16S rRNA gene was
+targeted and sequenced using Illumina Miseq (2 × 250 nt). Diversity analysis was 
+performed using QIIME and R software programs. The major bacterial phylum was
+Proteobacteria (97.2%) in all samples. The most abundant genera were Enterobacter
+(32.8%) and Aeromonas (29.8%), followed by Pseudomonas (11.8%), Acinetobacter
+(5.9%) and Thorsellia (2.2%). No statistical difference in operational taxonomic 
+units (OTUs) was found (Kruskal-Wallis FDR-p > 0.05) among the different areas,
+fields or localities. Richness and diversity indexes (observed OTUs, Chao1,
+Simpson and Shannon indexes) showed significant differences in the cotton-growing
+fields and in the agroclimatic zones, mainly in the Sudano-Sahelian area. OTUs
+from seven bacterial species that mediate refractoriness to Plasmodium infection 
+in An. gambiae s.l were detected. The beta diversity analysis did not show any
+significant difference. Therefore, a same control strategy of using bacterial
+species refractoriness to Plasmodium to target mosquito midgut bacterial
+community and affect their fitness in malaria transmission may be valuable tool
+for future malaria control efforts in Burkina Faso.
+
+DOI: 10.1007/s11033-019-05121-x 
+PMID: 31643044  [Indexed for MEDLINE]
+

@@ -1,0 +1,50 @@
+
+1. PLoS Negl Trop Dis. 2020 Mar 3;14(3):e0008014. doi: 10.1371/journal.pntd.0008014.
+eCollection 2020 Mar.
+
+Distinct gene expression patterns in vector-residing Leishmania infantum identify
+parasite stage-enriched markers.
+
+Coutinho-Abreu IV(1), Serafim TD(1), Meneses C(1), Kamhawi S(1), Oliveira F(1),
+Valenzuela JG(1).
+
+Author information: 
+(1)Vector Molecular Biology Section, Laboratory of Malaria and Vector Research,
+National Institute of Allergy and Infectious Diseases, National Institutes of
+Health, Rockville, Maryland, United States of America.
+
+BACKGROUND: Leishmaniasis is a vector-borne neglected disease. Inside the natural
+sand fly vector, the promastigote forms of Leishmania undergo a series of
+extracellular developmental stages to reach the infectious stage, the metacyclic 
+promastigote. There is limited information regarding the expression profile of L.
+infantum developmental stages inside the sand fly vector, and molecular markers
+that can distinguish the different parasite stages are lacking.
+METHODOLOGY/PRINCIPAL FINDINGS: We performed RNAseq on unaltered midguts of the
+sand fly Lutzomyia longipalpis after infection with L. infantum parasites. RNAseq
+was carried out at various time points throughout parasite development. Principal
+component analysis separated the transcripts corresponding to the different
+Leishmania promastigote stages, the procyclic, nectomonad, leptomonad and
+metacyclics. Importantly, there were a significant number of differentially
+expressed genes when comparing the sequential development of the various
+Leishmania stages in the sand fly. There were 836 differentially expressed (DE)
+genes between procyclic and long nectomonad promastigotes; 113 DE genes between
+nectomonad and leptomonad promastigotes; and 302 DE genes between leptomonad and 
+metacyclic promastigotes. Most of the DE genes do not overlap across stages,
+highlighting the uniqueness of each Leishmania stage. Furthermore, the different 
+stages of Leishmania parasites exhibited specific transcriptional enrichment
+across chromosomes. Using the transcriptional signatures exhibited by distinct
+Leishmania stages during their development in the sand fly midgut, we determined 
+the genes predominantly enriched in each stage, identifying multiple potential
+stage-specific markers for L. infantum.
+CONCLUSIONS: Overall, these findings demonstrate the transcriptional plasticity
+of the Leishmania parasite inside the sand fly vector and provide a repertoire of
+potential stage-specific markers for further development as molecular tools for
+epidemiological studies.
+
+DOI: 10.1371/journal.pntd.0008014 
+PMCID: PMC7053709
+PMID: 32126078  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

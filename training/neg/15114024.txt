@@ -1,0 +1,36 @@
+
+1. Methods Mol Biol. 2004;269:333-46.
+
+Use of dual recombinant vaccinia virus vectors to assay viral
+glycoprotein-mediated fusion with transfection-resistant primary cell targets.
+
+Yi Y(1), Singh A, Cutilli J, Collman RG.
+
+Author information: 
+(1)Department of Medicine, University of Pennsylvania School of Medicine,
+Philadelphia, PA, USA.
+
+Fusion mediated by the human immunodeficiency virus type-1 (HIV-1) envelope (Env)
+glycoprotein and the cellular CD4/chemokine receptor complex is the first step in
+entry and is often analyzed in cell-cell fusion assays that require Env
+expression by recombinant vaccinia viruses and/or target cell transfection.
+Primary lymphocytes and macrophages are the principal targets for HIV-1 in vivo, 
+but are poor substrates for transfection, and constructing recombinant vaccinia
+viruses expressing every novel or mutant env gene is laborious. This chapter
+describes a fusion assay using two recombinant vaccinia viruses that express
+distinct RNA polymerases suitable for transfection-resistant targets, such as
+primary human lymphocytes and macrophages. It also uses env genes contained in
+plasmid vectors, eliminating the need to construct recombinant vaccinia viruses
+to analyze each construct. Effector 293T cells are cotransfected with SP6-driven 
+reporter gene and T7-driven env plasmids, then infected with recombinant vaccinia
+virus expressing T7 polymerase. Primary lymphocyte or macrophage targets are
+infected with recombinant vaccinia virus expressing SP6 polymerase. Fusion
+mediated by effector cell Env and endogenous CD4/coreceptors in target
+lymphocytes or macrophages enables SP6 polymerase-mediated reporter gene
+transactivation. This approach provides an efficient tool to study fusion
+mediated by multiple-cloned primary isolate or mutant HIV-1 env genes with the
+primary target cell types relevant to infection in vivo.
+
+DOI: 10.1385/1-59259-789-0:333 
+PMID: 15114024  [Indexed for MEDLINE]
+

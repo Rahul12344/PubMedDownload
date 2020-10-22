@@ -1,0 +1,64 @@
+
+1. PLoS One. 2014 May 8;9(5):e96486. doi: 10.1371/journal.pone.0096486. eCollection 
+2014.
+
+A genome wide association study of Plasmodium falciparum susceptibility to 22
+antimalarial drugs in Kenya.
+
+Wendler JP(1), Okombo J(2), Amato R(1), Miotto O(3), Kiara SM(2), Mwai L(2), Pole
+L(2), O'Brien J(1), Manske M(4), Alcock D(4), Drury E(4), Sanders M(4), Oyola
+SO(4), Malangone C(4), Jyothi D(4), Miles A(1), Rockett KA(1), MacInnis BL(5),
+Marsh K(2), Bejon P(6), Nzila A(7), Kwiatkowski DP(1).
+
+Author information: 
+(1)Medical Research Council (MRC) Centre for Genomics and Global Health,
+University of Oxford, Oxford, United Kingdom; Wellcome Trust Sanger Institute,
+Hinxton, Cambridge, United Kingdom; Wellcome Trust Centre for Human Genetics,
+University of Oxford, Oxford, United Kingdom.
+(2)Kenya Medical Research Institute (KEMRI)/Wellcome Trust Collaborative Research
+Program, Kilifi, Kenya.
+(3)Medical Research Council (MRC) Centre for Genomics and Global Health,
+University of Oxford, Oxford, United Kingdom; Mahidol-Oxford Tropical Medicine
+Research Unit, Mahidol University, Bangkok, Thailand; Wellcome Trust Sanger
+Institute, Hinxton, Cambridge, United Kingdom; Wellcome Trust Centre for Human
+Genetics, University of Oxford, Oxford, United Kingdom.
+(4)Wellcome Trust Sanger Institute, Hinxton, Cambridge, United Kingdom.
+(5)Medical Research Council (MRC) Centre for Genomics and Global Health,
+University of Oxford, Oxford, United Kingdom; Wellcome Trust Sanger Institute,
+Hinxton, Cambridge, United Kingdom.
+(6)Medical Research Council (MRC) Centre for Genomics and Global Health,
+University of Oxford, Oxford, United Kingdom; Kenya Medical Research Institute
+(KEMRI)/Wellcome Trust Collaborative Research Program, Kilifi, Kenya; Wellcome
+Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom.
+(7)Department of Biology, King Fahd University of Petroleum and Minerals,
+Dhahran, Saudi Arabia.
+
+BACKGROUND: Drug resistance remains a chief concern for malaria control. In order
+to determine the genetic markers of drug resistant parasites, we tested the
+genome-wide associations (GWA) of sequence-based genotypes from 35 Kenyan P.
+falciparum parasites with the activities of 22 antimalarial drugs.
+METHODS AND PRINCIPAL FINDINGS: Parasites isolated from children with acute
+febrile malaria were adapted to culture, and sensitivity was determined by in
+vitro growth in the presence of anti-malarial drugs. Parasites were genotyped
+using whole genome sequencing techniques. Associations between 6250 single
+nucleotide polymorphisms (SNPs) and resistance to individual anti-malarial agents
+were determined, with false discovery rate adjustment for multiple hypothesis
+testing. We identified expected associations in the pfcrt region with chloroquine
+(CQ) activity, and other novel loci associated with amodiaquine, quinazoline, and
+quinine activities. Signals for CQ and primaquine (PQ) overlap in and around
+pfcrt, and interestingly the phenotypes are inversely related for these two
+drugs. We catalog the variation in dhfr, dhps, mdr1, nhe, and crt, including
+novel SNPs, and confirm the presence of a dhfr-164L quadruple mutant in coastal
+Kenya. Mutations implicated in sulfadoxine-pyrimethamine resistance are at or
+near fixation in this sample set.
+CONCLUSIONS/SIGNIFICANCE: Sequence-based GWA studies are powerful tools for
+phenotypic association tests. Using this approach on falciparum parasites from
+coastal Kenya we identified known and previously unreported genes associated with
+phenotypic resistance to anti-malarial drugs, and observe in high-resolution
+haplotype visualizations a possible signature of an inverse selective
+relationship between CQ and PQ.
+
+DOI: 10.1371/journal.pone.0096486 
+PMCID: PMC4014544
+PMID: 24809681  [Indexed for MEDLINE]
+

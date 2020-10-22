@@ -1,0 +1,54 @@
+
+1. Biochim Biophys Acta Mol Basis Dis. 2018 Jun;1864(6 Pt B):2329-2340. doi:
+10.1016/j.bbadis.2017.10.023. Epub 2017 Oct 22.
+
+Metabolic modeling helps interpret transcriptomic changes during malaria.
+
+Tang Y(1), Gupta A(2), Garimalla S(3); MaHPIC Consortium. Electronic address:
+http://systemsbiology.emory.edu(4), Galinski MR(5), Styczynski MP(1), Fonseca
+LL(2), Voit EO(6).
+
+Author information: 
+(1)School of Chemical and Biomolecular Engineering, Georgia Tech, Atlanta, GA
+30332, USA.
+(2)Department of Biomedical Engineering, Georgia Tech, Atlanta, GA 30332, USA.
+(3)School of Biological Sciences, Georgia Tech, Atlanta, GA 30332, USA.
+(4)Malaria Host-Pathogen Interaction Center, USA.
+(5)Emory Vaccine Center at Yerkes, Emory University, 954 Gatewood Road, EVC 003, 
+Atlanta, GA 30329, USA; Department of Medicine, Division of Infectious Diseases, 
+Department of Microbiology and Immunology, Emory University School of Medicine,
+Atlanta, GA 30329, USA.
+(6)Department of Biomedical Engineering, Georgia Tech, Atlanta, GA 30332, USA.
+Electronic address: Eberhard.voit@bme.gatech.edu.
+
+Disease represents a specific case of malfunctioning within a complex system.
+Whereas it is often feasible to observe and possibly treat the symptoms of a
+disease, it is much more challenging to identify and characterize its molecular
+root causes. Even in infectious diseases that are caused by a known parasite, it 
+is often impossible to pinpoint exactly which molecular profiles of components or
+processes are directly or indirectly altered. However, a deep understanding of
+such profiles is a prerequisite for rational, efficacious treatments. Modern
+omics methodologies are permitting large-scale scans of some molecular profiles, 
+but these scans often yield results that are not intuitive and difficult to
+interpret. For instance, the comparison of healthy and diseased transcriptome
+profiles may point to certain sets of involved genes, but a host of
+post-transcriptional processes and regulatory mechanisms renders predictions
+regarding metabolic or physiological consequences of the observed changes in gene
+expression unreliable. Here we present proof of concept that dynamic models of
+metabolic pathway systems may offer a tool for interpreting transcriptomic
+profiles measured during disease. We illustrate this strategy with the
+interpretation of expression data of genes coding for enzymes associated with
+purine metabolism. These data were obtained during infections of rhesus macaques 
+(Macaca mulatta) with the malaria parasite Plasmodium cynomolgi or P. coatneyi.
+The model-based interpretation reveals clear patterns of flux redistribution
+within the purine pathway that are consistent between the two malaria pathogens
+and are even reflected in data from humans infected with P. falciparum. This
+article is part of a Special Issue entitled: Accelerating Precision Medicine
+through Genetic and Genomic Big Data Analysis edited by Yudong Cai & Tao Huang.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbadis.2017.10.023 
+PMCID: PMC5911422
+PMID: 29069611  [Indexed for MEDLINE]
+

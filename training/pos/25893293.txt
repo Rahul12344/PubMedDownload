@@ -1,0 +1,49 @@
+
+1. Oncogene. 2016 Feb 11;35(6):715-26. doi: 10.1038/onc.2015.122. Epub 2015 Apr 20.
+
+Hepatitis B virus X protein induces EpCAM expression via active DNA demethylation
+directed by RelA in complex with EZH2 and TET2.
+
+Fan H(1)(2), Zhang H(1)(2), Pascuzzi PE(3), Andrisani O(1)(2).
+
+Author information: 
+(1)Department of Basic Medical Sciences, Purdue University, West Lafayette, IN,
+USA.
+(2)Department of Purdue Center for Cancer Research, Purdue University, West
+Lafayette, IN, USA.
+(3)Purdue University Libraries, Purdue University, West Lafayette, IN, USA.
+
+Chronic hepatitis B virus (HBV) infection is a major risk factor for developing
+hepatocellular carcinoma (HCC), and HBV X protein (HBx) acts as cofactor in
+hepatocarcinogenesis. In liver tumors from animals modeling HBx- and HBV-mediated
+hepatocarcinogenesis, downregulation of chromatin regulating proteins SUZ12 and
+ZNF198 induces expression of several genes, including epithelial cell adhesion
+molecule (EpCAM). EpCAM upregulation occurs in HBV-mediated HCCs and hepatic
+cancer stem cells, by a mechanism not understood. Herein we demonstrate HBx
+induces EpCAM expression via active DNA demethylation. In hepatocytes, EpCAM is
+silenced by polycomb repressive complex 2 (PRC2) and ZNF198/LSD1/Co-REST/HDAC1
+chromatin-modifying complexes. Cells with stable knockdown of SUZ12, an essential
+PRC2 subunit, upon HBx expression demethylate a CpG dinucleotide located adjacent
+to NF-κB/RelA half-site. This NF-κB/RelA site is in a CpG island downstream from 
+EpCAM transcriptional start site (TSS). Chromatin immunoprecipitation (ChIP)
+assays demonstrate HBx-dependent RelA occupancy of NF-κB half-site, whereas RelA 
+knockdown suppresses CpG demethylation and EpCAM expression. Tumor necrosis
+factor-α activates RelA, propagating demethylation to nearby CpG sites, shown by 
+sodium bisulfite sequencing. RelA-dependent demethylation occurring upon HBx
+expression requires methyltrasferase EZH2, TET2 a key factor in cytosine
+demethylation and inactive DNMT3L, shown by knockdown assays and sodium bisulfite
+sequencing. Co-immunoprecipitations and sequential ChIP assays demonstrate that
+RelA in the presence of HBx forms a complex with EZH2, TET2 and DNMT3L, although 
+the role of DNMT3L remains to be understood. Interestingly, the human EpCAM gene 
+also has a CpG island downstream from its TSS, and a NF-κB-binding site flanked
+by CpGs. HepG2 cells derived from human HCC exhibit demethylation of these
+NF-κB-flanking CpG sites, and HBV replication propagates demethylation to nearby 
+CpG sites. DLK1, another PRC2 target gene, also upregulated in HBV-mediated HCCs,
+is demethylated in liver tumors at CpG dinucleotides flanking the NF-κB-binding
+sequence, supporting that this active DNA demethylation mechanism functions
+during oncogenic transformation.
+
+DOI: 10.1038/onc.2015.122 
+PMCID: PMC4615262
+PMID: 25893293  [Indexed for MEDLINE]
+

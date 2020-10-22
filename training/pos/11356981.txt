@@ -1,0 +1,39 @@
+
+1. J Virol. 2001 Jun;75(12):5711-8.
+
+PY motifs of Epstein-Barr virus LMP2A regulate protein stability and
+phosphorylation of LMP2A-associated proteins.
+
+Ikeda M(1), Ikeda A, Longnecker R.
+
+Author information: 
+(1)Department of Microbiology-Immunology, Northwestern University Medical School,
+Chicago, Illinois 60611, USA.
+
+Latent membrane protein 2A (LMP2A) is expressed in latent Epstein-Barr virus
+(EBV) infection. We have demonstrated that Nedd4 family ubiquitin-protein ligases
+(E3s), AIP4, WWP2/AIP2, and Nedd4, bind specifically to two PY motifs present
+within the LMP2A amino-terminal domain. In this study, LMP2A PY motif mutant
+viruses were constructed to investigate the role of the LMP2A PY motifs. AIP4 was
+found to specifically associate with the LMP2A PY motifs in EBV-transformed
+lymphoblastoid cell lines (LCLs), extending our original observation to
+EBV-infected cells. Mutation of both of the LMP2A PY motifs resulted in an
+absence of binding of AIP4 to LMP2A, which resulted in an increase in the
+expression of Lyn and the constitutive hyperphosphorylation of LMP2A and an
+unknown 120-kDa protein. In addition, there was a modest increase in the
+constitutive phosphorylation of Syk and an unidentified 60-kDa protein. These
+results indicate that the PY motifs contained within LMP2A are important in
+regulating phosphorylation in EBV-infected LCLs, likely through the regulation of
+Lyn activity by specifically targeting the degradation of Lyn by ubiquination by 
+Nedd4 family E3s. Despite differences between PY motif mutant LCLs and wild-type 
+LCLs, the PY motif mutants still exhibited a block in B-cell receptor (BCR)
+signal transduction as measured by the induction of tyrosine phosphorylation and 
+BZLF1 expression following BCR activation. EBV-transformed LCLs with mutations in
+the PY motifs were not different from wild-type LCLs in serum-dependent cell
+growth. Protein stability of LMP1, which colocalizes with LMP2A, was not affected
+by the LMP2A-associated E3s.
+
+DOI: 10.1128/JVI.75.12.5711-5718.2001 
+PMCID: PMC114286
+PMID: 11356981  [Indexed for MEDLINE]
+

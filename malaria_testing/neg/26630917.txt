@@ -1,0 +1,41 @@
+
+1. Malar J. 2015 Dec 2;14:490. doi: 10.1186/s12936-015-1014-7.
+
+Transfection with thymidine kinase permits bromodeoxyuridine labelling of DNA
+replication in the human malaria parasite Plasmodium falciparum.
+
+Merrick CJ(1).
+
+Author information: 
+(1)Centre for Applied Entomology and Parasitology, Faculty of Natural Sciences,
+Keele University, Keele, Staffordshire, ST55BG, UK. c.merrick@keele.ac.uk.
+
+BACKGROUND: Plasmodium falciparum, the causative agent of severe human malaria,
+is an early-diverging protozoan whose lifecycle has many unusual features,
+including its modes of replication. Research on the Plasmodium cell cycle, which 
+occurs primarily via schizogony instead of canonical binary fission, has been
+hampered by a lack of tools and markers that can be transferred from cell cycle
+studies in model organisms. A common tool used to study DNA replication and the
+cell cycle in human cells is the labelling of newly-replicated DNA with the
+modified nucleotide bromodeoxyuridine (BrdU), followed by immunofluorescent
+detection. Plasmodium parasites, however, do not incorporate BrdU because they
+rely only on de novo synthesis of pyrimidines and do not salvage thymidine
+analogues like BrdU for conversion into nucleotides.
+METHODS: Analysis of biochemical pathways in Plasmodium indicated that the
+absence of the enzyme thymidine kinase (TK) may be the only impediment to BrdU
+incorporation in this organism. A TK gene from Herpes simplex was, therefore,
+introduced into the Plasmodium falciparum 3D7 strain and the effect on BrdU
+labelling was assessed by enzyme-linked immunosorbent assay and
+immunofluorescence microscopy.
+RESULTS: Introduction of a TK gene produces parasites that can indeed incorporate
+BrdU. This forms a sensitive indicator of DNA replication, which can be detected 
+by both quantitative and qualitative assays on either a population level or a
+single-cell level. Plasmodium falciparum, when expressing TK, becomes unusually
+sensitive to BrdU toxicity.
+CONCLUSIONS: BrdU labelling represents a significant new tool for investigating
+DNA replication and the cell cycle in Plasmodium.
+
+DOI: 10.1186/s12936-015-1014-7 
+PMCID: PMC4668656
+PMID: 26630917  [Indexed for MEDLINE]
+

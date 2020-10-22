@@ -1,0 +1,37 @@
+
+1. Curr Gene Ther. 2014;14(3):236-46.
+
+A suicide gene therapy combining the improvement of cyclophosphamide tumor
+cytotoxicity and the development of an anti-tumor immune response.
+
+Touati W, Tran T, Seguin J, Diry M, Flinois JP, Baillou C, Lescaille G, Andre F, 
+Tartour E, Lemoine FM, Beaune P, de Waziers I(1).
+
+Author information: 
+(1)INSERM UMR-S1147, 45 rue des Saints Peres, 75006 Paris, France.
+isabelle.waziers@parisdescartes.fr.
+
+Gene-directed enzyme prodrug therapy (GDEPT) consists in targeted delivery to
+tumor cells of a suicide gene responsible for in situ conversion of a prodrug
+into cytotoxic metabolites. One of the major limitations of this strategy in
+clinical application was the poor prodrug activation capacity of suicide gene. We
+built a highly efficient suicide gene capable of bioactivating the prodrug
+cyclophosphamide (CPA) by fusing a CYP2B6 triple mutant with NADPH cytochrome
+P450 reductase (CYP2B6TM-RED). Expression of this fusion gene via a recombinant
+lentivirus (LV) vector converted resistant human (A549) and murine (TC1)
+pulmonary cell lines into CPA-susceptible cell lines. We tested the efficiency of
+our GDEPT strategy in C57Bl/6 immunocompetent mice, using TC1 cells expressing
+the HPV-16 E6/E7 oncoproteins. In mice bearing tumors composed only of
+TC1-CYP2B6TM-RED cells, four CPA injections (140 mg/Kg once a week) completely
+eradicated the tumors for more than two months. Tumors having only 25% of
+TC1-CYP2B6TM-RED cells were also completely eradicated by five CPA injections,
+demonstrating a major in vivo bystander effect. Moreover, surviving mice were
+rechallenged with parental TC1 cells. The tumors regressed spontaneously 7 days
+after cell inoculation or grew more slowly than in control naive mice due to a
+strong immune response mediated by anti-E7CD8(+)T cells. These data suggest that 
+combining the CYPB6TM-RED gene with CPA may hold promise as a highly effective
+treatment for solid tumors in humans.
+
+DOI: 10.2174/1566523214666140424152734 
+PMID: 24766134  [Indexed for MEDLINE]
+

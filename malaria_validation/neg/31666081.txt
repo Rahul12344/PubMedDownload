@@ -1,0 +1,63 @@
+
+1. BMC Med Genomics. 2019 Oct 30;12(1):148. doi: 10.1186/s12920-019-0599-z.
+
+Gene expression profiling in blood from cerebral malaria patients and mild
+malaria patients living in Senegal.
+
+Thiam A(1), Sanka M(2), Ndiaye Diallo R(3), Torres M(2), Mbengue B(4), Nunez
+NF(2), Thiam F(5), Diop G(1)(6), Victorero G(2), Nguyen C(2), Dieye A(1)(4),
+Rihet P(7).
+
+Author information: 
+(1)Unité d'Immunogénétique, Institut Pasteur de Dakar, Dakar, Sénégal.
+(2)Aix Marseille Univ, INSERM, TAGC UMR U1090, 163 Av de Luminy, 13288,
+Marseille, cedex 9, France.
+(3)Service de Génétique Humaine, Faculté de Médecine, de Pharmacie et
+d'Odontostomatologie, UCAD, Dakar, Sénégal.
+(4)Service Immunologie, Faculte de Medecine, Université Cheikh Anta Diop de
+Dakar, Dakar, Sénégal.
+(5)Département de Génie chimique et biologie, Ecole Supérieure Polytechnique,
+Université Cheikh Anta Diop de Dakar, Dakar, Sénégal.
+(6)Département de Biologie animale, Faculté des Sciences et Techniques,
+Université Cheikh Anta Diop de Dakar, Dakar, Sénégal.
+(7)Aix Marseille Univ, INSERM, TAGC UMR U1090, 163 Av de Luminy, 13288,
+Marseille, cedex 9, France. pascal.rihet@univ-amu.fr.
+
+BACKGROUND: Plasmodium falciparum malaria remains a major health problem in
+Africa. The mechanisms of pathogenesis are not fully understood. Transcriptomic
+studies may provide new insights into molecular pathways involved in the severe
+form of the disease.
+METHODS: Blood transcriptional levels were assessed in patients with cerebral
+malaria, non-cerebral malaria, or mild malaria by using microarray technology to 
+look for gene expression profiles associated with clinical status. Multi-way
+ANOVA was used to extract differentially expressed genes. Network and pathways
+analyses were used to detect enrichment for biological pathways.
+RESULTS: We identified a set of 443 genes that were differentially expressed in
+the three patient groups after applying a false discovery rate of 10%. Since the 
+cerebral patients displayed a particular transcriptional pattern, we focused our 
+analysis on the differences between cerebral malaria patients and mild malaria
+patients. We further found 842 differentially expressed genes after applying a
+false discovery rate of 10%. Unsupervised hierarchical clustering of cerebral
+malaria-informative genes led to clustering of the cerebral malaria patients. The
+support vector machine method allowed us to correctly classify five out of six
+cerebral malaria patients and six of six mild malaria patients. Furthermore, the 
+products of the differentially expressed genes were mapped onto a human
+protein-protein network. This led to the identification of the proteins with the 
+highest number of interactions, including GSK3B, RELA, and APP. The enrichment
+analysis of the gene functional annotation indicates that genes involved in
+immune signalling pathways play a role in the occurrence of cerebral malaria.
+These include BCR-, TCR-, TLR-, cytokine-, FcεRI-, and FCGR- signalling pathways 
+and natural killer cell cytotoxicity pathways, which are involved in the
+activation of immune cells. In addition, our results revealed an enrichment of
+genes involved in Alzheimer's disease.
+CONCLUSIONS: In the present study, we examine a set of genes whose expression
+differed in cerebral malaria patients and mild malaria patients. Moreover, our
+results provide new insights into the potential effect of the dysregulation of
+gene expression in immune pathways. Host genetic variation may partly explain
+such alteration of gene expression. Further studies are required to investigate
+this in African populations.
+
+DOI: 10.1186/s12920-019-0599-z 
+PMCID: PMC6821028
+PMID: 31666081  [Indexed for MEDLINE]
+

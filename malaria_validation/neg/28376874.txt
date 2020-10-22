@@ -1,0 +1,57 @@
+
+1. BMC Res Notes. 2017 Apr 4;10(1):147. doi: 10.1186/s13104-017-2468-1.
+
+Genetic polymorphisms in Plasmodium falciparum chloroquine resistance genes,
+pfcrt and pfmdr1, in North Sulawesi, Indonesia.
+
+Reteng P(1), Vrisca V(1), Sukarno I(1), Djarkoni IH(1), Kalangi JA(1), Jacobs
+GE(1), Runtuwene LR(2), Eshita Y(3)(4)(5), Maeda R(6), Suzuki Y(2), Mongan AE(1),
+Warouw SM(1), Yamagishi J(7)(8), Tuda J(1).
+
+Author information: 
+(1)Department of Medicine, Sam Ratulangi University, Kampus Unsrat, Bahu, Manado,
+95115, Indonesia.
+(2)Department of Medical Genome Sciences, University of Tokyo, Kashiwa, Chiba,
+277-8562, Japan.
+(3)Faculty of Medicine, Oita University, Yufu, Oita, 879-5593, Japan.
+(4)Faculty of Tropical Medicine, Mahidol University, Bangkok, 10400, Thailand.
+(5)Research Center for Zoonosis Control, Hokkaido University, North 20, West 10
+Kita-ku, Sapporo, Hokkaido, 001-0020, Japan.
+(6)Department of Human Sciences, Obihiro University of Agriculture and Veterinary
+Medicine, Obihiro, Hokkaido, 080-8555, Japan.
+(7)Research Center for Zoonosis Control, Hokkaido University, North 20, West 10
+Kita-ku, Sapporo, Hokkaido, 001-0020, Japan. junya@czc.hokudai.ac.jp.
+(8)Global Station for Zoonosis Control, GI-CoRE, Hokkaido University, North 20,
+West 10 Kita-ku, Sapporo, Hokkaido, 001-0020, Japan. junya@czc.hokudai.ac.jp.
+
+BACKGROUND: Malaria still poses one of the major threats to human health.
+Development of effective antimalarial drugs has decreased this threat; however,
+the emergence of drug-resistant Plasmodium falciparum, a cause of Malaria, is
+disconcerting. The antimalarial drug chloroquine has been effectively used, but
+resistant parasites have spread worldwide. Interestingly, the withdrawal of the
+drug reportedly leads to an increased population of susceptible parasites in some
+cases. We examined the prevalence of genomic polymorphisms in a malaria parasite 
+P. falciparum, associated with resistance to an antimalarial drug chloroquine,
+after the withdrawal of the drug from Indonesia.
+RESULTS: Blood samples were collected from 95 malaria patients in North Sulawesi,
+Indonesia, in 2010. Parasite DNA was extracted and analyzed by polymerase chain
+reaction-restriction fragment length polymorphism (PCR-RFLP) for pfcrt and
+pfmdr1. In parallel, multiplex amplicon sequencing for the same genes was carried
+out with Illumina MiSeq. Of the 59 cases diagnosed as P. falciparum infection by 
+microscopy, PCR-RFLP analysis clearly identified the genotype 76T in pfcrt in 44 
+cases. Sequencing analysis validated the identified genotypes in the 44 cases and
+demonstrated that the haplotype in the surrounding genomic region was exclusively
+SVMNT. Results of pfmdr1 were successfully obtained for 51 samples, where the
+genotyping results obtained by the two methods were completely consistent. In
+pfmdr1, the 86Y mutant genotype was observed in 45 cases (88.2%).
+CONCLUSIONS: Our results suggest that the prevalence of the mutated genotypes
+remained dominant even 6 years after the withdrawal of chloroquine from this
+region. Diversified haplotype of the resistance-related locus, potentially
+involved in fitness costs, unauthorized usage of chloroquine, and/or a short
+post-withdrawal period may account for the observed high persistence of
+prevalence.
+
+DOI: 10.1186/s13104-017-2468-1 
+PMCID: PMC5379540
+PMID: 28376874  [Indexed for MEDLINE]
+

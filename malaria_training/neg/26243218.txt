@@ -1,0 +1,47 @@
+
+1. Malar J. 2015 Aug 5;14:296. doi: 10.1186/s12936-015-0814-0.
+
+De novo assembly and transcriptome analysis of Plasmodium gallinaceum identifies 
+the Rh5 interacting protein (ripr), and reveals a lack of EBL and RH gene family 
+diversification.
+
+Lauron EJ(1), Aw Yeang HX(2), Taffner SM(3), Sehgal RN(4).
+
+Author information: 
+(1)Department of Molecular Microbiology, Washington University School of
+Medicine, St. Louis, MO, USA. ejlauron@wustl.edu.
+(2)Rheumatology Division, Washington University School of Medicine, St. Louis,
+MO, USA. awyeang@wustl.edu.
+(3)Rheumatology Division, Washington University School of Medicine, St. Louis,
+MO, USA. staffner@dom.wustl.edu.
+(4)Department of Biology, San Francisco State University, San Francisco, CA, USA.
+sehgal@sfsu.edu.
+
+BACKGROUND: Malaria parasites that infect birds can have narrow or broad
+host-tropisms. These differences in host specificity make avian malaria a useful 
+model for studying the evolution and transmission of parasite assemblages across 
+geographic ranges. The molecular mechanisms involved in host-specificity and the 
+biology of avian malaria parasites in general are important aspects of malaria
+pathogenesis that warrant further examination. Here, the transcriptome of the
+malaria parasite Plasmodium gallinaceum was characterized to investigate the
+biology and the conservation of genes across various malaria parasite species.
+METHODS: The P. gallinaceum transcriptome was annotated and KEGG pathway mapping 
+was performed. The ripr gene and orthologous genes that play critical roles in
+the purine salvage pathway were identified and characterized using bioinformatics
+and phylogenetic methods.
+RESULTS: Analysis of the transcriptome sequence database identified essential
+genes of the purine salvage pathway in P. gallinaceum that shared high sequence
+similarity to Plasmodium falciparum when compared to other mammalian Plasmodium
+spp. However, based on the current sequence data, there was a lack of orthologous
+genes that belonged to the erythrocyte-binding-like (EBL) and
+reticulocyte-binding-like homologue (RH) family in P. gallinaceum. In addition,
+an orthologue of the Rh5 interacting protein (ripr) was identified.
+CONCLUSIONS: These findings suggest that the pathways involved in parasite red
+blood cell invasion are significantly different in avian Plasmodium parasites,
+but critical metabolic pathways are conserved throughout divergent Plasmodium
+taxa.
+
+DOI: 10.1186/s12936-015-0814-0 
+PMCID: PMC4524024
+PMID: 26243218  [Indexed for MEDLINE]
+

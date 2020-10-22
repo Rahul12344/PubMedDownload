@@ -1,0 +1,49 @@
+
+1. Mol Ecol. 2017 Jun;26(11):2880-2894. doi: 10.1111/mec.14066. Epub 2017 Mar 15.
+
+Population genetic structure and adaptation of malaria parasites on the edge of
+endemic distribution.
+
+Duffy CW(1), Ba H(2), Assefa S(1), Ahouidi AD(3), Deh YB(2), Tandia A(2),
+Kirsebom FCM(1), Kwiatkowski DP(4), Conway DJ(1).
+
+Author information: 
+(1)Department of Pathogen Molecular Biology, London School of Hygiene & Tropical 
+Medicine, Keppel St, London, WC1E 7HT, UK.
+(2)Institut National de Recherche en Sante Publique, Nouakchott, Mauritania.
+(3)Laboratory of Bacteriology and Virology, Le Dantec Hospital, Cheikh Anta Diop 
+University, Dakar, Senegal.
+(4)Malaria Programme, Wellcome Trust Sanger Institute, Hinxton, UK.
+
+To determine whether the major human malaria parasite Plasmodium falciparum
+exhibits fragmented population structure or local adaptation at the northern
+limit of its African distribution where the dry Sahel zone meets the Sahara,
+samples were collected from diverse locations within Mauritania over a range of
+~1000 km. Microsatellite genotypes were obtained for 203 clinical infection
+samples from eight locations, and Illumina paired-end sequences were obtained to 
+yield high coverage genomewide single nucleotide polymorphism (SNP) data for 65
+clinical infection samples from four locations. Most infections contained single 
+parasite genotypes, reflecting low rates of transmission and superinfection
+locally, in contrast to the situation seen in population samples from countries
+further south. A minority of infections shared related or identical genotypes
+locally, indicating some repeated transmission of parasite clones without
+recombination. This caused some multilocus linkage disequilibrium and local
+divergence, but aside from the effect of repeated genotypes there was minimal
+differentiation between locations. Several chromosomal regions had elevated
+integrated haplotype scores (|iHS|) indicating recent selection, including those 
+containing drug resistance genes. A genomewide FST scan comparison with previous 
+sequence data from an area in West Africa with higher infection endemicity
+indicates that regional gene flow prevents genetic isolation, but revealed allele
+frequency differentiation at three drug resistance loci and an erythrocyte
+invasion ligand gene. Contrast of extended haplotype signatures revealed none to 
+be unique to Mauritania. Discrete foci of infection on the edge of the Sahara are
+genetically highly connected to the wider continental parasite population, and
+local elimination would be difficult to achieve without very substantial
+reduction in malaria throughout the region.
+
+© 2017 The Authors. Molecular Ecology Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/mec.14066 
+PMCID: PMC5485074
+PMID: 28214367  [Indexed for MEDLINE]
+

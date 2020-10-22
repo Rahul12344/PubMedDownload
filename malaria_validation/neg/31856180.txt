@@ -1,0 +1,47 @@
+
+1. PLoS Genet. 2019 Dec 19;15(12):e1008506. doi: 10.1371/journal.pgen.1008506.
+eCollection 2019 Dec.
+
+Latent transcriptional variations of individual Plasmodium falciparum uncovered
+by single-cell RNA-seq and fluorescence imaging.
+
+Walzer KA(1)(2), Fradin H(2), Emerson LY(1)(2), Corcoran DL(2), Chi JT(1)(2).
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, Duke University, Durham,
+North Carolina, United States of America.
+(2)Center for Genomic and Computational Biology, Duke University, Durham, North
+Carolina, United States of America.
+
+Malaria parasites follow a complex life cycle that consists of multiple stages
+that span from the human host to the mosquito vector. Among the species causing
+malaria, Plasmodium falciparum is the most lethal, with clinical symptoms
+manifesting during the intraerythrocytic developmental cycle (IDC). During the
+IDC, P. falciparum progresses through a synchronous and continuous cascade of
+transcriptional programming previously established using population analyses.
+While individual parasites are known to exhibit transcriptional variations to
+evade the host immune system or commit to a sexual fate, such rare expression
+heterogeneity is largely undetectable on a population level. Therefore, we
+combined single-cell RNA-sequencing (scRNA-seq) on a microfluidic platform and
+fluorescence imaging to delineate the transcriptional variations among individual
+parasites during late asexual and sexual stages. The comparison between asexual
+and sexual parasites uncovered a set of previously undefined sex-specific genes. 
+Asexual parasites were segregated into three distinct clusters based on the
+differential expression of genes encoding SERAs, rhoptry proteins, and EXP2 plus 
+transporters. Multiple pseudotime analyses revealed that these stage-specific
+transitions are distinct. RNA fluorescent in situ hybridization of
+cluster-specific genes validated distinct stage-specific expression and
+transitions during the IDC and defined the highly variable transcriptional
+pattern of EXP2. Additionally, these analyses indicated huge variations in the
+stage-specific transcript levels among parasites. Overall, scRNA-seq and RNA-FISH
+of P. falciparum revealed distinct stage transitions and unexpected degrees of
+heterogeneity with potential impact on transcriptional regulation during the IDC 
+and adaptive responses to the host.
+
+DOI: 10.1371/journal.pgen.1008506 
+PMCID: PMC6952112
+PMID: 31856180  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

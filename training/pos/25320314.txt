@@ -1,0 +1,59 @@
+
+1. J Virol. 2015 Jan;89(1):323-36. doi: 10.1128/JVI.02701-14. Epub 2014 Oct 15.
+
+Selective acquisition of host-derived ICAM-1 by HIV-1 is a matrix-dependent
+process.
+
+Jalaguier P(1), Cantin R(1), Maaroufi H(2), Tremblay MJ(3).
+
+Author information: 
+(1)Axe des Maladies Infectieuses et Immunitaires, Centre de Recherche du Centre
+Hospitalier Universitaire de Québec-Pavillon CHUL, Québec, Canada.
+(2)Plate-Forme de Bio-Informatique and Institut de Biologie Intégrative et des
+Systèmes, Pavillon Charles-Eugène-Marchand, Université Laval, Québec, Canada.
+(3)Axe des Maladies Infectieuses et Immunitaires, Centre de Recherche du Centre
+Hospitalier Universitaire de Québec-Pavillon CHUL, Québec, Canada Département de 
+Microbiologie-Infectiologie et Immunologie, Faculté de Médecine, Université
+Laval, Québec, Canada michel.j.tremblay@crchul.ulaval.ca.
+
+HIV-1 acquires an impressive number of foreign components during its formation.
+Despite all previous efforts spent studying the nature and functionality of
+virus-anchored host molecules, the exact mechanism(s) through which such
+constituents are acquired by HIV-1 is still unknown. However, in the case of
+ICAM-1, one of the most extensively studied transmembrane proteins found
+associated with mature virions, the Pr55(Gag) precursor polyprotein appears to be
+a potential interaction partner. We investigated and characterized at the
+molecular level the process of ICAM-1 incorporation using initially a
+Pr55(Gag)-based virus-like particle (VLP) model. Substitution of various domains 
+of Pr55(Gag), such as the nucleocapsid, SP2, or p6, had no effect on the
+acquisition of ICAM-1. We found that the structural matrix protein (MA) is
+mandatory for ICAM-1 incorporation within VLPs, and we confirmed this novel
+observation with the replication-competent HIV-1 molecular clone NL4.3.
+Additional studies suggest that the C-terminal two-thirds of MA, and especially
+13 amino acids positioned inside the fifth α-helix, are important. Moreover,
+based on three-dimensional (3D) modeling of protein-protein interactions (i.e.,
+protein-protein docking) and further validation by a virus capture assay, we
+found that a series of acidic residues in the MA domain interact with basic amino
+acids located in the ICAM-1 cytoplasmic tail. Our findings provide new insight
+into the molecular mechanism governing the acquisition of ICAM-1, a host molecule
+known to enhance HIV-1 infectivity in a significant manner. Altogether, these
+observations offer a new avenue for the development of antiviral therapeutics
+that are directed at a target of host origin.IMPORTANCE: Intercellular adhesion
+molecule 1 (ICAM-1) is a cell surface host component known to be efficiently
+inserted within emerging HIV-1 particles. It has been demonstrated that
+host-derived ICAM-1 molecules act as a strong attachment factor and increase
+HIV-1 infectivity substantially. Despite previous efforts spent studying
+virus-associated host molecules, the precise mechanism(s) through which such
+constituents are inserted within emerging HIV-1 particles still remains obscure. 
+Previous data suggest that the Pr55(Gag) precursor polyprotein appears as a
+potential interaction partner with ICAM-1. In the present study, we demonstrate
+that the HIV-1 matrix domain plays a key role in the ICAM-1 incorporation
+process. Some observations were confirmed with whole-virus preparations amplified
+in primary human cells, thereby providing physiological significance to our data.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.02701-14 
+PMCID: PMC4301152
+PMID: 25320314  [Indexed for MEDLINE]
+

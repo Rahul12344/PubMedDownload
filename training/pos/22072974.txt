@@ -1,0 +1,45 @@
+
+1. PLoS Pathog. 2011 Nov;7(11):e1002365. doi: 10.1371/journal.ppat.1002365. Epub
+2011 Nov 3.
+
+Single molecule analysis of replicated DNA reveals the usage of multiple KSHV
+genome regions for latent replication.
+
+Verma SC(1), Lu J, Cai Q, Kosiyatrakul S, McDowell ME, Schildkraut CL, Robertson 
+ES.
+
+Author information: 
+(1)Department of Microbiology & Immunology, University of Nevada, Reno, Nevada,
+United States of America. scverma@medicine.nevada.edu
+
+Kaposi's sarcoma associated herpesvirus (KSHV), an etiologic agent of Kaposi's
+sarcoma, Body Cavity Based Lymphoma and Multicentric Castleman's Disease,
+establishes lifelong latency in infected cells. The KSHV genome tethers to the
+host chromosome with the help of a latency associated nuclear antigen (LANA).
+Additionally, LANA supports replication of the latent origins within the terminal
+repeats by recruiting cellular factors. Our previous studies identified and
+characterized another latent origin, which supported the replication of plasmids 
+ex-vivo without LANA expression in trans. Therefore identification of an
+additional origin site prompted us to analyze the entire KSHV genome for
+replication initiation sites using single molecule analysis of replicated DNA
+(SMARD). Our results showed that replication of DNA can initiate throughout the
+KSHV genome and the usage of these regions is not conserved in two different KSHV
+strains investigated. SMARD also showed that the utilization of multiple
+replication initiation sites occurs across large regions of the genome rather
+than a specified sequence. The replication origin of the terminal repeats showed 
+only a slight preference for their usage indicating that LANA dependent origin at
+the terminal repeats (TR) plays only a limited role in genome duplication.
+Furthermore, we performed chromatin immunoprecipitation for ORC2 and MCM3, which 
+are part of the pre-replication initiation complex to determine the genomic sites
+where these proteins accumulate, to provide further characterization of potential
+replication initiation sites on the KSHV genome. The ChIP data confirmed
+accumulation of these pre-RC proteins at multiple genomic sites in a cell cycle
+dependent manner. Our data also show that both the frequency and the sites of
+replication initiation vary within the two KSHV genomes studied here, suggesting 
+that initiation of replication is likely to be affected by the genomic context
+rather than the DNA sequences.
+
+DOI: 10.1371/journal.ppat.1002365 
+PMCID: PMC3207954
+PMID: 22072974  [Indexed for MEDLINE]
+

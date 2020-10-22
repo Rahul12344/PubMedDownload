@@ -1,0 +1,66 @@
+
+1. Parasit Vectors. 2018 Aug 6;11(1):452. doi: 10.1186/s13071-018-3038-7.
+
+The MEP pathway in Babesia orientalis apicoplast, a potential target for
+anti-babesiosis drug development.
+
+He L(1)(2)(3), He P(1)(2), Luo X(1)(2), Li M(1)(2), Yu L(1)(2), Guo J(1)(2), Zhan
+X(1)(2), Zhu G(4), Zhao J(5)(6)(7).
+
+Author information: 
+(1)State Key Laboratory of Agricultural Microbiology, College of Veterinary
+Medicine, Huazhong Agricultural University, Wuhan, 430070, Hubei, People's
+Republic of China.
+(2)Key Laboratory for Development of Veterinary Diagnostic Products, Ministry of 
+Agriculture, Huazhong Agricultural University, Wuhan, 430070, Hubei, People's
+Republic of China.
+(3)Key Laboratory of Preventive Veterinary Medicine in Hubei Province, The
+Cooperative Innovation Center for Sustainable Pig Production, Wuhan, 430070,
+Hubei, China.
+(4)Department of Veterinary Pathobiology, College of Veterinary Medicine &
+Biomedical Sciences, Texas A&M University, College Station, Texas, USA.
+(5)State Key Laboratory of Agricultural Microbiology, College of Veterinary
+Medicine, Huazhong Agricultural University, Wuhan, 430070, Hubei, People's
+Republic of China. zhaojunlong@mail.hzau.edu.cn.
+(6)Key Laboratory for Development of Veterinary Diagnostic Products, Ministry of 
+Agriculture, Huazhong Agricultural University, Wuhan, 430070, Hubei, People's
+Republic of China. zhaojunlong@mail.hzau.edu.cn.
+(7)Key Laboratory of Preventive Veterinary Medicine in Hubei Province, The
+Cooperative Innovation Center for Sustainable Pig Production, Wuhan, 430070,
+Hubei, China. zhaojunlong@mail.hzau.edu.cn.
+
+BACKGROUND: The apicomplexan parasite Babesia orientalis, the causative agent of 
+water buffalo babesiosis in China, is widespread in central and south China,
+resulting in a huge economic loss annually. Currently, there is no effective
+vaccine or drug against this disease. Babesia bovis and Plasmodium falciparum
+were reported to possess an apicoplast which contains the methylerythritol
+phosphate (MEP) pathway inhibitable by fosmidomycin, suggesting that the pathway 
+could serve as a drug target for screening new drugs. However, it remains unknown
+in B. orientalis.
+METHODS: Primers were designed according to the seven MEP pathway genes of
+Babesia microti and Babesia bovis. The genes were cloned, sequenced and analyzed.
+The open reading frames (ORFs) of the first two enzyme genes, 1-deoxy-D-xylulose 
+5-phosphate synthase (BoDXS) and 1-Deoxy-D-xylulose 5-phosphate reductoisomerase 
+(BoDXR), were cloned into the pET-32a expression vector and expressed as a
+Trx-tag fusion protein. Rabbit anti-rBoDXS and rabbit anti-rBoDXR antibodies were
+generated. Western blot was performed to identify the native proteins of BoDXS
+and BoDXR in B. orientalis. Fosmidomycin and geranylgeraniol were used for
+inhibition assay and rescue assay, respectively, in the in vitro cultivation of
+B. orientalis.
+RESULTS: The seven enzyme genes of the B. orientalis MEP pathway (DXS, DXR, IspD,
+IspE, IspF, IspG and IspH) were cloned and sequenced, with a full length of 2094,
+1554, 1344, 1521, 654, 1932 and 1056 bp, respectively. BoDXS and BoDXR were
+expressed as Trx-tag fusion proteins, with a size of 95 and 67 kDa, respectively.
+Western blot identified a 77 kDa band for the native BoDXS and a 49 kDa band for 
+the native BoDXR. The drug assay results showed that fosmidomycin could inhibit
+the growth of B. orientalis, and geranylgeraniol could reverse the effect of
+fosmidomycin.
+CONCLUSIONS: Babesia orientalis has the isoprenoid biosynthesis pathway, which
+could be a potential drug target for controlling and curing babesiosis.
+Considering the high price and instability of fosmidomycin, further studies
+should focus on the screening of stable and cheap drugs.
+
+DOI: 10.1186/s13071-018-3038-7 
+PMCID: PMC6090808
+PMID: 30081952  [Indexed for MEDLINE]
+

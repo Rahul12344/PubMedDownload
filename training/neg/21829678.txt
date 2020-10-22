@@ -1,0 +1,38 @@
+
+1. PLoS One. 2011;6(8):e22970. doi: 10.1371/journal.pone.0022970. Epub 2011 Aug 2.
+
+Study on phylogenetic relationships, variability, and correlated mutations in M2 
+proteins of influenza virus A.
+
+Le L(1), Leluk J.
+
+Author information: 
+(1)School of Biotechnology, Ho Chi Minh International University, Ho Chi Minh
+City, Vietnam.
+
+M2 channel, an influenza virus transmembrane protein, serves as an important
+target for antiviral drug design. There are still discordances concerning the
+role of some residues involved in proton transfer as well as the mechanism of
+inhibition by commercial drugs. The viral M2 proteins show high conservativity;
+about 3/4 of the positions are occupied by one residue in over 95%. Nine M2
+proteins from the H3N2 strain and possibly two proteins from H2N2 strains make a 
+phylogenic cluster closely related to 2RLF. The variability range is limited to 4
+residues/position with one exception. The 2RLF protein stands out by the presence
+of 2 serines at the positions 19 and 50, which are in most other M2 proteins
+occupied by cysteines. The study of correlated mutations shows that there are
+several positions with significant mutational correlation that have not been
+described so far as functionally important. That there are 5 more residues
+potentially involved in the M2 mechanism of action. The original software used in
+this work (Consensus Constructor, SSSSg, Corm, Talana) is freely accessible as
+stand-alone offline applications upon request to the authors. The other software 
+used in this work is freely available online for noncommercial purposes at public
+services on bioinformatics such as ExPASy or NCBI. The study on mutational
+variability, evolutionary relationship, and correlated mutation presented in this
+paper is a potential way to explain more completely the role of significant
+factors in proton channel action and to clarify the inhibition mechanism by
+specific drugs.
+
+DOI: 10.1371/journal.pone.0022970 
+PMCID: PMC3149066
+PMID: 21829678  [Indexed for MEDLINE]
+

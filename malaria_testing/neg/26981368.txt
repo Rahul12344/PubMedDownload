@@ -1,0 +1,37 @@
+
+1. Genom Data. 2015 Dec 1;7:79-81. doi: 10.1016/j.gdata.2015.11.026. eCollection
+2016 Mar.
+
+Plasmodium falciparum epigenome: A distinct dynamic epigenetic regulation of gene
+expression.
+
+Rawat M(1), Bhosale MA(1), Karmodiya K(1).
+
+Author information: 
+(1)Department of Biology, Indian Institute of Science Education and Research,
+Pune, Maharashtra, India.
+
+Histone modification profiles are predictive of gene expression and most of the
+knowledge gained is acquired through studies done in higher eukaryotes. However, 
+genome-wide studies involving Plasmodium falciparum, the causative agent of
+malaria, have been rather few, at lower resolution (mostly using ChIP-on-chip),
+and covering limited number of histone modifications. In our recent study [1], we
+have performed extensive genome-wide analyses of multiple histone modifications
+including the active (H3K4me2, H3K4me3, H3K9ac, H3K14ac, H3K27ac and H4ac),
+inactive (H3K9me3 and H3K27me3), elongation (H3K79me3) and regulatory element
+(H3K4me1) in a stage-specific manner. Furthermore, we used a ligation-based
+method suitable for sequencing homopolymeric stretches as seen in P. falciparum
+for next-generation sequencing library amplification [2], enabling highly
+quantitative analysis of the extremely AT-rich P. falciparum genome. Our recently
+published study suggests that transcription regulation by virtue of poised
+chromatin and differential histone modifications is unique to P. falciparum [1]. 
+Here we describe the experiments, quality controls and chromatin
+immunoprecipitation-sequencing data analysis of our associated study published in
+Epigenetics and Chromatin [1]. Stage-specific ChIP-sequencing data for histone
+modifications is submitted to Gene Expression Omnibus (GEO) database under the
+accession number GSE63369.
+
+DOI: 10.1016/j.gdata.2015.11.026 
+PMCID: PMC4778637
+PMID: 26981368 
+

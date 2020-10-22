@@ -1,0 +1,61 @@
+
+1. PLoS One. 2015 Sep 30;10(9):e0137993. doi: 10.1371/journal.pone.0137993.
+eCollection 2015.
+
+Agent-Based Model Forecasts Aging of the Population of People Who Inject Drugs in
+Metropolitan Chicago and Changing Prevalence of Hepatitis C Infections.
+
+Gutfraind A(1), Boodram B(2), Prachand N(3), Hailegiorgis A(4), Dahari H(5),
+Major ME(6).
+
+Author information: 
+(1)Division of Epidemiology and Biostatistics, School of Public Health,
+University of Illinois at Chicago, Chicago, Illinois, United States of America;
+The Program for Experimental & Theoretical Modeling, Department of Medicine,
+Loyola University Medical Center, Maywood, Illinois, United States of America;
+Center for Biologics Evaluation and Research, Food and Drug Administration,
+Silver Spring, Maryland, United States of America.
+(2)Division of Epidemiology and Biostatistics, School of Public Health,
+University of Illinois at Chicago, Chicago, Illinois, United States of America.
+(3)STI/HIV Surveillance, Chicago Department of Public Health, Chicago, Illinois, 
+United States of America.
+(4)Department of Computational Social Science, George Mason University, Fairfax, 
+Virginia, United States of America.
+(5)The Program for Experimental & Theoretical Modeling, Department of Medicine,
+Loyola University Medical Center, Maywood, Illinois, United States of America;
+Theoretical Division, Los Alamos National Laboratory, Los Alamos, New Mexico,
+United States of America.
+(6)Center for Biologics Evaluation and Research, Food and Drug Administration,
+Silver Spring, Maryland, United States of America.
+
+People who inject drugs (PWID) are at high risk for blood-borne pathogens
+transmitted during the sharing of contaminated injection equipment, particularly 
+hepatitis C virus (HCV). HCV prevalence is influenced by a complex interplay of
+drug-use behaviors, social networks, and geography, as well as the availability
+of interventions, such as needle exchange programs. To adequately address this
+complexity in HCV epidemic forecasting, we have developed a computational model, 
+the Agent-based Pathogen Kinetics model (APK). APK simulates the PWID population 
+in metropolitan Chicago, including the social interactions that result in HCV
+infection. We used multiple empirical data sources on Chicago PWID to build a
+spatial distribution of an in silico PWID population and modeled networks among
+the PWID by considering the geography of the city and its suburbs. APK was
+validated against 2012 empirical data (the latest available) and shown to agree
+with network and epidemiological surveys to within 1%. For the period 2010-2020, 
+APK forecasts a decline in HCV prevalence of 0.8% per year from 44(± 2)% to 36(± 
+5)%, although some sub-populations would continue to have relatively high
+prevalence, including Non-Hispanic Blacks, 48(± 5)%. The rate of decline will be 
+lowest in Non-Hispanic Whites and we find, in a reversal of historical trends,
+that incidence among non-Hispanic Whites would exceed incidence among
+Non-Hispanic Blacks (0.66 per 100 per years vs 0.17 per 100 person years). APK
+also forecasts an increase in PWID mean age from 35(± 1) to 40(± 2) with a
+corresponding increase from 59(± 2)% to 80(± 6)% in the proportion of the
+population >30 years old. Our studies highlight the importance of analyzing
+subpopulations in disease predictions, the utility of computer simulation for
+analyzing demographic and health trends among PWID and serve as a tool for
+guiding intervention and prevention strategies in Chicago, and other major
+cities.
+
+DOI: 10.1371/journal.pone.0137993 
+PMCID: PMC4589282
+PMID: 26421722  [Indexed for MEDLINE]
+

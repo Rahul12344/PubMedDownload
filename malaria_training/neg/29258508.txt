@@ -1,0 +1,76 @@
+
+1. Malar J. 2017 Dec 19;16(1):493. doi: 10.1186/s12936-017-2140-1.
+
+Functional analysis of Plasmodium falciparum subpopulations associated with
+artemisinin resistance in Cambodia.
+
+Dwivedi A(1)(2)(3), Reynes C(4)(5), Kuehn A(6), Roche DB(7)(8), Khim N(9),
+Hebrard M(7)(10)(11), Milanesi S(7), Rivals E(7)(10), Frutos R(12)(13), Menard
+D(9)(14), Mamoun CB(15), Colinge J(6), Cornillot E(16)(17).
+
+Author information: 
+(1)Institut de Biologie Computationnelle (IBC), 34095, Montpellier, France.
+aankitddwivedi@gmail.com.
+(2)Institut de Recherche en Cancérologie de Montpellier, Institut régional du
+Cancer Montpellier & Université de Montpellier, IRCM-INSERM U1194, 34298,
+Montpellier, France. aankitddwivedi@gmail.com.
+(3)Institute for Genome Sciences, University of Maryland School of Medicine,
+Baltimore, MD, 21201, USA. aankitddwivedi@gmail.com.
+(4)Laboratoire de Biostatistiques, Informatique et Physique Pharmaceutique, UFR
+Pharmacie, Université de Montpellier, 34093, Montpellier, France.
+(5)Institut de Génomique Fonctionnelle-CNRS, 34094, Montpellier, France.
+(6)Institut de Recherche en Cancérologie de Montpellier, Institut régional du
+Cancer Montpellier & Université de Montpellier, IRCM-INSERM U1194, 34298,
+Montpellier, France.
+(7)Institut de Biologie Computationnelle (IBC), 34095, Montpellier, France.
+(8)Centre de Recherche en Biologie cellulaire de Montpellier, CNRS-UMR 5237,
+34293, Montpellier, France.
+(9)Malaria Molecular Epidemiology Unit, Institut Pasteur du Cambodge, Phnom Penh,
+Cambodia.
+(10)Laboratoire d'informatique, de robotique et de microélectronique de
+Montpellier, LIRMM, CNRS, Université de Montpellier, 34095, Montpellier, France.
+(11)Center for Integrative Medical Sciences, RIKEN, Yokohama, Kanagawa, Japan.
+(12)CIRAD, UMR Intertryp, 34398, Montpellier, France.
+(13)IES, UMR 5214, Université de Montpellier, CNRS, 34095, Montpellier, France.
+(14)Biology of Host-Parasite Interactions Unit, Institut Pasteur, Paris, France.
+(15)Section of Infectious Diseases, Department of Internal Medicine, Yale School 
+of Medicine, New Haven, CT, 06520, USA.
+(16)Institut de Biologie Computationnelle (IBC), 34095, Montpellier, France.
+emmanuel.cornillot@umontpellier.fr.
+(17)Institut de Recherche en Cancérologie de Montpellier, Institut régional du
+Cancer Montpellier & Université de Montpellier, IRCM-INSERM U1194, 34298,
+Montpellier, France. emmanuel.cornillot@umontpellier.fr.
+
+BACKGROUND: Plasmodium falciparum malaria is one of the most widespread parasitic
+infections in humans and remains a leading global health concern. Malaria
+elimination efforts are threatened by the emergence and spread of resistance to
+artemisinin-based combination therapy, the first-line treatment of malaria.
+Promising molecular markers and pathways associated with artemisinin drug
+resistance have been identified, but the underlying molecular mechanisms of
+resistance remains unknown. The genomic data from early period of emergence of
+artemisinin resistance (2008-2011) was evaluated, with aim to define k13
+associated genetic background in Cambodia, the country identified as epicentre of
+anti-malarial drug resistance, through characterization of 167 parasite isolates 
+using a panel of 21,257 SNPs.
+RESULTS: Eight subpopulations were identified suggesting a process of acquisition
+of artemisinin resistance consistent with an emergence-selection-diffusion model,
+supported by the shifting balance theory. Identification of population specific
+mutations facilitated the characterization of a core set of 57 background genes
+associated with artemisinin resistance and associated pathways. The analysis
+indicates that the background of artemisinin resistance was not acquired after
+drug pressure, rather is the result of fixation followed by selection on the
+daughter subpopulations derived from the ancestral population.
+CONCLUSIONS: Functional analysis of artemisinin resistance subpopulations
+illustrates the strong interplay between ubiquitination and cell division or
+differentiation in artemisinin resistant parasites. The relationship of these
+pathways with the P. falciparum resistant subpopulation and presence of drug
+resistance markers in addition to k13, highlights the major role of admixed
+parasite population in the diffusion of artemisinin resistant background. The
+diffusion of resistant genes in the Cambodian admixed population after selection 
+resulted from mating of gametocytes of sensitive and resistant parasite
+populations.
+
+DOI: 10.1186/s12936-017-2140-1 
+PMCID: PMC5735551
+PMID: 29258508  [Indexed for MEDLINE]
+

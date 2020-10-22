@@ -1,0 +1,49 @@
+
+1. Proc Natl Acad Sci U S A. 2018 Aug 7;115(32):E7568-E7577. doi:
+10.1073/pnas.1803062115. Epub 2018 Jul 23.
+
+Unbiased classification of mosquito blood cells by single-cell genomics and
+high-content imaging.
+
+Severo MS(1), Landry JJM(2), Lindquist RL(3), Goosmann C(4), Brinkmann V(4),
+Collier P(2), Hauser AE(3)(5), Benes V(2), Henriksson J(6), Teichmann SA(6),
+Levashina EA(7).
+
+Author information: 
+(1)Vector Biology Unit, Max Planck Institute for Infection Biology, 10117 Berlin,
+Germany.
+(2)Genomics Core Facility, European Molecular Biology Laboratories, 69117
+Heidelberg, Germany.
+(3)Immunodynamics, Deutsches Rheumaforschungszentrum, 10117 Berlin, Germany.
+(4)Microscopy Core Facility, Max Planck Institute for Infection Biology, 10117
+Berlin, Germany.
+(5)Immune Dynamics and Intravital Microscopy, Charité Universitätsmedizin, 10117 
+Berlin, Germany.
+(6)Cellular Genetics, Wellcome Trust Sanger Institute, Hinxton, Cambridge, CB10
+1SD, United Kingdom.
+(7)Vector Biology Unit, Max Planck Institute for Infection Biology, 10117 Berlin,
+Germany; levashina@mpiib-berlin.mpg.de.
+
+Mosquito blood cells are immune cells that help control infection by vector-borne
+pathogens. Despite their importance, little is known about mosquito blood cell
+biology beyond morphological and functional criteria used for their
+classification. Here, we combined the power of single-cell RNA sequencing,
+high-content imaging flow cytometry, and single-molecule RNA hybridization to
+analyze a subset of blood cells of the malaria mosquito Anopheles gambiae By
+demonstrating that blood cells express nearly half of the mosquito transcriptome,
+our dataset represents an unprecedented view into their transcriptional program. 
+Analyses of differentially expressed genes identified transcriptional signatures 
+of two cell types and provide insights into the current classification of these
+cells. We further demonstrate the active transfer of a cellular marker between
+blood cells that may confound their identification. We propose that cell-to-cell 
+exchange may contribute to cellular diversity and functional plasticity seen
+across biological systems.
+
+Copyright © 2018 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.1803062115 
+PMCID: PMC6094101
+PMID: 30038005  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

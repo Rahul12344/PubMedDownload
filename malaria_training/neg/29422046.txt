@@ -1,0 +1,58 @@
+
+1. Malar J. 2018 Feb 8;17(1):76. doi: 10.1186/s12936-018-2216-6.
+
+Easy and fast method for expression and native extraction of Plasmodium vivax
+Duffy binding protein fragments.
+
+Moreno-Pérez DA(1)(2), Baquero LA(1), Bermúdez M(3), Gómez-Muñoz LA(1), Varela
+Y(4), Patarroyo MA(5)(6).
+
+Author information: 
+(1)Molecular Biology and Immunology Department, Fundación Instituto de
+Inmunología de Colombia (FIDIC), Carrera 50 No. 26-20, Bogotá, DC, Colombia.
+(2)Livestock Sciences Faculty, Universidad de Ciencias Aplicadas y Ambientales
+(U.D.C.A), Calle 222 No. 55-37, Bogotá, DC, Colombia.
+(3)Receptor-Ligand Department, Fundación Instituto de Inmunología de Colombia
+(FIDIC), Carrera 50, No. 26-20, Bogotá, Colombia.
+(4)Chemical Synthesis Department, Fundación Instituto de Inmunología de Colombia 
+(FIDIC), Carrera 50 No. 26-20, Bogotá, DC, Colombia.
+(5)Molecular Biology and Immunology Department, Fundación Instituto de
+Inmunología de Colombia (FIDIC), Carrera 50 No. 26-20, Bogotá, DC, Colombia.
+mapatarr.fidic@gmail.com.
+(6)Basic Sciences Department, School of Medicine and Health Sciences, Universidad
+del Rosario, Carrera 24 No. 63C-69, Bogotá, DC, Colombia.
+mapatarr.fidic@gmail.com.
+
+BACKGROUND: The Plasmodium vivax Duffy binding protein (PvDBP) has been the most 
+studied ligand binding human reticulocytes to date. This molecule has a
+cysteine-rich domain in region II (RII) which has been used as control for
+evaluating the target cell binding activity of several parasite molecules.
+However, obtaining rPvDBP-RII in a soluble form using the Escherichia coli
+expression system usually requires laborious and time-consuming steps for
+recovering the molecule's structure and function, considering it is extracted
+from inclusion bodies. The present study describes an easy and fast method for
+expressing and obtaining several PvDBP fragments which should prove ideal for use
+in protein-cell interaction assays.
+RESULTS: Two PvDBP encoding regions (rii and riii/v) were cloned in pEXP5-CT
+vector and expressed in E. coli and extracted from the soluble fraction
+(rPvDBP-RIIS and rPvDBP-RIII/VS) using a simple freezing/thawing protocol. After 
+the purification, dichroism analysis enabled verifying high rPvDBP-RIIS and
+rPvDBP-RIII/VS secondary structure α-helix content, which was lowered when
+molecules were extracted from inclusion bodies (rPvDBP-RIIIB and rPvDBP-RIII/VIB)
+using a denaturing step. Interestingly, rPvDBP-RIIS, but not rPvDBP-RIIIB, bound 
+to human reticulocytes, while rPvDBP-RIII/VS and rPvDBP-RIII/VIB bound to such
+cells in a similar way to negative control (cells incubated without recombinant
+proteins).
+CONCLUSIONS: This research has shown for the first time how rPvDBP-RII can be
+expressed and obtained in soluble form using the E. coli system and avoiding the 
+denaturation and refolding steps commonly used. The results highlight the
+usefulness of the rPvDBP-RIII/VS fragment as a non-binding control for
+protein-cell target interaction assays. The soluble extraction protocol described
+is a good alternative to obtain fully functional P. vivax proteins in a fast and 
+easy way, which will surely prove useful to laboratories working in studying this
+parasite's biology.
+
+DOI: 10.1186/s12936-018-2216-6 
+PMCID: PMC5806264
+PMID: 29422046  [Indexed for MEDLINE]
+

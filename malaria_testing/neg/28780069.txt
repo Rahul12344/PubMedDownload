@@ -1,0 +1,46 @@
+
+1. Insect Biochem Mol Biol. 2017 Sep;88:48-62. doi: 10.1016/j.ibmb.2017.07.008. Epub
+2017 Aug 2.
+
+Serine protease-related proteins in the malaria mosquito, Anopheles gambiae.
+
+Cao X(1), Gulati M(1), Jiang H(2).
+
+Author information: 
+(1)Department of Entomology and Plant Pathology, Oklahoma State University,
+Stillwater, OK 74078, USA.
+(2)Department of Entomology and Plant Pathology, Oklahoma State University,
+Stillwater, OK 74078, USA. Electronic address: haobo.jiang@okstate.edu.
+
+Insect serine proteases (SPs) and serine protease homologs (SPHs) participate in 
+digestion, defense, development, and other physiological processes. In
+mosquitoes, some clip-domain SPs and SPHs (i.e. CLIPs) have been investigated for
+possible roles in antiparasitic responses. In a recent test aimed at improving
+quality of gene models in the Anopheles gambiae genome using RNA-seq data, we
+observed various discrepancies between gene models in AgamP4.5 and corresponding 
+sequences selected from those modeled by Cufflinks, Trinity and Bridger. Here we 
+report a comparative analysis of the 337 SP-related proteins in A. gambiae by
+examining their domain structures, sequence diversity, chromosomal locations, and
+expression patterns. One hundred and ten CLIPs contain 1 to 5 clip domains in
+addition to their protease domains (PDs) or non-catalytic, protease-like domains 
+(PLDs). They are divided into five subgroups: CLIPAs (22) are clip1-5-PLD; CLIPBs
+(29), CLIPCs (12) and CLIPDs (14) are mainly clip-PD; most CLIPEs (33) have a
+domain structure of PD/PLD-PLD-clip-PLD0-1. While expression of the CLIP genes in
+group-1 is generally low and detected in various tissue- and stage-specific
+RNA-seq libraries, some putative GPs/GPHs (i.e. single domain gut SPs/SPHs) in
+group-2 are highly expressed in midgut, whole larva or whole adult libraries. In 
+comparison, 46 SPs, 26 SPHs, and 37 multi-domain SPs/SPHs (i.e. PD/PLD-PLD≥1) in 
+group-3 do not seem to be specifically expressed in digestive tract. There are 16
+SPs and 2 SPH containing other types of putative regulatory domains (e.g. LDLa,
+CUB, Gd). Of the 337 SP and SPH genes, 159 were sorted into 46 groups (2-8
+members/group) based on similar phylogenetic tree position, chromosomal location,
+and expression profile. This information and analysis, including improved gene
+models and protein sequences, constitute a solid foundation for functional
+analysis of the SP-related proteins in A. gambiae.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ibmb.2017.07.008 
+PMCID: PMC5586530
+PMID: 28780069  [Indexed for MEDLINE]
+

@@ -1,0 +1,39 @@
+
+1. J Virol. 2011 Apr;85(7):3046-54. doi: 10.1128/JVI.02209-10. Epub 2011 Jan 12.
+
+Polyomavirus middle T-antigen is a transmembrane protein that binds signaling
+proteins in discrete subcellular membrane sites.
+
+Zhou AY(1), Ichaso N, Adamarek A, Zila V, Forstova J, Dibb NJ, Dilworth SM.
+
+Author information: 
+(1)Cell Transformation Group, Section of Investigative Medicine, IRDB Building,
+Imperial College London, Hammersmith Hospital Campus, Du Cane Road, London W12
+0NN, United Kingdom.
+
+Murine polyomavirus middle T-antigen (MT) induces tumors by mimicking an
+activated growth factor receptor. An essential component of this action is a
+22-amino-acid hydrophobic region close to the C terminus which locates MT to cell
+membranes. Here, we demonstrate that this sequence is a transmembrane domain
+(TMD) by showing that a hemagglutinin (HA) tag added to the MT C terminus is
+exposed on the outside of the cells, with the N terminus inside. To determine
+whether this MT TMD is inserted into the endoplasmic reticulum (ER) membrane, we 
+added the ER retention signal KDEL to the MT C terminus (MTKDEL). This mutant
+protein locates only in the ER, demonstrating that MT does insert into membranes 
+solely at this location. In addition, this ER-located MT failed to transform.
+Examination of the binding proteins associated with the MTKDEL protein
+demonstrated that it associates with PP2A and c-Src but fails to interact with
+ShcA, phosphatidylinositol 3-kinase (PI3K), and phospholipase C-γ1 (PLC-γ1),
+despite being tyrosine phosphorylated. Additional mutant and antibody studies
+show that MT binding to PP2A is probably required for MT to efficiently exit the 
+ER and migrate to the plasma membrane though the TMD also plays a role in this
+relocation. Overall, these data, together with previous publications, illustrate 
+that MT associates with signaling proteins at different sites in its maturation
+pathway. MT binds to PP2A in the cytoplasm, to c-Src at the endoplasmic
+reticulum, and to ShcA, PI3K, and PLC-γ1 at subsequent locations en route to the 
+plasma membrane.
+
+DOI: 10.1128/JVI.02209-10 
+PMCID: PMC3067864
+PMID: 21228238  [Indexed for MEDLINE]
+

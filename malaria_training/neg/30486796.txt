@@ -1,0 +1,52 @@
+
+1. BMC Genomics. 2018 Nov 29;19(1):849. doi: 10.1186/s12864-018-5207-7.
+
+Altered expression of K13 disrupts DNA replication and repair in Plasmodium
+falciparum.
+
+Gibbons J(1)(2), Button-Simons KA(3), Adapa SR(2), Li S(2), Pietsch M(4), Zhang
+M(2), Liao X(2), Adams JH(2), Ferdig MT(3), Jiang RHY(5).
+
+Author information: 
+(1)Department of Molecular Medicine, Morsani College of Medicine, University of
+South Florida, Tampa, USA.
+(2)Center for Global Health and Infectious Diseases Research, College of Public
+Health, University of South Florida, Tampa, USA.
+(3)Eck Institute for Global Health, Department of Biological Sciences, University
+of Notre Dame, Notre Dame, USA.
+(4)Department of Computer Science & Engineering, University of South Florida,
+Tampa, USA.
+(5)Center for Global Health and Infectious Diseases Research, College of Public
+Health, University of South Florida, Tampa, USA. jiang2@health.usf.edu.
+
+BACKGROUND: Plasmodium falciparum exhibits resistance to the artemisinin
+component of the frontline antimalarial treatment Artemisinin-based Combination
+Therapy in South East Asia. Millions of lives will be at risk if artemisinin
+resistance (ART-R) spreads to Africa. Single non-synonymous mutations in the
+propeller region of PF3D7_1343700,"K13" are implicated in resistance. In this
+work, we use transcriptional profiling to characterize a laboratory-generated k13
+insertional mutant previously demonstrated to have increased sensitivity to
+artemisinins to explore the functional role of k13.
+RESULTS: A set of RNA-seq and microarray experiments confirmed that the
+expression profile of k13 is specifically altered during the early ring and early
+trophozoite stages of the mutant intraerythrocytic development cycle. The
+down-regulation of k13 transcripts in this mutant during the early ring stage is 
+associated with a transcriptome advance towards a more trophozoite-like state. To
+discover the specific downstream effect of k13 dysregulation, we developed a new 
+computational method to search for differential gene expression while accounting 
+for the temporal sequence of transcription. We found that the strongest
+biological signature of the transcriptome shift is an up-regulation of DNA
+replication and repair genes during the early ring developmental stage and a
+down-regulation of DNA replication and repair genes during the early trophozoite 
+stage; by contrast, the expressions of housekeeping genes are unchanged. This
+effect, due to k13 dysregulation, is antagonistic, such that k13 levels are
+negatively correlated with DNA replication and repair gene expression.
+CONCLUSION: Our results support a role for k13 as a stress response regulator
+consistent with the hypothesis that artemisinins mode of action is oxidative
+stress and k13 as a functional homolog of Keap1 which in humans regulates DNA
+replication and repair genes in response to oxidative stress.
+
+DOI: 10.1186/s12864-018-5207-7 
+PMCID: PMC6263542
+PMID: 30486796  [Indexed for MEDLINE]
+

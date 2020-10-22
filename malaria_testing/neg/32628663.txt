@@ -1,0 +1,51 @@
+
+1. PLoS Genet. 2020 Jul 6;16(7):e1008917. doi: 10.1371/journal.pgen.1008917.
+eCollection 2020 Jul.
+
+Genome wide distribution of G-quadruplexes and their impact on gene expression in
+malaria parasites.
+
+Gazanion E(1), Lacroix L(2), Alberti P(3), Gurung P(4), Wein S(4), Cheng M(5),
+Mergny JL(5)(6)(7), Gomes AR(4), Lopez-Rubio JJ(1)(4).
+
+Author information: 
+(1)MIVEGEC UMR IRD 224, CNRS 5290, Montpellier University, Montpellier, France.
+(2)IBENS, Ecole Normale Supérieure, CNRS, Inserm, PSL Research University, Paris,
+France.
+(3)"Structure and Instability of Genomes" laboratory, Muséum National d'Histoire 
+Naturelle (MNHN), Inserm U1154, CNRS UMR 7196, Paris, France.
+(4)Laboratory of Pathogen-Host Interactions (LPHI), UMR5235, CNRS, Montpellier
+University, Montpellier, France.
+(5)ARNA Laboratory, IECB, CNRS UMR5320, INSERM U1212, Bordeaux University,
+Pessac, France.
+(6)Institute of Biophysics of the Czech Academy of Sciences, Czech Republic.
+(7)Laboratoire d'Optique et Biosciences, Ecole Polytechnique, CNRS, INSERM,
+Institut Polytechnique de Paris, France.
+
+Mechanisms of transcriptional control in malaria parasites are still not fully
+understood. The positioning patterns of G-quadruplex (G4) DNA motifs in the
+parasite's AT-rich genome, especially within the var gene family which encodes
+virulence factors, and in the vicinity of recombination hotspots, points towards 
+a possible regulatory role of G4 in gene expression and genome stability. Here,
+we carried out the most comprehensive genome-wide survey, to date, of G4s in the 
+Plasmodium falciparum genome using G4Hunter, which identifies G4 forming
+sequences (G4FS) considering their G-richness and G-skewness. We show an
+enrichment of G4FS in nucleosome-depleted regions and in the first exon of var
+genes, a pattern that is conserved within the closely related Laverania
+Plasmodium parasites. Under G4-stabilizing conditions, i.e., following treatment 
+with pyridostatin (a high affinity G4 ligand), we show that a bona fide G4 found 
+in the non-coding strand of var promoters modulates reporter gene expression.
+Furthermore, transcriptional profiling of pyridostatin-treated parasites, shows
+large scale perturbations, with deregulation affecting for instance the ApiAP2
+family of transcription factors and genes involved in ribosome biogenesis.
+Overall, our study highlights G4s as important DNA secondary structures with a
+role in Plasmodium gene expression regulation, sub-telomeric recombination and
+var gene biology.
+
+DOI: 10.1371/journal.pgen.1008917 
+PMCID: PMC7365481
+PMID: 32628663  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

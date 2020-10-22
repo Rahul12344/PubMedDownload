@@ -1,0 +1,47 @@
+
+1. Hepatol Res. 2011 Jun;41(6):564-71. doi: 10.1111/j.1872-034X.2011.00799.x. Epub
+2011 Apr 19.
+
+Data mining reveals complex interactions of risk factors and clinical feature
+profiling associated with the staging of non-hepatitis B virus/non-hepatitis C
+virus-related hepatocellular carcinoma.
+
+Kawaguchi T(1), Kakuma T, Yatsuhashi H, Watanabe H, Saitsu H, Nakao K, Taketomi
+A, Ohta S, Tabaru A, Takenaka K, Mizuta T, Nagata K, Komorizono Y, Fukuizumi K,
+Seike M, Matsumoto S, Maeshiro T, Tsubouchi H, Muro T, Inoue O, Akahoshi M, Sata 
+M.
+
+Author information: 
+(1)Department of Digestive Disease Information and Research and Department of
+Medicine, Kurume University School of Medicine, Kurume. takumi@med.kurume-u.ac.jp
+
+AIM:   Non-hepatitis B virus/non-hepatitis C virus-related hepatocellular
+carcinoma (NBNC-HCC) is often detected at an advanced stage, and the pathology
+associated with the staging of NBNC-HCC remains unclear. Data mining is a set of 
+statistical techniques which uncovers interactions and meaningful patterns of
+factors from a large data collection. The aims of this study were to reveal
+complex interactions of the risk factors and clinical feature profiling
+associated with the staging of NBNC-HCC using data mining techniques.
+METHODS:   A database was created from 663 patients with NBNC-HCC at 20
+institutions. The Milan criteria were used as staging of HCC. Complex
+associations of variables and clinical feature profiling with the Milan criteria 
+were analyzed by graphical modeling and decision tree algorithm methods,
+respectively.
+RESULTS:   Graphical modeling identified six factors independently associated
+with the Milan criteria: diagnostic year of HCC; diagnosis of liver cirrhosis;
+serum aspartate aminotransferase (AST); alanine aminotransferase (ALT);
+α-fetoprotein (AFP); and des-γ-carboxy prothrombin (DCP) levels. The decision
+trees were created with five variables to classify six groups of patients.
+Sixty-nine percent of the patients were within the Milan criteria, when patients 
+showed an AFP level of 200 ng/mL or less, diagnosis of liver cirrhosis and an AST
+level of less than 93 IU/mL. On the other hand, 18% of the patients were within
+the Milan criteria, when patients showed an AFP level of more than 200 ng/mL and 
+ALT level of 20 IU/mL or more.
+CONCLUSION:   Data mining disclosed complex interactions of the risk factors and 
+clinical feature profiling associated with the staging of NBNC-HCC.
+
+© 2011 The Japan Society of Hepatology.
+
+DOI: 10.1111/j.1872-034X.2011.00799.x 
+PMID: 21501351 
+

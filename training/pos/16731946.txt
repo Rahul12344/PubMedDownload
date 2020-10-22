@@ -1,0 +1,40 @@
+
+1. J Virol. 2006 Jun;80(12):6072-83.
+
+Dissociation of a MAVS/IPS-1/VISA/Cardif-IKKepsilon molecular complex from the
+mitochondrial outer membrane by hepatitis C virus NS3-4A proteolytic cleavage.
+
+Lin R(1), Lacoste J, Nakhaei P, Sun Q, Yang L, Paz S, Wilkinson P, Julkunen I,
+Vitour D, Meurs E, Hiscott J.
+
+Author information: 
+(1)Lady Davis Institute for Medical Research, McGill University, Montreal H3T
+1E2, Quebec, Canada. rongtuan.lin@mcgill.ca
+
+Intracellular RNA virus infection is detected by the cytoplasmic RNA helicase
+RIG-I that plays an essential role in signaling to the host antiviral response.
+Recently, the adapter molecule that links RIG-I sensing of incoming viral RNA to 
+downstream signaling and gene activation events was characterized by four
+different groups; MAVS/IPS-1-1/VISA/Cardif contains an amino-terminal CARD domain
+and a carboxyl-terminal mitochondrial transmembrane sequence that localizes to
+the mitochondrial membrane. Furthermore, the hepatitis C virus NS3-4A protease
+complex specifically targets MAVS/IPS-1/VISA/Cardif for cleavage as part of its
+immune evasion strategy. With a novel search program written in python, we also
+identified an uncharacterized protein, KIAA1271 (K1271), containing a single
+CARD-like domain at the N terminus and a Leu-Val-rich C terminus that is
+identical to that of MAVS/IPS-1/VISA/Cardif. Using a combination of biochemical
+analysis, subcellular fractionation, and confocal microscopy, we now demonstrate 
+that NS3-4A cleavage of MAVS/IPS-1/VISA/Cardif/K1271 results in its dissociation 
+from the mitochondrial membrane and disrupts signaling to the antiviral immune
+response. Furthermore, virus-induced IKKepsilon kinase, but not TBK1, colocalized
+strongly with MAVS at the mitochondrial membrane, and the localization of both
+molecules was disrupted by NS3-4A expression. Mutation of the critical cysteine
+508 to alanine was sufficient to maintain mitochondrial localization of
+MAVS/IPS-1/VISA/Cardif and IKKepsilon in the presence of NS3-4A. These
+observations provide an outline of the mechanism by which hepatitis C virus
+evades the interferon antiviral response.
+
+DOI: 10.1128/JVI.02495-05 
+PMCID: PMC1472616
+PMID: 16731946  [Indexed for MEDLINE]
+

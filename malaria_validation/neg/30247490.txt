@@ -1,0 +1,33 @@
+
+1. Nat Biotechnol. 2018 Dec;36(11):1062-1066. doi: 10.1038/nbt.4245. Epub 2018 Sep
+24.
+
+A CRISPR-Cas9 gene drive targeting doublesex causes complete population
+suppression in caged Anopheles gambiae mosquitoes.
+
+Kyrou K(1), Hammond AM(1), Galizi R(1), Kranjc N(1), Burt A(1), Beaghton AK(1),
+Nolan T(1), Crisanti A(1).
+
+Author information: 
+(1)Department of Life Sciences, Imperial College London, UK.
+
+In the human malaria vector Anopheles gambiae, the gene doublesex (Agdsx) encodes
+two alternatively spliced transcripts, dsx-female (AgdsxF) and dsx-male (AgdsxM),
+that control differentiation of the two sexes. The female transcript, unlike the 
+male, contains an exon (exon 5) whose sequence is highly conserved in all
+Anopheles mosquitoes so far analyzed. We found that CRISPR-Cas9-targeted
+disruption of the intron 4-exon 5 boundary aimed at blocking the formation of
+functional AgdsxF did not affect male development or fertility, whereas females
+homozygous for the disrupted allele showed an intersex phenotype and complete
+sterility. A CRISPR-Cas9 gene drive construct targeting this same sequence spread
+rapidly in caged mosquitoes, reaching 100% prevalence within 7-11 generations
+while progressively reducing egg production to the point of total population
+collapse. Owing to functional constraint of the target sequence, no selection of 
+alleles resistant to the gene drive occurred in these laboratory experiments.
+Cas9-resistant variants arose in each generation at the target site but did not
+block the spread of the drive.
+
+DOI: 10.1038/nbt.4245 
+PMCID: PMC6871539
+PMID: 30247490  [Indexed for MEDLINE]
+

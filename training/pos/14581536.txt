@@ -1,0 +1,39 @@
+
+1. J Virol. 2003 Nov;77(22):11992-2001.
+
+Telomere repeat binding factors TRF1, TRF2, and hRAP1 modulate replication of
+Epstein-Barr virus OriP.
+
+Deng Z(1), Atanasiu C, Burg JS, Broccoli D, Lieberman PM.
+
+Author information: 
+(1)The Wistar Institute, Philadelphia, Pennsylvania 19104, USA.
+
+Epstein-Barr virus OriP confers cell cycle-dependent DNA replication and stable
+maintenance on plasmids in EBNA1-positive cells. The dyad symmetry region of OriP
+contains four EBNA1 binding sites that are punctuated by 9-bp repeats referred to
+as nonamers. Previous work has shown that the nonamers bind to cellular factors
+associated with human telomeres and contribute to episomal maintenance of OriP.
+In this work, we show that substitution mutation of all three nonamer sites
+reduces both DNA replication and plasmid maintenance of OriP-containing plasmids 
+by 2.5- to 5-fold. The nonamers were required for high-affinity binding of TRF1, 
+TRF2, and hRap1 to the dyad symmetry element but were not essential for the
+binding of EBNA1 as determined by DNA affinity purification from nuclear
+extracts. Chromatin immunoprecipitation assays indicated that TRF1, TRF2, and
+hRap1 bound OriP in vivo. Cell cycle studies indicate that TRF2 binding to OriP
+peaks in G(1)/S while TRF1 binding peaks in G(2)/M. OriP replication was
+inhibited by transfection of full-length TRF1 but not by deletion mutants lacking
+the myb DNA binding domain. In contrast, OriP replication was not affected by
+transfection of full-length TRF2 or hRap1 but was potently inhibited by
+dominant-negative TRF2 or hRap1 amino-terminal truncation mutants. Knockdown
+experiments with short interfering RNAs (siRNAs) directed against TRF2 and hRap1 
+severely reduced OriP replication, while TRF1 siRNA had a modest stimulatory
+effect on OriP replication. These results indicate that TRF2 and hRap1 promote,
+while TRF1 antagonizes, OriP-dependent DNA replication and suggest that these
+telomeric factors contribute to the establishment of replication competence at
+OriP.
+
+DOI: 10.1128/jvi.77.22.11992-12001.2003 
+PMCID: PMC254251
+PMID: 14581536  [Indexed for MEDLINE]
+

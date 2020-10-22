@@ -1,0 +1,37 @@
+
+1. Nucleic Acids Res. 2015 Jul 1;43(W1):W39-49. doi: 10.1093/nar/gkv416. Epub 2015
+May 7.
+
+The MEME Suite.
+
+Bailey TL(1), Johnson J(2), Grant CE(3), Noble WS(4).
+
+Author information: 
+(1)Institute for Molecular Bioscience, The University of Queensland, Brisbane
+4072, Queensland, Australia t.bailey@uq.edu.au.
+(2)Institute for Molecular Bioscience, The University of Queensland, Brisbane
+4072, Queensland, Australia.
+(3)Department of Genome Sciences, Department of Computer Science and Engineering,
+University of Washington, Seattle, WA 98109, USA.
+(4)Department of Genome Sciences, Department of Computer Science and Engineering,
+University of Washington, Seattle, WA 98109, USA william-noble@uw.edu.
+
+The MEME Suite is a powerful, integrated set of web-based tools for studying
+sequence motifs in proteins, DNA and RNA. Such motifs encode many biological
+functions, and their detection and characterization is important in the study of 
+molecular interactions in the cell, including the regulation of gene expression. 
+Since the previous description of the MEME Suite in the 2009 Nucleic Acids
+Research Web Server Issue, we have added six new tools. Here we describe the
+capabilities of all the tools within the suite, give advice on their best use and
+provide several case studies to illustrate how to combine the results of various 
+MEME Suite tools for successful motif-based analyses. The MEME Suite is freely
+available for academic use at http://meme-suite.org, and source code is also
+available for download and local installation.
+
+© The Author(s) 2015. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkv416 
+PMCID: PMC4489269
+PMID: 25953851  [Indexed for MEDLINE]
+

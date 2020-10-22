@@ -1,0 +1,35 @@
+
+1. Biochem Biophys Res Commun. 2018 Sep 10;503(3):1792-1797. doi:
+10.1016/j.bbrc.2018.07.115. Epub 2018 Jul 29.
+
+Molecular basis for the lack of auto-inhibition of Plasmodium falciparum importin
+α.
+
+Dey V(1), Patankar S(2).
+
+Author information: 
+(1)Department of Biosciences and Bioengineering, IIT Bombay, Powai, Mumbai
+400076, India.
+(2)Department of Biosciences and Bioengineering, IIT Bombay, Powai, Mumbai
+400076, India. Electronic address: patankar@iitb.ac.in.
+
+Importin α is nuclear transport receptor that recognises nuclear localisation
+sequences (NLS). The protein has two domains: armadillo (ARM) repeats containing 
+NLS-binding sites and the importin β-binding (IBB) domain. The IBB domain mimics 
+an NLS and can bind to the ARM repeats, preventing NLS binding. This phenomenon, 
+called auto-inhibition, is a key regulatory feature for binding and release of
+NLS-containing cargo by importin α and mutants that lack auto-inhibition show
+impaired viability in Saccharomyces cerevisiae. The genome of the human malaria
+parasite, Plasmodium falciparum, contains a single gene for importin α and here
+we show that the native protein expressed by this gene lacks auto-inhibition,
+suggesting that P. falciparum parasites possess unconventional mechanisms for
+regulation of cargo binding and release. Mutation of a single SKR motif
+(conserved in Plasmodium species) to KRR in P. falciparum importin α restores
+auto-inhibition. This is the first report of a single-celled eukaryote that has
+evolved with a single importin α isoform lacking auto-inhibition.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2018.07.115 
+PMID: 30064907  [Indexed for MEDLINE]
+

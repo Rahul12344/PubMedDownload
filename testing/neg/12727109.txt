@@ -1,0 +1,33 @@
+
+1. Mol Ther. 2003 Apr;7(4):467-77.
+
+Packaging of an AAV vector encoding human acid alpha-glucosidase for gene therapy
+in glycogen storage disease type II with a modified hybrid adenovirus-AAV vector.
+
+Sun B(1), Chen YT, Bird A, Xu F, Hou YX, Amalfitano A, Koeberl DD.
+
+Author information: 
+(1)Division of Medical Genetics, Duke University Medical Center, Durham, North
+Carolina 27710, USA.
+
+We have developed an improved method for packaging adeno-associated virus (AAV)
+vectors with a replication-defective adenovirus-AAV (Ad-AAV) hybrid virus. The
+AAV vector encoding human acid alpha-glucosidase (hGAA) was cloned into an E1,
+polymerase/preterminal protein-deleted adenovirus, such that it is packaged as an
+Ad vector. Importantly, the Ad-AAV hybrid cannot replicate during AAV vector
+packaging in 293 cells, because of deletion of polymerase/preterminal protein.
+The residual Ad-AAV in the AAV vector stock was reduced to <1 infectious particle
+per 10(10) AAV vector particles. These modifications resulted in approximately
+30-fold increased packaging of the AAV vector for the hybrid Ad-AAV vector method
+as compared with standard transfection-only methods. Similarly improved packaging
+was demonstrated for pseudotyping the AAV vector as AAV6, and for AAV vector
+packaging with a second Ad-AAV vector encoding canine glucose-6-phosphatase.
+Liver-targeted delivery of either the Ad-AAV hybrid or AAV vector particles in
+acid alpha-glucosidase-knockout (GAA-KO) mice revealed secretion of hGAA with the
+Ad-AAV vector, and sustained secretion of hGAA with an AAV vector in
+hGAA-tolerant GAA-KO mice. Further development of hybrid Ad-AAV vectors could
+offer distinct advantages for gene therapy in glycogen storage diseases.
+
+DOI: 10.1016/s1525-0016(03)00022-4 
+PMID: 12727109  [Indexed for MEDLINE]
+

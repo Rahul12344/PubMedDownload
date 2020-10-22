@@ -1,0 +1,50 @@
+
+1. Nat Microbiol. 2019 Dec;4(12):2246-2259. doi: 10.1038/s41564-019-0521-7. Epub
+2019 Aug 5.
+
+Transcriptome-wide dynamics of extensive m6A mRNA methylation during Plasmodium
+falciparum blood-stage development.
+
+Baumgarten S(1)(2)(3), Bryant JM(4)(5)(6), Sinha A(7)(8), Reyser T(4)(5)(6)(9),
+Preiser PR(7)(8), Dedon PC(8)(10), Scherf A(4)(5)(6).
+
+Author information: 
+(1)Biology of Host-Parasite Interactions Unit, Department of Parasites and Insect
+Vectors, Institut Pasteur, Paris, France. sebastian.baumgarten@pasteur.fr.
+(2)CNRS, ERL 9195, Paris, France. sebastian.baumgarten@pasteur.fr.
+(3)INSERM, Unit U1201, Paris, France. sebastian.baumgarten@pasteur.fr.
+(4)Biology of Host-Parasite Interactions Unit, Department of Parasites and Insect
+Vectors, Institut Pasteur, Paris, France.
+(5)CNRS, ERL 9195, Paris, France.
+(6)INSERM, Unit U1201, Paris, France.
+(7)School of Biological Sciences, Nanyang Technological University Singapore,
+Singapore, Singapore.
+(8)Antimicrobial Resistance Interdisciplinary Research Group, Singapore-MIT
+Alliance for Research and Technology, Singapore, Singapore.
+(9)Laboratoire de Chimie de Coordination, Toulouse, France.
+(10)Department of Biological Engineering, Massachusetts Institute of Technology, 
+Cambridge, MA, USA.
+
+Malaria pathogenesis results from the asexual replication of Plasmodium
+falciparum within human red blood cells, which relies on a precisely timed
+cascade of gene expression over a 48-h life cycle. Although substantial
+post-transcriptional regulation of this hardwired program has been observed, it
+remains unclear how these processes are mediated on a transcriptome-wide level.
+To this end, we identified mRNA modifications in the P. falciparum transcriptome 
+and performed a comprehensive characterization of N6-methyladenosine (m6A) over
+the course of blood-stage development. Using mass spectrometry and m6A RNA
+sequencing, we demonstrate that m6A is highly developmentally regulated,
+exceeding m6A levels known in any other eukaryote. We characterize a distinct m6A
+writer complex and show that knockdown of the putative m6A methyltransferase,
+PfMT-A70, by CRISPR interference leads to increased levels of transcripts that
+normally contain m6A. In accordance, we find an inverse correlation between m6A
+methylation and mRNA stability or translational efficiency. We further identify
+two putative m6A-binding YTH proteins that are likely to be involved in the
+regulation of these processes across the parasite's life cycle. Our data
+demonstrate unique features of an extensive m6A mRNA methylation programme in
+malaria parasites and reveal its crucial role in dynamically fine-tuning the
+transcriptional cascade of a unicellular eukaryote.
+
+DOI: 10.1038/s41564-019-0521-7 
+PMID: 31384004  [Indexed for MEDLINE]
+

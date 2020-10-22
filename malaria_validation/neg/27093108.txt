@@ -1,0 +1,66 @@
+
+1. OMICS. 2016 Apr;20(4):239-47. doi: 10.1089/omi.2015.0197.
+
+Proteogenomics of Candida tropicalis--An Opportunistic Pathogen with Importance
+for Global Health.
+
+Datta KK(1)(2), Patil AH(1)(2), Patel K(1)(3), Dey G(1)(4), Madugundu AK(1)(5),
+Renuse S(1)(3), Kaviyil JE(6), Sekhar R(1)(5), Arunima A(2), Daswani B(7), Kaur
+I(8), Mohanty J(9), Sinha R(10), Jaiswal S(2), Sivapriya S(11), Sonnathi Y(12),
+Chattoo BB(13), Gowda H(1)(2)(14), Ravikumar R(6), Prasad TS(1)(14)(15).
+
+Author information: 
+(1)1 Institute of Bioinformatics , International Technology Park, Bangalore,
+India.
+(2)2 School of Biotechnology, KIIT University , Bhubaneswar, India .
+(3)3 Amrita School of Biotechnology, Amrita Vishwa Vidyapeetham , Kollam, India .
+(4)4 Manipal University , Madhav Nagar, Manipal, India .
+(5)5 Centre for Bioinformatics, School of Life Sciences, Pondicherry University ,
+Puducherry, India .
+(6)6 Department of Neuromicrobiology, Neurobiology Research Centre, National
+Institute of Mental Health and Neurosciences , Bangalore, India .
+(7)7 National Institute for Research in Reproductive Health (ICMR) , Parel,
+Mumbai, India .
+(8)8 Malaria Research Group, International Center for Genetic Engineering and
+Biotechnology (ICGEB) , New Delhi, India .
+(9)9 ICAR-Central Institute of Freshwater Aquaculture , Kausalyaganga,
+Bhubaneswar, India .
+(10)10 ITC LSTC , Bangalore, India .
+(11)11 Department of Ocular Pathology, Vision Research Foundation , Chennai,
+India .
+(12)12 Great Eastern Medical School & Hospital , Ragolu, Srikakulam, India .
+(13)13 Centre for Genome Research, Department of Microbiology and Biotechnology
+Centre, Faculty of Science, The M. S. University of Baroda , Vadodara, India .
+(14)14 YU-IOB Center for Systems Biology and Molecular Medicine, Yenepoya
+University , Mangalore, India .
+(15)15 NIMHANS-IOB Proteomics and Bioinformatics Laboratory, Neurobiology
+Research Centre, National Institute of Mental Health and Neurosciences ,
+Bangalore, India .
+
+The frequency of Candida infections is currently rising, and thus adversely
+impacting global health. The situation is exacerbated by azole resistance
+developed by fungal pathogens. Candida tropicalis is an opportunistic pathogen
+that causes candidiasis, for example, in immune-compromised individuals, cancer
+patients, and those who undergo organ transplantation. It is a member of the
+non-albicans group of Candida that are known to be azole-resistant, and is
+frequently seen in individuals being treated for cancers, HIV-infection, and
+those who underwent bone marrow transplantation. Although the genome of C.
+tropicalis was sequenced in 2009, the genome annotation has not been supported by
+experimental validation. In the present study, we have carried out proteomics
+profiling of C. tropicalis using high-resolution Fourier transform mass
+spectrometry. We identified 2743 proteins, thus mapping nearly 44% of the
+computationally predicted protein-coding genes with peptide level evidence. In
+addition to identifying 2591 proteins in the cell lysate of this yeast, we also
+analyzed the proteome of the conditioned media of C. tropicalis culture and
+identified several unique secreted proteins among a total of 780 proteins. By
+subjecting the mass spectrometry data derived from cell lysate and conditioned
+media to proteogenomic analysis, we identified 86 novel genes, 12 novel exons,
+and corrected 49 computationally-predicted gene models. To our knowledge, this is
+the first high-throughput proteomics study of C. tropicalis validating predicted 
+protein coding genes and refining the current genome annotation. The findings may
+prove useful in future global health efforts to fight against Candida infections.
+
+DOI: 10.1089/omi.2015.0197 
+PMCID: PMC4840825
+PMID: 27093108  [Indexed for MEDLINE]
+

@@ -1,0 +1,29 @@
+
+1. Mem Inst Oswaldo Cruz. 2015 Sep;110(6):814-6. doi: 10.1590/0074-02760150216.
+
+Whole-genome sequencing of a Plasmodium vivax isolate from the China-Myanmar
+border area.
+
+Shen HM(1), Chen SB(1), Wang Y(1), Chen JH(1).
+
+Author information: 
+(1)Chinese Center for Disease Control and Prevention, National Institute of
+Parasitic Diseases, Shanghai, People's Republic of China.
+
+Currently, there is a trend of an increasing number of Plasmodium vivax malaria
+cases in China that are imported across its Southeast Asia border, especially in 
+the China-Myanmar border area (CMB). To date, little is known about the genetic
+diversity of P. vivax in this region. In this paper, we report the first genome
+sequencing of a P. vivax isolate (CMB-1) from a vivax malaria patient in CMB. The
+sequencing data were aligned onto 96.43% of the P. vivax Salvador I reference
+strain (Sal I) genome with 7.84-fold coverage as well as onto 98.32% of 14 Sal I 
+chromosomes. Using the de novo assembly approach, we generated 8,541 scaffolds
+and assembled a total of 27.1 Mb of sequence into CMB-1 scaffolds. Furthermore,
+we identified all 295 known vir genes, which is the largest subtelomeric
+multigene family in malaria parasites. These results provide an important
+foundation for further research on P. vivax population genetics.
+
+DOI: 10.1590/0074-02760150216 
+PMCID: PMC4667588
+PMID: 26517664  [Indexed for MEDLINE]
+

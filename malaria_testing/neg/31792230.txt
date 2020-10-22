@@ -1,0 +1,46 @@
+
+1. Sci Rep. 2019 Dec 2;9(1):18124. doi: 10.1038/s41598-019-54083-4.
+
+Peripheral blood mononuclear cell transcriptomes reveal an over-representation of
+down-regulated genes associated with immunity in HIV-exposed uninfected infants.
+
+Musimbi ZD(1), Rono MK(2)(3), Otieno JR(4), Kibinge N(4), Ochola-Oyier LI(4)(5), 
+de Villiers EP(4)(6), Nduati EW(4)(5).
+
+Author information: 
+(1)Center of Biotechnology and Bioinformatics, Chiromo Campus, University of
+Nairobi, Nairobi, Kenya. zanetakidiavai@gmail.com.
+(2)KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya.
+MRono@kemri-wellcome.org.
+(3)Pwani University Biotechnology Research Centre, Pwani University, Kilifi,
+Kenya. MRono@kemri-wellcome.org.
+(4)KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya.
+(5)Pwani University Biotechnology Research Centre, Pwani University, Kilifi,
+Kenya.
+(6)Centre for Tropical Medicine and Global Health, University of Oxford, Oxford, 
+UK.
+
+HIV-exposed uninfected (HEU) infants are disproportionately at a higher risk of
+morbidity and mortality, as compared to HIV-unexposed uninfected (HUU) infants.
+Here, we used transcriptional profiling of peripheral blood mononuclear cells to 
+determine immunological signatures of in utero HIV exposure. We identified 262
+differentially expressed genes (DEGs) in HEU compared to HUU infants. Weighted
+gene co-expression network analysis (WGCNA) identified six modules that had
+significant associations with clinical traits. Functional enrichment analysis on 
+both DEGs and the six significantly associated modules revealed an enrichment of 
+G-protein coupled receptors and the immune system, specifically affecting
+neutrophil function and antibacterial responses. Additionally, malaria
+pathogenicity genes (thrombospondin 1-(THBS 1), interleukin 6 (IL6), and arginine
+decarboxylase 2 (ADC2)) were down-regulated. Of interest, the down-regulated
+immunity genes were positively correlated to the expression of epigenetic factors
+of the histone family and high-mobility group protein B2 (HMGB2), suggesting
+their role in the dysregulation of the HEU transcriptional landscape. Overall, we
+show that genes primarily associated with neutrophil mediated immunity were
+repressed in the HEU infants. Our results suggest that this could be a
+contributing factor to the increased susceptibility to bacterial infections
+associated with higher morbidity and mortality commonly reported in HEU infants.
+
+DOI: 10.1038/s41598-019-54083-4 
+PMCID: PMC6889308
+PMID: 31792230 
+

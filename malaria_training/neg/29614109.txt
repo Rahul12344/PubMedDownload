@@ -1,0 +1,43 @@
+
+1. PLoS Pathog. 2018 Apr 3;14(4):e1006918. doi: 10.1371/journal.ppat.1006918.
+eCollection 2018 Apr.
+
+Mutations in the pantothenate kinase of Plasmodium falciparum confer diverse
+sensitivity profiles to antiplasmodial pantothenate analogues.
+
+Tjhin ET(1), Spry C(1), Sewell AL(2), Hoegl A(3), Barnard L(4), Sexton AE(5),
+Siddiqui G(5), Howieson VM(1), Maier AG(1), Creek DJ(5), Strauss E(4), Marquez
+R(2)(6), Auclair K(3), Saliba KJ(1)(7).
+
+Author information: 
+(1)Research School of Biology, The Australian National University, Canberra,
+Australia.
+(2)Department of Chemistry, University of Glasgow, Glasgow, United Kingdom.
+(3)Department of Chemistry, McGill University, Montreal, Quebec, Canada.
+(4)Department of Biochemistry, Stellenbosch University, Matieland, South Africa.
+(5)Monash Institute of Pharmaceutical Sciences, Monash University, Melbourne,
+Australia.
+(6)Department of Chemistry, Xi'an Jiaotong-Liverpool University, Suzhou, China.
+(7)Medical School, The Australian National University, Canberra, Australia.
+
+The malaria-causing blood stage of Plasmodium falciparum requires extracellular
+pantothenate for proliferation. The parasite converts pantothenate into coenzyme 
+A (CoA) via five enzymes, the first being a pantothenate kinase (PfPanK).
+Multiple antiplasmodial pantothenate analogues, including pantothenol and
+CJ-15,801, kill the parasite by targeting CoA biosynthesis/utilisation. Their
+mechanism of action, however, remains unknown. Here, we show that parasites
+pressured with pantothenol or CJ-15,801 become resistant to these analogues.
+Whole-genome sequencing revealed mutations in one of two putative PanK genes
+(Pfpank1) in each resistant line. These mutations significantly alter PfPanK
+activity, with two conferring a fitness cost, consistent with Pfpank1 coding for 
+a functional PanK that is essential for normal growth. The mutants exhibit a
+different sensitivity profile to recently-described, potent, antiplasmodial
+pantothenate analogues, with one line being hypersensitive. We provide evidence
+consistent with different pantothenate analogue classes having different
+mechanisms of action: some inhibit CoA biosynthesis while others inhibit
+CoA-utilising enzymes.
+
+DOI: 10.1371/journal.ppat.1006918 
+PMCID: PMC5882169
+PMID: 29614109  [Indexed for MEDLINE]
+

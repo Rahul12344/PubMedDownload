@@ -1,0 +1,39 @@
+
+1. J Virol. 2012 Aug;86(15):8086-96. doi: 10.1128/JVI.00234-12. Epub 2012 May 23.
+
+Shutoff of BZLF1 gene expression is necessary for immortalization of primary B
+cells by Epstein-Barr virus.
+
+Yu X(1), McCarthy PJ, Wang Z, Gorlen DA, Mertz JE.
+
+Author information: 
+(1)McArdle Laboratory for Cancer Research, University of Wisconsin School of
+Medicine and Public Health, Madison, Wisconsin, USA.
+
+The BZLF1 gene controls the switch between latent and lytic infection by
+Epstein-Barr virus (EBV). We previously reported that both the ZV and ZIIR
+elements within the BZLF1 promoter, Zp, are potent transcription silencers within
+the context of an intact EBV genome. We report here identification of another
+sequence element, ZV', which synergized with ZV in repressing Zp via binding ZEB1
+or ZEB2. We then determined the phenotype of a variant of EBV strain B95.8 in
+which the ZV, ZV', and ZIIR elements were concurrently mutated. HEK293 cell lines
+infected with this triple mutant (tmt) virus spontaneously synthesized 6- to
+10-fold more viral BZLF1, BRLF1, BMRF1, and BLLF1 RNAs, 3- to 6-fold more viral
+Zta, Rta, and EAD proteins, 3- to 5-fold more viral DNA, and 7- to 9-fold more
+infectious virus than did 293 cell lines latently infected with either the ZV ZV'
+double mutant (dmt) or ZIIR mutant (mt) virus. While ZV ZV' ZIIR tmt EBV
+efficiently infected human primary blood B cells in vitro, it was highly
+defective in immortalizing them. Instead of the nearly complete silencing of
+BZLF1 gene expression that occurs within 4 days after primary infection with
+wild-type EBV, the ZV ZV' ZIIR tmt-infected cells continued to synthesize BZLF1
+RNA, with 90% of them dying within 9 days postinfection. BL41 cells infected with
+this "superlytic" virus also exhibited increased synthesis of BZLF1 and BMRF1
+RNAs. Thus, we conclude that the ZV, ZV', and ZIIR silencing elements act
+synergistically to repress transcription from Zp, thereby tightly controlling
+BZLF1 gene expression, which is crucial for establishing and maintaining EBV
+latency.
+
+DOI: 10.1128/JVI.00234-12 
+PMCID: PMC3421699
+PMID: 22623769  [Indexed for MEDLINE]
+

@@ -1,0 +1,61 @@
+
+1. Microb Cell Fact. 2018 Apr 11;17(1):59. doi: 10.1186/s12934-018-0905-z.
+
+L-Lactic acid production from glucose and xylose with engineered strains of
+Saccharomyces cerevisiae: aeration and carbon source influence yields and
+productivities.
+
+Novy V(1), Brunner B(1), Nidetzky B(2)(3).
+
+Author information: 
+(1)Institute of Biotechnology and Biochemical Engineering, NAWI Graz, Graz
+University of Technology, Petersgasse 12/I, 8010, Graz, Austria.
+(2)Institute of Biotechnology and Biochemical Engineering, NAWI Graz, Graz
+University of Technology, Petersgasse 12/I, 8010, Graz, Austria.
+bernd.nidetzky@tugraz.at.
+(3)Austrian Centre of Industrial Biotechnology, Graz, Austria.
+bernd.nidetzky@tugraz.at.
+
+BACKGROUND: Saccharomyces cerevisiae, engineered for L-lactic acid production
+from glucose and xylose, is a promising production host for
+lignocellulose-to-lactic acid processes. However, the two principal engineering
+strategies-pyruvate-to-lactic acid conversion with and without disruption of the 
+competing pyruvate-to-ethanol pathway-have not yet resulted in strains that
+combine high lactic acid yields (YLA) and productivities (QLA) on both sugar
+substrates. Limitations seemingly arise from a dependency on the carbon source
+and the aeration conditions, but the underlying effects are poorly understood. We
+have recently presented two xylose-to-lactic acid converting strains, IBB14LA1
+and IBB14LA1_5, which have the L-lactic acid dehydrogenase from Plasmodium
+falciparum (pfLDH) integrated at the pdc1 (pyruvate decarboxylase) locus.
+IBB14LA1_5 additionally has its pdc5 gene knocked out. In this study, the
+influence of carbon source and oxygen on YLA and QLA in IBB14LA1 and IBB14LA1_5
+was investigated.
+RESULTS: In anaerobic fermentation IBB14LA1 showed a higher YLA on xylose
+(0.27 g g Xyl-1 ) than on glucose (0.18 g g Glc-1 ). The ethanol yields (YEtOH,
+0.15 g g Xyl-1 and 0.32 g g Glc-1 ) followed an opposite trend. In IBB14LA1_5,
+the effect of the carbon source on YLA was less pronounced (~ 0.80 g g Xyl-1 ,
+and 0.67 g g Glc-1 ). Supply of oxygen accelerated glucose conversions
+significantly in IBB14LA1 (QLA from 0.38 to 0.81 g L-1 h-1) and IBB14LA1_5 (QLA
+from 0.05 to 1.77 g L-1 h-1) at constant YLA (IBB14LA1 ~ 0.18 g g Glc-1 ;
+IBB14LA1_5 ~ 0.68 g g Glc-1 ). In aerobic xylose conversions, however, lactic
+acid production ceased completely in IBB14LA1 and decreased drastically in
+IBB14LA1_5 (YLA aerobic ≤ 0.25 g g Xyl-1 and anaerobic ~ 0.80 g g Xyl-1 ) at
+similar QLA (~ 0.04 g L-1 h-1). Switching from aerobic to microaerophilic
+conditions (pO2 ~ 2%) prevented lactic acid metabolization, observed for fully
+aerobic conditions, and increased QLA and YLA up to 0.11 g L-1 h-1 and 0.38 g g
+Xyl-1 , respectively. The pfLDH and PDC activities in IBB14LA1 were measured and 
+shown to change drastically dependent on carbon source and oxygen.
+CONCLUSION: Evidence from conversion time courses together with results of
+activity measurements for pfLDH and PDC show that in IBB14LA1 the distribution of
+fluxes at the pyruvate branching point is carbon source and oxygen dependent.
+Comparison of the performance of strain IBB14LA1 and IBB14LA1_5 in conversions
+under different aeration conditions (aerobic, anaerobic, and microaerophilic)
+further suggest that xylose, unlike glucose, does not repress the respiratory
+response in both strains. This study proposes new genetic engineering targets for
+rendering genetically engineering S. cerevisiae better suited for lactic acid
+biorefineries.
+
+DOI: 10.1186/s12934-018-0905-z 
+PMCID: PMC5894196
+PMID: 29642896  [Indexed for MEDLINE]
+

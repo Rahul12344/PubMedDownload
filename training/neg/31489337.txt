@@ -1,0 +1,35 @@
+
+1. Mol Ther Methods Clin Dev. 2019 Jul 31;14:270-274. doi:
+10.1016/j.omtm.2019.07.007. eCollection 2019 Sep 13.
+
+Integration of Fluorescence Detection and Image-Based Automated Counting
+Increases Speed, Sensitivity, and Robustness of Plaque Assays.
+
+Masci AL(1), Menesale EB(1), Chen WC(1), Co C(1), Lu X(1), Bergelson S(1).
+
+Author information: 
+(1)Bioassay and Gene Therapy, Analytical Development, Biogen, Cambridge, MA, USA.
+
+Plaque assays are used to measure the infectious titer of viral samples. These
+assays are multi-day and low-throughput and may be subject to analyst variability
+from biased or subjective manual plaque counting. Typically, on day 1, cells are 
+adhered to plates overnight. On day 2, cells are infected with virus. After 3
+additional days, plaques are fixed, stained with a horseradish peroxidase
+(HRP)-conjugated antibody and a HRP substrate, and counted by eye. Manual-based
+visual counting of plaques is time-consuming and laborious and may be subject to 
+variability between analysts. Also, the assay must proceed for several days to
+allow the plaques to increase to sufficiently large sizes for manual
+identification. Here, we integrate fluorescent detection and automated plaque
+counting to increase the sensitivity and speed of the assay. First, we stain
+plaques with a fluorescent-labeled antibody. Second, we implement a plate-based
+cell imager to perform non-biased, non-subjective plaque counting. The
+integration of these two technologies decreases the assay length by 40%, from
+5 days to 3 days, because plaque size, plaque signal to noise, and manual
+visualization are no longer limiting. This optimized plaque assay is sensitive,
+fast, and robust and expands the throughput and usage of this method for
+measuring plaque formation.
+
+DOI: 10.1016/j.omtm.2019.07.007 
+PMCID: PMC6717064
+PMID: 31489337 
+

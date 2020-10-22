@@ -1,0 +1,48 @@
+
+1. BMC Infect Dis. 2011 Feb 2;11:36. doi: 10.1186/1471-2334-11-36.
+
+Geodemographics profiling of influenza A and B virus infections in community
+neighborhoods in Japan.
+
+Kimura Y(1), Saito R, Tsujimoto Y, Ono Y, Nakaya T, Shobugawa Y, Sasaki A, Oguma 
+T, Suzuki H.
+
+Author information: 
+(1)Division of Public Health, Department of Infectious Disease Control and
+International Medicine, Niigata University Graduate School of Medical and Dental 
+Sciences, Niigata, Japan. yoshi@lit.osaka-cu.ac.jp
+
+BACKGROUND: The spread of influenza viruses in a community are influenced by
+several factors, but no reports have focused on the relationship between the
+incidence of influenza and characteristics of small neighborhoods in a community.
+We aimed to clarify the relationship between the incidence of influenza and
+neighborhood characteristics using GIS and identified the type of small areas
+where influenza occurs frequently or infrequently.
+METHODS: Of the 19,077 registered influenza cases, we analyzed 11,437 influenza A
+and 5,193 influenza B cases that were diagnosed by the rapid antigen test in
+66-86 medical facilities in Isahaya City, Japan, from 2004 to 2008. We used the
+commercial geodemographics dataset, Mosaic Japan to categorize and classify each 
+neighborhood. Furthermore, we calculated the index value of influenza in crude
+and age adjusted rates to evaluate the incidence of influenza by Mosaic
+segmentation. Additional age structure analysis was performed to geodemographics 
+segmentation to explore the relationship between influenza and family structure.
+RESULTS: The observed number of influenza A and B patients in the neighborhoods
+where young couples with small children lived was approximately 10-40% higher
+than the expected number (p < 0.01) during all seasons. On the contrary, the
+number of patients in the neighborhoods of the aging society in a rural area was 
+20-50% lower than the expected number (p < 0.01) during all seasons. This
+tendency was consistent after age adjustment except in the case of influenza B,
+which lost significance in higher incidence areas, but the overall results
+indicated high transmission of influenza in areas where young families with
+children lived.
+CONCLUSIONS: Our analysis indicated that the incidence of influenza A and B in
+neighborhood groups is related to the family structure, especially the presence
+of children in households. Simple statistical analysis of geodemographics data is
+an effective method to understand the differences in the incidence of influenza
+among neighborhood groups, and it provides a valuable basis for community
+strategies to control influenza.
+
+DOI: 10.1186/1471-2334-11-36 
+PMCID: PMC3044666
+PMID: 21288324  [Indexed for MEDLINE]
+

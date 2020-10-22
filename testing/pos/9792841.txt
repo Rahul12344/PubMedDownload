@@ -1,0 +1,45 @@
+
+1. Virology. 1998 Oct 25;250(2):302-15.
+
+The vaccinia virus E3L gene product interacts with both the regulatory and the
+substrate binding regions of PKR: implications for PKR autoregulation.
+
+Sharp TV(1), Moonan F, Romashko A, Joshi B, Barber GN, Jagus R.
+
+Author information: 
+(1)Center of Marine Biotechnology, University of Maryland Biotechnology
+Institute, Baltimore, Maryland, 21202, USA.
+
+The vaccinia virus E3L gene product, pE3, is a dsRNA binding protein that
+prevents activation of the interferon-induced, dsRNA-activated protein kinase,
+PKR. Activation of PKR, which results in phosphorylation of the translation
+initiation factor, eIF2alpha, leads to the inhibition of protein synthesis, a
+process involved in defense against virus infection. The E3L gene product has a
+conserved dsRNA binding domain (DRBD) in its carboxyl-terminal region and has
+been shown to function in vitro by sequestration of dsRNA. We have utilized in
+vitro binding assays and the yeast two-hybrid system to demonstrate direct
+interactions of pE3 with PKR. By these methods, we demonstrate that pE3 interacts
+with two distinct regions in PKR, the amino-terminal (amino acids 1-99) located
+in the regulatory domain and the carboxyl-terminal (amino acids 367-523) located 
+in the catalytic domain. The amino-terminal region of PKR that interacts with pE3
+contains a conserved DRBD, suggesting that PKR can form nonfunctional
+heterodimers with pE3, analogous to those seen with other dsRNA binding proteins.
+Interaction of pE3 with the amino-terminal region of PKR is enhanced by dsRNA. In
+contrast, dsRNA reduces the interaction of pE3 with the carboxyl-terminal region 
+of PKR. Competition experiments demonstrate that the carboxyl-terminal region of 
+PKR, to which pE3 binds, overlaps the region with which eIF2alpha and the
+pseudosubstrate pK3 interact, suggesting that pE3 may also prevent PKR activation
+by masking the substrate binding domain. Like pE3, the amino-terminal region of
+PKR also interacts with the carboxyl-terminal domain of PKR. These interactions
+increase our understanding of the mechanisms by which pE3 downregulates PKR. In
+addition, the PKR-PKR interactions observed leads us to suggest a novel
+autoregulatory mechanism for activation of PKR in which dsRNA binding to the
+DRBD(s) induces a conformational change that results in release of the amino
+terminal region from the substrate binding domain, allowing access to eIF2alpha
+and its subsequent phosphorylation.
+
+Copyright 1998 Academic Press
+
+DOI: 10.1006/viro.1998.9365 
+PMID: 9792841  [Indexed for MEDLINE]
+

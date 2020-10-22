@@ -1,0 +1,59 @@
+
+1. Cell Discov. 2018 Sep 11;4:51. doi: 10.1038/s41421-018-0052-z. eCollection 2018.
+
+HCV-associated exosomes promote myeloid-derived suppressor cell expansion via
+inhibiting miR-124 to regulate T follicular cell differentiation and function.
+
+Wang L(#)(1)(2)(3), Cao D(#)(1)(2), Wang L(1)(2), Zhao J(1)(2), Nguyen LN(1)(2), 
+Dang X(1)(2), Ji Y(1)(2)(4), Wu XY(1)(2), Morrison ZD(1)(2), Xie Q(1), El Gazzar 
+M(1), Ning S(1)(2), Moorman JP(1)(2)(5), Yao ZQ(1)(2)(5).
+
+Author information: 
+(1)1Center of Excellence in Inflammation, Infectious Disease and Immunity, James 
+H. Quillen College of Medicine, East Tennessee State University, Johnson City, TN
+37614 USA.
+(2)2Division of Infectious, Inflammatory and Immunologic Diseases, Department of 
+Internal Medicine, Quillen College of Medicine, ETSU, Johnson City, TN 37614 USA.
+(3)3Center of Infectious Disease, Beijing Ditan Hospital, Capital Medical
+University, Beijing, 100015 China.
+(4)4Center of Cadre Health Care, Beijing 302 Hospital, Beijing, 100000 China.
+(5)Hepatitis (HCV/HIV) Program, James H. Quillen VA Medical Center, Department of
+Veterans Affairs, Johnson City, TN 37614 USA.
+(#)Contributed equally
+
+Virus-infected cells can regulate non-permissive bystander cells, but the precise
+mechanisms remain incompletely understood. Here we report that this process can
+be mediated by transfer of viral RNA-loaded exosomes shed from infected cells to 
+myeloid-derived suppressor cells (MDSCs), which in turn regulate the
+differentiation and function of T cells during viral infection. Specifically, we 
+demonstrated that patients with chronic hepatitis C virus (HCV) infection
+exhibited significant increases in T follicular regulatory (TFR) cells and
+decreases in T follicular helper (TFH) cells. These MDSC-mediated T-cell
+dysregulations resulted in an increased ratio of TFR/TFH and IL-10 production in 
+peripheral blood. Specifically, co-culture of MDSCs derived from HCV patients
+with healthy peripheral blood mononuclear cells (PBMCs) induced expansion of TFR,
+whereas depletion of MDSCs from PBMCs of HCV patients reduced the increases in
+TFR frequency and IL-10 production, and promoted the differentiation of
+IFN-γ-producing TFH cells. Importantly, we found that exosomes isolated from the 
+plasma of HCV patients and supernatant of HCV-infected hepatocytes could drive
+monocytic myeloid cell differentiation into MDSCs. These exosomes were enriched
+in tetraspanins, such as CD63 and CD81, and contained HCV RNA, but exosomes
+isolated from patients with antiviral treatment contained no HCV RNA and could
+not induce MDSC differentiation. Notably, these HCV RNA-containing exosomes
+(HCV-Exo) were sufficient to induce MDSCs. Furthermore, incubation of healthy
+myeloid cells with these HCV-Exo inhibited the expression of miR-124, whereas
+reconstitution of PBMCs with miR-124 abolished the effects of HCV-Exo on MDSC
+induction. Taken together, these results indicate that HCV-associated exosomes
+can transfer immunomodulatory viral RNA from infected cells to neighboring immune
+cells and trigger MDSC expansion, which subsequently promotes TFR differentiation
+and inhibits TFH function. This study reveals a previously unrecognized path that
+represents a novel mechanism of immune dysregulation during chronic viral
+infection.
+
+DOI: 10.1038/s41421-018-0052-z 
+PMCID: PMC6131392
+PMID: 30210805 
+
+Conflict of interest statement: The authors declare that they have no conflict of
+interest.
+

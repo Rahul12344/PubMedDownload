@@ -1,0 +1,70 @@
+
+1. Trop Med Health. 2019 Apr 11;47:23. doi: 10.1186/s41182-019-0151-z. eCollection
+2019.
+
+Genetic structure of Anopheles gambiae s.s populations following the use of
+insecticides on several consecutive years in southern Benin.
+
+Fassinou AJYH(1)(2), Koukpo CZ(1)(2), Ossè RA(1)(3), Agossa FR(1), Assogba BS(4),
+Sidick A(1), Sèwadé WT(1), Akogbéto MC(1)(5), Sèzonlin M(1)(5).
+
+Author information: 
+(1)Cotonou Entomological Research Center (CREC), Cotonou, Benin.
+(2)Graduate School of Life Sciences and Earth, FAST - UAC, Abomey-Calavi, Benin.
+(3)National University of Agriculture (UNA), Porto-Novo, Benin.
+(4)5Medical Research Council Unit the Gambia at the London School of Hygiene &
+Tropical, Serrekunda, Gambia.
+(5)Laboratory of Evolution, Biodiversity of Arthropods and Sanitation, FAST -
+UAC, Abomey-Calavi, Benin.
+
+Background: Several studies have reported the strong resistance of Anopheles
+gambiae s.l. complex species to pyrethroids. The voltage-dependent sodium channel
+(Vgsc) gene is the main target of pyrethroids and DDT. In Benin, the frequency of
+the resistant allele (L1014F) of this gene varies along the north-south transect.
+Monitoring the evolution of resistance is necessary to better appreciate the
+genetic structure of vector populations in localities subject to the intensive
+use of chemicals associated with other control initiatives. The purpose of this
+study was to map the distribution of pyrethroid insecticide resistance alleles of
+the Kdr gene in malaria vectors in different regions and ecological facies in
+order to identify the evolutionary forces that might be the basis of anopheline
+population dynamics.
+Methods: The characterization of Anopheles gambiae s.l. populations and
+resistance mechanisms were performed using adult mosquitoes obtained from larvae 
+collected in the four agroecological zones in southern Benin. Genomic DNA
+extraction was performed on whole mosquitoes.The extracted genomic DNA from them 
+were used for the molecular identification of species in Anopheles gambiae s.l.
+complex and the identification of genotypes related to pyrethroid resistance as
+the Kdr gene amino acid position 1014 in sodium channel. Molecular speciation and
+genotyping of Kdr resistant alleles (1014) were done using PCR.Genepop software
+version 4.2 was used to calculate allelic and genotypic frequencies in each
+agroecological zone. The p value of the allelic frequency was determined using
+the binomial test function in R version 3.3.3. The Hardy-Weinberg equilibrium was
+checked for each population with Genetics software version 1.3.8.1. The observed 
+heterozygosity and the expected heterozygosity as well as the fixation index and 
+genetic differentiation index within and between populations were calculated
+using Genepop software version 4.2.
+Results: During the study period, Anopheles coluzzii was the major species in all
+agroecological zones while Anopheles gambiae was scarcely represented. Regardless
+of the species, resistant homozygote individuals (L1014F/L1014F) were dominant in
+all agroecological zones, showing a strong selection of the resistant allele
+(L1014F). All populations showed a deficit of heterozygosity. No genetic
+differentiation was observed between the different populations of the two
+species. For Anopheles coluzzii, there was a small differentiation among the
+populations of the central cotton and bar-lands zones. The genetic
+differentiation was modest among the population of the fisheries zone
+(Fst = 0.1295). The genetic differentiation was very high in the population of
+Anopheles gambiae of the bar-lands zone (Fst = 0.2408).
+Conclusion: This study revealed that the use of insecticides in Benin for years
+has altered the genetic structure of Anopheles gambiae s.s. populations in all
+agroecological zones of southern Benin. It would be desirable to orientate vector
+control efforts towards the use of insecticides other than pyrethroids and DDT or
+combinations of insecticides with different modes of action.
+
+DOI: 10.1186/s41182-019-0151-z 
+PMCID: PMC6458727
+PMID: 31007534 
+
+Conflict of interest statement: Not applicableNot applicable.The authors declare 
+that they have no competing interests.Springer Nature remains neutral with regard
+to jurisdictional claims in published maps and institutional affiliations.
+

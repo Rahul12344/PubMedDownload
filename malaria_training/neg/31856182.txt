@@ -1,0 +1,57 @@
+
+1. PLoS Genet. 2019 Dec 19;15(12):e1008440. doi: 10.1371/journal.pgen.1008440.
+eCollection 2019 Dec.
+
+Experimental population modification of the malaria vector mosquito, Anopheles
+stephensi.
+
+Pham TB(1), Phong CH(1), Bennett JB(2), Hwang K(1), Jasinskiene N(1), Parker
+K(1), Stillinger D(1), Marshall JM(3)(4), Carballar-Lejarazú R(1), James
+AA(1)(5).
+
+Author information: 
+(1)Department of Microbiology & Molecular Genetics, University of California,
+Irvine, California, United States of America.
+(2)Biophysics Graduate Group, University of California, Berkeley, California,
+United States of America.
+(3)Division of Epidemiology & Biostatistics, School of Public Health, University 
+of California, Berkeley, California, United States of America.
+(4)Innovative Genomics Institute, Berkeley, California, United States of America.
+(5)Department of Molecular Biology & Biochemistry, University of California,
+Irvine, California, United States of America.
+
+Small laboratory cage trials of non-drive and gene-drive strains of the Asian
+malaria vector mosquito, Anopheles stephensi, were used to investigate release
+ratios and other strain properties for their impact on transgene spread during
+simulated population modification. We evaluated the effects of transgenes on
+survival, male contributions to next-generation populations, female reproductive 
+success and the impact of accumulation of gene drive-resistant genomic target
+sites resulting from nonhomologous end-joining (NHEJ) mutagenesis during Cas9,
+guide RNA-mediated cleavage. Experiments with a non-drive, autosomally-linked
+malaria-resistance gene cassette showed 'full introduction' (100% of the insects 
+have at least one copy of the transgene) within 8 weeks (≤ 3 generations)
+following weekly releases of 10:1 transgenic:wild-type males in an overlapping
+generation trial design. Male release ratios of 1:1 resulted in cages where
+mosquitoes with at least one copy of the transgene fluctuated around 50%. In
+comparison, two of three cages in which the malaria-resistance genes were linked 
+to a gene-drive system in an overlapping generation, single 1:1 release reached
+full introduction in 6-8 generations with a third cage at ~80% within the same
+time. Release ratios of 0.1:1 failed to establish the transgenes. A
+non-overlapping generation, single-release trial of the same gene-drive strain
+resulted in two of three cages reaching 100% introduction within 6-12 generations
+following a 1:1 transgenic:wild-type male release. Two of three cages with 0.33:1
+transgenic:wild-type male single releases achieved full introduction in 13-16
+generations. All populations exhibiting full introduction went extinct within
+three generations due to a significant load on females having disruptions of both
+copies of the target gene, kynurenine hydroxylase. While repeated releases of
+high-ratio (10:1) non-drive constructs could achieve full introduction, results
+from the 1:1 release ratios across all experimental designs favor the use of gene
+drive, both for efficiency and anticipated cost of the control programs.
+
+DOI: 10.1371/journal.pgen.1008440 
+PMCID: PMC6922335
+PMID: 31856182  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

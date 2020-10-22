@@ -1,0 +1,35 @@
+
+1. Sci Signal. 2012 Oct 9;5(245):ra73. doi: 10.1126/scisignal.2003212.
+
+Interferon-induced SCYL2 limits release of HIV-1 by triggering PP2A-mediated
+dephosphorylation of the viral protein Vpu.
+
+Miyakawa K(1), Sawasaki T, Matsunaga S, Tokarev A, Quinn G, Kimura H, Nomaguchi
+M, Adachi A, Yamamoto N, Guatelli J, Ryo A.
+
+Author information: 
+(1)Department of Microbiology, Yokohama City University School of Medicine,
+Kanagawa 236-0004, Japan.
+
+Human cells respond to infection by retroviruses through the actions of proteins 
+that inhibit the spread of viruses to other cells. One example is bone marrow
+stromal cell antigen 2 (BST2; also known as tetherin), which is an interferon
+(IFN)-inducible protein that restricts the release of progeny virions from
+infected cells. The HIV-1 accessory protein Vpu (viral protein U) causes
+degradation of BST2, and phosphorylation of Vpu at residues Ser(52) and Ser(56)
+is required for this function. We report that the host protein SCY1-like protein 
+2 (SCYL2) mediates the dephosphorylation of Vpu, antagonizing Vpu function and
+facilitating BST2-dependent restriction of HIV-1 release. SCYL2 reduced the
+number of virus particles released from cells infected with wild-type HIV-1, but 
+not a strain lacking vpu, in a BST2-dependent manner. SCYL2 stimulated the
+dephosphorylation of Vpu on Ser(52) and Ser(56) by recruiting protein phosphatase
+2A (PP2A) to Vpu. Conversely, depletion of SCYL2 resulted in enhanced
+phosphorylation of Vpu and increased viral particle release. Moreover, SCYL2 was 
+produced in response to type I IFN and contributed to IFN-mediated viral
+restriction. Together, these results suggest that SCYL2 serves as a regulatory
+factor for Vpu, reducing the extent of Vpu phosphorylation and consequently
+enhancing BST2-mediated viral restriction.
+
+DOI: 10.1126/scisignal.2003212 
+PMID: 23047923  [Indexed for MEDLINE]
+

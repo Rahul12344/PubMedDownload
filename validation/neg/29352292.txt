@@ -1,0 +1,51 @@
+
+1. PLoS Pathog. 2018 Jan 19;14(1):e1006844. doi: 10.1371/journal.ppat.1006844.
+eCollection 2018 Jan.
+
+RNA-Seq of Kaposi's sarcoma reveals alterations in glucose and lipid metabolism.
+
+Tso FY(1), Kossenkov AV(2), Lidenge SJ(1)(3)(4), Ngalamika O(5), Ngowi JR(3),
+Mwaiselage J(3)(4), Wickramasinghe J(2), Kwon EH(1), West JT(1), Lieberman PM(2),
+Wood C(1).
+
+Author information: 
+(1)Nebraska Center for Virology and the School of Biological Sciences, University
+of Nebraska-Lincoln, Lincoln, Nebraska, United States of America.
+(2)Wistar Institute, Philadelphia, Pennsylvania, United States of America.
+(3)Ocean Road Cancer Institute, Dar es Salaam, Tanzania.
+(4)Muhimbili University of Health and Allied Sciences, Dar es Salaam, Tanzania.
+(5)Dermatology and Venereology section, University Teaching Hospitals, University
+of Zambia School of Medicine, Lusaka, Zambia.
+
+Kaposi's sarcoma-associated herpesvirus (KSHV) is the etiologic agent of Kaposi's
+sarcoma (KS). It is endemic in a number of sub-Saharan African countries with
+infection rate of >50%. The high prevalence of HIV-1 coupled with late
+presentation of advanced cancer staging make KS the leading cancer in the region 
+with poor prognosis and high mortality. Disease markers and cellular functions
+associated with KS tumorigenesis remain ill-defined. Several studies have
+attempted to investigate changes of the gene profile with in vitro infection of
+monoculture models, which are not likely to reflect the cellular complexity of
+the in vivo lesion environment. Our approach is to characterize and compare the
+gene expression profile in KS lesions versus non-cancer tissues from the same
+individual. Such comparisons could identify pathways critical for KS formation
+and maintenance. This is the first study that utilized high throughput RNA-seq to
+characterize the viral and cellular transcriptome in tumor and non-cancer
+biopsies of African epidemic KS patients. These patients were treated
+anti-retroviral therapy with undetectable HIV-1 plasma viral load. We found
+remarkable variability in the viral transcriptome among these patients, with
+viral latency and immune modulation genes most abundantly expressed. The presence
+of KSHV also significantly affected the cellular transcriptome profile.
+Specifically, genes involved in lipid and glucose metabolism disorder pathways
+were substantially affected. Moreover, infiltration of immune cells into the
+tumor did not prevent KS formation, suggesting some functional deficits of these 
+cells. Lastly, we found only minimal overlaps between our in vivo cellular
+transcriptome dataset with those from in vitro studies, reflecting the limitation
+of in vitro models in representing tumor lesions. These findings could lead to
+the identification of diagnostic and therapeutic markers for KS, and will provide
+bases for further mechanistic studies on the functions of both viral and cellular
+genes that are involved.
+
+DOI: 10.1371/journal.ppat.1006844 
+PMCID: PMC5792027
+PMID: 29352292  [Indexed for MEDLINE]
+

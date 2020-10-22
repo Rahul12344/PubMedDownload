@@ -1,0 +1,63 @@
+
+1. Genome Biol. 2016 May 12;17:103. doi: 10.1186/s13059-016-0957-5.
+
+Single-cell analysis of CD4+ T-cell differentiation reveals three major cell
+states and progressive acceleration of proliferation.
+
+Proserpio V(1)(2), Piccolo A(3), Haim-Vilmovsky L(1)(2), Kar G(1), Lönnberg
+T(1)(2), Svensson V(1), Pramanik J(1)(2), Natarajan KN(1)(2), Zhai W(4), Zhang
+X(1), Donati G(5), Kayikci M(6), Kotar J(4), McKenzie AN(6), Montandon R(2),
+Billker O(2), Woodhouse S(7)(8), Cicuta P(4), Nicodemi M(9), Teichmann
+SA(10)(11).
+
+Author information: 
+(1)EMBL, European Bioinformatics Institute (EBI), Hinxton, CB10 1SD, UK.
+(2)Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton,
+Cambridge, CB10 1SA, UK.
+(3)Department of Physics, University of Naples Federico II, CNR-Spin, Istituto
+Nazionale di Fisica Nucleare (INFN), Napoli, Italy.
+(4)Cavendish Laboratory, University of Cambridge, Madingley Road, Cambridge, CB3 
+0HE, UK.
+(5)Centre for Stem Cells and Regenerative Medicine, Kings College London, London,
+SE1 9RT, UK.
+(6)MRC Laboratory of Molecular Biology, Cambridge, CB2 0QH, UK.
+(7)Department of Haematology, Cambridge Institute for Medical Research,
+University of Cambridge, Cambridge Biomedical Campus, Wellcome Trust/MRC
+Building, Hills Road, Cambridge, CB2 0XY, UK.
+(8)Wellcome Trust-Medical Research Council Cambridge Stem Cell Institute,
+University of Cambridge, Cambridge, UK.
+(9)Department of Physics, University of Naples Federico II, CNR-Spin, Istituto
+Nazionale di Fisica Nucleare (INFN), Napoli, Italy. mario.nicodemi@na.infn.it.
+(10)EMBL, European Bioinformatics Institute (EBI), Hinxton, CB10 1SD, UK.
+st9@sanger.ac.uk.
+(11)Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton,
+Cambridge, CB10 1SA, UK. st9@sanger.ac.uk.
+
+Erratum in
+    Genome Biol. 2016;17(1):133.
+
+BACKGROUND: Differentiation of lymphocytes is frequently accompanied by cell
+cycle changes, interplay that is of central importance for immunity but is still 
+incompletely understood. Here, we interrogate and quantitatively model how
+proliferation is linked to differentiation in CD4+ T cells.
+RESULTS: We perform ex vivo single-cell RNA-sequencing of CD4+ T cells during a
+mouse model of infection that elicits a type 2 immune response and infer that the
+differentiated, cytokine-producing cells cycle faster than early activated
+precursor cells. To dissect this phenomenon quantitatively, we determine
+expression profiles across consecutive generations of differentiated and
+undifferentiated cells during Th2 polarization in vitro. We predict three
+discrete cell states, which we verify by single-cell quantitative PCR. Based on
+these three states, we extract rates of death, division and differentiation with 
+a branching state Markov model to describe the cell population dynamics. From
+this multi-scale modelling, we infer a significant acceleration in proliferation 
+from the intermediate activated cell state to the mature cytokine-secreting
+effector state. We confirm this acceleration both by live imaging of single Th2
+cells and in an ex vivo Th1 malaria model by single-cell RNA-sequencing.
+CONCLUSION: The link between cytokine secretion and proliferation rate holds both
+in Th1 and Th2 cells in vivo and in vitro, indicating that this is likely a
+general phenomenon in adaptive immunity.
+
+DOI: 10.1186/s13059-016-0957-5 
+PMCID: PMC4866375
+PMID: 27176874  [Indexed for MEDLINE]
+

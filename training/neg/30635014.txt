@@ -1,0 +1,61 @@
+
+1. J Transl Med. 2019 Jan 11;17(1):19. doi: 10.1186/s12967-019-1771-0.
+
+Microbubble-mediated delivery of human adenoviruses does not elicit innate and
+adaptive immunity response in an immunocompetent mouse model of prostate cancer.
+
+De Carlo F(1)(2)(3), Thomas L(1)(2)(3), Brooke B(1)(2)(3), Varney ET(4), Nande
+R(5), Boskovic O(5), Marshall GD(6), Claudio PP(7)(8)(9)(10), Howard CM(11).
+
+Author information: 
+(1)Department of BioMolecular Sciences, University of Mississippi, University,
+MS, USA.
+(2)National Center for Natural Products Research, University of Mississippi,
+University, MS, USA.
+(3)Department of Radiation Oncology, Medical Center Cancer Institute, Jackson,
+MS, USA.
+(4)Department of Radiology, University of Mississippi Medical Center, Jackson,
+MS, 39126, USA.
+(5)Department of Biochemistry and Microbiology, Joan C. Edwards School of
+Medicine, Marshall University, Huntington, WV, USA.
+(6)Division of Clinical Immunology and Allergy, Department of Medicine,
+University of Mississippi Medical Center, Jackson, MS, USA.
+(7)Department of BioMolecular Sciences, University of Mississippi, University,
+MS, USA. pclaudio@olemiss.edu.
+(8)National Center for Natural Products Research, University of Mississippi,
+University, MS, USA. pclaudio@olemiss.edu.
+(9)Department of Radiation Oncology, Medical Center Cancer Institute, Jackson,
+MS, USA. pclaudio@olemiss.edu.
+(10)Department of BioMolecular Sciences, Department of Radiation Oncology,
+University of Mississippi, Jackson, MS, 39126, USA. pclaudio@olemiss.edu.
+(11)Department of Radiology, University of Mississippi Medical Center, Jackson,
+MS, 39126, USA. chowardclaudio@umc.edu.
+
+BACKGROUND: Gene transfer to malignant sites using human adenoviruses (hAds) has 
+been limited because of their immunogenic nature and host specificity. Murine
+cells often lack some of the receptors needed for hAds attachment, thus murine
+cells are generally non-permissive for human adenoviral infection and
+replication, which limits translational studies.
+METHODS: We have developed a gene transfer method that uses a combination of
+lipid-encapsulated perfluorocarbon microbubbles and ultrasound to protect and
+deliver hAds to a target tissue, bypassing the requirement of specific receptors.
+RESULTS: In an in vitro model, we showed that murine TRAMP-C2 and human DU145
+prostate cancer cells display a comparable expression pattern of receptors
+involved in hAds adhesion and internalization. We also demonstrated that murine
+and human cells showed a dose-dependent increase in the percentage of cells
+transduced by hAd-GFP (green fluorescent protein) after 24 h and that GFP
+transgene was efficiently expressed at 48 and 72 h post-transduction. To assess
+if our image-guided delivery system could effectively protect the hAds from the
+immune system in vivo, we injected healthy immunocompetent mice (C57BL/6) or mice
+bearing a syngeneic prostate tumor (TRAMP-C2) with hAd-GFP/MB complexes. Notably,
+we did not observe activation of innate (TNF-α and IL-6 cytokines), or adaptive
+immune response (neutralizing antibodies, INF-γ+ CD8+ T cells).
+CONCLUSIONS: This study brings us a step closer to demonstrating the feasibility 
+of murine cancer models to investigate the clinical translation of image guided
+site-specific adenoviral gene therapy mediated by ultrasound-targeted microbubble
+destruction.
+
+DOI: 10.1186/s12967-019-1771-0 
+PMCID: PMC6329087
+PMID: 30635014  [Indexed for MEDLINE]
+

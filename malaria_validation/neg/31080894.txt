@@ -1,0 +1,46 @@
+
+1. Version 2. Wellcome Open Res. 2019 May 28 [revised 2019 May 28];4:58. doi:
+10.12688/wellcomeopenres.15194.2. eCollection 2019.
+
+Progression of the canonical reference malaria parasite genome from 2002-2019.
+
+Böhme U(1), Otto TD(1)(2), Sanders M(1), Newbold CI(1)(3), Berriman M(1).
+
+Author information: 
+(1)Parasite Genomics, Wellcome Sanger Institute, Hinxton, Cambridge, CB10 1SA,
+UK.
+(2)Institute of Infection, Immunity and Inflammation, MVLS, University of
+Glasgow, Glasgow, G12 8QQ, UK.
+(3)Weatherall Institute of Molecular Medicine, University of Oxford, John
+Radcliffe Hospital, Oxford, OX3 9DU, UK.
+
+Here we describe the ways in which the sequence and annotation of the Plasmodium 
+falciparum reference genome has changed since its publication in 2002. As the
+malaria species responsible for the most deaths worldwide, the richness of
+annotation and accuracy of the sequence are important resources for the P.
+falciparum research community as well as the basis for interpreting the genomes
+of subsequently sequenced species. At the time of publication in 2002 over 60% of
+predicted genes had unknown functions. As of March 2019, this number has been
+significantly decreased to 33%. The reduction is due to the inclusion of genes
+that were subsequently characterised experimentally and genes with significant
+similarity to others with known functions. In addition, the structural annotation
+of genes has been significantly refined; 27% of gene structures have been changed
+since 2002, comprising changes in exon-intron boundaries, addition or deletion of
+exons and the addition or deletion of genes. The sequence has also undergone
+significant improvements. In addition to the correction of a large number of
+single-base and insertion or deletion errors, a major miss-assembly between the
+subtelomeres of chromosome 7 and 8 has been corrected. As the number of sequenced
+isolates continues to grow rapidly, a single reference genome will not be an
+adequate basis for interpreting intra-species sequence diversity. We therefore
+describe in this publication a population reference genome of P. falciparum,
+called Pfref1. This reference will enable the community to map to regions that
+are not present in the current assembly. P. falciparum 3D7 will continue to be
+maintained, with ongoing curation ensuring continual improvements in annotation
+quality.
+
+DOI: 10.12688/wellcomeopenres.15194.2 
+PMCID: PMC6484455
+PMID: 31080894 
+
+Conflict of interest statement: No competing interests were disclosed.
+

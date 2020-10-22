@@ -1,0 +1,57 @@
+
+1. BMC Genomics. 2018 May 2;19(1):312. doi: 10.1186/s12864-018-4654-5.
+
+In-depth comparative analysis of malaria parasite genomes reveals protein-coding 
+genes linked to human disease in Plasmodium falciparum genome.
+
+Liu X(1), Wang Y(2), Liang J(1), Wang L(2), Qin N(2), Zhao Y(3), Zhao G(4).
+
+Author information: 
+(1)Department of Pathogenic Biology, Fourth Military Medical University, Xi'an,
+710032, China.
+(2)Department of Neurology, Xijing Hospital, Fourth Military Medical University, 
+Xi'an, 710032, China.
+(3)Department of Pathogenic Biology, Fourth Military Medical University, Xi'an,
+710032, China. zhaoya@fmmu.edu.cn.
+(4)Department of Neurology, Xijing Hospital, Fourth Military Medical University, 
+Xi'an, 710032, China. gangzhaofmmu@163.com.
+
+BACKGROUND: Plasmodium falciparum is the most virulent malaria parasite capable
+of parasitizing human erythrocytes. The identification of genes related to this
+capability can enhance our understanding of the molecular mechanisms underlying
+human malaria and lead to the development of new therapeutic strategies for
+malaria control. With the availability of several malaria parasite genome
+sequences, performing computational analysis is now a practical strategy to
+identify genes contributing to this disease.
+RESULTS: Here, we developed and used a virtual genome method to assign 33,314
+genes from three human malaria parasites, namely, P. falciparum, P. knowlesi and 
+P. vivax, and three rodent malaria parasites, namely, P. berghei, P. chabaudi and
+P. yoelii, to 4605 clusters. Each cluster consisted of genes whose protein
+sequences were significantly similar and was considered as a virtual gene.
+Comparing the enriched values of all clusters in human malaria parasites with
+those in rodent malaria parasites revealed 115 P. falciparum genes putatively
+responsible for parasitizing human erythrocytes. These genes are mainly located
+in the chromosome internal regions and participate in many biological processes, 
+including membrane protein trafficking and thiamine biosynthesis. Meanwhile, 289 
+P. berghei genes were included in the rodent parasite-enriched clusters. Most are
+located in subtelomeric regions and encode erythrocyte surface proteins.
+Comparing cluster values in P. falciparum with those in P. vivax and P. knowlesi 
+revealed 493 candidate genes linked to virulence. Some of them encode proteins
+present on the erythrocyte surface and participate in cytoadhesion, virulence
+factor trafficking, or erythrocyte invasion, but many genes with unknown function
+were also identified. Cerebral malaria is characterized by accumulation of
+infected erythrocytes at trophozoite stage in brain microvascular. To discover
+cerebral malaria-related genes, fast Fourier transformation (FFT) was introduced 
+to extract genes highly transcribed at the trophozoite stage. Finally, 55
+candidate genes were identified. Considering that parasite-infected erythrocyte
+surface protein 2 (PIESP2) contains gap-junction-related Neuromodulin_N domain
+and that anti-PIESP2 might provide protection against malaria, we chose PIESP2
+for further experimental study.
+CONCLUSIONS: Our analysis revealed a limited number of genes linked to human
+disease in P. falciparum genome. These genes could be interesting targets for
+further functional characterization.
+
+DOI: 10.1186/s12864-018-4654-5 
+PMCID: PMC5930813
+PMID: 29716542  [Indexed for MEDLINE]
+

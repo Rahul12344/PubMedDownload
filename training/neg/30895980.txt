@@ -1,0 +1,31 @@
+
+1. Phys Chem Chem Phys. 2019 Apr 3;21(14):7544-7558. doi: 10.1039/c9cp00070d.
+
+Understanding PIM-1 kinase inhibitor interactions with free energy simulation.
+
+Wang X (1), Sun Z .
+
+Author information: 
+(1)State Key Laboratory of Precision Spectroscopy, School of Chemistry and
+Molecular Engineering, East China Normal University, Shanghai 200062, China.
+
+The proviral integration site of the Moloney leukemia virus (PIM) family includes
+three homologous members. PIM-1 kinase is an important target in effective
+therapeutic interventions of lymphomas, prostate cancer and leukemia. In the
+current work, we performed free energy calculations to calculate the binding
+affinities of several inhibitors targeting this protein. The alchemical method
+with integration and perturbation-based estimators and the end-point methods were
+compared. The computational results indicated that the alchemical method can
+accurately predict the binding affinities, while the end-point methods give
+relatively unreliable predictions. Decomposing the free energy difference into
+enthalpic and entropic components with MBAR reweighting enabled us to investigate
+the detailed thermodynamic parameters with which the entropy-enthalpy
+compensation in this protein-ligand binding case is identified. We then studied
+the conformational ensemble, and the important protein-ligand interactions were
+identified. The current work sheds light on the understanding of the
+PIM-1-kinase-inhibitor interactions at the atomic level and will be useful in the
+further development of potential drugs.
+
+DOI: 10.1039/c9cp00070d 
+PMID: 30895980  [Indexed for MEDLINE]
+

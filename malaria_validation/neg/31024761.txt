@@ -1,0 +1,57 @@
+
+1. PeerJ. 2019 Apr 17;7:e6713. doi: 10.7717/peerj.6713. eCollection 2019.
+
+Validation of Plasmodium falciparum deoxyhypusine synthase as an antimalarial
+target.
+
+Aroonsri A(1), Posayapisit N(1), Kongsee J(2), Siripan O(1), Vitsupakorn D(1),
+Utaida S(2), Uthaipibull C(1), Kamchonwongpaisan S(1), Shaw PJ(1).
+
+Author information: 
+(1)Protein-Ligand Engineering and Molecular Biology Laboratory, Medical Molecular
+Biology Research Unit, National Center for Genetic Engineering and Biotechnology 
+(BIOTEC), National Science and Technology Development Agency (NSTDA), Pathum
+Thani, Thailand.
+(2)Department of Biotechnology, Faculty of Science and Technology, Thammasat
+University, Pathum Thani, Thailand.
+
+Background: Hypusination is an essential post-translational modification in
+eukaryotes. The two enzymes required for this modification, namely deoxyhypusine 
+synthase (DHS) and deoxyhypusine hydrolase are also conserved. Plasmodium
+falciparum human malaria parasites possess genes for both hypusination enzymes,
+which are hypothesized to be targets of antimalarial drugs.
+Methods: Transgenic P. falciparum parasites with modification of the
+PF3D7_1412600 gene encoding PfDHS enzyme were created by insertion of the glmS
+riboswitch or the M9 inactive variant. The PfDHS protein was studied in
+transgenic parasites by confocal microscopy and Western immunoblotting. The
+biochemical function of PfDHS enzyme in parasites was assessed by hypusination
+and nascent protein synthesis assays. Gene essentiality was assessed by
+competitive growth assays and chemogenomic profiling.
+Results: Clonal transgenic parasites with integration of glmS riboswitch
+downstream of the PfDHS gene were established. PfDHS protein was present in the
+cytoplasm of transgenic parasites in asexual stages. The PfDHS protein could be
+attenuated fivefold in transgenic parasites with an active riboswitch, whereas
+PfDHS protein expression was unaffected in control transgenic parasites with
+insertion of the riboswitch-inactive sequence. Attenuation of PfDHS expression
+for 72 h led to a significant reduction of hypusinated protein; however, global
+protein synthesis was unaffected. Parasites with attenuated PfDHS expression
+showed a significant growth defect, although their decline was not as rapid as
+parasites with attenuated dihydrofolate reductase-thymidylate synthase
+(PfDHFR-TS) expression. PfDHS-attenuated parasites showed increased sensitivity
+to N 1-guanyl-1,7-diaminoheptane, a structural analog of spermidine, and a known 
+inhibitor of DHS enzymes.
+Discussion: Loss of PfDHS function leads to reduced hypusination, which may be
+important for synthesis of some essential proteins. The growth defect in
+parasites with attenuated Pf DHS expression suggests that this gene is essential.
+However, the slower decline of PfDHS mutants compared with PfDHFR-TS mutants in
+competitive growth assays suggests that PfDHS is less vulnerable as an
+antimalarial target. Nevertheless, the data validate PfDHS as an antimalarial
+target which can be inhibited by spermidine-like compounds.
+
+DOI: 10.7717/peerj.6713 
+PMCID: PMC6475138
+PMID: 31024761 
+
+Conflict of interest statement: The authors declare that they have no competing
+interests.
+

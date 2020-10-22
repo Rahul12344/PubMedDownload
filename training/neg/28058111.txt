@@ -1,0 +1,36 @@
+
+1. Virus Evol. 2016 Oct 20;2(2):vew031. doi: 10.1093/ve/vew031. eCollection 2016
+Jul.
+
+Impacts and shortcomings of genetic clustering methods for infectious disease
+outbreaks.
+
+Poon AF(1).
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, Western University, London,
+Canada.
+
+For infectious diseases, a genetic cluster is a group of closely related
+infections that is usually interpreted as representing a recent outbreak of
+transmission. Genetic clustering methods are becoming increasingly popular for
+molecular epidemiology, especially in the context of HIV where there is now
+considerable interest in applying these methods to prioritize groups for public
+health resources such as pre-exposure prophylaxis. To date, genetic clustering
+has generally been performed with ad hoc algorithms, only some of which have
+since been encoded and distributed as free software. These algorithms have seldom
+been validated on simulated data where clusters are known, and their
+interpretation and similarities are not transparent to users outside of the
+field. Here, I provide a brief overview on the development and
+inter-relationships of genetic clustering methods, and an evaluation of six
+methods on data simulated under an epidemic model in a risk-structured
+population. The simulation analysis demonstrates that the majority of clustering 
+methods are systematically biased to detect variation in sampling rates among
+subpopulations, not variation in transmission rates. I discuss these results in
+the context of previous work and the implications for public health applications 
+of genetic clustering.
+
+DOI: 10.1093/ve/vew031 
+PMCID: PMC5210024
+PMID: 28058111 
+

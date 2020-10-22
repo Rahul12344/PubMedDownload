@@ -1,0 +1,34 @@
+
+1. Methods Mol Biol. 2020;2116:295-301. doi: 10.1007/978-1-0716-0294-2_18.
+
+The Tethering Assay: A Simple Method for the Characterization of mRNA-Fate
+Regulators.
+
+Mugo E(1), Erben ED(2).
+
+Author information: 
+(1)Department of Biochemistry, Genetics and Microbiology, Institute for
+Sustainable Malaria Control, University of Pretoria, Hatfield, South Africa.
+(2)German Cancer Research Center (DKFZ), DKFZ-ZMBH Alliance, Heidelberg, Germany.
+e.erben@dkfz-heidelberg.de.
+
+In trypanosomatids, posttranscriptional controls are very important in regulation
+of individual gene expression. These are achieved through combinatorial sets of
+RNA-binding proteins (RBPs) which recognize RNA regulatory motifs or regions of
+secondary structure within RNAs. To analyze the potential functional impact of an
+RBP on their mRNA targets, we have applied a robust technique called tethering
+assay. In this method, the protein under study is attached to an mRNA reporter
+through an artificial RNA-protein interaction. Therefore, the functional activity
+of a protein can be analyzed independently of its intrinsic ability to bind to
+RNA. By making use of a cell line expressing a chloramphenicol acetyltransferase 
+(CAT) reporter mRNA, we have characterized dozens of novel mRNA-fate regulators
+in cultured Trypanosoma brucei. After induction of the candidate fusion protein, 
+the effect on the reporter expression is determined by a rapid CAT assay. The
+protocol is simple and typically takes one working day for analysis of a single
+protein and controls. In this chapter, we provide a description of materials and 
+methods for the tethering method and should allow the assay to be successfully
+deployed in any laboratory with minimal user training.
+
+DOI: 10.1007/978-1-0716-0294-2_18 
+PMID: 32221927 
+

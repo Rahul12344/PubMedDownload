@@ -1,0 +1,46 @@
+
+1. Sci Rep. 2016 Dec 6;6:38178. doi: 10.1038/srep38178.
+
+Mining, visualizing and comparing multidimensional biomolecular data using the
+Genomics Data Miner (GMine) Web-Server.
+
+Proietti C(1), Zakrzewski M(1), Watkins TS(1), Berger B(2), Hasan S(1)(3),
+Ratnatunga CN(1), Brion MJ(3), Crompton PD(4), Miles JJ(1)(5), Doolan DL(1)(5),
+Krause L(1)(3).
+
+Author information: 
+(1)QIMR Berghofer Medical Research Institute, Brisbane, QLD, Australia.
+(2)Nestlé Research Centre, Vers-chez-les-Blanc, Lausanne, Switzerland.
+(3)The University of Queensland Diamantina Institute, The University of
+Queensland, Translational Research Institute, Brisbane, QLD, Australia.
+(4)Malaria Infection Biology and Immunity Unit, Laboratory of Immunogenetics,
+National Institute of Allergy and Infectious Diseases, National Institutes of
+Health, Rockville, Maryland 20852, USA.
+(5)Centre for Biosecurity and Tropical Infectious Diseases, Australian Institute 
+of Tropical Health &Medicine, James Cook University, Cairns, QLD, Australia.
+
+Genomics Data Miner (GMine) is a user-friendly online software that allows
+non-experts to mine, cluster and compare multidimensional biomolecular datasets. 
+Various powerful visualization techniques are provided, generating high quality
+figures that can be directly incorporated into scientific publications. Robust
+and comprehensive analyses are provided via a broad range of data-mining
+techniques, including univariate and multivariate statistical analysis,
+supervised learning, correlation networks, clustering and multivariable
+regression. The software has a focus on multivariate techniques, which can
+attribute variance in the measurements to multiple explanatory variables and
+confounders. Various normalization methods are provided. Extensive help pages and
+a tutorial are available via a wiki server. Using GMine we reanalyzed proteome
+microarray data of host antibody response against Plasmodium falciparum. Our
+results support the hypothesis that immunity to malaria is a higher-order
+phenomenon related to a pattern of responses and not attributable to any single
+antigen. We also analyzed gene expression across resting and activated T cells,
+identifying many immune-related genes with differential expression. This
+highlights both the plasticity of T cells and the operation of a hardwired
+activation program. These application examples demonstrate that GMine facilitates
+an accurate and in-depth analysis of complex molecular datasets, including
+genomics, transcriptomics and proteomics data.
+
+DOI: 10.1038/srep38178 
+PMCID: PMC5138638
+PMID: 27922118  [Indexed for MEDLINE]
+

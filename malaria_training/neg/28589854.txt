@@ -1,0 +1,48 @@
+
+1. BMC Med Genomics. 2017 May 24;10(Suppl 1):26. doi: 10.1186/s12920-017-0265-2.
+
+A disease similarity matrix based on the uniqueness of shared genes.
+
+Carson MB(1), Liu C(2)(3), Lu Y(3), Jia C(4), Lu H(5)(6)(7).
+
+Author information: 
+(1)Department of Preventive Medicine, Feinberg School of Medicine, Northwestern
+University, 680 N Lake Shore Dr, Suite 1400, Chicago, IL, 60611, USA.
+(2)Department of Bioengineering, University of Illinois at Chicago, 851 S Morgan 
+St, Chicago, IL, 60607, USA.
+(3)Center for Biomedical Informatics, Shanghai Children's Hospital, 24 W Beijing 
+Rd, Suite 1400, Shanghai, 200000, China.
+(4)Department of Computer Science, Beijing Jiaotong University, No.3
+Shangyuancun, Haidian District, Beijing, 100044, China.
+(5)Department of Bioengineering, University of Illinois at Chicago, 851 S Morgan 
+St, Chicago, IL, 60607, USA. huilu@uic.edu.
+(6)Center for Biomedical Informatics, Shanghai Children's Hospital, 24 W Beijing 
+Rd, Suite 1400, Shanghai, 200000, China. huilu@uic.edu.
+(7)SJTU-Yale Joint Center for Biostatistics, Department of Bioinformatics and
+Biostatistics, Shanghai Jiaotong University, 800 Dongchuan Road, Shanghai,
+200000, China. huilu@uic.edu.
+
+BACKGROUND: Complex diseases involve many genes, and these genes are often
+associated with several different illnesses. Disease similarity measurement can
+be based on shared genotype or phenotype. Quantifying relationships between genes
+can reveal previously unknown connections and form a reference base for therapy
+development and drug repurposing.
+METHODS: Here we introduce a method to measure disease similarity that
+incorporates the uniqueness of shared genes. For each disease pair, we calculated
+the uniqueness score and constructed disease similarity matrices using OMIM and
+Disease Ontology annotation.
+RESULTS: Using the Disease Ontology-based matrix, we identified several
+interesting connections between cancer and other disease and conditions such as
+malaria, along with studies to support our findings. We also found several high
+scoring pairwise relationships for which there was little or no literature
+support, highlighting potentially interesting connections warranting additional
+study.
+CONCLUSIONS: We developed a co-occurrence matrix based on gene uniqueness to
+examine the relationships between diseases from OMIM and DORIF data. Our
+similarity matrix can be used to identify potential disease relationships and to 
+motivate further studies investigating the causal mechanisms in diseases.
+
+DOI: 10.1186/s12920-017-0265-2 
+PMCID: PMC5461528
+PMID: 28589854  [Indexed for MEDLINE]
+

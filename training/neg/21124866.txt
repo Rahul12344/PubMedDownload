@@ -1,0 +1,37 @@
+
+1. PLoS Comput Biol. 2010 Nov 24;6(11):e1001012. doi: 10.1371/journal.pcbi.1001012.
+
+Treatment-mediated alterations in HIV fitness preserve CD4+ T cell counts but
+have minimal effects on viral load.
+
+Vaidya NK(1), Rong L, Marconi VC, Kuritzkes DR, Deeks SG, Perelson AS.
+
+Author information: 
+(1)Theoretical Biology and Biophysics Group, Los Alamos National Laboratory, Los 
+Alamos, New Mexico, United States of America.
+
+For most HIV-infected patients, antiretroviral therapy controls viral
+replication. However, in some patients drug resistance can cause therapy to fail.
+Nonetheless, continued therapy with a failing regimen can preserve or even lead
+to increases in CD4+ T cell counts. To understand the biological basis of these
+observations, we used mathematical models to explain observations made in
+patients with drug-resistant HIV treated with enfuvirtide (ENF/T-20), an HIV-1
+fusion inhibitor. Due to resistance emergence, ENF was removed from the drug
+regimen, drug-sensitive virus regrown, and ENF was re-administered. We used our
+model to study the dynamics of plasma-viral RNA and CD4+ T cell levels, and the
+competition between drug-sensitive and resistant viruses during therapy
+interruption and re-administration. Focusing on resistant viruses carrying the
+V38A mutation in gp41, we found ENF-resistant virus to be 17±3% less fit than
+ENF-sensitive virus in the absence of the drug, and that the loss of resistant
+virus during therapy interruption was primarily due to this fitness cost. Using
+viral dynamic parameters estimated from these patients, we show that although
+re-administration of ENF cannot suppress viral load, it can, in the presence of
+resistant virus, increase CD4+ T cell counts, which should yield clinical
+benefits. This study provides a framework to investigate HIV and T cell dynamics 
+in patients who develop drug resistance to other antiretroviral agents and may
+help to develop more effective strategies for treatment.
+
+DOI: 10.1371/journal.pcbi.1001012 
+PMCID: PMC2991251
+PMID: 21124866  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+1. Nucleic Acids Res. 2018 Jan 4;46(D1):D601-D607. doi: 10.1093/nar/gkx1138.
+
+FunCoup 4: new species, data, and visualization.
+
+Ogris C(1), Guala D(1), Sonnhammer ELL(1).
+
+Author information: 
+(1)Stockholm Bioinformatics Center, Department of Biochemistry and Biophysics,
+Stockholm University, Science for Life Laboratory, Box 1031, 17121 Solna, Sweden.
+
+This release of the FunCoup database (http://funcoup.sbc.su.se) is the fourth
+generation of one of the most comprehensive databases for genome-wide functional 
+association networks. These functional associations are inferred via integrating 
+various data types using a naive Bayesian algorithm and orthology based
+information transfer across different species. This approach provides high
+coverage of the included genomes as well as high quality of inferred
+interactions. In this update of FunCoup we introduce four new eukaryotic species:
+Schizosaccharomyces pombe, Plasmodium falciparum, Bos taurus, Oryza sativa and
+open the database to the prokaryotic domain by including networks for Escherichia
+coli and Bacillus subtilis. The latter allows us to also introduce a new class of
+functional association between genes - co-occurrence in the same operon. We also 
+supplemented the existing classes of functional association: metabolic,
+signaling, complex and physical protein interaction with up-to-date information. 
+In this release we switched to InParanoid v8 as the source of orthology and base 
+for calculation of phylogenetic profiles. While populating all other evidence
+types with new data we introduce a new evidence type based on quantitative mass
+spectrometry data. Finally, the new JavaScript based network viewer provides the 
+user an intuitive and responsive platform to further evaluate the results.
+
+© The Author(s) 2017. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkx1138 
+PMCID: PMC5755233
+PMID: 29165593  [Indexed for MEDLINE]
+

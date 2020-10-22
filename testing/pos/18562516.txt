@@ -1,0 +1,41 @@
+
+1. J Virol. 2008 Sep;82(17):8362-72. doi: 10.1128/JVI.00900-08. Epub 2008 Jun 18.
+
+Differential requirements of the C terminus of Nbs1 in suppressing adenovirus DNA
+replication and promoting concatemer formation.
+
+Lakdawala SS(1), Schwartz RA, Ferenchak K, Carson CT, McSharry BP, Wilkinson GW, 
+Weitzman MD.
+
+Author information: 
+(1)Laboratory of Genetics, The Salk Institute for Biological Studies, La Jolla,
+California 920371, USA.
+
+Adenoviruses (Ad) with the early region E4 deleted (E4-deleted virus) are
+defective for DNA replication and late protein synthesis. Infection with
+E4-deleted viruses results in activation of a DNA damage response, accumulation
+of cellular repair factors in foci at viral replication centers, and joining
+together of viral genomes into concatemers. The cellular DNA repair complex
+composed of Mre11, Rad50, and Nbs1 (MRN) is required for concatemer formation and
+full activation of damage signaling through the protein kinases
+Ataxia-telangiectasia mutated (ATM) and ATM-Rad3-related (ATR). The E4orf3 and
+E4orf6 proteins expressed from the E4 region of Ad type 5 (Ad5) inactivate the
+MRN complex by degradation and mislocalization, and prevent the DNA damage
+response. Here we investigated individual contributions of the MRN complex,
+concatemer formation, and damage signaling to viral DNA replication during
+infection with E4-deleted virus. Using virus mutants, short hairpin RNA knockdown
+and hypomorphic cell lines, we show that inactivation of MRN results in increased
+viral replication. We demonstrate that defective replication in the absence of E4
+is not due to concatemer formation or DNA damage signaling. The C terminus of
+Nbs1 is required for the inhibition of Ad DNA replication and recruitment of MRN 
+to viral replication centers. We identified regions of Nbs1 that are
+differentially required for concatemer formation and inhibition of Ad DNA
+replication. These results demonstrate that targeting of the MRN complex explains
+the redundant functions of E4orf3 and E4orf6 in promoting Ad DNA replication.
+Understanding how MRN impacts the adenoviral life cycle will provide insights
+into the functions of this DNA damage sensor.
+
+DOI: 10.1128/JVI.00900-08 
+PMCID: PMC2519655
+PMID: 18562516  [Indexed for MEDLINE]
+

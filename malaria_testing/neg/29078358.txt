@@ -1,0 +1,50 @@
+
+1. Proc Natl Acad Sci U S A. 2017 Oct 31;114(44):E9356-E9365. doi:
+10.1073/pnas.1711310114. Epub 2017 Oct 19.
+
+CRISPR/Cas9 knockouts reveal genetic interaction between strain-transcendent
+erythrocyte determinants of Plasmodium falciparum invasion.
+
+Kanjee U(1), Grüring C(1), Chaand M(1), Lin KM(2), Egan E(1), Manzo J(1), Jones
+PL(3), Yu T(1), Barker R Jr(3), Weekes MP(2), Duraisingh MT(4).
+
+Author information: 
+(1)Department of Immunology and Infectious Diseases, Harvard T. H. Chan School of
+Public Health, Boston, MA 02115.
+(2)Cambridge Institute for Medical Research, Cambridge, CB2 OXY, United Kingdom.
+(3)Sanofi-Genzyme, Waltham, MA 02451.
+(4)Department of Immunology and Infectious Diseases, Harvard T. H. Chan School of
+Public Health, Boston, MA 02115; mduraisi@hsph.harvard.edu.
+
+During malaria blood-stage infections, Plasmodium parasites interact with the RBC
+surface to enable invasion followed by intracellular proliferation. Critical
+factors involved in invasion have been identified using biochemical and genetic
+approaches including specific knockdowns of genes of interest from primary CD34+ 
+hematopoietic stem cells (cRBCs). Here we report the development of a robust in
+vitro culture system to produce RBCs that allow the generation of gene knockouts 
+via CRISPR/Cas9 using the immortal JK-1 erythroleukemia line. JK-1 cells
+spontaneously differentiate, generating cells at different stages of
+erythropoiesis, including terminally differentiated nucleated RBCs that we term
+"jkRBCs." A screen of small-molecule epigenetic regulators identified several
+bromodomain-specific inhibitors that promote differentiation and enable
+production of synchronous populations of jkRBCs. Global surface proteomic
+profiling revealed that jkRBCs express all known Pfalciparum host receptors in a 
+similar fashion to cRBCs and that multiple Pfalciparum strains invade jkRBCs at
+comparable levels to cRBCs and RBCs. Using CRISPR/Cas9, we deleted two host
+factors, basigin (BSG) and CD44, for which no natural nulls exist. BSG interacts 
+with the parasite ligand Rh5, a prominent vaccine candidate. A BSG knockout was
+completely refractory to parasite invasion in a strain-transcendent manner,
+confirming the essential role for BSG during invasion. CD44 was recently
+identified in an RNAi screen of blood group genes as a host factor for invasion, 
+and we show that CD44 knockout results in strain-transcendent reduction in
+invasion. Furthermore, we demonstrate a functional interaction between these two 
+determinants in mediating Pfalciparum erythrocyte invasion.
+
+Published under the PNAS license.
+
+DOI: 10.1073/pnas.1711310114 
+PMCID: PMC5676921
+PMID: 29078358  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

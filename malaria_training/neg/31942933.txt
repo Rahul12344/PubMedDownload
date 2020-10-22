@@ -1,0 +1,47 @@
+
+1. Biochem J. 2020 Jan 31;477(2):525-540. doi: 10.1042/BCJ20190918.
+
+A malaria parasite subtilisin propeptide-like protein is a potent inhibitor of
+the egress protease SUB1.
+
+Tarr SJ(1), Withers-Martinez C(2), Flynn HR(3), Snijders AP(3), Masino L(4),
+Koussis K(2), Conway DJ(1), Blackman MJ(1)(2).
+
+Author information: 
+(1)Faculty of Infectious and Tropical Diseases, London School of Hygiene and
+Tropical Medicine, London WC1E 7HT, U.K.
+(2)Malaria Biochemistry Laboratory, The Francis Crick Institute, 1 Midland Rd,
+London NW1 1AT, U.K.
+(3)Protein Analysis and Proteomics Platform, The Francis Crick Institute, 1
+Midland Rd, London NW1 1AT, U.K.
+(4)Structural Biology Science Technology Platform, The Francis Crick Institute, 1
+Midland Rd, London NW1 1AT, U.K.
+
+Subtilisin-like serine peptidases (subtilases) play important roles in the life
+cycle of many organisms, including the protozoan parasites that are the causative
+agent of malaria, Plasmodium spp. As with other peptidases, subtilase proteolytic
+activity has to be tightly regulated in order to prevent potentially deleterious 
+uncontrolled protein degradation. Maturation of most subtilases requires the
+presence of an N-terminal propeptide that facilitates folding of the catalytic
+domain. Following its proteolytic cleavage, the propeptide acts as a transient,
+tightly bound inhibitor until its eventual complete removal to generate active
+protease. Here we report the identification of a stand-alone malaria parasite
+propeptide-like protein, called SUB1-ProM, encoded by a conserved gene that lies 
+in a highly syntenic locus adjacent to three of the four subtilisin-like genes in
+the Plasmodium genome. Template-based modelling and ab initio structure
+prediction showed that the SUB1-ProM core structure is most similar to the X-ray 
+crystal structure of the propeptide of SUB1, an essential parasite subtilase that
+is discharged into the parasitophorous vacuole (PV) to trigger parasite release
+(egress) from infected host cells. Recombinant Plasmodium falciparum SUB1-ProM
+was found to be a fast-binding, potent inhibitor of P. falciparum SUB1, but not
+of the only other essential blood-stage parasite subtilase, SUB2, or of other
+proteases examined. Mass-spectrometry and immunofluorescence showed that
+SUB1-ProM is expressed in the PV of blood stage P. falciparum, where it may act
+as an endogenous inhibitor to regulate SUB1 activity in the parasite.
+
+© 2020 The Author(s).
+
+DOI: 10.1042/BCJ20190918 
+PMCID: PMC6993865
+PMID: 31942933  [Indexed for MEDLINE]
+

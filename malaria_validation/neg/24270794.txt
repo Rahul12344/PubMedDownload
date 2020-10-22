@@ -1,0 +1,40 @@
+
+1. Nucleic Acids Res. 2014 Feb;42(4):2564-76. doi: 10.1093/nar/gkt1212. Epub 2013
+Nov 21.
+
+Reprogramming homing endonuclease specificity through computational design and
+directed evolution.
+
+Thyme SB(1), Boissel SJ, Arshiya Quadri S, Nolan T, Baker DA, Park RU, Kusak L,
+Ashworth J, Baker D.
+
+Author information: 
+(1)Department of Biochemistry, University of Washington, UW Box 357350, 1705 NE
+Pacific St., Seattle, WA 98195, USA, Graduate Program in Biomolecular Structure
+and Design, University of Washington, UW Box 357350, 1705 NE Pacific St.,
+Seattle, WA 98195, USA, Graduate Program in Molecular and Cellular Biology,
+University of Washington, UW Box 357275, 1959 NE Pacific St., Seattle, WA 98195, 
+USA, Department of Life Sciences, Sir Alexander Fleming Building, Imperial
+College London, Imperial College Road, London SW7 2AZ, UK, Department of
+Genetics, University of Cambridge, Downing Street, Cambridge CB1 3QA, UK,
+Institute for Systems Biology, 401 Terry Avenue N, Seattle, WA 98109, USA and
+Howard Hughes Medical Institute, University of Washington, UW Box 357350, 1705 NE
+Pacific St., Seattle, WA 98195, USA.
+
+Homing endonucleases (HEs) can be used to induce targeted genome modification to 
+reduce the fitness of pathogen vectors such as the malaria-transmitting Anopheles
+gambiae and to correct deleterious mutations in genetic diseases. We describe the
+creation of an extensive set of HE variants with novel DNA cleavage specificities
+using an integrated experimental and computational approach. Using computational 
+modeling and an improved selection strategy, which optimizes specificity in
+addition to activity, we engineered an endonuclease to cleave in a gene
+associated with Anopheles sterility and another to cleave near a mutation that
+causes pyruvate kinase deficiency. In the course of this work we observed
+unanticipated context-dependence between bases which will need to be
+mechanistically understood for reprogramming of specificity to succeed more
+generally.
+
+DOI: 10.1093/nar/gkt1212 
+PMCID: PMC3936771
+PMID: 24270794  [Indexed for MEDLINE]
+

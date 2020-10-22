@@ -1,0 +1,44 @@
+
+1. Nucleic Acids Res. 2016 Jul 8;44(W1):W29-34. doi: 10.1093/nar/gkw292. Epub 2016
+Apr 21.
+
+Companion: a web server for annotation and analysis of parasite genomes.
+
+Steinbiss S(1), Silva-Franco F(2), Brunk B(3), Foth B(4), Hertz-Fowler C(2),
+Berriman M(4), Otto TD(4).
+
+Author information: 
+(1)Parasite Genomics, Wellcome Trust Sanger Institute, Hinxton, Cambridge CB10
+1SA, UK ss34@sanger.ac.uk.
+(2)Institute of Integrative Biology, University of Liverpool, Liverpool L69 7ZB, 
+UK.
+(3)Department of Biology, University of Pennsylvania, Philadelphia, PA 19104,
+USA.
+(4)Parasite Genomics, Wellcome Trust Sanger Institute, Hinxton, Cambridge CB10
+1SA, UK.
+
+Currently available sequencing technologies enable quick and economical
+sequencing of many new eukaryotic parasite (apicomplexan or kinetoplastid)
+species or strains. Compared to SNP calling approaches, de novo assembly of these
+genomes enables researchers to additionally determine insertion, deletion and
+recombination events as well as to detect complex sequence diversity, such as
+that seen in variable multigene families. However, there currently are no
+automated eukaryotic annotation pipelines offering the required range of results 
+to facilitate such analyses. A suitable pipeline needs to perform
+evidence-supported gene finding as well as functional annotation and pseudogene
+detection up to the generation of output ready to be submitted to a public
+database. Moreover, no current tool includes quick yet informative comparative
+analyses and a first pass visualization of both annotation and analysis results. 
+To overcome those needs we have developed the Companion web server
+(http://companion.sanger.ac.uk) providing parasite genome annotation as a service
+using a reference-based approach. We demonstrate the use and performance of
+Companion by annotating two Leishmania and Plasmodium genomes as typical parasite
+cases and evaluate the results compared to manually annotated references.
+
+© The Author(s) 2016. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkw292 
+PMCID: PMC4987884
+PMID: 27105845  [Indexed for MEDLINE]
+

@@ -1,0 +1,46 @@
+
+1. Dis Model Mech. 2014 Feb;7(2):215-24. doi: 10.1242/dmm.013490. Epub 2013 Nov 28.
+
+Hypoxia promotes liver-stage malaria infection in primary human hepatocytes in
+vitro.
+
+Ng S(1), March S, Galstian A, Hanson K, Carvalho T, Mota MM, Bhatia SN.
+
+Author information: 
+(1)Department of Biological Engineering, Massachusetts Institute of Technology,
+Cambridge, MA 02139, USA.
+
+Homeostasis of mammalian cell function strictly depends on balancing oxygen
+exposure to maintain energy metabolism without producing excessive reactive
+oxygen species. In vivo, cells in different tissues are exposed to a wide range
+of oxygen concentrations, and yet in vitro models almost exclusively expose
+cultured cells to higher, atmospheric oxygen levels. Existing models of
+liver-stage malaria that utilize primary human hepatocytes typically exhibit low 
+in vitro infection efficiencies, possibly due to missing microenvironmental
+support signals. One cue that could influence the infection capacity of cultured 
+human hepatocytes is the dissolved oxygen concentration. We developed a
+microscale human liver platform comprised of precisely patterned primary human
+hepatocytes and nonparenchymal cells to model liver-stage malaria, but the oxygen
+concentrations are typically higher in the in vitro liver platform than anywhere 
+along the hepatic sinusoid. Indeed, we observed that liver-stage Plasmodium
+parasite development in vivo correlates with hepatic sinusoidal oxygen gradients.
+Therefore, we hypothesized that in vitro liver-stage malaria infection
+efficiencies might improve under hypoxia. Using the infection of micropatterned
+co-cultures with Plasmodium berghei, Plasmodium yoelii or Plasmodium falciparum
+as a model, we observed that ambient hypoxia resulted in increased survival of
+exo-erythrocytic forms (EEFs) in hepatocytes and improved parasite development in
+a subset of surviving EEFs, based on EEF size. Further, the effective cell
+surface oxygen tensions (pO2) experienced by the hepatocytes, as predicted by a
+mathematical model, were systematically perturbed by varying culture parameters
+such as hepatocyte density and height of the medium, uncovering an optimal cell
+surface pO2 to maximize the number of mature EEFs. Initial mechanistic
+experiments revealed that treatment of primary human hepatocytes with the hypoxia
+mimetic, cobalt(II) chloride, as well as a HIF-1α activator,
+dimethyloxalylglycine, also enhance P. berghei infection, suggesting that the
+effect of hypoxia on infection is mediated in part by host-dependent HIF-1α
+mechanisms.
+
+DOI: 10.1242/dmm.013490 
+PMCID: PMC3917242
+PMID: 24291761  [Indexed for MEDLINE]
+

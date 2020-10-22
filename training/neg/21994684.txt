@@ -1,0 +1,40 @@
+
+1. Viruses. 2010 Jul;2(7):1367-81. doi: 10.3390/v2071367. Epub 2010 Jun 28.
+
+The revolution in viral genomics as exemplified by the bioinformatic analysis of 
+human adenoviruses.
+
+Torres S(1), Chodosh J, Seto D, Jones MS.
+
+Author information: 
+(1)Clinical Investigation Facility, David Grant USAF Medical Center, Travis AFB, 
+CA 94535, USA; E-Mail: sarah.torres1@travis.af.mil.
+
+Over the past 30 years, genomic and bioinformatic analysis of human adenoviruses 
+has been achieved using a variety of DNA sequencing methods; initially with the
+use of restriction enzymes and more currently with the use of the GS FLX
+pyrosequencing technology. Following the conception of DNA sequencing in the
+1970s, analysis of adenoviruses has evolved from 100 base pair mRNA fragments to 
+entire genomes. Comparative genomics of adenoviruses made its debut in 1984 when 
+nucleotides and amino acids of coding sequences within the hexon genes of two
+human adenoviruses (HAdV), HAdV-C2 and HAdV-C5, were compared and analyzed. It
+was determined that there were three different zones (1-393, 394-1410, 1411-2910)
+within the hexon gene, of which HAdV-C2 and HAdV-C5 shared zones 1 and 3 with 95%
+and 89.5% nucleotide identity, respectively. In 1992, HAdV-C5 became the first
+adenovirus genome to be fully sequenced using the Sanger method. Over the next
+seven years, whole genome analysis and characterization was completed using
+bioinformatic tools such as blastn, tblastx, ClustalV and FASTA, in order to
+determine key proteins in species HAdV-A through HAdV-F. The bioinformatic
+revolution was initiated with the introduction of a novel species, HAdV-G, that
+was typed and named by the use of whole genome sequencing and phylogenetics as
+opposed to traditional serology. HAdV bioinformatics will continue to advance as 
+the latest sequencing technology enables scientists to add to and expand the
+resource databases. As a result of these advancements, how novel HAdVs are typed 
+has changed. Bioinformatic analysis has become the revolutionary tool that has
+significantly accelerated the in-depth study of HAdV microevolution through
+comparative genomics.
+
+DOI: 10.3390/v2071367 
+PMCID: PMC3185712
+PMID: 21994684 
+

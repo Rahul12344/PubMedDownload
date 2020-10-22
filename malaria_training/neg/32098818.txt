@@ -1,0 +1,54 @@
+
+1. mBio. 2020 Feb 25;11(1). pii: e03078-19. doi: 10.1128/mBio.03078-19.
+
+An Endoplasmic Reticulum CREC Family Protein Regulates the Egress Proteolytic
+Cascade in Malaria Parasites.
+
+Fierro MA(1)(2), Asady B(1), Brooks CF(1), Cobb DW(1)(2), Villegas A(1)(2),
+Moreno SNJ(1)(2), Muralidharan V(3)(2).
+
+Author information: 
+(1)Center for Tropical and Emerging Global Diseases, University of Georgia,
+Athens, Georgia, USA.
+(2)Department of Cellular Biology, University of Georgia, Athens, Georgia, USA.
+(3)Center for Tropical and Emerging Global Diseases, University of Georgia,
+Athens, Georgia, USA vasant@uga.edu.
+
+The endoplasmic reticulum (ER) is thought to play an essential role during egress
+of malaria parasites because the ER is assumed to be required for biogenesis and 
+secretion of egress-related organelles. However, no proteins localized to the
+parasite ER have been shown to play a role in egress of malaria parasites. In
+this study, we generated conditional mutants of the Plasmodium falciparum
+endoplasmic reticulum-resident calcium-binding protein (PfERC), a member of the
+CREC family. Knockdown of the PfERC gene showed that this gene is essential for
+asexual growth of P. falciparum Analysis of the intraerythrocytic life cycle
+revealed that PfERC is essential for parasite egress but is not required for
+protein trafficking or calcium storage. We found that PfERC knockdown prevents
+the rupture of the parasitophorous vacuole membrane. This is because PfERC
+knockdown inhibited the proteolytic maturation of the subtilisin-like serine
+protease SUB1. Using double mutant parasites, we showed that PfERC is required
+for the proteolytic maturation of the essential aspartic protease plasmepsin X,
+which is required for SUB1 cleavage. Further, we showed that processing of
+substrates downstream of the proteolytic cascade is inhibited by PfERC knockdown.
+Thus, these data establish that the ER-resident CREC family protein PfERC is a
+key early regulator of the egress proteolytic cascade of malaria
+parasites.IMPORTANCE The divergent eukaryotic parasites that cause malaria grow
+and divide within a vacuole inside a host cell, which they have to break open
+once they finish cell division. The egress of daughter parasites requires the
+activation of a proteolytic cascade, and a subtilisin-like protease initiates a
+proteolytic cascade to break down the membranes blocking egress. It is assumed
+that the parasite endoplasmic reticulum plays a role in this process, but the
+proteins in this organelle required for egress remain unknown. We have identified
+an early ER-resident regulator essential for the maturation of the recently
+discovered aspartic protease in the egress proteolytic cascade, plasmepsin X,
+which is required for maturation of the subtilisin-like protease. Conditional
+loss of PfERC results in the formation of immature and inactive egress proteases 
+that are unable to breakdown the vacuolar membrane barring release of daughter
+parasites.
+
+Copyright © 2020 Fierro et al.
+
+DOI: 10.1128/mBio.03078-19 
+PMCID: PMC7042697
+PMID: 32098818  [Indexed for MEDLINE]
+

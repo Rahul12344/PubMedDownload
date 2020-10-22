@@ -1,0 +1,54 @@
+
+1. PLoS Med. 2012;9(11):e1001339. doi: 10.1371/journal.pmed.1001339. Epub 2012 Nov
+13.
+
+G6PD deficiency prevalence and estimates of affected populations in malaria
+endemic countries: a geostatistical model-based map.
+
+Howes RE(1), Piel FB, Patil AP, Nyangiri OA, Gething PW, Dewi M, Hogg MM, Battle 
+KE, Padilla CD, Baird JK, Hay SI.
+
+Author information: 
+(1)Spatial Ecology and Epidemiology Group, Department of Zoology, University of
+Oxford, Oxford, United Kingdom. rosalind.howes@zoo.ox.ac.uk
+
+BACKGROUND: Primaquine is a key drug for malaria elimination. In addition to
+being the only drug active against the dormant relapsing forms of Plasmodium
+vivax, primaquine is the sole effective treatment of infectious P. falciparum
+gametocytes, and may interrupt transmission and help contain the spread of
+artemisinin resistance. However, primaquine can trigger haemolysis in patients
+with a deficiency in glucose-6-phosphate dehydrogenase (G6PDd). Poor information 
+is available about the distribution of individuals at risk of primaquine-induced 
+haemolysis. We present a continuous evidence-based prevalence map of G6PDd and
+estimates of affected populations, together with a national index of relative
+haemolytic risk.
+METHODS AND FINDINGS: Representative community surveys of phenotypic G6PDd
+prevalence were identified for 1,734 spatially unique sites. These surveys formed
+the evidence-base for a Bayesian geostatistical model adapted to the gene's
+X-linked inheritance, which predicted a G6PDd allele frequency map across malaria
+endemic countries (MECs) and generated population-weighted estimates of affected 
+populations. Highest median prevalence (peaking at 32.5%) was predicted across
+sub-Saharan Africa and the Arabian Peninsula. Although G6PDd prevalence was
+generally lower across central and southeast Asia, rarely exceeding 20%, the
+majority of G6PDd individuals (67.5% median estimate) were from Asian countries. 
+We estimated a G6PDd allele frequency of 8.0% (interquartile range: 7.4-8.8)
+across MECs, and 5.3% (4.4-6.7) within malaria-eliminating countries. The
+reliability of the map is contingent on the underlying data informing the model; 
+population heterogeneity can only be represented by the available surveys, and
+important weaknesses exist in the map across data-sparse regions. Uncertainty
+metrics are used to quantify some aspects of these limitations in the map.
+Finally, we assembled a database of G6PDd variant occurrences to inform a
+national-level index of relative G6PDd haemolytic risk. Asian countries, where
+variants were most severe, had the highest relative risks from G6PDd.
+CONCLUSIONS: G6PDd is widespread and spatially heterogeneous across most MECs
+where primaquine would be valuable for malaria control and elimination. The maps 
+and population estimates presented here reflect potential risk of
+primaquine-associated harm. In the absence of non-toxic alternatives to
+primaquine, these results represent additional evidence to help inform safe use
+of this valuable, yet dangerous, component of the malaria-elimination toolkit.
+Please see later in the article for the Editors' Summary.
+
+DOI: 10.1371/journal.pmed.1001339 
+PMCID: PMC3496665
+PMID: 23152723  [Indexed for MEDLINE]
+

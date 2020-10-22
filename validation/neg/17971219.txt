@@ -1,0 +1,51 @@
+
+1. Retrovirology. 2007 Oct 30;4:79.
+
+Human immunodeficiency virus integrase inhibitors efficiently suppress feline
+immunodeficiency virus replication in vitro and provide a rationale to redesign
+antiretroviral treatment for feline AIDS.
+
+Savarino A(1), Pistello M, D'Ostilio D, Zabogli E, Taglia F, Mancini F, Ferro S, 
+Matteucci D, De Luca L, Barreca ML, Ciervo A, Chimirri A, Ciccozzi M, Bendinelli 
+M.
+
+Author information: 
+(1)Dept. of Infectious, Parasitic and Immune-mediated Diseases, Istituto
+Superiore di Sanità, Viale Regina Elena, 299, 00161, Rome, Italy.
+andrea.savarino@iss.it
+
+BACKGROUND: Treatment of feline immunodeficiency virus (FIV) infection has been
+hampered by the absence of a specific combination antiretroviral treatment (ART).
+Integrase strand transfer inhibitors (INSTIs) are emerging as a promising new
+drug class for HIV-1 treatment, and we evaluated the possibility of inhibiting
+FIV replication using INSTIs.
+METHODS: Phylogenetic analysis of lentiviral integrase (IN) sequences was carried
+out using the PAUP* software. A theoretical three-dimensional structure of the
+FIV IN catalytic core domain (CCD) was obtained by homology modeling based on a
+crystal structure of HIV-1 IN CCD. The interaction of the transferred strand of
+viral DNA with the catalytic cavity of FIV IN was deduced from a crystal
+structure of a structurally similar transposase complexed with transposable DNA. 
+Molecular docking simulations were conducted using a genetic algorithm (GOLD).
+Antiviral activity was tested in feline lymphoblastoid MBM cells acutely infected
+with the FIV Petaluma strain. Circular and total proviral DNA was quantified by
+real-time PCR.
+RESULTS: The calculated INSTI-binding sites were found to be nearly identical in 
+FIV and HIV-1 IN CCDs. The close similarity of primate and feline lentivirus IN
+CCDs was also supported by phylogenetic analysis. In line with these
+bioinformatic analyses, FIV replication was efficiently inhibited in acutely
+infected cell cultures by three investigational INSTIs, designed for HIV-1 and
+belonging to different classes. Of note, the naphthyridine carboxamide INSTI,
+L-870,810 displayed an EC50 in the low nanomolar range. Inhibition of FIV
+integration in situ was shown by real-time PCR experiments that revealed
+accumulation of circular forms of FIV DNA within cells treated with L-870,810.
+CONCLUSION: We report a drug class (other than nucleosidic reverse transcriptase 
+inhibitors) that is capable of inhibiting FIV replication in vitro. The present
+study helped establish L-870,810, a compound successfully tested in human
+clinical trials, as one of the most potent anti-FIV agents ever tested in vitro. 
+This finding may provide new avenues for treating FIV infection and contribute to
+the development of a small animal model mimicking the effects of ART in humans.
+
+DOI: 10.1186/1742-4690-4-79 
+PMCID: PMC2244644
+PMID: 17971219  [Indexed for MEDLINE]
+

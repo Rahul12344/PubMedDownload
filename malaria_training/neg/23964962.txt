@@ -1,0 +1,50 @@
+
+1. Malar J. 2013 Aug 21;12:288. doi: 10.1186/1475-2875-12-288.
+
+Merozoite surface protein-3 alpha as a genetic marker for epidemiologic studies
+in Plasmodium vivax: a cautionary note.
+
+Rice BL(1), Acosta MM, Pacheco MA, Escalante AA.
+
+Author information: 
+(1)Center for Evolutionary Medicine and Informatics, The Biodesign Institute,
+Arizona State University, Tempe, AZ, USA.
+
+BACKGROUND: Plasmodium vivax is the most widespread of the human malaria
+parasites in terms of geography, and is thought to present unique challenges to
+local efforts aimed at control and elimination. Parasite molecular markers can
+provide much needed data on P. vivax populations, but few such markers have been 
+critically evaluated. One marker that has seen extensive use is the gene encoding
+merozoite surface protein 3-alpha (MSP-3α), a blood-stage antigen known to be
+highly variable among P. vivax isolates. Here, a sample of complete msp-3α gene
+sequences is analysed in order to assess its utility as a molecular marker for
+epidemiologic investigations.
+METHODS: Amplification, cloning and sequencing of additional P. vivax isolates
+from different geographic locations, including a set of Venezuelan field isolates
+(n = 10), yielded a sample of 48 complete msp-3α coding sequences.
+Characterization of standard population genetic measures of diversity,
+phylogenetic analysis, and tests for recombination were performed. This allowed
+comparisons to patterns inferred from the in silico simulation of a polymerase
+chain reaction restriction fragment length polymorphism (PCR-RFLP) protocol used 
+widely.
+RESULTS: The larger sample of MSP-3α diversity revealed incongruence between the 
+observed levels of nucleotide polymorphism, which were high in all populations,
+and the pattern of PCR-RFLP haplotype diversity. Indeed, PCR-RFLP haplotypes were
+not informative of a population's genetic diversity and identical haplotypes
+could be produced from analogous bands in the commonly used protocol. Evidence of
+frequent and variable insertion-deletion mutations and recurrent recombination
+between MSP-3α haplotypes complicated the inference of genetic diversity patterns
+and reduced the phylogenetic signal.
+CONCLUSIONS: The genetic diversity of P. vivax msp-3α involves intragenic
+recombination events. Whereas the high genetic diversity of msp-3α makes it a
+promising marker for some epidemiological applications, the ability of msp-3α
+PCR-RFLP analysis to accurately track parasites is limited. Local studies of the 
+circulating alleles are needed before implementing PCR-RFLP approaches.
+Furthermore, evidence from the global sample analysed here suggests such msp-3α
+PCR-RFLP methods are not suitable for broad geographic studies or tracking
+parasite populations for an extended period of time.
+
+DOI: 10.1186/1475-2875-12-288 
+PMCID: PMC3765194
+PMID: 23964962  [Indexed for MEDLINE]
+

@@ -1,0 +1,60 @@
+
+1. mBio. 2016 Dec 6;7(6). pii: e02011-16. doi: 10.1128/mBio.02011-16.
+
+Reduced Activity of Mutant Calcium-Dependent Protein Kinase 1 Is Compensated in
+Plasmodium falciparum through the Action of Protein Kinase G.
+
+Bansal A(1), Ojo KK(2), Mu J(3), Maly DJ(4), Van Voorhis WC(2), Miller LH(1).
+
+Author information: 
+(1)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Rockville, Maryland, USA
+bansal.abhisheka@gmail.com LMILLER@niaid.nih.gov.
+(2)Division of Allergy and Infectious Diseases, Department of Medicine, and
+Center for Emerging and Re-emerging Infectious Diseases, University of
+Washington, Seattle, Washington, USA.
+(3)Laboratory of Malaria and Vector Research, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Rockville, Maryland, USA.
+(4)Departments of Biochemistry and Chemistry, University of Washington, Seattle, 
+Washington, USA.
+
+We used a sensitization approach that involves replacement of the gatekeeper
+residue in a protein kinase with one with a different side chain. The activity of
+the enzyme with a bulky gatekeeper residue, such as methionine, cannot be
+inhibited using bumped kinase inhibitors (BKIs). Here, we have used this approach
+to study Plasmodium falciparum calcium-dependent protein kinase 1 (PfCDPK1). The 
+methionine gatekeeper substitution, T145M, although it led to a 47% reduction in 
+transphosphorylation, was successfully introduced into the CDPK1 locus using
+clustered regularly interspaced short palindromic repeat (CRISPR)/Cas9. As
+methionine is a bulky residue, BKI 1294 had a 10-fold-greater effect in vitro on 
+the wild-type enzyme than on the methionine mutant. However, in contrast to in
+vitro data with recombinant enzymes, BKI 1294 had a slightly greater inhibition
+of the growth of CDPK1 T145M parasites than the wild type. Moreover, the CDPK1
+T145M parasites were more sensitive to the action of compound 2 (C2), a specific 
+inhibitor of protein kinase G (PKG). These results suggest that a reduction in
+the activity of CDPK1 due to methionine substitution at the gatekeeper position
+is compensated through the direct action of PKG or of another kinase under the
+regulation of PKG. The transcript levels of CDPK5 and CDPK6 were significantly
+upregulated in the CDPK1 T145M parasites. The increase in CDPK6 or some other
+kinase may compensate for decrease in CDPK1 activity during invasion. This study 
+suggests that targeting two kinases may be more effective in chemotherapy to
+treat malaria so as not to select for mutations in one of the enzymes.IMPORTANCE:
+Protein kinases of Plasmodium falciparum are being actively pursued as drug
+targets to treat malaria. However, compensatory mechanisms may reverse the drug
+activity against a kinase. In this study, we show that replacement of the
+wild-type threonine gatekeeper residue with methionine reduces the
+transphosphorylation activity of CDPK1. Mutant parasites with methionine
+gatekeeper residue compensate the reduced activity of CDPK1 through the action of
+PKG possibly by upregulation of CDPK6 or some other kinase. This study highlights
+that targeting one enzyme may lead to changes in transcript expression of other
+kinases that compensate for its function and may select for mutants that are less
+dependent on the target enzyme activity. Thus, inhibiting two kinases is a better
+strategy to protect the antimalarial activity of each, similar to artemisinin
+combination therapy or malarone (atovaquone and proguanil).
+
+Copyright © 2016 Bansal et al.
+
+DOI: 10.1128/mBio.02011-16 
+PMCID: PMC5142624
+PMID: 27923926  [Indexed for MEDLINE]
+

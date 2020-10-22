@@ -1,0 +1,57 @@
+
+1. Malar J. 2020 Oct 12;19(1):365. doi: 10.1186/s12936-020-03421-3.
+
+Discovery of FNDR-20123, a histone deacetylase inhibitor for the treatment of
+Plasmodium falciparum malaria.
+
+Potluri V(1), Shandil RK(1), Gavara R(2), Sambasivam G(2), Campo B(3), Wittlin
+S(4), Narayanan S(5).
+
+Author information: 
+(1)Foundation for Neglected Disease Research, Bengaluru, India.
+(2)Anthem Biosciences Private Limited, Bengaluru, India.
+(3)Medicines for Malaria Venture, Geneva, Switzerland.
+(4)Swiss Tropical and Public Health Institute, Basel, Switzerland.
+(5)Foundation for Neglected Disease Research, Bengaluru, India.
+shridhar.narayanan@fndr.in.
+
+BACKGROUND: Emergence of anti-malarial drug resistance and perpetual increase in 
+malaria incidence necessitates the development of novel anti-malarials. Histone
+deacetylases (HDAC) has been shown to be a promising target for malaria, despite 
+this, there are no HDAC inhibitors in clinical trials for malaria treatment. This
+can be attributed to the poor pharmacokinetics, bioavailability and selectivity
+of the HDAC inhibitors.
+METHODS: A collection of HDAC inhibitors were screened for anti-malarial
+activity, and the best candidate was profiled in parasite-killing kinetics,
+growth inhibition of sensitive and multi-drug resistant (MDR) strains and against
+gametocytes. Absorption, distribution, metabolism and excretion pharmacokinetics 
+(ADME-PK) parameters of FNDR-20123 were determined, and in vivo efficacy was
+studied in a mouse model for Plasmodium falciparum infection.
+RESULTS: A compound library of HDAC inhibitors (180 in number) was screened for
+anti-malarial activity, of which FNDR-20123 was the most potent candidate. The
+compound had been shown to inhibit Plasmodium HDAC with IC50 of 31 nM and human
+HDAC with IC50 of 3 nM. The IC50 obtained for P. falciparum in asexual
+blood-stage assay was 42 nM. When compared to atovaquone and pyrimethamine, the
+killing profiles of FNDR-20123 were better than atovaquone and comparable to
+pyrimethamine. The IC50 values for the growth inhibition of sensitive and MDR
+strains were similar, indicating that there is no cross-resistance and a low risk
+of resistance development. The selected compound was also active against
+gametocytes, indicating a potential for transmission control: IC50 values being
+190 nM for male and > 5 µM for female gametocytes. FNDR-20123 is a stable
+candidate in human/mouse/rat liver microsomes (> 75% remaining post 2-h
+incubation), exhibits low plasma protein binding (57% in humans) with no human
+Ether-à-go-go-Related Gene (hERG) liability (> 100 µM), and does not inhibit any 
+of the cytochrome P450 (CYP) isoforms tested (IC50 > 25 µM). It also shows
+negligible cytotoxicity to HepG-2 and THP-1 cell lines. The oral pharmacokinetics
+in rats at 100 mg/kg body weight shows good exposures (Cmax = 1.1 µM) and
+half-life (T1/2 = 5.5 h). Furthermore, a 14-day toxicokinetic study at 100 mg/kg 
+daily dose did not show any abnormality in body weight or gross organ pathology. 
+FNDR-20123 is also able to reduce parasitaemia significantly in a mouse model for
+P. falciparum infection when dosed orally and subcutaneously.
+CONCLUSION: FNDR-20123 may be a suitable candidate for the treatment of malaria, 
+which can be further developed.
+
+DOI: 10.1186/s12936-020-03421-3 
+PMCID: PMC7549214
+PMID: 33046062 
+

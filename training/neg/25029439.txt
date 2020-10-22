@@ -1,0 +1,56 @@
+
+1. PLoS One. 2014 Jul 16;9(7):e102150. doi: 10.1371/journal.pone.0102150.
+eCollection 2014.
+
+Dynamics of linker residues modulate the nucleic acid binding properties of the
+HIV-1 nucleocapsid protein zinc fingers.
+
+Zargarian L(1), Tisné C(2), Barraud P(2), Xu X(3), Morellet N(4), René B(1), Mély
+Y(5), Fossé P(1), Mauffret O(1).
+
+Author information: 
+(1)Laboratoire de Biologie et Pharmacologie Appliquée, Ecole Normale Supérieure
+de Cachan, Centre National de la Recherche Scientifique, Unité Mixte de Recherche
+8113, Cachan, France.
+(2)Laboratoire de Cristallographie et RMN Biologiques, Université Paris
+Descartes, Centre National de la Recherche Scientifique, Unité Mixte de Recherche
+8015, Paris, France.
+(3)Laboratoire de Biologie et Pharmacologie Appliquée, Ecole Normale Supérieure
+de Cachan, Centre National de la Recherche Scientifique, Unité Mixte de Recherche
+8113, Cachan, France; Department of Life Sciences, East China Normal University, 
+Shanghai, People's Republic of China.
+(4)Centre de Recherches de Gif, Institut de Chimie des Substances Naturelles,
+Centre National de la Recherche Scientifique, Gif sur Yvette, France.
+(5)Laboratoire de Biophotonique et Pharmacologie, Centre National de la Recherche
+Scientifique, Unité Mixte de Recherche 7213, Faculté de Pharmacie, Université de 
+Strasbourg, Illkirch, France.
+
+The HIV-1 nucleocapsid protein (NC) is a small basic protein containing two zinc 
+fingers (ZF) separated by a short linker. It is involved in several steps of the 
+replication cycle and acts as a nucleic acid chaperone protein in facilitating
+nucleic acid strand transfers occurring during reverse transcription. Recent
+analysis of three-dimensional structures of NC-nucleic acids complexes
+established a new property: the unpaired guanines targeted by NC are more often
+inserted in the C-terminal zinc finger (ZF2) than in the N-terminal zinc finger
+(ZF1). Although previous NMR dynamic studies were performed with NC, the dynamic 
+behavior of the linker residues connecting the two ZF domains remains unclear.
+This prompted us to investigate the dynamic behavior of the linker residues.
+Here, we collected 15N NMR relaxation data and used for the first time data at
+several fields to probe the protein dynamics. The analysis at two fields allows
+us to detect a slow motion occurring between the two domains around a hinge
+located in the linker at the G35 position. However, the amplitude of motion
+appears limited in our conditions. In addition, we showed that the neighboring
+linker residues R29, A30, P31, R32, K33 displayed restricted motion and numerous 
+contacts with residues of ZF1. Our results are fully consistent with a model in
+which the ZF1-linker contacts prevent the ZF1 domain to interact with unpaired
+guanines, whereas the ZF2 domain is more accessible and competent to interact
+with unpaired guanines. In contrast, ZF1 with its large hydrophobic plateau is
+able to destabilize the double-stranded regions adjacent to the guanines bound by
+ZF2. The linker residues and the internal dynamics of NC regulate therefore the
+different functions of the two zinc fingers that are required for an optimal
+chaperone activity.
+
+DOI: 10.1371/journal.pone.0102150 
+PMCID: PMC4100767
+PMID: 25029439  [Indexed for MEDLINE]
+

@@ -1,0 +1,57 @@
+
+1. Malar J. 2019 Dec 13;18(1):418. doi: 10.1186/s12936-019-3035-0.
+
+Use of gene expression studies to investigate the human immunological response to
+malaria infection.
+
+Hodgson SH(1)(2), Muller J(3), Lockstone HE(4), Hill AVS(3)(4), Marsh K(5),
+Draper SJ(3), Knight JC(4).
+
+Author information: 
+(1)The Jenner Institute, University of Oxford, Old Road Campus Road Building, Off
+Roosevelt Drive, Oxford, OX3 7DQ, UK. susannesheehy@doctors.org.uk.
+(2)Department of Infectious Diseases & Microbiology, Oxford University Hospitals 
+Trust, Oxford, UK. susannesheehy@doctors.org.uk.
+(3)The Jenner Institute, University of Oxford, Old Road Campus Road Building, Off
+Roosevelt Drive, Oxford, OX3 7DQ, UK.
+(4)Wellcome Centre for Human Genetics, University of Oxford, Oxford, UK.
+(5)Department of Tropical Medicine, University of Oxford, Oxford, UK.
+
+BACKGROUND: Transcriptional profiling of the human immune response to malaria has
+been used to identify diagnostic markers, understand the pathogenicity of severe 
+disease and dissect the mechanisms of naturally acquired immunity (NAI). However,
+interpreting this body of work is difficult given considerable variation in study
+design, definition of disease, patient selection and methodology employed. This
+work details a comprehensive review of gene expression profiling (GEP) of the
+human immune response to malaria to determine how this technology has been
+applied to date, instances where this has advanced understanding of NAI and the
+extent of variability in methodology between studies to allow informed comparison
+of data and interpretation of results.
+METHODS: Datasets from the gene expression omnibus (GEO) including the search
+terms; 'plasmodium' or 'malaria' or 'sporozoite' or 'merozoite' or 'gametocyte'
+and 'Homo sapiens' were identified and publications analysed. Datasets of gene
+expression changes in relation to malaria vaccines were excluded.
+RESULTS: Twenty-three GEO datasets and 25 related publications were included in
+the final review. All datasets related to Plasmodium falciparum infection, except
+two that related to Plasmodium vivax infection. The majority of datasets included
+samples from individuals infected with malaria 'naturally' in the field (n = 13, 
+57%), however some related to controlled human malaria infection (CHMI) studies
+(n = 6, 26%), or cells stimulated with Plasmodium in vitro (n = 6, 26%). The
+majority of studies examined gene expression changes relating to the blood stage 
+of the parasite. Significant heterogeneity between datasets was identified in
+terms of study design, sample type, platform used and method of analysis. Seven
+datasets specifically investigated transcriptional changes associated with NAI to
+malaria, with evidence supporting suppression of the innate pro-inflammatory
+response as an important mechanism for this in the majority of these studies.
+However, further interpretation of this body of work was limited by heterogeneity
+between studies and small sample sizes.
+CONCLUSIONS: GEP in malaria is a potentially powerful tool, but to date studies
+have been hypothesis generating with small sample sizes and widely varying
+methodology. As CHMI studies are increasingly performed in endemic settings,
+there will be growing opportunity to use GEP to understand detailed time-course
+changes in host response and understand in greater detail the mechanisms of NAI.
+
+DOI: 10.1186/s12936-019-3035-0 
+PMCID: PMC6911278
+PMID: 31835999  [Indexed for MEDLINE]
+

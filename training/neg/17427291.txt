@@ -1,0 +1,39 @@
+
+1. Mol Microbiol. 2006 Dec;62(6):1752-63.
+
+Hypermutagenesis in mutA cells is mediated by mistranslational corruption of
+polymerase, and is accompanied by replication fork collapse.
+
+Al Mamun AA(1), Gautam S, Humayun MZ.
+
+Author information: 
+(1)University of Medicine and Dentistry of New Jersey, New Jersey Medical School,
+Department of Microbiology and Molecular Genetics, International Center for
+Public Health, 225 Warren Street, Newark, NJ 07101-1709, USA.
+
+Elevated mistranslation induces a mutator response termed translational
+stress-induced mutagenesis (TSM) that is mediated by an unidentified modification
+of DNA polymerase III. Here we address two questions: (i) does TSM result from
+direct polymerase corruption, or from an indirect pathway triggered by increased 
+protein turnover? (ii) Why are homologous recombination functions required for
+the expression of TSM under certain conditions, but not others? We show that
+replication of bacteriophage T4 in cells expressing the mutA allele of the
+glyVtRNA gene (Asp-Gly mistranslation), leads to both increased mutagenesis, and 
+to an altered mutational specificity, results that strongly support
+mistranslational corruption of DNA polymerase. We also show that expression of
+mutA, which confers a recA-dependent mutator phenotype, leads to increased
+lambdoid prophage induction (selectable in vivo expression technology assay),
+suggesting that replication fork collapse occurs more frequently in mutA cells
+relative to control cells. No such increase in prophage induction is seen in
+cells expressing alaVGlu tRNA (Glu-->Ala mistranslation), in which the mutator
+phenotype is recA-independent. We propose that replication fork collapse
+accompanies episodic hypermutagenic replication cycles in mutA cells, requiring
+homologous recombination functions for fork recovery, and therefore, for mutation
+recovery. These findings highlight hitherto under-appreciated links among
+translation, replication and recombination, and suggest that translational
+fidelity, which is affected by genetic and environmental signals, is a key
+modulator of replication fidelity.
+
+DOI: 10.1111/j.1365-2958.2006.05490.x 
+PMID: 17427291  [Indexed for MEDLINE]
+

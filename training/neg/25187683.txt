@@ -1,0 +1,37 @@
+
+1. Bioinformation. 2014 Jul 22;10(7):428-35. doi: 10.6026/97320630010428.
+eCollection 2014.
+
+Virtual screening of natural inhibitors to the predicted HBx protein structure of
+Hepatitis B Virus using molecular docking for identification of potential lead
+molecules for liver cancer.
+
+Pathak RK(1), Baunthiyal M(2), Taj G(3), Kumar A(3).
+
+Author information: 
+(1)Department of Biotechnology, G. B. Pant Engineering College, Pauri
+Garhwal-246194, Uttarakhand, India ; Department of Molecular Biology & Genetic
+Engineering, College of Basic Sciences & Humanities, G. B. Pant University of
+Agriculture & Technology, Pantnagar-263145, Uttarakhand, India.
+(2)Department of Biotechnology, G. B. Pant Engineering College, Pauri
+Garhwal-246194, Uttarakhand, India.
+(3)Department of Molecular Biology & Genetic Engineering, College of Basic
+Sciences & Humanities, G. B. Pant University of Agriculture & Technology,
+Pantnagar-263145, Uttarakhand, India.
+
+The HBx protein in Hepatitis B Virus (HBV) is a potential target for anti-liver
+cancer molecules. Therefore, it is of interest to screen known natural compounds 
+against the HBx protein using molecular docking. However, the structure of HBx is
+not yet known. Therefore, the predicted structure of HBx using threading in LOMET
+was used for docking against plant derived natural compounds (curcumin, oleanolic
+acid, resveratrol, bilobetin, luteoline, ellagic acid, betulinic acid and rutin) 
+by Molegro Virtual Docker. The screening identified rutin with binding energy of 
+-161.65 Kcal/mol. Thus, twenty derivatives of rutin were further designed and
+screened against HBx. These in silico experiments identified compounds rutin01
+(-163.16 Kcal/mol) and rutin08 (- 165.76 Kcal/mol) for further consideration and 
+downstream validation.
+
+DOI: 10.6026/97320630010428 
+PMCID: PMC4135291
+PMID: 25187683 
+

@@ -1,0 +1,41 @@
+
+1. Viruses. 2018 Nov 15;10(11). pii: E637. doi: 10.3390/v10110637.
+
+Base-By-Base Version 3: New Comparative Tools for Large Virus Genomes.
+
+Tu SL(1), Staheli JP(2), McClay C(3), McLeod K(4), Rose TM(5)(6), Upton C(7).
+
+Author information: 
+(1)Biochemistry and Microbiology, University of Victoria, Victoria, BC V8W 2Y2,
+Canada. cindytu@uvic.ca.
+(2)Center for Global Infectious Disease Research, Seattle Children's Research
+Institute, Seattle, WA 98101, USA. jeannette.staheli@seattlechildrens.org.
+(3)Biochemistry and Microbiology, University of Victoria, Victoria, BC V8W 2Y2,
+Canada. colummcclay@hotmail.com.
+(4)Biochemistry and Microbiology, University of Victoria, Victoria, BC V8W 2Y2,
+Canada. kathleen_mcleod14@hotmail.com.
+(5)Center for Global Infectious Disease Research, Seattle Children's Research
+Institute, Seattle, WA 98101, USA. trose@u.washington.edu.
+(6)Department of Pediatrics, University of Washington, Seattle, WA 98195, USA.
+trose@u.washington.edu.
+(7)Biochemistry and Microbiology, University of Victoria, Victoria, BC V8W 2Y2,
+Canada. cupton@uvic.ca.
+
+Base-By-Base is a comprehensive tool for the creation and editing of multiple
+sequence alignments that is coded in Java and runs on multiple platforms. It can 
+be used with gene and protein sequences as well as with large viral genomes,
+which themselves can contain gene annotations. This report describes new features
+added to Base-By-Base over the last 7 years. The two most significant additions
+are: (1) The recoding and inclusion of "consensus-degenerate hybrid
+oligonucleotide primers" (CODEHOP), a popular tool for the design of degenerate
+primers from a multiple sequence alignment of proteins; and (2) the ability to
+perform fuzzy searches within the columns of sequence data in multiple sequence
+alignments to determine the distribution of sequence variants among the
+sequences. The intuitive interface focuses on the presentation of results in
+easily understood visualizations and providing the ability to annotate the
+sequences in a multiple alignment with analytic and user data.
+
+DOI: 10.3390/v10110637 
+PMCID: PMC6265842
+PMID: 30445717  [Indexed for MEDLINE]
+

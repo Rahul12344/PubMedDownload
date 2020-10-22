@@ -1,0 +1,50 @@
+
+1. PLoS Biol. 2018 Aug 24;16(8):e2006035. doi: 10.1371/journal.pbio.2006035.
+eCollection 2018 Aug.
+
+Plasmodium vivax-like genome sequences shed new insights into Plasmodium vivax
+biology and evolution.
+
+Gilabert A(1), Otto TD(2)(3), Rutledge GG(2), Franzon B(1), Ollomo B(4), Arnathau
+C(1), Durand P(1), Moukodoum ND(4), Okouga AP(4), Ngoubangoye B(4), Makanga B(4),
+Boundenga L(4), Paupy C(1)(4), Renaud F(1), Prugnolle F(1)(4), Rougeron V(1)(4).
+
+Author information: 
+(1)MIVEGEC, IRD, CNRS, University of Montpellier, Montpellier, France.
+(2)Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Cambridge,
+United Kingdom.
+(3)Institute of Infection, Immunity and Inflammation, University of Glasgow,
+College of Medical, Veterinary and Life Sciences, Glasgow, United Kingdom.
+(4)Centre International de Recherches Médicales de Franceville, Franceville,
+Gabon.
+
+Although Plasmodium vivax is responsible for the majority of malaria infections
+outside Africa, little is known about its evolution and pathway to humans. Its
+closest genetic relative, P. vivax-like, was discovered in African great apes and
+is hypothesized to have given rise to P. vivax in humans. To unravel the
+evolutionary history and adaptation of P. vivax to different host environments,
+we generated using long- and short-read sequence technologies 2 new P. vivax-like
+reference genomes and 9 additional P. vivax-like genotypes. Analyses show that
+the genomes of P. vivax and P. vivax-like are highly similar and colinear within 
+the core regions. Phylogenetic analyses clearly show that P. vivax-like parasites
+form a genetically distinct clade from P. vivax. Concerning the relative
+divergence dating, we show that the evolution of P. vivax in humans did not occur
+at the same time as the other agents of human malaria, thus suggesting that the
+transfer of Plasmodium parasites to humans happened several times independently
+over the history of the Homo genus. We further identify several key genes that
+exhibit signatures of positive selection exclusively in the human P. vivax
+parasites. Two of these genes have been identified to also be under positive
+selection in the other main human malaria agent, P. falciparum, thus suggesting
+their key role in the evolution of the ability of these parasites to infect
+humans or their anthropophilic vectors. Finally, we demonstrate that some gene
+families important for red blood cell (RBC) invasion (a key step of the life
+cycle of these parasites) have undergone lineage-specific evolution in the human 
+parasite (e.g., reticulocyte-binding proteins [RBPs]).
+
+DOI: 10.1371/journal.pbio.2006035 
+PMCID: PMC6130868
+PMID: 30142149  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

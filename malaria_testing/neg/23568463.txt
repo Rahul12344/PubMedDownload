@@ -1,0 +1,26 @@
+
+1. Methods Mol Biol. 2013;993:39-65. doi: 10.1007/978-1-62703-342-8_4.
+
+In silico models for drug resistance.
+
+Fatumo S(1), Adebiyi M, Adebiyi E.
+
+Author information: 
+(1)Department of Computer and Information Sciences, Covenant University, Ota,
+Nigeria.
+
+Resistance to drugs that treat infectious disease is a major problem worldwide.
+The rapid emergence of drug resistance is not well understood. We present two in 
+silico models for the discovery of drug resistance mechanisms and for combating
+the evolution of resistance, respectively. In the first model, we computationally
+investigated subgraphs of a biological interaction network that show substantial 
+adaptations when cells transcriptionally respond to a changing environment or
+treatment. As a case study, we investigated the response of the malaria parasite 
+Plasmodium falciparum to chloroquine and tetracycline treatments. The second
+model involves a machine learning technique that combines clustering, common
+distance similarity measurements, and hierarchical clustering to propose new
+combinations of drug targets.
+
+DOI: 10.1007/978-1-62703-342-8_4 
+PMID: 23568463  [Indexed for MEDLINE]
+

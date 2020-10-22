@@ -1,0 +1,37 @@
+
+1. Nature. 2012 Jul 19;487(7407):375-9. doi: 10.1038/nature11174.
+
+Analysis of Plasmodium falciparum diversity in natural infections by deep
+sequencing.
+
+Manske M(1), Miotto O, Campino S, Auburn S, Almagro-Garcia J, Maslen G, O'Brien
+J, Djimde A, Doumbo O, Zongo I, Ouedraogo JB, Michon P, Mueller I, Siba P, Nzila 
+A, Borrmann S, Kiara SM, Marsh K, Jiang H, Su XZ, Amaratunga C, Fairhurst R,
+Socheat D, Nosten F, Imwong M, White NJ, Sanders M, Anastasi E, Alcock D, Drury
+E, Oyola S, Quail MA, Turner DJ, Ruano-Rubio V, Jyothi D, Amenga-Etego L, Hubbart
+C, Jeffreys A, Rowlands K, Sutherland C, Roper C, Mangano V, Modiano D, Tan JC,
+Ferdig MT, Amambua-Ngwa A, Conway DJ, Takala-Harrison S, Plowe CV, Rayner JC,
+Rockett KA, Clark TG, Newbold CI, Berriman M, MacInnis B, Kwiatkowski DP.
+
+Author information: 
+(1)Wellcome Trust Sanger Institute, Hinxton, Cambridge CB10 1SA, UK.
+
+Malaria elimination strategies require surveillance of the parasite population
+for genetic changes that demand a public health response, such as new forms of
+drug resistance. Here we describe methods for the large-scale analysis of genetic
+variation in Plasmodium falciparum by deep sequencing of parasite DNA obtained
+from the blood of patients with malaria, either directly or after short-term
+culture. Analysis of 86,158 exonic single nucleotide polymorphisms that passed
+genotyping quality control in 227 samples from Africa, Asia and Oceania provides 
+genome-wide estimates of allele frequency distribution, population structure and 
+linkage disequilibrium. By comparing the genetic diversity of individual
+infections with that of the local parasite population, we derive a metric of
+within-host diversity that is related to the level of inbreeding in the
+population. An open-access web application has been established for the
+exploration of regional differences in allele frequency and of highly
+differentiated loci in the P. falciparum genome.
+
+DOI: 10.1038/nature11174 
+PMCID: PMC3738909
+PMID: 22722859  [Indexed for MEDLINE]
+

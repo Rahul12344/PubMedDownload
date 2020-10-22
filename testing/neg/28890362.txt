@@ -1,0 +1,44 @@
+
+1. Structure. 2017 Oct 3;25(10):1631-1639.e2. doi: 10.1016/j.str.2017.07.018. Epub
+2017 Sep 7.
+
+Microsecond Dynamics and Network Analysis of the HIV-1 SOSIP Env Trimer Reveal
+Collective Behavior and Conserved Microdomains of the Glycan Shield.
+
+Lemmin T(1), Soto C(2), Stuckey J(3), Kwong PD(4).
+
+Author information: 
+(1)Vaccine Research Center, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health (NIH), Bethesda, MD 20892, USA;
+Department of Pharmaceutical Chemistry, University of California, San Francisco
+(UCSF), San Francisco, CA 94158, USA. Electronic address: thomas.lemmin@nih.gov.
+(2)Vaccine Research Center, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health (NIH), Bethesda, MD 20892, USA;
+Vanderbilt Vaccine Center, Vanderbilt University Medical Center, Nashville, TN
+37232, USA.
+(3)Vaccine Research Center, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health (NIH), Bethesda, MD 20892, USA.
+(4)Vaccine Research Center, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health (NIH), Bethesda, MD 20892, USA.
+Electronic address: pdkwong@nih.gov.
+
+The trimeric HIV-1-envelope (Env) spike is one of the most glycosylated protein
+complexes known, with roughly half its mass comprising host-derived N-linked
+glycan. Here we use molecular dynamics to provide insight into its structural
+dynamics and into how both protomer and glycan movements coordinate to shield the
+Env protein surface. A 2-μs molecular dynamics simulation of a fully glycosylated
+atomistic model of the HIV-1 SOSIP Env trimer revealed a spectrum of
+protomer-scissoring and trimer-opening movements. Network analysis showed that
+highly conserved glycans combined with protomer scissoring to restrict access to 
+the binding site of the CD4 receptor. The network property of betweenness
+centrality appeared to identify whether glycans spread to restrict access or
+cluster to maintain the high-mannose character of the shield. We also observed
+stable microdomains comprising patches of glycan, with neutralizing antibodies
+generally binding at the interface between glycan microdomains. Overall, our
+results provide a microsecond-based understanding of the Env glycan shield.
+
+Published by Elsevier Ltd.
+
+DOI: 10.1016/j.str.2017.07.018 
+PMID: 28890362  [Indexed for MEDLINE]
+

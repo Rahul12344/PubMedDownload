@@ -1,0 +1,34 @@
+
+1. J Clin Microbiol. 2011 Oct;49(10):3482-90. doi: 10.1128/JCM.00156-11. Epub 2011
+Aug 17.
+
+Computational analysis of two species C human adenoviruses provides evidence of a
+novel virus.
+
+Walsh MP(1), Seto J, Liu EB, Dehghan S, Hudson NR, Lukashev AN, Ivanova O,
+Chodosh J, Dyer DW, Jones MS, Seto D.
+
+Author information: 
+(1)Department of Bioinformatics and Computational Biology, George Mason
+University, 10900 University Blvd., Manassas, VA 20110, USA.
+
+Human adenovirus C (HAdV-C) species are a common cause of respiratory infections 
+and can occasionally produce severe clinical manifestations. A deeper
+understanding of the variation and evolution in species HAdV-C is especially
+important since these viruses, including HAdV-C6, are used as gene delivery
+vectors for human gene therapy and in other biotechnological applications. Here, 
+the full-genome analysis of the prototype HAdV-C6 and a recently identified virus
+provisionally termed HAdV-C57 are reported. Although the genomes of all species
+HAdV-C members are very similar to each other, the E3 region, hexon and fiber
+(ten proteins total) present a wide range of identity values at the amino acid
+level. Studies of these viruses in comparison to the other three HAdV-C
+prototypes (1, 2, and 5) comprise a comprehensive analysis of the diversity and
+conservation within HAdV-C species. HAdV-C6 contains a recombination event within
+the constant region of the hexon gene. HAdV-C57 is a recombinant virus with a
+fiber gene nearly identical to HAdV-C6 and a unique hexon distinguished by its
+loop 2 motif.
+
+DOI: 10.1128/JCM.00156-11 
+PMCID: PMC3187342
+PMID: 21849694  [Indexed for MEDLINE]
+

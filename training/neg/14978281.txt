@@ -1,0 +1,39 @@
+
+1. Proc Natl Acad Sci U S A. 2004 Mar 16;101(11):3927-32. Epub 2004 Feb 20.
+
+A single amino acid of APOBEC3G controls its species-specific interaction with
+virion infectivity factor (Vif).
+
+Schröfelbauer B(1), Chen D, Landau NR.
+
+Author information: 
+(1)Infectious Disease Laboratory, The Salk Institute for Biological Studies,
+10010 North Torrey Pines Road, La Jolla, CA 92037, USA.
+
+Comment in
+    Proc Natl Acad Sci U S A. 2004 Mar 16;101(11):3725-6.
+
+The virion infectivity factor (Vif) accessory protein of HIV-1 forms a complex
+with the cellular cytidine deaminase APOBEC3G (apolipoprotein B mRNA-editing
+enzyme, catalytic polypeptide-like 3G) to block its antiviral activity. The
+antiviral property of APOBEC3G is conserved in several mammalian species, but the
+ability of Vif to block this activity is species-specific. HIV-1 Vif blocks human
+APOBEC3G but does not block the mouse or African green monkey (AGM) enzyme.
+Conversely, SIV(AGM) Vif blocks the antiviral activity of AGM but not human
+APOBEC3G. We demonstrate that the species specificity is caused by a single amino
+acid difference in APOBEC3G. Replacement of Asp-128 in human APOBEC3G with the
+Lys-128 of AGM APOBEC3G caused the enzyme to switch its interaction, becoming
+sensitive to SIV(AGM) Vif and resistant to HIV-1 Vif. Conversely, the reciprocal 
+Lys to Asp switch in AGM APOBEC3G reversed its specificity for Vif. The reversal 
+of biological activity was accompanied by the corresponding switch in the species
+specificity with which the enzyme physically associated with Vif and was excluded
+from virions. The charge of the amino acid at position 128 was a critical
+determinant of species specificity. Based on the crystal structure of the
+distantly related Escherichia coli cytidine deaminase, we propose that this amino
+acid is positioned on a solvent-exposed loop of APOBEC3G on the same face of the 
+protein as the catalytic site.
+
+DOI: 10.1073/pnas.0307132101 
+PMCID: PMC374346
+PMID: 14978281  [Indexed for MEDLINE]
+

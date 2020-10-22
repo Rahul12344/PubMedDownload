@@ -1,0 +1,52 @@
+
+1. Retrovirology. 2012 Aug 13;9:65. doi: 10.1186/1742-4690-9-65.
+
+Virus-producing cells determine the host protein profiles of HIV-1 virion cores.
+
+Santos S(1), Obukhov Y, Nekhai S, Bukrinsky M, Iordanskiy S.
+
+Author information: 
+(1)Department of Microbiology, Immunology and Tropical Medicine, George
+Washington University School of Medicine and Health Sciences, 2300 I Street NW,
+Ross Hall, Washington, DC 20037, USA.
+
+BACKGROUND: Upon HIV entry into target cells, viral cores are released and
+rearranged into reverse transcription complexes (RTCs), which support reverse
+transcription and also protect and transport viral cDNA to the site of
+integration. RTCs are composed of viral and cellular proteins that originate from
+both target and producer cells, the latter entering the target cell within the
+viral core. However, the proteome of HIV-1 viral cores in the context of the type
+of producer cells has not yet been characterized.
+RESULTS: We examined the proteomic profiles of the cores purified from HIV-1
+NL4-3 virions assembled in Sup-T1 cells (T lymphocytes), PMA and vitamin D3
+activated THP1 (model of macrophages, mMΦ), and non-activated THP1 cells (model
+of monocytes, mMN) and assessed potential involvement of identified proteins in
+the early stages of infection using gene ontology information and data from
+genome-wide screens on proteins important for HIV-1 replication. We identified
+202 cellular proteins incorporated in the viral cores (T cells: 125, mMΦ: 110,
+mMN: 90) with the overlap between these sets limited to 42 proteins. The groups
+of RNA binding (29), DNA binding (17), cytoskeleton (15), cytoskeleton regulation
+(21), chaperone (18), vesicular trafficking-associated (12) and
+ubiquitin-proteasome pathway-associated proteins (9) were most numerous. Cores of
+the virions from SupT1 cells contained twice as many RNA binding proteins as
+cores of THP1-derived virus, whereas cores of virions from mMΦ and mMN were
+enriched in components of cytoskeleton and vesicular transport machinery, most
+probably due to differences in virion assembly pathways between these cells.
+Spectra of chaperones, cytoskeletal proteins and ubiquitin-proteasome pathway
+components were similar between viral cores from different cell types, whereas
+DNA-binding and especially RNA-binding proteins were highly diverse. Western blot
+analysis showed that within the group of overlapping proteins, the level of
+incorporation of some RNA binding (RHA and HELIC2) and DNA binding proteins (MCM5
+and Ku80) in the viral cores from T cells was higher than in the cores from both 
+mMΦ and mMN and did not correlate with the abundance of these proteins in virus
+producing cells.
+CONCLUSIONS: Profiles of host proteins packaged in the cores of HIV-1 virions
+depend on the type of virus producing cell. The pool of proteins present in the
+cores of all virions is likely to contain factors important for viral functions. 
+Incorporation ratio of certain RNA- and DNA-binding proteins suggests their more 
+efficient, non-random packaging into virions in T cells than in mMΦ and mMN.
+
+DOI: 10.1186/1742-4690-9-65 
+PMCID: PMC3432596
+PMID: 22889230  [Indexed for MEDLINE]
+

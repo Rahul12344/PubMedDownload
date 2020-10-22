@@ -1,0 +1,38 @@
+
+1. Philos Trans R Soc Lond B Biol Sci. 2015 Sep 5;370(1676). pii: 20140245. doi:
+10.1098/rstb.2014.0245.
+
+Trade-offs in antibody repertoires to complex antigens.
+
+Childs LM(1), Baskerville EB(2), Cobey S(2).
+
+Author information: 
+(1)Center for Communicable Disease Dynamics, Harvard T.H. Chan School of Public
+Health, Boston, MA, USA Department of Epidemiology, Harvard T.H. Chan School of
+Public Health, Boston, MA, USA lchilds@hsph.harvard.edu.
+(2)Ecology and Evolution, University of Chicago, Chicago, IL, USA.
+
+Pathogens vary in their antigenic complexity. While some pathogens such as
+measles present a few relatively invariant targets to the immune system, others
+such as malaria display considerable antigenic diversity. How the immune response
+copes in the presence of multiple antigens, and whether a trade-off exists
+between the breadth and efficacy of antibody (Ab)-mediated immune responses, are 
+unsolved problems. We present a theoretical model of affinity maturation of
+B-cell receptors (BCRs) during a primary infection and examine how variation in
+the number of accessible antigenic sites alters the Ab repertoire. Naive B cells 
+with randomly generated receptor sequences initiate the germinal centre (GC)
+reaction. The binding affinity of a BCR to an antigen is quantified via a
+genotype-phenotype map, based on a random energy landscape, that combines local
+and distant interactions between residues. In the presence of numerous antigens
+or epitopes, B-cell clones with different specificities compete for stimulation
+during rounds of mutation within GCs. We find that the availability of many
+epitopes reduces the affinity and relative breadth of the Ab repertoire. Despite 
+the stochasticity of somatic hypermutation, patterns of immunodominance are
+strongly shaped by chance selection of naive B cells with specificities for
+particular epitopes. Our model provides a mechanistic basis for the diversity of 
+Ab repertoires and the evolutionary advantage of antigenically complex pathogens.
+
+DOI: 10.1098/rstb.2014.0245 
+PMCID: PMC4528422
+PMID: 26194759  [Indexed for MEDLINE]
+

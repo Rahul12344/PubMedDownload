@@ -1,0 +1,39 @@
+
+1. Nucleic Acids Res. 2011 May;39(9):3820-35. doi: 10.1093/nar/gkq1223. Epub 2011
+Jan 17.
+
+RNA-Seq analysis of splicing in Plasmodium falciparum uncovers new splice
+junctions, alternative splicing and splicing of antisense transcripts.
+
+Sorber K(1), Dimon MT, DeRisi JL.
+
+Author information: 
+(1)Department of Biochemistry and Biophysics, University of California San
+Francisco, San Francisco, CA, USA.
+
+Over 50% of genes in Plasmodium falciparum, the deadliest human malaria parasite,
+contain predicted introns, yet experimental characterization of splicing in this 
+organism remains incomplete. We present here a transcriptome-wide
+characterization of intraerythrocytic splicing events, as captured by RNA-Seq
+data from four timepoints of a single highly synchronous culture. Gene
+model-independent analysis of these data in conjunction with publically available
+RNA-Seq data with HMMSplicer, an in-house developed splice site detection
+algorithm, revealed a total of 977 new 5' GU-AG 3' and 5 new 5' GC-AG 3'
+junctions absent from gene models and ESTs (11% increase to the current
+annotation). In addition, 310 alternative splicing events were detected in 254
+(4.5%) genes, most of which truncate open reading frames. Splicing events
+antisense to gene models were also detected, revealing complex transcriptional
+arrangements within the parasite's transcriptome. Interestingly, antisense
+introns overlap sense introns more than would be expected by chance, perhaps
+indicating a functional relationship between overlapping transcripts or an
+inherent organizational property of the transcriptome. Independent experimental
+validation confirmed over 30 new antisense and alternative junctions. Thus, this 
+largest assemblage of new and alternative splicing events to date in Plasmodium
+falciparum provides a more precise, dynamic view of the parasite's transcriptome.
+
+© The Author(s) 2011. Published by Oxford University Press.
+
+DOI: 10.1093/nar/gkq1223 
+PMCID: PMC3089446
+PMID: 21245033  [Indexed for MEDLINE]
+

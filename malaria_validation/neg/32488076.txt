@@ -1,0 +1,56 @@
+
+1. Nat Commun. 2020 Jun 2;11(1):2763. doi: 10.1038/s41467-020-16593-y.
+
+Malaria parasites regulate intra-erythrocytic development duration via serpentine
+receptor 10 to coordinate with host rhythms.
+
+Subudhi AK(1), O'Donnell AJ(2), Ramaprasad A(1), Abkallo HM(3), Kaushik A(1),
+Ansari HR(1), Abdel-Haleem AM(1)(4), Ben Rached F(1), Kaneko O(5), Culleton
+R(6)(7), Reece SE(8), Pain A(9)(10)(11).
+
+Author information: 
+(1)Pathogen Genomics Group, BESE Division, King Abdullah University of Science
+and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia.
+(2)Institute of Evolutionary Biology, and Institute of Immunology and Infection
+Research, University of Edinburgh, Edinburgh, EH9 3FL, UK.
+(3)Malaria Unit, Department of Pathology, Institute of Tropical Medicine
+(NEKKEN), Nagasaki University, 1-12-4 Sakamoto, Nagasaki, 852-8523, Japan.
+(4)Computational Bioscience Research Center, King Abdullah University of Science 
+and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia.
+(5)Department of Protozoology, Institute of Tropical Medicine (NEKKEN), Nagasaki 
+University, 1-12-4 Sakamoto, Nagasaki, 852-8523, Japan.
+(6)Malaria Unit, Department of Pathology, Institute of Tropical Medicine
+(NEKKEN), Nagasaki University, 1-12-4 Sakamoto, Nagasaki, 852-8523, Japan.
+richard@nagasaki-u.ac.jp.
+(7)Division of Molecular Parasitology, Proteo-Science Center, Ehime University,
+454 Shitsukawa, Toon, Ehime, 791-0295, Japan. richard@nagasaki-u.ac.jp.
+(8)Institute of Evolutionary Biology, and Institute of Immunology and Infection
+Research, University of Edinburgh, Edinburgh, EH9 3FL, UK. sarah.reece@ed.ac.uk.
+(9)Pathogen Genomics Group, BESE Division, King Abdullah University of Science
+and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia.
+arnab.pain@kaust.edu.sa.
+(10)Center for Zoonosis Control, Global Institution for Collaborative Research
+and Education (GI-CoRE), Hokkaido University, N20 W10 Kita-ku, Sapporo, 001-0020,
+Japan. arnab.pain@kaust.edu.sa.
+(11)Nuffield Division of Clinical Laboratory Sciences (NDCLS), University of
+Oxford, Headington, Oxford, OX3 9DU, UK. arnab.pain@kaust.edu.sa.
+
+Malaria parasites complete their intra-erythrocytic developmental cycle (IDC) in 
+multiples of 24 h suggesting a circadian basis, but the mechanism controlling
+this periodicity is unknown. Combining in vivo and in vitro approaches utilizing 
+rodent and human malaria parasites, we reveal that: (i) 57% of Plasmodium
+chabaudi genes exhibit daily rhythms in transcription; (ii) 58% of these genes
+lose transcriptional rhythmicity when the IDC is out-of-synchrony with host
+rhythms; (iii) 6% of Plasmodium falciparum genes show 24 h rhythms in expression 
+under free-running conditions; (iv) Serpentine receptor 10 (SR10) has a 24 h
+transcriptional rhythm and disrupting it in rodent malaria parasites shortens the
+IDC by 2-3 h; (v) Multiple processes including DNA replication, and the ubiquitin
+and proteasome pathways, are affected by loss of coordination with host rhythms
+and by disruption of SR10. Our results reveal malaria parasites are at least
+partly responsible for scheduling the IDC and coordinating their development with
+host daily rhythms.
+
+DOI: 10.1038/s41467-020-16593-y 
+PMCID: PMC7265539
+PMID: 32488076  [Indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+1. Parasit Vectors. 2013 May 24;6:150. doi: 10.1186/1756-3305-6-150.
+
+Identification of novel arthropod vector G protein-coupled receptors.
+
+Nowling RJ(1), Abrudan JL, Shoue DA, Abdul-Wahid B, Wadsworth M, Stayback G,
+Collins FH, McDowell MA, Izaguirre JA.
+
+Author information: 
+(1)Department of Computer Science & Engineering, University of Notre Dame, Notre 
+Dame, IN 46656, USA.
+
+BACKGROUND: The control of vector-borne diseases, such as malaria, dengue fever, 
+and typhus fever is often achieved with the use of insecticides. Unfortunately,
+insecticide resistance is becoming common among different vector species. There
+are currently no chemical alternatives to these insecticides because new
+human-safe classes of molecules have yet to be brought to the vector-control
+market. The identification of novel targets offer opportunities for rational
+design of new chemistries to control vector populations. One target family, G
+protein-coupled receptors (GPCRs), has remained relatively under explored in
+terms of insecticide development.
+METHODS: A novel classifier, Ensemble*, for vector GPCRs was developed. Ensemble*
+was validated and compared to existing classifiers using a set of all known GPCRs
+from Aedes aegypti, Anopheles gambiae, Apis Mellifera, Drosophila melanogaster,
+Homo sapiens, and Pediculus humanus. Predictions for unidentified sequences from 
+Ae. aegypti, An. gambiae, and Pe. humanus were validated. Quantitative RT-PCR
+expression analysis was performed on previously-known and newly discovered Ae.
+aegypti GPCR genes.
+RESULTS: We present a new analysis of GPCRs in the genomes of Ae, aegypti, a
+vector of dengue fever, An. gambiae, a primary vector of Plasmodium falciparum
+that causes malaria, and Pe. humanus, a vector of epidemic typhus fever, using a 
+novel GPCR classifier, Ensemble*, designed for insect vector species. We
+identified 30 additional putative GPCRs, 19 of which we validated. Expression of 
+the newly discovered Ae. aegypti GPCR genes was confirmed via quantitative
+RT-PCR.
+CONCLUSION: A novel GPCR classifier for insect vectors, Ensemble*, was developed 
+and GPCR predictions were validated. Ensemble* and the validation pipeline were
+applied to the genomes of three insect vectors (Ae. aegypti, An. gambiae, and Pe.
+humanus), resulting in the identification of 52 GPCRs not previously identified, 
+of which 11 are predicted GPCRs, and 19 are predicted and confirmed GPCRs.
+
+DOI: 10.1186/1756-3305-6-150 
+PMCID: PMC3680159
+PMID: 23705687  [Indexed for MEDLINE]
+

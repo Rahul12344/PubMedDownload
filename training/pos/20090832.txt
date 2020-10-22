@@ -1,0 +1,38 @@
+
+1. PLoS Pathog. 2010 Jan 15;6(1):e1000723. doi: 10.1371/journal.ppat.1000723.
+
+Structure of the HCMV UL16-MICB complex elucidates select binding of a viral
+immunoevasin to diverse NKG2D ligands.
+
+Müller S(1), Zocher G, Steinle A, Stehle T.
+
+Author information: 
+(1)Interfaculty Institute for Biochemistry, University of Tuebingen, Tuebingen,
+Germany.
+
+The activating immunoreceptor NKG2D promotes elimination of infected or malignant
+cells by cytotoxic lymphocytes through engagement of stress-induced MHC class
+I-related ligands. The human cytomegalovirus (HCMV)-encoded immunoevasin UL16
+subverts NKG2D-mediated immune responses by retaining a select group of diverse
+NKG2D ligands inside the cell. We report here the crystal structure of UL16 in
+complex with the NKG2D ligand MICB at 1.8 A resolution, revealing the molecular
+basis for the promiscuous, but highly selective, binding of UL16 to unrelated
+NKG2D ligands. The immunoglobulin-like UL16 protein utilizes a three-stranded
+beta-sheet to engage the alpha-helical surface of the MHC class I-like MICB
+platform domain. Intriguingly, residues at the center of this beta-sheet mimic a 
+central binding motif employed by the structurally unrelated C-type lectin-like
+NKG2D to facilitate engagement of diverse NKG2D ligands. Using surface plasmon
+resonance, we find that UL16 binds MICB, ULBP1, and ULBP2 with similar affinities
+that lie in the nanomolar range (12-66 nM). The ability of UL16 to bind its
+ligands depends critically on the presence of a glutamine (MICB) or closely
+related glutamate (ULBP1 and ULBP2) at position 169. An arginine residue at this 
+position however, as found for example in MICA or ULBP3, would cause steric
+clashes with UL16 residues. The inability of UL16 to bind MICA and ULBP3 can
+therefore be attributed to single substitutions at key NKG2D ligand locations.
+This indicates that selective pressure exerted by viral immunoevasins such as
+UL16 contributed to the diversification of NKG2D ligands.
+
+DOI: 10.1371/journal.ppat.1000723 
+PMCID: PMC2797645
+PMID: 20090832  [Indexed for MEDLINE]
+

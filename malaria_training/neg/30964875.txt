@@ -1,0 +1,47 @@
+
+1. PLoS One. 2019 Apr 9;14(4):e0211756. doi: 10.1371/journal.pone.0211756.
+eCollection 2019.
+
+DNA aptamers for the recognition of HMGB1 from Plasmodium falciparum.
+
+Joseph DF(1), Nakamoto JA(1), Garcia Ruiz OA(1), Peñaranda K(1)(2),
+Sanchez-Castro AE(1), Castillo PS(1), Milón P(1)(2).
+
+Author information: 
+(1)Laboratory of Applied Biophysics and Biochemistry, Centre for Research and
+Innovation, Health Sciences Faculty, Universidad Peruana de Ciencias Aplicadas
+(UPC), Lima, Perú.
+(2)Research and Innovation Division, BDM, Lima, Perú.
+
+Rapid Diagnostic Tests (RDTs) for malaria are restricted to a few biomarkers and 
+antibody-mediated detection. However, the expression of commonly used biomarkers 
+varies geographically and the sensibility of immunodetection can be affected by
+batch-to-batch differences or limited thermal stability. In this study we aimed
+to overcome these limitations by identifying a potential biomarker and by
+developing molecular sensors based on aptamer technology. Using gene expression
+databases, ribosome profiling analysis, and structural modeling, we find that the
+High Mobility Group Box 1 protein (HMGB1) of Plasmodium falciparum is highly
+expressed, structurally stable, and present along all blood-stages of P.
+falciparum infection. To develop biosensors, we used in vitro evolution
+techniques to produce DNA aptamers for the recombinantly expressed HMG-box, the
+conserved domain of HMGB1. An evolutionary approach for evaluating the dynamics
+of aptamer populations suggested three predominant aptamer motifs.
+Representatives of the aptamer families were tested for binding parameters to the
+HMG-box domain using microscale thermophoresis and rapid kinetics. Dissociation
+constants of the aptamers varied over two orders of magnitude between nano- and
+micromolar ranges while the aptamer-HMG-box interaction occurred in a few
+seconds. The specificity of aptamer binding to the HMG-box of P. falciparum
+compared to its human homolog depended on pH conditions. Altogether, our study
+proposes HMGB1 as a candidate biomarker and a set of sensing aptamers that can be
+further developed into rapid diagnostic tests for P. falciparum detection.
+
+DOI: 10.1371/journal.pone.0211756 
+PMCID: PMC6456224
+PMID: 30964875  [Indexed for MEDLINE]
+
+Conflict of interest statement: BDM is a Startup of the Laboratory of Applied
+Biophysics and Biochemistry (UPC) where PM owns shares. BDM is funded by the
+Peruvian government (136-2016-Fondecyt) and is committed to develop diagnostic
+methods for neglected diseases. This does not alter our adherence to PLOS ONE
+policies on sharing data and materials.
+

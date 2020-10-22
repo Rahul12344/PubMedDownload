@@ -1,0 +1,42 @@
+
+1. J Mol Model. 2012 Jan;18(1):39-51. doi: 10.1007/s00894-011-1018-3. Epub 2011 Mar 
+29.
+
+Homology modeling, molecular dynamics, e-pharmacophore mapping and docking study 
+of Chikungunya virus nsP2 protease.
+
+Singh KhD(1), Kirubakaran P, Nagarajan S, Sakkiah S, Muthusamy K, Velmurgan D,
+Jeyakanthan J.
+
+Author information: 
+(1)Department of Bioinformatics, Alagappa University, Karaikudi, India.
+
+To date, no suitable vaccine or specific antiviral drug is available to treat
+Chikungunya viral (CHIKV) fever. Hence, it is essential to identify drug
+candidates that could potentially impede CHIKV infection. Here, we present the
+development of a homology model of nsP2 protein based on the crystal structure of
+the nsP2 protein of Venezuelan equine encephalitis virus (VEEV). The protein
+modeled was optimized using molecular dynamics simulation; the junction peptides 
+of a nonstructural protein complex were then docked in order to investigate the
+possible protein-protein interactions between nsP2 and the proteins cleaved by
+nsP2. The modeling studies conducted shed light on the binding modes, and the
+critical interactions with the peptides provide insight into the chemical
+features needed to inhibit the CHIK virus infection. Energy-optimized
+pharmacophore mapping was performed using the junction peptides. Based on the
+results, we propose the pharmacophore features that must be present in an
+inhibitor of nsP2 protease. The resulting pharmacophore model contained an
+aromatic ring, a hydrophobic and three hydrogen-bond donor sites. Using these
+pharmacophore features, we screened a large public library of compounds (Asinex, 
+Maybridge, TOSLab, Binding Database) to find a potential ligand that could
+inhibit the nsP2 protein. The compounds that yielded a fitness score of more than
+1.0 were further subjected to Glide HTVS and Glide XP. Here, we report the best
+four compounds based on their docking scores; these compounds have IDs of 27943, 
+21362, ASN 01107557 and ASN 01541696. We propose that these compounds could bind 
+to the active site of nsP2 protease and inhibit this enzyme. Furthermore, the
+backbone structural scaffolds of these four lead compounds could serve as
+building blocks when designing drug-like molecules for the treatment of
+Chikungunya viral fever.
+
+DOI: 10.1007/s00894-011-1018-3 
+PMID: 21445710  [Indexed for MEDLINE]
+

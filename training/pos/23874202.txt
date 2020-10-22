@@ -1,0 +1,38 @@
+
+1. PLoS Pathog. 2013;9(7):e1003496. doi: 10.1371/journal.ppat.1003496. Epub 2013 Jul
+18.
+
+Evolutionary toggling of Vpx/Vpr specificity results in divergent recognition of 
+the restriction factor SAMHD1.
+
+Fregoso OI(1), Ahn J, Wang C, Mehrens J, Skowronski J, Emerman M.
+
+Author information: 
+(1)Division of Human Biology, Fred Hutchinson Cancer Research Center, Seattle,
+Washington, United States of America.
+
+SAMHD1 is a host restriction factor that blocks the ability of lentiviruses such 
+as HIV-1 to undergo reverse transcription in myeloid cells and resting T-cells.
+This restriction is alleviated by expression of the lentiviral accessory proteins
+Vpx and Vpr (Vpx/Vpr), which target SAMHD1 for proteasome-mediated degradation.
+However, the precise determinants within SAMHD1 for recognition by Vpx/Vpr remain
+unclear. Here we show that evolution of Vpx/Vpr in primate lentiviruses has
+caused the interface between SAMHD1 and Vpx/Vpr to alter during primate
+lentiviral evolution. Using multiple HIV-2 and SIV Vpx proteins, we show that Vpx
+from the HIV-2 and SIVmac lineage, but not Vpx from the SIVmnd2 and SIVrcm
+lineage, require the C-terminus of SAMHD1 for interaction, ubiquitylation, and
+degradation. On the other hand, the N-terminus of SAMHD1 governs interactions
+with Vpx from SIVmnd2 and SIVrcm, but has little effect on Vpx from HIV-2 and
+SIVmac. Furthermore, we show here that this difference in SAMHD1 recognition is
+evolutionarily dynamic, with the importance of the N- and C-terminus for
+interaction of SAMHD1 with Vpx and Vpr toggling during lentiviral evolution. We
+present a model to explain how the head-to-tail conformation of SAMHD1 proteins
+favors toggling of the interaction sites by Vpx/Vpr during this virus-host arms
+race. Such drastic functional divergence within a lentiviral protein highlights a
+novel plasticity in the evolutionary dynamics of viral antagonists for
+restriction factors during lentiviral adaptation to its hosts.
+
+DOI: 10.1371/journal.ppat.1003496 
+PMCID: PMC3715410
+PMID: 23874202  [Indexed for MEDLINE]
+

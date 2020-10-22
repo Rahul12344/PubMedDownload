@@ -1,0 +1,32 @@
+
+1. Evol Bioinform Online. 2012;8:261-9. doi: 10.4137/EBO.S9738. Epub 2012 Jun 11.
+
+PhyloTempo: A Set of R Scripts for Assessing and Visualizing Temporal Clustering 
+in Genealogies Inferred from Serially Sampled Viral Sequences.
+
+Norström MM(1), Prosperi MC, Gray RR, Karlsson AC, Salemi M.
+
+Author information: 
+(1)Department of Laboratory Medicine, Division of Clinical Microbiology,
+Karolinska University Hospital, Karolinska Institutet, Stockholm, Sweden.
+
+Serially-sampled nucleotide sequences can be used to infer demographic history of
+evolving viral populations. The shape of a phylogenetic tree often reflects the
+interplay between evolutionary and ecological processes. Several approaches exist
+to analyze the topology and traits of a phylogenetic tree, by means of tree
+balance, branching patterns and comparative properties. The temporal clustering
+(TC) statistic is a new topological measure, based on ancestral character
+reconstruction, which characterizes the temporal structure of a phylogeny. Here, 
+PhyloTempo is the first implementation of the TC in the R language, integrating
+several other topological measures in a user-friendly graphical framework. The
+comparison of the TC statistic with other measures provides multifaceted insights
+on the dynamic processes shaping the evolution of pathogenic viruses. The
+features and applicability of PhyloTempo were tested on serially-sampled
+intra-host human and simian immunodeficiency virus population data sets.
+PhyloTempo is distributed under the GNU general public license at
+https://sourceforge.net/projects/phylotempo/.
+
+DOI: 10.4137/EBO.S9738 
+PMCID: PMC3382462
+PMID: 22745529 
+

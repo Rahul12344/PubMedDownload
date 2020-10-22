@@ -1,0 +1,36 @@
+
+1. Parasit Vectors. 2018 Oct 17;11(1):548. doi: 10.1186/s13071-018-3129-5.
+
+Diverse target gene modifications in Plasmodium falciparum using Bxb1 integrase
+and an intronic attB.
+
+Balabaskaran-Nina P(1)(2), Desai SA(3).
+
+Author information: 
+(1)The Laboratory of Malaria and Vector Research, National Institute of Allergy
+and Infectious Diseases, National Institutes of Health, Rockville, MD, 20852,
+USA.
+(2)Present Address: Department of Epidemiology and Public Health, Central
+University of Tamil Nadu, Thiruvarur, India.
+(3)The Laboratory of Malaria and Vector Research, National Institute of Allergy
+and Infectious Diseases, National Institutes of Health, Rockville, MD, 20852,
+USA. sdesai@niaid.nih.gov.
+
+Genetic manipulation of the human malaria parasite Plasmodium falciparum is
+needed to explore pathogen biology and evaluate antimalarial targets. It is,
+however, aggravated by a low transfection efficiency, a paucity of selectable
+markers and a biased A/T-rich genome. While various enabling technologies have
+been introduced over the past two decades, facile and broad-range modification of
+essential genes remains challenging. We recently devised a new application of the
+Bxb1 integrase strategy to meet this need through an intronic attB sequence
+within the gene of interest. Although this attB is silent and without effect on
+intron splicing or protein translation and function, it allows efficient gene
+modification with minimal risk of unwanted changes at other genomic sites. We
+describe the range of applications for this new method as well as specific cases 
+where it is preferred over CRISPR-Cas9 and other technologies. The advantages and
+limitations of various strategies for endogenous gene editing are also discussed.
+
+DOI: 10.1186/s13071-018-3129-5 
+PMCID: PMC6192176
+PMID: 30333047  [Indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+1. Sci Rep. 2017 Jul 19;7(1):5821. doi: 10.1038/s41598-017-06080-8.
+
+Detection and quantitation of copy number variation in the voltage-gated sodium
+channel gene of the mosquito Culex quinquefasciatus.
+
+Martins WFS(1)(2), Subramaniam K(1), Steen K(1), Mawejje H(3), Liloglou T(4),
+Donnelly MJ(1)(5), Wilding CS(6).
+
+Author information: 
+(1)Department of Vector Biology, Liverpool School of Tropical Medicine,
+Liverpool, UK.
+(2)Departamento de Biologia, Universidade Estadual da Paraíba, Campina Grande,
+Brazil.
+(3)Infectious Diseases Research Collaboration, Kampala, Uganda.
+(4)Department of Molecular and Clinical Cancer Medicine, Roy Castle Lung Cancer
+Research, Liverpool, UK.
+(5)Malaria Programme, Wellcome Trust Sanger Institute, Cambridge, UK.
+(6)School of Natural Sciences and Psychology, Liverpool John Moores University,
+Liverpool, UK. c.s.wilding@ljmu.ac.uk.
+
+Insecticide resistance is typically associated with alterations to the
+insecticidal target-site or with gene expression variation at loci involved in
+insecticide detoxification. In some species copy number variation (CNV) of target
+site loci (e.g. the Ace-1 target site of carbamate insecticides) or
+detoxification genes has been implicated in the resistance phenotype. We show
+that field-collected Ugandan Culex quinquefasciatus display CNV for the
+voltage-gated sodium channel gene (Vgsc), target-site of pyrethroid and
+organochlorine insecticides. In order to develop field-applicable diagnostics for
+Vgsc CN, and as a prelude to investigating the possible association of CN with
+insecticide resistance, three assays were compared for their accuracy in CN
+estimation in this species. The gold standard method is droplet digital PCR
+(ddPCR), however, the hardware is prohibitively expensive for widespread utility.
+Here, ddPCR was compared to quantitative PCR (qPCR) and pyrosequencing. Across
+all platforms, CNV was detected in ≈10% of mosquitoes, corresponding to three or 
+four copies (per diploid genome). ddPCR and qPCR-Std-curve yielded similar
+predictions for Vgsc CN, indicating that the qPCR protocol developed here can be 
+applied as a diagnostic assay, facilitating monitoring of Vgsc CN in wild
+populations and the elucidation of association between the Vgsc CN and
+insecticide resistance.
+
+DOI: 10.1038/s41598-017-06080-8 
+PMCID: PMC5517494
+PMID: 28725028  [Indexed for MEDLINE]
+

@@ -1,0 +1,54 @@
+
+1. J Transl Med. 2018 Oct 4;16(1):272. doi: 10.1186/s12967-018-1646-9.
+
+Screening and identification of potential novel biomarker for diagnosis of
+complicated Plasmodium vivax malaria.
+
+Kaur H(1), Sehgal R(2), Kumar A(3), Sehgal A(4), Bansal D(5), Sultan AA(5).
+
+Author information: 
+(1)Department of Medical Parasitology, Postgraduate Institute of Medical
+Education and Research, Chandigarh, 160012, India.
+(2)Department of Medical Parasitology, Postgraduate Institute of Medical
+Education and Research, Chandigarh, 160012, India. sehgalpgi@gmail.com.
+(3)Department of Virology, Postgraduate Institute of Medical Education and
+Research, Chandigarh, India.
+(4)Department of Obstt. & Gynae, Government Medical College and Hospital,
+Chandigarh, India.
+(5)Department of Microbiology and Immunology, Weill Cornell Medicine-Qatar,
+Cornell University, Qatar Foundation-Education City, Doha, Qatar.
+
+BACKGROUND: In the recent years Plasmodium vivax has been reported to cause
+severe infections associated with mortality. Clinical evaluation has limited
+accuracy for the early identification of the patients progressing towards the
+fatal condition. Researchers have tried to identify the serum and the
+plasma-based indicators of the severe malaria. Discovery of MicroRNA (miRNA) has 
+opened up an era of identification of early biomarkers for various infectious and
+non-infectious diseases. MicroRNAs (miRNA) are the small non-coding RNA molecules
+of length 19-24 nts and are responsible for the regulation of the majority of
+human gene expressions at post transcriptional level.
+METHODS: We identified the differentially expressed miRNAs by microarray and
+validated the selected miRNAs by qRT-PCR. We assessed the diagnostic potential of
+these up-regulated miRNAs for complicated P. vivax malaria. Futher, the
+bioinformtic analysis was performed to construct protein-protein and mRNA-miRNA
+networks to identify highly regulated miRNA.
+RESULTS: In the present study, utility of miRNA as potential biomarker of
+complicated P. vivax malaria was explored. A total of 276 miRNAs were found to be
+differentially expressed by miRNA microarray and out of which 5 miRNAs
+(hsa-miR-7977, hsa-miR-28-3p, hsa-miR-378-5p, hsa-miR-194-5p and hsa-miR-3667-5p)
+were found to be significantly up-regulated in complicated P. vivax malaria
+patients using qRT-PCR. The diagnostic potential of these 5 miRNAs were found to 
+be significant with sensitivity and specificity of 60-71% and 69-81% respectively
+and area under curve (AUC) of 0.7 (p < 0.05). Moreover, in silico analysis of the
+common targets of up-regulated miRNAs revealed UBA52 and hsa-miR-7977 as majorly 
+regulated hubs in the PPI and mRNA-miRNA networks, suggesting their putative role
+in complicated P. vivax malaria.
+CONCLUSION: miR-7977 might act as a potential biomarker for differentiating
+complicated P. vivax malaria from uncomplicated type. The elevated levels of
+miR-7977 may have a role to play in the disease pathology through UBA52 or
+TGF-beta signalling pathway.
+
+DOI: 10.1186/s12967-018-1646-9 
+PMCID: PMC6172720
+PMID: 30286756  [Indexed for MEDLINE]
+

@@ -1,0 +1,78 @@
+
+1. PLoS Genet. 2017 Feb 16;13(2):e1006508. doi: 10.1371/journal.pgen.1006508.
+eCollection 2017 Feb.
+
+Interacting networks of resistance, virulence and core machinery genes identified
+by genome-wide epistasis analysis.
+
+Skwark MJ(1), Croucher NJ(2), Puranen S(3), Chewapreecha C(4), Pesonen M(3), Xu
+YY(3), Turner P(5)(6), Harris SR(7), Beres SB(8), Musser JM(8)(9), Parkhill J(7),
+Bentley SD(7), Aurell E(10)(11)(12), Corander J(7)(13)(14)(15).
+
+Author information: 
+(1)Department of Chemistry, Vanderbilt University, Nashville, TN, United States
+of America.
+(2)Department of Infectious Disease Epidemiology, Imperial College London,
+London, United Kingdom.
+(3)Department of Computer Science, Aalto University, Espoo, Finland.
+(4)Department of Medicine, University of Cambridge, Cambridge, United Kingdom.
+(5)Shoklo Malaria Research Unit, Mahidol-Oxford Tropical Medicine Research Unit, 
+Faculty of Tropical Medicine, Mahidol University, Mae Sot, Thailand.
+(6)Centre for Tropical Medicine, Nuffield Department of Medicine, University of
+Oxford, Oxford, United Kingdom.
+(7)Pathogen Genomics, Wellcome Trust Sanger Institute, Cambridge, United Kingdom.
+(8)Center for Molecular and Translational Human Infectious Diseases Research,
+Department of Pathology and Genomic Medicine, Houston Methodist Research
+Institute, and Houston Methodist Hospital, Houston, Texas, United States of
+America.
+(9)Departments of Pathology and Laboratory Medicine and Microbiology and
+Immunology, Weill Cornell Medical College, New York, New York, United States of
+America.
+(10)Department of Computational Biology, KTH-Royal Institute of Technology,
+Stockholm, Sweden.
+(11)Departments of Applied Physics and Computer Science, Aalto University, Espoo,
+Finland.
+(12)Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing,
+China.
+(13)Department of Mathematics and Statistics, University of Helsinki, Helsinki,
+Finland.
+(14)Department of Biostatistics, University of Oslo, Oslo, Norway.
+(15)Department of Veterinary Medicine, University of Cambridge, Cambridge, United
+Kingdom.
+
+Comment in
+    PLoS Genet. 2017 Feb 16;13(2):e1006558.
+
+Recent advances in the scale and diversity of population genomic datasets for
+bacteria now provide the potential for genome-wide patterns of co-evolution to be
+studied at the resolution of individual bases. Here we describe a new statistical
+method, genomeDCA, which uses recent advances in computational structural biology
+to identify the polymorphic loci under the strongest co-evolutionary pressures.
+We apply genomeDCA to two large population data sets representing the major human
+pathogens Streptococcus pneumoniae (pneumococcus) and Streptococcus pyogenes
+(group A Streptococcus). For pneumococcus we identified 5,199 putative epistatic 
+interactions between 1,936 sites. Over three-quarters of the links were between
+sites within the pbp2x, pbp1a and pbp2b genes, the sequences of which are
+critical in determining non-susceptibility to beta-lactam antibiotics. A
+network-based analysis found these genes were also coupled to that encoding
+dihydrofolate reductase, changes to which underlie trimethoprim resistance.
+Distinct from these antibiotic resistance genes, a large network component of 384
+protein coding sequences encompassed many genes critical in basic cellular
+functions, while another distinct component included genes associated with
+virulence. The group A Streptococcus (GAS) data set population represents a
+clonal population with relatively little genetic variation and a high level of
+linkage disequilibrium across the genome. Despite this, we were able to pinpoint 
+two RNA pseudouridine synthases, which were each strongly linked to a separate
+set of loci across the chromosome, representing biologically plausible targets of
+co-selection. The population genomic analysis method applied here identifies
+statistically significantly co-evolving locus pairs, potentially arising from
+fitness selection interdependence reflecting underlying protein-protein
+interactions, or genes whose product activities contribute to the same phenotype.
+This discovery approach greatly enhances the future potential of epistasis
+analysis for systems biology, and can complement genome-wide association studies 
+as a means of formulating hypotheses for targeted experimental work.
+
+DOI: 10.1371/journal.pgen.1006508 
+PMCID: PMC5312804
+PMID: 28207813  [Indexed for MEDLINE]
+

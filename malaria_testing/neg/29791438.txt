@@ -1,0 +1,53 @@
+
+1. PLoS Genet. 2018 May 23;14(5):e1007279. doi: 10.1371/journal.pgen.1007279.
+eCollection 2018 May.
+
+Identity-by-descent analyses for measuring population dynamics and selection in
+recombining pathogens.
+
+Henden L(1)(2), Lee S(3)(4), Mueller I(1)(2), Barry A(1)(2), Bahlo M(1)(2).
+
+Author information: 
+(1)Population Health and Immunity Division, The Walter and Eliza Hall Institute
+of Medical Research, Victoria, Australia.
+(2)Department of Medical Biology, University of Melbourne, Victoria, Australia.
+(3)Department of Econometrics and Business Statistics, Monash University,
+Clayton, Australia.
+(4)Molecular Medicine Division, The Walter and Eliza Hall Institute of Medical
+Research, Victoria, Australia.
+
+Identification of genomic regions that are identical by descent (IBD) has proven 
+useful for human genetic studies where analyses have led to the discovery of
+familial relatedness and fine-mapping of disease critical regions. Unfortunately 
+however, IBD analyses have been underutilized in analysis of other organisms,
+including human pathogens. This is in part due to the lack of statistical
+methodologies for non-diploid genomes in addition to the added complexity of
+multiclonal infections. As such, we have developed an IBD methodology, called
+isoRelate, for analysis of haploid recombining microorganisms in the presence of 
+multiclonal infections. Using the inferred IBD status at genomic locations, we
+have also developed a novel statistic for identifying loci under positive
+selection and propose relatedness networks as a means of exploring shared
+haplotypes within populations. We evaluate the performance of our methodologies
+for detecting IBD and selection, including comparisons with existing tools, then 
+perform an exploratory analysis of whole genome sequencing data from a global
+Plasmodium falciparum dataset of more than 2500 genomes. This analysis identifies
+Southeast Asia as having many highly related isolates, possibly as a result of
+both reduced transmission from intensified control efforts and population
+bottlenecks following the emergence of antimalarial drug resistance. Many signals
+of selection are also identified, most of which overlap genes that are known to
+be associated with drug resistance, in addition to two novel signals observed in 
+multiple countries that have yet to be explored in detail. Additionally, we
+investigate relatedness networks over the selected loci and determine that one of
+these sweeps has spread between continents while the other has arisen
+independently in different countries. IBD analysis of microorganisms using
+isoRelate can be used for exploring population structure, positive selection and 
+haplotype distributions, and will be a valuable tool for monitoring disease
+control and elimination efforts of many diseases.
+
+DOI: 10.1371/journal.pgen.1007279 
+PMCID: PMC5988311
+PMID: 29791438  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

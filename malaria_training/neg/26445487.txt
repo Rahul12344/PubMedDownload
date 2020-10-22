@@ -1,0 +1,73 @@
+
+1. Malar J. 2015 Oct 6;14:391. doi: 10.1186/s12936-015-0924-8.
+
+The kdr-bearing haplotype and susceptibility to Plasmodium falciparum in
+Anopheles gambiae: genetic correlation and functional testing.
+
+Mitri C(1), Markianos K(2), Guelbeogo WM(3), Bischoff E(4), Gneme A(5), Eiglmeier
+K(6), Holm I(7), Sagnon N(8), Vernick KD(9)(10), Riehle MM(11).
+
+Author information: 
+(1)Unit of Insect Vector Genetics and Genomics, Department of Parasites and
+Insect Vectors, CNRS Unit of Hosts, Vectors and Pathogens (URA3012), Lab GGIV,
+Institut Pasteur, 28 rue du Dr Roux, 75015, Paris, France. cmitri@pasteur.fr.
+(2)Program in Genomics, Boston Children's Hospital, Harvard Medical School,
+Boston, MA, 02115, USA. kmarkianos@enders.tch.harvard.edu.
+(3)Centre National de Recherche et de Formation sur le Paludisme, 01 BP 2208,
+Ouagadougou, Burkina Faso. guelbeogo.cnrfp@fasonet.bf.
+(4)Unit of Insect Vector Genetics and Genomics, Department of Parasites and
+Insect Vectors, CNRS Unit of Hosts, Vectors and Pathogens (URA3012), Lab GGIV,
+Institut Pasteur, 28 rue du Dr Roux, 75015, Paris, France. bischoff@pasteur.fr.
+(5)Centre National de Recherche et de Formation sur le Paludisme, 01 BP 2208,
+Ouagadougou, Burkina Faso. gplouise@yahoo.fr.
+(6)Unit of Insect Vector Genetics and Genomics, Department of Parasites and
+Insect Vectors, CNRS Unit of Hosts, Vectors and Pathogens (URA3012), Lab GGIV,
+Institut Pasteur, 28 rue du Dr Roux, 75015, Paris, France. kei@pasteur.fr.
+(7)Unit of Insect Vector Genetics and Genomics, Department of Parasites and
+Insect Vectors, CNRS Unit of Hosts, Vectors and Pathogens (URA3012), Lab GGIV,
+Institut Pasteur, 28 rue du Dr Roux, 75015, Paris, France. holm@pasteur.fr.
+(8)Centre National de Recherche et de Formation sur le Paludisme, 01 BP 2208,
+Ouagadougou, Burkina Faso. n.fale.cnlp@fasonet.bf.
+(9)Unit of Insect Vector Genetics and Genomics, Department of Parasites and
+Insect Vectors, CNRS Unit of Hosts, Vectors and Pathogens (URA3012), Lab GGIV,
+Institut Pasteur, 28 rue du Dr Roux, 75015, Paris, France. kvernick@pasteur.fr.
+(10)Department of Microbiology, University of Minnesota, Saint Paul, MN, 55108,
+USA. kvernick@pasteur.fr.
+(11)Department of Microbiology, University of Minnesota, Saint Paul, MN, 55108,
+USA. mriehle@umn.edu.
+
+BACKGROUND: Members of the Anopheles gambiae species complex are primary vectors 
+of human malaria in Africa. It is known that a large haplotype shared between An.
+gambiae and Anopheles coluzzii by introgression carries point mutations of the
+voltage-gated sodium channel gene para, including the L1014F kdr mutation
+associated with insensitivity to pyrethroid insecticides. Carriage of L1014F kdr 
+is also correlated with higher susceptibility to infection with Plasmodium
+falciparum. However, the genetic mechanism and causative gene(s) underlying the
+parasite susceptibility phenotype are not known.
+METHODS: Mosquitoes from the wild Burkina Faso population were challenged by
+feeding on natural P. falciparum gametocytes. Oocyst infection phenotypes were
+determined and were tested for association with SNP genotypes. Candidate genes in
+the detected locus were prioritized and RNAi-mediated gene silencing was used to 
+functionally test for gene effects on P. falciparum susceptibility.
+RESULTS: A genetic locus, Pfin6, was identified that influences infection levels 
+of P. falciparum in mosquitoes. The locus segregates as a ~3 Mb haplotype
+carrying 65 predicted genes including the para gene. The haplotype carrying the
+kdr allele of para is linked to increased parasite infection prevalence, but many
+single nucleotide polymorphisms on the haplotype are also equally linked to the
+infection phenotype. Candidate genes in the haplotype were prioritized and
+functionally tested. Silencing of para did not influence P. falciparum infection,
+while silencing of a predicted immune gene, serine protease ClipC9, allowed
+development of significantly increased parasite numbers.
+CONCLUSIONS: Genetic variation influencing Plasmodium infection in wild Anopheles
+is linked to a natural ~3 megabase haplotype on chromosome 2L that carries the
+kdr allele of the para gene. Evidence suggests that para gene function does not
+directly influence parasite susceptibility, and the association of kdr with
+infection may be due to tight linkage of kdr with other gene(s) on the haplotype.
+Further work will be required to determine if ClipC9 influences the outcome of P.
+falciparum infection in nature, as well as to confirm the absence of a direct
+influence by para.
+
+DOI: 10.1186/s12936-015-0924-8 
+PMCID: PMC4596459
+PMID: 26445487  [Indexed for MEDLINE]
+

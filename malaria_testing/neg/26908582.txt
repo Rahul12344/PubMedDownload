@@ -1,0 +1,56 @@
+
+1. Mol Biol Evol. 2016 Jun;33(6):1554-70. doi: 10.1093/molbev/msw037. Epub 2016 Feb 
+22.
+
+Combinatorial Genetic Modeling of pfcrt-Mediated Drug Resistance Evolution in
+Plasmodium falciparum.
+
+Gabryszewski SJ(1), Modchang C(2), Musset L(3), Chookajorn T(4), Fidock DA(5).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Columbia University Medical Center,
+New York.
+(2)Department of Physics, Faculty of Science, Mahidol University, Bangkok,
+Thailand.
+(3)Laboratoire de Parasitologie, WHO Collaborating Center for Surveillance of
+Anti-Malarial Drug Resistance, Institut Pasteur de la Guyane, Cayenne, French
+Guiana.
+(4)Genomics and Evolutionary Medicine Unit, Center of Excellence in Malaria,
+Faculty of Tropical Medicine, Mahidol University, Bangkok, Thailand.
+(5)Department of Microbiology and Immunology, Columbia University Medical Center,
+New York Division of Infectious Diseases, Department of Medicine, Columbia
+University Medical Center, New York, NY df2260@columbia.edu.
+
+The emergence of drug resistance continuously threatens global control of
+infectious diseases, including malaria caused by the protozoan parasite
+Plasmodium falciparum A critical parasite determinant is the P. falciparum
+chloroquine resistance transporter (PfCRT), the primary mediator of chloroquine
+(CQ) resistance (CQR), and a pleiotropic modulator of susceptibility to several
+first-line artemisinin-based combination therapy partner drugs. Aside from the
+validated CQR molecular marker K76T, P. falciparum parasites have acquired at
+least three additional pfcrt mutations, whose contributions to resistance and
+fitness have been heretofore unclear. Focusing on the quadruple-mutant Ecuadorian
+PfCRT haplotype Ecu1110 (K76T/A220S/N326D/I356L), we genetically modified the
+pfcrt locus of isogenic, asexual blood stage P. falciparum parasites using
+zinc-finger nucleases, producing all possible combinations of intermediate pfcrt 
+alleles. Our analysis included the related quintuple-mutant PfCRT haplotype 7G8
+(Ecu1110 + C72S) that is widespread throughout South America and the Western
+Pacific. Drug susceptibilities and in vitro growth profiles of our combinatorial 
+pfcrt-modified parasites were used to simulate the mutational trajectories
+accessible to parasites as they evolved CQR. Our results uncover unique
+contributions to parasite drug resistance and growth for mutations beyond K76T
+and predict critical roles for the CQ metabolite monodesethyl-CQ and the related 
+quinoline-type drug amodiaquine in driving mutant pfcrt evolution. Modeling
+outputs further highlight the influence of parasite proliferation rates alongside
+gains in drug resistance in dictating successful trajectories. Our findings
+suggest that P. falciparum parasites have navigated constrained pfcrt adaptive
+landscapes by means of probabilistically rare mutational bursts that led to the
+infrequent emergence of pfcrt alleles in the field.
+
+© The Author 2016. Published by Oxford University Press on behalf of the Society 
+for Molecular Biology and Evolution.
+
+DOI: 10.1093/molbev/msw037 
+PMCID: PMC4868112
+PMID: 26908582  [Indexed for MEDLINE]
+

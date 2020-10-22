@@ -1,0 +1,44 @@
+
+1. PLoS One. 2011;6(8):e23204. doi: 10.1371/journal.pone.0023204. Epub 2011 Aug 11.
+
+Drug-resistant genotypes and multi-clonality in Plasmodium falciparum analysed by
+direct genome sequencing from peripheral blood of malaria patients.
+
+Robinson T(1), Campino SG, Auburn S, Assefa SA, Polley SD, Manske M, MacInnis B, 
+Rockett KA, Maslen GL, Sanders M, Quail MA, Chiodini PL, Kwiatkowski DP, Clark
+TG, Sutherland CJ.
+
+Author information: 
+(1)Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United
+Kingdom.
+
+Naturally acquired blood-stage infections of the malaria parasite Plasmodium
+falciparum typically harbour multiple haploid clones. The apparent number of
+clones observed in any single infection depends on the diversity of the
+polymorphic markers used for the analysis, and the relative abundance of rare
+clones, which frequently fail to be detected among PCR products derived from
+numerically dominant clones. However, minority clones are of clinical interest as
+they may harbour genes conferring drug resistance, leading to enhanced survival
+after treatment and the possibility of subsequent therapeutic failure. We
+deployed new generation sequencing to derive genome data for five non-propagated 
+parasite isolates taken directly from 4 different patients treated for clinical
+malaria in a UK hospital. Analysis of depth of coverage and length of sequence
+intervals between paired reads identified both previously described and novel
+gene deletions and amplifications. Full-length sequence data was extracted for 6 
+loci considered to be under selection by antimalarial drugs, and both known and
+previously unknown amino acid substitutions were identified. Full mitochondrial
+genomes were extracted from the sequencing data for each isolate, and these are
+compared against a panel of polymorphic sites derived from published or
+unpublished but publicly available data. Finally, genome-wide analysis of clone
+multiplicity was performed, and the number of infecting parasite clones estimated
+for each isolate. Each patient harboured at least 3 clones of P. falciparum by
+this analysis, consistent with results obtained with conventional PCR analysis of
+polymorphic merozoite antigen loci. We conclude that genome sequencing of
+peripheral blood P. falciparum taken directly from malaria patients provides high
+quality data useful for drug resistance studies, genomic structural analyses and 
+population genetics, and also robustly represents clonal multiplicity.
+
+DOI: 10.1371/journal.pone.0023204 
+PMCID: PMC3154926
+PMID: 21853089  [Indexed for MEDLINE]
+

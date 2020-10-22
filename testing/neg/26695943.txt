@@ -1,0 +1,68 @@
+
+1. Virol J. 2015 Dec 23;12:224. doi: 10.1186/s12985-015-0452-8.
+
+Analysis of the interaction between host factor Sam68 and viral elements during
+foot-and-mouth disease virus infections.
+
+Rai DK(1), Lawrence P(2), Kloc A(3), Schafer E(4), Rieder E(5).
+
+Author information: 
+(1)Foreign Animal Disease Research Unit, United States Department of Agriculture,
+Agricultural Research Service, Plum Island Animal Disease Center, USDA/ARS/NAA,
+P.O. Box 848, Greenport, NY, 11944, USA. devendra.rai@ars.usda.gov.
+(2)Foreign Animal Disease Research Unit, United States Department of Agriculture,
+Agricultural Research Service, Plum Island Animal Disease Center, USDA/ARS/NAA,
+P.O. Box 848, Greenport, NY, 11944, USA. paul.lawrence@ars.usda.gov.
+(3)Foreign Animal Disease Research Unit, United States Department of Agriculture,
+Agricultural Research Service, Plum Island Animal Disease Center, USDA/ARS/NAA,
+P.O. Box 848, Greenport, NY, 11944, USA. anna.kloc@ars.usda.gov.
+(4)Foreign Animal Disease Research Unit, United States Department of Agriculture,
+Agricultural Research Service, Plum Island Animal Disease Center, USDA/ARS/NAA,
+P.O. Box 848, Greenport, NY, 11944, USA. elizabeth.schafer@ars.usda.gov.
+(5)Foreign Animal Disease Research Unit, United States Department of Agriculture,
+Agricultural Research Service, Plum Island Animal Disease Center, USDA/ARS/NAA,
+P.O. Box 848, Greenport, NY, 11944, USA. Elizabeth.Rieder@ars.usda.gov.
+
+BACKGROUND: The nuclear protein Src-associated protein of 68 kDa in mitosis
+(Sam68) is known to bind RNA and be involved in cellular processes triggered in
+response to environmental stresses, including virus infection. Interestingly,
+Sam68 is a multi-functional protein implicated in the life cycle of retroviruses 
+and picornaviruses and is also considered a marker of virus-induced stress
+granules (SGs). Recently, we demonstrated the partial redistribution of Sam68 to 
+the cytoplasm in FMDV infected cells, its interaction with viral protease
+3C(pro), and found a significant reduction in viral titers as consequence of
+Sam68-specific siRNA knockdowns. Despite of that, details of how it benefits FMDV
+remains to be elucidated.
+METHODS: Sam68 cytoplasmic localization was examined by immunofluorescent
+microscopy, counterstaining with antibodies against Sam68, a viral capsid protein
+and markers of SGs. The relevance of RAAA motifs in the IRES was investigated
+using electromobility shift assays with Sam68 protein and parental and mutant
+FMDV RNAs. In addition, full genome WT and mutant or G-luc replicon RNAs were
+tested following transfection in mammalian cells. The impact of Sam68 depletion
+to virus protein and RNA synthesis was investigated in a cell-free system.
+Lastly, through co-immunoprecipitation, structural modeling, and subcellular
+fractionation, viral protein interactions with Sam68 were explored.
+RESULTS: FMDV-induced cytoplasmic redistribution of Sam68 resulted in it
+temporarily co-localizing with SG marker: TIA-1. Mutations that disrupted FMDV
+IRES RAAA motifs, with putative affinity to Sam68 in domain 3 and 4 cause a
+reduction on the formation of ribonucleoprotein complexes with this protein and
+resulted in non-viable progeny viruses and replication-impaired replicons.
+Furthermore, depletion of Sam68 in cell-free extracts greatly diminished FMDV RNA
+replication, which was restored by addition of recombinant Sam68. The results
+here demonstrated that Sam68 specifically co-precipitates with both FMDV 3D(pol) 
+and 3C(pro) consistent with early observations of FMDV 3C(pro)-induced cleavage
+of Sam68.
+CONCLUSION: We have found that Sam68 is a specific binding partner for FMDV
+non-structural proteins 3C(pro) and 3D(pol) and showed that mutations at RAAA
+motifs in IRES domains 3 and 4 cause a decrease in Sam68 affinity to these RNA
+elements and rendered the mutant RNA non-viable. Interestingly, in FMDV infected 
+cells re-localized Sam68 was transiently detected along with SG markers in the
+cytoplasm. These results support the importance of Sam68 as a host factor
+co-opted by FMDV during infection and demonstrate that Sam68 interact with both, 
+FMDV RNA motifs in the IRES and viral non-structural proteins 3C(pro) and
+3D(pol).
+
+DOI: 10.1186/s12985-015-0452-8 
+PMCID: PMC4689063
+PMID: 26695943  [Indexed for MEDLINE]
+

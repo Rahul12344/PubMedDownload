@@ -1,0 +1,38 @@
+
+1. PLoS One. 2014 May 20;9(5):e97557. doi: 10.1371/journal.pone.0097557. eCollection
+2014.
+
+First steps towards underdominant genetic transformation of insect populations.
+
+Reeves RG(1), Bryk J(1), Altrock PM(2), Denton JA(1), Reed FA(1).
+
+Author information: 
+(1)Department of Evolutionary Genetics, Max Planck Institute for Evolutionary
+Biology, Plön, Germany.
+(2)Department of Evolutionary Theory, Max Planck Institute for Evolutionary
+Biology, Plön, Germany.
+
+The idea of introducing genetic modifications into wild populations of insects to
+stop them from spreading diseases is more than 40 years old. Synthetic disease
+refractory genes have been successfully generated for mosquito vectors of dengue 
+fever and human malaria. Equally important is the development of population
+transformation systems to drive and maintain disease refractory genes at high
+frequency in populations. We demonstrate an underdominant population
+transformation system in Drosophila melanogaster that has the property of being
+both spatially self-limiting and reversible to the original genetic state. Both
+population transformation and its reversal can be largely achieved within as few 
+as 5 generations. The described genetic construct {Ud} is composed of two genes; 
+(1) a UAS-RpL14.dsRNA targeting RNAi to a haploinsufficient gene RpL14 and (2) an
+RNAi insensitive RpL14 rescue. In this proof-of-principle system the
+UAS-RpL14.dsRNA knock-down gene is placed under the control of an Actin5c-GAL4
+driver located on a different chromosome to the {Ud} insert. This configuration
+would not be effective in wild populations without incorporating the Actin5c-GAL4
+driver as part of the {Ud} construct (or replacing the UAS promoter with an
+appropriate direct promoter). It is however anticipated that the approach that
+underlies this underdominant system could potentially be applied to a number of
+species.
+
+DOI: 10.1371/journal.pone.0097557 
+PMCID: PMC4028297
+PMID: 24844466  [Indexed for MEDLINE]
+

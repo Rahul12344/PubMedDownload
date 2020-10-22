@@ -1,0 +1,35 @@
+
+1. Sci Rep. 2018 Feb 19;8(1):3219. doi: 10.1038/s41598-018-21528-1.
+
+Imaging of electrical activity in small diameter fibers of the murine peripheral 
+nerve with virally-delivered GCaMP6f.
+
+Anderson HE(1), Fontaine AK(2), Caldwell JH(3), Weir RF(2).
+
+Author information: 
+(1)Department of Bioengineering, University of Colorado - Anschutz Medical
+Campus, Colorado, USA. hans.anderson@ucdenver.edu.
+(2)Department of Bioengineering, University of Colorado - Anschutz Medical
+Campus, Colorado, USA.
+(3)Department of Cell and Developmental Biology, University of Colorado -
+Anschutz Medical Campus, Colorado, USA.
+
+Current neural interfaces are hampered by lack of specificity and selectivity for
+neural interrogation. A method that might improve these interfaces is an optical 
+peripheral nerve interface which communicates with individual axons via
+optogenetic reporters. To determine the feasibility of such an interface, we
+delivered the genetically encoded calcium indicator GCaMP6f to the mouse
+peripheral nerve by intramuscular injection of adenoassociated viral vector
+(AAV1) under the control of the CAG (chicken beta actin- cytomegalovirus hybrid
+promoter). Small diameter axons in the common peroneal nerve were transduced and 
+demonstrated electrically inducible calcium transients ex vivo. Responses to
+single electrical stimuli were resolvable, and increasing the number of stimuli
+resulted in a monotonic increase in maximum fluorescence and a prolongation of
+calcium transient kinetics. This work demonstrates the viability of using a
+virally-delivered, genetically-encoded calcium indicator to read-out from
+peripheral nerve axons.
+
+DOI: 10.1038/s41598-018-21528-1 
+PMCID: PMC5818512
+PMID: 29459701  [Indexed for MEDLINE]
+

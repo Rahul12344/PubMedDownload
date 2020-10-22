@@ -1,0 +1,33 @@
+
+1. J Biomol Screen. 2006 Oct;11(7):807-15. Epub 2006 Jul 10.
+
+A high-throughput drug screening system for HIV-1 transcription inhibitors.
+
+Kempf MC(1), Jones J, Heil ML, Kutsch O.
+
+Author information: 
+(1)Department of Epidemiology, The University of Alabama at Birmingham, 35294,
+USA.
+
+Identification of HIV-1 transcription inhibitors was previously performed using
+infectivity assays. As de novo HIV-1 infection is highly sensitive to even minor 
+compound toxicities, these assays are plagued by extremely high levels of
+false-positive hits. Hit identification is further complicated because
+infectivity assays lack target specificity. The authors demonstrate that it is
+possible to overcome these limitations by establishing a stable, chronically
+actively HIV-1-infected reporter cell line that exclusively identifies HIV-1
+transcription inhibitors. In the reporter cell line, 2 spectrally separated
+fluorescence proteins serve as simultaneously accessible quantitative markers of 
+HIV-1 expression and drug toxicity. The combined analysis of these markers
+drastically reduces the level of false-positive hits. As determination of
+fluorescence intensity in a plate-based format can be performed in a noninvasive 
+manner, repeated measurements of fluorescence levels over several days after
+compound addition can be used to define the kinetic and dynamic characteristics
+of inhibitory drug effects. In addition, because of the stable nature of the
+reporter cell line, the assay requires no cell manipulation during assay
+preparation or assay analysis, rendering the system extremely cost-effective and 
+reliable.
+
+DOI: 10.1177/1087057106290292 
+PMID: 16831859  [Indexed for MEDLINE]
+

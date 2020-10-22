@@ -1,0 +1,40 @@
+
+1. J Virol. 1999 Jul;73(7):5777-86.
+
+Analysis of the effect of natural sequence variation in Tat and in cyclin T on
+the formation and RNA binding properties of Tat-cyclin T complexes.
+
+Bieniasz PD(1), Grdina TA, Bogerd HP, Cullen BR.
+
+Author information: 
+(1)Howard Hughes Medical Institute and Department of Genetics, Duke University
+Medical Center, Durham, North Carolina 27710, USA.
+
+The biological activity of the human immunodeficiency virus type 1 (HIV-1) Tat
+(Tat1) transcriptional activator requires the recruitment of a Tat1-CyclinT1
+(CycT1) complex to the TAR RNA target encoded within the viral long terminal
+repeat (LTR). While other primate immunodeficiency viruses, such as HIV-2 and
+mandrill simian immunodeficiency virus (SIVmnd), also encode Tat proteins that
+activate transcription via RNA targets, these proteins differ significantly, both
+from each other and from Tat1, in terms of their ability to activate
+transcription directed by LTR promoter elements found in different HIV and SIV
+isolates. Here, we show that CycT1 also serves as an essential cofactor for HIV-2
+Tat (Tat2) and SIVmnd Tat (Tat-M) function. Moreover, the CycT1 complex formed by
+each Tat protein displays a distinct RNA target specificity that accurately
+predicts the level of activation observed with a particular LTR. While Tat2 and
+Tat-M share the ability of Tat1 to bind to CycT1, they differ from Tat1 in that
+they are also able to bind to the related but distinct CycT2. However, the
+resultant Tat-CycT2 complexes fail to bind TAR and are therefore abortive.
+Surprisingly, mutation of a single residue in CycT2 (asparagine 260 to cysteine) 
+rescues the ability of CycT2 to bind Tat1 and also activates not only TAR binding
+by all three Tat-CycT2 complexes but also Tat function. Therefore, the RNA target
+specificity of different Tat-CycT1 complexes is modulated by natural sequence
+variation in both the viral Tat transcriptional activator and in the host cell
+CycT molecule recruited by Tat. Further, the RNA target specificity of the
+resultant Tat-CycT1 complex accurately predicts the ability of that complex to
+activate transcription from a given LTR promoter element.
+
+DOI: 10.1128/JVI.73.7.5777-5786.1999 
+PMCID: PMC112638
+PMID: 10364329  [Indexed for MEDLINE]
+

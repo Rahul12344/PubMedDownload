@@ -1,0 +1,63 @@
+
+1. Parasit Vectors. 2019 Apr 15;12(1):170. doi: 10.1186/s13071-019-3437-4.
+
+Downregulation of female doublesex expression by oral-mediated RNA interference
+reduces number and fitness of Anopheles gambiae adult females.
+
+Taracena ML(1), Hunt CM(2), Benedict MQ(2), Pennington PM(3), Dotson EM(2).
+
+Author information: 
+(1)Centers for Disease Control and Prevention (CDC), 1600 Clifton Road, NE,
+Atlanta, GA, 30329-4027, MS G49, USA. vpi7@cdc.gov.
+(2)Centers for Disease Control and Prevention (CDC), 1600 Clifton Road, NE,
+Atlanta, GA, 30329-4027, MS G49, USA.
+(3)Centro de Estudios en Biotecnologia, Universidad del Valle de Guatemala, 18
+Avenida 11-95, 01015, Guatemala City, Guatemala.
+
+BACKGROUND: Mosquito-borne diseases affect millions worldwide, with malaria alone
+killing over 400 thousand people per year and affecting hundreds of millions. To 
+date, the best strategy to prevent the disease remains insecticide-based mosquito
+control. However, insecticide resistance as well as economic and social factors
+reduce the effectiveness of the current methodologies. Alternative control
+technologies are in development, including genetic control such as the sterile
+insect technique (SIT). The SIT is a pivotal tool in integrated agricultural pest
+management and could be used to improve malaria vector control. To apply the SIT 
+and most other newer technologies against disease transmitting mosquitoes, it is 
+essential that releases are composed of males with minimal female contamination. 
+The removal of females is an essential requirement because released females can
+themselves contribute towards nuisance biting and disease transmission. Thus,
+females need to be eliminated from the cohorts prior to release. Manual
+separation of Anopheles gambiae pupae or adult mosquitoes based on morphology is 
+time consuming, is not feasible on a large scale and has limited the
+implementation of the SIT technique. The doublesex (dsx) gene is one of the
+effector switches of sex determination in the process of sex differentiation in
+insects. Both males and females have specific splicing variants that are
+expressed across the different life stages. Using RNA interference (RNAi) to
+reduce expression of the female specific (dsxF) variant of this gene has proven
+to have detrimental effects to the females in other mosquito species, such as
+Aedes aegypti. We tested oral RNAi on dsx (AgdsxF) in An. gambiae.
+METHODS: We studied the expression pattern of the dsx gene in the An. gambiae G3 
+strain. We knocked down AgdsxF expression in larvae through oral delivery of
+double stranded RNA (dsRNA) produced by bacteria and observed its effects in
+adults.
+RESULTS: Our results show that feeding of AgdsxF dsRNA can effectively reduce
+(> 66%) the mRNA of female dsx transcript and that there is a concomitant
+reduction in the number of female larvae that achieve adulthood. Control groups
+produced 52% (± 3.9% SE) of adult males and 48% (± 4.0% SE) females, while AgdsxF
+dsRNA treated groups had 72.1% (± 4.0% SE) males vs 27.8% females (± 3.3% SE). In
+addition, the female adults produce fewer progeny, 37.1% (± 8.2% SE) less than
+the controls. The knockdown was sex-specific and had no impact on total numbers
+of viable male adults, in the male dsx transcripts or male fitness parameters
+such as longevity or body size.
+CONCLUSIONS: These findings indicate that RNAi could be used to improve novel
+mosquito control strategies that require efficient sex separation and male-only
+release of An. gambiae by targeting sex determination genes such as AgdsxF. The
+advantages of using RNAi in a controlled setting for mosquito rearing are
+numerous, as the dose and time of exposure are controlled, and the possibility of
+off-target effects and the waste of female production would be significantly
+reduced.
+
+DOI: 10.1186/s13071-019-3437-4 
+PMCID: PMC6466716
+PMID: 30992032  [Indexed for MEDLINE]
+

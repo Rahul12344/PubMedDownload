@@ -1,0 +1,71 @@
+
+1. BMC Genomics. 2015 Jun 13;16:454. doi: 10.1186/s12864-015-1603-4.
+
+Strand-specific RNA sequencing in Plasmodium falciparum malaria identifies
+developmentally regulated long non-coding RNA and circular RNA.
+
+Broadbent KM(1)(2), Broadbent JC(3)(4), Ribacke U(5)(6), Wirth D(7)(8), Rinn
+JL(9)(10)(11), Sabeti PC(12)(13)(14)(15).
+
+Author information: 
+(1)Department of Systems Biology, Harvard Medical School, Boston, Massachusetts, 
+USA. k8broadbent@post.harvard.edu.
+(2)Broad Institute, Cambridge, Massachusetts, USA. k8broadbent@post.harvard.edu.
+(3)FAS Center for Systems Biology, Harvard University, Cambridge, Massachusetts, 
+USA. jbroadbent@vetmed.wsu.edu.
+(4)Department of Organismic and Evolutionary Biology, Harvard University,
+Cambridge, Massachusetts, USA. jbroadbent@vetmed.wsu.edu.
+(5)Department of Immunology and Infectious Diseases, Harvard School of Public
+Health, Boston, Massachusetts, USA. uribacke@hsph.harvard.edu.
+(6)Department of Cell and Molecular Biology, BMC, Uppsala University, Uppsala,
+Sweden. uribacke@hsph.harvard.edu.
+(7)Broad Institute, Cambridge, Massachusetts, USA. dfwirth@hsph.harvard.edu.
+(8)Department of Immunology and Infectious Diseases, Harvard School of Public
+Health, Boston, Massachusetts, USA. dfwirth@hsph.harvard.edu.
+(9)Department of Systems Biology, Harvard Medical School, Boston, Massachusetts, 
+USA. john_rinn@harvard.edu.
+(10)Broad Institute, Cambridge, Massachusetts, USA. john_rinn@harvard.edu.
+(11)Department of Stem Cell and Regenerative Biology, Harvard University,
+Cambridge, Massachusetts, USA. john_rinn@harvard.edu.
+(12)Department of Systems Biology, Harvard Medical School, Boston, Massachusetts,
+USA. psabeti@oeb.harvard.edu.
+(13)Broad Institute, Cambridge, Massachusetts, USA. psabeti@oeb.harvard.edu.
+(14)FAS Center for Systems Biology, Harvard University, Cambridge, Massachusetts,
+USA. psabeti@oeb.harvard.edu.
+(15)Department of Organismic and Evolutionary Biology, Harvard University,
+Cambridge, Massachusetts, USA. psabeti@oeb.harvard.edu.
+
+BACKGROUND: The human malaria parasite Plasmodium falciparum has a complex and
+multi-stage life cycle that requires extensive and precise gene regulation to
+allow invasion and hijacking of host cells, transmission, and immune escape. To
+date, the regulatory elements orchestrating these critical parasite processes
+remain largely unknown. Yet it is becoming increasingly clear that long
+non-coding RNAs (lncRNAs) could represent a missing regulatory layer across a
+broad range of organisms.
+RESULTS: To investigate the regulatory capacity of lncRNA in P. falciparum, we
+harvested fifteen samples from two time-courses. Our sample set profiled 56 h of 
+P. falciparum blood stage development. We then developed and validated
+strand-specific, non-polyA-selected RNA sequencing methods, and pursued the first
+assembly of P. falciparum strand-specific transcript structures from RNA
+sequencing data. This approach enabled the annotation of over one thousand lncRNA
+transcript models and their comprehensive global analysis: coding prediction,
+periodicity, stage-specificity, correlation, GC content, length, location
+relative to annotated transcripts, and splicing. We validated the complete
+splicing structure of three lncRNAs with compelling properties.
+Non-polyA-selected deep sequencing also enabled the prediction of hundreds of
+intriguing P. falciparum circular RNAs, six of which we validated experimentally.
+CONCLUSIONS: We found that a subset of lncRNAs, including all subtelomeric
+lncRNAs, strongly peaked in expression during invasion. By contrast, antisense
+transcript levels significantly dropped during invasion. As compared to
+neighboring mRNAs, the expression of antisense-sense pairs was significantly
+anti-correlated during blood stage development, indicating transcriptional
+interference. We also validated that P. falciparum produces circRNAs, which is
+notable given the lack of RNA interference in the organism, and discovered that a
+highly expressed, five-exon antisense RNA is poised to regulate P. falciparum
+gametocyte development 1 (PfGDV1), a gene required for early sexual commitment
+events.
+
+DOI: 10.1186/s12864-015-1603-4 
+PMCID: PMC4465157
+PMID: 26070627  [Indexed for MEDLINE]
+

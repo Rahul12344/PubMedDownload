@@ -1,0 +1,40 @@
+
+1. Malar J. 2012 Jun 8;11:187. doi: 10.1186/1475-2875-11-187.
+
+New Agilent platform DNA microarrays for transcriptome analysis of Plasmodium
+falciparum and Plasmodium berghei for the malaria research community.
+
+Kafsack BF(1), Painter HJ, Llinás M.
+
+Author information: 
+(1)Lewis-Sigler Institute for Integrative Genomics, Princeton University,
+Princeton, NJ 08544, USA.
+
+BACKGROUND: DNA microarrays have been a valuable tool in malaria research for
+over a decade but remain in limited use in part due their relatively high cost,
+poor availability, and technical difficulty. With the aim of alleviating some of 
+these factors next-generation DNA microarrays for genome-wide transcriptome
+analysis for both Plasmodium falciparum and Plasmodium berghei using the Agilent 
+8 x 15 K platform were designed.
+METHODS: Probe design was adapted from previously published methods and based on 
+the most current transcript predictions available at the time for P. falciparum
+or P. berghei. Array performance and transcriptome analysis was determined using 
+dye-coupled, aminoallyl-labelled cDNA and streamlined methods for hybridization, 
+washing, and array analysis were developed.
+RESULTS: The new array design marks a notable improvement in the number of
+transcripts covered and average number of probes per transcript. Array
+performance was excellent across a wide range of transcript abundance, with low
+inter-array and inter-probe variability for relative abundance measurements and
+it recapitulated previously observed transcriptional patterns. Additionally,
+improvements in sensitivity permitted a 20-fold reduction in necessary starting
+RNA amounts, further reducing experimental costs and widening the range of
+application.
+CONCLUSIONS: DNA microarrays utilizing the Agilent 8 x 15 K platform for
+genome-wide transcript analysis in P. falciparum and P. berghei mark an
+improvement in coverage and sensitivity, increased availability to the research
+community, and simplification of the experimental methods.
+
+DOI: 10.1186/1475-2875-11-187 
+PMCID: PMC3411454
+PMID: 22681930  [Indexed for MEDLINE]
+

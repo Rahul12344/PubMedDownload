@@ -1,0 +1,205 @@
+
+1. Proc Natl Acad Sci U S A. 2015 Dec 1;112(48):14936-41. doi:
+10.1073/pnas.1506226112. Epub 2015 Nov 16.
+
+Genome of Rhodnius prolixus, an insect vector of Chagas disease, reveals unique
+adaptations to hematophagy and parasite infection.
+
+Mesquita RD(1), Vionette-Amaral RJ(2), Lowenberger C(3), Rivera-Pomar R(4),
+Monteiro FA(5), Minx P(6), Spieth J(6), Carvalho AB(7), Panzera F(8), Lawson
+D(9), Torres AQ(10), Ribeiro JM(11), Sorgine MH(12), Waterhouse RM(13), Montague 
+MJ(6), Abad-Franch F(14), Alves-Bezerra M(2), Amaral LR(15), Araujo HM(16),
+Araujo RN(17), Aravind L(18), Atella GC(12), Azambuja P(5), Berni M(19),
+Bittencourt-Cunha PR(2), Braz GR(20), Calderón-Fernández G(21), Carareto CM(22), 
+Christensen MB(9), Costa IR(2), Costa SG(23), Dansa M(24), Daumas-Filho CR(2),
+De-Paula IF(2), Dias FA(12), Dimopoulos G(25), Emrich SJ(26), Esponda-Behrens
+N(27), Fampa P(28), Fernandez-Medina RD(29), da Fonseca RN(30), Fontenele M(16), 
+Fronick C(6), Fulton LA(6), Gandara AC(12), Garcia ES(5), Genta FA(5),
+Giraldo-Calderón GI(31), Gomes B(5), Gondim KC(12), Granzotto A(22), Guarneri
+AA(32), Guigó R(33), Harry M(34), Hughes DS(9), Jablonka W(2), Jacquin-Joly
+E(35), Juárez MP(21), Koerich LB(7), Lange AB(36), Latorre-Estivalis JM(32),
+Lavore A(27), Lawrence GG(37), Lazoski C(7), Lazzari CR(38), Lopes RR(2), Lorenzo
+MG(32), Lugon MD(24), Majerowicz D(39), Marcet PL(37), Mariotti M(33), Masuda
+H(12), Megy K(9), Melo AC(20), Missirlis F(40), Mota T(41), Noriega FG(42),
+Nouzova M(42), Nunes RD(12), Oliveira RL(43), Oliveira-Silveira G(2), Ons S(27), 
+Orchard I(36), Pagola L(27), Paiva-Silva GO(12), Pascual A(27), Pavan MG(23),
+Pedrini N(21), Peixoto AA(5), Pereira MH(17), Pike A(25), Polycarpo C(12),
+Prosdocimi F(2), Ribeiro-Rodrigues R(44), Robertson HM(45), Salerno AP(46),
+Salmon D(2), Santesmasses D(33), Schama R(5), Seabra-Junior ES(46), Silva-Cardoso
+L(2), Silva-Neto MA(12), Souza-Gomes M(15), Sterkel M(2), Taracena ML(2), Tojo
+M(47), Tu ZJ(48), Tubio JM(49), Ursic-Bedoya R(3), Venancio TM(50), Walter-Nuno
+AB(2), Wilson D(9), Warren WC(6), Wilson RK(6), Huebner E(51), Dotson EM(52),
+Oliveira PL(53).
+
+Author information: 
+(1)Departamento de Bioquímica, Instituto de Química, Universidade Federal do Rio 
+de Janeiro, Rio de Janeiro 21941-909, Brazil; Instituto Nacional de Ciência e
+Tecnologia em Entomologia Molecular, Rio de Janeiro 21941-591, Brazil;
+rdmesquita@iq.ufrj.br edotson@cdc.gov pedro@bioqmed.ufrj.br.
+(2)Programa de Biologia Molecular e Biotecnologia, Instituto de Bioquímica Médica
+Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro
+21941-591, Brazil;
+(3)Biological Sciences, Simon Fraser University, Burnaby, BC, Canada V5A 1S6;
+(4)Centro Regional de Estudios Genomicos, Universidad Nacional de La Plata, La
+Plata 1900, Argentina; Centro de Bioinvestigaciones, Universidad Nacional del
+Noroeste de Buenos Aires, 2700 Pergamino, Argentina;
+(5)Instituto Nacional de Ciência e Tecnologia em Entomologia Molecular, Rio de
+Janeiro 21941-591, Brazil; Instituto Oswaldo Cruz, Fundação Oswaldo Cruz, Rio de 
+Janeiro 21040-900, Brazil;
+(6)McDonnell Genome Institute, Washington University School of Medicine, St.
+Louis, MO 63108;
+(7)Instituto Nacional de Ciência e Tecnologia em Entomologia Molecular, Rio de
+Janeiro 21941-591, Brazil; Departamento de Genética, Instituto de Biologia,
+Universidade Federal do Rio de Janeiro, Rio de Janeiro 21941-590, Brazil;
+(8)Sección Genética Evolutiva, Facultad de Ciencias, Universidad de la República,
+Montevideo 11400, Uruguay;
+(9)European Molecular Biology Laboratory, European Bioinformatics Institute,
+Welcome Trust Genome Campus, Hinxton, Cambridge CB10 1SD, United Kingdom;
+(10)Departamento de Bioquímica, Instituto de Química, Universidade Federal do Rio
+de Janeiro, Rio de Janeiro 21941-909, Brazil; Instituto Oswaldo Cruz, Fundação
+Oswaldo Cruz, Rio de Janeiro 21040-900, Brazil;
+(11)Section of Vector Biology, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, Rockville, MD 20852;
+(12)Instituto Nacional de Ciência e Tecnologia em Entomologia Molecular, Rio de
+Janeiro 21941-591, Brazil; Programa de Biologia Molecular e Biotecnologia,
+Instituto de Bioquímica Médica Leopoldo de Meis, Universidade Federal do Rio de
+Janeiro, Rio de Janeiro 21941-591, Brazil;
+(13)Department of Genetic Medicine and Development, University of Geneva Medical 
+School, Geneva 1211, Switzerland; Swiss Institute of Bioinformatics, Geneva 1211,
+Switzerland; Computer Science and Artificial Intelligence Laboratory,
+Massachusetts Institute of Technology, Cambridge, MA 02139; The Broad Institute
+of MIT and Harvard, Cambridge, MA 02142;
+(14)Grupo de Pesquisa em Ecologia de Doenças Transmissíveis na Amazônia,
+Instituto Leônidas e Maria Deane, Fundação Oswaldo Cruz, Amazonas 69057-070,
+Brazil;
+(15)Laboratório de Bioinformática e Análises Moleculares, Instituto de Genética e
+Bioquímica, Faculdade de Computação, Universidade Federal de Uberlândia, Minas
+Gerais 38700-002, Brazil;
+(16)Instituto Nacional de Ciência e Tecnologia em Entomologia Molecular, Rio de
+Janeiro 21941-591, Brazil; Instituto de Ciências Biomédicas, Universidade Federal
+do Rio de Janeiro, Rio de Janeiro 21941-591, Brazil;
+(17)Instituto Nacional de Ciência e Tecnologia em Entomologia Molecular, Rio de
+Janeiro 21941-591, Brazil; Departamento de Parasitologia, Instituto de Ciências
+Biológicas, Universidade Federal de Minas Gerais, Minas Gerais 31270-901, Brazil;
+(18)National Library of Medicine, National Center for Biotechnology Information, 
+National Institutes of Health, Rockville, MD 20894;
+(19)Instituto de Ciências Biomédicas, Universidade Federal do Rio de Janeiro, Rio
+de Janeiro 21941-591, Brazil;
+(20)Departamento de Bioquímica, Instituto de Química, Universidade Federal do Rio
+de Janeiro, Rio de Janeiro 21941-909, Brazil; Instituto Nacional de Ciência e
+Tecnologia em Entomologia Molecular, Rio de Janeiro 21941-591, Brazil;
+(21)Instituto de Investigaciones Bioquímicas de La Plata, Facultad de Ciencias
+Médicas, Universidad Nacional de La Plata-CONICET, La Plata 1900, Argentina;
+(22)Departamento de Biologia, Universidade Estadual Paulista, São José do Rio
+Preto, São Paulo 15054-000, Brazil;
+(23)Instituto Oswaldo Cruz, Fundação Oswaldo Cruz, Rio de Janeiro 21040-900,
+Brazil;
+(24)Laboratório de Química e Função de Proteínas e Peptídeos, Centro de
+Biociências e Biotecnologia, Universidade Estadual do Norte Fluminense Darcy
+Ribeiro, Rio de Janeiro 28013-602, Brazil;
+(25)Department of Molecular Microbiology and Immunology, Bloomberg School of
+Public Health, The Johns Hopkins University, Baltimore, MD 21205-2179;
+(26)Department of Computer Science and Engineering, University of Notre Dame,
+Notre Dame, IN 46556;
+(27)Centro Regional de Estudios Genomicos, Universidad Nacional de La Plata, La
+Plata 1900, Argentina;
+(28)Departamento de Biologia Animal, Instituto de Ciências Biológicas e da Saúde,
+Universidade Federal Rural do Rio de Janeiro, Rio de Janeiro 23897-000, Brazil;
+(29)Escola Nacional de Saúde Pública, Fundação Oswaldo Cruz, Rio de Janeiro
+21040-360, Brazil;
+(30)Instituto Nacional de Ciência e Tecnologia em Entomologia Molecular, Rio de
+Janeiro 21941-591, Brazil; Núcleo de Pesquisas Ecológicas de Macaé, Universidade 
+Federal do Rio de Janeiro, Rio de Janeiro 27910-970, Brazil;
+(31)Department of Biological Sciences, University of Notre Dame, Notre Dame, IN
+46556;
+(32)Instituto Nacional de Ciência e Tecnologia em Entomologia Molecular, Rio de
+Janeiro 21941-591, Brazil; Centro de Pesquisas René Rachou, Fundação Oswaldo
+Cruz, Minas Gerais 30190-002, Brazil;
+(33)Centre for Genomic Regulation, The Barcelona Institute of Science and
+Technology, Barcelona 08003, Catalonia, Spain; Universitat Pompeu Fabra,
+Barcelona 08003, Catalonia, Spain;
+(34)Laboratoire d'Evolution, Génome et Spéciation, Centre National de la
+Recherche Scientifique UPR9034/UR 072, Institut de Recherche pour le
+Développement, 91198 Gif sur Yvette, France; Université Paris-Sud, 91400 Orsay,
+France;
+(35)French National Institute For Agricultural Research, Institute of Ecology and
+Environmental Sciences of Paris, 78000 Versailles, France;
+(36)Department of Biology, University of Toronto, Mississauga, ON L5L 1C6.
+(37)Division of Parasitic Diseases and Malaria, Entomology Branch, Centers for
+Disease Control and Prevention, Atlanta, GA 30329;
+(38)Institut de Recherche sur la Biologie de l'Insecte, UMR7261, Centre National 
+de la Recherche Scientifique, Université François Rabelais, 37200 Tours, France;
+(39)Programa de Biologia Molecular e Biotecnologia, Instituto de Bioquímica
+Médica Leopoldo de Meis, Universidade Federal do Rio de Janeiro, Rio de Janeiro
+21941-591, Brazil; Departamento de Biotecnologia Farmacêutica, Faculdade de
+Farmácia, Universidade Federal do Rio de Janeiro, Rio de Janeiro 21941-902,
+Brazil;
+(40)Department of Physiology, Biophysics and Neuroscience, Centro de
+Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,
+Zacatenco, Mexico City 03760, Mexico;
+(41)Departamento de Fisiologia e Biofísica, Instituto de Ciências Biológicas,
+Universidade Federal de Minas Gerais, Minas Gerais 31270-901, Brazil;
+(42)Department of Biological Sciences, Florida International University, Miami,
+FL 11200;
+(43)Departamento de Bioquímica, Instituto de Química, Universidade Federal do Rio
+de Janeiro, Rio de Janeiro 21941-909, Brazil;
+(44)Núcleo de Doenças Infecciosas, Universidade Federal do Espirito Santo,
+Espirito Santo 29043-900, Brazil;
+(45)Department of Entomology, University of Illinois at Urbana-Champaign, Urbana,
+IL 61801;
+(46)Instituto Federal de Educação Ciência e Tecnologia do Rio de Janeiro, Rio de 
+Janeiro 20270-021, Brazil;
+(47)Department of Physiology, School of Medicine-Center for Resesarch in
+Molecular Medicine and Chronic Diseases, Instituto de Investigaciones Sanitarias,
+University of Santiago de Compostela, 15782 Santiago de Compostela, Spain;
+(48)Department of Biochemistry, Virginia Polytechnic Institute, Blacksburg, VA
+24061;
+(49)Department of Veterinary Medicine, University of Cambridge, Cambridge CB3
+0ES, United Kingdom; and.
+(50)Instituto Nacional de Ciência e Tecnologia em Entomologia Molecular, Rio de
+Janeiro 21941-591, Brazil; Laboratório de Química e Função de Proteínas e
+Peptídeos, Centro de Biociências e Biotecnologia, Universidade Estadual do Norte 
+Fluminense Darcy Ribeiro, Rio de Janeiro 28013-602, Brazil;
+(51)Department of Biological Sciences, University of Manitoba, Winnipeg, MB,
+Canada R3T 2N2.
+(52)Division of Parasitic Diseases and Malaria, Entomology Branch, Centers for
+Disease Control and Prevention, Atlanta, GA 30329; rdmesquita@iq.ufrj.br
+edotson@cdc.gov pedro@bioqmed.ufrj.br.
+(53)Instituto Nacional de Ciência e Tecnologia em Entomologia Molecular, Rio de
+Janeiro 21941-591, Brazil; Programa de Biologia Molecular e Biotecnologia,
+Instituto de Bioquímica Médica Leopoldo de Meis, Universidade Federal do Rio de
+Janeiro, Rio de Janeiro 21941-591, Brazil; rdmesquita@iq.ufrj.br edotson@cdc.gov 
+pedro@bioqmed.ufrj.br.
+
+Erratum in
+    Proc Natl Acad Sci U S A. 2016 Mar 8;113(10):E1415-6. Lange, Angela B [added];
+Orchard, Ian [added].
+
+Rhodnius prolixus not only has served as a model organism for the study of insect
+physiology, but also is a major vector of Chagas disease, an illness that affects
+approximately seven million people worldwide. We sequenced the genome of R.
+prolixus, generated assembled sequences covering 95% of the genome (∼ 702 Mb),
+including 15,456 putative protein-coding genes, and completed comprehensive
+genomic analyses of this obligate blood-feeding insect. Although
+immune-deficiency (IMD)-mediated immune responses were observed, R. prolixus
+putatively lacks key components of the IMD pathway, suggesting a reorganization
+of the canonical immune signaling network. Although both Toll and IMD effectors
+controlled intestinal microbiota, neither affected Trypanosoma cruzi, the causal 
+agent of Chagas disease, implying the existence of evasion or tolerance
+mechanisms. R. prolixus has experienced an extensive loss of selenoprotein genes,
+with its repertoire reduced to only two proteins, one of which is a
+selenocysteine-based glutathione peroxidase, the first found in insects. The
+genome contained actively transcribed, horizontally transferred genes from
+Wolbachia sp., which showed evidence of codon use evolution toward the insect use
+pattern. Comparative protein analyses revealed many lineage-specific expansions
+and putative gene absences in R. prolixus, including tandem expansions of genes
+related to chemoreception, feeding, and digestion that possibly contributed to
+the evolution of a blood-feeding lifestyle. The genome assembly and these
+associated analyses provide critical information on the physiology and evolution 
+of this important vector species and should be instrumental for the development
+of innovative disease control methods.
+
+DOI: 10.1073/pnas.1506226112 
+PMCID: PMC4672799
+PMID: 26627243  [Indexed for MEDLINE]
+

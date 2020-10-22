@@ -1,0 +1,46 @@
+
+1. Genome Res. 2019 Aug;29(8):1250-1261. doi: 10.1101/gr.245795.118. Epub 2019 Jul
+25.
+
+Whole-genome sequencing reveals high complexity of copy number variation at
+insecticide resistance loci in malaria mosquitoes.
+
+Lucas ER(1), Miles A(2)(3), Harding NJ(3), Clarkson CS(2), Lawniczak MKN(2),
+Kwiatkowski DP(2)(3), Weetman D(1), Donnelly MJ(1)(2); Anopheles gambiae 1000
+Genomes Consortium.
+
+Author information: 
+(1)Liverpool School of Tropical Medicine, Liverpool L3 5QA, United Kingdom.
+(2)Wellcome Sanger Institute, Hinxton, Cambridge CB10 1SA, United Kingdom.
+(3)Big Data Institute, University of Oxford, Li Ka Shing Centre for Health
+Information and Discovery, Oxford OX3 7LF, United Kingdom.
+
+Polymorphisms in genetic copy number can influence gene expression, coding
+sequence, and zygosity, making them powerful actors in the evolutionary process. 
+Copy number variants (CNVs) are however understudied, being more difficult to
+detect than single-nucleotide polymorphisms. We take advantage of the intense
+selective pressures on the major malaria vector Anopheles gambiae, caused by the 
+widespread use of insecticides for malaria control, to investigate the role of
+CNVs in the evolution of insecticide resistance. Using the whole-genome
+sequencing data from 1142 samples in the An. gambiae 1000 genomes project, we
+identified 250 gene-containing CNVs, encompassing a total of 267 genes of which
+28 were in gene families linked to metabolic insecticide resistance, representing
+significant enrichment of these families. The five major gene clusters for
+metabolic resistance all contained CNVs, with 44 different CNVs being found
+across these clusters and multiple CNVs frequently covering the same genes. These
+44 CNVs are widespread (45% of individuals carry at least one of them) and have
+been spreading through positive selection, indicated by their high local
+frequencies and extended haplotype homozygosity. Our results demonstrate the
+importance of CNVs in the response to selection, highlighting the urgent need to 
+identify the contribution of each CNV to insecticide resistance and to track
+their spread as the use of insecticides in malaria endemic countries intensifies 
+and as the operational deployment of next-generation bed nets targeting metabolic
+resistance gathers pace. Our detailed descriptions of CNVs found across the
+species range provide the tools to do so.
+
+© 2019 Lucas et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.245795.118 
+PMCID: PMC6673711
+PMID: 31345938  [Indexed for MEDLINE]
+

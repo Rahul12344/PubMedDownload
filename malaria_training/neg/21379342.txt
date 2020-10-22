@@ -1,0 +1,51 @@
+
+1. PLoS Pathog. 2011 Feb;7(2):e1001292. doi: 10.1371/journal.ppat.1001292. Epub 2011
+Feb 17.
+
+Expression of P. falciparum var genes involves exchange of the histone variant
+H2A.Z at the promoter.
+
+Petter M(1), Lee CC, Byrne TJ, Boysen KE, Volz J, Ralph SA, Cowman AF, Brown GV, 
+Duffy MF.
+
+Author information: 
+(1)Department of Medicine, Royal Melbourne Hospital, University of Melbourne,
+Melbourne, Australia.
+
+Plasmodium falciparum employs antigenic variation to evade the human immune
+response by switching the expression of different variant surface antigens
+encoded by the var gene family. Epigenetic mechanisms including histone
+modifications and sub-nuclear compartmentalization contribute to transcriptional 
+regulation in the malaria parasite, in particular to control antigenic variation.
+Another mechanism of epigenetic control is the exchange of canonical histones
+with alternative variants to generate functionally specialized chromatin domains.
+Here we demonstrate that the alternative histone PfH2A.Z is associated with the
+epigenetic regulation of var genes. In many eukaryotic organisms the histone
+variant H2A.Z mediates an open chromatin structure at promoters and facilitates
+diverse levels of regulation, including transcriptional activation. Throughout
+the asexual, intraerythrocytic lifecycle of P. falciparum we found that the P.
+falciparum ortholog of H2A.Z (PfH2A.Z) colocalizes with histone modifications
+that are characteristic of transcriptionally-permissive euchromatin, but not with
+markers of heterochromatin. Consistent with this finding, antibodies to PfH2A.Z
+co-precipitate the permissive modification H3K4me3. By
+chromatin-immunoprecipitation we show that PfH2A.Z is enriched in nucleosomes
+around the transcription start site (TSS) in both transcriptionally active and
+silent stage-specific genes. In var genes, however, PfH2A.Z is enriched at the
+TSS only during active transcription in ring stage parasites. Thus, in contrast
+to other genes, temporal var gene regulation involves histone variant exchange at
+promoter nucleosomes. Sir2 histone deacetylases are important for var gene
+silencing and their yeast ortholog antagonises H2A.Z function in subtelomeric
+yeast genes. In immature P. falciparum parasites lacking Sir2A or Sir2B high var 
+transcription levels correlate with enrichment of PfH2A.Z at the TSS. As Sir2A
+knock out parasites mature the var genes are silenced, but PfH2A.Z remains
+enriched at the TSS of var genes; in contrast, PfH2A.Z is lost from the TSS of
+de-repressed var genes in mature Sir2B knock out parasites. This result indicates
+that PfH2A.Z occupancy at the active var promoter is antagonized by PfSir2A
+during the intraerythrocytic life cycle. We conclude that PfH2A.Z contributes to 
+the nucleosome architecture at promoters and is regulated dynamically in active
+var genes.
+
+DOI: 10.1371/journal.ppat.1001292 
+PMCID: PMC3040674
+PMID: 21379342  [Indexed for MEDLINE]
+

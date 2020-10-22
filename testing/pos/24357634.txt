@@ -1,0 +1,30 @@
+
+1. EMBO J. 2014 Jan 7;33(1):76-92. doi: 10.1002/embj.201386124. Epub 2013 Dec 15.
+
+The mechanism of translation initiation on Type 1 picornavirus IRESs.
+
+Sweeney TR(1), Abaeva IS, Pestova TV, Hellen CU.
+
+Author information: 
+(1)Department of Cell Biology, SUNY Downstate Medical Center, Brooklyn, NY, USA.
+
+Picornavirus Type 1 IRESs comprise five principal domains (dII-dVI). Whereas dV
+binds eIF4G, a conserved AUG in dVI was suggested to stimulate attachment of 43S 
+ribosomal preinitiation complexes, which then scan to the initiation codon.
+Initiation on Type 1 IRESs also requires IRES trans-acting factors (ITAFs), and
+several candidates have been proposed. Here, we report the in vitro
+reconstitution of initiation on three Type 1 IRESs: poliovirus (PV), enterovirus 
+71 (EV71), and bovine enterovirus (BEV). All of them require eIF2, eIF3, eIF4A,
+eIF4G, eIF4B, eIF1A, and a single ITAF, poly(C) binding protein 2 (PCBP2). In
+each instance, initiation starts with binding of eIF4G/eIF4A. Subsequent
+recruitment of 43S complexes strictly requires direct interaction of their eIF3
+constituent with eIF4G. The following events can differ between IRESs, depending 
+on the stability of dVI. If it is unstructured (BEV), all ribosomes scan through 
+dVI to the initiation codon, requiring eIF1 to bypass its AUG. If it is
+structured (PV, EV71), most initiation events occur without inspection of dVI,
+implying that its AUG does not determine ribosomal attachment.
+
+DOI: 10.1002/embj.201386124 
+PMCID: PMC3990684
+PMID: 24357634  [Indexed for MEDLINE]
+

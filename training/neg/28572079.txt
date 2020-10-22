@@ -1,0 +1,75 @@
+
+1. J Med Internet Res. 2017 Jun 1;19(6):e190. doi: 10.2196/jmir.6631.
+
+Mobile Text Messaging to Improve Medication Adherence and Viral Load in a
+Vulnerable Canadian Population Living With Human Immunodeficiency Virus: A
+Repeated Measures Study.
+
+King E(1), Kinvig K(2), Steif J(3), Qiu AQ(2), Maan EJ(2), Albert AY(4), Pick
+N(2)(4)(5), Alimenti A(2)(6), Kestler MH(2)(5), Money DM(2)(4)(7), Lester RT(5), 
+Murray MCM(2)(4)(5).
+
+Author information: 
+(1)Department of Medicine, University of British Columbia, Vancouver, BC, Canada.
+(2)Oak Tree Clinic, British Columbia Women's Hospital, Vancouver, BC, Canada.
+(3)Department of Mathematics, University of British Columbia, Vancouver, BC,
+Canada.
+(4)Women's Health Research Institute, British Columbia Women's Hospital,
+Vancouver, BC, Canada.
+(5)Division of Infectious Diseases, Department of Medicine, University of British
+Columbia, Vancouver, BC, Canada.
+(6)Department of Pediatrics, University of British Columbia, Vancouver, BC,
+Canada.
+(7)Department of Obstetrics and Gynecology, University of British Columbia,
+Vancouver, BC, Canada.
+
+BACKGROUND: Combination antiretroviral therapy (cART) as treatment for human
+immunodeficiency virus (HIV) infection is effective and available, but poor
+medication adherence limits benefits, particularly in vulnerable populations. In 
+a Kenyan randomized controlled trial, a weekly text-messaging intervention
+(WelTel) improved cART adherence and HIV viral load (VL). Despite growing
+evidence for short message service (SMS) text-message interventions in HIV care, 
+there is a paucity of data utilizing these interventions in marginalized or
+female cohorts.
+OBJECTIVE: This study was undertaken to assess whether the standardized WelTel
+SMS text-message intervention applied to a vulnerable, predominantly female,
+population improved cART adherence and VL.
+METHODS: We conducted a repeated measures study of the WelTel intervention in
+high-risk HIV-positive persons by measuring change in VL, CD4 count, and
+self-reported adherence 12 months before and 12 months after the WelTel
+intervention was introduced. Inclusion criteria included VL ≥200 copies/mL,
+indication for treatment, and meeting vulnerability criteria. Participants were
+given a mobile phone with unlimited texting (where required), and weekly check-in
+text messages were sent for one year from the WelTel computer platform. Clinical 
+data were collected for control and intervention years. Participants were
+followed by a multidisciplinary team in a clinical setting. Outcomes were
+assessed using Wilcoxon signed ranks tests for change in CD4 and VL from control 
+year to study end and mixed-effects logistic regressions for change in cART
+adherence and appointment attendance. A secondary analysis was conducted to
+assess the effect of response rate on the outcome by modeling final log10 VL by
+number of responses while controlling for mean log10 VL in the control year.
+RESULTS: Eighty-five participants enrolled in the study, but 5 withdrew (final
+N=80). Participants were predominantly female (90%, 72/80) with a variety of
+vulnerabilities. Mean VL decreased from 1098 copies/mL in the control year to 439
+copies/mL at study end (P=.004). Adherence to cART significantly improved (OR
+1.14, IQR 1.10-1.18; P<.001), whereas appointment attendance decreased slightly
+with the intervention (OR 0.81, IQR 0.67-0.99; P=.03). A response was received
+for 46.57% (1753/3764) of messages sent and 9.62% (362/3764) of text messages
+sent were replied to with a problem. An outcome analysis examining relationship
+between reply rate and VL did not meet statistical significance (P=.07), but may 
+be worthy of investigating further in a larger study.
+CONCLUSIONS: WelTel may be an effective tool for improving cART adherence and
+reducing VLs among high-risk, vulnerable HIV-positive persons.
+TRIAL REGISTRATION: Clinicaltrials.gov NCT02603536;
+https://clinicaltrials.gov/ct2/show/NCT02603536 (Archived by WebCite at
+http://www.webcitation.org/6qK57zCwv).
+
+©Elizabeth King, Karen Kinvig, Jonathan Steif, Annie Q Qiu, Evelyn J Maan,
+Arianne YK Albert, Neora Pick, Ariane Alimenti, Mary H Kestler, Deborah M Money, 
+Richard T Lester, Melanie Caroline Margaret Murray. Originally published in the
+Journal of Medical Internet Research (http://www.jmir.org), 01.06.2017.
+
+DOI: 10.2196/jmir.6631 
+PMCID: PMC5472843
+PMID: 28572079  [Indexed for MEDLINE]
+

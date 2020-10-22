@@ -1,0 +1,40 @@
+
+1. FEMS Microbiol Lett. 2016 May;363(10). pii: fnw077. doi: 10.1093/femsle/fnw077.
+Epub 2016 Mar 29.
+
+Computational prospecting the great viral unknown.
+
+Hurwitz BL(1), U'Ren JM(2), Youens-Clark K(2).
+
+Author information: 
+(1)Department of Agricultural and Biosystems Engineering, University of Arizona, 
+Tucson, AZ 85721, USA bhurwitz@email.arizona.edu.
+(2)Department of Agricultural and Biosystems Engineering, University of Arizona, 
+Tucson, AZ 85721, USA.
+
+Bacteriophages play an important role in host-driven biological processes by
+controlling bacterial population size, horizontally transferring genes between
+hosts and expressing host-derived genes to alter host metabolism. Metagenomics
+provides the genetic basis for understanding the interplay between uncultured
+bacteria, their phage and the environment. In particular, viral metagenomes
+(viromes) are providing new insight into phage-encoded host genes (i.e. auxiliary
+metabolic genes; AMGs) that reprogram host metabolism during infection. Yet,
+despite deep sequencing efforts of viral communities, the majority of sequences
+have no match to known proteins. Reference-independent computational techniques, 
+such as protein clustering, contig spectra and ecological profiling are
+overcoming these barriers to examine both the known and unknown components of
+viromes. As the field of viral metagenomics progresses, a critical assessment of 
+tools is required as the majority of algorithms have been developed for analyzing
+bacteria. The aim of this paper is to offer an overview of current computational 
+methodologies for virome analysis and to provide an example of
+reference-independent approaches using human skin viromes. Additionally, we
+present methods to carefully validate AMGs from host contamination. Despite
+computational challenges, these new methods offer novel insights into the
+diversity and functional roles of phages in diverse environments.
+
+© FEMS 2016. All rights reserved. For permissions, please e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/femsle/fnw077 
+PMID: 27030726  [Indexed for MEDLINE]
+

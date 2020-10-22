@@ -1,0 +1,45 @@
+
+1. Viruses. 2019 May 15;11(5). pii: E439. doi: 10.3390/v11050439.
+
+Massively Parallel Profiling of HIV-1 Resistance to the Fusion Inhibitor
+Enfuvirtide.
+
+Dingens AS(1)(2), Arenz D(3), Overbaugh J(4), Bloom JD(5)(6).
+
+Author information: 
+(1)Basic Sciences and Computational Biology, Fred Hutchinson Cancer Research
+Center, Seattle, WA 98109, USA. adingens@fredhutch.org.
+(2)Human Biology, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA.
+adingens@fredhutch.org.
+(3)Human Biology, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA.
+darenz@fredhutch.org.
+(4)Human Biology, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA.
+joverbau@fredhutch.org.
+(5)Basic Sciences and Computational Biology, Fred Hutchinson Cancer Research
+Center, Seattle, WA 98109, USA. jbloom@fredhutch.org.
+(6)Howard Hughes Medical Institute, Seattle, WA 98109, USA. jbloom@fredhutch.org.
+
+Identifying drug resistance mutations is important for the clinical use of
+antivirals and can help define both a drug's mechanism of action and the
+mechanistic basis of resistance. Resistance mutations are often identified
+one-at-a-time by studying viral evolution within treated patients or during viral
+growth in the presence of a drug in cell culture. Such approaches have previously
+mapped resistance to enfuvirtide, the only clinically approved HIV-1 fusion
+inhibitor, to enfuvirtide's binding site in the N-terminal heptad repeat (NHR) of
+the Envelope (Env) transmembrane domain as well as a limited number of allosteric
+sites. Here, we sought to better delineate the genotypic determinants of
+resistance throughout Env. We used deep mutational scanning to quantify the
+effect of all single-amino-acid mutations to the subtype A BG505 Env on
+resistance to enfuvirtide. We identified both previously characterized and
+numerous novel resistance mutations in the NHR. Additional resistance mutations
+clustered in other regions of Env conformational intermediates, suggesting they
+may act during different fusion steps by altering fusion kinetics and/or exposure
+of the enfuvirtide binding site. This complete map of resistance sheds light on
+the diverse mechanisms of enfuvirtide resistance and highlights the utility of
+using deep mutational scanning to comprehensively map potential drug resistance
+mutations.
+
+DOI: 10.3390/v11050439 
+PMCID: PMC6563210
+PMID: 31096572  [Indexed for MEDLINE]
+

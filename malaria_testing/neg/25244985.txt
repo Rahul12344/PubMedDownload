@@ -1,0 +1,38 @@
+
+1. Genome Biol. 2014 Sep 23;15(9):459. doi: 10.1186/s13059-014-0459-2.
+
+Genome analysis of a major urban malaria vector mosquito, Anopheles stephensi.
+
+Jiang X, Peery A, Hall AB, Sharma A, Chen XG, Waterhouse RM, Komissarov A, Riehle
+MM, Shouche Y, Sharakhova MV, Lawson D, Pakpour N, Arensburger P, Davidson VL,
+Eiglmeier K, Emrich S, George P, Kennedy RC, Mane SP, Maslen G, Oringanje C, Qi
+Y, Settlage R, Tojo M, Tubio JM, Unger MF, Wang B, Vernick KD, Ribeiro JM, James 
+AA, Michel K, Riehle MA, Luckhart S, Sharakhov IV, Tu Z.
+
+BACKGROUND: Anopheles stephensi is the key vector of malaria throughout the
+Indian subcontinent and Middle East and an emerging model for molecular and
+genetic studies of mosquito-parasite interactions. The type form of the species
+is responsible for the majority of urban malaria transmission across its range.
+RESULTS: Here, we report the genome sequence and annotation of the Indian strain 
+of the type form of An. stephensi. The 221 Mb genome assembly represents more
+than 92% of the entire genome and was produced using a combination of 454,
+Illumina, and PacBio sequencing. Physical mapping assigned 62% of the genome onto
+chromosomes, enabling chromosome-based analysis. Comparisons between An.
+stephensi and An. gambiae reveal that the rate of gene order reshuffling on the X
+chromosome was three times higher than that on the autosomes. An. stephensi has
+more heterochromatin in pericentric regions but less repetitive DNA in chromosome
+arms than An. gambiae. We also identify a number of Y-chromosome contigs and
+BACs. Interspersed repeats constitute 7.1% of the assembled genome while LTR
+retrotransposons alone comprise more than 49% of the Y contigs. RNA-seq analyses 
+provide new insights into mosquito innate immunity, development, and sexual
+dimorphism.
+CONCLUSIONS: The genome analysis described in this manuscript provides a resource
+and platform for fundamental and translational research into a major urban
+malaria vector. Chromosome-based investigations provide unique perspectives on
+Anopheles chromosome evolution. RNA-seq analysis and studies of immunity genes
+offer new insights into mosquito biology and mosquito-parasite interactions.
+
+DOI: 10.1186/s13059-014-0459-2 
+PMCID: PMC4195908
+PMID: 25244985  [Indexed for MEDLINE]
+

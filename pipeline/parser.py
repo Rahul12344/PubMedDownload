@@ -33,3 +33,27 @@ class Parser:
             else:
                 connectors[symbols[0]] = ""
         return ensemble_genes, ids_, connectors
+        
+    def ReadMalariaFile(self):
+        f=open(self.file, "r")
+        lines = f.readlines()
+        ids = []
+        for line in lines:
+            info = line.split(",")
+            sub_ids = info[2].split("*")
+            for sub_id in sub_ids:
+                ids.append(sub_id[0:8])
+        f.close()
+        return ids
+    
+    def ReadMartExport(self):
+        f=open(self.file, "r")
+        lines = f.readlines()
+        hgncs = []
+        for i in range(1,len(lines)):
+            info = lines[i].split("\t")
+            if(info[1] != '\n'):
+                hgncs.append(info[1].strip('\n'))
+        f.close()
+        return hgncs
+        

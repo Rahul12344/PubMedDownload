@@ -1,0 +1,43 @@
+
+1. Parasitology. 2018 Jan;145(1):71-84. doi: 10.1017/S0031182017001329. Epub 2017
+Jul 19.
+
+PacBio assembly of a Plasmodium knowlesi genome sequence with Hi-C correction and
+manual annotation of the SICAvar gene family.
+
+Lapp SA(1), Geraldo JA(2), Chien JT(1), Ay F(3), Pakala SB(4), Batugedara G(5),
+Humphrey J(4); MaHPIC consortium, DeBARRY JD(4), Le Roch KG(5), Galinski MR(1),
+Kissinger JC(4).
+
+Author information: 
+(1)Emory Vaccine Center,Yerkes National Primate Research Center,Emory
+University,Atlanta, GA,USA.
+(2)Federal University of Minas Gerais,Belo Horizonte, MG,Brazil.
+(3)La Jolla Institute for Allergy and Immunology,La Jolla, CA 92037,USA.
+(4)Institute of Bioinformatics, University of Georgia,Athens, GA 30602,USA.
+(5)Center for Disease and Vector Research,Institute for Integrative Genome
+Biology,Department of Cell Biology & Neuroscience,University of California
+Riverside,CA 92521,USA.
+
+Plasmodium knowlesi has risen in importance as a zoonotic parasite that has been 
+causing regular episodes of malaria throughout South East Asia. The P. knowlesi
+genome sequence generated in 2008 highlighted and confirmed many similarities and
+differences in Plasmodium species, including a global view of several multigene
+families, such as the large SICAvar multigene family encoding the variant
+antigens known as the schizont-infected cell agglutination proteins. However,
+repetitive DNA sequences are the bane of any genome project, and this and other
+Plasmodium genome projects have not been immune to the gaps, rearrangements and
+other pitfalls created by these genomic features. Today, long-read PacBio and
+chromatin conformation technologies are overcoming such obstacles. Here, based on
+the use of these technologies, we present a highly refined de novo P. knowlesi
+genome sequence of the Pk1(A+) clone. This sequence and annotation, referred to
+as the 'MaHPIC Pk genome sequence', includes manual annotation of the SICAvar
+gene family with 136 full-length members categorized as type I or II. This
+sequence provides a framework that will permit a better understanding of the
+SICAvar repertoire, selective pressures acting on this gene family and mechanisms
+of antigenic variation in this species and other pathogens.
+
+DOI: 10.1017/S0031182017001329 
+PMCID: PMC5798397
+PMID: 28720171  [Indexed for MEDLINE]
+

@@ -1,0 +1,48 @@
+
+1. J Mol Diagn. 2019 Jul;21(4):623-631. doi: 10.1016/j.jmoldx.2019.02.004. Epub 2019
+Jun 13.
+
+Detection of Single-Nucleotide Polymorphism Markers of Antimalarial Drug
+Resistance Directly from Whole Blood.
+
+Leelawong M(1), Adams NM(2), Gabella WE(2), Wright DW(3), Haselton FR(4).
+
+Author information: 
+(1)Department of Chemistry, Vanderbilt University, Nashville, Tennessee.
+(2)Department of Biomedical Engineering, Vanderbilt University, Nashville,
+Tennessee.
+(3)Department of Chemistry, Vanderbilt University, Nashville, Tennessee.
+Electronic address: david.wright@vanderbilt.edu.
+(4)Department of Chemistry, Vanderbilt University, Nashville, Tennessee;
+Department of Biomedical Engineering, Vanderbilt University, Nashville,
+Tennessee. Electronic address: rick.haselton@vanderbilt.edu.
+
+Monitoring of antimalarial resistance is important to prevent its further spread,
+but the available options for assessing resistance are less than ideal for field 
+settings. Although molecular detection is perhaps the most efficient method, it
+is also the most complex because it requires DNA extraction and PCR
+instrumentation. To develop a more deployable approach, we designed new probes,
+which, when used in combination with an inhibitor-tolerant Taq polymerase, enable
+single-nucleotide polymorphism genotyping directly from whole blood. The probes
+feature two strategic design elements: locked nucleic acids to enhance
+specificity and the reporter dyes Cy5 and TEX615, which have less optical overlap
+with the blood absorbance spectra than other commonly used dyes. Probe
+performance was validated on a traditional laboratory-based instrument and then
+further tested on a field-deployable Adaptive PCR instrument to develop a
+point-of-care platform appropriate for use in malaria settings. The probes
+discriminated between wild-type Plasmodium falciparum and the
+chloroquine-resistant CRT PF3D7_0709000:c.227A>C (p.Lys76Thr) mutant in the
+presence of 2% blood. Additionally, in allelic discrimination plots with the new 
+probes, samples clustered more closely to their respective axes compared with
+samples using minor groove binder probes with 6-FAM and VIC reporter dyes. Our
+strategy greatly simplifies single-nucleotide polymorphism detection and provides
+a more accessible alternative for antimalarial resistance surveillance in the
+field.
+
+Copyright © 2019 American Society for Investigative Pathology and the Association
+for Molecular Pathology. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jmoldx.2019.02.004 
+PMCID: PMC6650786
+PMID: 31204166  [Indexed for MEDLINE]
+

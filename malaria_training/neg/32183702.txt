@@ -1,0 +1,48 @@
+
+1. BMC Genomics. 2020 Mar 17;21(1):236. doi: 10.1186/s12864-020-6625-x.
+
+Conserved associations between G-quadruplex-forming DNA motifs and virulence gene
+families in malaria parasites.
+
+Gage HL(1), Merrick CJ(2).
+
+Author information: 
+(1)Department of Pathology, Cambridge University, Tennis Court Road, Cambridge,
+CB2 1QP, UK.
+(2)Department of Pathology, Cambridge University, Tennis Court Road, Cambridge,
+CB2 1QP, UK. cjm48@cam.ac.uk.
+
+BACKGROUND: The Plasmodium genus of malaria parasites encodes several families of
+antigen-encoding genes. These genes tend to be hyper-variable, highly
+recombinogenic and variantly expressed. The best-characterized family is the var 
+genes, exclusively found in the Laveranian subgenus of malaria parasites
+infecting humans and great apes. Var genes encode major virulence factors
+involved in immune evasion and the maintenance of chronic infections. In the
+human parasite P. falciparum, var gene recombination and diversification appear
+to be promoted by G-quadruplex (G4) DNA motifs, which are strongly associated
+with var genes in P. falciparum. Here, we investigated how this association might
+have evolved across Plasmodium species - both Laverania and also more distantly
+related species which lack vars but encode other, more ancient variant gene
+families.
+RESULTS: The association between var genes and G4-forming motifs was conserved
+across Laverania, spanning ~ 1 million years of evolutionary time, with
+suggestive evidence for evolution of the association occurring within this
+subgenus. In rodent malaria species, G4-forming motifs were somewhat associated
+with pir genes, but this was not conserved in the Laverania, nor did we find a
+strong association of these motifs with any gene family in a second outgroup of
+avian malaria parasites. Secondly, we compared two different G4 prediction
+algorithms in their performance on extremely A/T-rich Plasmodium genomes, and
+also compared these predictions with experimental data from G4-seq, a DNA
+sequencing method for identifying G4-forming motifs. We found a surprising lack
+of concordance between the two algorithms and also between the algorithms and
+G4-seq data.
+CONCLUSIONS: G4-forming motifs are uniquely strongly associated with Plasmodium
+var genes, suggesting a particular role for G4s in recombination and
+diversification of these genes. Secondly, in the A/T-rich genomes of Plasmodium
+species, the choice of prediction algorithm may be particularly influential when 
+studying G4s in these important protozoan pathogens.
+
+DOI: 10.1186/s12864-020-6625-x 
+PMCID: PMC7077173
+PMID: 32183702 
+

@@ -1,0 +1,61 @@
+
+1. Environ Health Perspect. 2019 Jun;127(6):67011. doi: 10.1289/EHP5105. Epub 2019
+Jun 27.
+
+Using Collaborative Cross Mouse Population to Fill Data Gaps in Risk Assessment: 
+A Case Study of Population-Based Analysis of Toxicokinetics and Kidney
+Toxicodynamics of Tetrachloroethylene.
+
+Luo YS(1), Cichocki JA(1), Hsieh NH(1), Lewis L(1), Wright FA(2), Threadgill
+DW(3), Chiu WA(1), Rusyn I(1).
+
+Author information: 
+(1)1 Department of Veterinary Integrative Biosciences, Texas A&M University ,
+College Station , Texas, USA.
+(2)2 Bioinformatics Research Center and Departments of Statistics and Biological 
+Sciences, North Carolina State University , Raleigh, North Carolina, USA.
+(3)3 Department of Molecular and Cellular Medicine, Texas A&M University ,
+College Station , Texas, USA.
+
+BACKGROUND: Interindividual variability in susceptibility remains poorly
+characterized for environmental chemicals such as tetrachloroethylene (PERC).
+Development of population-based experimental models provide a potential approach 
+to fill this critical need in human health risk assessment.
+OBJECTIVES: In this study, we aimed to better characterize the contribution of
+glutathione (GSH) conjugation to kidney toxicity of PERC and the degree of
+associated interindividual toxicokinetic (TK) and toxicodynamic (TD) variability 
+by using the Collaborative Cross (CC) mouse population.
+METHODS: Male mice from 45 strains were intragastrically dosed with PERC
+([Formula: see text]) or vehicle (5% Alkamuls EL-620 in saline), and time-course 
+samples were collected for up to 24 h. Population variability in TK of
+S-(1,2,2-trichlorovinyl)GSH (TCVG), S-(1,2,2-trichlorovinyl)-L-cysteine (TCVC),
+and N-acetyl-S-(1,2,2-trichlorovinyl)-L-cysteine (NAcTCVC) was quantified in
+serum, liver, and kidney, and analyzed using a toxicokinetic model. Effects of
+PERC on kidney weight, fatty acid metabolism-associated genes [ Acot1 (Acyl-CoA
+thioesterase 1), Fabp1 (fatty acid-binding protein 1), and Ehhadh (enoyl-coenzyme
+A, hydratase/3-hydroxyacyl coenzyme A dehydrogenase)], and a marker of proximal
+tubular injury [KIM-1 (kidney injury molecule-1)/Hepatitis A virus cellular
+receptor 1 ( Havcr1)] were evaluated. Finally, quantitative data on interstrain
+variability in both formation of GSH conjugation metabolites of PERC and its
+kidney effects was used to calculate adjustment factors for the interindividual
+variability in both TK and TD.
+RESULTS: Mice treated with PERC had significantly lower kidney weight, higher
+kidney-to-body weight (BW) ratio, and higher expression of fatty acid
+metabolism-associated genes ( Acot1, Fabp1, and Ehhadh) and a marker of proximal 
+tubular injury (KIM-1/ Havcr1). Liver levels of TCVG were significantly
+correlated with KIM-1/ Havcr1 in kidney, consistent with kidney injury being
+associated with GSH conjugation. We found that the default uncertainty factor for
+human variability may be marginally adequate to protect 95%, but not more, of the
+population for kidney toxicity mediated by PERC.
+DISCUSSION: Overall, this study demonstrates the utility of the CC mouse
+population in characterizing metabolism-toxicity interactions and quantifying
+interindividual variability. Further refinement of the characterization of
+interindividual variability can be accomplished by incorporating these data into 
+in silico population models both for TK (such as a physiologically based
+pharmacokinetic model), as well as for toxicodynamic responses.
+https://doi.org/10.1289/EHP5105.
+
+DOI: 10.1289/EHP5105 
+PMCID: PMC6792382
+PMID: 31246107  [Indexed for MEDLINE]
+

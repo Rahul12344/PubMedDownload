@@ -1,0 +1,45 @@
+
+1. Nature. 2013 Jul 11;499(7457):223-7. doi: 10.1038/nature12361. Epub 2013 Jul 3.
+
+PfSETvs methylation of histone H3K36 represses virulence genes in Plasmodium
+falciparum.
+
+Jiang L(1), Mu J, Zhang Q, Ni T, Srinivasan P, Rayavara K, Yang W, Turner L,
+Lavstsen T, Theander TG, Peng W, Wei G, Jing Q, Wakabayashi Y, Bansal A, Luo Y,
+Ribeiro JM, Scherf A, Aravind L, Zhu J, Zhao K, Miller LH.
+
+Author information: 
+(1)Key Laboratory of Molecular Virology & Immunology, Unit of Human Parasite
+Molecular and Cell Biology, Institut Pasteur of Shanghai, Shanghai 200031, China.
+lbjiang@ips.ac.cn
+
+Comment in
+    Nature. 2013 Jul 11;499(7457):156-7.
+
+The variant antigen Plasmodium falciparum erythrocyte membrane protein 1
+(PfEMP1), which is expressed on the surface of P. falciparum-infected red blood
+cells, is a critical virulence factor for malaria. Each parasite has 60
+antigenically distinct var genes that each code for a different PfEMP1 protein.
+During infection the clonal parasite population expresses only one gene at a time
+before switching to the expression of a new variant antigen as an immune-evasion 
+mechanism to avoid the host antibody response. The mechanism by which 59 of the
+60 var genes are silenced remains largely unknown. Here we show that knocking out
+the P. falciparum variant-silencing SET gene (here termed PfSETvs), which encodes
+an orthologue of Drosophila melanogaster ASH1 and controls histone H3 lysine 36
+trimethylation (H3K36me3) on var genes, results in the transcription of virtually
+all var genes in the single parasite nuclei and their expression as proteins on
+the surface of individual infected red blood cells. PfSETvs-dependent H3K36me3 is
+present along the entire gene body, including the transcription start site, to
+silence var genes. With low occupancy of PfSETvs at both the transcription start 
+site of var genes and the intronic promoter, expression of var genes coincides
+with transcription of their corresponding antisense long noncoding RNA. These
+results uncover a previously unknown role of PfSETvs-dependent H3K36me3 in
+silencing var genes in P. falciparum that might provide a general mechanism by
+which orthologues of PfSETvs repress gene expression in other eukaryotes. PfSETvs
+knockout parasites expressing all PfEMP1 proteins may also be applied to the
+development of a malaria vaccine.
+
+DOI: 10.1038/nature12361 
+PMCID: PMC3770130
+PMID: 23823717  [Indexed for MEDLINE]
+

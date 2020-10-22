@@ -1,0 +1,47 @@
+
+1. Comput Methods Programs Biomed. 2016 Oct;135:27-35. doi:
+10.1016/j.cmpb.2016.07.018. Epub 2016 Jul 14.
+
+Computational determination of the effects of virulent Escherichia coli and
+salmonella bacteriophages on human gut.
+
+Mostafa MM(1), Nassef M(2), Badr A(3).
+
+Author information: 
+(1)Department of Computer Science, Faculty of Computers and Information, Cairo
+University, Egypt. Electronic address: m.mostafa_fci@yahoo.com.
+(2)Department of Computer Science, Faculty of Computers and Information, Cairo
+University, Egypt. Electronic address: m.nassef@fci-cu.edu.eg.
+(3)Department of Computer Science, Faculty of Computers and Information, Cairo
+University, Egypt. Electronic address: amr.badr@fci-cu.edu.eg.
+
+BACKGROUND AND OBJECTIVE: Salmonella and Escherichia coli are different types of 
+bacteria that cause food poisoning in humans. In the elderly, infants and people 
+with chronic conditions, it is very dangerous if Salmonella or E. coli gets into 
+the bloodstream and then they must be treated by phage therapy. Treating
+Salmonella and E. coli by phage therapy affects the gut flora. This research
+paper presents a system for detecting the effects of virulent E. coli and
+Salmonella bacteriophages on human gut.
+METHODS: A method based on Domain-Domain Interactions (DDIs) model is implemented
+in the proposed system to determine the interactions between the proteins of
+human gut bacteria and the proteins of bacteriophages that infect virulent E.
+coli and Salmonella. The system helps gastroenterologists to realize the effect
+of injecting bacteriophages that infect virulent E. coli and Salmonella on the
+human gut.
+RESULTS: By testing the system over Enterobacteria phage 933W, Enterobacteria
+phage VT2-Sa and Enterobacteria phage P22, it resulted in four interactions
+between the proteins of the bacteriophages that infect E. coli O157:H7, E. coli
+O104:H4 and Salmonella typhimurium and the proteins of human gut bacterium
+strains.
+CONCLUSION: Several effects were detected such as: antibacterial activity against
+a number of bacterial species in human gut, regulation of cellular
+differentiation and organogenesis during gut, lung, and heart development,
+ammonia assimilation in bacteria, yeasts, and plants, energizing defense system
+and its function in the detoxification of lipopolysaccharide, and in the
+prevention of bacterial translocation in human gut.
+
+Copyright © 2016 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.cmpb.2016.07.018 
+PMID: 27586477  [Indexed for MEDLINE]
+

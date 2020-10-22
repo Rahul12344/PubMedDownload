@@ -1,0 +1,39 @@
+
+1. ACS Chem Biol. 2015 Mar 20;10(3):775-83. doi: 10.1021/cb500981y. Epub 2015 Jan
+30.
+
+Yeast-based high-throughput screen identifies Plasmodium falciparum equilibrative
+nucleoside transporter 1 inhibitors that kill malaria parasites.
+
+Frame IJ, Deniskin R, Rinderspacher A, Katz F, Deng SX, Moir RD, Adjalley SH,
+Coburn-Flynn O, Fidock DA, Willis IM, Landry DW, Akabas MH.
+
+Equilibrative transporters are potential drug targets; however, most functional
+assays involve radioactive substrate uptake that is unsuitable for
+high-throughput screens (HTS). We developed a robust yeast-based growth assay
+that is potentially applicable to many equilibrative transporters. As proof of
+principle, we applied our approach to Equilibrative Nucleoside Transporter 1 of
+the malarial parasite Plasmodium falciparum (PfENT1). PfENT1 inhibitors might
+serve as novel antimalarial drugs since PfENT1-mediated purine import is
+essential for parasite proliferation. To identify PfENT1 inhibitors, we screened 
+64 560 compounds and identified 171 by their ability to rescue the growth of
+PfENT1-expressing fui1Δ yeast in the presence of a cytotoxic PfENT1 substrate,
+5-fluorouridine (5-FUrd). In secondary assays, nine of the highest activity
+compounds inhibited PfENT1-dependent growth of a purine auxotrophic yeast strain 
+with adenosine as the sole purine source (IC50 0.2-2 μM). These nine compounds
+completely blocked [(3)H]adenosine uptake into PfENT1-expressing yeast and
+erythrocyte-free trophozoite-stage parasites (IC50 5-50 nM), and inhibited
+chloroquine-sensitive and -resistant parasite proliferation (IC50 5-50 μM).
+Wild-type (WT) parasite IC50 values were up to 4-fold lower compared to
+PfENT1-knockout (pfent1Δ) parasites. pfent1Δ parasite killing showed a
+delayed-death phenotype not observed with WT. We infer that, in parasites, the
+compounds inhibit both PfENT1 and a secondary target with similar efficacy. The
+secondary target identity is unknown, but its existence may reduce the likelihood
+of parasites developing resistance to PfENT1 inhibitors. Our data support the
+hypothesis that blocking purine transport through PfENT1 may be a novel and
+compelling approach for antimalarial drug development.
+
+DOI: 10.1021/cb500981y 
+PMCID: PMC4369170
+PMID: 25602169  [Indexed for MEDLINE]
+

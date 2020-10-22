@@ -1,0 +1,45 @@
+
+1. Infect Disord Drug Targets. 2017;17(3):199-222. doi:
+10.2174/1871526517666170606113133.
+
+Apicoplast Import Protein Tic20 A Promising Therapeutic Molecular Target for
+Plasmodium falciparum: An In Silico Approach for Therapeutic Intervention.
+
+C P K Srimath-Tirumala-Peddinti R(1), Kusuma SS(1), Nammi D(1), Neelapu NRR(2).
+
+Author information: 
+(1)Department of Bioinformatics, School of Life Sciences, GITAM Institute of
+Science, GITAM University, Rushikonda campus, Visakhapatnam - 530045 (AP). India.
+(2)Department of Bioinformatics, School of Life Sciences, GITAM Institute of
+Science, GITAM University, Rushikonda, Visakhapatnam- 530045. AP. India.
+
+BACKGROUND: Malaria is a lethal disease causing mortality to over millions each
+year. Drug resistance in the malarial parasite spurred effects to discover
+effective antimalarial drug targets and drugs. An objective of this current study
+is to identify drug targets for malarial parasite. Genes unique, non-homologous
+to humans and essential for parasite are identified using BLASTn by comparing
+genomes between parasite and host.
+OBJECTIVE: Further open BLASTp was used to filter the targets specific to
+Plasmodium species and later were subjected to gene property analysis to identify
+65 potential targets. Screening of potential drug targets for the drug target
+properties like virulence and enzyme identified three drug targets with virulence
+property and eleven with enzymatic nature.
+METHOD: Thirteen knockouts related to potential drug targets were already tested 
+in Plasmodium species, non-Plasmodium species and rodent malaria, lending
+credence to our approach. 3-D structures of 27 drug targets were predicted using 
+I-tasser server and apicoplast import protein Tic20 is the best modeled protein. 
+Gene ontology studies and analysis for motifs on nuclear localization signal
+(NLS) established apicoplast import protein Tic20 as an import protein. In silico
+docking studies were used to establish the druggability of apicoplast import
+protein Tic20.
+RESULT AND CONCLUSION: In silico docking studies on 3-D structure generated using
+I-tasser with quinine, chloroquine, artesunate into the active site of apicoplast
+import protein Tic20 established apicoplast import protein Tic20 as a promising
+therapeutic molecular target.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.org.
+
+DOI: 10.2174/1871526517666170606113133 
+PMID: 28595540  [Indexed for MEDLINE]
+

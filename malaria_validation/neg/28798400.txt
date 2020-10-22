@@ -1,0 +1,48 @@
+
+1. Sci Rep. 2017 Aug 10;7(1):7761. doi: 10.1038/s41598-017-07275-9.
+
+Characterization of P. vivax blood stage transcriptomes from field isolates
+reveals similarities among infections and complex gene isoforms.
+
+Kim A(1), Popovici J(2), Vantaux A(2), Samreth R(2), Bin S(2), Kim S(2), Roesch
+C(2), Liang L(3), Davies H(3), Felgner P(3), Herrera S(4), Arévalo-Herrera
+M(4)(5), Ménard D(6)(7)(8), Serre D(9).
+
+Author information: 
+(1)Institute for Genome Sciences, University of Maryland, Baltimore, Maryland,
+USA.
+(2)Malaria Molecular Epidemiology Unit, Institut Pasteur in Cambodia, Phnom Penh,
+Cambodia.
+(3)Division of Infectious Diseases, University of California Irvine, Irvine,
+California, USA.
+(4)Caucaseco Scientific Research Center, Cali, Colombia.
+(5)School of Health, University of Valle, Cali, Colombia.
+(6)Malaria Molecular Epidemiology Unit, Institut Pasteur in Cambodia, Phnom Penh,
+Cambodia. dmenard@pasteur.fr.
+(7)Unité Biologie des Interactions Hôte-Parasite, Institut Pasteur, Paris,
+France. dmenard@pasteur.fr.
+(8)Inserm U1016, CNRS UMR8104, Institut Cochin, Paris, France.
+dmenard@pasteur.fr.
+(9)Institute for Genome Sciences, University of Maryland, Baltimore, Maryland,
+USA. dserre@som.umaryland.edu.
+
+Our understanding of the structure and regulation of Plasmodium vivax genes is
+limited by our inability to grow the parasites in long-term in vitro cultures.
+Most P. vivax studies must therefore rely on patient samples, which typically
+display a low proportion of parasites and asynchronous parasites. Here, we
+present stranded RNA-seq data generated directly from a small volume of blood
+from three Cambodian vivax malaria patients collected before treatment. Our
+analyses show surprising similarities of the parasite gene expression patterns
+across infections, despite extensive variations in parasite stage proportion.
+These similarities contrast with the unique gene expression patterns observed in 
+sporozoites isolated from salivary glands of infected Colombian mosquitoes. Our
+analyses also indicate that more than 10% of P. vivax genes encode multiple,
+often undescribed, protein-coding sequences, potentially increasing the diversity
+of proteins synthesized by blood stage parasites. These data also greatly improve
+the annotations of P. vivax gene untranslated regions, providing an important
+resource for future studies of specific genes.
+
+DOI: 10.1038/s41598-017-07275-9 
+PMCID: PMC5552866
+PMID: 28798400  [Indexed for MEDLINE]
+

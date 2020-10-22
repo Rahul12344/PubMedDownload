@@ -1,0 +1,47 @@
+
+1. G3 (Bethesda). 2018 Oct 3;8(10):3119-3130. doi: 10.1534/g3.118.200347.
+
+An Anopheles stephensi Promoter-Trap: Augmenting Genome Annotation and Functional
+Genomics.
+
+Reid W(1), Pilitt K(2), Alford R(2)(3), Cervantes-Medina A(2), Yu H(4), Aluvihare
+C(3), Harrell R(3), O'Brochta DA(2)(5).
+
+Author information: 
+(1)Institute for Bioscience and Biotechnology Research, University of Maryland
+College Park, 9600 Gudelsky Drive, Rockville, MD 20850-3467
+27606wzr0005@tigermail.auburn.edu.
+(2)Institute for Bioscience and Biotechnology Research, University of Maryland
+College Park, 9600 Gudelsky Drive, Rockville, MD 20850-3467.
+(3)Insect Transformation Facility, Institute for Bioscience and Biotechnology
+Research, University of Maryland College Park, 9600 Gudelsky Drive, Rockville, MD
+20850-3467.
+(4)Department of Plant Protection, Henan Institute of Science and Technology,
+East Street Huan-Lan, Xinxiang City, Henan Province 453003, CHINA.
+(5)Department of Entomology, University of Maryland College Park, 4112 Plant
+Sciences Building, College Park, MD 20742-4454.
+
+The piggyBac transposon was modified to generate gene trap constructs, which were
+then incorporated into the genome of the Asian malaria vector, Anopheles
+stephensi and remobilized through genetic crosses using a piggyBac transposase
+expressing line. A total of 620 remobilization events were documented, and 73
+were further characterized at the DNA level to identify patterns in insertion
+site preferences, remobilization frequencies, and remobilization patterns.
+Overall, the use of the tetameric AmCyan reporter as the fusion peptide displayed
+a preference for insertion into the 5'-end of transcripts. Notably 183 - 44882 bp
+upstream of the An. stephensi v1.0 ab initio gene models, which demonstrated that
+the promoter regions for the genes of An. stephensi are further upstream of the
+5'-proximal regions of the genes in the ab inito models than may be otherwise
+predicted. RNA-Seq transcript coverage supported the insertion of the splice
+acceptor gene trap element into 5'-UTR introns for nearly half of all insertions 
+identified. The use of a gene trap element that prefers insertion into the 5'-end
+of genes supports the use of this technology for the random generation of
+knock-out mutants, as well as the experimental confirmation of 5'-UTR introns in 
+An. stephensi.
+
+Copyright © 2018 Reid et al.
+
+DOI: 10.1534/g3.118.200347 
+PMCID: PMC6169391
+PMID: 30135106  [Indexed for MEDLINE]
+

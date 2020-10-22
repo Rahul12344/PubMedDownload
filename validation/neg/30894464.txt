@@ -1,0 +1,54 @@
+
+1. J Virol. 2019 May 15;93(11). pii: e02172-18. doi: 10.1128/JVI.02172-18. Print
+2019 Jun 1.
+
+Sequence Determinants in Gammaretroviral Env Cytoplasmic Tails Dictate
+Virus-Specific Pseudotyping Compatibility.
+
+Song YE(1), Olinger GY(1), Janaka SK(1), Johnson MC(2).
+
+Author information: 
+(1)Department of Molecular Microbiology and Immunology, University of Missouri,
+Columbia, Missouri, USA.
+(2)Department of Molecular Microbiology and Immunology, University of Missouri,
+Columbia, Missouri, USA marcjohnson@missouri.edu.
+
+Viruses can incorporate foreign glycoproteins to form infectious particles
+through a process known as pseudotyping. However, not all glycoproteins are
+compatible with all viruses. Despite the fact that viral pseudotyping is widely
+used, what makes a virus/glycoprotein pair compatible is poorly understood. To
+study this, we chose to analyze a gammaretroviral glycoprotein (Env) whose
+compatibility with different viruses could be modulated through small changes in 
+its cytoplasmic tail (CT). One form of this glycoprotein is compatible with
+murine leukemia virus (MLV) particles but incompatible with human
+immunodeficiency virus type 1 (HIV-1) particles, while the second is compatible
+with HIV-1 particles but not with MLV particles. To decipher the factors
+affecting virus-specific Env incompatibility, we characterized Env incorporation,
+maturation, cell-to-cell fusogenicity, and virus-to-cell fusogenicity of each
+Env. The HIV-1 particle incompatibility correlated with less efficient cleavage
+of the R peptide by HIV-1 protease. However, the MLV particle incompatibility was
+more nuanced. MLV incompatibility appeared to be caused by lack of incorporation 
+into particles, yet incorporation could be restored by further truncating the CT 
+or by using a chimeric MLV Gag protein containing the HIV-1 MA without fully
+restoring infectivity. The MLV particle incompatibility appeared to be caused in 
+part by fusogenic repression in MLV particles through an unknown mechanism. This 
+study demonstrates that the Env CT can dictate functionality of Env within
+particles in a virus-specific manner.IMPORTANCE Viruses utilize viral
+glycoproteins to efficiently enter target cells during infection. How viruses
+acquire viral glycoproteins has been studied to understand the pathogenesis of
+viruses and develop safer and more efficient viral vectors for gene therapies.
+The CTs of viral glycoproteins have been shown to regulate various stages of
+glycoprotein biogenesis, but a gap still remains in understanding the molecular
+mechanism of glycoprotein acquisition and functionality regarding the CT. Here,
+we studied the mechanism of how specific mutations in the CT of a gammaretroviral
+envelope glycoprotein distinctly affect infectivity of two different viruses.
+Different mutations caused failure of glycoproteins to function in a
+virus-specific manner due to distinct fusion defects, suggesting that there are
+virus-specific characteristics affecting glycoprotein functionality.
+
+Copyright © 2019 American Society for Microbiology.
+
+DOI: 10.1128/JVI.02172-18 
+PMCID: PMC6532079
+PMID: 30894464  [Indexed for MEDLINE]
+

@@ -1,0 +1,48 @@
+
+1. BMC Res Notes. 2018 Dec 20;11(1):913. doi: 10.1186/s13104-018-4020-3.
+
+Transcriptomes of microglia in experimental cerebral malaria in mice in the
+presence and absence of Type I Interferon signaling.
+
+Talavera-López C(1), Capuccini B(1)(2), Mitter R(3), Lin JW(1)(4), Langhorne
+J(5).
+
+Author information: 
+(1)Malaria Immunology Laboratory, The Francis Crick Institute, 1 Midland Road,
+London, NW1 1AT, UK.
+(2)Polo di Genomica Genetica e Biologia, Via Fiorentina 1, 53100, Siena, Italy.
+(3)Bioinformatics and Biostatistics team, The Francis Crick Institute, 1 Midland 
+Road, London, NW1 1AT, UK.
+(4)Division of Pediatric Infectious Diseases, State Key Laboratory of Biotherapy,
+West China Second Hospital, Sichuan University and Collaboration Innovation
+Centre, Chengdu, China.
+(5)Malaria Immunology Laboratory, The Francis Crick Institute, 1 Midland Road,
+London, NW1 1AT, UK. jean.langhorne@crick.ac.uk.
+
+Erratum in
+    BMC Res Notes. 2019 Jan 22;12(1):48.
+
+OBJECTIVES: Plasmodium berghei ANKA infection in mice is a model for human
+cerebral malaria, the most severe complication of Plasmodium falciparum
+infection. Responses of brain microglia have been little investigated, and may
+contribute to the pathogenesis of cerebral malaria. We showed previously that
+microglia are activated in P. berghei infections, and that Type 1-Interferon
+signaling is important for activation. This dataset compares transcriptomic
+profiles of brain microglia of infected mice in the presence and absence of Type 
+1 interferon signaling, with the aim of identifying genes in microglia in this
+pathway during experimental cerebral malaria.
+DATA DESCRIPTION: We documented global gene expression from microglial RNA from
+uninfected and P berghei-infected wild-type C57BL/6 and IFNA Receptor Knock-out
+mice using Illumina Beadarrays. Principal component analysis showed 4 groups of
+samples corresponding to naïve wild-type, naïve IFNA Receptor knock-out, infected
+wild-type, and IFNA Receptor knock-out mice. Differentially-expressed genes of
+microglia from the two groups of infected mice are documented. Gene set
+enrichment analysis showing the top 500 genes assigned to Reactome pathways from 
+infected IFNA Receptor knock-out versus naïve, and infected WT versus naïve has
+been generated. These data will be useful for those interested in microglia
+cells, and in experimental cerebral malaria.
+
+DOI: 10.1186/s13104-018-4020-3 
+PMCID: PMC6302474
+PMID: 30572937  [Indexed for MEDLINE]
+

@@ -1,0 +1,42 @@
+
+1. Sci Rep. 2016 Jul 29;6:30106. doi: 10.1038/srep30106.
+
+Mechanism of artemisinin resistance for malaria PfATP6 L263 mutations and
+discovering potential antimalarials: An integrated computational approach.
+
+N N(1), C GP(2), Chakraborty C(3), V K(1), D TK(2), V B(4), R S(2), Lu A(1), Ge
+Z(1), Zhu H(1).
+
+Author information: 
+(1)School of Chinese Medicine, Hong Kong Baptist University, Kowloon Tong, Hong
+Kong.
+(2)School of Biosciences and Technology, VIT University, Vellore 632014, Tamil
+Nadu 632014, India.
+(3)Department of Bioinformatics, School of Computer and Information Sciences,
+Galgotias University, Greater Noida, Uttar Pradesh, India.
+(4)Department of Clinical Microbiology, Christian Medical College, Vellore
+632014, Tamil Nadu, India.
+
+Artemisinin resistance in Plasmodium falciparum threatens global efforts in the
+elimination or eradication of malaria. Several studies have associated mutations 
+in the PfATP6 gene in conjunction with artemisinin resistance, but the underlying
+molecular mechanism of the resistance remains unexplored. Associated mutations
+act as a biomarker to measure the artemisinin efficacy. In the proposed work, we 
+have analyzed the binding affinity and efficacy between PfATP6 and artemisinin in
+the presence of L263D, L263E and L263K mutations. Furthermore, we performed
+virtual screening to identify potential compounds to inhibit the PfATP6 mutant
+proteins. In this study, we observed that artemisinin binding affinity with
+PfATP6 gets affected by L263D, L263E and L263K mutations. This in silico
+elucidation of artemisinin resistance enhanced the identification of novel
+compounds (CID: 10595058 and 10625452) which showed good binding affinity and
+efficacy with L263D, L263E and L263K mutant proteins in molecular docking and
+molecular dynamics simulations studies. Owing to the high propensity of the
+parasite to drug resistance the need for new antimalarial drugs will persist
+until the malarial parasites are eventually eradicated. The two compounds
+identified in this study can be tested in in vitro and in vivo experiments as
+possible candidates for the designing of new potential antimalarial drugs.
+
+DOI: 10.1038/srep30106 
+PMCID: PMC4965867
+PMID: 27471101  [Indexed for MEDLINE]
+

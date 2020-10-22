@@ -1,0 +1,34 @@
+
+1. Theor Popul Biol. 2011 Dec;80(4):233-43. doi: 10.1016/j.tpb.2011.08.005. Epub
+2011 Sep 2.
+
+Optimal viral immune surveillance evasion strategies.
+
+Agranovich A(1), Vider-Shalit T, Louzoun Y.
+
+Author information: 
+(1)Department of Mathematics and Gonda Brain Research Center, Bar-Ilan
+University, Ramat Gan 52900, Israel.
+
+Following cell entry, viruses can be detected by cytotoxic T lymphocytes. These
+cytotoxic T lymphocytes can induce host cell apoptosis and prevent the
+propagation of the virus. Viruses with fewer epitopes have a higher survival
+probability, and are selected through evolution. However, mutations have a
+fitness cost and on evolutionary periods viruses maintain some epitopes. The
+number of epitopes in each viral protein is a balance between the selective
+advantage of having fewer epitopes and the reduced fitness following the epitope 
+removing mutations. We discuss a bioinformatic analysis of the number of epitopes
+in various viral proteins and propose an optimization framework to explain these 
+numbers. We show, using a genomic analysis and a theoretical optimization
+framework, that a critical factor affecting the number of presented epitopes is
+the expression stage in the viral life cycle of the gene coding for the protein. 
+The early expression of epitopes can lead to the destruction of the host cell
+before budding can take place. We show that a lower number of epitopes is
+expected in early proteins even if late proteins have a much higher copy number.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.tpb.2011.08.005 
+PMCID: PMC3218222
+PMID: 21925527  [Indexed for MEDLINE]
+

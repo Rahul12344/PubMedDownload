@@ -1,0 +1,68 @@
+
+1. EBioMedicine. 2015 Jan 28;2(3):244-54. doi: 10.1016/j.ebiom.2015.01.015.
+eCollection 2015 Mar.
+
+CRF19_cpx is an Evolutionary fit HIV-1 Variant Strongly Associated With Rapid
+Progression to AIDS in Cuba.
+
+Kouri V(1), Khouri R(2), Alemán Y(1), Abrahantes Y(1), Vercauteren J(3),
+Pineda-Peña AC(4), Theys K(3), Megens S(3), Moutschen M(5), Pfeifer N(6), Van
+Weyenbergh J(3), Pérez AB(1), Pérez J(1), Pérez L(1), Van Laethem K(3), Vandamme 
+AM(7).
+
+Author information: 
+(1)Virology Department, Institute of Tropical Medicine Pedro Kourí, Autopista
+Novia del Mediodía Km 6, Marianao 13, Havana City, Cuba.
+(2)KU Leuven, Department of Microbiology and Immunology, Rega Institute for
+Medical Research, Laboratory of Clinical and Epidemiological Virology, B-3000
+Leuven, Belgium ; LIMI-LIP, Centro de Pesquisa Gonçalo Moniz, FIOCRUZ,
+Salvador-Bahia, Brazil.
+(3)KU Leuven, Department of Microbiology and Immunology, Rega Institute for
+Medical Research, Laboratory of Clinical and Epidemiological Virology, B-3000
+Leuven, Belgium.
+(4)KU Leuven, Department of Microbiology and Immunology, Rega Institute for
+Medical Research, Laboratory of Clinical and Epidemiological Virology, B-3000
+Leuven, Belgium ; Clinical and Molecular Infectious Diseases Group, Faculty of
+Sciences and Mathematics, Universidad del Rosario, Bogotá, Colombia.
+(5)AIDS Reference Center, Centre Hospitalier Universitaire de Liège, Liège,
+Belgium.
+(6)Department of Computational Biology and Applied Algorithmics, Max Planck
+Institute for Informatics, Campus E1 4, 66123 Saarbrücken, Germany.
+(7)KU Leuven, Department of Microbiology and Immunology, Rega Institute for
+Medical Research, Laboratory of Clinical and Epidemiological Virology, B-3000
+Leuven, Belgium ; Centro de Malária e outras Doenças Tropicais and Unidade de
+Microbiologia, Instituto de Higiene e Medicina Tropical, Universidade Nova de
+Lisboa, Lisbon, Portugal.
+
+Comment in
+    EBioMedicine. 2015 Mar;2(3):188-9.
+
+BACKGROUND: Clinicians reported an increasing trend of rapid progression (RP)
+(AIDS within 3 years of infection) in Cuba.
+METHODS: Recently infected patients were prospectively sampled, 52 RP at AIDS
+diagnosis (AIDS-RP) and 21 without AIDS in the same time frame (non-AIDS). 22
+patients were sampled at AIDS diagnosis (chronic-AIDS) retrospectively assessed
+as > 3 years infected. Clinical, demographic, virological, epidemiological and
+immunological data were collected. Pol and env sequences were used for subtyping,
+transmission cluster analysis, and prediction of resistance, co-receptor use and 
+evolutionary fitness. Host, immunological and viral predictors of RP were
+explored through data mining.
+FINDINGS: Subtyping revealed 26 subtype B strains, 6 C, 6 CRF18_cpx, 9 CRF19_cpx,
+29 BG-recombinants and other subtypes/URFs. All patients infected with CRF19
+belonged to the AIDS-RP group. Data mining identified CRF19, oral candidiasis and
+RANTES levels as the strongest predictors of AIDS-RP. CRF19 was more frequently
+predicted to use the CXCR4 co-receptor, had higher fitness scores in the protease
+region, and patients had higher viral load at diagnosis.
+INTERPRETATION: CRF19 is a recombinant of subtype D (C-part of Gag, PR, RT and
+nef), subtype A (N-part of Gag, Integrase, Env) and subtype G (Vif, Vpr, Vpu and 
+C-part of Env). Since subtypes D and A have been associated with respectively
+faster and slower disease progression, our findings might indicate a fit PR
+driving high viral load, which in combination with co-infections may boost RANTES
+levels and thus CXCR4 use, potentially explaining the fast progression. We
+propose that CRF19 is evolutionary very fit and causing rapid progression to AIDS
+in many newly infected patients in Cuba.
+
+DOI: 10.1016/j.ebiom.2015.01.015 
+PMCID: PMC4484819
+PMID: 26137563  [Indexed for MEDLINE]
+

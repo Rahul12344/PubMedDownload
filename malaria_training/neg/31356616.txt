@@ -1,0 +1,52 @@
+
+1. PLoS One. 2019 Jul 29;14(7):e0220225. doi: 10.1371/journal.pone.0220225.
+eCollection 2019.
+
+Genome annotation improvements from cross-phyla proteogenomics and time-of-day
+differences in malaria mosquito proteins using untargeted quantitative
+proteomics.
+
+Imrie L(1), Le Bihan T(1)(2)(3), O'Toole Á(4), Hickner PV(5), Dunn WA(6), Weise
+B(2), Rund SSC(2)(5).
+
+Author information: 
+(1)SynthSys-Synthetic and Systems Biology, School of Biological Sciences,
+University of Edinburgh, Edinburgh, United Kingdom.
+(2)Centre for Immunity, Infection and Evolution, University of Edinburgh,
+Edinburgh, United Kingdom.
+(3)Rapid Novor, Kitchener, Ontario, Canada.
+(4)Institute of Evolutionary Biology, University of Edinburgh, Edinburgh, United 
+Kingdom.
+(5)Eck Institute for Global Health, University of Notre Dame, Notre Dame,
+Indiana, United States of America.
+(6)Boston Children's Hospital, Boston, Massachusetts, United States of America.
+
+The malaria mosquito, Anopheles stephensi, and other mosquitoes modulate their
+biology to match the time-of-day. In the present work, we used a non-hypothesis
+driven approach (untargeted proteomics) to identify proteins in mosquito tissue, 
+and then quantified the relative abundance of the identified proteins from An.
+stephensi bodies. Using these quantified protein levels, we then analyzed the
+data for proteins that were only detectable at certain times-of-the day,
+highlighting the need to consider time-of-day in experimental design. Further, we
+extended our time-of-day analysis to look for proteins which cycle in a rhythmic 
+24-hour ("circadian") manner, identifying 31 rhythmic proteins. Finally, to
+maximize the utility of our data, we performed a proteogenomic analysis to
+improve the genome annotation of An. stephensi. We compare peptides that were
+detected using mass spectrometry but are 'missing' from the An. stephensi
+predicted proteome, to reference proteomes from 38 other primarily human disease 
+vector species. We found 239 such peptide matches and reveal that genome
+annotation can be improved using proteogenomic analysis from taxonomically
+diverse reference proteomes. Examination of 'missing' peptides revealed reading
+frame errors, errors in gene-calling, overlapping gene models, and suspected gaps
+in the genome assembly.
+
+DOI: 10.1371/journal.pone.0220225 
+PMCID: PMC6663012
+PMID: 31356616  [Indexed for MEDLINE]
+
+Conflict of interest statement: TLB has received salary from Rapid Novor. TLB’s
+employment at Rapid Novor does not alter our adherence to PLOS ONE policies on
+sharing data and materials. The other authors have declared that no competing
+interests exist. The specific roles of all authors are articulated in the ‘author
+contributions’ section.
+

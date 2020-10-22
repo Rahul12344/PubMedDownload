@@ -1,0 +1,41 @@
+
+1. BMC Genomics. 2011 Dec 22;12 Suppl 4:S4. doi: 10.1186/1471-2164-12-S4-S4. Epub
+2011 Dec 22.
+
+Origin of multiple periodicities in the Fourier power spectra of the Plasmodium
+falciparum genome.
+
+Nunes MC(1), Wanner EF, Weber G.
+
+Author information: 
+(1)Department of Biological Sciences, Federal University of Ouro Preto, 35400-000
+Ouro Preto, MG, Brazil.
+
+BACKGROUND: Fourier transforms and their associated power spectra are used for
+detecting periodicities and protein-coding genes and is generally regarded as a
+well established technique. Many of the periodicities which have been found with 
+this method are quite well understood such as the periodicity of 3 nt which is
+associated to codon usage. But what is the origin of the peculiar frequency
+multiples k/21 which were reported for a tiny section of chromosome 2 in P.
+falciparum? Are these present in other chromosomes and perhaps in related
+organisms? And how should we interpret fractional periodicities in genomes?
+RESULTS: We applied the binary indicator power spectrum to all chromosomes of P. 
+falciparum, and found that the frequency overtones k/21 are present only in
+non-coding sections. We did not find such frequency overtones in any other
+related genomes. Furthermore, the frequency overtones were identified as
+artifacts of the way the genome is encoded into a numerical sequence, that is,
+they are frequency aliases. By choosing a different way to encode the sequence
+the overtones do not appear. In view of these results, we revisited early
+applications of this technique to proteins where frequency overtones were
+reported.
+CONCLUSIONS: Some authors hinted recently at the possibility of mapping artifacts
+and frequency aliases in power spectra. However, in the case of P. falciparum the
+frequency aliases are particularly strong and can mask the 1/3 frequency which is
+used for gene detecting. This shows that albeit being a well known technique,
+with a long history of application in proteins, few researchers seem to be aware 
+of the problems represented by frequency aliases.
+
+DOI: 10.1186/1471-2164-12-S4-S4 
+PMCID: PMC3287587
+PMID: 22369134  [Indexed for MEDLINE]
+

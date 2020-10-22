@@ -1,0 +1,46 @@
+
+1. Genom Data. 2016 Jul 20;9:118-25. doi: 10.1016/j.gdata.2016.07.006. eCollection
+2016 Sep.
+
+A cross strain Plasmodium falciparum microarray optimized for the transcriptome
+analysis of Plasmodium falciparum patient derived isolates.
+
+Subudhi AK(1), Boopathi PA(1), Middha S(2), Acharya J(2), Rao SN(3),
+Mugasimangalam RC(3), Sirohi P(2), Kochar SK(2), Kochar DK(4), Das A(1).
+
+Author information: 
+(1)Department of Biological Sciences, Birla Institute of Technology and Science
+(BITS), Pilani, Rajasthan, India.
+(2)Department of Medicine, S.P. Medical College, Bikaner, Rajasthan, India.
+(3)Genotypic Technology Pvt. Ltd., Bangalore, India.
+(4)Rajasthan University of Health Sciences, Jaipur, Rajasthan, India.
+
+Malarial parasite P. falciparum, an apicomplexan protozoan has a 23.3 MB nuclear 
+genome and encodes ~ 5600 transcripts. The genetic diversity of the parasite
+within and across geographical zones is a challenge to gene expression studies
+which are essential for understanding of disease process, outcome and developing 
+markers for diagnostics and prognostics. Here, we describe the strategy involved 
+in designing a custom P. falciparum 15K array using the Agilent platform and
+Genotypic's Right Design methodology to study the transcriptome of Indian field
+isolates for which genome sequence information is limited. The array contains
+probes representing genome sequences of two distinct geographical isolates (i.e. 
+3D7 and HB3) and sub-telomeric var gene sequences of a third isolate (IT4) known 
+to adhere in culture condition. Probes in the array have been selected based on
+their efficiency to detect transcripts through a 244K array experimentation.
+Array performance for the 15K array, was evaluated and validated using RNA
+materials from P. falciparum clinical isolates. A large percentage (91%) of the
+represented transcripts was detected from Indian P. falciparum patient isolates. 
+Replicated probes and multiple probes representing the same gene showed perfect
+correlation between them suggesting good probe performance. Additional
+transcripts could be detected due to inclusion of unique probes representing HB3 
+strain transcripts. Variant surface antigen (VSA) transcripts were detected by
+optimized probes representing the VSA genes of three geographically distinct
+strains. The 15K cross strain P. falciparum array has shown good efficiency in
+detecting transcripts from P. falciparum parasite samples isolated from patients.
+The low parasite loads and presence of host RNA makes arrays a preferred platform
+for gene expression studies over RNA-Seq.
+
+DOI: 10.1016/j.gdata.2016.07.006 
+PMCID: PMC4961827
+PMID: 27489776 
+

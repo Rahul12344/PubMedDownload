@@ -1,0 +1,54 @@
+
+1. Genome Biol. 2017 Apr 28;18(1):78. doi: 10.1186/s13059-017-1204-4.
+
+Longitudinal genomic surveillance of Plasmodium falciparum malaria parasites
+reveals complex genomic architecture of emerging artemisinin resistance.
+
+Cerqueira GC(1), Cheeseman IH(2), Schaffner SF(1), Nair S(2), McDew-White M(2),
+Phyo AP(3), Ashley EA(3)(4)(5), Melnikov A(1), Rogov P(1), Birren BW(1), Nosten
+F(3)(4)(5), Anderson TJC(2), Neafsey DE(6).
+
+Author information: 
+(1)Broad Institute of MIT and Harvard, Cambridge, MA, 02142, USA.
+(2)Texas Biomedical Research Institute, San Antonio, TX, 78245, USA.
+(3)Shoklo Malaria Research Unit, Mahidol University, Mae Sot, Thailand.
+(4)Mahidol Oxford Research Unit, Faculty of Tropical Medicine, Mahidol
+University, Bangkok, Thailand.
+(5)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Medicine, University of Oxford, Oxford, UK.
+(6)Broad Institute of MIT and Harvard, Cambridge, MA, 02142, USA.
+neafsey@broadinstitute.org.
+
+Comment in
+    Genome Biol. 2017 Apr 28;18(1):79.
+
+BACKGROUND: Artemisinin-based combination therapies are the first line of
+treatment for Plasmodium falciparum infections worldwide, but artemisinin
+resistance has risen rapidly in Southeast Asia over the past decade. Mutations in
+the kelch13 gene have been implicated in this resistance. We used longitudinal
+genomic surveillance to detect signals in kelch13 and other loci that contribute 
+to artemisinin or partner drug resistance. We retrospectively sequenced the
+genomes of 194 P. falciparum isolates from five sites in Northwest Thailand, over
+the period of a rapid increase in the emergence of artemisinin resistance
+(2001-2014).
+RESULTS: We evaluate statistical metrics for temporal change in the frequency of 
+individual SNPs, assuming that SNPs associated with resistance increase in
+frequency over this period. After Kelch13-C580Y, the strongest temporal change is
+seen at a SNP in phosphatidylinositol 4-kinase, which is involved in a pathway
+recently implicated in artemisinin resistance. Furthermore, other loci exhibit
+strong temporal signatures which warrant further investigation for involvement in
+artemisinin resistance evolution. Through genome-wide association analysis we
+identify a variant in a kelch domain-containing gene on chromosome 10 that may
+epistatically modulate artemisinin resistance.
+CONCLUSIONS: This analysis demonstrates the potential of a longitudinal genomic
+surveillance approach to detect resistance-associated gene loci to improve our
+mechanistic understanding of how resistance develops. Evidence for additional
+genomic regions outside of the kelch13 locus associated with
+artemisinin-resistant parasites may yield new molecular markers for resistance
+surveillance, which may be useful in efforts to reduce the emergence or spread of
+artemisinin resistance in African parasite populations.
+
+DOI: 10.1186/s13059-017-1204-4 
+PMCID: PMC5410087
+PMID: 28454557  [Indexed for MEDLINE]
+

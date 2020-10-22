@@ -1,0 +1,40 @@
+
+1. J Theor Biol. 2014 Aug 7;354:124-36. doi: 10.1016/j.jtbi.2014.03.008. Epub 2014
+Mar 21.
+
+The virus of my virus is my friend: ecological effects of virophage with
+alternative modes of coinfection.
+
+Taylor BP(1), Cortez MH(2), Weitz JS(3).
+
+Author information: 
+(1)School of Physics, Georgia Institute of Technology, Atlanta, GA, USA.
+(2)School of Biology, Georgia Institute of Technology, Atlanta, GA, USA.
+(3)School of Biology, Georgia Institute of Technology, Atlanta, GA, USA; School
+of Physics, Georgia Institute of Technology, Atlanta, GA, USA. Electronic
+address: jsweitz@gatech.edu.
+
+Virophages are viruses that rely on the replication machinery of other viruses to
+reproduce within eukaryotic hosts. Two different modes of coinfection have been
+posited based on experimental observation. In one mode, the virophage and the
+virus enter the host independently. In the other mode, the virophage adheres to
+the virus so both virophage and virus enter the host together. Here we ask: what 
+are the ecological effects of these different modes of coinfection? In
+particular, what ecological effects are common to both infection modes, and what 
+are the differences particular to each mode? We develop a pair of biophysically
+motivated ODE models of viral-host population dynamics, corresponding to dynamics
+arising from each mode of infection. We find that both modes of coinfection allow
+for the coexistence of the virophage, virus, and host either at a stable fixed
+point or through cyclical dynamics. In both models, virophage tends to be the
+most abundant population and their presence always reduces the viral abundance
+and increases the host abundance. However, we do find qualitative differences
+between models. For example, via extensive sampling of biologically relevant
+parameter space, we only observe bistability when the virophage and the virus
+enter the host together. We discuss how such differences may be leveraged to help
+identify modes of infection in natural environments from population level data.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jtbi.2014.03.008 
+PMID: 24662503  [Indexed for MEDLINE]
+

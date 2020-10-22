@@ -1,0 +1,44 @@
+
+1. PLoS Pathog. 2012;8(5):e1002680. doi: 10.1371/journal.ppat.1002680. Epub 2012 May
+10.
+
+KSHV PAN RNA associates with demethylases UTX and JMJD3 to activate lytic
+replication through a physical interaction with the virus genome.
+
+Rossetto CC(1), Pari G.
+
+Author information: 
+(1)The Department of Microbiology & Immunology, University of Nevada, Reno School
+of Medicine, Reno, Nevada, United States of America.
+
+Kaposi's sarcoma-associated herpesvirus (KSHV) is the cause of Kaposi's sarcoma
+and body cavity lymphomas. KSHV lytic infection produces PAN RNA, a highly
+abundant noncoding polyadenylated transcript that is retained in the nucleus. We 
+recently demonstrated that PAN RNA interacts with several viral and cellular
+factors and can disregulate the expression of genes that modulate immune
+response. In an effort to define the role of PAN RNA in the context of the virus 
+genome we generated a recombinant BACmid that deleted the PAN RNA locus. Because 
+of the apparent duplication of the PAN RNA locus in BAC36, we generated BAC36CR, 
+a recombinant BACmid that removes the duplicated region. BAC36CR was used as a
+template to delete most of the PAN RNA locus to generate BAC36CRΔPAN. BAC36CRΔPAN
+failed to produce supernatant virus and displayed a general decrease in mRNA
+accumulation of representative immediate early, early and late genes. Most
+strikingly, K-Rta expression was decreased in lytically induced
+BAC36CRΔPAN-containing cell lines at early and late time points post induction.
+Expression of PAN RNA in trans in BAC36CRΔPAN containing cells resulted in an
+increase in K-Rta expression, however K-Rta over expression failed to rescue
+BAC36CRΔPAN, suggesting that PAN RNA plays a wider role in virus replication. To 
+investigate the role of PAN RNA in the activation of K-Rta expression, we
+demonstrate that PAN RNA physically interacts with the ORF50 promoter. RNA
+chromatin immunoprecipitation assays show that PAN RNA interacts with
+demethylases JMJD3 and UTX, and the histone methyltransferase MLL2. Consistent
+with the interaction with demethylases, expression of PAN RNA results in a
+decrease of the repressive H3K27me3 mark at the ORF50 promoter. These data
+support a model where PAN RNA is a multifunctional regulatory transcript that
+controls KSHV gene expression by mediating the modification of chromatin by
+targeting the KSHV repressed genome.
+
+DOI: 10.1371/journal.ppat.1002680 
+PMCID: PMC3349751
+PMID: 22589717  [Indexed for MEDLINE]
+

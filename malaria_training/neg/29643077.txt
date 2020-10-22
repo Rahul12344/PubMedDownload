@@ -1,0 +1,64 @@
+
+1. mSphere. 2018 Apr 11;3(2). pii: e00130-18. doi: 10.1128/mSphere.00130-18. Print
+2018 Apr 25.
+
+Single-Cell Analysis Reveals Distinct Gene Expression and Heterogeneity in Male
+and Female Plasmodium falciparum Gametocytes.
+
+Walzer KA(1)(2), Kubicki DM(1)(2), Tang X(3), Chi JT(4)(2).
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, Duke University, Durham,
+North Carolina, USA.
+(2)Center for Genomic and Computational Biology, Duke University, Durham, North
+Carolina, USA.
+(3)Department of Biological Sciences, Michigan Technological University,
+Houghton, Michigan, USA.
+(4)Department of Molecular Genetics and Microbiology, Duke University, Durham,
+North Carolina, USA jentsan.chi@duke.edu.
+
+Sexual reproduction is an obligate step in the Plasmodium falciparum life cycle, 
+with mature gametocytes being the only form of the parasite capable of
+human-to-mosquito transmission. Development of male and female gametocytes takes 
+9 to 12 days, and although more than 300 genes are thought to be specific to
+gametocytes, only a few have been postulated to be male or female specific.
+Because these genes are often expressed during late gametocyte stages and for
+some, male- or female-specific transcript expression is debated, the separation
+of male and female populations is technically challenging. To overcome these
+challenges, we have developed an unbiased single-cell approach to determine which
+transcripts are expressed in male versus female gametocytes. Using microfluidic
+technology, we isolated single mid- to late-stage gametocytes to compare the
+expression of 91 genes, including 87 gametocyte-specific genes, in 90 cells. Such
+analysis identified distinct gene clusters whose expression was associated with
+male, female, or all gametocytes. In addition, a small number of male gametocytes
+clustered separately from female gametocytes based on sex-specific expression
+independent of stage. Many female-enriched genes also exhibited stage-specific
+expression. RNA fluorescent in situ hybridization of male and female markers
+validated the mutually exclusive expression pattern of male and female
+transcripts in gametocytes. These analyses uncovered novel male and female
+markers that are expressed as early as stage III gametocytogenesis, providing
+further insight into Plasmodium sex-specific differentiation previously masked in
+population analyses. Our single-cell approach reveals the most robust markers for
+sex-specific differentiation in Plasmodium gametocytes. Such single-cell
+expression assays can be generalized to all eukaryotic pathogens.IMPORTANCE Most 
+human deaths that result from malaria are caused by the eukaryotic parasite
+Plasmodium falciparum The only form of this parasite that is transmitted to the
+mosquito is the sexual form, called the gametocyte. The production of mature
+gametocytes can take up to 2 weeks and results in phenotypically distinct males
+and females, although what causes this gender-specific differentiation remains
+largely unknown. Here, we demonstrate the first use of microfluidic technology to
+capture single gametocytes and determine their temporal sex-specific gene
+expression in an unbiased manner. We were able to determine male or female
+identity of single cells based on the upregulation of gender-specific genes as
+early as mid-stage gametocytes. This analysis has revealed strong markers for
+male and female gametocyte differentiation that were previously concealed in
+population analyses. Similar single-cell analyses in eukaryotic pathogens using
+this method may uncover rare cell types and heterogeneity previously masked in
+population studies.
+
+Copyright © 2018 Walzer et al.
+
+DOI: 10.1128/mSphere.00130-18 
+PMCID: PMC5909122
+PMID: 29643077  [Indexed for MEDLINE]
+

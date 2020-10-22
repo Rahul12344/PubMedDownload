@@ -1,0 +1,44 @@
+
+1. BMC Genomics. 2017 Aug 30;18(1):669. doi: 10.1186/s12864-017-4086-7.
+
+The transcription factor Maf-S regulates metabolic resistance to insecticides in 
+the malaria vector Anopheles gambiae.
+
+Ingham VA(1), Pignatelli P(2), Moore JD(3), Wagstaff S(2), Ranson H(4).
+
+Author information: 
+(1)Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, England,
+L35QA. victoria.ingham@lstmed.ac.uk.
+(2)Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, England,
+L35QA.
+(3)Earlham Institute, Norwich Research Park Innovation Centre, Colney Lane,
+Norwich, England, NR4 7UH.
+(4)Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, England,
+L35QA. hilary.ranson@lstmed.ac.uk.
+
+BACKGROUND: Malaria control in Africa is dependent upon the use insecticides but 
+intensive use of a limited number of chemicals has led to resistance in mosquito 
+populations. Increased production of enzymes that detoxify insecticides is one of
+the most potent resistance mechanisms. Several metabolic enzymes have been
+implicated in insecticide resistance but the processes controlling their
+expression have remained largely elusive.
+RESULTS: Here, we show that the transcription factor Maf-S regulates expression
+of multiple detoxification genes, including the key insecticide metabolisers
+CYP6M2 and GSTD1 in the African malaria vector Anopheles gambiae. Attenuation of 
+this transcription factor through RNAi induced knockdown reduced transcript
+levels of these effectors and significantly increased mortality after exposure to
+the pyrethroid insecticides and DDT (permethrin: 9.2% to 19.2% (p = 0.015),
+deltamethrin: 3.9% to 21.6% (p = 0.036) and DDT: 1% to 11.7% (p = <0.01), whilst 
+dramatically decreasing mortality induced by the organophosphate malathion (79.6%
+to 8.0% (p = <0.01)). Additional genes regulated by Maf-S were also identified
+providing new insight into the role of this transcription factor in insects.
+CONCLUSION: Maf-S is a key regulator of detoxification genes in Anopheles
+mosquitoes. Disrupting this transcription factor has opposing effects on the
+mosquito's response to different insecticide classes providing a mechanistic
+explanation to the negative cross resistance that has been reported between
+pyrethroids and organophosphates.
+
+DOI: 10.1186/s12864-017-4086-7 
+PMCID: PMC5577768
+PMID: 28854876  [Indexed for MEDLINE]
+

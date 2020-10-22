@@ -1,0 +1,42 @@
+
+1. BMC Genomics. 2013 Jan 16;14:8. doi: 10.1186/1471-2164-14-8.
+
+A new computational approach redefines the subtelomeric vir superfamily of
+Plasmodium vivax.
+
+Lopez FJ(1), Bernabeu M, Fernandez-Becerra C, del Portillo HA.
+
+Author information: 
+(1)Barcelona Centre for International Health Research, CRESIB, Hospital
+Clínic-Universitat de Barcelona, Roselló 153, 1a planta CEK Building, 08036
+Barcelona, Spain.
+
+BACKGROUND: Subtelomeric multigene families of malaria parasites encode virulent 
+determinants. The published genome sequence of Plasmodium vivax revealed the
+largest subtelomeric multigene family of human malaria parasites, the vir
+super-family, presently composed of 346 vir genes subdivided into 12 different
+subfamilies based on sequence homologies detected by BLAST.
+RESULTS: A novel computational approach was used to redefine vir genes. First, a 
+protein-weighted graph was built based on BLAST alignments. This graph was
+processed to ensure that edge weights are not exclusively based on the BLAST
+score between the two corresponding proteins, but strongly dependant on their
+graph neighbours and their associations. Then the Markov Clustering Algorithm was
+applied to the protein graph. Next, the Homology Block concept was used to
+further validate this clustering approach. Finally, proteome-wide analysis was
+carried out to predict new VIR members. Results showed that (i) three previous
+subfamilies cannot longer be classified as vir genes; (ii) most previously
+unclustered vir genes were clustered into vir subfamilies; (iii) 39 hypothetical 
+proteins were predicted as VIR proteins; (iv) many of these findings are
+supported by a number of structural and functional evidences, sub-cellular
+localization studies, gene expression analysis and chromosome localization (v)
+this approach can be used to study other multigene families in malaria.
+CONCLUSIONS: This methodology, resource and new classification of vir genes will 
+contribute to a new structural framing of this multigene family and other
+multigene families of malaria parasites, facilitating the design of experiments
+to understand their role in pathology, which in turn may help furthering vaccine 
+development.
+
+DOI: 10.1186/1471-2164-14-8 
+PMCID: PMC3566924
+PMID: 23324551  [Indexed for MEDLINE]
+

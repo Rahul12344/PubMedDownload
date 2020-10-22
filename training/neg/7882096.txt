@@ -1,0 +1,37 @@
+
+1. J Acquir Immune Defic Syndr Hum Retrovirol. 1995 Apr 1;8(4):321-9.
+
+Localized or systemic in vivo heat inactivation of human immunodeficiency virus
+(HIV): a mathematical analysis.
+
+Pennypacker C(1), Perelson AS, Nys N, Nelson G, Sessler DI.
+
+Author information: 
+(1)Lawrence Berkeley Laboratory, University of California 94720.
+
+Comment in
+    J Acquir Immune Defic Syndr Hum Retrovirol. 1995 Nov 1;10(3):391.
+
+Temperatures > or = 42 degrees C, maintained for > or = 25 min, inactivate
+approximately 25% of human immunodeficiency virus (HIV). HIV-infected T cells are
+more sensitive to heat than healthy lymphocytes, and susceptibility increases
+when the cells are presensitized by exposure to tumor necrosis factor. Thus,
+induction of a whole-body hyperthermia or hyperthermia specifically limited to
+tissues having a high viral load is a potential antiviral therapy for acquired
+immunodeficiency syndrome (AIDS). Accordingly, we incorporated therapeutic
+hyperthermia into an existing mathematical model that evaluates the interaction
+between HIV and CD4+ T cells. Given the assumptions and limitations of this
+model, the results indicate that a daily therapy lowering the population of
+actively infected cells by 40% or infectious virus by 40% would effectively
+reverse the depletion of T cells. In contrast, a daily decline of 20% of either
+actively infected cells or infectious virus would have a marginal effect.
+However, daily reduction by 20% of both actively infected cells and infectious
+virus could restore T-cell numbers, assuming that permanent damage had not been
+inflicted on the thymus. Since daily treatments would probably be excessively
+stressful, whole-body hyperthermia seems unlikely to be clinically useful. In
+contrast, heating directed specifically to areas of viral concentration may be
+effective and have a suitable risk/benefit ratio.
+
+
+PMID: 7882096  [Indexed for MEDLINE]
+

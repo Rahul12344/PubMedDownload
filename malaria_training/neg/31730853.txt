@@ -1,0 +1,62 @@
+
+1. Cell. 2019 Nov 14;179(5):1112-1128.e26. doi: 10.1016/j.cell.2019.10.030.
+
+Genome-Scale Identification of Essential Metabolic Processes for Targeting the
+Plasmodium Liver Stage.
+
+Stanway RR(1), Bushell E(2), Chiappino-Pepe A(3), Roques M(1), Sanderson T(4),
+Franke-Fayard B(5), Caldelari R(1), Golomingi M(1), Nyonda M(6), Pandey V(7),
+Schwach F(4), Chevalley S(5), Ramesar J(5), Metcalf T(4), Herd C(4), Burda PC(8),
+Rayner JC(9), Soldati-Favre D(6), Janse CJ(5), Hatzimanikatis V(3), Billker
+O(10), Heussler VT(11).
+
+Author information: 
+(1)Institute of Cell Biology, University of Bern, Bern 3012, Switzerland.
+(2)Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10
+1SA, UK; Molecular Infection Medicine Sweden (MIMS), Department of Molecular
+Biology, Umeå University, Umeå 901 87, Sweden.
+(3)Laboratory of Computational Systems Biotechnology, École Polytechnique
+Fédérale de Lausanne, EPFL, Lausanne 1015, Switzerland.
+(4)Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10
+1SA, UK.
+(5)Leiden Malaria Research Group, Parasitology, Center of Infectious Diseases,
+Leiden University Medical Center (LUMC), Leiden 2333ZA, the Netherlands.
+(6)Department of Microbiology & Molecular Medicine, Faculty of Medicine,
+University of Geneva, Geneva 1211, Switzerland.
+(7)Laboratory of Computational Systems Biotechnology, École Polytechnique
+Fédérale de Lausanne, EPFL, Lausanne 1015, Switzerland; Molecular Infection
+Medicine Sweden (MIMS), Department of Molecular Biology, Umeå University, Umeå
+901 87, Sweden.
+(8)Institute of Cell Biology, University of Bern, Bern 3012, Switzerland;
+Bernhard Nocht Institute for Tropical Medicine, Hamburg 20359, Germany.
+(9)Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10
+1SA, UK; Cambridge Institute for Medical Research, University of Cambridge, Hills
+Road, Cambridge CB2, 0XY, UK.
+(10)Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridge CB10
+1SA, UK; Molecular Infection Medicine Sweden (MIMS), Department of Molecular
+Biology, Umeå University, Umeå 901 87, Sweden. Electronic address:
+oliver.billker@umu.se.
+(11)Institute of Cell Biology, University of Bern, Bern 3012, Switzerland.
+Electronic address: volker.heussler@izb.unibe.ch.
+
+Plasmodium gene functions in mosquito and liver stages remain poorly
+characterized due to limitations in the throughput of phenotyping at these
+stages. To fill this gap, we followed more than 1,300 barcoded P. berghei mutants
+through the life cycle. We discover 461 genes required for efficient parasite
+transmission to mosquitoes through the liver stage and back into the bloodstream 
+of mice. We analyze the screen in the context of genomic, transcriptomic, and
+metabolomic data by building a thermodynamic model of P. berghei liver-stage
+metabolism, which shows a major reprogramming of parasite metabolism to achieve
+rapid growth in the liver. We identify seven metabolic subsystems that become
+essential at the liver stages compared with asexual blood stages: type II fatty
+acid synthesis and elongation (FAE), tricarboxylic acid, amino sugar, heme,
+lipoate, and shikimate metabolism. Selected predictions from the model are
+individually validated in single mutants to provide future targets for drug
+development.
+
+Copyright © 2019 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2019.10.030 
+PMCID: PMC6904910
+PMID: 31730853  [Indexed for MEDLINE]
+

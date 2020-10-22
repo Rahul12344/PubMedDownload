@@ -1,0 +1,44 @@
+
+1. Malar J. 2014 Aug 30;13:340. doi: 10.1186/1475-2875-13-340.
+
+Effects of the kdr resistance mutation on the susceptibility of wild Anopheles
+gambiae populations to Plasmodium falciparum: a hindrance for vector control.
+
+Ndiath MO(1), Cailleau A, Diedhiou SM, Gaye A, Boudin C, Richard V, Trape JF.
+
+Author information: 
+(1)G4 Group, Institut Pasteur International Network, Institut Pasteur de Bangui, 
+Bangui BP 923, Central African Republic. ousmane.ndiath@gmail.com.
+
+BACKGROUND: In the context of generalization of insecticide resistance, the
+hypothesis that insecticide resistance has a positive impact on the capacity of
+mosquitoes to transmit malaria constitutes a hindrance for malaria elimination.
+The aim of this study was to investigated populations of Anopheles coluzzii and
+Anopheles gambiae S molecular form to assess whether different genotypes at the
+kdr locus are responsible for different susceptibility to Plasmodium falciparum
+infection.
+METHODS: F3 progeny of An. gambiae s.l. collected in Dielmo were infected by
+direct membrane feeding with P. falciparum gametocyte-containing blood sampled
+from volunteer patients. The presence of oocysts was determined by light
+microscopy after seven days, and the presence of sporozoites by ELISA after
+14 days. Mosquito species and molecular forms were identified by PCR. Generalized
+linear models were performed using the R software to test the effect of
+explanatory variables including the genotype at the kdr locus on infection rate
+and density.
+RESULTS: The odds of being infected with oocysts and sporozoites were greater in 
+RS and RR groups than in SS groups (χ2 = 42.8, df = 1, P(>χ2) = 6.1e-11). The
+density of infection was also dependent on genotype, with RR and RS genotypes
+showing denser infection than SS genotypes. Pairwise comparisons of oocyst number
+and absorbance indicated sometime a small betwen species (i.e. between An.
+gambiae S form, and An. coluzzii), but the effect of genotype was much more
+important.
+CONCLUSION: The presence of the resistance allele at the kdr locus increases
+susceptibility to Plasmodium not only at the oocyst stage but also at the
+sporozoite stage in non-genetically modified wild mosquitoes. These results have 
+significant implications and should be taken into account in the development of
+strategies for malaria control.
+
+DOI: 10.1186/1475-2875-13-340 
+PMCID: PMC4159551
+PMID: 25176292  [Indexed for MEDLINE]
+

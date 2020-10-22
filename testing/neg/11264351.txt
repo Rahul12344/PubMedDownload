@@ -1,0 +1,54 @@
+
+1. J Virol. 2001 Apr;75(8):3613-25.
+
+Degradation of p21cip1 in cells productively infected with human cytomegalovirus.
+
+Chen Z(1), Knutson E, Kurosky A, Albrecht T.
+
+Author information: 
+(1)Department of Microbiology, The University of Texas Medical Branch, Galveston,
+Texas 77555-1019, USA.
+
+Human cytomegalovirus (HCMV) stimulates arrested cells to enter the cell cycle by
+activating cyclin-dependent kinases (Cdks), notably Cdk2. Several mechanisms are 
+involved in the activation of Cdk2. HCMV causes a substantial increase in the
+abundance of cyclin E and stimulates translocation of Cdk2 from the cytoplasm to 
+the nucleus. Further, the abundance of the Cdk inhibitors (CKIs) p21cip1/waf1
+(p21cip1) and p27kip1 is substantially reduced. The activity of cyclin E/Cdk2
+increases as levels of CKIs, particularly p21cip1, fall. We have previously shown
+that these phenomena contribute to priming the cell for efficient replication of 
+HCMV. In this study, the mechanisms responsible for the decrease in p21cip1
+levels after HCMV infection were investigated by measuring p21cip1 RNA and
+protein levels in permissive human lung (LU) fibroblasts after HCMV infection.
+Northern blot analysis revealed that p21cip1 RNA levels increased briefly at 3 h 
+after HCMV infection and then decreased to their nadir at 24 h; thereafter, RNA
+levels increased to about 60% of the preinfection level. Western blot analysis
+demonstrated that the relative abundance of p21cip1 protein roughly paralleled
+the observed changes in initial RNA levels; however, the final levels of protein 
+were much lower than preinfection levels. After a transient increase at 3 h
+postinfection, p21cip1 abundance declined sharply over the next 24 h and remained
+at a very low level through 96 h postinfection. The disparity between p21cip1 RNA
+and protein levels suggested that the degradation of p21cip1 might be affected in
+HCMV-infected cells. Treatment of HCMV-infected cells with MG132, an inhibitor of
+proteasome-mediated proteolysis, provided substantial protection of p21cip1 in
+mock-infected cells, but MG132 was much less effective in protecting p21cip1 in
+HCMV-infected cells. The addition of E64d or Z-Leu-Leu-H, each an inhibitor of
+calpain activity, to HCMV-infected cells substantially increased the abundance of
+p21cip1 in a concentration-dependent manner. To verify that p21cip1 was a
+substrate for calpain, purified recombinant p21cip1 was incubated with either
+m-calpain or mu-calpain, which resulted in rapid proteolysis of p21cip1. E64d
+inhibited the proteolysis of p21cip1 catalyzed by either m-calpain or mu-calpain.
+Direct measurement of calpain activity in HCMV-infected LU cells indicated that
+HCMV infection induced a substantial and sustained increase in calpain activity, 
+although there was no change in the abundance of either m- or mu-calpain or the
+endogenous calpain inhibitor calpastatin. The observed increase of calpain
+activity was consistent with the increases in intracellular free Ca2+ and
+phospholipid degradation in HCMV-infected LU cells reported previously from our
+laboratory. Considered together, these results suggest that the increase in
+calpain activity observed following HCMV infection contributes significantly to
+the reduction of p21cip1 levels and the resultant cell cycle progression.
+
+DOI: 10.1128/JVI.75.8.3613-3625.2001 
+PMCID: PMC114853
+PMID: 11264351  [Indexed for MEDLINE]
+

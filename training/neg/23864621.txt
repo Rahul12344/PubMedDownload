@@ -1,0 +1,35 @@
+
+1. J Virol. 2013 Sep;87(18):10190-4. doi: 10.1128/JVI.01467-13. Epub 2013 Jul 17.
+
+The template specificity of bacteriophage Phi6 RNA polymerase.
+
+Qiao J(1), Mindich L.
+
+Author information: 
+(1)The Public Health Research Institute, Rutgers Biomedical and Health Sciences, 
+Newark, New Jersey, USA.
+
+Bacteriophage Φ6 contains three double-stranded RNA (dsRNA) genomic segments, L, 
+M, and S. The RNA is located inside a core particle composed of multiple copies
+of a major structural protein, an RNA-dependent RNA polymerase, a hexameric
+NTPase, and an auxiliary protein. The virion RNA polymerase in the core particle 
+transcribes segments M and S in vitro. Segment L is transcribed poorly because
+its transcript starts with GU instead of GG found on segments S and M.
+Transcription in vivo is modified by the binding of host protein YajQ to the
+outside the core particle so that segment L is transcribed well. This mechanism
+is the determinant of the temporal control of gene expression in Φ6. Mutants of
+Φ6 have been isolated that are independent of YajQ for transcription of segment
+L. The mutations are found in the gene of the viral polymerase or the major
+capsid protein or both. These mutants are capable of transcribing segment L with 
+the GU start or GA or GC. The same is found to be true when YajQ is added to
+wild-type particles. Minus-strand synthesis has restrictions that are different
+from that of plus-strand synthesis, and YajQ or mutations to independence do not 
+modify minus-strand synthesis behavior. Purified polymerase P2 is able to
+transcribe dsRNA, but transcription behavior of segment L by both wild-type and
+mutant polymerases is different from that seen in capsid structures. Adding YajQ 
+to purified polymerase does not change its transcription specificity.
+
+DOI: 10.1128/JVI.01467-13 
+PMCID: PMC3754000
+PMID: 23864621  [Indexed for MEDLINE]
+

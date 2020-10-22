@@ -1,0 +1,49 @@
+
+1. Talanta. 2018 Feb 1;178:569-576. doi: 10.1016/j.talanta.2017.09.076. Epub 2017
+Sep 29.
+
+The biological acoustic sensor to record the interactions of the microbial cells 
+with the phage antibodies in conducting suspensions.
+
+Guliy ОI(1), Zaitsev BD(2), Borodina IA(2), Shikhabudinov АМ(2), Teplykh AA(2),
+Staroverov SA(3), Fomin AS(4).
+
+Author information: 
+(1)Institute of Biochemistry & Physiology of Plants & Microorganisms RAS, 13
+Prospect Enthusiastic, Saratov 410049, Russia; Saratov State Agrarian University,
+Saratov 410012, Russia; Scientific Research Veterinary Institute, Saratov 410028,
+Russia. Electronic address: guliy_olga@mail.ru.
+(2)Kotel'nikov Institute of Radio Engineering and Electronics RAS, Saratov
+Branch, Saratov 410019, Russia.
+(3)Scientific Research Veterinary Institute, Saratov 410028, Russia.
+(4)Institute of Biochemistry & Physiology of Plants & Microorganisms RAS, 13
+Prospect Enthusiastic, Saratov 410049, Russia; Scientific Research Veterinary
+Institute, Saratov 410028, Russia.
+
+The acoustic biological sensor for the analysis of the bacterial cells in
+conducting suspension was developed. The sensor represented the two channel delay
+line based on the piezoelectric plate of Y-X lithium niobate thick of 0.2mm. Two 
+pairs of the interdigital transducers (IDT) for the excitation and reception of
+shear horizontal acoustic wave of zero order (SH0) in each channel were deposited
+by the method of photolithography. One channel of the delay line was electrically
+shorted by the deposition of thin aluminum film between IDTs. The second channel 
+remained as electrically open. The liquid container with the volume of 5ml was
+fixed on the plate surface between IDTs by the glue, which did not cause the
+additional insertion loss. For the first time the influence of the conductivity
+of the cell suspension on the registration of the specific and nonspecific
+interactions of the bacterial cells with phage-antibodies (phage-Abs) was studied
+by means of the developed sensor. The dependencies of the change in insertion
+loss and phase of the output signal on the conductivity of the buffer solution at
+specific/nonspecific interactions for the electrically open and shorted channels 
+of the delay line were obtained. It was shown that the sensor successfully
+registered the interactions of microbial cells with phage-Abs in the range of the
+conductivity of 2-20 μS/cm on the model samples A. brasilense Sp245 - specific
+phage-Abs. The sensor in the time regime of the operation fast reacted on the
+specific/nonspecific interaction and the time of the stabilization of the output 
+parameters did not exceed 10min.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.talanta.2017.09.076 
+PMID: 29136863  [Indexed for MEDLINE]
+

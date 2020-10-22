@@ -1,0 +1,52 @@
+
+1. PLoS One. 2019 Jan 29;14(1):e0211497. doi: 10.1371/journal.pone.0211497.
+eCollection 2019.
+
+Vgsc-interacting proteins are genetically associated with pyrethroid resistance
+in Aedes aegypti.
+
+Campbell CL(1), Saavedra-Rodriguez K(1), Kubik TD(1), Lenhart A(2),
+Lozano-Fuentes S(1), Black WC 4th(1).
+
+Author information: 
+(1)Department of Microbiology, Immunology and Pathology, Colorado State
+University, Fort Collins, Colorado, United States of America.
+(2)Division of Parasitic Diseases and Malaria, Center for Global Health, Centers 
+for Disease Control and Prevention, Atlanta, Georgia, United States of America.
+
+Association mapping of factors that condition pyrethroid resistance in Aedes
+aegypti has consistently identified genes in multiple functional groups. Toward
+better understanding of the mechanisms involved, we examined high throughput
+sequencing data (HTS) from two Aedes aegypti aegypti collections from Merida,
+Yucatan, Mexico treated with either permethrin or deltamethrin. Exome capture
+enrichment for coding regions and the AaegL5 annotation were used to identify
+genes statistically associated with resistance. The frequencies of single
+nucleotide polymorphisms (SNPs) were compared between resistant and susceptible
+mosquito pools using a contingency χ2 analysis. The -log10(χ2 p value) was
+calculated at each SNP site, with a weighted average determined from all sites in
+each gene. Genes with -log10(χ2 p value) ≥ 4.0 and present among all 3 treatment 
+groups were subjected to gene set enrichment analysis (GSEA). We found that
+several functional groups were enriched compared to all coding genes. These
+categories were transport, signal transduction and metabolism, in order from
+highest to lowest statistical significance. Strikingly, 21 genes with
+demonstrated association to synaptic function were identified. In the high
+association group (n = 1,053 genes), several genes were identified that also
+genetically or physically interact with the voltage-gated sodium channel (VGSC). 
+These genes were eg., CHARLATAN (CHL), a transcriptional regulator, several
+ankyrin-domain proteins, PUMILIO (PUM), a translational repressor, and NEDD4 (E3 
+ubiquitin-protein ligase). There were 13 genes that ranked among the top 10%:
+these included VGSC; CINGULIN, a predicted neuronal gap junction protein, and the
+aedine ortholog of NERVY (NVY), a transcriptional regulator. Silencing of CHL and
+NVY followed by standard permethrin bottle bioassays validated their association 
+with permethrin resistance. Importantly, VGSC levels were also reduced about 50% 
+in chl- or nvy-dsRNA treated mosquitoes. These results are consistent with the
+contribution of a variety of neuronal pathways to pyrethroid resistance in Ae.
+aegypti.
+
+DOI: 10.1371/journal.pone.0211497 
+PMCID: PMC6350986
+PMID: 30695054  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,49 @@
+
+1. Nat Commun. 2018 Jul 9;9(1):2656. doi: 10.1038/s41467-018-04966-3.
+
+Genome-wide real-time in vivo transcriptional dynamics during Plasmodium
+falciparum blood-stage development.
+
+Painter HJ(1)(2), Chung NC(3)(4), Sebastian A(5), Albert I(1), Storey JD(3)(6),
+Llinás M(7)(8)(9).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, The Pennsylvania State
+University, University Park, PA, 16802, USA.
+(2)Huck Center for Malaria Research, The Pennsylvania State University,
+University Park, PA, 16802, USA.
+(3)Lewis-Sigler Institute for Integrative Genomics and Department of Molecular
+Biology, Princeton University, Princeton, NJ, 08544, USA.
+(4)Institute of Informatics, Faculty of Mathematics, Informatics, and Mechanics, 
+University of Warsaw, 02-097 Warsaw, Poland.
+(5)Huck Institutes of the Life Sciences, The Pennsylvania State University,
+University Park, PA, 16802, USA.
+(6)Center for Statistics and Machine Learning, Princeton University, Princeton,
+NJ, 08544, USA.
+(7)Department of Biochemistry and Molecular Biology, The Pennsylvania State
+University, University Park, PA, 16802, USA. manuel@psu.edu.
+(8)Huck Center for Malaria Research, The Pennsylvania State University,
+University Park, PA, 16802, USA. manuel@psu.edu.
+(9)Department of Chemistry, The Pennsylvania State University, University Park,
+PA, 16802, USA. manuel@psu.edu.
+
+Genome-wide analysis of transcription in the malaria parasite Plasmodium
+falciparum has revealed robust variation in steady-state mRNA abundance
+throughout the 48-h intraerythrocytic developmental cycle (IDC), suggesting that 
+this process is highly dynamic and tightly regulated. Here, we utilize rapid
+4-thiouracil (4-TU) incorporation via pyrimidine salvage to specifically label,
+capture, and quantify newly-synthesized RNA transcripts at every hour throughout 
+the IDC. This high-resolution global analysis of the transcriptome captures the
+timing and rate of transcription for each newly synthesized mRNA in vivo,
+revealing active transcription throughout all IDC stages. Using a statistical
+model to predict the mRNA dynamics contributing to the total mRNA abundance at
+each timepoint, we find varying degrees of transcription and stabilization for
+each mRNA corresponding to developmental transitions. Finally, our results
+provide new insight into co-regulation of mRNAs throughout the IDC through
+regulatory DNA sequence motifs, thereby expanding our understanding of P.
+falciparum mRNA dynamics.
+
+DOI: 10.1038/s41467-018-04966-3 
+PMCID: PMC6037754
+PMID: 29985403  [Indexed for MEDLINE]
+

@@ -1,0 +1,53 @@
+
+1. Cell Microbiol. 2017 Aug;19(8). doi: 10.1111/cmi.12735. Epub 2017 Mar 13.
+
+Laser capture microdissection enables transcriptomic analysis of dividing and
+quiescent liver stages of Plasmodium relapsing species.
+
+Cubi R(1), Vembar SS(2)(3)(4), Biton A(5), Franetich JF(1), Bordessoulles M(1),
+Sossau D(1)(6), Zanghi G(1), Bosson-Vanga H(1), Benard M(7), Moreno A(8),
+Dereuddre-Bosquet N(9), Le Grand R(9), Scherf A(2)(3)(4), Mazier D(1)(10).
+
+Author information: 
+(1)Centre d'Immunologie et des Maladies Infectieuses, CNRS ERL8255, INSERM U1135,
+Sorbonne Universités, UPMC Univ Paris 06, Paris, France.
+(2)Unité Biologie des Interactions Hôte-Parasite-Institut Pasteur, Paris, France.
+(3)CNRS ERL 9195, Paris, France.
+(4)INSERM U1201, Paris, France.
+(5)Centre de Bioinformatique, Biostatistique et Biologie Intégrative (C3BI, USR
+3756 Institut Pasteur et CNRS), Paris, France.
+(6)Department of Dermatology, Eberhard Karls University, Tübingen, Germany.
+(7)Primacen, Normandie Université, Mont-Saint-Aignan, France.
+(8)AP-HP, Hôpital St. Antoine, Service de Parasitologie-Mycologie, 75012, Paris, 
+France.
+(9)Immunology of Viral Infections and Autoimmune Diseases, CEA-Université Paris
+Sud 1-INSERM U1184, Fontenay-aux-Roses, France.
+(10)AP-HP, Groupe Hospitalier Pitié-Salpêtrière, Service Parasitologie-Mycologie,
+Paris, France.
+
+Dormant liver stage forms (hypnozoites) of the malaria parasite Plasmodium vivax 
+present major hurdles to control and eradicate infection. Despite major research 
+efforts, the molecular composition of hypnozoites remains ill defined. Here, we
+applied a combination of state-of-the-art technologies to generate the first
+transcriptome of hypnozoites. We developed a robust laser dissection microscopy
+protocol to isolate individual Plasmodium cynomolgi hypnozoites and schizonts
+from infected monkey hepatocytes and optimized RNA-seq analysis to obtain the
+first transcriptomes of these stages. Comparative transcriptomic analysis
+identified 120 transcripts as being differentially expressed in the hypnozoite
+stage relative to the dividing liver schizont, with 69 and 51 mRNAs being up- or 
+down-regulated, respectively, in the hypnozoites. This lead to the identification
+of potential markers of commitment to and maintenance of the dormant state of the
+hypnozoite including three transcriptional regulators of the ApiAP2 family, one
+of which is unique to P. cynomolgi and P. vivax, and the global translational
+repressor, eIF2a kinase eIK2, all of which are upregulated in the hypnozoite.
+Together, this work not only provides a primary experimentally-derived list of
+molecular markers of hypnozoites but also identifies transcriptional and
+posttranscriptional regulation of gene expression as potentially being key to
+establishing and maintaining quiescence.
+
+© 2017 The Authors Cellular Microbiology Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/cmi.12735 
+PMCID: PMC5516136
+PMID: 28256794  [Indexed for MEDLINE]
+

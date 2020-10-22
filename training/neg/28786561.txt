@@ -1,0 +1,52 @@
+
+1. FEBS J. 2017 Oct;284(19):3171-3201. doi: 10.1111/febs.14193. Epub 2017 Aug 29.
+
+Mapping the interactome of HPV E6 and E7 oncoproteins with the
+ubiquitin-proteasome system.
+
+Poirson J(1), Biquand E(2), Straub ML(1), Cassonnet P(2), Nominé Y(3), Jones
+L(4), van der Werf S(2), Travé G(3), Zanier K(1), Jacob Y(2), Demeret C(2),
+Masson M(1).
+
+Author information: 
+(1)Ecole Supérieure de Biotechnologie Strasbourg, UMR-7242, CNRS, Université de
+Strasbourg, Illkirch, France.
+(2)UMR 3569, CNRS, Unité de Génétique Moléculaire des Virus à ARN, Institut
+Pasteur, Université Paris Diderot, Paris, France.
+(3)UMR 7104-Inserm U964, CNRS, IGBMC-CBI, Equipe labellisée Ligue 2015, Illkirch,
+France.
+(4)Biostatistiques et biologie intégrative (C3BI), Institut Pasteur, Centre de
+bioinformatique, Paris, France.
+
+Comment in
+    FEBS J. 2017 Oct;284(19):3168-3170.
+
+Protein ubiquitination and its reverse reaction, deubiquitination, regulate
+protein stability, protein binding activity, and their subcellular localization. 
+These reactions are catalyzed by the enzymes E1, E2, and E3 ubiquitin (Ub)
+ligases and deubiquitinases (DUBs). The Ub-proteasome system (UPS) is targeted by
+viruses for the sake of their replication and to escape host immune response. To 
+identify novel partners of human papillomavirus 16 (HPV16) E6 and E7 proteins, we
+assembled and screened a library of 590 cDNAs related to the UPS by using the
+Gaussia princeps luciferase protein complementation assay. HPV16 E6 was found to 
+bind to the homology to E6AP C terminus-type Ub ligase (E6AP), three really
+interesting new gene (RING)-type Ub ligases (MGRN1, LNX3, LNX4), and the DUB
+Ub-specific protease 15 (USP15). Except for E6AP, the binding of UPS factors did 
+not require the LxxLL-binding pocket of HPV16 E6. LNX3 bound preferentially to
+all high-risk mucosal HPV E6 tested, whereas LNX4 bound specifically to HPV16 E6.
+HPV16 E7 was found to bind to several broad-complex tramtrack and bric-a-brac
+domain-containing proteins (such as TNFAIP1/KCTD13) that are potential substrate 
+adaptors of Cullin 3-RING Ub ligases, to RING-type Ub ligases implicated in
+innate immunity (RNF135, TRIM32, TRAF2, TRAF5), to the substrate adaptor DCAF15
+of Cullin 4-RING Ub ligase and to some DUBs (USP29, USP33). The binding to UPS
+factors did not require the LxCxE motif but rather the C-terminal region of HPV16
+E7 protein. The identified UPS factors interacted with most of E7 proteins across
+different HPV types. This study establishes a strategy for the rapid
+identification of interactions between host or pathogen proteins and the human
+ubiquitination system.
+
+© 2017 Federation of European Biochemical Societies.
+
+DOI: 10.1111/febs.14193 
+PMID: 28786561  [Indexed for MEDLINE]
+

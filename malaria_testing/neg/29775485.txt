@@ -1,0 +1,48 @@
+
+1. PLoS Pathog. 2018 May 18;14(5):e1007057. doi: 10.1371/journal.ppat.1007057.
+eCollection 2018 May.
+
+Plasmodium parasite exploits host aquaporin-3 during liver stage malaria
+infection.
+
+Posfai D(1), Sylvester K(1), Reddy A(2), Ganley JG(3), Wirth J(3), Cullen QE(3), 
+Dave T(2), Kato N(4), Dave SS(2), Derbyshire ER(1)(3).
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, Duke University Medical
+Center, North Carolina, United States of America.
+(2)Department of Medicine, Duke University Medical Center, Durham, North
+Carolina, United States of America.
+(3)Department of Chemistry, Duke University, Durham, North Carolina, United
+States of America.
+(4)The Broad Institute, 7 Cambridge Center, Cambridge, Massachusetts, United
+States of America.
+
+Within the liver a single Plasmodium parasite transforms into thousands of
+blood-infective forms to cause malaria. Here, we use RNA-sequencing to identify
+host genes that are upregulated upon Plasmodium berghei infection of hepatocytes 
+with the hypothesis that host pathways are hijacked to benefit parasite
+development. We found that expression of aquaporin-3 (AQP3), a water and glycerol
+channel, is significantly induced in Plasmodium-infected hepatocytes compared to 
+uninfected cells. This aquaglyceroporin localizes to the parasitophorous vacuole 
+membrane, the compartmental interface between the host and pathogen, with a
+temporal pattern that correlates with the parasite's expansion in the liver.
+Depletion or elimination of host AQP3 expression significantly reduces P. berghei
+parasite burden during the liver stage and chemical disruption by a known AQP3
+inhibitor, auphen, reduces P. falciparum asexual blood stage and P. berghei liver
+stage parasite load. Further use of this inhibitor as a chemical probe suggests
+that AQP3-mediated nutrient transport is an important function for parasite
+development. This study reveals a previously unknown potential route for
+host-dependent nutrient acquisition by Plasmodium which was discovered by mapping
+the transcriptional changes that occur in hepatocytes throughout P. berghei
+infection. The dataset reported may be leveraged to identify additional host
+factors that are essential for Plasmodium liver stage infection and highlights
+Plasmodium's dependence on host factors within hepatocytes.
+
+DOI: 10.1371/journal.ppat.1007057 
+PMCID: PMC5979039
+PMID: 29775485  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

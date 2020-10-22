@@ -1,0 +1,63 @@
+
+1. PLoS One. 2017 Aug 29;12(8):e0183840. doi: 10.1371/journal.pone.0183840.
+eCollection 2017.
+
+Association of TLR variants with susceptibility to Plasmodium vivax malaria and
+parasitemia in the Amazon region of Brazil.
+
+Costa AG(1)(2)(3), Ramasawmy R(1)(2)(4)(5), Ibiapina HNS(1)(2), Sampaio VS(1)(2),
+Xábregas LA(2), Brasil LW(1)(2), Tarragô AM(3)(4), Almeida ACG(1)(2), Kuehn
+A(2)(6), Vitor-Silva S(2), Melo GC(1)(2), Siqueira AM(1)(7), Monteiro WM(1)(2),
+Lacerda MVG(1)(2)(8), Malheiro A(1)(3)(4).
+
+Author information: 
+(1)Programa de Pós-Graduação em Medicina Tropical, Universidade do Estado do
+Amazonas (UEA), Manaus, AM, Brazil.
+(2)Diretoria de Ensino e Pesquisa, Fundação de Medicina Tropical Dr. Heitor
+Vieira Dourado (FMT-HVD), Manaus, AM, Brazil.
+(3)Laboratório de Genômica, Fundação Hospitalar de Hematologia e Hemoterapia do
+Amazonas (HEMOAM), Manaus, AM, Brazil.
+(4)Programa de Pós-Graduação em Imunologia Básica e Aplicada, Universidade
+Federal do Amazonas (UFAM), Manaus, AM, Brazil.
+(5)Universidade Nilton Lins (UNINILTONLINS), Manaus, AM, Brasil.
+(6)Barcelona Centre for International Health Research (CRESIB), Barcelona Global 
+Health Institute (ISGLOBAL), Barcelona, Spain.
+(7)Instituto Nacional de Infectologia Evandro Chagas, Fundação Oswaldo Cruz
+(FIOCRUZ), Rio de Janeiro, RJ, Brazil.
+(8)Instituto de Pesquisas Leônidas & Maria Deane, FIOCRUZ-Amazônia, Manaus, AM,
+Brazil.
+
+BACKGROUND: Plasmodium vivax malaria (Pv-malaria) is still considered a neglected
+disease despite an alarming number of individuals being infected annually.
+Malaria pathogenesis occurs with the onset of the vector-parasite-host
+interaction through the binding of pathogen-associated molecular patterns (PAMPs)
+and receptors of innate immunity, such as toll-like receptors (TLRs). The
+triggering of the signaling cascade produces an elevated inflammatory response.
+Genetic polymorphisms in TLRs are involved in susceptibility or resistance to
+infection, and the identification of genes involved with Pv-malaria response is
+important to elucidate the pathogenesis of the disease and may contribute to the 
+formulation of control and elimination tools.
+METHODOLOGY/PRINCIPAL FINDINGS: A retrospective case-control study was conducted 
+in an intense transmission area of Pv-malaria in the state of Amazonas, Brazil.
+Genetic polymorphisms (SNPs) in different TLRs, TIRAP, and CD14 were genotyped by
+polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP)
+analysis in 325 patients infected with P. vivax and 274 healthy individuals
+without malaria history in the prior 12 months from the same endemic area.
+Parasite load was determined by qPCR. Simple and multiple logistic/linear
+regressions were performed to investigate association between the polymorphisms
+and the occurrence of Pv-malaria and parasitemia. The C/T (TLR5 R392StopCodon)
+and T/T (TLR9 -1486C/T) genotypes appear to be risk factors for infection by P.
+vivax (TLR5: C/C vs. C/T [OR: 2.116, 95% CI: 1.054-4.452, p = 0.031]; TLR9: C/C
+vs. T/T [OR: 1.919, 95% CI: 1.159-3.177, p = 0.010]; respectively). Fever (COEF =
+7599.46, 95% CI = 3063.80-12135.12, p = 0.001) and the C/C genotype of TLR9
+-1237C/T (COEF = 17006.63, 95% CI = 3472.83-30540.44, p = 0.014) were
+independently associated with increased parasitemia in patients with Pv-malaria.
+CONCLUSIONS: Variants of TLRs may predispose individuals to infection by P.
+vivax. The TLR5 R392StopCodon and TLR9 -1486C/T variants are associated with
+susceptibility to Pv-malaria. Furthermore, the TLR9 variant -1237C/C correlates
+with high parasitemia.
+
+DOI: 10.1371/journal.pone.0183840 
+PMCID: PMC5574562
+PMID: 28850598  [Indexed for MEDLINE]
+

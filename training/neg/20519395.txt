@@ -1,0 +1,45 @@
+
+1. J Virol. 2010 Aug;84(16):8181-92. doi: 10.1128/JVI.00634-10. Epub 2010 Jun 2.
+
+The ESCRT-associated protein Alix recruits the ubiquitin ligase Nedd4-1 to
+facilitate HIV-1 release through the LYPXnL L domain motif.
+
+Sette P(1), Jadwin JA, Dussupt V, Bello NF, Bouamr F.
+
+Author information: 
+(1)Laboratory of Molecular Microbiology, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, Bethesda, Maryland 20892,
+USA.
+
+The p6 region of HIV-1 Gag contains two late (L) domains, PTAP and LYPX(n)L, that
+bind Tsg101 and Alix, respectively. Interactions with these two cellular proteins
+recruit members of the host's fission machinery (ESCRT) to facilitate HIV-1
+release. Other retroviruses gain access to the host ESCRT components by utilizing
+a PPXY-type L domain that interacts with cellular Nedd4-like ubiquitin ligases.
+Despite the absence of a PPXY motif in HIV-1 Gag, interaction with the ubiquitin 
+ligase Nedd4-2 was recently shown to stimulate HIV-1 release. We show here that
+another Nedd4-like ubiquitin ligase, Nedd4-1, corrected release defects resulting
+from the disruption of PTAP (PTAP(-)), suggesting that HIV-1 Gag also recruits
+Nedd4-1 to facilitate virus release. Notably, Nedd4-1 remediation of HIV-1
+PTAP(-) budding defects is independent of cellular Tsg101, implying that
+Nedd4-1's function in HIV-1 release does not involve ESCRT-I components and is
+therefore distinct from that of Nedd4-2. Consistent with this finding, deletion
+of the p6 region decreased Nedd4-1-Gag interaction, and disruption of the
+LYPX(n)L motif eliminated Nedd4-1-mediated restoration of HIV-1 PTAP(-). This
+result indicated that both Nedd4-1 interaction with Gag and function in virus
+release occur through the Alix-binding LYPX(n)L motif. Mutations of basic
+residues located in the NC domain of Gag that are critical for Alix's
+facilitation of HIV-1 release, also disrupted release mediated by Nedd4-1,
+further confirming a Nedd4-1-Alix functional interdependence. In fact we found
+that Nedd4-1 binds Alix in both immunoprecipitation and yeast-two-hybrid assays. 
+In addition, Nedd4-1 requires its catalytic activity to promote virus release.
+Remarkably, RNAi knockdown of cellular Nedd4-1 eliminated Alix ubiquitination in 
+the cell and impeded its ability to function in HIV-1 release. Together our data 
+support a model in which Alix recruits Nedd4-1 to facilitate HIV-1 release
+mediated through the LYPX(n)L/Alix budding pathway via a mechanism that involves 
+Alix ubiquitination.
+
+DOI: 10.1128/JVI.00634-10 
+PMCID: PMC2916511
+PMID: 20519395  [Indexed for MEDLINE]
+

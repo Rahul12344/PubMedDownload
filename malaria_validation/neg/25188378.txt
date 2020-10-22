@@ -1,0 +1,56 @@
+
+1. PLoS One. 2014 Sep 4;9(9):e105732. doi: 10.1371/journal.pone.0105732. eCollection
+2014.
+
+Inhibition of the SR protein-phosphorylating CLK kinases of Plasmodium falciparum
+impairs blood stage replication and malaria transmission.
+
+Kern S(1), Agarwal S(2), Huber K(3), Gehring AP(3), Strödke B(3), Wirth CC(4),
+Brügl T(2), Abodo LO(4), Dandekar T(5), Doerig C(6), Fischer R(4), Tobin AB(7),
+Alam MM(7), Bracher F(3), Pradel G(4).
+
+Author information: 
+(1)Research Center for Infectious Diseases, University of Würzburg, Würzburg,
+Germany; Institute of Molecular Biotechnology, RWTH Aachen University, Aachen,
+Germany.
+(2)Research Center for Infectious Diseases, University of Würzburg, Würzburg,
+Germany.
+(3)Department of Pharmacy - Center for Drug Research, Ludwig-Maximillians
+University, Munich, Germany.
+(4)Institute of Molecular Biotechnology, RWTH Aachen University, Aachen, Germany.
+(5)Bioinformatics, Biocenter, University of Würzburg, Würzburg, Germany.
+(6)INSERM U609, Global Health Institute, Ecole Polytechnique Fédérale de Lausanne
+(EPFL), Lausanne, Switzerland; Department of Microbiology, Monash University,
+Clayton, Victoria, Australia.
+(7)Department of Cell Physiology and Pharmacology, MRC Toxicology Unit,
+University of Leicester, Leicester, United Kingdom.
+
+Cyclin-dependent kinase-like kinases (CLKs) are dual specificity protein kinases 
+that phosphorylate Serine/Arginine-rich (SR) proteins involved in pre-mRNA
+processing. Four CLKs, termed PfCLK-1-4, can be identified in the human malaria
+parasite Plasmodium falciparum, which show homology with the yeast SR protein
+kinase Sky1p. The four PfCLKs are present in the nucleus and cytoplasm of the
+asexual blood stages and of gametocytes, sexual precursor cells crucial for
+malaria parasite transmission from humans to mosquitoes. We identified three
+plasmodial SR proteins, PfSRSF12, PfSFRS4 and PfSF-1, which are predominantly
+present in the nucleus of blood stage trophozoites, PfSRSF12 and PfSF-1 are
+further detectable in the nucleus of gametocytes. We found that recombinantly
+expressed SR proteins comprising the Arginine/Serine (RS)-rich domains were
+phosphorylated by the four PfCLKs in in vitro kinase assays, while a recombinant 
+PfSF-1 peptide lacking the RS-rich domain was not phosphorylated. Since it was
+hitherto not possible to knock-out the pfclk genes by conventional gene
+disruption, we aimed at chemical knock-outs for phenotype analysis. We identified
+five human CLK inhibitors, belonging to the oxo-β-carbolines and
+aminopyrimidines, as well as the antiseptic chlorhexidine as PfCLK-targeting
+compounds. The six inhibitors block P. falciparum blood stage replication in the 
+low micromolar to nanomolar range by preventing the trophozoite-to-schizont
+transformation. In addition, the inhibitors impair gametocyte maturation and
+gametogenesis in in vitro assays. The combined data show that the four PfCLKs are
+involved in phosphorylation of SR proteins with essential functions for the blood
+and sexual stages of the malaria parasite, thus pointing to the kinases as
+promising targets for antimalarial and transmission blocking drugs.
+
+DOI: 10.1371/journal.pone.0105732 
+PMCID: PMC4154858
+PMID: 25188378  [Indexed for MEDLINE]
+

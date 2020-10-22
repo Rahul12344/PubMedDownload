@@ -1,0 +1,60 @@
+
+1. Parasit Vectors. 2015 Mar 25;8:179. doi: 10.1186/s13071-015-0772-y.
+
+Dynamic expression of miRNAs across immature and adult stages of the malaria
+mosquito Anopheles stephensi.
+
+Jain S(1), Rana V(2), Tridibes A(3), Sunil S(4), Bhatnagar RK(5).
+
+Author information: 
+(1)Insect Resistance Group, International Centre for Genetic Engineering and
+Biotechnology, New Delhi, India. shanujain07@gmail.com.
+(2)Insect Resistance Group, International Centre for Genetic Engineering and
+Biotechnology, New Delhi, India. rana.vandita@gmail.com.
+(3)National Institute of Malaria Research, Dwarka, New Delhi, India.
+adak.mrc@gmail.com.
+(4)Insect Resistance Group, International Centre for Genetic Engineering and
+Biotechnology, New Delhi, India. sujatha@icgeb.res.in.
+(5)Insect Resistance Group, International Centre for Genetic Engineering and
+Biotechnology, New Delhi, India. raj@icgeb.res.in.
+
+BACKGROUND: MicroRNAs are small non-coding RNAs that are involved in various
+biological processes including insect development. Anopheles stephensi serves as 
+primary vector of malaria parasite in Asia and exhibits holometabolous life cycle
+that involves four different stages of development. Regulation and role of
+mosquito miRNAs during various stages of mosquito development remain largely
+unknown.
+METHODS: High throughput small RNA sequencing was employed for identification and
+profiling of miRNAs across immature and adult stages of malaria vector, which
+were further validated using Northern hybridization and real time PCR. Target
+prediction and pathway analysis was carried out to understand the role of
+regulated miRNAs in insect development. Degradome sequencing was employed to
+identify cleaved targets of some regulated miRNAs. Loss of function strategy was 
+employed for miR-989 to understand its probable role in female reproductive
+process.
+RESULTS: Small RNA sequencing and data analysis revealed 111 and 14 known and
+novel miRNAs respectively across all stages of Anopheles stephensi. Nine miRNAs
+showed gender specific regulation across different stages of mosquito
+development. Analysis of miRNAs revealed regulation of 24 and 26 miRNAs across
+different stages of male and female mosquito development respectively. mRNA
+targets and significant pathways targeted by regulated miRNAs were identified for
+each stage of mosquito development. Degradome sequencing revealed twenty nine
+cleaved targets of insect miRNAs. MicroRNA-989 showed significant up-regulation
+in the adult female as compared to adult male mosquito. Knockdown of miR-989
+expression in adult female using miRNA specific antagomir affected targets
+playing roles in protein binding, proteolysis and nucleic acid binding in ovary
+tissue of female mosquito post blood feeding.
+CONCLUSIONS: This is the first comprehensive effort to understand regulation of
+Anopheles stephensi miRNAs across developmental stages of male and female
+mosquito. Preliminary role of regulated miRNAs in mosquito development was
+revealed by target prediction and pathway analysis. MicroRNA-989 emerged to have 
+important roles in adult female mosquitoes showing significant up-regulation
+which was further studied using miR-989 specific antagomir. This study provides
+insights into mosquito development and reproductive process and has implications 
+for effective control of mosquito population required for reducing spread of
+mosquito-borne infectious diseases.
+
+DOI: 10.1186/s13071-015-0772-y 
+PMCID: PMC4418096
+PMID: 25888742  [Indexed for MEDLINE]
+

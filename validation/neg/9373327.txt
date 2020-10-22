@@ -1,0 +1,50 @@
+
+1. Immunotechnology. 1996 Feb;2(1):47-57.
+
+In vitro and in vivo characterisation of a recombinant carboxypeptidase
+G2::anti-CEA scFv fusion protein.
+
+Michael NP(1), Chester KA, Melton RG, Robson L, Nicholas W, Boden JA, Pedley RB, 
+Begent RH, Sherwood RF, Minton NP.
+
+Author information: 
+(1)Department of Molecular Microbiology, Centre for Applied Microbiology and
+Research, Wiltshire, UK.
+
+BACKGROUND: There is considerable interest in the specific targeting of
+therapeutic agents to cancer cells. Of particular promise is a technique known as
+Antibody-Directed Enzyme Prodrug Therapy (ADEPT). In this approach an enzyme is
+targeted to the tumour by its conjugation to a tumour specific-antibody tumour.
+After allowing sufficient time for the conjugate to localise at the tumour and
+clear from the circulatory system, a relatively non-toxic prodrug is
+administered. This prodrug is converted to a highly cytotoxic drug by the action 
+of the targeted enzyme localised at the tumour site.
+OBJECTIVES: To construct gene fusions between the pseudomonad carboxypeptidase G2
+(CPG2) gene and DNA encoding MFE-23 (an anti-carcinoembryonic antigen (CEA)
+single-chain Fv (scFv) molecule), derived from a phage display library. To
+overexpress the resultant gene fusions in Escherichia coli, and assess the in
+vitro and in vivo properties of the purified fusion proteins.
+STUDY DESIGN: To introduce unique cloning restriction sites into the 5'-end of
+the CPG2 gene by site-directed mutagenesis to facilitate fusion to the 3'-end of 
+the gene encoding MFE-23 (constructs with or without a flexible (Gly4Ser)3
+linker-encoding sequence were designed). To overexpress the resultant gene
+fusions under transcriptional control of the lac promoter and to direct the
+fusion proteins produced to the periplasmic space of E. coli through
+translational coupling to the pelB signal peptide.
+RESULTS: Biologically active recombinant CPG2::MFE-23 scFv fusion proteins were
+produced in E. coli and shown to possess enzyme and anti-CEA activity. Affinity
+chromatography followed by size exclusion gel filtration yielded approximately
+0.7-1.4 mg/l from shake flask culture. The fusion protein in which the enzyme and
+antibody moieties were joined by a linker peptide was shown to be effectively
+localised in nude mice bearing human colon tumour xenografts, giving favourable
+tumour to blood ratios.
+CONCLUSION: MFE-23 scFv serves as an ideal candidate for the antibody arm of a
+bacterially expressed fusion protein with CPG2. The biological properties of this
+recombinant protein suggest that it may be employed for tumour specific prodrug
+activation. However, further assessment of its stability and pharmokinetics is
+required if genetic fusion is to be considered as an alternative to chemical
+conjugation.
+
+DOI: 10.1016/1380-2933(96)00033-4 
+PMID: 9373327  [Indexed for MEDLINE]
+

@@ -1,0 +1,34 @@
+
+1. J Biol Chem. 1999 Dec 10;274(50):35768-76.
+
+The motif D loop of human immunodeficiency virus type 1 reverse transcriptase is 
+critical for nucleoside 5'-triphosphate selectivity.
+
+Canard B(1), Chowdhury K, Sarfati R, Doublié S, Richardson CC.
+
+Author information: 
+(1)Centre National de la Recherche Scientifique, Ecole Supérieure d'Ingénieurs de
+Luminy, Architecture et Fonction des Macromolécules Biologiques, 163 avenue de
+Luminy, 13288 Marseille cedex 9, France.
+
+Human immunodeficiency virus type 1 reverse transcriptase (RT) has limited
+homology with DNA and RNA polymerases. The conserved Lys-220 of motif D is a
+signature of RNA-dependent polymerases. Motif D is located in the "palm" domain
+and forms a small loop from Thr-215 to Lys-223. This loop is absent from the
+polymerase I family of DNA-dependent polymerases. Analysis of RT structures in
+comparison with other polymerases reveals that the motif D loop has the potential
+to undergo a conformational change upon binding a nucleotide. We find that amino 
+acid changes in motif D affect the interaction of RT with the incoming
+nucleotide. A chimeric RT in which the loop of motif D is substituted by the
+corresponding amino acid segment from Taq DNA polymerase lacking this loop has a 
+decreased affinity for incoming nucleotides. We have also constructed a mutant RT
+where the conserved lysine at position 220 within the motif D is substituted with
+glutamine. Both RT(K220Q) and the chimeric RT are resistant in vitro to 3'-deoxy 
+3'-azidothymidine 5'-triphosphate (AZTTP). These results suggest that motif D is 
+interacting with the incoming nucleotide and a determinant of the sensitivity of 
+reverse transcriptases to AZTTP. We do not observe any interaction of motif D
+with the template primer.
+
+DOI: 10.1074/jbc.274.50.35768 
+PMID: 10585459  [Indexed for MEDLINE]
+

@@ -1,0 +1,49 @@
+
+1. J Cell Sci. 2018 Mar 26;131(6). pii: jcs212597. doi: 10.1242/jcs.212597.
+
+Puf3 participates in ribosomal biogenesis in malaria parasites.
+
+Liang X(1), Hart KJ(2), Dong G(3), Siddiqui FA(1), Sebastian A(4), Li X(1),
+Albert I(4), Miao J(1), Lindner SE(2), Cui L(5).
+
+Author information: 
+(1)Department of Entomology, Pennsylvania State University, University Park, PA
+16802, USA.
+(2)Department of Biochemistry and Molecular Biology, Center for Malaria Research,
+Pennsylvania State University, University Park, PA 16802, USA.
+(3)Department of Medical Biochemistry, Max F. Perutz Laboratories, Medical
+University of Vienna, 1030 Vienna, Austria.
+(4)Bioinformatics Consulting Center, Pennsylvania State University, University
+Park, Pennsylvania 16802, USA.
+(5)Department of Entomology, Pennsylvania State University, University Park, PA
+16802, USA luc2@psu.edu.
+
+In this study, we characterized the Puf family gene member Puf3 in the malaria
+parasites Plasmodium falciparum and Plasmodium yoelii Secondary structure
+prediction suggested that the RNA-binding domains of the Puf3 proteins consisted 
+of 11 pumilio repeats that were similar to those in the human Puf-A (also known
+as PUM3) and Saccharomyces cerevisiae Puf6 proteins, which are involved in
+ribosome biogenesis. Neither P. falciparum (Pf)Puf3 nor P. yoelii (Py)Puf3 could 
+be genetically disrupted, suggesting they may be essential for the
+intraerythrocytic developmental cycle. Cellular fractionation of PfPuf3 in the
+asexual stages revealed preferential partitioning to the nuclear fraction,
+consistent with nuclear localization of PfPuf3::GFP and PyPuf3::GFP as detected
+by immunofluorescence. Furthermore, PfPuf3 colocalized with the nucleolar marker 
+PfNop1, demonstrating that PfPuf3 is a nucleolar protein in the asexual stages.
+We found, however, that PyPuf3 changed its localization from being nucleolar to
+being present in cytosolic puncta in the mosquito and liver stages, which may
+reflect alternative functions in these stages. Affinity purification of molecules
+that associated with a PTP-tagged variant of PfPuf3 revealed 31 proteins
+associated with the 60S ribosome, and an enrichment of 28S rRNA and internal
+transcribed spacer 2 sequences. Taken together, these results suggest an
+essential function for PfPuf3 in ribosomal biogenesis.
+
+© 2018. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/jcs.212597 
+PMCID: PMC5897713
+PMID: 29487181  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no
+competing or financial interests.
+

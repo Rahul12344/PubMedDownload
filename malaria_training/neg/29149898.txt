@@ -1,0 +1,61 @@
+
+1. Malar J. 2017 Nov 17;16(1):468. doi: 10.1186/s12936-017-2118-z.
+
+Detection of Plasmodium falciparum male and female gametocytes and determination 
+of parasite sex ratio in human endemic populations by novel, cheap and robust
+RTqPCR assays.
+
+Santolamazza F(1), Avellino P(1), Siciliano G(2), Yao FA(3), Lombardo F(1),
+Ouédraogo JB(3)(4), Modiano D(1), Alano P(5), Mangano VD(6)(7).
+
+Author information: 
+(1)Dipartimento di Sanità Pubblica e Malattie Infettive, Sapienza Università di
+Roma, Roma, Italy.
+(2)Dipartimento di Malattie Infettive, Istituto Superiore di Sanità, Roma, Italy.
+(3)Institut de Recherche en Sciences de la Santé, Bobo Dioulasso, Burkina Faso.
+(4)Centre Muraz, Bobo Dioulasso, Burkina Faso.
+(5)Dipartimento di Malattie Infettive, Istituto Superiore di Sanità, Roma, Italy.
+pietro.alano@iss.it.
+(6)Dipartimento di Sanità Pubblica e Malattie Infettive, Sapienza Università di
+Roma, Roma, Italy. valentina.mangano@uniroma1.it.
+(7)Dipartimento di Ricerca Traslazionale e Nuove Tecnologie in Medicina e
+Chirurgia, Università di Pisa, Pisa, Italy. valentina.mangano@uniroma1.it.
+
+BACKGROUND: The presence of Plasmodium falciparum gametocytes in peripheral blood
+is essential for human to mosquito parasite transmission. The detection of
+submicroscopic infections with gametocytes and the estimation of the gametocyte
+sex ratio are crucial to assess the human host potential ability to infect
+mosquitoes and transmit malaria parasites.
+AIM AND OBJECTIVES: The aim of this work was to develop sensitive and cheap Real 
+Time qPCR assays for large-scale epidemiological surveys, based on detection and 
+amplification of gametocyte sex specific transcripts selected from the
+literature: the female-specific pfs25 and pf glycerol kinase (pfGK) and the
+male-specific pfs230p and pf13 transcripts.
+METHODS: RTqPCR assays were used to test the gametocyte- and sex-specific
+expression of the target genes using asexual stages of the gametocyteless
+parasite clone F12 and FACS purified male and female gametocytes of the
+PfDynGFP/P47mCherry line. Assays were performed on 50 blood samples collected
+during an epidemiological survey in the Soumousso village, Burkina Faso,
+West-Africa, and amplification of the human housekeeping gene 18S rRNA was
+employed to normalize RNA sample variability.
+RESULTS: SYBR Green assays were developed that showed higher sensitivity compared
+to Taqman assays at a reduced cost. RTqPCR results confirmed that expression of
+pfs25 and pfs230p are female and male-specific, respectively, and introduced two 
+novel markers, the female-specific pfGK and the male-specific pf13. A formula was
+derived to calculate the ratio of male to female gametocytes based on the ratio
+of male to female transcript copy number. Use of these assays in the field
+samples showed, as expected, a higher sensitivity of RTqPCR compared to
+microscopy. Importantly, similar values of gametocyte sex-ratio were obtained in 
+the field samples based on the four different target combinations.
+CONCLUSION: Novel, sensitive, cheap and robust molecular assays were developed
+for the detection and quantification of female and male P. falciparum
+gametocytes. In particular, the RTqPCR assays based on the female-specific pfs25 
+and the newly described male gametocyte-specific pf13 transcripts, including
+normalization by the human 18S, reliably assess presence and abundance of female 
+and male gametocytes and enable to determine their sex-ratio in human subjects in
+endemic areas.
+
+DOI: 10.1186/s12936-017-2118-z 
+PMCID: PMC5693539
+PMID: 29149898  [Indexed for MEDLINE]
+

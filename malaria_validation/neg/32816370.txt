@@ -1,0 +1,46 @@
+
+1. Mol Syst Biol. 2020 Aug;16(8):e9569. doi: 10.15252/msb.20209569.
+
+Exploring the virulence gene interactome with CRISPR/dCas9 in the human malaria
+parasite.
+
+Bryant JM(1)(2)(3), Baumgarten S(1)(2)(3), Dingli F(4), Loew D(4), Sinha A(5)(6),
+Claës A(1)(2)(3), Preiser PR(5)(6), Dedon PC(6)(7), Scherf A(1)(2)(3).
+
+Author information: 
+(1)Biology of Host-Parasite Interactions Unit, Institut Pasteur, Paris, France.
+(2)INSERM U1201, Paris, France.
+(3)CNRS ERL9195, Paris, France.
+(4)Institut Curie, PSL Research University, Centre de Recherche, Mass
+Spectrometry and Proteomics Facility, Paris, France.
+(5)School of Biological Sciences, Nanyang Technological University, Singapore,
+Singapore.
+(6)Antimicrobial Resistance Interdisciplinary Research Group, Singapore-MIT
+Alliance for Research and Technology, Singapore, Singapore.
+(7)Department of Biological Engineering, Massachusetts Institute of Technology,
+Cambridge, MA, USA.
+
+Mutually exclusive expression of the var multigene family is key to immune
+evasion and pathogenesis in Plasmodium falciparum, but few factors have been
+shown to play a direct role. We adapted a CRISPR-based proteomics approach to
+identify novel factors associated with var genes in their natural chromatin
+context. Catalytically inactive Cas9 ("dCas9") was targeted to var gene
+regulatory elements, immunoprecipitated, and analyzed with mass spectrometry.
+Known and novel factors were enriched including structural proteins, DNA
+helicases, and chromatin remodelers. Functional characterization of PfISWI, an
+evolutionarily divergent putative chromatin remodeler enriched at the var gene
+promoter, revealed a role in transcriptional activation. Proteomics of PfISWI
+identified several proteins enriched at the var gene promoter such as acetyl-CoA 
+synthetase, a putative MORC protein, and an ApiAP2 transcription factor. These
+findings validate the CRISPR/dCas9 proteomics method and define a new var
+gene-associated chromatin complex. This study establishes a tool for targeted
+chromatin purification of unaltered genomic loci and identifies novel
+chromatin-associated factors potentially involved in transcriptional control
+and/or chromatin organization of virulence genes in the human malaria parasite.
+
+© 2020 The Authors. Published under the terms of the CC BY 4.0 license.
+
+DOI: 10.15252/msb.20209569 
+PMCID: PMC7440042
+PMID: 32816370 
+

@@ -1,0 +1,38 @@
+
+1. Infect Genet Evol. 2011 Jun;11(4):708-15. doi: 10.1016/j.meegid.2011.04.013. Epub
+2011 Apr 14.
+
+Comparing metabolic network models based on genomic and automatically inferred
+enzyme information from Plasmodium and its human host to define drug targets in
+silico.
+
+Fatumo S(1), Plaimas K, Adebiyi E, König R.
+
+Author information: 
+(1)Department of Computer and Information Sciences, Covenant University, Ota,
+Nigeria. segunfatumo@gmail.com
+
+Plasmodium falciparum causes the most severe malaria pathogen and has developed
+resistance to existing drugs making it indispensable to discover new drugs. In
+order to predict drug targets in silico, a useful model for the metabolism is
+needed. However, automatically reconstructed network models typically cover more 
+non-confirmed enzymes than confirmed enzymes of known gene products. Furthermore,
+it needs to be considered that the parasite takes advantage of the metabolism of 
+the host. We compared several reconstructed network models and aimed to find the 
+best suitable reconstruction for detecting drug targets in silico. We
+computationally reconstructed the metabolism based on automatically inferred
+enzymes and compared this with a reconstructed model that was based only on
+enzymes whose coding genes are known. Additionally, we tested if integrating
+enzymes of the host cell is beneficial for such an analysis. We employed several 
+well established criteria for defining essential enzymes including chokepoints,
+betweenness centrality (or load-points), connectivity and the diameter of the
+networks. Comparing the modeling results with a comprehensive list of known drug 
+targets for P. falciparum, showed that we had the best discovery success with a
+network model consisting only of enzymes from the parasite alone which coding
+genes were known.
+
+Copyright © 2011. Published by Elsevier B.V.
+
+DOI: 10.1016/j.meegid.2011.04.013 
+PMID: 21515412  [Indexed for MEDLINE]
+

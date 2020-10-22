@@ -1,0 +1,43 @@
+
+1. PLoS One. 2010 Sep 30;5(9). pii: e13117. doi: 10.1371/journal.pone.0013117.
+
+SH2 modified STAT1 induces HLA-I expression and improves IFN-γ signaling in IFN-α
+resistant HCV replicon cells.
+
+Poat B(1), Hazari S, Chandra PK, Gunduz F, Balart LA, Alvarez X, Dash S.
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, New Orleans, Louisiana,
+United States of America.
+
+BACKGROUND: We have developed multiple stable cell lines containing subgenomic
+HCV RNA that are resistant to treatment with interferon alpha (IFN-α.
+Characterization of these IFN-α resistant replicon cells showed defects in the
+phosphorylation and nuclear translocation of STAT1 and STAT2 proteins due to a
+defective Jak-STAT pathway.
+METHODOLOGY/PRINCIPAL FINDINGS: In this study, we have developed an alternative
+strategy to overcome interferon resistance in a cell culture model by improving
+intracellular STAT1 signaling. An engineered STAT1-CC molecule with double
+cysteine substitutions in the Src-homology 2 (SH2) domains of STAT1 (at Ala-656
+and Asn-658) efficiently phosphorylates and translocates to the nucleus of
+IFN-resistant cells in an IFN-γ dependent manner. Transfection of a plasmid clone
+containing STAT1-CC significantly activated the GAS promoter compared to wild
+type STAT1 and STAT3. The activity of the engineered STAT1-CC is dependent upon
+the phosphorylation of tyrosine residue 701, since the construct with a
+substituted phenylalanine residue at position 701 (STAT1-CC-Y701F) failed to
+activate GAS promoter in the replicon cells. Intracellular expression of STAT1-CC
+protein showed phosphorylation and nuclear translocation in the resistant cell
+line after IFN-γ treatment. Transient transfection of STAT1-CC plasmid clone into
+an interferon resistant cell line resulted in inhibition of viral replication and
+viral clearance in an IFN-γ dependent manner. Furthermore, the resistant replicon
+cells transfected with STAT1-CC constructs significantly up regulated surface
+HLA-1 expression when compared to the wild type and Y to F mutant controls.
+CONCLUSIONS: These results suggest that modification of the SH2 domain of the
+STAT1 molecule allows for improved IFN-γ signaling through increased STAT1
+phosphorylation, nuclear translocation, HLA-1 surface expression, and prolonged
+interferon antiviral gene activation.
+
+DOI: 10.1371/journal.pone.0013117 
+PMCID: PMC2948020
+PMID: 20949125  [Indexed for MEDLINE]
+

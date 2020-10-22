@@ -1,0 +1,49 @@
+
+1. BMC Genomics. 2017 Jul 19;18(1):543. doi: 10.1186/s12864-017-3905-1.
+
+Novel Plasmodium falciparum metabolic network reconstruction identifies shifts
+associated with clinical antimalarial resistance.
+
+Carey MA(1), Papin JA(2), Guler JL(3)(4).
+
+Author information: 
+(1)Department of Microbiology, Immunology, and Cancer Biology, University of
+Virginia, School of Medicine, Charlottesville, USA.
+(2)Department of Biomedical Engineering, University of Virginia, Charlottesville,
+USA. papin@virginia.edu.
+(3)Department of Biology, University of Virginia, Charlottesville, USA.
+jlg5fw@virginia.edu.
+(4)Division of Infectious Diseases and International Health, University of
+Virginia, School of Medicine, Charlottesville, USA. jlg5fw@virginia.edu.
+
+BACKGROUND: Malaria remains a major public health burden and resistance has
+emerged to every antimalarial on the market, including the frontline drug,
+artemisinin. Our limited understanding of Plasmodium biology hinders the
+elucidation of resistance mechanisms. In this regard, systems biology approaches 
+can facilitate the integration of existing experimental knowledge and further
+understanding of these mechanisms.
+RESULTS: Here, we developed a novel genome-scale metabolic network
+reconstruction, iPfal17, of the asexual blood-stage P. falciparum parasite to
+expand our understanding of metabolic changes that support resistance. We
+identified 11 metabolic tasks to evaluate iPfal17 performance. Flux balance
+analysis and simulation of gene knockouts and enzyme inhibition predict candidate
+drug targets unique to resistant parasites. Moreover, integration of clinical
+parasite transcriptomes into the iPfal17 reconstruction reveals patterns
+associated with antimalarial resistance. These results predict that artemisinin
+sensitive and resistant parasites differentially utilize scavenging and
+biosynthetic pathways for multiple essential metabolites, including folate and
+polyamines. Our findings are consistent with experimental literature, while
+generating novel hypotheses about artemisinin resistance and parasite biology. We
+detect evidence that resistant parasites maintain greater metabolic flexibility, 
+perhaps representing an incomplete transition to the metabolic state most
+appropriate for nutrient-rich blood.
+CONCLUSION: Using this systems biology approach, we identify metabolic shifts
+that arise with or in support of the resistant phenotype. This perspective allows
+us to more productively analyze and interpret clinical expression data for the
+identification of candidate drug targets for the treatment of resistant
+parasites.
+
+DOI: 10.1186/s12864-017-3905-1 
+PMCID: PMC5518114
+PMID: 28724354  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+1. J Vis Exp. 2015 Dec 4;(106):e53214. doi: 10.3791/53214.
+
+Methods to Investigate the Regulatory Role of Small RNAs and Ribosomal Occupancy 
+of Plasmodium falciparum.
+
+LaMonte G(1), Walzer KA(1), Lacsina J(2), Nicchitta C(2), Chi JT(3).
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, Duke University School of
+Medicine; Center for Genomic and Computational Biology, Duke University School of
+Medicine.
+(2)Department of Cell Biology, Duke University School of Medicine.
+(3)Department of Molecular Genetics and Microbiology, Duke University School of
+Medicine; Center for Genomic and Computational Biology, Duke University School of
+Medicine; jentsan.chi@duke.edu.
+
+The genetic variation responsible for the sickle cell allele (HbS) enables
+erythrocytes to resist infection by the malaria parasite, P. falciparum. The
+molecular basis of this resistance, which is known to be multifactorial, remains 
+incompletely understood. Recent studies found that the differential expression of
+erythrocyte microRNAs, once translocated into malaria parasites, affect both gene
+regulation and parasite growth. These miRNAs were later shown to inhibit mRNA
+translation by forming a chimeric RNA transcript via 5' RNA fusion with discreet 
+subsets of parasite mRNAs. Here, the techniques that were used to study the
+functional role and putative mechanism underlying erythrocyte microRNAs on the
+gene regulation and translational potential of P. falciparum, including the
+transfection of modified synthetic microRNAs into host erythrocytes, will be
+detailed.  Finally, a polysome gradient method is used to determine the extent of
+translation of these transcripts. Together, these techniques allowed us to
+demonstrate that the dysregulated levels of erythrocyte microRNAs contribute to
+cell-intrinsic malaria resistance of sickle erythrocytes.
+
+DOI: 10.3791/53214 
+PMCID: PMC4692797
+PMID: 26709459  [Indexed for MEDLINE]
+

@@ -1,0 +1,58 @@
+
+1. Nat Commun. 2020 Apr 14;11(1):1780. doi: 10.1038/s41467-020-15440-4.
+
+Pan-active imidazolopiperazine antimalarials target the Plasmodium falciparum
+intracellular secretory pathway.
+
+LaMonte GM(1), Rocamora F(1), Marapana DS(2)(3), Gnädig NF(4), Ottilie S(1), Luth
+MR(1), Worgall TS(5), Goldgof GM(1)(6), Mohunlal R(4)(7), Santha Kumar TR(4),
+Thompson JK(2)(3), Vigil E(1), Yang J(1), Hutson D(1), Johnson T(8), Huang J(8), 
+Williams RM(1), Zou BY(1), Cheung AL(1), Kumar P(1), Egan TJ(7)(9), Lee MCS(10), 
+Siegel D(8), Cowman AF(2)(3), Fidock DA(4)(11), Winzeler EA(12).
+
+Author information: 
+(1)Department of Pediatrics, School of Medicine, University of California, San
+Diego, La Jolla, CA, 92093, USA.
+(2)Division of Infection and Immunity, Walter and Eliza Hall Institute for
+Medical Research, Parkville, VIC, 3052, Australia.
+(3)Department of Medical Biology, University of Melbourne, Parkville, VIC, 3010, 
+Australia.
+(4)Department of Microbiology & Immunology, Columbia University Irving Medical
+Center, New York, NY, 10032, USA.
+(5)Department of Pathology and Cell Biology, Columbia University Irving Medical
+Center, New York, NY, 10032, USA.
+(6)Department of Laboratory Medicine, University of California, San Francisco,
+CA, 94143, USA.
+(7)Department of Chemistry, University of Cape Town, Rondebosch, 7700, South
+Africa.
+(8)Skaggs School of Pharmacy and Pharmaceutical Sciences, University of
+California, San Diego, La Jolla, CA, 92093, USA.
+(9)Institute of Infectious Disease and Molecular Medicine, University of Cape
+Town, Rondebosch, 7700, South Africa.
+(10)Parasites and Microbes Programme, Wellcome Sanger Institute, Hinxton, CB10
+1SA, UK.
+(11)Division of Infectious Diseases, Department of Medicine, Columbia University 
+Irving Medical Center, New York, NY, 10032, USA.
+(12)Department of Pediatrics, School of Medicine, University of California, San
+Diego, La Jolla, CA, 92093, USA. ewinzeler@ucsd.edu.
+
+A promising new compound class for treating human malaria is the
+imidazolopiperazines (IZP) class. IZP compounds KAF156 (Ganaplacide) and GNF179
+are effective against Plasmodium symptomatic asexual blood-stage infections, and 
+are able to prevent transmission and block infection in animal models. But
+despite the identification of resistance mechanisms in P. falciparum, the mode of
+action of IZPs remains unknown. To investigate, we here combine in vitro
+evolution and genome analysis in Saccharomyces cerevisiae with molecular,
+metabolomic, and chemogenomic methods in P. falciparum. Our findings reveal that 
+IZP-resistant S. cerevisiae clones carry mutations in genes involved in
+Endoplasmic Reticulum (ER)-based lipid homeostasis and autophagy. In Plasmodium, 
+IZPs inhibit protein trafficking, block the establishment of new permeation
+pathways, and cause ER expansion. Our data highlight a mechanism for blocking
+parasite development that is distinct from those of standard compounds used to
+treat malaria, and demonstrate the potential of IZPs for studying ER-dependent
+protein processing.
+
+DOI: 10.1038/s41467-020-15440-4 
+PMCID: PMC7156427
+PMID: 32286267  [Indexed for MEDLINE]
+

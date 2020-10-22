@@ -1,0 +1,52 @@
+
+1. Mol Cell Proteomics. 2014 Nov;13(11):3040-8. doi: 10.1074/mcp.M113.028977. Epub
+2014 Jul 20.
+
+A novel immuno-competitive capture mass spectrometry strategy for protein-protein
+interaction profiling reveals that LATS kinases regulate HCV replication through 
+NS5A phosphorylation.
+
+Meistermann H(1), Gao J(2), Golling S(1), Lamerz J(1), Le Pogam S(2), Tzouros
+M(1), Sankabathula S(2), Gruenbaum L(2), Nájera I(2), Langen H(1), Klumpp K(2),
+Augustin A(3).
+
+Author information: 
+(1)From the ‡Pharma Research and Early Development Department, F. Hoffmann-La
+Roche Ltd, Basel 4070, Switzerland and.
+(2)the ¶Pharma Research and Early Development Department, F. Hoffmann-La Roche
+Ltd, Nutley, NJ, 07110-1199.
+(3)From the ‡Pharma Research and Early Development Department, F. Hoffmann-La
+Roche Ltd, Basel 4070, Switzerland and angelique.augustin@roche.com.
+
+Mapping protein-protein interactions is essential to fully characterize the
+biological function of a protein and improve our understanding of diseases.
+Affinity purification coupled to mass spectrometry (AP-MS) using selective
+antibodies against a target protein has been commonly applied to study protein
+complexes. However, one major limitation is a lack of specificity as a
+substantial part of the proposed binders is due to nonspecific interactions.
+Here, we describe an innovative immuno-competitive capture mass spectrometry
+(ICC-MS) method to allow systematic investigation of protein-protein
+interactions. ICC-MS markedly increases the specificity of classical
+immunoprecipitation (IP) by introducing a competition step between free and
+capturing antibody prior to IP. Instead of comparing only one experimental sample
+with a control, the methodology generates a 12-concentration antibody competition
+profile. Label-free quantitation followed by a robust statistical analysis of the
+data is then used to extract the cellular interactome of a protein of interest
+and to filter out background proteins. We applied this new approach to
+specifically map the interactome of hepatitis C virus (HCV) nonstructural protein
+5A (NS5A) in a cellular HCV replication system and uncovered eight new
+NS5A-interacting protein candidates along with two previously validated binding
+partners. Follow-up biological validation experiments revealed that large tumor
+suppressor homolog 1 and 2 (LATS1 and LATS2, respectively), two closely related
+human protein kinases, are novel host kinases responsible for NS5A
+phosphorylation at a highly conserved position required for optimal HCV genome
+replication. These results are the first illustration of the value of ICC-MS for 
+the analysis of endogenous protein complexes to identify biologically relevant
+protein-protein interactions with high specificity.
+
+© 2014 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1074/mcp.M113.028977 
+PMCID: PMC4223490
+PMID: 25044019  [Indexed for MEDLINE]
+

@@ -1,0 +1,69 @@
+
+1. Malar J. 2019 Jul 26;18(1):252. doi: 10.1186/s12936-019-2894-8.
+
+Proof of concept: used malaria rapid diagnostic tests applied for parallel
+sequencing for surveillance of molecular markers of anti-malarial resistance in
+Bissau, Guinea-Bissau during 2014-2017.
+
+Nag S(1)(2), Ursing J(3)(4)(5), Rodrigues A(5), Crespo M(6)(7), Krogsgaard
+C(6)(7), Lund O(8), Aarestrup FM(9), Alifrangis M(6)(7), Kofoed PE(10)(11).
+
+Author information: 
+(1)Centre for Medical Parasitology, Department of Immunology and Microbiology,
+University of Copenhagen, Copenhagen, Denmark. jassd_nf@hotmail.com.
+(2)Department of Infectious Diseases, Copenhagen University Hospital, Copenhagen,
+Denmark. jassd_nf@hotmail.com.
+(3)Department of Clinical Sciences, Karolinska Institutet, Danderyds Hospital,
+Stockholm, Sweden.
+(4)Department of Infectious Diseases, Danderyds Hospital, Danderyd, Sweden.
+(5)Bandim Health Project, Bissau, Guinea-Bissau.
+(6)Centre for Medical Parasitology, Department of Immunology and Microbiology,
+University of Copenhagen, Copenhagen, Denmark.
+(7)Department of Infectious Diseases, Copenhagen University Hospital, Copenhagen,
+Denmark.
+(8)DTU Bioinformatics, Technical University of Denmark, Lyngby, Denmark.
+(9)Division for Epidemiology and Microbial Genomics, National Food Institute,
+Technical University of Denmark, Kongens Lyngby, Denmark.
+(10)Bandim Health Project, Bissau, Guinea-Bissau. poul.erik.kofoed@rsyd.dk.
+(11)Department of Paediatrics, Kolding Hospital, University of Southern Denmark, 
+Kolding, Denmark. poul.erik.kofoed@rsyd.dk.
+
+BACKGROUND: Large-scale surveillance of molecular markers of anti-malarial drug
+resistance is an attractive method of resistance monitoring, to complement
+therapeutic efficacy studies in settings where the latter are logistically
+challenging.
+METHODS: Between 2014 and 2017, this study sampled malaria rapid diagnostic tests
+(RDTs), used in routine clinical care, from two health centres in Bissau,
+Guinea-Bissau. In order to obtain epidemiological insights, RDTs were collected
+together with patient data on age and sex. A subset of positive RDTs from one of 
+the two sites (n = 2184) were tested for Plasmodium DNA content. Those testing
+positive for Plasmodium DNA by PCR (n = 1390) were used for library preparation, 
+custom designed dual indexing and next generation Miseq targeted sequencing of
+Plasmodium falciparum genes pfcrt, pfmdr1, pfdhfr, pfdhps and pfk13.
+RESULTS: The study found a high frequency of the pfmdr1 codon 86N at 88-97%, a
+significant decrease of the pfcrt wildtype CVMNK haplotype and elevated levels of
+the pfdhfr/pfdhps quadruple mutant ranging from 33 to 51% between 2014 and 2017. 
+No polymorphisms indicating artemisinin tolerance were discovered. The
+demographic data indicate a large proportion of young adults (66%, interquartile 
+range 11-28 years) presenting with P. falciparum infections. While a total of
+5532 gene fragments were successfully analysed on a single Illumina Miseq flow
+cell, PCR-positivity from the library preparation varied considerably from 13 to 
+87% for different amplicons. Furthermore, pre-screening of samples for Plasmodium
+DNA content proved necessary prior to library preparation.
+CONCLUSIONS: This study serves as a proof of concept for using leftover clinical 
+material (used RDTs) for large-scale molecular surveillance, encompassing the
+inherent complications regarding to methodology and analysis when doing so.
+Factors such as RDT storage prior to DNA extraction and parasitaemia of the
+infection are likely to have an effect on whether or not parasite DNA can be
+successfully analysed, and are considered part of the reason the data yield is
+suboptimal. However, given the necessity of molecular surveillance of
+anti-malarial resistance in settings where poor infrastructure, poor economy,
+lack of educated staff and even surges of political instability remain major
+obstacles to performing clinical studies, obtaining the necessary data from used 
+RDTs, despite suboptimal output, becomes a feasible, affordable and hence a
+justifiable method.
+
+DOI: 10.1186/s12936-019-2894-8 
+PMCID: PMC6660714
+PMID: 31349834  [Indexed for MEDLINE]
+
