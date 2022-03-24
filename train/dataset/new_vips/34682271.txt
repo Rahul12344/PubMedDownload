@@ -1,0 +1,54 @@
+
+1. J Fungi (Basel). 2021 Oct 11;7(10). pii: 850. doi: 10.3390/jof7100850.
+
+Multi-Scale Convolutional Neural Network for Accurate Corneal Segmentation in
+Early Detection of Fungal Keratitis.
+
+Mayya V(1)(2), Kamath Shevgoor S(1), Kulkarni U(3), Hazarika M(4), Barua
+PD(5)(6), Acharya UR(7)(8)(9).
+
+Author information: 
+(1)Healthcare Analytics and Language Engineering (HALE) Lab, Department of
+Information Technology, National Institute of Technology Karnataka, Surathkal,
+Mangalore 575025, India.
+(2)Department of Information & Communication Technology, Manipal Institute of
+Technology, Manipal Academy of Higher Education (MAHE), Manipal 576104, India.
+(3)Department of Ophthalmology, Yenepoya Medical College, Yenepoya (Deemed to Be 
+University), Mangalore 575018, India.
+(4)Cornea and Anterior Segment Services, Department of Ophthalmology, Kasturba
+Medical College, Manipal Academy of Higher Education (MAHE), Manipal 576104,
+India.
+(5)School of Management & Enterprise, University of Southern Queensland,
+Toowoomba, QLD 4350, Australia.
+(6)Faculty of Engineering and Information Technology, University of Technology,
+Sydney, NSW 2007, Australia.
+(7)School of Engineering, Ngee Ann Polytechnic, Clementi 599489, Singapore.
+(8)Department of Biomedical Engineering, School of Science and Technology,
+Singapore University of Social Sciences, Singapore S599494, Singapore.
+(9)Department of Biomedical Informatics and Medical Engineering, Asia University,
+Taichung 41354, Taiwan.
+
+Microbial keratitis is an infection of the cornea of the eye that is commonly
+caused by prolonged contact lens wear, corneal trauma, pre-existing systemic
+disorders and other ocular surface disorders. It can result in severe visual
+impairment if improperly managed. According to the latest World Vision Report, at
+least 4.2 million people worldwide suffer from corneal opacities caused by
+infectious agents such as fungi, bacteria, protozoa and viruses. In patients with
+fungal keratitis (FK), often overt symptoms are not evident, until an advanced
+stage. Furthermore, it has been reported that clear discrimination between
+bacterial keratitis and FK is a challenging process even for trained corneal
+experts and is often misdiagnosed in more than 30% of the cases. However, if
+diagnosed early, vision impairment can be prevented through early cost-effective 
+interventions. In this work, we propose a multi-scale convolutional neural
+network (MS-CNN) for accurate segmentation of the corneal region to enable early 
+FK diagnosis. The proposed approach consists of a deep neural pipeline for
+corneal region segmentation followed by a ResNeXt model to differentiate between 
+FK and non-FK classes. The model trained on the segmented images in the region of
+interest, achieved a diagnostic accuracy of 88.96%. The features learnt by the
+model emphasize that it can correctly identify dominant corneal lesions for
+detecting FK.
+
+DOI: 10.3390/jof7100850 
+PMCID: PMC8540278
+PMID: 34682271 
+

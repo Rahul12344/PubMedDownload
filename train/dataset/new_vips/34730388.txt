@@ -1,0 +1,53 @@
+
+1. J Virol. 2021 Nov 3:JVI0161021. doi: 10.1128/JVI.01610-21. [Epub ahead of print]
+
+BST2 suppresses LINE-1 retrotransposition by reducing the promoter activity of
+LINE-1 5'-UTR.
+
+Zhao Y(1), Du J(1)(2), Wang Y(1), Wang Q(1)(3), Wang S(1), Zhao K(1)(2).
+
+Author information: 
+(1)Institute of Virology and AIDS Research, First Hospital of Jilin University,
+Changchun, Jilin 130061, China.
+(2)Key Laboratory of Organ Regeneration & Transplantation of the Ministry of
+Education, First Hospital of Jilin University, Changchun, Jilin 130061, China.
+(3)Department of Respiratory Medicine, First Hospital of Jilin University,
+Changchun, Jilin 130061, China.
+
+Endogenous retrotransposons are considered the "molecular fossils" of ancient
+retroviral insertions. Several studies have indicated that host factors restrict 
+both retroviruses and retrotransposons through different mechanisms. Type 1 long 
+interspersed elements (LINE-1 or L1) are the only active retroelements that can
+replicate autonomously in the human genome. A recent study reported that LINE-1
+retrotransposition is potently suppressed by BST2, a host restriction factor that
+prevents viral release mainly by physically tethering enveloped virions (such as 
+human immunodeficiency virus [HIV]) to the surface of producer cells. However, no
+endoplasmic membrane structure has been associated with LINE-1 replication,
+suggesting that BST2 may utilize a distinct mechanism to suppress LINE-1. In this
+study, we showed that BST2 is a potent LINE-1 suppressor. Further investigations 
+suggested that BST2 reduces the promoter activity of LINE-1 5'-UTR and lowers the
+levels of LINE-1 RNA, proteins, and events during LINE-1 retrotransposition.
+Surprisingly, although BST2 apparently uses different mechanisms against HIV and 
+LINE-1, two membrane-associated domains that are essential for BST2-mediated HIV 
+tethering also proved important for BST2-induced inhibition of LINE-1 5'-UTR.
+Additionally, by suppressing LINE-1, BST2 prevented LINE-1-induced genomic DNA
+damage and innate immune activation. Taken together, our data uncovered the
+mechanism of BST2-mediated LINE-1 suppression and revealed new roles of BST2 as a
+promoter regulator, genome stabilizer, and innate immune suppressor. IMPORTANCE
+BST2 is a potent antiviral protein that suppresses the release of several
+enveloped viruses, mainly by tethering the envelope of newly synthesized virions 
+and restraining them on the surface of producer cells. In mammalian cells, there 
+are numerous DNA elements replicating through reverse transcription, among which 
+LINE-1 is the only retroelement that can replicate autonomously. Although LINE-1 
+retrotransposition does not involve the participation of a membrane structure,
+BST2 has been reported as an efficient LINE-1 suppressor, suggesting a different 
+mechanism for BST2-mediated LINE-1 inhibition and a new function for BST2 itself.
+We found that BST2 specifically represses the promoter activity of LINE-1 5'-UTR,
+resulting in decreased levels of LINE-1 transcription, translation, and
+subsequent retrotransposition. Additionally, by suppressing LINE-1 activity, BST2
+maintains genome stability and regulates innate immune activation. These findings
+expand our understanding of BST2 and its biological significance.
+
+DOI: 10.1128/JVI.01610-21 
+PMID: 34730388 
+

@@ -1,0 +1,55 @@
+
+1. J Virol. 2021 Oct 27:JVI0163521. doi: 10.1128/JVI.01635-21. [Epub ahead of print]
+
+Accurate quantification of overlapping herpesvirus transcripts from RNA-seq data.
+
+Casco A(1), Gupta A(1), Hayes M(1), Djavadian R(1), Ohashi M(1), Johannsen
+E(1)(2).
+
+Author information: 
+(1)Department of Oncology, McArdle Laboratory for Cancer Research, University of 
+Wisconsin, Madison WI, USA.
+(2)Department of Medicine, Division of Infectious Diseases, University of
+Wisconsin, Madison, WI, USA.
+
+Herpesviruses employ extensive bidirectional transcription of overlapping genes
+to overcome length constraints on their gene product repertoire. As a
+consequence, many lytic transcripts cannot be measured individually by RT-qPCR or
+conventional RNA-seq analysis. Bruce et al. (Pathogens 2017, 6, 11;
+doi:10.3390/pathogens6010011) proposed an approximation method using Unique
+CoDing Sequences (UCDS) to estimate lytic gene abundance from KSHV RNA-seq data. 
+Although UCDS has been widely employed, its accuracy, to our knowledge, has never
+been rigorously validated for any herpesvirus. In this study, we use CAGE-seq as 
+a gold-standard to determine the accuracy of UCDS for estimating EBV lytic gene
+expression levels from RNA-seq data. We also introduce the Unique TranScript
+(UTS) method that, like UCDS, estimates transcript abundance from changes in mean
+RNA-seq read-depth. UTS is distinguished by its use of empirically determined 5' 
+and 3' transcript ends, rather than coding sequence annotations. Compared to
+conventional read assignment, both UCDS and UTS improved quantitation accuracy of
+overlapping genes, with UTS giving the most accurate results. The UTS method
+discards fewer reads and may be advantageous for experiments with less sequencing
+depth. UTS is compatible with any aligner and, unlike isoform-aware alignment
+methods, can be implemented on a laptop computer. Our findings demonstrate that
+accuracy achieved by complex and expensive techniques such as CAGE-seq can be
+approximated using conventional short-read RNA-seq data when read assignment
+methods address transcript overlap. Although our study focuses on EBV
+transcription, the UTS method should be applicable across all herpesviruses and
+other genomes with extensively overlapping transcriptomes. IMPORTANCE Many
+viruses employ extensively overlapping transcript structures. This complexity
+makes it difficult to quantify gene expression using conventional methods
+including RNA-seq. Although high-throughput techniques that overcome these
+limitations exist, they are complex, expensive, and scarce in herpesvirus
+literature relative to short-read RNA-seq. Here, using Epstein-Barr virus (EBV)
+as a model, we demonstrate that conventional RNA-seq analysis methods fail to
+accurately quantify abundance of many overlapping transcripts. We further show
+that the previously described Unique CoDing Sequence (UCDS) and our Unique
+TranScript (UTS) methods greatly improve the accuracy of EBV lytic gene
+measurements obtained from RNA-seq data. The UTS method has the advantages of
+discarding fewer reads and being implementable on a laptop computer. Although
+this study focuses on EBV, the UCDS and UTS methods should be applicable across
+herpesviruses and for other viruses that make extensive use of overlapping
+transcription.
+
+DOI: 10.1128/JVI.01635-21 
+PMID: 34705568 
+

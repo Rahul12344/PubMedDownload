@@ -1,0 +1,39 @@
+
+1. Sci Rep. 2021 Nov 8;11(1):21812. doi: 10.1038/s41598-021-01392-2.
+
+Quantification of the effects of climatic conditions on French hospital
+admissions and deaths induced by SARS-CoV-2.
+
+d'Albis H(1), Coulibaly D(2), Roumagnac A(3), de Carvalho Filho E(3), Bertrand
+R(3).
+
+Author information: 
+(1)Paris School of Economics, CNRS, 48 Boulevard Jourdan, 75014, Paris, France.
+hdalbis@psemail.eu.
+(2)Univ Lyon, Université Lumière Lyon 2, GATE, 93, Chemin des Mouilles, B.P. 167,
+69131, Ecully Cedex, France.
+(3)PREDICT Services, 20 Rue Didier Daurat, 34170, Castelnau-le-Lez, France.
+
+An estimation of the impact of climatic conditions-measured with an index that
+combines temperature and humidity, the IPTCC-on the hospitalizations and deaths
+attributed to SARS-CoV-2 is proposed. The present paper uses weekly data from 54 
+French administrative regions between March 23, 2020 and January 10, 2021.
+Firstly, a Granger causal analysis is developed and reveals that past values of
+the IPTCC contain information that allow for a better prediction of
+hospitalizations or deaths than that obtained without the IPTCC. Finally, a
+vector autoregressive model is estimated to evaluate the dynamic response of
+hospitalizations and deaths after an increase in the IPTCC. It is estimated that 
+a 10-point increase in the IPTCC causes hospitalizations to rise by 2.9% (90% CI 
+0.7-5.0) one week after the increase, and by 4.1% (90% CI 2.1-6.4) and 4.4% (90% 
+CI 2.5-6.3) in the two following weeks. Over ten weeks, the cumulative effect is 
+estimated to reach 20.1%. Two weeks after the increase in the IPTCC, deaths are
+estimated to rise by 3.7% (90% CI 1.6-5.8). The cumulative effect from the second
+to the tenth weeks reaches 15.8%. The results are robust to the inclusion of air 
+pollution indicators.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-01392-2 
+PMCID: PMC8575948
+PMID: 34750498  [Indexed for MEDLINE]
+

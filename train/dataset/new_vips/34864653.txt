@@ -1,0 +1,46 @@
+
+1. Hum Antibodies. 2021 Nov 26. doi: 10.3233/HAB-211505. [Epub ahead of print]
+
+Evaluation of molecular apoptosis signaling pathways and its correlation with EBV
+viral load in SLE patients using systems biology approach.
+
+Ghabeshi S(1), Najafi A(2), Zamani B(3), Soltani M(1), Arero AG(4)(5), Izadi
+S(1), Piroozmand A(6).
+
+Author information: 
+(1)Virology Department, School of Public Health, Tehran University of Medical
+Sciences, Tehran, Iran.
+(2)Molecular Biology Research Center, Baqiyatallah University of Medical
+Sciences, Tehran, Iran.
+(3)Autoimmune Diseases Research Center, Kashan University of Medical Sciences,
+Kashan, Iran.
+(4)Students' Scientific Research Center (SSRC), Tehran University of Medical
+Sciences, Tehran, Iran.
+(5)Universal Scientific Education and Research Network (USERN), Tehran, Iran.
+(6)Department of Microbiology, School of Medicine, Kashan University of Medical
+Sciences, Kashan, Iran.
+
+BACKGROUND: Considerable evidence supports that SLE could be related to apoptotic
+cells and EBV infection.
+OBJECTIVE: The aim of this study was to identify the transcriptional signature of
+EBV infection in SLE patients for survey of the molecular apoptosis signaling
+pathways.
+METHODS: The PBMCs gene expression profiles of healthy control and SLE patients
+were obtained from GEO. Functional annotation and signaling pathway enrichment
+were carried out using DAVID, KEGG. To validate bioinformatics analysis the
+changes in genes expression of some of obtained genes, Real time PCR was
+performed on PBMCs from 28 SLE patients and 18 controls.
+RESULTS: We found that mean viral load was 6013 ± 390.1 copy/μg DNA from PBMCs in
+all patients. QRT-PCR results showed that the expression of the DUSP1 and LAMP3
+genes which had most changes in the logFC among 4 candidate genes, increased
+significantly in comparison with control. The consistent expression of LMP2 as
+viral latency gene involve in apoptosis signaling pathways was detected in SLE
+patients with EBV viral load and some controls.
+CONCLUSIONS: The study indicated that some cellular genes may have an important
+role in pathogenesis of SLE through apoptosis signaling pathways. Beside, EBV
+infection as an environmental risk factor for SLE may affect the dysfunction of
+apoptosis.
+
+DOI: 10.3233/HAB-211505 
+PMID: 34864653 
+

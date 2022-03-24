@@ -1,0 +1,34 @@
+
+1. ACS Chem Biol. 2012 Sep 21;7(9):1496-501. Epub 2012 Jul 5.
+
+Identification of small-molecule antagonists of the Pseudomonas aeruginosa
+transcriptional regulator PqsR: biophysically guided hit discovery and
+optimization.
+
+Klein T(1), Henn C, de Jong JC, Zimmer C, Kirsch B, Maurer CK, Pistorius D,
+Müller R, Steinbach A, Hartmann RW.
+
+Author information: 
+(1)Helmholtz-Institute for Pharmaceutical Research Saarland (HIPS), Campus C2.3, 
+66123 Saarbrücken, Germany.
+
+The Gram-negative pathogen Pseudomonas aeruginosa produces an intercellular alkyl
+quinolone signaling molecule, the Pseudomonas quinolone signal. The pqs quorum
+sensing communication system that is characteristic for P. aeruginosa regulates
+the production of virulence factors. Therefore, we consider the pqs system a
+novel target to limit P. aeruginosa pathogenicity. Here, we present small
+molecules targeting a key player of the pqs system, PqsR. A rational design
+strategy in combination with surface plasmon resonance biosensor analysis led to 
+the identification of PqsR binders. Determination of thermodynamic binding
+signatures and functional characterization in E. coli guided the hit
+optimization, resulting in the potent hydroxamic acid derived PqsR antagonist 11 
+(IC(50) = 12.5 μM). Remarkably it displayed a comparable potency in P. aeruginosa
+(IC(50) = 23.6 μM) and reduced the production of the virulence factor pyocyanin. 
+Beyond this, site-directed mutagenesis together with thermodynamic analysis
+provided insights into the energetic characteristics of protein-ligand
+interactions. Thus the identified PqsR antagonists are promising scaffolds for
+further drug design efforts against this important pathogen.
+
+DOI: 10.1021/cb300208g 
+PMID: 22765028  [Indexed for MEDLINE]
+

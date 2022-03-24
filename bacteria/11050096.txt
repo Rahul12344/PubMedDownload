@@ -1,0 +1,38 @@
+
+1. J Biol Chem. 2001 Jan 19;276(3):1850-6. Epub 2000 Oct 24.
+
+Alkaline response genes of Saccharomyces cerevisiae and their relationship to the
+RIM101 pathway.
+
+Lamb TM(1), Xu W, Diamond A, Mitchell AP.
+
+Author information: 
+(1)Department of Microbiology, the Institute of Cancer Research, Columbia
+University, New York, New York 10032, USA.
+
+Erratum in
+    J Biol Chem 2001 Apr 13;276(15):12476.
+
+Environmental pH exerts broad control over growth and differentiation, but the
+molecular responses to external pH changes are poorly understood. Here we have
+used open reading frame macroarray hybridization to identify alkaline response
+genes in Saccharomyces cerevisiae. Northern or lacZ fusion assays confirmed the
+alkaline induction of two ion pump genes (ENA1 and VMA4), several ion limitation 
+genes (CTR3, FRE1, PHO11/12, and PHO84), a siderophore-iron transporter gene
+(ARN4/ENB1), two transcription factor genes (NRG2 and TIS11), and two predicted
+membrane protein genes (YAR068W/YHR214W and YOL154W). Unlike ENA1 and SHC1, these
+new alkaline response genes are not induced by high salinity. The known
+pH-responsive genes in other fungi depend on the conserved PacC/Rim101p
+transcription factor, but induction of several of these new genes relied upon
+Rim101p-independent pH signaling mechanisms. Rim101p-dependent genes were also
+dependent on Rim13p, a protease required for Rim101p processing. The
+Rim101p-dependent gene VMA4 is required for growth in alkaline conditions,
+illustrating how Rim101p may control adaptation. Because Rim101p activates ion
+pump genes, we tested the role of RIM101 in ion homeostasis and found that RIM101
+promotes resistance to elevated cation concentrations. Thus, gene expression
+surveys can reveal new functions for characterized transcription factors in
+addition to uncovering physiological responses to environmental conditions.
+
+DOI: 10.1074/jbc.M008381200 
+PMID: 11050096  [Indexed for MEDLINE]
+

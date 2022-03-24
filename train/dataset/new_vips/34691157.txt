@@ -1,0 +1,47 @@
+
+1. Front Genet. 2021 Oct 7;12:749256. doi: 10.3389/fgene.2021.749256. eCollection
+2021.
+
+Screening Potential Drugs for COVID-19 Based on Bound Nuclear Norm
+Regularization.
+
+Wang J(1), Wang C(1), Shen L(1), Zhou L(1), Peng L(1)(2).
+
+Author information: 
+(1)School of Computer Science, Hunan University of Technology, Zhuzhou, China.
+(2)College of Life Sciences and Chemistry, Hunan University of Technology,
+Zhuzhou, China.
+
+The novel coronavirus pneumonia COVID-19 infected by SARS-CoV-2 has attracted
+worldwide attention. It is urgent to find effective therapeutic strategies for
+stopping COVID-19. In this study, a Bounded Nuclear Norm Regularization (BNNR)
+method is developed to predict anti-SARS-CoV-2 drug candidates. First, three
+virus-drug association datasets are compiled. Second, a heterogeneous virus-drug 
+network is constructed. Third, complete genomic sequences and Gaussian
+association profiles are integrated to compute virus similarities; chemical
+structures and Gaussian association profiles are integrated to calculate drug
+similarities. Fourth, a BNNR model based on kernel similarity (VDA-GBNNR) is
+proposed to predict possible anti-SARS-CoV-2 drugs. VDA-GBNNR is compared with
+four existing advanced methods under fivefold cross-validation. The results show 
+that VDA-GBNNR computes better AUCs of 0.8965, 0.8562, and 0.8803 on the three
+datasets, respectively. There are 6 anti-SARS-CoV-2 drugs overlapping in any two 
+datasets, that is, remdesivir, favipiravir, ribavirin, mycophenolic acid,
+niclosamide, and mizoribine. Molecular dockings are conducted for the 6 small
+molecules and the junction of SARS-CoV-2 spike protein and human
+angiotensin-converting enzyme 2. In particular, niclosamide and mizoribine show
+higher binding energy of -8.06 and -7.06 kcal/mol with the junction,
+respectively. G496 and K353 may be potential key residues between anti-SARS-CoV-2
+drugs and the interface junction. We hope that the predicted results can
+contribute to the treatment of COVID-19.
+
+Copyright © 2021 Wang, Wang, Shen, Zhou and Peng.
+
+DOI: 10.3389/fgene.2021.749256 
+PMCID: PMC8529063
+PMID: 34691157 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. The handling editor declared a 
+past co-authorship with one of the author LZ.
+

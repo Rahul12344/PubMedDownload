@@ -1,0 +1,41 @@
+
+1. Cancer Res. 2008 Apr 15;68(8):2576-80. doi: 10.1158/0008-5472.CAN-07-6858.
+
+BCR/ABL inhibits mismatch repair to protect from apoptosis and induce point
+mutations.
+
+Stoklosa T(1), Poplawski T, Koptyra M, Nieborowska-Skorska M, Basak G, Slupianek 
+A, Rayevskaya M, Seferynska I, Herrera L, Blasiak J, Skorski T.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Temple University, Philadelphia,
+Pennsylvania 19140, USA.
+
+BCR/ABL kinase-positive chronic myelogenous leukemia (CML) cells display genomic 
+instability leading to point mutations in various genes including bcr/abl and
+p53, eventually causing resistance to imatinib and malignant progression of the
+disease. Mismatch repair (MMR) is responsible for detecting misincorporated
+nucleotides, resulting in excision repair before point mutations occur and/or
+induction of apoptosis to avoid propagation of cells carrying excessive DNA
+lesions. To assess MMR activity in CML, we used an in vivo assay using the
+plasmid substrate containing enhanced green fluorescent protein (EGFP) gene
+corrupted by T:G mismatch in the start codon; therefore, MMR restores EGFP
+expression. The efficacy of MMR was reduced approximately 2-fold in
+BCR/ABL-positive cell lines and CD34(+) CML cells compared with normal
+counterparts. MMR was also challenged by N-methyl-N'-nitro-N-nitrosoguanidine
+(MNNG), which generates O(6)-methylguanine and O(4)-methylthymine recognized by
+MMR system. Impaired MMR activity in leukemia cells was associated with better
+survival, accumulation of p53 but not of p73, and lack of activation of caspase 3
+after MNNG treatment. In contrast, parental cells displayed accumulation of p53, 
+p73, and activation of caspase 3, resulting in cell death. Ouabain-resistance
+test detecting mutations in the Na(+)/K(+) ATPase was used to investigate the
+effect of BCR/ABL kinase-mediated inhibition of MMR on mutagenesis.
+BCR/ABL-positive cells surviving the treatment with MNNG displayed approximately 
+15-fold higher mutation frequency than parental counterparts and predominantly
+G:C-->A:T and A:T-->G:C mutator phenotype typical for MNNG-induced unrepaired
+lesions. In conclusion, these results suggest that BCR/ABL kinase abrogates MMR
+activity to inhibit apoptosis and induce mutator phenotype.
+
+DOI: 10.1158/0008-5472.CAN-07-6858 
+PMID: 18413724  [Indexed for MEDLINE]
+

@@ -1,0 +1,61 @@
+
+1. Cancer Cell Int. 2021 Oct 30;21(1):577. doi: 10.1186/s12935-021-02269-0.
+
+Kaposi's sarcoma-associated herpesvirus infection promotes proliferation of
+SH-SY5Y cells by the Notch signaling pathway.
+
+Cao D(#)(1), Wu S(#)(1), Wang X(1), Li Y(1), Xu H(1), Pan Z(1), Wu Z(1), Yang
+L(2), Tan X(2), Li D(3).
+
+Author information: 
+(1)Key Laboratory of Xinjiang Endemic and Ethnic Diseases/NHC Key Laboratory of
+Prevention and Treatment of Central Asia High Incidence Diseases, School of
+Medicine, Shihezi University, Beier Road, Shihezi, Xinjiang, China.
+(2)School of Medicine, Hangzhou Normal University, Hangzhou, Zhejiang, China.
+(3)Key Laboratory of Xinjiang Endemic and Ethnic Diseases/NHC Key Laboratory of
+Prevention and Treatment of Central Asia High Incidence Diseases, School of
+Medicine, Shihezi University, Beier Road, Shihezi, Xinjiang, China.
+lidongmei@shzu.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: The cancer caused by Kaposi's sarcoma-associated herpesvirus (KSHV)
+infection is one of the major causes of death in AIDS patients. Some patients
+have neurological symptoms, which appear to be associated with KSHV infection,
+based on the neurotropic tendency of this virus in recent years. The objectives
+of this study were to investigate the effects of KSHV infection on neuronal
+SH-SY5Y cells and to identify differentially expressed genes.
+METHODS: KSHV was collected from islk.219 cells. Real-time PCR was used to
+quantify KSHV copy numbers. KSHV was used to infect SH-SY5Y cells. The KSHV copy 
+number in the supernatants and mRNA levels of latency-associated nuclear antigen 
+(LANA), ORF26, K8.1 A, and replication and transcriptional activator (RTA) were
+detected by real-time PCR. Proteins were detected by immunohistochemistry. The
+effect of KSHV infection on cell proliferation was detected by MTT and Ki-67
+staining. Cell migration was evaluated by Transwell and wound healing assays. The
+cell cycle was analyzed by flow cytometry. The expression of CDK4, CDK5, CDK6,
+cyclin D1, and p27 were measured by western blotting. The levels of cell cycle
+proteins were re-examined in LANA-overexpressing SH-SY5Y cells. Transcriptome
+sequencing was used to identify differentially expressed genes in KSHV-infected
+cells. The levels of Notch signaling pathway proteins were measured by western
+blotting. RNA interference was used to silence Notch1 and proliferation were
+analyzed again.
+RESULTS: SH-SY5Y cells were successfully infected with KSHV, and they maintained 
+the ability to produce virions. KSHV-infected SH-SY5Y expressed LANA, ORF26,
+K8.1 A, and RTA. After KSHV infection, cell proliferation was enhanced, but cell 
+migration was suppressed. KSHV infection accelerated the G0/G1 phase. CDK4, CDK5,
+CDK6, and cyclin D1 expression was increased, whereas p27 expression was
+decreased. After LANA overexpression, CDK4, CDK6 and cyclin D1 expression was
+increased. Transcriptome sequencing showed that 11,258 genes were upregulated and
+1,967 genes were downregulated in KSHV-infected SH-SY5Y. The Notch signaling
+pathway played a role in KSHV infection in SH-SY5Y, and western blots confirmed
+that Notch1, NICD, RBP-Jĸ and Hes1 expression was increased. After silencing of
+Notch1, the related proteins and cell proliferation ability were decreased.
+CONCLUSIONS: KSHV infected SH-SY5Y cells and promoted the cell proliferation.
+KSHV infection increased the expression of Notch signaling pathway proteins,
+which may have been associated with the enhanced cell proliferation.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12935-021-02269-0 
+PMCID: PMC8557577
+PMID: 34717617 
+

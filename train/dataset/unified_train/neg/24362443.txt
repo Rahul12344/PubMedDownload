@@ -1,0 +1,43 @@
+
+1. glycobiology. 2014 mar;24(3):325-40. doi: 10.1093/glycob/cwt161. epub 2013 dec
+20.
+
+a novel baculovirus vector production nonfucosylated recombinant
+glycoproteins insect cells.
+
+mabashi-asazuma h(1), kuo cw, khoo kh, jarvis dl.
+
+author information: 
+(1)department molecular biology, university wyoming, laramie, wy 82071,
+usa.
+
+glycosylation important attribute baculovirus-insect cell expression
+systems, insect cell lines produce core α1,3-fucosylated n-glycans,
+which highly immunogenic render recombinant glycoproteins unsuitable 
+human use. address problem, exploited bacterial enzyme,
+guanosine-5'-diphospho (gdp)-4-dehydro-6-deoxy-d-mannose reductase (rmd), which
+consumes gdp-l-fucose precursor. expected enzyme block
+glycoprotein fucosylation blocking production gdp-l-fucose, donor
+substrate required process. initially, engineered two different
+insect cell lines constitutively express rmd isolated subclones with
+fucosylation-negative phenotypes. however, found fucosylation-negative
+phenotypes induced rmd expression unstable, indicating host
+cell engineering approach ineffective insect systems. thus, constructed 
+a baculovirus vector designed express rmd immediately infection and
+facilitate insertion genes encoding glycoprotein interest for
+expression later infection. used vector produce daughter
+encoding rituximab found, contrast rmd-negative control, insect
+cells infected virus produced nonfucosylated form therapeutic
+antibody. results indicate rmd(+) baculoviral vector used
+to solve immunogenic core α1,3-fucosylation problem associated the
+baculovirus-insect cell system. conjunction existing glycoengineered
+insect cell lines, vector extends utility baculovirus-insect cell
+system include therapeutic glycoprotein production. new vector also
+extends utility baculovirus-insect cell system include the
+production recombinant antibodies enhanced effector functions, due its
+ability block core α1,6-fucosylation.
+
+doi: 10.1093/glycob/cwt161 
+pmcid: pmc3919471
+pmid: 24362443  [indexed medline]
+

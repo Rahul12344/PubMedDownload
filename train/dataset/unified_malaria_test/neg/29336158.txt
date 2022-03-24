@@ -1,0 +1,52 @@
+
+1. j proteome res. 2018 mar 2;17(3):1258-1268. doi: 10.1021/acs.jproteome.7b00861.
+epub 2018 feb 5.
+
+chromosome gene orientation inversion networks (goins) plasmodium proteome.
+
+quevedo-tumailli vf(1)(2), ortega-tenezaca b(1)(2)(3), gonzález-díaz h(4)(5).
+
+author information: 
+(1)rnasa-imedir, computer science faculty, university coruña , 15071 a
+coruña, spain.
+(2)universidad estatal amazónica uea , puyo, pastaza, ecuador.
+(3)universidad regional autónoma de los andes uniandes-puyo , puyo, pastaza,
+ecuador.
+(4)dept. organic chemistry ii, university basque country upv/ehu ,
+48940 leioa, biscay, spain.
+(5)ikerbasque, basque foundation science , 48011 bilbao, biscay, spain.
+
+the spatial distribution genes chromosomes seems random. for
+instance, 10% genes transcribed bidirectional promoters in
+humans, many organized larger clusters. raises intriguing 
+questions previously asked different authors. would like add 
+questions context, related gene orientation inversions. gene
+orientation (inversion) follow random pattern? relevant biological
+activity somehow? define new kind network coined gene orientation 
+inversion network (goin). goin's complex network encodes short- long-range
+patterns inversion orientation pairs gene chromosome. we
+selected plasmodium falciparum case study due high relevance of
+this parasite public health (causal agent malaria). constructed for
+the first time goins genome parasite. networks
+have average 383 nodes (genes one chromosome) 1314 links (pairs of
+gene inverse orientation). calculated node centralities other
+parameters networks. numerical parameters used study
+different properties gene inversion patterns, example, distribution, local
+communities, similarity erdös-rényi random networks, randomness, on. we
+find clues seem indicate gene orientation inversion follow 
+a random pattern. noted gene communities goins tend group 
+genes encoding rifin-related proteins proteome parasite.
+rifin-like proteins second family clonally variant proteins expressed on
+the surface red cells infected plasmodium falciparum. consequently, we
+used centralities input machine learning (ml) models predict the
+rifin-like activity 5365 proteins proteome plasmodium sp. best
+linear ml model found discriminates rifin-like proteins with
+sensitivity specificity 70-80% training external validation series.
+all results may point possible biological relevance gene
+orientation inversion directly dependent genetic sequence information.
+this work opens gate use goins tool study the
+structure chromosomes study protein function proteome research.
+
+doi: 10.1021/acs.jproteome.7b00861 
+pmid: 29336158  [indexed medline]
+

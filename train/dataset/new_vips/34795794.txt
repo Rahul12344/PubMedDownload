@@ -1,0 +1,52 @@
+
+1. Comput Math Methods Med. 2021 Nov 9;2021:9269173. doi: 10.1155/2021/9269173.
+eCollection 2021.
+
+Deep Learning Algorithm for COVID-19 Classification Using Chest X-Ray Images.
+
+V J S(1), D JF(2).
+
+Author information: 
+(1)Loyola-ICAM College of Engineering and Technology, Loyola Campus,
+Nungambakkam, Chennai 600034, Tamil Nadu, India.
+(2)Dr. Sivanthi Aditanar College of Engineering, Tuticorin District, Thiruchendur
+628215, Tamil Nadu, India.
+
+Early diagnosis of the harmful severe acute respiratory syndrome coronavirus 2
+(SARS-CoV-2), along with clinical expertise, allows governments to break the
+transition chain and flatten the epidemic curve. Although reverse
+transcription-polymerase chain reaction (RT-PCR) offers quick results, chest
+X-ray (CXR) imaging is a more reliable method for disease classification and
+assessment. The rapid spread of the coronavirus disease 2019 (COVID-19) has
+triggered extensive research towards developing a COVID-19 detection toolkit.
+Recent studies have confirmed that the deep learning-based approach, such as
+convolutional neural networks (CNNs), provides an optimized solution for COVID-19
+classification; however, they require substantial training data for learning
+features. Gathering this training data in a short period has been challenging
+during the pandemic. Therefore, this study proposes a new model of CNN and deep
+convolutional generative adversarial networks (DCGANs) that classify CXR images
+into normal, pneumonia, and COVID-19. The proposed model contains eight
+convolutional layers, four max-pooling layers, and two fully connected layers,
+which provide better results than the existing pretrained methods (AlexNet and
+GoogLeNet). DCGAN performs two tasks: (1) generating synthetic/fake images to
+overcome the challenges of an imbalanced dataset and (2) extracting deep features
+of all images in the dataset. In addition, it enlarges the dataset and represents
+the characteristics of diversity to provide a good generalization effect. In the 
+experimental analysis, we used four distinct publicly accessible datasets of
+chest X-ray images (COVID-19 X-ray, COVID Chest X-ray, COVID-19 Radiography, and 
+CoronaHack-Chest X-Ray) to train and test the proposed CNN and the existing
+pretrained methods. Thereafter, the proposed CNN method was trained with the four
+datasets based on the DCGAN synthetic images, resulting in higher accuracy
+(94.8%, 96.6%, 98.5%, and 98.6%) than the existing pretrained models. The overall
+results suggest that the proposed DCGAN-CNN approach is a promising solution for 
+efficient COVID-19 diagnosis.
+
+Copyright © 2021 Sharmila V J and Jemi Florinabel D.
+
+DOI: 10.1155/2021/9269173 
+PMCID: PMC8594989
+PMID: 34795794  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts
+of interest.
+

@@ -1,0 +1,42 @@
+
+1. Nat Commun. 2021 Jan 5;12(1):121. doi: 10.1038/s41467-020-20359-x.
+
+Seesaw conformations of Npl4 in the human p97 complex and the inhibitory
+mechanism of a disulfiram derivative.
+
+Pan M(1), Zheng Q(2), Yu Y(1), Ai H(2), Xie Y(1), Zeng X(3), Wang C(3), Liu L(4),
+Zhao M(5).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, The University of Chicago,
+Chicago, IL, 60637, USA.
+(2)Tsinghua-Peking Center for Life Sciences, Department of Chemistry, Tsinghua
+University, 100084, Beijing, China.
+(3)Peking-Tsinghua Center for Life Sciences, College of Chemistry and Molecular
+Engineering, Peking University, 100871, Beijing, China.
+(4)Tsinghua-Peking Center for Life Sciences, Department of Chemistry, Tsinghua
+University, 100084, Beijing, China. lliu@mail.tsinghua.edu.cn.
+(5)Department of Biochemistry and Molecular Biology, The University of Chicago,
+Chicago, IL, 60637, USA. mlzhao@uchicago.edu.
+
+p97, also known as valosin-containing protein (VCP) or Cdc48, plays a central
+role in cellular protein homeostasis. Human p97 mutations are associated with
+several neurodegenerative diseases. Targeting p97 and its cofactors is a strategy
+for cancer drug development. Despite significant structural insights into the
+fungal homolog Cdc48, little is known about how human p97 interacts with its
+cofactors. Recently, the anti-alcohol abuse drug disulfiram was found to target
+cancer through Npl4, a cofactor of p97, but the molecular mechanism remains
+elusive. Here, using single-particle cryo-electron microscopy (cryo-EM), we
+uncovered three Npl4 conformational states in complex with human p97 before ATP
+hydrolysis. The motion of Npl4 results from its zinc finger motifs interacting
+with the N domain of p97, which is essential for the unfolding activity of p97.
+In vitro and cell-based assays showed that the disulfiram derivative
+bis-(diethyldithiocarbamate)-copper (CuET) can bypass the copper transporter
+system and inhibit the function of p97 in the cytoplasm by releasing cupric ions 
+under oxidative conditions, which disrupt the zinc finger motifs of Npl4, locking
+the essential conformational switch of the complex.
+
+DOI: 10.1038/s41467-020-20359-x 
+PMCID: PMC7785736
+PMID: 33402676  [Indexed for MEDLINE]
+

@@ -1,0 +1,53 @@
+
+1. Gene Ther. 2021 Nov 11. doi: 10.1038/s41434-021-00302-5. [Epub ahead of print]
+
+A short hepatitis C virus NS5A peptide expression by AAV vector modulates human T
+cell activation and reduces vector immunogenicity.
+
+Colon-Moran W(#)(1), Baer A(#)(1), Lamture G(1)(2), Stapleton JT(3)(4), Fischer
+JW(1)(5), Bhattarai N(6).
+
+Author information: 
+(1)Division of Cellular and Gene Therapies, Office of Tissues and Advanced
+Therapies, Center for Biologics Evaluation and Research, Food and Drug
+Administration, Silver Spring, MD, 20993, USA.
+(2)Adicet Bio, Inc., Menlo Park, CA, USA.
+(3)Research Service, Iowa City Veterans Affairs Medical Center, Iowa City, IA,
+USA.
+(4)Departments of Internal Medicine and Microbiology, University of Iowa, Iowa
+City, IA, USA.
+(5)AstraZeneca, Gaithersburg, MD, USA.
+(6)Division of Cellular and Gene Therapies, Office of Tissues and Advanced
+Therapies, Center for Biologics Evaluation and Research, Food and Drug
+Administration, Silver Spring, MD, 20993, USA. nirjal.bhattarai@fda.hhs.gov.
+(#)Contributed equally
+
+Viral vector-mediated gene therapies have the potential to treat many human
+diseases; however, host immune responses against the vector and/or the transgene 
+pose a safety risk to the patients and can negatively impact product efficacy.
+Thus, novel strategies to reduce vector immunogenicity are critical for the
+advancement of these therapies. T cell activation (TCA) is required for the
+development of immune responses during gene therapy. We hypothesized that
+modulation of TCA by incorporating a novel viral immunomodulatory factor into a
+viral vector may reduce unwanted TCA and immune responses during gene therapy. To
+test this hypothesis, we identified an immunomodulatory domain of the hepatitis C
+virus (HCV) NS protein 5A (NS5A) protein and studied the effect of viral vectors 
+expressing NS5A peptide on TCA. Lentiviral vector-mediated expression of a short 
+20-mer peptide derived from the NS5A protein in human T cells was sufficient to
+inhibit TCA. Synthetic 20-mer NS5A peptide also inhibited TCA in primary human T 
+cells. Mechanistically, the NS5A protein interacted with Lck and inhibited
+proximal TCR signaling. Importantly, NS5A peptide expression did not cause global
+T cell signaling dysfunction as distal T cell signaling was not inhibited.
+Finally, recombinant adeno-associated virus (AAV) vector expressing the 20-mer
+NS5A peptide reduced both the recall antigen and the TCR-mediated activation of
+human T cells and did not cause global T cell signaling dysfunction. Together,
+these data suggest that expression of a 20-mer NS5A peptide by an AAV vector may 
+reduce unwanted TCA and may contribute to lower vector immunogenicity during gene
+therapy.
+
+© 2021. This is a U.S. government work and not under copyright protection in the 
+U.S.; foreign copyright protection may apply.
+
+DOI: 10.1038/s41434-021-00302-5 
+PMID: 34759330 
+

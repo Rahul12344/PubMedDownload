@@ -1,0 +1,47 @@
+
+1. Bull Math Biol. 2019 Jun;81(6):2029-2050. doi: 10.1007/s11538-019-00604-1. Epub
+2019 Apr 2.
+
+Backward Bifurcation as a Desirable Phenomenon: Increased Fecundity Through
+Infection.
+
+Barradas I(1), Vázquez V(2).
+
+Author information: 
+(1)Centro de Investigación en Matemáticas, Apartado Postal 402, 36000,
+Guanajuato, Guanajuato, Mexico. barradas@cimat.mx.
+(2)Instituto de Física y Matemáticas, Universidad Tecnológica de la Mixteca,
+69000, Huajuapan de León, Oaxaca, Mexico.
+
+Backward or subcritical bifurcation is usually considered an undesirable
+phenomenon in epidemiology since control measures require a reduction in R0 not
+below one but below a much smaller value. However, there are contexts for which a
+backward or subcritical bifurcation is not a bad thing; it can even be desirable.
+Such is the case for any characteristic that can be passed to the next generation
+(genetically fixed or not) and that increases the effective reproductive rate of 
+the host or the total number of individuals. In the present work, we study an
+epidemiological model consisting of two classes, susceptible and "infected"
+individuals; the model considers a characteristic that is passed from "infected" 
+to "susceptible" by direct "contact," for instance increased fecundity. We
+analyze conditions for the appearance of a backward or subcritical bifurcation.
+We discuss the advantage for the population under infection, since the total
+number of individuals increases at equilibrium. If one takes that as a proxy for 
+increased fitness, it would increase the species' ecological success. One key
+element in the model is the fact that "susceptible" individuals have
+"susceptible" descendants, but "infected" individuals can have "infected"
+descendants as well as "susceptible" ones. A somehow rare addition for
+epidemiological models, the fact that "infected" individuals reproduce more
+rapidly than the susceptible ones, leads to unexpected consequences. Facilitating
+the "inoculation" increases the total population size, i.e., the backward or
+subcritical bifurcation appears, with desirable consequences for the population. 
+We show that an increase in the number of susceptible newborns is the main reason
+for the appearance of a backward or subcritical bifurcation, which induces a
+bigger population size. We analyze the effect of different combinations of
+susceptible/infected birth rates. This kind of phenomenon has been observed for
+bacterial infections in several insects-bacteria and nematodes-bacteria
+interactions; in particular, it has been intensely studied in interactions of
+wasps and flies with the genus Wolbachia. It has also been shown in amphibians.
+
+DOI: 10.1007/s11538-019-00604-1 
+PMID: 30941647  [Indexed for MEDLINE]
+

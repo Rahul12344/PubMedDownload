@@ -1,0 +1,47 @@
+
+1. Mol Ther. 2016 Sep;24(9):1561-9. doi: 10.1038/mt.2016.148. Epub 2016 Jul 29.
+
+CRISPR/Cas9-Mediated Correction of the Sickle Mutation in Human CD34+ cells.
+
+Hoban MD(1), Lumaquin D(1), Kuo CY(2), Romero Z(1), Long J(1)(3), Ho M(1), Young 
+CS(4)(5), Mojadidi M(1), Fitz-Gibbon S(6)(7), Cooper AR(5), Lill GR(1), Urbinati 
+F(1), Campo-Fernandez B(1), Bjurstrom CF(1), Pellegrini M(6)(7), Hollis RP(1),
+Kohn DB(1)(8).
+
+Author information: 
+(1)Department of Microbiology, Immunology and Molecular Genetics, University of
+California, Los Angeles, California USA.
+(2)Division of Allergy and Immunology, Department of Pediatrics, David Geffen
+School of Medicine, University of California, Los Angeles, California, USA.
+(3)Biology Department, California State University, Northridge, California, USA.
+(4)Department of Neurology, David Geffen School of Medicine, University of
+California, Los Angeles, California, USA.
+(5)Molecular Biology Interdepartmental PhD Program (MBIDP), University of
+California, Los Angeles, California, USA.
+(6)Department of Molecular, Cell, and Developmental Biology, University of
+California, Los Angeles, California, USA.
+(7)Institute for Genomics and Proteomics, University of California, Los Angeles, 
+California, USA.
+(8)Eli & Edythe Broad Center of Regenerative Medicine & Stem Cell Research,
+University of California, Los Angeles, California, USA.
+
+Targeted genome editing technology can correct the sickle cell disease mutation
+of the β-globin gene in hematopoietic stem cells. This correction supports
+production of red blood cells that synthesize normal hemoglobin proteins. Here,
+we demonstrate that Transcription Activator-Like Effector Nucleases (TALENs) and 
+the Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)/Cas9
+nuclease system can target DNA sequences around the sickle-cell mutation in the
+β-globin gene for site-specific cleavage and facilitate precise correction when a
+homologous donor template is codelivered. Several pairs of TALENs and multiple
+CRISPR guide RNAs were evaluated for both on-target and off-target cleavage
+rates. Delivery of the CRISPR/Cas9 components to CD34+ cells led to over 18% gene
+modification in vitro. Additionally, we demonstrate the correction of the sickle 
+cell disease mutation in bone marrow derived CD34+ hematopoietic stem and
+progenitor cells from sickle cell disease patients, leading to the production of 
+wild-type hemoglobin. These results demonstrate correction of the sickle mutation
+in patient-derived CD34+ cells using CRISPR/Cas9 technology.
+
+DOI: 10.1038/mt.2016.148 
+PMCID: PMC5113113
+PMID: 27406980  [Indexed for MEDLINE]
+

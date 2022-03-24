@@ -1,0 +1,72 @@
+
+1. Front Immunol. 2021 Oct 28;12:765330. doi: 10.3389/fimmu.2021.765330. eCollection
+2021.
+
+Functional Activity of the Complement System in Hospitalized COVID-19 Patients: A
+Prospective Cohort Study.
+
+Charitos P(1), Heijnen IAFM(2), Egli A(3)(4), Bassetti S(1), Trendelenburg
+M(1)(5)(6), Osthoff M(1)(5)(6).
+
+Author information: 
+(1)Division of Internal Medicine, University Hospital Basel, Basel, Switzerland.
+(2)Division of Medical Immunology, Laboratory Medicine, University Hospital
+Basel, Basel, Switzerland.
+(3)Clinical Bacteriology and Mycology, Laboratory Medicine, University Hospital
+Basel, Basel, Switzerland.
+(4)Applied Microbiology Research, Department of Biomedicine, University of Basel,
+Basel, Switzerland.
+(5)Department of Biomedicine, University of Basel, Basel, Switzerland.
+(6)Department of Clinical Research, University of Basel, Basel, Switzerland.
+
+Aims: Although the exact factors promoting disease progression in COVID-19 are
+not fully elucidated, unregulated activation of the complement system (CS) seems 
+to play a crucial role in the pathogenesis of acute lung injury (ALI) induced by 
+SARS-CoV-2. In particular, the lectin pathway (LP) has been implicated in
+previous autopsy studies. The primary purpose of our study is to investigate the 
+role of the CS in hospitalized COVID-19 patients with varying degrees of disease 
+severity.
+Methods: In a single-center prospective observational study, 154 hospitalized
+patients with PCR-confirmed SARS-CoV-2 infection were included. Serum samples on 
+admission to the COVID-19 ward were collected for analysis of CS pathway
+activities and concentrations of LP proteins [mannose-binding lectin (MBL) and
+ficolin-3 (FCN-3)] & C1 esterase inhibitor (C1IHN). The primary outcome was
+mechanical ventilation or in-hospital death.
+Results: The patients were predominately male and had multiple comorbidities. ICU
+admission was required in 16% of the patients and death (3%) or mechanical
+ventilation occurred in 23 patients (15%). There was no significant difference in
+LP activity, MBL and FCN-3 concentrations according to different peak disease
+severities. The median alternative pathway (AP) activity was significantly lower 
+(65%, IQR 50-94) in patients with death/invasive ventilation compared to patients
+without (87%, IQR 68-102, p=0.026). An optimal threshold of <65.5% for AP
+activity was derived from a ROC curve resulting in increased odds for death or
+mechanical ventilation (OR 4,93; 95% CI 1.70-14.33, p=0.003) even after
+adjustment for confounding factors. Classical pathway (CP) activity was slightly 
+lower in patients with more severe disease (median 101% for death/mechanical
+ventilation vs 109%, p=0.014). C1INH concentration correlated positively with
+length of stay, inflammatory markers and disease severity on admission but not
+during follow-up.
+Conclusion: Our results point to an overactivated AP in critically ill COVID-19
+patients in vivo leading to complement consumption and consequently to a
+significantly reduced AP activity in vitro. The LP does not seem to play a role
+in the progression to severe COVID-19. Apart from its acute phase reaction the
+significance of C1INH in COVID-19 requires further studies.
+
+Copyright © 2021 Charitos, Heijnen, Egli, Bassetti, Trendelenburg and Osthoff.
+
+DOI: 10.3389/fimmu.2021.765330 
+PMCID: PMC8581394
+PMID: 34777382  [Indexed for MEDLINE]
+
+Conflict of interest statement: MT reports receiving a grant from the Swiss
+National Science Foundation, and having research collaborations with Roche,
+Novartis, and Idorsia (all outside of the submitted work). MO reports receiving
+grants from the Swiss National Science foundation outside of the submitted work, 
+and consulting fees from Pharming Technologies B.V. during the conduct of the
+study and grants from Pharming Biotechnologies B.V. outside the submitted work.
+AE reports receiving grants from the Swiss National Science foundation outside of
+the submitted work. No conflict of interest for this work. The remaining authors 
+declare that the research was conducted in the absence of any commercial or
+financial relationships that could be construed as a potential conflict of
+interest.
+

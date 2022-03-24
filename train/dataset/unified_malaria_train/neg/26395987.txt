@@ -1,0 +1,68 @@
+
+1. parasit vectors. 2015 sep 23;8:485. doi: 10.1186/s13071-015-1079-8.
+
+gene expression changes salivary glands anopheles coluzzii elicited 
+plasmodium berghei infection.
+
+pinheiro-silva r(1), borges l(2)(3), coelho lp(4), cabezas-cruz a(5)(6), valdés
+jj(7), rosário v(8), de la fuente j(9)(10), domingos a(11)(12).
+
+author information: 
+(1)instituto de higiene e medicina tropical (ihmt), lisbon, portugal.
+renato.silva@ihmt.unl.pt.
+(2)instituto de higiene e medicina tropical (ihmt), lisbon, portugal.
+lara.borges@ihmt.unl.pt.
+(3)global health tropical medicine (ghmt), instituto de higiene e medicina
+tropical (ihmt), lisbon, portugal. lara.borges@ihmt.unl.pt.
+(4)unidade de biofísica e expressão genética, instituto de medicina molecular
+(imm), lisbon, portugal. luis@luispedro.org.
+(5)center infection immunity lille (ciil), institut pasteur de lille, 
+lille, france. cabezasalejandrocruz@gmail.com.
+(6)sabio. instituto de investigación de recursos cinegéticos,
+irec-csic-uclm-jccm, ciudad real, spain. cabezasalejandrocruz@gmail.com.
+(7)institute parasitology, biology centre academy sciences the
+czech republic, české budějovice, czech republic. valdjj@gmail.com.
+(8)instituto de higiene e medicina tropical (ihmt), lisbon, portugal.
+virgilio.do.rosario@gmail.com.
+(9)sabio. instituto de investigación de recursos cinegéticos,
+irec-csic-uclm-jccm, ciudad real, spain. jose_delafuente@yahoo.com.
+(10)department veterinary pathobiology, center veterinary health sciences,
+oklahoma state university, stillwater, usa. jose_delafuente@yahoo.com.
+(11)instituto de higiene e medicina tropical (ihmt), lisbon, portugal.
+adomingos@ihmt.unl.pt.
+(12)global health tropical medicine (ghmt), instituto de higiene e medicina
+tropical (ihmt), lisbon, portugal. adomingos@ihmt.unl.pt.
+
+background: malaria devastating infectious disease caused plasmodium
+parasites transmitted bites infected anopheles mosquitoes.
+salivary glands mosquito tissue invaded plasmodium sporozoites,
+being key stage effective parasite transmission, making study of
+anopheles sialome highly relevant.
+methods: rna-sequencing used compare differential gene expression in
+salivary glands uninfected plasmodium berghei-infected anopheles coluzzii 
+mosquitoes. rna-seq results validated quantitative rt-pcr. the
+transmembrane glucose transporter gene agap007752 selected functional
+analysis rna interference. effect gene silencing infection level was
+evaluated. putative function tertiary structure protein was
+assessed.
+results: rna-seq data showed 2588 genes differentially expressed in
+mosquitoes salivary glands response p. berghei infection, 1578
+upregulated 1010 downregulated. metabolism, immunity,
+replication/transcription/translation, proteolysis transport the
+mosquito gene functional classes affected parasite infection.
+endopeptidase coding genes abundant within differentially
+expressed genes infected salivary glands (p < 0.001). based putative
+function expression level, transmembrane glucose transporter gene,
+agap007752, selected functional analysis rna interference. results
+demonstrated number sporozoites 44.3% lower mosquitoes fed 
+infected mice agapp007752 gene knockdown compared control
+(p < 0.01).
+conclusions: hypothesis protein encoded gene agapp007752
+may play role an. coluzzii salivary glands infection plasmodium parasite,
+working sporozoite receptor and/or promoting favorable environment the
+capacity sporozoites.
+
+doi: 10.1186/s13071-015-1079-8 
+pmcid: pmc4580310
+pmid: 26395987  [indexed medline]
+

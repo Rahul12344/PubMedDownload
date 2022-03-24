@@ -1,0 +1,47 @@
+
+1. Cell Stem Cell. 2015 Mar 5;16(3):323-37. doi: 10.1016/j.stem.2015.01.015.
+
+A continuous molecular roadmap to iPSC reprogramming through progression analysis
+of single-cell mass cytometry.
+
+Zunder ER(1), Lujan E(2), Goltsev Y(1), Wernig M(3), Nolan GP(4).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Baxter Laboratory for Stem Cell
+Biology, Stanford University School of Medicine, Stanford, CA 94305, USA.
+(2)Department of Pathology, Institute for Stem Cell Biology and Regenerative
+Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA;
+Department of Genetics, Stanford University School of Medicine, Stanford, CA
+94305, USA.
+(3)Department of Pathology, Institute for Stem Cell Biology and Regenerative
+Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA.
+(4)Department of Microbiology and Immunology, Baxter Laboratory for Stem Cell
+Biology, Stanford University School of Medicine, Stanford, CA 94305, USA.
+Electronic address: gnolan@stanford.edu.
+
+Comment in
+    Cell Stem Cell. 2015 Mar 5;16(3):215-6.
+
+To analyze cellular reprogramming at the single-cell level, mass cytometry was
+used to simultaneously measure markers of pluripotency, differentiation,
+cell-cycle status, and cellular signaling throughout the reprogramming process.
+Time-resolved progression analysis of the resulting data sets was used to
+construct a continuous molecular roadmap for three independent reprogramming
+systems. Although these systems varied substantially in Oct4, Sox2, Klf4, and
+c-Myc stoichiometry, they presented a common set of reprogramming landmarks.
+Early in the reprogramming process, Oct4(high)Klf4(high) cells transitioned to a 
+CD73(high)CD104(high)CD54(low) partially reprogrammed state. Ki67(low) cells from
+this intermediate population reverted to a MEF-like phenotype, but Ki67(high)
+cells advanced through the M-E-T and then bifurcated into two distinct
+populations: an ESC-like Nanog(high)Sox2(high)CD54(high) population and a
+mesendoderm-like Nanog(low)Sox2(low)Lin28(high)CD24(high)PDGFR-α(high)
+population. The methods developed here for time-resolved, single-cell progression
+analysis may be used for the study of additional complex and dynamic systems,
+such as cancer progression and embryonic development.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.stem.2015.01.015 
+PMCID: PMC4401090
+PMID: 25748935  [Indexed for MEDLINE]
+

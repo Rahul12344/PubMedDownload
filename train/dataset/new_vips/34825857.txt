@@ -1,0 +1,50 @@
+
+1. Sci Prog. 2021 Oct;104(4):368504211058036. doi: 10.1177/00368504211058036.
+
+NLRX1 can counteract innate immune response induced by an external stimulus
+favoring HBV infection by competitive inhibition of MAVS-RLRs signaling in
+HepG2-NTCP cells.
+
+Jiao Q(1)(2), Xu W(1), Guo X(1), Liu H(2), Liao B(2), Zhu X(1), Chen C(3), Yang
+F(1), Wu L(1), Xie C(1), Peng L(1).
+
+Author information: 
+(1)Department of Infectious Diseases, Third Affiliated Hospital, 144991 Sun
+Yat-sen University, China.
+(2)Infectious Disease Center, 159355Guangzhou Eighth People's Hospital, Guangzhou
+Medical University, China.
+(3)Department of Infectious Diseases, 535206Third People's Hospital of Shenzhen, 
+China.
+
+INTRODUCTION: This study is aimed at the determination of the effect of the
+immune-regulatory factor NLRX1 on the antiviral activity of hepatocytes against
+an external stimuli favoring hepatitis B virus infection, and to explore its
+mechanism of action.
+METHODS: A HepG2-NTCP model was established using the LV003 lentivirus. Cells
+were transfected using an overexpression vector and NLRX1 siRNA to achieve
+overexpression and interference of NLRX1 expression (OV-NLRX1, si-NLRX1). Levels 
+of HBsAg and HBcAg were determined using Western blotting analysis and
+immunohistochemical analysis. The levels of hepatitis B virus DNA and hepatitis B
+virus cccDNA were determined by real-time quantitative polymerase chain reaction.
+The expression and transcriptional activity of IFN-α, IFN-β, and IL-6 were
+measured using real-time quantitative polymerase chain reaction, enzyme-linked
+immunosorbent assay, and promoter-luciferase reporter plasmids.
+Co-immunoprecipitation was used to determine the effect of NLRX1 on the
+interaction between MAVS and RIG-1. Western blotting was used to obtain the
+phosphorylation of essential proteins in the MAVS-RLRs signaling pathways.
+RESULTS: NLRX1 promoted HepG2-NTCP cell hepatitis B virus infection. Compared to 
+the control group, the levels of HBsAg, HBcAg, hepatitis B virus cccDNA, and
+hepatitis B virus DNA increased in the OV-NLRX1 group and decreased in the
+si-NLRX1. Co-immunoprecipitation results showed that NLRX1 competitively
+inhibited the interaction between MAVS and RIG-1, and inhibited the
+phosphorylation of p65, IRF3, and IRF7. Additionally, NLRX1 reduced the
+transcription activity and expression levels of the final products: IFN-α, IFN-β,
+and IL-6.
+CONCLUSIONS: NLRX1 can counteract innate immune response induced by an external
+stimuli favoring hepatitis B virus infection by competitive inhibition of
+MAVS-RLRs signaling in HepG2-NTCP cells. Inhibition of the MAVS-RLR-mediated
+signaling pathways leads to a decline in the expression levels of I-IFN and IL-6.
+
+DOI: 10.1177/00368504211058036 
+PMID: 34825857 
+

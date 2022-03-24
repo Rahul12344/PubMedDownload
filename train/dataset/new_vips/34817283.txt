@@ -1,0 +1,50 @@
+
+1. Microbiol Spectr. 2021 Nov 24:e0072721. doi: 10.1128/Spectrum.00727-21. [Epub
+ahead of print]
+
+Phylogenetic Distribution of WhiB- and Lsr2-Type Regulators in
+Actinobacteriophage Genomes.
+
+Sharma V(1), Hardy A(1), Luthe T(1), Frunzke J(1).
+
+Author information: 
+(1)Institute of Bio- and Geosciences (IBG-1) Biotechnology, Forschungszentrum
+Jülichgrid.8385.6, Jülich, Germany.
+
+Viruses that infect different actinobacterial host species are known as
+actinobacteriophages. They are composed of highly divergent and mosaic genomes
+due to frequent gene exchange between their bacterial hosts and related viral
+species. This is also reflected by the adaptive incorporation of host
+transcription factors (TFs) into phage regulatory networks. Previous studies
+discovered Lsr2-type and WhiB-type regulators encoded by actinobacteriophage
+genomes. However, limited information is available about their distribution,
+evolution, and impact on host species. In this study, we computationally screened
+the distribution of known bacterial and phage TFs inside 2951 complete
+actinobacteriophage genomes and identified 13 different TF domains. Among those, 
+WhiB, Lsr2, MerR, and Cro/CI-like proteins were widespread and found in more than
+10% of the analyzed actinobacteriophage genomes. Neighboring genomic context
+analysis of the whiB and lsr2 loci showed group-specific conservation of gene
+synteny and potential involvement of these genes in diverse regulatory functions.
+Both genes were significantly enriched in temperate phages, and the Lsr2-encoding
+genomes featured an overall lower GC content. Phylogenetic analysis of WhiB and
+Lsr2 proteins showed the grouping of phage sequences within bacterial clades,
+suggesting gene acquisition by phages from their bacterial host species or by
+multiple, independent acquisition events. Overall, our study reports the global
+distribution of actinobacteriophage regulatory proteins and sheds light on their 
+origin and evolution. IMPORTANCE Actinobacteriophages are viruses that infect
+bacterial species of the diverse phylum of Actinobacteria. Phages engage in a
+close relationship with their bacterial host. This is also reflected by the
+adoption of genetic material from their host and its incorporation into phage
+regulatory circuits. In this study, we systematically searched the genomes of
+actinobacteriophages for the presence of transcription factor domains. We show
+that proteins belonging to the regulator families of WhiB and Lsr2 belong to the 
+most abundant regulatory proteins encoded by actinobacteriophages. Further
+phylogenetic analysis shed light on their origin and evolution. Altogether, this 
+study provides an important basis for further experimental investigation of their
+role in the coordination of the phage life cycle and their interaction with the
+host regulatory network in this important bacterial phylum.
+
+DOI: 10.1128/Spectrum.00727-21 
+PMCID: PMC8612146
+PMID: 34817283 
+

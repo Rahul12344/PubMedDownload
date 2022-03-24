@@ -1,0 +1,46 @@
+
+1. malar j. 2017 jul 14;16(1):286. doi: 10.1186/s12936-017-1932-7.
+
+vector control driving chromosomes: modelling evolution resistance.
+
+beaghton a(1), beaghton pj(2), burt a(2).
+
+author information: 
+(1)life sciences, imperial college, silwood park, ascot, berkshire, sl5 7py, uk. 
+a.beaghton@imperial.ac.uk.
+(2)life sciences, imperial college, silwood park, ascot, berkshire, sl5 7py, uk.
+
+background: introduction new malaria control interventions often led
+to evolution resistance, parasite new drugs the
+mosquito vector new insecticides, compromising efficacy the
+interventions. recent progress molecular population biology raises the
+possibility new genetic-based interventions, potential resistance 
+to evolve considered. here, population modelling used 
+to determine main factors affecting likelihood resistance will
+evolve synthetic, nuclease-based driving chromosome produces a
+male-biased sex ratio.
+methods: combination deterministic differential equation models and
+stochastic analyses involving branching processes gillespie simulations is
+utilized assess probability resistance evolves driving y
+that otherwise strong enough eliminate target population. model
+considers resistance due changes target site no
+longer cleaved nuclease, due trans-acting autosomal suppressor
+alleles.
+results: probability resistance evolves increases mutation rate
+and intrinsic rate increase population, decreases the
+strength drive pleiotropic fitness costs resistant allele. in
+seasonally varying environments, time release also affect the
+probability resistance evolving. trans-acting suppressor alleles more
+likely suffer stochastic loss low frequencies target site resistant
+alleles.
+conclusions: intervention, risk resistance will
+evolve new genetic approaches vector control, steps taken 
+minimize probability. two design features help regard
+are reduce rate resistant mutations arise, target
+sequences arise, impose significant fitness cost on
+the mosquito.
+
+doi: 10.1186/s12936-017-1932-7 
+pmcid: pmc5513332
+pmid: 28705249  [indexed medline]
+

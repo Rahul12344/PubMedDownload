@@ -1,0 +1,50 @@
+
+1. bmc genomics. 2018 may 9;19(suppl 2):96. doi: 10.1186/s12864-018-4466-7.
+
+phylogenetic signal rearrangements 18 anopheles species joint
+scaffolding extant ancestral genomes.
+
+anselmetti y(1)(2), duchemin w(2)(3), tannier e(2)(3), chauve c(4), bérard s(5).
+
+author information: 
+(1)isem, université de montpellier, cnrs, ird, ephe, montpellier, france.
+(2)univ lyon, université lyon 1, cnrs, laboratoire de biométrie et biologie
+evolutive umr5558, 43 boulevard du 11 novembre 1918, villeurbanne cedex, 69622,
+france.
+(3)inria grenoble - rhône-alpes, 655 avenue de l'europe, montbonnot-saint-martin,
+38330, france.
+(4)department mathematics, simon fraser university, 8888 university drive,
+burnaby, v5a1s6, bc, canada.
+(5)isem, université de montpellier, cnrs, ird, ephe, montpellier, france.
+severine.berard@umontpellier.fr.
+
+background: genomes rearrangements carry valuable information phylogenetic
+inference elucidation molecular mechanisms adaptation. however, 
+detection genome rearrangements often hampered current deficiencies in
+data methods: genomes obtained short sequence reads generally 
+fragmented assemblies, comparing multiple gene orders generally leads to
+computationally intractable algorithmic questions.
+results: present computational method, adseq, which, combining ancestral 
+gene order reconstruction, comparative scaffolding de novo scaffolding
+methods, overcomes two caveats. adseq provides simultaneously improved
+assemblies ancestral genomes, statistical supports local
+features. compared previous comparative methods, runs polynomial time,
+it samples solutions probabilistic space, handle significantly 
+larger gene complement considered extant genomes, complex histories
+including gene duplications losses. use adseq provide improved
+assemblies genome history made duplications, losses, gene
+translocations, rearrangements, 18 complete anopheles genomes, including
+several important malaria vectors. also provide additional support a
+differentiated mode evolution sex chromosome autosomes in
+these mosquito genomes.
+conclusions: demonstrate method's ability improve extant assemblies
+accurately procedure simulating realistic assembly fragmentation. we
+study debated issue regarding phylogeny gambiae complex group of
+anopheles genomes light evolution chromosomal rearrangements,
+suggesting phylogenetic signal carry differ the
+phylogenetic signal carried gene sequences, prone introgression.
+
+doi: 10.1186/s12864-018-4466-7 
+pmcid: pmc5954271
+pmid: 29764366  [indexed medline]
+

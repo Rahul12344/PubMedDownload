@@ -1,0 +1,39 @@
+
+1. biochem mol biol educ. 2012 jul;40(4):277-83. doi: 10.1002/bmb.20615. epub 2012
+jun 18.
+
+teaching fluctuation test silico using mutate: program distinguish
+between adaptive spontaneous mutation hypotheses.
+
+carvajal-rodríguez a(1).
+
+author information: 
+(1)departamento de bioquímica, genética e inmunología, facultad de biología,
+universidad de vigo, vigo 36310, spain. acraaj@uvigo.es
+
+mutate program developed teaching purposes impart virtual
+laboratory class undergraduate students genetics biology. program
+emulates so-called fluctuation test whose aim distinguish between
+spontaneous adaptive mutation hypotheses bacteria. plan train
+students certain key multidisciplinary aspects current genetics as
+sequence databases, dna mutations, hypothesis testing, introducing 
+fluctuation test. seminal experiment originally performed studying
+escherichia coli resistance infection bacteriophage t1. fluctuation
+test initiated modern bacterial genetics 25 years later ushered the
+era recombinant dna. nowadays know deletions fhua, the
+gene responsible e. coli membrane receptor t1, could cause e. coli
+resistance phage. sake simplicity, introduce the
+assumption single mutation generates resistance t1. the
+practical, students use program download fhua gene sequences,
+manually introduce stop codon mutations, design fluctuation test to
+obtain data distinguishing preadaptative (spontaneous) induced
+(adaptive) mutation hypotheses. program launched browser or, if
+preferred, executable file downloaded from
+http://webs.uvigo.es/acraaj/mutateweb/mutate.html. requires java 5.0 (or
+higher) runtime environment (freely available http://www.java.com).
+
+copyright © 2012 wiley periodicals, inc.
+
+doi: 10.1002/bmb.20615 
+pmid: 22807434  [indexed medline]
+

@@ -1,0 +1,44 @@
+
+1. PLoS One. 2021 Dec 2;16(12):e0260360. doi: 10.1371/journal.pone.0260360.
+eCollection 2021.
+
+SARS-CoV-2 spike protein displays sequence similarities with paramyxovirus
+surface proteins; a bioinformatics study.
+
+Ahmadi E(1), Zabihi MR(1), Hosseinzadeh R(1), Mohamed Khosroshahi L(1),
+Noorbakhsh F(1)(2).
+
+Author information: 
+(1)Department of Immunology, School of Medicine, Tehran University of Medical
+Sciences, Tehran, Iran.
+(2)Shefa Neuroscience Research Center, Khatam Alanbia Hospital, Tehran, Iran.
+
+Recent emergence of SARS-CoV-2 and associated COVID-19 pandemic have posed a
+great challenge for the scientific community. In this study, we performed
+bioinformatic analyses on SARS-CoV-2 protein sequences, trying to unravel
+potential molecular similarities between this newly emerged pathogen with
+non-coronavirus ssRNA viruses. Comparing the proteins of SARS-CoV-2 with
+non-coronavirus positive and negative strand ssRNA viruses revealed multiple
+sequence similarities between SARS-CoV-2 and non-coronaviruses, including
+similarities between RNA-dependent RNA-polymerases and helicases (two
+highly-conserved proteins). We also observed similarities between SARS-CoV-2
+surface (i.e. spike) protein with paramyxovirus fusion proteins. This similarity 
+was restricted to a segment of spike protein S2 subunit which is involved in cell
+fusion. We next analyzed spike proteins from SARS-CoV-2 "variants of concern"
+(VOCs) and "variants of interests" (VOIs) and found that some of these variants
+show considerably higher spike-fusion similarity with paramyxoviruses. The
+'spike-fusion' similarity was also observed for some pathogenic coronaviruses
+other than SARS-CoV-2. Epitope analysis using experimentally verified data
+deposited in Immune Epitope Database (IEDB) revealed that several B cell epitopes
+as well as T cell and MHC binding epitopes map within the spike-fusion similarity
+region. These data indicate that there might be a degree of convergent evolution 
+between SARS-CoV-2 and paramyxovirus surface proteins which could be of
+pathogenic and immunological importance.
+
+DOI: 10.1371/journal.pone.0260360 
+PMCID: PMC8639087
+PMID: 34855795 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

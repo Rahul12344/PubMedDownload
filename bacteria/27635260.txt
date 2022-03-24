@@ -1,0 +1,53 @@
+
+1. Int J Proteomics. 2016;2016:1384523. doi: 10.1155/2016/1384523. Epub 2016 Aug 18.
+
+S-Nitrosylation Proteome Profile of Peripheral Blood Mononuclear Cells in Human
+Heart Failure.
+
+Koo SJ(1), Spratt HM(2), Soman KV(3), Stafford S(3), Gupta S(4), Petersen JR(1), 
+Zago MP(5), Kuyumcu-Martinez MN(3), Brasier AR(6), Wiktorowicz JE(7), Garg NJ(8).
+
+Author information: 
+(1)Department of Pathology, University of Texas Medical Branch (UTMB), Galveston,
+TX 77555, USA.
+(2)Department Preventive Medicine and Community Health, UTMB, Galveston, TX
+77555, USA; Institute for Translational Sciences, UTMB, Galveston, TX 77555, USA.
+(3)Department of Biochemistry and Molecular Biology, Sealy Center of Molecular
+Medicine, UTMB, Galveston TX 77555, USA.
+(4)Department of Microbiology and Immunology, UTMB, Galveston, TX 77555, USA.
+(5)Instituto de Patología Experimental, CONICET-UNSa, 4400 Salta, Argentina.
+(6)Institute for Translational Sciences, UTMB, Galveston, TX 77555, USA;
+Department of Internal Medicine-Endocrinology, UTMB, Galveston, TX 77555, USA.
+(7)Institute for Translational Sciences, UTMB, Galveston, TX 77555, USA;
+Department of Biochemistry and Molecular Biology, Sealy Center of Molecular
+Medicine, UTMB, Galveston TX 77555, USA; Institute for Human Infections and
+Immunity, UTMB, Galveston, TX 77555, USA.
+(8)Department of Pathology, University of Texas Medical Branch (UTMB), Galveston,
+TX 77555, USA; Department of Microbiology and Immunology, UTMB, Galveston, TX
+77555, USA; Institute for Human Infections and Immunity, UTMB, Galveston, TX
+77555, USA.
+
+Nitric oxide (NO) protects the heart against ischemic injury; however, NO- and
+superoxide-dependent S-nitrosylation (S-NO) of cysteines can affect function of
+target proteins and play a role in disease outcome. We employed 2D-GE with
+thiol-labeling FL-maleimide dye and MALDI-TOF MS/MS to capture the quantitative
+changes in abundance and S-NO proteome of HF patients (versus healthy controls, n
+= 30/group). We identified 93 differentially abundant (59-increased/34-decreased)
+and 111 S-NO-modified (63-increased/48-decreased) protein spots, respectively, in
+HF subjects (versus controls, fold-change | ≥1.5|, p ≤ 0.05). Ingenuity pathway
+analysis of proteome datasets suggested that the pathways involved in phagocytes'
+migration, free radical production, and cell death were activated and fatty acid 
+metabolism was decreased in HF subjects. Multivariate adaptive regression splines
+modeling of datasets identified a panel of proteins that will provide >90%
+prediction success in classifying HF subjects. Proteomic profiling identified
+ATP-synthase, thrombospondin-1 (THBS1), and vinculin (VCL) as top differentially 
+abundant and S-NO-modified proteins, and these proteins were verified by Western 
+blotting and ELISA in different set of HF subjects. We conclude that differential
+abundance and S-NO modification of proteins serve as a mechanism in regulating
+cell viability and free radical production, and THBS1 and VCL evaluation will
+potentially be useful in the prediction of heart failure.
+
+DOI: 10.1155/2016/1384523 
+PMCID: PMC5007369
+PMID: 27635260 
+

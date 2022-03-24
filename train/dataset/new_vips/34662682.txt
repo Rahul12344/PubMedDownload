@@ -1,0 +1,38 @@
+
+1. Virus Res. 2021 Dec;306:198604. doi: 10.1016/j.virusres.2021.198604. Epub 2021
+Oct 16.
+
+Normalization of SARS-CoV-2 viral load via RT-qPCR provides higher-resolution
+data for comparison across time and between patients.
+
+Porter WT(1), Kelley EJ(2), Bowers JR(3), Engelthaler DM(4).
+
+Author information: 
+(1)Translational Genomics Research Institute, 3051 W. Shamrell Blvd. Ste. 106,
+Flagstaff, AZ 86005, USA. Electronic address: tporter@tgen.org.
+(2)Translational Genomics Research Institute, 3051 W. Shamrell Blvd. Ste. 106,
+Flagstaff, AZ 86005, USA. Electronic address: ekelley@tgen.org.
+(3)Translational Genomics Research Institute, 3051 W. Shamrell Blvd. Ste. 106,
+Flagstaff, AZ 86005, USA. Electronic address: jbowers@tgen.org.
+(4)Translational Genomics Research Institute, 3051 W. Shamrell Blvd. Ste. 106,
+Flagstaff, AZ 86005, USA. Electronic address: dengelthaler@tgen.org.
+
+The 2020 pandemic has transformed the world and elicited thousands of studies to 
+better understand the SARS-CoV-2 virus. Viral load has been a common measure to
+monitor treatment therapies and associate viral dynamics with patient outcomes;
+however, methods associated with viral load have varied across studies. These
+variations have the potential to sacrifice the accuracy of findings as they often
+do not account for inter-assay variation or variation across samples. In a
+retrospective study of nasopharyngeal samples, we found a significant amount of
+variation within the DNA and RNA targets; for example, across time within a
+single patient, there was an average of a 32-fold change. Further, we explore the
+impacts of host normalization on 94 clinical samples using the TGen Quantitative 
+SARS-CoV-2 assay, finding that without host normalization samples with the same
+viral concentration can have up to 100-fold variation in the viral load.
+
+Copyright © 2021. Published by Elsevier B.V.
+
+DOI: 10.1016/j.virusres.2021.198604 
+PMCID: PMC8519666
+PMID: 34662682  [Indexed for MEDLINE]
+

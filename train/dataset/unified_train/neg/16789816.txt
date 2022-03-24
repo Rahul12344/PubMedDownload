@@ -1,0 +1,38 @@
+
+1. plos comput biol. 2006 jun 16;2(6):e64. epub 2006 jun 16.
+
+on modeling hiv cells vivo: assessing causal estimators vaccine
+trials.
+
+wick wd(1), gilbert pb, self sg.
+
+author information: 
+(1)statistical center hiv aids research prevention, fred hutchinson
+cancer research center, seattle, washington, usa. wick@scharp.org
+
+the first efficacy trials--named step--of cell vaccine hiv/aids began
+in 2004. unprecedented structure trials raised new modeling and
+statistical challenges. plausible memory cells, opposed to
+antibodies, actually prevent infection? fail prevention, what
+extent ameliorate disease? estimate efficacy vaccine 
+trial two primary endpoints, one traditional, one entirely novel (viral load
+after infection), latter may influenced selection bias due to
+the former? preparation step trials, biostatisticians developed novel 
+techniques estimating causal effect vaccine viral load, while
+accounting post-randomization selection bias. techniques not
+been tested biologically plausible scenarios. introduce new stochastic
+models cell hiv kinetics, making use new estimates rate that
+cytotoxic lymphocytes--ctls; so-called killer cells--can kill
+hiv-infected cells. based models, make surprising discovery 
+it entirely implausible hiv-specific ctls might prevent infection--as
+the designers explicitly acknowledged chose endpoints step
+trials. simulating thousands trials, demonstrate new
+statistical methods correctly identify efficacious vaccine, while
+protecting false conclusion vaccine exacerbates disease. in
+addition uncovering surprising immunological scenario, results
+illustrate utility mechanistic modeling biostatistics.
+
+doi: 10.1371/journal.pcbi.0020064 
+pmcid: pmc1479086
+pmid: 16789816  [indexed medline]
+

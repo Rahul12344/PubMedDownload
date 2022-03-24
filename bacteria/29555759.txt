@@ -1,0 +1,42 @@
+
+1. Proc Natl Acad Sci U S A. 2018 Apr 3;115(14):3538-3546. doi:
+10.1073/pnas.1802191115. Epub 2018 Mar 19.
+
+Construction and evolution of an Escherichia coli strain relying on nonoxidative 
+glycolysis for sugar catabolism.
+
+Lin PP(1), Jaeger AJ(1), Wu TY(1), Xu SC(1), Lee AS(1), Gao F(1), Chen PW(1),
+Liao JC(2).
+
+Author information: 
+(1)Department of Chemical and Biomolecular Engineering, University of California,
+Los Angeles, CA 90095.
+(2)Institute of Biological Chemistry, Academia Sinica, 115 Taipei, Taiwan
+liaoj@gate.sinica.edu.tw.
+
+The Embden-Meyerhoff-Parnas (EMP) pathway, commonly known as glycolysis,
+represents the fundamental biochemical infrastructure for sugar catabolism in
+almost all organisms, as it provides key components for biosynthesis, energy
+metabolism, and global regulation. EMP-based metabolism synthesizes three-carbon 
+(C3) metabolites before two-carbon (C2) metabolites and must emit one CO2 in the 
+synthesis of the C2 building block, acetyl-CoA, a precursor for many industrially
+important products. Using rational design, genome editing, and evolution, here we
+replaced the native glycolytic pathways in Escherichia coli with the previously
+designed nonoxidative glycolysis (NOG), which bypasses initial C3 formation and
+directly generates stoichiometric amounts of C2 metabolites. The resulting
+strain, which contains 11 gene overexpressions, 10 gene deletions by design, and 
+more than 50 genomic mutations (including 3 global regulators) through evolution,
+grows aerobically in glucose minimal medium but can ferment anaerobically to
+products with nearly complete carbon conservation. We confirmed that the strain
+metabolizes glucose through NOG by 13C tracer experiments. This redesigned E.
+coli strain represents a different approach for carbon catabolism and may serve
+as a useful platform for bioproduction.
+
+Copyright © 2018 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.1802191115 
+PMCID: PMC5889684
+PMID: 29555759  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

@@ -1,0 +1,51 @@
+
+1. math biosci eng. 2017 feb 1;14(1):i. doi: 10.3934/mbe.201701i.
+
+preface.
+
+friedman a(1), lachowicz m, ledzewicz u, piotrowska mj, szymanska z.
+
+author information: 
+(1)mathematical biosciences institute department mathematics, ohio
+state university, columbus, oh 43210, united states. email:
+afriedman@math.osu.edu.
+
+this volume inspired topics presented international conference 
+"micro macro systems life sciences" held jun 8-12, 2015 in
+będlewo, poland. system biology approach tries understand how
+micro systems, molecular cellular levels, affect macro systems as
+organs, tissue populations. thus surprising major theme of
+this volume evolves around cancer treatment. articles topic
+include models tumor induced angiogenesis, without delays,
+metastatic niche bone marrow, drug resistance metronomic chemotherapy,
+and virotherapy glioma. methods range dynamical systems optimal
+control. another well represented topic volume mathematical modeling
+in epidemiology. mathematical approaches modeling control specific
+diseases like malaria, ebola human papillomavirus discussed well a
+more general approaches seir, even general class models in
+epidemiology, using tools optimal control optimization. volume 
+also brings challenges mathematical modeling diseases as
+tuberculosis. partial differential equations combined numerical approaches
+are becoming important tools modeling tumor growth treatment, but
+also diseases, fibrosis liver, atherosclerosis its
+associated blood flow dynamics, volume presents state art
+approach topics. understanding mathematics behind cell motion,
+appearance special patterns various cell populations, age
+structured mutations among topics addressed inour volume. spatio-temporal
+models synthetic genetic oscillators brings analysis gene level
+which focus much current biological research. mathematics help
+biologists explain collective behavior bacterial, topic also 
+presented here. finally across discipline topics being
+addresses, appear challenge studying problems systems
+biology all, macro, meso micro levels. include numerical approaches
+to stochastic wave equation arising modeling brownian motion, discrete
+velocity models, many particle approximations well important aspect on
+the connection discrete measurement construction models
+for various phenomena, particularly one involving delays. variety of
+biological topics mathematical approaches much hope the
+reader mathematical biosciences engineering find volume
+interesting inspirational research.
+
+doi: 10.3934/mbe.201701i 
+pmid: 27879115  [indexed medline]
+

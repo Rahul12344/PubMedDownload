@@ -1,0 +1,36 @@
+
+1. Sci Rep. 2016 Oct 13;6:35198. doi: 10.1038/srep35198.
+
+Structural basis for ligand recognition by a Cache chemosensory domain that
+mediates carboxylate sensing in Pseudomonas syringae.
+
+Brewster JL(1), McKellar JL(1), Finn TJ(1), Newman J(2), Peat TS(2), Gerth ML(1).
+
+Author information: 
+(1)Department of Biochemistry, University of Otago, Dunedin, 9054, New Zealand.
+(2)Biomedical Manufacturing Program, Commonwealth Scientific and Industrial
+Research Organisation (CSIRO), Parkville, Victoria, 3052, Australia.
+
+Chemoreceptors enable bacteria to detect chemical signals in the environment and 
+navigate towards niches that are favourable for survival. The sensor domains of
+chemoreceptors function as the input modules for chemotaxis systems, and provide 
+sensory specificity by binding specific ligands. Cache-like domains are the most 
+common extracellular sensor module in prokaryotes, however only a handful have
+been functionally or structurally characterised. Here, we have characterised a
+chemoreceptor Cache-like sensor domain (PscD-SD) from the plant pathogen
+Pseudomonas syringae pv. actinidiae (Psa). High-throughput fluorescence thermal
+shift assays, combined with isothermal thermal titration calorimetry, revealed
+that PscD-SD binds specifically to C2 (glycolate and acetate) and C3 (propionate 
+and pyruvate) carboxylates. We solved the structure of PscD-SD in complex with
+propionate using X-ray crystallography. The structure reveals the key residues
+that comprise the ligand binding pocket and dictate the specificity of this
+sensor domain for C2 and C3 carboxylates. We also demonstrate that all four
+carboxylate ligands are chemoattractants for Psa, but only two of these (acetate 
+and pyruvate) are utilisable carbon sources. This result suggests that in
+addition to guiding the bacteria towards nutrients, another possible role for
+carboxylate sensing is in locating potential sites of entry into the host plant.
+
+DOI: 10.1038/srep35198 
+PMCID: PMC5062169
+PMID: 27734909  [Indexed for MEDLINE]
+

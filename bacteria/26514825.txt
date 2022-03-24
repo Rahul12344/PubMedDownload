@@ -1,0 +1,55 @@
+
+1. Mol Ther. 2016 Feb;24(2):354-363. doi: 10.1038/mt.2015.199. Epub 2015 Oct 30.
+
+Characterization and Functional Analysis of scFv-based Chimeric Antigen Receptors
+to Redirect T Cells to IL13Rα2-positive Glioma.
+
+Krenciute G(1), Krebs S(1), Torres D(1), Wu MF(2), Liu H(2), Dotti G(3), Li
+XN(4), Lesniak MS(5), Balyasnikova IV(5), Gottschalk S(6).
+
+Author information: 
+(1)Center for Cell and Gene Therapy, Texas Children's Hospital, Houston
+Methodist, Baylor College of Medicine, Houston, Texas, USA; Texas Children's
+Cancer Center, Texas Children's Hospital, Baylor College of Medicine, Houston,
+Texas, USA; Department of Pediatrics, Baylor College of Medicine, Houston, Texas,
+USA.
+(2)Department of Biostatistics, Shared Resource Dan L Duncan Cancer Center,
+Baylor College of Medicine, Houston, Texas, USA.
+(3)Department of Microbiology and Immunology, University of North Carolina,
+Chapell Hill, North Carolina, USA.
+(4)Texas Children's Cancer Center, Texas Children's Hospital, Baylor College of
+Medicine, Houston, Texas, USA; Department of Pediatrics, Baylor College of
+Medicine, Houston, Texas, USA.
+(5)Department of Surgery, The Brain Tumor Center, University of Chicago, Chicago,
+Illinois, USA.
+(6)Center for Cell and Gene Therapy, Texas Children's Hospital, Houston
+Methodist, Baylor College of Medicine, Houston, Texas, USA; Texas Children's
+Cancer Center, Texas Children's Hospital, Baylor College of Medicine, Houston,
+Texas, USA; Department of Pediatrics, Baylor College of Medicine, Houston, Texas,
+USA; Department of Pathology and Immunology, Baylor College of Medicine, Houston,
+Texas, USA. Electronic address: smgottsc@txch.org.
+
+Immunotherapy with T cells expressing chimeric antigen receptors (CARs) is an
+attractive approach to improve outcomes for patients with glioblastoma (GBM).
+IL13Rα2 is expressed at a high frequency in GBM but not in normal brain, making
+it a promising CAR T-cell therapy target. IL13Rα2-specific CARs generated up to
+date contain mutated forms of IL13 as an antigen-binding domain. While these CARs
+target IL13Rα2, they also recognize IL13Rα1, which is broadly expressed. To
+overcome this limitation, we constructed a panel of IL13Rα2-specific CARs that
+contain the IL13Rα2-specific single-chain variable fragment (scFv) 47 as an
+antigen binding domain, short or long spacer regions, a transmembrane domain, and
+endodomains derived from costimulatory molecules and CD3.ζ (IL13Rα2-CARs).
+IL13Rα2-CAR T cells recognized IL13Rα2-positive target cells in coculture and
+cytotoxicity assays with no cross-reactivity to IL13Rα1. However, only
+IL13Rα2-CAR T cells with a short spacer region produced IL2 in an
+antigen-dependent fashion. In vivo, T cells expressing IL13Rα2-CARs with short
+spacer regions and CD28.ζ, 41BB.ζ, and CD28.OX40.ζ endodomains had potent
+anti-glioma activity conferring a significant survival advantage in comparison to
+mice that received control T cells. Thus, IL13Rα2-CAR T cells hold the promise to
+improve current IL13Rα2-targeted immunotherapy approaches for GBM and other
+IL13Rα2-positive malignancies.
+
+DOI: 10.1038/mt.2015.199 
+PMCID: PMC4817815
+PMID: 26514825  [Indexed for MEDLINE]
+

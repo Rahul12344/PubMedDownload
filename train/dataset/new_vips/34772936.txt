@@ -1,0 +1,59 @@
+
+1. Nat Commun. 2021 Nov 12;12(1):6548. doi: 10.1038/s41467-021-26800-z.
+
+A viral genome packaging ring-ATPase is a flexibly coordinated pentamer.
+
+Dai L(#)(1), Singh D(#)(2)(3)(4), Lu S(5), Kottadiel VI(1), Vafabakhsh R(5)(6),
+Mahalingam M(1), Chemla YR(7)(8)(9), Ha T(10)(11), Rao VB(12).
+
+Author information: 
+(1)Bacteriophage Medical Research Center, Department of Biology, The Catholic
+University of America, 620 Michigan Avenue, N.E., Washington, DC, 20064, USA.
+(2)Howard Hughes Medical Institute, Department of Biophysics and Biophysical
+Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD, 21205,
+USA.
+(3)Center for Biophysics and Quantitative Biology, University of Illinois at
+Urbana-Champaign, Urbana, IL, 61801, USA.
+(4)Division of Biological Sciences, University of California, San Diego, La
+Jolla, CA, 93093, USA.
+(5)Department of Physics, University of Illinois at Urbana-Champaign, Urbana, IL,
+61801, USA.
+(6)Department of Molecular Biosciences, Northwestern University, Evanston, IL,
+60208, USA.
+(7)Center for Biophysics and Quantitative Biology, University of Illinois at
+Urbana-Champaign, Urbana, IL, 61801, USA. ychemla@illinois.edu.
+(8)Department of Physics, University of Illinois at Urbana-Champaign, Urbana, IL,
+61801, USA. ychemla@illinois.edu.
+(9)Center for the Physics of Living Cells, University of Illinois at
+Urbana-Champaign, Urbana, IL, 61801, USA. ychemla@illinois.edu.
+(10)Howard Hughes Medical Institute, Department of Biophysics and Biophysical
+Chemistry, Johns Hopkins University School of Medicine, Baltimore, MD, 21205,
+USA. tjha@jhu.edu.
+(11)Center for the Physics of Living Cells, University of Illinois at
+Urbana-Champaign, Urbana, IL, 61801, USA. tjha@jhu.edu.
+(12)Bacteriophage Medical Research Center, Department of Biology, The Catholic
+University of America, 620 Michigan Avenue, N.E., Washington, DC, 20064, USA.
+rao@cua.edu.
+(#)Contributed equally
+
+Multi-subunit ring-ATPases carry out a myriad of biological functions, including 
+genome packaging in viruses. Though the basic structures and functions of these
+motors have been well-established, the mechanisms of ATPase firing and motor
+coordination are poorly understood. Here, using single-molecule fluorescence, we 
+determine that the active bacteriophage T4 DNA packaging motor consists of five
+subunits of gp17. By systematically doping motors with an ATPase-defective
+subunit and selecting single motors containing a precise number of active or
+inactive subunits, we find that the packaging motor can tolerate an inactive
+subunit. However, motors containing one or more inactive subunits exhibit fewer
+DNA engagements, a higher failure rate in encapsidation, reduced packaging
+velocity, and increased pausing. These findings suggest a DNA packaging model in 
+which the motor, by re-adjusting its grip on DNA, can skip an inactive subunit
+and resume DNA translocation, suggesting that strict coordination amongst motor
+subunits of packaging motors is not crucial for function.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-26800-z 
+PMCID: PMC8589836
+PMID: 34772936 
+

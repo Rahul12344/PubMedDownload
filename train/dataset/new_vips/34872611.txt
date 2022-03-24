@@ -1,0 +1,56 @@
+
+1. Crit Care. 2021 Dec 6;25(1):417. doi: 10.1186/s13054-021-03843-8.
+
+HSV-1 reactivation is associated with an increased risk of mortality and
+pneumonia in critically ill COVID-19 patients.
+
+Meyer A(1)(2), Buetti N(3)(4), Houhou-Fidouh N(5), Patrier J(2), Abdel-Nabey
+M(2), Jaquet P(2), Presente S(2), Girard T(2), Sayagh F(2), Ruckly S(1)(2), Wicky
+PH(2), de Montmollin E(1)(2), Bouadma L(1)(2), Sonneville R(2)(6), Descamps D(7),
+Timsit JF(1)(2).
+
+Author information: 
+(1)INSERM, IAME, University of Paris, 75006, Paris, France.
+(2)Medical and Infectious Diseases Intensive Care Unit, APHP, Bichat University
+Hospital, Paris, France.
+(3)INSERM, IAME, University of Paris, 75006, Paris, France.
+niccolo.buetti@gmail.com.
+(4)Infection Control Program and WHO Collaborating Centre on Patient Safety,
+Service PCI, University of Geneva Hospitals and Faculty of Medicine, Rue
+Gabrielle-Perret-Gentil 4, 1205, Geneva, Switzerland. niccolo.buetti@gmail.com.
+(5)Virology Department, GH APHP.Nord, Bichat-Claude Bernard University Hospital, 
+75018, Paris, France.
+(6)INSERM, UMR1148, Université de Paris, 75018, Paris, France.
+(7)Virology Department, GH APHP.Nord, Université de Paris, IAME INSERM UMR1137,
+Bichat-Claude Bernard University Hospital, 75018, Paris, France.
+
+BACKGROUND: Data in the literature about HSV reactivation in COVID-19 patients
+are scarce, and the association between HSV-1 reactivation and mortality remains 
+to be determined. Our objectives were to evaluate the impact of Herpes simplex
+virus (HSV) reactivation in patients with severe SARS-CoV-2 infections primarily 
+on mortality, and secondarily on hospital-acquired
+pneumonia/ventilator-associated pneumonia (HAP/VAP) and intensive care
+unit-bloodstream infection (ICU-BSI).
+METHODS: We conducted an observational study using prospectively collected data
+and HSV-1 blood and respiratory samples from all critically ill COVID-19 patients
+in a large reference center who underwent HSV tests. Using multivariable Cox and 
+cause-specific (cs) models, we investigated the association between HSV
+reactivation and mortality or healthcare-associated infections.
+RESULTS: Of the 153 COVID-19 patients admitted for ≥ 48 h from Feb-2020 to
+Feb-2021, 40/153 (26.1%) patients had confirmed HSV-1 reactivation (19/61 (31.1%)
+with HSV-positive respiratory samples, and 36/146 (24.7%) with HSV-positive blood
+samples. Day-60 mortality was higher in patients with HSV-1 reactivation (57.5%) 
+versus without (33.6%, p = 0.001). After adjustment for mortality risk factors,
+HSV-1 reactivation was associated with an increased mortality risk (hazard risk
+[HR] 2.05; 95% CI 1.16-3.62; p = 0.01). HAP/VAP occurred in 67/153 (43.8%) and
+ICU-BSI in 42/153 (27.5%) patients. In patients with HSV-1 reactivation,
+multivariable cause-specific models showed an increased risk of HAP/VAP (csHR
+2.38, 95% CI 1.06-5.39, p = 0.037), but not of ICU-BSI.
+CONCLUSIONS: HSV-1 reactivation in critically ill COVID-19 patients was
+associated with an increased risk of day-60 mortality and HAP/VAP.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s13054-021-03843-8 
+PMID: 34872611 
+

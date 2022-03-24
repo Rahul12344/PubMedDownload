@@ -1,0 +1,66 @@
+
+1. Acc Chem Res. 2021 Nov 2;54(21):3991-4000. doi: 10.1021/acs.accounts.1c00498.
+Epub 2021 Oct 22.
+
+Development of Integrated Systems for On-Site Infection Detection.
+
+Lee CY(1)(2)(3), Degani I(1)(4), Cheong J(3)(5), Weissleder R(1)(2)(6), Lee
+JH(3)(5), Cheon J(3)(5)(7), Lee H(1)(2)(3).
+
+Author information: 
+(1)Center for Systems Biology, Massachusetts General Hospital Research Institute,
+185 Cambridge Street, Boston, Massachusetts 02114, United States.
+(2)Department of Radiology, Massachusetts General Hospital, Harvard Medical
+School, 55 Fruit Street, Boston, Massachusetts 02114, United States.
+(3)Institute for Basic Science (IBS), Center for NanoMedicine, 50 Yonsei-ro,
+Seodaemun-gu, Seoul 03722, Korea.
+(4)Department of Electrical Engineering and Computer Science, Massachusetts
+Institute of Technology, 50 Vassar Street, Cambridge, Massachusetts 02142, United
+States.
+(5)Graduate Program of Nano Biomedical Engineering (NanoBME), Advanced Science
+Institute, Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul 03722, Korea.
+(6)Department of Systems Biology, Harvard Medical School, 185 Cambridge Street,
+Boston, Massachusetts 02114, United States.
+(7)Department of Chemistry, Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul 
+03722, Korea.
+
+The modern healthcare system faces an unrelenting threat from microorganisms, as 
+evidenced by global outbreaks of new viral diseases, emerging antimicrobial
+resistance, and the rising incidence of healthcare-associated infections (HAIs). 
+An effective response to these threats requires rapid and accurate diagnostic
+tests that can identify causative pathogens at the point of care (POC). Such
+tests could eliminate diagnostic uncertainties, facilitating patient triaging,
+minimizing the empiric use of antimicrobial drugs, and enabling targeted
+treatments. Current standard methods, however, often fail to meet the needs of
+rapid diagnosis in POC settings. Culture-based assays entail long processing
+times and require specialized laboratory infrastructure; nucleic acid (NA) tests 
+are often limited to centralized hospitals due to assay complexity and high
+costs. Here we discuss two new POC tests developed in our groups to enable the
+rapid diagnosis of infection. The first is nanoPCR that takes advantages of
+core-shell magnetoplasmonic nanoparticles (MPNs): (i) Au shell significantly
+accelerates thermocycling via volumetric, plasmonic light-to-heat conversion and 
+(ii) a magnetic core enables sensitive in situ fluorescent detection via magnetic
+clearing. By adopting a Ferris wheel module, the system expedites multisamples in
+parallel with a minimal setup. When applied to COVID-19 diagnosis, nanoPCR
+detected SARS-CoV-2 RNA down to 3.2 copy/μL within 17 min. In particular, nanoPCR
+diagnostics accurately identified COVID-19 cases in clinical samples (n = 150),
+validating its clinical applicability. The second is a polarization anisotropy
+diagnostic (PAD) system that exploits the principle of fluorescence polarization 
+(FP) as a detection modality. Fluorescent probes were designed to alter their
+molecular weight upon recognizing target NAs. This event modulates the probes'
+tumbling rate (Brownian motion), which leads to changes in FP. The approach is
+robust against environmental noise and benefits from the ratiometric nature of
+the signal readout. We applied PAD to detect clinically relevant HAI bacteria
+(Escherichia coli, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas
+aeruginosa, and Staphylococcus aureus). The PAD assay demonstrated detection
+sensitivity down to the single bacterium level and determined both drug
+resistance and virulence status. In summary, these new tests have the potential
+to become powerful tools for rapid diagnosis in the infectious disease space.
+They do not require highly skilled personnel or labor-intensive analyses, and the
+assays are quick and cost-effective. These attributes will make nanoPCR and PAD
+well-aligned with a POC workflow to aid physicians to initiate prompt and
+informed patient treatment.
+
+DOI: 10.1021/acs.accounts.1c00498 
+PMID: 34677927  [Indexed for MEDLINE]
+

@@ -1,0 +1,49 @@
+
+1. Pharmacol Res Perspect. 2021 Dec;9(6):e00822. doi: 10.1002/prp2.822.
+
+Chemogenetic stimulation of the Gi pathway in astrocytes suppresses
+neuroinflammation.
+
+Kim JH(1)(2), Rahman MH(1)(2)(3), Lee WH(4), Suk K(1)(2)(3).
+
+Author information: 
+(1)Department of Pharmacology, School of Medicine, Kyungpook National University,
+Daegu, Republic of Korea.
+(2)BK21 Plus KNU Biomedical Convergence Program, Department of Biomedical
+Sciences, School of Medicine, Kyungpook National University, Daegu, Republic of
+Korea.
+(3)Brain Science & Engineering Institute, Kyungpook National University, Daegu,
+Republic of Korea.
+(4)School of Life Sciences, Brain Korea 21 Plus KNU Creative BioResearch Group,
+Kyungpook National University, Daegu, Republic of Korea.
+
+Engineered G protein-coupled receptors (GPCRs) are commonly used in chemogenetics
+as designer receptors exclusively activated by designer drugs (DREADDs). Although
+several GPCRs have been studied in astrocytes using a chemogenetic approach, the 
+functional role of the astrocytic Gi pathway is not clear, as the literature is
+conflicting depending on the brain regions or behaviors investigated. In this
+study, we evaluated the role of the astrocytic Gi pathway in neuroinflammation
+using a Gi -coupled DREADD (hM4Di). Gi -DREADD was expressed in hippocampal
+astrocytes of a lipopolysaccharide (LPS)-induced neuroinflammation mouse model
+using adeno-associated viruses. We found that astrocyte Gi -DREADD stimulation
+using clozapine N-oxide (CNO) inhibits neuroinflammation, as characterized by
+decreased levels of proinflammatory cytokines, glial activation, and cognitive
+impairment in mice. Subsequent experiments using primary astrocyte cultures
+revealed that Gi -DREADD stimulation significantly downregulated LPS-induced
+expression of Nos2 mRNA and nitric oxide production. Similarly, in vitro calcium 
+imaging showed that activation of the astrocytic Gi pathway attenuated
+intracellular calcium transients triggered by LPS treatment, suggesting a
+positive correlation between enhanced calcium transients and the inflammatory
+phenotype of astrocytes observed in the inflamed brain. Taken together, our
+results indicate that the astrocytic Gi pathway plays an inhibitory role in
+neuroinflammation, providing an opportunity to identify potential cellular and
+molecular targets to control neuroinflammation.
+
+© 2021 The Authors. Pharmacology Research & Perspectives published by British
+Pharmacological Society and American Society for Pharmacology and Experimental
+Therapeutics and John Wiley & Sons Ltd.
+
+DOI: 10.1002/prp2.822 
+PMCID: PMC8532135
+PMID: 34676988 
+

@@ -1,0 +1,47 @@
+
+1. J Mol Model. 2021 Nov 3;27(11):341. doi: 10.1007/s00894-021-04963-2.
+
+Phenylethanoid glycosides as a possible COVID-19 protease inhibitor: a virtual
+screening approach.
+
+Bernardi M(1)(2), Ghaani MR(3), Bayazeid O(4).
+
+Author information: 
+(1)School of Chemical and Bioprocess Engineering, University College Dublin,
+Belfield, Dublin 4, Ireland.
+(2)Department of Pharmacognosy, Faculty of Pharmacy, Hacettepe University,
+Ankara, 06100, Turkey.
+(3)School of Chemical and Bioprocess Engineering, University College Dublin,
+Belfield, Dublin 4, Ireland. mohammad.ghaani@ucd.ie.
+(4)Department of Pharmacognosy, Faculty of Pharmacy, Hacettepe University,
+Ankara, 06100, Turkey. omerbayazid@gmail.com.
+
+From the beginning of pandemic, more than 240 million people have been infected
+with a death rate higher than 2%. Indeed, the current exit strategy involving the
+spreading of vaccines must be combined with progress in effective treatment
+development. This scenario is sadly supported by the vaccine's immune activation 
+time and the inequalities in the global immunization schedule. Bringing the
+crises under control means providing the world population with accessible and
+impactful new therapeutics. We screened a natural product library that contains a
+unique collection of 2370 natural products into the binding site of the severe
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2) main protease (Mpro).
+According to the docking score and to the interaction at the active site, three
+phenylethanoid glycosides (forsythiaside A, isoacteoside, and verbascoside) were 
+selected. In order to provide better insight into the atomistic interaction and
+test the impact of the three selected compounds at the binding site, we resorted 
+to a half microsecond-long molecular dynamics simulation. As a result, we are
+showing that forsythiaside A is the most stable molecule and it is likely to
+possess the highest inhibitory effect against SARS-CoV-2 Mpro. Phenylethanoid
+glycosides also have been reported to have both protease and kinase activity.
+This kinase inhibitory activity is very beneficial in fighting viruses inside the
+body as kinases are required for viral entry, metabolism, and/or reproduction.
+The dual activity (kinase/protease) of phenylethanoid glycosides makes them very 
+promising anit-COVID-19 agents.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany,
+part of Springer Nature.
+
+DOI: 10.1007/s00894-021-04963-2 
+PMCID: PMC8565174
+PMID: 34731296  [Indexed for MEDLINE]
+

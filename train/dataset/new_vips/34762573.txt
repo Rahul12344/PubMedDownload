@@ -1,0 +1,33 @@
+
+1. Am Nat. 2021 Dec;198(6):661-677. doi: 10.1086/716914. Epub 2021 Oct 4.
+
+Integrating Infection Intensity into Within- and Between-Host Pathogen Dynamics: 
+Implications for Invasion and Virulence Evolution.
+
+Wilber MQ, Pfab F, Ohmer ME, Briggs CJ.
+
+AbstractInfection intensity can dictate disease outcomes but is typically ignored
+when modeling infection dynamics of microparasites (e.g., bacteria, virus, and
+fungi). However, for a number of pathogens of wildlife typically categorized as
+microparasites, accounting for infection intensity and within-host infection
+processes is critical for predicting population-level responses to pathogen
+invasion. Here, we develop a modeling framework we refer to as reduced-dimension 
+host-parasite integral projection models (reduced IPMs) that we use to explore
+how within-host infection processes affect the dynamics of pathogen invasion and 
+virulence evolution. We find that individual-level heterogeneity in pathogen
+load-a nearly ubiquitous characteristic of host-parasite interactions that is
+rarely considered in models of microparasites-generally reduces pathogen invasion
+probability and dampens virulence-transmission trade-offs in host-parasite
+systems. The latter effect likely contributes to widely predicted
+virulence-transmission trade-offs being difficult to observe empirically.
+Moreover, our analyses show that intensity-dependent host mortality does not
+always induce a virulence-transmission trade-off, and systems with steeper than
+linear relationships between pathogen intensity and host mortality rate are
+significantly more likely to exhibit these trade-offs. Overall, reduced IPMs
+provide a useful framework to expand our theoretical and data-driven
+understanding of how within-host processes affect population-level disease
+dynamics.
+
+DOI: 10.1086/716914 
+PMID: 34762573  [Indexed for MEDLINE]
+

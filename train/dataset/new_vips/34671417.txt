@@ -1,0 +1,37 @@
+
+1. Comput Math Methods Med. 2021 Oct 11;2021:6985008. doi: 10.1155/2021/6985008.
+eCollection 2021.
+
+Predicting Cross-Species Infection of Swine Influenza Virus with Representation
+Learning of Amino Acid Features.
+
+Kou Z(1), Li J(1), Fan X(1), Kosari S(1), Qiang X(1).
+
+Author information: 
+(1)Institute of Computing Science and Technology, Guangzhou University, Guangzhou
+510006, China.
+
+Swine influenza viruses (SIVs) can unforeseeably cross the species barriers and
+directly infect humans, which pose huge challenges for public health and trigger 
+pandemic risk at irregular intervals. Computational tools are needed to predict
+infection phenotype and early pandemic risk of SIVs. For this purpose, we propose
+a feature representation algorithm to predict cross-species infection of SIVs. We
+built a high-quality dataset of 1902 viruses. A feature representation learning
+scheme was applied to learn feature representations from 64 well-trained random
+forest models with multiple feature descriptors of mutant amino acid in the viral
+proteins, including compositional information, position-specific information, and
+physicochemical properties. Class and probabilistic information were integrated
+into the feature representations, and redundant features were removed by feature 
+space optimization. High performance was achieved using 20 informative features
+and 22 probabilistic information. The proposed method will facilitate SIV
+characterization of transmission phenotype.
+
+Copyright © 2021 Zheng Kou et al.
+
+DOI: 10.1155/2021/6985008 
+PMCID: PMC8523279
+PMID: 34671417 
+
+Conflict of interest statement: The authors declare no conflict of interest,
+financial, or otherwise.
+

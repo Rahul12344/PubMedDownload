@@ -1,0 +1,38 @@
+
+1. bmc bioinformatics. 2008 dec 18;9:548. doi: 10.1186/1471-2105-9-548.
+
+genechaser: identifying biological clinical conditions genes 
+interest differentially expressed.
+
+chen r(1), mallelwar r, thosar a, venkatasubrahmanyam s, butte aj.
+
+author information: 
+(1)stanford center biomedical informatics research, department medicine,
+stanford university school medicine, stanford, ca 94305, usa.
+rchen1@stanford.edu
+
+background: amount gene expression data public repositories, such
+as ncbi gene expression omnibus (geo) grown exponentially, provides a
+gold mine bioinformaticians, easily accessible biologists
+and clinicians.
+results: developed automated approach annotate analyze geo data 
+sets, including 1,515 geo data sets 231 microarray types across 42 species, 
+and performed 12,658 group versus group comparisons 24 geo-specified types. we
+then built genechaser, web server enables biologists clinicians
+without bioinformatics skills easily identify biological clinical
+conditions gene set genes differentially expressed.
+genechaser displays conditions graphs, gives statistical comparisons,
+allows sort/filter functions provides access original studies.we
+performed single gene search nanog multiple gene search nanog,
+oct4, sox2 lin28, confirmed roles embryonic stem cell development,
+identified several drugs regulate expression, suggested their
+potential roles sex determination, abnormal sperm morphology, malaria
+infection, cancer.
+conclusion: demonstrated genechaser powerful tool elucidate
+information function, transcriptional regulation, drug-response clinical
+implications genes interest.
+
+doi: 10.1186/1471-2105-9-548 
+pmcid: pmc2629779
+pmid: 19094235  [indexed medline]
+

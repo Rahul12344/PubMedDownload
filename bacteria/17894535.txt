@@ -1,0 +1,40 @@
+
+1. J Aerosol Med. 2007 Fall;20(3):282-93.
+
+Estimating in vivo airway surface liquid concentration in trials of inhaled
+antibiotics.
+
+Hasan MA(1), Lange CF.
+
+Author information: 
+(1)Department of Mechanical Engineering, University of Alberta, Edmonton,
+Alberta, Canada.
+
+Antibiotic drugs exhibit concentration dependence in their efficacy. Therefore,
+ensuring appropriate concentration of these drugs in the relevant body fluid is
+important for obtaining the desired therapeutic and physiological action. Until
+recently there had been no suitable method available to measure or estimate
+concentration of drugs in the human airways resulting from inhaled aerosols or to
+determine the amount of inhaled antibiotics required to ensure minimum inhibitory
+concentration of a drug in the airway surface liquid (ASL). In this paper a
+numerical method is used for estimating local concentration of inhaled
+pharmaceutical aerosols in different generations of the human tracheobronchial
+airways. The method utilizes a mathematical lung deposition model to estimate
+amounts of aerosols depositing in different lung generations, and a recent ASL
+model along with deposition results to assess the concentration of deposited
+drugs immediately following inhalation. Examples of concentration estimates for
+two case studies: one for the antibiotic tobramycin against Pseudomonas
+aeruginosa, and another for taurolidine against Burkholderia cepacia are
+presented. The aerosol characteristics, breathing pattern and properties of
+nebulized solutions were adopted from two recent clinical studies on efficacy of 
+these drugs in cystic fibrosis (CF) patients and from other sources in the
+literature. While the clinically effective tobramycin showed a concentration
+higher than the required in vivo concentration, that for the ineffective
+taurolidine was found to be below the speculated required in vivo concentration. 
+Results of this study thus show that the mathematical ASL model combined with the
+lung deposition model can be an effective tool for helping decide the optimum
+dosage of inhaled antibiotic drugs delivered during human clinical trials.
+
+DOI: 10.1089/jam.2007.0603 
+PMID: 17894535  [Indexed for MEDLINE]
+

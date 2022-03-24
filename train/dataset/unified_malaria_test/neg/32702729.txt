@@ -1,0 +1,45 @@
+
+1. res sq. 2020 may 13. pii: rs.3.rs-28582. doi: 10.21203/rs.3.rs-28582/v1.
+
+the covid-19 gene drug set library.
+
+kuleshov mv(1), clarke djb(1), kropiwnicki e(1), jagodnik km(1), bartal a(1),
+evangelista je(1), zhou a(1), ferguson lb(2), lachmann a(1), ma'ayan a(1).
+
+author information: 
+(1)department pharmacological sciences; mount sinai center bioinformatics;
+big data knowledge, library integrated network-based cellular signatures,
+data coordination integration center (bd2k-lincs dcic); knowledge management 
+center illuminating druggable genome (kmc-idg); icahn school medicine 
+at mount sinai, one gustave l. levy place, box 1603, new york, ny 10029, usa.
+(2)department neurology; dell medical school; university texas austin;
+1601 trinity street, bldg b, austin, tx 78712, usa.
+
+the coronavirus (cov) severe acute respiratory syndrome (sars)-cov-2 (covid-19)
+pandemic received rapid response research community offer
+suggestions repurposing approved drugs well improve our
+understanding covid-19 viral life cycle molecular mechanisms. short
+period, tens thousands research preprints publications have
+emerged including report lists experimentally validated drugs and
+compounds potential covid-19 therapies. addition, gene sets from
+interacting covid-19 virus-host proteins differentially expressed genes 
+comparing infected uninfected cells published fast rate. to
+organize rapidly accumulating knowledge, developed covid-19 gene 
+drug set library (https://amp.pharm.mssm.edu/covid19/), collection gene 
+drug sets related covid-19 research multiple sources. covid-19 gene
+and drug set library delivered web-based interface enables users 
+view, download, analyze, visualize, contribute gene drug sets related 
+covid-19 research. evaluate content library, performed several
+analyses including comparing results 6 in-vitro drug screens for
+covid-19 repurposing candidates. surprisingly, observe little overlap across
+these initial screens. common unique hit across screen is
+mefloquine, malaria drug receive attention potential
+therapeutic covid-19. overall, library gene drug sets used 
+to identify community consensus, make researchers clinicians aware the
+development new potential therapies, well allow research community
+to work together towards cure covid-19.
+
+doi: 10.21203/rs.3.rs-28582/v1 
+pmcid: pmc7336700
+pmid: 32702729 
+

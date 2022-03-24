@@ -1,0 +1,49 @@
+
+1. omics. 2016 jul;20(7):424-32. doi: 10.1089/omi.2016.0058.
+
+transcriptomic analysis chloroquine-sensitive chloroquine-resistant
+strains plasmodium falciparum: toward malaria diagnostics therapeutics for
+global health.
+
+antony ha(1), pathak v(2), parija sc(1), ghosh k(3), bhattacherjee a(4).
+
+author information: 
+(1)1 department microbiology, jawaharlal institute postgraduate medical
+education research (jipmer) , puducherry, india .
+(2)2 department haematogenetics, national institute immunohaematology (nii)
+, mumbai, india .
+(3)3 surat raktadan kendra & research centre , surat, india .
+(4)4 scigenom labs pvt. ltd. , cochin, india .
+
+increasing drug resistance plasmodium falciparum important global health
+burden reverses malarial control achieved far. hence,
+understanding molecular mechanisms drug resistance epicenter the
+development agenda novel diagnostic therapeutic (drugs/vaccines) targets 
+for malaria. study, report global comparative transcriptome profiling 
+(rna-seq) characterize difference transcriptome 48-h
+intraerythrocytic stage chloroquine-sensitive chloroquine-resistant p.
+falciparum (3d7 dd2) strains. two p. falciparum 3d7 dd2 strains 
+distant geographical origin, netherlands indochina, respectively. the
+strains cultured vitro method harvested 48-h
+intraerythrocytic stage 5% parasitemia. whole transcriptome sequencing
+was performed using illumina hiseq 2500 platform paired-end reads. reads
+were aligned reference p. falciparum genome. alignment percentages
+for 3d7, dd2, dd2 w/cq strains 85.40%, 89.13%, 84%, respectively.
+nearly 40% transcripts known gene function, whereas remaining
+genes (about 60%) unknown function. genes involved immune evasion
+showed significant difference strains. differential gene
+expression sensitive resistant strains measured using the
+cuffdiff program p-value cutoff ≤0.05. collectively, study
+identified differentially expressed genes 3d7 dd2 strains, we
+found 89 genes upregulated 227 downregulated. contrary,
+for 3d7 dd2 w/cq strains, 45 genes upregulated 409 were
+downregulated. differentially regulated genes code, large, for
+surface antigens involved invasion, pathogenesis, host-parasite
+interactions, among others. exhibition transcriptional differences between
+these strains p. falciparum contributes understanding attendant,
+drug-sensitivity phenotypes, extension, current efforts maintaining
+global health developing novel diagnostics therapeutics malaria.
+
+doi: 10.1089/omi.2016.0058 
+pmid: 27428254  [indexed medline]
+

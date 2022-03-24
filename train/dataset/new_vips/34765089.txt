@@ -1,0 +1,43 @@
+
+1. Comput Struct Biotechnol J. 2021 Oct 5;19:5688-5700. doi:
+10.1016/j.csbj.2021.10.001. eCollection 2021.
+
+Deep-learning in situ classification of HIV-1 virion morphology.
+
+Rey JS(1), Li W(2)(3), Bryer AJ(1), Beatson H(1), Lantz C(1), Engelman AN(2)(3), 
+Perilla JR(1)(4).
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, University of Delaware, Newark, DE, 
+United States.
+(2)Department of Medicine, Harvard Medical School, Boston, MA, United States.
+(3)Department of Cancer Immunology and Virology, Dana-Farber Cancer Institute,
+Boston, MA, United States.
+(4)Data Science Institute, University of Delaware, Newark, DE, United States.
+
+Transmission electron microscopy (TEM) has a multitude of uses in biomedical
+imaging due to its ability to discern ultrastructure morphology at the nanometer 
+scale. Through its ability to directly visualize virus particles, TEM has for
+several decades been an invaluable tool in the virologist's toolbox. As applied
+to HIV-1 research, TEM is critical to evaluate activities of inhibitors that
+block the maturation and morphogenesis steps of the virus lifecycle. However,
+both the preparation and analysis of TEM micrographs requires time consuming
+manual labor. Through the dedicated use of computer vision frameworks and machine
+learning techniques, we have developed a convolutional neural network backbone of
+a two-stage Region Based Convolutional Neural Network (RCNN) capable of
+identifying, segmenting and classifying HIV-1 virions at different stages of
+maturation and morphogenesis. Our results outperformed common RCNN backbones,
+achieving 80.0% mean Average Precision on a diverse set of micrographs comprising
+different experimental samples and magnifications. We expect that this tool will 
+be of interest to a broad range of researchers.
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.csbj.2021.10.001 
+PMCID: PMC8554174
+PMID: 34765089 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

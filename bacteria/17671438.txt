@@ -1,0 +1,39 @@
+
+1. RNA Biol. 2007 Jul;4(2):85-92. Epub 2007 Jul 5.
+
+E. coli glutamyl-tRNA synthetase is inhibited by anticodon stem-loop domains and 
+a minihelix.
+
+Gustilo EM(1), Dubois DY, Lapointe J, Agris PF.
+
+Author information: 
+(1)Department of Molecular and Structural Biochemistry, North Carolina State
+University, Raleigh, North Carolina 27695-7622, USA.
+
+Portions of E. coli tRNA(Glu) having identity determinants for glutamyl-tRNA
+synthetase (ERS, EC 6.1.1.17) have been designed to be the first RNA inhibitors
+of a Class I synthetase. ERS recognizes the 2-thionyl group of
+2-thio-5-methylaminomethyluridine (mnm(5)s(2)U(34)) in the first or wobble
+anticodon position of E. coli tRNA(Glu). The interaction, as revealed by
+structural analysis, though specific, appears tenuous. Thus, it is surprising
+that RNAs designed from this tRNA's anticodon stem and loop domain with
+(ASL(Glu)-s(2)U(34)) and without s(2)U(34) are bound by ERS and inhibit
+aminoacylation of the native tRNA. ASL(Glu), ASL(Glu)-s(2)U(34), and a
+minihelix(Glu) composed of identity determinants of the amino acid accepting stem
+were thermally stable under conditions of aminoacylation (T(m)s = 75 +/- 1.5, 76 
++/- 0.9 and 83 +/- 2.0 degrees C, respectively). In binding competition, the
+modified ASL(Glu)-s(2)U(34) bound ERS with a higher affinity (half maximal
+inhibiting concentration, IC(50), 5.1 +/- 0.4 microM) than its unmodified
+counterpart, ASL(Glu) (IC(50), 10.3 +/- 0.6 microM). The minihelix(Glu),
+ASL(Glu)-s(2)U(34) and ASL(Glu) bound ERS with K(d)s of 9.9 +/- 3.3, 6.5 +/- 1.7 
+and 20.5 +/- 3.8 microM. ERS aminoacylation of tRNA(Glu) was inhibited by the
+tRNA fragments. Unmodified ASL(Glu), minihelix(Glu), and ASL(Glu)-s(2)U(34)
+exhibited a K(ic) of 1.9 +/- 0.2 microM, 4.1 +/- 0.2 microM, and 6.5 +/- 0.1
+microM, respectively. The modified ASL(Glu)-s(2)U(34), though having a higher
+affinity for ERS, may be released more readily and thus, not be as good an
+inhibitor as the unmodified ASL. Thus, the RNA constructs are effective tools to 
+study RNA-protein interaction.
+
+DOI: 10.4161/rna.4.2.4736 
+PMID: 17671438  [Indexed for MEDLINE]
+

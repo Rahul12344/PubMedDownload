@@ -1,0 +1,52 @@
+
+1. EMBO Mol Med. 2021 Dec 3:e15290. doi: 10.15252/emmm.202115290. [Epub ahead of
+print]
+
+Predicting Infectivity: Comparing Four PCR-based Assays to Detect Culturable
+SARS-CoV-2 in Clinical Samples.
+
+Bruce EA(1), Mills MG(2), Sampoleo R(2), Perchetti GA(2), Huang ML(2), Despres
+HW(3), Schmidt MM(3), Roychoudhury P(2)(4), Shirley DJ(5), Jerome KR(2)(4),
+Greninger AL(2)(4), Botten JW(1)(3).
+
+Author information: 
+(1)Division of Immunobiology, Department of Medicine, Robert Larner, M.D. College
+of Medicine, University of Vermont, Burlington VT, 05405, USA.
+(2)Virology Division, Department of Laboratory Medicine and Pathology, University
+of Washington, Seattle, WA, 98195, USA.
+(3)Department of Microbiology and Molecular Genetics, Robert Larner, M.D. College
+of Medicine, University of Vermont, Burlington VT, 05405, USA.
+(4)Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research
+Center, Seattle, WA, 98109, USA.
+(5)Faraday, Inc. Data Science Department. Burlington VT, 05405, USA.
+
+With the COVID-19 pandemic caused by SARS-CoV-2 now in its second year, there
+remains an urgent need for diagnostic testing that can identify infected
+individuals, particularly those who harbor infectious virus. Various RT-PCR
+strategies have been proposed to identify specific viral RNA species that may
+predict the presence of infectious virus, including detection of transcriptional 
+intermediates (e.g. subgenomic RNA [sgRNA]) and replicative intermediates (e.g.
+negative-strand RNA species). Using a novel primer/probe set for detection of
+subgenomic (sg)E transcripts, we successfully identified 100% of specimens
+containing culturable SARS-CoV-2 from a set of 126 clinical samples (total sgE CT
+values ranging from 12.3-37.5). This assay showed superior performance compared
+to a previously published sgRNA assay and to a negative-strand RNA assay, both of
+which failed to detect target RNA in a subset of samples from which we isolated
+live virus. In addition, total levels of viral RNA (genome, negative-strand, and 
+sgE) detected with the WHO/Charité primer-probe set correlated closely with
+levels of infectious virus. Specifically, infectious virus was not detected in
+samples with a CT above 31.0. Clinical samples with higher levels of viral RNA
+also displayed cytopathic effect (CPE) more quickly than those with lower levels 
+of viral RNA. Finally, we found that the infectivity of SARS-CoV-2 samples is
+significantly dependent on the cell type used for viral isolation, as Vero E6
+cells expressing TMRPSS2 extended the analytical sensitivity of isolation by more
+than 3 CT compared to parental Vero E6 cells and resulted in faster isolation.
+Our work shows that using a total viral RNA Ct cut-off of >31 or specifically
+testing for sgRNA can serve as an effective rule-out test for the presence of
+culturable virus.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.15252/emmm.202115290 
+PMID: 34862752 
+

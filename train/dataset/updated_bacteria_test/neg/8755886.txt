@@ -1,0 +1,34 @@
+
+1. J Bacteriol. 1996 Aug;178(15):4571-5.
+
+Cloning, complementation, and characterization of an rfaE homolog from Neisseria 
+gonorrhoeae.
+
+Levin JC(1), Stein DC.
+
+Author information: 
+(1)Department of Microbiology, University of Maryland, College Park, Maryland
+20742, USA.
+
+Neisseria gonorrhoeae WS1 is a spontaneous pyocin (a bacteriocin produced by
+Pseudomonas aeruginosa)-resistant mutant of N. gonorrhoeae FA19 that produces a
+truncated lipooligosaccharide (LOS) and is non-transformable. The LOS-specific
+mutation in WS1 was moved into a transformable background by transforming FA19
+with chromosomal DNA from WS1 (generating strain JWS-1). A clone (pJCL2) capable 
+of restoring JWS-1 to wild-type LOS expression, as detected by its acquisition of
+reactivity with monoclonal antibodies and by its complemented sodium dodecyl
+sulfate-polyacrylamide gel electrophoresis profile, was isolated. Sequential
+unidirectional deletion and DNA sequence analysis of pJCL2 identified an open
+reading frame, designated lsi-7, that could complement the defect in JWS-1.
+Homology searches against various databases indicated that lsi-7 bad homology
+with several Escherichia coli genes involved in the phosphorylation of sugars.
+lsi-7 is adjacent to the lsi-6 gene, another gene involved in LOS biosynthesis.
+Complementation studies using Salmonella typhimurium lipopolysaccharide mutants
+showed lsi-6 and lsi-7 to be gonococcal homologs of S. typhimurium rfaD and rfaE,
+respectively. Reverse transcriptase PCR analysis demonstrated that lsi-6 and
+lsi-7 are part of the same transcriptional unit.
+
+DOI: 10.1128/jb.178.15.4571-4575.1996 
+PMCID: PMC178225
+PMID: 8755886  [Indexed for MEDLINE]
+

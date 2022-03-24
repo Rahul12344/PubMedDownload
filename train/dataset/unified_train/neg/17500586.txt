@@ -1,0 +1,42 @@
+
+1. plos comput biol. 2007 may;3(5):e87.
+
+hiv-1 subtype b protease reverse transcriptase amino acid covariation.
+
+rhee sy(1), liu tf, holmes sp, shafer rw.
+
+author information: 
+(1)division infectious diseases, department medicine, stanford university, 
+stanford, california, united states america.
+
+despite high degree hiv-1 protease reverse transcriptase (rt) mutation
+in setting antiretroviral therapy, spectrum possible virus variants
+appears limited patterns amino acid covariation. analyzed patterns
+of amino acid covariation protease rt sequences 7,000
+persons infected hiv-1 subtype b viruses obtained stanford hiv drug
+resistance database (http://hivdb.stanford.edu). addition, examined the
+relationship conditional probabilities associated pair of
+mutations order mutations developed viruses which
+longitudinal sequence data available. patterns rt covariation were
+dominated distinct clustering type type ii thymidine analog
+mutations q151m-associated mutations. patterns protease covariation
+were dominated clustering nelfinavir-associated mutations (d30n and
+n88d), two main groups protease inhibitor (pi)-resistance mutations associated
+either v82a l90m, tight cluster mutations associated with
+decreased susceptibility amprenavir recently approved pi
+darunavir. different patterns covariation frequently observed for
+different mutations position including rt mutations t69d versus
+t69n, l74v versus l74i, v75i versus v75m, t215f versus t215y, k219q/e versus 
+k219n/r, protease mutations m46i versus m46l, i54v versus i54m/l, and
+n88d versus n88s. sequence data persons correlated mutations whom
+earlier sequences available confirmed conditional probabilities
+associated correlated mutation pairs could used predict order in
+which mutations likely developed. whereas accessory nucleoside
+rt inhibitor-resistance mutations nearly always follow primary nucleoside rt
+inhibitor-resistance mutations, accessory pi-resistance mutations often preceded 
+primary pi-resistance mutations.
+
+doi: 10.1371/journal.pcbi.0030087 
+pmcid: pmc1866358
+pmid: 17500586  [indexed medline]
+

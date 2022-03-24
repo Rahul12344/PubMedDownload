@@ -1,0 +1,52 @@
+
+1. PLoS One. 2021 Nov 18;16(11):e0260283. doi: 10.1371/journal.pone.0260283.
+eCollection 2021.
+
+Peptides derived from the SARS-CoV-2 receptor binding motif bind to ACE2 but do
+not block ACE2-mediated host cell entry or pro-inflammatory cytokine induction.
+
+Mahindra A(1), Tejeda G(2), Rossi M(2)(3), Janha O(2), Herbert I(4), Morris C(1),
+Morgan DC(1), Beattie W(5), Montezano AC(5), Hudson B(2), Tobin AB(2), Bhella
+D(4), Touyz RM(5), Jamieson AG(1), Baillie GS(5), Blair CM(5).
+
+Author information: 
+(1)School of Chemistry, University of Glasgow, Glasgow, United Kingdom.
+(2)Institute of Molecular Cell & Systems Biology, School of Medical, Veterinary
+and Life Sciences, University of Glasgow, Glasgow, United Kingdom.
+(3)Department of Biotechnological and Applied Clinical Sciences, University of
+L'Aquila, L'Aquila, Italy.
+(4)MRC Centre for Virus Research, University of Glasgow, Glasgow, United Kingdom.
+(5)Institute of Cardiovascular and Medical Sciences, Medical, Veterinary and Life
+Sciences, University of Glasgow, Glasgow, United Kingdom.
+
+SARS-CoV-2 viral attachment and entry into host cells is mediated by a direct
+interaction between viral spike glycoproteins and membrane bound
+angiotensin-converting enzyme 2 (ACE2). The receptor binding motif (RBM), located
+within the S1 subunit of the spike protein, incorporates the majority of known
+ACE2 contact residues responsible for high affinity binding and associated
+virulence. Observation of existing crystal structures of the SARS-CoV-2 receptor 
+binding domain (SRBD)-ACE2 interface, combined with peptide array screening,
+allowed us to define a series of linear native RBM-derived peptides that were
+selected as potential antiviral decoy sequences with the aim of directly binding 
+ACE2 and attenuating viral cell entry. RBM1 (16mer): S443KVGGNYNYLYRLFRK458,
+RBM2A (25mer): E484GFNCYFPLQSYGFQPTNGVGYQPY508, RBM2B (20mer):
+F456NCYFPLQSYGFQPTNGVGY505 and RBM2A-Sc (25mer): NYGLQGSPFGYQETPYPFCNFVQYG. Data 
+from fluorescence polarisation experiments suggested direct binding between RBM
+peptides and ACE2, with binding affinities ranging from the high nM to low μM
+range (Kd = 0.207-1.206 μM). However, the RBM peptides demonstrated only modest
+effects in preventing SRBD internalisation and showed no antiviral activity in a 
+spike protein trimer neutralisation assay. The RBM peptides also failed to
+suppress S1-protein mediated inflammation in an endogenously expressing ACE2
+human cell line. We conclude that linear native RBM-derived peptides are unable
+to outcompete viral spike protein for binding to ACE2 and therefore represent a
+suboptimal approach to inhibiting SARS-CoV-2 viral cell entry. These findings
+reinforce the notion that larger biologics (such as soluble ACE2, 'miniproteins',
+nanobodies and antibodies) are likely better suited as SARS-CoV-2 cell-entry
+inhibitors than short-sequence linear peptides.
+
+DOI: 10.1371/journal.pone.0260283 
+PMCID: PMC8601423
+PMID: 34793553  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+

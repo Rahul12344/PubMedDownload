@@ -1,0 +1,33 @@
+
+1. Biochemistry. 2012 Oct 23;51(42):8464-74. doi: 10.1021/bi301021u. Epub 2012 Oct
+9.
+
+Identification of Tyr241 as a key catalytic base in the family 4 glycoside
+hydrolase BglT from Thermotoga maritima.
+
+Yip VL(1), Withers SG.
+
+Author information: 
+(1)2036 Main Mall, Department of Chemistry, University of British Columbia,
+Vancouver, BC, Canada V6T 1Z1.
+
+While the vast majority of glycosidases catalyze glycoside hydrolysis via
+oxocarbenium ion-like transition states and typically employ carboxylic acid
+residues as acid/base or nucleophile catalysts, two subfamilies of these enzymes 
+(GH4 and GH109 in the CAZY classification) conduct hydrolysis via a
+redox-assisted mechanism involving anionic transition states. While good evidence
+of this mechanism has been obtained, the identities of the catalytic residues
+involved have not yet been confirmed. Mechanistic analyses of mutants of the
+6-phospho-β-glucosidase from Thermotoga maritima (BglT), in which the active site
+tyrosine residue (Tyr 241) has been replaced with Phe and Ala, provide support
+for its role as a catalytic base. The pH dependence of k(cat) and k(cat)/K(m),
+particularly of the acidic limb corresponding to the base, is shifted relative to
+that of the wild-type enzyme. Kinetic isotope effects for hydrolysis of
+substrates deuterated at C1, C2, and C3 by the Tyr 241 mutants are strongly
+pH-dependent, with essentially full primary kinetic isotope effects being
+observed for the 2-deutero substrate at low pH with the Tyr241Ala mutant. This is
+consistent with a slowing of the deprotonation step upon removal of the base.
+
+DOI: 10.1021/bi301021u 
+PMID: 23025815  [Indexed for MEDLINE]
+

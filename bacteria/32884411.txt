@@ -1,0 +1,44 @@
+
+1. Saudi J Biol Sci. 2020 Sep;27(9):2299-2307. doi: 10.1016/j.sjbs.2020.04.002. Epub
+2020 Apr 13.
+
+In-silico elucidation of Moringa oleifera phytochemicals against diabetes
+mellitus.
+
+Zainab B(1)(2), Ayaz Z(1)(2), Alwahibi MS(3), Khan S(2), Rizwana H(3), Soliman
+DW(3), Alawaad A(3), Mehmood Abbasi A(1).
+
+Author information: 
+(1)Department of Environmental Sciences, COMSATS University Islamabad, Abbottabad
+Campus 22060, Pakistan.
+(2)Department of Bioinformatics, Govt. Post Graduate College Mandian Abbottabad, 
+Pakistan.
+(3)Department of Botany and Microbiology, College of Science, King Saud
+University, Riyadh, Saudi Arabia.
+
+Moringa oleifera is also known as "Miracle tree", due to its multiple uses and
+adaptability. Because of nutritive and pharmacological values, it is widely
+cultivated across the world. M. oleifera leaves are rich source of minerals,
+vitamins and many health beneficial secondary metabolites, and possess
+significant anti-diabetic potential. Consequently, Insilco study could be
+noteworthy to expand effective anti-diabetic drugs from this plant. Present study
+was designed to find out the best bioactive compounds of M. oleifera as a
+potential therapeutic agent against diabetes mellitus through In-silico method.
+For this, structures of phytochemicals were extracted from PubChem and docked to 
+mutated protein from PBD. Afterwards, datasets were prepared for ligand based
+pharmacophore and their pharmacophoric features were generated from LigandScout. 
+Finally five phytochemicals viz. anthraquinone, 2-phenylchromenylium
+(Anthocyanins), hemlock tannin, sitogluside (glycoside) and A-phenolic steroid
+were selected, which exhibited effective binding within the active binding pocket
+of the targeted protein. Ligand based pharmacophore model showed the key features
+i.e. HBD, HBA, aromatic ring, hydrophobic, positively ionizable surface essential
+for receptor binding. Our findings suggest that screened phytochemicals present
+in M. oleifera can be used as potential therapeutic drug candidates to treat
+diabetes mellitus.
+
+© 2020 The Author(s).
+
+DOI: 10.1016/j.sjbs.2020.04.002 
+PMCID: PMC7451590
+PMID: 32884411 
+

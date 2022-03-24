@@ -1,0 +1,37 @@
+
+1. Pharmaceuticals (Basel). 2021 Nov 20;14(11). pii: 1192. doi: 10.3390/ph14111192.
+
+In Vitro Methods to Decipher the Structure of Viral RNA Genomes.
+
+Romero-López C(1), Ramos-Lorente SE(1), Berzal-Herranz A(1).
+
+Author information: 
+(1)Instituto de Parasitología y Biomedicina López-Neyra (IPBLN-CSIC), Av. del
+Conocimiento 17, 18016 Armilla, Granada, Spain.
+
+RNA viruses encode essential information in their genomes as conserved structural
+elements that are involved in efficient viral protein synthesis, replication, and
+encapsidation. These elements can also establish complex networks of RNA-RNA
+interactions, the so-called RNA interactome, to shape the viral genome and
+control different events during intracellular infection. In recent years,
+targeting these conserved structural elements has become a promising strategy for
+the development of new antiviral tools due to their sequence and structural
+conservation. In this context, RNA-based specific therapeutic strategies, such as
+the use of siRNAs have been extensively pursued to target the genome of different
+viruses. Importantly, siRNA-mediated targeting is not a straightforward approach 
+and its efficiency is highly dependent on the structure of the target region.
+Therefore, the knowledge of the viral structure is critical for the
+identification of potentially good target sites. Here, we describe detailed
+protocols used in our laboratory for the in vitro study of the structure of viral
+RNA genomes. These protocols include DMS (dimethylsulfate) probing, SHAPE
+(selective 2'-hydroxyl acylation analyzed by primer extension) analysis, and HMX 
+(2'-hydroxyl molecular interference). These methodologies involve the use of
+high-throughput analysis techniques that provide extensive information about the 
+3D folding of the RNA under study and the structural tuning derived from the
+interactome activity. They are therefore a good tool for the development of new
+RNA-based antiviral compounds.
+
+DOI: 10.3390/ph14111192 
+PMCID: PMC8620418
+PMID: 34832974 
+

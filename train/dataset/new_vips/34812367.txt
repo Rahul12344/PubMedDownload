@@ -1,0 +1,39 @@
+
+1. IEEE Access. 2020 Nov 5;8:201925-201936. doi: 10.1109/ACCESS.2020.3036347.
+eCollection 2020.
+
+Surveillance Routing of COVID-19 Infection Spread Using an Intelligent Infectious
+Diseases Algorithm.
+
+Guevara C(1), Penas MS(2).
+
+Author information: 
+(1)Centre of Mechatronics and Interactive Systems (MIST)Universidad Tecnológica
+Indoamérica Quito 170301 Ecuador.
+(2)Institute of Knowledge Technology, Complutense University of Madrid 28040
+Madrid Spain.
+
+In this study, the Intelligent Infectious Diseases Algorithm (IIDA) has been
+developed to locate the sources of infection and survival rate of coronavirus
+disease 2019 (COVID-19), in order to propose health care routes for population
+affected by COVID-19. The main goal of this computational algorithm is to reduce 
+the spread of the virus and decrease the number of infected people. To do so,
+health care routes are generated according to the priority of certain population 
+groups. The algorithm was applied to New York state data. Based on infection
+rates and reported deaths, hot spots were determined by applying the kernel
+density estimation (KDE) to the groups that have been previously obtained using a
+clustering algorithm together with the elbow method. For each cluster, the
+survival rate -the key information to prioritize medical care- was determined
+using the proportional hazards model. Finally, ant colony optimization (ACO) and 
+the traveling salesman problem (TSP) optimization algorithms were applied to
+identify the optimal route to the closest hospital. The results obtained
+efficiently covered the points with the highest concentration of COVID-19 cases. 
+In this way, its spread can be prevented and health resources optimized.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more 
+information, see https://creativecommons.org/licenses/by/4.0/.
+
+DOI: 10.1109/ACCESS.2020.3036347 
+PMCID: PMC8545257
+PMID: 34812367 
+

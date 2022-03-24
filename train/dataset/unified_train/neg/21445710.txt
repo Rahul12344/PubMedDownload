@@ -1,0 +1,42 @@
+
+1. j mol model. 2012 jan;18(1):39-51. doi: 10.1007/s00894-011-1018-3. epub 2011 mar 
+29.
+
+homology modeling, molecular dynamics, e-pharmacophore mapping docking study 
+of chikungunya virus nsp2 protease.
+
+singh khd(1), kirubakaran p, nagarajan s, sakkiah s, muthusamy k, velmurgan d,
+jeyakanthan j.
+
+author information: 
+(1)department bioinformatics, alagappa university, karaikudi, india.
+
+to date, suitable vaccine specific antiviral drug available treat
+chikungunya viral (chikv) fever. hence, essential identify drug
+candidates could potentially impede chikv infection. here, present the
+development homology model nsp2 protein based crystal structure of
+the nsp2 protein venezuelan equine encephalitis virus (veev). protein
+modeled optimized using molecular dynamics simulation; junction peptides 
+of nonstructural protein complex docked order investigate the
+possible protein-protein interactions nsp2 proteins cleaved by
+nsp2. modeling studies conducted shed light binding modes, the
+critical interactions peptides provide insight chemical
+features needed inhibit chik virus infection. energy-optimized
+pharmacophore mapping performed using junction peptides. based the
+results, propose pharmacophore features must present an
+inhibitor nsp2 protease. resulting pharmacophore model contained an
+aromatic ring, hydrophobic three hydrogen-bond donor sites. using these
+pharmacophore features, screened large public library compounds (asinex, 
+maybridge, toslab, binding database) find potential ligand could
+inhibit nsp2 protein. compounds yielded fitness score than
+1.0 subjected glide htvs glide xp. here, report best
+four compounds based docking scores; compounds ids 27943, 
+21362, asn 01107557 asn 01541696. propose compounds could bind 
+to active site nsp2 protease inhibit enzyme. furthermore, the
+backbone structural scaffolds four lead compounds could serve as
+building blocks designing drug-like molecules treatment of
+chikungunya viral fever.
+
+doi: 10.1007/s00894-011-1018-3 
+pmid: 21445710  [indexed medline]
+

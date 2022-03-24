@@ -1,0 +1,54 @@
+
+1. Nat Med. 2021 Nov;27(11):1982-1989. doi: 10.1038/s41591-021-01522-3. Epub 2021
+Oct 18.
+
+Toxicity after AAV delivery of RNAi expression constructs into nonhuman primate
+brain.
+
+Keiser MS(#)(1), Ranum PT(#)(1), Yrigollen CM(#)(1), Carrell EM(1), Smith GR(1), 
+Muehlmatt AL(1), Chen YH(1), Stein JM(2), Wolf RL(2), Radaelli E(3), Lucas TJ
+2nd(4), Gonzalez-Alegre P(1)(5), Davidson BL(6)(7).
+
+Author information: 
+(1)Raymond G. Perelman Center for Cellular and Molecular Therapeutics, The
+Children's Hospital of Philadelphia Research Institute, Philadelphia, PA, USA.
+(2)Department of Radiology, Perelman School of Medicine, University of
+Pennsylvania, Philadelphia, PA, USA.
+(3)Department of Pathobiology, School of Veterinary Medicine, University of
+Pennsylvania, Philadelphia, PA, USA.
+(4)Department of Neurosurgery, Perelman School of Medicine, University of
+Pennsylvania, Philadelphia, PA, USA.
+(5)Department of Neurology, Perelman School of Medicine, University of
+Pennsylvania, Philadelphia, PA, USA.
+(6)Raymond G. Perelman Center for Cellular and Molecular Therapeutics, The
+Children's Hospital of Philadelphia Research Institute, Philadelphia, PA, USA.
+davidsonbl@chop.edu.
+(7)Department of Pathology & Laboratory Medicine, Perelman School of Medicine,
+University of Pennsylvania, Philadelphia, PA, USA. davidsonbl@chop.edu.
+(#)Contributed equally
+
+RNA interference (RNAi) for spinocerebellar ataxia type 1 can prevent and reverse
+behavioral deficits and neuropathological readouts in mouse models, with safety
+and benefit lasting over many months. The RNAi trigger, expressed from
+adeno-associated virus vectors (AAV.miS1), also corrected misregulated microRNAs 
+(miRNA) such as miR150. Subsequently, we showed that the delivery method was
+scalable, and that AAV.miS1 was safe in short-term pilot nonhuman primate (NHP)
+studies. To advance the technology to patients, investigational new drug
+(IND)-enabling studies in NHPs were initiated. After AAV.miS1 delivery to deep
+cerebellar nuclei, we unexpectedly observed cerebellar toxicity. Both
+small-RNA-seq and studies using AAVs devoid of miRNAs showed that this was not a 
+result of saturation of the endogenous miRNA processing machinery. RNA-seq
+together with sequencing of the AAV product showed that, despite limited amounts 
+of cross-packaged material, there was substantial inverted terminal repeat (ITR) 
+promoter activity that correlated with neuropathologies. ITR promoter activity
+was reduced by altering the miS1 expression context. The surprising contrast
+between our rodent and NHP findings highlight the need for extended safety
+studies in multiple species when assessing new therapeutics for human
+application.
+
+© 2021. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41591-021-01522-3 
+PMCID: PMC8605996
+PMID: 34663988 
+

@@ -1,0 +1,47 @@
+
+1. J Mol Cell Biol. 2018 Apr 1;10(2):147-160. doi: 10.1093/jmcb/mjy007.
+
+PHF20 collaborates with PARP1 to promote stemness and aggressiveness of
+neuroblastoma cells through activation of SOX2 and OCT4.
+
+Long W(1)(2), Zhao W(2)(3), Ning B(2)(4), Huang J(2), Chu J(3), Li L(2), Ma
+Q(1)(2), Xing C(2), Wang HY(2), Liu Q(1), Wang RF(2)(5)(6).
+
+Author information: 
+(1)Department of Neurosurgery in Xiangya Hospital, Central South University,
+Changsha 410008, China.
+(2)Center for Inflammation and Epigenetics, Houston Methodist Research Institute,
+Houston, TX 77030, USA.
+(3)Key Laboratory of Stem Cells and Tissue Engineering, Ministry of Education,
+Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou 510080, China.
+(4)Institute Center for Molecular Design and Biomimetics, The Biodesign
+Institute, Arizona State University, Tempe, AZ 85287, USA.
+(5)Department of Microbiology and Immunology, Weill Cornell Medicine, Cornell
+University, New York, NY 10065, USA.
+(6)Institute of Biosciences and Technology, Texas A&M University Health Science
+Center, Houston, TX 77030, USA.
+
+The differentiation status of neuroblastoma (NB) strongly correlates with its
+clinical outcomes; however, the molecular mechanisms driving maintenance of
+stemness and differentiation remain poorly understood. Here, we show that plant
+homeodomain finger-containing protein 20 (PHF20) functions as a critical
+epigenetic regulator in sustaining stem cell-like phenotype of NB by using
+CRISPR/Cas9-based targeted knockout (KO) for high-throughput screening of gene
+function in NB cell differentiation. The expression of PHF20 in NB was
+significantly associated with high aggressiveness of the tumor and poor outcomes 
+for NB patients. Deletion of PHF20 inhibited NB cell proliferation, invasive
+migration, and stem cell-like traits. Mechanistically, PHF20 interacts with
+poly(ADP-ribose) polymerase 1 (PARP1) and directly binds to promoter regions of
+octamer-binding transcription factor 4 (OCT4) and sex determining region Y-box 2 
+(SOX2) to modulate a histone mark associated with active transcription,
+trimethylation of lysine 4 on histone H3 protein subunit (H3K4me3).
+Overexpression of OCT4 and SOX2 restored growth and progression of PHF20 KO tumor
+cells. Consistently, OCT4 and SOX2 protein levels in clinical NB specimens were
+positively correlated with PHF20 expression. Our results establish PHF20 as a key
+driver of NB stem cell-like properties and aggressive behaviors, with
+implications for prognosis and therapy.
+
+DOI: 10.1093/jmcb/mjy007 
+PMCID: PMC5951121
+PMID: 29452418  [Indexed for MEDLINE]
+

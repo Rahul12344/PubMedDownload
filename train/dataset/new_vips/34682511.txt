@@ -1,0 +1,39 @@
+
+1. Int J Environ Res Public Health. 2021 Oct 14;18(20). pii: 10765. doi:
+10.3390/ijerph182010765.
+
+Applications of Technological Solutions in Primary Ways of Preventing
+Transmission of Respiratory Infectious Diseases-A Systematic Literature Review.
+
+Leite GS(1), Albuquerque AB(1), Pinheiro PR(1).
+
+Author information: 
+(1)UNIFOR, Department of Computer Science, University of Fortaleza, Fortaleza
+60811-905, CE, Brazil.
+
+With the growing concern about the spread of new respiratory infectious diseases,
+several studies involving the application of technology in the prevention of
+these diseases have been carried out. Among these studies, it is worth
+highlighting the importance of those focused on the primary forms of prevention, 
+such as social distancing, mask usage, quarantine, among others. This importance 
+arises because, from the emergence of a new disease to the production of
+immunizers, preventive actions must be taken to reduce contamination and
+fatalities rates. Despite the considerable number of studies, no records of works
+aimed at the identification, registration, selection, and rigorous analysis and
+synthesis of the literature were found. For this purpose, this paper presents a
+systematic review of the literature on the application of technological solutions
+in the primary ways of respiratory infectious diseases transmission prevention.
+From the 1139 initially retrieved, 219 papers were selected for data extraction, 
+analysis, and synthesis according to predefined inclusion and exclusion criteria.
+Results enabled the identification of a general categorization of application
+domains, as well as mapping of the adopted support mechanisms. Findings showed a 
+greater trend in studies related to pandemic planning and, among the support
+mechanisms adopted, data and mathematical application-related solutions received 
+greater attention. Topics for further research and improvement were also
+identified such as the need for a better description of data analysis and
+evidence.
+
+DOI: 10.3390/ijerph182010765 
+PMCID: PMC8535524
+PMID: 34682511  [Indexed for MEDLINE]
+

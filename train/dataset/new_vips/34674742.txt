@@ -1,0 +1,93 @@
+
+1. Trials. 2021 Oct 21;22(1):724. doi: 10.1186/s13063-021-05664-0.
+
+A trial platform to assess approved SARS-CoV-2 vaccines in immunocompromised
+patients: first sub-protocol for a pilot trial comparing the mRNA vaccines
+Comirnaty® and COVID-19 mRNA Vaccine Moderna®.
+
+Speich B(1)(2), Chammartin F(3), Smith D(4), Stoeckle MP(5), Amico P(6),
+Eichenberger AL(7), Hasse B(8), Schuurmans MM(9), Müller T(10), Tamm M(11),
+Dickenmann M(7), Abela IA(4)(8), Trkola A(4), Hirsch HH(12)(13), Manuel
+O(14)(15), Cavassini M(14), Hemkens LG(3)(16)(17), Briel M(3)(18), Mueller NJ(8),
+Rauch A(8), Günthard HF(4)(8), Koller MT(3), Bucher HC(3), Kusejko K(4)(8); study
+groups from the Swiss HIV Cohort Study and the Swiss Transplant Cohort Study.
+
+Author information: 
+(1)Department of Clinical Research, Basel Institute for Clinical Epidemiology and
+Biostatistics, University Hospital Basel, University of Basel, Basel,
+Switzerland. benjamin.speich@usb.ch.
+(2)Nuffield Department of Orthopaedics, Centre for Statistics in Medicine,
+Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK.
+benjamin.speich@usb.ch.
+(3)Department of Clinical Research, Basel Institute for Clinical Epidemiology and
+Biostatistics, University Hospital Basel, University of Basel, Basel,
+Switzerland.
+(4)University of Zurich, Institute of Medical Virology, Zurich, Switzerland.
+(5)Division of Infectious Diseases and Hospital Epidemiology, University Hospital
+of Basel, University of Basel, Basel, Switzerland.
+(6)Clinic for Transplantation Immunology and Nephrology, University Hospital
+Basel, Basel, Switzerland.
+(7)Department of Infectious Diseases, Inselspital, Bern University Hospital,
+University of Bern, 3010, Bern, Switzerland.
+(8)Division of Infectious Diseases and Hospital Epidemiology, University Hospital
+Zurich, Zurich, Switzerland.
+(9)Division of Pulmonology, University Hospital Zurich, Zurich, Switzerland.
+(10)Nephrology Clinic, University Hospital Zurich, Zurich, Switzerland.
+(11)Clinic of Respiratory Medicine and Pulmonary Cell Research, University
+Hospital of Basel, Petersgraben 4, 4031, Basel, Switzerland.
+(12)Clinical Virology, Laboratory Medicine, University Hospital Basel, Basel,
+Switzerland.
+(13)Transplantation & Clinical Virology, Department Biomedicine, University
+Hospital Basel, Basel, Switzerland.
+(14)Infectious Diseases Service, Lausanne University Hospital and University of
+Lausanne, Lausanne, Switzerland.
+(15)Transplantation Center, Lausanne University Hospital and University of
+Lausanne, Lausanne, Switzerland.
+(16)Meta-Research Innovation Center Berlin (METRICS-B), Berlin Institute of
+Health, Berlin, Germany.
+(17)Meta-Research Innovation Center at Stanford (METRICS), Stanford University,
+Stanford, CA, USA.
+(18)Department of Health Research Methods, Evidence, and Impact, McMaster
+University, Hamilton, Canada.
+
+BACKGROUND: Late 2019, a new highly contagious coronavirus SARS-CoV-2 has emerged
+in Wuhan, China, causing within 2 months a pandemic with the highest disease
+burden in elderly and people with pre-existing medical conditions. The pandemic
+has highlighted that new and more flexible clinical trial approaches, such as
+trial platforms, are needed to assess the efficacy and safety of interventions in
+a timely manner. The two existing Swiss cohorts of immunocompromised patients
+(i.e., Swiss HIV Cohort Study (SHCS) and Swiss Transplant Cohort Study (STCS))
+are an ideal foundation to set-up a trial platform in Switzerland leveraging
+routinely collected data. Within a newly founded trial platform, we plan to
+assess the efficacy of the first two mRNA SARS-CoV-2 vaccines that reached market
+authorization in Switzerland in the frame of a pilot randomized controlled trial 
+(RCT) while at the same time assessing the functionality of the trial platform.
+METHODS: We will conduct a multicenter randomized controlled, open-label, 2-arm
+sub-study pilot trial of a platform trial nested into two Swiss cohorts. Patients
+included in the SHCS or the STCS will be eligible for randomization to either
+receiving the mRNA vaccine Comirnaty® (Pfizer/BioNTech) or the COVID-19 mRNA
+Vaccine Moderna®. The primary clinical outcome will be change in pan-lg antibody 
+response (pan-Ig anti-S1-RBD; baseline vs. 3 months after first vaccination;
+binary outcome, considering ≥ 0.8 units/ml as a positive antibody response). The 
+pilot study will also enable us to assess endpoints related to trial conduct
+feasibility (i.e., duration of RCT set-up; time of patient recruitment; patient
+consent rate; proportion of missing data). Assuming vaccine reactivity of 90% in 
+both vaccine groups, we power our trial, using a non-inferiority margin such that
+a 95% two-sided confidence interval excludes a difference in favor of the
+reference group of more than 10%. A sample size of 380 (190 in each treatment
+arm) is required for a statistical power of 90% and a type I error of 0.025. The 
+study is funded by the Swiss National Science Foundation (National Research
+Program NRP 78, "COVID-19").
+DISCUSSION: This study will provide crucial information about the efficacy and
+safety of the mRNA SARS-CoV-2 vaccines in HIV patients and organ transplant
+recipients. Furthermore, this project has the potential to pave the way for
+further platform trials in Switzerland.
+TRIAL REGISTRATION: ClinicalTrials.gov NCT04805125 . Registered on March 18,
+2021.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s13063-021-05664-0 
+PMCID: PMC8529365
+PMID: 34674742  [Indexed for MEDLINE]
+

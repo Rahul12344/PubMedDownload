@@ -1,0 +1,52 @@
+
+1. bmc genomics. 2012 may 30;13:207. doi: 10.1186/1471-2164-13-207.
+
+transcriptome adult female malaria mosquito vector anopheles albimanus.
+
+martínez-barnetche j(1), gómez-barreto re, ovilla-muñoz m, téllez-sosa j, garcía 
+lópez de, dinglasan rr, ubaida mohien c, maccallum rm, redmond sn, gibbons jg,
+rokas a, machado ca, cazares-raga fe, gonzález-cerón l, hernández-martínez s,
+rodríguez lópez mh.
+
+author information: 
+(1)centro de investigación sobre enfermedades infecciosas, instituto nacional de 
+salud pública, cuernavaca, morelos, méxico. jmbarnet@insp.mx
+
+background: human malaria transmitted mosquitoes genus anopheles.
+transmission complex phenomenon involving biological environmental
+factors humans, parasites mosquitoes. among 500 anopheline
+species, species different branches mosquito evolutionary 
+tree transmit malaria, suggesting vectorial capacity evolved
+independently. anopheles albimanus (subgenus nyssorhynchus) important
+malaria vector americas. divergence time anopheles gambiae,
+the main malaria vector africa, neotropical vectors estimated
+to 100 my. better understand biological basis malaria transmission
+and develop novel effective means vector control, need to
+explore mosquito biology beyond an. gambiae complex.
+results: sequenced transcriptome an. albimanus adult female. by
+combining sanger, 454 illumina sequences cdna libraries derived the
+midgut, cuticular fat body, dorsal vessel, salivary gland whole body, we
+generated single, high-quality assembly containing 16,669 transcripts, 92% of
+which mapped an. darlingi genome covered 90% core eukaryotic
+genome. bidirectional comparisons an. gambiae, an. darlingi an.
+albimanus predicted proteomes allowed identification 3,772 putative
+orthologs. half transcripts match proteins other
+insect vectors interpro annotation. identified several protein
+families may relevant study plasmodium-mosquito interaction. an
+open source transcript annotation browser called gdav (genome-delinked annotation
+viewer) developed facilitate public access data generated this
+and future transcriptome projects.
+conclusions: explored adult female transcriptome one important new
+world malaria vector, an. albimanus. identified protein-coding transcripts
+involved biological processes may relevant plasmodium lifecycle
+and serve starting point searching targets novel control
+strategies. data increase available genomic information regarding an.
+albimanus several hundred-fold, facilitate molecular research medical
+entomology, evolutionary biology, genomics proteomics anopheline mosquito 
+vectors. data reported manuscript accessible community via 
+the vectorbase website (http://www.vectorbase.org/other/additionalorganisms/).
+
+doi: 10.1186/1471-2164-13-207 
+pmcid: pmc3442982
+pmid: 22646700  [indexed medline]
+

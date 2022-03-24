@@ -1,0 +1,45 @@
+
+1. Chembiochem. 2019 Oct 15;20(20):2653-2665. doi: 10.1002/cbic.201900272. Epub 2019
+Aug 22.
+
+Characterization of Gene Circuit Parts Based on Multiobjective Optimization by
+Using Standard Calibrated Measurements.
+
+Boada Y(1)(2), Vignoni A(1), Alarcon-Ruiz I(1)(3), Andreu-Vilarroig C(4),
+Monfort-Llorens R(1)(4), Requena A(1)(3), Picó J(1).
+
+Author information: 
+(1)Synthetic Biology and Biosystems Control Lab, I.U. de Automática e Informática
+Industrial (ai2), Universitat Politècnica de Valencia, Camino de Vera S/N, 46022,
+Valencia, Spain.
+(2)Centro Universitario EDEM, Escuela de Empresarios, La Marina de València,
+Muelle de la Aduana S/N, 46024, Valencia, Spain.
+(3)Escuela Tècnica Superior de Ingeniería Agronómica y del Medio Natural,
+Universitat Politècnica de Valencia, Camino de Vera S/N, 46022, Valencia, Spain.
+(4)Escuela Técnica Superior de Ingeniería Industrial, Universitat Politècnica de 
+Valencia, Camino de Vera S/N, 46022, Valencia, Spain.
+
+Standardization and characterization of biological parts is necessary for the
+further development of bottom-up synthetic biology. Herein, an easy-to-use
+methodology that embodies both a calibration procedure and a multiobjective
+optimization approach is proposed to characterize biological parts. The
+calibration procedure generates values for specific fluorescence per cell
+expressed as standard units of molecules of equivalent fluorescein per particle. 
+The use of absolute standard units enhances the characterization of model
+parameters for biological parts by bringing measurements and estimations results 
+from different sources into a common domain, so they can be integrated and
+compared faithfully. The multiobjective optimization procedure exploits these
+concepts by estimating the values of the model parameters, which represent
+biological parts of interest, while considering a varied range of experimental
+and circuit contexts. Thus, multiobjective optimization provides a robust
+characterization of them. The proposed calibration and characterization
+methodology can be used as a guide for good practices in dry and wet
+laboratories; thus allowing not only portability between models, but is also
+useful for generating libraries of tested and well-characterized biological
+parts.
+
+© 2019 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/cbic.201900272 
+PMID: 31269324  [Indexed for MEDLINE]
+

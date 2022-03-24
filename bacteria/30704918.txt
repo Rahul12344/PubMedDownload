@@ -1,0 +1,43 @@
+
+1. J Biosci Bioeng. 2019 Jul;128(1):13-21. doi: 10.1016/j.jbiosc.2018.12.012. Epub
+2019 Jan 28.
+
+Expression of alcohol oxidase gene from Ochrobactrum sp. AIU 033 in recombinant
+Escherichia coli through the twin-arginine translocation pathway.
+
+Matsumura K(1), Yamada M(2), Yamashita T(1), Muto H(1), Nishiyama KI(1), Shimoi
+H(1), Isobe K(1).
+
+Author information: 
+(1)Department of Biological Chemistry and Food Science, Iwate University, Ueda-3,
+Morioka 020-8550, Japan.
+(2)Department of Biological Chemistry and Food Science, Iwate University, Ueda-3,
+Morioka 020-8550, Japan. Electronic address: myamada@iwate-u.ac.jp.
+
+We cloned a set of genes encoding alcohol oxidase from Ochrobactrum sp. AIU 033
+(OcAOD), which exhibits the appropriate substrate specificity for glyoxylic acid 
+production from glycolic acid. The set of genes for OcAOD contained two open
+reading frames consisting of 555-bp (aodB) and 1572-bp (aodA) nucleotides, which 
+encode the precursor for the β-subunit and α-subunit of OcAOD, respectively. We
+expressed the cloned genes as an active product in Escherichia coli BL21(DE3).
+The recombinant OcAOD oxidized glycolic acid and primary alcohols with C2-C8 but 
+not glyoxylic acid (as is the case for native OcAOD), whereas the Km and Vmax
+values for glycolic acid and the pH stability were higher than those of native
+OcAOD. A consensus sequence for the twin-arginine translocation (Tat) pathway was
+identified in the N-terminal region of the precursor for the β-subunit, and the
+active form of OcAOD was localized in the periplasm of recombinant E. coli, which
+indicated that OcAOD would be transported from the cytoplasm to the periplasm by 
+the hitchhiker mechanism through the Tat pathway. The OcAOD productivity of the
+recombinant E. coli was 24-fold higher than that of Ochrobactrum sp. AIU 033, and
+it was further enhanced by 1.2 times by the co-expression of additional tatABC
+from E. coli BL21(DE3). Our findings thus suggest a function of the β-subunit of 
+OcAOD in membrane translocation, and that the recombinant OcAOD has
+characteristics that are suitable for the enzymatic synthesis of glyoxylic acid
+as well as native OcAOD.
+
+Copyright © 2019 The Society for Biotechnology, Japan. Published by Elsevier B.V.
+All rights reserved.
+
+DOI: 10.1016/j.jbiosc.2018.12.012 
+PMID: 30704918  [Indexed for MEDLINE]
+

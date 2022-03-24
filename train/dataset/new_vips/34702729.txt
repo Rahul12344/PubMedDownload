@@ -1,0 +1,66 @@
+
+1. BMJ Open. 2021 Oct 26;11(10):e051045. doi: 10.1136/bmjopen-2021-051045.
+
+Longitudinal humoral antibody response to SARS-CoV-2 infection among healthcare
+workers in a New York City hospital.
+
+Menon V(1), Shariff MA(2), Perez Gutierrez V(2), Carreño JM(3), Yu B(2), Jawed
+M(2), Gossai M(2), Valdez E(2), Pillai A(2), Venugopal U(2), Kasubhai M(2),
+Dimitrov V(2), Krammer F(3).
+
+Author information: 
+(1)Department of Medicine, New York City Health and Hospitals/ Lincoln, New York 
+City, New York, USA menonv@nychhc.org.
+(2)Department of Medicine, New York City Health and Hospitals/ Lincoln, New York 
+City, New York, USA.
+(3)Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York 
+City, New York, USA.
+
+OBJECTIVE: Dynamics of humoral immune responses to SARS-CoV-2 antigens following 
+infection suggest an initial decay of antibody followed by subsequent
+stabilisation. We aim to understand the longitudinal humoral responses to
+SARS-CoV-2 nucleocapsid (N) protein and spike (S) protein and to evaluate their
+correlation to clinical symptoms among healthcare workers (HCWs).
+DESIGN: A prospective longitudinal study.
+SETTING: This study was conducted in a New York City public hospital in the South
+Bronx, New York.
+PARTICIPANTS: HCWs participated in phase 1 (N=500) and were followed up 4 months 
+later in phase 2 (N=178) of the study. They underwent SARS-CoV-2 PCR and serology
+testing for N and S protein antibodies, in addition to completion of an online
+survey in both phases. Analysis was performed on the 178 participants who
+participated in both phases of the study.
+PRIMARY OUTCOME MEASURE: Evaluate longitudinal humoral responses to viral N
+(qualitative serology testing) and S protein (quantitative Mount Sinai Health
+System ELISA to detect receptor-binding domain and full-length S reactive
+antibodies) by measuring rate of decay.
+RESULTS: Anti-N antibody positivity was 27% and anti-S positivity was 28% in
+phase 1. In phase 1, anti-S titres were higher in symptomatic (6754 (5177-8812)) 
+than in asymptomatic positive subjects (5803 (2825-11 920)). Marginally higher
+titres (2382 (1494-3797)) were seen in asymptomatic compared with the symptomatic
+positive subgroup (2198 (1753-2755)) in phase 2. A positive correlation was noted
+between age (R=0.269, p<0.01), number (R=0.310, p<0.01) and duration of symptoms 
+(R=0.434, p<0.01), and phase 1 anti-S antibody titre. A strong correlation
+(R=0.898, p<0.001) was observed between phase 1 titres and decay of anti-S
+antibody titres between the two phases. Significant correlation with rate of
+decay was also noted with fever (R=0.428, p<0.001), gastrointestinal symptoms
+(R=0.340, p<0.05), and total number (R=0.357, p<0.01) and duration of COVID-19
+symptoms (R=0.469, p<0.001).
+CONCLUSIONS: Higher initial anti-S antibody titres were associated with larger
+number and longer duration of symptoms as well as a faster decay between the two 
+time points.
+
+© Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2021-051045 
+PMCID: PMC8550870
+PMID: 34702729  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: FK is listed as a
+co-inventor on a patent application filed by the Icahn School of Medicine at
+Mount Sinai relating to SARS-CoV-2 serological assays and NDV-based SARS-CoV-2
+vaccines. Mount Sinai has spun out a company, Kantaro, to market serological
+tests for SARS-CoV-2. FK has consulted for Merck and Pfizer (before 2020), and is
+currently consulting for Seqirus and Avimex. FK’s Krammer laboratory is also
+collaborating with Pfizer on animal models of SARS-CoV-2.
+

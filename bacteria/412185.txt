@@ -1,0 +1,40 @@
+
+1. Proc Natl Acad Sci U S A. 1977 Oct;74(10):4228-32.
+
+Nonspecific DNA binding of genome-regulating proteins as a biological control
+mechanism: measurement of DNA-bound Escherichia coli lac repressor in vivo.
+
+Kao-Huang Y, Revzin A, Butler AP, O'Conner P, Noble DW, von Hippel PH.
+
+Binding of genome regulatory proteins to nonspecific DNA sites may play an
+important role in controlling the thermodynamics and kinetics of the interactions
+of these proteins with their specific target DNA sequences. An estimate of the
+fraction of Escherichia coli lac repressor molecules bound in vivo to the
+operator region and to nonoperator sites on the E. coli chromosome is derived by 
+measurement of the distribution of repressor between a minicell-producing E. coli
+strain (P678-54) and the DNA-free minicells derived therefrom. Assuming the
+minicell cytoplasm to be representative of that of the parent E. coli cells, we
+find that less than 10% of the repressor tetramers of the average cell are free
+in solution; the remainder are presumed to be bound to the bacterial chromosome. 
+The minimum in vivo value of the association constant for repressor to bulk
+nonoperator DNA (K(RD)) calculated from these results is about 10(3) M(-1), and
+analysis of the sources of error in the minicell experiment suggests that the
+actual in vivo value of K(RD) could be substantially greater. The value of K(RD),
+coupled with in vitro data on the ionic strength dependence of this parameter,
+can be used to estimate that the effective intracellular cation activity of E.
+coli is no greater than about 0.24 M (and probably no less than 0.17 M) in terms 
+of sodium ion equivalents. The minicell distribution experiments also confirm
+that the association constant for the binding of inducer-repressor complex to
+bulk nonoperator DNA (K(RID)) is [unk] K(RD)in vivo. These results are used to
+calculate minimum in vivo values of K(RO) and K(RIO) (association constants for
+repressor and for inducer-repressor complex binding to operator) of about 10(12) 
+M(-1) and about 10(9) M(-1), respectively. The results fit a quantitative model
+for operon regulation in which nonspecific DNA-repressor complexes play a key
+role in determining basal and constitutive levels of gene expression [von Hippel,
+P. H., Revzin, A., Gross, C. A. & Wang, A. C. (1974) Proc. Natl. Acad. Sci. USA
+71, 4808-4812].
+
+DOI: 10.1073/pnas.74.10.4228 
+PMCID: PMC431912
+PMID: 412185  [Indexed for MEDLINE]
+

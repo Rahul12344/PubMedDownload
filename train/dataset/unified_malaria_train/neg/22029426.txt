@@ -1,0 +1,34 @@
+
+1. bmc bioinformatics. 2011 oct 26;12:415. doi: 10.1186/1471-2105-12-415.
+
+exploratory analysis genomic segmentations segtools.
+
+buske oj(1), hoffman mm, ponts n, le roch kg, noble ws.
+
+author information: 
+(1)department genome sciences, university washington, po box 355065,
+seattle, wa 98195-5065, usa.
+
+background: genome-wide experiments annotations become prevalent,
+researchers increasingly require tools help interpret data scale. many
+functional genomics experiments involve partitioning genome labeled
+segments, segments sharing label exhibit one more
+biochemical functional traits. example, collection chlp-seq
+experiments yields compendium peaks, labeled one more
+associated dna-binding proteins. similarly, manually automatically generated
+annotations functional genomic elements, including cis-regulatory modules 
+protein-coding rna genes, also summarized genomic segmentations.
+results: present software toolkit called segtools simplifies and
+automates exploration genomic segmentations. software operates a
+series interacting tools, provides one mode summarization.
+these various tools pipelined summarized single html page. we
+describe segtools toolkit demonstrate use interpreting a
+collection human histone modification data sets plasmodium falciparum
+local chromatin structure data sets.
+conclusions: segtools provides convenient, powerful means interpreting a
+genomic segmentation.
+
+doi: 10.1186/1471-2105-12-415 
+pmcid: pmc3224787
+pmid: 22029426  [indexed medline]
+

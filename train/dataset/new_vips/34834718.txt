@@ -1,0 +1,39 @@
+
+1. Plants (Basel). 2021 Oct 31;10(11). pii: 2355. doi: 10.3390/plants10112355.
+
+Grapevine Virology in the Third-Generation Sequencing Era: From Virus Detection
+to Viral Epitranscriptomics.
+
+Javaran VJ(1)(2), Moffett P(2), Lemoyne P(1), Xu D(1), Adkar-Purushothama CR(3), 
+Fall ML(1).
+
+Author information: 
+(1)Saint-Jean-sur-Richelieu Research and Development Centre, Agriculture and
+Agri-Food Canada, Saint-Jean-sur-Richelieu, QC J3B 3E6, Canada.
+(2)Département de Biologie, Centre SÈVE, Université de Sherbrooke, Sherbrooke, QC
+J1K 2R1, Canada.
+(3)Département de Biochimie, Faculté de Médecine des Sciences de la Santé, 3201
+rue Jean-Mignault, Sherbrooke, QC J1E 4K8, Canada.
+
+Among all economically important plant species in the world, grapevine (Vitis
+vinifera L.) is the most cultivated fruit plant. It has a significant impact on
+the economies of many countries through wine and fresh and dried fruit
+production. In recent years, the grape and wine industry has been facing
+outbreaks of known and emerging viral diseases across the world. Although
+high-throughput sequencing (HTS) has been used extensively in grapevine virology,
+the application and potential of third-generation sequencing have not been
+explored in understanding grapevine viruses and their impact on the grapevine.
+Nanopore sequencing, a third-generation technology, can be used for the direct
+sequencing of both RNA and DNA with minimal infrastructure. Compared to other HTS
+methods, the MinION nanopore platform is faster and more cost-effective and
+allows for long-read sequencing. Due to the size of the MinION device, it can be 
+easily carried for field viral disease surveillance. This review article
+discusses grapevine viruses, the principle of third-generation sequencing
+platforms, and the application of nanopore sequencing technology in grapevine
+virus detection, virus-plant interactions, as well as the characterization of
+viral RNA modifications.
+
+DOI: 10.3390/plants10112355 
+PMCID: PMC8623739
+PMID: 34834718 
+

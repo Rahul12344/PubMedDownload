@@ -1,0 +1,49 @@
+
+1. PLoS One. 2020 Jun 11;15(6):e0233962. doi: 10.1371/journal.pone.0233962.
+eCollection 2020.
+
+Notch3 signaling promotes tumor cell adhesion and progression in a murine
+epithelial ovarian cancer model.
+
+Price JC(1), Azizi E(2), Naiche LA(3), Parvani JG(3), Shukla P(3), Kim S(3),
+Slack-Davis JK(4), Pe'er D(2), Kitajewski JK(3).
+
+Author information: 
+(1)Integrated Program in Cellular Molecular and Biomedical Studies, Columbia
+University, New York, NY, United States of America.
+(2)Program for Computational and Systems Biology, Parker Institute for Cancer
+Immunotherapy, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center,
+New York, NY, United States of America.
+(3)Department of Physiology and Biophysics, University of Illinois Chicago,
+Chicago, IL, United States of America.
+(4)Department of Microbiology, Immunology, and Cancer Biology, University of
+Virginia, Charlottesville, VA, United States of America.
+
+High grade serous ovarian cancer (HGSC) is the most common and deadly type of
+ovarian cancer, largely due to difficulties in early diagnosis and rapid
+metastasis throughout the peritoneal cavity. Previous studies have shown that
+expression of Notch3 correlates with worse prognosis and increased tumorigenic
+cell behaviors in HGSC. We investigated the mechanistic role of Notch3 in a model
+of metastatic ovarian cancer using the murine ovarian surface epithelial cell
+line, ID8 IP2. Notch3 was activated in ID8 IP2 cells via expression of the Notch3
+intracellular domain (Notch3IC). Notch3IC ID8 IP2 cells injected
+intraperitoneally caused accelerated ascites and reduced survival compared to
+control ID8 IP2, particularly in early stages of disease. We interrogated
+downstream targets of Notch3IC in ID8 IP2 cells by RNA sequencing and found
+significant induction of genes that encode adhesion and extracellular matrix
+proteins. Notch3IC ID8 IP2 showed increased expression of ITGA1 mRNA and
+cell-surface protein. Notch3IC-mediated increase of ITGA1 was also seen in two
+human ovarian cancer cells. Notch3IC ID8 IP2 cells showed increased adhesion to
+collagens I and IV in vitro. We propose that Notch3 activation in ovarian cancer 
+cells causes increased adherence to collagen-rich peritoneal surfaces. Thus, the 
+correlation between increased Notch3 signaling and poor prognosis may be
+influenced by increased metastasis of HGSC via increased adherence of
+disseminating cells to new metastatic sites in the peritoneum.
+
+DOI: 10.1371/journal.pone.0233962 
+PMCID: PMC7289394
+PMID: 32525899  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

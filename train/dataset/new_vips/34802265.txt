@@ -1,0 +1,59 @@
+
+1. Philos Trans A Math Phys Eng Sci. 2022 Jan 10;380(2214):20210126. doi:
+10.1098/rsta.2021.0126. Epub 2021 Nov 22.
+
+Modelling the geographical spread of HIV among MSM in Guangdong, China: a
+metapopulation model considering the impact of pre-exposure prophylaxis.
+
+Jing F(1)(2)(3), Ye Y(3), Zhou Y(4)(5), Zhou H(3)(6), Xu Z(7), Lu Y(2), Tao X(4),
+Yang S(8), Cheng W(1)(3), Tian J(1), Tang W(1)(2), Wu D(2)(8)(9).
+
+Author information: 
+(1)Institute for Healthcare Artificial Intelligence, Guangdong Second Provincial 
+General Hospital, Guangzhou 510317, People's Republic of China.
+(2)University of North Carolina Project-China, Guangzhou 510085, People's
+Republic of China.
+(3)School of Data Science, City University of Hong Kong, Hong Kong SAR, People's 
+Republic of China.
+(4)Faculty of Medicine, Macau University of Science and Technology, Macau SAR,
+People's Republic of China.
+(5)Zhuhai Center for Diseases Control and Prevention, Zhuhai 519060, People's
+Republic of China.
+(6)School of Traffic and Transportation Engineering, Central South University,
+Changsha 410075, People's Republic of China.
+(7)The Hong Kong Jockey Club Centre for Suicide Research and Prevention, The
+University of Hong Kong, Hong Kong SAR, People's Republic of China.
+(8)West China School of Public Health, Sichuan University, Chengdu 610041,
+People's Republic of China.
+(9)Department of Clinical Research, London School of Hygiene and Tropical
+Medicine, London WC1E 7HT, UK.
+
+Men who have sex with men (MSM) make up the majority of new human
+immunodeficiency virus (HIV) diagnoses among young people in China. Understanding
+HIV transmission dynamics among the MSM population is, therefore, crucial for the
+control and prevention of HIV infections, especially for some newly reported
+genotypes of HIV. This study presents a metapopulation model considering the
+impact of pre-exposure prophylaxis (PrEP) to investigate the geographical spread 
+of a hypothetically new genotype of HIV among MSM in Guangdong, China. We use
+multiple data sources to construct this model to characterize the behavioural
+dynamics underlying the spread of HIV within and between 21 prefecture-level
+cities (i.e. Guangzhou, Shenzhen, Foshan, etc.) in Guangdong province: the online
+social network via a gay social networking app, the offline human mobility
+network via the Baidu mobility website, and self-reported sexual behaviours among
+MSM. Results show that PrEP initiation exponentially delays the occurrence of the
+virus for the rest of the cities transmitted from the initial outbreak city; hubs
+on the movement network, such as Guangzhou, Shenzhen, and Foshan are at a higher 
+risk of 'earliest' exposure to the new HIV genotype; most cities acquire the
+virus directly from the initial outbreak city while others acquire the virus from
+cities that are not initial outbreak locations and have relatively high
+betweenness centralities, such as Guangzhou, Shenzhen and Shantou. This study
+provides insights in predicting the geographical spread of a new genotype of HIV 
+among an MSM population from different regions and assessing the importance of
+prefecture-level cities in the control and prevention of HIV in Guangdong
+province. This article is part of the theme issue 'Data science approach to
+infectious disease surveillance'.
+
+DOI: 10.1098/rsta.2021.0126 
+PMCID: PMC8607146 [Available on 2023-01-10]
+PMID: 34802265  [Indexed for MEDLINE]
+

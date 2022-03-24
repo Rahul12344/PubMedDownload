@@ -1,0 +1,42 @@
+
+1. Eukaryot Cell. 2011 Dec;10(12):1714-23. doi: 10.1128/EC.05148-11. Epub 2011 Oct
+14.
+
+The C2 domain protein Cts1 functions in the calcineurin signaling circuit during 
+high-temperature stress responses in Cryptococcus neoformans.
+
+Aboobakar EF(1), Wang X, Heitman J, Kozubowski L.
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, Duke University Medical
+Center, Durham, NC 27710, USA.
+
+Calcineurin is a conserved calcium/calmodulin-dependent serine/threonine-specific
+protein phosphatase that acts in cell stress responses. Calcineurin is essential 
+for growth at 37°C and for virulence of the human fungal pathogen Cryptococcus
+neoformans, but its substrates remain unknown. The C2 domain-containing,
+phospholipid-binding protein Cts1 was previously identified as a multicopy
+suppressor of a calcineurin mutation in C. neoformans. Here we further
+characterize the function of Cts1 and the links between Cts1 and calcineurin.
+GFP-Cts1 localizes to cytoplasmic puncta and colocalizes with the endosomal
+marker FM4-64. The cts1Δ mutant shows a distinct FM4-64 staining pattern,
+suggesting involvement of Cts1 in endocytic trafficking. In large budded cells,
+GFP-Cts1 localizes transiently at the mother bud neck, as a single ring that
+undergoes contraction. mCherry-Cts1 colocalizes with the GFP-tagged calcineurin
+catalytic subunit Cna1 at sites of mRNA processing at 37°C, suggesting that Cts1 
+and calcineurin function coordinately during thermal stress. GFP-Cts1 exhibits
+slower electrophoretic mobility for cells grown at 37°C than for cells grown at
+24°C, and the shift to a higher molecular weight is more pronounced in the
+presence of the calcineurin inhibitor FK506. In vitro treatment with calf
+intestinal alkaline phosphatase (CIP) restores faster electrophoretic mobility to
+GFP-Cts1, suggesting that Cts1 is phosphorylated at 37°C and may be
+dephosphorylated in a calcineurin-dependent manner. mCherry-Cts1 also
+coimmunoprecipitates with GFP-Cna1, with greater complex formation at 37°C than
+at 24°C. Taken together, these findings support potential roles for Cts1 in
+endocytic trafficking, mRNA processing, and cytokinesis and suggest that Cts1 is 
+a substrate of calcineurin during high-temperature stress responses.
+
+DOI: 10.1128/EC.05148-11 
+PMCID: PMC3232716
+PMID: 22002655  [Indexed for MEDLINE]
+

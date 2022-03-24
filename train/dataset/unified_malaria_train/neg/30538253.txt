@@ -1,0 +1,34 @@
+
+1. nat commun. 2018 dec 11;9(1):5282. doi: 10.1038/s41467-018-07615-x.
+
+transcriptomic meta-signatures identified anopheles gambiae populations reveal
+previously undetected insecticide resistance mechanisms.
+
+ingham va(1), wagstaff s(2), ranson h(3).
+
+author information: 
+(1)vector biology, liverpool school tropical medicine, pembroke place,
+liverpool, l35qa, uk. victoria.ingham@lstmed.ac.uk.
+(2)bioinformatics unit, liverpool school tropical medicine, pembroke place,
+liverpool, l35qa, uk.
+(3)vector biology, liverpool school tropical medicine, pembroke place,
+liverpool, l35qa, uk.
+
+increasing insecticide resistance malaria-transmitting vectors represents a
+public health threat, underlying mechanisms poorly understood. here, a
+data integration approach used analyse transcriptomic data comparisons
+of insecticide resistant susceptible anopheles populations disparate
+geographical regions across african continent. unbiased, integrated
+analysis data confirms previously described resistance candidates but
+also identifies multiple novel genes involving alternative resistance mechanisms,
+including sequestration, transcription factors regulating multiple downstream
+effector genes, validated gene silencing. integrated datasets
+can interrogated bespoke shiny r script, deployed interactive
+web-based application, maps expression resistance candidates and
+identifies co-regulated transcripts may give clues function novel 
+resistance-associated genes.
+
+doi: 10.1038/s41467-018-07615-x 
+pmcid: pmc6290077
+pmid: 30538253  [indexed medline]
+

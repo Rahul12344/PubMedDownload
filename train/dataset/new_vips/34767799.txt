@@ -1,0 +1,54 @@
+
+1. J Biol Chem. 2021 Nov 9:101390. doi: 10.1016/j.jbc.2021.101390. [Epub ahead of
+print]
+
+Cyclic peptides with a distinct arginine-fork motif recognize the HIV
+trans-activation response RNA in vitro and in cells.
+
+Chavali SS(1), Mali SM(2), Bonn R(1), Saseendran A(2), Bennett RP(3), Smith
+HC(4), Fasan R(2), Wedekind JE(5).
+
+Author information: 
+(1)Department of Biochemistry & Biophysics and Center for RNA Biology, University
+of Rochester School of Medicine & Dentistry, Rochester NY 14642, USA.
+(2)Department of Chemistry, University of Rochester, Rochester NY 14627, USA.
+(3)OyaGen, Inc., Rochester NY 14623, USA.
+(4)Department of Biochemistry & Biophysics and Center for RNA Biology, University
+of Rochester School of Medicine & Dentistry, Rochester NY 14642, USA; OyaGen,
+Inc., Rochester NY 14623, USA.
+(5)Department of Biochemistry & Biophysics and Center for RNA Biology, University
+of Rochester School of Medicine & Dentistry, Rochester NY 14642, USA. Electronic 
+address: joseph.wedekind@rochester.edu.
+
+RNA represents a potential target for new antiviral therapies, which are urgently
+needed to address public health threats such as the human immunodeficiency virus 
+(HIV). We showed previously that the interaction between the viral Tat protein
+and the HIV-1 trans-activation response (TAR) RNA was blocked by the cyclic
+peptide TB-CP-6.9a. This peptide was derived from a TAR-binding loop that emerged
+during lab-evolution of a TAR-binding protein (TBP) family. Here we synthesized
+and characterized a next-generation, cyclic-peptide library based on the TBP
+scaffold. We sought to identify conserved RNA-binding interactions, and the
+influence of cyclization linkers on RNA binding and antiviral activity. A diverse
+group of cyclization linkers, encompassing disulfide bonds to bicyclic aromatic
+staples, was used to restrain the cyclic peptide geometry. Thermodynamic
+profiling revealed specific arginine-rich sequences with low to sub-micromolar
+affinity driven by enthalpic and entropic contributions. The best compounds
+exhibited no appreciable off-target binding to related molecules, such as BIV TAR
+and human 7SK RNAs. A specific arginine-to-lysine change in the highest affinity 
+cyclic peptide reduced TAR binding by 10-fold, suggesting that TBP-derived cyclic
+peptides use an arginine-fork motif to recognize the TAR major-groove while
+differentiating the mode of binding from other TAR-targeting molecules. Finally, 
+we showed that HIV infectivity in cell culture was reduced in the presence of
+cyclic peptides constrained by methylene or naphthalene-based linkers. Our
+findings provide insight into the molecular determinants required for HIV-1 TAR
+recognition and antiviral activity. These findings are broadly relevant to the
+development of antivirals that target RNA molecules.
+
+Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jbc.2021.101390 
+PMID: 34767799 
+
+Conflict of interest statement: Conflict of interest The corresponding author has
+a pending patent application for work disclosed in this article.
+

@@ -1,0 +1,35 @@
+
+1. SAR QSAR Environ Res. 2021 Nov;32(11):941-962. doi:
+10.1080/1062936X.2021.1999318.
+
+Investigating potency of TMC-126 against wild-type and mutant variants of HIV-1
+protease: a molecular dynamics and free energy study.
+
+Sk MF(1), Haridev S(2), Roy R(1), Kar P(1).
+
+Author information: 
+(1)Department of Biosciences and Biomedical Engineering, Indian Institute of
+Technology Indore, Indore, India.
+(2)Department of Physics, Indian Institute of Technology Indore, Indore, India.
+
+A detailed computational study was performed to investigate the conformational
+changes of flap region and the mechanism underlying the binding of the inhibitor 
+TMC-126 to HIV-1 protease (PR1) and its mutant variants through molecular
+dynamics simulations in conjunction with the molecular mechanics
+Poisson-Boltzmann (MM-PBSA) free energy calculation. Further, we have studied the
+effectiveness of the inhibitor against HIV-2 protease (PR2). The MM-PBSA
+calculation suggests that TMC-126 loses its potency against mutant variants and
+PR2 compared to wild-type PR1 mainly due to the loss in intermolecular
+electrostatic interactions. The potency of the inhibitor decreases in the order: 
+wild type PR1 > M46L > MDR20 > I50V > PR2 > V32I > A28S. Our study reveals that
+the flap of PR1 adopts a semi-open conformation due to the mutation I50V or
+MDR20. The dissimilar nature of the movement of the flap tip of both monomers is 
+evident from the dynamic cross-correlation map. The protein structural network
+analysis displays that mutation causes structural rearrangements and changes the 
+communication path between residues. Overall, we believe our study may help
+explore and accelerate the development of novel HIV-1/HIV-2 protease inhibitors
+with better potency.
+
+DOI: 10.1080/1062936X.2021.1999318 
+PMID: 34787532  [Indexed for MEDLINE]
+

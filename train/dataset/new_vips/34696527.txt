@@ -1,0 +1,40 @@
+
+1. Viruses. 2021 Oct 18;13(10). pii: 2097. doi: 10.3390/v13102097.
+
+Analysis of SARS-CoV-2 Genomes from West Java, Indonesia.
+
+Fibriani A(1), Stephanie R(1), Alfiantie AA(1), Siregar ALF(1), Pradani GAP(1),
+Yamahoki N(1), Purba WS(1), Alamanda CNC(2), Rahmawati E(2), Rachman RW(2),
+Robiani R(2), Ristandi RB(2).
+
+Author information: 
+(1)Bandung Institute of Technology, Bandung, West Java 40132, Indonesia.
+(2)West Java Health Laboratory, Bandung, West Java 40161, Indonesia.
+
+West Java Health Laboratory (WJHL) is one of the many institutions in Indonesia
+that have sequenced SARS-CoV-2 genome. Although having submitted a large number
+of sequences since September 2020, however, these submitted data lack advanced
+analyses. Therefore, in this study, we analyze the variant distribution, hotspot 
+mutation, and its impact on protein structure and function of SARS-CoV-2 from the
+collected samples from WJHL. As many as one hundred sixty-three SARS-CoV-2 genome
+sequences submitted by West Java Health Laboratory (WJHL), with collection dates 
+between September 2020 and June 2021, were retrieved from GISAID. Subsequently,
+the frequency and distribution of non-synonymous mutations across different
+cities and regencies from these samples were analyzed. The effect of the most
+prevalent mutations from dominant variants on the stability of their
+corresponding proteins was examined. The samples mostly consisted of people of
+working-age, and were distributed between female and male equally. All of the
+sample sequences showed varying levels of diversity, especially samples from West
+Bandung which carried the highest diversity. Dominant variants are the VOC
+B.1.617.2 (Delta) variant, B.1.466.2 variant, and B.1.470 variant. The genomic
+regions with the highest number of mutations are the spike, NSP3, nucleocapsid,
+NSP12, and ORF3a protein. Mutation analysis showed that mutations in structural
+protein might increase the stability of the protein. Oppositely, mutations in
+non-structural protein might lead to a decrease in protein stability. However,
+further research to study the impact of mutations on the function of SARS-CoV-2
+proteins are required.
+
+DOI: 10.3390/v13102097 
+PMCID: PMC8538575
+PMID: 34696527  [Indexed for MEDLINE]
+

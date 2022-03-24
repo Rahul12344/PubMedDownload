@@ -1,0 +1,40 @@
+
+1. Oncotarget. 2013 Apr;4(4):622-35.
+
+Combinatorial drug screening identifies compensatory pathway interactions and
+adaptive resistance mechanisms.
+
+Axelrod M(1), Gordon VL, Conaway M, Tarcsafalvi A, Neitzke DJ, Gioeli D, Weber
+MJ.
+
+Author information: 
+(1)Department of Microbiology, Immunology and Cancer Biology, University of
+Virginia, Charlottesville, USA.
+
+Constitutively activated signaling molecules are often the primary drivers of
+malignancy, and are favored targets for therapeutic intervention. However, the
+effectiveness of targeted inhibition of cell signaling can be blunted by
+compensatory signaling which generates adaptive resistance mechanisms and reduces
+therapeutic responses. Therefore, it is important to identify and target these
+compensatory pathways with combinations of targeted agents to achieve durable
+clinical benefit. In this report, we demonstrate the use of high-throughput
+combinatorial drug screening as a discovery tool to identify compensatory
+pathways that generate resistance to the cytotoxic effects of targeted therapy.
+We screened 420 drug combinations in 14 different cell lines representing three
+cancer lineages, and assessed the ability of each combination to cause
+synergistic cytotoxicity. Drug substitution studies were used to validate the
+functionally important drug targets. Of the 84 combinations that caused robust
+synergy in multiple cell lines, none were synergistic in more than half of the
+lines tested, and we observed no pattern of lineage specificity in the observed
+synergies. This reflects the plasticity of cell signaling networks, even among
+cell lines of the same tissue of origin. Mechanistic analysis of one novel
+synergistic combination identified in the screen, the multi-kinase inhibitor
+Ro31-8220 and lapatinib, demonstrated compensatory crosstalk between the p70S6
+kinase and EGF receptor pathways. In addition, we identified BAD as a node of
+convergence between these two pathways that may be playing a role in the enhanced
+apoptosis observed upon combination treatment.
+
+DOI: 10.18632/oncotarget.938 
+PMCID: PMC3720609
+PMID: 23599172  [Indexed for MEDLINE]
+

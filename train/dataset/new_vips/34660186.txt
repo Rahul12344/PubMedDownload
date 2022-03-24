@@ -1,0 +1,37 @@
+
+1. Spat Stat. 2021 Oct 12:100542. doi: 10.1016/j.spasta.2021.100542. [Epub ahead of 
+print]
+
+Estimation of COVID-19 mortality in the United States using Spatio-temporal
+Conway Maxwell Poisson model.
+
+Li X(1), Dey DK(1).
+
+Author information: 
+(1)Department of Statistics, University of Connecticut, 215 Glenbrook Road,
+Storrs, CT 06269-4120, United States of America.
+
+Spatio-temporal Poisson models are commonly used for disease mapping. However,
+after incorporating the spatial and temporal variation, the data do not
+necessarily have equal mean and variance, suggesting either over- or
+under-dispersion. In this paper, we propose the Spatio-temporal Conway Maxwell
+Poisson model. The advantage of Conway Maxwell Poisson distribution is its
+ability to handle both under- and over-dispersion through controlling one special
+parameter in the distribution, which makes it more flexible than Poisson
+distribution. We consider data from the pandemic caused by the SARS-CoV-2 virus
+in 2019 (COVID-19) that has threatened people all over the world. Understanding
+the spatio-temporal pattern of the disease is of great importance. We apply a
+spatio-temporal Conway Maxwell Poisson model to data on the COVID-19 deaths and
+find that this model achieves better performance than commonly used
+spatio-temporal Poisson model.
+
+© 2021 Published by Elsevier B.V.
+
+DOI: 10.1016/j.spasta.2021.100542 
+PMCID: PMC8505020
+PMID: 34660186 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

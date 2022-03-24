@@ -1,0 +1,45 @@
+
+1. j mol model. 2018 aug 14;24(9):232. doi: 10.1007/s00894-018-3761-1.
+
+in silico identification inhibitors plasmodium falciparum histone
+deacetylase 1 (pfhdac-1).
+
+kumar a(1), dhar sk(2), subbarao n(3).
+
+author information: 
+(1)school computational integrative sciences, jawaharlal nehru university,
+new delhi, 110067, india.
+(2)special centre molecular medicine, jawaharlal nehru university, new delhi,
+india.
+(3)school computational integrative sciences, jawaharlal nehru university,
+new delhi, 110067, india. nsrao@mail.jnu.ac.in.
+
+in erythrocytes, actively multiplying plasmodium falciparum parasites exhibit a
+unique signature virulence associated histone modifications, thereby
+epigenetically regulating expression majority genes. histone
+acetylation one modification, effectuated maintained dynamic
+interplay two functionally antagonist enzymes, histone acetyltransferases
+(hats) histone deacetylases (hdacs). inhibition leads to
+hypo/hyperacetylation known deleterious p. falciparum, hence
+they become attractive molecular targets design novel antimalarials. many
+compounds, including four food drug administration (fda) approved drugs, have
+been developed far inhibit hdac activity suitable treat
+malaria lack selectivity cause cytotoxicity mammalian cells. in
+this study, used comparative modeling molecular docking establish
+different binding modes nonselective selective compounds pfhdac-1
+(a class hdac protein p. falciparum) active site identified the
+involvement active site nonidentical residues binding selective
+compounds. further, applied virtual screening precise selection
+criteria molecular dynamics simulation identify novel potential inhibitors
+against pfhdac-1. report 20 compounds (10 chembl 10 analogues
+compound library) bearing seven scaffolds better affinity toward pfhdac-1.
+sixteen compounds known antimalarials 14 activity the
+nanomolar range various drug resistant sensitive strains p.
+falciparum. cytotoxicity compounds various human cell lines 
+are reported relatively higher concentration hence used as
+potential pfhdac-1 inhibitors p. falciparum. findings indeed show great 
+potential using molecules prospective antimalarials.
+
+doi: 10.1007/s00894-018-3761-1 
+pmid: 30109440  [indexed medline]
+

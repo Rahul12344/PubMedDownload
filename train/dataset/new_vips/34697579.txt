@@ -1,0 +1,51 @@
+
+1. Eur Phys J Plus. 2021;136(10):1058. doi: 10.1140/epjp/s13360-021-02046-y. Epub
+2021 Oct 21.
+
+Mathematical modeling of COVID-19 in India and Nepal with optimal control and
+sensitivity analysis.
+
+Bandekar SR(1), Ghosh M(1).
+
+Author information: 
+(1)Division of Mathematics, School of Advanced Sciences, Vellore Institute of
+Technology, Chennai, India.
+
+The pandemic started in the late 2019 and is still waving in claiming millions of
+lives with virus being mutated to deadlier form. This pandemic has caught
+attention toward interventions like improved detection of the infected, better
+quarantine facilities and adequate medical facilities in terms of hospital beds
+and other medical aid. In this study, we developed a 7-compartment
+epidemiological model, with inclusion of identified and unidentified infected
+population along with media factor associated with the aware identified infected 
+population. This is included by using Holling function in the nonlinear
+incidence, that is responsible for reduction in infection rate via identified
+infected. The model is fitted to the observed active COVID-19 cases data,
+collected for a period of 11 months between July 2020 to May 2021 of Nepal and
+India, and the infection rate as well as the basic reproduction number is
+obtained for the first wave and second wave of the pandemic in both countries. A 
+comparative analysis on the effect of different parameters on the disease
+prevalence for both the countries is presented in this work. Sensitivity
+analysis, time series behavior and optimal control analysis with control
+parameters equating with reduced infection rate, enhanced detection rate,
+improved quarantine and hospitalization rate are presented in detail. By means of
+PRCC, sensitivity analysis is performed and the key parameters influencing the
+disease prevalence are identified. A detailed study on impact of several
+parameters in the COVID-19 prevalence, thereby suggesting the interventions to be
+implemented is discussed in the work. Predictions till June 30, 2021, are
+obtained using the second wave data for both the countries, and a declining trend
+is observed for both the countries for the next 30 to 40 days. The estimated
+values of the infection rates and the hospitalization rates obtained are higher
+for India compared to Nepal. An optimal control analysis for both the countries
+is described in detail providing the difference in infectives and recoveries with
+and without any controls or interventions. The study suggests that improved
+treatment facilities, testing drives and other non-pharmaceutical interventions
+would bring down the infected cases to a major extent.
+
+© The Author(s), under exclusive licence to Società Italiana di Fisica and
+Springer-Verlag GmbH Germany, part of Springer Nature 2021.
+
+DOI: 10.1140/epjp/s13360-021-02046-y 
+PMCID: PMC8528663
+PMID: 34697579 
+

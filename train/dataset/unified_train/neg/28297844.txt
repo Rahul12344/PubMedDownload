@@ -1,0 +1,44 @@
+
+1. phys rev e. 2017 feb;95(2-1):022403. doi: 10.1103/physreve.95.022403. epub 2017
+feb 13.
+
+cable equation general geometry.
+
+lópez-sánchez ej(1), romero jm(2).
+
+author information: 
+(1)posgrado en ciencias naturales e ingeniería, universidad autónoma
+metropolitana, cuajimalpa vasco de quiroga 4871, santa fe cuajimalpa, ciudad 
+de méxico 05300, méxico.
+(2)departamento de matemáticas aplicadas sistemas, universidad autónoma
+metropolitana-cuajimalpa, vasco de quiroga 4871, santa fe cuajimalpa, ciudad de
+méxico 05300, méxico.
+
+the cable equation describes voltage straight cylindrical cable, and
+this model employed model electrical potential dendrites and
+axons. however, sometimes equation might give incorrect predictions some
+realistic geometries, particular radius cable changes
+significantly. cables nonconstant radius important phenomena,
+for example, discrete swellings along axons appear neurodegenerative
+diseases alzheimers, parkinsons, human immunodeficiency virus associated 
+dementia, multiple sclerosis. paper, using frenet-serret frame,
+we propose generalized cable equation general cable geometry. this
+generalized equation depends geometric quantities curvature and
+torsion cable. show cable constant circular cross
+section, first fundamental form cable simplified the
+generalized cable equation depends neither curvature torsion of
+the cable. additionally, find exact solution ideal cable a
+particular variable circular cross section zero curvature. case we
+show cross section cable increases voltage decreases.
+inspired ideal case, rewrite generalized cable equation a
+diffusion equation source term generated cable geometry. this
+source term depends cable cross-sectional area derivates. in
+addition, study different cables swelling provide numerical
+solutions. numerical solutions show cross section cable 
+has abrupt changes, voltage smaller voltage cylindrical
+cable. furthermore, numerical solutions show voltage be
+affected geometrical inhomogeneities cable.
+
+doi: 10.1103/physreve.95.022403 
+pmid: 28297844 
+

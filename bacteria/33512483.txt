@@ -1,0 +1,39 @@
+
+1. FEMS Microbiol Ecol. 2021 Mar 8;97(3). pii: fiab015. doi: 10.1093/femsec/fiab015.
+
+An arsRB resistance operon confers tolerance to arsenite in the environmental
+isolate Terribacillus sp. AE2B 122.
+
+Escobar-Niño A(1)(2), Sánchez-Barrionuevo L(1)(2), Torres-Torres JM(1), Clemente 
+R(3), Gutiérrez G(1), Mellado E(2), Cánovas D(1).
+
+Author information: 
+(1)Department of Genetics, Faculty of Biology, University of Seville, Seville,
+41012, Spain.
+(2)Department of Microbiology and Parasitology, Faculty of Pharmacy, University
+of Seville, Seville, 41012, Spain.
+(3)CEBAS-CSIC, Campus Universitario de Espinardo, Murcia, 30100, Spain.
+
+Terribacillus sp. AE2B 122 is an environmental strain isolated from olive-oil
+agroindustry wastes. This strain displays resistance to arsenic, one of the most 
+ubiquitous carcinogens found in nature. Terribacillus sp. AE2B 122 possesses an
+unusual ars operon, consisting of the transcriptional regulator (arsR) and
+arsenite efflux pump (arsB) but no adjacent arsenate reductase (arsC) locus.
+Expression of arsR and arsB was induced when Terribacillus was exposed to
+sub-lethal concentrations of arsenate. Heterologous expression of the arsB
+homologue in Escherichia coli∆arsRBC demonstrated that it conferred resistance to
+arsenite and reduced the accumulation of arsenic inside the cells. Two members of
+the arsC-like family (Te3384 and Te2854) found in the Terribacillus genome were
+not induced by arsenic, but their heterologous expression in E. coli ∆arsC and
+∆arsRBC increased the accumulation of arsenic in both strains. We found that both
+Te3384 and Te2854 slightly increased resistance to arsenate in E. coli ∆arsC and 
+∆arsRBC, possibly by chelation of arsenic or by increasing the resistance to
+oxidative stress. Finally, arsenic speciation assays suggest that Terribacillus
+is incapable of arsenate reduction, in agreement with the lack of an arsC
+homologue in the genome.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of FEMS.
+
+DOI: 10.1093/femsec/fiab015 
+PMID: 33512483 
+

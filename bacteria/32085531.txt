@@ -1,0 +1,43 @@
+
+1. Pathogens. 2020 Feb 18;9(2). pii: E132. doi: 10.3390/pathogens9020132.
+
+Identification of a Neisseria gonorrhoeae Histone Deacetylase: Epigenetic Impact 
+on Host Gene Expression.
+
+Zughaier SM(1), Rouquette-Loughlin CE(2)(3), Shafer WM(2)(3)(4).
+
+Author information: 
+(1)Department of Basic Medical Sciences, College of Medicine, QU Health, Qatar
+University, P.O. Box 2713, Doha, Qatar.
+(2)Laboratory of Bacterial Pathogenesis, Department of Veterans Affairs Medical
+Center, Decatur, GA 30033, USA.
+(3)Department of Microbiology and Immunology, Emory University School of
+Medicine, Atlanta, GA 30322, USA.
+(4)The Emory Antibiotic Research Center, Emory University School of Medicine,
+Atlanta, GA 30322, USA.
+
+Epigenetic reprogramming in macrophages is termed trained innate immunity, which 
+regulates immune tolerance and limits tissue damage during infection. Neisseria
+gonorrhoeae is a strict human pathogen that causes the sexually transmitted
+infection termed gonorrhea. Here, we report that this pathogen harbors a gene
+that encodes a histone deacetylase-like enzyme (Gc-HDAC) that shares high
+3D-homology to human HDAC1, HDAC2 and HDAC8. A Gc-HDAC null mutant was
+constructed to determine the biologic significance of this gene. The results
+showed that WT gonococci reduced the expression of host defense peptides LL-37,
+HBD-1 and SLPI in macrophages when compared to its Gc-HDAC-deficient isogenic
+strain. The enrichment of epigenetic marks in histone tails control gene
+expression and are known to change during bacterial infections. To investigate
+whether gonococci exert epigenetic modifications on host chromatin, the
+enrichment of acetylated lysine 9 in histone 3 (H3K9ac) was investigated using
+the TLR-focused ChIP array system. The data showed that infection with WT
+gonococci led to higher H3K9ac enrichment at the promoters of pro-inflammatory
+mediators' genes, many TLRs, adaptor proteins and transcription factors,
+suggesting gene activation when compared to infection with the Gc-HDAC-deficient 
+mutant. Taken together, the data suggest that gonococci can exert epigenetic
+modifications on host cells to modulate certain macrophage defense genes, leading
+to a maladaptive state of trained immunity.
+
+DOI: 10.3390/pathogens9020132 
+PMCID: PMC7168274
+PMID: 32085531 
+

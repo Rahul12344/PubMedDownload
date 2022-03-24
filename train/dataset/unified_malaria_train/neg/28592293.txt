@@ -1,0 +1,56 @@
+
+1. malar j. 2017 jun 7;16(1):241. doi: 10.1186/s12936-017-1887-8.
+
+plasmobase: comparative database predicted domain architectures for
+plasmodium genomes.
+
+bernardes j(1), vaquero c(2), carbone a(3)(4).
+
+author information: 
+(1)laboratoire de biologie computationnelle et quantitative, umr 7238, ibps,
+cnrs, upmc univ-paris 6, sorbonne universités, 4 place jussieu, 75005, paris,
+france.
+(2)centre d' immunologie et des maladies infectieuses (cimi-paris), cnrs erl
+8255, inserm u1135, upmc univ-paris 6, sorbonne universités, paris, france.
+(3)laboratoire de biologie computationnelle et quantitative, umr 7238, ibps,
+cnrs, upmc univ-paris 6, sorbonne universités, 4 place jussieu, 75005, paris,
+france. alessandra.carbone@lip6.fr.
+(4)institut universitaire de france, 75005, paris, france.
+alessandra.carbone@lip6.fr.
+
+background: availability complete genome sequences human 
+non-human plasmodium parasites, possible use comparative genomics to
+look orthology across plasmodium species species specific genes. this
+comparative analyses could provide important clues development new
+strategies prevent treat malaria humans, however, number of
+functionally annotated proteins still low plasmodium species. the
+context genomes hard annotate sequence divergence, such
+as plasmodium, domain co-occurrence becomes particularly important trust
+predictions. particular, domain architecture prediction used improve
+the performance existing annotation methods since homologous proteins might
+share architectural context.
+results: plasmobase unique database designed comparative study of
+plasmodium genomes. domain architecture reconstruction plasmobase relies on
+dama, state-of-the-art method architecture prediction, domain
+annotation realised clade, novel annotation tool based a
+multi-source strategy. plasmobase significantly increases pfam domain
+coverage plasmodium genomes, proposes new domain architectures well 
+as new domain families never reported genomes. it
+proposes visualization domain architectures allows easy
+comparison among architectures within plasmodium species species, 
+described uniprot.
+conclusions: plasmobase valuable new resource domain annotation in
+plasmodium genomes. graphical presentation protein sequences, based on
+domain architectures, hopefully interest comparative genomic
+studies. help discover species-specific genes, possibly underlying
+important phenotypic differences parasites, orthologous gene families
+for deciphering biology complex important apicomplexan
+organisms. conclusion, plasmobase flexible rich site any
+biologist find something his/her interest.
+availability: plasmobase accessible http://genome.lcqb.upmc.fr/plasmobase/ 
+.
+
+doi: 10.1186/s12936-017-1887-8 
+pmcid: pmc5463329
+pmid: 28592293  [indexed medline]
+

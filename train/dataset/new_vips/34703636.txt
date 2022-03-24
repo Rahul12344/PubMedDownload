@@ -1,0 +1,41 @@
+
+1. Western Pac Surveill Response J. 2021 Sep 14;12(3):56-64. doi:
+10.5365/wpsar.2021.12.3.831. eCollection 2021 Jul-Sep.
+
+Using machine learning to create a decision tree model to predict outcomes of
+COVID-19 cases in the Philippines.
+
+Migriño JR Jr(1)(2), Batangan ARU(1).
+
+Author information: 
+(1)San Beda University College of Medicine, Manila, Philippines.
+(2)School of Medicine and Public Health, Ateneo de Manila University, Pasig City,
+Philippines.
+
+Objective: The aim of this study was to create a decision tree model with machine
+learning to predict the outcomes of COVID-19 cases from data publicly available
+in the Philippine Department of Health (DOH) COVID Data Drop.
+Methods: The study design was a cross-sectional records review of the DOH COVID
+Data Drop for 25 August 2020. Resolved cases that had either recovered or died
+were used as the final data set. Machine learning processes were used to
+generate, train and validate a decision tree model.
+Results: A list of 132 939 resolved COVID-19 cases was used. The notification
+rates and case fatality rates were higher among males (145.67 per 100 000 and
+2.46%, respectively). Most COVID-19 cases were clustered among people of working 
+age, and older cases had higher case fatality rates. The majority of cases were
+from the National Capital Region (590.20 per 100 000), and the highest case
+fatality rate (5.83%) was observed in Region VII. The decision tree model
+prioritized age and history of hospital admission as predictors of mortality. The
+model had high accuracy (81.42%), sensitivity (81.65%), specificity (81.41%) and 
+area under the curve (0.876) but a poor F-score (16.74%).
+Discussion: The model predicted higher case fatality rates among older people.
+For cases aged > 51 years, a history of hospital admission increased the
+probability of COVID-19-related death. We recommend that more comprehensive
+primary COVID-19 data sets be used to create more robust prognostic models.
+
+(c) 2021 The authors; licensee World Health Organization.
+
+DOI: 10.5365/wpsar.2021.12.3.831 
+PMCID: PMC8521127
+PMID: 34703636  [Indexed for MEDLINE]
+

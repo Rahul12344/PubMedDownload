@@ -1,0 +1,49 @@
+
+1. Nat Commun. 2019 Nov 15;10(1):5198. doi: 10.1038/s41467-019-13070-z.
+
+Multiple conformations facilitate PilT function in the type IV pilus.
+
+McCallum M(1)(2), Benlekbir S(2), Nguyen S(2), Tammam S(2), Rubinstein
+JL(3)(4)(5), Burrows LL(6), Howell PL(7)(8).
+
+Author information: 
+(1)Department of Biochemistry, University of Toronto, Toronto, ON, M5S 1A8,
+Canada.
+(2)Program in Molecular Structure & Function, Peter Gilgan Centre for Research
+and Learning, The Hospital for Sick Children, Toronto, ON, M5G 0A4, Canada.
+(3)Department of Biochemistry, University of Toronto, Toronto, ON, M5S 1A8,
+Canada. john.rubinstein@utoronto.ca.
+(4)Program in Molecular Structure & Function, Peter Gilgan Centre for Research
+and Learning, The Hospital for Sick Children, Toronto, ON, M5G 0A4, Canada.
+john.rubinstein@utoronto.ca.
+(5)Department of Medical Biophysics, University of Toronto, Toronto, ON, M5G 1l7,
+Canada. john.rubinstein@utoronto.ca.
+(6)Department of Biochemistry and Biomedical Sciences and the Michael G. DeGroote
+Institute for Infectious Disease Research, McMaster University, Hamilton, ON, L8S
+4K1, Canada. burrowl@mcmaster.ca.
+(7)Department of Biochemistry, University of Toronto, Toronto, ON, M5S 1A8,
+Canada. howell@sickkids.ca.
+(8)Program in Molecular Structure & Function, Peter Gilgan Centre for Research
+and Learning, The Hospital for Sick Children, Toronto, ON, M5G 0A4, Canada.
+howell@sickkids.ca.
+
+Type IV pilus-like systems are protein complexes that polymerize pilin fibres.
+They are critical for virulence in many bacterial pathogens. Pilin polymerization
+and depolymerization are powered by motor ATPases of the PilT/VirB11-like family.
+This family is thought to operate with C2 symmetry; however, most of these
+ATPases crystallize with either C3 or C6 symmetric conformations. The relevance
+of these conformations is unclear. Here, we determine the X-ray structures of
+PilT in four unique conformations and use these structures to classify the
+conformation of available PilT/VirB11-like family member structures. Single
+particle electron cryomicroscopy (cryoEM) structures of PilT reveal
+condition-dependent preferences for C2, C3, and C6 conformations. The physiologic
+importance of these conformations is validated by coevolution analysis and
+functional studies of point mutants, identifying a rare gain-of-function mutation
+that favours the C2 conformation. With these data, we propose a comprehensive
+model of PilT function with broad implications for PilT/VirB11-like family
+members.
+
+DOI: 10.1038/s41467-019-13070-z 
+PMCID: PMC6858323
+PMID: 31729381  [Indexed for MEDLINE]
+

@@ -1,0 +1,43 @@
+
+1. J Bacteriol. 2003 Nov;185(22):6548-55.
+
+Identification and characterization of a unique adenosine kinase from
+Mycobacterium tuberculosis.
+
+Long MC(1), Escuyer V, Parker WB.
+
+Author information: 
+(1)Southern Research Institute, Birmingham, Alabama 35205, USA.
+
+Adenosine kinase (AK) is a purine salvage enzyme that catalyzes the
+phosphorylation of adenosine to AMP. In Mycobacterium tuberculosis, AK can also
+catalyze the phosphorylation of the adenosine analog 2-methyladenosine
+(methyl-Ado), the first step in the metabolism of this compound to an active
+form. Purification of AK from M. tuberculosis yielded a 35-kDa protein that
+existed as a dimer in its native form. Adenosine (Ado) was preferred as a
+substrate at least 30-fold (Km = 0.8 +/- 0.08 microM) over other natural
+nucleosides, and substrate inhibition was observed when Ado concentrations
+exceeded 5 micro M. M. tuberculosis and human AKs exhibited different affinities 
+for methyl-Ado, with Km values of 79 and 960 microM, respectively, indicating
+that differences exist between the substrate binding sites of these enzymes. ATP 
+was a good phosphate donor (Km = 1100 +/- 140 microM); however, the activity
+levels observed with dGTP and GTP were 4.7 and 2.5 times the levels observed with
+ATP, respectively. M. tuberculosis AK activity was dependent on Mg2+, and
+activity was stimulated by potassium, as reflected by a decrease in the Km and an
+increase in Vmax for both Ado and methyl-Ado. The N-terminal amino acid sequence 
+of the purified enzyme revealed complete identity with Rv2202c, a protein
+currently classified as a hypothetical sugar kinase. When an AK-deficient strain 
+of M. tuberculosis (SRICK1) was transformed with this gene, it exhibited a
+5,000-fold increase in AK activity compared to extracts from the original
+mutants. These results verified that the protein that we identified as AK was
+coded for by Rv2202c. AK is not commonly found in bacteria, and to the best of
+our knowledge, M. tuberculosis AK is the first bacterial AK to be characterized. 
+The enzyme shows greater sequence homology with ribokinase and fructokinase than 
+it does with other AKs. The multiple differences that exist between M.
+tuberculosis and human AKs may provide the molecular basis for the development of
+nucleoside analog compounds with selective activity against M. tuberculosis.
+
+DOI: 10.1128/jb.185.22.6548-6555.2003 
+PMCID: PMC262096
+PMID: 14594827  [Indexed for MEDLINE]
+

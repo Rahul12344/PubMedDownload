@@ -1,0 +1,31 @@
+
+1. bioinformatics. 2012 nov 15;28(22):2983-5. doi: 10.1093/bioinformatics/bts557.
+epub 2012 sep 13.
+
+varb: variation browsing analysis tool variants derived from
+next-generation sequencing data.
+
+preston md(1), manske m, horner n, assefa s, campino s, auburn s, zongo i,
+ouedraogo jb, nosten f, anderson t, clark tg.
+
+author information: 
+(1)faculties epidemiology & population health infectious & tropical
+diseases, london school hygiene tropical medicine, london wc1e 7ht, uk.
+
+summary: immediate need tools analyse visualize in
+real-time single-nucleotide polymorphisms, insertions deletions, other
+structural variants new sequence file formats. developed varb
+software used visualize variant call format files real time, as
+well identify regions balancing selection informative markers to
+differentiate user-defined groups (e.g. populations). demonstrate utility 
+using sequence data 50 plasmodium falciparum isolates comprising two
+different continents confirm known signals genomic regions contain 
+important antigenic anti-malarial drug-resistance genes.
+availability implementation: c++-based software varb user manual 
+available www.pathogenseq.org/varb.
+contact: taane.clark@lshtm.ac.uk
+
+doi: 10.1093/bioinformatics/bts557 
+pmcid: pmc3496337
+pmid: 22976080  [indexed medline]
+

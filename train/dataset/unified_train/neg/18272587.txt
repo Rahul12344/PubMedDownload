@@ -1,0 +1,38 @@
+
+1. j virol. 2008 apr;82(8):4091-101. doi: 10.1128/jvi.02552-07. epub 2008 feb 13.
+
+cd4+ target cell availability determines dynamics immune escape and
+reversion vivo.
+
+petravic j(1), loh l, kent sj, davenport mp.
+
+author information: 
+(1)complex systems biology group, centre vascular research, university 
+new south wales, kensington, nsw 2052, australia.
+
+infections human immunodeficiency virus (hiv) closely related monkey
+viruses simian-human immunodeficiency virus (shiv) simian immunodeficiency
+virus (siv) characterized progressive waves immune responses, followed 
+by viral mutation "immune escape." however, escape mutation usually leads 
+lower replicative fitness, absence immune pressure, escape
+mutant (em) virus "reverts" wild-type phenotype. analysis dynamics 
+of immune escape reversion suggested mechanism identifying
+the immunogens best capable controlling viremia. analyzed modeled 
+data dynamics wild-type (wt) em viruses shiv infection of
+macaques. modeling suggests dynamics reversion immune escape
+should determined availability target cells infection.
+consistent suggestion, find rate reversion cytotoxic 
+t-lymphocyte (ctl) em virus strongly correlates number cd4(+) cells
+available infection. phenomenon also affects rate immune escape, 
+since rate determined balance ctl killing wt fitness
+advantage. analysis predicts optimal timing selection of
+immune escape variants immediately peak viremia the
+development escape variants later times lead slower selection. this
+has important implications comparative studies immune escape reversion
+in different infections identifying epitopes high fitness cost for
+use vaccine targets.
+
+doi: 10.1128/jvi.02552-07 
+pmcid: pmc2293002
+pmid: 18272587  [indexed medline]
+

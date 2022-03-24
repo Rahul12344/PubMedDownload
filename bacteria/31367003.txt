@@ -1,0 +1,49 @@
+
+1. Sci Rep. 2019 Jul 31;9(1):11100. doi: 10.1038/s41598-019-47608-4.
+
+Differential homotypic and heterotypic interactions of antigen 43 (Ag43) variants
+in autotransporter-mediated bacterial autoaggregation.
+
+Ageorges V(1), Schiavone M(2)(3), Jubelin G(1), Caccia N(1), Ruiz P(1), Chafsey
+I(1), Bailly X(4), Dague E(5), Leroy S(1), Paxman J(6), Heras B(6),
+Chaucheyras-Durand F(1)(2), Rossiter AE(7), Henderson IR(7)(8), Desvaux M(9).
+
+Author information: 
+(1)Université Clermont Auvergne, INRA, UMR454 MEDiS, 63000, Clermont-Ferrand,
+France.
+(2)Lallemand Animal Nutrition, 31702, Blagnac, Cedex, France.
+(3)LISBP, Université de Toulouse, CNRS UMR5504, INRA UMR792, INSA, 31077,
+Toulouse, Cedex, France.
+(4)INRA UR346 Epidémiologie Animale, 63122, Saint Genès Champanelle, France.
+(5)LAAS-CNRS, Université de Toulouse, 31077, Toulouse, Cedex, France.
+(6)Department of Biochemistry and Genetics, La Trobe Institute for Molecular
+Science, La Trobe University, Bundoora, Victoria, 3086, Australia.
+(7)Institute of Microbiology and Infection, University of Birmingham, B152TT,
+Birmingham, United Kingdom.
+(8)Institute for Molecular Biosciences, University of Queensland, St. Lucia,
+Queensland, 4067, Australia.
+(9)Université Clermont Auvergne, INRA, UMR454 MEDiS, 63000, Clermont-Ferrand,
+France. mickael.desvaux@inra.fr.
+
+Antigen 43 (Ag43) is a cell-surface exposed protein of Escherichia coli secreted 
+by the Type V, subtype a, secretion system (T5aSS) and belonging to the family of
+self-associating autotransporters (SAATs). These modular proteins, comprising a
+cleavable N-terminal signal peptide, a surface-exposed central passenger and an
+outer membrane C-terminal translocator, self-recognise in a Velcro-like handshake
+mechanism. A phylogenetic network analysis focusing on the passenger revealed for
+the first time that they actually distribute into four distinct classes, namely
+C1, C2, C3 and C4. Structural alignment and modelling analyses demonstrated these
+classes arose from shuffling of two different subdomains within the Ag43
+passengers. Functional analyses revealed that homotypic interactions occur for
+all Ag43 classes but significant differences in the sedimentation kinetics and
+aggregation state were present when Ag43C3 was expressed. In contrast,
+heterotypic interaction occurred in a very limited number of cases. Single
+cell-force spectroscopy demonstrated the importance of specific as well as
+nonspecific interactions in mediating Ag43-Ag43 recognition. We propose that
+structural differences in the subdomains of the Ag43 classes account for
+different autoaggregation dynamics and propensities to co-interact.
+
+DOI: 10.1038/s41598-019-47608-4 
+PMCID: PMC6668479
+PMID: 31367003  [Indexed for MEDLINE]
+

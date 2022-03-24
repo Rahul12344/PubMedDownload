@@ -1,0 +1,45 @@
+
+1. plos comput biol. 2017 mar 23;13(3):e1005397. doi: 10.1371/journal.pcbi.1005397. 
+ecollection 2017 mar.
+
+bioenergetics-based modeling plasmodium falciparum metabolism reveals its
+essential genes, nutritional requirements, thermodynamic bottlenecks.
+
+chiappino-pepe a(1), tymoshenko s(1)(2), ataman m(1), soldati-favre d(2),
+hatzimanikatis v(1).
+
+author information: 
+(1)laboratory computational systems biotechnology, école polytechnique
+fédérale de lausanne, epfl, lausanne, switzerland.
+(2)department microbiology molecular medicine, faculty medicine,
+university geneva, cmu, geneva, switzerland.
+
+novel antimalarial therapies urgently needed fight against
+drug-resistant parasites. metabolism malaria parasites infected cells
+is attractive source drug targets rather complex. computational
+methods handle complexity allow integrative analyses cell
+metabolism. study, present genome-scale metabolic model (ipfa) of
+the deadliest malaria parasite, plasmodium falciparum, its
+thermodynamics-based flux analysis (tfa). using previous absolute concentration
+data intraerythrocytic parasite, applied tfa ipfa predicted up
+to 63 essential genes 26 essential pairs genes. 63 genes, 35 have
+been experimentally validated reported literature, 28 not
+been experimentally tested include previously hypothesized novel
+predictions essential metabolic capabilities. without metabolomics data, four 
+of genes would incorrectly predicted non-essential. tfa also 
+indicated substrate channeling exist two metabolic pathways to
+ensure thermodynamic feasibility flux. finally, analysis the
+metabolic capabilities p. falciparum led identification the
+minimal nutritional requirements genes become indispensable upon
+substrate inaccessibility. model provides novel insight metabolic
+needs capabilities malaria parasite highlights metabolites and
+pathways measured characterized identify potential
+thermodynamic bottlenecks substrate channeling. hypotheses presented seek
+to guide experimental studies facilitate better understanding the
+parasite metabolism identification targets efficient
+intervention.
+
+doi: 10.1371/journal.pcbi.1005397 
+pmcid: pmc5363809
+pmid: 28333921  [indexed medline]
+

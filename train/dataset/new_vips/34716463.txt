@@ -1,0 +1,47 @@
+
+1. Cancer Immunol Immunother. 2021 Oct 30. doi: 10.1007/s00262-021-03084-2. [Epub
+ahead of print]
+
+Comprehensive characterization of tumor immune landscape following oncolytic
+virotherapy by single-cell RNA sequencing.
+
+Ravirala D(1), Pei G(2), Zhao Z(2)(3), Zhang X(4)(5).
+
+Author information: 
+(1)Center for Nuclear Receptors and Cell Signaling, Department of Biology and
+Biochemistry, University of Houston, Houston, TX, 77204, USA.
+(2)Center for Precision Health, School of Biomedical Informatics, The University 
+of Texas Health Science Center at Houston, Houston, TX, 77030, USA.
+(3)Human Genetics Center, School of Public Health, The University of Texas Health
+Science Center at Houston, Houston, TX, 77030, USA.
+(4)Center for Nuclear Receptors and Cell Signaling, Department of Biology and
+Biochemistry, University of Houston, Houston, TX, 77204, USA. shaunzhang@uh.edu.
+(5)University of Houston, SERC 3004, 3517 Cullen Blvd, Houston, TX, 77204, USA.
+shaunzhang@uh.edu.
+
+An important mechanism of oncolytic virotherapy in ameliorating cancer
+immunotherapy is by inducing significant changes in the immune landscape in the
+tumor microenvironment (TME). Despite this notion and the potential therapeutic
+implications, a comprehensive analysis of the immune changes in carcinomas
+induced by virotherapy has not yet been elucidated. We conducted single-cell RNA 
+sequencing analysis on carcinomas treated with an HSV-2-based oncolytic virus to 
+characterize the immunogenic changes in the TME. We specifically analyzed and
+compared the immune cell composition between viral treated and untreated tumors. 
+We also applied CellChat to analyze the complex interactions among the
+infiltrated immune cells. Our data revealed significant infiltration of B cells
+in addition to other important immune cells, including CD4+, CD8+, and NK cells
+following virotherapy. Further analysis identified distinct subset compositions
+of the infiltrated immune cells and their activation status upon virotherapy. The
+intensive interactions among the infiltrated immune cells as revealed by CellChat
+analysis may further shape the immune landscape in favor of generating antitumor 
+immunity. Our findings will facilitate the design of new strategies in
+incorporating immunotherapy into virotherapy for clinical translation. Moreover, 
+the significant infiltration of B cells makes it suitable for combining
+virotherapy with immune checkpoint inhibitors.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany,
+part of Springer Nature.
+
+DOI: 10.1007/s00262-021-03084-2 
+PMID: 34716463 
+

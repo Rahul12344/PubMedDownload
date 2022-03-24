@@ -1,0 +1,55 @@
+
+1. J Exp Clin Cancer Res. 2019 May 16;38(1):200. doi: 10.1186/s13046-019-1179-y.
+
+MiR-29b/Sp1/FUT4 axis modulates the malignancy of leukemia stem cells by
+regulating fucosylation via Wnt/β-catenin pathway in acute myeloid leukemia.
+
+Liu B(1), Ma H(2), Liu Q(1), Xiao Y(1), Pan S(1), Zhou H(3), Jia L(4).
+
+Author information: 
+(1)College of Laboratory Medicine, Dalian Medical University, 9 Lushunnan Road
+Xiduan, Dalian, 116044, Liaoning Province, China.
+(2)Department of Clinical Laboratory, Beijing Hospital of Traditional Chinese
+Medicine Affiliated to Capital University of Medicine Sciences, Beijing, 100010, 
+China.
+(3)Department of Microbiology, Dalian Medical University, Dalian, 116044,
+Liaoning Province, China.
+(4)College of Laboratory Medicine, Dalian Medical University, 9 Lushunnan Road
+Xiduan, Dalian, 116044, Liaoning Province, China. jiali0386@sina.com.
+
+BACKGROUND: Acute myeloid leukemia (AML) is initiated and maintained by a unique,
+small subset of leukemia stem cells (LSCs). LSCs are characterized by
+unrestricted self-renewal and contribute to the malignancy of leukemia. Aberrant 
+protein fucosylation is associated with AML progression. However, it is still
+less understood that the miR-29b/Sp1/FUT4 crosstalk involved in the
+fucosylation-mediated LSCs malignancy in AML.
+METHODS: AML cell lines were sorted by magnetic microbeads to obtain the
+CD34 + CD38- sub-population. The key biomarkers for LSCs were identified by flow 
+cytometry. Fucosyltransferase genes were screened by qRT-PCR, and FUT4 was
+focused. Effect of FUT4 on LSCs malignancy was determined by CCK8 assay, sphere
+formation assay, immunofluorescence staining, apoptosis and in vivo xenografts
+experiments. The linkage of FUT4 promoter and Sp1 was confirmed by
+dual-luciferase reporter gene assay. ChIP-PCR assay was used to show the directly
+binding of Sp1 and FUT4 promoter. Activity of Wnt//β-catenin pathway was
+determined by western blot. Overall survival curves were diagrammed by
+Kaplan-Meier analysis.
+RESULTS: Here, the expressional profiles of 11 fucosyltransferase genes were
+different comparing LSCs and non-LSCs of KG-1a and MOLM13 cells, whereas
+CD34 + CD38- cells exhibited higher expression of FUT4. Functionally, alteration 
+of FUT4 in CD34 + CD38- cells modulated LSCs malignant behaviors both in vitro
+and in vivo. Transcriptional inhibitor actinomycin D (Act D) or translational
+inhibitor cycloheximide (CHX) prevented LSCs progression, and Sp1 was identified 
+as the efficient regulator of FUT4 transcription. Moreover, miR-29b directly
+affected the binding of Sp1 and FUT4 promoter region, which further mediated LSCs
+proliferation, apoptosis and drug-resistance through fucosylated-CD44 via
+activation of Wnt/β-catenin pathway. Clinically, Sp1 and FUT4 were up-regulated
+and positively correlated with poor overall survival of AML patients.
+CONCLUSION: These data indicated that miR-29b/Sp1/FUT4 axis promoted the
+malignant behaviors of LSCs by regulating fucosylated CD44 via Wnt/β-catenin
+pathway. Identifying LSCs surface markers and targeting LSCs were important for
+the development of potential therapies in AML.
+
+DOI: 10.1186/s13046-019-1179-y 
+PMCID: PMC6524323
+PMID: 31097000  [Indexed for MEDLINE]
+

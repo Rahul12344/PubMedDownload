@@ -1,0 +1,41 @@
+
+1. Healthcare (Basel). 2021 Nov 8;9(11). pii: 1519. doi: 10.3390/healthcare9111519.
+
+Agent-Based Simulation of Virus Testing in Certain-Exposure Time through
+Community Health Service Centers' Evaluation-A Case Study of Wuhan.
+
+Zhou X(1), Zhao J(2), Zheng D(3), Yu Y(2), Liu L(2).
+
+Author information: 
+(1)Department of Urban Planning, Wuhan Planning & Design Institute, Wuhan 430014,
+China.
+(2)Department of Urban Planning, School of Urban Design, Wuhan University, Wuhan 
+430072, China.
+(3)Wuhan Institute of Landscape Architectural Design Co., LTD, Wuhan 430025,
+China.
+
+Short-term and large-scale full-population virus testing is crucial in containing
+the spread of the COVID-19 pandemic in China. However, the uneven distribution of
+health service facilities in terms of space and size may lead to prolonged
+crowding during testing, thus increasing the chance of virus cross-infection.
+Therefore, appropriate control of crowd exposure time in large-scale virus
+testing should be an important goal in the layout of urban community health
+facilities. This paper uses the Quanta concept and Wells-Riley model to define
+the "certain-exposure time" under low cross-infection rate. Then, an agent-based 
+simulation model was used to simulate the reasonable screening efficiency of
+community health service facilities during certain-exposure time at different
+stages of the COVID-19 pandemic and under different screening processes.
+Eventually, the screening efficiency was evaluated for all community health
+service centers in Wuhan. During the early period of the pandemic, 23.13% of
+communities failed to complete virus testing of community residents within 2 h of
+certain-exposure time, leaving approximately 56.07% of the population unscreened;
+during the later period of the COVID-19 pandemic, approximately 53% of
+communities and 75% of residents could not be screened. The results can pinpoint 
+the distribution of community health service centers with inadequate screening
+capacity, facilitate targeted policymaking and planning, and effectively curb
+COVID-19 cross-infection during screening.
+
+DOI: 10.3390/healthcare9111519 
+PMCID: PMC8617634
+PMID: 34828565 
+

@@ -1,0 +1,48 @@
+
+1. Rapid Commun Mass Spectrom. 2009 Nov;23(21):3465-77. doi: 10.1002/rcm.4274.
+
+Analysis of S-adenosylmethionine and related sulfur metabolites in bacterial
+isolates of Pseudomonas aeruginosa (BAA-47) by liquid chromatography/electrospray
+ionization coupled to a hybrid linear quadrupole ion trap and Fourier transform
+ion cyclotron resonance mass spectrometry.
+
+Cataldi TR(1), Bianco G, Abate S, Mattia D.
+
+Author information: 
+(1)Dipartimento di Chimica, Università degli Studi di Bari, Campus Universitario,
+Via E. Orabona 4, 70126 Bari, Italy. tommaso.cataldi@chimica.uniba.it
+
+A comprehensive and highly selective method for detecting in bacterial
+supernatants a modified sulfur nucleoside, S-adenosyl-L-methionine (SAM), and its
+metabolites, i.e., S-adenosylhomocysteine (SAH), adenosine (Ado),
+5'-deoxy-5'-methylthioadenosine (MTA), adenine (Ade), S-adenosyl-methioninamine
+(dcSAM), homocysteine (Hcy) and methionine (Met), was developed. The method is
+based on reversed-phase liquid chromatography with positive electrospray
+ionization (ESI+) coupled to a hybrid linear quadrupole ion trap (LTQ) and 7-T
+Fourier transform ion cyclotron resonance mass spectrometry (FTICRMS). A gradient
+elution was employed with a binary solvent of 0.05 M ammonium formate at pH 4 and
+acetonitrile. The assay involves a simultaneous cleanup of cell-free bacterial
+broths by solid-phase extraction and trace enrichment of metabolites with a
+50-fold concentration factor by using immobilized phenylboronic and
+anion-exchange cartridges. While the quantitative determination of SAM was
+performed using stable-isotope-labeled SAM-d3 as an internal standard, in the
+case of Met and Ade, Met-13C and Ade-15N2 were employed as isotope-labeled
+internal standards, respectively. This method enabled the identification of SAM
+and its metabolites in cell-free culture of Pseudomonas aeruginosa grown in Davis
+minimal broth (formulation without sulphur organic compounds), with routine
+sub-ppm mass accuracies (-0.27 +/- 0.68 ppm). The resulting contents of
+S(C)S(S)-SAM, S(S)-dcSAM, MTA, Ado and Met in the free-cell supernatant of P.
+aeruginosa was 56.4 +/- 2.1 nM, 32.2 +/- 2.2 nM, 0.91 +/- 0.10 nM, 19.6 +/- 1.2
+nM and 1.93 +/- 0.02 microM (mean +/- SD, n = 4 extractions), respectively. We
+report also the baseline separation (Rs > or = 1.5) of both diastereoisomeric
+forms of SAM (S(C)S(S) and S(C)R(S)) and dcSAM (S(S) and R(S)), which can be very
+useful to establish the relationship between the biologically active versus the
+inactive species, S(C)S(S)/S(C)R(S) and S(S)/R(S) of SAM and dcSAM, respectively.
+An additional confirmation of SAM-related metabolites was accomplished by a
+systematic study of their MS/MS spectra.
+
+Copyright 2009 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/rcm.4274 
+PMID: 19813285  [Indexed for MEDLINE]
+

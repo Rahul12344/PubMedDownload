@@ -1,0 +1,55 @@
+
+1. mbio. 2020 feb 4;11(1). pii: e03234-19. doi: 10.1128/mbio.03234-19.
+
+rna-seq analysis illuminates early stages plasmodium liver infection.
+
+toro-moreno m(#)(1), sylvester k(#)(2), srivastava t(1), posfai d(2), derbyshire 
+er(3)(2).
+
+author information: 
+(1)department chemistry, duke university, durham, north carolina, usa.
+(2)department molecular genetics microbiology, duke university, durham,
+north carolina, usa.
+(3)department chemistry, duke university, durham, north carolina, usa
+emily.derbyshire@duke.edu.
+(#)contributed equally
+
+the apicomplexan parasites plasmodium spp. causative agents malaria, a
+disease poses significant global health burden. plasmodium spp. initiate
+infection human host transforming replicating within hepatocytes.
+this liver stage (ls) poorly understood compared plasmodium life
+stages, hindered ability target parasites disease
+prevention. conducted extensive transcriptome sequencing (rna-seq) analysis
+throughout plasmodium berghei ls, covering early 2 h postinfection
+(hpi) extending 48 hpi. data revealed hundreds genes are
+differentially expressed 2 hpi multiple genes shown important
+for later infection upregulated early 12 hpi. using hierarchical
+clustering along coexpression analysis, identified clusters functionally 
+enriched important liver-stage processes interactions host
+cell redox homeostasis. furthermore, clusters highly
+correlated expression apiap2 transcription factors, showing
+enrichment mostly uncharacterized dna binding motifs. finding indicates
+potential ls targets transcription factors, also hinting at
+alternative uncharacterized dna binding motifs transcription factors during
+this stage. work presents window previously undescribed
+transcriptome plasmodium upon host hepatocyte infection enable a
+comprehensive view parasite's ls. findings also provide blueprint 
+for future studies extend hypotheses concerning ls gene function p.
+berghei human-infective plasmodium parasites.importance ls plasmodium
+infection asymptomatic yet necessary stage producing blood-infective
+parasites, causative agents malaria. blocking liver stage life 
+cycle prevent clinical malaria, relatively less known the
+parasite's biology stage. using rodent model p. berghei, we
+investigated whole-transcriptome changes occurring early 2 hpi of
+hepatocytes. transcriptional profiles early time points (2, 4, 12, 18 
+hpi) accessible due technical challenges associated
+with liver-stage infections. data provide insights early
+parasite fluxes may facilitate establishment infection, transformation,
+and replication liver.
+
+copyright © 2020 toro-moreno et al.
+
+doi: 10.1128/mbio.03234-19 
+pmcid: pmc7002348
+pmid: 32019802  [indexed medline]
+

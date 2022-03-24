@@ -1,0 +1,39 @@
+
+1. j biomol struct dyn. 2020 jan 21:1-12. doi: 10.1080/07391102.2020.1711807. [epub 
+ahead print]
+
+in-silico profiling structural insights impact nsnps p.
+falciparum acetyl-coa transporter gene understand mechanism drug
+resistance malaria.
+
+sardar r(1)(2), katyal n(1), ahamad s(1), jade dd(1), ali s(2), gupta d(1).
+
+author information: 
+(1)translational bioinformatics group, international centre genetic
+engineering biotechnology, new delhi, india.
+(2)department biochemistry, jamia hamdard, new delhi, india.
+
+the continuous emergence resistance available drugs poses major
+constraints development effective therapeutics malaria. malaria
+drug resistance attributed manifestation numerous factors. 
+for example, mutations parasite transporter protein acetyl-coa transporter
+(pfact) remarkably affect uptake affinity drug molecule against
+malaria, hence enhance susceptibility resistance. identify major
+contributors loss functionality, thoroughly scrutinized eight
+such recently reported resistant mutants, via in-silico tools terms of
+alterations different properties. performed molecular dynamics simulations 
+of selected pfact mutants gain deeper insights structural
+perturbation dynamicity. comparison residue interaction network map of
+mutants wild type (wt) protein suggests structural changes a
+result mutation(s) translate weakening intra-protein
+interactions, especially around drug binding pocket. this, turn,
+diminishes affinity drug molecules towards binding site, was
+validated docking analysis. finally, collating observations, have
+delineated r108k mutant deviate wt protein, which, intriguingly 
+suggests replacing amino acid another similar nature even
+translate greater functional effects dissimilar
+substitutions.communicated ramaswamy h. sarma.
+
+doi: 10.1080/07391102.2020.1711807 
+pmid: 31903842 
+

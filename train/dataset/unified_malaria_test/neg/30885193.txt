@@ -1,0 +1,63 @@
+
+1. malar j. 2019 mar 18;18(1):84. doi: 10.1186/s12936-019-2695-0.
+
+comparison msp genotyping 24 snp molecular assay differentiating
+plasmodium falciparum recrudescence reinfection.
+
+fulakeza j(1), mcnitt s(2), vareta j(3), saidi a(3), mvula g(3), taylor t(3)(4), 
+mathanga dp(1), small ds(5), skarbinski j(6), gutman jr(7), seydel k(8)(9).
+
+author information: 
+(1)department biomedical sciences, university malawi, college medicine, 
+p/bag 360, chichiri, blantyre 3, malawi.
+(2)department cell molecular biology, michigan state university, east
+lansing, mi, usa.
+(3)blantyre malaria project, university malawi college medicine, blantyre, 
+malawi.
+(4)department osteopathic medical specialties, college osteopathic
+medicine, michigan state university, east lansing, mi, usa.
+(5)department statistics, wharton school, university pennsylvania,
+philadelphia, usa.
+(6)the permanente medical group, oakland, ca, usa.
+(7)malaria branch, division parasitic diseases malaria, center global 
+health, us center disease control prevention, atlanta, usa.
+(8)blantyre malaria project, university malawi college medicine, blantyre, 
+malawi. seydel@msu.edu.
+(9)department osteopathic medical specialties, college osteopathic
+medicine, michigan state university, east lansing, mi, usa. seydel@msu.edu.
+
+background: current world health organization guidelines conducting
+anti-malarial drug efficacy clinical trials recommend genotyping plasmodium
+falciparum genes msp1 msp2 distinguish recrudescence reinfection. a
+more recently developed potential alternative method molecular
+genotyping assay based panel 24 single nucleotide polymorphism (snp)
+markers.
+methods: performance parameters two genotyping methods compared
+using data two recently completed drug efficacy trials. blood samples from
+two anti-malarial therapeutic trials analysed msp genotyping the
+24 snp assay. additionally, conserve time resources, statistical
+program r used select informative snps set unrelated
+malawian samples develop truncated snp-based assay region
+surrounding blantyre, malawi. ability truncated assay distinguish 
+reinfection recrudescence compared full 24 snp assay then
+analysed using data therapeutic trials.
+results: total 360 samples analysed; 66 concordance msp snp 
+barcoding methodologies, 294 assessing informative 24 snp
+markers. snp genotyping performed comparably msp genotyping, one
+case disagreement among 50 interpretable results, snp assay
+identified sample reinfection msp typing recrudescence.
+furthermore, snp typing robust; 6% samples uninterpretable 
+by snp typing, compared 19.7% msp genotyping used. discriminating
+reinfection recrudescence, truncated 6 snp assay found perform at
+95.1% accuracy full 24 snp bar code.
+conclusions: use snp analysis similar sensitivity standard msp 
+genotyping determining recrudescence reinfection. although more
+expensive, snp typing faster less work intensive. limiting assay to
+those snps informative geographical region interest may further
+decrease workload cost, making technique feasible and
+affordable alternative drug efficacy trials.
+
+doi: 10.1186/s12936-019-2695-0 
+pmcid: pmc6423793
+pmid: 30885193  [indexed medline]
+

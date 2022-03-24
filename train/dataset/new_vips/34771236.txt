@@ -1,0 +1,30 @@
+
+1. Polymers (Basel). 2021 Oct 25;13(21). pii: 3679. doi: 10.3390/polym13213679.
+
+Flows of Linear Polymer Solutions and Other Suspensions of Rod-like Particles:
+Anisotropic Micropolar-Fluid Theory Approach.
+
+Shelukhin V(1)(2).
+
+Author information: 
+(1)Lavrentyev Institute of Hydrodynamics, 630090 Novosibirsk, Russia.
+(2)Mathematical Department, Novosibirsk State University, 630090 Novosibirsk,
+Russia.
+
+We formulate equations governing flows of suspensions of rod-like particles. Such
+suspensions include linear polymer solutions, FD-virus, and worm-like micelles.
+To take into account the particles that form and their rotation, we treat the
+suspension as a Cosserat continuum and apply the theory of micropolar fluids.
+Anisotropy of suspensions is determined through the inclusion of the microinertia
+tensor in the rheological constitutive equations. We check that the model is
+consistent with the basic principles of thermodynamics. In addition to
+anisotropy, the theory also captures gradient banding instability, coexistence of
+isotropic and nematic phases, sustained temporal oscillations of macroscopic
+viscosity, shear thinning and hysteresis. For the flow between two planes, we
+also establish that the total flow rate depends not only on the pressure
+gradient, but on the history of its variation as well.
+
+DOI: 10.3390/polym13213679 
+PMCID: PMC8588494
+PMID: 34771236 
+

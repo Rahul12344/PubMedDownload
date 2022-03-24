@@ -1,0 +1,33 @@
+
+1. Microbiology (Reading). 2004 Feb;150(Pt 2):437-446. doi: 10.1099/mic.0.26446-0.
+
+Regulation of RcsA by the ClpYQ (HslUV) protease in Escherichia coli.
+
+Kuo MS(1), Chen KP(1), Wu WF(1).
+
+Author information: 
+(1)Department of Agricultural Chemistry, Bldg 2, R311, National Taiwan
+University, Taipei (106), Taiwan, ROC.
+
+Escherichia coli ClpYQ protease and Lon protease possess a redundant function for
+degradation of SulA, a cell division inhibitor. An experimental cue implied that 
+the capsule synthesis activator RcsA, a known substrate of Lon, is probably a
+specific substrate for the ClpYQ protease. This paper shows that overexpression
+of ClpQ and ClpY suppresses the mucoid phenotype of a lon mutant. Since the cpsB 
+(wcaB) gene, involved in capsule synthesis, is activated by RcsA, the reporter
+construct cpsB-lacZ was used to assay for beta-galactosidase activity and thus
+follow RcsA stability. The expression of cpsB-lacZ was increased in double
+mutants of lon in combination with clpQ or/and clpY mutation(s) compared with the
+wild-type or lon single mutants. Overproduction of ClpYQ or ClpQ decreased
+cpsB-lacZ expression. Additionally, a P(BAD)-rcsA fusion construct showed
+quantitatively that an inducible RcsA activates cpsB-lacZ expression. The effect 
+of RcsA on cpsB-lacZ expression was shown to be influenced by the ClpYQ
+activities. Moreover, a rcsA(Red)-lacZ translational fusion construct showed
+higher activity of RcsA(Red)-LacZ in a clpQ clpY strain than in the wild-type. By
+contrast, overproduction of cellular ClpYQ resulted in decreased
+beta-galactosidase levels of RcsA(Red)-LacZ. Taken together, the data indicate
+that ClpYQ acts as a secondary protease in degrading the Lon substrate RcsA.
+
+DOI: 10.1099/mic.0.26446-0 
+PMID: 14766922  [Indexed for MEDLINE]
+

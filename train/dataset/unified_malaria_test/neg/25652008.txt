@@ -1,0 +1,43 @@
+
+1. parasit vectors. 2015 feb 5;8:81. doi: 10.1186/s13071-015-0701-0.
+
+triaging informative cis-regulatory elements combinatorial control of
+temporal gene expression plasmodium falciparum intraerythrocytic
+development.
+
+russell k(1), emes r(2)(3), horrocks p(4).
+
+author information: 
+(1)institute science technology medicine, keele university,
+staffordshire, st5 5bg, uk. k.t.russell@keele.ac.uk.
+(2)school veterinary medicine science, university nottingham,
+leicestershire, le12 5rd, uk. richard.emes@nottingham.ac.uk.
+(3)advanced data analysis centre, university nottingham, leicestershire, le12 
+5rd, uk. richard.emes@nottingham.ac.uk.
+(4)institute science technology medicine, keele university,
+staffordshire, st5 5bg, uk. p.d.horrocks@keele.ac.uk.
+
+background: 2700 genes subject stage-specific regulation the
+intraerythrocytic development human malaria parasite plasmodium
+falciparum. bioinformatic analyses identified large number of
+over-represented motifs 5' flanking regions genes may act as
+cis-acting factors promoter-based control temporal expression. triaging
+these lists provide candidates likely play role regulating
+temporal expression challenging, important effectively design
+in vitro studies validate role.
+methods: report application repeated search variations 5' 
+flanking sequences p. falciparum using finding informative regulatory
+elements (fire) algorithm.
+results: approach repeatedly found short-list high scoring dna motifs,
+for cognate specific transcription factors available, appear to
+be typically associated upregulation mrna accumulation first
+half intraerythrocytic development.
+conclusions: propose cis-trans interactions may provide combinatorial 
+promoter-based control gene expression complement global mechanisms of
+gene regulation account temporal control second half of
+intraerythrocytic development.
+
+doi: 10.1186/s13071-015-0701-0 
+pmcid: pmc4322800
+pmid: 25652008  [indexed medline]
+

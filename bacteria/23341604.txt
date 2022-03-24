@@ -1,0 +1,35 @@
+
+1. Proc Natl Acad Sci U S A. 2013 Feb 5;110(6):2140-5. doi: 10.1073/pnas.1215455110.
+Epub 2013 Jan 22.
+
+Inward-facing conformation of the zinc transporter YiiP revealed by cryoelectron 
+microscopy.
+
+Coudray N(1), Valvo S, Hu M, Lasala R, Kim C, Vink M, Zhou M, Provasi D, Filizola
+M, Tao J, Fang J, Penczek PA, Ubarretxena-Belandia I, Stokes DL.
+
+Author information: 
+(1)Laboratory of Cryo-Electron Microscopy, New York Structural Biology Center,
+New York, NY 10027, USA.
+
+YiiP is a dimeric Zn(2+)/H(+) antiporter from Escherichia coli belonging to the
+cation diffusion facilitator family. We used cryoelectron microscopy to determine
+a 13-Å resolution structure of a YiiP homolog from Shewanella oneidensis within a
+lipid bilayer in the absence of Zn(2+). Starting from the X-ray structure in the 
+presence of Zn(2+), we used molecular dynamics flexible fitting to build a model 
+consistent with our map. Comparison of the structures suggests a conformational
+change that involves pivoting of a transmembrane, four-helix bundle (M1, M2, M4, 
+and M5) relative to the M3-M6 helix pair. Although accessibility of transport
+sites in the X-ray model indicates that it represents an outward-facing state,
+our model is consistent with an inward-facing state, suggesting that the
+conformational change is relevant to the alternating access mechanism for
+transport. Molecular dynamics simulation of YiiP in a lipid environment was used 
+to address the feasibility of this conformational change. Association of the
+C-terminal domains is the same in both states, and we speculate that this
+association is responsible for stabilizing the dimer that, in turn, may
+coordinate the rearrangement of the transmembrane helices.
+
+DOI: 10.1073/pnas.1215455110 
+PMCID: PMC3568326
+PMID: 23341604  [Indexed for MEDLINE]
+

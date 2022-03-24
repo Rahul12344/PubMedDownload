@@ -1,0 +1,47 @@
+
+1. Transbound Emerg Dis. 2021 Oct 31. doi: 10.1111/tbed.14369. [Epub ahead of print]
+
+Interpretable machine learning applied to on-farm biosecurity and porcine
+reproductive and respiratory syndrome virus.
+
+Sykes AL(1), Silva GS(2), Holtkamp DJ(2), Mauch BW(2), Osemeke O(2), Linhares
+DCL(2), Machado G(1).
+
+Author information: 
+(1)Department of Population Health and Pathobiology, College of Veterinary
+Medicine, North Carolina State University, Raleigh, North Carolina, USA.
+(2)Veterinary Diagnostic and Production Animal Medicine Department, College of
+Veterinary Medicine, Iowa State University, Ames, Iowa, USA.
+
+Effective biosecurity practices in swine production are key in preventing the
+introduction and dissemination of infectious pathogens. Ideally, on-farm
+biosecurity practices should be chosen by their impact on bio-containment and
+bio-exclusion; however, quantitative supporting evidence is often unavailable.
+Therefore, the development of methodologies capable of quantifying and ranking
+biosecurity practices according to their efficacy in reducing disease risk has
+the potential to facilitate better-informed choices of biosecurity practices.
+Using survey data on biosecurity practices, farm demographics, and previous
+outbreaks from 139 herds, a set of machine learning algorithms were trained to
+classify farms by porcine reproductive and respiratory syndrome virus status,
+depending on their biosecurity practices and farm demographics, to produce a
+predicted outbreak risk. A novel interpretable machine learning toolkit,
+MrIML-biosecurity, was developed to benchmark farms and production systems by
+predicted risk and quantify the impact of biosecurity practices on disease risk
+at individual farms. By quantifying the variable impact on predicted risk, 50% of
+42 variables were associated with fomite spread while 31% were associated with
+local transmission. Results from machine learning interpretations identified
+similar results, finding substantial contribution to predicted outbreak risk from
+biosecurity practices relating to the turnover and number of employees, the
+surrounding density of swine premises and pigs, the sharing of haul trailers,
+distance from the public road and farm production type. In addition, the
+development of individualized biosecurity assessments provides the opportunity to
+better guide biosecurity implementation on a case-by-case basis. Finally, the
+flexibility of the MrIML-biosecurity toolkit gives it the potential to be applied
+to wider areas of biosecurity benchmarking, to address biosecurity weaknesses in 
+other livestock systems and industry-relevant diseases.
+
+© 2021 Wiley-VCH GmbH.
+
+DOI: 10.1111/tbed.14369 
+PMID: 34719136 
+

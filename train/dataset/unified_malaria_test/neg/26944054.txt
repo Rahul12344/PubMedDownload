@@ -1,0 +1,47 @@
+
+1. bmc genomics. 2016 mar 5;17:187. doi: 10.1186/s12864-016-2531-7.
+
+evaluation discovar de novo using mosquito sample cost-effective
+short-read genome assembly.
+
+love rr(1)(2), weisenfeld ni(3), jaffe db(4), besansky nj(5)(6), neafsey de(7).
+
+author information: 
+(1)eck institute global health, university notre dame, south bend, in,
+46556, usa. rlove1@nd.edu.
+(2)department biological sciences, university notre dame, south bend, in,
+46556, usa. rlove1@nd.edu.
+(3)genome sequencing analysis program, broad institute mit harvard,
+415 main st, cambridge, ma, 02142, usa. neilw@broadinstitute.org.
+(4)genome sequencing analysis program, broad institute mit harvard,
+415 main st, cambridge, ma, 02142, usa. jaffe@broadinstitute.org.
+(5)eck institute global health, university notre dame, south bend, in,
+46556, usa. nbesansk@nd.edu.
+(6)department biological sciences, university notre dame, south bend, in,
+46556, usa. nbesansk@nd.edu.
+(7)genome sequencing analysis program, broad institute mit harvard,
+415 main st, cambridge, ma, 02142, usa. neafsey@broadinstitute.org.
+
+background: de novo reference assemblies affordable, practical to
+produce, sufficient quality downstream applications, remain an
+unattained goal many taxa. insects, may yield little dna from
+individual specimens long-read sequencing library construction often have
+highly heterozygous genomes, particularly hard assemble using
+inexpensive short-read sequencing data. large number insect species with
+medical economic importance makes critical problem address.
+results: using assembler discovar de novo, assembled genome the
+african malaria mosquito anopheles arabiensis using 250 bp reads single
+library. resulting assembly contig n50 22,433 bp, recovered 
+gene set nearly well allpaths-lg aarad1 an. arabiensis assembly
+produced reads three sequencing libraries much greater resources.
+discovar de novo appeared perform better allpaths-lg regions low
+complexity.
+conclusions: discovar de novo performed well assembling genome insect
+of medical importance, using simpler sequencing input previous anopheline
+assemblies. shown program viable tool cost-effective
+assembly modestly-sized insect genome.
+
+doi: 10.1186/s12864-016-2531-7 
+pmcid: pmc4779211
+pmid: 26944054  [indexed medline]
+

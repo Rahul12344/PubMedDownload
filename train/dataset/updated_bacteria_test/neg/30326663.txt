@@ -1,0 +1,51 @@
+
+1. Int J Mol Sci. 2018 Oct 15;19(10). pii: E3178. doi: 10.3390/ijms19103178.
+
+HSCVFNT: Inference of Time-Delayed Gene Regulatory Network Based on
+Complex-Valued Flexible Neural Tree Model.
+
+Yang B(1), Chen Y(2), Zhang W(3), Lv J(4), Bao W(5), Huang DS(6).
+
+Author information: 
+(1)School of Information Science and Engineering, Zaozhuang University, Zaozhuang
+277100, China. batsi@126.com.
+(2)School of Information Science and Engineering, University of Jinan, Jinan
+250002, China. yhchen@ujn.edu.cn.
+(3)School of Information Science and Engineering, Zaozhuang University, Zaozhuang
+277100, China. batsi_china@hotmail.com.
+(4)School of Information Science and Engineering, Zaozhuang University, Zaozhuang
+277100, China. 1531680@tongji.edu.cn.
+(5)School of Computer Science, China University of Mining and Technology, Xuzhou 
+221000, China. baowz55555@126.com.
+(6)Institute of Machine Learning and Systems Biology, Tongji University, Shanghai
+200092, China. 1510479@tongji.edu.cn.
+
+Gene regulatory network (GRN) inference can understand the growth and development
+of animals and plants, and reveal the mystery of biology. Many computational
+approaches have been proposed to infer GRN. However, these inference approaches
+have hardly met the need of modeling, and the reducing redundancy methods based
+on individual information theory method have bad universality and stability. To
+overcome the limitations and shortcomings, this thesis proposes a novel
+algorithm, named HSCVFNT, to infer gene regulatory network with time-delayed
+regulations by utilizing a hybrid scoring method and complex-valued flexible
+neural network (CVFNT). The regulations of each target gene can be obtained by
+iteratively performing HSCVFNT. For each target gene, the HSCVFNT algorithm
+utilizes a novel scoring method based on time-delayed mutual information (TDMI), 
+time-delayed maximum information coefficient (TDMIC) and time-delayed correlation
+coefficient (TDCC), to reduce the redundancy of regulatory relationships and
+obtain the candidate regulatory factor set. Then, the TDCC method is utilized to 
+create time-delayed gene expression time-series matrix. Finally, a complex-valued
+flexible neural tree model is proposed to infer the time-delayed regulations of
+each target gene with the time-delayed time-series matrix. Three real time-series
+expression datasets from (Save Our Soul) SOS DNA repair system in E. coli and
+Saccharomyces cerevisiae are utilized to evaluate the performance of the HSCVFNT 
+algorithm. As a result, HSCVFNT obtains outstanding F-scores of 0.923, 0.8 and
+0.625 for SOS network and (In vivo Reverse-Engineering and Modeling Assessment)
+IRMA network inference, respectively, which are 5.5%, 14.3% and 72.2% higher than
+the best performance of other state-of-the-art GRN inference methods and
+time-delayed methods.
+
+DOI: 10.3390/ijms19103178 
+PMCID: PMC6214043
+PMID: 30326663  [Indexed for MEDLINE]
+

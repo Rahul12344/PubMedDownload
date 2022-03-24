@@ -1,0 +1,45 @@
+
+1. Nat Med. 2015 Jun;21(6):581-90. doi: 10.1038/nm.3838. Epub 2015 May 4.
+
+4-1BB costimulation ameliorates T cell exhaustion induced by tonic signaling of
+chimeric antigen receptors.
+
+Long AH(1), Haso WM(2), Shern JF(2), Wanhainen KM(3), Murgai M(2), Ingaramo M(4),
+Smith JP(2), Walker AJ(2), Kohler ME(5), Venkateshwara VR(2), Kaplan RN(2),
+Patterson GH(4), Fry TJ(2), Orentas RJ(2), Mackall CL(2).
+
+Author information: 
+(1)1] Pediatric Oncology Branch, Center for Cancer Research, National Cancer
+Institute, National Institutes of Health, Bethesda, Maryland, USA. [2] Department
+of Microbiology and Immunology, Feinberg School of Medicine, Northwestern
+University, Chicago, Illinois, USA.
+(2)Pediatric Oncology Branch, Center for Cancer Research, National Cancer
+Institute, National Institutes of Health, Bethesda, Maryland, USA.
+(3)1] Pediatric Oncology Branch, Center for Cancer Research, National Cancer
+Institute, National Institutes of Health, Bethesda, Maryland, USA. [2] Department
+of Biology, Colgate University, Hamilton, New York, USA.
+(4)Section on Biophotonics, National Institute of Biomedical Imaging and
+Bioengineering, National Institutes of Health, Bethesda, Maryland, USA.
+(5)1] Pediatric Oncology Branch, Center for Cancer Research, National Cancer
+Institute, National Institutes of Health, Bethesda, Maryland, USA. [2] Department
+of Pediatrics, Johns Hopkins Hospital, Baltimore, Maryland, USA.
+
+Chimeric antigen receptors (CARs) targeting CD19 have mediated dramatic antitumor
+responses in hematologic malignancies, but tumor regression has rarely occurred
+using CARs targeting other antigens. It remains unknown whether the impressive
+effects of CD19 CARs relate to greater susceptibility of hematologic malignancies
+to CAR therapies, or superior functionality of the CD19 CAR itself. We show that 
+tonic CAR CD3-ζ phosphorylation, triggered by antigen-independent clustering of
+CAR single-chain variable fragments, can induce early exhaustion of CAR T cells
+that limits antitumor efficacy. Such activation is present to varying degrees in 
+all CARs studied, except the highly effective CD19 CAR. We further determine that
+CD28 costimulation augments, whereas 4-1BB costimulation reduces, exhaustion
+induced by persistent CAR signaling. Our results provide biological explanations 
+for the antitumor effects of CD19 CARs and for the observations that CD19 CAR T
+cells incorporating the 4-1BB costimulatory domain are more persistent than those
+incorporating CD28 in clinical trials.
+
+DOI: 10.1038/nm.3838 
+PMCID: PMC4458184
+PMID: 25939063  [Indexed for MEDLINE]
+

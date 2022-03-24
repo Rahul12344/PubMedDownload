@@ -1,0 +1,46 @@
+
+1. Heliyon. 2021 Nov 12;7(11):e08384. doi: 10.1016/j.heliyon.2021.e08384.
+eCollection 2021 Nov.
+
+A statistical analysis of antigenic similarity among influenza A (H3N2) viruses.
+
+Adabor ES(1).
+
+Author information: 
+(1)School of Technology, Ghana Institute of Management and Public Administration,
+Accra, Ghana.
+
+An accurate assessment of antigenic similarity between influenza viruses is
+important for vaccine strain recommendations and influenza surveillance. Due to
+the mechanisms that result in frequent changes in the antigenicities of strains, 
+it is desirable to obtain an antigenic similarity measure that accounts for
+specific changes in strains that are of epidemiological importance in influenza. 
+Empirically grounded statistical models best achieve this. In this study, an
+interpretable machine-learning model was developed using distinguishing features 
+of antigenic variants to analyze antigenic similarity. The features comprised of 
+cluster information, amino acid sequences located in known antigenic and
+receptor-binding sites of influenza A (H3N2). In order to assess validity of
+parameters, accuracy and relevance of model to vaccine effectiveness, the model
+was applied to influenza A (H3N2) viruses due to their abundant genetic data and 
+epidemiological relevance to influenza surveillance. An application of the model 
+revealed that all model parameters were statistically significant to determining 
+antigenic similarity between strains. Furthermore, upon evaluating the model for 
+predicting antigenic similarity between strains, it achieved 95% area under
+Receiver Operating Characteristic curve (AUC), 94% accuracy, 76% precision, 97%
+specificity, 68% sensitivity and a diagnostic odds ratio (DOR) of 83.19. Above
+all, the model was found to be strongly related to influenza vaccine
+effectiveness to indicate the correlation between vaccine effectiveness and
+antigenic similarity between vaccine and circulating strains in an epidemic. The 
+study predicts probabilities of antigenic similarity and estimates changes in
+strains that lead to antigenic variants. A successful application of the methods 
+presented in this study would complement the global efforts in influenza
+surveillance.
+
+© 2021 The Author.
+
+DOI: 10.1016/j.heliyon.2021.e08384 
+PMCID: PMC8605065
+PMID: 34825090 
+
+Conflict of interest statement: The author declares no conflict of interest.
+

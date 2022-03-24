@@ -1,0 +1,52 @@
+
+1. Front Public Health. 2021 Oct 25;9:730611. doi: 10.3389/fpubh.2021.730611.
+eCollection 2021.
+
+COVID-19 Risk Assessment for the Tokyo Olympic Games.
+
+Zhu W(1), Feng J(1), Li C(1), Wang H(1), Zhong Y(1), Zhou L(2), Zhang X(3), Zhang
+T(1).
+
+Author information: 
+(1)Department of Epidemiology and Health Statistics, West China School of Public 
+Health and West China Fourth Hospital, Sichuan University, Chengdu, China.
+(2)Sichuan Center for Disease Control and Prevention, Chengdu, China.
+(3)Thomas E. Starzl Transplantation Institute, University of Pittsburgh Medical
+Center, Pittsburgh, PA, United States.
+
+Introduction: As of June 7, 2021, the outbreak of Coronavirus Disease 2019
+(COVID-19) has spread to more than 200 countries. The global number of reported
+cases is more than 172.9 million, with more than 3.7 million deaths, and the
+number of infected individuals is still growing rapidly. Consequently, events and
+activities around the world were canceled or postponed, and the preparation for
+sporting events were greatly challenged. Under such circumstances, about 11,000
+athletes from ~206 countries are arriving in Tokyo for the 32nd Summer Olympic
+Games. Therefore, it is urgently necessary to assess the occurrence and spread
+risk of COVID-19 for the Games. Objectives: To explore effective prevention and
+control measures for COVID-19 in large international events through simulations
+of different interventions according to risk assessment. Methods: We used a
+random model to calculate the number of initial infected patients and used
+Poisson distribution to determine the number of initial infected patients based
+on the number of countries involved. Furthermore, to simulate the COVID-19
+transmission, the
+susceptible-exposed-symptomatic-asymptomatic-recovered-hospitalized (SEIARH)
+model was established based on the susceptible-exposed-infectious-recovered
+(SEIR) mathematical model of epidemic diseases. According to risk assessment
+indicators produced by different scenarios of the simulated interventions, the
+risk of COVID-19 transmission in Tokyo Olympic Games was assessed. Results: The
+current COVID-19 prevention measures proposed by the Japan Olympic Committee need
+to be enhanced. And large-scale vaccination will effectively control the spread
+of COVID-19. When the protective efficacy of vaccines is 78.1% or 89.8%, and if
+the vaccination rate of athletes reaches 80%, an epidemic prevention barrier can 
+be established.
+
+Copyright © 2021 Zhu, Feng, Li, Wang, Zhong, Zhou, Zhang and Zhang.
+
+DOI: 10.3389/fpubh.2021.730611 
+PMCID: PMC8572808
+PMID: 34760863  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

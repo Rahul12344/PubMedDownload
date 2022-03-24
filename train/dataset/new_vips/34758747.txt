@@ -1,0 +1,65 @@
+
+1. BMC Gastroenterol. 2021 Nov 10;21(1):422. doi: 10.1186/s12876-021-02007-w.
+
+A neutrophil-to-lymphocyte ratio-based prognostic model to predict mortality in
+patients with HBV-related acute-on-chronic liver failure.
+
+Sun J(#)(1)(2), Guo H(#)(3), Yu X(#)(4), Zhu H(1), Zhang X(1), Yang J(2), Wang
+J(3), Qian Z(3), Shen Z(1)(5), Mao R(1)(5), Zhang J(6)(7).
+
+Author information: 
+(1)Department of Infectious Diseases, Huashan Hospital, Fudan University,
+Shanghai, 200040, China.
+(2)Department of Infectious Diseases, First Affiliated Hospital of Wannan Medical
+College, Wuhu, 241000, China.
+(3)Department of Severe Hepatopathy, Shanghai Public Health Clinical Centre,
+Fudan University, Shanghai, 201508, China.
+(4)Department of Infectious Diseases, First Hospital of Quanzhou, Affiliated to
+Fujian Medical University, Quanzhou, 362000, China.
+(5)Shanghai Key Laboratory of Infectious Diseases and Biosafety Emergency
+Response, Shanghai, 200040, China.
+(6)Department of Infectious Diseases, Huashan Hospital, Fudan University,
+Shanghai, 200040, China. jmzhang@fudan.edu.cn.
+(7)Shanghai Key Laboratory of Infectious Diseases and Biosafety Emergency
+Response, Shanghai, 200040, China. jmzhang@fudan.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: Although the Asian Pacific Association for the Study of the Liver
+acute-on-chronic liver failure (ACLF) research consortium (AARC) ACLF score is
+easy to use in patients with hepatitis b virus-related ACLF (HBV-ACLF), serum
+lactate is not routinely tested in primary hospitals, and its value may be
+affected by some interference factors. Neutrophil-to-lymphocyte ratio (NLR) is
+used to assess the status of bacterial infection (BI) or outcomes in patients
+with various diseases. We developed an NLR-based AARC ACLF score and compared it 
+with the existing model.
+METHODS: A total of 494 HBV-ACLF patients, enrolled in four tertiary academic
+hospitals in China with 90-day follow-up, were analysed. Prognostic performance
+of baseline NLR and lactate were compared between cirrhotic and non-cirrhotic
+subgroups via the receiver operating curve and Kaplan-Meier analyses. A modified 
+AARC ACLF (mAARC ACLF) score using NLR as a replacement for lactate was developed
+(n = 290) and validated (n = 204).
+RESULTS: There were significantly higher baseline values of NLR in non-survivors,
+patients with admission BI, and those with higher grades of ACLF compared with
+the control groups. Compared with lactate, NLR better reflected BI status in the 
+cirrhotic subgroup, and was more significantly correlated with CTP, MELD,
+MELD-Na, and the AARC score. NLR was an independent predictor of 90-day
+mortality, and was categorized into three risk grades (< 3.10, 3.10-4.78, and
+> 4.78) with 90-day cumulative mortalities of 8%, 21.2%, and 77.5% in the
+derivation cohort, respectively. The mAARC ACLF score, using the three grades of 
+NLR instead of corresponding levels of lactate, was superior to the other four
+scores in predicting 90-day mortality in the derivation (AUROC 0.906, 95% CI
+0.872-0.940, average P < 0.001) and validation cohorts (AUROC 0.913, 95% CI
+0.876-0.950, average P < 0.01), with a considerable performance in predicting
+28-day mortality in the two cohorts.
+CONCLUSIONS: The prognostic value of NLR is superior to that of lactate in
+predicting short-term mortality risk in cirrhotic and non-cirrhotic patients with
+HBV-ACLF. NLR can be incorporated into the AARC ACLF scoring system for improving
+its prognostic accuracy and facilitating the management guidance in patients with
+HBV-ACLF in primary hospitals.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12876-021-02007-w 
+PMCID: PMC8579631
+PMID: 34758747  [Indexed for MEDLINE]
+

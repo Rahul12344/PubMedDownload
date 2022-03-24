@@ -1,0 +1,37 @@
+
+1. iScience. 2021 Nov 19;24(11):103331. doi: 10.1016/j.isci.2021.103331. Epub 2021
+Oct 23.
+
+DCcov: Repositioning of drugs and drug combinations for SARS-CoV-2 infected lung 
+through constraint-based modeling.
+
+Kishk A(1), Pacheco MP(1), Sauter T(1).
+
+Author information: 
+(1)Systems Biology Group, Department of Life Sciences and Medicine, University of
+Luxembourg, 4367 Esch-sur-Alzette, Luxembourg.
+
+The 2019 coronavirus disease (COVID-19) became a worldwide pandemic with
+currently no approved effective antiviral drug. Flux balance analysis (FBA) is an
+efficient method to analyze metabolic networks. Here, FBA was applied on human
+lung cells infected with severe acute respiratory syndrome coronavirus
+2 (SARS-CoV-2) to reposition metabolic drugs and drug combinations against the
+virus replication within the host tissue. Making use of expression datasets of
+infected lung tissue, genome-scale COVID-19-specific metabolic models were
+reconstructed. Then, host-specific essential genes and gene pairs were determined
+through in silico knockouts that permit reducing the viral biomass production
+without affecting the host biomass. Key pathways that are associated with
+COVID-19 severity in lung tissue are related to oxidative stress, ferroptosis,
+and pyrimidine metabolism. By in silico screening of Food and Drug Administration
+(FDA)-approved drugs on the putative disease-specific essential genes and gene
+pairs, 85 drugs and 52 drug combinations were predicted as promising candidates
+for COVID-19 (https://github.com/sysbiolux/DCcov).
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.isci.2021.103331 
+PMCID: PMC8536485
+PMID: 34723158 
+
+Conflict of interest statement: The authors declare no competing interests.
+

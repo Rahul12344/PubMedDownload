@@ -1,0 +1,74 @@
+
+1. mSphere. 2020 Oct 28;5(5). pii: e00990-20. doi: 10.1128/mSphere.00990-20.
+
+Genetic Determinants of Resistance to Extended-Spectrum Cephalosporin and
+Fluoroquinolone in Escherichia coli Isolated from Diseased Pigs in the United
+States.
+
+Hayer SS(1)(2), Lim S(1)(3), Hong S(1)(4), Elnekave E(1), Johnson T(5), Rovira
+A(1)(6), Vannucci F(1)(6), Clayton JB(2)(7), Perez A(1), Alvarez J(8)(9)(10).
+
+Author information: 
+(1)Department of Veterinary Population Medicine, College of Veterinary Medicine, 
+University of Minnesota, Saint Paul, Minnesota, USA.
+(2)Department of Biology, University of Nebraska at Omaha, Omaha, Nebraska, USA.
+(3)Bioinformatics and Computational Biology Program, University of
+Minnesota-Rochester, Rochester, Minnesota, USA.
+(4)Department of Microbiology and Immunology, Rega Institute, KU Leuven, Leuven, 
+Belgium.
+(5)Department of Veterinary and Biomedical Sciences, College of Veterinary
+Medicine, University of Minnesota, Saint Paul, Minnesota, USA.
+(6)Veterinary Diagnostic Laboratory, College of Veterinary Medicine, University
+of Minnesota, Saint Paul, Minnesota, USA.
+(7)Nebraska Food for Health Center, University of Nebraska-Lincoln, Lincoln,
+Nebraska, USA.
+(8)Department of Veterinary Population Medicine, College of Veterinary Medicine, 
+University of Minnesota, Saint Paul, Minnesota, USA jalvarez@visavet.ucm.es.
+(9)VISAVET Health Surveillance Center, Universidad Complutense Madrid, Madrid,
+Spain.
+(10)Department of Animal Health, Facultad de Veterinaria, Universidad Complutense
+Madrid, Madrid, Spain.
+
+Fluoroquinolones and cephalosporins are critically important antimicrobial
+classes for both human and veterinary medicine. We previously found a drastic
+increase in enrofloxacin resistance in clinical Escherichia coli isolates
+collected from diseased pigs from the United States over 10 years (2006 to 2016).
+However, the genetic determinants responsible for this increase have yet to be
+determined. The aim of the present study was to identify and characterize the
+genetic basis of resistance against fluoroquinolones (enrofloxacin) and
+extended-spectrum cephalosporins (ceftiofur) in swine E. coli isolates using
+whole-genome sequencing (WGS). bla CMY-2 (carried by IncA/C2, IncI1, and IncI2
+plasmids), bla CTX-M (carried by IncF, IncHI2, and IncN plasmids), and bla SHV-12
+(carried by IncHI2 plasmids) genes were present in 87 (82.1%), 19 (17.9%), and 3 
+(2.83%) of the 106 ceftiofur-resistant isolates, respectively. Of the 110
+enrofloxacin-resistant isolates, 90 (81.8%) had chromosomal mutations in gyrA,
+gyrB, parA, and parC genes. Plasmid-mediated quinolone resistance genes [qnrB77, 
+qnrB2, qnrS1, qnrS2, and aac-(6)-lb'-cr] borne on ColE, IncQ2, IncN, IncF, and
+IncHI2 plasmids were present in 24 (21.8%) of the enrofloxacin-resistant
+isolates. Virulent IncF plasmids present in swine E. coli isolates were highly
+similar to epidemic plasmids identified globally. High-risk E. coli clones, such 
+as ST744, ST457, ST131, ST69, ST10, ST73, ST410, ST12, ST127, ST167, ST58, ST88, 
+ST617, ST23, etc., were also found in the U.S. swine population. Additionally,
+the colistin resistance gene (mcr-9) was present in several isolates. This study 
+adds valuable information regarding resistance to critical antimicrobials with
+implications for both animal and human health.IMPORTANCE Understanding the
+genetic mechanisms conferring resistance is critical to design informed control
+and preventive measures, particularly when involving critically important
+antimicrobial classes such as extended-spectrum cephalosporins and
+fluoroquinolones. The genetic determinants of extended-spectrum cephalosporin and
+fluoroquinolone resistance were highly diverse, with multiple plasmids, insertion
+sequences, and genes playing key roles in mediating resistance in swine
+Escherichia coli Plasmids assembled in this study are known to be disseminated
+globally in both human and animal populations and environmental samples, and E.
+coli in pigs might be part of a global reservoir of key antimicrobial resistance 
+(AMR) elements. Virulent plasmids found in this study have been shown to confer
+fitness advantages to pathogenic E. coli strains. The presence of international, 
+high-risk zoonotic clones provides worrisome evidence that resistance in swine
+isolates may have indirect public health implications, and the swine population
+as a reservoir for these high-risk clones should be continuously monitored.
+
+Copyright © 2020 Hayer et al.
+
+DOI: 10.1128/mSphere.00990-20 
+PMID: 33115839 
+

@@ -1,0 +1,44 @@
+
+1. Infect Immun. 2010 Jun;78(6):2529-43. doi: 10.1128/IAI.00005-10. Epub 2010 Mar
+22.
+
+Fine-tuning synthesis of Yersinia pestis LcrV from runaway-like replication
+balanced-lethal plasmid in a Salmonella enterica serovar typhimurium vaccine
+induces protection against a lethal Y. pestis challenge in mice.
+
+Torres-Escobar A(1), Juárez-Rodríguez MD, Gunn BM, Branger CG, Tinge SA, Curtiss 
+R 3rd.
+
+Author information: 
+(1)Center for Infectious Diseases and Vaccinology at Biodesign Institute and
+School of Life Sciences, Arizona State University, Tempe, Arizona 85287-5401,
+USA.
+
+A balanced-lethal plasmid expression system that switches from low-copy-number to
+runaway-like high-copy-number replication (pYA4534) was constructed for the
+regulated delayed in vivo synthesis of heterologous antigens by vaccine strains. 
+This is an antibiotic resistance-free maintenance system containing the asdA gene
+(essential for peptidoglycan synthesis) as a selectable marker to complement the 
+lethal chromosomal DeltaasdA allele in live recombinant attenuated Salmonella
+vaccines (RASVs) such as Salmonella enterica serovar Typhimurium strain chi9447. 
+pYA4534 harbors two origins of replication, pSC101 and pUC (low and high copy
+numbers, respectively). The pUC replication origin is controlled by a genetic
+switch formed by the operator/promoter of the P22 cro gene (O/P(cro)) (P(R)),
+which is negatively regulated by an arabinose-inducible P22 c2 gene located on
+both the plasmid and the chromosome (araC P(BAD) c2). The absence of arabinose,
+which is unavailable in vivo, triggers replication to a high-copy-number plasmid 
+state. To validate these vector attributes, the Yersinia pestis virulence antigen
+LcrV was used to develop a vaccine against plague. An lcrV sequence encoding
+amino acids 131 to 326 (LcrV196) was optimized for expression in Salmonella,
+flanked with nucleotide sequences encoding the signal peptide (SS) and the
+carboxy-terminal domain (CT) of beta-lactamase, and cloned into pYA4534 under the
+control of the P(trc) promoter to generate plasmid pYA4535. Our results indicate 
+that the live Salmonella vaccine strain chi9447 harboring pYA4535 efficiently
+stimulated a mixed Th1/Th2 immune response that protected mice against lethal
+challenge with Y. pestis strain CO92 introduced through either the intranasal or 
+subcutaneous route.
+
+DOI: 10.1128/IAI.00005-10 
+PMCID: PMC2876574
+PMID: 20308296  [Indexed for MEDLINE]
+

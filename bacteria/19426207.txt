@@ -1,0 +1,32 @@
+
+1. Mol Microbiol. 2009 May;72(3):551-65. doi: 10.1111/j.1365-2958.2009.06665.x.
+
+A genetic approach for finding small RNAs regulators of genes of interest
+identifies RybC as regulating the DpiA/DpiB two-component system.
+
+Mandin P(1), Gottesman S.
+
+Author information: 
+(1)Laboratory of Molecular Biology, National Cancer Institute, Center for Cancer 
+Research, Bethesda, MD 20892, USA.
+
+In Escherichia coli, the largest class of small regulatory RNAs binds to the RNA 
+chaperone Hfq and regulates the stability and/or translation of specific mRNAs.
+While recent studies have shown that some mRNAs could be subject to
+post-transcriptional regulation by sRNAs (e.g. mRNAs found by
+co-immunoprecipitation with Hfq), no method has yet been described to identify
+small RNAs that regulate them. We developed a method to easily make translational
+fusions of genes of interest to the lacZ reporter gene, under the control of a
+P(BAD)-inducible promoter. A multicopy plasmid library of the E. coli genome can 
+then be used to screen for small RNAs that affect the activity of the fusion.
+This screening method was first applied to the dpiB gene from the dpiBA operon,
+which encodes a two-component signal transduction system involved in the SOS
+response to beta-lactams. One small RNA, RybC, was found to negatively regulate
+the expression of dpiB. Using mutants in the dpiB-lacZ fusion and compensatory
+mutations in the RybC sRNA, we demonstrate that RybC directly base pairs with the
+dpiBA mRNA.
+
+DOI: 10.1111/j.1365-2958.2009.06665.x 
+PMCID: PMC2714224
+PMID: 19426207  [Indexed for MEDLINE]
+

@@ -1,0 +1,75 @@
+
+1. Front Genome Ed. 2021 Feb 9;3:604371. doi: 10.3389/fgeed.2021.604371. eCollection
+2021.
+
+Baboon Envelope Pseudotyped "Nanoblades" Carrying Cas9/gRNA Complexes Allow
+Efficient Genome Editing in Human T, B, and CD34+ Cells and Knock-in of
+AAV6-Encoded Donor DNA in CD34+ Cells.
+
+Gutierrez-Guerrero A(1), Abrey Recalde MJ(1)(2), Mangeot PE(1), Costa C(1),
+Bernadin O(1), Périan S(1), Fusil F(1), Froment G(1), Martinez-Turtos A(3), Krug 
+A(3), Martin F(4), Benabdellah K(4), Ricci EP(1)(5), Giovannozzi S(6)(7),
+Gijsbers R(6), Ayuso E(8), Cosset FL(1), Verhoeyen E(1)(3).
+
+Author information: 
+(1)CIRI-International Center for Infectiology Research, Inserm, U1111, Université
+Claude Bernard Lyon 1, CNRS, UMR5308, Ecole Normale Supérieure de Lyon,
+Université Lyon, Lyon, France.
+(2)Laboratory of Lentiviral Vectors and Gene Therapy, University Institute of
+Italian Hospital, National Scientific and Technical Research Council (CONICET),
+Buenos Aires, Argentina.
+(3)Université Côte d'Azur, INSERM, Nice, France.
+(4)Centre for Genomics and Oncological Research (GENYO), Genomic Medicine
+Department, Pfizer/University of Granada/Andalusian Regional Government, Granada,
+Spain.
+(5)Laboratory of Biology and Modeling of the Cell (LBMC), Université de Lyon,
+Ecole Normale Supérieure de Lyon (ENS de Lyon), Université Claude Bernard,
+Inserm, U1210, CNRS, UMR5239, Lyon, France.
+(6)Laboratory for Viral Vector Technology & Gene Therapy, Department of
+Pharmaceutical and Pharmacological Sciences, Faculty of Medicine, Katholieke
+Universiteit Leuven, Leuven, Belgium.
+(7)KU Leuven, Department of Microbiology, Immunology and Transplantation, Allergy
+and Clinical Immunology Research Group, Leuven, Belgium.
+(8)INSERM UMR1089, University of Nantes, Centre Hospitalier Universitaire,
+Nantes, France.
+
+Programmable nucleases have enabled rapid and accessible genome engineering in
+eukaryotic cells and living organisms. However, their delivery into human blood
+cells can be challenging. Here, we have utilized "nanoblades," a new technology
+that delivers a genomic cleaving agent into cells. These are modified murine
+leukemia virus (MLV) or HIV-derived virus-like particle (VLP), in which the viral
+structural protein Gag has been fused to Cas9. These VLPs are thus loaded with
+Cas9 protein complexed with the guide RNAs. Highly efficient gene editing was
+obtained in cell lines, IPS and primary mouse and human cells. Here, we showed
+that nanoblades were remarkably efficient for entry into human T, B, and
+hematopoietic stem and progenitor cells (HSPCs) thanks to their surface
+co-pseudotyping with baboon retroviral and VSV-G envelope glycoproteins. A brief 
+incubation of human T and B cells with nanoblades incorporating two gRNAs
+resulted in 40 and 15% edited deletion in the Wiskott-Aldrich syndrome (WAS) gene
+locus, respectively. CD34+ cells (HSPCs) treated with the same nanoblades allowed
+30-40% exon 1 drop-out in the WAS gene locus. Importantly, no toxicity was
+detected upon nanoblade-mediated gene editing of these blood cells. Finally, we
+also treated HSPCs with nanoblades in combination with a donor-encoding rAAV6
+vector resulting in up to 40% of stable expression cassette knock-in into the WAS
+gene locus. Summarizing, this new technology is simple to implement, shows high
+flexibility for different targets including primary immune cells of human and
+murine origin, is relatively inexpensive and therefore gives important prospects 
+for basic and clinical translation in the area of gene therapy.
+
+Copyright © 2021 Gutierrez-Guerrero, Abrey Recalde, Mangeot, Costa, Bernadin,
+Périan, Fusil, Froment, Martinez-Turtos, Krug, Martin, Benabdellah, Ricci,
+Giovannozzi, Gijsbers, Ayuso, Cosset and Verhoeyen.
+
+DOI: 10.3389/fgeed.2021.604371 
+PMCID: PMC8525375
+PMID: 34713246 
+
+Conflict of interest statement: PM and ER are named as inventors on a patent
+relating to the Nanoblades technology [patent applicants: Institut National de la
+Sante et de la Recherche Medicale (INSERM), Centre National de la Recherche
+Scientifique (CNRS)], Ecole Normale Superieure de Lyon, Universite Claude Bernard
+Lyon 1, Villeurb-Anne Cedex; application number: WO 2017/068077 Al; patent
+status: published, 27th April 2017. The remaining authors declare that the
+research was conducted in the absence of any commercial or financial
+relationships that could be construed as a potential conflict of interest.
+

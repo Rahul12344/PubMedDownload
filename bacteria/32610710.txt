@@ -1,0 +1,53 @@
+
+1. Cells. 2020 Jun 29;9(7). pii: E1581. doi: 10.3390/cells9071581.
+
+MHC Class I-Restricted TCR-Transgenic CD4+ T Cells Against STEAP1 Mediate Local
+Tumor Control of Ewing Sarcoma In Vivo.
+
+Schober SJ(1), Thiede M(1), Gassmann H(1), Prexler C(1), Xue B(1), Schirmer D(1),
+Wohlleber D(2), Stein S(3), Grünewald TGP(3)(4)(5), Busch DH(6), Richter
+GHS(1)(7), Burdach SEG(1)(8), Thiel U(1).
+
+Author information: 
+(1)Department of Pediatrics, Children's Cancer Research Center, Kinderklinik
+München Schwabing, School of Medicine, Technical University of Munich, 80804
+Munich, Germany.
+(2)Institute of Molecular Immunology/Experimental Oncology, Klinikum rechts der
+Isar, Technical University of Munich, 81674 Munich, Germany.
+(3)Max-Eder Research Group for Pediatric Sarcoma Biology, Institute of Pathology 
+of the LMU, 80337 Munich, Germany.
+(4)Division of Translational Pediatric Sarcoma Research, German Cancer Consortium
+(DKTK), German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany.
+(5)Institute of Pathology, Heidelberg University Hospital, 69120 Heidelberg,
+Germany.
+(6)Institute for Medical Microbiology, Immunology and Hygiene, Klinikum rechts
+der Isar, School of Medicine, Technical University of Munich, 81674 Munich,
+Germany.
+(7)Division of Oncology and Hematology, Department of Pediatrics,
+Charité-Universitätsmedizin Berlin, 13353 Berlin, Germany.
+(8)German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), partner
+site Munich, 80336 Munich, Germany.
+
+In this study we report the functional comparison of T cell receptor
+(TCR)-engineered major histocompatibility complex (MHC) class I-restricted CD4+
+versus CD8+ T cells targeting a peptide from six transmembrane epithelial antigen
+of the prostate 1 (STEAP1) in the context of HLA-A*02:01. STEAP1 is a
+tumor-associated antigen, which is overexpressed in many cancers, including Ewing
+sarcoma (EwS). Based on previous observations, we postulated strong antitumor
+potential of tumor-redirected CD4+ T cells transduced with an HLA class
+I-restricted TCR against a STEAP1-derived peptide. We compared CD4+ T cell
+populations to their CD8+ counterparts in vitro using impedance-based xCELLigence
+and cytokine/granzyme release assays. We further compared antitumor activity of
+STEAP130-TCR transgenic (tg) CD4+ versus CD8+ T cells in tumor-bearing
+xenografted Rag2-/-gc-/- mice. TCR tgCD4+ T cells showed increased cytotoxic
+features over time with similar functional avidity compared to tgCD8+ cells after
+5-6 weeks of culture. In vivo, local tumor control was equal. Assessing
+metastatic organotropism of intraveniously (i.v.) injected tumors, only tgCD8+
+cells were associated with reduced metastases. In this analysis, EwS-redirected
+tgCD4+ T cells contribute to local tumor control, but fail to control metastatic 
+outgrowth in a model of xenografted EwS.
+
+DOI: 10.3390/cells9071581 
+PMCID: PMC7408051
+PMID: 32610710  [Indexed for MEDLINE]
+

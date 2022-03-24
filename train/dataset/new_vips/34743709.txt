@@ -1,0 +1,59 @@
+
+1. Virol J. 2021 Nov 7;18(1):216. doi: 10.1186/s12985-021-01686-x.
+
+High throughput sequencing of whole transcriptome and construct of ceRNA
+regulatory network in RD cells infected with enterovirus D68.
+
+Si J(1), Tang X(1), Xu L(1), Fu H(1), Li H(1), He Y(1), Bao J(1), Tang J(1), Li
+A(1), Lu N(1), Yang C(2).
+
+Author information: 
+(1)Department of Pathogenic Biology, College of Basic Medical Sciences, Chongqing
+Medical University, Chongqing, 400016, China.
+(2)Department of Pathogenic Biology, College of Basic Medical Sciences, Chongqing
+Medical University, Chongqing, 400016, China. 100494@cqmu.edu.cn.
+
+BACKGROUND: With the advancement of sequencing technologies, a plethora of
+noncoding RNA (ncRNA) species have been widely discovered, including microRNAs
+(miRNAs), circular RNAs (circRNAs), and long ncRNAs (lncRNAs). However, the
+mechanism of these non-coding RNAs in diseases caused by enterovirus d68 (EV-D68)
+remains unclear. The goal of this research was to identify significantly altered 
+circRNAs, lncRNAs, miRNAs, and mRNAs pathways in RD cells infected with EV-D68,
+analyze their target relationships, demonstrate the competing endogenous RNA
+(ceRNA) regulatory network, and evaluate their biological functions.
+METHODS: The total RNAs were sequenced by high-throughput sequencing technology, 
+and differentially expressed genes between control and infection groups were
+screened using bioinformatics method. We discovered the targeting relationship
+between three ncRNAs and mRNA using bioinformatics methods, and then built a
+ceRNA regulatory network centered on miRNA. The biological functions of
+differentially expressed mRNAs (DEmRNAs) were discovered through GO and KEGG
+enrichment analysis. Create a protein interaction network (PPI) to seek for hub
+mRNAs and learn more about protein-protein interactions. The relative expression 
+was verified using RT-qPCR. The effects of Fos and ARRDC3 on virus replication
+were confirmed using RT-qPCR, virus titer (TCID50/ml), Western blotting.
+RESULTS: 375 lncRNAs (154 upregulated and 221 downregulated), 33 circRNAs (32
+upregulated and 1 downregulated), 96 miRNAs (49 upregulated and 47
+downregulated), and 239 mRNAs (135 upregulated and 104 downregulated) were
+identified as differently in infected group compare to no-infected group. A
+single lncRNA or circRNA can be connected with numerous miRNAs, which
+subsequently coregulate additional mRNAs, according to the ceRNA regulatory
+network. The majority of DEmRNAs were shown to be connected to DNA binding,
+transcription regulation by RNA polymerase II, transcription factor, MAPK
+signaling pathways, Hippo signal pathway, and apoptosis pathway, according to GO 
+and KEGG pathway enrichment analysis. The hub mRNAs with EGR1, Fos and Jun as the
+core were screened through PPI interaction network. We preliminarily demonstrated
+that the Fos and ARRDC3 genes can suppress EV-D68 viral replication in order to
+further verify the results of full transcriptome sequencing.
+CONCLUSION: The results of whole transcriptome analysis after EV-D68 infection of
+RD cells were first reported in this study, and for the first time, a ceRNA
+regulation network containing miRNA at its center was established for the first
+time. The Fos and ARRDC3 genes were found to hinder viral in RD cells. This study
+establishes a novel insight host response during EV-D68 infection and further
+investigated potential drug targets.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12985-021-01686-x 
+PMCID: PMC8574037
+PMID: 34743709 
+

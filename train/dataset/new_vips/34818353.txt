@@ -1,0 +1,49 @@
+
+1. PLoS One. 2021 Nov 24;16(11):e0260353. doi: 10.1371/journal.pone.0260353.
+eCollection 2021.
+
+Identification of miRNAs and genes for predicting Barrett's esophagus progressing
+to esophageal adenocarcinoma using miRNA-mRNA integrated analysis.
+
+Yao C(1)(2), Li Y(1)(3), Luo L(1), Xiong Q(1), Zhong X(3)(4), Xie F(1), Feng
+P(1).
+
+Author information: 
+(1)Hospital of Chengdu University of Traditional Chinese Medicine, Chengdu,
+Sichuan, China.
+(2)Department of Geriatrics of the Affiliated Hospital, North Sichuan Medical
+College, Nanchong, Sichuan, China.
+(3)Department of Laboratory Medicine, North Sichuan Medical College, Nanchong,
+Sichuan, China.
+(4)Department of Clinical Laboratory, Affiliated Hospital of North Sichuan
+Medical College, Nanchong, Sichuan, China.
+
+Barrett's esophagus (BE) is defined as any metaplastic columnar epithelium in the
+distal esophagus, which predisposes to esophageal adenocarcinoma (EAC). Yet, the 
+mechanism through which BE develops to EAC still remain unclear. Moreover, the
+miRNA-mRNA regulatory network in distinguishing BE from EAC still remains poorly 
+understood. To identify differentially expressed miRNAs (DEMs) and genes (DEGs)
+between EAC and BE from tissue samples, gene expression microarray datasets
+GSE13898, GSE26886, GSE1420 and miRNA microarray datasets GSE16456, GSE20099 were
+downloaded from Gene Expression Omnibus (GEO) database. GEO2R was used to screen 
+the DEMs and DEGs. Pathway and functional enrichment analysis were performed by
+DAVID database. The protein-protein interaction (PPI) network was constructed by 
+STRING and been visualized by Cytoscape software. Finnal, survival analysis was
+performed basing TCGA database. A total of 21 DEMs were identified. The enriched 
+functions and pathways analysis inclued Epstein-Barr virus infection, herpesvirus
+infection and TRP channels. GART, TNFSF11, GTSE1, NEK2, ICAM1, PSMD12, CTNNB1,
+CDH1, PSEN1, IL1B, CTNND1, JAG1, CDH17, ITCH, CALM1 and ITGA6 were considered as 
+the hub-genes. Hsa-miR-143 and hsa-miR-133b were the highest connectivity target 
+gene. JAG1 was predicted as the largest number of target miRNAs. The expression
+of hsa-miR-181d, hsa-miR-185, hsa-miR-15b, hsa-miR-214 and hsa-miR-496 was
+significantly different between normal tissue and EAC. CDH1, GART, GTSE1, NEK2
+and hsa-miR-496, hsa-miR-214, hsa-miR-15b were found to be correlated with
+survival.
+
+DOI: 10.1371/journal.pone.0260353 
+PMCID: PMC8612537
+PMID: 34818353 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,43 @@
+
+1. mBio. 2021 Dec 7:e0225921. doi: 10.1128/mBio.02259-21. [Epub ahead of print]
+
+Staphylococcal Phages Adapt to New Hosts by Extensive Attachment Site
+Variability.
+
+Leinweber H(1), Sieber RN(2), Larsen J(2), Stegger M(2), Ingmer H(1).
+
+Author information: 
+(1)Department of Veterinary and Animal Sciences, University of
+Copenhagengrid.5254.6, Copenhagen, Denmark.
+(2)Department of Bacteria, Parasites and Fungi, Statens Serum
+Institutgrid.6203.7, Copenhagen, Denmark.
+
+Bacterial pathogens commonly carry prophages that express virulence factors, and 
+human strains of Staphylococcus aureus carry Sa3int phages, which promote immune 
+evasion. Recently, however, these phages have been found in livestock-associated,
+methicillin-resistant S. aureus (LA-MRSA). This is surprising, as LA-MRSA strains
+contain a mutated primary bacterial integration site, which likely explains why
+the rare integration events that do occur mostly happen at alternative locations.
+Using deep sequencing, we show that after initial integration at secondary sites,
+Sa3int phages adapt through nucleotide changes in their attachment sequences to
+increase homology with alternative bacterial attachment sites. Importantly, this 
+homology significantly enhances integrations in new rounds of infections. We
+propose that promiscuity of the phage-encoded tyrosine recombinase is responsible
+for establishment of Sa3int phages in LA-MRSA. Our results demonstrate that
+phages can adopt extensive population heterogeneity, leading to establishment in 
+strains lacking bona fide integration sites. Ultimately, their presence may
+increase virulence and zoonotic potential of pathogens with major implications
+for human health. IMPORTANCE A growing number of humans are being infected by
+antibiotic resistant Staphylococcus aureus originating from livestock. The
+preference of S. aureus for humans or animals is in part determined by factors
+encoded by viruses (phages) that reside in the bacterial genome. Here, we reveal 
+a process by which phages adapt to and become integrated in new strains of S.
+aureus lacking the preferred phage integration site. We propose that this is due 
+to the relaxed specificity of a phage-encoded enzyme called recombinase. As this 
+recombinase is used by many other phages, our results might have implications for
+a broader range of phages. Importantly, the adaptation described here enables S. 
+aureus to jump between host organisms and increases its zoonotic threat.
+
+DOI: 10.1128/mBio.02259-21 
+PMID: 34872344 
+

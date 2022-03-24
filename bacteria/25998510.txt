@@ -1,0 +1,47 @@
+
+1. Mol Med. 2015 May 12;21:430-41. doi: 10.2119/molmed.2014.00263.
+
+Modular Transcriptional Networks of the Host Pulmonary Response during Early and 
+Late Pneumococcal Pneumonia.
+
+Scicluna BP(1), van Lieshout MH(1), Blok DC(1), Florquin S(2), van der Poll
+T(1)(3).
+
+Author information: 
+(1)Center for Experimental Molecular Medicine and Center for Infection and
+Immunity Amsterdam.
+(2)Department of Pathology, University of Amsterdam, Amsterdam, the Netherlands.
+(3)Division of Infectious Diseases, Academic Medical Center, University of
+Amsterdam, Amsterdam, the Netherlands.
+
+Streptococcus pneumoniae (Spneu) remains the most lethal bacterial pathogen and
+the dominant agent of community-acquired pneumonia. Treatment has perennially
+focused on the use of antibiotics, albeit scrutinized due to the occurrence of
+antibiotic-resistant Spneu strains. Immunomodulatory strategies have emerged as
+potential treatment options. Although promising, immunomodulation can lead to
+improper tissue functions either at steady state or upon infectious challenge.
+This argues for the availability of tools to enable a detailed assessment of
+whole pulmonary functions during the course of infection, not only those
+functions biased to the defense response. Thus, through the use of an unbiased
+tissue microarray and bioinformatics approach, we aimed to construct a
+comprehensive map of whole-lung transcriptional activity and cellular pathways
+during the course of pneumococcal pneumonia. We performed genome-wide
+transcriptional analysis of whole lungs before and 6 and 48 h after Spneu
+infection in mice. The 4,000 most variable transcripts across all samples were
+used to assemble a gene coexpression network comprising 13 intercorrelating
+modules (clusters of genes). Fifty-four percent of this whole-lung
+transcriptional network was altered 6 and 48 h after Spneu infection. Canonical
+signaling pathway analysis uncovered known pathways imparting protection,
+including IL17A/IL17F signaling and previously undetected mechanisms that
+included lipid metabolism. Through in silico prediction of cell types, pathways
+were observed to enrich for distinct cell types such as a novel stromal cell
+lipid metabolism pathway. These cellular mechanisms were furthermore anchored at 
+functional hub genes of cellular fate, differentiation, growth and transcription.
+Collectively, we provide a benchmark unsupervised map of whole-lung
+transcriptional relationships and cellular activity during early and late
+pneumococcal pneumonia.
+
+DOI: 10.2119/molmed.2014.00263 
+PMCID: PMC4559533
+PMID: 25998510  [Indexed for MEDLINE]
+

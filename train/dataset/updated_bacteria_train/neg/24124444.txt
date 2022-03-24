@@ -1,0 +1,39 @@
+
+1. PLoS One. 2013 Oct 4;8(10):e52094. doi: 10.1371/journal.pone.0052094. eCollection
+2013.
+
+A Ham1p-dependent mechanism and modulation of the pyrimidine biosynthetic pathway
+can both confer resistance to 5-fluorouracil in yeast.
+
+Carlsson M(1), Gustavsson M, Hu GZ, Murén E, Ronne H.
+
+Author information: 
+(1)Department of Microbiology, Swedish University of Agricultural Sciences,
+Uppsala, Sweden.
+
+Erratum in
+    PLoS One. 2013;8(11).
+doi:10.1371/annotation/fe863e39-ab49-40e2-b262-0219428de65e.
+
+5-Fluorouracil (5-FU) is an anticancer drug and pyrimidine analogue. A problem in
+5-FU therapy is acquired resistance to the drug. To find out more about the
+mechanisms of resistance, we screened a plasmid library in yeast for genes that
+confer 5-FU resistance when overexpressed. We cloned five genes: CPA1, CPA2,
+HMS1, HAM1 and YJL055W. CPA1 and CPA2 encode a carbamoyl phosphate synthase
+involved in arginine biosynthesis and HMS1 a helix-loop-helix transcription
+factor. Our results suggest that CPA1, CPA2, and HMS1 confer 5-FU resistance by
+stimulating pyrimidine biosynthesis. Thus, they are unable to confer 5-FU
+resistance in a ura2 mutant, and inhibit the uptake and incorporation into RNA of
+both uracil and 5-FU. In contrast, HAM1 and YJL055W confer 5-FU resistance in a
+ura2 mutant, and selectively inhibit incorporation into RNA of 5-FU but not
+uracil. HAM1 is the strongest resistance gene, but it partially depends on
+YJL055W for its function. This suggests that HAM1 and YJL055W function together
+in mediating resistance to 5-FU. Ham1p encodes an inosine triphosphate
+pyrophosphatase that has been implicated in resistance to purine analogues. Our
+results suggest that Ham1p could have a broader specificity that includes 5-FUTP 
+and other pyrimidine analogoue triphosphates.
+
+DOI: 10.1371/journal.pone.0052094 
+PMCID: PMC3792807
+PMID: 24124444  [Indexed for MEDLINE]
+

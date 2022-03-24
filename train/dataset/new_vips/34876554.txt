@@ -1,0 +1,42 @@
+
+1. Nat Commun. 2021 Dec 7;12(1):7103. doi: 10.1038/s41467-021-26164-4.
+
+Viral evasion of the integrated stress response through antagonism of eIF2-P
+binding to eIF2B.
+
+Schoof M(#)(1)(2), Wang L(#)(1)(2), Cogan JZ(1)(2), Lawrence RE(1)(2), Boone
+M(1)(2), Wuerth JD(3), Frost A(2)(4), Walter P(5)(6).
+
+Author information: 
+(1)Howard Hughes Medical Institute, University of California at San Francisco,
+San Francisco, CA, USA.
+(2)Department of Biochemistry and Biophysics, University of California at San
+Francisco, San Francisco, CA, USA.
+(3)Institute of Innate Immunity, Medical Faculty, University of Bonn, Bonn,
+Germany.
+(4)Chan Zuckerberg Biohub, San Francisco, CA, USA.
+(5)Howard Hughes Medical Institute, University of California at San Francisco,
+San Francisco, CA, USA. Peter@walterlab.ucsf.edu.
+(6)Department of Biochemistry and Biophysics, University of California at San
+Francisco, San Francisco, CA, USA. Peter@walterlab.ucsf.edu.
+(#)Contributed equally
+
+Viral infection triggers activation of the integrated stress response (ISR). In
+response to viral double-stranded RNA (dsRNA), RNA-activated protein kinase (PKR)
+phosphorylates the translation initiation factor eIF2, converting it from a
+translation initiator into a potent translation inhibitor and this restricts the 
+synthesis of viral proteins. Phosphorylated eIF2 (eIF2-P) inhibits translation by
+binding to eIF2's dedicated, heterodecameric nucleotide exchange factor eIF2B and
+conformationally inactivating it. We show that the NSs protein of Sandfly Fever
+Sicilian virus (SFSV) allows the virus to evade the ISR. Mechanistically, NSs
+tightly binds to eIF2B (KD = 30 nM), blocks eIF2-P binding, and rescues eIF2B GEF
+activity. Cryo-EM structures demonstrate that SFSV NSs and eIF2-P directly
+compete, with the primary NSs contacts to eIF2Bα mediated by five 'aromatic
+fingers'. NSs binding preserves eIF2B activity by maintaining eIF2B's
+conformation in its active A-State.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-26164-4 
+PMID: 34876554 
+

@@ -1,0 +1,62 @@
+
+1. BMC Cancer. 2019 Jul 29;19(1):743. doi: 10.1186/s12885-019-5925-5.
+
+NR2F1 contributes to cancer cell dormancy, invasion and metastasis of salivary
+adenoid cystic carcinoma by activating CXCL12/CXCR4 pathway.
+
+Gao XL(1), Zheng M(2), Wang HF(1), Dai LL(1), Yu XH(1), Yang X(1), Pang X(1), Li 
+L(2), Zhang M(1), Wang SS(1), Wu JB(1), Tang YJ(3)(4), Liang XH(5), Tang YL(6).
+
+Author information: 
+(1)State Key Laboratory of Oral Diseases and National Clinical Research Center
+for Oral Diseases, West China Hospital of Stomatology, Sichuan University, No.14,
+Sec. 3, Renminnan Road, Chengdu, 610041, Sichuan, China.
+(2)Department of Stomatology, Zhoushan Hospital, Wenzhou Medical University, No
+.739, Dingshen Road, Lincheng Street, Zhoushan, Zhejiang, 316021, China.
+(3)State Key Laboratory of Microbial Technology, Shandong University, Qingdao,
+266237, China. yajietang@qq.com.
+(4)Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei
+Provincial Cooperative Innovation Center of Industrial Fermentation, Hubei Key
+Laboratory of Industrial Microbiology, Hubei University of Technology, Wuhan,
+430068, China. yajietang@qq.com.
+(5)State Key Laboratory of Oral Diseases and National Clinical Research Center
+for Oral Diseases, West China Hospital of Stomatology, Sichuan University, No.14,
+Sec. 3, Renminnan Road, Chengdu, 610041, Sichuan, China. lxh88866@scu.edu.cn.
+(6)State Key Laboratory of Oral Diseases and National Clinical Research Center
+for Oral Diseases, West China Hospital of Stomatology, Sichuan University, No.14,
+Sec. 3, Renminnan Road, Chengdu, 610041, Sichuan, China. tangyaling@scu.edu.cn.
+
+BACKGROUND: Salivary adenoid cystic carcinoma (SACC) can recur after removal of
+the primary tumor and treatment, where they can keep no clinical symptoms and
+dormant state for 10-15 years. NR2F1 has been demonstrated to regulate the tumor 
+cell dormancy in various malignant tumors and has a potential impact on
+recurrence and metastasis of carcinoma. However, the role and significance of
+NR2F1 in SACC dormancy still remain unknown.
+METHODS: A total number of 59 patients with a diagnosis of SACC were included to 
+detected expression of NR2F1, Ki-67 by immunohistochemical (IHC) staining and
+terminal deoxynucleotidyl transferase-mediated dUTP nick and labeling (TUNEL).
+Fisher's exact test was used to examine the NR2F1 expression and
+clinicopathologic parameters of SACC. In vitro, SACC cell lines were transfected 
+NR2F1 and knockdown NR2F1 respectively. CCK-8, flow cytometry, wound healing
+assay and transwell invasion determined SACC cell proliferation, apoptosis, cell 
+cycle, migration and invasion respectively. Chromatin immunoprecipitation (ChIP) 
+assays were utilized to demonstrate the potential role of NR2F1 in SACC invasion 
+via CXCL12/CXCR4 axis. In vivo, xenografts of nude mice via subcutaneous
+injection or tail vein injection were used to testify the results in vitro.
+RESULTS: Among the 59 patients with SACC, 23.73% (14/59) were positive to NR2F1
+expression, a lower rate of expression compared with 60% (6/10) in normal
+salivary gland samples. NR2F1 was correlated with metastasis, relapse and
+dormancy of SACC. SACC cells with transfected NR2F1 remained dormant, as well as 
+enhanced invasion and metastasis. Knockdown of NR2F1 via siRNA after NR2F1
+overexpression restored the proliferation and the cell number in G2/M phases, and
+reduced the abilities of migration and invasion. In addition, NR2F1 promoted the 
+expression of CXCL12 and CXCR4, and overexpression of CXCL12 at least partly
+rescued the proliferation, migration, and invasion activities induced by NR2F1
+silencing.
+CONCLUSIONS: NR2F1 may be an underlying mechanism of SACC recurrence and
+metastasis via regulating tumor cell dormancy through CXCL12/CXCR4 pathway.
+
+DOI: 10.1186/s12885-019-5925-5 
+PMCID: PMC6664703
+PMID: 31357956  [Indexed for MEDLINE]
+

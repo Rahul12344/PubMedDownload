@@ -1,0 +1,31 @@
+
+1. J Biol Chem. 2002 Mar 1;277(9):6775-8. Epub 2002 Jan 11.
+
+Src is the kinase of the Helicobacter pylori CagA protein in vitro and in vivo.
+
+Selbach M(1), Moese S, Hauck CR, Meyer TF, Backert S.
+
+Author information: 
+(1)Max-Planck-Institut für Infektionsbiologie, Abt. Molekulare Biologie,
+Schumannstrasse 20/21, D-10117 Berlin, Germany.
+
+The gastric pathogen Helicobacter pylori uses a type IV secretion system to
+inject the bacterial CagA protein into gastric epithelial cells. Within the host 
+cell, CagA becomes phosphorylated on tyrosine residues and initiates cytoskeletal
+rearrangements. We demonstrate here that Src-like protein-tyrosine kinases
+mediate CagA phosphorylation in vitro and in vivo. First, the Src-specific
+tyrosine kinase inhibitor PP2 specifically blocks CagA phosphorylation and
+cytoskeletal rearrangements thereby inhibiting the CagA-induced hummingbird
+phenotype of gastric epithelial cells. Second, CagA is in vivo phosphorylated by 
+transiently expressed c-Src. Third, recombinant c-Src and lysates derived from
+c-Src-expressing fibroblasts but not lysates derived from Src-, Yes-, and
+Fyn-deficient cells phosphorylated CagA in vitro. Fourth, a transfected CagA-GFP 
+fusion protein is phosphorylated in vivo in Src-positive fibroblasts but not in
+Src-, Yes-, and Fyn-deficient cells. Because a CagA-GFP fusion protein mutated in
+an EPIYA motif is not efficiently phosphorylated in any of these fibroblast
+cells, the CagA EPIYA motif appears to constitute the major c-Src phosphorylation
+site conserved among CagA-positive Helicobacter strains.
+
+DOI: 10.1074/jbc.C100754200 
+PMID: 11788577  [Indexed for MEDLINE]
+

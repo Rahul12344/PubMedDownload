@@ -1,0 +1,69 @@
+
+1. Curr Protoc Immunol. 2019 Dec;127(1):e90. doi: 10.1002/cpim.90.
+
+Characterization of Human Mucosal-associated Invariant T (MAIT) Cells.
+
+Souter MNT(1)(2), Loh L(1), Li S(1)(2), Meehan BS(1), Gherardin NA(1)(2), Godfrey
+DI(1)(2), Rossjohn J(3)(4)(5), Fairlie DP(6)(7), Kedzierska K(1), Pellicci
+DG(1)(8), Chen Z(1), Kjer-Nielsen L(1), Corbett AJ(1), McCluskey J(1), Eckle
+SBG(1).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Peter Doherty Institute for
+Infection and Immunity, University of Melbourne, Melbourne, Australia.
+(2)Australian Research Council Centre of Excellence in Advanced Molecular
+Imaging, University of Melbourne, Parkville, Australia.
+(3)Infection and Immunity Program and Department of Biochemistry and Molecular
+Biology, Biomedicine Discovery Institute, Monash University, Clayton, Australia.
+(4)Australian Research Council Centre of Excellence in Advanced Molecular
+Imaging, Monash University, Clayton, Australia.
+(5)Institute of Infection and Immunity, Cardiff University School of Medicine,
+Heath Park, Wales, United Kingdom.
+(6)Division of Chemistry and Structural Biology, Institute for Molecular
+Bioscience, University of Queensland, Brisbane, Australia.
+(7)Australian Research Council Centre of Excellence in Advanced Molecular
+Imaging, University of Queensland, Brisbane, Australia.
+(8)Murdoch Children's Research Institute, Parkville, Australia.
+
+Mucosal-associated invariant T (MAIT) cells are a subset of unconventional T
+cells restricted by the major histocompatibility complex (MHC) class I-like
+molecule MHC-related protein 1 (MR1). MAIT cells are found throughout the body,
+especially in human blood and liver. Unlike conventional T cells, which are
+stimulated by peptide antigens presented by MHC molecules, MAIT cells recognize
+metabolite antigens derived from an intermediate in the microbial biosynthesis of
+riboflavin. MAIT cells mediate protective immunity to infections by
+riboflavin-producing microbes via the production of cytokines and cytotoxicity.
+The discovery of stimulating MAIT cell antigens allowed for the development of an
+analytical tool, the MR1 tetramer, that binds specifically to the MAIT T cell
+receptor (TCR) and is becoming the gold standard for identification of MAIT cells
+by flow cytometry. This article describes protocols to characterize the phenotype
+of human MAIT cells in blood and tissues by flow cytometry using fluorescently
+labeled human MR1 tetramers alongside antibodies specific for MAIT cell markers. 
+© 2019 by John Wiley & Sons, Inc. The main protocols include: Basic Protocol 1:
+Determining the frequency and steady-state surface phenotype of human MAIT cells 
+Basic Protocol 2: Determining the activation phenotype of human MAIT cells in
+blood Basic Protocol 3: Characterizing MAIT cell TCRs using TCR-positive reporter
+cell lines Alternate protocols are provided for determining the absolute number, 
+transcription factor phenotype, and TCR usage of human MAIT cells; and
+determining activation phenotype by staining for intracellular markers, measuring
+secreted cytokines, and measuring fluorescent dye dilution due to proliferation. 
+Additional methods are provided for determining the capacity of MAIT cells to
+produce cytokine independently of antigen using plate-bound or bead-immobilized
+CD3/CD28 stimulation; and determining the MR1-Ag dependence of MAIT cell
+activation using MR1-blocking antibody or competitive inhibition. For
+TCR-positive reporter cell lines, methods are also provided for evaluating the
+MAIT TCR-mediated MR1-Ag response, determining the capacity of the reporter lines
+to produce cytokine independently of antigen, determining the MR1-Ag dependence
+of the reporter lines, and evaluating the MR1-Ag response of the reporter lines
+using IL-2 secretion. Support Protocols describe the preparation of PBMCs from
+human blood, the preparation of single-cell suspensions from tissue, the
+isolation of MAIT cells by FACS and MACS, cloning MAIT TCRα and β chain genes and
+MR1 genes for transduction, generating stably and transiently transfected cells
+lines, generating a stable MR1 knockout antigen-presenting cell line, and
+generating monocyte-derived dendritic cells.
+
+© 2019 John Wiley & Sons, Inc.
+
+DOI: 10.1002/cpim.90 
+PMID: 31763790  [Indexed for MEDLINE]
+

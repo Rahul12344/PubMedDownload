@@ -1,0 +1,55 @@
+
+1. Expert Syst Appl. 2022 Mar 1;189:116063. doi: 10.1016/j.eswa.2021.116063. Epub
+2021 Oct 20.
+
+A biological sub-sequences detection using integrated BA-PSO based on infection
+propagation mechanism: Case study COVID-19.
+
+Issa M(1), Helmi AM(1)(2), Elsheikh AH(3), Abd Elaziz M(4)(5)(6).
+
+Author information: 
+(1)Computer and Systems Department, Faculty of Engineering, Zagazig University,
+Zagazig 44519, Egypt.
+(2)Engineering and Information Technology College, Buraydah Private Colleges,
+Buraydah 51418, Saudi Arabia.
+(3)Department of Production Engineering and Mechanical Design, Tanta University, 
+Tanta 31527, Egypt.
+(4)Department of Mathematics, Faculty of Science, Zagazig University, Zagazig
+44519, Egypt.
+(5)Artificial Intelligence Research Center (AIRC), Ajman University, Ajman 346,
+United Arab Emirates.
+(6)Faculty of Computer Science & Engineering, Galala University, Egypt.
+
+The longest common consecutive subsequences (LCCS) play a vital role in revealing
+the biological relationships between DNA/RNA sequences especially the newly
+discovered ones such as COVID-19. FLAT is a Fragmented local aligner technique
+which is an accelerated version of the local pairwise sequence alignment
+algorithm based on meta-heuristic algorithms. The performance of FLAT needs to be
+enhanced since the huge length of biological sequences leads to trapping in local
+optima. This paper introduces a modified version of FLAT based on improving the
+performance of the BA algorithm by integration with particle swarm optimization
+(PSO) algorithm based on a novel infection mechanism. The proposed algorithm,
+named BPINF, depends on finding the best-explored solution using BA operators
+which can infect the agents during the exploitation phase using PSO operators to 
+move toward it instead of moving toward the best-exploited solution. Hence,
+moving the solutions toward the two best solutions increase the diversity of
+generated solutions and avoids trapping in local optima. The infection can be
+propagated through the agents where each infected agent can transfer the
+infection to other non-infected agents which enhances the diversification of
+generated solutions. FLAT using the proposed technique (BPINF) was validated to
+detect LCCS between a set of real biological sequences with huge lengths besides 
+COVID-19 and other well-known viruses. The performance of BPINF was compared to
+the enhanced versions of BA in the literature and the relevant studies of FLAT.
+It has a preponderance to find the LCCS with the highest percentage (88%) which
+is better than other state-of-the-art methods.
+
+© 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.eswa.2021.116063 
+PMCID: PMC8527645
+PMID: 34690450 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

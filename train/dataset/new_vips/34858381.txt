@@ -1,0 +1,45 @@
+
+1. Front Microbiol. 2021 Nov 11;12:783040. doi: 10.3389/fmicb.2021.783040.
+eCollection 2021.
+
+DNA Engineering and Hepatitis B Virus Replication.
+
+Gan CY(1), Cui J(1), Zhang WL(1), Wang YW(2), Huang AL(1), Hu JL(1).
+
+Author information: 
+(1)Key Laboratory of Molecular Biology on Infectious Diseases, Ministry of
+Education, Chongqing Medical University, Chongqing, China.
+(2)Department of Laboratory Medicine, Chongqing Hospital of Traditional Chinese
+Medicine, Chongqing, China.
+
+Recombinant DNA technology is a vital method in human hepatitis B virus (HBV),
+producing reporter viruses or vectors for gene transferring. Researchers have
+engineered several genes into the HBV genome for different purposes; however, a
+systematic analysis of recombinant strategy is lacking. Here, using a 500-bp
+deletion strategy, we scanned the HBV genome and identified two regions, region I
+(from nt 2,118 to 2,814) and region II (from nt 99 to 1,198), suitable for
+engineering. Ten exogenous genes, including puromycin N-acetyl transferase gene
+(Pac), blasticidin S deaminase gene (BSD), Neomycin-resistance gene (Neo),
+Gaussia luciferase (Gluc), NanoLuc (Nluc), copGFP, mCherry, UnaG, eGFP, and tTA1,
+were inserted into these two regions and fused into the open reading frames of
+hepatitis B core protein (HBC) and hepatitis B surface protein (HBS) via T2A
+peptide. Recombination of 9 of the 10 genes at region 99-1198 and 5 of the 10
+genes at region 2118-2814 supported the formation of relaxed circular (RC) DNA.
+HBV DNA and HBV RNA assays implied that exogenous genes potentially abrogate RC
+DNA by inducing the formation of adverse secondary structures. This hypothesis
+was supported because sequence optimization of the UnaG gene based on HBC
+sequence rescued RC DNA formation. Findings from this study provide an
+informative basis and a valuable method for further constructing and optimizing
+recombinant HBV and imply that DNA sequence might be intrinsically a potential
+source of selective pressure in the evolution of HBV.
+
+Copyright © 2021 Gan, Cui, Zhang, Wang, Huang and Hu.
+
+DOI: 10.3389/fmicb.2021.783040 
+PMCID: PMC8632529
+PMID: 34858381 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

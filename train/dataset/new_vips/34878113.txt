@@ -1,0 +1,42 @@
+
+1. G3 (Bethesda). 2021 Dec 8. pii: jkab418. doi: 10.1093/g3journal/jkab418. [Epub
+ahead of print]
+
+Genome sequence of the English grain aphid, Sitobion avenae and its endosymbiont 
+Buchnera aphidicola.
+
+Byrne S(1), Schughart M(1)(2), Carolan JC(3), Gaffney M(4), Thorpe PJ(5), Malloch
+G(6), Wilkinson T(2), McNamara L(1).
+
+Author information: 
+(1)Teagasc, Crop Science Department, Oak Park, Carlow R93 XE12, Ireland.
+(2)UCD, School of Biology and Environmental Science, Belfield, Dublin 4, Ireland.
+(3)Maynooth University, Department of Biology, Maynooth, Co. Kildare, W23 F2H6,
+Ireland.
+(4)Teagasc, Ashtown Research Centre, Ashtown, Dublin D15 KN3K, Ireland.
+(5)School of Medicine, Medical and Biological Sciences, University of St.
+Andrews, St Andrews KY16 9AJ, United Kingdom.
+(6)The James Hutton Institute, Invergowrie, Dundee DD2 5DA, Scotland.
+
+The English grain aphid, Sitobion avenae, is a major agricultural pest of wheat, 
+barley and oats, and one of the principal vectors of Barley Yellow Dwarf Virus
+(BYDV) leading to significant reductions in grain yield, annually. Emerging
+resistance to and increasing regulation of insecticides has resulted in limited
+options for their control. Using PacBio HiFi data, we have produced a high
+quality draft assembly of the S. avenae genome; generating a primary assembly
+with a total assembly size of 475.7 Mb, and an alternate assembly with a total
+assembly size of 430.8 Mb. Our primary assembly was highly contiguous with only
+326 contigs and a contig N50 of 15.95 Mb. Assembly completeness was estimated at 
+97.7% using BUSCO analysis and 31,007 and 29,037 protein coding genes were
+predicted from the primary and alternate assemblies, respectively. This assembly,
+which is to our knowledge the first for an insecticide resistant clonal lineage
+of English grain aphid, will provide novel insight into the molecular and
+mechanistic determinants of resistance and will facilitate future research into
+mechanisms of viral transmission and aphid behavior.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of Genetics 
+Society of America.
+
+DOI: 10.1093/g3journal/jkab418 
+PMID: 34878113 
+

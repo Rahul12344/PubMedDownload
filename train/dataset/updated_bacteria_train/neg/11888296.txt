@@ -1,0 +1,44 @@
+
+1. Biochemistry. 2002 Mar 19;41(11):3781-9.
+
+Purification and characterization of the recombinant Na(+)-translocating
+NADH:quinone oxidoreductase from Vibrio cholerae.
+
+Barquera B(1), Hellwig P, Zhou W, Morgan JE, Häse CC, Gosink KK, Nilges M,
+Bruesehoff PJ, Roth A, Lancaster CR, Gennis RB.
+
+Author information: 
+(1)Department of Biochemistry, University of Illinois at Urbana-Champaign, 600
+South Mathews Street, Urbana, Illinois 61801, USA. barquera@scs.uiuc.edu
+
+The nqr operon from Vibrio cholerae, encoding the entire six-subunit,
+membrane-associated, Na(+)-translocating NADH:quinone oxidoreductase (Na(+)-NQR),
+was cloned under the regulation of the P(BAD) promoter. The enzyme was
+successfully expressed in V. cholerae. To facilitate molecular genetics studies
+of this sodium-pumping enzyme, a host strain of V. cholerae was constructed in
+which the genomic copy of the nqr operon was deleted. By using a vector
+containing a six-histidine tag on the carboxy terminus of the NqrF subunit, the
+last subunit in the operon, the recombinant enzyme was readily purified by
+affinity chromatography in a highly active form from detergent-solubilized
+membranes of V. cholerae. The recombinant enzyme has a high specific activity in 
+the presence of sodium. NADH consumption was assessed at a turnover number of 720
+electrons per second. When purified using dodecyl maltoside (DM), the isolated
+enzyme contains approximately one bound ubiquinone, whereas if the detergent LDAO
+is used instead, the quinone content of the isolated enzyme is negligible.
+Furthermore, the recombinant enzyme, purified with DM, has a relatively low rate 
+of reaction with O(2) (10-20 s(-1)). In steady state turnover, the isolated,
+recombinant enzyme exhibits up to 5-fold stimulation by sodium and functions as a
+primary sodium pump, as reported previously for Na(+)()-NQR from other bacterial 
+sources. When reconstituted into liposomes, the recombinant Na(+)-NQR generates a
+sodium gradient and a Delta Psi across the membrane. SDS-PAGE resolves all six
+subunits, two of which, NqrB and NqrC, contain covalently bound flavin. A redox
+titration of the enzyme, monitored by UV-visible spectroscopy, reveals three n = 
+2 redox centers and one n = 1 redox center, for which the presence of three
+flavins and a 2Fe-2S center can account. The V. cholerae Na(+)-NQR is well-suited
+for structural studies and for the use of molecular genetics techniques in
+addressing the mechanism by which NADH oxidation is coupled to the pumping of
+Na(+) across the membrane.
+
+DOI: 10.1021/bi011873o 
+PMID: 11888296  [Indexed for MEDLINE]
+

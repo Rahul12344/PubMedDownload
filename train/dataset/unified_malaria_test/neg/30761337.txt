@@ -1,0 +1,33 @@
+
+1. data brief. 2018 nov 27;21:2554-2561. doi: 10.1016/j.dib.2018.11.070. ecollection
+2018 dec.
+
+proteome data anopheles stephensi salivary glands using high-resolution mass
+spectrometry analysis.
+
+dey g(1)(2)(3), mohanty ak(4), sreenivasamurthy sk(2)(3), kumar m(2)(3), keshava 
+prasad ts(1)(2)(3), kumar a(4).
+
+author information: 
+(1)center systems biology molecular medicine, yenepoya research centre,
+yenepoya (deemed university), mangalore 575018, india.
+(2)institute bioinformatics, international tech park, bangalore 560066, india.
+(3)manipal academy higher education, manipal 576104, india.
+(4)icmr-national institute malaria research, field unit, campal, panaji, goa
+403001, india.
+
+the data article reports data proteins expressed female anopheles
+stephensi salivary glands. proteomic data acquired using high-resolution
+mass spectrometers - orbitrap-velos orbitrap-elite. samples derived from
+adult female a. stephensi salivary glands led identification 4390
+proteins. mass spectrometry data analyzed proteome discoverer (version
+2.1) platform sequest mascot search engines. identified proteins
+were analyzed gene ontology annotation, interaction network their
+possible roles vector-parasite interaction. data provided related
+to published article "integrating transcriptomics proteomics data for
+accurate assembly annotation genomes" (prasad et al., 2017) [1].
+
+doi: 10.1016/j.dib.2018.11.070 
+pmcid: pmc6288417
+pmid: 30761337 
+

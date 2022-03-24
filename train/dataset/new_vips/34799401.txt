@@ -1,0 +1,61 @@
+
+1. Genome Res. 2021 Nov 19. doi: 10.1101/gr.264705.120. [Epub ahead of print]
+
+Epstein-Barr virus nuclear antigen 2 extensively rewires the human chromatin
+landscape at autoimmune risk loci.
+
+Hong T(1)(2), Parameswaran S(1), Donmez OA(1), Miller D(1), Forney C(1), Lape
+M(1)(3), Saint Just Ribeiro M(1), Liang J(4), Edsall LE(1), Magnusen AF(5),
+Miller W(6), Chepelev I(1)(7), Harley JB(1)(7)(8), Zhao B(4), Kottyan
+LC(1)(7)(9), Weirauch MT(1)(3)(7)(10).
+
+Author information: 
+(1)Center for Autoimmune Genomics and Etiology, Cincinnati Children's Hospital
+Medical Center, Cincinnati, Ohio 45229, USA.
+(2)Department of Pharmacology and Systems Physiology, University of Cincinnati,
+College of Medicine, Cincinnati, Ohio 45229, USA.
+(3)Division of Biomedical Informatics, Cincinnati Children's Hospital Medical
+Center, Cincinnati, Ohio 45229, USA.
+(4)Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, 
+Boston, Massachusetts 02115, USA.
+(5)Division of Human Genetics, Cincinnati Children's Hospital Medical Center,
+Cincinnati, Ohio 45229, USA.
+(6)Department of Molecular Genetics, Biochemistry, and Microbiology, University
+of Cincinnati, College of Medicine, Cincinnati, Ohio 45267, USA.
+(7)Department of Pediatrics, University of Cincinnati, College of Medicine,
+Cincinnati, Ohio 45229, USA.
+(8)US Department of Veterans Affairs Medical Center, Cincinnati, Ohio 45229, USA.
+(9)Division of Allergy and Immunology, Cincinnati Children's Hospital Medical
+Center, Cincinnati, Ohio 45229, USA.
+(10)Division of Developmental Biology, Cincinnati Children's Hospital Medical
+Center, Cincinnati, Ohio 45229, USA.
+
+The interplay between environmental and genetic factors plays a key role in the
+development of many autoimmune diseases. In particular, the Epstein-Barr virus
+(EBV) is an established contributor to multiple sclerosis, lupus, and other
+disorders. Previously, we showed that the EBV nuclear antigen 2 (EBNA2)
+transactivating protein occupies up to half of the risk loci for a set of seven
+autoimmune disorders. To further examine the mechanistic roles played by EBNA2 at
+these loci on a genome-wide scale, we globally examined gene expression,
+chromatin accessibility, chromatin looping, and EBNA2 binding in a B cell line
+that was (1) uninfected, (2) infected with a strain of EBV lacking EBNA2, or (3) 
+infected with a strain that expresses EBNA2. We identified more than 400
+EBNA2-dependent differentially expressed human genes and more than 5000 EBNA2
+binding events in the human genome. ATAC-seq analysis revealed more than 2000
+regions in the human genome with EBNA2-dependent chromatin accessibility, and
+HiChIP data revealed more than 1700 regions where EBNA2 altered chromatin looping
+interactions. Autoimmune genetic risk loci were highly enriched at the sites of
+these EBNA2-dependent chromatin-altering events. We present examples of
+autoimmune risk genotype-dependent EBNA2 events, nominating genetic risk
+mechanisms for autoimmune risk loci such as ZMIZ1 Taken together, our results
+reveal important interactions between host genetic variation and EBNA2-driven
+disease mechanisms. Further, our study highlights a critical role for EBNA2 in
+rewiring human gene regulatory programs through rearrangement of the chromatin
+landscape and nominates these interactions as components of genetic mechanisms
+that influence the risk of multiple autoimmune diseases.
+
+© 2021 Hong et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.264705.120 
+PMID: 34799401 
+

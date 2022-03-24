@@ -1,0 +1,41 @@
+
+1. Biochem Biophys Res Commun. 2004 Jul 30;320(3):1026-33.
+
+Up-regulation of human beta-defensin 2 by interleukin-1beta in A549 cells:
+involvement of PI3K, PKC, p38 MAPK, JNK, and NF-kappaB.
+
+Jang BC(1), Lim KJ, Paik JH, Kwon YK, Shin SW, Kim SC, Jung TY, Kwon TK, Cho JW, 
+Baek WK, Kim SP, Suh MH, Suh SI.
+
+Author information: 
+(1)Department of Microbiology, Chronic Disease Research Center, Institute for
+Medical Science, School of Medicine, Keimyung University, #194 DongSan-Dong
+Jung-Gu, Daegu 700-712, Republic of Korea.
+
+Induction of human beta-defensin 2 (HBD-2) by interleukin-1beta (IL-1beta) in
+epithelial cells has been reported. However, the mechanism by which IL-1beta
+up-regulates HBD-2 remains poorly understood. In this study, we investigated the 
+effect of IL-1beta on induction of HBD-2 in A549 cells. IL-1beta markedly
+increased HBD-2 mRNA expression in concentration- and time-dependent manners.
+HBD-2 mRNA expression in response to IL-1beta was attenuated by pretreatment of
+GF109203X, Go6976, and staurosporine [inhibitors of protein kinase C (PKC)],
+SB203580 [an inhibitor of p38 mitogen-activated protein kinase (MAPK)], SP600125 
+[an inhibitor of c-Jun N-terminal kinase (JNK)], and LY294002 [an inhibitor of
+phosphatidylinositol-3-kinase (PI3K)], but not PD98059 [an inhibitor of
+extracellular signal-regulated kinase (ERK)], suggesting involvement of PKC, p38 
+MAPK, JNK, and PI3K in this response. Interestingly, IL-1beta induced nuclear
+factor-kappaB (NF-kappaB) activation in A549 cells, which was shown by increased 
+nuclear translocation of p65 NF-kappaB and degradation of IkappaB-alpha.
+Importantly, IL-1beta-induced HBD-2 mRNA expression was inhibited by blockage of 
+NF-kappaB activation using NF-kappaB inhibitors, including pyrrolidine
+dithiocarbamate and MG132. Specifically, IL-1beta-induced nuclear translocation
+of NF-kappaB was in part attenuated by LY294002, but not by GF109203X, SB203580, 
+and SP600125, suggesting PI3K-dependent nuclear translocation of NF-kappaB in
+response to IL-1beta. Together, these results suggest that IL-1beta induces HBD-2
+mRNA expression in A549 cells, and the induction seems to be at least in part
+mediated through activation of NF-kappaB transcription factor as well as
+activation of signaling proteins of PKC, p38 MAPK, JNK, and PI3K, but not ERK.
+
+DOI: 10.1016/j.bbrc.2004.06.049 
+PMID: 15240151  [Indexed for MEDLINE]
+

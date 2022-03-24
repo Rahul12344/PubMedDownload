@@ -1,0 +1,41 @@
+
+1. J Biomol Struct Dyn. 2021 Nov 5:1-21. doi: 10.1080/07391102.2021.1997822. [Epub
+ahead of print]
+
+Molecular docking and simulation studies of synthetic protease inhibitors against
+COVID-19: a computational study.
+
+Gouhar SA(1), Elshahid ZA(2).
+
+Author information: 
+(1)Medical Biochemistry Department, Medical Research Division, National Research 
+Centre, Cairo, Egypt.
+(2)Chemistry of Natural and Microbial Products, Pharmaceutical Industry Research 
+Division, National Research Center, Cairo, Egypt.
+
+COVID-19 is the most recent threat to global health. Many people preferred
+treatment in case of infection instead of vaccination. The inhibition of viral
+replication is a good strategy for the treatment of COVID-19 infection. 3CLpro
+and PLpro are two important viral proteases responsible for proteolysis,
+infection, and replication of the virus. Therefore, targeting of these two
+enzymes is an attractive way to deal with COVID-19. The aim of this study was to 
+screen some synthetic protease inhibitors to determine an appropriate hit
+molecule against COVID-19 using molecular docking and molecular dynamic
+simulations. The strategy depends on docking existing synthetic compounds mostly 
+HIV protease inhibitors against two COVID-19 proteases to identify promising
+drugs for the treatment of COVID-19. We used protein data bank to obtain the
+X-ray crystal structure of the most important COVID-19 proteases 3CL pro (PDB ID:
+6M2N) and PL pro (PDB ID: 6WX4). In this conceptual context, an attempt has been 
+made to suggest an in silico computational relationship between 50 synthetic
+protease inhibitors and COVID-19 proteases. Out of 50 screened compounds, the
+best docking scores were found for these five protease inhibitors BDBM7021,
+BDBM698, BDBM694, BDBM93239, BDBM700. A 100-ns MD simulation was carried out to
+assess the stability of COVID-19 proteases and inhibitors, revealing an average
+RMSD value of 0.7 and favorable binding free energy (MM-GBSA) for all complexes
+confirming their potency as powerful binders in the COVID-19 proteases' binding
+pocket. Furthermore, the current results must be confirmed using in-vitro and
+in-vivo antiviral methods.Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2021.1997822 
+PMID: 34738871 
+

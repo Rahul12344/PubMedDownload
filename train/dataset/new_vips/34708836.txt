@@ -1,0 +1,79 @@
+
+1. Rev Esp Salud Publica. 2021 Oct 28;95. pii: e202110144.
+
+[Usefulness of COVID-19 patients first analysis made at the Emergency Department 
+as a prediction tool for mortality (PMCovid Score).]
+
+[Article in Spanish; Abstract available in Spanish from the publisher]
+
+García-Ruano AB(1), García-Chileme S(1), Martínez-Chamorro A(1), Martínez-Lara
+E(2), Coca-Zúñiga R(3).
+
+Author information: 
+(1)Servicio de Análisis Clínicos. Hospital Universitario de Jaén. Jaén. España.
+(2)Universidad de Jaén. Jaén. España.
+(3)Servicio de Análisis Clínicos. Hospital Universitario Virgen de las Nieves.
+Granada. España.
+
+OBJECTIVE: The COVID-19 pandemic has generated a high demand for hospital
+resources taking the national health system to its limit. In order to reduce this
+over burden and to avoid a potential system collapse, it would be beneficial to
+generate scientific evidence for the prognosis of the disease and to count with
+models that are able to forecast the mortality and progression of the disease.
+Identify mortality risk factors in COVID-19 patients from analytic data obtained 
+from the Emergency Service at our hospital and to elaborate a prognostic score
+for predicting 30-day mortality (PMCovid Score) that will be included in the
+report submitted by the Emergency Clinic Laboratory.
+METHODS: Transversal descriptive study in a population that came to the Emergency
+Service at the University Hospital of Jaén between March 8th and April 7th 2020. 
+We obtained the variables for the prognosis by a univariate data analysis. On
+this basis, we applied a multivariate analysis of the logistical regression of
+the mortality after 30 days in order to generate a prognostic score which was
+validated subsequently by the TRIPOD method.
+RESULTS: 298 patients were included. PMCovid Score assigns 1 point to patients
+age ≥77 years old; 1 point to patients with a urea level ≥49 mg/dL, 1 point to
+erythrocyte values <4.6x106/µL, 2 points to platelet values <165x103/µL; 1 point 
+to patients with a percentage of lymphocytes below 18.1%; 1 point to those with a
+% of monocytes <6.8% and 2 points if the % of eosinophils is <0.4%.Our score had 
+a predictive accuracy of 88.6% (AUC 0.886 IC at 95%; 0.842-0.931), with a
+sensibility of 91.7% (IC at 95% 82.810-100) and a specificity of 69.7% (IC at 95%
+63.840-75.680).
+CONCLUSIONS: PMCovid Score provides the doctor with information on the prognosis 
+of the positive COVID-19 patient along with the usual first analysis data, the
+necessary parameters for the calculations are available at all Emergency
+Laboratory Clinics. This information can be very useful for the management of
+this kind of patients and their classification based on the risk supplied by the 
+PMCovid Score.
+
+Publisher: La pandemia por COVID-19 ha generado una alta demanda de recursos
+hospitalarios llevando al límite al sistema nacional de salud. Es por ello que
+para reducir dicha sobrecarga y el posible colapso del sistema, sería beneficioso
+generar evidencia científica sobre el pronóstico de la enfermedad y disponer de
+modelos que permitan predecir la mortalidad y la progresión de la enfermedad. El 
+objetivo de este trabajo fue identificar factores de riesgo de mortalidad en
+pacientes COVID-19 a partir de los datos analíticos solicitados por el Servicio
+de Urgencias del hospital y elaborar un score pronóstico de mortalidad a 30
+días.Estudio transversal descriptivo en pacientes con COVID-19 que acudieron al
+Servicio de Urgencias del Hospital Universitario de Jaén entre el 8 de marzo y el
+7 de abril de 2020. Las variables con utilidad para el pronóstico se obtuvieron
+mediante un análisis univariante de los datos, a partir de ellas se aplicó un
+análisis multivariante de regresión logística de mortalidad a los 30 días para
+generar el score pronóstico que posteriormente fue validado mediante el método
+TRIPOD.Se incluyeron 298 pacientes. PMCovid Score asigna 1 punto a pacientes con 
+edad ≥77 años; 1 punto a los pacientes con niveles de urea ≥49 mg/dL, 1 punto a
+valores de hematíes <4,6x106/µL, 2 puntos a valores de plaquetas <165x103/µL; 1
+punto a pacientes con un porcentaje de linfocitos inferior al 18,1%; 1 punto a
+los que tenga un porcentaje de monocitos menores a 6,8% y 2 puntos si el
+porcentaje de eosinófilos es menor del 0,4%. La capacidad pronóstica de nuestro
+score fue del 88,6% (AUC 0,886 IC al 95%; 0,842-0,931), con una sensibilidad del 
+91,7% (IC al 95% 82,810-100) y una especificidad del 69,7% (IC al 95%
+63,840-75,680).PMCovid Score proporciona al clínico información acerca del
+pronóstico del paciente con COVID-19 positivo con los datos habituales de la
+primera analítica, los parámetros necesarios para el cálculo están disponibles en
+la totalidad de los Laboratorios Clínicos de Urgencias.
+
+PMID: 34708836  [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors report no conflicts of
+interest in this work.
+

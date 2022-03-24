@@ -1,0 +1,47 @@
+
+1. Comput Biol Med. 2021 Dec;139:104965. doi: 10.1016/j.compbiomed.2021.104965. Epub
+2021 Oct 22.
+
+Potential of turmeric-derived compounds against RNA-dependent RNA polymerase of
+SARS-CoV-2: An in-silico approach.
+
+Singh R(1), Bhardwaj VK(2), Purohit R(3).
+
+Author information: 
+(1)Structural Bioinformatics Lab, CSIR-Institute of Himalayan Bioresource
+Technology (CSIR-IHBT), Palampur, HP, 176061, India; Biotechnology Division,
+CSIR-IHBT, Palampur, HP, 176061, India.
+(2)Structural Bioinformatics Lab, CSIR-Institute of Himalayan Bioresource
+Technology (CSIR-IHBT), Palampur, HP, 176061, India; Biotechnology Division,
+CSIR-IHBT, Palampur, HP, 176061, India; Academy of Scientific & Innovative
+Research (AcSIR), Ghaziabad-201002, India.
+(3)Structural Bioinformatics Lab, CSIR-Institute of Himalayan Bioresource
+Technology (CSIR-IHBT), Palampur, HP, 176061, India; Biotechnology Division,
+CSIR-IHBT, Palampur, HP, 176061, India; Academy of Scientific & Innovative
+Research (AcSIR), Ghaziabad-201002, India. Electronic address:
+rituraj@ihbt.res.in.
+
+The Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) is the causative
+agent of the COVID-19 pandemic. Currently, there are no particular antivirals
+available to battle with COVID-19. The RNA-dependent RNA polymerase (RdRp) has
+emerged as a novel drug target due to its essential role in virus replication. In
+this study, turmeric-derived compounds were chosen and subjected to in-silico
+analysis to evaluate their binding affinity against the RdRp-RNA complex of
+SARS-CoV-2. Our in-silico approach included the analysis of protein-ligand
+interactions by molecular docking and molecular dynamics simulations, followed by
+free energy calculations by molecular mechanics Poisson-Boltzmann surface area
+analysis. Curcumin and diacetylcurcumin showed stability and good binding
+affinity at the active site of the SARS-CoV-2 RdRp-RNA complex. Furthermore, to
+validate the potency of selected compounds, we compared them with Favipiravir and
+Remdesivir antiviral drugs from our previous analysis on targeting tea bioactive 
+molecules to inhibit RdRp-RNA complex. The comparative analysis revealed that the
+selected compounds showed higher potential to be developed as RdRp-RNA inhibitors
+than antiviral medicines Remdesivir and Favipiravir. However, these compounds
+need to be further validated by in-vitro and in-vivo investigations.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2021.104965 
+PMCID: PMC8532373
+PMID: 34717229 
+

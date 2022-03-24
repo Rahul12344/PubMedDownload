@@ -1,0 +1,54 @@
+
+1. BMC Public Health. 2021 Nov 27;21(1):2173. doi: 10.1186/s12889-021-11891-6.
+
+Using GAM functions and Markov-Switching models in an evaluation framework to
+assess countries' performance in controlling the COVID-19 pandemic.
+
+de Oliveira AMB(1), Binner JM(2), Mandal A(2), Kelly L(3), Power GJ(4).
+
+Author information: 
+(1)Department of Business, Federal University of Technology of Paraná, Paraná,
+Brazil. abdinardom@utfpr.edu.br.
+(2)Birmingham Business School, University of Birmingham, Birmingham, UK.
+(3)Department of Economics, University of Wisconsin, River Falls, USA.
+(4)Department of Finance, Insurance and Real Estate, Laval University, Laval,
+Canada.
+
+BACKGROUND: The COVID-19 pandemic has initiated several initiatives to better
+understand its behavior, and some projects are monitoring its evolution across
+countries, which naturally leads to comparisons made by those using the data.
+However, most "at a glance" comparisons may be misleading because the curve that 
+should explain the evolution of COVID-19 is different across countries, as a
+result of the underlying geopolitical or socio-economic characteristics.
+Therefore, this paper contributes to the scientific endeavour by creating a new
+evaluation framework to help stakeholders adequately monitor and assess the
+evolution of COVID-19 in countries, considering the occurrence of spikes,
+"secondary waves" and structural breaks in the time series.
+METHODS: Generalized Additive Models were used to model cumulative and daily
+curves for confirmed cases and deaths. The Root Relative Squared Error and the
+Percentage Deviance Explained measured how well the models fit the data. A local 
+min-max function was used to identify all local maxima in the fitted values. The 
+pure Markov-Switching and the family of Markov-Switching GARCH models were used
+to identify structural breaks in the COVID-19 time series. Finally, a quadrants
+system to identify countries that are more/less efficient in the short/long term 
+in controlling the spread of the virus and the number of deaths was developed.
+Such methods were applied in the time series of 189 countries, collected from the
+Centre for Systems Science and Engineering at Johns Hopkins University.
+RESULTS: Our methodology proves more effective in explaining the evolution of
+COVID-19 than growth functions worldwide, in addition to standardizing the entire
+estimation process in a single type of function. Besides, it highlights several
+inflection points and regime-switching moments, as a consequence of people's
+diminished commitment to fighting the pandemic. Although Europe is the most
+developed continent in the world, it is home to most countries with an upward
+trend and considered inefficient, for confirmed cases and deaths.
+CONCLUSIONS: The new outcomes presented in this research will allow key
+stakeholders to check whether or not public policies and interventions in the
+fight against COVID-19 are having an effect, easily identifying examples of best 
+practices and promote such policies more widely around the world.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12889-021-11891-6 
+PMCID: PMC8626735
+PMID: 34837982 
+

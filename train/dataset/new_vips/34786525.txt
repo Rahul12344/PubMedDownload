@@ -1,0 +1,40 @@
+
+1. Infect Dis Model. 2021 Oct 14;6:1202-1219. doi: 10.1016/j.idm.2021.09.004.
+eCollection 2021.
+
+Optimal treatment strategies to control acute HIV infection.
+
+Ahmed S(1), Rahman S(2), Kamrujjaman M(3).
+
+Author information: 
+(1)Department of Mathematics, Bangladesh University of Engineering and
+Technology, Dhaka, 1000, Bangladesh.
+(2)Department of Statistics, University of Dhaka, Dhaka, 1000, Bangladesh.
+(3)Department of Mathematics, University of Dhaka, Dhaka, 1000, Bangladesh.
+
+Various antiretroviral therapies (ART) are administered to symptomatic human
+immunodeficiency virus (HIV) infected individuals to improve their health. The
+treatment effectiveness may depend on suppressing development of drug resistance,
+reduce evolution of new viral strains, minimize serious side effects and the
+costs of drugs. This paper deals with some results concerning optimal drug
+administration scheme successful in improving patients' health especially in
+poorly resourced settings. The model under consideration describes the
+interaction between the uninfected cells, the latently infected cells, the
+productively infected cells, and the free viruses. Generally, in viral infection,
+the drug strategy aspects either the virus infectivity or reduce the virion
+production. The mathematical model proposed here, deals with both situations with
+the objective function based on a combination of maximizing benefit relied on T
+cells count (the white cells that coordinate activities of the immune system) and
+minimizing the systemic cost. The existence of the optimal control pair is
+established and the Pontryagin's minimum principle is used to characterize these 
+two optimal controls. The optimality system is derived and solved numerically
+using the forward and backward sweep method (FBSM). Our results indicate that
+early initiation of treatment makes a profound impact in both improving the
+quality of life and reducing the economic costs of therapy.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.idm.2021.09.004 
+PMCID: PMC8569721
+PMID: 34786525 
+

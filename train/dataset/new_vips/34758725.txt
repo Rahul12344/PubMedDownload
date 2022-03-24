@@ -1,0 +1,47 @@
+
+1. BMC Genomics. 2021 Nov 10;22(1):810. doi: 10.1186/s12864-021-08100-4.
+
+Integration of transcriptomics and network analysis reveals co-expressed genes in
+Frankliniella occidentalis larval guts that respond to tomato spotted wilt virus 
+infection.
+
+Han J(1), Rotenberg D(2).
+
+Author information: 
+(1)Department of Entomology and Plant Pathology, North Carolina State University,
+Raleigh, North Carolina, 27695, USA.
+(2)Department of Entomology and Plant Pathology, North Carolina State University,
+Raleigh, North Carolina, 27695, USA. drotenb@ncsu.edu.
+
+BACKGROUND: The gut is the first barrier to infection by viruses that are
+internally borne and transmitted persistently by arthropod vectors to plant and
+animal hosts. Tomato spotted wilt virus (TSWV), a plant-pathogenic virus, is
+transmitted exclusively by thrips vectors in a circulative-propagative manner.
+Frankliniella occidentalis (western flower thrips), the principal thrips vector
+of TSWV, is transmission-competent only if the virus is acquired by young larvae.
+To begin to understand the larval gut response to TSWV infection and
+accumulation, a genome-assisted, transcriptomic analysis of F. occidentalis gut
+tissues of first (early L1) and second (early L2 and late L2) instar larvae was
+conducted using RNA-Seq to identify differentially-expressed transcripts (DETs)
+in response to TSWV compared to non-exposed cohorts.
+RESULTS: The larval gut responded in a developmental stage-dependent manner, with
+the majority of DETs (71%) associated with the early L1 stage at a time when
+virus infection is limited to the midgut epithelium. Provisional annotations of
+these DETs inferred roles in digestion and absorption, insect innate immunity,
+and detoxification. Weighted gene co-expression network analysis using all
+assembled transcripts of the gut transcriptome revealed eight gene modules that
+distinguish larval development. Intra-module interaction network analysis of
+the three most DET-enriched modules revealed ten central hub genes. Droplet
+digital PCR-expression analyses of select network hub and connecting genes
+revealed temporal changes in gut expression during and post exposure to TSWV.
+CONCLUSIONS: These findings expand our understanding of the
+developmentally-mediated interaction between thrips vectors and
+orthotospoviruses, and provide opportunities for probing pathways for biomarkers 
+of thrips vector competence.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12864-021-08100-4 
+PMCID: PMC8582212
+PMID: 34758725  [Indexed for MEDLINE]
+

@@ -1,0 +1,61 @@
+
+1. Vaccines (Basel). 2021 Sep 28;9(10). pii: 1093. doi: 10.3390/vaccines9101093.
+
+Specific CD8+ TCR Repertoire Recognizing Conserved Antigens of SARS-CoV-2 in
+Unexposed Population: A Prerequisite for Broad-Spectrum CD8+ T Cell Immunity.
+
+Hu W(1), He M(2), Wang X(3)(4), Sun Q(5)(6), Kuang M(7)(8)(9).
+
+Author information: 
+(1)Department of Oncology, The First Affiliated Hospital of Sun Yat-sen
+University, Guangzhou 510080, China.
+(2)Laboratory of General Surgery, The First Affiliated Hospital of Sun Yat-sen
+University, Guangzhou 510080, China.
+(3)National Clinical Research Center for Geriatrics Diseases, Chinese PLA General
+Hospital, Beijing 100853, China.
+(4)School of Laboratory Medicine and Biotechnology, Southern Medical University, 
+Guangzhou 510515, China.
+(5)Laboratory of Cell Engineering, Institute of Biotechnology, Beijing 100071,
+China.
+(6)Research Unit of Cell Death Mechanism, 2020RU009, Chinese Academy of Medical
+Science, Beijing 100071, China.
+(7)Division of Interventional Ultrasound, The First Affiliated Hospital of Sun
+Yat-sen University, Guangzhou 510080, China.
+(8)Department of Liver Surgery, The First Affiliated Hospital of Sun Yat-sen
+University, Guangzhou 510080, China.
+(9)Cancer Center, The First Affiliated Hospital of Sun Yat-sen University,
+Guangzhou 510080, China.
+
+BACKGROUND: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has
+developed variants escaping neutralization antibody immunity established against 
+the original virus. An understanding of broad-spectrum adaptive immunity,
+including CD8+ T cell immunity to wide range of epitopes, could help
+translational efforts to improve coronavirus disease 2019 (COVID-19) prevention
+and therapy. However, there have been few direct studies in which such immunity
+exists in a population.
+METHODS: We selected SARS-CoV-2-conserved structural peptides that are not prone 
+to mutation as antigens for broad-spectrum CD8+ T cell immunity. Peripheral blood
+mononuclear cells (PBMCs) from unexposed healthy donors were stimulated with
+these peptides in vitro and CD8+ T cell-specific response was monitored. The
+conserved peptide-specific CD8+ T cells were sorted for T cell receptor (TCR)
+repertoire sequencing. The presence of specific complementary determining region 
+3 (CDR3) clones was analyzed in a healthy cohort.
+RESULTS: For each structural protein, including S, E, M, N, the conserved
+peptides could potentially provide the largest number of major histocompatibility
+complex-I (MHC-I) epitopes in the Oriental and Caucasian populations. For
+conserved peptides from spike (S), envelope (E), membrane (M), nucleocapsid (N)
+proteins, we found that there were no cross-reactive memory T cells in the
+unexposed individuals. Instead, their T cells contain naïve TCR repertoire
+recognizing these conserved peptides. Using TCR sequencing and CDR3 clustering
+for the conserved peptides specific T cells, we found that the recovered patients
+had a higher proportion of TCR repertoire similar with that of specific CD8+ T
+cells in unexposed individuals. Meanwhile, CDR3 clones of the above T cells were 
+widely present in the healthy population.
+CONCLUSIONS: This study provides evidence of broad-spectrum SARS-CoV-2 specific
+CD8+ TCR repertoire in unexposed healthy population, which is implicated in the
+development and implementation of broad-spectrum vaccines against COVID-19.
+
+DOI: 10.3390/vaccines9101093 
+PMCID: PMC8541101
+PMID: 34696201 
+

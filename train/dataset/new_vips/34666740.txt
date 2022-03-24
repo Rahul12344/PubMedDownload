@@ -1,0 +1,50 @@
+
+1. BMC Public Health. 2021 Oct 20;21(1):1898. doi: 10.1186/s12889-021-11945-9.
+
+Effect of public health interventions during the first epidemic wave of COVID-19 
+in Cyprus: a modelling study.
+
+Gountas I(1), Quattrocchi A(2), Mamais I(3), Tsioutis C(4), Christaki E(5),
+Fokianos K(6), Nikolopoulos G(5).
+
+Author information: 
+(1)Medical School, University of Cyprus, Palaios dromos Lefkosias Lemesou
+No.215/6, P.O.Box 20537, Nicosia, Cyprus. hgkoyntas@med.uoa.gr.
+(2)Department of Primary Care and Population Health, University of Nicosia
+Medical School, Nicosia, Cyprus.
+(3)School of Sciences, European University, Nicosia, Cyprus.
+(4)School of Medicine, European University, Nicosia, Cyprus.
+(5)Medical School, University of Cyprus, Palaios dromos Lefkosias Lemesou
+No.215/6, P.O.Box 20537, Nicosia, Cyprus.
+(6)Department of Mathematics and Statistics, University of Cyprus, Nicosia,
+Cyprus.
+
+BACKGROUND: Cyprus addressed the first wave of SARS CoV-2 (COVID-19) by
+implementing non-pharmaceutical interventions (NPIs). The aims of this study
+were: a) to estimate epidemiological parameters of this wave including infection 
+attack ratio, infection fatality ratio, and case ascertainment ratio, b) to
+assess the impact of public health interventions and examine what would have
+happened if those interventions had not been implemented.
+METHODS: A dynamic, stochastic, individual-based
+Susceptible-Exposed-Infected-Recovered (SEIR) model was developed to simulate
+COVID-19 transmission and progression in the population of the Republic of
+Cyprus. The model was fitted to the observed trends in COVID-19 deaths and
+intensive care unit (ICU) bed use.
+RESULTS: By May 8th, 2020, the infection attack ratio was 0.31% (95% Credible
+Interval [CrI]: 0.15, 0.54%), the infection fatality ratio was 0.71% (95% CrI:
+0.44, 1.61%), and the case ascertainment ratio was 33.2% (95% CrI: 19.7, 68.7%). 
+If Cyprus had not implemented any public health measure, the healthcare system
+would have been overwhelmed by April 14th. The interventions averted 715 (95%
+CrI: 339, 1235) deaths. If Cyprus had only increased ICU beds, without any social
+distancing measure, the healthcare system would have been overwhelmed by April
+19th.
+CONCLUSIONS: The decision of the Cypriot authorities to launch early NPIs limited
+the burden of the first wave of COVID-19. The findings of these analyses could
+help address the next waves of COVID-19 in Cyprus and other similar settings.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12889-021-11945-9 
+PMCID: PMC8526096
+PMID: 34666740  [Indexed for MEDLINE]
+

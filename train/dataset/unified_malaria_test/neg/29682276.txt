@@ -1,0 +1,62 @@
+
+1. cell biosci. 2018 apr 12;8:29. doi: 10.1186/s13578-018-0227-1. ecollection 2018.
+
+characterization potential role microrna chinese dominant malaria
+mosquito anopheles sinensis (diptera: culicidae) throughout four different life
+stages.
+
+feng x(1)(2), wu j(1), zhou s(1), wang j(3)(4), hu w(1)(2)(3)(4).
+
+author information: 
+(1)national institute parasitic diseases, chinese center disease control
+and prevention, key laboratory parasite vector biology, national health
+and family planning commission, collaborating center tropical diseases,
+national center international research tropical diseases, shanghai, 200025
+people's republic china.
+(2)2joint research laboratory genetics ecology parasites-hosts
+interaction, national institute parasitic diseases-fudan university, shanghai,
+200025 people's republic china.
+(3)3state key laboratory genetic engineering, ministry education key
+laboratory contemporary anthropology, collaborative innovation center for
+genetics development, school life sciences, fudan university, shanghai,
+200438 people's republic china.
+(4)4department microbiology microbial engineering, school life science,
+fudan university, shanghai, 200433 china.
+
+background: micrornas (mirnas) one kind small non-coding rnas widely
+distributed insects. many studies shown mirnas play critical roles
+in development, differentiation, apoptosis, innate immunity. however, there
+are reports describing mirnas anopheles sinensis, common, and
+one dominant malaria mosquito china. here, investigated global
+mirna expression profile across four different developmental stages including
+embryo, larval, pupal, adult stages using illumina hiseq 2500 sequencing.
+results: total, 164 mirnas obtained 107.46 million raw sequencing 
+reads. 99 identified known mirnas, remaining 65 mirnas were
+considered novel. analyzing read counts mirnas developmental 
+stages, 95 mirnas showed stage-specific expression (q < 0.01 |log2 (fold
+change)| > 1) consecutive stages, indicating mirnas may involved
+in critical physiological activity development. sixteen mirnas were
+identified commonly dysregulated throughout four developmental stages. many
+mirnas showed stage-specific expression, asi-mir-2943 exclusively
+expressed embryo stage, asi-mir-1891 could detected larval
+stage. expression six selected differentially expressed mirnas identified 
+by qrt-pcr consistent sequencing results. furthermore, 5296 and
+1902 target genes identified dysregulated 68 known 27 novel
+mirnas respectively combining miranda rnahybrid prediction. go annotation 
+and kegg pathway analysis predicted genes dysregulated mirnas revealed
+that might involved broad range biological processes related with
+the development, membrane, organic substance transport several key
+pathways including protein processing endoplasmic reticulum, propanoate
+metabolism folate biosynthesis. thirty-two key mirnas identified by
+microrna-gene network analysis.
+conclusion: present study represents first global characterization an.
+sinensis mirnas four developmental stages. presence differential
+expression an. sinensis mirnas imply mirnas may play critical roles 
+in an. sinensis life cycle. better understanding functions these
+mirnas great implication effective control vector population
+and therefore interrupting malaria transmission.
+
+doi: 10.1186/s13578-018-0227-1 
+pmcid: pmc5898052
+pmid: 29682276 
+

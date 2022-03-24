@@ -1,0 +1,41 @@
+
+1. FEBS J. 2020 May;287(9):1758-1776. doi: 10.1111/febs.15108. Epub 2019 Nov 10.
+
+Engineering transketolase to accept both unnatural donor and acceptor substrates 
+and produce α-hydroxyketones.
+
+Yu H(1), Hernández López RI(1), Steadman D(2), Méndez-Sánchez D(2), Higson S(2), 
+Cázares-Körner A(2), Sheppard TD(2), Ward JM(1), Hailes HC(2), Dalby PA(1).
+
+Author information: 
+(1)Department of Biochemical Engineering, University College London, UK.
+(2)Department of Chemistry, University College London, UK.
+
+A narrow substrate range is a major limitation in exploiting enzymes more widely 
+as catalysts in synthetic organic chemistry. For enzymes using two substrates,
+the simultaneous optimisation of both substrate specificities is also required
+for the rapid expansion of accepted substrates. Transketolase (TK) catalyses the 
+reversible transfer of a C2 -ketol unit from a donor substrate to an aldehyde
+acceptor and suffers the limitation of narrow substrate scope for industrial
+applications. Herein, TK from Escherichia coli was engineered to accept both
+pyruvate, as a novel donor substrate, and unnatural acceptor aldehydes, including
+propanal, pentanal, hexanal and 3-formylbenzoic acid (FBA). Twenty single-mutant 
+variants were first designed and characterised experimentally. Beneficial
+mutations were then recombined to construct a small library. Screening of this
+library identified the best variant with a 9.2-fold improvement in the yield
+towards pyruvate and propionaldehyde, relative to wild-type (WT). Pentanal and
+hexanal were used as acceptors to determine stereoselectivities of the reactions,
+which were found to be higher than 98% enantiomeric excess (ee) for the S
+configuration. Three variants were identified to be active for the reaction
+between pyruvate and 3-FBA. The best variant was able to convert 47% of substrate
+into product within 24 h, whereas no conversion was observed for WT. Docking
+experiments suggested a cooperation between the mutations responsible for donor
+and acceptor recognition, which would promote the activity towards both the
+acceptor and donor. The variants obtained have the potential to be used for
+developing catalytic pathways to a diverse range of high-value products.
+
+© 2019 Federation of European Biochemical Societies.
+
+DOI: 10.1111/febs.15108 
+PMID: 31647171  [Indexed for MEDLINE]
+

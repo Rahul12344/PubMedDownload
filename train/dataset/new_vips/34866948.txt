@@ -1,0 +1,53 @@
+
+1. Risk Manag Healthc Policy. 2021 Nov 27;14:4789-4797. doi: 10.2147/RMHP.S310938.
+eCollection 2021.
+
+Development and Evaluation of a New Predictive Nomogram for Predicting Risk of
+Herpes Zoster Infection in a Chinese Population with Type 2 Diabetes Mellitus.
+
+Zeng N(1)(2), Li Y(2), Wang Q(3), Chen Y(2), Zhang Y(1), Zhang L(1), Jiang
+F(4)(5), Yuan W(1), Luo D(2).
+
+Author information: 
+(1)Department of Dermatology, Affiliated Hospital of Zunyi Medical University,149
+Dalian Road, Huichuan District, Guizhou, 563003, People's Republic of China.
+(2)Department of Dermatology, The First Affiliated Hospital of Nanjing Medical
+University, Nanjing, 210000, People's Republic of China.
+(3)Department of Endocrinology, Affiliated Hospital of Zunyi Medical University, 
+Guizhou, 563003, People's Republic of China.
+(4)Neonatal Department, Obstetrics and Gynecology Hospital of Fudan University,
+Shanghai, 200011, People's Republic of China.
+(5)Department of Pediatrics, The First Affiliated Hospital of Nanjing Medical
+University, Nanjing, 21000, People's Republic of China.
+
+Purpose: To identify potential risk factors for herpes zoster infection in type 2
+diabetes mellitus in southeast Chinese population.
+Patients and Methods: We built a model involving 266 herpes zoster patients
+collecting data from January 2018 to December 2019. The least absolute shrinkage 
+and selection operator (Lasso) predictive model was used to test herpes zoster
+virus risk using the patient data. Multivariate regression was conducted to
+decide which variable would be the strongest to decrease the Lasso penalty. The
+predictive model was tested using the C-index, a calibration plot, and decision
+curve study. External validity was verified by bootstrapping by counting
+probabilities.
+Results: In the prediction nomogram, the prediction variables included age, sex, 
+weight, length of hospital stay, infection, and blood pressure. The C-index of
+0.844 (0.798-0.896) indicated substantial variability and thus the model was
+adjusted appropriately. A score of 0.825 was achieved somewhere in the above
+interval. Examination of the decision curve estimated that herpes zoster nomogram
+was useful when the intervention was determined at the 16 percent of the herpes
+zoster infection potential threshold.
+Conclusion: The herpes zoster nomogram combines age, weight, position of the
+rash, 2-hour plasma glucose, glycosuria, serum creatinine, length of the hospital
+stay, and hypertension. This calculator can be used to assess the individual
+herpes zoster risks in patients diagnosed with type 2 diabetes mellitus.
+
+© 2021 Zeng et al.
+
+DOI: 10.2147/RMHP.S310938 
+PMCID: PMC8636977
+PMID: 34866948 
+
+Conflict of interest statement: The authors report no conflicts of interest in
+this work.
+

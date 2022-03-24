@@ -1,0 +1,31 @@
+
+1. bioinformatics. 2011 may 1;27(9):1335-6. doi: 10.1093/bioinformatics/btr139. epub
+2011 mar 16.
+
+ogarak: population genetics simulator malaria.
+
+antao t(1), hastings im.
+
+author information: 
+(1)department molecular biochemical parasitology, liverpool school of
+tropical medicine, pembroke place, liverpool, uk. tra@popgen.eu
+
+motivation: evolution resistance plasmodium falciparum malaria 
+most available treatments major global health threat. population genetics
+approaches commonly used model spread drug resistance. due to
+uncommon features malaria biology, existing forward-time population genetics
+simulators cannot suitably model plasmodium falciparum malaria.
+results: present ogarak, population genetics simulator modelling
+the spread drug-resistant malaria. ogarak designed make malaria
+simulation computationally tractable models infections, individual
+parasites. ogarak also able model life cycle parasite which
+includes haploid diploid phases sexual asexual reproduction. 
+also allow simulation different inbreeding levels, important
+difference high low transmission areas fundamental factor
+influencing outcome strategies control eliminate malaria.
+availability: ogarak available free software (gpl) address
+http://popgen.eu/soft/ogarak.
+
+doi: 10.1093/bioinformatics/btr139 
+pmid: 21414984  [indexed medline]
+

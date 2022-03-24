@@ -1,0 +1,57 @@
+
+1. J Biomol Struct Dyn. 2021 Oct 25:1-16. doi: 10.1080/07391102.2021.1993338. [Epub 
+ahead of print]
+
+Designing of cytotoxic T lymphocyte-based multi-epitope vaccine against
+SARS-CoV2: a reverse vaccinology approach.
+
+Vivekanandam R(1), Rajagopalan K(2), Jeevanandam M(3), Ganesan H(4), Jagannathan 
+V(5), Selvan Christyraj JD(2), Kalimuthu K(6), Selvan Christyraj JRS(2), Mohan
+M(7)(8).
+
+Author information: 
+(1)Department of Biotechnology, Bharathiyar University, Coimbatore, Tamilnadu,
+India.
+(2)Regeneration and Stem Cell Biology Lab, Centre for Molecular and Nanomedical
+Sciences, International Research Centre, Sathyabama Institute of Science and
+Technology, Chennai, Tamilnadu, India.
+(3)Department of Biochemistry, PSG college of Arts and Science, Coimbatore,
+Tamilnadu, India.
+(4)Chettinad Academy of Research and Education (CARE), Chettinad Hospital and
+Research Institute (CHRI), Chennai, Tamilnadu, India.
+(5)Institute of Forest Genetics and Tree Breeding (IFGTB), Coimbatore, Tamilnadu,
+India.
+(6)Department of Surgery, School of Medicine, University of Pittsburgh,
+Pittsburgh, Pennsylvania, USA.
+(7)Vaxigen International Research Center Private Limited, Coimbatore, Tamilnadu, 
+India.
+(8)Department of Pharmaceutical and Biomedical Sciences, College of Pharmacy,
+University of Georgia, Athens, GA, USA.
+
+SARS-CoV2 is a single-stranded RNA virus, gaining much attention after it out
+broke in China in December 2019. The virus rapidly spread to several countries
+around the world and caused severe respiratory illness to humans. Since the
+outbreak, researchers around the world have devoted maximum resources and effort 
+to develop a potent vaccine that would offer protection to uninfected individuals
+against SARS-CoV2. Reverse vaccinology is a relatively new approach that thrives 
+faster in vaccine research. In this study, we constructed Cytotoxic T Lymphocytes
+(CTL)-based multi-epitope vaccine using hybrid epitope prediction methods. A
+total of 121 immunogenic CTL epitopes were screened by various sequence-based
+prediction methods and docked with their respective HLA alleles using the
+AutoDock Vina v1.1.2. In all, 17 epitopes were selected based on their binding
+affinity, followed by the construction of multi-epitope vaccine by placing the
+appropriate linkers between the epitopes and tuberculosis heparin-binding
+hemagglutinin (HBHA) adjuvant. The final vaccine construct was modeled by the
+I-TASSER server and the best model was further validated by ERRAT, ProSA, and
+PROCHECK servers. Furthermore, the molecular interaction of the constructed
+vaccine with TLR4 was assessed by ClusPro 2.0 and PROtein binDIng enerGY
+prediction (PRODIGY) server. The immune simulation analysis confirms that the
+constructed vaccine was capable of inducing long-lasting memory T helper (Th) and
+CTL responses. Finally, the nucleotide sequence was codon-optimized by the JCAT
+tool and cloned into the pET21a (+) vector. The current results reveal that the
+candidate vaccine is capable of provoking robust CTL response against the
+SARS-CoV2.Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2021.1993338 
+PMID: 34696708 
+

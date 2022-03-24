@@ -1,0 +1,72 @@
+
+1. World J Gastroenterol. 2020 Oct 21;26(39):5983-5996. doi:
+10.3748/wjg.v26.i39.5983.
+
+Identification of differentially expressed genes in ulcerative colitis and
+verification in a colitis mouse model by bioinformatics analyses.
+
+Shi L(1), Han X(2), Li JX(2), Liao YT(3), Kou FS(2), Wang ZB(2), Shi R(2), Zhao
+XJ(2), Sun ZM(2), Hao Y(4).
+
+Author information: 
+(1)Department of Immunology and Microbiology, School of Life Sciences, Beijing
+University of Chinese Medicine, Beijing 100029, China.
+(2)Gastroenterology Department, Dongfang Hospital, Beijing University of Chinese 
+Medicine, Beijing 100078, China.
+(3)Department of Internal Medicine, Beijing Social Welfare Hospital, Beijing
+100085, China.
+(4)Department of Immunology and Microbiology, School of Life Sciences, Beijing
+University of Chinese Medicine, Beijing 100029, China. yuhao64@sina.com.
+
+BACKGROUND: Ulcerative colitis (UC) is an inflammatory bowel disease that is
+difficult to diagnose and treat. To date, the degree of inflammation in patients 
+with UC has mainly been determined by measuring the levels of nonspecific
+indicators, such as C-reactive protein and the erythrocyte sedimentation rate,
+but these indicators have an unsatisfactory specificity. In this study, we
+performed bioinformatics analysis using data from the National Center for
+Biotechnology Information-Gene Expression Omnibus (NCBI-GEO) databases and
+verified the selected core genes in a mouse model of dextran sulfate sodium
+(DSS)-induced colitis.
+AIM: To identify UC-related differentially expressed genes (DEGs) using a
+bioinformatics analysis and verify them in vivo and to identify novel biomarkers 
+and the underlying mechanisms of UC.
+METHODS: Two microarray datasets from the NCBI-GEO database were used, and DEGs
+between patients with UC and healthy controls were analyzed using GEO2R and Venn 
+diagrams. We annotated these genes based on their functions and signaling
+pathways, and then protein-protein interactions (PPIs) were identified using the 
+Search Tool for the Retrieval of Interacting Genes. The data were further
+analyzed with Cytoscape software and the Molecular Complex Detection (MCODE) app.
+The core genes were selected and a Kyoto Encyclopedia of Genes and Genomes
+pathway enrichment analysis was performed. Finally, colitis model mice were
+established by administering DSS, and the top three core genes were verified in
+colitis mice using real-time polymerase chain reaction (PCR).
+RESULTS: One hundred and seventy-seven DEGs, 118 upregulated and 59
+downregulated, were initially identified from the GEO2R analysis and
+predominantly participated in inflammation-related pathways. Seven clusters with 
+close interactions in UC formed: Seventeen core genes were upregulated [C-X-C
+motif chemokine ligand 13 (CXCL13), C-X-C motif chemokine receptor 2 (CXCR2),
+CXCL9, CXCL5, C-C motif chemokine ligand 18, interleukin 1 beta, matrix
+metallopeptidase 9, CXCL3, formyl peptide receptor 1, complement component 3,
+CXCL8, CXCL1, CXCL10, CXCL2, CXCL6, CXCL11 and hydroxycarboxylic acid receptor 3]
+and one was downregulated [neuropeptide Y receptor Y1 (NYP1R)] in the top cluster
+according to the PPI and MCODE analyses. These genes were substantially enriched 
+in the cytokine-cytokine receptor interaction and chemokine signaling pathways.
+The top three core genes (CXCL13, NYP1R, and CXCR2) were selected and verified in
+a mouse model of colitis using real-time PCR Increased expression was observed
+compared with the control mice, but only CXCR2 expression was significantly
+different.
+CONCLUSION: Core DEGs identified in UC are related to inflammation and immunity
+inflammation, indicating that these reactions are core features of the
+pathogenesis of UC. CXCR2 may reflect the degree of inflammation in patients with
+UC.
+
+©The Author(s) 2020. Published by Baishideng Publishing Group Inc. All rights
+reserved.
+
+DOI: 10.3748/wjg.v26.i39.5983 
+PMCID: PMC7584051
+PMID: 33132649  [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict-of-interest statement: The authors
+declare that they have no conflicts of interest.
+

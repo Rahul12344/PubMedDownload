@@ -1,0 +1,44 @@
+
+1. J Biosci. 2013 Nov;38(4):703-12.
+
+Structural and gene expression analyses of uptake hydrogenases and other proteins
+involved in nitrogenase protection in Frankia.
+
+Richau KH(1), Kudahettige RL, Pujic P, Kudahettige NP, Sellstedt A.
+
+Author information: 
+(1)Department of Plant Physiology, UPSC, Umea University, S-90187 Umea, Sweden.
+
+The actinorhizal bacterium Frankia expresses nitrogenase and can therefore
+convert molecular nitrogen into ammonia and the by-product hydrogen. However,
+nitrogenase is inhibited by oxygen. Consequently, Frankia and its actinorhizal
+hosts have developed various mechanisms for excluding oxygen from their
+nitrogen-containing compartments. These include the expression of
+oxygen-scavenging uptake hydrogenases, the formation of hopanoid-rich vesicles,
+enclosed by multi-layered hopanoid structures, the lignification of hyphal cell
+walls, and the production of haemoglobins in the symbiotic nodule. In this work, 
+we analysed the expression and structure of the so-called uptake hydrogenase
+(Hup), which catalyses the in vivo dissociation of hydrogen to recycle the energy
+locked up in this 'waste' product. Two uptake hydrogenase syntons have been
+identified in Frankia: synton 1 is expressed under freeliving conditions while
+synton 2 is expressed during symbiosis. We used qPCR to determine synton 1 hup
+gene expression in two Frankia strains under aerobic and anaerobic conditions. We
+also predicted the 3D structures of the Hup protein subunits based on multiple
+sequence alignments and remote homology modelling. Finally, we performed BLAST
+searches of genome and protein databases to identify genes that may contribute to
+the protection of nitrogenase against oxygen in the two Frankia strains. Our
+results show that in Frankia strain ACN14a, the expression patterns of the large 
+(HupL1) and small (HupS1) uptake hydrogenase subunits depend on the abundance of 
+oxygen in the external environment. Structural models of the membrane-bound
+hydrogenase subunits of ACN14a showed that both subunits resemble the structures 
+of known [NiFe] hydrogenases (Volbeda et al. 1995), but contain fewer cysteine
+residues than the uptake hydrogenase of the Frankia DC12 and Eu1c strains.
+Moreover, we show that all of the investigated Frankia strains have two squalene 
+hopane cyclase genes (shc1 and shc2). The only exceptions were CcI3 and the
+symbiont of Datisca glomerata, which possess shc1 but not shc2. Four truncated
+haemoglobin genes were identified in Frankia ACN14a and Eu1f, three in CcI3, two 
+in EANpec1 and one in the Datisca glomerata symbiont (Dg).
+
+DOI: 10.1007/s12038-013-9372-1 
+PMID: 24287649  [Indexed for MEDLINE]
+

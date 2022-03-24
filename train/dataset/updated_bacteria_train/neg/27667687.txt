@@ -1,0 +1,66 @@
+
+1. Cell. 2016 Oct 6;167(2):457-470.e13. doi: 10.1016/j.cell.2016.08.064. Epub 2016
+Sep 22.
+
+Succinate Dehydrogenase Supports Metabolic Repurposing of Mitochondria to Drive
+Inflammatory Macrophages.
+
+Mills EL(1), Kelly B(1), Logan A(2), Costa ASH(3), Varma M(4), Bryant CE(5),
+Tourlomousis P(5), Däbritz JHM(6), Gottlieb E(6), Latorre I(4), Corr SC(7),
+McManus G(1), Ryan D(1), Jacobs HT(8), Szibor M(9), Xavier RJ(10), Braun T(11),
+Frezza C(3), Murphy MP(12), O'Neill LA(13).
+
+Author information: 
+(1)School of Biochemistry and Immunology, Trinity Biomedical Sciences Institute, 
+Trinity College Dublin, Dublin 2, Ireland.
+(2)MRC Mitochondrial Biology Unit, Hills Road, Cambridge CB2 0XY, UK.
+(3)MRC Cancer Unit, University of Cambridge, Hutchison/MRC Research Centre, Box
+197, Cambridge Biomedical Campus, Cambridge CB2 0XZ, UK.
+(4)Center for Computational and Integrative Biology, Massachusetts General
+Hospital and Harvard Medical School, Boston, MA 02114, USA.
+(5)Department of Veterinary Medicine, University of Cambridge, Madingley Road,
+Cambridge CB23 8AQ, UK.
+(6)Cancer Metabolism Research Unit, Cancer Research UK, Beatson Institute,
+Garscube Estate, Switchback Road, Bearsden, Glasgow G61 1BD, UK.
+(7)Department of Microbiology, Moyne Institute for Preventative Medicine, School 
+of Genetics and Microbiology, Trinity College Dublin, Dublin 2, Ireland.
+(8)Institute of Biotechnology, 00014 University of Helsinki, P.O. Box 56,
+Helsinki 00014, Finland; BioMediTech and Tampere University Hospital, University 
+of Tampere, Tampere 33014, Finland.
+(9)Institute of Biotechnology, 00014 University of Helsinki, P.O. Box 56,
+Helsinki 00014, Finland; BioMediTech and Tampere University Hospital, University 
+of Tampere, Tampere 33014, Finland; Max-Planck-Institute for Heart and Lung
+Research, Ludwigstrasse 43, 61231 Bad Nauheim, Germany.
+(10)Center for Computational and Integrative Biology, Massachusetts General
+Hospital and Harvard Medical School, Boston, MA 02114, USA; Gastrointestinal
+Unit, Center for the Study of Inflammatory Bowel Disease, Massachusetts General
+Hospital and Harvard Medical School, Boston, MA 02114, USA.
+(11)Max-Planck-Institute for Heart and Lung Research, Ludwigstrasse 43, 61231 Bad
+Nauheim, Germany.
+(12)MRC Mitochondrial Biology Unit, Hills Road, Cambridge CB2 0XY, UK. Electronic
+address: mpm@mrc-mbu.cam.ac.uk.
+(13)School of Biochemistry and Immunology, Trinity Biomedical Sciences Institute,
+Trinity College Dublin, Dublin 2, Ireland. Electronic address: laoneill@tcd.ie.
+
+Activated macrophages undergo metabolic reprogramming, which drives their
+pro-inflammatory phenotype, but the mechanistic basis for this remains obscure.
+Here, we demonstrate that upon lipopolysaccharide (LPS) stimulation, macrophages 
+shift from producing ATP by oxidative phosphorylation to glycolysis while also
+increasing succinate levels. We show that increased mitochondrial oxidation of
+succinate via succinate dehydrogenase (SDH) and an elevation of mitochondrial
+membrane potential combine to drive mitochondrial reactive oxygen species (ROS)
+production. RNA sequencing reveals that this combination induces a
+pro-inflammatory gene expression profile, while an inhibitor of succinate
+oxidation, dimethyl malonate (DMM), promotes an anti-inflammatory outcome.
+Blocking ROS production with rotenone by uncoupling mitochondria or by expressing
+the alternative oxidase (AOX) inhibits this inflammatory phenotype, with AOX
+protecting mice from LPS lethality. The metabolic alterations that occur upon
+activation of macrophages therefore repurpose mitochondria from ATP synthesis to 
+ROS production in order to promote a pro-inflammatory state.
+
+Crown Copyright © 2016. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2016.08.064 
+PMCID: PMC5863951
+PMID: 27667687  [Indexed for MEDLINE]
+

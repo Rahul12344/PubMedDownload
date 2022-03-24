@@ -1,0 +1,47 @@
+
+1. Biochem Genet. 2021 Nov 20. doi: 10.1007/s10528-021-10139-7. [Epub ahead of
+print]
+
+Identification of Hub Genes Associated with Abnormal Endothelial Function in
+Early Coronary Atherosclerosis.
+
+Qiu X(1), Lin J(1), Chen Y(2), Liang B(2), Li L(3).
+
+Author information: 
+(1)Department of Cardiology, The First Affiliated Hospital of Guangxi Medical
+University, No. 6 Shuangyong Road, Nanning, 530021, Guangxi, People's Republic of
+China.
+(2)The First Clinical Medical School, Guangxi Medical University, Nanning,
+530021, Guangxi Province, People's Republic of China.
+(3)Department of Cardiology, The First Affiliated Hospital of Guangxi Medical
+University, No. 6 Shuangyong Road, Nanning, 530021, Guangxi, People's Republic of
+China. drlilang1968@126.com.
+
+Abnormal coronary endothelial function is an important step in the development of
+atherosclerosis. Coronary atherosclerosis is one of the main causes of death
+worldwide. We constructed a co-expression network to identify hub genes
+associated with abnormal coronary endothelial function in early coronary
+atherosclerosis. In brief, we used the GSE132651 dataset from the gene expression
+omnibus database. The top 5000 genes with greatest variances were used for
+weighted gene co-expression network analysis, and the module most strongly
+correlated with abnormal coronary endothelial function was chosen as key module. 
+Functional enrichment analysis was performed for genes in the key module, a
+protein-protein interaction network was constructed to find hub genes, and gene
+set enrichment analysis (GSEA) was also performed. Genes were classified into 7
+modules, with the midnightblue module being the one that was most related to
+abnormal coronary endothelial function and containing genes enriched in DNA
+replication, cell cycle, nucleotide excision repair, and Human T-cell leukemia
+virus 1 infection. We identified nine hub genes (HOXC5, PRND, PADI3, RC3H1,
+DAPP1, SIT1, DRICH1, GPRIN2, and RHO), which differently expressed in abnormal
+and normal coronary endothelial function samples. GSEA suggested that samples
+associated with abnormal coronary endothelial function and highly expressed hub
+genes were linked with immune, coagulation, hypoxia, and angiogenesis processes. 
+These hub genes, their expression pattern, and pathways may be involved in the
+development of abnormal coronary endothelial function and promotion of early
+coronary atherosclerosis.
+
+© 2021. Crown.
+
+DOI: 10.1007/s10528-021-10139-7 
+PMID: 34800203 
+

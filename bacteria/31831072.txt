@@ -1,0 +1,60 @@
+
+1. Crit Care. 2019 Dec 12;23(1):408. doi: 10.1186/s13054-019-2687-z.
+
+Predicting the clinical trajectory in critically ill patients with sepsis: a
+cohort study.
+
+Klein Klouwenberg PMC(1), Spitoni C(2), van der Poll T(3), Bonten MJ(4)(5),
+Cremer OL(6); MARS consortium.
+
+Collaborators: Frencken JF, van de Groep K, Koster-Brouwer ME, Ong DSY, Verboom
+D, de Beer FM, Bos LDJ, Glas GJ, van Hooijdonk RTM, Schouten LRA, Straat M,
+Witteveen E, Wieske L, Hoogendijk AJ, Huson MA, van Vught LA.
+
+Author information: 
+(1)Department of Medical Microbiology and Immunology, Rijnstate Hospital,
+Wagnerlaan 55, 6815 AD, Arnhem, the Netherlands. peterkk@live.com.
+(2)Department of Mathematics, University Utrecht, Utrecht, the Netherlands.
+(3)Center for Experimental and Molecular Medicine, Division of Infectious
+Diseases, Amsterdam University Medical Centers, location Academic Medical Center,
+University of Amsterdam, Amsterdam, the Netherlands.
+(4)Department of Medical Microbiology, University Medical Center Utrecht, Utrecht
+University, Utrecht, the Netherlands.
+(5)Julius Center for Health Sciences and Primary Care, University Medical Center 
+Utrecht, Utrecht University, Utrecht, the Netherlands.
+(6)Department of Intensive Care Medicine, University Medical Center Utrecht,
+Utrecht University, Utrecht, the Netherlands.
+
+Erratum in
+    Crit Care. 2020 Feb 6;24(1):41.
+
+BACKGROUND: To develop a mathematical model to estimate daily evolution of
+disease severity using routinely available parameters in patients admitted to the
+intensive care unit (ICU).
+METHODS: Over a 3-year period, we prospectively enrolled consecutive adults with 
+sepsis and categorized patients as (1) being at risk for developing (more severe)
+organ dysfunction, (2) having (potentially still reversible) limited organ
+failure, or (3) having multiple-organ failure. Daily probabilities for
+transitions between these disease states, and to death or discharge, during the
+first 2 weeks in ICU were calculated using a multi-state model that was updated
+every 2 days using both baseline and time-varying information. The model was
+validated in independent patients.
+RESULTS: We studied 1371 sepsis admissions in 1251 patients. Upon presentation,
+53 (4%) were classed at risk, 1151 (84%) had limited organ failure, and 167 (12%)
+had multiple-organ failure. Among patients with limited organ failure, 197 (17%) 
+evolved to multiple-organ failure or died and 809 (70%) improved or were
+discharged alive within 14 days. Among patients with multiple-organ failure, 67
+(40%) died and 91 (54%) improved or were discharged. Treatment response could be 
+predicted with reasonable accuracy (c-statistic ranging from 0.55 to 0.81 for
+individual disease states, and 0.67 overall). Model performance in the validation
+cohort was similar.
+CONCLUSIONS: This prediction model that estimates daily evolution of disease
+severity during sepsis may eventually support clinicians in making better
+informed treatment decisions and could be used to evaluate prognostic biomarkers 
+or perform in silico modeling of novel sepsis therapies during trial design.
+CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov NCT01905033.
+
+DOI: 10.1186/s13054-019-2687-z 
+PMCID: PMC6909511
+PMID: 31831072  [Indexed for MEDLINE]
+

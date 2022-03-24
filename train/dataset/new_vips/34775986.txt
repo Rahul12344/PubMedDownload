@@ -1,0 +1,60 @@
+
+1. Infect Agent Cancer. 2021 Nov 14;16(1):65. doi: 10.1186/s13027-021-00404-0.
+
+Metagenomic analysis to identify novel infectious agents in systemic anaplastic
+large cell lymphoma.
+
+Mahale P(#)(1), Nomburg J(#)(2), Song JY(3), Steinberg M(4), Starrett G(5),
+Boland J(4), Lynch CF(6), Chadburn A(7), Rubinstein PG(8), Hernandez BY(9),
+Weisenburger DD(3), Bullman S(10), Engels EA(11).
+
+Author information: 
+(1)Infections and Immunoepidemiology Branch, Division of Cancer Epidemiology and 
+Genetics, National Cancer Institute, Rockville, MD, USA.
+(2)Department of Medical Oncology, Dana-Farber Cancer Institute, Harvard Medical 
+School, Boston, MA, USA.
+(3)Department of Pathology, City of Hope National Medical Center, Duarte, CA,
+USA.
+(4)Cancer Genomics Research Laboratory, National Cancer Institute, Rockville, MD,
+USA.
+(5)Laboratory of Cellular Oncology, Center for Cancer Research, National Cancer
+Institute, Bethesda, MD, USA.
+(6)Department of Epidemiology, The University of Iowa College of Public Health,
+Iowa City, Iowa, USA.
+(7)Pathology and Laboratory Medicine, Weill Cornell Medical College, New York,
+NY, USA.
+(8)Stroger Hospital of Cook County, Ruth M. Rothstein Core Center, Rush
+University Medical Center, Chicago, IL, USA.
+(9)University of Hawaii Cancer Center, Honolulu, HI, USA.
+(10)Human Biology Division, Fred Hutchinson Cancer Research Center, Seattle, WA, 
+USA.
+(11)Infections and Immunoepidemiology Branch, Division of Cancer Epidemiology and
+Genetics, National Cancer Institute, Rockville, MD, USA.
+engelse@exchange.nih.gov.
+(#)Contributed equally
+
+Systemic anaplastic large cell lymphoma (ALCL) is a rare CD30-expressing T-cell
+non-Hodgkin lymphoma. Risk of systemic ALCL is highly increased among
+immunosuppressed individuals. Because risk of cancers associated with viruses is 
+increased with immunosuppression, we conducted a metagenomic analysis of systemic
+ALCL to determine whether a known or novel pathogen is associated with this
+malignancy. Total RNA was extracted and sequenced from formalin-fixed
+paraffin-embedded tumor specimens from 19 systemic ALCL cases (including one case
+from an immunosuppressed individual with human immunodeficiency virus infection),
+3 Epstein-Barr virus positive diffuse large B-cell lymphomas (DLBCLs) occurring
+in solid organ transplant recipients (positive controls), and 3 breast cancers
+(negative controls). We used a pipeline based on the Genome Analysis Toolkit
+(GATK)-PathSeq algorithm to subtract out human RNA reads and map the remaining
+RNA reads to microbes. No microbial association with ALCL was identified, but we 
+found Epstein-Barr virus in the DLBCL positive controls and determined the breast
+cancers to be negative. In conclusion, we did not find a pathogen associated with
+systemic ALCL, but because we analyzed only one ALCL tumor from an
+immunosuppressed person, we cannot exclude the possibility that a pathogen is
+associated with some cases that arise in the setting of immunosuppression.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s13027-021-00404-0 
+PMCID: PMC8591940
+PMID: 34775986 
+

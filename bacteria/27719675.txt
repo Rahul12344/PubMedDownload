@@ -1,0 +1,62 @@
+
+1. Crit Care. 2016 Oct 10;20(1):322.
+
+Impact of HIV infection on the presentation, outcome and host response in
+patients admitted to the intensive care unit with sepsis; a case control study.
+
+Wiewel MA(1)(2), Huson MA(3)(4), van Vught LA(3)(4), Hoogendijk AJ(3)(4), Klein
+Klouwenberg PM(5)(6)(7), Horn J(8), Lutter R(9), Cremer OL(5), Schultz MJ(8),
+Bonten MJ(6)(7), van der Poll T(3)(4)(10); MARS Consortium.
+
+Collaborators: de Beer FM, Bos LD, Frencken JF, Glas GJ, van Hooijdonk RT, Ong
+DS, Schouten LR, Scicluna BP, Straat M, Witteveen E, Wieske L.
+
+Author information: 
+(1)Center for Experimental and Molecular Medicine, Academic Medical Center,
+University of Amsterdam, Amsterdam, The Netherlands. m.a.wiewel@amc.uva.nl.
+(2)The Center for Infection and Immunity Amsterdam, Academic Medical Center,
+University of Amsterdam, Amsterdam, The Netherlands. m.a.wiewel@amc.uva.nl.
+(3)Center for Experimental and Molecular Medicine, Academic Medical Center,
+University of Amsterdam, Amsterdam, The Netherlands.
+(4)The Center for Infection and Immunity Amsterdam, Academic Medical Center,
+University of Amsterdam, Amsterdam, The Netherlands.
+(5)Department of Intensive Care Medicine, University Medical Center Utrecht,
+Utrecht, The Netherlands.
+(6)Department of Medical Microbiology, University Medical Center Utrecht,
+Utrecht, The Netherlands.
+(7)Julius Center for Health Sciences and Primary Care, University Medical Center 
+Utrecht, Utrecht, The Netherlands.
+(8)Department of Intensive Care, Academic Medical Center, University of
+Amsterdam, Amsterdam, The Netherlands.
+(9)Department of Respiratory Medicine and Experimental Immunology, Academic
+Medical Center, University of Amsterdam, Amsterdam, The Netherlands.
+(10)Division of Infectious Diseases, Academic Medical Center, University of
+Amsterdam, Amsterdam, The Netherlands.
+
+BACKGROUND: Sepsis is a prominent reason for intensive care unit (ICU) admission 
+in patients with HIV. We aimed to investigate the impact of HIV infection on
+presentation, outcome and host response in sepsis.
+METHODS: We performed a prospective observational study in the ICUs of two
+tertiary hospitals. For the current analyses, we selected all patients diagnosed 
+with sepsis within 24 hours after admission. Host response biomarkers were
+analyzed in a more homogeneous subgroup of admissions involving HIV-positive
+patients with pneumosepsis, matched to admissions of HIV-negative patients for
+age, gender and race. Matching was done by nearest neighbor matching with R
+package "MatchIt".
+RESULTS: We analyzed 2251 sepsis admissions including 41 (1.8 %) with HIV
+infection (32 unique patients). HIV-positive patients were younger and admission 
+of HIV-positive patients more frequently involved pneumonia (73.2 % versus 48.8 %
+of admissions of HIV-negative patients, P = 0.004). Disease severity and
+mortality up to one year after admission did not differ according to HIV status. 
+Furthermore, sequential plasma levels of host response biomarkers, providing
+insight into activation of the cytokine network, the vascular endothelium and the
+coagulation system, were largely similar in matched admissions of HIV-positive
+and HIV-negative patients with pneumosepsis.
+CONCLUSIONS: Sepsis is more often caused by pneumonia in HIV-positive patients.
+HIV infection has little impact on the disease severity, mortality and host
+response during sepsis.
+
+DOI: 10.1186/s13054-016-1469-0 
+PMCID: PMC5056483
+PMID: 27719675  [Indexed for MEDLINE]
+

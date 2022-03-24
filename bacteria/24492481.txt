@@ -1,0 +1,48 @@
+
+1. Int J Mol Sci. 2014 Jan 31;15(2):2223-36. doi: 10.3390/ijms15022223.
+
+Structural data on the periplasmic aldehyde oxidoreductase PaoABC from
+Escherichia coli: SAXS and preliminary X-ray crystallography analysis.
+
+Otrelo-Cardoso AR(1), da Silva Correia MA(2), Schwuchow V(3), Svergun DI(4),
+Romão MJ(5), Leimkühler S(6), Santos-Silva T(7).
+
+Author information: 
+(1)REQUIMTE, Departamento de Química, Faculdade de Ciências e Tecnologia,
+Universidade Nova de Lisboa, Caparica 2829-516, Portugal.
+a.cardoso@campus.fct.unl.pt.
+(2)REQUIMTE, Departamento de Química, Faculdade de Ciências e Tecnologia,
+Universidade Nova de Lisboa, Caparica 2829-516, Portugal.
+marcia.correia@fct.unl.pt.
+(3)Institut für Biochemie and Biologie, Universität Potsdam, Karl-Liebknecht-Str.
+24-25, Golm, Potsdam 14476, Germany. visch@uni-potsdam.de.
+(4)European Molecular Biology Laboratory, Hamburg Outstation, Notkestrasse 85,
+Hamburg 22607, Germany. svergun@embl-hamburg.de.
+(5)REQUIMTE, Departamento de Química, Faculdade de Ciências e Tecnologia,
+Universidade Nova de Lisboa, Caparica 2829-516, Portugal. mjr@fct.unl.pt.
+(6)Institut für Biochemie and Biologie, Universität Potsdam, Karl-Liebknecht-Str.
+24-25, Golm, Potsdam 14476, Germany. sleim@uni-potsdam.de.
+(7)REQUIMTE, Departamento de Química, Faculdade de Ciências e Tecnologia,
+Universidade Nova de Lisboa, Caparica 2829-516, Portugal. tsss@fct.unl.pt.
+
+The periplasmic aldehyde oxidoreductase PaoABC from Escherichia coli is a
+molybdenum enzyme involved in detoxification of aldehydes in the cell. It is an
+example of an αβγ heterotrimeric enzyme of the xanthine oxidase family of enzymes
+which does not dimerize via its molybdenum cofactor binding domain. In order to
+structurally characterize PaoABC, X-ray crystallography and small angle X-ray
+scattering (SAXS) have been carried out. The protein crystallizes in the presence
+of 20% (w/v) polyethylene glycol 3350 using the hanging-drop vapour diffusion
+method. Although crystals were initially twinned, several experiments were done
+to overcome twinning and lowering the crystallization temperature (293 K to 277
+K) was the solution to the problem. The non-twinned crystals used to solve the
+structure diffract X-rays to beyond 1.80 Å and belong to the C2 space group, with
+cell parameters a = 109.42 Å, b = 78.08 Å, c = 151.77 Å, β = 99.77°, and one
+molecule in the asymmetric unit. A molecular replacement solution was found for
+each subunit separately, using several proteins as search models. SAXS data of
+PaoABC were also collected showing that, in solution, the protein is also an αβγ 
+heterotrimer.
+
+DOI: 10.3390/ijms15022223 
+PMCID: PMC3958847
+PMID: 24492481  [Indexed for MEDLINE]
+

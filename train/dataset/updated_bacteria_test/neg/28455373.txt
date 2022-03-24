@@ -1,0 +1,51 @@
+
+1. Development. 2017 Jun 1;144(11):1948-1958. doi: 10.1242/dev.143479. Epub 2017 Apr
+28.
+
+ChIP-seq analysis of genomic binding regions of five major transcription factors 
+highlights a central role for ZIC2 in the mouse epiblast stem cell gene
+regulatory network.
+
+Matsuda K(1), Mikami T(1), Oki S(2), Iida H(3), Andrabi M(1), Boss JM(4),
+Yamaguchi K(5), Shigenobu S(5), Kondoh H(6)(3).
+
+Author information: 
+(1)Graduate School of Frontier Biosciences, Osaka University, Yamadaoka 1-3,
+Suita, Osaka 565-0871, Japan.
+(2)Department of Developmental Biology, Graduate School of Medical Sciences,
+Kyushu University, 3-1-1 Maidashi, Higashi-ku, Fukuoka 812-8582, Japan.
+(3)Faculty of Life Sciences, Kyoto Sangyo University, Motoyama, Kamigamo,
+Kita-ku, Kyoto 603-8555, Japan.
+(4)Department of Microbiology and Immunology, Emory University, Atlanta, GA
+30322, USA.
+(5)Functional Genomics Facility, National Institute for Basic Biology, Okazaki,
+Aichi 444-8585, Japan.
+(6)Graduate School of Frontier Biosciences, Osaka University, Yamadaoka 1-3,
+Suita, Osaka 565-0871, Japan kondohh@cc.kyoto-su.ac.jp.
+
+To obtain insight into the transcription factor (TF)-dependent regulation of
+epiblast stem cells (EpiSCs), we performed ChIP-seq analysis of the genomic
+binding regions of five major TFs. Analysis of in vivo biotinylated ZIC2, OTX2,
+SOX2, POU5F1 and POU3F1 binding in EpiSCs identified several new features. (1)
+Megabase-scale genomic domains rich in ZIC2 peaks and genes alternate with those 
+rich in POU3F1 but sparse in genes, reflecting the clustering of regulatory
+regions that act at short and long-range, which involve binding of ZIC2 and
+POU3F1, respectively. (2) The enhancers bound by ZIC2 and OTX2 prominently
+regulate TF genes in EpiSCs. (3) The binding sites for SOX2 and POU5F1 in mouse
+embryonic stem cells (ESCs) and EpiSCs are divergent, reflecting the shift in the
+major acting TFs from SOX2/POU5F1 in ESCs to OTX2/ZIC2 in EpiSCs. (4) This shift 
+in the major acting TFs appears to be primed by binding of ZIC2 in ESCs at
+relevant genomic positions that later function as enhancers following the
+disengagement of SOX2/POU5F1 from major regulatory functions and subsequent
+binding by OTX2. These new insights into EpiSC gene regulatory networks gained
+from this study are highly relevant to early stage embryogenesis.
+
+© 2017. Published by The Company of Biologists Ltd.
+
+DOI: 10.1242/dev.143479 
+PMCID: PMC5482983
+PMID: 28455373  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interestsThe authors declare no
+competing or financial interests.
+

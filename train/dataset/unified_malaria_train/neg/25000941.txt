@@ -1,0 +1,42 @@
+
+1. parasit vectors. 2014 jul 7;7:314. doi: 10.1186/1756-3305-7-314.
+
+de novo transcriptome sequencing sequence analysis malaria vector
+anopheles sinensis (diptera: culicidae).
+
+chen b(1), zhang yj, z, li w, si f, tang y, q, qiao l, yan z, fu w, che y.
+
+author information: 
+(1)institute entomology molecular biology, college life sciences,
+chongqing normal university, chongqing, p r, china. c_bin@hotmail.com.
+
+background: anopheles sinensis major malaria vector china southeast
+asia. vector control one effective measures prevent malaria
+transmission. however, little transcriptome information available for
+the malaria vector. better understand biological basis malaria
+transmission develop novel effective means vector control, is
+a need build transcriptome dataset functional genomics analysis by
+large-scale rna sequencing (rna-seq).
+methods: provide comprehensive complete transcriptome an.
+sinensis, eggs, larvae, pupae, male adults female adults rna pooled
+together cdna preparation, sequenced using illumina paired-end sequencing
+technology assembled unigenes. unigenes analyzed in
+their genome mapping, functional annotation, homology, codon usage bias and
+simple sequence repeats (ssrs).
+results: approximately 51.6 million clean reads obtained, trimmed, and
+assembled 38,504 unigenes average length 571 bp, n50 of
+711 bp, average gc content 51.26%. among them, 98.4% unigenes could 
+mapped onto reference genome, 69% unigenes could annotated with
+known biological functions. homology analysis identified certain numbers an.
+sinensis unigenes showed homology putative 1:1 orthologues with
+genomes dipteran species. codon usage bias analyzed 1,904 ssrs
+were detected, provide effective molecular markers population 
+genetics species.
+conclusions: data analysis provide comprehensive transcriptomic 
+resource characteristics currently available an. sinensis, will
+facilitate genetic, genomic studies, vector control an. sinensis.
+
+doi: 10.1186/1756-3305-7-314 
+pmcid: pmc4105132
+pmid: 25000941  [indexed medline]
+

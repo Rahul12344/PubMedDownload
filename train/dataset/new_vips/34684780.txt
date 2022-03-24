@@ -1,0 +1,42 @@
+
+1. Molecules. 2021 Oct 14;26(20). pii: 6199. doi: 10.3390/molecules26206199.
+
+In Silico Identification and Validation of Organic Triazole Based Ligands as
+Potential Inhibitory Drug Compounds of SARS-CoV-2 Main Protease.
+
+Sur VP(1), Sen MK(2), Komrskova K(1)(3).
+
+Author information: 
+(1)Laboratory of Reproductive Biology, Institute of Biotechnology of the Czech
+Academy of Sciences, BIOCEV-Biotechnology and Biomedicine Centre of the Academy
+of Sciences and Charles University, Prumyslova 595, 252 50 Vestec, Czech
+Republic.
+(2)Department of Agroecology and Crop Production, Faculty of Agrobiology, Food
+and Natural Resources, Czech University of Life Sciences Prague, Kamycka 1176,
+165 00 Prague, Czech Republic.
+(3)Department of Zoology, Faculty of Science, Charles University, Vinicna 7, 128 
+44 Prague, Czech Republic.
+
+The SARS-CoV-2 virus is highly contagious to humans and has caused a pandemic of 
+global proportions. Despite worldwide research efforts, efficient targeted
+therapies against the virus are still lacking. With the ready availability of the
+macromolecular structures of coronavirus and its known variants, the search for
+anti-SARS-CoV-2 therapeutics through in silico analysis has become a highly
+promising field of research. In this study, we investigate the inhibiting
+potentialities of triazole-based compounds against the SARS-CoV-2 main protease
+(Mpro). The SARS-CoV-2 main protease (Mpro) is known to play a prominent role in 
+the processing of polyproteins that are translated from the viral RNA. Compounds 
+were pre-screened from 171 candidates (collected from the DrugBank database). The
+results showed that four candidates (Bemcentinib, Bisoctrizole, PYIITM, and
+NIPFC) had high binding affinity values and had the potential to interrupt the
+main protease (Mpro) activities of the SARS-CoV-2 virus. The pharmacokinetic
+parameters of these candidates were assessed and through molecular dynamic (MD)
+simulation their stability, interaction, and conformation were analyzed. In
+summary, this study identified the most suitable compounds for targeting Mpro,
+and we recommend using these compounds as potential drug molecules against
+SARS-CoV-2 after follow up studies.
+
+DOI: 10.3390/molecules26206199 
+PMCID: PMC8541586
+PMID: 34684780  [Indexed for MEDLINE]
+

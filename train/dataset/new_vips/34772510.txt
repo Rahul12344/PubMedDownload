@@ -1,0 +1,46 @@
+
+1. Comput Biol Med. 2021 Nov 9:105025. doi: 10.1016/j.compbiomed.2021.105025. [Epub 
+ahead of print]
+
+Molecular dynamic study of SARS-CoV-2 with various S protein mutations and their 
+effect on thermodynamic properties.
+
+Abdalla M(1), Eltayb WA(2), El-Arabey AA(3), Singh K(4), Jiang X(5).
+
+Author information: 
+(1)Key Laboratory of Chemical Biology (Ministry of Education), Department of
+Pharmaceutics, School of Pharmaceutical Sciences, Cheeloo College of Medicine,
+Shandong University, 44 Cultural West Road, Shandong Province, 250012, PR China. 
+Electronic address: mohnadabdalla200@gmail.com.
+(2)Biotechnology Department, Faculty of Science and Technology, Shendi
+University, Shendi, Nher Anile, Sudan.
+(3)Department of Pharmacology and Toxicology, Faculty of Pharmacy, Al-Azhar
+University, Cairo, Egypt.
+(4)Bond Life Sciences Center, University of Missouri, Columbia, MO, 65211, USA.
+(5)Key Laboratory of Chemical Biology (Ministry of Education), Department of
+Pharmaceutics, School of Pharmaceutical Sciences, Cheeloo College of Medicine,
+Shandong University, 44 Cultural West Road, Shandong Province, 250012, PR China. 
+Electronic address: xinyijiang@sdu.edu.cn.
+
+Studying the structure of severe acute respiratory syndrome coronavirus 2
+(SARS-CoV-2) spike (S) protein is important to understand the infection process. 
+The S protein is necessary in completing the virus life cycle and is responsible 
+for the appearance of new variants and drug and vaccine resistance. Understanding
+the structure and dynamics of biological macromolecules is essential for
+understanding how they function. In this work, we investigated the effects of
+mutations on S protein stability and solubility through molecular dynamic (MD)
+simulation in a 100 ns (ns) period. We screened four variants in addition to the 
+wild type (WT). Results show that changes on MD simulation parameters of S
+protein indicate fluctuations and changes in the conformation, especially in the 
+area between 300 and 600 amino acids (aa). This provides us an image of how the
+virus protein can reshape itself to adapt to any changes that occur in human
+angiotensin-converting enzyme 2 or drugs that can target the protein region. Our 
+results also show that the Brazil variant has high fluctuations and unstable
+folding at some stages compared with other variants.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2021.105025 
+PMCID: PMC8576119
+PMID: 34772510 
+

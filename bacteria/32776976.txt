@@ -1,0 +1,57 @@
+
+1. PLoS Pathog. 2020 Aug 10;16(8):e1008697. doi: 10.1371/journal.ppat.1008697.
+eCollection 2020 Aug.
+
+Resistance to Bacillus thuringiensis Cry1Ac toxin requires mutations in two
+Plutella xylostella ATP-binding cassette transporter paralogs.
+
+Liu Z(1)(2)(3), Fu S(1)(2)(3), Ma X(1)(2)(3)(4), Baxter SW(2)(3)(5), Vasseur
+L(2)(3)(6), Xiong L(1)(2)(3), Huang Y(1)(2)(3), Yang G(1)(2)(3), You S(1)(2)(3), 
+You M(1)(2)(3).
+
+Author information: 
+(1)State Key Laboratory of Ecological Pest Control for Fujian-Taiwan Crops and
+College of Life Science, Fujian Agriculture and Forestry University, Fuzhou,
+China.
+(2)Institute of Applied Ecology, Fujian Agriculture and Forestry University,
+Fuzhou, China.
+(3)Joint International Research Laboratory of Ecological Pest Control, Ministry
+of Education, Fuzhou, China.
+(4)Xinjiang Key Laboratory of Biological Resources and Genetic Engineering,
+College of Life Science and Technology, Xinjiang University, Urumqi, China.
+(5)School of BioSciences, The University of Melbourne, Melbourne, Victoria,
+Australia.
+(6)Department of Biological Sciences, Brock University, St. Catharines, Ontario, 
+Canada.
+
+The diamondback moth, Plutella xylostella, is a cosmopolitan pest and the first
+species to develop field resistance to toxins from the gram-positive bacterium
+Bacillus thuringiensis (Bt). Although previous work has suggested that mutations 
+of ATP-binding cassette transporter subfamily C2 (ABCC2) or C3 (ABCC3) genes can 
+confer Cry1Ac resistance, here we reveal that P. xylostella requires combined
+mutations in both PxABCC2 and PxABCC3 to achieve high-level Cry1Ac resistance,
+rather than simply a mutation of either gene. We identified natural mutations of 
+PxABCC2 and PxABCC3 that concurrently occurred in a Cry1Ac-resistant strain
+(Cry1S1000) of P. xylostella, with a mutation (RA2) causing the mis-splicing of
+PxABCC2 and another mutation (RA3) leading to the premature termination of
+PxABCC3. Genetic linkage analysis showed that RA2 and RA3 were tightly linked to 
+Cry1Ac resistance. Introgression of RA2 and RA3 enabled a susceptible strain
+(G88) of P. xylostella to obtain high resistance to Cry1Ac, confirming that these
+genes confer resistance. To further support the role of PxABCC2 and PxABCC3 in
+Cry1Ac resistance, frameshift mutations were introduced into PxABCC2 and PxABCC3 
+singly and in combination in the G88 strain with CRISPR/Cas9 mediated
+mutagenesis. Bioassays of CRISPR-based mutant strains, plus genetic
+complementation tests, demonstrated that the deletion of PxABCC2 or PxABCC3 alone
+provided < 4-fold tolerance to Cry1Ac, while disruption of both genes together
+conferred >8,000-fold resistance to Cry1Ac, suggesting the
+redundant/complementary roles of PxABCC2 and PxABCC3. This work advances our
+understanding of Bt resistance in P. xylostella by demonstrating mutations within
+both PxABCC2 and PxABCC3 genes are required for high-level Cry1Ac resistance.
+
+DOI: 10.1371/journal.ppat.1008697 
+PMCID: PMC7446926
+PMID: 32776976  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

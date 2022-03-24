@@ -1,0 +1,33 @@
+
+1. R Soc Open Sci. 2021 Nov 17;8(11):202345. doi: 10.1098/rsos.202345. eCollection
+2021 Nov.
+
+Estimation of viral kinetics model parameters in young and aged SARS-CoV-2
+infected macaques.
+
+Rodriguez T(1), Dobrovolny HM(1).
+
+Author information: 
+(1)Department of Physics and Astronomy, Texas Christian University, Fort Worth,
+TX, USA.
+
+The SARS-CoV-2 virus disproportionately causes serious illness and death in older
+individuals. In order to have the greatest impact in decreasing the human toll
+caused by the virus, antiviral treatment should be targeted to older patients.
+For this, we need a better understanding of the differences in viral dynamics
+between SARS-CoV-2 infection in younger and older adults. In this study, we use
+previously published averaged viral titre measurements from the nose and throat
+of SARS-CoV-2 infection in young and aged cynomolgus macaques to parametrize a
+viral kinetics model. We find that all viral kinetics parameters differ between
+young and aged macaques in the nasal passages, but that there are fewer
+differences in parameter estimates from the throat. We further use our
+parametrized model to study the antiviral treatment of young and aged animals,
+finding that early antiviral treatment is more likely to lead to a lengthening of
+the infection in aged animals, but not in young animals.
+
+© 2021 The Authors.
+
+DOI: 10.1098/rsos.202345 
+PMCID: PMC8595996
+PMID: 34804559 
+

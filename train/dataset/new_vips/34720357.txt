@@ -1,0 +1,52 @@
+
+1. Build Environ. 2021 Oct 27:108441. doi: 10.1016/j.buildenv.2021.108441. [Epub
+ahead of print]
+
+Assessing the use of portable air cleaners for reducing exposure to airborne
+diseases in a conference room with thermal stratification.
+
+Castellini JE Jr(1), Faulkner CA(1), Zuo W(1)(2)(3), Lorenzetti DM(4), Sohn
+MD(4).
+
+Author information: 
+(1)Department of Mechanical Engineering, University of Colorado Boulder, UCB 427,
+Boulder, 80309, CO, USA.
+(2)Department of Civil, Environmental and Architectural Engineering, University
+of Colorado Boulder, UCB 428, Boulder, 80309, CO, USA.
+(3)National Renewable Energy National Laboratory, Golden, 80401, CO, USA.
+(4)Energy Analysis and Environmental Impacts Division, Lawrence Berkeley National
+Laboratory, 1 Cyclotron Road, Berkeley, 94720, CA, USA.
+
+The COVID-19 pandemic has highlighted the need for strategies that mitigate the
+risk of aerosol disease transmission in indoor environments with different
+ventilation strategies. It is necessary for building operators to be able to
+estimate and compare the relative impacts of different mitigation strategies to
+determine suitable strategies for a particular situation. Using a validated CFD
+model, this study simulates the dispersion of exhaled contaminants in a thermally
+stratified conference room with overhead heating. The impacts of portable
+air-cleaners (PACs) on the room airflow and contaminant distribution were
+evaluated for different PAC locations and flow rates, as well as for different
+room setups (socially distanced or fully occupied). To obtain a holistic view of 
+a strategy's impacts under different release scenarios, we simultaneously model
+the steady-state distribution of aerosolized virus contaminants from eight
+distinct sources in 18 cases for a total of 144 release scenarios. The
+simulations show that the location of the source, the PAC settings, and the room 
+set-up can impact the average exposure and PAC effectiveness. For this studied
+case, the PACs reduced the room average exposure by 31%-66% relative to the
+baseline case. Some occupant locations were shown to have a higher-than-average
+exposure, particularly those seated near the airflow outlet, and occupants
+closest to sources tended to see the highest exposure from said source. We found 
+that these PACs were effective at reducing the stratification caused by overhead 
+heating, and also identified at least one sub-optimal location for placing a PAC 
+in this space.
+
+© 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.buildenv.2021.108441 
+PMCID: PMC8548847
+PMID: 34720357 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

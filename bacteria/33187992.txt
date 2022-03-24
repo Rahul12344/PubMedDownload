@@ -1,0 +1,61 @@
+
+1. Appl Environ Microbiol. 2021 Jan 15;87(3). pii: e01714-20. doi:
+10.1128/AEM.01714-20. Print 2021 Jan 15.
+
+Multimodularity of a GH10 Xylanase Found in the Termite Gut Metagenome.
+
+Wu H(1), Ioannou E(1)(2), Henrissat B(3)(4)(5), Montanier CY(1), Bozonnet S(1),
+O'Donohue MJ(1), Dumon C(6).
+
+Author information: 
+(1)TBI, Université de Toulouse, CNRS, INRAE, INSA, Toulouse, France.
+(2)Institute of Biological Environmental and Rural Sciences, Aberystwyth
+University, Aberystwyth, United Kingdom.
+(3)CNRS UMR 7257, Aix-Marseille University, Marseille, France.
+(4)INRAE, USC 1408 AFMB, Marseille, France.
+(5)Department of Biological Sciences, King Abdulaziz University, Jeddah, Saudi
+Arabia.
+(6)TBI, Université de Toulouse, CNRS, INRAE, INSA, Toulouse, France
+claire.dumon@insa-toulouse.fr.
+
+The functional screening of a Pseudacanthotermes militaris termite gut
+metagenomic library revealed an array of xylan-degrading enzymes, including P.
+militaris 25 (Pm25), a multimodular glycoside hydrolase family 10 (GH10).
+Sequence analysis showed details of the unusual domain organization of this
+enzyme. It consists of one catalytic domain, which is intercalated by two
+carbohydrate binding modules (CBMs) from family 4. The genes upstream of the
+genes encoding Pm25 are susC-susD-unk, suggesting Pm25 is a Xyn10C-like enzyme
+belonging to a polysaccharide utilization locus. The majority of Xyn10C-like
+enzymes shared the same interrupted domain architecture and were vastly
+distributed in different xylan utilization loci found in gut Bacteroidetes,
+indicating the importance of this enzyme in glycan acquisition for gut
+microbiota. To understand its unusual multimodularity and the possible role of
+the CBMs, a detailed characterization of the full-length Pm25 and truncated
+variants was performed. Results revealed that the GH10 catalytic module is
+specific toward the hydrolysis of xylan. Ligand binding results indicate that the
+GH10 module and the CBMs act independently, whereas the tandem CBM4s act
+synergistically with each other and improve enzymatic activity when assayed on
+insoluble polysaccharides. In addition, we show that the UNK protein upstream of 
+Pm25 is able to bind arabinoxylan. Altogether, these findings contribute to a
+better understanding of the potential role of Xyn10C-like proteins in xylan
+utilization systems of gut bacteria.IMPORTANCE Xylan is the major hemicellulosic 
+polysaccharide in cereals and contributes to the recalcitrance of the plant cell 
+wall toward degradation. Members of the Bacteroidetes, one of the main phyla in
+rumen and human gut microbiota, have been shown to encode polysaccharide
+utilization loci dedicated to the degradation of xylan. Here, we present the
+biochemical characterization of a xylanase encoded by a Bacteroidetes strain
+isolated from the termite gut metagenome. This xylanase is a multimodular enzyme,
+the sequence of which is interrupted by the insertion of two CBMs from family 4. 
+Our results show that this enzyme resembles homologues that were shown to be
+important for xylan degradation in rumen or human diet and show that the CBM
+insertion in the middle of the sequence seems to be a common feature in xylan
+utilization systems. This study shed light on our understanding of xylan
+degradation and plant cell wall deconstruction, which can be applied to several
+applications in food, feed, and bioeconomy.
+
+Copyright © 2021 Wu et al.
+
+DOI: 10.1128/AEM.01714-20 
+PMCID: PMC7848910 [Available on 2021-07-15]
+PMID: 33187992  [Indexed for MEDLINE]
+

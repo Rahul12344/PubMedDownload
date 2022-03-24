@@ -1,0 +1,89 @@
+
+1. Gastroenterology. 2017 Jan;152(1):193-205.e10. doi: 10.1053/j.gastro.2016.09.004.
+Epub 2016 Sep 14.
+
+Fucosylation Deficiency in Mice Leads to Colitis and Adenocarcinoma.
+
+Wang Y(1), Huang D(1), Chen KY(2), Cui M(1), Wang W(1), Huang X(1), Awadellah
+A(3), Li Q(3), Friedman A(4), Xin WW(5), Di Martino L(6), Cominelli F(6), Miron
+A(7), Chan R(8), Fox JG(9), Xu Y(10), Shen X(2), Kalady MF(11), Markowitz S(12), 
+Maillard I(4), Lowe JB(13), Xin W(14), Zhou L(15).
+
+Author information: 
+(1)Department of Pathology, Case Western Reserve University, Cleveland, Ohio.
+(2)Department of Biomedical Engineering, Cornell University, Ithaca, New York.
+(3)Department of Pathology, University Hospitals Case Medical Center, Cleveland, 
+Ohio.
+(4)Life Sciences Institute, University of Michigan, Ann Arbor, Michigan.
+(5)School of Arts and Sciences, University of Pennsylvania, Philadelphia,
+Pennsylvania.
+(6)Department of Internal Medicine, University Hospitals Case Medical Center,
+Cleveland, Ohio.
+(7)Department of Genetics and Genome Sciences, Case Western Reserve University,
+Cleveland, Ohio.
+(8)Institute for Computational Biology, Case Western Reserve University,
+Cleveland, Ohio.
+(9)Division of Comparative Medicine, Massachusetts Institute of Technology,
+Cambridge, Massachusetts.
+(10)Department of Chemistry, Cleveland State University, Cleveland, Ohio.
+(11)Department of Colorectal Surgery, Digestive Diseases Institute, Cleveland
+Clinic, Cleveland, Ohio.
+(12)Department of Medicine, Case Western Reserve University, Cleveland, Ohio.
+(13)Department of Pathology, Genentech, Inc, San Francisco, California.
+(14)Department of Pathology, Case Western Reserve University, Cleveland, Ohio;
+Department of Pathology, University Hospitals Case Medical Center, Cleveland,
+Ohio.
+(15)Department of Pathology, Case Western Reserve University, Cleveland, Ohio;
+Department of Pathology, University Hospitals Case Medical Center, Cleveland,
+Ohio. Electronic address: lan.zhou@case.edu.
+
+BACKGROUND & AIMS: De novo synthesis of guanosine diphosphate (GDP)-fucose, a
+substrate for fucosylglycans, requires sequential reactions mediated by
+GDP-mannose 4,6-dehydratase (GMDS) and GDP-4-keto-6-deoxymannose
+3,5-epimerase-4-reductase (FX or tissue specific transplantation antigen P35B
+[TSTA3]). GMDS deletions and mutations are found in 6%-13% of colorectal cancers;
+these mostly affect the ascending and transverse colon. We investigated whether a
+lack of fucosylation consequent to loss of GDP-fucose synthesis contributes to
+colon carcinogenesis.
+METHODS: FX deficiency and GMDS deletion produce the same biochemical phenotype
+of GDP-fucose deficiency. We studied a mouse model of fucosylation deficiency
+(Fx-/- mice) and mice with the full-length Fx gene (controls). Mice were placed
+on standard chow or fucose-containing diet (equivalent to a control fucosylglycan
+phenotype). Colon tissues were collected and analyzed histologically or by
+enzyme-linked immunosorbent assays to measure cytokine levels; T cells also were 
+collected and analyzed. Fecal samples were analyzed by 16s ribosomal RNA
+sequencing. Mucosal barrier function was measured by uptake of fluorescent
+dextran. We transplanted bone marrow cells from Fx-/- or control mice (Ly5.2)
+into irradiated 8-week-old Fx-/- or control mice (Ly5.1). We performed
+immunohistochemical analyses for expression of Notch and the hes family bHLH
+transcription factor (HES1) in colon tissues from mice and a panel of 60 human
+colorectal cancer specimens (27 left-sided, 33 right-sided).
+RESULTS: Fx-/- mice developed colitis and serrated-like lesions. The intestinal
+pathology of Fx-/- mice was reversed by addition of fucose to the diet, which
+restored fucosylation via a salvage pathway. In the absence of fucosylation,
+dysplasia appeared and progressed to adenocarcinoma in up to 40% of mice,
+affecting mainly the right colon and cecum. Notch was not activated in Fx-/- mice
+fed standard chow, leading to decreased expression of its target Hes1.
+Fucosylation deficiency altered the composition of the fecal microbiota, reduced 
+mucosal barrier function, and altered epithelial proliferation marked by Ki67.
+Fx-/- mice receiving control bone marrow cells had intestinal inflammation and
+dysplasia, and reduced expression of cytokines produced by cytotoxic T cells.
+Human sessile serrated adenomas and right-sided colorectal tumors with epigenetic
+loss of MutL homolog 1 (MLH1) had lost or had lower levels of HES1 than other
+colorectal tumor types or nontumor tissues.
+CONCLUSIONS: In mice, fucosylation deficiency leads to colitis and
+adenocarcinoma, loss of Notch activation, and down-regulation of Hes1. HES1 loss 
+correlates with the development of human right-sided colorectal tumors with
+epigenetic loss of MLH1. These findings indicate that carcinogenesis in a subset 
+of colon cancer is consequent to a molecular mechanism driven by fucosylation
+deficiency and/or HES1-loss.
+
+Copyright © 2017 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2016.09.004 
+PMCID: PMC5164974
+PMID: 27639802  [Indexed for MEDLINE]
+
+Conflict of interest statement: of potential conflicts of interest: The authors
+declare no potential conflicts relevant to the manuscript
+

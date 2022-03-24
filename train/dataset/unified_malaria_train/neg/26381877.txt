@@ -1,0 +1,74 @@
+
+1. parasit vectors. 2015 sep 17;8:474. doi: 10.1186/s13071-015-1083-z.
+
+rna-seq analyses changes anopheles gambiae transcriptome associated
+with resistance pyrethroids kenya: identification candidate-resistance
+genes candidate-resistance snps.
+
+bonizzoni m(1)(2), ochomo e(3), dunn wa(4), britton m(5), afrane y(6), zhou g(7),
+hartsel j(8), lee mc(9), xu j(10), githeko a(11), fass j(12), yan g(13).
+
+author information: 
+(1)program public health, university california, irvine, ca, usa.
+m.bonizzoni@unipv.it.
+(2)department biology biotechnology, university pavia, pavia, italy.
+m.bonizzoni@unipv.it.
+(3)centre global health research, kenya medical research institute, kisumu,
+kenya. ericochomo@yahoo.com.
+(4)department ecology evolutionary biology, yale university, new haven,
+ct, usa. gus.dunn@yale.edu.
+(5)bioinformatics core uc davis genome center, university california,
+davis, ca, 95616, usa. mtbritton@ucdavis.edu.
+(6)school health sciences, jaramogi oginga odinga university science and
+technology, bondo, kenya. yaw_afrane@yahoo.com.
+(7)program public health, university california, irvine, ca, usa.
+zhoug@uci.edu.
+(8)delta-9 technologies, san diego, ca, 92101, usa. jhartsel@gmail.com.
+(9)program public health, university california, irvine, ca, usa.
+mingchil@uci.edu.
+(10)program public health, university california, irvine, ca, usa.
+jiabax1@uci.edu.
+(11)centre global health research, kenya medical research institute, kisumu, 
+kenya. githeko@yahoo.com.
+(12)bioinformatics core uc davis genome center, university california, 
+davis, ca, 95616, usa. joseph.fass@gmail.com.
+(13)program public health, university california, irvine, ca, usa.
+guiyuny@uci.edu.
+
+background: extensive use pyrethroids control malaria vectors,
+driven cost, efficacy safety, led widespread resistance. to
+favor sustainable use, world health organization (who) formulated an
+insecticide resistance management plan, includes identification 
+mechanisms resistance resistance surveillance. recognized physiological
+mechanisms resistance include target site mutations para voltage-gated 
+sodium channel, metabolic detoxification penetration resistance. such
+understanding resistance mechanisms allowed development resistance 
+monitoring tools, including genotyping kdr mutation l1014f/s para
+gene.
+methods: sequence-based technique rna-seq applied study changes the
+transcriptome deltamethrin-resistant -susceptible anopheles gambiae
+mosquitoes western province kenya. resulting gene expression
+profiles compared data recent literature derive list 
+candidate resistance genes. rna-seq data analyzed also identify sequence 
+polymorphisms linked resistance.
+results: total five candidate-resistance genes (agap04177, agap004572,
+agap008840, agap007530 agap013036) identified altered expression
+between resistant susceptible mosquitoes west east africa. change 
+from g c position 36043997 chromosome 3r resulting a101g the
+sulfotransferase gene agap009551 significantly associated resistance
+phenotype (odds ratio: 5.10). kdr l1014s mutation detected similar
+frequencies phenotypically resistant susceptible mosquitoes,
+suggesting longer fully predictive resistant phenotype.
+conclusions: overall, results support conclusion resistance to
+pyrethroids complex evolving phenotype, dependent multiple gene
+functions including, limited to, metabolic detoxification. functional
+convergence among metabolic detoxification genes may exist, role each
+gene modulated life history selection pressure mosquito
+populations. consequence, biochemical assays quantify overall enzyme
+activity may suitable method predicting metabolic resistance than
+gene-based assays.
+
+doi: 10.1186/s13071-015-1083-z 
+pmcid: pmc4574070
+pmid: 26381877  [indexed medline]
+

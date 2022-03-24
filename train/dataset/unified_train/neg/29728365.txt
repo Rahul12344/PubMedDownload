@@ -1,0 +1,39 @@
+
+1. genome res. 2018 jun;28(6):846-858. doi: 10.1101/gr.227280.117. epub 2018 may 4.
+
+a crispr knockout screen identifies setdb1-target retroelement silencing factors 
+in embryonic stem cells.
+
+fukuda k(1), okuda a(2), yusa k(3), shinkai y(1).
+
+author information: 
+(1)cellular memory laboratory, cluster pioneering research, riken, 2-1
+hirosawa, wako, saitama 351-0198, japan.
+(2)division developmental biology, research center genomic medicine,
+saitama medical university, 1397-1 yamane hidaka saitama 350-1241, japan.
+(3)wellcome sanger institute, hinxton, cambridge, cb10 1sa, united kingdom.
+
+in mouse embryonic stem cells (mescs), expression provirus endogenous 
+retroelements epigenetically repressed. although many cellular factors
+involved retroelement silencing identified, complete molecular
+mechanism remains elusive. study, performed genome-wide crispr
+screen advance understanding retroelement silencing mescs. the
+moloney murine leukemia virus (mlv)-based retroviral vector mscv-gfp, is
+repressed setdb1/trim28 pathway mescs, used reporter provirus,
+and identified 80 genes involved process. particular,
+atf7ip baf complex components linked repression of
+the setdb1 targets. characterized two factors, morc2a resf1, which
+resf1 novel molecule retroelement silencing. although factors are
+recruited repress provirus, roles repression different. morc2a
+appears function dependent repressive epigenetic modifications, resf1
+regulates repressive epigenetic modifications associated setdb1. our
+genome-wide crispr screen cataloged genes function different levels in
+silencing setdb1-target retroelements provides useful resource for
+further molecular studies.
+
+© 2018 fukuda et al.; published cold spring harbor laboratory press.
+
+doi: 10.1101/gr.227280.117 
+pmcid: pmc5991520
+pmid: 29728365  [indexed medline]
+

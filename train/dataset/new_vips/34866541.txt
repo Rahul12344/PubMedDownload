@@ -1,0 +1,65 @@
+
+1. J Med Econ. 2021 Nov;24(sup1):1-13. doi: 10.1080/13696998.2021.2002092.
+
+Economic evaluation using dynamic transition modeling of ebola virus vaccination 
+in lower-and-middle-income countries.
+
+Obeng-Kusi M(1), Habila MA(1)(2), Roe DJ(2), Erstad B(3), Abraham I(1).
+
+Author information: 
+(1)Center for Health Outcomes and PharmacoEconomic Research, University of
+Arizona, Tucson, AZ, USA.
+(2)Mel & Enid Zuckerman College of Public Health, University of Arizona, Tucson, 
+AZ, USA.
+(3)Pharmacy Practice and Science, University of Arizona, Tucson, AZ, USA.
+
+BACKGROUND: With the increasing occurrence of infectious diseases in
+lower-and-middle-income countries (LMICs), emergency preparedness is essential
+for rapid response and mitigation. Economic evaluations of mitigation
+technologies and strategies have been recommended for inclusion in emergency
+preparedness plans. We aimed to perform an economic evaluation using dynamic
+transition modeling of ebola virus disease (EVD) vaccination in a hypothetical
+community of 1,000 persons in the Democratic Republic of Congo (DRC).
+METHOD: Using a modified SEIR (Susceptible, Exposed, Infectious, Recovered, with 
+Death added [SEIR-D]) model that accounted for death and epidemiological data
+from an EVD outbreak in the DRC, we modeled the transmission of EVD in a
+hypothetical population of 1,000. With our model, we estimated the
+cost-effectiveness of an EVD vaccine and an EVD vaccination intervention.
+RESULTS: The results showed vaccinating 50% of the population at risk prevented
+670 cases, 538 deaths, and 22,022 disability-adjusted life years (DALYs). The
+vaccine was found to be cost-effective with an incremental cost-effectiveness
+ratio (ICER) of $95.63 per DALY averted. We also determined the minimum required 
+vaccination coverage for cost-effectiveness to be 40%. Sensitivity analysis
+showed our model to be fairly robust, assuring relatively consistent results even
+with variations in such input parameters as cost of screening, as well as
+transmission, infection, incubation, and case fatality rates.
+CONCLUSION: EVD vaccination in our hypothetical population was found to be
+cost-effective from the payer perspective. Our model presents an efficient and
+reliable approach for conducting economic evaluations of infectious disease
+interventions as part of an emergency preparedness plan.
+
+plain-language-summary: PLAIN LANGUAGE SUMMARYInfectious diseases affect
+lower-and-middle-income (LMIC) countries, with their limited resources,
+disproportionately more. This is certainly the case for ebola virus disease
+(EVD), a rare, severe, and mostly fatal disease. Vaccination is now available,
+but whether it is cost-effective remains an open question. We evaluated its
+cost-effectiveness by modeling the spread of EVD in a hypothetical population of 
+1000 persons. Using data from an EVD outbreak in the Democratic Republic of Congo
+(DRC), we estimated how many of persons susceptible to infection were exposed to 
+the virus, became infected, recovered, or died. We did so for two scenarios:
+vaccinating versus not vaccinating enough people to achieve herd immunity. We
+assumed vaccinating 50% of the people and estimated how many infections, deaths, 
+and disability-adjusted life years (DALY; the loss of the equivalent of a year of
+full health) would be prevented by vaccination. Our cost-effectiveness metric was
+the incremental cost of preventing one DALY.The outcomes of vaccination offset
+the additional costs. Vaccinating 50% of the population of 1000 cost an
+additional $2,081,358 but prevented 670 infections, 538 deaths, and 22022 DALYs. 
+Preventing one DALY cost $95.63. This is very cost-effective as it is less than
+the gross domestic product (GDP) per capita for the DRC of $556.81. Vaccination
+below 40% of the population was less cost-effective, was most cost-effective at
+the herd immunity threshold of 45.3%, beyond which there were diminishing
+returns. Summarized, vaccination against EVD is clinically very effective and
+certainly worth the additional cost.
+DOI: 10.1080/13696998.2021.2002092 
+PMID: 34866541 
+

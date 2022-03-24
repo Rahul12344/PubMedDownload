@@ -1,0 +1,37 @@
+
+1. Int J Mol Sci. 2020 Oct 20;21(20). pii: E7770. doi: 10.3390/ijms21207770.
+
+Rab8 and Rabin8-Mediated Tumor Formation by Hyperactivated EGFR Signaling via
+FGFR Signaling.
+
+Choi J(1), Sung JY(1), Lee S(1), Yoo J(1), Rongo C(2), Kim YN(1), Shim J(1).
+
+Author information: 
+(1)Research Institute of National Cancer Center, 323 Ilsan-ro, Goyang,
+Gyeonggi-do 10408, Korea.
+(2)Waksman Institute of Microbiology, Rutgers, The State University of New
+Jersey, 190 Frelinghuysen Road, Piscataway, NJ 08854, USA.
+
+The epidermal growth factor receptor (EGFR) signaling is important for normal
+development, such as vulval development in Caenorhabditis elegans, and
+hyperactivation of the EGFR is often associated with cancer development. Our
+previous report demonstrated the multivulva (Muv) phenotype, a tumor model in C. 
+elegans (jgIs25 strain) by engineering LET-23/EGFR with a TKI-resistant human
+EGFR T790-L858 mutant. Because Rab proteins regulate vesicle transport, which is 
+important for receptor signaling, we screened the RNAi in the jgIs25 strain to
+find the Rabs critical for Muv formation. Herein, we show that rab-8 RNAi and the
+rab-8 (-/-) mutation effectively reduce Muv formation. We demonstrate that
+RABN-8, an ortholog of Rabin8, known as a GEF for Rab8, is also required for Muv 
+formation by promoting the secretion of EGL-17/FGF from vulval precursor cells.
+In addition, FGFR inhibitors decreased Muv formation mediated by mutant EGFR. Our
+data suggest that Rab8 and Rabin8 mediate Muv formation through FGF secretion in 
+the EGFR-TKI-resistant nematode model. Furthermore, FGFR-TKIs more effectively
+inhibit the growth of lung cancer cell lines in H1975 (EGFR T790M-L858R;
+EGFR-TKI-resistant) than H522 (wild-type EGFR) and H1650 (EGFR exon 19 deletion; 
+EGFR-TKI-sensitive) cells, suggesting that FGFR-TKIs could be used to control
+cancers with EGFR-TKI-resistant mutations.
+
+DOI: 10.3390/ijms21207770 
+PMCID: PMC7589727
+PMID: 33092268  [Indexed for MEDLINE]
+

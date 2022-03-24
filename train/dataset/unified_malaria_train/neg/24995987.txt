@@ -1,0 +1,46 @@
+
+1. cell. 2014 jul 3;158(1):213-25. doi: 10.1016/j.cell.2014.05.034.
+
+expansion biological pathways based evolutionary inference.
+
+li y(1), calvo se(2), gutman r(3), liu js(4), mootha vk(5).
+
+author information: 
+(1)howard hughes medical institute department molecular biology,
+massachusetts general hospital, boston, 02114, usa; department statistics, 
+harvard university, cambridge, 02138, usa.
+(2)howard hughes medical institute department molecular biology,
+massachusetts general hospital, boston, 02114, usa; broad institute,
+cambridge, 02141, usa.
+(3)department biostatistics, brown university, providence, ri 02912, usa.
+(4)department statistics, harvard university, cambridge, 02138, usa.
+electronic address: jliu@stat.harvard.edu.
+(5)howard hughes medical institute department molecular biology,
+massachusetts general hospital, boston, 02114, usa; broad institute,
+cambridge, 02141, usa; department systems biology, harvard medical school, 
+boston, 02115, usa. electronic address: vamsi@hms.harvard.edu.
+
+comment in
+    dev cell. 2014 jul 14;30(1):4-5.
+
+the availability diverse genomes makes possible predict gene function
+based shared evolutionary history. approach challenging, however, 
+for pathways whose components exhibit shared history rather consist 
+of distinct "evolutionary modules." introduce computational algorithm,
+clustering inferred models evolution (clime), inputs eukaryotic
+species tree, homology matrix, pathway (gene set) interest. clime
+partitions gene set disjoint evolutionary modules, simultaneously
+learning number modules tree-based evolutionary history defines
+each module. clime expands module scanning genome new
+components likely arose inferred evolutionary model. application
+of clime ∼1,000 annotated human pathways proteomes yeast, red
+algae, malaria reveals unanticipated evolutionary modularity coevolving
+components. clime freely available become increasingly powerful
+with growing wealth eukaryotic genomes.
+
+copyright © 2014 elsevier inc. rights reserved.
+
+doi: 10.1016/j.cell.2014.05.034 
+pmcid: pmc4171950
+pmid: 24995987  [indexed medline]
+

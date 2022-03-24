@@ -1,0 +1,37 @@
+
+1. Cancers (Basel). 2021 Oct 22;13(21). pii: 5314. doi: 10.3390/cancers13215314.
+
+An Agent-Based Model of Combination Oncolytic Viral Therapy and Anti-PD-1
+Immunotherapy Reveals the Importance of Spatial Location When Treating
+Glioblastoma.
+
+Storey KM(1), Jackson TL(2).
+
+Author information: 
+(1)Department of Mathematics, Lafayette College, Easton, PA 18042, USA.
+(2)Department of Mathematics, University of Michigan, Ann Arbor, MI 48109, USA.
+
+Oncolytic viral therapies and immunotherapies are of growing clinical interest
+due to their selectivity for tumor cells over healthy cells and their
+immunostimulatory properties. These treatment modalities provide promising
+alternatives to the standard of care, particularly for cancers with poor
+prognoses, such as the lethal brain tumor glioblastoma (GBM). However,
+uncertainty remains regarding optimal dosing strategies, including how the
+spatial location of viral doses impacts therapeutic efficacy and tumor landscape 
+characteristics that are most conducive to producing an effective immune
+response. We develop a three-dimensional agent-based model (ABM) of GBM
+undergoing treatment with a combination of an oncolytic Herpes Simplex Virus and 
+an anti-PD-1 immunotherapy. We use a mechanistic approach to model the
+interactions between distinct populations of immune cells, incorporating both
+innate and adaptive immune responses to oncolytic viral therapy and including a
+mechanism of adaptive immune suppression via the PD-1/PD-L1 checkpoint pathway.
+We utilize the spatially explicit nature of the ABM to determine optimal viral
+dosing in both the temporal and spatial contexts. After proposing an adaptive
+viral dosing strategy that chooses to dose sites at the location of highest tumor
+cell density, we find that, in most cases, this adaptive strategy produces a more
+effective treatment outcome than repeatedly dosing in the center of the tumor.
+
+DOI: 10.3390/cancers13215314 
+PMCID: PMC8582495
+PMID: 34771476 
+

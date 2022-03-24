@@ -1,0 +1,44 @@
+
+1. Sci Rep. 2014 Aug 1;4:5907. doi: 10.1038/srep05907.
+
+Frequent KIT mutations in human gastrointestinal stromal tumors.
+
+Xu Z(1), Huo X(1), Tang C(2), Ye H(2), Nandakumar V(3), Lou F(2), Zhang D(2),
+Jiang S(2), Sun H(2), Dong H(2), Zhang G(2), Liu Z(2), Dong Z(2), Guo B(2), Yan
+H(2), Yan C(2), Wang L(2), Su Z(2), Li Y(2), Gu D(4), Zhang X(4), Wu X(4), Wei
+X(4), Hong L(4), Zhang Y(4), Yang J(4), Gong Y(4), Tang C(4), Jones L(3), Huang
+XF(3), Chen SY(3), Chen J(4).
+
+Author information: 
+(1)1] Department of Oncology, Nanjing First Hospital, Nanjing Medical University,
+Nanjing 210006, China [2].
+(2)San Valley Biotechnology Inc., Beijing 100044, China.
+(3)Norris Comprehensive Cancer Center, Department of Molecular Microbiology and
+Immunology, Keck School of Medicine, University of Southern California, Los
+Angeles, CA 90033, USA.
+(4)Department of Oncology, Nanjing First Hospital, Nanjing Medical University,
+Nanjing 210006, China.
+
+Identifying gene mutations in individual tumors is critical to improve the
+efficacy of cancer therapy by matching targeted drugs to specific mutations.
+Gastrointestinal stromal tumors (GIST) are stromal or mesenchymal subepithelial
+neoplasms affecting the gastrointestinal tract and frequently contain activating 
+gene mutations in either KIT or platelet-derived growth factor A (PDGFRA).
+Although GIST is highly responsive to several selective tyrosine kinase
+inhibitors, combined use of inhibitors targeting other mutations is needed to
+further prolong survival in patients with GIST. In this study, we aim to screen
+and identify genetic mutations in GIST for targeted therapy using the new Ion
+Torrent next-generation sequencing platform. Utilizing the Ion Ampliseq Cancer
+Panel, we sequenced 737 loci from 45 cancer-related genes using DNA extracted
+from formalin-fixed and paraffin-embedded (FFPE) samples of 121 human
+gastrointestinal stromal tumors, set up stringent parameters for reliable variant
+calling by filtering out potential raw base calling errors, and identified
+frequent mutations in the KIT gene. This study demonstrates the utility of using 
+Ion Torrent sequencing to efficiently identify human cancer mutations. This may
+provide a molecular basis for clinically developing new drugs targeting these
+gene mutations for GIST therapy.
+
+DOI: 10.1038/srep05907 
+PMCID: PMC4118194
+PMID: 25080996  [Indexed for MEDLINE]
+

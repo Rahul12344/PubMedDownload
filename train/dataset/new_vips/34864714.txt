@@ -1,0 +1,45 @@
+
+1. J Xray Sci Technol. 2021 Nov 28. doi: 10.3233/XST-211005. [Epub ahead of print]
+
+UBNet: Deep learning-based approach for automatic X-ray image detection of
+pneumonia and COVID-19 patients.
+
+Widodo CS(1), Naba A(1), Mahasin MM(1), Yueniwati Y(1)(2), Putranto TA(3), Patra 
+PI(3).
+
+Author information: 
+(1)Department of Physics, Faculty of Mathematics and Natural Sciences, Brawijaya 
+University, Malang, East Java, Indonesia.
+(2)Department of Radiology, Faculty of Medicine, Brawijaya University, East Java,
+Malang, Indonesia.
+(3)Radiology Installation, Gatot Soebroto Army Hospital, Jakarta, Indonesia.
+
+BACKGROUND: Analysis of chest X-ray images is one of the primary standards in
+diagnosing patients with COVID-19 and pneumonia, which is faster than using PCR
+Swab method. However, accuracy of using X-ray images needs to be improved.
+OBJECTIVE: To develop a new deep learning system of chest X-ray images and
+evaluate whether it can quickly and accurately detect pneumonia and COVID-19
+patients.
+METHODS: The developed deep learning system (UBNet v3) uses three architectural
+hierarchies, namely first, to build an architecture containing 7 convolution
+layers and 3 ANN layers (UBNet v1) to classify between normal images and
+pneumonia images. Second, using 4 layers of convolution and 3 layers of ANN
+(UBNet v2) to classify between bacterial and viral pneumonia images. Third, using
+UBNet v1 to classify between pneumonia virus images and COVID-19 virus infected
+images. An open-source database with 9,250 chest X-ray images including 3,592
+COVID-19 images were used in this study to train and test the developed deep
+learning models.
+RESULTS: CNN architecture with a hierarchical scheme developed in UBNet v3 using 
+a simple architecture yielded following performance indices to detect chest X-ray
+images of COVID-19 patients namely, 99.6%accuracy, 99.7%precision,
+99.7%sensitivity, 99.1%specificity, and F1 score of 99.74%. A desktop GUI-based
+monitoring and classification system supported by a simple CNN architecture can
+process each chest X-ray image to detect and classify COVID-19 image with an
+average time of 1.21 seconds.
+CONCLUSION: Using three hierarchical architectures in UBNet v3 improves system
+performance in classifying chest X-ray images of pneumonia and COVID-19 patients.
+A simple architecture also speeds up image processing time.
+
+DOI: 10.3233/XST-211005 
+PMID: 34864714 
+

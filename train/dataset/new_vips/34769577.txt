@@ -1,0 +1,33 @@
+
+1. Int J Environ Res Public Health. 2021 Oct 21;18(21). pii: 11058. doi:
+10.3390/ijerph182111058.
+
+Identification of COVID-19 Waves: Considerations for Research and Policy.
+
+Ayala A(1), Villalobos Dintrans P(2), Elorrieta F(1), Castillo C(2), Vargas C(1),
+Maddaleno M(2).
+
+Author information: 
+(1)Departamento de Matemática y Ciencia de la Computación, Facultad de Ciencias, 
+Universidad de Santiago, Santiago 9170022, Chile.
+(2)Programa Centro Salud Pública, Facultad de Ciencias Médicas, Universidad de
+Santiago, Santiago 9170022, Chile.
+
+The identification of COVID-19 waves is a matter of the utmost importance, both
+for research and decision making. This study uses COVID-19 information from the
+52 municipalities of the Metropolitan Region, Chile, and presents a quantitative 
+method-based on weekly accumulated incidence rates-to define COVID-19 waves. We
+explore three different criteria to define the duration of a wave, and performed 
+a sensitivity analysis using multivariate linear models to show their
+commonalities and differences. The results show that, compared to a benchmark
+definition (a 100-day wave), the estimations using longer periods of study are
+worse in terms of the model's overall fit (adjusted R2). The article shows that
+defining a COVID-19 wave is not necessarily simple, and has consequences when
+performing data analysis. The results highlight the need to adopt well-defined
+and well-justified definitions for COVID-19 waves, since these methodological
+choices can have an impact in research and policy making.
+
+DOI: 10.3390/ijerph182111058 
+PMCID: PMC8583384
+PMID: 34769577  [Indexed for MEDLINE]
+

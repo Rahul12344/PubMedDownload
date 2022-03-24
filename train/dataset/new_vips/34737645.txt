@@ -1,0 +1,55 @@
+
+1. Clin Epidemiol. 2021 Oct 27;13:1011-1018. doi: 10.2147/CLEP.S335621. eCollection 
+2021.
+
+Positive Predictive Value of COVID-19 ICD-10 Diagnosis Codes Across Calendar Time
+and Clinical Setting.
+
+Lynch KE(1)(2), Viernes B(1)(2), Gatsby E(1), DuVall SL(1)(2), Jones BE(2)(3),
+Box TL(4), Kreisler C(4), Jones M(2)(3).
+
+Author information: 
+(1)VA Informatics and Computing Infrastructure (VINCI), VA Salt Lake City Health 
+Care System, Salt Lake City, UT, USA.
+(2)Department of Internal Medicine, University of Utah School of Medicine, Salt
+Lake City, UT, USA.
+(3)Informatics, Decision-Enhancement, and Analytic Sciences (IDEAS) Center of
+Innovation, VA Salt Lake City Health Care System, Salt Lake City, UT, USA.
+(4)Analytics and Performance Integration (API), Office of Quality and Patient
+Safety, Veterans Health Administration, Washington, DC, USA.
+
+Purpose: To estimate the positive predictive value (PPV) of International
+Classification of Diseases, Tenth Revision (ICD-10) code U07.1, COVID-19 virus
+identified, in the Department of Veterans of Affairs (VA).
+Patients and Methods: Records of ICD-10 code U07.1 from inpatient, outpatient,
+and emergency/urgent care settings were extracted from VA medical record data
+from 4/01/2020 to 3/31/2021. A weighted, random sample of 1500 records from each 
+quarter of the one-year observation period was reviewed by study personnel to
+confirm active COVID-19 infection at the time of diagnosis and classify reasons
+for false positive records. PPV was estimated overall and compared across
+clinical setting and quarters.
+Results: We identified 664,406 records of U07.1. Among the 1500 reviewed, 237
+were false positives (PPV: 84.2%, 95% CI: 82.4-86.0). PPV ranged from 77.7% in
+outpatient settings to 93.8% in inpatient settings and was 83.3% in quarter 1,
+80.5% in quarter 2, 86.1% in quarter 3, and 83.6% in quarter 4. The most common
+reasons for false positive records were history of COVID-19 (44.3%) and orders
+for laboratory tests (21.5%).
+Conclusion: The PPV of ICD-10 code U07.1 is low, especially in outpatient
+settings. Directed training may improve accuracy of coding to levels that are
+deemed adequate for future use in surveillance efforts.
+
+© 2021 Lynch et al.
+
+DOI: 10.2147/CLEP.S335621 
+PMCID: PMC8558427
+PMID: 34737645 
+
+Conflict of interest statement: Dr Scott L DuVall reports grants from Anolinx,
+LLC, Astellas Pharma, Inc, AstraZeneca Pharmaceuticals LP, Boehringer Ingelheim
+International GmbH, Celgene Corporation, Eli Lilly and Company, Genentech Inc.,
+Genomic Health, Inc., Gilead Sciences Inc., GlaxoSmithKline PLC, Innocrin
+Pharmaceuticals Inc., Janssen Pharmaceuticals, Inc., Kantar Health, Myriad
+Genetic Laboratories, Inc., Novartis International AG, and Parexel International 
+Corporation, outside the submitted work. The author reports no other conflicts of
+interest in this work.
+

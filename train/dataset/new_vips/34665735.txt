@@ -1,0 +1,29 @@
+
+1. IEEE Trans Nanobioscience. 2021 Oct 19;PP. doi: 10.1109/TNB.2021.3120747. [Epub
+ahead of print]
+
+Polarization-dependent plasmonic nano-tweezer as a platform for on-chip trapping 
+and manipulation of virus-like particles.
+
+Mokri K, Mozaffari MH, Farmani A.
+
+Plasmonics advanced materials with the capability of environmental variation
+detection extend the application of visible light, satisfying the demands of less
+footprint, easy-to-use, and high tunability for visible-sensitive materials. In
+this area, localized surface plasmon can significantly enhance the electric field
+smaller than the radiation wavelength providing a strong gradient force required 
+in optical tweezing systems. Owing to this beneficial advantage over the
+conventional optical tweezers, the plasmonic tweezers have matured to a stage
+where today become increasingly attractive for trapping and manipulation of
+nanoparticles. In this work, we are proposing a tunable plasmonic nano-tweezer
+that operates according to the polarization of excitation laser light. The
+proposed novel structure encompasses a gold nano-ring and a gold nano-disk in
+which by changing the beam polarization, the hot spots position also changes, and
+the nanoparticles can be relocated around the circumference of a circle trapped
+at a certain point. According to 3D finite-difference-time-domain simulations,
+the proposed nano-tweezing system can potentially exert a trapping force of 164
+pNW-1 on a 20 nm HIV-1 virus-like particle.
+
+DOI: 10.1109/TNB.2021.3120747 
+PMID: 34665735 
+

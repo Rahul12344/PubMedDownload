@@ -1,0 +1,46 @@
+
+1. Pharmaceutics. 2021 Nov 2;13(11). pii: 1839. doi: 10.3390/pharmaceutics13111839.
+
+Broad Spectrum Antiviral Properties of Cardiotonic Steroids Used as Potential
+Therapeutics for Emerging Coronavirus Infections.
+
+Jin YH(1)(2), Jeon S(3), Lee J(3), Kim S(3), Jang MS(2)(4), Park CM(2), Song
+JH(2), Kim HR(2), Kwon S(2)(5).
+
+Author information: 
+(1)KM Application Center, Korea Institute of Oriental Medicine, Daegu 41062,
+Korea.
+(2)Center for Convergent Research of Emerging Virus Infection, Korea Research
+Institute of Chemical Technology, Daejeon 34114, Korea.
+(3)Zoonotic Virus Laboratory, Institut Pasteur Korea, Seongnam 13488, Korea.
+(4)Department of Non-Clinical Studies, Korea Institute of Toxicology, Daejeon
+34114, Korea.
+(5)KM Convergence Research Division, Korea Institute of Oriental Medicine,
+Daejeon 34054, Korea.
+
+Cardiotonic steroids are steroid-like natural compounds known to inhibit
+Na+/K+-ATPase pumps. To develop a broad-spectrum antiviral drug against the
+emerging coronavirus infection, this study assessed the antiviral properties of
+these compounds. The activity of seven types of cardiotonic steroids against the 
+MERS-CoV, SARS-CoV, and SARS-CoV-2 coronavirus varieties was analyzed using
+immunofluorescence antiviral assay in virus-infected cells. Bufalin, cinobufagin,
+and telocinobufagin showed high anti-MERS-CoV activities (IC50, 0.017~0.027 μM); 
+bufalin showed the most potent anti-SARS-CoV and SARS-CoV-2 activity (IC50,
+0.016~0.019 μM); cinobufotalin and resibufogenin showed comparatively low
+anti-coronavirus activity (IC50, 0.231~1.612 μM). Differentially expressed genes 
+in Calu3 cells treated with cinobufagin, telocinobufagin, or bufalin, which had
+high antiviral activity during MERS-CoV infection were analyzed using QuantSeq 3'
+mRNA-Seq analysis and data showed similar gene expression patterns. Furthermore, 
+the intraperitoneal administration of 10 mg/kg/day bufalin, cinobufagin, or
+digitoxin induced 100% death after 1, 2, and 4 days in 5-day repeated dose
+toxicity studies and it indicated that bufalin had the strongest toxicity.
+Pharmacokinetic studies suggested that telocinobufagin, which had high
+anti-coronavirus activity and low toxicity, had better microsomal stability,
+lower CYP inhibition, and better oral bioavailability than cinobufagin.
+Therefore, telocinobufagin might be the most promising cardiotonic steroid as a
+therapeutic for emerging coronavirus infections, including COVID-19.
+
+DOI: 10.3390/pharmaceutics13111839 
+PMCID: PMC8618917
+PMID: 34834252 
+

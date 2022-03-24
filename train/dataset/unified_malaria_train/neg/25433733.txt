@@ -1,0 +1,67 @@
+
+1. bmc bioinformatics. 2014 nov 30;15:393. doi: 10.1186/s12859-014-0393-z.
+
+computational prediction protein interactions related invasion of
+erythrocytes malarial parasites.
+
+liu x(1), huang y(2), liang j(3), zhang s(4), li y(5), wang j(6), shen y(7), xu
+z(8), zhao y(9).
+
+author information: 
+(1)department pathogenic biology, fourth military medical university,
+xi'an, 710032, p. r. china. liu_xuewu@hotmail.com.
+(2)department pathogenic biology, fourth military medical university,
+xi'an, 710032, p. r. china. celina_xiao@163.com.
+(3)department pathogenic biology, fourth military medical university,
+xi'an, 710032, p. r. china. liangjiao_18@163.com.
+(4)department pathogenic biology, fourth military medical university,
+xi'an, 710032, p. r. china. macnk@163.com.
+(5)department pathogenic biology, fourth military medical university,
+xi'an, 710032, p. r. china. yinghlzb@fmmu.edu.cn.
+(6)department pathogenic biology, fourth military medical university,
+xi'an, 710032, p. r. china. 977753561@qq.com.
+(7)department pathogenic biology, fourth military medical university,
+xi'an, 710032, p. r. china. 37762810@qq.com.
+(8)department pathogenic biology, fourth military medical university,
+xi'an, 710032, p. r. china. zhikaixu@fmmu.edu.cn.
+(9)department pathogenic biology, fourth military medical university,
+xi'an, 710032, p. r. china. zhaoya@fmmu.edu.cn.
+
+background: invasion red blood cells (rbcs) malarial parasites an
+essential step life cycle plasmodium falciparum. human-parasite surface
+protein interactions play critical role process. although several
+interactions human parasite proteins discovered, the
+mechanism related invasion remains poorly understood numerous
+human-parasite protein interactions yet identified. high-throughput
+screening experiments feasible malarial parasites due difficulty
+in expressing parasite proteins. here, performed computational prediction 
+of ppis involved malaria parasite invasion elucidate mechanism by
+which invasion occurs.
+results: study, expectation maximization algorithm used to
+estimate probabilities domain-domain interactions (ddis). estimates ddi
+probabilities used infer ppi probabilities. found our
+prediction performance better based information d.
+melanogaster alone information related six species used.
+prediction performance assessed using protein interaction data s.
+cerevisiae, indicating predicted results reliable. used the
+estimates ddi probabilities infer interactions 490 parasite and
+3,787 human membrane proteins. small-scale dataset used illustrate the
+usability method predicting interactions human parasite
+proteins. positive predictive value (ppv) lower observed s. 
+cerevisiae. integrated gene expression data improve prediction accuracy and
+to reduce false positives. identified 80 membrane proteins highly expressed in
+the schizont stage fast fourier transform method. approximately 221
+erythrocyte membrane proteins identified using published mass spectral
+datasets. network consisting 205 interactions predicted. results of
+network analysis suggest snare proteins parasites app humans may
+function invasion rbcs parasites.
+conclusions: predicted small-scale ppi network may involved in
+parasite invasion rbcs integrating ddi information expression profiles.
+experimental studies conducted validate predicted interactions. 
+the predicted ppis help elucidate mechanism parasite invasion provide 
+directions future experimental investigations.
+
+doi: 10.1186/s12859-014-0393-z 
+pmcid: pmc4265449
+pmid: 25433733  [indexed medline]
+

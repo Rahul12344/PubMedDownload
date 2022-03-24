@@ -1,0 +1,35 @@
+
+1. PLoS One. 2013 Jul 29;8(7):e70320. doi: 10.1371/journal.pone.0070320. Print 2013.
+
+Partial restoration of macrophage alteration from diet-induced obesity in
+response to Porphyromonas gingivalis infection.
+
+Richard G(1), Trivedi N, Belta C, Amar S.
+
+Author information: 
+(1)Department of Bioinformatics, Boston University, Boston, Massachusetts, United
+States of America.
+
+Obesity is a chronic inflammatory disease that weakens macrophage innate immune
+response to infections. Since M1 polarization is crucial during acute infectious 
+diseases, we hypothesized that diet-induced obesity inhibits M1 polarization of
+macrophages in the response to bacterial infections. Bone marrow macrophages
+(BMMΦ) from lean and obese mice were exposed to live Porphyromonas gingivalis (P.
+gingivalis) for three incubation times (1 h, 4 h and 24 h). Flow cytometry
+analysis revealed that the M1 polarization was inhibited after P. gingivalis
+exposure in BMMΦ from obese mice when compared with BMMΦ from lean counterparts. 
+Using a computational approach in conjunction with microarray data, we identified
+switching genes that may differentially control the behavior of response pathways
+in macrophages from lean and obese mice. The two most prominent switching genes
+were thrombospondin 1 and arginase 1. Protein expression levels of both genes
+were higher in obese BMMΦ than in lean BMMΦ after exposure to P. gingivalis.
+Inhibition of either thrombospondin 1 or arginase 1 by specific inhibitors
+recovered the M1 polarization of BMMΦ from obese mice after P. gingivalis
+exposure. These data indicate that thrombospondin 1 and arginase 1 are important 
+bacterial response genes, whose regulation is altered in macrophages from obese
+mice.
+
+DOI: 10.1371/journal.pone.0070320 
+PMCID: PMC3726386
+PMID: 23922979  [Indexed for MEDLINE]
+

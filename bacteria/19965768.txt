@@ -1,0 +1,34 @@
+
+1. Nucleic Acids Res. 2010 Mar;38(4):1341-52. doi: 10.1093/nar/gkp1073. Epub 2009
+Dec 3.
+
+Fine-tuning of the ribosomal decoding center by conserved methyl-modifications in
+the Escherichia coli 16S rRNA.
+
+Kimura S(1), Suzuki T.
+
+Author information: 
+(1)Department of Chemistry and Biotechnology, Graduate School of Engineering,
+University of Tokyo, Bldg. 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan.
+
+In bacterial 16S rRNAs, methylated nucleosides are clustered within the decoding 
+center, and these nucleoside modifications are thought to modulate translational 
+fidelity. The N(4), 2'-O-dimethylcytidine (m(4)Cm) at position 1402 of the
+Escherichia coli 16S rRNA directly interacts with the P-site codon of the mRNA.
+The biogenesis and function of this modification remain unclear. We have
+identified two previously uncharacterized genes in E. coli that are required for 
+m(4)Cm formation. mraW (renamed rsmH) and yraL (renamed rsmI) encode
+methyltransferases responsible for the N(4) and 2'-O-methylations of C1402,
+respectively. Recombinant RsmH and RsmI proteins employed the 30S subunit (not
+the 16S rRNA) as a substrate to reconstitute m(4)Cm1402 in the presence of
+S-adenosylmethionine (Ado-Met) as the methyl donor, suggesting that m(4)Cm1402 is
+formed at a late step during 30S assembly in the cell. A luciferase reporter
+assay indicated that the lack of N(4) methylation of C1402 increased the
+efficiency of non-AUG initiation and decreased the rate of UGA read-through.
+These results suggest that m(4)Cm1402 plays a role in fine-tuning the shape and
+function of the P-site, thus increasing decoding fidelity.
+
+DOI: 10.1093/nar/gkp1073 
+PMCID: PMC2831307
+PMID: 19965768  [Indexed for MEDLINE]
+

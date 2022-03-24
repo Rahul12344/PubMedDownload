@@ -1,0 +1,35 @@
+
+1. J Bacteriol. 2010 Oct;192(20):5515-25. doi: 10.1128/JB.00748-10. Epub 2010 Aug
+20.
+
+Deficiency in L-serine deaminase interferes with one-carbon metabolism and cell
+wall synthesis in Escherichia coli K-12.
+
+Zhang X(1), El-Hajj ZW, Newman E.
+
+Author information: 
+(1)Biology Department, Concordia University, 1455 de Maisonneuve Ave., Montreal, 
+Quebec H3G 1M8, Canada.
+
+Escherichia coli K-12 provided with glucose and a mixture of amino acids depletes
+L-serine more quickly than any other amino acid even in the presence of ammonium 
+sulfate. A mutant without three 4Fe4S L-serine deaminases (SdaA, SdaB, and TdcG) 
+of E. coli K-12 is unable to do this. The high level of L-serine that accumulates
+when such a mutant is exposed to amino acid mixtures starves the cells for C(1)
+units and interferes with cell wall synthesis. We suggest that at high
+concentrations, L-serine decreases synthesis of UDP-N-acetylmuramate-L-alanine by
+the murC-encoded ligase, weakening the cell wall and producing misshapen cells
+and lysis. The inhibition by high L-serine is overcome in several ways: by a
+large concentration of L-alanine, by overproducing MurC together with a low
+concentration of L-alanine, and by overproducing FtsW, thus promoting septal
+assembly and also by overexpression of the glycine cleavage operon.
+S-Adenosylmethionine reduces lysis and allows an extensive increase in biomass
+without improving cell division. This suggests that E. coli has a metabolic
+trigger for cell division. Without that reaction, if no other inhibition occurs, 
+other metabolic functions can continue and cells can elongate and replicate their
+DNA, reaching at least 180 times their usual length, but cannot divide.
+
+DOI: 10.1128/JB.00748-10 
+PMCID: PMC2950509
+PMID: 20729359  [Indexed for MEDLINE]
+

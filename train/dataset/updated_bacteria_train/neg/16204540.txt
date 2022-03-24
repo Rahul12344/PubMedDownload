@@ -1,0 +1,43 @@
+
+1. Appl Environ Microbiol. 2005 Oct;71(10):6206-15.
+
+Analysis of genes involved in arsenic resistance in Corynebacterium glutamicum
+ATCC 13032.
+
+Ordóñez E(1), Letek M, Valbuena N, Gil JA, Mateos LM.
+
+Author information: 
+(1)Area de Microbiología, Departamento de Ecología, Genética y Microbiología,
+Universidad de León, 24071 León, Spain.
+
+Corynebacterium glutamicum is able to grow in media containing up to 12 mM
+arsenite and 500 mM arsenate and is one of the most arsenic-resistant
+microorganisms described to date. Two operons (ars1 and ars2) involved in
+arsenate and arsenite resistance have been identified in the complete genome
+sequence of Corynebacterium glutamicum. The operons ars1 and ars2 are located
+some distance from each other in the bacterial chromosome, but they are both
+composed of genes encoding a regulatory protein (arsR), an arsenite permease
+(arsB), and an arsenate reductase (arsC); operon ars1 contains an additional
+arsenate reductase gene (arsC1') located immediately downstream from arsC1.
+Additional arsenite permease and arsenate reductase genes (arsB3 and arsC4)
+scattered on the chromosome were also identified. The involvement of ars operons 
+in arsenic resistance in C. glutamicum was confirmed by gene disruption
+experiments of the three arsenite permease genes present in its genome. Wild-type
+and arsB3 insertional mutant C. glutamicum strains were able to grow with up to
+12 mM arsenite, whereas arsB1 and arsB2 C. glutamicum insertional mutants were
+resistant to 4 mM and 9 mM arsenite, respectively. The double arsB1-arsB2
+insertional mutant was resistant to only 0.4 mM arsenite and 10 mM arsenate. Gene
+amplification assays of operons ars1 and ars2 in C. glutamicum revealed that the 
+recombinant strains containing the ars1 operon were resistant to up to 60 mM
+arsenite, this being one of the highest levels of bacterial resistance to
+arsenite so far described, whereas recombinant strains containing operon ars2
+were resistant to only 20 mM arsenite. Northern blot and reverse
+transcription-PCR analysis confirmed the presence of transcripts for all the ars 
+genes, the expression of arsB3 and arsC4 being constitutive, and the expression
+of arsR1, arsB1, arsC1, arsC1', arsR2, arsB2, and arsC2 being inducible by
+arsenite.
+
+DOI: 10.1128/AEM.71.10.6206-6215.2005 
+PMCID: PMC1266000
+PMID: 16204540  [Indexed for MEDLINE]
+

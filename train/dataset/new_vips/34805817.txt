@@ -1,0 +1,81 @@
+
+1. JHEP Rep. 2021 Oct 7;3(6):100384. doi: 10.1016/j.jhepr.2021.100384. eCollection
+2021 Dec.
+
+Performance of models to predict hepatocellular carcinoma risk among UK patients 
+with cirrhosis and cured HCV infection.
+
+Innes H(1)(2)(3), Jepsen P(3)(4)(5), McDonald S(1)(2), Dillon J(6), Hamill
+V(1)(2), Yeung A(1)(2), Benselin J(7), Went A(2), Fraser A(8)(9), Bathgate A(10),
+Ansari MA(11), Barclay ST(12), Goldberg D(1)(2), Hayes PC(10), Johnson P(13),
+Barnes E(11), Irving W(7), Hutchinson S(1)(2), Guha IN(7).
+
+Author information: 
+(1)School of Health and Life Sciences, Glasgow Caledonian University, Glasgow,
+UK.
+(2)Public Health Scotland, Glasgow, UK.
+(3)Division of Epidemiology and Public Health, University of Nottingham,
+Nottingham, UK.
+(4)Department of Hepatology and Gastroenterology, Aarhus University Hospital,
+Aarhus, Denmark.
+(5)Department of Clinical Epidemiology, Aarhus University Hospital, Aarhus,
+Denmark.
+(6)Division of Molecular and Clinical Medicine, School of Medicine, University of
+Dundee, Dundee, UK.
+(7)NIHR Nottingham Biomedical Research Centre, Nottingham University Hospitals
+NHS Trust and the University of Nottingham, Nottingham, UK.
+(8)Aberdeen Royal Infirmary, Aberdeen, UK.
+(9)Queen Elizabeth University Hospital, Glasgow, UK.
+(10)Royal Infirmary of Edinburgh, Edinburgh, UK.
+(11)Peter Medawar Building for Pathogen Research, Nuffield Department of Medicine
+and the Oxford NIHR Biomedical Research Centre, Oxford University, Oxford, UK.
+(12)Walton Liver Clinic, Glasgow Royal Infirmary, Glasgow, UK.
+(13)Department of Molecular and Clinical Cancer Medicine, University of
+Liverpool, Liverpool, UK.
+
+Background & Aims: Hepatocellular carcinoma (HCC) prediction models can inform
+clinical decisions about HCC screening provided their predictions are robust. We 
+conducted an external validation of 6 HCC prediction models for UK patients with 
+cirrhosis and a HCV virological cure.
+Methods: Patients with cirrhosis and cured HCV were identified from the Scotland 
+HCV clinical database (N = 2,139) and the STratified medicine to Optimise
+Treatment of Hepatitis C Virus (STOP-HCV) study (N = 606). We calculated patient 
+values for 4 competing non-genetic HCC prediction models, plus 2 genetic models
+(for the STOP-HCV cohort only). Follow-up began at the date of sustained
+virological response (SVR) achievement. HCC diagnoses were identified through
+linkage to nation-wide cancer, hospitalisation, and mortality registries. We
+compared discrimination and calibration measures between prediction models.
+Results: Mean follow-up was 3.4-3.9 years, with 118 (Scotland) and 40 (STOP-HCV) 
+incident HCCs observed. The age-male sex-ALBI-platelet count score (aMAP) model
+showed the best discrimination; for example, the Concordance index (C-index) in
+the Scottish cohort was 0.77 (95% CI 0.73-0.81). However, for all models,
+discrimination varied by cohort (being better for the Scottish cohort) and by age
+(being better for younger patients). In addition, genetic models performed better
+in patients with HCV genotype 3. The observed 3-year HCC risk was 3.3% (95% CI
+2.6-4.2) and 5.1% (3.5-7.0%) in the Scottish and STOP-HCV cohorts, respectively. 
+These were most closely matched by aMAP, in which the mean predicted 3-year risk 
+was 3.6% and 5.0% in the Scottish and STOP-HCV cohorts, respectively.
+Conclusions: aMAP was the best-performing model in terms of both discrimination
+and calibration and, therefore, should be used as a benchmark for rival models to
+surpass. This study underlines the opportunity for 'real-world' risk
+stratification in patients with cirrhosis and cured HCV. However, auxiliary
+research is needed to help translate an HCC risk prediction into an HCC-screening
+decision.
+Lay summary: Patients with cirrhosis and cured HCV are at high risk of developing
+liver cancer, although the risk varies substantially from one patient to the
+next. Risk calculator tools can alert clinicians to patients at high risk and
+thereby influence decision-making. In this study, we tested the performance of 6 
+risk calculators in more than 2,500 patients with cirrhosis and cured HCV. We
+show that some risk calculators are considerably better than others. Overall, we 
+found that the 'aMAP' calculator worked the best, but more work is needed to
+convert predictions into clinical decisions.
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.jhepr.2021.100384 
+PMCID: PMC8585647
+PMID: 34805817 
+
+Conflict of interest statement: There are no conflicts of interest to disclose.
+Please refer to the accompanying ICMJE disclosure forms for further details.
+

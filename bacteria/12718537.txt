@@ -1,0 +1,38 @@
+
+1. Biochemistry. 2003 May 6;42(17):4954-61.
+
+Thermodynamic and kinetic analysis of a peptide-class I MHC interaction
+highlights the noncovalent nature and conformational dynamics of the class I
+heterotrimer.
+
+Binz AK(1), Rodriguez RC, Biddison WE, Baker BM.
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, University of Notre Dame, 251
+Nieuwland Science Hall, Notre Dame, Indiana 46556-5670, USA.
+
+The class I major histocompatibility (MHC) molecule is a heterotrimer composed of
+a heavy chain, the small subunit beta(2)-microglobulin (beta(2)m), and a peptide.
+Fluorescence anisotropy has been used to assay the interaction of a labeled
+peptide with a recombinant, soluble form of the class I MHC HLA-A2. Consistent
+with earlier work, peptide binding is shown to be a two-step process limited by a
+conformational rearrangement in the heavy chain/beta(2)m heterodimer. However, we
+identify two pathways for peptide dissociation from the heterotrimer: (1) initial
+peptide dissociation leaving a heavy chain/beta(2)m heterodimer and (2) initial
+dissociation of beta(2)m, followed by peptide dissociation from the heavy chain. 
+Eyring analyses of rate constants measured as a function of temperature permit
+for the first time a complete thermodynamic characterization of peptide binding. 
+We find that in this case peptide binding is mostly entropically driven, likely
+reflecting the hydrophobic character of the peptide binding groove and the
+peptide anchor residues. Thermodynamic and kinetic analyses of peptide-MHC
+interactions as performed here may be of practical use in the engineering of
+peptides with desired binding properties and will aid in the interpretation of
+the effects of MHC and peptide substitutions on peptide binding and T cell
+reactivity. Finally, our data suggest a role for beta(2)m in dampening
+conformational dynamics in the heavy chain. Remaining conformational variability 
+in the heavy chain once beta(2)m has bound may be a mechanism to promote
+promiscuity in peptide binding.
+
+DOI: 10.1021/bi034077m 
+PMID: 12718537  [Indexed for MEDLINE]
+

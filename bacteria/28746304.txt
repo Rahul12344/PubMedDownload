@@ -1,0 +1,50 @@
+
+1. Nature. 2017 Aug 3;548(7665):117-121. doi: 10.1038/nature23271. Epub 2017 Jul 26.
+
+Complex cellular logic computation using ribocomputing devices.
+
+Green AA(1)(2), Kim J(1)(3), Ma D(2), Silver PA(1)(3), Collins JJ(1)(4)(5), Yin
+P(1)(3).
+
+Author information: 
+(1)Wyss Institute for Biologically Inspired Engineering, Harvard University,
+Boston, Massachusetts 02115, USA.
+(2)Biodesign Center for Molecular Design and Biomimetics, Biodesign Institute and
+School of Molecular Sciences, Arizona State University, Tempe, Arizona 85287,
+USA.
+(3)Department of Systems Biology, Harvard Medical School, Boston, Massachusetts
+02115, USA.
+(4)Institute for Medical Engineering and Science, Department of Biological
+Engineering, and Synthetic Biology Center, Massachusetts Institute of Technology,
+Cambridge, Massachusetts 02139, USA.
+(5)Broad Institute of MIT and Harvard, Cambridge, Massachusetts 02142, USA.
+
+Synthetic biology aims to develop engineering-driven approaches to the
+programming of cellular functions that could yield transformative technologies.
+Synthetic gene circuits that combine DNA, protein, and RNA components have
+demonstrated a range of functions such as bistability, oscillation, feedback, and
+logic capabilities. However, it remains challenging to scale up these circuits
+owing to the limited number of designable, orthogonal, high-performance parts,
+the empirical and often tedious composition rules, and the requirements for
+substantial resources for encoding and operation. Here, we report a strategy for 
+constructing RNA-only nanodevices to evaluate complex logic in living cells. Our 
+'ribocomputing' systems are composed of de-novo-designed parts and operate
+through predictable and designable base-pairing rules, allowing the effective in 
+silico design of computing devices with prescribed configurations and functions
+in complex cellular environments. These devices operate at the
+post-transcriptional level and use an extended RNA transcript to co-localize all 
+circuit sensing, computation, signal transduction, and output elements in the
+same self-assembled molecular complex, which reduces diffusion-mediated signal
+losses, lowers metabolic cost, and improves circuit reliability. We demonstrate
+that ribocomputing devices in Escherichia coli can evaluate two-input logic with 
+a dynamic range up to 900-fold and scale them to four-input AND, six-input OR,
+and a complex 12-input expression (A1 AND A2 AND NOT A1*) OR (B1 AND B2 AND NOT
+B2*) OR (C1 AND C2) OR (D1 AND D2) OR (E1 AND E2). Successful operation of
+ribocomputing devices based on programmable RNA interactions suggests that
+systems employing the same design principles could be implemented in other host
+organisms or in extracellular settings.
+
+DOI: 10.1038/nature23271 
+PMCID: PMC6078203
+PMID: 28746304  [Indexed for MEDLINE]
+

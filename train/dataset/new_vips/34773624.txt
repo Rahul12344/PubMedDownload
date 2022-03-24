@@ -1,0 +1,37 @@
+
+1. Methods Mol Biol. 2022;2392:185-197. doi: 10.1007/978-1-0716-1799-1_14.
+
+PCR Primer Design for the Rapidly Evolving SARS-CoV-2 Genome.
+
+Qu W(1)(2), Li J(3), Cai H(4), Zhao D(5).
+
+Author information: 
+(1)iGeneTech Bioscience Co., Ltd, Beijing, China. quwubin@gmail.com.
+(2)Center of Growth, Metabolism and Aging, Key Laboratory of Bio-Resources and
+Eco-Environment, College of Life Sciences, Sichuan University, Chengdu, China.
+quwubin@gmail.com.
+(3)Information Center, Academy of Military Medical Science, Beijing, China.
+(4)Center of Growth, Metabolism and Aging, Key Laboratory of Bio-Resources and
+Eco-Environment, College of Life Sciences, Sichuan University, Chengdu, China.
+(5)Information Center, Academy of Military Medical Science, Beijing, China.
+dszhao@bmi.ac.cn.
+
+Real-time quantitative PCR is currently the most widely used method for the human
+pathogen severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+identification. Due to the rapid evolution of the SARS-CoV-2 genome, novel
+mutations on the primer binding sites will cause the failure of PCR. Therefore,
+in addition to a well-designed primer set, these primers need to be updated and
+evaluated regularly to ensure that the rapidly evolving genome primers can be
+amplified. In this protocol, (1) we firstly use assembled genome sequences in the
+SARS-CoV-2 database to identify and characterize indels and point mutations; (2) 
+design primers skipping the sites of mutations; (3) check the coverage of the
+primers with the daily update SARS-CoV-2 database; (4) redesign them if novel
+mutations found in the primer binding sites. Although this protocol takes
+SARS-CoV-2 as an example, it is suitable for other species that have genomes
+accumulating mutations over time.
+
+© 2022. Springer Science+Business Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/978-1-0716-1799-1_14 
+PMID: 34773624  [Indexed for MEDLINE]
+

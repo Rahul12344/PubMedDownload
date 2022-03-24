@@ -1,0 +1,76 @@
+
+1. Front Mol Biosci. 2021 Nov 16;8:756701. doi: 10.3389/fmolb.2021.756701.
+eCollection 2021.
+
+Evidence for Quantum Chemical Effects in Receptor-Ligand Binding Between Integrin
+and Collagen Fragments - A Computational Investigation With an Impact on Tissue
+Repair, Neurooncolgy and Glycobiology.
+
+Eckert T(1)(2)(3), von Cosel J(1), Kamps B(1)(3), Siebert HC(4), Zhang R(4)(5),
+Zhang N(4)(5), Gousias K(6), Petridis AK(7), Kanakis D(8), Falahati K(1).
+
+Author information: 
+(1)RISCC Research Institute for Scientific Computing and Consulting, Heuchelheim,
+Germany.
+(2)Institut für Veterinärphysiologie und Biochemie, Fachbereich Veterinärmedizin,
+Justus-Liebig- Universität Gießen, Gießen, Germany.
+(3)Fachbereich Biologie und Chemie, Hochschule Fresenius University of Applied
+Sciences, Idstein, Germany.
+(4)RI-B-NT Research Institute of Bioinformatics and Nanotechnology, Kiel,
+Germany.
+(5)Institute of BioPharmaceutical Research, Liaocheng University, Liaocheng,
+China.
+(6)Klinik für Neurochirurgie, Klinikum Lünen, St.-Marien-Hospital, Akad.
+Lehrkrankenhaus der Westf. Wilhelms-Universität Münster, Lünen, Germany.
+(7)Medical School, Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany.
+(8)Institute of Pathology, University of Nicosia Medical School, Nicosia, Cyprus.
+
+The collagen-integrin interactions are mediated by the doubly charged Mg2+
+cation. In nature this cation seems to have the optimal binding strength to
+stabilize this complex. It is essential that the binding is not too weak so that 
+the complex becomes unstable, however, it is also of importance that the
+ligand-receptor binding is still labile enough so that the ligand can separate
+from the receptor in a suited environment. In the case of crystal growing for
+experimentally useful integrin-collagen fragment complexes it turned out that
+Co2+ cations are ideal mediators to form stable complexes for such experiments.
+Although, one can argue that Co2+ is in this context an artificial cation,
+however, it is now of special interest to test the impact of this cation in
+cell-culture experiments focusing on integrin-ligand interactions. In order to
+examine, in particular, the role cobalt ions we have studied a Co2+ based model
+system using quantum chemical calculations. Thereby, we have shown that hybrid
+and long-range corrected functional, which are approximations provide already a
+sufficient level of accuracy. It is of interest to study a potential impact of
+cations on the binding of collagen-fragments including collagens from various
+species because different integrins have numerous biological functions (e.g.
+Integrin - NCAM (Neural cell adhesion molecule) interactions) and are triggered
+by intact and degraded collagen fragments. Since integrin-carbohydrate
+interactions play a key role when bio-medical problems such as tumor cell
+adhesion and virus-host cell infections have to be addressed on a sub-molecular
+level it is essential to understand the interactions with heavy-metal ions also
+at the sub-atomic level. Our findings open new routes, especially, in the fields 
+of tissue repair and neuro-oncology for example for cell-culture experiments with
+different ions. Since Co2+ ions seem to bind stronger to integrin than Mg2+ ions 
+it should be feasible to exchange these cations in suited tumor tissues although 
+different cations are present in other metalloproteins which are active in such
+tissues. Various staining methods can be applied to document the interactions of 
+integrins with carbohydrate chains and other target structures. Thereby, it is
+possible to study a potential impact of these interactions on biological
+functions. It was therefore necessary to figure out first which
+histological-glycobiological experimental settings of tumor cells are suited for 
+our purpose. Since the interactions of several metalloproteins (integrin, ADAM12)
+with polysialic acid and the HNK-1 epitope play a crucial role in tumor tissues
+selected staining methods are proper tools to obtain essential information about 
+the impact of the metal ions under study.
+
+Copyright © 2021 Eckert, von Cosel, Kamps, Siebert, Zhang, Zhang, Gousias,
+Petridis, Kanakis and Falahati.
+
+DOI: 10.3389/fmolb.2021.756701 
+PMCID: PMC8637888
+PMID: 34869589 
+
+Conflict of interest statement: The Authors TE, BK, JC, and KF are employed by
+RISCC UG. The remaining authors declare that the research was conducted in the
+absence of any commercial or financial relationships that could be construed as a
+potential conflict of interest.
+

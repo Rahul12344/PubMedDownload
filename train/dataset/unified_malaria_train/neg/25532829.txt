@@ -1,0 +1,41 @@
+
+1. febs j. 2015 feb;282(4):769-87. doi: 10.1111/febs.13181. epub 2015 jan 22.
+
+improving accuracy recombinant protein production integration of
+bioinformatics, statistical mass spectrometry methodologies.
+
+ragionieri l(1), vitorino r, frommlet j, oliveira jl, gaspar p, ribas de pouplana
+l, santos ma, moura gr.
+
+author information: 
+(1)rna genome biology laboratories, department biology/health sciences,
+centro de estudos ambiente e mar ibimed, university aveiro, portugal.
+
+erratum in
+    febs j. 2016 jan;283(2):395.
+
+heterologous protein production key technology biotechnological, health 
+sciences many research fields. various approaches developed
+for optimization, research emphasis optimization of
+protein yield rather protein quality. study, established a
+workflow synthetic gene optimization heterologous protein expression that
+combines bioinformatics, laboratory experiments, mass spectrometry and
+statistical analysis. two gene primary structure analysis platforms, anaconda and
+eugene, multivariate optimization methods employed re-design the
+plasmodium falciparum lysyl-trna synthetase gene optimal expression in
+escherichia coli. synthetic genes expressed common vectors, amino
+acid mis-incorporations expressed proteins detected quantified
+using mass spectrometry. association identified amino acid
+mis-incorporations 23 gene variables analysed. synthetic genes
+yielded significantly higher levels protein relative wild-type gene,
+but 71 amino acid mis-incorporation sites observed along whole protein
+and across synthetic genes statistically associated specific
+codons protein secondary structures. optimization method led to
+production accurate protein based multivariate approach that
+combined variables known influence mrna translation.
+
+© 2014 febs.
+
+doi: 10.1111/febs.13181 
+pmid: 25532829  [indexed medline]
+

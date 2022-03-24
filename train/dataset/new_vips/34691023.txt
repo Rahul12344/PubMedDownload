@@ -1,0 +1,62 @@
+
+1. Front Immunol. 2021 Oct 6;12:709962. doi: 10.3389/fimmu.2021.709962. eCollection 
+2021.
+
+Predator-Prey Dynamics of Intra-Host Simian Immunodeficiency Virus Evolution
+Within the Untreated Host.
+
+Rife Magalis B(1)(2), Autissier P(3), Williams KC(3), Chen X(4), Browne C(5),
+Salemi M(1)(2).
+
+Author information: 
+(1)Department of Pathology, Immunology, and Laboratory Medicine, University of
+Florida, Gainesville, FL, United States.
+(2)Emerging Pathogens Institute, University of Florida, Gainesville, FL, United
+States.
+(3)Department of Biology, Boston College, Chestnut Hill, MA, United States.
+(4)Department of Epidemiology, University of Florida, Gainesville, FL, United
+States.
+(5)Department of Mathematics, University of Louisiana at Lafayette, Lafayette,
+LA, United States.
+
+The dynamic nature of the SIV population during disease progression in the
+SIV/macaque model of AIDS and the factors responsible for its behavior have not
+been documented, largely owing to the lack of sufficient spatial and temporal
+sampling of both viral and host data from SIV-infected animals. In this study, we
+detail Bayesian coalescent inference of the changing collective intra-host viral 
+effective population size (Ne ) from various tissues over the course of infection
+and its relationship with what we demonstrate is a continuously changing immune
+cell repertoire within the blood. Although the relative contribution of these
+factors varied among hosts and time points, the adaptive immune response best
+explained the overall periodic dynamic behavior of the effective virus
+population. Data exposing the nature of the relationship between the virus and
+immune cell populations revealed the plausibility of an eco-evolutionary
+mathematical model, which was able to mimic the large-scale oscillations in Ne
+through virus escape from relatively few, early immunodominant responses,
+followed by slower escape from several subdominant and weakened immune
+populations. The results of this study suggest that SIV diversity within the
+untreated host is governed by a predator-prey relationship, wherein differing
+phases of infection are the result of adaptation in response to varying immune
+responses. Previous investigations into viral population dynamics using sequence 
+data have focused on single estimates of the effective viral population size (Ne 
+) or point estimates over sparse sampling data to provide insight into the
+precise impact of immune selection on virus adaptive behavior. Herein, we
+describe the use of the coalescent phylogenetic frame- work to estimate the
+relative changes in Ne over time in order to quantify the relationship with
+empirical data on the dynamic immune composition of the host. This relationship
+has allowed us to expand on earlier simulations to build a predator-prey model
+that explains the deterministic behavior of the virus over the course of disease 
+progression. We show that sequential viral adaptation can occur in response to
+phases of varying immune pressure, providing a broader picture of the viral
+response throughout the entire course of progression to AIDS.
+
+Copyright © 2021 Rife Magalis, Autissier, Williams, Chen, Browne and Salemi.
+
+DOI: 10.3389/fimmu.2021.709962 
+PMCID: PMC8527182
+PMID: 34691023 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

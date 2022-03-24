@@ -1,0 +1,47 @@
+
+1. Nucleic Acids Res. 2016 Jul 8;44(12):5944-56. doi: 10.1093/nar/gkw388. Epub 2016 
+May 5.
+
+'Z-DNA like' fragments in RNA: a recurring structural motif with implications for
+folding, RNA/protein recognition and immune response.
+
+D'Ascenzo L(1), Leonarski F(2), Vicens Q(3), Auffinger P(4).
+
+Author information: 
+(1)Architecture et Réactivité de l'ARN, Université de Strasbourg, Institut de
+Biologie Moléculaire et Cellulaire du CNRS, Strasbourg 67084, France.
+(2)Architecture et Réactivité de l'ARN, Université de Strasbourg, Institut de
+Biologie Moléculaire et Cellulaire du CNRS, Strasbourg 67084, France Faculty of
+Chemistry, University of Warsaw, Pasteura 1, 02-093 Warsaw, Poland.
+(3)Architecture et Réactivité de l'ARN, Université de Strasbourg, Institut de
+Biologie Moléculaire et Cellulaire du CNRS, Strasbourg 67084, France
+q.vicens@ibmc-cnrs.unistra.fr.
+(4)Architecture et Réactivité de l'ARN, Université de Strasbourg, Institut de
+Biologie Moléculaire et Cellulaire du CNRS, Strasbourg 67084, France
+p.auffinger@ibmc-cnrs.unistra.fr.
+
+Since the work of Alexander Rich, who solved the first Z-DNA crystal structure,
+we have known that d(CpG) steps can adopt a particular structure that leads to
+forming left-handed helices. However, it is still largely unrecognized that other
+sequences can adopt 'left-handed' conformations in DNA and RNA, in double as well
+as single stranded contexts. These 'Z-like' steps involve the coexistence of
+several rare structural features: a C2'-endo puckering, a syn nucleotide and a
+lone pair-π stacking between a ribose O4' atom and a nucleobase. This particular 
+arrangement induces a conformational stress in the RNA backbone, which limits the
+occurrence of Z-like steps to ≈0.1% of all dinucleotide steps in the PDB. Here,
+we report over 600 instances of Z-like steps, which are located within r(UNCG)
+tetraloops but also in small and large RNAs including riboswitches, ribozymes and
+ribosomes. Given their complexity, Z-like steps are probably associated with slow
+folding kinetics and once formed could lock a fold through the formation of
+unique long-range contacts. Proteins involved in immunologic response also
+specifically recognize/induce these peculiar folds. Thus, characterizing the
+conformational features of these motifs could be a key to understanding the
+immune response at a structural level.
+
+© The Author(s) 2016. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkw388 
+PMCID: PMC4937326
+PMID: 27151194  [Indexed for MEDLINE]
+

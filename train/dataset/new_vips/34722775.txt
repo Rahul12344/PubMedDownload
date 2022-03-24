@@ -1,0 +1,57 @@
+
+1. Biomed Res Int. 2021 Oct 28;2021:9498029. doi: 10.1155/2021/9498029. eCollection 
+2021.
+
+The Impact of China's Lockdown Policy on the Incidence of COVID-19: An
+Interrupted Time Series Analysis.
+
+Molefi M(1), Tlhakanelo JT(1), Phologolo T(1), Hamda SG(1), Masupe T(1), Tsima
+B(2), Setlhare V(2), Mashalla Y(3), Wiebe DJ(4).
+
+Author information: 
+(1)Public Health Medicine Unit, Department of Family Medicine & Public Health,
+University of Botswana, Gaborone, Botswana.
+(2)Family Medicine Unit, Department of Family Medicine & Public Health,
+University of Botswana, Gaborone, Botswana.
+(3)Biomedical Science Department, Faculty of Health Sciences, University of
+Botswana, Gaborone, Botswana.
+(4)Department of Biostatistics, Epidemiology & Informatics, Perelman School of
+Medicine, University of Pennsylvania, Philadelphia, USA.
+
+Background: Policy changes are often necessary to contain the detrimental impact 
+of epidemics such as those brought about by coronavirus disease (COVID-19). In
+the earlier phases of the emergence of COVID-19, China was the first to impose
+strict restrictions on movement (lockdown) on January 23rd, 2020. A strategy
+whose effectiveness in curtailing COVID-19 was yet to be determined. We,
+therefore, sought to study the impact of the lockdown in reducing the incidence
+of COVID-19.
+Methods: Daily cases of COVID-19 that occurred in China which were registered
+between January 12th and March 30th, 2020, were extracted from the Johns Hopkins 
+CSSE team COVID-19 ArcGIS® dashboards. Daily cases reported were used as data
+points in the series. Two interrupted series models were run: one with an
+interruption point of 23 January 2020 (model 1) and the other with a 14-day
+deferred interruption point of 6th February (model 2). For both models, the
+magnitude of change (before and after) and linear trend analyses were measured,
+and β-coefficients reported with 95% confidence interval (CI) for the precision.
+Results: Seventy-eight data points were used in the analysis. There was an 11%
+versus a 163% increase in daily cases in models 1 and 2, respectively, in the
+preintervention periods (p ≤ 0.001). Comparing the period immediately following
+the intervention points to the counterfactual, there was a daily increase of
+2,746% (p < 0.001) versus a decline of 207% (p = 0.802) in model 2. However, in
+both scenarios, there was a statistically significant drop in the daily cases
+predicted for this data and beyond when comparing the preintervention periods and
+postintervention periods (p < 0.001).
+Conclusion: There was a significant decrease the COVID-19 daily cases reported in
+China following the institution of a lockdown, and therefore, lockdown may be
+used to curtail the burden of COVID-19.
+
+Copyright © 2021 Mooketsi Molefi et al.
+
+DOI: 10.1155/2021/9498029 
+PMCID: PMC8553467
+PMID: 34722775  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

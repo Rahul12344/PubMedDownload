@@ -1,0 +1,47 @@
+
+1. PLoS Pathog. 2021 Oct 21;17(10):e1010014. doi: 10.1371/journal.ppat.1010014.
+eCollection 2021 Oct.
+
+Inhibition of the H3K27 demethylase UTX enhances the epigenetic silencing of HIV 
+proviruses and induces HIV-1 DNA hypermethylation but fails to permanently block 
+HIV reactivation.
+
+Nguyen K(1), Dobrowolski C(2), Shukla M(1), Cho WK(3), Luttge B(1), Karn J(1).
+
+Author information: 
+(1)Department of Molecular Biology and Microbiology, Case Western Reserve
+University Medical School, Cleveland, Ohio, United States of America.
+(2)Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of 
+Technology and Emory School of Medicine, Atlanta, Georgia, United States of
+America.
+(3)Korean Medicine (KM)-Application Center, Korea Institute of Oriental Medicine 
+(KIOM), Dong-gu, Daegu, Republic of Korea.
+
+One strategy for a functional cure of HIV-1 is "block and lock", which seeks to
+permanently suppress the rebound of quiescent HIV-1 by epigenetic silencing. For 
+the bivalent promoter in the HIV LTR, both histone 3 lysine 27 tri-methylation
+(H3K27me3) and DNA methylation are associated with viral suppression, while H3K4 
+tri-methylation (H3K4me3) is correlated with viral expression. However, H3K27me3 
+is readily reversed upon activation of T-cells through the T-cell receptor. In an
+attempt to suppress latent HIV-1 in a stable fashion, we knocked down the
+expression or inhibited the activity of UTX/KDM6A, the major H3K27 demethylase,
+and investigated its impact on latent HIV-1 reactivation in T cells. Inhibition
+of UTX dramatically enhanced H3K27me3 levels at the HIV LTR and was associated
+with increased DNA methylation. In latently infected cells from patients, GSK-J4,
+which is a potent dual inhibitor of the H3K27me3/me2-demethylases JMJD3/KDM6B and
+UTX/KDM6A, effectively suppressed the reactivation of latent HIV-1 and also
+induced DNA methylation at specific sites in the 5'LTR of latent HIV-1 by the
+enhanced recruitment of DNMT3A to HIV-1. Nonetheless, suppression of HIV-1
+through epigenetic silencing required the continued treatment with GSK-J4 and was
+rapidly reversed after removal of the drug. DNA methylation was also rapidly lost
+after removal of drug, suggesting active and rapid DNA-demethylation of the HIV
+LTR. Thus, induction of epigenetic silencing by histone and DNA methylation
+appears to be insufficient to permanently silence HIV-1 proviral transcription.
+
+DOI: 10.1371/journal.ppat.1010014 
+PMCID: PMC8562785
+PMID: 34673825  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

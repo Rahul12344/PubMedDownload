@@ -1,0 +1,37 @@
+
+1. J Biomol Struct Dyn. 2021 Nov 19:1-15. doi: 10.1080/07391102.2021.2002720. [Epub 
+ahead of print]
+
+Immuno-informatics guided designing of a multi-epitope vaccine against Dengue and
+Zika.
+
+Bhardwaj A(1), Sharma R(2), Grover A(2).
+
+Author information: 
+(1)School of Biosciences & Technology, Vellore Institute of Technology, Vellore, 
+Tamil Nadu, India.
+(2)School of Biotechnology, Jawaharlal Nehru University (JNU), Delhi, India.
+
+Dengue and zika are amongst the most prevalent mosquito-borne diseases caused by 
+closely related members Dengue virus (DENV) and Zika virus (ZIKV), respectively, 
+of the Flaviviridae family. DENV and ZIKV have been reported to co-infect several
+people, resulting in fatalities across the world. A vaccine that can safeguard
+against both these pathogens concurrently, can offer several advantages. This
+study has employed immuno-informatics for devising a multi-epitope,
+multi-pathogenic vaccine against both these viruses. Since, the two viruses share
+a common vector source, whose salivary components are reported to aid viral
+pathogenesis; antigenic salivary proteins from Aedes aegypti were also
+incorporated into the design of the vaccine along with conserved structural and
+non-structural viral proteins. Conserved B- and T-cell epitopes were identified
+for all the selected antigenic proteins. These epitopes were merged and further
+supplemented with β-defensin as an adjuvant, to yield an immunogenic vaccine
+construct. In-silico 3D modeling and structural validation of the vaccine
+construct was conducted, followed by its molecular docking and molecular dynamics
+simulation studies with human TLR2. Immune simulation study was also performed,
+and it further provided support that the designed vaccine can mount an effective 
+immune response and hence provide protection against both DENV and
+ZIKV.Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2021.2002720 
+PMID: 34796791 
+

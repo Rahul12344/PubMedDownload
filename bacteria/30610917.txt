@@ -1,0 +1,40 @@
+
+1. Metab Eng. 2019 Mar;52:315-323. doi: 10.1016/j.ymben.2018.12.009. Epub 2019 Jan
+2.
+
+Engineered sigma factors increase full-length antibody expression in Escherichia 
+coli.
+
+McKenna R(1), Lombana TN(2), Yamada M(1), Mukhyala K(3), Veeravalli K(4).
+
+Author information: 
+(1)Cell Culture, Genentech, Inc., 1 DNA Way, South San Francisco, CA 94080,
+United States.
+(2)Antibody Engineering, Genentech, Inc., 1 DNA Way, South San Francisco, CA
+94080, United States.
+(3)Bioinformatics and Computational Biology, Genentech, Inc., 1 DNA Way, South
+San Francisco, CA 94080, United States.
+(4)Cell Culture, Genentech, Inc., 1 DNA Way, South San Francisco, CA 94080,
+United States. Electronic address: veeravalli.karthik@gene.com.
+
+Escherichia coli (E. coli) is a promising platform for expression of full-length 
+antibodies owing to its several advantages as a production host (fast growth,
+well characterized genetics, low manufacturing cost), however, low titers from
+shake flask (typically < 5 mg/L) has limited its use for production of
+research-grade material in antibody discovery programs. In this work, we used
+global transcriptional machinery engineering (gTME) with high throughput
+screening to increase the expression of full-length antibodies in E. coli. A
+library of E. coli mutants carrying mutations in the global sigma factor RpoD
+were generated and screened using the Bacterial Antibody Display (BAD) method for
+enhanced expression. RpoD mutants were isolated that resulted in full-length
+antibody titers of up to 130.7 ± 6.6 mg/L of shake flask culture with chaperone
+co-expression. These results could be useful for production of several antibodies
+quickly in shake flasks for characterization (e.g. antigen binding, biological
+function) during the early discovery phase.
+
+Copyright © 2019 International Metabolic Engineering Society. Published by
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymben.2018.12.009 
+PMID: 30610917  [Indexed for MEDLINE]
+

@@ -1,0 +1,48 @@
+
+1. Mol Biol Rep. 2021 Oct 27. doi: 10.1007/s11033-021-06864-2. [Epub ahead of print]
+
+Next-generation sequencing identification and multiplex RT-PCR detection for
+viruses infecting cigar and flue-cured tobacco.
+
+Zhou T(#)(1), Zhou S(#)(1), Chen Y(2), Wang J(2), Zhang R(2), Xiang H(2), Xia
+Z(1), An M(1), Zhao X(3), Wu Y(4).
+
+Author information: 
+(1)College of Plant Protection, Shenyang Agricultural University, No.120
+Dongling, Shenyang, 110866, Liaoning, People's Republic of China.
+(2)Deyang Company of Sichuan Provincial Tobacco Corporation, Deyang, 618400,
+Sichuan, People's Republic of China.
+(3)College of Plant Protection, Shenyang Agricultural University, No.120
+Dongling, Shenyang, 110866, Liaoning, People's Republic of China.
+zhaoxx0772@syau.edu.cn.
+(4)College of Plant Protection, Shenyang Agricultural University, No.120
+Dongling, Shenyang, 110866, Liaoning, People's Republic of China.
+wuyh09@syau.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: Early, precise and simultaneous identification of plant viruses is of
+great significance for preventing virus spread and reducing losses in
+agricultural yields.
+METHODS AND RESULTS: In this study, the identification of plant viruses from
+symptomatic samples collected from a cigar tobacco planting area in Deyang and a 
+flue-cured tobacco planting area in Luzhou city, Sichuan Province, China, was
+conducted by deep sequencing of small RNAs (sRNAs) through an Illumina sequencing
+platform, and plant virus-specific contigs were generated based on virus-derived 
+siRNA sequences. Additionally, sequence alignment and phylogenetic analysis were 
+performed to determine the species or strains of these viruses. A total of
+27930450, 21537662 and 28194021 clean reads were generated from three pooled
+samples, with a total of 105 contigs mapped to the closest plant viruses with
+lengths ranging from 34 ~ 1720 nt. The results indicated that the major viruses
+were potato virus Y, Chilli veinal mottle virus, tobacco vein banding mosaic
+virus, tobacco mosaic virus and cucumber mosaic virus. Subsequently, a fast and
+sensitive multiplex reverse transcription polymerase chain reaction assay was
+developed for the simultaneous detection of the most frequent RNA viruses
+infecting cigar and flue-cured tobacco in Sichuan.
+CONCLUSIONS: These results provide a theoretical basis and convenient methods for
+the rapid detection and control of viruses in cigar- and flue-cured tobacco.
+
+© 2021. The Author(s), under exclusive licence to Springer Nature B.V.
+
+DOI: 10.1007/s11033-021-06864-2 
+PMID: 34705219 
+

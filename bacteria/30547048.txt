@@ -1,0 +1,43 @@
+
+1. Mol Ther Methods Clin Dev. 2018 Oct 25;11:143-154. doi:
+10.1016/j.omtm.2018.10.009. eCollection 2018 Dec 14.
+
+Barcoding of Macaque Hematopoietic Stem and Progenitor Cells: A Robust Platform
+to Assess Vector Genotoxicity.
+
+Yabe IM(1)(2), Truitt LL(1), Espinoza DA(1), Wu C(1), Koelle S(1)(3), Panch S(1),
+Corat MAF(1)(4), Winkler T(1), Yu KR(1), Hong SG(1), Bonifacino A(1), Krouse
+A(1), Metzger M(1), Donahue RE(1), Dunbar CE(1).
+
+Author information: 
+(1)Hematology Branch, National Heart, Lung and Blood Institute, NIH, Bethesda, MD
+20892, USA.
+(2)Department of Microbiology and Immunology, Georgetown University Medical
+Center, Washington, DC 20057, USA.
+(3)Department of Statistics, University of Washington, Seattle, WA 98195, USA.
+(4)Multidisciplinary Center for Biological Research, University of Campinas,
+Campinas, SP 13083-877, Brazil.
+
+Gene therapies using integrating retrovirus vectors to modify hematopoietic stem 
+and progenitor cells have shown great promise for the treatment of immune system 
+and hematologic diseases. However, activation of proto-oncogenes via insertional 
+mutagenesis has resulted in the development of leukemia. We have utilized
+cellular bar coding to investigate the impact of different vector designs on the 
+clonal behavior of hematopoietic stem and progenitor cells (HSPCs) during in vivo
+expansion, as a quantitative surrogate assay for genotoxicity in a non-human
+primate model with high relevance for human biology. We transplanted two rhesus
+macaques with autologous CD34+ HSPCs transduced with three lentiviral vectors
+containing different promoters and/or enhancers of a predicted range of
+genotoxicities, each containing a high-diversity barcode library that uniquely
+tags each individual transduced HSPC. Analysis of clonal output from thousands of
+individual HSPCs transduced with these barcoded vectors revealed sustained clonal
+diversity, with no progressive dominance of clones containing any of the three
+vectors for up to almost 3 years post-transplantation. Our data support a low
+genotoxic risk for lentivirus vectors in HSPCs, even those containing strong
+promoters and/or enhancers. Additionally, this flexible system can be used for
+the testing of future vector designs.
+
+DOI: 10.1016/j.omtm.2018.10.009 
+PMCID: PMC6258888
+PMID: 30547048 
+

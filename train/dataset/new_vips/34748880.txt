@@ -1,0 +1,59 @@
+
+1. Math Biosci. 2021 Nov 6;343:108724. doi: 10.1016/j.mbs.2021.108724. [Epub ahead
+of print]
+
+Sterile insect technique with accidental releases of sterile females. Impact on
+mosquito-borne diseases control when viruses are circulating.
+
+Dumont Y(1), Yatat-Djeumen IV(2).
+
+Author information: 
+(1)CIRAD, Umr AMAP, Pôle de Protection des Plantes, F-97410 Saint Pierre, France;
+AMAP, Univ Montpellier, CIRAD, CNRS, INRA, IRD, Montpellier, France; University
+of Pretoria, Department of Mathematics and Applied Mathematics, Pretoria, South
+Africa. Electronic address: yves.dumont@cirad.fr.
+(2)University of Yaoundé I, National Advanced School of Engineering of Yaoundé,
+Department of Mathematics and Physics, Yaoundé, Cameroon; UMI 209 IRD/UPMC
+UMMISCO, Bondy, France.
+
+The sterile insect technique (SIT) is a technique to control some vectors of
+diseases by releasing sterile males. However, during these releases, sterilized
+females can be (accidentally) released and since only females are vectors of
+diseases, it is important to study their impact when arthropod viruses are
+circulating. To that aim, we develop and study an entomological-epidemiological
+model, considering either permanent or periodic releases. Qualitative analyses of
+the continuous and periodic models are conducted. We highlight a critical sterile
+males release rate, ΛMcrit, above which the control of wild population is always 
+effective, using massive releases. Estimating the basic reproduction number of
+the epidemiological model, R02, we show that if it is above a certain threshold, 
+R0,∗2, that depends on the basic offspring number, N, and the release rate of
+sterile females, the epidemiological risk can only be controlled using (very)
+massive releases. Otherwise, we can estimate the basic reproduction number of the
+SIT epidemiological model, R0,SIT2, that shapes the stability property of the
+(periodic) disease-free equilibrium. We show that it might be possible to take
+R0,SIT2 below 1 using non-massive, but large enough, releases. However,
+practically, it seems more efficient to consider massive releases, followed by
+small releases once the vector population is small enough. In addition to SIT, we
+also recommend mechanical control, i.e. the reduction of breeding sites, that
+greatly improves the efficacy of SIT, in terms of duration or size of the
+releases. Our results reveal that outside an epidemic period, the release of
+sterile females is not an issue, as long as the sterile males release rate is
+greater than ΛMcrit. Within an epidemic period, we show that sterile females
+releases do not really impact the SIT efficiency, as long as the release rate,
+ΛF, is lower than a critical value, ΛFcrit, that depends on the mosquito and
+epidemiological threshold parameters, N, and R02. To illustrate numerically our
+theoretical results, we consider Dengue parameters. We estimate all thresholds
+and also the effective reproduction number, Reff2, and highlight the importance
+of early permanent or periodic SIT control to prevent or mitigate the risk of a
+Dengue epidemic, with and without sterile females releases.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mbs.2021.108724 
+PMID: 34748880 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

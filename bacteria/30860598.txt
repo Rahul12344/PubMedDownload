@@ -1,0 +1,57 @@
+
+1. Int J Cancer. 2019 Oct 1;145(7):1935-1945. doi: 10.1002/ijc.32269. Epub 2019 Mar 
+24.
+
+Genetically engineered CAR NK cells display selective cytotoxicity against
+FLT3-positive B-ALL and inhibit in vivo leukemia growth.
+
+Oelsner S(1), Waldmann A(1), Billmeier A(1), Röder J(1)(2), Lindner A(1), Ullrich
+E(3)(4), Marschalek R(5), Dotti G(6), Jung G(7)(8)(9), Große-Hovest L(10), Oberoi
+P(1), Bader P(3), Wels WS(1)(2)(9)(11).
+
+Author information: 
+(1)Institute for Tumor Biology and Experimental Therapy, Georg-Speyer-Haus,
+Frankfurt, Germany.
+(2)Frankfurt Cancer Institute, Goethe University, Frankfurt, Germany.
+(3)Division for Stem Cell Transplantation and Immunology, Hospital for Children
+and Adolescents, Goethe University, Frankfurt, Germany.
+(4)LOEWE Center for Cell and Gene Therapy, Goethe University, Frankfurt, Germany.
+(5)Institute of Pharmaceutical Biology, Goethe University, Frankfurt, Germany.
+(6)Lineberger Comprehensive Cancer Center and Department of Microbiology and
+Immunology, University of North Carolina, Chapel Hill, NC.
+(7)Department of Immunology, Eberhard Karls University, Tübingen, Germany.
+(8)German Cancer Consortium (DKTK), Partner Site Tübingen, Tübingen, Germany.
+(9)German Cancer Research Center (DKFZ), Heidelberg, Germany.
+(10)SYNIMMUNE GmbH, Tübingen, Germany.
+(11)German Cancer Consortium (DKTK), Partner Site Frankfurt/Mainz, Frankfurt,
+Germany.
+
+Chimeric antigen receptor (CAR)-engineered natural killer (NK) cells represent a 
+promising effector cell type for adoptive cancer immunotherapy. Both, genetically
+modified donor-derived NK cells as well as continuously expanding NK-92 cells are
+currently under clinical development. To enhance their therapeutic utility for
+the treatment of pre-B-cell acute lymphoblastic leukemia (B-ALL), we engineered
+NK-92 cells by lentiviral gene transfer to express a FMS-like tyrosine kinase 3
+(FLT3)-specific CAR that contains a composite CD28-CD3ζ signaling domain. FLT3
+has primarily been described as a therapeutic target for acute myeloid leukemia, 
+but overexpression of FLT3 has also been reported in B-ALL. Exposure of
+FLT3-positive targets to CAR NK-92 cells resulted in conjugate formation between 
+NK and leukemia cells, NK-cell degranulation and selective cytotoxicity toward
+established B-ALL cell lines and primary blasts that were resistant to parental
+NK-92. In a SEM B-ALL xenograft model in NOD-SCID IL2R γnull mice, treatment with
+CAR NK-92 but not parental NK-92 cells markedly inhibited disease progression,
+demonstrating high antileukemic activity in vivo. As FLT3 is known to be also
+expressed on precursor cells, we assessed the feasibility of incorporating an
+inducible caspase-9 (iCasp9) suicide switch to enhance safety of our approach.
+Upon addition of the chemical dimerizer AP20187 to NK-92 cells coexpressing the
+FLT3-specific CAR and iCasp9, rapid iCasp9 activation was observed, precluding
+further CAR-mediated cytotoxicity. Our data demonstrate that B-ALL can be
+effectively targeted by FLT3-specific CAR NK cells which may complement
+CD19-directed immunotherapies, particularly in cases of inherent or acquired
+resistance to the latter.
+
+© 2019 UICC.
+
+DOI: 10.1002/ijc.32269 
+PMID: 30860598  [Indexed for MEDLINE]
+

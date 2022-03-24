@@ -1,0 +1,32 @@
+
+1. Sci Rep. 2015 Dec 3;5:17488. doi: 10.1038/srep17488.
+
+Optimizing antibody expression by using the naturally occurring framework
+diversity in a live bacterial antibody display system.
+
+Lombana TN(1), Dillon M(1), Bevers J 3rd(1), Spiess C(1).
+
+Author information: 
+(1)Department of Antibody Engineering, Genentech Research and Early Development, 
+1 DNA Way, South San Francisco, CA, 94080, USA.
+
+Rapid identification of residues that influence antibody expression and
+thermostability is often needed to move promising therapeutics into the clinic.
+To establish a method that can assess small expression differences, we developed 
+a Bacterial Antibody Display (BAD) system that overcomes previous limitations,
+enabling the use of full-length formats for antibody and antigen in a live cell
+setting. We designed a unique library of individual framework variants using
+natural diversity introduced by somatic hypermutation, and screened
+half-antibodies for increased expression using BAD. We successfully identify
+variants that dramatically improve expression yields and in vitro thermostability
+of two therapeutically relevant antibodies in E. coli and mammalian cells. While 
+we study antibody expression, bacterial display can now be expanded to examine
+the processes of protein folding and translocation. Additionally, our natural
+library design strategy could be applied during antibody humanization and library
+design for in vitro display methods to maintain expression and formulation
+stability.
+
+DOI: 10.1038/srep17488 
+PMCID: PMC4668361
+PMID: 26631978  [Indexed for MEDLINE]
+

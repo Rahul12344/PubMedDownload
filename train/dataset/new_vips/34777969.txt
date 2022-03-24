@@ -1,0 +1,52 @@
+
+1. Complex Intell Systems. 2021 Jun 19:1-12. doi: 10.1007/s40747-021-00441-7. [Epub 
+ahead of print]
+
+A construction of a conformal Chebyshev chaotic map based authentication protocol
+for healthcare telemedicine services.
+
+Dharminder D(1), Kumar U(2), Gupta P(3).
+
+Author information: 
+(1)Department of Mathematics, Amrita School of Engineering, Amrita Vishwa
+Vidyapeetham, Chennai, India.
+(2)Department of Mathematics, The LNM Institute of Information Technology,
+Jaipur, India.
+(3)Department of Mathematics, Mandsaur University, Mandsaur, India.
+
+The outbreak of coronavirus has caused widespread global havoc, and the
+implementation of lockdown to contain the spread of the virus has caused
+increased levels of online healthcare services. Upgraded network technology gives
+birth to a new interface "telecare medicine information systems" in short TMIS.
+In this system, a user from a remote area and a server located at the hospital
+can establish a connection to share the necessary information between them. But, 
+it is very clear that all the information is always being transmitted over a
+public channel. Chaotic map possesses a dynamic structure and it plays a very
+important role in the construction of a secure and efficient authentication
+protocols, but they are generally found vulnerable to identity-guess,
+password-guess, impersonation, and stolen smart-card. We have analyzed (Li et al.
+in Fut Gen Comput Syst 840:149-159, 2018; Madhusudhan and Nayak Chaitanya in A
+robust authentication scheme for telecare medical information systems, 2008;
+Zhang et al in Privacy protection for telecare medicine information systems using
+a chaotic map-based three-factor authenticated key agreement scheme, 2017;
+Dharminder and Gupta in Pratik security analysis and application of Chebyshev
+Chaotic map in the authentication protocols, 2019) and found that Bergamo's
+attack (IEEE Trans Circ Syst 52(7):1382-1393, 2005) cannot be resisted by the
+protocol. Although few of the protocols ensures efficient computations but they
+cannot ensure an anonymous and secure communication. Therefore, we have proposed 
+a secure and efficient chaotic map based authentication protocol that can be used
+in telecare medicine information system. This protocol supports verified session 
+keys with only two messages of exchange. Moreover, we have analysed the
+performance of proposed protocol with relevant protocols and it is being
+implemented in "Automated Validation of Internet Security Protocols and
+Applications" respectively.
+
+© The Author(s) 2021.
+
+DOI: 10.1007/s40747-021-00441-7 
+PMCID: PMC8214463
+PMID: 34777969 
+
+Conflict of interest statement: Conflict of interestsAll the authors have no
+conflict of interests.
+

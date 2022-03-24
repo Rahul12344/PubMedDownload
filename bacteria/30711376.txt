@@ -1,0 +1,86 @@
+
+1. Mol Cell. 2019 Mar 7;73(5):1015-1027.e7. doi: 10.1016/j.molcel.2018.12.018. Epub 
+2019 Jan 30.
+
+Mechano-regulation of Peptide-MHC Class I Conformations Determines TCR Antigen
+Recognition.
+
+Wu P(1), Zhang T(1), Liu B(2), Fei P(3), Cui L(4), Qin R(1), Zhu H(1), Yao D(1), 
+Martinez RJ(5), Hu W(1), An C(3), Zhang Y(6), Liu J(7), Shi J(7), Fan J(1), Yin
+W(7), Sun J(8), Zhou C(9), Zeng X(10), Xu C(11), Wang J(12), Evavold BD(5), Zhu
+C(13), Chen W(14), Lou J(15).
+
+Author information: 
+(1)Department of Neurobiology, Institute of Neuroscience, and Department of
+Cardiology of the Second Affiliated Hospital, Zhejiang University School of
+Medicine, Hangzhou 310058, China.
+(2)Coulter Department of Biomedical Engineering, Woodruff School of Mechanical
+Engineering, Petit Institute for Bioengineering and Bioscience, Georgia Institute
+of Technology, Atlanta, GA 30332, USA; Department of Microbiology and Immunology,
+School of Medicine, Emory University, Atlanta, GA 30322, USA.
+(3)School of Mechanical Engineering, Zhejiang University, Hangzhou 310058, China.
+(4)National Laboratory of Biomacromolecules, Institute of Biophysics, Chinese
+Academy of Sciences, Beijing 100101, China; Key Laboratory of RNA Biology, CAS
+Center for Excellence in Biomacromolecules, Institute of Biophysics, Chinese
+Academy of Sciences, Beijing 100101, China.
+(5)Department of Microbiology and Immunology, School of Medicine, Emory
+University, Atlanta, GA 30322, USA.
+(6)Key Laboratory of RNA Biology, CAS Center for Excellence in Biomacromolecules,
+Institute of Biophysics, Chinese Academy of Sciences, Beijing 100101, China.
+(7)Key Laboratory for Biomedical Engineering of the Ministry of Education,
+College of Biomedical Engineering and Instrument Science, Zhejiang University,
+Hangzhou 310058, China.
+(8)Department of Cell Biology and Bone Marrow Transplantation Center of the First
+Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou 310003,
+China.
+(9)School of Public Health and Sir Run Run Shaw Hospital, Zhejiang University
+School of Medicine, Hangzhou 310058, China.
+(10)State Key Laboratory for Diagnosis and Treatment of Infectious Diseases,
+Collaborative Innovation Center for Diagnosis and Treatment of Infectious
+Diseases, and First Affiliated Hospital, Zhejiang University School of Medicine, 
+Hangzhou 310003, China.
+(11)State Key Laboratory of Molecular Biology, Chinese Academy Center for
+Excellence in Molecular Cell Science, Shanghai Institute of Biochemistry and Cell
+Biology, Chinese Academy of Sciences, University of the Chinese Academy of
+Sciences, Shanghai 200031, China.
+(12)Department of Cardiology of the Second Affiliated Hospital, Zhejiang
+University School of Medicine, Hangzhou 310058, China.
+(13)Coulter Department of Biomedical Engineering, Woodruff School of Mechanical
+Engineering, Petit Institute for Bioengineering and Bioscience, Georgia Institute
+of Technology, Atlanta, GA 30332, USA.
+(14)Department of Neurobiology, Institute of Neuroscience, and Department of
+Cardiology of the Second Affiliated Hospital, Zhejiang University School of
+Medicine, Hangzhou 310058, China; Key Laboratory for Biomedical Engineering of
+the Ministry of Education, College of Biomedical Engineering and Instrument
+Science, Zhejiang University, Hangzhou 310058, China; Collaborative Innovation
+Center for Diagnosis and Treatment of Infectious Diseases, State Key Laboratory
+for Modern Optical Instrumentation, Zhejiang University, Hangzhou 310058, China. 
+Electronic address: jackweichen@zju.edu.cn.
+(15)National Laboratory of Biomacromolecules, Institute of Biophysics, Chinese
+Academy of Sciences, Beijing 100101, China; Key Laboratory of RNA Biology, CAS
+Center for Excellence in Biomacromolecules, Institute of Biophysics, Chinese
+Academy of Sciences, Beijing 100101, China; University of the Chinese Academy of 
+Sciences, Beijing 100049, China. Electronic address: jlou@ibp.ac.cn.
+
+TCRs recognize cognate pMHCs to initiate T cell signaling and adaptive immunity. 
+Mechanical force strengthens TCR-pMHC interactions to elicit agonist-specific
+catch bonds to trigger TCR signaling, but the underlying dynamic structural
+mechanism is unclear. We combined steered molecular dynamics (SMD) simulation,
+single-molecule biophysical approaches, and functional assays to collectively
+demonstrate that mechanical force induces conformational changes in pMHCs to
+enhance pre-existing contacts and activates new interactions at the TCR-pMHC
+binding interface to resist bond dissociation under force, resulting in TCR-pMHC 
+catch bonds and T cell activation. Intriguingly, cancer-associated somatic
+mutations in HLA-A2 that may restrict these conformational changes suppressed
+TCR-pMHC catch bonds. Structural analysis also indicated that HLA polymorphism
+might alter the equilibrium of these conformational changes. Our findings not
+only reveal critical roles of force-induced conformational changes in pMHCs for
+activating TCR-pMHC catch bonds but also have implications for T cell-based
+immunotherapy.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.molcel.2018.12.018 
+PMCID: PMC6408234 [Available on 2020-03-07]
+PMID: 30711376  [Indexed for MEDLINE]
+

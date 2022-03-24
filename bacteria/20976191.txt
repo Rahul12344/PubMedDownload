@@ -1,0 +1,44 @@
+
+1. PLoS One. 2010 Oct 18;5(10):e13449. doi: 10.1371/journal.pone.0013449.
+
+Transcriptional and post-transcriptional regulation of the Escherichia coli luxS 
+mRNA; involvement of the sRNA MicA.
+
+Udekwu KI(1).
+
+Author information: 
+(1)Department of Biology, Emory University, Atlanta, Georgia, United States of
+America. Klas.udekwu@emory.edu
+
+BACKGROUND: The small RNA (sRNA) MicA has been shown to post-transcriptionally
+regulate translation of the outer membrane protein A (OmpA) in Escherichia coli. 
+It uses an antisense mechanism to down-regulate OmpA protein synthesis and induce
+mRNA degradation. MicA is genomically localized between the coding regions of the
+gshA and luxS genes and is divergently transcribed from its neighbours.
+Transcription of the luxS gene which originates within or upstream of the MicA
+sequence would thus be complementary to the sRNA. LuxS regulation is as yet
+unclear.
+METHODOLOGY/PRINCIPAL FINDINGS: In this report, I show that the luxS mRNA exists 
+as three long (major) transcripts of sizes that suggest just such interaction.
+The sRNA MicA's expression affects the abundance of each of these luxS
+transcripts. The involvement of the ribonuclease, RNase III in the accumulation
+of the shortest transcript is demonstrated. When MicA accumulates during growth, 
+or is induced to be over-expressed, the cleaved mRNA species is observed to
+increase in intensity. Using primer extension and 5'-RACE experiments in
+combination with sRNA overexpression plasmids, I identify the exact origin of two
+of the three luxS transcripts, one of which is seen to result from a previously
+unidentified σ(S) dependent promoter.
+CONCLUSIONS/SIGNIFICANCE: The presented data provides strong evidence that MicA
+functions in cis and in trans, targeting both luxS mRNA as well as the previously
+established ompA and phoP regulation. The proposed luxS regulation by MicA would 
+be in tandem with another sRNA CyaR, shown recently to be involved in inhibiting 
+translation of the luxS mRNA. Regulation of luxS expression is additionally shown
+to occur on a transcriptional level via σ(S) with variable transcript levels in
+different growth phases unlike what was previously assumed. This is the first
+known case of an sRNA in E. coli which targets both in cis (luxS mRNA) and in
+trans (ompA and phoP mRNAs).
+
+DOI: 10.1371/journal.pone.0013449 
+PMCID: PMC2956633
+PMID: 20976191  [Indexed for MEDLINE]
+

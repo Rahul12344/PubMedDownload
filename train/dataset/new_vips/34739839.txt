@@ -1,0 +1,49 @@
+
+1. Structure. 2021 Oct 29. pii: S0969-2126(21)00376-2. doi:
+10.1016/j.str.2021.10.008. [Epub ahead of print]
+
+RCSB Protein Data Bank resources for structure-facilitated design of mRNA
+vaccines for existing and emerging viral pathogens.
+
+Goodsell DS(1), Burley SK(2).
+
+Author information: 
+(1)RCSB Protein Data Bank and Institute for Quantitative Biomedicine, Rutgers,
+The State University of New Jersey, Piscataway, NJ 08854, USA; Rutgers Cancer
+Institute of New Jersey, Rutgers, The State University of New Jersey, New
+Brunswick, NJ 08903, USA; Department of Integrative Structural and Computational 
+Biology, The Scripps Research Institute, La Jolla, CA 92037, USA.
+(2)RCSB Protein Data Bank and Institute for Quantitative Biomedicine, Rutgers,
+The State University of New Jersey, Piscataway, NJ 08854, USA; Rutgers Cancer
+Institute of New Jersey, Rutgers, The State University of New Jersey, New
+Brunswick, NJ 08903, USA; Research Collaboratory for Structural Bioinformatics
+Protein Data Bank, San Diego Supercomputer Center, University of California, San 
+Diego, CA 92093, USA; Department of Chemistry and Chemical Biology, Rutgers, The 
+State University of New Jersey, Piscataway, NJ 08854, USA. Electronic address:
+stephen.burley@rcsb.org.
+
+Structural biologists provide direct insights into the molecular bases of human
+health and disease. The open-access Protein Data Bank (PDB) stores and delivers
+three-dimensional (3D) biostructure data that facilitate discovery and
+development of therapeutic agents and diagnostic tools. We are in the midst of a 
+revolution in vaccinology. Non-infectious mRNA vaccines have been proven during
+the coronavirus disease 2019 (COVID-19) pandemic. This new technology underpins
+nimble discovery and clinical development platforms that use knowledge of 3D
+viral protein structures for societal benefit. The RCSB PDB supports vaccine
+designers through expert biocuration and rigorous validation of 3D structures;
+open-access dissemination of structure information; and search, visualization,
+and analysis tools for structure-guided design efforts. This resource article
+examines the structural biology underpinning the success of severe acute
+respiratory syndrome coronavirus-2 (SARS-CoV-2) mRNA vaccines and enumerates some
+of the many protein structures in the PDB archive that could guide design of new 
+countermeasures against existing and emerging viral pathogens.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.str.2021.10.008 
+PMCID: PMC8567414
+PMID: 34739839 
+
+Conflict of interest statement: Declaration of interests The authors declare no
+competing interests.
+

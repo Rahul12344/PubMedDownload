@@ -1,0 +1,38 @@
+
+1. Stat Methods Med Res. 2021 Dec;30(12):2672-2684. doi: 10.1177/09622802211046386. 
+Epub 2021 Oct 23.
+
+Inference on the overlap coefficient: The binormal approach and alternatives.
+
+Franco-Pereira AM(1)(2), Nakas CT(3)(4), Reiser B(5), Carmen Pardo M(1).
+
+Author information: 
+(1)Department of Statistics and OR, Complutense University of Madrid, Spain.
+(2)Instituto de Matemtica Interdisciplinar (IMI), Complutense University of
+Madrid, Spain.
+(3)Laboratory of Biometry, School of Agricultural Sciences, University of
+Thessaly, Greece.
+(4)University Institute of Clinical Chemistry, Inselspital, Bern University
+Hospital, University of Bern, Switzerland.
+(5)Department of Statistics, University of Haifa, Israel.
+
+The overlap coefficient (OVL) measures the similarity between two distributions
+through the overlapping area of their distribution functions. Given its intuitive
+description and ease of visual representation by the straightforward depiction of
+the amount of overlap between the two corresponding histograms based on samples
+of measurements from each one of the two distributions, the development of
+accurate methods for confidence interval construction can be useful for applied
+researchers. The overlap coefficient has received scant attention in the
+literature since it lacks readily available software for its implementation,
+while inferential procedures that can cover the whole range of distributional
+scenarios for the two underlying distributions are missing. Such methods, both
+parametric and non-parametric are developed in this article, while R-code is
+provided for their implementation. Parametric approaches based on the binormal
+model show better performance and are appropriate for use in a wide range of
+distributional scenarios. Methods are assessed through a large simulation study
+and are illustrated using a dataset from a study on human immunodeficiency
+virus-related cognitive function assessment.
+
+DOI: 10.1177/09622802211046386 
+PMID: 34693817 
+

@@ -1,0 +1,48 @@
+
+1. Methods Enzymol. 2014;546:273-95. doi: 10.1016/B978-0-12-801185-0.00013-1.
+
+Genome editing for human gene therapy.
+
+Meissner TB(1), Mandal PK(2), Ferreira LM(1), Rossi DJ(3), Cowan CA(4).
+
+Author information: 
+(1)Department of Stem Cell and Regenerative Biology, Harvard University,
+Cambridge, Massachusetts, USA.
+(2)Department of Stem Cell and Regenerative Biology, Harvard University,
+Cambridge, Massachusetts, USA; Program in Cellular and Molecular Medicine,
+Division of Hematology/Oncology, Boston Children's Hospital, Boston,
+Massachusetts, USA.
+(3)Department of Stem Cell and Regenerative Biology, Harvard University,
+Cambridge, Massachusetts, USA; Program in Cellular and Molecular Medicine,
+Division of Hematology/Oncology, Boston Children's Hospital, Boston,
+Massachusetts, USA; Department of Pediatrics, Harvard Medical School, Boston,
+Massachusetts, USA; Harvard Stem Cell Institute, Sherman Fairchild Biochemistry, 
+Cambridge, Massachusetts, USA.
+(4)Department of Stem Cell and Regenerative Biology, Harvard University,
+Cambridge, Massachusetts, USA; Harvard Stem Cell Institute, Sherman Fairchild
+Biochemistry, Cambridge, Massachusetts, USA; Center for Regenerative Medicine,
+Massachusetts General Hospital, Boston, Massachusetts, USA. Electronic address:
+chad_cowan@harvard.edu.
+
+The rapid advancement of genome-editing techniques holds much promise for the
+field of human gene therapy. From bacteria to model organisms and human cells,
+genome editing tools such as zinc-finger nucleases (ZNFs), TALENs, and
+CRISPR/Cas9 have been successfully used to manipulate the respective genomes with
+unprecedented precision. With regard to human gene therapy, it is of great
+interest to test the feasibility of genome editing in primary human hematopoietic
+cells that could potentially be used to treat a variety of human genetic
+disorders such as hemoglobinopathies, primary immunodeficiencies, and cancer. In 
+this chapter, we explore the use of the CRISPR/Cas9 system for the efficient
+ablation of genes in two clinically relevant primary human cell types, CD4+ T
+cells and CD34+ hematopoietic stem and progenitor cells. By using two guide RNAs 
+directed at a single locus, we achieve highly efficient and predictable deletions
+that ablate gene function. The use of a Cas9-2A-GFP fusion protein allows
+FACS-based enrichment of the transfected cells. The ease of designing,
+constructing, and testing guide RNAs makes this dual guide strategy an attractive
+approach for the efficient deletion of clinically relevant genes in primary human
+hematopoietic stem and effector cells and enables the use of CRISPR/Cas9 for gene
+therapy.
+
+DOI: 10.1016/B978-0-12-801185-0.00013-1 
+PMID: 25398345  [Indexed for MEDLINE]
+

@@ -1,0 +1,34 @@
+
+1. J Med Chem. 2013 Sep 12;56(17):6761-74. doi: 10.1021/jm400830r. Epub 2013 Aug 21.
+
+Discovery and biophysical characterization of 2-amino-oxadiazoles as novel
+antagonists of PqsR, an important regulator of Pseudomonas aeruginosa virulence.
+
+Zender M(1), Klein T, Henn C, Kirsch B, Maurer CK, Kail D, Ritter C, Dolezal O,
+Steinbach A, Hartmann RW.
+
+Author information: 
+(1)Department of Drug Design and Optimization, Helmholtz-Institute for
+Pharmaceutical Research Saarland , Campus C2.3, 66123 Saarbrücken, Germany.
+
+The human pathogen Pseudomonas aeruginosa employs alkyl quinolones for
+cell-to-cell communication. The Pseudomonas quinolone signal (PQS) regulates
+various virulence factors via interaction with the transcriptional regulator
+PqsR. Therefore, we consider the development of PqsR antagonists a novel strategy
+to limit the pathogenicity of P. aeruginosa. A fragment identification approach
+using surface plasmon resonance screening led to the discovery of chemically
+diverse PqsR ligands. The optimization of the most promising hit (5) resulted in 
+the oxadiazole-2-amine 37 showing pure antagonistic activity in Escherichia coli 
+(EC50 = 7.5 μM) and P. aeruginosa (EC50 = 38.5 μM) reporter gene assays. 37 was
+able to diminish the production of the PQS precursor HHQ in a PqsH-deficient P.
+aeruginosa mutant. The level of the major virulence factor pyocyanin was
+significantly reduced in wild-type P. aeruginosa. In addition, site-directed
+mutagenesis in combination with isothermal titration calorimetry and NMR INPHARMA
+experiments revealed that the identified ligands bind to the same site of PqsR by
+adopting different binding modes. These findings will be utilized in a future
+fragment-growing approach aiming at novel therapeutic options for the treatment
+of P. aeruginosa infections.
+
+DOI: 10.1021/jm400830r 
+PMID: 23919758  [Indexed for MEDLINE]
+

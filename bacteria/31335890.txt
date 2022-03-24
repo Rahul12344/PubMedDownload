@@ -1,0 +1,47 @@
+
+1. PLoS One. 2019 Jul 23;14(7):e0220045. doi: 10.1371/journal.pone.0220045.
+eCollection 2019.
+
+Structure and functional analysis of a bacterial adhesin sugar-binding domain.
+
+Vance TDR(1), Guo S(1), Assaie-Ardakany S(1), Conroy B(1), Davies PL(1).
+
+Author information: 
+(1)Department of Biomedical and Molecular Science, Queen's University, Kingston, 
+Ontario, Canada.
+
+Erratum in
+    PLoS One. 2019 Aug 8;14(8):e0221101.
+
+Bacterial adhesins attach their hosts to surfaces through one or more
+ligand-binding domains. In RTX adhesins, which are localized to the outer
+membrane of many Gram-negative bacteria via the type I secretion system, we see
+several examples of a putative sugar-binding domain. Here we have recombinantly
+expressed one such ~20-kDa domain from the ~340-kDa adhesin found in Marinobacter
+hydrocarbonoclasticus, an oil-degrading bacterium. The sugar-binding domain was
+purified from E. coli with a yield of 100 mg/L of culture. Circular dichroism
+analysis showed that the protein was rich in beta-structure, was moderately heat 
+resistant, and required Ca2+ for proper folding. A crystal structure was obtained
+in Ca2+ at 1.2-Å resolution, which showed the presence of three Ca2+ ions, two of
+which were needed for structural integrity and one for binding sugars. Glucose
+was soaked into the crystal, where it bound to the sugar's two vicinal hydroxyl
+groups attached to the first and second (C1 and C2) carbons in the pyranose ring.
+This attraction to glucose caused the protein to bind certain
+polysaccharide-based column matrices and was used in a simple competitive binding
+assay to assess the relative affinity of sugars for the protein's ligand-binding 
+site. Fucose, glucose and N-acetylglucosamine bound most tightly, and
+N-acetylgalactosamine hardly bound at all. Isothermal titration calorimetry was
+used to determine specific binding affinities, which lie in the 100-μM range.
+Glycan arrays were tested to expand the range of ligand sugars assayed, and
+showed that MhPA14 bound preferentially to branched polymers containing terminal 
+sugars highlighted as strong binders in the competitive binding assay. Some of
+these binders have vicinal hydroxyl groups attached to the C3 and C4 carbons that
+are sterically equivalent to those presented by the C1 and C2 carbons of glucose.
+
+DOI: 10.1371/journal.pone.0220045 
+PMCID: PMC6650083
+PMID: 31335890  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

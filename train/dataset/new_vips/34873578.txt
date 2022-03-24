@@ -1,0 +1,30 @@
+
+1. ArXiv. 2021 Dec 1. pii: arXiv:2112.01318v1.
+
+Omicron (B.1.1.529): Infectivity, vaccine breakthrough, and antibody resistance.
+
+Chen J, Wang R, Gilby NB, Wei GW.
+
+The latest severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variant
+Omicron (B.1.1.529) has ushered panic responses around the world due to its
+contagious and vaccine escape mutations. The essential infectivity and antibody
+resistance of the SARS-CoV-2 variant are determined by its mutations on the spike
+(S) protein receptor-binding domain (RBD). However, a complete experimental
+evaluation of Omicron might take weeks or even months. Here, we present a
+comprehensive quantitative analysis of Omicron's infectivity,
+vaccine-breakthrough, and antibody resistance. An artificial intelligence (AI)
+model, which has been trained with tens of thousands of experimental data points 
+and extensively validated by experimental data on SARS-CoV-2, reveals that
+Omicron may be over ten times more contagious than the original virus or about
+twice as infectious as the Delta variant. Based on 132 three-dimensional (3D)
+structures of antibody-RBD complexes, we unveil that Omicron may be twice more
+likely to escape current vaccines than the Delta variant. The Food and Drug
+Administration (FDA)-approved monoclonal antibodies (mAbs) from Eli Lilly may be 
+seriously compromised. Omicron may also diminish the efficacy of mAbs from
+Celltrion and Rockefeller University. However, its impact on Regeneron mAb
+cocktail appears to be mild.
+
+
+PMCID: PMC8647651
+PMID: 34873578 
+

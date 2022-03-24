@@ -1,0 +1,59 @@
+
+1. Int J Mol Sci. 2021 Nov 9;22(22). pii: 12114. doi: 10.3390/ijms222212114.
+
+SARS-CoV-2 Variants, RBD Mutations, Binding Affinity, and Antibody Escape.
+
+Yang L(1)(2), Li J(1), Guo S(1), Hou C(3), Liao C(3), Shi L(1), Ma X(1), Jiang
+S(1), Zheng B(4), Fang Y(5), Ye L(2), He X(1)(6).
+
+Author information: 
+(1)National Key Laboratory of Science and Technology on Advanced Composites in
+Special Environments, Center for Composite Materials and Structures, Harbin
+Institute of Technology, Harbin 150080, China.
+(2)School of Aerospace, Mechanical and Mechatronic Engineering, The University of
+Sydney, Sydney, NSW 2006, Australia.
+(3)School of Electronics and Information Engineering, Harbin Institute of
+Technology, Harbin 150080, China.
+(4)Key Laboratory of Functional Inorganic Material Chemistry (Ministry of
+Education) and School of Chemistry and Materials Science, Heilongjiang
+University, Harbin 150001, China.
+(5)Mathematical Science Institute, The Australian National University, Canberra, 
+ACT 0200, Australia.
+(6)Shenzhen STRONG Advanced Materials Research Institute Co., Ltd., Shenzhen
+518035, China.
+
+Since 2020, the receptor-binding domain (RBD) of the spike protein of the novel
+severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been constantly 
+mutating, producing most of the notable missense mutations in the context of
+"variants of concern", probably in response to the vaccine-driven alteration of
+immune profiles of the human population. The Delta variant, in particular, has
+become the most prevalent variant of the epidemic, and it is spreading in
+countries with the highest vaccination rates, causing the world to face the risk 
+of a new wave of the contagion. Understanding the physical mechanism responsible 
+for the mutation-induced changes in the RBD's binding affinity, its
+transmissibility, and its capacity to escape vaccine-induced immunity is the
+"urgent challenge" in the development of preventive measures, vaccines, and
+therapeutic antibodies against the coronavirus disease 2019 (COVID-19) pandemic. 
+In this study, entropy-enthalpy compensation and the Gibbs free energy change
+were used to analyze the impact of the RBD mutations on the binding affinity of
+SARS-CoV-2 variants with the receptor angiotensin converting enzyme 2 (ACE2) and 
+existing antibodies. Through the analysis, we found that the existing mutations
+have already covered almost all possible detrimental mutations that could result 
+in an increase of transmissibility, and that a possible mutation in amino-acid
+position 498 of the RBD can potentially enhance its binding affinity. A new
+calculation method for the binding energies of protein-protein complexes is
+proposed based on the entropy-enthalpy compensation rule. All known structures of
+RBD-antibody complexes and the RBD-ACE2 complex comply with the entropy-enthalpy 
+compensation rule in providing the driving force behind the spontaneous
+protein-protein docking. The variant-induced risk of breakthrough infections in
+vaccinated people is attributed to the L452R mutation's reduction of the binding 
+affinity of many antibodies. Mutations reversing the hydrophobic or hydrophilic
+performance of residues in the spike RBD potentially cause breakthrough
+infections of coronaviruses due to the changes in geometric complementarity in
+the entropy-enthalpy compensations between antibodies and the virus at the
+binding sites.
+
+DOI: 10.3390/ijms222212114 
+PMCID: PMC8619214
+PMID: 34829998 
+

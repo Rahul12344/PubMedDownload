@@ -1,0 +1,87 @@
+
+1. EBioMedicine. 2021 Nov;73:103626. doi: 10.1016/j.ebiom.2021.103626. Epub 2021 Oct
+20.
+
+Evidence for retained spike-binding and neutralizing activity against emerging
+SARS-CoV-2 variants in serum of COVID-19 mRNA vaccine recipients.
+
+Carreño JM(1), Alshammary H(1), Singh G(1), Raskin A(1), Amanat F(2), Amoako
+A(1), Gonzalez-Reiche AS(3), van de Guchte A(3), Study Group P(1), Srivastava
+K(1), Sordillo EM(4), Sather DN(5), van Bakel H(6), Krammer F(7), Simon V(8).
+
+Author information: 
+(1)Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+NY, USA.
+(2)Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+NY, USA; Graduate School of Biomedical Sciences, Icahn School of Medicine at
+Mount Sinai, New York, NY, USA.
+(3)Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount
+Sinai, New York, NY 10029, USA.
+(4)Department of Pathology, Molecular and Cell Based Medicine Icahn School of
+Medicine at Mount Sinai, New York, NY, USA.
+(5)Center for Global Infectious Disease Research, Seattle Children's Research
+Institute, Seattle, WA, United States; Department of Pediatrics, University of
+Washington, Seattle, WA, USA.
+(6)Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount
+Sinai, New York, NY 10029, USA; Icahn Institute for Data Science and Genomic
+Technology, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA.
+Electronic address: harm.vanbakel@mssm.edu.
+(7)Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+NY, USA; Department of Pathology, Molecular and Cell Based Medicine Icahn School 
+of Medicine at Mount Sinai, New York, NY, USA. Electronic address:
+florian.krammer@mssm.edu.
+(8)Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+NY, USA; Department of Pathology, Molecular and Cell Based Medicine Icahn School 
+of Medicine at Mount Sinai, New York, NY, USA; Division of Infectious Diseases,
+Department of Medicine, Icahn School of Medicine at Mount Sinai, New York, NY,
+USA; The Global Health and Emerging Pathogen Institute, Icahn School of Medicine 
+at Mount Sinai, New York, NY, USA. Electronic address: viviana.simon@mssm.edu.
+
+BACKGROUND: Highly efficacious vaccines against severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2) have been developed. However, the emergence of viral
+variants that are more infectious than the earlier SARS-CoV-2 strains is
+concerning. Several of these viral variants have the potential to partially
+escape neutralizing antibody responses, warranting continued immune-monitoring.
+METHODS: We used a panel of 30 post-mRNA vaccination sera to determine
+neutralization and RBD and spike binding activity against a number of emerging
+viral variants. The virus neutralization was determined using authentic
+SARS-CoV-2 clinical isolates in an assay format that mimics physiological
+conditions.
+FINDINGS: We tested seven currently circulating viral variants of
+concern/interest, including the three Iota sublineages, Alpha (E484K), Beta,
+Delta and Lambda in neutralization assays. We found only small decreases in
+neutralization against Iota and Delta. The reduction was stronger against a
+sub-variant of Lambda, followed by Beta and Alpha (E484K). Lambda is currently
+circulating in parts of Latin America and was detected in Germany, the US and
+Israel. Of note, reduction in a receptor binding domain and spike binding assay
+that also included Gamma, Kappa and A.23.1 was negligible.
+INTERPRETATION: Taken together, these findings suggest that mRNA SARS-CoV-2
+vaccines may remain effective against these viral variants of concern/interest
+and that spike binding antibody tests likely retain specificity in the face of
+evolving SARS-CoV-2 diversity.
+FUNDING: This work is part of the PARIS/SPARTA studies funded by the NIAID
+Collaborative Influenza Vaccine Innovation Centers (CIVIC) contract
+75N93019C00051. In addition, this work was also partially funded by the Centers
+of Excellence for Influenza Research and Surveillance (CEIRS, contract #
+HHSN272201400008C), the JPB Foundation, the Open Philanthropy Project (research
+grant 2020-215611 (5384), by anonymous donors and by the Serological Sciences
+Network (SeroNet) in part with Federal funds from the National Cancer Institute, 
+National Institutes of Health, under Contract No. 75N91019D00024, Task Order No. 
+75N91020F00003.
+
+Copyright © 2021 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ebiom.2021.103626 
+PMCID: PMC8527879
+PMID: 34688034 
+
+Conflict of interest statement: Declaration of Competing Interest The Icahn
+School of Medicine at Mount Sinai has filed patent applications relating to
+SARS-CoV-2 serological assays and NDV-based SARS-CoV-2 vaccines which list
+Florian Krammer as co-inventor. Viviana Simon and Fatima Amanat are also listed
+on the serological assay patent application as co-inventors. Mount Sinai has spun
+out a company, Kantaro, to market serological tests for SARS-CoV-2. Florian
+Krammer has consulted for Merck and Pfizer (before 2020), and is currently
+consulting for Pfizer, Seqirus and Avimex. The Krammer laboratory is also
+collaborating with Pfizer on animal models of SARS-CoV-2.
+

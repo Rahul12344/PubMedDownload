@@ -1,0 +1,42 @@
+
+1. mol biol evol. 2019 jan 1;36(1):177-199. doi: 10.1093/molbev/msy202.
+
+detection shared balancing selection absence trans-species
+polymorphism.
+
+cheng x(1)(2), degiorgio m(2)(3)(4).
+
+author information: 
+(1)huck institutes life sciences, pennsylvania state university,
+university park, pa.
+(2)department biology, pennsylvania state university, university park, pa.
+(3)department statistics, pennsylvania state university, university park, pa.
+(4)institute cyberscience, pennsylvania state university, university park,
+pa.
+
+trans-species polymorphism widely used key sign long-term
+balancing selection across multiple species. however, sites often rare
+in genome could result mutational processes technical artifacts. 
+few methods yet available specifically detect footprints trans-species 
+balancing selection without using trans-species polymorphic sites. study,
+we develop summary- model-based approaches specifically
+tailored uncover regions long-term balancing selection shared set of
+species using genomic patterns intraspecific polymorphism interspecific
+fixed differences. demonstrate trans-species statistics have
+substantially higher power single-species approaches detect footprints of
+trans-species balancing selection, robust affect all
+tested species. apply model-based methods human chimpanzee 
+whole-genome sequencing data. addition previously established major
+histocompatibility complex malaria resistance-associated frem3/gype regions, 
+we also find outstanding genomic regions involved barrier integrity innate
+immunity, grik1/cldn17 intergenic region, slc35f1 abca13 
+genes. findings echo significance pathogen defense also
+reveal novel candidates maintaining balanced polymorphisms across human and
+chimpanzee lineages. finally, show trans-species statistics 
+applied work well arbitrary number species, integrate them
+into open-source software packages ease use scientific community.
+
+doi: 10.1093/molbev/msy202 
+pmcid: pmc6530816
+pmid: 30380122  [indexed medline]
+

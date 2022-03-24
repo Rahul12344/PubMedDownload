@@ -1,0 +1,40 @@
+
+1. ACS Synth Biol. 2018 Nov 16;7(11):2590-2599. doi: 10.1021/acssynbio.8b00261. Epub
+2018 Oct 17.
+
+Functional Analyses of Cassette Chromosome Recombinase C2 (CcrC2) and Its Use in 
+Eliminating Methicillin Resistance by Combining CRISPR-Cas9.
+
+Wu Z(1), Zhang L(1), Qiao D(1), Xue H(1), Zhao X(1)(2).
+
+Author information: 
+(1)College of Animal Science and Technology , Northwest A&F University , Yangling
+, 712100 Shaanxi , People's Republic of China.
+(2)Department of Animal Science , McGill University , Ste. Anne de Bellevue ,
+Quebec H9X 3V9 , Canada.
+
+Worldwide occurrence of methicillin-resistant Staphylococcus aureus (MRSA) poses 
+enormous challenges for both communities and health care settings. Cassette
+chromosome recombinases (Ccr) specifically perform excision and acquisition of a 
+staphylococcal cassette chromosome mec (SCC mec) in staphylococci and are
+responsible for the spread of methicillin resistance. This study explored the
+roles of CcrC2, a recently discovered Ccr, in the horizontal transfer of SCC mec 
+and developed a potential means to control the spread of methicillin resistance. 
+Knockout of CcrC2 completely aborted the excision of SCC mec, while
+overexpression of CcrC2 partially removed the SCC mec from the genome and
+transformed methicillin-resistant Staphylococcus aureus (MRSA) into
+methicillin-susceptible Staphylococcus aureus (MSSA). Moreover, two nucleotide
+residues (G5C6) in the direct repeat sequence within an att site were found to be
+critical for excision and acquisition efficiencies. To block the horizontal
+transfer of methicillin resistance, a SCC mec killer system was developed by
+combining the CcrC2-mediated SCC mec excision and the mecA-targeting CRISPR-Cas9 
+machinery. The SCC mec killer transformed MRSA to MSSA and disrupted the
+mecA-carrying SCC mec intermediate, thereby eliminating methicillin resistance
+determinant mecA gene inside a MRSA cell and blocking the horizontal transfer of 
+SCC mec. The SCC mec killer was versatile for efficiently removing multiple types
+of SCC mec elements. It is envisioned that this approach could offer a new means 
+to control the spread of methicillin resistance.
+
+DOI: 10.1021/acssynbio.8b00261 
+PMID: 30278126  [Indexed for MEDLINE]
+

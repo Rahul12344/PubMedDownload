@@ -1,0 +1,48 @@
+
+1. plos biol. 2018 jul 16;16(7):e2005345. doi: 10.1371/journal.pbio.2005345.
+ecollection 2018 jul.
+
+inter-subunit interactions drive divergent dynamics mammalian plasmodium
+actin filaments.
+
+douglas rg(1), nandekar p(2)(3), aktories je(1), kumar h(1)(2), weber r(1),
+sattler jm(1), singer m(1), lepper s(1), sadiq sk(2), wade rc(2)(3)(4),
+frischknecht f(1).
+
+author information: 
+(1)integrative parasitology, center infectious diseases, heidelberg
+university medical school, heidelberg, germany.
+(2)molecular cellular modeling, heidelberg institute theoretical studies 
+(hits), heidelberg, germany.
+(3)center molecular biology (zmbh), dkfz-zmbh alliance, heidelberg, germany.
+(4)interdisciplinary center scientific computing (iwr), heidelberg, germany.
+
+cell motility essential protozoan metazoan organisms typically
+relies dynamic turnover actin filaments. metazoans, monomeric actin 
+polymerises usually long stable filaments, protozoans form
+only short highly dynamic actin filaments. different dynamics are
+partly due different sets actin regulatory proteins partly due to
+the sequence actin itself. probe interactions actin subunits
+within divergent actin filaments using comparative dynamic molecular model 
+explore functions using plasmodium, protozoan causing malaria, and
+mouse melanoma derived b16-f1 cells model systems. parasite actin tagged 
+fluorescent protein (fp) incorporate mammalian actin filaments, 
+rabbit actin-fp incorporate parasite actin filaments. however,
+exchanging divergent region actin subdomain 3 allowed reciprocal
+incorporation. exchange single amino acid residue subdomain 2 (n41h) 
+of plasmodium actin markedly improved incorporation mammalian filaments. 
+the parasite, modification subunit-subunit interaction sites lethal, 
+whereas changes actin subdomains 1 4 reduced efficient parasite motility
+and hence mosquito organ penetration. strong penetration defects could be
+rescued overexpression actin filament regulator coronin. 
+comparative approaches identified essential common contributor,
+subdomain 3, drives differential dynamic behaviour two highly
+divergent eukaryotic actins motile cells.
+
+doi: 10.1371/journal.pbio.2005345 
+pmcid: pmc6055528
+pmid: 30011270  [indexed medline]
+
+conflict interest statement: authors declared competing
+interests exist.
+

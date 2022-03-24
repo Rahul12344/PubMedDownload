@@ -1,0 +1,44 @@
+
+1. Int J Environ Res Public Health. 2021 Oct 14;18(20). pii: 10769. doi:
+10.3390/ijerph182010769.
+
+Predicting Physical Exercise Adherence in Fitness Apps Using a Deep Learning
+Approach.
+
+Jossa-Bastidas O(1), Zahia S(1), Fuente-Vidal A(2), Sánchez Férez N(3), Roda
+Noguera O(3), Montane J(2)(4), Garcia-Zapirain B(1).
+
+Author information: 
+(1)eVIDA Research Group, University of Deusto, 48007 Bilbao, Spain.
+(2)Department of Physical Activity and Sport Sciences, FPCEE Blanquerna, Ramon
+Llull University, 08022 Barcelona, Spain.
+(3)Mammoth Hunters S.L., 08036 Barcelona, Spain.
+(4)Blanquerna School of Health Sciences, Ramon Llull University, 08025 Barcelona,
+Spain.
+
+The use of mobile fitness apps has been on the rise for the last decade and
+especially during the worldwide SARS-CoV-2 pandemic, which led to the closure of 
+gyms and to reduced outdoor mobility. Fitness apps constitute a promising means
+for promoting more active lifestyles, although their attrition rates are
+remarkable and adherence to their training plans remains a challenge for
+developers. The aim of this project was to design an automatic classification of 
+users into adherent and non-adherent, based on their training behavior in the
+first three months of app usage, for which purpose we proposed an ensemble of
+regression models to predict their behaviour (adherence) in the fourth month. The
+study was conducted using data from a total of 246 Mammoth Hunters Fitness app
+users. Firstly, pre-processing and clustering steps were taken in order to
+prepare the data and to categorize users into similar groups, taking into account
+the first 90 days of workout sessions. Then, an ensemble approach for regression 
+models was used to predict user training behaviour during the fourth month, which
+were trained with users belonging to the same cluster. This was used to reach a
+conclusion regarding their adherence status, via an approach that combined
+affinity propagation (AP) clustering algorithm, followed by the long short-term
+memory (LSTM), rendering the best results (87% accuracy and 85% F1_score). This
+study illustrates the suggested the capacity of the system to anticipate future
+adherence or non-adherence, potentially opening the door to fitness app creators 
+to pursue advanced measures aimed at reducing app attrition.
+
+DOI: 10.3390/ijerph182010769 
+PMCID: PMC8535546
+PMID: 34682515  [Indexed for MEDLINE]
+

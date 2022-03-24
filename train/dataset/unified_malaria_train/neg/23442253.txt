@@ -1,0 +1,43 @@
+
+1. bmc genomics. 2013 feb 26;14:128. doi: 10.1186/1471-2164-14-128.
+
+a poisson hierarchical modelling approach detecting copy number variation in
+sequence coverage data.
+
+sepúlveda n(1), campino sg, assefa sa, sutherland cj, pain a, clark tg.
+
+author information: 
+(1)london school hygiene tropical medicine, london, uk.
+nuno.sepulveda@lshtm.ac.uk
+
+background: advent next generation sequencing technology accelerated
+efforts map catalogue copy number variation (cnv) genomes important 
+micro-organisms public health. typical analysis sequence data
+involves mapping reads onto reference genome, calculating respective
+coverage, detecting regions too-low too-high coverage (deletions 
+amplifications, respectively). current cnv detection methods rely statistical 
+assumptions (e.g., poisson model) may hold general, require
+fine-tuning underlying algorithms detect known hits. propose new cnv 
+detection methodology based two poisson hierarchical models, poisson-gamma
+and poisson-lognormal, advantage sufficiently flexible to
+describe different data patterns, whilst robust deviations often
+assumed poisson model.
+results: using sequence coverage data 7 plasmodium falciparum malaria genomes 
+(3d7 reference strain, hb3, dd2, 7g8, gb4, ox005, ox006), showed that
+empirical coverage distributions intrinsically asymmetric overdispersed
+in relation poisson model. also demonstrated low baseline false
+positive rate proposed methodology using 3d7 resequencing data and
+simulation. applied non-reference isolate data, approach detected
+known cnv hits, including amplification pfmdr1 locus dd2 large
+deletion clag3.2 gene gb4, putative novel cnv regions. when
+compared recently available freec cn.mops approaches, findings
+were concordant putative hits highest quality array data for
+the 7g8 gb4 isolates.
+conclusions: summary, proposed methodology brings increase in
+flexibility, robustness, accuracy statistical rigour cnv detection using
+sequence coverage data.
+
+doi: 10.1186/1471-2164-14-128 
+pmcid: pmc3679970
+pmid: 23442253  [indexed medline]
+

@@ -1,0 +1,38 @@
+
+1. Biophys J. 2013 Apr 2;104(7):1615-22. doi: 10.1016/j.bpj.2013.02.043.
+
+A model of H-NS mediated compaction of bacterial DNA.
+
+Joyeux M(1), Vreede J.
+
+Author information: 
+(1)Laboratoire Interdisciplinaire de Physique, Centre National de la Recherche
+Scientifique UMR5588, Université Joseph Fourier Grenoble 1, St. Martin d'Hères,
+France. marc.joyeux@ujf-grenoble.fr
+
+The histone-like nucleoid structuring protein (H-NS) is a nucleoid-associated
+protein, which is involved in both gene regulation and DNA compaction. H-NS can
+bind to DNA in two different ways: in trans, by binding to two separate DNA
+duplexes, or in cis, by binding to different sites on the same duplex. Based on
+scanning force microscopy imaging and optical trap-driven unzipping assays, it
+has recently been suggested that DNA compaction may result from the antagonistic 
+effects of H-NS binding to DNA in trans and cis configurations. To get more
+insight into the compaction mechanism, we constructed a coarse-grained model
+description of the compaction of bacterial DNA by H-NS. These simulations
+highlight the fact that DNA compaction indeed results from the subtle equilibrium
+between several competing factors, which include the deformation dynamics of the 
+plasmid and the several binding modes of protein dimers to DNA, i.e., dangling
+configurations, cis- and trans-binding. In particular, the degree of compaction
+is extremely sensitive to the difference in binding energies of the cis and trans
+configurations. Our simulations also point out that the conformations of the
+DNA-protein complexes are significantly different in bulk and in planar
+conditions, suggesting that conformations observed on mica surfaces may differ
+significantly from those that prevail in living cells.
+
+Copyright © 2013 Biophysical Society. Published by Elsevier Inc. All rights
+reserved.
+
+DOI: 10.1016/j.bpj.2013.02.043 
+PMCID: PMC3617430
+PMID: 23561538  [Indexed for MEDLINE]
+

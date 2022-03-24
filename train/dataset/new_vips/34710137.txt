@@ -1,0 +1,69 @@
+
+1. PLoS One. 2021 Oct 28;16(10):e0259061. doi: 10.1371/journal.pone.0259061.
+eCollection 2021.
+
+Disulfiram use is associated with lower risk of COVID-19: A retrospective cohort 
+study.
+
+Fillmore N(1)(2), Bell S(3), Shen C(4)(5)(6), Nguyen V(1), La J(1), Dubreuil
+M(7)(8), Strymish J(2)(9), Brophy M(1)(10), Mehta G(11)(12), Wu H(13)(14),
+Lieberman J(14)(15), Do N(1)(16), Sander C(4)(5)(6).
+
+Author information: 
+(1)Boston VA Cooperative Studies Program (CSP) Center, VA Boston Healthcare
+System, Boston, Massachusetts, United States of America.
+(2)Department of Medicine, Harvard Medical School, Boston, Massachusetts, United 
+States of America.
+(3)Department of Clinical Neurosciences, University of Cambridge, Cambridge,
+United Kingdom.
+(4)Department of Cell Biology, Harvard Medical School, Boston, Massachusetts,
+United States of America.
+(5)Department of Data Science, Dana-Farber Cancer Institute, Boston,
+Massachusetts, United States of America.
+(6)Broad Institute of Harvard and MIT, Boston, Massachusetts, United States of
+America.
+(7)Section of Rheumatology, Boston University School of Medicine, Boston,
+Massachusetts, United States of America.
+(8)Rheumatology, VA Boston Healthcare System, Boston, Massachusetts, United
+States of America.
+(9)Infection Disease, VA Boston Healthcare System, Boston, Massachusetts, United 
+States of America.
+(10)Section of Hematology and Medical Oncology, Boston University School of
+Medicine, Boston, Massachusetts, United States of America.
+(11)Institute for Liver and Digestive Health, University College London, London, 
+United Kingdom.
+(12)Institute of Hepatology, Foundation for Liver Research, London, United
+Kingdom.
+(13)Department of Biological Chemistry and Molecular Pharmacology, Harvard
+Medical School, Boston, Massachusetts, United States of America.
+(14)Program in Cellular and Molecular Medicine, Boston Children's Hospital,
+Boston, Massachusetts, United States of America.
+(15)Department of Pediatrics, Harvard Medical School, Boston, Massachusetts,
+United States of America.
+(16)Section of General Internal Medicine, Boston University School of Medicine,
+Boston, Massachusetts, United States of America.
+
+Effective, low-cost therapeutics are needed to prevent and treat COVID-19. Severe
+COVID-19 disease is linked to excessive inflammation. Disulfiram is an approved
+oral drug used to treat alcohol use disorder that is a potent anti-inflammatory
+agent and an inhibitor of the viral proteases. We investigated the potential
+effects of disulfiram on SARS-CoV-2 infection and disease severity in an
+observational study using a large database of clinical records from the national 
+US Veterans Affairs healthcare system. A multivariable Cox regression adjusted
+for demographic information and diagnosis of alcohol use disorder revealed a
+reduced risk of SARS-CoV-2 infection with disulfiram use at a hazard ratio of
+0.66 (34% lower risk, 95% confidence interval 24-43%). There were no COVID-19
+related deaths among the 188 SARS-CoV-2 positive patients treated with
+disulfiram, in contrast to 5-6 statistically expected deaths based on the
+untreated population (P = 0.03). Our epidemiological results suggest that
+disulfiram may contribute to the reduced incidence and severity of COVID-19.
+These results support carefully planned clinical trials to assess the potential
+therapeutic effects of disulfiram in COVID-19.
+
+DOI: 10.1371/journal.pone.0259061 
+PMCID: PMC8553043
+PMID: 34710137  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

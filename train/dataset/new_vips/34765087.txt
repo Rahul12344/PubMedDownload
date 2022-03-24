@@ -1,0 +1,49 @@
+
+1. Comput Struct Biotechnol J. 2021 Oct 5;19:5667-5677. doi:
+10.1016/j.csbj.2021.10.003. eCollection 2021.
+
+Computational modeling of RNase, antisense ORF0 RNA, and intracellular
+compartmentation and their impact on the life cycle of the line retrotransposon.
+
+Martin MD(1), Brown DN(2), Ramos KS(3).
+
+Author information: 
+(1)Dept. of Physics, University of Louisville, Louisville, KY 40214, United
+States.
+(2)Western Kentucky University, 1906 College Heights Blvd, Bowling Green,
+Kentucky 42101, United States.
+(3)Center for Genomic and Precision Medicine, Institute of Biosciences and
+Technology, Texas A&M Health Science Center, Houston, TX 77030, United States.
+
+Nearly half of the human genome is occupied by repetitive sequences of ancient
+virus-like genetic elements. The largest class, comprising 17% of the genome,
+belong to the type 1 Long INterspersed Elements (LINE-1) and are the only class
+capable of autonomous propagation in the genome. When epigenetic silencing
+mechanisms of LINE-1 fail, the proteins encoded by LINE-1 engage in reverse
+transcription to make new copies of their own or other DNAs that are pasted back 
+into the genome. To elucidate how LINE-1 is dysregulated as a result of
+carcinogen exposure, we developed a computational model of key elements in the
+LINE-1 lifecycle, namely, the role of cytosolic ribonuclease (RNase), RNA
+interference (RNAi) by the antisense ORF0 RNA, and sequestration of LINE-1
+products into stress granules and multivesicular structures. The model showed
+that when carcinogen exposure is represented as either a sudden increase in
+LINE-1 mRNA count, or as an increase in mRNA transcription rate, the
+retrotransposon copy number exhibits a distinct threshold behavior above which
+LINE-1 enters a positive feedback loop that allows the cDNA copy number to grow
+exponentially. We also found that most of the LINE-1 RNA was degraded via the
+RNAase pathway and that neither ORF0 RNAi, nor the sequestration of LINE-1
+products into granules and multivesicular structures, played a significant role
+in regulating the retrotransposon's life cycle. Several aspects of the prediction
+agree with experimental results and indicate that the model has significant
+potential to inform future experiments related to LINE-1 activation.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.csbj.2021.10.003 
+PMCID: PMC8554170
+PMID: 34765087 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

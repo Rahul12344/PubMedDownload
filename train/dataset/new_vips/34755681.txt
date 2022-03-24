@@ -1,0 +1,41 @@
+
+1. Stud Health Technol Inform. 2021 Nov 8;286:3-8. doi: 10.3233/SHTI210625.
+
+The Importance of Contextual Understanding in Solving the Last Mile Problem.
+
+Kuziemsky C(1), Nøhr C(2), Marcilly R(3), Dusseljee-Peute L(4), Zhu X(5), Elkin
+PL(6).
+
+Author information: 
+(1)MacEwan University, Edmonton, Alberta, Canada.
+(2)Danish Centre for Health Informatics, Aalborg University, Denmark.
+(3)Univ. Lille, CHU Lille, ULR 2694 - METRICS: Évaluation des technologies de
+santé et des pratiques médicales, F-59000 Lille, France.
+(4)Department Medical Informatics, University of Amsterdam, Amsterdam University 
+Medical Center, Amsterdam, the Netherlands.
+(5)Center for Biomedical Data Science, Yale University, New Haven, CT, U.S.A.
+(6)Department of Biomedical Informatics, University at Buffalo, U.S.A.
+
+The COVID-19 pandemic has disrupted many global industries and shifted the
+digital health landscape by stimulating and accelerating the delivery of digital 
+care. It has emphasized the need for a system level informatics implementation
+that supports the healthcare management of populations at a macro level while
+also providing the necessary support for front line care delivery at a micro
+level. From data dashboard to Telemedicine, this crisis has necessitated the need
+for health informatics transformation that can bridge time and space to provide
+timely care. However, heath transformation cannot solely rely on Health
+Information Technology (HIT) for progress, but rather success must be an outcome 
+of system design focus on the contextual complexity of the health system where
+HIT is used. This conference highlights the important roles context plays for
+health informatics in global pandemics and aims to answer critical questions in
+four main areas: 1) health information management in the covid-19 context, 2)
+implementation of new practices and technologies in healthcare, 3) sociotechnical
+analysis of task performance and workload in healthcare, and 4) innovations in
+design and evaluation methods of health technologies. We deem this as a call to
+action to understand the importance of context while solving the last mile
+problem in delivering the informatics solutions that are needed to support our
+public health response.
+
+DOI: 10.3233/SHTI210625 
+PMID: 34755681  [Indexed for MEDLINE]
+

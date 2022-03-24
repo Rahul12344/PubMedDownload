@@ -1,0 +1,49 @@
+
+1. J Biol Chem. 2016 Jan 22;291(4):2004-2017. doi: 10.1074/jbc.M115.685628. Epub
+2015 Dec 1.
+
+Non-native Conformers of Cystic Fibrosis Transmembrane Conductance Regulator NBD1
+Are Recognized by Hsp27 and Conjugated to SUMO-2 for Degradation.
+
+Gong X(1), Ahner A(1), Roldan A(2), Lukacs GL(2), Thibodeau PH(3), Frizzell
+RA(4).
+
+Author information: 
+(1)From the Departments of Cell Biology and.
+(2)the Department of Physiology, McGill University, Montreal, Quebec H3G 1Y6,
+Canada.
+(3)Microbiology and Molecular Genetics, University of Pittsburgh School of
+Medicine, Pittsburgh, Pennsylvania 15261 and.
+(4)From the Departments of Cell Biology and. Electronic address:
+frizzell@pitt.edu.
+
+A newly identified pathway for selective degradation of the common mutant of the 
+cystic fibrosis transmembrane conductance regulator (CFTR), F508del, is initiated
+by binding of the small heat shock protein, Hsp27. Hsp27 collaborates with Ubc9, 
+the E2 enzyme for protein SUMOylation, to selectively degrade F508del CFTR via
+the SUMO-targeted ubiquitin E3 ligase, RNF4 (RING finger protein 4) (1). Here, we
+ask what properties of CFTR are sensed by the Hsp27-Ubc9 pathway by examining the
+ability of NBD1 (locus of the F508del mutation) to mimic the disposal of
+full-length (FL) CFTR. Similar to FL CFTR, F508del NBD1 expression was reduced
+50-60% by Hsp27; it interacted preferentially with the mutant and was modified
+primarily by SUMO-2. Mutation of the consensus SUMOylation site, Lys(447),
+obviated Hsp27-mediated F508del NBD1 SUMOylation and degradation. As for FL CFTR 
+and NBD1 in vivo, SUMO modification using purified components in vitro was
+greater for F508del NBD1 versus WT and for the SUMO-2 paralog. Several findings
+indicated that Hsp27-Ubc9 targets the SUMOylation of a transitional, non-native
+conformation of F508del NBD1: (a) its modification decreased as [ATP] increased, 
+reflecting stabilization of the nucleotide-binding domain by ligand binding; (b) 
+a temperature-induced increase in intrinsic fluorescence, which reflects
+formation of a transitional NBD1 conformation, was followed by its SUMO
+modification; and (c) introduction of solubilizing or revertant mutations to
+stabilize F508del NBD1 reduced its SUMO modification. These findings indicate
+that the Hsp27-Ubc9 pathway recognizes a non-native conformation of mutant NBD1, 
+which leads to its SUMO-2 conjugation and degradation by the ubiquitin-proteasome
+system.
+
+© 2016 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1074/jbc.M115.685628 
+PMCID: PMC4722474
+PMID: 26627832  [Indexed for MEDLINE]
+

@@ -1,0 +1,39 @@
+
+1. Appl Environ Microbiol. 2014 Sep;80(18):5801-6. doi: 10.1128/AEM.01338-14. Epub
+2014 Jul 11.
+
+SmoXYB1C1Z of Mycobacterium sp. strain NBB4: a soluble methane monooxygenase
+(sMMO)-like enzyme, active on C2 to C4 alkanes and alkenes.
+
+Martin KE(1), Ozsvar J(1), Coleman NV(2).
+
+Author information: 
+(1)School of Molecular Bioscience, University of Sydney, Sydney, NSW, Australia.
+(2)School of Molecular Bioscience, University of Sydney, Sydney, NSW, Australia
+nicholas.coleman@sydney.edu.au.
+
+Monooxygenase (MO) enzymes initiate the aerobic oxidation of alkanes and alkenes 
+in bacteria. A cluster of MO genes (smoXYB1C1Z) of thus-far-unknown function was 
+found previously in the genomes of two Mycobacterium strains (NBB3 and NBB4)
+which grow on hydrocarbons. The predicted Smo enzymes have only moderate amino
+acid identity (30 to 60%) to their closest homologs, the soluble methane and
+butane MOs (sMMO and sBMO), and the smo gene cluster has a different organization
+from those of sMMO and sBMO. The smoXYB1C1Z genes of NBB4 were cloned into
+pMycoFos to make pSmo, which was transformed into Mycobacterium smegmatis
+mc(2)-155. Cells of mc(2)-155(pSmo) metabolized C2 to C4 alkanes, alkenes, and
+chlorinated hydrocarbons. The activities of mc(2)-155(pSmo) cells were 0.94,
+0.57, 0.12, and 0.04 nmol/min/mg of protein with ethene, ethane, propane, and
+butane as substrates, respectively. The mc(2)-155(pSmo) cells made epoxides from 
+ethene, propene, and 1-butene, confirming that Smo was an oxygenase. Epoxides
+were not produced from larger alkenes (1-octene and styrene). Vinyl chloride and 
+1,2-dichloroethane were biodegraded by cells expressing Smo, with production of
+inorganic chloride. This study shows that Smo is a functional oxygenase which is 
+active against small hydrocarbons. M. smegmatis mc(2)-155(pSmo) provides a new
+model for studying sMMO-like monooxygenases.
+
+Copyright © 2014, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/AEM.01338-14 
+PMCID: PMC4178599
+PMID: 25015887  [Indexed for MEDLINE]
+

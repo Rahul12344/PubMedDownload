@@ -1,0 +1,44 @@
+
+1. Cell Death Dis. 2021 Oct 28;12(11):1011. doi: 10.1038/s41419-021-04286-3.
+
+Diversity of cell death signaling pathways in macrophages upon infection with
+modified vaccinia virus Ankara (MVA).
+
+Klaas L(1), Vier J(1), Gentle IE(1), Häcker G(1), Kirschnek S(2).
+
+Author information: 
+(1)Faculty of Medicine, Institute of Medical Microbiology and Hygiene, Medical
+Center - University of Freiburg, Freiburg, Germany.
+(2)Faculty of Medicine, Institute of Medical Microbiology and Hygiene, Medical
+Center - University of Freiburg, Freiburg, Germany.
+susanne.kirschnek@uniklinik-freiburg.de.
+
+Regulated cell death frequently occurs upon infection by intracellular pathogens,
+and extent and regulation is often cell-type-specific. We aimed to identify the
+cell death-signaling pathways triggered in macrophages by infection with modified
+vaccinia virus Ankara (MVA), an attenuated strain of vaccinia virus used in
+vaccination. While most target cells seem to be protected by antiapoptotic
+proteins encoded in the MVA genome, macrophages die when infected with MVA. We
+targeted key signaling components of specific cell death-pathways and pattern
+recognition-pathways using genome editing and small molecule inhibitors in an in 
+vitro murine macrophage differentiation model. Upon infection with MVA, we
+observed activation of mitochondrial and death-receptor-induced
+apoptosis-pathways as well as the necroptosis-pathway. Inhibition of individual
+pathways had a little protective effect but led to compensatory death through the
+other pathways. In the absence of mitochondrial apoptosis, autocrine/paracrine
+TNF-mediated apoptosis and, in the absence of caspase-activity, necroptosis
+occurred. TNF-induction depended on the signaling molecule STING, and MAVS and
+ZBP1 contributed to MVA-induced apoptosis. The mode of cell death had a
+substantial impact on the cytokine response of infected cells, indicating that
+the immunogenicity of a virus may depend not only on its PAMPs but also on its
+ability to modulate individual modalities of cell death. These findings provide
+insights into the diversity of cell death-pathways that an infection can trigger 
+in professional immune cells and advance our understanding of the intracellular
+mechanisms that govern the immune response to a virus.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41419-021-04286-3 
+PMCID: PMC8551665
+PMID: 34711816 
+

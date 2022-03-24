@@ -1,0 +1,27 @@
+
+1. biosystems. 2004 mar;73(3):157-61.
+
+on behavior solutions viral dynamical models.
+
+tuckwell hc(1), wan fy.
+
+author information: 
+(1)department mathematics, university california, irvine, ca 92697, usa.
+tuckwell@u444.jussieu.fr
+
+we consider simple mathematical models early population dynamics the
+human immunodefficiency type 1 virus (hiv-1). although systems of
+differential equations may solved numerical methods, general
+theoretical results available due nonlinearities. analyze model whose
+components plasma densities uninfected cd4+ t-cells infected cells
+(assumed model proportional virion density). addition to
+analyzing nature equilibrium points, show no
+periodic limit-cycle solutions. depending values parameters,
+solutions either tend without oscillation equilibrium point zero
+virion density equilibrium point nonzero number 
+virions. latter case approach equilibrium may damped
+oscillations without oscillation.
+
+doi: 10.1016/j.biosystems.2003.11.004 
+pmid: 15026192  [indexed medline]
+

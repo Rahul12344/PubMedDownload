@@ -1,0 +1,37 @@
+
+1. nucleic acids res. 2015 jul 1;43(w1):w39-49. doi: 10.1093/nar/gkv416. epub 2015
+may 7.
+
+the meme suite.
+
+bailey tl(1), johnson j(2), grant ce(3), noble ws(4).
+
+author information: 
+(1)institute molecular bioscience, university queensland, brisbane
+4072, queensland, australia t.bailey@uq.edu.au.
+(2)institute molecular bioscience, university queensland, brisbane
+4072, queensland, australia.
+(3)department genome sciences, department computer science engineering,
+university washington, seattle, wa 98109, usa.
+(4)department genome sciences, department computer science engineering,
+university washington, seattle, wa 98109, usa william-noble@uw.edu.
+
+the meme suite powerful, integrated set web-based tools studying
+sequence motifs proteins, dna rna. motifs encode many biological
+functions, detection characterization important study 
+molecular interactions cell, including regulation gene expression. 
+since previous description meme suite 2009 nucleic acids
+research web server issue, added six new tools. describe the
+capabilities tools within suite, give advice best use and
+provide several case studies illustrate combine results various 
+meme suite tools successful motif-based analyses. meme suite freely
+available academic use http://meme-suite.org, source code also
+available download local installation.
+
+© author(s) 2015. published oxford university press behalf nucleic
+acids research.
+
+doi: 10.1093/nar/gkv416 
+pmcid: pmc4489269
+pmid: 25953851  [indexed medline]
+

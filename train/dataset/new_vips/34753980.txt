@@ -1,0 +1,44 @@
+
+1. Sci Rep. 2021 Nov 9;11(1):21968. doi: 10.1038/s41598-021-01131-7.
+
+Candidate genes of SARS-CoV-2 gender susceptibility.
+
+Russo C(1), Morello G(2), Malaguarnera R(3), Piro S(4), Furno DL(1), Malaguarnera
+L(1).
+
+Author information: 
+(1)Department of Biomedical and Biotechnological Sciences, University of Catania,
+Catania, Italy.
+(2)Institute for Research and Biomedical Innovation (IRIB), Italian National
+Research Council (CNR), Catania, Italy. giovanna.morello@irib.cnr.it.
+(3)Faculty of Medicine and Surgery, "Kore" University of Enna, Enna, Italy.
+(4)Department of Clinical and Molecular Medicine, University of Catania, Catania,
+Italy.
+
+The severe acute respiratory syndrome coronavirus (SARS-CoV-2) initiated a global
+viral pandemic since late 2019. Understanding that Coronavirus disease (COVID-19)
+disproportionately affects men than women results in great challenges. Although
+there is a growing body of published study on this topic, effective explanations 
+underlying these sex differences and their effects on the infection outcome still
+remain uncertain. We applied a holistic bioinformatics method to investigate
+molecular variations of known SARS-CoV-2 interacting human proteins mainly
+expressed in gonadal tissues (testis and ovary), allowing for the identification 
+of potential genetic targets for this infection. Functional enrichment and
+interaction network analyses were also performed to better investigate the
+biological differences between testicular and ovarian responses in the SARS-CoV-2
+infection, paying particular attention to genes linked to immune-related
+pathways, reactions of host cells after intracellular infection, steroid hormone 
+biosynthesis, receptor signaling, and the complement cascade, in order to
+evaluate their potential association with sexual difference in the likelihood of 
+infection and severity of symptoms. The analysis revealed that within the testis 
+network TMPRSS2, ADAM10, SERPING1, and CCR5 were present, while within the ovary 
+network we found BST2, GATA1, ENPEP, TLR4, TLR7, IRF1, and IRF2. Our findings
+could provide potential targets for forthcoming experimental investigation
+related to SARS-CoV-2 treatment.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-01131-7 
+PMCID: PMC8578384
+PMID: 34753980  [Indexed for MEDLINE]
+

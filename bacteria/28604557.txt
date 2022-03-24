@@ -1,0 +1,36 @@
+
+1. J Immunother. 2017 Jul/Aug;40(6):201-210. doi: 10.1097/CJI.0000000000000176.
+
+Antigen Presentation by Individually Transferred HLA Class I Genes in HLA-A,
+HLA-B, HLA-C Null Human Cell Line Generated Using the Multiplex CRISPR-Cas9
+System.
+
+Hong CH(1), Sohn HJ, Lee HJ, Cho HI, Kim TG.
+
+Author information: 
+(1)*Departments of Microbiology †Catholic Hematopoietic Stem Cell Bank ‡Cancer
+Research Institute, College of Medicine, The Catholic University of Korea, Seoul,
+Korea.
+
+Human leukocyte antigens (HLAs) are essential immune molecules that affect
+transplantation and adoptive immunotherapy. When hematopoietic stem cells or
+organs are transplanted with HLA-mismatched recipients, graft-versus-host disease
+or graft rejection can be induced by allogeneic immune responses. The function of
+each HLA allele has been studied using HLA-deficient cells generated from mutant 
+cell lines or by RNA interference, zinc finger nuclease, and the CRISPR/Cas9
+system. To improve HLA gene editing, we attempted to generate an HLA class I null
+cell line using the multiplex CRISPR/Cas9 system by targeting exons 2 and 3 of
+HLA-A, HLA-B, and HLA-C genes simultaneously. Multiplex HLA editing could induce 
+the complete elimination of HLA class I genes by bi-allelic gene disruption on
+target sites which was defined by flow cytometry and target-specific polymerase
+chain reaction. Furthermore, artificial antigen-presenting cells were generated
+by transfer of a single HLA class I allele and co-stimulatory molecules into this
+novel HLA class I null cell line. Artificial antigen-presenting cells showed
+HLA-restricted antigen presentation following antigen processing and were
+successfully used for the efficient generation of tumor antigen-specific
+cytotoxic T cells in vitro. The efficient editing of HLA genes may provide a
+basis for universal cellular therapies and transplantation.
+
+DOI: 10.1097/CJI.0000000000000176 
+PMID: 28604557  [Indexed for MEDLINE]
+

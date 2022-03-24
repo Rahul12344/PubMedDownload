@@ -1,0 +1,49 @@
+
+1. PLoS Genet. 2016 Jul 18;12(7):e1006172. doi: 10.1371/journal.pgen.1006172.
+eCollection 2016 Jul.
+
+Orderly Replication and Segregation of the Four Replicons of Burkholderia
+cenocepacia J2315.
+
+Du WL(1), Dubarry N(1), Passot FM(1), Kamgoué A(2), Murray H(3), Lane D(1), Pasta
+F(1).
+
+Author information: 
+(1)Laboratoire de Microbiologie et Génétique Moléculaires, Centre National de
+Recherche Scientifique / Université Paul Sabatier, Toulouse, France.
+(2)Laboratoire de Biologie Moléculaire Eucaryote, Centre National de Recherche
+Scientifique / Université Paul Sabatier, Toulouse, France.
+(3)Centre for Bacterial Cell Biology, Institute for Cell & Molecular Biosciences,
+Newcastle University, Newcastle upon Tyne, United Kingdom.
+
+Bacterial genomes typically consist of a single chromosome and, optionally, one
+or more plasmids. But whole-genome sequencing reveals about ten per-cent of them 
+to be multipartite, with additional replicons which by size and indispensability 
+are considered secondary chromosomes. This raises the questions of how their
+replication and partition is managed without compromising genome stability and of
+how such genomes arose. Vibrio cholerae, with a 1 Mb replicon in addition to its 
+3 Mb chromosome, is the only species for which maintenance of a multipartite
+genome has been investigated. In this study we have explored the more complex
+genome of Burkholderia cenocepacia (strain J2315). It comprises an extra replicon
+(c2) of 3.21 Mb, comparable in size to the3.87Mb main chromosome (c1), another
+extra replicon(c3) of 0.87 Mb and a plasmid of 0.09 Mb. The replication origin of
+c1 is typically chromosomal and those of c2 and c3 are plasmid-like; all are
+replicated bidirectionally. Fluorescence microscopy of tagged origins indicates
+that all initiate replication at mid-cell and segregate towards the cell quarter 
+positions sequentially, c1-c2-p1/c3. c2 segregation is as well-phased with the
+cell cycle as c1, implying that this plasmid-like origin has become subject to
+regulation not typical of plasmids; in contrast, c3 segregates more randomly
+through the cycle. Disruption of individual Par systems by deletion of parAB or
+by addition of parS sites showed each Par system to govern the positioning of its
+own replicon only. Inactivation of c1, c2 and c3 Par systems not only reduced
+growth rate, generated anucleate cells and compromised viability but influenced
+processes beyond replicon partition, notably regulation of replication,
+chromosome condensation and cell size determination. In particular, the absence
+of the c1 ParA protein altered replication of all three chromosomes, suggesting
+that the partition system of the main chromosome is a major participant in the
+choreography of the cell cycle.
+
+DOI: 10.1371/journal.pgen.1006172 
+PMCID: PMC4948915
+PMID: 27428258  [Indexed for MEDLINE]
+

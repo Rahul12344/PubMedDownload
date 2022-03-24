@@ -1,0 +1,70 @@
+
+1. Transbound Emerg Dis. 2021 Oct 23. doi: 10.1111/tbed.14358. [Epub ahead of print]
+
+Rethinking the uncertainty of African swine fever virus contamination in feed
+ingredients and risk of introduction into the United States.
+
+Schambow RA(1)(2), Sampedro F(2)(3), Urriola PE(2)(4), van de Ligt JLG(2), Perez 
+A(1)(2), Shurson GC(4).
+
+Author information: 
+(1)Center for Animal Health and Food Safety, College of Veterinary Medicine,
+University of Minnesota, St. Paul, Minnesota, USA.
+(2)Department of Veterinary Population Medicine, College of Veterinary Medicine, 
+University of Minnesota, St. Paul, Minnesota, USA.
+(3)Environmental Health Sciences Division, School of Public Health, University of
+Minnesota, Minneapolis, Minnesota, USA.
+(4)Department of Animal Science, College of Agricultural and Natural Resource
+Sciences, University of Minnesota, St. Paul, Minnesota, USA.
+
+Economically relevant pathogens, such as African swine fever virus (ASFV), have
+been shown to survive when experimentally inoculated in some feed ingredients
+under the environmental conditions in transoceanic transport models. However,
+these models did not characterize the likelihood of virus survival under various 
+time and temperature processes that feed ingredients undergo before they are
+added to swine diets. Here, we developed a quantitative risk assessment model to 
+estimate the probability that one or more corn or soybean meal ocean vessels
+(25,000 tonnes) contaminated with ASFV would be imported into the United States
+annually. This final probability estimate was conditionally based on five
+likelihoods: the probability of initial ASFV contamination (p0), ASFV
+inactivation during processing (p1) and transport (p2), recontamination (pR), and
+ASFV inactivation while awaiting customs clearance at United States entry (p3).
+The probability of ASFV inactivation was modelled using corn and soybean
+(extruded or solvent extracted) processing conditions (times and temperatures),
+D-values (time to reduce 90% or 1-log) estimated from studies of ASFV thermal
+inactivation in pork serum (p1), and survival in feed ingredients during
+transoceanic transport (p2 and p3). 'What-if' scenarios using deterministic
+values for p0 and pR (1%, 10%, 25%, 50%, 75%, and 100%) were used to explore
+their impact on risk. The model estimated complete inactivation of ASFV after
+extrusion or solvent extraction processes regardless of the initial ASFV
+contamination probability assumed. The value of recontamination (ranging from 1% 
+to 75%) was highly influential on the risk of one ASFV-contaminated soybean meal 
+vessel entering the United States. Median risk estimates ranged from 0.064%
+[0.006%-0.60%; 95% probability interval (PI)], assuming a pR of 1.0%, up to 4.67%
+(0.45%-36.50% 95% PI) assuming a pR of 75.0%. This means that at least one vessel
+with ASFV-contaminated soybean meal would be imported once every 1563-21 years,
+respectively. When all raw corn was assumed to be contaminated (p0 = 100%), and
+no recontamination was assumed to occur (pR = 0%), the median probability of one 
+vessel with ASFV-contaminated corn entering the United States was 2.02%
+(0.28%-9.43% 95% PI) or once every 50 years. Values of recontamination between 1%
+and 75% did not substantially change the risk of corn. Days of transport, virus
+survival during transport (D-value), and number of vessels shipped were the
+parameters most influential for increased likelihood of a vessel with
+ASFV-contaminated soybean meal or corn entering the United States. The model
+helped to identify knowledge gaps that are most influential on output values and 
+serves as a framework that could be updated and parameterized as new scientific
+information becomes available. We propose that the quantitative risk assessment
+model developed in this study can be used as a framework for estimating the risk 
+of ASFV entry into the United States and other ASFV-free countries through other 
+types of imported feed ingredients that may potentially become contaminated.
+Ultimately, this model can be used to develop risk mitigation strategies and
+critical control points for inactivating ASFV during feed ingredient processing, 
+storage, and transport, and contribute to the design and implementation of
+biosecurity measures to prevent the introduction of ASFV into the United States
+and other ASFV-free countries.
+
+© 2021 Wiley-VCH GmbH.
+
+DOI: 10.1111/tbed.14358 
+PMID: 34689419 
+

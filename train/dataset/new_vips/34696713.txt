@@ -1,0 +1,35 @@
+
+1. BMC Med Res Methodol. 2021 Oct 25;21(1):229. doi: 10.1186/s12874-021-01387-7.
+
+Inspection plan for COVID-19 patients for Weibull distribution using repetitive
+sampling under indeterminacy.
+
+Rao GS(1), Aslam M(2).
+
+Author information: 
+(1)Department of Statistics, University of Dodoma, PO. Box: 259, Dodoma,
+Tanzania.
+(2)Department of Statistics, Faculty of Science, King Abdulaziz University,
+Jeddah, 21551, Saudi Arabia. aslam_ravian@hotmail.com.
+
+BACKGROUND: This research work is elaborated investigation of COVID-19 data for
+Weibull distribution under indeterminacy using time truncated repetitive sampling
+plan. The proposed design parameters like sample size, acceptance sample number
+and rejection sample number are obtained for known indeterminacy parameter.
+METHODS: The plan parameters and corresponding tables are developed for specified
+indeterminacy parametric values. The conclusion from the outcome of the proposed 
+design is that when indeterminacy values increase the average sample number (ASN)
+reduces.
+RESULTS: The proposed repetitive sampling plan methodology application is given
+using COVID-19 data belong to Italy. The efficiency of the proposed sampling plan
+is compared with the existing sampling plans.
+CONCLUSIONS: Using the tables and COVID-19 data illustration, it is concluded
+that the proposed plan required a smaller sample size as examined with the
+available sampling plans in the literature.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12874-021-01387-7 
+PMCID: PMC8543115
+PMID: 34696713  [Indexed for MEDLINE]
+

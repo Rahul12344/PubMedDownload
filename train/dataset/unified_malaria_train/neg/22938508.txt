@@ -1,0 +1,48 @@
+
+1. genet vaccines ther. 2012 aug 31;10(1):8. doi: 10.1186/1479-0556-10-8.
+
+targeting wild-type erythrocyte receptors plasmodium falciparum vivax
+merozoites zinc finger nucleases in- silico: towards genetic vaccine against
+malaria.
+
+kajumbula h(1), byarugaba w, wayengera m.
+
+author information: 
+(1)dept medical microbiology, school biomedical science, college health 
+sciences, makerere university, p box 7072, kampala, uganda. wmisaki@yahoo.com.
+
+background: malaria causes immense human morbidity mortality globally. the
+plasmodium species vivax falciparum cause 75 % clinical malaria cases.
+until now, gene-based strategies malaria applied to
+plasmodium species mosquito-vector. merozoites two respective 
+plasmodium species target invade red blood cells (rbcs) using duffy
+antigen receptor chemokines (darc), sialic acid (slc4a1) residues 
+o-linked glycans glycophorin a. rbcs naturally selected duffy-negative
+blacks resistant p.vivax tropism. hypothesized artificial
+aberration host-pathway target mutagenesis either rbc -receptors,
+may abolish reduce susceptibility host malaria. first step
+towards experimental actualization concepts, aimed identify
+zinc finger arrays (zfas) constructing zfns target genes either
+wild-type host-rbc- receptors.
+methods: in-silico gene & genome informatics
+results: using genomic contextual nucleotide-sequences homo-sapiens darc
+and glycophorin-a, zfn-consortia software- coda-zifit-zfa and
+coda-zifit-zfn: identified 163 1,000 single zinc finger arrays
+(szfas) bind sequences within genes two respective
+rbc-receptors. second, 2 18 paired zinc finger arrays (pzfas) are
+precursors zinc finger nucleases (zfns) capable cleaving genes for
+darc glycophorin-a respectively assembled. third, mega-blast
+evaluation genome-wide cleavage specificity set zfns done, 
+revealing alternate homologous nucleotide targets human genome 
+darc glycophorin a.
+conclusions: zfns engineered zfa-precursors--with optimization
+to enhance specificity darc glycophorin-a, could used in
+constructing experimental gene-based-malaria vaccine. alternatively,
+meganucleases transcription activator-like (tal) nucleases target
+conserved stretches darc glycophorin-a dna may serve purpose of
+abrogating invasion rbcs falciparam vivax plasmodia species.
+
+doi: 10.1186/1479-0556-10-8 
+pmcid: pmc3500210
+pmid: 22938508 
+

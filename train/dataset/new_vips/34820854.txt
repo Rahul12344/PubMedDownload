@@ -1,0 +1,53 @@
+
+1. Allergy. 2021 Nov 25. doi: 10.1111/all.15189. [Epub ahead of print]
+
+Analysis of BNT162b2- and CVnCoV-elicited sera and of convalescent sera toward
+SARS-CoV-2 viruses.
+
+Hein S(1), Herrlein ML(1), Mhedhbi I(1), Bender D(1), Haberger V(1), Benz N(1),
+Eisert J(1), Stingl J(2), Dreher M(3), Oberle D(4), Schulze J(5), Mache C(5),
+Budt M(5), Hildt C(6), Wolff T(5), Hildt E(1).
+
+Author information: 
+(1)Department of Virology, Paul-Ehrlich-Institute, Langen, Germany.
+(2)Institute of Clinical Pharmacology, University Hospital of RWTH, Aachen,
+Germany.
+(3)Department of Pneumology and Intensive Care Medicine, RWTH Aachen University
+Hospital, Aachen, Germany.
+(4)Division of Pharmacovigilance, Paul-Ehrlich-Institute, Langen, Germany.
+(5)Robert-Koch-Institut, Influenza and Other Respiratory Viruses, Berlin,
+Germany.
+(6)Main-Kinzig-Kliniken, Herzbachweg, Berlin, Germany.
+
+BACKGROUND: The mRNA vaccine BNT162b2 (Comirnaty, BioNTech/Pfizer) and the
+vaccine candidate CVnCoV (Curevac) each encode a stabilized spike protein of
+SARS-CoV2 as antigen but differ with respect to the nature of the mRNA (modified 
+versus unmodified nucleotides) and the mRNA amount (30 μg versus 12 μg RNA). This
+study characterizes antisera elicited by these two vaccines in comparison to
+convalescent sera.
+METHODS: Sera from BNT162b2 vaccinated healthcare workers, and sera from
+participants of a phase I trial vaccinated with 2, 4, 6, 8, or 12 μg CVnCoV and
+convalescent sera from hospitalized patients were analyzed by ELISA,
+neutralization tests, surface plasmon resonance (SPR), and peptide arrays.
+RESULTS: BNT162b2-elicited sera and convalescent sera have a higher titer of
+spike-RBD-specific antibodies and neutralizing antibodies as compared to the
+CVnCoV-elicited sera. For all analyzed sera a reduction in binding and
+neutralizing antibodies was found for the lineage B.1.351 variant of concern. SPR
+analyses revealed that the CVnCoV-elicited sera have a lower fraction of
+slow-dissociating antibodies. Accordingly, the CVnCoV sera almost fail to compete
+with the spike-ACE2 interaction. The significance of common VOC mutations K417N, 
+E484K, or N501Y focused on linear epitopes was analyzed using a peptide array
+approach. The peptide arrays showed a strong difference between convalescent sera
+and vaccine-elicited sera. Specifically, the linear epitope at position N501 was 
+affected by the mutation and elucidates the escape of viral variants to
+antibodies against this linear epitope.
+CONCLUSION: These data reveal differences in titer, neutralizing capacity, and
+affinity of the antibodies between BNT162b2- and CVnCoV-elicited sera, which
+could contribute to the apparent differences in vaccine efficacy.
+
+© 2021 The Authors. Allergy published by European Academy of Allergy and Clinical
+Immunology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/all.15189 
+PMID: 34820854 
+

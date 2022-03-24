@@ -1,0 +1,52 @@
+
+1. J Biol Chem. 2018 Apr 27;293(17):6482-6496. doi: 10.1074/jbc.RA118.002171. Epub
+2018 Mar 7.
+
+Structural mechanism of DNA interstrand cross-link unhooking by the bacterial
+FAN1 nuclease.
+
+Jin H(1), Roy U(2), Lee G(3), Schärer OD(2)(4)(5), Cho Y(6).
+
+Author information: 
+(1)From the Department of Life Science, Pohang University of Science and
+Technology, Pohang, Kyungbook 37673, South Korea.
+(2)the Departments of Chemistry and Pharmacological Sciences, Stony Brook
+University, Stony Brook, New York 11794.
+(3)the Department of Biology, Gwangju Institute of Science and Technology,
+Gwangju 61005, South Korea.
+(4)the Center for Genomic Integrity, Institute for Basic Science, Ulsan 44919,
+South Korea, and.
+(5)the Department of Biological Sciences, School of Life Sciences, Ulsan National
+Institute of Science and Technology, Ulsan 44919, South Korea.
+(6)From the Department of Life Science, Pohang University of Science and
+Technology, Pohang, Kyungbook 37673, South Korea, yunje@postech.ac.kr.
+
+DNA interstrand cross-links (ICLs) block the progress of the replication and
+transcription machineries and can weaken chromosomal stability, resulting in
+various diseases. FANCD2-FANCI-associated nuclease (FAN1) is a conserved
+structure-specific nuclease that unhooks DNA ICLs independently of the Fanconi
+anemia pathway. Recent structural studies have proposed two different mechanistic
+features for ICL unhooking by human FAN1: a specific basic pocket that recognizes
+the terminal phosphate of a 1-nucleotide (nt) 5' flap or FAN1 dimerization.
+Herein, we show that despite lacking these features, Pseudomonas aeruginosa FAN1 
+(PaFAN1) cleaves substrates at ∼3-nt intervals and resolves ICLs. Crystal
+structures of PaFAN1 bound to various DNA substrates revealed that its conserved 
+basic Arg/Lys patch comprising Arg-228 and Lys-260 recognizes phosphate groups
+near the 5' terminus of a DNA substrate with a 1-nt flap or a nick. Substitution 
+of Lys-260 did not affect PaFAN1's initial endonuclease activity but
+significantly decreased its subsequent exonuclease activity and ICL unhooking.
+The Arg/Lys patch also interacted with phosphates at a 3-nt gap, and this
+interaction could drive movement of the scissile phosphates into the
+PaFAN1-active site. In human FAN1, the ICL-resolving activity was not affected by
+individual disruption of the Arg/Lys patch or basic pocket. However, simultaneous
+substitution of both FAN1 regions significantly reduced its ICL-resolving
+activity, suggesting that these two basic regions play a complementary role in
+ICL repair. On the basis of these findings, we propose a conserved role for two
+basic regions in FAN1 to guide ICL unhooking and to maintain genomic stability.
+
+© 2018 Jin et al.
+
+DOI: 10.1074/jbc.RA118.002171 
+PMCID: PMC5925792
+PMID: 29514982  [Indexed for MEDLINE]
+

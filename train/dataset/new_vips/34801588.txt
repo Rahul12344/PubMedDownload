@@ -1,0 +1,59 @@
+
+1. Antiviral Res. 2021 Dec;196:105209. doi: 10.1016/j.antiviral.2021.105209. Epub
+2021 Nov 18.
+
+2-((1H-indol-3-yl)thio)-N-phenyl-acetamides: SARS-CoV-2 RNA-dependent RNA
+polymerase inhibitors.
+
+Zhao J(1), Zhang G(1), Zhang Y(1), Yi D(1), Li Q(1), Ma L(1), Guo S(1), Li X(1), 
+Guo F(2), Lin R(3), Luu G(3), Liu Z(4), Wang Y(5), Cen S(6).
+
+Author information: 
+(1)Institute of Medicinal Biotechnology, Chinese Academy of Medical Science,
+Beijing, China.
+(2)Institute of Pathogen Biology, Chinese Academy of Medical Science, Beijing,
+China.
+(3)Lady Davis Institute for Medical Research, McGill University and Jewish
+General Hospital, Montreal, Quebec, Canada.
+(4)Lady Davis Institute for Medical Research, McGill University and Jewish
+General Hospital, Montreal, Quebec, Canada. Electronic address:
+zhenlong.liu@mail.mcgill.ca.
+(5)Institute of Medicinal Biotechnology, Chinese Academy of Medical Science,
+Beijing, China. Electronic address: wangyucheng@imb.pumc.edu.cn.
+(6)Institute of Medicinal Biotechnology, Chinese Academy of Medical Science,
+Beijing, China. Electronic address: shancen@imb.pumc.edu.cn.
+
+Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) is the causative
+agent of Coronavirus Disease 2019 (COVID-19) pandemic. Despite intensive and
+global efforts to discover and develop novel antiviral therapies, only Remdesivir
+has been approved as a treatment for COVID-19. Therefore, effective antiviral
+therapeutics are still urgently needed to combat and halt the pandemic. Viral
+RNA-dependent RNA polymerase (RdRp) of SARS-CoV-2 demonstrates high potential as 
+a reliable target for the development of antivirals. We previously developed a
+cell-based assay to assess the efficiency of compounds that target SARS-CoV-2
+RdRp, as well as their tolerance to viral exoribonuclease-mediated proof-reading.
+In our previous study, we discovered that
+2-((1H-indol-3-yl)thio)-N-phenyl-acetamides specifically targets the RdRp of both
+respiratory syncytial virus (RSV) and influenza A virus. Thus, we hypothesize
+that 2-((1H-indol-3-yl)thio)-N-phenyl-acetamides may also have the ability to
+inhibit SARS-CoV-2 replication by targeting its RdRp activity. In this research, 
+we test a compound library containing 103 of
+2-((1H-indol-3-yl)thio)-N-phenyl-acetamides against SARS-CoV-2 RdRp, using our
+cell-based assay. Among these compounds, the top five candidates strongly inhibit
+SARS-CoV-2 RdRp activity while exhibiting low cytotoxicity and resistance to
+viral exoribonuclease. Compound 6-72-2a is the most promising candidate with the 
+lowest EC50 value of 1.41 μM and highest selectivity index (CC50/EC50) (above
+70.92). Furthermore, our data suggests that 4-46b and 6-72-2a also inhibit the
+replication of HCoV-OC43 and HCoV-NL63 virus in a dose-dependent manner.
+Compounds 4-46b and 6-72-2a exhibit EC50 values of 1.13 μM and 0.94 μM,
+respectively, on HCoV-OC43 viral replication. However, higher concentrations of
+these compounds are needed to effectively block HCoV-NL63 replication. Together, 
+our findings successfully identified 4-46b and 6-72-2a as promising inhibitors
+against SARS-CoV-2 RdRp.
+
+Copyright © 2021 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.antiviral.2021.105209 
+PMCID: PMC8600920
+PMID: 34801588 
+

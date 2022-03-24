@@ -1,0 +1,52 @@
+
+1. proc natl acad sci u a. 2019 feb 19;116(8):3177-3182. doi:
+10.1073/pnas.1811766116. epub 2019 feb 6.
+
+dna helicase recq1 regulates mutually exclusive expression virulence genes 
+plasmodium falciparum via heterochromatin alteration.
+
+li z(1), yin s(1), sun m(1)(2), cheng x(1), wei j(1), gilbert n(1), miao j(3),
+cui l(3), huang z(4), dai x(4), jiang l(4)(2).
+
+author information: 
+(1)unit human parasite molecular cell biology, key laboratory molecular
+virology immunology, institut pasteur shanghai, university chinese
+academy sciences, chinese academy sciences, 200031 shanghai, people's
+republic china.
+(2)school life science technology, shanghaitech university, 201210
+shanghai, people's republic china.
+(3)department internal medicine, morsani college medicine, university of
+south florida, tampa, fl 33612.
+(4)unit human parasite molecular cell biology, key laboratory molecular
+virology immunology, institut pasteur shanghai, university chinese
+academy sciences, chinese academy sciences, 200031 shanghai, people's
+republic china; zhhuang@ips.ac.cn xydai@ips.ac.cn lbjiang@ips.ac.cn.
+
+the plasmodium falciparum var gene family encodes ∼60 surface antigens which
+parasites escape host immune responses via clonal expression var genes.
+however, mechanism controlling mutual exclusivity, associated with
+alterations chromatin assembly, understood. here, determined how
+expression var gene family regulated two recq dna helicase family
+members, pfrecq1 pfwrn, p. falciparum genetic manipulation, we
+found complete var repertoire silenced pfrecq1 knockout, whereas 
+their expression show noticeable changes pfwrn knocked out. more
+important, mutually exclusive expression var genes could rescued by
+complementation pfrecq1. addition, knocking either two
+helicase genes changed perinuclear cluster distribution subtelomeres and
+subtelomeric var genes. whereas deletion pfrecq1 increased heterochromatin
+mark trimethylated (h3k9me3) transcription start site (tss) var
+gene upsc1, deletion effect global distribution h3k9me3
+over gene bodies, including var genes. chip-seq assay showed that
+pfrecq1 enriched globally tsss genes, whereas pfwrn-enriched
+regions occurred gene bodies var gene family, other
+genes tsss genes. pfrecq1 deletion, upsc1 var gene moved from
+the active perinuclear transcription region silenced region upsc
+type. findings imply pfrecq1, pfwrn, essential for
+maintaining clonal expression var genes.
+
+doi: 10.1073/pnas.1811766116 
+pmcid: pmc6386683
+pmid: 30728298  [indexed medline]
+
+conflict interest statement: authors declare conflict interest.
+

@@ -1,0 +1,57 @@
+
+1. Int J Gen Med. 2021 Oct 12;14:6647-6659. doi: 10.2147/IJGM.S335162. eCollection
+2021.
+
+Construction and Investigation of Competing Endogenous RNA Networks and Candidate
+Genes Involved in SARS-CoV-2 Infection.
+
+Qi M(1), Liu B(2), Li S(1), Ni Z(1)(3)(4)(5), Li F(1)(3)(4)(5)(6).
+
+Author information: 
+(1)Department of Pathogenobiology, The Key Laboratory of Zoonosis, Chinese
+Ministry of Education, College of Basic Medicine, Jilin University, Changchun,
+Jilin, People's Republic of China.
+(2)Cardiovascular Disease Center, The First Hospital of Jilin University,
+Changchun, Jilin, People's Republic of China.
+(3)The Key Laboratory for Bionics Engineering, Ministry of Education, Jilin
+University, Changchun, Jilin, People's Republic of China.
+(4)Engineering Research Center for Medical Biomaterials of Jilin Province, Jilin 
+University, Changchun, Jilin, People's Republic of China.
+(5)Key Laboratory for Health Biomedical Materials of Jilin Province, Jilin
+University, Changchun, Jilin, People's Republic of China.
+(6)State Key Laboratory of Pathogenesis, Prevention and Treatment of High
+Incidence Diseases in Central Asia, Urumqi, Xinjiang, People's Republic of China.
+
+Introduction: The current COVID-19 pandemic caused by a novel coronavirus
+SARS-CoV-2 is a quickly developing global health crisis, yet the mechanisms of
+pathogenesis in COVID-19 are not fully understood.
+Methods: The RNA sequencing data of SARS-CoV-2-infected cells was obtained from
+the Gene Expression Omnibus (GEO). The differentially expressed mRNAs (DEmRNAs), 
+long non-coding RNAs (DElncRNAs), and microRNAs (DEmiRNAs) were identified by
+edgeR, and the SARS-CoV-2-associated competing endogenous RNA (ceRNA) network was
+constructed based on the prediction of bioinformatic databases. The Gene Ontology
+(GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment
+analyses were conducted with the SARS-CoV-2-related DEmRNAs, and the
+protein-protein interaction network was also built basing on STRING database. The
+ROC analysis was performed for assessing the diagnostic efficiency of hub genes.
+Results: The results indicated that SARS-CoV-2-related DEmRNAs were associated
+with the interferon signaling pathway and other antiviral processes, such as
+IFNL3, IFNL1 and CH25H. Our analysis suggested that lncRNA NEAT1 might regulate
+the host immune response through two miRNAs, hsa-miR-374-5p and hsa-miR-155-5p,
+which control the expression of SOCS1, IL6, IL1B, CSF1R, CD274, TLR6, and TNF.
+Additionally, IFI6, HRASLS2, IGFBP4 and PTN may be potential targets based on an 
+analysis comparing the transcriptional responses of SARS-CoV-2 infection with
+that of other respiratory viruses.
+Discussion: The unique ceRNA network identified potential non-coding RNAs and
+their possible targets as well as a new perspective to understand the molecular
+mechanisms of the host immune response to SARS-CoV-2. This study may also aid in 
+the development of innovative diagnostic and therapeutic strategies.
+
+© 2021 Qi et al.
+
+DOI: 10.2147/IJGM.S335162 
+PMCID: PMC8520483
+PMID: 34675627 
+
+Conflict of interest statement: The authors declare no competing interests.
+

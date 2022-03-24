@@ -1,0 +1,34 @@
+
+1. Methods Mol Biol. 2013;1005:39-52. doi: 10.1007/978-1-62703-386-2_4.
+
+Global protein quantification of mouse heart tissue based on the SILAC mouse.
+
+Konzer A(1), Ruhs A, Braun T, Krüger M.
+
+Author information: 
+(1)Biomolecular Mass Spectrometry, Max-Planck-Institute for Heart and Lung
+Research, Bad Nauheim, Germany.
+
+Metabolic labeling of living organisms with stable isotopes has become a powerful
+tool for global protein quantitation. The SILAC (stable isotope labeling with
+amino acids in cell culture) approach is based on the incorporation of
+nonradioactive-labeled isotopic forms of amino acids into cellular proteins. The 
+effective SILAC labeling of immortalized cells and single-cell organisms (e.g.,
+yeast and bacteria) was recently extended to more complex organisms, including
+worms, flies, and even rodents. The administration of a (13)C6-lysine (heavy)
+containing diet for one mouse generation leads to a complete exchange of the
+natural (light) isotope (12)C6-lysine. SILAC-labeled organisms are mainly used as
+a heavy "spike-in" standard into nonlabeled counterparts, and the combination
+with high-performance mass spectrometers allows for global proteomic screening.
+Here we used the fully labeled SILAC mice to identify proteins based on SILAC
+pairs from isolated cardiomyocytes, and we analyzed β-parvin-deficient hearts.
+Our approach confirmed the absence β-parvin and revealed simultaneously a clear
+up regulation of α-parvin in heart tissue. In this protocol, we describe the
+generation of a SILAC mouse colony and show two approaches to perform a
+proteome-wide analysis of heart tissue. Thus, the SILAC mouse spike-in approach
+is a readily available procedure and allows for a straightforward systematic
+analysis of disease models and knockout mice.
+
+DOI: 10.1007/978-1-62703-386-2_4 
+PMID: 23606247  [Indexed for MEDLINE]
+

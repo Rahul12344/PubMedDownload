@@ -1,0 +1,42 @@
+
+1. Sci Data. 2021 Nov 30;8(1):310. doi: 10.1038/s41597-021-01093-5.
+
+COVID-19 Flow-Maps an open geographic information system on COVID-19 and human
+mobility for Spain.
+
+Ponce-de-Leon M(#)(1), Del Valle J(#)(2), Fernandez JM(2), Bernardo M(2), Cirillo
+D(2), Sanchez-Valle J(2), Smith M(2), Capella-Gutierrez S(2), Gullón T(3),
+Valencia A(4)(5).
+
+Author information: 
+(1)Barcelona Supercomputing Center (BSC), Barcelona, Spain. miguel.ponce@bsc.es.
+(2)Barcelona Supercomputing Center (BSC), Barcelona, Spain.
+(3)Ministerio de Transportes, Movilidad y Agenda Urbana, Madrid, 28046, Spain.
+(4)Barcelona Supercomputing Center (BSC), Barcelona, Spain.
+alfonso.valencia@bsc.es.
+(5)ICREA, Pg. Lluís Companys 23, 08010, Barcelona, Spain.
+alfonso.valencia@bsc.es.
+(#)Contributed equally
+
+COVID-19 is an infectious disease caused by the SARS-CoV-2 virus, which has
+spread all over the world leading to a global pandemic. The fast progression of
+COVID-19 has been mainly related to the high contagion rate of the virus and the 
+worldwide mobility of humans. In the absence of pharmacological therapies,
+governments from different countries have introduced several non-pharmaceutical
+interventions to reduce human mobility and social contact. Several studies based 
+on Anonymized Mobile Phone Data have been published analysing the relationship
+between human mobility and the spread of coronavirus. However, to our knowledge, 
+none of these data-sets integrates cross-referenced geo-localised data on human
+mobility and COVID-19 cases into one all-inclusive open resource. Herein we
+present COVID-19 Flow-Maps, a cross-referenced Geographic Information System that
+integrates regularly updated time-series accounting for population mobility and
+daily reports of COVID-19 cases in Spain at different scales of time spatial
+resolution. This integrated and up-to-date data-set can be used to analyse the
+human dynamics to guide and support the design of more effective
+non-pharmaceutical interventions.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41597-021-01093-5 
+PMID: 34848723 
+

@@ -1,0 +1,60 @@
+
+1. Ecotoxicol Environ Saf. 2019 May 15;172:556-565. doi:
+10.1016/j.ecoenv.2018.12.076. Epub 2019 Feb 15.
+
+Toxicity profiling of 24 l-phenylalanine derived ionic liquids based on
+pyridinium, imidazolium and cholinium cations and varying alkyl chains using
+rapid screening Vibrio fischeri bioassay.
+
+Kusumahastuti DKA(1), Sihtmäe M(2), Kapitanov IV(3), Karpichev Y(3), Gathergood
+N(4), Kahru A(5).
+
+Author information: 
+(1)ERA Chair of Green Chemistry, Department of Chemistry and Biotechnology,
+Tallinn University of Technology, Tallinn 12618, Estonia; Laboratory of
+Environmental Toxicology, National Institute of Chemical Physics and Biophysics, 
+Tallinn 12618, Estonia; Department of Chemistry, Satya Wacana Christian
+University, Salatiga 50711, Indonesia.
+(2)Laboratory of Environmental Toxicology, National Institute of Chemical Physics
+and Biophysics, Tallinn 12618, Estonia.
+(3)ERA Chair of Green Chemistry, Department of Chemistry and Biotechnology,
+Tallinn University of Technology, Tallinn 12618, Estonia.
+(4)ERA Chair of Green Chemistry, Department of Chemistry and Biotechnology,
+Tallinn University of Technology, Tallinn 12618, Estonia. Electronic address:
+nicholas.gathergood@ttu.ee.
+(5)Laboratory of Environmental Toxicology, National Institute of Chemical Physics
+and Biophysics, Tallinn 12618, Estonia; Estonian Academy of Sciences, Kohtu 6,
+Tallinn 10130, Estonia. Electronic address: anne.kahru@kbfi.ee.
+
+A library of 24 pyridinium-, imidazolium-, and cholinium-based ionic liquids
+(ILs) with varying alkyl chain from C2 to C16 was toxicologically profiled using 
+naturally luminescent marine bacteria Vibrio fischeri. The toxicity (30-min EC50)
+of studied ILs to Vibrio fischeri ranged from 7.82 µM (4.2 mg/L) (PyC12Phe) to
+3096 µM (1227 mg/L) (ImidC2Phe), i.e. from "toxic" (EC50 1-10 mg/L) to "not
+harmful" (EC50 > 100 mg/L). Inhibition of the bacterial luminescence upon 30-min 
+exposure to ILs correlated well with bacterial viability (exposure for 4 h). The 
+toxicity of studied ILs was largely driven by the length of the alkyl chain
+(hydrophobicity) and not the type of cationic part of the IL: starting from C10
+all the ILs irrespective of the cationic part proved "toxic". The toxicity of the
+studied ILs was increasing in parallel to their hydrophobicity up to log Kow = 1 
+(C8-C10) and then levelling up, being consistent with the previously obtained
+analogous data sets. The "cut-off" effect reported in this study for longer chain
+length members of the ILs series leads to the "limit" toxicity level for this
+type of ILs to be ca. 8 mM. Two open-access online tools (www.molinspiration.com 
+and www.vcclab.org) have been applied for the calculation of the Kow values for
+the 24 ILs reported in this study and 21 ILs reported in the literature. This
+lead to plotting two nonlinear monotonic correlations between the values of
+experimental log (1/EC50) and calculated log Kow. The limitation of the online
+tools and an effect of the ILs structure on the "cut-off" effect have been
+discussed. The challenge of developing low microbial toxicity surface active ILs 
+remains a significant task to overcome. Our results shed light on the new
+approaches for designing environmentally benign ILs and functional surfactants.
+As the hydrophobicity of the ILs significantly correlated with the toxicity, the 
+Vibrio fischeri assay could be considered a powerful tool in providing toxicity
+data for building and evaluating the QSAR toxicity models for ILs.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ecoenv.2018.12.076 
+PMID: 30776578  [Indexed for MEDLINE]
+

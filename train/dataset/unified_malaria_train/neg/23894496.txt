@@ -1,0 +1,45 @@
+
+1. plos one. 2013 jul 24;8(7):e69505. doi: 10.1371/journal.pone.0069505. print 2013.
+
+nonlinear mixed-effects modelling vitro drug susceptibility molecular
+correlates multidrug resistant plasmodium falciparum.
+
+simpson ja(1), jamsen km, anderson tj, zaloumis s, nair s, woodrow c, white nj,
+nosten f, price rn.
+
+author information: 
+(1)centre molecular, environmental, genetic & analytic epidemiology,
+melbourne school population global health, university melbourne,
+melbourne, australia. julieas@unimelb.edu.au
+
+the analysis vitro anti-malarial drug susceptibility testing vulnerable 
+to effects different statistical approaches selection biases. these
+confounding factors assessed respect pfmdr1 gene mutation and
+amplification 490 clinical isolates. two statistical approaches estimating
+the drug concentration associated 50% effect (ec50 ) compared: the
+commonly used standard two-stage (sts) method, nonlinear mixed-effects
+modelling. vitro concentration-effect relationships for, chloroquine,
+mefloquine, lumefantrine artesunate, derived clinical isolates
+obtained patients western border thailand. isolates were
+genotyped polymorphisms pfmdr1 gene. ec50 estimates similar
+for two statistical approaches 15-28% isolates sts method a
+high coefficient variation (>15%) individual estimates ec50 these
+isolates ec50 values 32 66% higher isolates derived with
+more precision. total 41% (202/490) isolates amplification pfmdr1
+and single nucleotide polymorphisms found 50 (10%). pfmdr1 amplification 
+was associated increase ec50 mefloquine (139% relative increase in
+ec50 2 copies, 188% 3+ copies), lumefantrine (82% 75% 2 3+
+copies respectively) artesunate (63% 127% 2 3+ copies
+respectively). contrast pfmdr1 mutation codons 86 1042 associated
+with increase chloroquine ec50 (44-48%). sample size calculations showed
+that demonstrate ec50 shift 50% 80% power prevalence
+was 10% would require 430 isolates 245 isolates prevalence 20%. in
+conclusion, although nonlinear mixed-effects modelling demonstrate any
+major advantage determining estimates anti-malarial drug susceptibility,
+the method includes isolates, thereby, potentially improving confirmation 
+candidate molecular markers anti-malarial drug susceptibility.
+
+doi: 10.1371/journal.pone.0069505 
+pmcid: pmc3722116
+pmid: 23894496  [indexed medline]
+

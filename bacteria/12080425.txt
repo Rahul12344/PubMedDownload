@@ -1,0 +1,29 @@
+
+1. J Ind Microbiol Biotechnol. 2002 Jul;29(1):34-7.
+
+Modulation of gene expression from the arabinose-inducible araBAD promoter.
+
+Khlebnikov A(1), Skaug T, Keasling JD.
+
+Author information: 
+(1)Department of Chemical Engineering, University of California, Berkeley, CA
+94720-1462, USA.
+
+The arabinose-inducible P(BAD) promoter suffers from all-or-none gene expression 
+in which cells harboring the natively controlled arabinose transport gene (araE) 
+are either induced or uninduced, the relative fraction of which is controlled by 
+the concentration of arabinose. The population-averaged variation in expression
+from P(BAD) as a function of inducer concentration is proportional to the
+percentage of cells that are fully induced (vs. uninduced) rather than the level 
+of expression in individual cells. Because of its undesirable effects on the
+expression of heterologous genes, the all-or-none phenomenon was eliminated in
+Escherichia coli by expression of araE from arabinose-independent (either the
+Lactococcus lactis constitutive or IPTG-inducible lac) promoters. In these
+arabinose-transport engineered cells, variation in P(BAD) expression with
+arabinose concentration was a result of variation of the expression level in
+individual cells with all cells in the population having approximately the same
+induction level.
+
+DOI: 10.1038/sj.jim.7000259 
+PMID: 12080425  [Indexed for MEDLINE]
+

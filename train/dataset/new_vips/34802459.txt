@@ -1,0 +1,47 @@
+
+1. Stem Cell Res Ther. 2021 Nov 21;12(1):580. doi: 10.1186/s13287-021-02648-4.
+
+Targeted integration of EpCAM-specific CAR in human induced pluripotent stem
+cells and their differentiation into NK cells.
+
+Tang SY(1)(2), Zha S(1), Du Z(1), Zeng J(2), Zhu D(3), Luo Y(3), Wang S(4).
+
+Author information: 
+(1)Department of Biological Sciences, National University of Singapore, 14
+Science Drive 4, Singapore, 117543, Singapore.
+(2)Institute of Bioengineering and Nanotechnology, Singapore, 138669, Singapore.
+(3)Key Laboratory for Major Obstetric Diseases of Guangdong Province, The Third
+Affiliated Hospital of Guangzhou Medical University, Guangzhou, 510150,
+Guangdong, China.
+(4)Department of Biological Sciences, National University of Singapore, 14
+Science Drive 4, Singapore, 117543, Singapore. dbsws@nus.edu.sg.
+
+BACKGROUND: Redirection of natural killer (NK) cells with chimeric antigen
+receptors (CAR) is attractive in developing off-the-shelf CAR therapeutics for
+cancer treatment. However, the site-specific integration of a CAR gene into NK
+cells remains challenging.
+METHODS: In the present study, we genetically modified human induced pluripotent 
+stem cells (iPSCs) with a zinc finger nuclease (ZFN) technology to introduce a
+cDNA encoding an anti-EpCAM CAR into the adeno-associated virus integration site 
+1, a "safe harbour" for transgene insertion into human genome, and next
+differentiated the modified iPSCs into CAR-expressing iNK cells.
+RESULTS: We detected the targeted integration in 4 out of 5 selected iPSC clones,
+3 of which were biallelically modified. Southern blotting analysis revealed no
+random integration events. iNK cells were successfully derived from the modified 
+iPSCs with a 47-day protocol, which were morphologically similar to peripheral
+blood NK cells, displayed NK phenotype (CD56+CD3-), and expressed NK receptors.
+The CAR expression of the iPSC-derived NK cells was confirmed with RT-PCR and
+flow cytometry analysis. In vitro cytotoxicity assay further confirmed their
+lytic activity against NK cell-resistant, EpCAM-positive cancer cells, but not to
+EpCAM-positive normal cells, demonstrating the retained tolerability of the
+CAR-iNK cells towards normal cells.
+CONCLUSION: Looking ahead, the modified iPSCs generated in the current study hold
+a great potential as a practically unlimited source to generate anti-EpCAM CAR
+iNK cells.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s13287-021-02648-4 
+PMCID: PMC8607711
+PMID: 34802459 
+

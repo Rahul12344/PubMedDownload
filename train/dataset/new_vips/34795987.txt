@@ -1,0 +1,57 @@
+
+1. Sovrem Tekhnologii Med. 2021;12(4):6-11. doi: 10.17691/stm2020.12.4.01. Epub 2020
+Aug 27.
+
+Modernization of Regression Models to Predict the Number of Deaths from the New
+Coronavirus Infection.
+
+Karyakin NN(1), Saperkin NV(2), Bavrina AP(3), Drugova OV(3), Klimko VI(4),
+Blagonravova AS(5), Kovalishena ОV(6).
+
+Author information: 
+(1)Rector; Privolozhsky Research Medical University, 10/1 Minin and Pozharsky
+Square, Nizhny Novgorod, 603005, Russia.
+(2)Associate Professor, Department of Epidemiology, Microbiology and
+Evidence-Based Medicine; Privolozhsky Research Medical University, 10/1 Minin and
+Pozharsky Square, Nizhny Novgorod, 603005, Russia.
+(3)Associate Professor, Department of Medical Physics and Informatics;
+Privolozhsky Research Medical University, 10/1 Minin and Pozharsky Square, Nizhny
+Novgorod, 603005, Russia.
+(4)Chief Specialist; GC "MedInvestGroup", 27 Alexander Solzhenitsyn St., Moscow, 
+109004, Russia.
+(5)Vice-Rector for Science; Privolozhsky Research Medical University, 10/1 Minin 
+and Pozharsky Square, Nizhny Novgorod, 603005, Russia.
+(6)Professor, Head of Department of Epidemiology, Microbiology and Evidence-Based
+Medicine Privolozhsky Research Medical University, 10/1 Minin and Pozharsky
+Square, Nizhny Novgorod, 603005, Russia.
+
+The aim of the study was to modernize the existing prognostic regression models
+in the context of expanding knowledge about the new coronavirus
+infection.Materials and Methods: The modification of models and the increase in
+their predictive ability are based on collecting the available data from
+international and Russian databases. We calculated the traditional descriptive
+statistics and used the linear regression analysis for modeling. The work was
+performed using the IBM SPSS Statistics 26.0 and the R 3.6.0 (RStudio) software.
+Results: Manifestations of the COVID-19 epidemic process in several countries
+were studied; special attention was put to the number of deaths associated with
+the infection. A significant proportion of severe cases were noted among patients
+both in Russia and elsewhere. Considering that the disease incidence has reached 
+its peak in China and Italy, we were able to improve the previously published
+(Sovremennye tehnologii v medicine 2020, Vol. 12, No.2) regression models and to 
+compare their performance. The first modified model is based on the absolute
+increase in new cases of the infection: its regression coefficient is 0.16 (95%
+CI 0.137-0.181). In the extended version of the updated model, we additionally
+considered cases of aggravated COVID-19: the regression coefficients were 0.128
+(95% CI 0.103-0.153) for model 2 and 0.053 (95% CI 0.029-0.077) for model 1.1;
+p=0.0001.
+Conclusion: Based on the most recent data (from January to May 2020) on the
+incidence of COVID-19 in the world, we have developed more specific versions of
+the basic and extended regression models of lethal outcomes. The resulting models
+are optimized and extrapolated to the current epidemiological situation; they
+will allow us to improve our analytical approach. For that purpose, data
+collection is currently ongoing.
+
+DOI: 10.17691/stm2020.12.4.01 
+PMCID: PMC8596278
+PMID: 34795987  [Indexed for MEDLINE]
+

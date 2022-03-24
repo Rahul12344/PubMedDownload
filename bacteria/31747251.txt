@@ -1,0 +1,43 @@
+
+1. ACS Nano. 2019 Dec 24;13(12):14274-14282. doi: 10.1021/acsnano.9b07486. Epub 2019
+Dec 9.
+
+Pair Correlation Analysis Maps the Dynamic Two-Dimensional Organization of
+Natural Killer Cell Receptors at the Synapse.
+
+Hedde PN(1)(2), Staaf E(3), Singh SB(3), Johansson S(3), Gratton E(1).
+
+Author information: 
+(1)Laboratory for Fluorescence Dynamics , University of California Irvine ,
+Irvine , California 92697 , United States.
+(2)Department of Cell and Molecular Biology, John A. Burns School of Medicine ,
+University of Hawaii , Honolulu , Hawaii 96813 , United States.
+(3)Department of Microbiology, Tumor and Cell Biology , Karolinska Institutet ,
+Stockholm 17177 , Sweden.
+
+In living systems, the contact between cells is the basis of recognition,
+differentiation, and orchestration of an immune response. Obstacles and barriers 
+to biomolecular motion, especially for receptors at cellular synapses, critically
+control these functions by creating an anisotropic environment. Whereas
+conventional fluorescence fluctuation methods, such as fluorescence correlation
+spectroscopy or fluorescence recovery after photobleaching, can only measure the 
+isotropic diffusion of molecules, the two-dimensional pair correlation function
+(2D-pCF) approach probes the anisotropic paths at different spatial locations
+within an image, allowing the creation of high-resolution maps that can visualize
+and quantify how molecules move in a living cell. In this work, we show how the
+2D-pCF method maps the environment in cellular synapses as perceived by natural
+killer (NK) cell receptors. In cultured human HLA null 721.221 cells, 2D-pCF
+reveals the motion of inhibitory receptor HLA-Cw4-YFP coexpressed with KIR3DL1 to
+be highly directional around specific loci, while these restrictions were absent 
+in the case of HLA-B51-YFP coexpressed with KIR2DL1. Further, in freshly isolated
+educated (H-2Dd) and uneducated (MHC-/-) primary murine NK cells, the 2D-pCF
+method shows significant differences in the paths taken by activating receptor
+NKp46 and inhibitory receptor Ly49A in educated compared to uneducated cells.
+Altogether, we demonstrate that the 2D-pCF method is very powerful in informing
+about the spatial organization of motion in cells. Our data support the
+hypothesis that flexibility in the spatial arrangement of membrane receptors,
+that is, the absence of barriers, is crucial for NK cell function.
+
+DOI: 10.1021/acsnano.9b07486 
+PMID: 31747251  [Indexed for MEDLINE]
+

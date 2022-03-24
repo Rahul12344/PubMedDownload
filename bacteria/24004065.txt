@@ -1,0 +1,40 @@
+
+1. Biochemistry. 2013 Oct 1;52(39):6834-43. doi: 10.1021/bi4006545. Epub 2013 Sep
+19.
+
+The transfer of reduced flavin mononucleotide from LuxG oxidoreductase to
+luciferase occurs via free diffusion.
+
+Tinikul R(1), Pitsawong W, Sucharitakul J, Nijvipakul S, Ballou DP, Chaiyen P.
+
+Author information: 
+(1)Mahidol University , Nakhonsawan Campus, Nakhonsawan 60130, Thailand.
+
+Bacterial luciferase (LuxAB) is a two-component flavin mononucleotide
+(FMN)-dependent monooxygenase that catalyzes the oxidation of reduced FMN
+(FMNH(-)) and a long-chain aliphatic aldehyde by molecular oxygen to generate
+oxidized FMN, the corresponding aliphatic carboxylic acid, and concomitant
+emission of light. The LuxAB reaction requires a flavin reductase to generate
+FMNH(-) to serve as a luciferin in its reaction. However, FMNH(-) is unstable and
+can react with oxygen to generate H2O2, so that it is important to transfer it
+efficiently to LuxAB. Recently, LuxG has been identified as a NADH:FMN
+oxidoreductase that supplies FMNH(-) to luciferase in vivo. In this report, the
+mode of transfer of FMNH(-) between LuxG from Photobacterium leiognathi TH1 and
+LuxABs from both P. leiognathi TH1 and Vibrio campbellii (PlLuxAB and VcLuxAB,
+respectively) was investigated using single-mixing and double-mixing stopped-flow
+spectrophotometry. The oxygenase component of p-hydroxyphenylacetate hydroxylase 
+(C2) from Acinetobacter baumannii, which has no structural similarity to LuxAB,
+was used to measure the kinetics of release of FMNH(-) from LuxG. With all
+FMNH(-) acceptors used (C2, PlLuxAB, and VcLuxAB), the kinetics of FMN reduction 
+on LuxG were the same, showing that LuxG releases FMNH(-) with a rate constant of
+4.5-6 s(-1). Our data showed that the kinetics of binding of FMNH(-)to PlLuxAB
+and VcLuxAB and the subsequent reactions with oxygen were the same with either
+free FMNH(-) or FMNH(-) generated in situ by LuxG. These results strongly suggest
+that no complexes between LuxG and the various species are necessary to transfer 
+FMNH(-) to the acceptors. The kinetics of the overall reactions and the
+individual rate constants correlate well with a free diffusion model for the
+transfer of FMNH(-) from LuxG to either LuxAB.
+
+DOI: 10.1021/bi4006545 
+PMID: 24004065  [Indexed for MEDLINE]
+

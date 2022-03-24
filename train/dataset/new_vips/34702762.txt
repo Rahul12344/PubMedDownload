@@ -1,0 +1,46 @@
+
+1. Immunohorizons. 2021 Oct 26;5(10):855-869. doi: 10.4049/immunohorizons.2100088.
+
+Type I IFN-Driven Immune Cell Dysregulation in Rat Autoimmune Diabetes.
+
+Qaisar N(1)(2), Arowosegbe A(1)(2), Derr AG(2)(3), Kucukural A(3), Satish
+B(1)(2), Racicot R(1), Guo Z(1), Trombly MI(1), Wang JP(4)(2).
+
+Author information: 
+(1)Department of Medicine, University of Massachusetts Medical School, Worcester,
+MA.
+(2)Diabetes Center of Excellence, University of Massachusetts Medical School,
+Worcester, MA; and.
+(3)Department of Bioinformatics and Integrative Biology, University of
+Massachusetts Medical School, Worcester, MA.
+(4)Department of Medicine, University of Massachusetts Medical School, Worcester,
+MA; jennifer.wang@umassmed.edu.
+
+Type 1 diabetes is a chronic autoimmune disease, characterized by the
+immune-mediated destruction of insulin-producing β cells of pancreatic islets.
+Essential components of the innate immune antiviral response, including type I
+IFN and IFN receptor (IFNAR)-mediated signaling pathways, likely contribute to
+human type 1 diabetes susceptibility. We previously showed that LEW.1WR1 Ifnar1
+-/- rats have a significant reduction in diabetes frequency following Kilham rat 
+virus (KRV) infection. To delineate the impact of IFNAR loss on immune cell
+populations in KRV-induced diabetes, we performed flow cytometric analysis in
+spleens from LEW.1WR1 wild-type (WT) and Ifnar1 -/- rats after viral infection
+but before the onset of insulitis and diabetes. We found a relative decrease in
+CD8+ T cells and NK cells in KRV-infected LEW.1WR1 Ifnar1 -/- rats compared with 
+KRV-infected WT rats; splenic regulatory T cells were diminished in WT but not
+Ifnar1 -/- rats. In contrast, splenic neutrophils were increased in KRV-infected 
+Ifnar1 -/- rats compared with KRV-infected WT rats. Transcriptional analysis of
+splenic cells from KRV-infected rats confirmed a reduction in IFN-stimulated
+genes in Ifnar1 -/- compared with WT rats and revealed an increase in transcripts
+related to neutrophil chemotaxis and MHC class II. Single-cell RNA sequencing
+confirmed that MHC class II transcripts are increased in monocytes and
+macrophages and that numerous types of splenic cells harbor KRV. Collectively,
+these findings identify dynamic shifts in innate and adaptive immune cells
+following IFNAR disruption in a rat model of autoimmune diabetes, providing
+insights toward the role of type I IFNs in autoimmunity.
+
+Copyright © 2021 The Authors.
+
+DOI: 10.4049/immunohorizons.2100088 
+PMID: 34702762 
+

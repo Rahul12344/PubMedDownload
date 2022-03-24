@@ -1,0 +1,52 @@
+
+1. bmc genomics. 2017 oct 11;18(1):770. doi: 10.1186/s12864-017-4144-1.
+
+deciphering olfactory repertoire tiger mosquito aedes albopictus.
+
+lombardo f(1), salvemini m(2), fiorillo c(3), nolan t(4), zwiebel lj(5), ribeiro 
+jm(6), arcà b(3).
+
+author information: 
+(1)department public health infectious diseases, division parasitology,
+sapienza university rome, rome, italy. fabrizio.lombardo@uniroma1.it.
+(2)department biology, university naples federico ii, naples, italy.
+(3)department public health infectious diseases, division parasitology,
+sapienza university rome, rome, italy.
+(4)department life sciences, imperial college london, london, uk.
+(5)department biological sciences, vanderbilt university, nashville, tn, usa.
+(6)niaid, laboratory malaria vector research, nih, rockville, 20852, md,
+usa.
+
+background: asian tiger mosquito aedes albopictus highly invasive
+species competent vector several arboviruses (e.g. dengue, chikungunya,
+zika) parasites (e.g. dirofilaria) public health importance. compared to
+other mosquito species, ae. albopictus females exhibit generalist host seeking 
+as well aggressive biting behaviour responsible high
+degree nuisance. several complex mosquito behaviours host seeking,
+feeding, mating oviposition rely olfactory stimuli target range of
+sensory neurons localized mainly specialized head appendages antennae,
+maxillary palps mouthparts.
+results: aim describe ae. albopictus olfactory repertoire have
+used rna-seq reveal transcriptome profiles female antennae and
+maxillary palps. male heads whole female bodies employed reference
+for differential expression analysis. relative transcript abundance within
+each tissue (tpm, transcripts per kilobase per million) pairwise
+differential abundance different tissues (fold change values false
+discovery rates) evaluated. contigs upregulated antennae (620) and
+maxillary palps (268) identified relative go pfam enrichment
+profiles analysed. chemosensory genes described: overall, 77 odorant binding
+proteins (obp), 82 odorant receptors (or), 60 ionotropic receptors (ir) 30
+gustatory receptors (gr) identified comparative genomics and
+transcriptomics. addition, orthologs genes expressed female/male
+maxillary palps and/or antennae involved thermosensation (e.g. pyrexia and
+arrestin1), mechanosensation (e.g. piezo painless) neuromodulation were
+classified.
+conclusions: provide first detailed transcriptome main ae.
+albopictus sensory appendages, i.e. antennae maxillary palps. deeper
+knowledge olfactory repertoire tiger mosquito help better
+understand biology may pave way design new attractants/repellents.
+
+doi: 10.1186/s12864-017-4144-1 
+pmcid: pmc5637092
+pmid: 29020917  [indexed medline]
+

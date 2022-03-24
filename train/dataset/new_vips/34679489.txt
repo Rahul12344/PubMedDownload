@@ -1,0 +1,37 @@
+
+1. Diagnostics (Basel). 2021 Sep 28;11(10). pii: 1788. doi:
+10.3390/diagnostics11101788.
+
+Fast SARS-CoV-2 Variant Detection Using Snapback Primer High-Resolution Melting.
+
+Lownik JC(1)(2), Farrar JS(2), Way GW(2), McKay A(3), Roychoudhury P(3),
+Greninger AL(3), Martin RK(4).
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, Cedars-Sinai Medical Center, 
+Los Angeles, CA 90048, USA.
+(2)Center for Clinical and Translation Research, Virginia Commonwealth
+University, Richmond, VA 23298, USA.
+(3)Department of Laboratory Medicine and Pathology, University of Washington
+Medical Center, Seattle, WA 98102, USA.
+(4)Department of Microbiology and Immunology, Virginia Commonwealth University,
+Richmond, VA 23298, USA.
+
+SARS-CoV-2, the virus responsible for COVID-19, emerged in late 2019 and has
+since spread throughout the world, infecting over 200 million people. The fast
+spread of SARS-CoV-2 showcased the need for rapid and sensitive testing
+methodologies to help track the disease. Over the past 18 months, numerous
+SARS-CoV-2 variants have emerged. Many of these variants are suggested to be more
+transmissible as well as less responsive to neutralization by vaccine-induced
+antibodies. Viral whole-genome sequencing is the current standard for tracking
+these variants. However, whole-genome sequencing is costly and the technology and
+expertise are limited to larger reference laboratories. Here, we present the
+feasibility of a fast, inexpensive methodology using snapback primer-based
+high-resolution melting to test for >20 high-consequence SARS-CoV-2 spike
+mutations. This assay can distinguish between multiple variant lineages and be
+completed in roughly 2 h for less than $10 per sample.
+
+DOI: 10.3390/diagnostics11101788 
+PMCID: PMC8534650
+PMID: 34679489 
+

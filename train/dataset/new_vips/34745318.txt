@@ -1,0 +1,48 @@
+
+1. Biomed Signal Process Control. 2021 Nov 1:103263. doi:
+10.1016/j.bspc.2021.103263. [Epub ahead of print]
+
+COVID-19 Diagnosis from Routine Blood Tests using Artificial Intelligence
+Techniques.
+
+Babaei Rikan S(1), Sorayaie Azar A(1), Ghafari A(2), Bagherzadeh Mohasefi J(1),
+Pirnejad H(3)(4).
+
+Author information: 
+(1)Department of Computer Engineering, Urmia University, Urmia, Iran.
+(2)Medical Physics and Biomedical Engineering Department, Medical Faculty, Tehran
+University of Medical Sciences, Tehran, Iran.
+(3)Patient Safety Research Center, Clinical Research Institute, Urmia University 
+of Medical Sciences, Urmia, Iran.
+(4)Erasmus School of Health Policy & Management (ESHPM), Erasmus University
+Rotterdam, Rotterdam, The Netherlands.
+
+Coronavirus disease (COVID-19) is a unique worldwide pandemic. With new mutations
+of the virus with higher transmission rates, it is imperative to diagnose
+positive cases as quickly and accurately as possible. Therefore, a fast,
+accurate, and automatic system for COVID-19 diagnosis can be very useful for
+clinicians. In this study, seven machine learning and four deep learning models
+were presented to diagnose positive cases of COVID-19 from three routine
+laboratory blood tests datasets. Three correlation coefficient methods, i.e.,
+Pearson, Spearman, and Kendall, were used to demonstrate the relevance among
+samples. A four-fold cross-validation method was used to train, validate, and
+test the proposed models. In all three datasets, the proposed deep neural network
+(DNN) model achieved the highest values of accuracy, precision, recall or
+sensitivity, specificity, F1-Score, AUC, and MCC. On average, accuracy 92.11%,
+specificity 84.56%, and AUC 92.20% values have been obtained in the first
+dataset. In the second dataset, on average, accuracy 93.16%, specificity 93.02%, 
+and AUC 93.20% values have been obtained. Finally, in the third dataset, on
+average, the values of accuracy 92.5%, specificity 85%, and AUC 92.20% have been 
+obtained. In this study, we used a statistical t-test to validate the results.
+Finally, using artificial intelligence interpretation methods, important and
+impactful features in the developed model were presented. The proposed DNN model 
+can be used as a supplementary tool for diagnosing COVID-19, which can quickly
+provide clinicians with highly accurate diagnoses of positive cases in a timely
+manner.
+
+© 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.bspc.2021.103263 
+PMCID: PMC8559794
+PMID: 34745318 
+

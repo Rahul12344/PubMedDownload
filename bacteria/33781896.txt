@@ -1,0 +1,51 @@
+
+1. J Struct Biol. 2021 Mar 26:107730. doi: 10.1016/j.jsb.2021.107730. [Epub ahead of
+print]
+
+Resolving the activation mechanism of the D99N antiterminator LicT protein.
+
+Yang Y(1), Gracy J(1), Declerck N(2), Déméné H(3).
+
+Author information: 
+(1)Centre de Biochimie Structurale, CNRS, INSERM, Université de Montpellier, 29
+rue de Navacelles, 34090 Montpellier, France.
+(2)Centre de Biochimie Structurale, CNRS, INSERM, Université de Montpellier, 29
+rue de Navacelles, 34090 Montpellier, France; INRAE, département MICA, 78352
+Jouy-en-Josas, France.
+(3)Centre de Biochimie Structurale, CNRS, INSERM, Université de Montpellier, 29
+rue de Navacelles, 34090 Montpellier, France. Electronic address:
+helene.demene@cbs.cnrs.fr.
+
+LicT is an antiterminator protein of the BglG family whose members are key
+players in the control of carbohydrate catabolism in bacteria. These
+antiterminators are generally composed of three modules, an N-terminal
+RNA-binding domain (CAT) followed by two homologous regulation modules (PRD1 and 
+PRD2) that control the RNA binding activity of the effector domain via
+phosphorylation on conserved histidines. Although several structures of isolated 
+domains of BglG-like proteins have been described, no structure containing CAT
+and at least one PRD simultaneously has yet been reported in an active state,
+precluding detailed understanding of signal transduction between modules. To
+fulfill this gap, we recently reported the complete NMR sequence assignment of a 
+constitutively active mutant (D99N) CAT-PRD1*, which contains the effector domain
+and the first regulation domain of LicT. As a follow-up, we have determined and
+report here the 3D solution structure of this active, dimeric LicT construct (40 
+kDa). The structure reveals how the mutation constrains the PRD1 regulation
+domain into an active conformation which is transduced to CAT via a network of
+negatively charged residues belonging to PRD1 dimeric interface and to the linker
+region. In addition, our data support a model where BglG-type antitermination
+regulatory modules can only adopt a single conformation compatible with the
+active structure of the effector domain, regardless of whether activation is
+mediated by mutation on the first or second PRD. The linker between the effector 
+and regulation modules appears to function as an adaptable hinge tuning the
+position of the functional modules.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jsb.2021.107730 
+PMID: 33781896 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

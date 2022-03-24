@@ -1,0 +1,63 @@
+
+1. Viruses. 2021 Oct 13;13(10). pii: 2054. doi: 10.3390/v13102054.
+
+Transcriptome Analysis for Genes Associated with Small Ruminant Lentiviruses
+Infection in Goats of Carpathian Breed.
+
+Olech M(1), Ropka-Molik K(2), Szmatoła T(2)(3), Piórkowska K(2), Kuźmak J(1).
+
+Author information: 
+(1)Department of Biochemistry, National Veterinary Research Institute, 24-100
+Pulawy, Poland.
+(2)Department of Animal Molecular Biology, National Research Institute of Animal 
+Production, Krakowska 1, 32-083 Kraków, Poland.
+(3)Center for Experimental and Innovative Medicine, University of Agriculture in 
+Krakow, Rędzina 1c, 30-248 Kraków, Poland.
+
+Small ruminant lentiviruses (SRLV) are economically important viral pathogens of 
+sheep and goats. SRLV infection may interfere in the innate and adaptive immunity
+of the host, and genes associated with resistance or susceptibility to infection 
+with SRLV have not been fully recognized. The presence of animals with relatively
+high and low proviral load suggests that some host factors are involved in the
+control of virus replication. To better understand the role of the genes involved
+in the host response to SRLV infection, RNA sequencing (RNA-seq) method was used 
+to compare whole gene expression profiles in goats carrying both a high (HPL) and
+low (LPL) proviral load of SRLV and uninfected animals. Data enabled the
+identification of 1130 significant differentially expressed genes (DEGs) between 
+control and LPL groups: 411 between control and HPL groups and 1434 DEGs between 
+HPL and LPL groups. DEGs detected between the control group and groups with a
+proviral load were found to be significantly enriched in several gene ontology
+(GO) terms, including an integral component of membrane, extracellular region,
+response to growth factor, inflammatory and innate immune response, transmembrane
+signaling receptor activity, myeloid differentiation primary response gene 88
+(MyD88)-dependent toll-like receptor signaling pathway as well as regulation of
+cytokine secretion. Our results also demonstrated significant deregulation of
+selected pathways in response to viral infection. The presence of SRLV proviral
+load in blood resulted in the modification of gene expression belonging to the
+toll-like receptor signaling pathway, the tumor necrosis factor (TNF) signaling
+pathway, the cytokine-cytokine receptor interaction, the phagosome, the Ras
+signaling pathway, the phosphatidylinositol 3-kinase (PI3K)/protein kinase B
+(AKT) (PI3K-Akt) signaling pathway and rheumatoid arthritis. It is worth
+mentioning that the most predominant in all pathways were genes represented by
+toll-like receptors, tubulins, growth factors as well as interferon gamma
+receptors. DEGs detected between LPL and HPL groups were found to have
+significantly enriched regulation of signaling receptor activity, the response to
+toxic substances, nicotinamide adenine dinucleotide (NADH) dehydrogenase complex 
+assembly, cytokine production, vesicle, and vacuole organization. In turn, the
+Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway tool classified DEGs that 
+enrich molecular processes such as B and T-cell receptor signaling pathways,
+natural killer cell-mediated cytotoxicity, Fc gamma R-mediated phagocytosis,
+toll-like receptor signaling pathways, TNF, mammalian target of rapamycin (mTOR) 
+signaling and forkhead box O (Foxo) signaling pathways, etc. Our data indicate
+that changes in SRLV proviral load induced altered expression of genes related to
+different biological processes such as immune response, inflammation, cell
+locomotion, and cytokine production. These findings provide significant insights 
+into defense mechanisms against SRLV infection. Furthermore, these data can be
+useful to develop strategies against SRLV infection by selection of animals with 
+reduced SRLV proviral concentration that may lead to a reduction in the spread of
+the virus.
+
+DOI: 10.3390/v13102054 
+PMCID: PMC8538975
+PMID: 34696484 
+

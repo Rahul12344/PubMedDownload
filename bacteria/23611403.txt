@@ -1,0 +1,39 @@
+
+1. J Am Chem Soc. 2013 May 22;135(20):7496-502. doi: 10.1021/ja311078s. Epub 2013
+May 13.
+
+Mechanistic insights into the bifunctional non-heme iron oxygenase carbapenem
+synthase by active site saturation mutagenesis.
+
+Phelan RM(1), Townsend CA.
+
+Author information: 
+(1)Department of Chemistry, Johns Hopkins University, 3400 North Charles Street, 
+Baltimore, Maryland 21218, USA.
+
+The carbapenem class of β-lactam antibiotics is known for its remarkable potency,
+antibacterial spectrum, and resistance to β-lactamase-mediated inactivation.
+While the biosynthesis of structurally "complex" carbapenems, such as
+thienamycin, share initial biochemical steps with carbapenem-3-carboxylate
+("simple" carbapenem), the requisite inversion at C5 and formation of the
+characteristic α,β-unsaturated carboxylate are different in origin between the
+two groups. Here, we consider carbapenem synthase, a mechanistically distinct
+bifunctional non-heme iron α-ketoglutarate-dependent enzyme responsible for the
+terminal reactions, C5 epimerization and desaturation, in simple carbapenem
+production. Interestingly, this enzyme accepts two stereoisomeric substrates and 
+transforms each to a common active antibiotic. Owing both to enzyme and product
+instability, resorting to saturation mutagenesis of active site and selected
+second-sphere residues gave clearly differing profiles of CarC tolerance to
+structural modification. Guided by a crystal structure and the mutational data,
+in silico docking was used to suggest the positioning of each disastereomeric
+substrate in the active site. The two orientations relative to the reactive
+iron-oxo center are manifest in the two distinct reactions, C5-epimerization and 
+C2/3-desaturation. These observations favor a two-step reaction scheme involving 
+two complete oxidative cycles as opposed to a single catalytic cycle in which an 
+active site tyrosine, Tyr67, after hydrogen donation to achieve bicyclic ring
+inversion, is further hypothesized to serve as a radical carrier.
+
+DOI: 10.1021/ja311078s 
+PMCID: PMC3683866
+PMID: 23611403  [Indexed for MEDLINE]
+

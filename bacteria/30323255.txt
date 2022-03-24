@@ -1,0 +1,53 @@
+
+1. Nat Commun. 2018 Oct 15;9(1):4279. doi: 10.1038/s41467-018-06646-8.
+
+Mrp1 is involved in lipid presentation and iNKT cell activation by Streptococcus 
+pneumoniae.
+
+Chandra S(1), Gray J(2), Kiosses WB(1), Khurana A(1), Hitomi K(1), Crosby CM(1), 
+Chawla A(3), Fu Z(3), Zhao M(1), Veerapen N(4), Richardson SK(5), Porcelli SA(6),
+Besra G(4), Howell AR(5), Sharma S(2)(7), Peters B(8)(9), Kronenberg M(10)(11).
+
+Author information: 
+(1)Division of Developmental Immunology, La Jolla Institute for Allergy and
+Immunology, La Jolla, CA, 92037, USA.
+(2)The Functional Genomics Center, La Jolla Institute for Allergy and Immunology,
+La Jolla, CA, 92037, USA.
+(3)Bioinformatics Core, La Jolla Institute for Allergy and Immunology, La Jolla, 
+CA, 92037, USA.
+(4)School of Biosciences, University of Birmingham, Edgbaston, Birmingham, B15
+2TT, UK.
+(5)Department of Chemistry, University of Connecticut, 55N. Eagleville Rd,
+Storrs, CT, 06269, USA.
+(6)Department of Microbiology and Immunology, and Department of Medicine, Albert 
+Einstein College of Medicine, 1300 Morris Park Avenue, Bronx, NY, 10461, USA.
+(7)Division of Cellular Biology, La Jolla Institute for Allergy and Immunology,
+La Jolla, CA, 92037, USA.
+(8)Division of Vaccine Discovery, La Jolla Institute for Allergy and Immunology, 
+La Jolla, CA, 92037, USA.
+(9)Division of Rheumatology, Allergy & Immunology, University of California, San 
+Diego, La Jolla, CA, 92092, USA.
+(10)Division of Developmental Immunology, La Jolla Institute for Allergy and
+Immunology, La Jolla, CA, 92037, USA. mitch@lji.org.
+(11)Division of Biological Sciences, University of California, San Diego, La
+Jolla, CA, 92093, USA. mitch@lji.org.
+
+Invariant natural killer T cells (iNKT cells) are activated by lipid antigens
+presented by CD1d, but the pathway leading to lipid antigen presentation remains 
+incompletely characterized. Here we show a whole-genome siRNA screen to elucidate
+the CD1d presentation pathway. A majority of gene knockdowns that diminish
+antigen presentation reduced formation of glycolipid-CD1d complexes on the cell
+surface, including members of the HOPS and ESCRT complexes, genes affecting
+cytoskeletal rearrangement, and ABC family transporters. We validated the role in
+vivo for the multidrug resistance protein 1 (Mrp1) in CD1d antigen presentation. 
+Mrp1 deficiency reduces surface clustering of CD1d, which decreased iNKT cell
+activation. Infected Mrp1 knockout mice show decreased iNKT cell responses to
+antigens from Streptococcus pneumoniae and were associated with increased
+mortality. Our results highlight the unique cellular events involved in lipid
+antigen presentation and show how modification of this pathway can lead to lethal
+infection.
+
+DOI: 10.1038/s41467-018-06646-8 
+PMCID: PMC6189046
+PMID: 30323255  [Indexed for MEDLINE]
+

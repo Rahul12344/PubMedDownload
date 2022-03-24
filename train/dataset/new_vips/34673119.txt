@@ -1,0 +1,40 @@
+
+1. J Virol Methods. 2022 Jan;299:114335. doi: 10.1016/j.jviromet.2021.114335. Epub
+2021 Oct 18.
+
+Next-generation sequencing of human respiratory syncytial virus subgroups A and B
+genomes.
+
+Wang L(1), Ng TFF(1), Castro CJ(2), Marine RL(1), Magaña LC(2), Esona M(1), Peret
+TCT(3), Thornburg NJ(1).
+
+Author information: 
+(1)Division of Viral Diseases, Centers for Disease Control and Prevention,
+Atlanta, GA, USA.
+(2)Oak Ridge Institute for Science and Education, Contracting Agency to the
+Division of Viral Diseases, Centers for Disease Control and Prevention, Atlanta, 
+GA, USA.
+(3)Division of Viral Diseases, Centers for Disease Control and Prevention,
+Atlanta, GA, USA. Electronic address: TPeret@cdc.gov.
+
+Human respiratory syncytial virus (HRSV) is a leading cause of acute respiratory 
+illness in young children worldwide. Whole genome sequencing of HRSV offers
+enhanced resolution of strain variability for epidemiological surveillance and
+provides genomic information essential for antiviral and vaccine development. A
+10-amplicon one-step RT-PCR assay and a 20-amplicon nested RT-PCR assay with
+enhanced sensitivity were developed to amplify whole HRSV genomes from samples
+containing high and low viral loads, respectively. Ninety-six HRSV-positive
+samples comprised of 58 clinical specimens and 38 virus isolates with Ct values ≤
+24 were amplified successfully using the 10-amplicon one-step RT-PCR method and
+multiplexed in a single MiSeq run. Genome coverage exceeded 99.3% for all 96
+samples. The 20-amplicon nested RT-PCR NGS method was used to generate >99.6%
+HRSV full-length genome for 72 clinical specimens with Ct values ranging from 24 
+to 33. Phylogenetic analysis of the genome sequences obtained from the 130
+clinical specimens revealed a wide diversity of HRSV genotypes demonstrating
+methodologic robustness.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.jviromet.2021.114335 
+PMID: 34673119 
+

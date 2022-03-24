@@ -1,0 +1,53 @@
+
+1. mBio. 2021 Nov 9:e0268421. doi: 10.1128/mBio.02684-21. [Epub ahead of print]
+
+Spatial and Functional Organization of Human Papillomavirus Replication Foci in
+the Productive Stage of Infection.
+
+Khurana S(1), Markowitz TE(2)(3), Kabat J(4), McBride AA(1).
+
+Author information: 
+(1)Laboratory of Viral Diseases, National Institute of Allergy and Infectious
+Diseasesgrid.419681.3, National Institutes of Health, Bethesda, Maryland, USA.
+(2)NIAID Collaborative Bioinformatics Resource (NCBR), National Institute of
+Allergy and Infectious Diseasesgrid.419681.3, National Institutes of Health,
+Bethesda, Maryland, USA.
+(3)Advanced Biomedical Computational Science, Frederick National Laboratory for
+Cancer Research, Frederick, Maryland, USA.
+(4)Biological Imaging Section, National Institute of Allergy and Infectious
+Diseasesgrid.419681.3, National Institutes of Health, Bethesda, Maryland, USA.
+
+The life cycle of human papillomavirus (HPV) depends on keratinocyte
+differentiation as the virus modulates and takes advantage of cellular pathways
+to replicate its genome and assemble viral particles in differentiated cells.
+Viral genomes are amplified in nuclear replication foci in differentiated
+keratinocytes, and DNA repair factors from the DNA damage response signaling
+pathway are recruited to replicate viral DNA. The HPV genome is associated with
+cellular histones at all stages of the infectious cycle, and here, we show that
+the histone variant macroH2A1 is bound to the HPV genome and enriched in viral
+replication foci in differentiated cells. macroH2A1 isoforms play important roles
+in cellular transcriptional repression, double-strand break repair, and
+replication stress. The viral E8^E2 protein also binds to the HPV genome and
+inhibits viral replication and gene expression by recruiting NCoR/SMRT complexes.
+We show here that E8^E2 and SMRT also localize within replication foci, though
+independently from macroH2A1. Conversely, transcription complexes containing RNA 
+polymerase II and Brd4 are located on the surface of the foci. Foci generated
+with an HPV16 E8^E2 mutant genome are not enriched for SMRT or macroH2A1 but
+contain transcriptional complexes throughout the foci. We propose that both the
+cellular macroH2A1 protein and viral E8^E2 protein help to spatially separate
+replication and transcription activities within viral replication foci.
+IMPORTANCE Human papillomaviruses are small DNA viruses that cause chronic
+infection of cutaneous and mucosal epithelium. In some cases, persistent
+infection with HPV can result in cancer, and 5% of human cancers are the result
+of HPV infection. In differentiated cells, HPV amplifies viral DNA in nuclear
+replication factories and transcribes late mRNAs to produce capsid proteins.
+However, very little is known about the spatial organization of these activities 
+in the nucleus. Here, we show that repressive viral and cellular factors localize
+within the foci to suppress viral transcription, while active transcription takes
+place on the surface. The cellular histone variant macroH2A1 is important for
+this spatial organization.
+
+DOI: 10.1128/mBio.02684-21 
+PMCID: PMC8576538
+PMID: 34749533 
+

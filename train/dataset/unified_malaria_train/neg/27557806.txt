@@ -1,0 +1,39 @@
+
+1. malar j. 2016 aug 25;15(1):430. doi: 10.1186/s12936-016-1473-5.
+
+markov chain monte carlo expectation maximization approaches estimation
+of haplotype frequencies multiply infected human blood samples.
+
+ken-dror g(1), hastings im(2).
+
+author information: 
+(1)liverpool school tropical medicine, pembroke place, liverpool, l5 3qa, uk. 
+g.kendror@gmail.com.
+(2)liverpool school tropical medicine, pembroke place, liverpool, l5 3qa, uk.
+
+background: haplotypes important anti-malarial drug resistance because
+genes encoding drug resistance may accumulate mutations several codons 
+same gene, mutation increasing level drug resistance and, possibly,
+reducing metabolic costs previous mutation. patients often two or
+more haplotypes blood sample may make impossible identify
+exactly haplotypes carry, hence measure type frequency 
+of resistant haplotypes malaria population.
+results: study presents two novel statistical methods
+expectation-maximization (em) markov chain monte carlo (mcmc) algorithms to
+investigate issue. performance algorithms evaluated on
+simulated datasets consisting patient blood characterized their
+multiplicity infection (moi) malaria genotype. datasets generated 
+using different resistance allele frequencies (raf) single nucleotide
+polymorphisms (snps) different limit detection (lod) snps the
+moi. em mcmc algorithm validated appear accurate, faster
+and slightly less affected lod snps moi compared previous
+related statistical approaches.
+conclusions: em mcmc algorithms perform well analysing malaria
+genetic data obtained infected human blood samples. results robust
+to genotyping errors caused lods function well even absence moi 
+data individual patients.
+
+doi: 10.1186/s12936-016-1473-5 
+pmcid: pmc4997664
+pmid: 27557806  [indexed medline]
+

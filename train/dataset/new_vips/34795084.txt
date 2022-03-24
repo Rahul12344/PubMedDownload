@@ -1,0 +1,41 @@
+
+1. Stud Health Technol Inform. 2021 Nov 18;287:73-77. doi: 10.3233/SHTI210817.
+
+Fast Healthcare Interoperability Resources (FHIR) in a FAIR Metadata Registry for
+COVID-19 Research.
+
+Klofenstein SAI(1)(2), Vorisek CN(1), Shutsko A(3), Lehne M(1), Sass J(1), Löbe
+M(4), Schmidt CO(5), Thun S(1).
+
+Author information: 
+(1)Core Facility Digital Medicine and Interoperability, Berlin Institute of
+Health at Charité -Universitätsmedizin Berlin, Germany.
+(2)Institute of Medical Informatics, Charité - Universitätsmedizin Berlin,
+Germany.
+(3)ZB MED - Information Centre for Life Sciences, Germany.
+(4)Institute for Medical Informatics (IMISE), University of Leipzig, Germany.
+(5)Institute of Community Medicine, University Medicine Greifswald, Germany.
+
+Adopting international standards within health research communities can elevate
+data FAIRness and widen analysis possibilities. The purpose of this study was to 
+evaluate the mapping feasibility against HL7® Fast Healthcare Interoperability
+Resources® (FHIR)® of a generic metadata schema (MDS) created for a central
+search hub gathering COVID-19 health research (studies, questionnaires, documents
+= MDS resource types). Mapping results were rated by calculating the percentage
+of FHIR coverage. Among 86 items to map, total mapping coverage was 94%: 50 (58%)
+of the items were available as standard resources in FHIR and 31 (36%) could be
+mapped using extensions. Five items (6%) could not be mapped to FHIR. Analyzing
+each MDS resource type, there was a total mapping coverage of 93% for studies and
+95% for questionnaires and documents, with 61% of the MDS items available as
+standard resources in FHIR for studies, 57% for questionnaires and 52% for
+documents. Extensions in studies, questionnaires and documents were used in 32%, 
+38% and 43% of items, respectively. This work shows that FHIR can be used as a
+standardized format in registries for clinical, epidemiological and public health
+research. However, further adjustments to the initial MDS are recommended - and
+two additional items even needed when implementing FHIR. Developing a MDS based
+on the FHIR standard could be a future approach to reduce data ambiguity and
+foster interoperability.
+
+DOI: 10.3233/SHTI210817 
+PMID: 34795084  [Indexed for MEDLINE]
+

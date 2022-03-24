@@ -1,0 +1,36 @@
+
+1. genomics proteomics bioinformatics. 2008 jun;6(2):121-8. doi:
+10.1016/s1672-0229(08)60027-3.
+
+identification microrna precursors support vector machine string
+kernel.
+
+xu jh(1), li f, sun qf.
+
+author information: 
+(1)department computer science, nanjing normal university, nanjing 210097,
+china. xujianhua@njnu.edu.cn
+
+micrornas (mirnas) one family short (21-23 nt) regulatory non-coding rnas 
+processed long (70-110 nt) mirna precursors (pre-mirnas). identifying true
+and false precursors plays important role computational identification of
+mirnas. numerical features extracted precursor sequences 
+their secondary structures suit classification methods; however, may
+lose usefully discriminative information hidden sequences structures.
+in study, pre-mirna sequences secondary structures directly
+used construct exponential kernel based weighted levenshtein distance
+between two sequences. string kernel combined support vector
+machine (svm) detecting true false pre-mirnas. based 331 training
+samples true false human pre-mirnas, 2 key parameters svm selected 
+by 5-fold cross validation grid search, 5 realizations different
+5-fold partitions executed. among 16 independent test sets 3 human, 8
+animal, 2 plant, 1 virus, 2 artificially false human pre-mirnas, method
+statistically outperforms previous svm-based technique 11 sets, including 
+3 human, 7 animal, 1 false human pre-mirnas. particular, premirnas with
+multiple loops usually excluded previous work correctly
+identified study accuracy 92.66%.
+
+doi: 10.1016/s1672-0229(08)60027-3 
+pmcid: pmc5054094
+pmid: 18973868  [indexed medline]
+

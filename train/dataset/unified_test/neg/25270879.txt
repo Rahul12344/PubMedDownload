@@ -1,0 +1,42 @@
+
+1. nucleic acids res. 2014 oct 29;42(19):12169-76. doi: 10.1093/nar/gku854. epub
+2014 sep 30.
+
+weak base pairing seed 3' regions reduces rnai off-targets and
+enhances si/shrna designs.
+
+gu s(1), zhang y(1), jin l(1), huang y(1), zhang f(1), bassik mc(2), kampmann
+m(3), kay ma(4).
+
+author information: 
+(1)departments pediatrics genetics, stanford university, stanford, ca
+94305, usa.
+(2)department genetics, stanford university, stanford, ca 94305, usa.
+(3)department cellular molecular pharmacology, howard hughes medical
+institute, university california san francisco, san francisco, ca 94158,
+usa.
+(4)departments pediatrics genetics, stanford university, stanford, ca
+94305, usa markay@stanford.edu.
+
+the use rna interference becoming routine scientific discovery and
+treatment human disease. however, applications hampered unwanted
+effects, particularly off-targeting mirna-like pathways. recent studies
+suggest efficacy off-targeting might dependent binding
+stability. here, testing shrnas sirnas various gc content different 
+guide strand segments reporter assays, establish weak base pairing
+in seed 3' regions required achieve minimal off-targeting while
+maintaining intended on-target activity. reduced off-targeting was
+confirmed rna-seq analyses mouse liver rnas expressing various anti-hcv
+shrnas. finally, protocol validated large scale analyzing results
+of genome-wide shrna screen. compared previously established work, new
+algorithm effective reducing off-targeting without jeopardizing
+on-target potency. studies provide new rules significantly
+improve sirna/shrna design.
+
+© author(s) 2014. published oxford university press behalf nucleic
+acids research.
+
+doi: 10.1093/nar/gku854 
+pmcid: pmc4231738
+pmid: 25270879  [indexed medline]
+

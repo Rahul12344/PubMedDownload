@@ -1,0 +1,44 @@
+
+1. iScience. 2021 Nov 19;24(11):103329. doi: 10.1016/j.isci.2021.103329. Epub 2021
+Oct 21.
+
+Endonuclease-based genotyping of the RBM as a method to track the emergence or
+evolution of SARS-CoV-2 variants.
+
+Lopez E(1), Barthélémy M(1), Baronti C(1), Masse S(2), Falchi A(2), Durbesson
+F(3), Vincentelli R(3), de Lamballerie X(1), Charrel R(1)(4), Coutard B(1).
+
+Author information: 
+(1)Unité des Virus Émergents (UVE: Aix-Marseille Univ-IRD 190-Inserm 1207),
+Marseille, France.
+(2)UR7310, Laboratoire de Virologie, Université de Corse-Inserm, 20250 Corte,
+France.
+(3)Unité Mixte de Recherche (UMR) 7257, Centre National de la Recherche
+Scientifique (CNRS) Aix-Marseille Université, Architecture et Fonction des
+Macromolécules Biologiques (AFMB), Marseille, France.
+(4)Comité de Lutte contre les Infections Nosocomiales, Hôpitaux Universitaires de
+Marseille, AP-HM, Marseille, France.
+
+Since the beginning of the COVID-19 pandemics, variants have emerged. Some of
+them display increased transmissibility and/or resistance to immune response.
+Most of the mutations involved in the functional adaptation are found in the
+receptor-binding motif (RBM), close to the interface with the receptor ACE2. We
+thus developed a fast molecular assay to detect mutations in the RBM coding
+sequence. After amplification, the amplicon is heat-denatured and hybridized with
+an amplicon of reference. The presence of a mutation can be detected using a
+mismatch-specific endonuclease and the cleavage pattern is analyzed by capillary 
+electrophoresis. The method was validated on RNA of severe acute respiratory
+syndrome coronavirus 2 (SARS-CoV-2) variants produced in vitro before being
+implemented for clinical samples. The assay showed 97.8% sensitivity and 97.8%
+specificity. The procedure can be set up for high-throughput identification of
+the presence of mutations and serve as a first-line screening to select the
+samples for full genome sequencing.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.isci.2021.103329 
+PMCID: PMC8529542
+PMID: 34697603 
+
+Conflict of interest statement: The authors declare no competing interests
+

@@ -1,0 +1,63 @@
+
+1. Netw Model Anal Health Inform Bioinform. 2021;10(1):61. doi:
+10.1007/s13721-021-00347-x. Epub 2021 Nov 25.
+
+In-silico design of a multi-epitope for developing sero-diagnosis detection of
+SARS-CoV-2 using spike glycoprotein and nucleocapsid antigens.
+
+Javadi Mamaghani A(1), Arab-Mazar Z(2), Heidarzadeh S(3), Ranjbar MM(4),
+Molazadeh S(5), Rashidi S(6), Niazpour F(7), Naghi Vishteh M(1), Bashiri H(8),
+Bozorgomid A(8), Behniafar H(9), Ashrafi M(10).
+
+Author information: 
+(1)Department of Parasitology and Mycology, School of Medicine, Shahid Beheshti
+University of Medical Sciences, Tehran, Iran.
+(2)Department of Medical Parasitology and Mycology, School of Public Health,
+Tehran University of Medical Sciences, Tehran, Iran.
+(3)Department of Microbiology and Virology, Zanjan University of Medical
+Sciences, Zanjan, Iran.
+(4)Razi Vaccine and Serum Research Institute, Agricultural Research, Education
+and Extension Organization (AREEO), Karaj, Iran.
+(5)Department of Pathobiology, Faculty of Veterinary Medicine, Science and
+Research Branch, Olom Tahghighat Islamic Azad University, Tehran, Iran.
+(6)Department of Parasitology and Mycology, School of Medicine, Shiraz University
+of Medical Sciences, Shiraz, Iran.
+(7)Faculty of Veterinary Medicine, University of Tabriz, Tabriz, Iran.
+(8)Infectious Diseases Research Center, Health Institute, Kermanshah University
+of Medical Sciences, Kermanshah, Iran.
+(9)Department of Medical Parasitology, Sarab Faculty of Medical Sciences, Sarab, 
+Iran.
+(10)Faculty of Medicine, Islamic Azad University, Qom, Iran.
+
+COVID-19 is a pandemic disease caused by novel corona virus, SARS-CoV-2,
+initially originated from China. In response to this serious life-threatening
+disease, designing and developing more accurate and sensitive tests are crucial. 
+The aim of this study is designing a multi-epitope of spike and nucleocapsid
+antigens of COVID-19 virus by bioinformatics methods. The sequences of
+nucleotides obtained from the NCBI Nucleotide Database. Transmembrane structures 
+of proteins were predicted by TMHMM Server and the prediction of signal peptide
+of proteins was performed by Signal P Server. B-cell epitopes' prediction was
+performed by the online prediction server of IEDB server. Beta turn structure of 
+linear epitopes was also performed using the IEDB server. Conformational epitope 
+prediction was performed using the CBTOPE and eventually, eight antigenic
+epitopes with high physicochemical properties were selected, and then, all eight 
+epitopes were blasted using the NCBI website. The analyses revealed that
+α-helices, extended strands, β-turns, and random coils were 28.59%, 23.25%,
+3.38%, and 44.78% for S protein, 21.24%, 16.71%, 6.92%, and 55.13% for N Protein,
+respectively. The S and N protein three-dimensional structure was predicted using
+the prediction I-TASSER server. In the current study, bioinformatics tools were
+used to design a multi-epitope peptide based on the type of antigen and its
+physiochemical properties and SVM method (Machine Learning) to design
+multi-epitopes that have a high avidity against SARS-CoV-2 antibodies to detect
+infections by COVID-19.
+
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Austria, part of
+Springer Nature 2021.
+
+DOI: 10.1007/s13721-021-00347-x 
+PMCID: PMC8614630
+PMID: 34849326 
+
+Conflict of interest statement: Conflict of interestAll authors declared there is
+no conflict of interest.
+

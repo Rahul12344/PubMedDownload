@@ -1,0 +1,38 @@
+
+1. bioinformatics. 2011 mar 1;27(5):655-61. doi: 10.1093/bioinformatics/btr002. epub
+2011 jan 21.
+
+recovering key biological constituents sparse representation gene
+expression.
+
+prat y(1), fromer m, linial n, linial m.
+
+author information: 
+(1)school computer science engineering, hebrew university of
+jerusalem, jerusalem, israel.
+
+motivation: large-scale rna expression measurements generating enormous
+quantities data. last two decades, many methods developed 
+extracting insights regarding interrelationships genes such
+data. mathematical computational perspectives underlie methods
+are usually algebraic probabilistic.
+results: here, introduce unexplored geometric view point expression
+levels genes multiple experiments interpreted vectors a
+high-dimensional space. specifically, find, expression profile each
+particular gene, approximation linear combination profiles few
+other genes. method inspired recent developments realm of
+compressed sensing machine learning domain. demonstrate power of
+our approach extracting valuable information expression data, we
+independently applied large-scale experiments carried yeast 
+malaria parasite whole transcriptomes. parameters extracted sparse
+reconstruction expression profiles, fed supervised learning
+platform, used successfully predict relationships genes
+throughout gene ontology hierarchy protein-protein interaction map.
+extensive assessment biological results shows high accuracy both
+recovering known predictions yielding accurate predictions missing from
+the current databases. suggest geometrical approach presented is
+suitable broad range high-dimensional experimental data.
+
+doi: 10.1093/bioinformatics/btr002 
+pmid: 21258061  [indexed medline]
+

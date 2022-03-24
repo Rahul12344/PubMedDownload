@@ -1,0 +1,39 @@
+
+1. Diagnostics (Basel). 2021 Oct 8;11(10). pii: 1854. doi:
+10.3390/diagnostics11101854.
+
+Variant Prediction by Analyzing RdRp/S Gene Double or Low Amplification Pattern
+in Allplex SARS-CoV-2 Assay.
+
+So MK(1), Park S(1), Lee K(1), Kim SK(1), Chung HS(1), Lee M(1).
+
+Author information: 
+(1)Department of Laboratory Medicine, Ewha Womans University College of Medicine,
+Seoul 03760, Korea.
+
+The spread of delta variants (B.1.671.2) of severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2) is a severe global threat. Multiplex real-time PCR is 
+a common method for confirming SARS-CoV-2 infection, however, additional tests,
+such as whole genomic sequencing, are required to reveal the presence or type of 
+viral mutation. Moreover, applying whole genomic sequencing to all SARS-CoV-2
+positive samples is challenging due to time and cost constraints. Here, we report
+that the double or low amplification curve observed during RNA-dependent RNA
+polymerase (RdRp) gene/S gene amplification in the Allplex SARS-CoV-2 Assay is
+related to delta/alpha variants. We analyzed the RdRp/S gene amplification curve 
+using 94 samples confirmed as SARS-CoV-2 infection by the Allplex SARS-CoV-2
+Assay from January to August, 2021. These positive samples identified variant
+types using the Novaplex SARS-CoV-2 Variants I and IV Assays. Overall, 17 samples
+showing a double curve and 11 samples showing a low amplification pattern were
+associated with alpha-/delta-type strains with variants in the P681 region. The
+double or low curve shown in the RdRp gene amplification curve had 100%
+sensitivity and 100% specificity for diagnosing delta/alpha variants. During the 
+SARS-CoV-2 virus diagnostic RT-PCR test using the Allplex SARS-CoV-2 Assay, we
+could consider the presence of delta/alpha variants in the samples with double or
+low amplification curve of the RdRp/S gene channel. This PCR amplification curve 
+abnormality enables rapid and cost-effective variant type prediction during
+SARS-CoV-2 diagnostic testing in clinical laboratories.
+
+DOI: 10.3390/diagnostics11101854 
+PMCID: PMC8534604
+PMID: 34679552 
+

@@ -1,0 +1,73 @@
+
+1. EBioMedicine. 2021 Nov;73:103678. doi: 10.1016/j.ebiom.2021.103678. Epub 2021 Nov
+10.
+
+CRISPR-Cas9 Mediated Exonic Disruption for HIV-1 Elimination.
+
+Herskovitz J(1), Hasan M(2), Patel M(3), Blomberg WR(4), Cohen JD(3), Machhi
+J(3), Shahjin F(3), Mosley RL(3), McMillan J(3), Kevadiya BD(3), Gendelman HE(5).
+
+Author information: 
+(1)Department of Pathology and Microbiology, University of Nebraska Medical
+Center, Omaha, NE 68198-5900 USA. Electronic address:
+jonathan.herskovitz@unmc.edu.
+(2)Department of Pharmacology and Experimental Neuroscience, University of
+Nebraska Medical Center, Omaha, NE 68198-5800 USA; Department of Pharmaceutical
+Sciences, University of Nebraska Medical Center, Omaha, NE 68198-6120 USA.
+(3)Department of Pharmacology and Experimental Neuroscience, University of
+Nebraska Medical Center, Omaha, NE 68198-5800 USA.
+(4)Department of Pharmacology and Experimental Neuroscience, University of
+Nebraska Medical Center, Omaha, NE 68198-5800 USA; School of Medicine, Creighton 
+University Medical Center, Omaha, NE 68124.
+(5)Department of Pathology and Microbiology, University of Nebraska Medical
+Center, Omaha, NE 68198-5900 USA; Department of Pharmacology and Experimental
+Neuroscience, University of Nebraska Medical Center, Omaha, NE 68198-5800 USA;
+Department of Pharmaceutical Sciences, University of Nebraska Medical Center,
+Omaha, NE 68198-6120 USA. Electronic address: hegendel@unmc.edu.
+
+BACKGROUND: A barrier to HIV-1 cure rests in the persistence of proviral DNA in
+infected CD4+ leukocytes. The high HIV-1 mutation rate leads to viral diversity, 
+immune evasion, and consequent antiretroviral drug resistance. While
+CRISPR-spCas9 can eliminate latent proviral DNA, its efficacy is limited by HIV
+strain diversity and precision target cell delivery.
+METHODS: A library of guide RNAs (gRNAs) designed to disrupt five HIV-1 exons
+(tat1-2/rev1-2/gp41) was constructed. The gRNAs were derived from a conseensus
+sequence of the transcriptional regulator tat from 4004 HIV-1 strains. Efficacy
+was affirmed by gRNA cell entry through transfection, electroporation, or by
+lentivirus or lipid nanoparticle (LNP) delivery. Treated cells were evaluated for
+viral excision by monitoring HIV-1 DNA, RNA, protein, and progeny virus levels.
+FINDINGS: Virus was reduced in all transmitted founder strains by 82 and 94%
+after CRISPR TatDE transfection or lentivirus treatments, respectively. No
+recorded off-target cleavages were detected. Electroporation of TatDE
+ribonucleoprotein and delivery of LNP TatDE gRNA and spCas9 mRNA to latently
+infected cells resulted in up to 100% viral excision. Protection against
+HIV-1-challenge or induction of virus during latent infection, in primary or
+transformed CD4+ T cells or monocytes was achieved. We propose that multi-exon
+gRNA TatDE disruption delivered by LNPs enables translation for animal and human 
+testing.
+INTERPRETATION: These results provide "proof of concept' for CRISPR gRNA
+treatments for HIV-1 elimination. The absence of full-length viral DNA by LNP
+delivery paired with undetectable off-target affirms the importance of payload
+delivery for effective viral gene editing.
+FUNDING: The work was supported by the University of Nebraska Foundation,
+including donations from the Carol Swarts, M.D. Emerging Neuroscience Research
+Laboratory, the Margaret R. Larson Professorship, and individual donor support
+from the Frances and Louie Blumkin Foundation and from Harriet Singer. The
+research received support from National Institutes of Health grants T32 NS105594,
+5R01MH121402, 1R01Al158160, R01 DA054535, PO1 DA028555, R01 NS126089, R01
+NS36126, PO1 MH64570, P30 MH062261, and 2R01 NS034239.
+
+Copyright © 2021 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ebiom.2021.103678 
+PMCID: PMC8633974
+PMID: 34774454 
+
+Conflict of interest statement: Declaration of Competing Interest J.H., M.H., and
+H.E.G. are named inventors on provisional patents for the CRISPR therapy
+described in this report (62/985,392; 62/986,216). J.H., M.H., B.K., and H.E.G
+hold a patent on a virus-like particle-based delivery for HIV-1 CRISPR
+therapeutics (Docket No. 19040PCT; Serial No. PCT/US2020/016126; International
+Publication No. WO 2020/160418 A1). H.E.G is a member of the scientific advisory 
+board at Longevity Biotech and a co-founder of Exavir Therapeutics, Inc.
+

@@ -1,0 +1,34 @@
+
+1. Biochemistry. 2019 Dec 24;58(51):5112-5116. doi: 10.1021/acs.biochem.9b00981.
+Epub 2019 Dec 13.
+
+Stereochemistry in the Reaction of the myo-Inositol Phosphate Synthase Ortholog
+Ari2 during Aristeromycin Biosynthesis.
+
+Kudo F(1), Tsunoda T(1), Yamaguchi K(1), Miyanaga A(1), Eguchi T(1).
+
+Author information: 
+(1)Department of Chemistry , Tokyo Institute of Technology , 2-12-1, O-okayama , 
+Meguro-ku, Tokyo 152-8551 , Japan.
+
+The myo-inositol-1-phosphate synthase (MIPS) ortholog Ari2, which is encoded in
+the aristeromycin biosynthetic gene cluster, catalyzes the formation of
+five-membered cyclitol phosphate using d-fructose 6-phosphate (F6P) as a
+substrate. To understand the stereochemistry during the Ari2 reaction in vivo, we
+carried out feeding experiments with (6S)-d-[6-2H1]- and (6R)-d-[6-2H1]glucose in
+the aristeromycin-producing strain Streptomyces citricolor. We observed retention
+of the 2H atom of (6S)-d-[6-2H1]glucose and no incorporation of the 2H atom from 
+(6R)-d-[6-2H1]glucose in aristeromycin. This indicates that Ari2 abstracts the
+pro-R proton at C6 of F6P after oxidation of C5-OH by nicotinamide adenine
+dinucleotide (NAD+) to generate the enolate intermediate, which then attacks the 
+C2 ketone to form the C-C bond via aldol-type condensation. The reaction of Ari2 
+with (6S)-d-[6-2H1]- and (6R)-d-[6-2H1]F6P in vitro exhibited identical
+stereochemistry compared with that observed during the feeding experiments.
+Furthermore, analysis of the crystal structure of Ari2, including NAD+ as a
+ligand, revealed the active site of Ari2 to be similar to that of MIPS of
+Mycobacterium tuberculosis, supporting the similarity of the reaction mechanisms 
+of Ari2 and MIPS.
+
+DOI: 10.1021/acs.biochem.9b00981 
+PMID: 31825604  [Indexed for MEDLINE]
+

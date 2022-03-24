@@ -1,0 +1,39 @@
+
+1. Yakugaku Zasshi. 2010 Nov;130(11):1463-9.
+
+[Novel L-amino acid ligases catalyzing oligopeptide synthesis].
+
+[Article in Japanese]
+
+Kino K(1).
+
+Author information: 
+(1)Department of Applied Chemistry, School of Advanced Science and Engineering,
+Waseda University, Shinjuku-ku, Japan. kkino.@waseda,jp
+
+L-Amino acid ligase (EC 6.3.2.28) is a microbial enzyme catalyzing formation of
+an alpha-peptide bond from unprotected L-amino acids in an ATP-dependent manner. 
+The YwfE protein from Bacillus subtilis 168 was the first reported L-amino acid
+ligase, and it synthesizes various dipeptides. Thereafter, several L-amino acid
+ligases were newly obtained by in silico analysis using the ATP-grasp motif. But 
+these L-amino acid ligases synthesize only dipeptide and no longer peptide. A
+novel L-amino acid ligase capable of catalyzing oligopeptide synthesis is
+required to increase the variety of peptides. We have previously found a new
+member of L-amino acid ligase, RizA, from B. subtilis NBRC3134, a microorganism
+that produces the peptide-antibiotic rhizocticin. We newly found that a gene at
+approximately 9 kbp upstream of rizA encoded a novel L-amino acid ligase RizB.
+Recombinant RizB synthesized homo-oligomers of branched-chain amino acids
+consisting of 2 to 5 amino acids, and also synthesized various heteropeptides.
+RizB is the first reported L-amino acid ligase that catalyzes oligopeptide
+synthesis. In addition, we obtained L-amino acid ligases showing oligopeptide
+synthesis activities by in silico analysis using BLAST, which is a set of
+similarity search programs. These L-amino acid ligases showed low similarity in
+amino acid sequence, but commonly used branched-chain amino acids, such as RizB, 
+as substrates. Furthermore, the spr0969 protein of Streptococcus pneumoniae
+synthesized longer peptides than those synthesized by RizB, and the BAD_1200
+protein of Bifidobacteria adolescentis showed higher activity toward aromatic
+amino acids than toward branched-chain ones.
+
+DOI: 10.1248/yakushi.130.1463 
+PMID: 21048404  [Indexed for MEDLINE]
+

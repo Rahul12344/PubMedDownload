@@ -1,0 +1,48 @@
+
+1. J Bacteriol. 1997 Nov;179(22):7089-97.
+
+Hierarchical autoinduction in Ralstonia solanacearum: control of acyl-homoserine 
+lactone production by a novel autoregulatory system responsive to
+3-hydroxypalmitic acid methyl ester.
+
+Flavier AB(1), Ganova-Raeva LM, Schell MA, Denny TP.
+
+Author information: 
+(1)Department of Plant Pathology, University of Georgia, Athens 30602-7274, USA.
+
+Bacteria employ autoinduction systems to sense the onset of appropriate cell
+density for expression of developmental genes. In many gram-negative bacteria,
+autoinduction involves the production of and response to diffusible
+acylated-homoserine lactones (acyl-HSLs) and is mediated by members of the LuxR
+and LuxI families. Ralstonia (Pseudomonas) solanacearum, a phytopathogenic
+bacterium that appears to autoregulate its virulence genes, produces compounds
+that promote expression of several heterologous acyl-HSL-responsive reporter gene
+constructs. High-pressure liquid chromatography of highly concentrated ethyl
+acetate extracts revealed that culture supernatants of strain AW1 contained two
+compounds with retention times similar to N-hexanoyl- and N-octanoyl-HSL. To
+investigate the role of these acyl-HSLs in R. solanacearum virulence gene
+expression, transposon mutants that were deficient for inducing an
+acyl-HSL-responsive reporter in Agrobacterium tumefaciens were generated. Three
+loci involved in normal acyl-HSL production were identified, one of which was
+shown to contain the divergently transcribed solR and solI genes, the luxR and
+luxI homologs, respectively. A 4.1-kb fragment containing solR and solI enabled
+all of the mutants (regardless of the locus inactivated) and a naturally
+acyl-HSL-defective strain of R. solanacearum to produce acyl-HSLs. Inactivation
+of solI abolished production of all detectable acyl-HSLs but affected neither the
+expression of virulence genes in culture nor the ability to wilt tomato plants.
+AW1 has a functional autoinduction system, because (i) expression of solI
+required SolR and acyl-HSL and (ii) expression of a gene linked to solR and solI,
+designated aidA, was acyl-HSL dependent. Because AidA has no homologs in the
+protein databases, its discovery provided no clues as to the role of acyl-HSLs in
+R. solanacearum gene regulation. However, expression of solR and solI required
+the global LysR-type virulence regulator PhcA, and both solR and solI exhibited a
+cell density-associated pattern of expression similar to other PhcA-regulated
+genes. The acyl-HSL-dependent autoinduction system in R. solanacearum is part of 
+a more complex autoregulatory hierarchy, since the transcriptional activity of
+PhcA is itself controlled by a novel autoregulatory system that responds to
+3-hydroxypalmitic acid methyl ester.
+
+DOI: 10.1128/jb.179.22.7089-7097.1997 
+PMCID: PMC179651
+PMID: 9371457  [Indexed for MEDLINE]
+

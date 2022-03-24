@@ -1,0 +1,54 @@
+
+1. nucleic acids res. 2015 may 19;43(9):4661-75. doi: 10.1093/nar/gkv311. epub 2015 
+apr 13.
+
+a serine-arginine-rich (sr) splicing factor modulates alternative splicing of
+over thousand genes toxoplasma gondii.
+
+yeoh lm(1), goodman cd(2), hall ne(3), van dooren gg(4), mcfadden gi(2), ralph
+sa(5).
+
+author information: 
+(1)department biochemistry molecular biology, bio21 molecular science 
+biotechnology institute, university melbourne, parkville, victoria 3010,
+australia school biosciences, university melbourne, parkville, victoria
+3010, australia.
+(2)school biosciences, university melbourne, parkville, victoria 3010, 
+australia.
+(3)department genetics, la trobe institute molecular science, la trobe
+university, bundoora, victoria 3086, australia life sciences computation centre, 
+victorian life sciences computation initiative, carlton, victoria 3010,
+australia.
+(4)research school biology, australian national university, acton, act
+2601, australia.
+(5)department biochemistry molecular biology, bio21 molecular science 
+biotechnology institute, university melbourne, parkville, victoria 3010,
+australia saralph@unimelb.edu.au.
+
+single genes often subject alternative splicing, generates
+alternative mature mrnas. phenomenon widespread animals, observed 
+in 90% human genes. recent data suggest may also common in
+apicomplexa. parasites small genomes, economy dna is
+evolutionarily favoured phylum. investigated mechanism of
+alternative splicing toxoplasma gondii, identified localized
+tgsr3, homologue asf/sf2 (alternative-splicing factor/splicing factor 2, a
+serine-arginine-rich, sr protein) subnuclear compartment. addition, we
+conditionally overexpressed protein, deleterious growth.
+qrt-pcr used confirm perturbation splicing known
+alternatively-spliced gene. performed high-throughput rna-seq determine the
+extent splicing modulated protein. current rna-seq algorithms are
+poorly suited compact parasite genomes, hence complemented existing
+tools writing new program, geneguillotine, addresses deficiency by
+segregating overlapping reads distinct genes. order identify the
+extent alternative splicing, released another program, junctionjuror, 
+detects changes intron junctions. using program, identified 2000
+genes constitutively alternatively spliced t. gondii. overexpressing
+the splice regulator tgsr3 perturbed alternative splicing 1000 genes.
+
+© author(s) 2015. published oxford university press behalf nucleic
+acids research.
+
+doi: 10.1093/nar/gkv311 
+pmcid: pmc4482073
+pmid: 25870410  [indexed medline]
+

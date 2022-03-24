@@ -1,0 +1,41 @@
+
+1. J Virol. 2021 Dec 8:JVI0183121. doi: 10.1128/JVI.01831-21. [Epub ahead of print]
+
+Mechanical Capsid Maturation Facilitates the Resolution of Conflicting
+Requirements for Herpesvirus Assembly.
+
+Evilevitch A(1)(2), Sae-Ueng U(2).
+
+Author information: 
+(1)Department of Experimental Medical Science, Lund University, Lund, Sweden.
+(2)Department of Physics, Carnegie Mellon University, Pittsburgh, Pennsylvania,
+USA.
+
+Most viruses undergo a maturation process from a weakly self-assembled,
+noninfectious particle to a stable, infectious virion. For herpesviruses, this
+maturation process resolves several conflicting requirements: i) assembly must be
+driven by weak, reversible interactions between viral particle subunits to reduce
+errors and minimize energy of self-assembly; ii) the viral particle must be
+stable enough to withstand tens of atmospheres of DNA pressure resulting from its
+strong confinement in the capsid. With herpes simplex virus type 1 (HSV-1) as a
+prototype of human herpesviruses, we demonstrate that this mechanical capsid
+maturation is mainly facilitated through capsid-binding auxiliary protein UL25,
+orthologs of which are present in all herpesviruses. Through genetic manipulation
+of UL25 mutants of HSV-1 combined with interrogation of capsid mechanics with
+atomic force microscopy nano-indentation, we suggest the mechanism of stepwise
+binding of distinct UL25 domains correlated with capsid maturation and DNA
+packaging. These findings demonstrate another paradigm of viruses as elegantly
+programmed nano-machines, where an intimate relationship between mechanical and
+genetic information is preserved in UL25 architecture. IMPORTANCE Minor capsid
+protein UL25 plays a critical role in mechanical maturation of HSV-1 capsid
+during virus assembly, required for stable DNA packaging. We modulate UL25-capsid
+interactions by genetically deleting different UL25 regions and quantify the
+effect on mechanical capsid stability using an atomic force microscopy (AFM)
+nano-indentation approach. This approach reveals how UL25 regions reinforce the
+herpesvirus capsid in order to stably package and retain pressurized DNA. Our
+data suggests a mechanism of stepwise binding of two main UL25 domains timed with
+DNA packaging.
+
+DOI: 10.1128/JVI.01831-21 
+PMID: 34878808 
+

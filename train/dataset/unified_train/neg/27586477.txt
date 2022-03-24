@@ -1,0 +1,47 @@
+
+1. comput methods programs biomed. 2016 oct;135:27-35. doi:
+10.1016/j.cmpb.2016.07.018. epub 2016 jul 14.
+
+computational determination effects virulent escherichia coli and
+salmonella bacteriophages human gut.
+
+mostafa mm(1), nassef m(2), badr a(3).
+
+author information: 
+(1)department computer science, faculty computers information, cairo
+university, egypt. electronic address: m.mostafa_fci@yahoo.com.
+(2)department computer science, faculty computers information, cairo
+university, egypt. electronic address: m.nassef@fci-cu.edu.eg.
+(3)department computer science, faculty computers information, cairo
+university, egypt. electronic address: amr.badr@fci-cu.edu.eg.
+
+background objective: salmonella escherichia coli different types 
+bacteria cause food poisoning humans. elderly, infants people 
+with chronic conditions, dangerous salmonella e. coli gets 
+the bloodstream must treated phage therapy. treating
+salmonella e. coli phage therapy affects gut flora. research
+paper presents system detecting effects virulent e. coli and
+salmonella bacteriophages human gut.
+methods: method based domain-domain interactions (ddis) model implemented
+in proposed system determine interactions proteins of
+human gut bacteria proteins bacteriophages infect virulent e.
+coli salmonella. system helps gastroenterologists realize effect
+of injecting bacteriophages infect virulent e. coli salmonella the
+human gut.
+results: testing system enterobacteria phage 933w, enterobacteria
+phage vt2-sa enterobacteria phage p22, resulted four interactions
+between proteins bacteriophages infect e. coli o157:h7, e. coli
+o104:h4 salmonella typhimurium proteins human gut bacterium
+strains.
+conclusion: several effects detected as: antibacterial activity against
+a number bacterial species human gut, regulation cellular
+differentiation organogenesis gut, lung, heart development,
+ammonia assimilation bacteria, yeasts, plants, energizing defense system
+and function detoxification lipopolysaccharide, the
+prevention bacterial translocation human gut.
+
+copyright © 2016 elsevier ireland ltd. rights reserved.
+
+doi: 10.1016/j.cmpb.2016.07.018 
+pmid: 27586477  [indexed medline]
+

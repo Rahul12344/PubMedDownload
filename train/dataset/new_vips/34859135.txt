@@ -1,0 +1,42 @@
+
+1. Bio Protoc. 2021 Nov 5;11(21):e4249. doi: 10.21769/BioProtoc.4249. eCollection
+2021 Nov 5.
+
+Production of Recombinant Replication-defective Lentiviruses Bearing the SARS-CoV
+or SARS-CoV-2 Attachment Spike Glycoprotein and Their Application in Receptor
+Tropism and Neutralisation Assays.
+
+Thakur N(1)(2), Gallo G(1), Elreafey AME(1), Bailey D(1).
+
+Author information: 
+(1)Viral Glycoproteins Group, The Pirbright Institute, Pirbright, Woking, UK.
+(2)The Jenner Institute, Nuffield Department of Medicine, University of Oxford,
+Oxford, UK.
+
+For enveloped viruses, such as SARS-CoV-2, transmission relies on the binding of 
+viral glycoproteins to cellular receptors. Conventionally, this process is
+recapitulated in the lab by infection of cells with isolated live virus. However,
+such studies can be restricted due to the availability of high quantities of
+replication-competent virus, biosafety precautions and associated trained staff. 
+Here, we present a protocol based on pseudotyping to produce recombinant
+replication-defective lentiviruses bearing the SARS-CoV or SARS-CoV-2 attachment 
+Spike glycoprotein, allowing the investigation of viral entry in a
+lower-containment facility. Pseudoparticles are produced by cells transiently
+transfected with plasmids encoding retroviral RNA packaging signals and Gag-Pol
+proteins, for the reconstitution of lentiviral particles, and a plasmid coding
+for the viral attachment protein of interest. This approach allows the
+investigation of different aspects of viral entry, such as the identification of 
+receptor tropism, the prediction of virus host range, and zoonotic transmission
+potential, as well as the characterisation of antibodies (sera or monoclonal
+antibodies) and pharmacological inhibitors that can block entry. Graphic
+abstract: SARS-CoV and SARS-CoV-2 pseudoparticle generation and applications.
+
+©Copyright Thakur et al.
+
+DOI: 10.21769/BioProtoc.4249 
+PMCID: PMC8595443 [Available on 2022-11-05]
+PMID: 34859135 
+
+Conflict of interest statement: Competing interestsAuthors declare no conflicts
+of interest.
+

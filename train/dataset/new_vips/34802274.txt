@@ -1,0 +1,38 @@
+
+1. Philos Trans A Math Phys Eng Sci. 2022 Jan 10;380(2214):20210121. doi:
+10.1098/rsta.2021.0121. Epub 2021 Nov 22.
+
+A statistical model of COVID-19 testing in populations: effects of sampling bias 
+andtesting errors.
+
+Böttcher L(1)(2), D'Orsogna MR(1)(3), Chou T(1)(4).
+
+Author information: 
+(1)Department of Computational Medicine, University of California, Los Angeles,
+90095-1766 Los Angeles, CA, USA.
+(2)Computational Social Science, Frankfurt School of Finance and Management,
+60322 Frankfurt am Main, Germany.
+(3)Department of Mathematics, California State University at Northridge, Los
+Angeles, 91330-8313 CA, USA.
+(4)Department of Mathematics, University of California, Los Angeles, 90095-1766
+Los Angeles, CA, USA.
+
+Update of
+    medRxiv. 2021 May 26;:.
+
+We develop a statistical model for the testing of disease prevalence in a
+population. The model assumes a binary test result, positive or negative, but
+allows for biases in sample selection and both type I (false positive) and type
+II (false negative) testing errors. Our model also incorporates multiple test
+types and is able to distinguish between retesting and exclusion after testing.
+Our quantitative framework allows us to directly interpret testing results as a
+function of errors and biases. By applying our testing model to COVID-19 testing 
+data and actual case data from specific jurisdictions, we are able to estimate
+and provide uncertainty quantification of indices that are crucial in a pandemic,
+such as disease prevalence and fatality ratios. This article is part of the theme
+issue 'Data science approach to infectious disease surveillance'.
+
+DOI: 10.1098/rsta.2021.0121 
+PMCID: PMC8607147
+PMID: 34802274  [Indexed for MEDLINE]
+

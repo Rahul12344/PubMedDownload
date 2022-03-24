@@ -1,0 +1,111 @@
+
+1. mSystems. 2021 Nov 2:e0023321. doi: 10.1128/mSystems.00233-21. [Epub ahead of
+print]
+
+Identification and Development of Therapeutics for COVID-19.
+
+Rando HM(1)(2)(3), Wellhausen N(1), Ghosh S(4), Lee AJ(1), Dattoli AA(5), Hu
+F(6), Byrd JB(7), Rafizadeh DN(8)(9), Lordan R(10), Qi Y(11), Sun Y(11), Brueffer
+C(12), Field JM(5), Ben Guebila M(13), Jadavji NM(14)(15), Skelly AN(8)(16),
+Ramsundar B(17), Wang J(8), Goel RR(16), Park Y(1); COVID-19 Review Consortium
+Vikas Bansal, John P. Barton, Simina M. Boca, Joel D. Boerckel, Christian
+Brueffer, James Brian Byrd, Stephen Capone, Shikta Das, Anna Ada Dattoli, John J.
+Dziak, Jeffrey M. Field, Soumita Ghosh, Anthony Gitter, Rishi Raj Goel, Casey S. 
+Greene, Marouen Ben Guebila, Daniel S. Himmelstein, Fengling Hu, Nafisa M.
+Jadavji, Jeremy P. Kamil, Sergey Knyazev, Likhitha Kolla, Alexandra J. Lee, Ronan
+Lordan, Tiago Lubiana, Temitayo Lukan, Adam L. MacLean, David Mai, Serghei
+Mangul, David Manheim, Lucy D’Agostino McGowan, Amruta Naik, YoSon Park, Dimitri 
+Perrin, Yanjun Qi, Diane N. Rafizadeh, Bharath Ramsundar, Halie M. Rando,
+Sandipan Ray, Michael P. Robson, Vincent Rubinetti, Elizabeth Sell, Lamonica
+Shinholster, Ashwin N. Skelly, Yuchen Sun, Yusha Sun, Gregory L. Szeto, Ryan
+Velazquez, Jinhui Wang, Nils Wellhausen, Boca SM(18)(19), Gitter A(20)(21),
+Greene CS(2)(3)(5)(22).
+
+Author information: 
+(1)Department of Systems Pharmacology and Translational Therapeutics, University 
+of Pennsylvaniagrid.25879.31, Philadelphia, Pennsylvania, USA.
+(2)Department of Biochemistry and Molecular Genetics, University of Colorado
+School of Medicine, Aurora, Colorado, USA.
+(3)Center for Health AI, University of Colorado School of Medicine, Aurora,
+Colorado, USA.
+(4)Institute of Translational Medicine and Therapeutics, Perelman School of
+Medicine, University of Pennsylvaniagrid.25879.31, Philadelphia, Pennsylvania,
+USA.
+(5)Department of Systems Pharmacology & Translational Therapeutics, Perelman
+School of Medicine, University of Pennsylvaniagrid.25879.31, Philadelphia,
+Pennsylvania, USA.
+(6)Department of Biostatistics, Epidemiology and Informatics, University of
+Pennsylvaniagrid.25879.31, Philadelphia, Pennsylvania, USA.
+(7)University of Michigan School of Medicine, Ann Arbor, Michigan, USA.
+(8)Perelman School of Medicine, University of Pennsylvaniagrid.25879.31,
+Philadelphia, Pennsylvania, USA.
+(9)Department of Chemistry, University of Pennsylvaniagrid.25879.31,
+Philadelphia, Pennsylvania, USA.
+(10)Institute for Translational Medicine and Therapeutics, Perelman School of
+Medicine, University of Pennsylvaniagrid.25879.31, Philadelphia, Pennsylvania,
+USA.
+(11)Department of Computer Science, University of Virginiagrid.27755.32,
+Charlottesville, Virginia, USA.
+(12)Department of Clinical Sciences, Lund University, Lund, Sweden.
+(13)Department of Biostatistics, Harvard School of Public Health, Boston,
+Massachusetts, USA.
+(14)Biomedical Science, Midwestern Universitygrid.260024.2, Glendale, Arizona,
+USA.
+(15)Department of Neuroscience, Carleton University, Ottawa, Ontario, Canada.
+(16)Institute for Immunology, University of Pennsylvaniagrid.25879.31 Perelman
+School of Medicine, Philadelphia, Pennsylvania, USA.
+(17)The DeepChem Project.
+(18)Innovation Center for Biomedical Informatics, Georgetown University Medical
+Center, Washington, DC, USA.
+(19)Early Biometrics & Statistical Innovation, Data Science & Artificial
+Intelligence, R & D, AstraZeneca, Gaithersburg, Maryland, USA.
+(20)Department of Biostatistics and Medical Informatics, University of
+Wisconsin-Madison, Madison, Wisconsin, USA.
+(21)Morgridge Institute for Research, Madison, Wisconsin, USA.
+(22)Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation, Philadelphia,
+Pennsylvania, USA.
+
+Update of
+    ArXiv. 2021 Mar 3;:.
+
+After emerging in China in late 2019, the novel coronavirus severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2) spread worldwide, and as of
+mid-2021, it remains a significant threat globally. Only a few coronaviruses are 
+known to infect humans, and only two cause infections similar in severity to
+SARS-CoV-2: Severe acute respiratory syndrome-related coronavirus, a species
+closely related to SARS-CoV-2 that emerged in 2002, and Middle East respiratory
+syndrome-related coronavirus, which emerged in 2012. Unlike the current pandemic,
+previous epidemics were controlled rapidly through public health measures, but
+the body of research investigating severe acute respiratory syndrome and Middle
+East respiratory syndrome has proven valuable for identifying approaches to
+treating and preventing novel coronavirus disease 2019 (COVID-19). Building on
+this research, the medical and scientific communities have responded rapidly to
+the COVID-19 crisis and identified many candidate therapeutics. The approaches
+used to identify candidates fall into four main categories: adaptation of
+clinical approaches to diseases with related pathologies, adaptation based on
+virological properties, adaptation based on host response, and data-driven
+identification (ID) of candidates based on physical properties or on
+pharmacological compendia. To date, a small number of therapeutics have already
+been authorized by regulatory agencies such as the Food and Drug Administration
+(FDA), while most remain under investigation. The scale of the COVID-19 crisis
+offers a rare opportunity to collect data on the effects of candidate
+therapeutics. This information provides insight not only into the management of
+coronavirus diseases but also into the relative success of different approaches
+to identifying candidate therapeutics against an emerging disease. IMPORTANCE The
+COVID-19 pandemic is a rapidly evolving crisis. With the worldwide scientific
+community shifting focus onto the SARS-CoV-2 virus and COVID-19, a large number
+of possible pharmaceutical approaches for treatment and prevention have been
+proposed. What was known about each of these potential interventions evolved
+rapidly throughout 2020 and 2021. This fast-paced area of research provides
+important insight into how the ongoing pandemic can be managed and also
+demonstrates the power of interdisciplinary collaboration to rapidly understand a
+virus and match its characteristics with existing or novel pharmaceuticals. As
+illustrated by the continued threat of viral epidemics during the current
+millennium, a rapid and strategic response to emerging viral threats can save
+lives. In this review, we explore how different modes of identifying candidate
+therapeutics have borne out during COVID-19.
+
+DOI: 10.1128/mSystems.00233-21 
+PMCID: PMC8562484
+PMID: 34726496 
+

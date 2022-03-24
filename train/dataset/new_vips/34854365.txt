@@ -1,0 +1,42 @@
+
+1. J Biomol Struct Dyn. 2021 Dec 2:1-13. doi: 10.1080/07391102.2021.2010599. [Epub
+ahead of print]
+
+In silico screening of natural compounds to inhibit interaction of human ACE2
+receptor and spike protein of SARS-CoV-2 for the prevention of COVID-19.
+
+Sharma P(1), Joshi T(2), Joshi T(3), Mathpal S(3), Maiti P(4), Nand M(5), Chandra
+S(2)(6), Tamta S(1).
+
+Author information: 
+(1)Department of Botany, D.S.B Campus, Kumaun University, Nainital, Uttarakhand, 
+India.
+(2)Department of Botany, S.S.J Campus, Kumaun University, Almora, Uttarakhand,
+India.
+(3)Department of Biotechnology, Bhimtal Campus, Kumaun University, Bhimtal,
+Uttarakhand, India.
+(4)Center for Environmental Assessment and Climate Change, G.B. Pant National
+Institute of Himalayan Environment, Kosi, Katarmal, Almora.
+(5)ENVIS Center on Himalayn Ecology, G.B. Pant National Institute of Himalayan
+Environment, Kosi, Katarmal, Almora.
+(6)Computational Biology & Biotechnology Laboratory, Department of Botany, Soban 
+Singh Jeena University, Almora, Uttarakhand, India.
+
+A computational investigation was carried out to find out potential
+phytochemicals that could inhibit the binding of human angiotensin-converting
+enzyme-2 (ACE2) receptors to spike protein of SARS-CoV-2 which is an essential
+step to gain entry inside human cells and onset of viral infection known as
+Coronavirus disease (COVID-19). A library of phytochemicals was screened by
+virtual screening against ACE2 receptors resulting in twenty phytochemicals out
+of 686 which had binding energy (-11.8 to -6.9 kcal/mol). Drug-likeness gave five
+hits, but ADMET analysis yielded 4 nontoxic hit phytochemicals. Molecular
+dynamics simulation of four-hit compounds resulted in acceptable stability and
+good dynamics behavior. These phytochemicals are Hinokinin, Gmelanone,
+Isocolumbin, and Tinocordioside, from Vitis vinifera, Gmelina arborea, and
+Tinospora cordifolia. The above-mentioned phytochemicals may be promising ACE2
+inhibitors and can prevent infection of SARS-CoV-2 by inhibiting the entry of the
+virus into host cells.Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2021.2010599 
+PMID: 34854365 
+

@@ -1,0 +1,35 @@
+
+1. Bull Math Biol. 2008 May;70(4):1140-62. doi: 10.1007/s11538-008-9294-5. Epub 2008
+Feb 1.
+
+Does dormancy increase fitness of bacterial populations in time-varying
+environments?
+
+Malik T(1), Smith HL.
+
+Author information: 
+(1)Department of Mathematics and Computer Science, Mount Allison University, 67
+York Street, Sackville, NB, Canada, E4L 1E6.
+
+A simple family of models of a bacterial population in a time varying environment
+in which cells can transit between dormant and active states is constructed. It
+consists of a linear system of ordinary differential equations for active and
+dormant cells with time-dependent coefficients reflecting an environment which
+may be periodic or random, with alternate periods of low and high resource
+levels. The focus is on computing/estimating the dominant Lyapunov exponent, the 
+fitness, and determining its dependence on various parameters and the two
+strategies-responsive and stochastic-by which organisms switch between dormant
+and active states. A responsive switcher responds to good and bad times by making
+timely and appropriate transitions while a stochastic switcher switches
+continuously without regard to the environmental state. The fitness of a
+responsive switcher is examined and compared with fitness of a stochastic
+switcher, and with the fitness of a dormancy-incapable organism. Analytical
+methods show that both switching strategists have higher fitness than a
+dormancy-incapable organism when good times are rare and that responsive switcher
+has higher fitness than stochastic switcher when good times are either rare or
+common. Numerical calculations show that stochastic switcher can be most fit when
+good times are neither too rare or too common.
+
+DOI: 10.1007/s11538-008-9294-5 
+PMID: 18239978  [Indexed for MEDLINE]
+

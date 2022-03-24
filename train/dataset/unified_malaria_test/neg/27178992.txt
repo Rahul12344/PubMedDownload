@@ -1,0 +1,39 @@
+
+1. brief bioinform. 2017 may 1;18(3):394-402. doi: 10.1093/bib/bbw039.
+
+detecting multi-way epistasis family-based association studies.
+
+loucoubar c, grant av, bureau jf, casademont i, bar na, bar-hen a, diop m, faye
+j, sarr fd, badiane a, tall a, trape jf, cliquet f, schwikowski b, lathrop m,
+paul re, sakuntabhai a.
+
+the era genome-wide association studies (gwas) led discovery of
+numerous genetic variants associated disease. better understanding of
+whether variants interact leading differential risk compared
+with individual marker effects increase understanding genetic
+architecture disease, may investigated using family-based study
+design. present m-tdt (the multi-locus transmission disequilibrium test), a
+tool detecting family-based multi-locus multi-allelic effects qualitative
+or quantitative traits, extended original transmission disequilibrium
+test (tdt). tests handle comparison additive epistatic models,
+lack independence markers multiple offspring described.
+performance m-tdt compared multifactor dimensionality reduction
+(mdr) approach designed investigating families hypothesis-free
+genome-wide setting (the multifactor dimensionality reduction pedigree
+disequilibrium test, mdr-pdt). methods derived tdt mdr to
+investigate genetic interaction family-based design also discussed.
+the case three independent biallelic loci illustrated using simulations for
+one- three-locus alternative hypotheses. m-tdt identified joint-locus effects 
+and distinguished effectively additive epistatic models. showed 
+practical example m-tdt based three genes already known implicated in
+malaria susceptibility. findings demonstrate value m-tdt a
+hypothesis-driven context test multi-way epistasis underlying common
+disease etiology, whereas mdr-pdt-based methods appropriate a
+hypothesis-free genome-wide setting.
+
+© author 2016. published oxford university press. rights reserved. for
+permissions, please email: journals.permissions@oup.com.
+
+doi: 10.1093/bib/bbw039 
+pmid: 27178992  [indexed medline]
+

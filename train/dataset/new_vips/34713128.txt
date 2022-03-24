@@ -1,0 +1,60 @@
+
+1. Front Digit Health. 2021 Aug 24;3:654234. doi: 10.3389/fdgth.2021.654234.
+eCollection 2021.
+
+Operating an eHealth System for Prehospital and Emergency Health Care Support in 
+Light of Covid-19.
+
+Kyriacou E(1), Antoniou Z(2), Hadjichristofi G(3), Fragkos P(4), Kronis C(4),
+Theodosiou T(5), Constantinou R(5).
+
+Author information: 
+(1)Department of Electrical and Computer Engineering and Informatics, Cyprus
+University of Technology, Limassol, Cyprus.
+(2)eHealth Lab, Department of Computer Science, University of Cyprus, Nicosia,
+Cyprus.
+(3)Department of Computer Science and Engineering, European University Cyprus,
+Nicosia, Cyprus.
+(4)eHealth Lab, Department of Electrical and Computer Engineering and
+Informatics, Frederick University, Limassol, Cyprus.
+(5)Ambulance Department, State Health Services Organization, Ministry of Health, 
+Nicosia, Cyprus.
+
+Introduction: The support of prehospital and emergency call handling and the
+impact of Covid-19 is discussed throughout this study. The initial purpose was to
+create an electronic system (eEmergency system) in order to support, improve, and
+help the procedure of handling emergency calls. This system was expanded to
+facilitate needed operation changes for Covid-19. Materials and Methods: An
+effort to reform the procedures followed for emergency call handling and
+Ambulance dispatch started on the Island of Cyprus in 2016; along that direction,
+a central call centre was created. The electronic system presented in this work
+was designed for this call centre and the new organization of the ambulance
+services. The main features are the support for ambulance fleet handling, the
+support for emergency call evaluation and triage procedure, and the improvement
+of communication between the call centre and the ambulance vehicles. This system 
+started regular operation at the end of 2018. One year later, when Covid-19
+period started, we expanded it with the addition of several new features in order
+to support the handling of patients infected with the new virus. Results: This
+system has handled 112,414 cases during the last 25 months out of which 4,254
+were Covid-19 cases. These cases include the transfer of patients from their
+house to the reference hospital, or the transfer of critical patients from the
+reference hospital to another hospital with an intensive care unit or transfer of
+patients from one hospital to another one for other reasons, like the number of
+admissions. Conclusion: The main purpose of this study was to create an
+electronic system (eEmergency system) in order to support, improve, and help the 
+procedure of handling emergency calls. The main components and the architecture
+of this system are outlined in this paper. This system is being successfully used
+for 25 months and has been a useful tool from the beginning of the pandemic
+period of Covid-19.
+
+Copyright © 2021 Kyriacou, Antoniou, Hadjichristofi, Fragkos, Kronis, Theodosiou 
+and Constantinou.
+
+DOI: 10.3389/fdgth.2021.654234 
+PMCID: PMC8521915
+PMID: 34713128 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

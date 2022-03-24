@@ -1,0 +1,48 @@
+
+1. J Chromatogr A. 2021 Nov 22;1658:462614. doi: 10.1016/j.chroma.2021.462614. Epub 
+2021 Oct 8.
+
+Process analytical technology in continuous processing: Model-based real time
+control of pH between capture chromatography and viral inactivation for
+monoclonal antibody production.
+
+Thakur G(1), Ghumade P(1), Rathore AS(2).
+
+Author information: 
+(1)Department of Chemical Engineering, Indian Institute of Technology, 110016,
+Hauz Khas, India.
+(2)Department of Chemical Engineering, Indian Institute of Technology, 110016,
+Hauz Khas, India. Electronic address: asrathore@biotechcmz.com.
+
+A real time mechanistic model-based control strategy is demonstrated for in-line 
+pH adjustment post-capture chromatography and prior to viral inactivation for
+continuous processing of monoclonal antibodies. At this point in the process,
+tight control of pH is essential, as pH fluctuations above 3.5 can result in
+incomplete viral inactivation, while fluctuations below 3.5 can lead to
+significant aggregate formation. The present approach predicts the pH profile
+during the transition phase between chromatography wash and elution steps by
+modelling the process stream at the column outlet as a mixture of two independent
+buffer systems. Control of pH in this transition phase is a critical
+consideration in capture chromatography as a significant amount of mAb material
+is eluted at this time. The model inputs are buffer concentrations, flow rates,
+and theoretical pKa values, along with cleaning step conductivity profiles which 
+are readily available from a typical process chromatography equipment. The
+utilization of the most recent cleaning cycle data as an input to the model
+allows sensitive calibration to the individual process at hand on a
+column-to-column basis. The model is able to accurately predict the pH profile
+throughout the elution, as well as calculate the flow rate of the acid (titrant) 
+required at each time point to maintain the pH consistently at 3.5±0.2. The
+strategy is demonstrated for various buffers, columns, operating conditions, and 
+process deviations in a three-column continuous process, and is a useful and
+simple approach for achieving robust control of pH at this critical point in the 
+continuous train.
+
+Copyright © 2021. Published by Elsevier B.V.
+
+DOI: 10.1016/j.chroma.2021.462614 
+PMID: 34656843  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare the following financial interests/personal relationships which may be
+considered as potential competing interests.
+

@@ -1,0 +1,36 @@
+
+1. plos one. 2016 apr 26;11(4):e0153882. doi: 10.1371/journal.pone.0153882.
+ecollection 2016.
+
+hepatitis c virus protein interaction network analysis based hepatocellular
+carcinoma.
+
+han y(1), niu j(2), wang d(3), li y(1)(3).
+
+author information: 
+(1)xi'an center disease control prevention, xi'an, china.
+(2)the general hospital shenyang military, shenyang, china.
+(3)air force aviation medicine identification training center, dalian, china.
+
+epidemiological studies validated association hepatitis c virus 
+(hcv) infection hepatocellular carcinoma (hcc). increasing number of
+studies show protein-protein interactions (ppis) hcv proteins and
+host proteins play vital role infection mediate hcc progression. this
+work, collected published interaction hcv human proteins,
+which include 455 unique human proteins participating 524 hcv-human
+interactions. then, construct hcv-human hcv-hcc protein interaction
+networks, display biological knowledge regarding mechanism hcv
+pathogenesis, particularly respect pathogenesis hcc. in-depth 
+analysis hcv-hcc interaction network, found interactors are
+enriched jak/stat, p53, mapk, tnf, wnt, cell cycle pathways. using a
+random walk restart algorithm, predicted importance protein
+in hcv-hcc network found akt1 may play key role hcc
+progression. moreover, found ns5a promotes hcc cells proliferation and
+metastasis activating akt/gsk3β/β-catenin pathway. work provides basis 
+for detailed map tracking new cellular interactions hcv identifying
+potential targets hcv-related hepatocellular carcinoma treatment.
+
+doi: 10.1371/journal.pone.0153882 
+pmcid: pmc4846009
+pmid: 27115606  [indexed medline]
+

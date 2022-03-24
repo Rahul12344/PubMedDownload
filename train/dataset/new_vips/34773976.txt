@@ -1,0 +1,60 @@
+
+1. BMC Genom Data. 2021 Nov 13;22(1):48. doi: 10.1186/s12863-021-01007-9.
+
+In depth analysis of Cyprus-specific mutations of SARS-CoV-2 strains using
+computational approaches.
+
+Oulas A(1)(2), Richter J(3), Zanti M(4)(5)(6), Tomazou M(4)(5)(7), Michailidou
+K(5)(6), Christodoulou K(5)(7), Christodoulou C(5)(3), Spyrou GM(4)(5).
+
+Author information: 
+(1)Bioinformatics Department, Cyprus Institute of Neurology and Genetics,
+Nicosia, Cyprus. anastasioso@cing.ac.cy.
+(2)The Cyprus School of Molecular Medicine, Nicosia, Cyprus.
+anastasioso@cing.ac.cy.
+(3)Molecular Virology Department, Cyprus Institute of Neurology and Genetics,
+Nicosia, Cyprus.
+(4)Bioinformatics Department, Cyprus Institute of Neurology and Genetics,
+Nicosia, Cyprus.
+(5)The Cyprus School of Molecular Medicine, Nicosia, Cyprus.
+(6)Biostatistics Unit, Cyprus Institute of Neurology and Genetics, Nicosia,
+Cyprus.
+(7)Neurogenetics Department, Cyprus Institute of Neurology and Genetics, Nicosia,
+Cyprus.
+
+BACKGROUND: This study aims to characterize SARS-CoV-2 mutations which are
+primarily prevalent in the Cypriot population. Moreover, using computational
+approaches, we assess whether these mutations are associated with changes in
+viral virulence.
+METHODS: We utilize genetic data from 144 sequences of SARS-CoV-2 strains from
+the Cypriot population obtained between March 2020 and January 2021, as well as
+all data available from GISAID. We combine this with countries' regional
+information, such as deaths and cases per million, as well as COVID-19-related
+public health austerity measure response times. Initial indications of selective 
+advantage of Cyprus-specific mutations are obtained by mutation tracking
+analysis. This entails calculating specific mutation frequencies within the
+Cypriot population and comparing these with their prevalence world-wide
+throughout the course of the pandemic. We further make use of linear regression
+models to extrapolate additional information that may be missed through standard 
+statistical analysis.
+RESULTS: We report a single mutation found in the ORF1ab gene (nucleotide
+position 18,440) that appears to be significantly enriched within the Cypriot
+population. The amino acid change is denoted as S6059F, which maps to the
+SARS-CoV-2 NSP14 protein. We further analyse this mutation using regression
+models to investigate possible associations with increased deaths and cases per
+million. Moreover, protein structure prediction tools show that the mutation
+infers a conformational change to the protein that significantly alters its
+structure when compared to the reference protein.
+CONCLUSIONS: Investigating Cyprus-specific mutations for SARS-CoV-2 can lead to a
+better understanding of viral pathogenicity. Researching these mutations can
+generate potential links between viral-specific mutations and the unique genomics
+of the Cypriot population. This can not only lead to important findings from
+which to battle the pandemic on a national level, but also provide insights into 
+viral virulence worldwide.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12863-021-01007-9 
+PMCID: PMC8590444
+PMID: 34773976  [Indexed for MEDLINE]
+

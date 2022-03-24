@@ -1,0 +1,38 @@
+
+1. Phys Chem Chem Phys. 2021 Nov 10;23(43):24617-24626. doi: 10.1039/d1cp02874j.
+
+Constant pH molecular dynamics of porcine circovirus 2 capsid protein reveals a
+mechanism for capsid assembly.
+
+Tarasova E(1)(2), Okimoto N(1)(3), Feng S(2), Nerukh D(4), Khayat R(2), Taiji
+M(1)(3).
+
+Author information: 
+(1)Laboratory for Computational Molecular Design, RIKEN Center for Biosystems
+Dynamics Research (BDR), 6-2-3 Furuedai, Suita, Osaka 565-0874, Japan.
+(2)Department of Chemistry and Biochemistry, The City College of New York, New
+York, New York, USA. rkhayat@ccny.cuny.edu.
+(3)Drug Discovery Molecular Simulation Platform Unit, RIKEN Center for Biosystems
+Dynamics Research (BDR), 6-2-3 Furuedai, Suita, Osaka 565-0874, Japan.
+(4)Department of Mathematics, Aston University, Birmingham, UK.
+
+Spatiotemporal regulation of viral capsid assembly ensures the selection of the
+viral genome for encapsidation. The porcine circovirus 2 is the smallest
+autonomously replicating pathogenic virus, yet how PCV2 capsid assembly is
+regulated to occur within the nucleus remains unknown. We report that pure PCV2
+capsid proteins, in the absence of nucleic acids, require acidic conditions to
+assemble into empty capsids in vitro. By employing constant pH replica exchange
+molecular dynamics, we unveil the atomistic mechanism of pH-dependency for capsid
+assembly. The results show that an appropriate protonation configuration for a
+cluster of acidic amino acids is necessary to appropriately position the GH-loop 
+for driving the capsid assembly. We demonstrate that assembly is prohibited at
+neutral pH because deprotonation of these residues results in their electrostatic
+repulsion, shifting the GH-loop to a position incompatible with capsid assembly. 
+We propose that encapsulation of nucleic acids overcomes this repulsion to
+suitably position the GH-loop. Our findings provide the first atomic resolution
+mechanism of capsid assembly regulation. These findings are useful for the
+development of therapeutics that inhibit PCV2 self-assembly.
+
+DOI: 10.1039/d1cp02874j 
+PMID: 34726674 
+

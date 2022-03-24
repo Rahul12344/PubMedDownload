@@ -1,0 +1,39 @@
+
+1. PLoS Pathog. 2017 Jan 4;13(1):e1006146. doi: 10.1371/journal.ppat.1006146.
+eCollection 2017 Jan.
+
+CRL4WDR1 Controls Polo-like Kinase Protein Abundance to Promote Bilobe
+Duplication, Basal Body Segregation and Flagellum Attachment in Trypanosoma
+brucei.
+
+Hu H(1), Zhou Q(1), Han X(1), Li Z(1).
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, McGovern Medical School,
+University of Texas Health Science Center at Houston, Houston, Texas, United
+States of America.
+
+The Polo-like kinase homolog in Trypanosoma brucei, TbPLK, plays essential roles 
+in basal body segregation, flagellum attachment and cytokinesis. The level of
+TbPLK protein is tightly controlled, but the underlying mechanism remains
+elusive. Here, we report a Cullin-RING ubiquitin ligase composed of Cullin4, the 
+DNA damage-binding protein 1 homolog TbDDB1 and a WD40-repeat protein WDR1 that
+controls TbPLK abundance in the basal body and the bilobe. WDR1, through its
+C-terminal domain, interacts with the PEST motif in TbPLK and, through its
+N-terminal WD40 motif, binds to TbDDB1. Depletion of WDR1 inhibits bilobe
+duplication and basal body segregation, disrupts the assembly of the new
+flagellum attachment zone filament and detaches the new flagellum. Consistent
+with its role in TbPLK degradation, depletion of WDR1 causes excessive
+accumulation of TbPLK in the basal body and the bilobe, leading to continuous
+phosphorylation of TbCentrin2 in the bilobe at late cell cycle stages. Together, 
+these results identify a novel WD40-repeat protein as a TbPLK receptor in the
+Cullin4-DDB1 ubiquitin ligase complex for degrading TbPLK in the basal body and
+the bilobe after the G1/S cell cycle transition, thereby promoting bilobe
+duplication, basal body separation and flagellum-cell body adhesion.
+
+DOI: 10.1371/journal.ppat.1006146 
+PMCID: PMC5241021
+PMID: 28052114  [Indexed for MEDLINE]
+
+Conflict of interest statement: We declare no competing interests.
+

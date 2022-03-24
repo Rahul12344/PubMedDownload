@@ -1,0 +1,71 @@
+
+1. Cell Host Microbe. 2021 Nov 10. pii: S1931-3128(21)00473-X. doi:
+10.1016/j.chom.2021.10.009. [Epub ahead of print]
+
+Human influenza virus challenge identifies cellular correlates of protection for 
+oral vaccination.
+
+McIlwain DR(1), Chen H(2), Rahil Z(2), Bidoki NH(3), Jiang S(4), Bjornson Z(2),
+Kolhatkar NS(5), Martinez CJ(5), Gaudillière B(6), Hedou J(6), Mukherjee N(2),
+Schürch CM(7), Trejo A(2), Affrime M(8), Bock B(8), Kim K(9), Liebowitz D(5),
+Aghaeepour N(10), Tucker SN(5), Nolan GP(11).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, CA, USA; WCCT Global, Cypress, CA, USA. Electronic address:
+mcilwain@stanford.edu.
+(2)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, CA, USA.
+(3)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, CA, USA; Department of Anesthesiology, Perioperative and Pain
+Medicine, Stanford University School of Medicine, Stanford, CA, USA; Department
+of Biomedical Informatics, Stanford University School of Medicine, Stanford, CA, 
+USA.
+(4)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, CA, USA; Center for Virology and Vaccine Research, Beth
+Israel Deaconess Medical Center, Boston, MA, USA.
+(5)Vaxart, Inc., South San Francisco, CA, USA.
+(6)Department of Anesthesiology, Perioperative and Pain Medicine, Stanford
+University School of Medicine, Stanford, CA, USA.
+(7)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, CA, USA; Department of Pathology and Neuropathology,
+University Hospital and Comprehensive Cancer Center Tübingen, Tübingen, Germany.
+(8)WCCT Global, Cypress, CA, USA.
+(9)Ark Clinical Research, LLC, Long Beach, CA, USA.
+(10)Department of Anesthesiology, Perioperative and Pain Medicine, Stanford
+University School of Medicine, Stanford, CA, USA; Department of Biomedical
+Informatics, Stanford University School of Medicine, Stanford, CA, USA;
+Department of Pediatrics, Stanford University School of Medicine, Stanford, CA,
+USA.
+(11)Department of Pathology, Stanford University School of Medicine, Stanford,
+CA, USA.
+
+Developing new influenza vaccines with improved performance and easier
+administration routes hinges on defining correlates of protection.
+Vaccine-elicited cellular correlates of protection for influenza in humans have
+not yet been demonstrated. A phase-2 double-blind randomized placebo and active
+(inactivated influenza vaccine) controlled study provides evidence that a
+human-adenovirus-5-based oral influenza vaccine tablet (VXA-A1.1) can protect
+from H1N1 virus challenge in humans. Mass cytometry characterization of
+vaccine-elicited cellular immune responses identified shared and
+vaccine-type-specific responses across B and T cells. For VXA-A1.1, the abundance
+of hemagglutinin-specific plasmablasts and plasmablasts positive for integrin
+α4β7, phosphorylated STAT5, or lacking expression of CD62L at day 8 were
+significantly correlated with protection from developing viral shedding following
+virus challenge at day 90 and contributed to an effective machine learning model 
+of protection. These findings reveal the characteristics of vaccine-elicited
+cellular correlates of protection for an oral influenza vaccine.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chom.2021.10.009 
+PMID: 34784508 
+
+Conflict of interest statement: Declaration of interests The authors declare the 
+following competing interests: S.N.T., D.L., N.S.K., and C.J.M. are current or
+former employees of Vaxart Inc. G.P.N. and D.R.M. have received research funding 
+support from Vaxart Inc. M.A., K.K., and B.B. are current or former employees of 
+WCCT Global. D.R.M. is an unpaid advisor for WCCT Global. Z.B. is an employee of 
+CellCarta. CMS is a scientific advisor to and has received research funding from 
+Enable Medicine, Inc., all outside of this work.
+

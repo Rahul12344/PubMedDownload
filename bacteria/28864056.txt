@@ -1,0 +1,92 @@
+
+1. Lancet Respir Med. 2017 Oct;5(10):816-826. doi: 10.1016/S2213-2600(17)30294-1.
+Epub 2017 Aug 29.
+
+Classification of patients with sepsis according to blood genomic endotype: a
+prospective cohort study.
+
+Scicluna BP(1), van Vught LA(2), Zwinderman AH(3), Wiewel MA(2), Davenport EE(4),
+Burnham KL(4), Nürnberg P(5), Schultz MJ(6), Horn J(6), Cremer OL(7), Bonten
+MJ(8), Hinds CJ(9), Wong HR(10), Knight JC(4), van der Poll T(11); MARS
+consortium.
+
+Collaborators: de Beer FM, Bos LDJ, Frencken JF, Koster-Brouwer ME, van de Groep 
+K, Verboom DM, Glas GJ, van Hooijdonk RTM, Hoogendijk AJ, Huson MA, Klouwenberg
+PMK, Ong DSY, Schouten LRA, Straat M, Witteveen E, Wieske L.
+
+Author information: 
+(1)Center for Experimental Molecular Medicine, Academic Medical Center,
+Amsterdam, Netherlands; Department of Clinical Epidemiology, Biostatistics and
+Bioinformatics, Academic Medical Center, Amsterdam, Netherlands. Electronic
+address: b.scicluna@amc.uva.nl.
+(2)Center for Experimental Molecular Medicine, Academic Medical Center,
+Amsterdam, Netherlands.
+(3)Department of Clinical Epidemiology, Biostatistics and Bioinformatics,
+Academic Medical Center, Amsterdam, Netherlands.
+(4)Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK.
+(5)Cologne Center for Genomics, University of Cologne, Cologne, Germany; Cologne 
+Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases,
+University of Cologne, Cologne, Germany; Center for Molecular Medicine Cologne,
+University of Cologne, Cologne, Germany.
+(6)Department of Intensive Care Medicine, Academic Medical Center, Amsterdam,
+Netherlands.
+(7)Department of Intensive Care Medicine, University Medical Center Utrecht,
+Utrecht, Netherlands.
+(8)Department of Medical Microbiology, University Medical Center Utrecht,
+Utrecht, Netherlands.
+(9)William Harvey Research Institute, Barts and The London School of Medicine,
+Queen Mary University, London, UK.
+(10)Division of Critical Care Medicine, Cincinnati Children's Hospital Medical
+Center and Cincinnati Children's Research Foundation, Cincinnati, OH, USA;
+Department of Pediatrics, University of Cincinnati College of Medicine,
+Cincinnati, OH, USA.
+(11)Center for Experimental Molecular Medicine, Academic Medical Center,
+Amsterdam, Netherlands; Division of Infectious Diseases, Academic Medical Center,
+Amsterdam, Netherlands.
+
+Comment in
+    Lancet Respir Med. 2017 Oct;5(10 ):767-768.
+
+BACKGROUND: Host responses during sepsis are highly heterogeneous, which hampers 
+the identification of patients at high risk of mortality and their selection for 
+targeted therapies. In this study, we aimed to identify biologically relevant
+molecular endotypes in patients with sepsis.
+METHODS: This was a prospective observational cohort study that included
+consecutive patients admitted for sepsis to two intensive care units (ICUs) in
+the Netherlands between Jan 1, 2011, and July 20, 2012 (discovery and first
+validation cohorts) and patients admitted with sepsis due to community-acquired
+pneumonia to 29 ICUs in the UK (second validation cohort). We generated
+genome-wide blood gene expression profiles from admission samples and analysed
+them by unsupervised consensus clustering and machine learning. The primary
+objective of this study was to establish endotypes for patients with sepsis, and 
+assess the association of these endotypes with clinical traits and survival
+outcomes. We also established candidate biomarkers for the endotypes to allow
+identification of patient endotypes in clinical practice.
+FINDINGS: The discovery cohort had 306 patients, the first validation cohort had 
+216, and the second validation cohort had 265 patients. Four molecular endotypes 
+for sepsis, designated Mars1-4, were identified in the discovery cohort, and were
+associated with 28-day mortality (log-rank p=0·022). In the discovery cohort, the
+worst outcome was found for patients classified as having a Mars1 endotype, and
+at 28 days, 35 (39%) of 90 people with a Mars1 endotype had died (hazard ratio
+[HR] vs all other endotypes 1·86 [95% CI 1·21-2·86]; p=0·0045), compared with 23 
+(22%) of 105 people with a Mars2 endotype (HR 0·64 [0·40-1·04]; p=0·061), 16
+(23%) of 71 people with a Mars3 endotype (HR 0·71 [0·41-1·22]; p=0·19), and 13
+(33%) of 40 patients with a Mars4 endotype (HR 1·13 [0·63-2·04]; p=0·69).
+Analysis of the net reclassification improvement using a combined clinical and
+endotype model significantly improved risk prediction to 0·33 (0·09-0·58;
+p=0·008). A 140-gene expression signature reliably stratified patients with
+sepsis to the four endotypes in both the first and second validation cohorts.
+Only Mars1 was consistently significantly associated with 28-day mortality across
+the cohorts. To facilitate possible clinical use, a biomarker was derived for
+each endotype; BPGM and TAP2 reliably identified patients with a Mars1 endotype.
+INTERPRETATION: This study provides a method for the molecular classification of 
+patients with sepsis to four different endotypes upon ICU admission. Detection of
+sepsis endotypes might assist in providing personalised patient management and in
+selection for trials.
+FUNDING: Center for Translational Molecular Medicine, Netherlands.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S2213-2600(17)30294-1 
+PMID: 28864056  [Indexed for MEDLINE]
+

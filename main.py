@@ -36,10 +36,16 @@ class DownloadWorker(Thread):
     def query(self, curr_uid):
         if self.dataset == "VIP":
             queries.Query(uid=curr_uid, set_of_valid_ids=self.valid_ids, path=self.path, testing_threshold=self.test_size, validation_threshold=self.val_size)
+        elif self.dataset == "VIPextra":
+            queries.QueryNew(uid=curr_uid)
         elif self.dataset == "malaria":
             queries.MalariaQueryForDataset(uid=curr_uid, set_of_valid_ids=self.valid_ids, path=self.path, testing_threshold=self.test_size, validation_threshold=self.val_size)
         elif self.dataset == "bacteria":
-            queries.MalariaQueryForDataset(uid=curr_uid, set_of_valid_ids=self.valid_ids, path=self.path, testing_threshold=self.test_size, validation_threshold=self.val_size)
+            queries.BacteriaDatasetQuery(uid=curr_uid)
+        elif self.dataset == "bacteria_prediction":
+            queries.BacteriaPredictionDatasetQuery(uid=curr_uid, set_of_valid_ids=self.valid_ids, testing_threshold=self.test_size, validation_threshold=self.val_size)
+        elif self.dataset == "bacteria_update":
+            queries.BacteriaPredictionDatasetQuery(uid=curr_uid, set_of_valid_ids=self.valid_ids, testing_threshold=self.test_size, validation_threshold=self.val_size)
             
     def run(self):
         if self.dataset == "VIP":
@@ -58,6 +64,23 @@ class DownloadWorker(Thread):
                     if path.isfile("{0}/testing/neg/{1}.txt".format(path, curr_)):
                         logger.info('Already downloaded {0}'.format(curr_))
                     if path.isfile("{0}/training/neg/{1}.txt".format(path, curr_)):
+                        logger.info('Already downloaded {0}'.format(curr_))
+                    else:
+                        self.query(str(curr_))
+                    logger.info('Downloaded abstracts related to {0}'.format(curr_))
+                    self.q.task_done()
+                    time.sleep(1)
+                except Exception as e:
+                    logger.error("Failed to download:{0}".format(str(e)))
+                    self.q.put(curr_)
+                    logger.info('Re-queueing {0}'.format(curr_))
+                    self.q.task_done()
+        elif self.dataset == "VIPextra":
+            while True:
+                curr_ = self.q.get()
+                logger.info('Downloading abstracts related to {0}'.format(curr_))       
+                try:
+                    if path.isfile("{0}/new_vips/{1}.txt".format(path, curr_)):
                         logger.info('Already downloaded {0}'.format(curr_))
                     else:
                         self.query(str(curr_))
@@ -95,11 +118,7 @@ class DownloadWorker(Thread):
                 curr_ = self.q.get()
                 logger.info('Downloading abstracts related to {0}'.format(curr_))       
                 try:
-                    if path.isfile("{0}/bacteria_validation/{1}.txt".format(path, curr_)):
-                        logger.info('Already downloaded {0}'.format(curr_))
-                    if path.isfile("{0}/bacteria_testing/{1}.txt".format(path, curr_)):
-                        logger.info('Already downloaded {0}'.format(curr_))
-                    if path.isfile("{0}/bacteria_training/{1}.txt".format(path, curr_)):
+                    if path.isfile("{0}/bacteria/{1}.txt".format(path, curr_)):
                         logger.info('Already downloaded {0}'.format(curr_))
                     else:
                         self.query(str(curr_))
@@ -111,14 +130,68 @@ class DownloadWorker(Thread):
                     self.q.put(curr_)
                     logger.info('Re-queueing {0}'.format(curr_))
                     self.q.task_done()
-                
+        elif self.dataset == "bacteria_prediction":
+            while True:
+                curr_ = self.q.get()
+                logger.info('Downloading abstracts related to {0}'.format(curr_))       
+                try:
+                    if path.isfile("{0}/bacteria_validation/pos/{1}.txt".format(path, curr_)):
+                        logger.info('Already downloaded {0}'.format(curr_))
+                    if path.isfile("{0}/bacteria_testing/pos/{1}.txt".format(path, curr_)):
+                        logger.info('Already downloaded {0}'.format(curr_))
+                    if path.isfile("{0}/bacteria_training/pos/{1}.txt".format(path, curr_)):
+                        logger.info('Already downloaded {0}'.format(curr_))
+                    if path.isfile("{0}/bacteria_validation/neg/{1}.txt".format(path, curr_)):
+                        logger.info('Already downloaded {0}'.format(curr_))
+                    if path.isfile("{0}/bacteria_testing/neg/{1}.txt".format(path, curr_)):
+                        logger.info('Already downloaded {0}'.format(curr_))
+                    if path.isfile("{0}/bacteria_training/neg/{1}.txt".format(path, curr_)):
+                        logger.info('Already downloaded {0}'.format(curr_))
+                    else:
+                        self.query(str(curr_))
+                    logger.info('Downloaded abstracts related to {0}'.format(curr_))
+                    self.q.task_done()
+                    time.sleep(1)
+                except Exception as e:
+                    logger.error("Failed to download:{0}".format(str(e)))
+                    self.q.put(curr_)
+                    logger.info('Re-queueing {0}'.format(curr_))
+                    self.q.task_done()
+        elif self.dataset == "bacteria_update":
+            while True:
+                curr_ = self.q.get()
+                logger.info('Downloading abstracts related to {0}'.format(curr_))       
+                try:
+                    if path.isfile("{0}/updated_bacteria_validation/pos/{1}.txt".format(path, curr_)):
+                        logger.info('Already downloaded {0}'.format(curr_))
+                    if path.isfile("{0}/updated_bacteria_test/pos/{1}.txt".format(path, curr_)):
+                        logger.info('Already downloaded {0}'.format(curr_))
+                    if path.isfile("{0}/updated_bacteria_train/pos/{1}.txt".format(path, curr_)):
+                        logger.info('Already downloaded {0}'.format(curr_))
+                    if path.isfile("{0}/updated_bacteria_validation/neg/{1}.txt".format(path, curr_)):
+                        logger.info('Already downloaded {0}'.format(curr_))
+                    if path.isfile("{0}/updated_bacteria_test/neg/{1}.txt".format(path, curr_)):
+                        logger.info('Already downloaded {0}'.format(curr_))
+                    if path.isfile("{0}/updated_bacteria_train/neg/{1}.txt".format(path, curr_)):
+                        logger.info('Already downloaded {0}'.format(curr_))
+                    else:
+                        self.query(str(curr_))
+                    logger.info('Downloaded abstracts related to {0}'.format(curr_))
+                    self.q.task_done()
+                    time.sleep(1)
+                except Exception as e:
+                    logger.error("Failed to download:{0}".format(str(e)))
+                    self.q.put(curr_)
+                    logger.info('Re-queueing {0}'.format(curr_))
+                    time.sleep(1)
+                    self.q.task_done()                
 def main():
     parsers = argparse.ArgumentParser(description='Download handler')
     parsers.add_argument('--val_size', type=float, default=0.2, help='Percentage of dataset to be in validation set')
     parsers.add_argument('--test_size',type=float, default=0.2, help='Percentage of dataset to be in test set')
     parsers.add_argument('--neg_size', type=int, default=3000, help='Number of non-true positives to be downloaded')
     parsers.add_argument('--pos_size', type=int, default=3000, help='Number of true positives to be downloaded')
-    parsers.add_argument('--dataset', type=str, default=1.0, help='Dataset type [malaria/VIP]')
+    parsers.add_argument('--dataset', type=str, default="VIP", help='Dataset type [malaria/VIP/bacteria/bacteria_dl/bacteria_prediction/VIPextra/bacteria_update]')
     parsers.add_argument('--path', type=str, default=".", help='File path to download to')
     args = parsers.parse_args()
     
@@ -135,6 +208,8 @@ def main():
     if dataset == "VIP":
         readFile = parser.Parser("VIPs_PMID_for_Rahul.txt", "mart_export.txt")
         ensemble_genes, HGNC_Parsing, connectors = readFile.ReadFile()
+        
+        print(sorted(HGNC_Parsing))
     
         curr_query = queries.PubMedQuery("virus", HGNC_Parsing)
         hgncs = curr_query.Query()
@@ -176,6 +251,33 @@ def main():
         
         q_neg.join()
             
+        logging.info('Downloaded {0} objects'.format(len(hgncs)))
+        logging.info('Took %s s', time.time() - ts)
+        
+    elif dataset == "VIPextra":
+        readFile = parser.Parser("VIPs_PMID_for_Rahul.txt", "mart_export.txt")
+        ensemble_genes, HGNC_Parsing, connectors = readFile.ReadFile()
+        
+        connectors = [i for i in connectors if i]
+        
+    
+        curr_query = queries.PubMedQuery("virus", HGNC_Parsing)
+        hgncs = curr_query.QueryOutsiderange(connectors)
+                        
+        ts = time.time()
+        q = queue.Queue(maxsize=0)
+    
+        pos_counter = 0
+        for x in range(10):
+            worker = DownloadWorker(q, hgncs, file_path, test_set_percentage, validation_set_percentage, dataset)
+            worker.daemon = True
+            worker.start()
+        for uid in hgncs:
+            logger.info('Queueing pos {0}'.format(uid))
+            q.put(str(uid))
+            
+        q.join()
+                    
         logging.info('Downloaded {0} objects'.format(len(hgncs)))
         logging.info('Took %s s', time.time() - ts)
         
@@ -231,8 +333,101 @@ def main():
         with open('pubmedids_for_bacteria.txt', 'w') as f:
             for item in bacteria_id_set:
                 f.write("%s\n" % item)
-        
+                
+    elif dataset == "bacteria_dl":
+        bacteria_id_set = []
+        f = open("pubmedids_for_bacteria.txt")
+        for line in f.readlines():
+            bacteria_id_set.append(int(line))
+        f.close()
 
+        
+        ts = time.time()
+        q = queue.Queue(maxsize=0)
+    
+        for x in range(10):
+            worker = DownloadWorker(q, bacteria_id_set, file_path, test_set_percentage, validation_set_percentage, "bacteria")
+            worker.daemon = True
+            worker.start()
+        for b_id in bacteria_id_set:
+            logger.info('Queueing pos {0}'.format(b_id))
+            q.put(str(b_id))
+            
+        q.join()            
+        logging.info('Downloaded {0} objects'.format(len(bacteria_id_set)))
+        logging.info('Took %s s', time.time() - ts)      
+          
+    elif dataset == "bacteria_prediction":
+        readFile = parser.Parser("final_cleaned.csv", "")
+        bacteria_true_positives, bacteria_true_negatives = readFile.ReadBacteriaFiles()
+        print(bacteria_true_positives)
+        print(bacteria_true_negatives)
+        
+        ts = time.time()
+        q_pos = queue.Queue(maxsize=0)
+        q_neg = queue.Queue(maxsize=0)
+    
+        pos_counter = 0
+        for x in range(6):
+            worker = DownloadWorker(q_pos, bacteria_true_positives, file_path, test_set_percentage, validation_set_percentage, dataset)
+            worker.daemon = True
+            worker.start()
+        for true_positive in bacteria_true_positives:
+            logger.info('Queueing pos {0}'.format(true_positive))
+            q_pos.put(str(true_positive))
+            
+        q_pos.join()
+        
+        for x in range(6):
+            worker = DownloadWorker(q_neg, bacteria_true_positives, file_path, test_set_percentage, validation_set_percentage, dataset)
+            worker.daemon = True
+            worker.start()
+        for true_negative in bacteria_true_negatives:
+            logger.info('Queueing neg {0}'.format(true_negative))
+            q_neg.put(str(true_negative))
+        
+        q_neg.join()
+        
+        logging.info('Downloaded {0} objects'.format(len(bacteria_true_positives) + len(bacteria_true_negatives)))
+        logging.info('Took %s s', time.time() - ts)
+        
+    elif dataset == "bacteria_update":
+        readFile = parser.Parser("final_cleaned.csv", "")
+        tps, tns = readFile.ReadUpdatedBacteriaFiles()
+        #print(tps)
+        readFile.ModifyCleanedFile(tps, tns)
+        
+        bacteria_true_positives, bacteria_true_negatives = readFile.ReadBacteriaFiles()
+        print(len(bacteria_true_negatives))
+        
+        ts = time.time()
+        q_pos = queue.Queue(maxsize=0)
+        q_neg = queue.Queue(maxsize=0)
+    
+        pos_counter = 0
+        for x in range(6):
+            worker = DownloadWorker(q_pos, bacteria_true_positives, file_path, test_set_percentage, validation_set_percentage, dataset)
+            worker.daemon = True
+            worker.start()
+        for true_positive in bacteria_true_positives:
+            logger.info('Queueing pos {0}'.format(true_positive))
+            q_pos.put(str(true_positive))
+            
+        q_pos.join()
+        
+        for x in range(6):
+            worker = DownloadWorker(q_neg, bacteria_true_positives, file_path, test_set_percentage, validation_set_percentage, dataset)
+            worker.daemon = True
+            worker.start()
+        for true_negative in bacteria_true_negatives:
+            logger.info('Queueing neg {0}'.format(true_negative))
+            q_neg.put(str(true_negative))
+            
+        q_neg.join()
+        
+        logging.info('Downloaded {0} objects'.format(len(bacteria_true_positives) + len(bacteria_true_negatives)))
+        logging.info('Took %s s', time.time() - ts)
+        
 
 if __name__ == '__main__':
     main()

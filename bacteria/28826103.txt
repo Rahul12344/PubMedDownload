@@ -1,0 +1,48 @@
+
+1. Comput Biol Chem. 2017 Oct;70:89-95. doi: 10.1016/j.compbiolchem.2017.08.004.
+Epub 2017 Aug 9.
+
+Functional contribution of coenzyme specificity-determining sites of
+7α-hydroxysteroid dehydrogenase from Clostridium absonum.
+
+Lou D(1), Wang Y(2), Tan J(3), Zhu L(2), Ji S(2), Wang B(4).
+
+Author information: 
+(1)Postdoctoral Research Station of Biology, Chongqing University, Chongqing
+400030, China; Key Laboratory of Biorheological Science and Technology (Chongqing
+University), Ministry of Education, College of Bioengineering, Chongqing
+University, Chongqing 400030, China.
+(2)Key Laboratory of Biorheological Science and Technology (Chongqing
+University), Ministry of Education, College of Bioengineering, Chongqing
+University, Chongqing 400030, China.
+(3)Chongqing Key Laboratory of Medicinal Resources in the Three Gorges Reservoir 
+Region, School of Biological & Chemical engineering, Chongqing University of
+Education, Chongqing 400067, China. Electronic address: tanjunmail@126.com.
+(4)Key Laboratory of Biorheological Science and Technology (Chongqing
+University), Ministry of Education, College of Bioengineering, Chongqing
+University, Chongqing 400030, China. Electronic address: wangbc2000@126.com.
+
+Studies of the molecular determinants of coenzyme specificity help to reveal the 
+structure-function relationship of enzymes, especially with regards to coenzyme
+specificity-determining sites (CSDSs) that usually mediate complex interactions. 
+NADP(H)-dependent 7α-hydroxysteroid dehydrogenase from Clostridium absonum (CA
+7α-HSDH), a member of the short-chain dehydrogenase/reductase superfamily (SDRs),
+possesses positively charged CSDSs that mainly contain T15, R16, R38, and R194,
+forming complicated polar interactions with the adenosine ribose C2 phosphate
+group of NADP(H). The R38 residue is crucial for coenzyme anchoring, but the
+influence of the other residues on coenzyme utilization is still not clear.
+Hence, we performed alanine scanning mutagenesis and molecular dynamic (MD)
+simulations. The results suggest that the natural CSDSs have the greatest
+NADP(H)-binding affinity, but not the best activity (kcat) toward NADP+. Compared
+with the wild type and other mutants, the mutant R194A showed the highest
+catalytic efficiency (kcat/Km), which was more than three-times that of the wild 
+type. MD simulation and kinetics analysis suggested that the importance of the
+CSDSs of CA 7α-HSDH should be in accordance with the following order
+R38>T15>R16>R194, and S39 may have a supporting role in NADP(H) anchoring for
+mutants R16A/T194A and T15A/R16A/T194A.
+
+Copyright © 2017. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.compbiolchem.2017.08.004 
+PMID: 28826103  [Indexed for MEDLINE]
+

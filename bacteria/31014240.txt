@@ -1,0 +1,55 @@
+
+1. BMC Genomics. 2019 Apr 24;20(1):313. doi: 10.1186/s12864-019-5683-4.
+
+Gene duplications in the E. coli genome: common themes among pathotypes.
+
+Bernabeu M(1), Sánchez-Herrero JF(1)(2), Huedo P(3), Prieto A(1), Hüttener M(1), 
+Rozas J(1)(2), Juárez A(4)(5).
+
+Author information: 
+(1)Department of Genetics, Microbiology and Statistics, University of Barcelona, 
+Barcelona, Spain.
+(2)Biodiversity Research Institute (IRBio), University of Barcelona, Barcelona,
+Spain.
+(3)Institute of Biotechnology and Biomedicine (IBB), Universitat Autònoma de
+Barcelona, Cerdanyola del Vallès, Spain.
+(4)Department of Genetics, Microbiology and Statistics, University of Barcelona, 
+Barcelona, Spain. ajuarez@ub.edu.
+(5)Institute for Bioengineering of Catalonia, The Barcelona Institute of Science 
+and Technology, Barcelona, Spain. ajuarez@ub.edu.
+
+BACKGROUND: Gene duplication underlies a significant proportion of gene
+functional diversity and genome complexity in both eukaryotes and prokaryotes.
+Although several reports in the literature described the duplication of specific 
+genes in E. coli, a detailed analysis of the extent of gene duplications in this 
+microorganism is needed.
+RESULTS: The genomes of the E. coli enteroaggregative strain 042 and other
+pathogenic strains contain duplications of the gene that codes for the global
+regulator Hha. To determine whether the presence of additional copies of the hha 
+gene correlates with the presence of other genes, we performed a comparative
+genomic analysis between E. coli strains with and without hha duplications. The
+results showed that strains harboring additional copies of the hha gene also
+encode the yeeR irmA (aec69) gene cluster, which, in turn, is also duplicated in 
+strain 042 and several other strains. The identification of these duplications
+prompted us to obtain a global map of gene duplications, first in strain 042 and 
+later in other E. coli genomes. Duplications in the genomes of the
+enteroaggregative strain 042, the uropathogenic strain CFT073 and the
+enterohemorrhagic strain O145:H28 have been identified by a BLASTp protein
+similarity search. This algorithm was also used to evaluate the distribution of
+the identified duplicates among the genomes of a set of 28 representative E. coli
+strains. Despite the high genomic diversity of E. coli strains, we identified
+several duplicates in the genomes of almost all studied pathogenic strains. Most 
+duplicated genes have no known function. Transcriptomic analysis also showed that
+most of these duplications are regulated by the H-NS/Hha proteins.
+CONCLUSIONS: Several duplicated genes are widely distributed among pathogenic E. 
+coli strains. In addition, some duplicated genes are present only in specific
+pathotypes, and others are strain specific. This gene duplication analysis shows 
+novel relationships between E. coli pathotypes and suggests that newly identified
+genes that are duplicated in a high percentage of pathogenic E. coli isolates may
+play a role in virulence. Our study also shows a relationship between the
+duplication of genes encoding regulators and genes encoding their targets.
+
+DOI: 10.1186/s12864-019-5683-4 
+PMCID: PMC6480617
+PMID: 31014240  [Indexed for MEDLINE]
+

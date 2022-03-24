@@ -1,0 +1,58 @@
+
+1. malar j. 2018 aug 6;17(1):285. doi: 10.1186/s12936-018-2432-0.
+
+reduced-representation sequencing identifies small effective population sizes 
+anopheles gambiae north-western lake victoria basin, uganda.
+
+wiltshire rm(1), bergey cm(2), kayondo jk(3), birungi j(3), mukwaya lg(3), emrich
+sj(4), besansky nj(5), collins fh(5).
+
+author information: 
+(1)eck institute global health, department biological sciences, university
+of notre dame, notre dame, in, 46556, usa. rwiltshi@nd.edu.
+(2)departments anthropology biology, pennsylvania state university,
+university park, pa, 16802, usa.
+(3)division entomology vector biology, uganda virus research institute,
+plot no. 51-59, nakiwogo road, entebbe 49, uganda.
+(4)department electrical engineering computer science, university of
+tennessee, knoxville, tn, 37996, usa.
+(5)eck institute global health, department biological sciences, university
+of notre dame, notre dame, in, 46556, usa.
+
+background: malaria leading cause global paediatric mortality in
+children 5 years age. number fatalities reduced significantly
+due expansion control interventions development new
+technologies remains necessary order achieve elimination. recent attention 
+has focused release genetically modified (gm) mosquitoes into
+natural vector populations mechanism interrupting parasite transmission
+but despite successful vivo laboratory studies, detailed population genetic 
+assessment, must first precede proposed field trial, yet be
+undertaken systematically. here, genetic structure anopheles gambiae
+populations north-western lake victoria explored assess their
+suitability candidates pilot field study release gm mosquitoes.
+methods: 478 anopheles gambiae mosquitoes collected six locations a
+subset (n = 96) selected restriction site-associated dna sequencing
+(radseq). resulting single nucleotide polymorphism (snp) marker set was
+analysed effective size (ne), connectivity population structure (pca,
+fst).
+results: 5175 high-quality genome-wide snps identified. principal
+components analysis (pca) collinear genomic regions illustrated that
+individuals clustered concordance geographic origin overlap
+between sites. genetic differentiation populations varied with
+inter-island comparisons highest values (median fst 0.0480-0.0846). ne
+estimates generally small (124.2-1920.3).
+conclusions: reduced-representation snp marker set genome-wide an. gambiae 
+genetic analysis north-western lake victoria basin reported. island
+populations demonstrated low moderate genetic differentiation greater
+structure suggesting limitation migration. smaller estimates ne
+indicate introduced effector transgene susceptible to
+genetic drift ensure driven fixation robust gene drive
+mechanism likely needed. findings, together favourable
+location suitability frequent monitoring, indicate ssese islands
+contain several candidate field locations, merit evaluation as
+potential gm mosquito pilot release sites.
+
+doi: 10.1186/s12936-018-2432-0 
+pmcid: pmc6080216
+pmid: 30081911  [indexed medline]
+

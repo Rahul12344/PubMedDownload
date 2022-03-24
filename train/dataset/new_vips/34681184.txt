@@ -1,0 +1,42 @@
+
+1. Pharmaceuticals (Basel). 2021 Sep 23;14(10). pii: 959. doi: 10.3390/ph14100959.
+
+Discovery of a Novel Tetrapeptide against Influenza A Virus: Rational Design,
+Synthesis, Bioactivity Evaluation and Computational Studies.
+
+Scala MC(1), Agamennone M(2), Pietrantoni A(3)(4), Di Sarno V(1), Bertamino A(1),
+Superti F(3), Campiglia P(1), Sala M(1).
+
+Author information: 
+(1)Department of Pharmacy, University of Salerno, Via Giovanni Paolo II 132,
+84084 Fisciano, Italy.
+(2)Department of Pharmacy, University "G. d'Annunzio" of Chieti-Pescara, Via dei 
+Vestini 31, 66100 Chieti, Italy.
+(3)National Centre for Innovative Technologies in Public Health, National
+Institute of Health, Viale Regina Elena 299, 00161 Rome, Italy.
+(4)Core Facilities, National Institute of Health, Viale Regina Elena 299, 00161
+Rome, Italy.
+
+Influenza is a highly contagious, acute respiratory illness, which represents one
+of the main health issues worldwide. Even though some antivirals are available,
+the alarming increase in virus strains resistant to them highlights the need to
+find new drugs. Previously, Superti et al. deeply investigated the mechanism of
+the anti-influenza virus effect of bovine lactoferrin (bLf) and the role of its
+tryptic fragments (the N- and C-lobes) in antiviral activity. Recently, through a
+truncation library, we identified the tetrapeptides, Ac-SKHS-NH2 (1) and
+Ac-SLDC-NH2 (2), derived from bLf C-lobe fragment 418-429, which were able to
+bind hemagglutinin (HA) and inhibit cell infection in a concentration range of
+femto- to picomolar. Starting from these results, in this work, we initiated a
+systematic SAR study on the peptides mentioned above, through an alanine scanning
+approach. We carried out binding affinity measurements by microscale
+thermophoresis (MST) and surface plasmon resonance (SPR), as well as
+hemagglutination inhibition (HI) and virus neutralization (NT) assays on
+synthesized peptides. Computational studies were performed to identify possible
+ligand-HA interactions. Results obtained led to the identification of an
+interesting peptide endowed with broad anti-influenza activity and able to
+inhibit viral infection to a greater extent of reference peptide.
+
+DOI: 10.3390/ph14100959 
+PMCID: PMC8537277
+PMID: 34681184 
+

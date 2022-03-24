@@ -1,0 +1,72 @@
+
+1. Genome Med. 2021 Oct 28;13(1):169. doi: 10.1186/s13073-021-00986-9.
+
+A small number of early introductions seeded widespread transmission of
+SARS-CoV-2 in Québec, Canada.
+
+Murall CL(1)(2)(3), Fournier E(4), Galvez JH(1)(5), N'Guessan A(3), Reiling
+SJ(1)(6), Quirion PO(1)(5)(7), Naderi S(1)(2), Roy AM(1)(6), Chen SH(1)(6),
+Stretenowich P(1)(5), Bourgey M(1)(5), Bujold D(1)(5), Gregoire R(1)(5), Lepage
+P(1), St-Cyr J(1), Willet P(1), Dion R(4)(8), Charest H(4), Lathrop M(1)(6),
+Roger M(4)(9), Bourque G(1)(5)(6), Ragoussis J(1)(6)(10), Shapiro BJ(11)(12)(13),
+Moreira S(4).
+
+Author information: 
+(1)McGill Genome Centre, Montreal, QC, Canada.
+(2)Department of Microbiology and Immunology, McGill University, Montreal, QC,
+Canada.
+(3)Département de Sciences Biologiques, Université de Montréal, Montreal, QC,
+Canada.
+(4)Laboratoire de Santé Publique du Québec, Institut National de Santé Publique, 
+Montreal, QC, Canada.
+(5)Canadian Center for Computational Genomics, Montreal, QC, Canada.
+(6)Department of Human Genetics, McGill University, Montreal, QC, Canada.
+(7)Calcul Québec, Montreal, QC, Canada.
+(8)Ecole de santé publique, Université de Montréal, Montreal, QC, Canada.
+(9)Département de Microbiologie, infectiologie et Immunologie, Université de
+Montréal, Montreal, QC, Canada.
+(10)Department of Bioengineering, McGill University, Montreal, QC, Canada.
+(11)McGill Genome Centre, Montreal, QC, Canada. jesse.shapiro@mcgill.ca.
+(12)Department of Microbiology and Immunology, McGill University, Montreal, QC,
+Canada. jesse.shapiro@mcgill.ca.
+(13)Département de Sciences Biologiques, Université de Montréal, Montreal, QC,
+Canada. jesse.shapiro@mcgill.ca.
+
+BACKGROUND: Québec was the Canadian province most impacted by COVID-19, with
+401,462 cases as of September 24th, 2021, and 11,347 deaths due mostly to a very 
+severe first pandemic wave. In April 2020, we assembled the Coronavirus
+Sequencing in Québec (CoVSeQ) consortium to sequence SARS-CoV-2 genomes in Québec
+to track viral introduction events and transmission within the province.
+METHODS: Using genomic epidemiology, we investigated the arrival of SARS-CoV-2 to
+Québec. We report 2921 high-quality SARS-CoV-2 genomes in the context of > 12,000
+publicly available genomes sampled globally over the first pandemic wave (up to
+June 1st, 2020). By combining phylogenetic and phylodynamic analyses with
+epidemiological data, we quantify the number of introduction events into Québec, 
+identify their origins, and characterize the spatiotemporal spread of the virus.
+RESULTS: Conservatively, we estimated approximately 600 independent introduction 
+events, the majority of which happened from spring break until 2 weeks after the 
+Canadian border closed for non-essential travel. Subsequent mass repatriations
+did not generate large transmission lineages (> 50 sequenced cases), likely due
+to mandatory quarantine measures in place at the time. Consistent with common
+spring break and "snowbird" destinations, most of the introductions were inferred
+to have originated from Europe via the Americas. Once introduced into Québec,
+viral lineage sizes were overdispersed, with a few lineages giving rise to most
+infections. Consistent with founder effects, the earliest lineages to arrive
+tended to spread most successfully. Fewer than 100 viral introductions arrived
+during spring break, of which 7-12 led to the largest transmission lineages of
+the first wave (accounting for 52-75% of all sequenced infections). These
+successful transmission lineages dispersed widely across the province.
+Transmission lineage size was greatly reduced after March 11th, when a quarantine
+order for returning travellers was enacted. While this suggests the effectiveness
+of early public health measures, the biggest transmission lineages had already
+been ignited prior to this order.
+CONCLUSIONS: Combined, our results reinforce how, in the absence of tight travel 
+restrictions or quarantine measures, fewer than 100 viral introductions in a week
+can ensure the establishment of extended transmission chains.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s13073-021-00986-9 
+PMCID: PMC8550813
+PMID: 34706766  [Indexed for MEDLINE]
+

@@ -1,0 +1,38 @@
+
+1. Model Earth Syst Environ. 2021 Oct 15:1-12. doi: 10.1007/s40808-021-01313-2.
+[Epub ahead of print]
+
+Transmission dynamics of Monkeypox virus: a mathematical modelling approach.
+
+Peter OJ(1), Kumar S(2), Kumari N(2), Oguntolu FA(3), Oshinubi K(4), Musa R(5).
+
+Author information: 
+(1)Department of Mathematics, University of Ilorin, Ilorin, Nigeria.
+(2)School of Basic Sciences, Indian Institute of Technology Mandi, Mandi,
+Himachal Pradesh 175001 India.
+(3)Department of Mathematics, Federal University of Technology Minna, Minna,
+Nigeria.
+(4)AGIES Research Unit, Universite Grenoble Alpes, Alpes, France.
+(5)School of Mathematics, Statistics and Computer Science, University of
+KwaZulu-Natal, Durban, South Africa.
+
+Monkeypox (MPX), similar to both smallpox and cowpox, is caused by the monkeypox 
+virus (MPXV). It occurs mostly in remote Central and West African communities,
+close to tropical rain forests. It is caused by the monkeypox virus in the
+Poxviridae family, which belongs to the genus Orthopoxvirus. We develop and
+analyse a deterministic mathematical model for the monkeypox virus. Both local
+and global asymptotic stability conditions for disease-free and endemic
+equilibria are determined. It is shown that the model undergo backward
+bifurcation, where the locally stable disease-free equilibrium co-exists with an 
+endemic equilibrium. Furthermore, we determine conditions under which the
+disease-free equilibrium of the model is globally asymptotically stable. Finally,
+numerical simulations to demonstrate our findings and brief discussions are
+provided. The findings indicate that isolation of infected individuals in the
+human population helps to reduce disease transmission.
+
+© The Author(s), under exclusive licence to Springer Nature Switzerland AG 2021.
+
+DOI: 10.1007/s40808-021-01313-2 
+PMCID: PMC8516625
+PMID: 34667829 
+

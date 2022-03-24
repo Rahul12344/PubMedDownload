@@ -1,0 +1,50 @@
+
+1. retrovirology. 2006 jan 13;3:5.
+
+suv39h1 interacts htlv-1 tax abrogates tax transactivation htlv-1
+ltr.
+
+kamoi k(1), yamamoto k, misawa a, miyake a, ishida t, tanaka y, mochizuki m,
+watanabe t.
+
+author information: 
+(1)department medical genome sciences, graduate school frontier sciences,
+the university tokyo, 4-6-1 shirokanedai, tokyo 108-8639, japan.
+koju1030@ims.u-tokyo.ac.jp
+
+background: tax oncoprotein htlv-1 deregulates signal
+transduction pathways, transcription genes cell cycle regulation host
+cells. transacting function tax mainly mediated protein-protein
+interactions host cellular factors. tax-mediated regulation gene
+expression htlv-1 cellular genes, tax shown regulate histone
+acetylation physical interaction histone acetylases and
+deacetylases. however, functional interaction tax histone
+methyltransferases (hmtase) studied. examined ability of
+tax interact histone methyltransferase suv39h1 methylates histone 
+h3 lysine 9 (h3k9) represses transcription genes, studied the
+functional effects interaction htlv-1 gene expression.
+results: tax shown interact suv39h1 vitro, interaction 
+largely dependent c-terminal half suv39h1 containing set domain.
+tax affect methyltransferase activity suv39h1 tethers suv39h1
+to tax containing complex nuclei. reporter gene assays, co-expression
+of suv39h1 represses tax transactivation htlv-1 ltr promoter activity, which
+was dependent methyltransferase activity suv39h1. furthermore, suv39h1 
+expression induced along tax jpx9 cells. chromatin immunoprecipitation
+(chip) analysis shows localization suv39h1 ltr tax induction, but
+not absence tax induction, jpx9 transformants retaining htlv-1-luc
+plasmid. immunoblotting shows higher levels suv39h1 expression htlv-1
+transformed latently infected cell lines.
+conclusion: study revealed first time interaction tax and
+suv39h1 apparent tethering suv39h1 tax htlv-1 ltr. is
+speculated tax-mediated tethering suv39h1 ltr induction the
+repressive histone modification chromatin h3 k9 methylation may be
+the basis dose-dependent repression tax transactivation ltr by
+suv39h1. tax-induced suv39h1 expression, tax-suv39h1 interaction tethering to
+the ltr may provide support idea sequence events may
+form negative feedback loop self-limits htlv-1 viral gene expression in
+infected cells.
+
+doi: 10.1186/1742-4690-3-5 
+pmcid: pmc1363732
+pmid: 16409643  [indexed medline]
+

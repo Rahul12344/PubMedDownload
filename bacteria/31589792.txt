@@ -1,0 +1,42 @@
+
+1. Proteins. 2020 Mar;88(3):527-539. doi: 10.1002/prot.25831. Epub 2019 Nov 12.
+
+Protonation state of the selectivity filter of bacterial voltage-gated sodium
+channels is modulated by ions.
+
+Damjanovic A(1), Chen AY(2), Rosenberg RL(3), Roe DR(4), Wu X(4), Brooks BR(4).
+
+Author information: 
+(1)Department of Biophysics, Johns Hopkins University, Baltimore, Maryland.
+(2)Department of Physics, Johns Hopkins University, Baltimore, Maryland.
+(3)Department of Biology, Earlham College, Richmond, Indiana.
+(4)Laboratory of Computational Biology, National Heart, Lung and Blood Institute,
+National Institutes of Health, Bethesda, Maryland.
+
+The selectivity filter (SF) of bacterial voltage-gated sodium channels consists
+of four glutamate residues arranged in a C4 symmetry. The protonation state
+population of this tetrad is unclear. To address this question, we simulate the
+pore domain of bacterial voltage-gated sodium channel of Magnetococcus sp. (Nav
+Ms) through constant pH methodology in explicit solvent and free energy
+perturbation calculations. We find that at physiological pH the fully
+deprotonated as well as singly and doubly protonated states of the SF appear
+feasible, and that the calculated pKa decreases with each additional bound ion,
+suggesting that a decrease in the number of ions in the pore can lead to
+protonation of the SF. Previous molecular dynamics simulations have suggested
+that protonation can lead to a decrease in the conductance, but no pKa
+calculations were performed. We confirm a decreased ionic population of the pore 
+with protonation, and also observe structural symmetry breaking triggered by
+protonation; the SF of the deprotonated channel is closest to the C4 symmetry
+observed in crystal structures of the open state, while the SF of protonated
+states display greater levels of asymmetry which could lead to transition to the 
+inactivated state which possesses a C2 symmetry in the crystal structure. We
+speculate that the decrease in the number of ions near the mouth of the channel, 
+due to either random fluctuations or ion depletion due to conduction, could be a 
+self-regulatory mechanism resulting in a nonconducting state that functionally
+resembles inactivated states.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1002/prot.25831 
+PMID: 31589792  [Indexed for MEDLINE]
+

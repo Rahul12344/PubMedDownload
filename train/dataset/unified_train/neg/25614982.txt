@@ -1,0 +1,53 @@
+
+1. plos one. 2015 jan 23;10(1):e0116262. doi: 10.1371/journal.pone.0116262.
+ecollection 2015.
+
+data mining strategies improve multiplex microbead immunoassay tolerance 
+mouse model infectious diseases.
+
+mani a(1), ravindran r(1), mannepalli s(2), vang d(1), luciw pa(3), hogarth m(4),
+khan ih(3), krishnan vv(5).
+
+author information: 
+(1)center comparative medicine, university california davis, davis,
+california, united states america.
+(2)department chemistry, california state university, fresno, california,
+united states america.
+(3)center comparative medicine, university california davis, davis,
+california, united states america; department pathology laboratory
+medicine, university california school medicine, davis, california, united 
+states america.
+(4)department pathology laboratory medicine, university california
+school medicine, davis, california, united states america.
+(5)center comparative medicine, university california davis, davis,
+california, united states america; department chemistry, california state
+university, fresno, california, united states america; department pathology
+and laboratory medicine, university california school medicine, davis,
+california, united states america.
+
+multiplex methodologies, especially high-throughput capabilities
+generate large volumes data. accumulation data (e.g., genomics,
+proteomics, metabolomics etc.) fast becoming common thus requires the
+development implementation effective data mining strategies designed for
+biological clinical applications. multiplex microbead immunoassay (mmia), 
+xmap magpix platform (luminex), amenable automation, offers a
+major advantage conventional methods western blot elisa, for
+increasing efficiencies serodiagnosis infectious diseases. mmia allows 
+detection antibodies and/or antigens efficiently wide range of
+infectious agents simultaneously host blood samples, one reaction vessel.
+in process, mmia generates large volumes data. report we
+demonstrate application data mining tools inherent large volume
+data improve assay tolerance (measured terms sensitivity and
+specificity) analysis experimental data accumulated span two
+years. combination prior knowledge machine learning tools provides an
+efficient approach improve diagnostic power assay continuous
+basis. furthermore, study provides in-depth knowledge base study
+pathological trends infectious agents mouse colonies multivariate
+scale. data mining techniques using serodetection infections mice,
+developed study, used general model complex
+applications epidemiology clinical translational research.
+
+doi: 10.1371/journal.pone.0116262 
+pmcid: pmc4304816
+pmid: 25614982  [indexed medline]
+

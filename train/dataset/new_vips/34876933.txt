@@ -1,0 +1,46 @@
+
+1. Procedia Comput Sci. 2021;194:180-189. doi: 10.1016/j.procs.2021.10.072. Epub
+2021 Dec 3.
+
+A Meta-Analysis of Artificial Intelligence Applications for Tracking COVID-19:
+The Case of the U.A.E.
+
+Haneya H(1), AlKaf D(1), Bajammal F(1), Brahimi T(2).
+
+Author information: 
+(1)Computer Science Department, College of Engineering, Effat University Jeddah, 
+Saudi Arabia.
+(2)Energy and Technology Research Center Natural Science, Mathematics and
+Technology Unit, College of Engineering, Effat University Jeddah, Saudi Arabia.
+
+Coronavirus disease (COVID-19) is an infectious respiratory disease that was
+first found in Wuhan, China, on December 31, 2019. It is caused by severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2). As of November 10, 2020, more
+than fifty million cases have been confirmed, and more than one million deaths
+have been reported globally. This situation has created a serious challenge for
+all countries to institute a variety of control measures to track and slow down
+the spread of the virus and prevent the increasing number of deaths. In recent
+years, there has been an ongoing interest in using Artificial Intelligence (A.I.)
+in healthcare to create new treatments and detecting diseases. The objective of
+this study is to analyze the application and the impact of A.I. on the breakout
+of COVID-19 and discuss the contribution of A.I. to the fight against the
+pandemic based on the most recent applications used in the United Arab Emirates, 
+including Dubai Police Movement Restriction Monitoring System, Taxis Preventive
+Measures Compliance System, Mobile App "Wai-Eye," Smart Helmets, Virtual Doctor, 
+and The Department of Health - Abu Dhabi (DoH) Remote Healthcare App. The method 
+used in this study is based on a meta-analysis of recent COVID-19 studies from
+various databases such as ScienceDirect, Sage Journals, SpringerLink,
+ResearchGate, Emerald Open Research, and IEEE Xplore. The COVID-19 data was based
+on Johns Hopkins University Center for Systems Science and Engineering (JHU
+CCSE). Results showed that A.I. applications provided the necessary prevention of
+the spread of COVID-19, assisted in monitoring restrictions and preventive
+measures violations, and provided remote healthcare, which directly impacted the 
+number of hospital visits amidst the lockdown. The study concluded that A.I. has 
+proven to be effective in supporting governments in fighting the pandemic.
+
+© 2021 The Author(s). Published by Elsevier B.V.
+
+DOI: 10.1016/j.procs.2021.10.072 
+PMCID: PMC8641301
+PMID: 34876933 
+

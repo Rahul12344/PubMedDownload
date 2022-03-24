@@ -1,0 +1,41 @@
+
+1. Sci Rep. 2016 Mar 30;6:22972. doi: 10.1038/srep22972.
+
+Pneumococcal Pneumolysin Induces DNA Damage and Cell Cycle Arrest.
+
+Rai P(1)(2), He F(3), Kwang J(2)(3), Engelward BP(1)(4), Chow VT(1)(2).
+
+Author information: 
+(1)Infectious Diseases Group, Singapore-MIT Alliance for Research &Technology,
+Singapore 138602.
+(2)Department of Microbiology and Immunology, Yong Loo Lin School of Medicine,
+National University of Singapore, Singapore 117545.
+(3)Animal Health Biotechnology, Temasek Life Sciences Laboratory, National
+University of Singapore, Singapore 117604.
+(4)Department of Biological Engineering, Massachusetts Institute of Technology,
+Cambridge, MA 02139, USA.
+
+Streptococcus pneumoniae produces pneumolysin toxin as a key virulence factor
+against host cells. Pneumolysin is a cholesterol-dependent cytolysin (CDC) toxin 
+that forms lytic pores in host membranes and mediates pneumococcal disease
+pathogenesis by modulating inflammatory responses. Here, we show that
+pneumolysin, which is released during bacterial lysis, induces DNA double strand 
+breaks (DSBs), as indicated by ataxia telangiectasia mutated (ATM)-mediated H2AX 
+phosphorylation (γH2AX). Pneumolysin-induced γH2AX foci recruit mediator of DNA
+damage checkpoint 1 (MDC1) and p53 binding protein 1 (53BP1), to sites of DSBs.
+Importantly, results show that toxin-induced DNA damage precedes cell cycle
+arrest and causes apoptosis when DNA-dependent protein kinase (DNA-PK)-mediated
+non-homologous end joining is inhibited. Further, we observe that cells that were
+undergoing DNA replication harbored DSBs in greater frequency during pneumolysin 
+treatment. This observation raises the possibility that DSBs might be arising as 
+a result of replication fork breakdown. Additionally, neutralizing the
+oligomerization domain of pneumolysin with monoclonal antibody suppresses DNA
+damage and also cell cycle arrest, indicating that pneumolysin oligomerization is
+important for causing DNA damage. Taken together, this study reveals a previously
+unidentified ability of pneumolysin to induce cytotoxicity via DNA damage, with
+implications in the pathophysiology of S. pneumoniae infection.
+
+DOI: 10.1038/srep22972 
+PMCID: PMC4812240
+PMID: 27026501  [Indexed for MEDLINE]
+

@@ -1,0 +1,48 @@
+
+1. Biochemistry. 2020 Oct 13;59(40):3834-3843. doi: 10.1021/acs.biochem.0c00665.
+Epub 2020 Sep 23.
+
+Discovery, Design, and Structural Characterization of Alkane-Producing Enzymes
+across the Ferritin-like Superfamily.
+
+Mak WS(1), Wang X(2), Arenas R(1)(3), Cui Y(1), Bertolani S(1), Deng WQ(4),
+Tagkopoulos I(2)(5)(6), Wilson DK(7)(3), Siegel JB(1)(8)(5).
+
+Author information: 
+(1)Department of Chemistry, University of California, Davis, One Shields Avenue, 
+Davis, California 95616, United States.
+(2)Department of Biomedical Engineering, University of California, Davis, Davis, 
+California 95616, United States.
+(3)Chemistry Graduate Group, University of California, Davis, One Shields Avenue,
+Davis, California 95616, United States.
+(4)California College of Arts, 1111 Eighth Street, San Francisco, California
+94107, United States.
+(5)Genome Center, University of California, Davis, 451 Health Sciences Drive,
+Davis, California 95616, United States.
+(6)Department of Computer Science, University of California, Davis, Davis,
+California 95616, United States.
+(7)Department of Molecular and Cellular Biology, University of California, Davis,
+Davis, California 95616, United States.
+(8)Department of Biochemistry and Molecular Medicine, University of California,
+Davis, 2700 Stockton Boulevard, Suite 2102, Sacramento, California 95817, United 
+States.
+
+To complement established rational and evolutionary protein design approaches,
+significant efforts are being made to utilize computational modeling and the
+diversity of naturally occurring protein sequences. Here, we combine structural
+biology, genomic mining, and computational modeling to identify structural
+features critical to aldehyde deformylating oxygenases (ADOs), an enzyme family
+that has significant implications in synthetic biology and chemoenzymatic
+synthesis. Through these efforts, we discovered latent ADO-like function across
+the ferritin-like superfamily in various species of Bacteria and Archaea. We
+created a machine learning model that uses protein structural features to
+discriminate ADO-like activity. Computational enzyme design tools were then
+utilized to introduce ADO-like activity into the small subunit of Escherichia
+coli class I ribonucleotide reductase. The integrated approach of genomic mining,
+structural biology, molecular modeling, and machine learning has the potential to
+be utilized for rapid discovery and modulation of functions across enzyme
+families.
+
+DOI: 10.1021/acs.biochem.0c00665 
+PMID: 32935984  [Indexed for MEDLINE]
+

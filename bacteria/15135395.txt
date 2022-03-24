@@ -1,0 +1,39 @@
+
+1. Protein Expr Purif. 2004 Jun;35(2):210-7.
+
+Cloning, expression, and purification of HLA-A2-BSP and beta-2m in Escherichia
+coli.
+
+Piao WH(1), Song XG, Liu MC, He Y, Zhang HH, Xu WX, Li ZL, Zhang HQ, Ling SG,
+Wang GQ.
+
+Author information: 
+(1)Institute of Basic Medical Sciences, Academy of Military Medical Sciences,
+Beijing, 100850, PR China.
+
+Tetramer analysis is a novel technique in immunological research that has
+dramatically changed our knowledge of the immune response to pathogens, tumors
+and autoimmune disease. Through the formation of major histocompatibility complex
+(MHC)-peptide tetrameric complexes, it can provide accurate counts of
+antigen-specific T-cells and it allows their phenotypical and functional
+analysis. The tetramer is composed of the human leukocyte antigen (HLA) heavy
+chain, beta-2 microglobulin (beta-2m), the nominal peptide, and streptavidin. The
+HLA heavy chain and the beta-2m are expressed in Escherichia coli. But up to now,
+all laboratories have been expressing these two proteins by using isopropyl
+beta-d-thiogalactopyranoside IPTG. IPTG is very expensive, and it is tedious and 
+laborious to induce expression protein. So it is difficult to scale up to express
+the objective protein. To address this problem, extracellular fractions of
+HLA-A0201 and beta-2m (absent signal peptide) genes were cloned from peripheral
+blood mononuclear cells (PBMCs) by RT-PCR. DNA coding for a Gly-Ser linker and a 
+BSP (15-amino acid substrate peptide for BirA-dependent biotinylation) was added 
+to the COOH-terminus of the extracellular fraction of HLA-A0201 by PCR, using an 
+HLA-A0201 as the template. Then the HLA-A0201-BSP and beta-2m genes were cloned
+into pBV220 vector and expressed, respectively. The expressed proteins were
+purified and detected by ELISA and Western blot analyses. High-efficient
+expressions of HLA-A0201-BSP and beta-2m proteins lay a good foundation for
+further expression and purification in prokaryotic system and constructing MHC
+class I-peptide tetramer complexes to study the function of CTLs.
+
+DOI: 10.1016/j.pep.2004.01.002 
+PMID: 15135395  [Indexed for MEDLINE]
+

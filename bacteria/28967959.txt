@@ -1,0 +1,39 @@
+
+1. Protein Eng Des Sel. 2017 Aug 1;30(8):543-549. doi: 10.1093/protein/gzx045.
+
+Exploring sequence-function space of a poplar glutathione transferase using
+designed information-rich gene variants.
+
+Musdal Y(1), Govindarajan S(2), Mannervik B(1).
+
+Author information: 
+(1)Department of Neurochemistry, Arrhenius Laboratories, Stockholm University,
+Svante Arrhenius väg 16B, SE-10691 Stockholm, Sweden.
+(2)ATUM, 37950 Central Ct, Newark, CA 94560, USA.
+
+Exploring the vicinity around a locus of a protein in sequence space may identify
+homologs with enhanced properties, which could become valuable in biotechnical
+and other applications. A rational approach to this pursuit is the use of
+'infologs', i.e. synthetic sequences with specific substitutions capturing
+maximal sequence information derived from the evolutionary history of the protein
+family. Ninety-five such infolog genes of poplar glutathione transferase were
+synthesized and expressed in Escherichia coli, and the catalytic activities of
+the proteins determined with alternative substrates. Sequence-activity
+relationships derived from the infologs were used to design a second set of 47
+infologs in which 90% of the members exceeded wild-type properties. Two mutants, 
+C2 (V55I/E95D/D108E/A160V) and G5 (F13L/C70A/G122E), were further functionally
+characterized. The activities of the infologs with the alternative substrates
+1-chloro-2,4-dinitrobenzene and phenethyl isothiocyanate, subject to different
+chemistries, were positively correlated, indicating that the examined mutations
+were affecting the overall catalytic competence without major shift in substrate 
+discrimination. By contrast, the enhanced protein expressivity observed in many
+of the mutants were not similarly correlated with the activities. In conclusion, 
+small libraries of well-defined infologs can be used to systematically explore
+sequence space to optimize proteins in multidimensional functional space.
+
+© The Author 2017. Published by Oxford University Press.
+
+DOI: 10.1093/protein/gzx045 
+PMCID: PMC5914380
+PMID: 28967959  [Indexed for MEDLINE]
+

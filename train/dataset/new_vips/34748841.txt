@@ -1,0 +1,55 @@
+
+1. Sci Total Environ. 2021 Nov 5:151431. doi: 10.1016/j.scitotenv.2021.151431. [Epub
+ahead of print]
+
+Predicting COVID-19 cases in diverse population groups using SARS-CoV-2
+wastewater monitoring across Oklahoma City.
+
+Kuhn KG(1), Jarshaw J(2), Jeffries E(3), Adesigbin K(4), Maytubby P(4), Dundas
+N(5), Miller AC(6), Rhodes E(6), Stevenson B(3), Vogel J(6), Reeves H(7).
+
+Author information: 
+(1)Department of Biostatistics & Epidemiology, University of Oklahoma Health
+Sciences Center, Oklahoma City, OK, USA. Electronic address:
+katrin-kuhn@ouhsc.edu.
+(2)Department of Biostatistics & Epidemiology, University of Oklahoma Health
+Sciences Center, Oklahoma City, OK, USA.
+(3)Department of Microbiology & Plant Biology, University of Oklahoma, Norman,
+OK, USA.
+(4)Oklahoma City County Health Department, Oklahoma City, OK, USA.
+(5)Massachusetts Institute of Technology, Cambridge, MA, USA.
+(6)School of Civil Engineering and Environmental Science, University of Oklahoma,
+Norman, OK, USA.
+(7)Department of Family Medicine, University of Oklahoma Health Sciences Center, 
+Oklahoma City, OK, USA.
+
+SARS-CoV-2 was discovered among humans in late 2019 and rapidly spread across the
+world. Although the virus is transmitted by respiratory droplets, most infected
+persons also excrete viral particles in their feces. This fact prompted a range
+of studies assessing the usefulness of wastewater surveillance to determine
+levels of infection and transmission and produce early warnings of outbreaks in
+local communities, independently of human testing. In this study, we collected
+samples of wastewater from 13 locations across Oklahoma City, representing
+different population types, twice per week from November 2020 to end of March
+2021. Wastewater samples were collected and analyzed for the presence and
+concentration of SARS-CoV-2 RNA using RT-qPCR. The concentration of SARS-CoV-2 in
+the wastewater showed notable peaks, preceding the number of reported COVID-19
+cases by an average of one week (ranging between 4 and 10 days). The early
+warning lead-time for an outbreak or increase in cases was significantly higher
+in areas with larger Hispanic populations and lower in areas with a higher
+household income or higher proportion of persons aged 65 years or older. Using
+this relationship, we predicted the number of cases with an accuracy of 81-92%
+compared to reported cases. These results confirm the validity and timeliness of 
+using wastewater surveillance for monitoring local disease transmission and
+highlight the importance of differences in population structures when
+interpreting surveillance outputs and planning preventive action.
+
+Copyright © 2021. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2021.151431 
+PMCID: PMC8570442
+PMID: 34748841 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no conflicts of interest.
+

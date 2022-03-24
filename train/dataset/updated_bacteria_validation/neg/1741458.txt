@@ -1,0 +1,46 @@
+
+1. Plasmid. 1992 Jan;27(1):17-28.
+
+Resistance to cadmium, cobalt, zinc, and nickel in microbes.
+
+Nies DH(1).
+
+Author information: 
+(1)Institut für Pflanzenphysiologie und Mikrobiologie, Freie Universität Berlin, 
+Germany.
+
+The divalent cations of cobalt, zinc, and nickel are essential nutrients for
+bacteria, required as trace elements at nanomolar concentrations. However, at
+micro- or millimolar concentrations, Co2+, Zn2+, and Ni2+ (and "bad ions" without
+nutritional roles such as Cd2+) are toxic. These cations are transported into the
+cell by constitutively expressed divalent cation uptake systems of broad
+specificity, i.e., basically Mg2+ transport systems. Therefore, in case of a
+heavy metal stress, uptake of the toxic ions cannot be reduced by a simple
+down-regulation of the transport activity. As a response to the resulting metal
+toxicity, metal resistance determinants evolved which are mostly plasmid-encoded 
+in bacteria. In contrast to that of the cation Hg2+, chemical reduction of Co2+, 
+Zn2+, Ni2+, and Cd2+ by the cell is not possible or sensible. Therefore, other
+than mutations limiting the ion range of the uptake system, only two basic
+mechanisms of resistance to these ions are possible (and were developed by
+evolution): intracellular complexation of the toxic metal ion is mainly used in
+eucaryotes; the cadmium-binding components are phytochelatins in plant and yeast 
+cells and metallothioneins in animals, plants, and yeasts. In contrast, reduced
+accumulation based on an active efflux of the cation is the primary mechanism
+developed in procaryotes and perhaps in Saccharomyces cerevisiae. All bacterial
+cation efflux systems characterized to date are plasmid-encoded and inducible but
+differ in energy-coupling and in the number and types of proteins involved in
+metal transport and in regulation. In the gram-positive multiple-metal-resistant 
+bacterium Staphylococcus aureus, Cd2+ (and probably Zn2+) efflux is catalyzed by 
+the membrane-bound CadA protein, a P-type ATPase. However, a second protein
+(CadC) is required for full resistance and a third one (CadR) is hypothesized for
+regulation of the resistance determinant. The czc determinant from the
+gram-negative multiple-metal-resistant bacterium Alcaligenes eutrophus encodes
+proteins required for Co2+, Zn2+, and Cd2+ efflux (CzcA, CzcB, and CzcC) and
+regulation of the czc determinant (CzcD). In the current working model CzcA works
+as a cation-proton antiporter, CzcB as a cation-binding subunit, and CzcC as a
+modifier protein required to change the substrate specificity of the system from 
+Zn2+ only to Co2+, Zn2+, and Cd2+.
+
+DOI: 10.1016/0147-619x(92)90003-s 
+PMID: 1741458  [Indexed for MEDLINE]
+

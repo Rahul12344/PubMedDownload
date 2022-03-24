@@ -1,0 +1,36 @@
+
+1. Cells. 2021 Oct 24;10(11). pii: 2863. doi: 10.3390/cells10112863.
+
+An Integrated View of Virus-Triggered Cellular Plasticity Using Boolean Networks.
+
+Alfaro-García JP(1), Granados-Alzate MC(1), Vicente-Manzanares M(2),
+Gallego-Gómez JC(1).
+
+Author information: 
+(1)Molecular and Translation Medicine Group, Faculty of Medicine, University of
+Antioquia, Medellin 050010, Colombia.
+(2)Molecular Mechanisms Program, Centro de Investigación del Cáncer, Instituto de
+Biología Molecular y Celular del Cáncer, Consejo Superior de Investigaciones
+Científicas (CSIC)-University of Salamanca, 37007 Salamanca, Spain.
+
+Virus-related mortality and morbidity are due to cell/tissue damage caused by
+replicative pressure and resource exhaustion, e.g., HBV or HIV; exaggerated
+immune responses, e.g., SARS-CoV-2; and cancer, e.g., EBV or HPV. In this
+context, oncogenic and other types of viruses drive genetic and epigenetic
+changes that expand the tumorigenic program, including modifications to the
+ability of cancer cells to migrate. The best-characterized group of changes is
+collectively known as the epithelial-mesenchymal transition, or EMT. This is a
+complex phenomenon classically described using biochemistry, cell biology and
+genetics. However, these methods require enormous, often slow, efforts to
+identify and validate novel therapeutic targets. Systems biology can complement
+and accelerate discoveries in this field. One example of such an approach is
+Boolean networks, which make complex biological problems tractable by modeling
+data ("nodes") connected by logical operators. Here, we focus on virus-induced
+cellular plasticity and cell reprogramming in mammals, and how Boolean networks
+could provide novel insights into the ability of some viruses to trigger
+uncontrolled cell proliferation and EMT, two key hallmarks of cancer.
+
+DOI: 10.3390/cells10112863 
+PMCID: PMC8616224
+PMID: 34831086 
+

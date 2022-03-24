@@ -1,0 +1,102 @@
+
+1. BMJ. 2021 Nov 18;375:e066965. doi: 10.1136/bmj-2021-066965.
+
+Prescription opioid treatment for non-cancer pain and initiation of injection
+drug use: large retrospective cohort study.
+
+Wilton J(1), Abdia Y(1)(2), Chong M(1), Karim ME(2)(3), Wong S(1), MacInnes
+A(4)(5), Balshaw R(6), Zhao B(1), Gomes T(7)(8)(9), Yu A(1), Alvarez M(1), Dart
+RC(10)(11), Krajden M(1)(12), Buxton JA(13)(2), Janjua NZ(1)(2), Purssell
+R(1)(14).
+
+Author information: 
+(1)British Columbia Centre for Disease Control, Vancouver, BC, Canada.
+(2)School of Population and Public Health, University of British Columbia,
+Vancouver, BC, Canada.
+(3)Centre for Health Evaluation and Outcome Sciences, St Paul's Hospital
+Vancouver, BC, Canada.
+(4)Pain Management Clinic, JPOCSC, Fraser Health Authority, Surrey, BC, Canada.
+(5)Department of Anaesthesiology, Pharmacology and Therapeutics, Faculty of
+Medicine, University of British Columbia, Vancouver, BC, Canada.
+(6)George and Fay Yee Centre for Healthcare Innovation, University of Manitoba,
+Winnipeg, MB, Canada.
+(7)Leslie Dan Faculty of Pharmacy, University of Toronto, Toronto, ON, Canada.
+(8)Li Ka Shing Knowledge Institute, St Michael's Hospital, Toronto, ON, Canada.
+(9)ICES, Toronto, ON, Canada.
+(10)Rocky Mountain Poison and Drug Safety, Denver Health and Hospital Authority, 
+Denver, CO, USA.
+(11)Department of Emergency Medicine, University of Colorado Health Sciences
+Center, Denver, CO, USA.
+(12)Department of Pathology and Laboratory Medicine, University of British
+Columbia, Vancouver, BC, Canada.
+(13)British Columbia Centre for Disease Control, Vancouver, BC, Canada
+jane.buxton@bccdc.ca.
+(14)Department of Emergency Medicine, University of British Columbia, Vancouver, 
+BC, Canada.
+
+OBJECTIVE: To assess the association between long term prescription opioid
+treatment medically dispensed for non-cancer pain and the initiation of injection
+drug use (IDU) among individuals without a history of substance use.
+DESIGN: Retrospective cohort study.
+SETTING: Large administrative data source (containing information for about 1.7
+million individuals tested for hepatitis C virus or HIV in British Columbia,
+Canada) with linkage to administrative health databases, including dispensations 
+from community pharmacies.
+PARTICIPANTS: Individuals age 11-65 years and without a history of substance use 
+(except alcohol) at baseline.
+MAIN OUTCOME MEASURES: Episodes of prescription opioid use for non-cancer pain
+were identified based on drugs dispensed between 2000 and 2015. Episodes were
+classified by the increasing length and intensity of opioid use (acute (lasting
+<90 episode days), episodic (lasting ≥90 episode days; with <90 days' drug supply
+and/or <50% episode intensity), and chronic (lasting ≥90 episode days; with ≥90
+days' drug supply and ≥50% episode intensity)). People with a chronic episode
+were matched 1:1:1:1 on socioeconomic variables to those with episodic or acute
+episodes and to those who were opioid naive. IDU initiation was identified by a
+validated administrative algorithm with high specificity. Cox models weighted by 
+inverse probability of treatment weights assessed the association between opioid 
+use category (chronic, episodic, acute, opioid naive) and IDU initiation.
+RESULTS: 59 804 participants (14 951 people from each opioid use category) were
+included in the matched cohort, and followed for a median of 5.8 years. 1149
+participants initiated IDU. Cumulative probability of IDU initiation at five
+years was highest for participants with chronic opioid use (4.0%), followed by
+those with episodic use (1.3%) and acute use (0.7%), and those who were opioid
+naive (0.4%). In the inverse probability of treatment weighted Cox model, risk of
+IDU initiation was 8.4 times higher for those with chronic opioid use versus
+those who were opioid naive (95% confidence interval 6.4 to 10.9). In a
+sensitivity analysis limited to individuals with a history of chronic pain,
+cumulative risk for those with chronic use (3.4% within five years) was lower
+than the primary results, but the relative risk was not (hazard ratio 9.7 (95%
+confidence interval 6.5 to 14.5)). IDU initiation was more frequent at higher
+opioid doses and younger ages.
+CONCLUSIONS: The rate of IDU initiation among individuals who received chronic
+prescription opioid treatment for non-cancer pain was infrequent overall (3-4%
+within five years) but about eight times higher than among opioid naive
+individuals. These findings could have implications for strategies to prevent IDU
+initiation, but should not be used as a reason to support involuntary tapering or
+discontinuation of long term prescription opioid treatment.
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmj-2021-066965 
+PMCID: PMC8600402
+PMID: 34794949  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed
+the ICMJE uniform disclosure form at www.icmje.org/disclosure-of-interest/ and
+declare: support from British Columbia Centre for Disease Control and the
+Canadian Institutes of Health Research for the submitted work; outside of the
+submitted work, MK has received research grant funding via his institution from
+Roche Molecular Systems, Siemens Healthcare Diagnostics, and Hologic; MEK has
+received consulting fees from Biogen; and RCD has performed research and
+consulted on the over-the-counter product Tylenol for the consumer division of
+Johnson & Johnson. RCD is executive director of the RADARS System, which performs
+post-marketing surveillance of prescription drugs. This information is primarily 
+used for regulatory purposes. Subscribers to the RADARS System include the US
+Food and Drug Administration and some manufacturers of prescription analgesics or
+treatment for opioid addiction. These companies include Collegium, Purdue Pharma,
+and Indivior. All other authors report no financial relationships with any
+organisations that might have an interest in the submitted work in the previous
+three years. All authors report no other relationships or activities that could
+appear to have influenced the submitted work.
+

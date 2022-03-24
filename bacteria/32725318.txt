@@ -1,0 +1,51 @@
+
+1. J Genet Eng Biotechnol. 2020 Jul 28;18(1):33. doi: 10.1186/s43141-020-00048-4.
+
+Prioritization of Mur family drug targets against A. baumannii and identification
+of their homologous proteins through molecular phylogeny, primary sequence, and
+structural analysis.
+
+Amera GM(1), Khan RJ(1), Jha RK(1), Pathak A(2), Muthukumaran J(1), Singh AK(3).
+
+Author information: 
+(1)Department of Biotechnology, School of Engineering and Technology, Sharda
+University, Greater Noida, UP, 201310, India.
+(2)Department of Chemistry, Indian Institute of Technology, Hauz Khas, New Delhi,
+110016, India.
+(3)Department of Biotechnology, School of Engineering and Technology, Sharda
+University, Greater Noida, UP, 201310, India. amitk.singh@sharda.ac.in.
+
+BACKGROUND: The World Health Organization (WHO) report stated that Acinetobacter 
+baumannii had been classified as one of the most important pathogenic bacteria
+causing nosocomial infection in hospital patients due to multi-drug resistance
+(MDR). It is vital to find out new bacterial drug targets and annotated their
+structure and function for the exploration of new anti-bacterial agents. The
+present study utilized a systematic route to prioritize the potential drug
+targets that belong to Mur family of Acinetobacter baumannii and identify their
+homologous proteins using a computational approach such as sequence similarity
+search, multiple sequence alignment, phylogenetic analysis, protein sequence, and
+protein structure analysis.
+RESULTS: From the results of protein sequence analysis of eight Mur family
+proteins, they divided into three main enzymatic classes namely transferases
+(MurG, MurA and MraY), ligases (MurC, MurD, MurE, and MurF), and oxidoreductase
+(MurB). Based on the results of intra-comparative protein sequence analysis and
+enzymatic classification, we have chosen MurB, MurE, and MurG as the prioritized 
+drug targets from A. baumannii and subjected them for further detailed studies of
+inter-species comparison. This inter-species comparison help us to explore the
+sequential and structural properties of homologous proteins in other species and 
+hence, opens a gateway for new target identification and using common inhibitor
+for different bacterial species caused by various diseases. The pairwise sequence
+alignment results between A. baumannii's MurB with A. calcoaceticus's MurB, A.
+baumannii's MurE with A. seifertii's MurE, and A. baumannii's MurG with A.
+pittii's MurG showed that every group of the proteins are highly similar with
+each other and they showed sequence identity of 95.7% and sequence similarity of 
+97.2%.
+CONCLUSION: Together with the results of secondary and three-dimensional
+structure predictions explained that three selected proteins (MurB, MurE, and
+MurG) from A. baumannii and their related proteins (AcMurB, AsMurE, and ApMurG)
+belong to mixed αβ class and they are very similar.
+
+DOI: 10.1186/s43141-020-00048-4 
+PMCID: PMC7387395
+PMID: 32725318 
+

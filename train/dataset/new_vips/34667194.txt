@@ -1,0 +1,43 @@
+
+1. Sci Rep. 2021 Oct 19;11(1):20680. doi: 10.1038/s41598-021-00002-5.
+
+Transcriptome profiling of pepper leaves by RNA-Seq during an incompatible and a 
+compatible pepper-tobamovirus interaction.
+
+Kalapos B(1), Juhász C(2), Balogh E(1), Kocsy G(1), Tóbiás I(2), Gullner G(3).
+
+Author information: 
+(1)Agricultural Institute, Centre for Agricultural Research, Eötvös Lóránt
+Research Network (ELKH), Brunszvik utca 2, Martonvásár, 2462, Hungary.
+(2)Plant Protection Institute, Centre for Agricultural Research, Eötvös Lóránt
+Research Network (ELKH), Herman Ottó út 15, Budapest, 1022, Hungary.
+(3)Plant Protection Institute, Centre for Agricultural Research, Eötvös Lóránt
+Research Network (ELKH), Herman Ottó út 15, Budapest, 1022, Hungary.
+gullner.gabor@atk.hu.
+
+Upon virus infections, the rapid and comprehensive transcriptional reprogramming 
+in host plant cells is critical to ward off virus attack. To uncover genes and
+defense pathways that are associated with virus resistance, we carried out the
+transcriptome-wide Illumina RNA-Seq analysis of pepper leaves harboring the L3
+resistance gene at 4, 8, 24 and 48 h post-inoculation (hpi) with two
+tobamoviruses. Obuda pepper virus (ObPV) inoculation led to hypersensitive
+reaction (incompatible interaction), while Pepper mild mottle virus (PMMoV)
+inoculation resulted in a systemic infection without visible symptoms (compatible
+interaction). ObPV induced robust changes in the pepper transcriptome, whereas
+PMMoV showed much weaker effects. ObPV markedly suppressed genes related to
+photosynthesis, carbon fixation and photorespiration. On the other hand, genes
+associated with energy producing pathways, immune receptors, signaling cascades, 
+transcription factors, pathogenesis-related proteins, enzymes of terpenoid
+biosynthesis and ethylene metabolism as well as glutathione S-transferases were
+markedly activated by ObPV. Genes related to photosynthesis and carbon fixation
+were slightly suppressed also by PMMoV. However, PMMoV did not influence
+significantly the disease signaling and defense pathways. RNA-Seq results were
+validated by real-time qPCR for ten pepper genes. Our findings provide a deeper
+insight into defense mechanisms underlying tobamovirus resistance in pepper.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-00002-5 
+PMCID: PMC8526828
+PMID: 34667194 
+

@@ -1,0 +1,41 @@
+
+1. med decis making. 2012 jan-feb;32(1):118-31. doi: 10.1177/0272989x11403489. epub 
+2011 apr 21.
+
+using administrative claims data estimate virologic failure rates among human 
+immunodeficiency virus-infected patients antiretroviral regimen switches.
+
+broder ms(1), juday t(2), chang ey(1), jing y(2), bentley tg(1).
+
+author information: 
+(1)partnership health analytic research, beverly hills, california (msb, eyc,
+tgkb)
+(2)bristol-myers squibb company, plainsboro, new jersey (tj, yj)
+
+objective: develop validate claims signature model estimates
+proportions hiv-infected patients administrative claims databases who
+switched combination antiretroviral therapy (cart) regimens virologic 
+failure.
+methods: authors used hiv-specific registry (development data set) to
+develop logistic regression models estimate odds virologic failure among
+patients switched cart regimens. models validated sample of
+administrative claims laboratory values (validation data set). final
+model applied application data set worked example.
+results: 1691, 1073, 3954 eligible patients cart switches 
+the development, validation, application data sets, respectively. the
+development data set, virologic failure switch observed 21.8% the
+time. failure likely caused regimen switch among patients were
+treatment experienced, receiving baseline regimen > 180 days, 
+had ≥ 2 physician visits within 90 days, > 1 hiv rna cd4 cell
+count test within 30 days, resistance test within 180 days, a
+change regimen type. final model good discriminatory ability (c =
+0.885) fit (hosmer-lemeshow p = 0.8692). failure estimated occur in
+18.9% (v. 18.6% observed) switches validation data set 13.8% the
+application data set.
+conclusions: claims signature model allows payers use claims data to
+estimate virologic failure rates patient populations, thereby better
+understanding plan costs failure.
+
+doi: 10.1177/0272989x11403489 
+pmid: 21512188  [indexed medline]
+

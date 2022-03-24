@@ -1,0 +1,47 @@
+
+1. bmc genomics. 2013 aug 1;14:528. doi: 10.1186/1471-2164-14-528.
+
+genomic distribution aflp markers relative gene locations different
+eukaryotic species.
+
+caballero a(1), garcía-pereira mj, quesada h.
+
+author information: 
+(1)departamento de bioquímica, genética e inmunología, facultad de biología,
+universidade de vigo, 36310 vigo, spain. armando@uvigo.es
+
+background: amplified fragment length polymorphism (aflp) markers frequently 
+used wide range studies, genome-wide mapping, population genetic
+diversity estimation, hybridization introgression studies, phylogenetic
+analyses, detection signatures selection. important issue be
+addressed fields distribution markers across 
+genome, particularly relation gene sequences.
+results: using in-silico restriction fragment analysis genomes nine
+eukaryotic species characterise distribution aflp fragments across 
+genome and, particularly, relation gene locations. first, identify the
+physical position markers across chromosomes species. observed
+accumulation fragments around (peri) centromeric regions species is
+produced repeated sequences, accumulation disappears aflp bands 
+rather fragments considered. second, calculate percentage aflp
+markers positioned within gene sequences. typical ecori/msei enzyme pair,
+this ranges 28 87% usually larger expected chance
+because higher gc content gene sequences relative intergenic ones.
+in agreement this, use enzyme pairs gc-rich restriction sites
+substantially increases percentages. example, using enzyme
+system saci/hpaii, 86% aflp markers located within gene sequences a.
+thaliana, 100% markers plasmodium falciparun. find 
+a typical trait controlled 50 genes average size, 1000 aflps used in
+a study, number within 1 kb distance genes would 
+only 1-2, 50% genes would markers within that
+distance.
+conclusions: high coverage aflp markers across genomes high
+proportion markers within close gene sequences make suitable for
+genome scans detecting large islands differentiation genome.
+however, specific traits, percentage aflp markers close genes can
+be rather small. therefore, genome scans directed towards search markers
+closely linked selected loci difficult task many instances.
+
+doi: 10.1186/1471-2164-14-528 
+pmcid: pmc3750350
+pmid: 24060007  [indexed medline]
+

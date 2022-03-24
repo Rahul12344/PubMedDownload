@@ -1,0 +1,41 @@
+
+1. J Virol. 2021 Dec 8:JVI0149521. doi: 10.1128/JVI.01495-21. [Epub ahead of print]
+
+Epstein-Barr virus miR-BHRF1-3 targets the BZLF1 3'UTR and regulates the lytic
+cycle.
+
+Fachko DN(1), Chen Y(1), Skalsky RL(1).
+
+Author information: 
+(1)Vaccine and Gene Therapy Institute, Oregon Health and Science University,
+Beaverton, Oregon, USA.
+
+Suppression of lytic viral gene expression is a key aspect of the Epstein-Barr
+virus (EBV) life cycle to facilitate the establishment of latent infection.
+Molecular mechanisms regulating transitions between EBV lytic replication and
+latency are not fully understood. Here, we investigated the impact of viral
+microRNAs on the EBV lytic cycle. Through functional assays, we found that
+miR-BHRF1-3 attenuates EBV lytic gene expression following reactivation. To
+understand the miRNA targets contributing to this activity, we performed Ago
+PAR-CLIP analysis on EBV-positive, reactivated Burkitt's lymphoma cells and
+identified multiple miR-BHRF1-3 interactions with viral transcripts. Using
+luciferase reporter assays, we confirmed a miRNA interaction site within the
+3'UTR of BZLF1 which encodes the essential immediate early (IE) transactivator
+Zta. Comparison of >850 published EBV genomes identified sequence polymorphisms
+within the miR-BHRF1-3 locus that deleteriously affect miRNA expression and
+function. Molecular interactions between the homologous viral miRNA, miR-rL1-17, 
+and IE transcripts encoded by rhesus lymphocryptovirus were further identified.
+Our data demonstrate that regulation of IE gene expression by a BHRF1 miRNA is
+conserved amongst lymphocryptoviruses, and further reveal virally-encoded genetic
+elements that orchestrate viral antigen expression during the lytic cycle.
+Importance Epstein-Barr virus infection is predominantly latent in healthy
+individuals, while periodic cycles of reactivation are thought to facilitate
+persistent lifelong infection. Lytic infection has been linked to development of 
+certain EBV-associated diseases. Here, we demonstrate that EBV miR-BHRF1-3 can
+suppress lytic replication by directly inhibiting Zta expression. Moreover, we
+identify nucleotide variants that impact the function of miR-BHRF1-3, which may
+contribute to specific EBV pathologies.
+
+DOI: 10.1128/JVI.01495-21 
+PMID: 34878852 
+

@@ -1,0 +1,52 @@
+
+1. Sci Rep. 2021 Nov 16;11(1):22310. doi: 10.1038/s41598-021-01543-5.
+
+Mechanism of transient photothermal inactivation of bacteria using a
+wavelength-tunable nanosecond pulsed laser.
+
+Tatsuno I(1), Niimi Y(1), Tomita M(2), Terashima H(1), Hasegawa T(1), Matsumoto
+T(3)(4).
+
+Author information: 
+(1)Graduate School of Medical Sciences, Nagoya City University, Nagoya, 467-8601,
+Japan.
+(2)Department of Physics, Faculty of Science, Shizuoka University, Shizuoka,
+422-8529, Japan.
+(3)Graduate School of Medical Sciences, Nagoya City University, Nagoya, 467-8601,
+Japan. matsumoto@sda.nagoya-cu.ac.jp.
+(4)Graduate School of Design and Architecture, Nagoya City University, Nagoya,
+464-0083, Japan. matsumoto@sda.nagoya-cu.ac.jp.
+
+There is a great demand for novel disinfection technologies to inactivate various
+pathogenic viruses and bacteria. In this situation, ultraviolet (UVC)
+disinfection technologies seem to be promising because biocontaminated air and
+surfaces are the major media for disease transmission. However, UVC is strongly
+absorbed by human cells and protein components; therefore, there are concerns
+about damaging plasma components and causing dermatitis and skin cancer. To avoid
+these concerns, in this study, we demonstrate that the efficient inactivation of 
+bacteria is achieved by visible pulsed light irradiation. The principle of
+inactivation is based on transient photothermal heating. First, we provide
+experimental confirmation that extremely high temperatures above 1000 K can be
+achieved by pulsed laser irradiation. Evidence of this high temperature is
+directly confirmed by melting gold nanoparticles (GNPs). Inorganic GNPs are used 
+because of their well-established thermophysical properties. Second, we show
+inactivation behaviour by pulsed laser irradiation. This inactivation behaviour
+cannot be explained by a simple optical absorption effect. We experimentally and 
+theoretically clarify this inactivation mechanism based on both optical
+absorption and scattering effects. We find that scattering and absorption play an
+important role in inactivation because the input irradiation is inherently
+scattered by the bacteria; therefore, the dose that bacteria feel is reduced.
+This scattering effect can be clearly shown by a technique that combines stained 
+Escherichia coli and site selective irradiation obtained by a wavelength tunable 
+pulsed laser. By measuring Live/Dead fluorescence microscopy images, we show that
+the inactivation attained by the transient photothermal heating is possible to
+instantaneously and selectively kill microorganisms such as Escherichia coli
+bacteria. Thus, this method is promising for the site selective inactivation of
+various pathogenic viruses and bacteria in a safe and simple manner.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-01543-5 
+PMCID: PMC8595719
+PMID: 34785646 
+

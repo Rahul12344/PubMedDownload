@@ -1,0 +1,36 @@
+
+1. Protein Eng Des Sel. 2011 Apr;24(4):361-72. doi: 10.1093/protein/gzq113. Epub
+2010 Dec 14.
+
+Identification and engineering of human variable regions that allow expression of
+stable single-chain T cell receptors.
+
+Aggen DH(1), Chervin AS, Insaidoo FK, Piepenbrink KH, Baker BM, Kranz DM.
+
+Author information: 
+(1)Department of Biochemistry, University of Illinois at Urbana-Champaign, 600 S.
+Mathews Ave., Urbana, IL, 61801, USA.
+
+Single-chain antibody fragments (scFv), consisting of two linked variable regions
+(V(H) and V(L)), are a versatile format for engineering and as potential
+antigen-specific therapeutics. Although the analogous format for T cell receptors
+(TCRs), consisting of two linked V regions (Vα and Vβ; referred to here as scTv),
+could provide similar opportunities, all wild-type scTv proteins examined to date
+are unstable. This obstacle has prevented scTv fragments from being widely used
+for engineering or therapeutics. To further explore whether some stable human
+scTv fragments could be expressed, we used a yeast system in which display of
+properly folded domains correlates with ability to express the folded scTv in
+soluble form. We discovered that, unexpectedly, scTv fragments that contained the
+human Vα2 region (IMGT: TRAV12 family) were displayed and properly associated
+with different Vβ regions. Furthermore, a single polymorphic residue (Ser(α49))
+in the framework region conferred additional thermal stability. These stabilized 
+Vα2-containing scTv fragments could be expressed at high levels in Escherichia
+coli, and used to stain target cells that expressed the specific pep-HLA-A2
+complexes. Thus, the scTv fragments can serve as a platform for engineering TCRs 
+with diverse specificities, and possibly for therapeutic or diagnostic
+applications.
+
+DOI: 10.1093/protein/gzq113 
+PMCID: PMC3049343
+PMID: 21159619  [Indexed for MEDLINE]
+

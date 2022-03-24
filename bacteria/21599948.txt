@@ -1,0 +1,39 @@
+
+1. BMC Genomics. 2011 May 20;12:253. doi: 10.1186/1471-2164-12-253.
+
+Understanding Streptococcus suis serotype 2 infection in pigs through a
+transcriptional approach.
+
+Liu M(1), Fang L, Tan C, Long T, Chen H, Xiao S.
+
+Author information: 
+(1)Division of Animal Pathogens, State Key Laboratory of Agricultural
+Microbiology, Huazhong Agricultural University, Wuhan 430070, China.
+
+BACKGROUND: Streptococcus suis serotype 2 (S. suis 2) is an important pathogen of
+pigs. S suis 2 infections have high mortality rates and are characterized by
+meningitis, septicemia and pneumonia. S. suis 2 is also an emerging zoonotic
+agent and can infect humans that are exposed to pigs or their by-products. To
+increase our knowledge of the pathogenesis of meningitis, septicemia and
+pneumonia in pigs caused by S. suis 2, we profiled the response of peripheral
+blood mononuclear cells (PBMC), brain and lung tissues to infection with S. suis 
+2 strain SC19 using the Affymetrix Porcine Genome Array.
+RESULTS: A total of 3,002 differentially expressed transcripts were identified in
+the three tissues, including 417 unique genes in brain, 210 in lung and 213 in
+PBMC. These genes showed differential expression (DE) patterns on analysis by
+visualization and integrated discovery (DAVID). The DE genes involved in the
+immune response included genes related to the inflammatory response (CD163), the 
+innate immune response (TLR2, TLR4, MYD88, TIRAP), cell adhesion (CD34, SELE,
+SELL, SELP, ICAM-1, ICAM-2, VCAM-1), antigen processing and presentation (MHC
+protein complex) and angiogenesis (VEGF), together with genes encoding cytokines 
+(interleukins). Five selected genes were validated by qRT-PCR analysis.
+CONCLUSIONS: We studied the response to infection with S. suis 2 strain SC19 by
+microarray analysis. Our findings confirmed some genes identified in previous
+studies and discovered numerous additional genes that potentially function in S. 
+suis 2 infections in vivo. This new information will form the foundation of
+future investigations into the pathogenesis of S. suis.
+
+DOI: 10.1186/1471-2164-12-253 
+PMCID: PMC3113788
+PMID: 21599948  [Indexed for MEDLINE]
+

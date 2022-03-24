@@ -1,0 +1,39 @@
+
+1. Sci Rep. 2021 Nov 4;11(1):21675. doi: 10.1038/s41598-021-01005-y.
+
+Analysis of the effectiveness of face-coverings on the death ratio of COVID-19
+using machine learning.
+
+Lafzi A(1), Boodaghi M(2), Zamani S(2), Mohammadshafie N(3), Hasti VR(2).
+
+Author information: 
+(1)Department of Agricultural and Biological Engineering, Purdue University,
+Indiana, 47907, USA. alafzi@purdue.edu.
+(2)School of Mechanical Engineering, Purdue University, Indiana, 47907, USA.
+(3)Department of Civil and Environmental Engineering, University of Pittsburgh,
+Pennsylvania, 15261, USA.
+
+The recent outbreak of the COVID-19 led to death of millions of people worldwide.
+To stave off the spread of the virus, the authorities in the US employed
+different strategies, including the mask mandate order issued by the states'
+governors. In the current work, we defined a parameter called average death ratio
+as the monthly average of the number of daily deaths to the monthly average
+number of daily cases. We utilized survey data to quantify people's abidance by
+the mask mandate order. Additionally, we implicitly addressed the extent to which
+people abide by the mask mandate order, which may depend on some parameters such 
+as population, income, and education level. Using different machine learning
+classification algorithms, we investigated how the decrease or increase in death 
+ratio for the counties in the US West Coast correlates with the input parameters.
+The results showed that for the majority of counties, the mask mandate order
+decreased the death ratio, reflecting the effectiveness of such a preventive
+measure on the West Coast. Additionally, the changes in the death ratio
+demonstrated a noticeable correlation with the socio-economic condition of each
+county. Moreover, the results showed a promising classification accuracy score as
+high as 90%.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-01005-y 
+PMCID: PMC8569016
+PMID: 34737389  [Indexed for MEDLINE]
+

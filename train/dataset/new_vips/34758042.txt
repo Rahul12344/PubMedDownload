@@ -1,0 +1,68 @@
+
+1. PLoS One. 2021 Nov 10;16(11):e0259097. doi: 10.1371/journal.pone.0259097.
+eCollection 2021.
+
+High variability in transmission of SARS-CoV-2 within households and implications
+for control.
+
+Toth DJA(1)(2)(3), Beams AB(1)(3), Keegan LT(1)(2), Zhang Y(1), Greene T(1),
+Orleans B(1), Seegert N(4), Looney A(4), Alder SC(5), Samore MH(1)(2).
+
+Author information: 
+(1)Department of Internal Medicine, University of Utah School of Medicine, Salt
+Lake City, Utah, United States of America.
+(2)Department of Veterans Affairs Salt Lake City Healthcare System, Salt Lake
+City, Utah, United States of America.
+(3)Department of Mathematics, University of Utah, Salt Lake City, Utah, United
+States of America.
+(4)Department of Finance, University of Utah David Eccles School of Business,
+Salt Lake City, Utah, United States of America.
+(5)Department of Family and Preventive Medicine, University of Utah School of
+Medicine, Salt Lake City, Utah, United States of America.
+
+BACKGROUND: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) poses a 
+high risk of transmission in close-contact indoor settings, which may include
+households. Prior studies have found a wide range of household secondary attack
+rates and may contain biases due to simplifying assumptions about transmission
+variability and test accuracy.
+METHODS: We compiled serological SARS-CoV-2 antibody test data and prior
+SARS-CoV-2 test reporting from members of 9,224 Utah households. We paired these 
+data with a probabilistic model of household importation and transmission. We
+calculated a maximum likelihood estimate of the importation probability, mean and
+variability of household transmission probability, and sensitivity and
+specificity of test data. Given our household transmission estimates, we
+estimated the threshold of non-household transmission required for epidemic
+growth in the population.
+RESULTS: We estimated that individuals in our study households had a 0.41% (95%
+CI 0.32%- 0.51%) chance of acquiring SARS-CoV-2 infection outside their
+household. Our household secondary attack rate estimate was 36% (27%- 48%),
+substantially higher than the crude estimate of 16% unadjusted for imperfect
+serological test specificity and other factors. We found evidence for high
+variability in individual transmissibility, with higher probability of no
+transmissions or many transmissions compared to standard models. With household
+transmission at our estimates, the average number of non-household transmissions 
+per case must be kept below 0.41 (0.33-0.52) to avoid continued growth of the
+pandemic in Utah.
+CONCLUSIONS: Our findings suggest that crude estimates of household secondary
+attack rate based on serology data without accounting for false positive tests
+may underestimate the true average transmissibility, even when test specificity
+is high. Our finding of potential high variability (overdispersion) in
+transmissibility of infected individuals is consistent with characterizing
+SARS-CoV-2 transmission being largely driven by superspreading from a minority of
+infected individuals. Mitigation efforts targeting large households and other
+locations where many people congregate indoors might curb continued spread of the
+virus.
+
+DOI: 10.1371/journal.pone.0259097 
+PMCID: PMC8580228
+PMID: 34758042  [Indexed for MEDLINE]
+
+Conflict of interest statement: I have read the journal’s policy and the authors 
+of this manuscript have the following competing interests: DJAT and MHS report
+grants from Pfizer, Inc., outside the submitted work. LTK reports grants from
+Pfizer, Inc. and Becton, Dickinson and Company, outside the submitted work. TG
+reports grants from AstraZeneca, Boehringer Ingelheim, CSL, and Vertex
+Pharmaceuticals and personal fees from Janssen Pharmaceuticals, Pfizer, Inc.,
+Novartis and AstraZeneca, outside the submitted work. This does not alter our
+adherence to PLOS ONE policies on sharing data and materials.
+

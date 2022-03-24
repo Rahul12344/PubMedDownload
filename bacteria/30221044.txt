@@ -1,0 +1,43 @@
+
+1. Oncoimmunology. 2018 Apr 18;7(8):e1450715. doi: 10.1080/2162402X.2018.1450715.
+eCollection 2018.
+
+Chemokine receptor engineering of T cells with CXCR2 improves homing towards
+subcutaneous human melanomas in xenograft mouse model.
+
+Idorn M(1), Skadborg SK(1), Kellermann L(2), Halldórsdóttir HR(1), Holmen
+Olofsson G(1), Met Ö(1)(3)(4), Thor Straten P(1)(4).
+
+Author information: 
+(1)Center for Cancer Immune Therapy (CCIT), Department of Hematology, Herlev
+University Hospital, Herlev, Denmark.
+(2)Department of Pathology, Herlev University Hospital, Herlev, Denmark.
+(3)Department of Oncology, Herlev University Hospital, Herlev, Denmark.
+(4)Department of Immunology and Microbiology, Faculty of Health and Medical
+Sciences, University of Copenhagen, Copenhagen, Denmark.
+
+Adoptive cell therapy (ACT) using in vitro expanded tumor infiltrating T
+lymphocytes (TILs) from biopsy material represents a highly promising treatment
+of disseminated cancer. A crucial prerequisite for successful ACT is sufficient
+recruitment of transferred lymphocytes to the tumor site; however, despite
+infusion of billions of lymphocytes, T cell infiltration into the tumor post ACT 
+is limited. By PCR and Luminex analyses we found that a majority of malignant
+melanoma (MM) cell lines expressed chemokines CXCL1/Groα, CXCL8/IL-8,
+CXCL12/SDF-1 and CCL2. Concerning expression of the corresponding receptors on T 
+cells, only the IL-8 receptor, CXCR2, was not expressed on T cells. CXCR2 was
+therefore expressed in T cells by lentiviral transduction, and shown to lead to
+ligand specific transwell migration of engineered T cells, as well as increased
+migration towards MM conditioned medium. In vivo homing was assessed in a
+xenograft NOG mouse model. Mice with subcutaneous human melanoma were treated
+with MAGE-A3 specific T cells transduced with either CXCR2 or MOCK. Transducing T
+cells carrying the MAGE-A3a3a high affinity T cell receptor with CXCR2 increased 
+tumor infiltration. Flow cytometry analysis 7 days after ACT showed a doubling in
+CD3+ T cells in tumor digest of mice receiving CXCR2 transduced T cells compared 
+to MOCK treated mice, a finding confirmed by immunohistochemistry. In conclusion,
+our CXCR2 transduced T cells are functional in vitro and transduction with CXCR2 
+increases in vivo homing of T cells to tumor site.
+
+DOI: 10.1080/2162402X.2018.1450715 
+PMCID: PMC6136860
+PMID: 30221044 
+

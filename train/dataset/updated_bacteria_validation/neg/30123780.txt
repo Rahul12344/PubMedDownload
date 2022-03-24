@@ -1,0 +1,45 @@
+
+1. Front Cell Infect Microbiol. 2018 Aug 3;8:267. doi: 10.3389/fcimb.2018.00267.
+eCollection 2018.
+
+The Performance of an Oral Microbiome Biomarker Panel in Predicting Oral Cavity
+and Oropharyngeal Cancers.
+
+Lim Y(1)(2), Fukuma N(3), Totsika M(1), Kenny L(4), Morrison M(5), Punyadeera
+C(1)(2).
+
+Author information: 
+(1)The School of Biomedical Sciences, Institute of Health and Biomedical
+Innovation, Queensland University of Technology, Brisbane, QLD, Australia.
+(2)Translational Research Institute, Brisbane, QLD, Australia.
+(3)The Department of Life and Food Science, Obihiro University of Agriculture and
+Veterinary Medicine, Obihiro, Japan.
+(4)The School of Medicine, University of Queensland, Royal Brisbane and Women's
+Hospital, Brisbane, QLD, Australia.
+(5)Translational Research Institute, University of Queensland Diamantina
+Institute, University of Queensland, Brisbane, QLD, Australia.
+
+The oral microbiome can play a role in the instigation and progression of oral
+diseases that can manifest into other systemic conditions. These associations
+encourage the exploration of oral dysbiosis leading to the pathogenesis of
+cancers. In this study, oral rinse was used to characterize the oral microbiome
+fluctuation associated with oral cavity cancer (OCC) and oropharyngeal cancers
+(OPC). The study cohort consists of normal healthy controls (n = 10, between 20
+and 30 years of age; n = 10, above 50 years of age), high-risk individuals (n =
+11, above 50 years of age with bad oral hygiene and/or oral diseases) and OCC and
+OPC patients (n = 31, HPV-positive; n = 21, HPV-negative). Oral rinse samples
+were analyzed using 16S rRNA gene amplicon sequencing on the MiSeq platform.
+Kruskal-Wallis rank test was used to identify genera associated with OCC and OPC.
+A logistic regression analysis was carried out to determine the performance of
+these genera as a biomarker panel to predict OCC and OPC. In addition, a two-fold
+cross-validation with a bootstrap procedure was carried out in R to investigate
+how well the panel would perform in an emulated clinical scenario. Our data
+indicate that the oral microbiome is able to predict the presence of OCC and OPC 
+with sensitivity and specificity of 100 and 90%, respectively. With further
+validation, the panel could potentially be implemented into clinical diagnostic
+and prognostic workflows for OCC and OPC.
+
+DOI: 10.3389/fcimb.2018.00267 
+PMCID: PMC6085444
+PMID: 30123780  [Indexed for MEDLINE]
+

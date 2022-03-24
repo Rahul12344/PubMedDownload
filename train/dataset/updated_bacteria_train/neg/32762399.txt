@@ -1,0 +1,74 @@
+
+1. Autophagy. 2021 Aug;17(8):1856-1872. doi: 10.1080/15548627.2020.1794590. Epub
+2020 Aug 7.
+
+A chemical genomics-aggrephagy integrated method studying functional analysis of 
+autophagy inducers.
+
+Kataura T(1)(2), Tashiro E(1), Nishikawa S(1), Shibahara K(1), Muraoka Y(1),
+Miura M(1), Sakai S(1), Katoh N(1), Totsuka M(1), Onodera M(3), Shin-Ya
+K(4)(5)(6), Miyamoto K(7), Sasazawa Y(1)(7), Hattori N(7), Saiki S(7), Imoto
+M(1).
+
+Author information: 
+(1)Department of Biosciences and Informatics, Keio University, Kanagawa, Japan.
+(2)Research Fellow of the Japan Society for the Promotion of Science (JSPS),
+Tokyo, Japan.
+(3)Division of Immunology, National Center for Child Health and Development,
+Tokyo, Japan.
+(4)National Institute of Advanced Industrial Science and Technology, Tokyo,
+Japan.
+(5)Biotechnology Research Centre, The University of Tokyo, Tokyo, Japan.
+(6)Collaborative Research Institute for Innovative Microbiology, The University
+of Tokyo, Tokyo, Japan.
+(7)Department of Neurology, Juntendo University School of Medicine, Tokyo, Japan.
+
+Macroautophagy/autophagy plays a critical role in the pathogenesis of various
+human diseases including neurodegenerative disorders such as Parkinson disease
+(PD) and Huntington disease (HD). Chemical autophagy inducers are expected to
+serve as disease-modifying agents by eliminating cytotoxic/damaged proteins.
+Although many autophagy inducers have been identified, their precise molecular
+mechanisms are not fully understood because of the complicated crosstalk among
+signaling pathways. To address this issue, we performed several chemical genomic 
+analyses enabling us to comprehend the dominancy among the autophagy-associated
+pathways followed by an aggresome-clearance assay. In a first step, more than 400
+target-established small molecules were assessed for their ability to activate
+autophagic flux in neuronal PC12D cells, and we identified 39 compounds as
+autophagy inducers. We then profiled the autophagy inducers by testing their
+effect on the induction of autophagy by 200 well-established signal transduction 
+modulators. Our principal component analysis (PCA) and clustering analysis using 
+a dataset of "autophagy profiles" revealed that two Food and Drug Administration 
+(FDA)-approved drugs, memantine and clemastine, activate endoplasmic reticulum
+(ER) stress responses, which could lead to autophagy induction. We also confirmed
+that SMK-17, a recently identified autophagy inducer, induced autophagy via the
+PRKC/PKC-TFEB pathway, as had been predicted from PCA. Finally, we showed that
+almost all of the autophagy inducers tested in this present work significantly
+enhanced the clearance of the protein aggregates observed in cellular models of
+PD and HD. These results, with the combined approach, suggested that
+autophagy-activating small molecules may improve proteinopathies by eliminating
+nonfunctional protein aggregates.Abbreviations: ADK: adenosine kinase; AMPK:
+AMP-activated protein kinase; ATF4: activating transcription factor 4; BECN1:
+beclin-1; DDIT3/CHOP: DNA damage inducible transcript 3; EIF2AK3/PERK: eukaryotic
+translation initiation factor 2 alpha kinase 3; EIF2S1/eIF2α: eukaryotic
+translation initiation factor 2 subunit alpha; ER: endoplasmic reticulum;
+ERN1/IRE1α: endoplasmic reticulum to nucleus signaling 1; FDA: Food and Drug
+Administration; GSH: glutathione; HD: Huntington disease; HSPA5/GRP78: heat shock
+protein family A (Hsp70) member 5; HTT: huntingtin; JAK: Janus kinase,
+MAP1LC3B/LC3: microtubule associated protein 1 light chain 3 beta; MAP2K/MEK:
+mitogen-activated protein kinase kinase; MAP3K8/Tpl2: mitogen-activated protein
+kinase kinase kinase 8; MAPK: mitogen-activated protein kinase; MPP+:
+1-methyl-4-phenylpyridinium; MTOR: mechanistic target of rapamycin kinase; MTORC:
+MTOR complex; NAC: N-acetylcysteine; NGF: nerve growth factor 2; NMDA:
+N-methyl-D-aspartate; PCA: principal component analysis; PD: Parkinson disease;
+PDA: pancreatic ductal adenocarcinoma; PIK3C3: phosphatidylinositol 3-kinase
+catalytic subunit type 3; PMA: phorbol 12-myristate 13-acetate; PRKC/PKC: protein
+kinase C; ROCK: Rho-associated coiled-coil protein kinase; RR: ribonucleotide
+reductase; SIGMAR1: sigma non-opioid intracellular receptor 1; SQSTM1/p62:
+sequestosome 1; STK11/LKB1: serine/threonine kinase 11; TFEB: Transcription
+factor EB; TGFB/TGF-β: Transforming growth factor beta; ULK1: unc-51 like
+autophagy activating kinase 1; XBP1: X-box binding protein 1.
+
+DOI: 10.1080/15548627.2020.1794590 
+PMCID: PMC8386610
+PMID: 32762399 
+

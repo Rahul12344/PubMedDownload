@@ -1,0 +1,42 @@
+
+1. J Insect Sci. 2021 Nov 1;21(6). pii: 18. doi: 10.1093/jisesa/ieab093.
+
+Laboratory Evaluation of Flight Capacities of Aedes japonicus (Diptera:
+Culicidae) Using a Flight Mill Device.
+
+Krupa E(1), Gréhal AL(1), Esnault J(2), Bender C(2), Mathieu B(1).
+
+Author information: 
+(1)Institut de Parasitologie et Pathologie Tropicale, UR7292 Dynamique des
+interactions hôte pathogène, Fédération de Médecine Translationnelle, Université 
+de Strasbourg, F-67000, Strasbourg, France.
+(2)Syndicat de Lutte contre les Moustiques du Bas-Rhin (SLM67), F-67630,
+Lauterbourg, France.
+
+Dispersion expands the distribution of invasive species and as such, it is a key 
+factor of the colonization process. Aedes japonicus japonicus (Theobald, 1901) is
+an invasive species of mosquito and a vector of various viruses. It was detected 
+in the northeast of France in 2014. The population of this species can expand its
+distribution by several kilometers per year. However, though flight capacities
+play an active part in the dispersion of Ae. japonicus, they remain unknown for
+this species. In this study, we investigated the flight capacities of Ae.
+japonicus in a laboratory setting using the flight mill technique. We evaluated
+the influence of age on flight. We recorded videos of individual flights with a
+camera mounted on Raspberry Pi. We extracted data on distance, duration, and
+speed of flight using the Toxtrac and Boris software. Our analysis showed a
+median flight distance of 438 m with a maximum of 11,466 m. Strong flyers, which 
+represented 10% of the females tested, flew more than 6,115 m during 4 h and 28
+min at a speed of 1.7 km per h. As suspected, Ae. japonicus is a stronger flyer
+than the other invasive species Aedes albopictus (Skuse, 1894) (Diptera:
+Culicidae). To our knowledge, this is the first flight mill study conducted on
+Ae. japonicus and therefore the first evaluation of its flight capacity. In the
+future, the flight propensity of Ae. japonicus determined in this study can be
+included as a parameter to model the colonization process of this invasive vector
+species.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of
+Entomological Society of America.
+
+DOI: 10.1093/jisesa/ieab093 
+PMID: 34865033 
+

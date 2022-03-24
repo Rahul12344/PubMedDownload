@@ -1,0 +1,65 @@
+
+1. Front Immunol. 2021 Oct 26;12:746986. doi: 10.3389/fimmu.2021.746986. eCollection
+2021.
+
+Cross-Reactivity to Mutated Viral Immune Targets Can Influence CD8+ T Cell
+Functionality: An Alternative Viral Adaptation Strategy.
+
+Currenti J(1), Law BMP(1), Qin K(2), John M(3)(4), Pilkinton MA(5), Bansal A(2), 
+Leary S(3), Ram R(3), Chopra A(3), Gangula R(5), Yue L(6)(7), Warren C(5),
+Barnett L(5), Alves E(1), McDonnell WJ(5), Sooda A(3), Heath SL(2), Mallal
+S(3)(5), Goepfert P(2), Kalams SA(5), Gaudieri S(1)(3)(5).
+
+Author information: 
+(1)School of Human Sciences, University of Western Australia, Crawley, WA,
+Australia.
+(2)Department of Medicine, University of Alabama at Birmingham, Birmingham, AL,
+United States.
+(3)Institute for Immunology and Infectious Diseases, Murdoch University, Murdoch,
+WA, Australia.
+(4)Department of Clinical Immunology, Royal Perth Hospital, Perth, WA, Australia.
+(5)Division of Infectious Diseases, Department of Medicine, Vanderbilt University
+Medical Center, Nashville, TN, United States.
+(6)Emory Vaccine Center at Yerkes National Primate Research Center, Emory
+University, Atlanta, GA, United States.
+(7)Department of Pathology and Laboratory Medicine, Emory University, Atlanta,
+GA, United States.
+
+Loss of T cell immunogenicity due to mutations in virally encoded epitopes is a
+well-described adaptation strategy to limit host anti-viral immunity. Another
+described, but less understood, adaptation strategy involves the selection of
+mutations within epitopes that retain immune recognition, suggesting a benefit
+for the virus despite continued immune pressure (termed non-classical
+adaptation). To understand this adaptation strategy, we utilized a single cell
+transcriptomic approach to identify features of the HIV-specific CD8+ T cell
+responses targeting non-adapted (NAE) and adapted (AE) forms of epitopes
+containing a non-classical adaptation. T cell receptor (TCR) repertoire and
+transcriptome were obtained from antigen-specific CD8+ T cells of chronic (n=7)
+and acute (n=4) HIV-infected subjects identified by either HLA class I tetramers 
+or upregulation of activation markers following peptide stimulation. CD8+ T cells
+were predominantly dual tetramer+, confirming a large proportion of
+cross-reactive TCR clonotypes capable of recognizing the NAE and AE form.
+However, single-reactive CD8+ T cells were identified in acute HIV-infected
+subjects only, providing the potential for the selection of T cell clones over
+time. The transcriptomic profile of CD8+ T cells was dependent on the autologous 
+virus: subjects whose virus encoded the NAE form of the epitope (and who
+transitioned to the AE form at a later timepoint) exhibited an 'effective' immune
+response, as indicated by expression of transcripts associated with
+polyfunctionality, cytotoxicity and apoptosis (largely driven by the genes GZMB, 
+IFNɣ, CCL3, CCL4 and CCL5). These data suggest that viral adaptation at a single 
+amino acid residue can provide an alternative strategy for viral survival by
+modulating the transcriptome of CD8+ T cells and potentially selecting for less
+effective T cell clones from the acute to chronic phase.
+
+Copyright © 2021 Currenti, Law, Qin, John, Pilkinton, Bansal, Leary, Ram, Chopra,
+Gangula, Yue, Warren, Barnett, Alves, McDonnell, Sooda, Heath, Mallal, Goepfert, 
+Kalams and Gaudieri.
+
+DOI: 10.3389/fimmu.2021.746986 
+PMCID: PMC8577586
+PMID: 34764960 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

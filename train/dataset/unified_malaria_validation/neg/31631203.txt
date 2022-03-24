@@ -1,0 +1,39 @@
+
+1. mol omics. 2019 dec 2;15(6):431-441. doi: 10.1039/c9mo00124g.
+
+a network-based approach reveals novel invasion maurer's clefts-related
+proteins plasmodium falciparum.
+
+das d(1), krishnan sr, roy a, bulusu g.
+
+author information: 
+(1)tcs innovation labs - hyderabad (life sciences division), tata consultancy
+services limited, hyderabad, india. roy.arijit3@tcs.com g.bulusu@tcs.com.
+
+malaria continues major concern developing countries despite
+continuous efforts find cure disease. understanding pathogenesis
+mechanism necessary identify effective drug targets malaria.
+many years experimental research generated large amount data the
+malarial parasite, plasmodium falciparum. data useful understand the
+importance certain parasite proteins, often remains unclear these
+proteins come together, interact proteins carry their
+function. identification proteins involved pathogenesis important
+step towards understanding molecular mechanism pathogenesis. this
+study, dynamic stage-specific protein-protein interaction networks created
+based gene expression data parasite's intra-erythrocytic stages and
+static protein-protein interaction data. using previously known proteins a
+biological event seed proteins, random walk restart (rwr) method 
+used dynamic protein-protein interaction networks identify novel
+proteins related event. two screening procedures namely, permutation test
+and go enrichment test performed increase reliability rwr
+predictions. proposed method first validated plasmodium falciparum
+proteins related invasion, could reproduce existing knowledge
+from small set seed proteins. used identify novel maurer's
+clefts resident proteins, could identify 152 parasite proteins. show 
+that current approach annotate conserved proteins unknown function. 
+the predicted proteins help build mechanistic model disease
+pathogenesis, useful identifying new drug targets.
+
+doi: 10.1039/c9mo00124g 
+pmid: 31631203  [indexed medline]
+

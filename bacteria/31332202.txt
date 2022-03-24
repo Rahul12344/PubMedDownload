@@ -1,0 +1,51 @@
+
+1. Sci Rep. 2019 Jul 22;9(1):10604. doi: 10.1038/s41598-019-46901-6.
+
+Targeted detection of Dehalococcoides mccartyi microbial protein biomarkers as
+indicators of reductive dechlorination activity in contaminated groundwater.
+
+Solis MIV(1)(2), Abraham PE(1), Chourey K(1), Swift CM(3), Löffler FE(4)(5),
+Hettich RL(6)(7).
+
+Author information: 
+(1)Chemical Sciences Division, Oak Ridge National Laboratory, Oak Ridge,
+Tennessee, 37831, United States.
+(2)Department of Genome Science and Technology, University of Tennessee,
+Knoxville, Tennessee, 37996, United States.
+(3)Department of Microbiology, Department of Civil and Environmental Engineering,
+Department of Biosystems Engineering and Soil Science, University of Tennessee,
+Knoxville, Tennessee, 37996, United States.
+(4)Department of Microbiology, Department of Civil and Environmental Engineering,
+Department of Biosystems Engineering and Soil Science, University of Tennessee,
+Knoxville, Tennessee, 37996, United States. frank.loeffler@utk.edu.
+(5)Biosciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee,
+37831, United States. frank.loeffler@utk.edu.
+(6)Chemical Sciences Division, Oak Ridge National Laboratory, Oak Ridge,
+Tennessee, 37831, United States. hettichrl@ornl.gov.
+(7)Department of Genome Science and Technology, University of Tennessee,
+Knoxville, Tennessee, 37996, United States. hettichrl@ornl.gov.
+
+Dehalococcoides mccartyi (Dhc) bacterial strains expressing active reductive
+dehalogenase (RDase) enzymes play key roles in the transformation and
+detoxification of chlorinated pollutants, including chlorinated ethenes. Site
+monitoring regimes traditionally rely on qPCR to assess the presence of Dhc
+biomarker genes; however, this technique alone cannot directly inform about
+dechlorination activity. To supplement gene-centric approaches and provide a more
+reliable proxy for dechlorination activity, we sought to demonstrate a targeted
+proteomics approach that can characterize Dhc mediated dechlorination in
+groundwater contaminated with chlorinated ethenes. Targeted peptide selection was
+conducted in axenic cultures of Dhc strains 195, FL2, and BAV1. These experiments
+yielded 37 peptides from housekeeping and structural proteins (i.e., GroEL,
+EF-TU, rpL7/L2 and the S-layer), as well as proteins involved in the reductive
+dechlorination activity (i.e., FdhA, TceA, and BvcA). The application of targeted
+proteomics to a defined bacterial consortium and contaminated groundwater samples
+resulted in the detection of FdhA peptides, which revealed active dechlorination 
+with Dhc strain-level resolution, and the detection of RDases peptides indicating
+specific reductive dechlorination steps. The results presented here show that
+targeted proteomics can be applied to groundwater samples and provide protein
+level information about Dhc dechlorination activity.
+
+DOI: 10.1038/s41598-019-46901-6 
+PMCID: PMC6646388
+PMID: 31332202  [Indexed for MEDLINE]
+

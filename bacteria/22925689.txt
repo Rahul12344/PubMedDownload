@@ -1,0 +1,40 @@
+
+1. BMC Biotechnol. 2012 Aug 27;12:57. doi: 10.1186/1472-6750-12-57.
+
+Enhanced itaconic acid production in Aspergillus niger using genetic modification
+and medium optimization.
+
+Li A(1), Pfelzer N, Zuijderwijk R, Punt P.
+
+Author information: 
+(1)TNO Microbiology and Systems biology, PO Box 360, 3700 AJ Zeist, The
+Netherlands. an.li@tno.nl
+
+BACKGROUND: Aspergillus niger was selected as a host for producing itaconic acid 
+due to its versatile and tolerant character in various growth environments, and
+its extremely high capacity of accumulating the precursor of itaconic acid:
+citric acid. Expressing the CAD gene from Aspergillus terreus opened the
+metabolic pathway towards itaconic acid in A. niger. In order to increase the
+production level, we continued by modifying its genome and optimizing cultivation
+media.
+RESULTS: Based on the results of previous transcriptomics studies and research
+from other groups, two genes : gpdA encoding the glyceraldehyde -3-dehydrogenase 
+(GPD) and hbd1 encoding a flavohemoglobin domain (HBD) were overexpressed in A.
+niger. Besides, new media were designed based on a reference medium for A.
+terreus. To analyze large numbers of cultures, we developed an approach for
+screening both fungal transformants and various media in 96-well micro-titer
+plates. The hbd1 transformants (HBD 2.2/2.5) did not improve itaconic acid titer 
+while the gpdA transformant (GPD 4.3) decreased the itaconic acid production.
+Using 20 different media, copper was discovered to have a positive influence on
+itaconic acid production. Effects observed in the micro-titer plate screening
+were confirmed in controlled batch fermentation.
+CONCLUSIONS: The performance of gpdA and hbd1 transformants was found not to be
+beneficial for itaconic acid production using the tested cultivation conditions. 
+Medium optimization showed that, copper was positively correlated with improved
+itaconic acid production. Interestingly, the optimal conditions for itaconic acid
+clearly differ from conditions optimal for citric- and oxalic acid production.
+
+DOI: 10.1186/1472-6750-12-57 
+PMCID: PMC3472327
+PMID: 22925689  [Indexed for MEDLINE]
+

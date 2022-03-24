@@ -1,0 +1,52 @@
+
+1. Antimicrob Agents Chemother. 2019 Sep 23;63(10). pii: e01130-19. doi:
+10.1128/AAC.01130-19. Print 2019 Oct.
+
+Advantage of the F2:A1:B- IncF Pandemic Plasmid over IncC Plasmids in In Vitro
+Acquisition and Evolution of bla CTX-M Gene-Bearing Plasmids in Escherichia coli.
+
+Mahérault AC(1)(2), Kemble H(1), Magnan M(1), Gachet B(1), Roche D(3), Le Nagard 
+H(1), Tenaillon O(1), Denamur E(1)(4), Branger C(1), Landraud L(5)(2).
+
+Author information: 
+(1)Université de Paris, IAME, UMR 1137, INSERM, Paris, France.
+(2)AP-HP, Laboratoire de Microbiologie Hygiène, Hôpital Louis Mourier, Colombes, 
+France.
+(3)Laboratoire d'Analyse Bioinformatique en Génomique et Métabolisme, Institut de
+Génomique, Commissariat à l'Energie Atomique, Génoscope, CNRS-UMR 8030, Evry,
+France.
+(4)AP-HP, Laboratoire de Génétique Moléculaire, Hôpital Bichat, Paris, France.
+(5)Université de Paris, IAME, UMR 1137, INSERM, Paris, France
+luce.landraud@aphp.fr.
+
+Despite a fitness cost imposed on bacterial hosts, large conjugative plasmids
+play a key role in the diffusion of resistance determinants, such as CTX-M
+extended-spectrum β-lactamases. Among the large conjugative plasmids, IncF
+plasmids are the most predominant group, and an F2:A1:B- IncF-type plasmid
+encoding a CTX-M-15 variant was recently described as being strongly associated
+with the emerging worldwide Escherichia coli sequence type 131 (ST131)-O25b:H4
+H30Rx/C2 sublineage. In this context, we investigated the fitness cost of
+narrow-range F-type plasmids, including the F2:A1:B- IncF-type CTX-M-15 plasmid, 
+and of broad-range C-type plasmids in the K-12-like J53-2 E. coli strain.
+Although all plasmids imposed a significant fitness cost to the bacterial host
+immediately after conjugation, we show, using an experimental-evolution approach,
+that a negative impact on the fitness of the host strain was maintained
+throughout 1,120 generations with the IncC-IncR plasmid, regardless of the
+presence or absence of cefotaxime, in contrast to the F2:A1:B- IncF plasmid,
+whose cost was alleviated. Many chromosomal and plasmid rearrangements were
+detected after conjugation in transconjugants carrying the IncC plasmids but not 
+in transconjugants carrying the F2:A1:B- IncF plasmid, except for insertion
+sequence (IS) mobilization from the fliM gene leading to the restoration of
+motility of the recipient strains. Only a few mutations occurred on the
+chromosome of each transconjugant throughout the experimental-evolution assay.
+Our findings indicate that the F2:A1:B- IncF CTX-M-15 plasmid is well adapted to 
+the E. coli strain studied, contrary to the IncC-IncR CTX-M-15 plasmid, and that 
+such plasmid-host adaptation could participate in the evolutionary success of the
+CTX-M-15-producing pandemic E. coli ST131-O25b:H4 lineage.
+
+Copyright © 2019 Mahérault et al.
+
+DOI: 10.1128/AAC.01130-19 
+PMCID: PMC6761558
+PMID: 31332067  [Indexed for MEDLINE]
+

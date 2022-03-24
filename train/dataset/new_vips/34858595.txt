@@ -1,0 +1,60 @@
+
+1. Evol Med Public Health. 2021 Oct 13;9(1):360-373. doi: 10.1093/emph/eoab032.
+eCollection 2021.
+
+A novel predictor of ACE2-binding ability among betacoronaviruses.
+
+Dixson JD(1), Azad RK(1)(2).
+
+Author information: 
+(1)Department of Biological Sciences and BioDiscovery Institute, University of
+North Texas, Denton, TX 76203, USA.
+(2)Department of Mathematics, University of North Texas, Denton, TX 76203, USA.
+
+Background: Coronavirus disease 2019 (COVID-19), caused by severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2), has resulted in ~4.8 million
+deaths worldwide as of this writing. Almost all conceivable aspects of SARS-CoV-2
+have been explored since the virus began spreading in the human population.
+Despite numerous proposals, it is still unclear how and when the virus gained the
+ability to efficiently bind to and infect human cells. In an effort to understand
+the evolution of receptor binding domain (RBD) of the spike protein of
+SARS-CoV-2, and specifically, how the ability of RBD to bind to
+angiotensin-converting enzyme 2 receptor (ACE2) of humans evolved in
+coronaviruses, we have applied an alignment-free technique to infer functional
+relatedness among betacoronaviruses. This technique, concurrently being optimized
+for identifying novel prions, was adapted to gain new insights into coronavirus
+evolution, specifically in the context of the ongoing COVID-19 pandemic. Novel
+methods for predicting the capacity for coronaviruses, in general, to infect
+human cells are urgently needed.
+Methodology: proposed method utilizes physicochemical properties of amino acids
+to develop fully dynamic waveform representations of proteins that encode both
+the amino acid content and the context of amino acids. These waveforms are then
+subjected to dynamic time warping (DTW) and distance evaluation to develop a
+distance metric that is relatively less sensitive to variation in sequence length
+and primary amino acid composition.
+Results and Conclusions: Using our proposed method, we show that in contrast to
+alignment-based maximum likelihood (ML) and neighbor-joining (NJ) phylogenetic
+analyses, all bat betacoronavirus spike protein RBDs known to bind to the ACE2
+receptor are found within a single physicochemical cluster. Further, other RBDs
+within that cluster are from pangolin coronaviruses, two of which have already
+been shown to bind to ACE2 while the others are suspected, yet unverified ACE2
+binding domains. This finding is important because both severe acute respiratory 
+syndrome coronavirus (SARS-CoV) and SARS-CoV-2 use the host ACE2 receptor for
+cell entry. Surveillance for coronaviruses belonging to this cluster could
+potentially guide efforts to stifle or curtail potential and/or early zoonotic
+outbreaks with their associated deaths and financial devastation.
+Lay Summary: Robust methods for predicting human ACE2 receptor binding by the
+spike protein of coronaviruses are needed for the early detection of zoonotic
+coronaviruses and biosurveillance to prevent future outbreaks. Here we present a 
+new waveform-based approach that utilizes the physicochemical properties of amino
+acids to determine the propensity of betacoronaviruses to infect humans.
+Comparison with the established phylogenetic methods demonstrates the usefulness 
+of this new approach in the biosurveillance of coronaviruses.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the
+Foundation for Evolution, Medicine, and Public Health.
+
+DOI: 10.1093/emph/eoab032 
+PMCID: PMC8634463
+PMID: 34858595 
+

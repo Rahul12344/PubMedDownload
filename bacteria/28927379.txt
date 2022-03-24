@@ -1,0 +1,48 @@
+
+1. BMC Microbiol. 2017 Sep 19;17(1):198. doi: 10.1186/s12866-017-1107-2.
+
+Regulation of bacteria population behaviors by AI-2 "consumer cells" and
+"supplier cells".
+
+Quan Y(1), Meng F(1), Ma X(1), Song X(1), Liu X(1), Gao W(1), Dang Y(1), Meng
+Y(1), Cao M(2), Song C(3).
+
+Author information: 
+(1)Key Laboratory of Molecular Microbiology and Technology for Ministry of
+Education, Nankai University, Tianjin, 300071, China.
+(2)Department of Chemical and Biological Engineering, Iowa State University,
+Ames, IA, 50011, USA.
+(3)Key Laboratory of Molecular Microbiology and Technology for Ministry of
+Education, Nankai University, Tianjin, 300071, China. songcj@nankai.edu.cn.
+
+BACKGROUND: Autoinducer-2 (AI-2) is a universal signal molecule and enables an
+individual bacteria to communicate with each other and ultimately control
+behaviors of the population. Harnessing the character of AI-2, two kinds of AI-2 
+"controller cells" ("consumer cells" and "supplier cells") were designed to
+"reprogram" the behaviors of entire population.
+RESULTS: For the consumer cells, genes associated with the uptake and processing 
+of AI-2, which includes LsrACDB, LsrFG, LsrK, were overexpressed in varying
+combinations. Four consumer cell strains were constructed: Escherichia coli
+MG1655 pLsrACDB (NK-C1), MG1655 pLsrACDBK (NK-C2), MG1655 pLsrACDBFG (NK-C3) and 
+MG1655 pLsrACDBFGK (NK-C4). The key enzymes responsible for production of AI-2,
+LuxS and Mtn, were also overexpressed, yielding strains MG1655 pLuxS (NK-SU1),
+and MG1655 pLuxS-Mtn (NK-SU2). All the consumer cells could decrease the
+environmental AI-2 concentration. NK-C2 and NK-C4 were most effective in AI-2
+uptake and inhibited biofilm formation. While suppliers can increase the
+environmental AI-2 concentration and NK-SU2 was most effective in supplying AI-2 
+and facilitated biofilm formation. Further, reporter strain, MG1655 pLGFP was
+constructed. The expression of green fluorescent protein (GFP) in reporter cells 
+was initiated and guided by AI-2. Mixture of consumer cells and reporter cells
+suggest that consumer cells can decrease the AI-2 concentration. And the supplier
+cells were co-cultured with reporter cells, indicating that supplier cells can
+provide more AI-2 compared to the control.
+CONCLUSIONS: The consumer cells and supplier cells could be used to regulate
+environmental AI-2 concentration and the biofilm formation. They can also
+modulate the AI-2 concentration when they were co-cultured with reporter cells.
+It can be envisioned that this system will become useful tools in synthetic
+biology and researching new antimicrobials.
+
+DOI: 10.1186/s12866-017-1107-2 
+PMCID: PMC5605969
+PMID: 28927379  [Indexed for MEDLINE]
+

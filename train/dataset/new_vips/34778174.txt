@@ -1,0 +1,46 @@
+
+1. Front Public Health. 2021 Oct 29;9:739738. doi: 10.3389/fpubh.2021.739738.
+eCollection 2021.
+
+Early Detection of COVID-19 Waves From Cases in a Neighboring Country With an
+Open Border.
+
+Kamat A(1), Sah A(2).
+
+Author information: 
+(1)Department of Mechanical, Aerospace and Nuclear Engineering, Rensselaer
+Polytechnic Institute, Troy, NY, United States.
+(2)Nepalgunj Medical College, Nepalgunj, Nepal.
+
+Border closure or travel restriction is a critical issue as closing the border
+early can badly affect the economy of the country, whereas substantial delay can 
+put human lives at stake. While many papers discuss closing the border early in
+the pandemic, the question of when to close the border has not been addressed
+well. We have tried to estimate a date of closing the border by taking the
+reference of a neighboring country with a high correlation in Covid-19 incidence.
+Here we have used non-linear methods to probe the landscape of correlation
+between temporal COVID-19 incidences and deaths. We have tested our method on two
+neighboring countries, Nepal and India, with open borders, where closing the
+borders are among the top priorities to reduce the spread and spill-out of
+variants. We have selected these countries as they have close connectivity and
+intertwined socio-economic network with thousands of people crossing the border
+every day. We found the distance correlation for COVID-19 incidence between these
+countries to be statistically significant (p < 0.001) and there is a lag of 6
+days for maximum correlation. In addition, we analyzed the correlation for each
+wave and found the distance correlation for the first phase is 0.8145 (p < 0.001)
+with a lag of 2 days, and the distance correlation for the second wave is 0.9685 
+(p < 0.001) without any lag. This study can be a critical planning tool for
+policymakers and public health practitioners to make an informed decision on
+border closure in the early days as it is critically associated with the legal
+and diplomatic agreements and regulations between two countries.
+
+Copyright © 2021 Kamat and Sah.
+
+DOI: 10.3389/fpubh.2021.739738 
+PMCID: PMC8585937
+PMID: 34778174  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

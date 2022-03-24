@@ -1,0 +1,50 @@
+
+1. Mol Med Rep. 2016 Nov;14(5):4099-4108. doi: 10.3892/mmr.2016.5758. Epub 2016 Sep 
+21.
+
+Transcriptional profile of SH-SY5Y human neuroblastoma cells transfected by
+Toxoplasma rhoptry protein 16.
+
+Fan W(1), Chang S(1), Shan X(1), Gao D(1), Zhang SQ(1), Zhang J(2), Jiang N(2),
+Ma D(2), Mao Z(1).
+
+Author information: 
+(1)Department of Parasitology and Microbiology, School of Basic Medical Sciences,
+Fudan University, Shanghai 200032, P.R. China.
+(2)Key Laboratory of Molecular Medicine, Ministry of Education, Department of
+Biochemistry and Molecular Biology, Institutes of Biomedical Sciences, School of 
+Basic Medical Sciences, Fudan University, Shanghai 200032, P.R. China.
+
+Toxoplasma rhoptry protein 16 (ROP16) is crucial in the host-pathogen interaction
+by acting as a virulent factor during invasion. To improve understanding of the
+molecular function underlying the effect of ROP16 on host cells, the present
+study analyzed the transcriptional profile of genes in the ROP16‑transfected
+SH‑SY5Y human neuroblastoma cell line. The transcriptional profile of the SH‑SY5Y
+human neuroblastoma cell line overexpressing ROP16 were determined by microarray 
+analysis in order to determine the host neural cell response to the virulent
+factor. Functional analysis was performed using the Protein Analysis Through
+Evolutionary Relationships classification system. The ToppGene Suite was used to 
+select candidate genes from the differentially expressed genes. A protein‑protein
+interaction network was constructed using Cytoscape software according to the
+interaction associations determined using the Search Tool for the Retrieval of
+Interacting Genes/Proteins. Reverse transcription‑quantitative polymerase chain
+reaction (RT‑qPCR) analysis of the selected genes confirmed the results of the
+microarray. The results showed that 383 genes were differentially expressed in
+response to ROP16 transfection, of which 138 genes were upregulated and 245 genes
+were downregulated. Functional analysis indicated that the differentially
+expressed genes (DEGs) were involved in several biological processes, including
+developmental process, biological regulation and apoptotic process. A total of 15
+candidate genes from the DEGs were screened using the ToppGene Suite. No
+significant differences in expression were observed between the RT‑qPCR data and 
+the microarray data. Transfection with ROP16 resulted in alterations of several
+biological processes, including nervous system development, apoptosis and
+transcriptional regulation. Several genes, including CXCL12, BAI1, ZIC2, RBMX,
+RASSF6, MAGE‑A6 and HOX, were identified as significant DEGs. Taken together,
+these results may contribute to understanding the mechanisms underlying the
+functions of ROP16 and provide scope for further investigation of the
+pathogenesis of Toxoplasma gondii.
+
+DOI: 10.3892/mmr.2016.5758 
+PMCID: PMC5101894
+PMID: 27666388  [Indexed for MEDLINE]
+

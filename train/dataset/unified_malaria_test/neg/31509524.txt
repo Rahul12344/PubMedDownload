@@ -1,0 +1,36 @@
+
+1. plos comput biol. 2019 sep 11;15(9):e1007329. doi: 10.1371/journal.pcbi.1007329. 
+ecollection 2019 sep.
+
+predicting gene expression human malaria parasite plasmodium falciparum
+using histone modification, nucleosome positioning, 3d localization features.
+
+read df(1), cook k(1), lu yy(1), le roch kg(2), noble ws(1).
+
+author information: 
+(1)department genome sciences, university washington, seattle, washington, 
+united states america.
+(2)department molecular, cell systems biology, university california,
+riverside, california, united states america.
+
+empirical evidence suggests malaria parasite plasmodium falciparum
+employs broad range mechanisms regulate gene transcription throughout the
+organism's complex life cycle. better understand regulatory machinery, we
+assembled rich collection genomic epigenomic data sets, including
+information transcription factor (tf) binding motifs, patterns covalent 
+histone modifications, nucleosome occupancy, gc content, global 3d genome
+architecture. used data train machine learning models discriminate
+between high-expression low-expression genes, focusing three distinct
+stages red blood cell phase plasmodium life cycle. results
+highlight importance histone modifications 3d chromatin architecture
+in plasmodium transcriptional regulation suggest ap2 transcription
+factors may play limited regulatory role, perhaps operating conjunction with
+epigenetic factors.
+
+doi: 10.1371/journal.pcbi.1007329 
+pmcid: pmc6756558
+pmid: 31509524  [indexed medline]
+
+conflict interest statement: authors declared competing
+interests exist.
+

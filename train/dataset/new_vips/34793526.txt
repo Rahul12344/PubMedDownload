@@ -1,0 +1,39 @@
+
+1. PLoS One. 2021 Nov 18;16(11):e0259969. doi: 10.1371/journal.pone.0259969.
+eCollection 2021.
+
+Modelling digital and manual contact tracing for COVID-19. Are low uptakes and
+missed contacts deal-breakers?
+
+Rusu AC(1), Emonet R(2), Farrahi K(1).
+
+Author information: 
+(1)Vision, Learning and Control Research Group, University of Southampton,
+Southampton, United Kingdom.
+(2)Department of Machine Learning, Laboratoire Hubert Curien, Saint-Etienne,
+France.
+
+Comprehensive testing schemes, followed by adequate contact tracing and
+isolation, represent the best public health interventions we can employ to reduce
+the impact of an ongoing epidemic when no or limited vaccine supplies are
+available and the implications of a full lockdown are to be avoided. However, the
+process of tracing can prove feckless for highly-contagious viruses such as
+SARS-CoV-2. The interview-based approaches often miss contacts and involve
+significant delays, while digital solutions can suffer from insufficient adoption
+rates or inadequate usage patterns. Here we present a novel way of modelling
+different contact tracing strategies, using a generalized multi-site mean-field
+model, which can naturally assess the impact of manual and digital approaches
+alike. Our methodology can readily be applied to any compartmental formulation,
+thus enabling the study of more complex pathogen dynamics. We use this technique 
+to simulate a newly-defined epidemiological model, SEIR-T, and show that, given
+the right conditions, tracing in a COVID-19 epidemic can be effective even when
+digital uptakes are sub-optimal or interviewers miss a fair proportion of the
+contacts.
+
+DOI: 10.1371/journal.pone.0259969 
+PMCID: PMC8601513
+PMID: 34793526  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

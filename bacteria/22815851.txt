@@ -1,0 +1,35 @@
+
+1. PLoS One. 2012;7(7):e40882. doi: 10.1371/journal.pone.0040882. Epub 2012 Jul 17.
+
+Comparison of the predicted population coverage of tuberculosis vaccine
+candidates Ag85B-ESAT-6, Ag85B-TB10.4, and Mtb72f via a bioinformatics approach.
+
+Davila J(1), McNamara LA, Yang Z.
+
+Author information: 
+(1)Department of Epidemiology, School of Public Health, University of Michigan,
+Ann Arbor, Michigan, United States of America.
+
+Erratum in
+    PLoS One. 2012 Oct 8;7(10 ):.
+
+The Bacille-Calmette Guérin (BCG) vaccine does not provide consistent protection 
+against adult pulmonary tuberculosis (TB) worldwide. As novel TB vaccine
+candidates advance in studies and clinical trials, it will be critically
+important to evaluate their global coverage by assessing the impact of host and
+pathogen variability on vaccine efficacy. In this study, we focus on the impact
+that host genetic variability may have on the protective effect of TB vaccine
+candidates Ag85B-ESAT-6, Ag85B-TB10.4, and Mtb72f. We use open-source epitope
+binding prediction programs to evaluate the binding of vaccine epitopes to Class 
+I HLA (A, B, and C) and Class II HLA (DRB1) alleles. Our findings suggest that
+Mtb72f may be less consistently protective than either Ag85B-ESAT-6 or
+Ag85B-TB10.4 in populations with a high TB burden, while Ag85B-TB10.4 may provide
+the most consistent protection. The findings of this study highlight the utility 
+of bioinformatics as a tool for evaluating vaccine candidates before the costly
+stages of clinical trials and informing the development of new vaccines with the 
+broadest possible population coverage.
+
+DOI: 10.1371/journal.pone.0040882 
+PMCID: PMC3398899
+PMID: 22815851  [Indexed for MEDLINE]
+

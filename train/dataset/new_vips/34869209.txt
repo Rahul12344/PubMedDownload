@@ -1,0 +1,56 @@
+
+1. Front Chem. 2021 Nov 19;9:767448. doi: 10.3389/fchem.2021.767448. eCollection
+2021.
+
+Site-Specific Glycosylation Patterns of the SARS-CoV-2 Spike Protein Derived From
+Recombinant Protein and Viral WA1 and D614G Strains.
+
+Tian Y(1), Parsons LM(1), Jankowska E(1), Cipollo JF(1).
+
+Author information: 
+(1)Food and Drug Administration, Center for Biologics Evaluation and Research,
+Division of Bacterial, Parasitic and Allergenic Products, Silver Spring, MD,
+United States.
+
+The SARS-CoV-2 spike protein is heavily glycosylated, having 22 predicted
+N-glycosylation sites per monomer. It is also O-glycosylated, although the number
+of O-glycosites is less defined. Recent studies show that spike protein glycans
+play critical roles in viral entry and infection. The spike monomer has two
+subdomains, S1 and S2, and a receptor-binding domain (RBD) within the S1 domain. 
+In this study, we have characterized the site-specific glycosylation patterns of 
+the HEK293 recombinant spike RBD and S1 domains as well as the intact spike
+derived from the whole virus produced in Vero cells. The Vero cell-derived spike 
+from the WA1 strain and a D614G variant was analyzed. All spike proteins, S1, and
+RBDs were analyzed using hydrophilic interaction chromatography (HILIC) and
+LC-MS/MS on an Orbitrap Eclipse Tribrid mass spectrometer. N-glycans identified
+in HEK293-derived S1 were structurally diverse. Those found in the HEK293-derived
+RBD were highly similar to those in HEK293 S1 where N-glycosites were shared.
+Comparison of the whole cell-derived WA1 and D614G spike proteins revealed that
+N-glycosites local to the mutation site appeared to be more readily detected,
+hinting that these sites are more exposed to glycosylation machinery. Moreover,
+recombinant HEK293-derived S1 was occupied almost completely with complex glycan,
+while both WA1 and D614G derived from the Vero E6 cell whole virus were
+predominantly high-mannose glycans. This stands in stark contrast to
+glycosylation patterns seen in both CHO- and HEK cell-derived recombinant S1, S2,
+and the whole spike previously reported. Concerning O-glycosylation, our analyses
+revealed that HEK293 recombinant proteins possessed a range of O-glycosites with 
+compositions consistent with Core type 1 and 2 glycans. The O-glycosites shared
+between the S1 and RBD constructs, sites T323 and T523, were occupied by a
+similar range of Core 1 and 2 type O-glycans. Overall, this study reveals that
+the sample nature and cell substrate used for production of these proteins can
+have a dramatic impact on the glycosylation profile. SARS-CoV-2 spike glycans are
+associated with host ACE2 receptor interaction efficiency. Therefore,
+understanding such differences will serve to better understand these
+host-pathogen interactions and inform the choice of cell substrates to suite
+downstream investigations.
+
+Copyright © 2021 Tian, Parsons, Jankowska and Cipollo.
+
+DOI: 10.3389/fchem.2021.767448 
+PMCID: PMC8640487
+PMID: 34869209 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

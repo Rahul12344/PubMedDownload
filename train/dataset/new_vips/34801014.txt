@@ -1,0 +1,39 @@
+
+1. BMC Public Health. 2021 Nov 20;21(1):2132. doi: 10.1186/s12889-021-12083-y.
+
+Using prediction polling to harness collective intelligence for disease
+forecasting.
+
+Sell TK(1)(2), Warmbrod KL(3)(4), Watson C(3)(4), Trotochaud M(3)(4), Martin
+E(3)(4), Ravi SJ(3)(4), Balick M(5), Servan-Schreiber E(5)(6).
+
+Author information: 
+(1)Johns Hopkins Center for Health Security, Baltimore, USA. tksell@jhu.edu.
+(2)Department of Environmental Health and Engineering, Johns Hopkins Bloomberg
+School of Public Health, Baltimore, USA. tksell@jhu.edu.
+(3)Johns Hopkins Center for Health Security, Baltimore, USA.
+(4)Department of Environmental Health and Engineering, Johns Hopkins Bloomberg
+School of Public Health, Baltimore, USA.
+(5)Hypermind, llc, New York, USA.
+(6)School of Collective Intelligence, Mohammed VI Polytechnic University, Ben
+Guerir, Morocco.
+
+BACKGROUND: The global spread of COVID-19 has shown that reliable forecasting of 
+public health related outcomes is important but lacking.
+METHODS: We report the results of the first large-scale, long-term experiment in 
+crowd-forecasting of infectious-disease outbreaks, where a total of 562 volunteer
+participants competed over 15 months to make forecasts on 61 questions with a
+total of 217 possible answers regarding 19 diseases.
+RESULTS: Consistent with the "wisdom of crowds" phenomenon, we found that crowd
+forecasts aggregated using best-practice adaptive algorithms are well-calibrated,
+accurate, timely, and outperform all individual forecasters.
+CONCLUSIONS: Crowd forecasting efforts in public health may be a useful addition 
+to traditional disease surveillance, modeling, and other approaches to
+evidence-based decision making for infectious disease outbreaks.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12889-021-12083-y 
+PMCID: PMC8605461
+PMID: 34801014  [Indexed for MEDLINE]
+

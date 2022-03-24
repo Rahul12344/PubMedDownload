@@ -1,0 +1,43 @@
+
+1. plos one. 2014 dec 4;9(12):e114461. doi: 10.1371/journal.pone.0114461.
+ecollection 2014.
+
+inference oxidative stress network anopheles stephensi upon plasmodium 
+infection.
+
+shrinet j(1), nandal uk(2), adak t(3), bhatnagar rk(1), sunil s(1).
+
+author information: 
+(1)international centre genetic engineering biotechnology, new delhi,
+india.
+(2)bioinformatics laboratory, department clinical epidemiology, biostatistics 
+and bioinformatics, academic medical center, amsterdam, netherlands.
+(3)national institute malaria research, new delhi, india.
+
+ookinete invasion anopheles midgut critical step malaria
+transmission; parasite numbers drop drastically practically reach a
+minimum parasite's whole life cycle. stage, parasite as
+well vector undergoes immense oxidative stress. thereafter, vector
+undergoes oxidative stress different time points parasite invades its
+tissues parasite development. present study undertaken to
+reconstruct network differentially expressed genes involved oxidative
+stress anopheles stephensi plasmodium development maturation the
+midgut. using high throughput next generation sequencing methods, generated
+the transcriptome an. stephensi midgut plasmodium vinckei petteri
+oocyst invasion midgut epithelium. further, utilized large datasets
+available public domain anopheles plasmodium ookinete invasion and
+drosophila datasets arrived upon clusters genes may play role in
+oxidative stress. finally, used support vector machines functional
+prediction un-annotated genes an. stephensi. integrating results
+from different data analyses, identified total 516 genes that
+were involved oxidative stress an. stephensi plasmodium development.
+the significantly regulated genes extracted gene cluster
+and used infer oxidative stress network an. stephensi. using system
+biology approaches, able ascertain role several putative
+genes an. stephensi respect oxidative stress. experimental
+validations genes underway.
+
+doi: 10.1371/journal.pone.0114461 
+pmcid: pmc4256432
+pmid: 25474020  [indexed medline]
+

@@ -1,0 +1,49 @@
+
+1. plos one. 2013;8(1):e54416. doi: 10.1371/journal.pone.0054416. epub 2013 jan 28.
+
+application validation case-finding algorithms identifying individuals
+with human immunodeficiency virus administrative data british columbia,
+canada.
+
+nosyk b(1), colley g, yip b, chan k, heath k, lima vd, gilbert m, hogg rs,
+harrigan pr, montaner js; stop hiv/aids study group.
+
+collaborators: barrios r, daly p, gustafson r, kendall pr, panessa c, south n.
+
+author information: 
+(1)bc centre excellence hiv/aids, vancouver, british columbia, canada.
+
+objective: define population-level cohort individuals infected the
+human immunodeficiency virus (hiv) province british columbia from
+available registries administrative datasets using validated case-finding
+algorithm.
+methods: individuals identified possible cohort inclusion bc
+centre excellence hiv/aids (cfe) drug treatment program (antiretroviral
+therapy) laboratory testing datasets (plasma viral load (pvl) cd4
+diagnostic test results), bc centre disease control (cdc) provincial hiv 
+surveillance database (positive hiv tests), well databases held bc
+ministry health (moh); discharge abstract database (hospitalizations), the
+medical services plan (physician billing) pharmanet databases (additional
+hiv-related medications). validated case-finding algorithm applied to
+distinguish true hiv cases likely misclassified. the
+sensitivity algorithms assessed proportion confirmed cases
+(those records cfe, cdc moh databases) positively identified by
+each algorithm. priori hypotheses generated tested verify excluded 
+cases.
+results: total 25,673 individuals identified least one
+hiv-related health record. among 9,454 unconfirmed cases, selected
+case-finding algorithm identified 849 individuals believed hiv-positive.
+the sensitivity algorithm among confirmed cases 88%. excluded
+from cohort likely female (44.4% vs. 22.5%; p<0.01), a
+lower mortality rate (2.18 per 100 person years (100py) vs. 3.14/100py; p<0.01), 
+and lower median rates health service utilization (days medications
+dispensed: 9745/100py vs. 10266/100py; p<0.01; days inpatient care: 29/100py
+vs. 98/100py; p<0.01; physician billings: 602/100py vs. 2,056/100py; p<0.01).
+conclusions: application validated case-finding algorithms subsequent 
+hypothesis testing provided strong framework defining population-level
+cohort hiv infected people bc using administrative databases.
+
+doi: 10.1371/journal.pone.0054416 
+pmcid: pmc3557280
+pmid: 23382898  [indexed medline]
+

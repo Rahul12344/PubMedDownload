@@ -1,0 +1,62 @@
+
+1. Nat Commun. 2018 Nov 21;9(1):4906. doi: 10.1038/s41467-018-07333-4.
+
+Defining human cardiac transcription factor hierarchies using integrated
+single-cell heterogeneity analysis.
+
+Churko JM(1)(2)(3)(4), Garg P(5)(6)(7), Treutlein B(8), Venkatasubramanian M(9), 
+Wu H(5)(6)(7), Lee J(5)(6)(7), Wessells QN(5)(6)(7), Chen SY(10), Chen
+WY(5)(6)(7), Chetal K(9), Mantalas G(8), Neff N(8), Jabart E(11)(12), Sharma
+A(5)(6)(7), Nolan GP(10), Salomonis N(13), Wu JC(14)(15)(16).
+
+Author information: 
+(1)Stanford Cardiovascular Institute, Stanford University, Stanford, CA, 94305,
+USA. jchurko@email.arizona.edu.
+(2)Institute of Stem Cell Biology and Regenerative Medicine, Stanford University,
+Stanford, CA, 94305, USA. jchurko@email.arizona.edu.
+(3)Departments of Medicine and Radiology, Stanford University, Stanford, CA,
+94305, USA. jchurko@email.arizona.edu.
+(4)Department of Cellular and Molecular Medicine, University of Arizona, Tucson, 
+AZ, 85724, USA. jchurko@email.arizona.edu.
+(5)Stanford Cardiovascular Institute, Stanford University, Stanford, CA, 94305,
+USA.
+(6)Institute of Stem Cell Biology and Regenerative Medicine, Stanford University,
+Stanford, CA, 94305, USA.
+(7)Departments of Medicine and Radiology, Stanford University, Stanford, CA,
+94305, USA.
+(8)Department of Bioengineering, Stanford University, Stanford, CA, 94305, USA.
+(9)Division of Biomedical Informatics, Cincinnati Children's Hospital Medical
+Center, Cincinnati, OH, 45229, USA.
+(10)Baxter Laboratory for Stem Cell Biology, Department of Microbiology and
+Immunology, Stanford University School of Medicine, Stanford, CA, 94305, USA.
+(11)Zephyrus Biosciences, Inc. 820 Heinz Ave, Berkeley, CA, 94710, USA.
+(12)Department of Biochemistry, Stanford University, Stanford, CA, 94305, USA.
+(13)Division of Biomedical Informatics, Cincinnati Children's Hospital Medical
+Center, Cincinnati, OH, 45229, USA. nathan.salomonis@cchmc.org.
+(14)Stanford Cardiovascular Institute, Stanford University, Stanford, CA, 94305, 
+USA. joewu@stanford.edu.
+(15)Institute of Stem Cell Biology and Regenerative Medicine, Stanford
+University, Stanford, CA, 94305, USA. joewu@stanford.edu.
+(16)Departments of Medicine and Radiology, Stanford University, Stanford, CA,
+94305, USA. joewu@stanford.edu.
+
+Human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs) have
+become a powerful tool for human disease modeling and therapeutic testing.
+However, their use remains limited by their immaturity and heterogeneity. To
+characterize the source of this heterogeneity, we applied complementary
+single-cell RNA-seq and bulk RNA-seq technologies over time during hiPSC cardiac 
+differentiation and in the adult heart. Using integrated transcriptomic and
+splicing analysis, more than half a dozen distinct single-cell populations were
+observed, several of which were coincident at a single time-point, day 30 of
+differentiation. To dissect the role of distinct cardiac transcriptional
+regulators associated with each cell population, we systematically tested the
+effect of a gain or loss of three transcription factors (NR2F2, TBX5, and HEY2), 
+using CRISPR genome editing and ChIP-seq, in conjunction with patch clamp,
+calcium imaging, and CyTOF analysis. These targets, data, and integrative
+genomics analysis methods provide a powerful platform for understanding in vitro 
+cellular heterogeneity.
+
+DOI: 10.1038/s41467-018-07333-4 
+PMCID: PMC6249224
+PMID: 30464173  [Indexed for MEDLINE]
+

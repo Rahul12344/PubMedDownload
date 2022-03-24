@@ -1,0 +1,47 @@
+
+1. Math Biosci. 2021 Dec;342:108718. doi: 10.1016/j.mbs.2021.108718. Epub 2021 Oct
+16.
+
+Determining the effects of wind-aided midge movement on the outbreak and
+coexistence of multiple bluetongue virus serotypes in patchy environments.
+
+Mugabi F(1), Duffy KJ(2), Mugisha JYT(3), Collins OC(4).
+
+Author information: 
+(1)Institute of Systems Science, Durban University of Technology, P.O. Box 1334, 
+Durban, 4000, South Africa. Electronic address: 21959850@dut4life.ac.za.
+(2)Institute of Systems Science, Durban University of Technology, P.O. Box 1334, 
+Durban, 4000, South Africa. Electronic address: kevind@dut.ac.za.
+(3)Department of Mathematics, Makerere University, P.O. Box 7062, Kampala,
+Uganda. Electronic address: jytmugisha@cns.mak.ac.ug.
+(4)Institute of Systems Science, Durban University of Technology, P.O. Box 1334, 
+Durban, 4000, South Africa. Electronic address: ObioraC@dut.ac.za.
+
+Bluetongue virus (BTV) has 27 serotypes with some of them coexisting in different
+environments which make its control difficult. Wind-aided midge movement is a
+known mechanism in the spread of BTV. However, its effects on the dynamics of
+multiple BTV serotypes are not clear. Ordinary differential equation (ODE) and
+continuous-time Markov chain (CTMC) models for two BTV serotypes in an
+environment divided into two patches depending on the risk of infection are
+formulated and analysed. By approximating the CTMC model with a multitype
+branching process, an estimate for the probability of a major outbreak of two BTV
+serotypes is obtained. It is shown that without movement a major outbreak occurs 
+in the high-risk patch, but with cattle or midge movement it occurs in both
+patches. When a major outbreak occurs, numerical simulations of the ODE model
+illustrate possible coexistence in both patches if the patches are connected by
+midge or cattle movement. Sensitivity analysis, based on the Latin hypercube
+sampling method, identified midge mortality and biting rates as being the most
+important in determining the magnitude of the probability of a major outbreak.
+These results indicate the significance of wind-aided midge movement on the
+outbreak and coexistence of multiple BTV serotypes in patchy environments.
+
+Copyright © 2021. Published by Elsevier Inc.
+
+DOI: 10.1016/j.mbs.2021.108718 
+PMID: 34666068 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

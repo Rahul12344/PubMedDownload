@@ -1,0 +1,49 @@
+
+1. Comput Biol Med. 2021 Dec;139:104981. doi: 10.1016/j.compbiomed.2021.104981. Epub
+2021 Oct 26.
+
+Analysis of 329,942 SARS-CoV-2 records retrieved from GISAID database.
+
+Zelenova M(1), Ivanova A(2), Semyonov S(3), Gankin Y(4).
+
+Author information: 
+(1)Quantori, 625 Massachusetts Ave, Cambridge, MA, 02139, USA; Mental Health
+Research Center, Kashirskoe Shosse 34, 115522, Moscow, Russia. Electronic
+address: maria_zelenova@yahoo.com.
+(2)Quantori, 625 Massachusetts Ave, Cambridge, MA, 02139, USA. Electronic
+address: anna.ivanova@quantori.com.
+(3)Quantori, 625 Massachusetts Ave, Cambridge, MA, 02139, USA. Electronic
+address: semyon.semyonov@quantori.com.
+(4)Quantori, 625 Massachusetts Ave, Cambridge, MA, 02139, USA. Electronic
+address: yuriy.gankin@quantori.com.
+
+BACKGROUND: The SARS-CoV-2 virus caused a worldwide pandemic - although none of
+its predecessors from the coronavirus family ever achieved such a scale. The key 
+to understanding the global success of SARS-CoV-2 is hidden in its genome.
+MATERIALS AND METHODS: We retrieved data for 329,942 SARS-CoV-2 records uploaded 
+to the GISAID database from the beginning of the pandemic until the January 8,
+2021. A Python variant detection script was developed to process the data using
+pairwise2 from the BioPython library. Sequence alignments were performed for
+every gene separately (except ORF1ab, which was not studied). Genomes less than
+26,000 nucleotides long were excluded from the research. Clustering was performed
+using HDBScan.
+RESULTS: Here, we addressed the genetic variability of SARS-CoV-2 using 329,942
+samples. The analysis yielded 155 SNPs and deletions in more than 0.3% of the
+sequences. Clustering results suggested that a proportion of people (2.46%) was
+infected with a distinct subtype of the B.1.1.7 variant, which contained four to 
+six additional mutations (G28881A, G28882A, G28883С, A23403G, A28095T, G25437T). 
+Two clusters were formed by mutations in the samples uploaded predominantly by
+Denmark and Australia (1.48% and 2.51%, respectively). A correlation coefficient 
+matrix detected 160 pairs of mutations (correlation coefficient greater than
+0.7). We also addressed the completeness of the GISAID database, patient gender, 
+and age. Finally, we found ORF6 and E to be the most conserved genes (96.15% and 
+94.66% of the sequences totally match the reference, respectively). Our results
+indicate multiple areas for further research in both SARS-CoV-2 studies and
+health science.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2021.104981 
+PMCID: PMC8547852
+PMID: 34735950 
+

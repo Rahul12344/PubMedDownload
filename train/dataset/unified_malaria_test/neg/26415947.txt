@@ -1,0 +1,60 @@
+
+1. genome biol. 2015 sep 28;16:212. doi: 10.1186/s13059-015-0771-5.
+
+the pfalba1 rna-binding protein important regulator translational timing
+in plasmodium falciparum blood stages.
+
+vembar ss(1)(2)(3), macpherson cr(4)(5)(6), sismeiro o(7), coppée jy(7), scherf
+a(8)(9)(10).
+
+author information: 
+(1)unité biologie des interactions hôte-parasite, département de parasites et
+insectes vecteurs, institut pasteur, paris, 75015, france.
+shruthi-sridhar.vembar@pasteur.fr.
+(2)cnrs, erl 9195, paris, 75015, france. shruthi-sridhar.vembar@pasteur.fr.
+(3)inserm, umr 1201, paris, 75015, france. shruthi-sridhar.vembar@pasteur.fr.
+(4)unité biologie des interactions hôte-parasite, département de parasites et
+insectes vecteurs, institut pasteur, paris, 75015, france.
+(5)cnrs, erl 9195, paris, 75015, france.
+(6)inserm, umr 1201, paris, 75015, france.
+(7)plate-forme 2, transcriptome et epigenome, institut pasteur, paris, 75015,
+france.
+(8)unité biologie des interactions hôte-parasite, département de parasites et
+insectes vecteurs, institut pasteur, paris, 75015, france.
+artur.scherf@pasteur.fr.
+(9)cnrs, erl 9195, paris, 75015, france. artur.scherf@pasteur.fr.
+(10)inserm, umr 1201, paris, 75015, france. artur.scherf@pasteur.fr.
+
+comment in
+    genome biol. 2015;16:221.
+
+background: transcriptome-wide ribosome occupancy studies suggested that
+during intra-erythrocytic lifecycle plasmodium falciparum, select mrnas
+are post-transcriptionally regulated. subset encodes parasite
+virulence factors required invading host erythrocytes, currently
+being developed vaccine candidates. however, molecular mechanisms that
+govern post-transcriptional regulation currently unknown.
+results: explore previously identified dna/rna-binding protein pfalba1,
+which localizes multiple foci cytoplasm p. falciparum trophozoites. 
+we establish pfalba1 essential asexual proliferation, and
+subsequently investigate parasites overexpressing epitope-tagged pfalba1 to
+identify rna targets effects mrna homeostasis translational
+regulation. using deep sequencing affinity-purified pfalba1-associated rnas,
+we identify 1193 transcripts directly bind pfalba1 trophozoites. for
+105 transcripts, 43 % uncharacterized 13 % encode 
+erythrocyte invasion components, steady state levels significantly change 
+this stage, evidencing role pfalba1 maintaining mrna homeostasis.
+additionally, discover binding pfalba1 four erythrocyte invasion
+mrnas, rap1, rhoph3, cdpk1, ama1, linked translation repression in
+trophozoites whereas release mrnas pfalba1 complex mature
+stages correlates protein synthesis.
+conclusions: show pfalba1 binds sub-population asexual stage
+mrnas fine-tunes timing translation. mode post-transcriptional
+regulation may especially important p. falciparum erythrocyte invasion
+components assembled apical secretory organelles highly
+time-dependent manner towards end parasite's asexual lifecycle.
+
+doi: 10.1186/s13059-015-0771-5 
+pmcid: pmc4587749
+pmid: 26415947  [indexed medline]
+

@@ -1,0 +1,44 @@
+
+1. bmc bioinformatics. 2013 jun 25;14:206. doi: 10.1186/1471-2105-14-206.
+
+infection status outcome, machine learning method virus type interact to
+affect optimised prediction hepatitis virus immunoassay results from
+routine pathology laboratory assays unbalanced data.
+
+richardson am(1), lidbury ba.
+
+author information: 
+(1)faculty education, science, technology & mathematics, university of
+canberra act 2601, canberra, australia. alice.richardson@canberra.edu.au
+
+background: advanced data mining techniques decision trees been
+successfully used predict variety outcomes complex medical
+environments. furthermore, previous research shown combining results
+of set individually trained trees ensemble-based classifier can
+improve overall classification accuracy. paper investigates effect of
+data pre-processing, use ensembles constructed bagging, simple
+majority vote combine classification predictions routine pathology
+laboratory data, particularly overcome large imbalance negative hepatitis
+b virus (hbv) hepatitis c virus (hcv) cases versus hbv hcv immunoassay
+positive cases. methods illustrated using never analysed data
+set act pathology (canberra, australia) relating hbv hcv patients.
+results: easier predict immunoassay positive cases negative cases 
+of hbv hcv. applying ensemble-based approach rather single
+classifier small positive effect accuracy rate, also varied
+depending virus analysis. finally, scaling data prediction
+also small positive effect accuracy rate dataset. a
+graphical analysis distribution accuracy rates across ensembles
+supports findings.
+conclusions: laboratories looking include machine learning part their
+decision support processes need aware infection outcome, the
+machine learning method used virus type interact affect enhanced
+laboratory diagnosis hepatitis virus infection, determined primary
+immunoassay data concert multiple routine pathology laboratory variables.
+this awareness lead informed use existing machine learning
+methods, thus improving quality laboratory diagnosis via informatics
+analyses.
+
+doi: 10.1186/1471-2105-14-206 
+pmcid: pmc3697984
+pmid: 23800244  [indexed medline]
+

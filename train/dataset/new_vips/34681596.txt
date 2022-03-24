@@ -1,0 +1,44 @@
+
+1. Int J Mol Sci. 2021 Oct 10;22(20). pii: 10936. doi: 10.3390/ijms222010936.
+
+Epstein-Barr Virus miR-BART1-3p Regulates the miR-17-92 Cluster by Targeting
+E2F3.
+
+Park MC(1), Kim H(1), Choi H(1), Chang MS(2), Lee SK(1).
+
+Author information: 
+(1)Department of Medical Life Sciences, Department of Biomedicine & Health
+Sciences, College of Medicine, The Catholic University of Korea, Seoul 06591,
+Korea.
+(2)Department of Pathology, Seoul National University Boramae Hospital, Seoul
+National University College of Medicine, Seoul 06591, Korea.
+
+Epstein-Barr virus (EBV) is associated with several tumors and generates BamHI A 
+rightward transcript (BART) microRNAs (miRNAs) from BART transcript introns.
+These BART miRNAs are expressed at higher levels in EBV-associated epithelial
+malignancies than in EBV-infected B lymphomas. To test the effects of EBV miRNA
+on the cell cycle and cell growth, we transfected miR-BART1-3p, a highly
+expressed EBV-associated miRNA, into gastric carcinoma cells. We found that
+miR-BART1-3p induced G0/G1 arrest and suppressed cell growth in gastric carcinoma
+cells. As our microarray analyses showed that E2F3, a cell cycle regulator, was
+inhibited by EBV infection, we hypothesized that miR-BART1-3p regulates E2F3.
+Luciferase assays revealed that miR-BART1-3p directly targeted the 3'-UTR of E2F3
+mRNA. Both E2F3 mRNA and encoded protein levels were reduced following
+miR-BART1-3p transfection. In contrast, E2F3 expression in AGS-EBV cells
+transfected with a miR-BART1-3p inhibitor was enhanced. As E2F3 has been shown to
+regulate the expression of highly conserved miR-17-92 clusters in vertebrates, we
+examined whether this expression is affected by miR-BART1-3p, which can
+downregulate E2F3. The expression of E2F3, miR-17-92a-1 cluster host gene
+(MIR17HG), and miR-17-92 cluster miRNAs was significantly reduced in
+EBV-associated gastric carcinoma (EBVaGC) patients compared with EBV-negative
+gastric carcinoma (EBVnGC) patients. Further, miR-BART1-3p as well as the siRNA
+specific to E2F3 inhibited the expression of the miR-17-92 cluster, while
+inhibition of miR-BART1-3p enhanced the expression of the miR-17-92 cluster in
+cultured GC cells. Our results suggest a possible role of miR-BART1-3p in cell
+cycle regulation and in regulation of the miR-17-92 cluster through E2F3
+suppression.
+
+DOI: 10.3390/ijms222010936 
+PMCID: PMC8539899
+PMID: 34681596 
+

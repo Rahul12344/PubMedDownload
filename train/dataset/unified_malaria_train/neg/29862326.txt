@@ -1,0 +1,65 @@
+
+1. wellcome open res. 2018 may 3;3:52. doi: 10.12688/wellcomeopenres.14571.1.
+ecollection 2018.
+
+long read assemblies geographically dispersed plasmodium falciparum isolates
+reveal highly structured subtelomeres.
+
+otto td(1)(2), böhme u(1), sanders m(1), reid a(1), bruske ei(3), duffy cw(4),
+bull pc(5), pearson rd(1)(6), abdi a(7), dimonte s(3), stewart lb(4), campino
+s(1)(4), kekre m(1), hamilton wl(1), claessens a(1), volkman sk(8)(9)(10), ndiaye
+d(11), amambua-ngwa a(12), diakite m(13), fairhurst rm(14), conway dj(4), franck 
+m(3), newbold ci(1)(15), berriman m(1).
+
+author information: 
+(1)wellcome sanger institute, hinxton, uk.
+(2)centre immunobiology, institute infection, immunity & inflammation,
+college medical, veterinary life sciences, university glasgow, glasgow,
+uk.
+(3)institute tropical medicine, university tübingen, tübingen, germany.
+(4)london school hygiene tropical medicine, london, uk.
+(5)department pathology, university cambridge, cambridge, uk.
+(6)big data institute, li ka shing centre health information discovery,
+oxford, uk.
+(7)kemri-wellcome trust research programme, kilifi, kenya.
+(8)harvard t.h. chan school public health, boston, ma, usa.
+(9)the broad institute mit harvard, cambridge, ma, usa.
+(10)simmons college, boston, ma, usa.
+(11)faculty medicine pharmacy, université cheikh anta diop, dakar,
+senegal.
+(12)medical research council unit, fajara, gambia.
+(13)malaria research training center, university bamako, bamako, mali.
+(14)laboratory malaria vector research, national institute allergy 
+infectious diseases, national institutes health, rockville, md, usa.
+(15)weatherall institute molecular medicine, university oxford, john
+radcliffe hospital, oxford, uk.
+
+background: although thousands clinical isolates plasmodium falciparum 
+being sequenced analysed short read technology, data resolve
+the highly variable subtelomeric regions genomes contain polymorphic 
+gene families involved immune evasion pathogenesis. also no
+current standard definition boundaries variable subtelomeric
+regions. methods: using long-read sequence data (pacific biosciences smrt
+technology), assembled annotated genomes 15 p. falciparum isolates,
+ten newly cultured clinical isolates. performed comparative
+analysis entire genome particular emphasis subtelomeric
+regions internal var genes clusters.   results: nearly complete
+sequence 15 isolates enabled us define highly conserved core
+genome, delineate boundaries subtelomeric regions, compare
+these across isolates. found highly structured variable regions genome.
+some exported gene families purportedly involved release merozoites show
+copy number variation. example ongoing genome evolution, found a
+novel clag gene six isolates.  also found novel gene relatively 
+enriched south east asian isolates compared africa.
+conclusions: 15 manually curated new reference genome sequences 
+nearly complete subtelomeric regions fully assembled genes important
+new resource malaria research community. report overall conserved 
+structure pattern important gene families clearly defined
+subtelomeric regions.
+
+doi: 10.12688/wellcomeopenres.14571.1 
+pmcid: pmc5964635
+pmid: 29862326 
+
+conflict interest statement: competing interests disclosed.
+

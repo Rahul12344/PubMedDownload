@@ -1,0 +1,40 @@
+
+1. Viruses. 2021 Nov 6;13(11). pii: 2236. doi: 10.3390/v13112236.
+
+HIV-1 Envelope Glycoproteins Proteolytic Cleavage Protects Infected Cells from
+ADCC Mediated by Plasma from Infected Individuals.
+
+Prévost J(1)(2), Medjahed H(1), Vézina D(1), Chen HC(3), Hahn BH(4), Smith AB
+3rd(3), Finzi A(1)(2).
+
+Author information: 
+(1)Centre de Recherche du CHUM, Montreal, QC H2X 0A9, Canada.
+(2)Département de Microbiologie, Infectiologie et Immunologie, Université de
+Montréal, Montreal, QC H2X 0A9, Canada.
+(3)Department of Chemistry, School of Arts and Sciences, University of
+Pennsylvania, Philadelphia, PA 19104-6323, USA.
+(4)Departments of Medicine and Microbiology, Perelman School of Medicine,
+University of Pennsylvania, Philadelphia, PA 19104-6076, USA.
+
+The HIV-1 envelope glycoprotein (Env) is synthesized in the endoplasmic reticulum
+as a trimeric gp160 precursor, which requires proteolytic cleavage by a cellular 
+furin protease to mediate virus-cell fusion. Env is conformationally flexible but
+controls its transition from the unbound "closed" conformation (State 1) to
+downstream CD4-bound conformations (States 2/3), which are required for fusion.
+In particular, HIV-1 has evolved several mechanisms that reduce the premature
+"opening" of Env which exposes highly conserved epitopes recognized by
+non-neutralizing antibodies (nnAbs) capable of mediating antibody-dependent
+cellular cytotoxicity (ADCC). Env cleavage decreases its conformational
+transitions favoring the adoption of the "closed" conformation. Here we altered
+the gp160 furin cleavage site to impair Env cleavage and to examine its impact on
+ADCC responses mediated by plasma from HIV-1-infected individuals. We found that 
+infected primary CD4+ T cells expressing uncleaved, but not wildtype, Env are
+efficiently recognized by nnAbs and become highly susceptible to ADCC responses
+mediated by plasma from HIV-1-infected individuals. Thus, HIV-1 limits the
+exposure of uncleaved Env at the surface of HIV-1-infected cells at least in part
+to escape ADCC responses.
+
+DOI: 10.3390/v13112236 
+PMCID: PMC8625184
+PMID: 34835042 
+

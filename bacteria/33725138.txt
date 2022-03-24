@@ -1,0 +1,53 @@
+
+1. Curr Genet. 2021 Mar 16. doi: 10.1007/s00294-021-01165-4. [Epub ahead of print]
+
+Two homologs of the Cat8 transcription factor are involved in the regulation of
+ethanol utilization in Komagataella phaffii.
+
+Barbay D(1)(2), Mačáková M(2), Sützl L(3), De S(1)(2), Mattanovich D(1)(2),
+Gasser B(4)(5).
+
+Author information: 
+(1)Austrian Centre of Industrial Biotechnology (ACIB), Vienna, Austria.
+(2)Department of Biotechnology, Institute of Microbiology and Microbial
+Biotechnology, University of Natural Resources and Life Sciences (BOKU), Vienna, 
+Austria.
+(3)Department of Food Technology, University of Natural Resources and Life
+Sciences (BOKU), Vienna, Austria.
+(4)Austrian Centre of Industrial Biotechnology (ACIB), Vienna, Austria.
+brigitte.gasser@boku.ac.at.
+(5)Department of Biotechnology, Institute of Microbiology and Microbial
+Biotechnology, University of Natural Resources and Life Sciences (BOKU), Vienna, 
+Austria. brigitte.gasser@boku.ac.at.
+
+The transcription factors Cat8 and Sip4 were described in Saccharomyces
+cerevisiae and Kluyveromyces lactis to have very similar DNA binding domains and 
+to be necessary for derepression of a variety of genes under non-fermentative
+growth conditions via binding to the carbon source responsive elements (CSREs).
+The methylotrophic yeast Komagataella phaffii (syn Pichia pastoris) has two
+transcription factors (TFs), which are putative homologs of Cat8 based on
+sequence similarity, termed Cat8-1 and Cat8-2. It is yet unclear in which
+cellular processes they are involved and if one of them is actually the homolog
+of Sip4. To study the roles of the Cat8 homologs in K. phaffii, overexpression or
+deletion strains were generated for the two TFs. The ability of these mutant
+strains to grow on different carbon sources was tested, and transcript levels of 
+selected genes from the carbon metabolism were quantified. Our experiments showed
+that the TFs are required for the growth of K. phaffii on C2 carbon sources, but 
+not on glucose, glycerol or methanol. K. phaffii deleted for Cat8-1 showed
+impaired growth on acetate, while both Cat8-1 and Cat8-2 are involved in the
+growth of K. phaffii on ethanol. Correspondingly, both TFs are participating in
+the activation of ADH2, ALD4 and ACS1, three genes encoding enzymes important for
+the assimilation of ethanol. Different from S. cerevisiae and K. lactis, Cat8-1
+is not regulating the transcription of the putative Sip4-family member Cat8-2 in 
+K. phaffii. Furthermore, Cat8-1 is necessary for the activation of genes from the
+glyoxylate cycle, whereas Cat8-2 is necessary for the activation of genes from
+the carnitine shuttle. Neither Cat8-1 nor Cat8-2 are required for the activation 
+of gluconeogenesis genes. Finally, the CAT8-2 gene is repressed by the Mig1-2
+transcription factor on glucose and autorepressed by the Cat8-2 protein on all
+tested carbon sources. Our study identified the involvement of K. phaffii Cat8-1 
+and Cat8-2 in C2-metabolism, and highlighted similarities and differences to
+their homologs in other yeast species.
+
+DOI: 10.1007/s00294-021-01165-4 
+PMID: 33725138 
+

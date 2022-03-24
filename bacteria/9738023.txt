@@ -1,0 +1,43 @@
+
+1. J Biol Chem. 1998 Sep 25;273(39):25516-26.
+
+Characterization of the Escherichia coli RNA 3'-terminal phosphate cyclase and
+its sigma54-regulated operon.
+
+Genschik P(1), Drabikowski K, Filipowicz W.
+
+Author information: 
+(1)Friedrich Miescher-Institut, P. O. Box 2543, 4002 Basel, Switzerland.
+
+The RNA 3'-terminal phosphate cyclase catalyzes the ATP-dependent conversion of
+the 3'-phosphate to the 2',3'-cyclic phosphodiester at the end of various RNA
+substrates. Recent cloning of a cDNA encoding the human cyclase indicated that
+genes encoding cyclase-like proteins are conserved among Eucarya, Bacteria, and
+Archaea. The protein encoded by the Escherichia coli gene was overexpressed and
+shown to have the RNA 3'-phosphate cyclase activity (Genschik, P., Billy, E.,
+Swianiewicz, M., and Filipowicz, W. (1997) EMBO J. 16, 2955-2967). Analysis of
+the requirements and substrate specificity of the E. coli protein, presented in
+this work, demonstrates that properties of the bacterial and human enzymes are
+similar. ATP is the best cofactor (Km = 20 microM), whereas GTP (Km = 100 microM)
+and other nucleoside triphosphates (NTPs) act less efficiently. The enzyme
+undergoes nucleotidylation in the presence of [alpha-32P]ATP and, to a lesser
+extent, also in the presence of other NTPs. Comparison of 3'-phosphorylated
+oligoribonucleotides and oligodeoxyribonucleotides of identical sequence
+demonstrated that the latter are at least 300-fold poorer substrates for the
+enzyme. The E. coli cyclase gene, named rtcA, forms part of an uncharacterized
+operon containing two additional open reading frames (ORFs). The ORF positioned
+immediately upstream, named rtcB, encodes a protein that is also highly conserved
+between Eucarya, Bacteria, and Archaea. Another ORF, called rtcR, is positioned
+upstream of the rtcA/rtcB unit and is transcribed in the opposite direction. It
+encodes a protein having features of sigma54-dependent regulators. By
+overexpressing the N-terminally truncated form of RtcR, we demonstrate that this 
+regulator indeed controls expression of rtcA and rtcB in a sigma54-dependent
+manner. Also consistent with the involvement of sigma54, the region upstream of
+the transcription start site of the rtcA/rtcB mRNA contains the -12 and -24
+elements, TTGCA and TGGCA, respectively, characteristic of sigma54-dependent
+promoters. The cyclase gene is nonessential as demonstrated by knockout
+experiments. Possible functions of the cyclase in RNA metabolism are discussed.
+
+DOI: 10.1074/jbc.273.39.25516 
+PMID: 9738023  [Indexed for MEDLINE]
+

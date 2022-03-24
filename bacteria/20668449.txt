@@ -1,0 +1,39 @@
+
+1. Nature. 2010 Aug 26;466(7310):1125-8. doi: 10.1038/nature09343.
+
+NRMT is an alpha-N-methyltransferase that methylates RCC1 and retinoblastoma
+protein.
+
+Tooley CE(1), Petkowski JJ, Muratore-Schroeder TL, Balsbaugh JL, Shabanowitz J,
+Sabat M, Minor W, Hunt DF, Macara IG.
+
+Author information: 
+(1)Department of Microbiology, Center for Cell Signaling, University of Virginia 
+School of Medicine, Charlottesville, Virginia 22908, USA. ces5g@virginia.edu
+
+The post-translational methylation of alpha-amino groups was first discovered
+over 30 years ago on the bacterial ribosomal proteins L16 and L33 (refs 1, 2),
+but almost nothing is known about the function or enzymology of this
+modification. Several other bacterial and eukaryotic proteins have since been
+shown to be alpha-N-methylated. However, the Ran guanine nucleotide-exchange
+factor, RCC1, is the only protein for which any biological function of
+alpha-N-methylation has been identified. Methylation-defective mutants of RCC1
+have reduced affinity for DNA and cause mitotic defects, but further
+characterization of this modification has been hindered by ignorance of the
+responsible methyltransferase. All fungal and animal N-terminally methylated
+proteins contain a unique N-terminal motif, Met-(Ala/Pro/Ser)-Pro-Lys, indicating
+that they may be targets of the same, unknown enzyme. The initiating Met is
+cleaved, and the exposed alpha-amino group is mono-, di- or trimethylated. Here
+we report the discovery of the first alpha-N-methyltransferase, which we named
+N-terminal RCC1 methyltransferase (NRMT). Substrate docking and mutational
+analysis of RCC1 defined the NRMT recognition sequence and enabled the
+identification of numerous new methylation targets, including SET (also known as 
+TAF-I or PHAPII) and the retinoblastoma protein, RB. Knockdown of NRMT
+recapitulates the multi-spindle phenotype seen with methylation-defective RCC1
+mutants, demonstrating the importance of alpha-N-methylation for normal bipolar
+spindle formation and chromosome segregation.
+
+DOI: 10.1038/nature09343 
+PMCID: PMC2939154
+PMID: 20668449  [Indexed for MEDLINE]
+

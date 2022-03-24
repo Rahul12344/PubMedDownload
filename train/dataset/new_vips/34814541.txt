@@ -1,0 +1,55 @@
+
+1. Zhonghua Liu Xing Bing Xue Za Zhi. 2021 Jul 10;42(7):1260-1265. doi:
+10.3760/cma.j.cn112338-20201209-01393.
+
+[Analysis on characteristics of HIV-1 molecular network in injected drug users in
+Guangzhou, 2008-2017].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Zeng WT(1), Han ZG(2), Wu H(2), Li QM(2), Liang CY(2), Xu LQ(1), Zhao XH(1).
+
+Author information: 
+(1)School of Public Health, Guangdong Pharmaceutical University, Guangzhou,
+510310, China.
+(2)Department of HIV/AIDS Control and Prevention, Guangzhou Municipal Center for 
+Disease Control and Prevention, Guangzhou, 510440, China.
+
+Objective: To understand the characteristics of the HIV-1 molecular networks in
+injected drug users (IDUs) in Guangzhou from 2008 to 2017, and provide reference 
+for the prevention and control of AIDS in this population. Methods: The serum
+samples of newly diagnosed HIV-1 positive IDUs in Guangzhou from 2008 to 2017
+were collected, HIV-1 RNA was extracted for pol gene amplification and
+sequencing. The molecular cluster in the phylogenetic tree was identified by
+Cluster Picker 1.2.3 for cluster analysis. TN93 model in HyPhy2.2.4 was used to
+calculate the gene distance between the cluster sequences. Software
+Cytoscape3.8.2 was used to visualize the molecular network, and χ2 test or exact 
+probability method was used for cluster analysis and centrality analysis.
+Results: A total of 586 sequences were successfully amplified (73.9%, 586/793),
+and 80 molecular clusters were produced, with a clustering rate of 46.6%
+(273/586). In molecular clusters, the proportions of the strains from IDUs in Han
+ethnic group (48.4%, 260/537), IDUs who were local residents in Guangdong (52.7%,
+146/277) and IDUs whose strain sequence subtype was CRF55_01B (93.3%, 14/15) were
+higher. In the molecular network, the degree range was 1-7, and nodes with degree
+≥3 accounted for 12.8% (24/187), which was associated with another 81 nodes in
+the molecular network (43.3%, 81/187). The centrality analysis showed that the
+proportions of housework/unemployed with high degree centrality (19.0%, 19/100), 
+high intermediary (22.0%, 22/100), and high proximity centrality (32.0%, 32/100) 
+were higher in IDUs infected with HIV-1. Conclusion: The risk of HIV-1 clustering
+in IDUs in Guangzhou was high, suggesting that IDUs who were from both Guangdong 
+and Guangxi and were house workers or unemployed should be viewed as the key
+targets, and precise intervention should be implemented to reduce the HIV-1
+infection rate in this population.
+
+Publisher: 目的： 分析2008-2017年广州市注射吸毒人群HIV-1分子网络的分布特征，为该人群艾滋病防控提供参考依据。 方法：
+选取2008-2017年广州市新确证的注射吸毒HIV-1感染者血清样本，进行pol区基因扩增及测序后，利用Cluster Picker
+1.2.3软件识别系统进化树中的分子簇，使用HyPhy 2.2.4中TN93模型计算成簇序列间的基因距离，通过可视化软件Cytoscape
+3.8.2构建分子网络，采用χ2检验或确切概率法进行成簇分析和中心性分析。 结果：
+成功扩增获得pol区基因片段586条（73.9%，586/793），共产生80个分子簇，成簇率为46.6%（273/586）。成簇样本与未成簇样本比较，汉族（48
+.4%，260/537）、广东籍（52.7%，146/277）和CRF55_01B（93.3%，14/15）的成簇比例更高。分子网络度值范围为1~7，度值≥3的节
+点占12.8%（24/187），其与网络中另外81个节点相关联（43.3%，81/187）。中心性分析结果显示，HIV-1感染者职业为家务/待业者在高程度中心性（
+19.0%，19/100）、高中介中心性（22.0%，22/100）和高亲近中心性（32.0%，32/100）的比例更高。 结论：
+广州市注射吸毒人群HIV-1分子成簇风险较高，应将具有本地及广西籍、家务/待业特征的注射吸毒人群作为重点干预目标，并实施精准干预，降低该人群HIV-1感染率。.
+DOI: 10.3760/cma.j.cn112338-20201209-01393 
+PMID: 34814541  [Indexed for MEDLINE]
+

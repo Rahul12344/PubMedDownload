@@ -1,0 +1,37 @@
+
+1. Appl Environ Microbiol. 2007 Jan;73(2):432-41. Epub 2006 Nov 3.
+
+Titration and conditional knockdown of the prfB gene in Escherichia coli: effects
+on growth and overproduction of the recombinant mammalian selenoprotein
+thioredoxin reductase.
+
+Rengby O(1), Arnér ES.
+
+Author information: 
+(1)Medical Nobel Institute for Biochemistry, Department of Medical Biochemistry
+and Biophysics, Karolinska Institutet, SE-171 77 Stockholm, Sweden.
+
+Release factor 2 (RF2), encoded by the prfB gene in Escherichia coli, catalyzes
+translational termination at UGA and UAA codons. Termination at UGA competes with
+selenocysteine (Sec) incorporation at Sec-dedicated UGA codons, and RF2 thereby
+counteracts expression of selenoproteins. prfB is an essential gene in E. coli
+and can therefore not be removed in order to increase yield of recombinant
+selenoproteins. We therefore constructed an E. coli strain with the endogenous
+chromosomal promoter of prfB replaced with the titratable P(BAD) promoter.
+Knockdown of prfB expression gave a bacteriostatic effect, while two- to
+sevenfold overexpression of RF2 resulted in a slightly lowered growth rate in
+late exponential phase. In a turbidostatic fermentor system the simultaneous
+impact of prfB knockdown on growth and recombinant selenoprotein expression was
+subsequently studied, using production of mammalian thioredoxin reductase as
+model system. This showed that lowering the levels of RF2 correlated directly
+with increasing Sec incorporation specificity, while also affecting total
+selenoprotein yield concomitant with a lower growth rate. This study thus
+demonstrates that expression of prfB can be titrated through targeted exchange of
+the native promoter with a P(BAD)-promoter and that knockdown of RF2 can result
+in almost full efficiency of Sec incorporation at the cost of lower total
+selenoprotein yield.
+
+DOI: 10.1128/AEM.02019-06 
+PMCID: PMC1796992
+PMID: 17085697  [Indexed for MEDLINE]
+

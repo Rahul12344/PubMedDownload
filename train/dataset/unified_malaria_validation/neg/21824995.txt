@@ -1,0 +1,33 @@
+
+1. genome res. 2011 nov;21(11):1981-94. doi: 10.1101/gr.121475.111. epub 2011 aug 8.
+
+the proteome folding project: proteome-scale prediction structure and
+function.
+
+drew k(1), winters p, butterfoss gl, berstis v, uplinger k, armstrong j, riffle
+m, schweighofer e, bovermann b, goodlett dr, davis tn, shasha d, malmström l,
+bonneau r.
+
+author information: 
+(1)center genomics systems biology, department biology, new york
+university, new york, new york 10003, usa.
+
+the incompleteness proteome structure function annotation critical
+problem biologists and, particular, severely limits interpretation of
+high-throughput next-generation experiments. developed proteome
+annotation pipeline based structure prediction, function structure
+annotations generated using integration sequence comparison, fold
+recognition, grid-computing-enabled de novo structure prediction. predict 
+protein domain boundaries three-dimensional (3d) structures protein
+domains 94 genomes (including human, arabidopsis, rice, mouse, fly, yeast,
+escherichia coli, worm). de novo structure predictions distributed 
+grid 1.5 million cpus worldwide (world community grid). generated
+significant numbers new confident fold annotations (9% domains are
+otherwise unannotated genomes). demonstrate predicted structures
+can combined annotations gene ontology database predict new
+and specific molecular functions.
+
+doi: 10.1101/gr.121475.111 
+pmcid: pmc3205581
+pmid: 21824995  [indexed medline]
+

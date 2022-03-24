@@ -1,0 +1,48 @@
+
+1. Microb Cell Fact. 2017 Apr 28;16(1):73. doi: 10.1186/s12934-017-0686-9.
+
+Direct expression of active human tissue inhibitors of metalloproteinases by
+periplasmic secretion in Escherichia coli.
+
+Lee KB(1), Nam DH(1), Nuhn JAM(2), Wang J(2), Schneider IC(2)(3), Ge X(4).
+
+Author information: 
+(1)Department of Chemical and Environmental Engineering, University of
+California, Riverside, 900 University Ave, Riverside, CA, 92521, USA.
+(2)Department of Chemical and Biological Engineering, Iowa State University, 3053
+Sweeney, Ames, IA, 50011, USA.
+(3)Genetics Development, and Cell Biology Department, Iowa State University, 1210
+Molecular Biology, Ames, IA, 50011, USA.
+(4)Department of Chemical and Environmental Engineering, University of
+California, Riverside, 900 University Ave, Riverside, CA, 92521, USA.
+xge@engr.ucr.edu.
+
+BACKGROUND: As regulators of multifunctional metalloproteinases including MMP,
+ADAM and ADAMTS families, tissue inhibitors of metalloproteinases (TIMPs) play a 
+pivotal role in extracellular matrix remodeling, which is involved in a wide
+variety of physiological processes. Since abnormal metalloproteinase activities
+are related to numerous diseases such as arthritis, cancer, atherosclerosis, and 
+neurological disorders, TIMPs and their engineered mutants hold therapeutic
+potential and thus have been extensively studied. Traditional productions of
+functional TIMPs and their N-terminal inhibitory domains (N-TIMPs) rely on costly
+and time-consuming insect and mammalian cell systems, or tedious and inefficient 
+refolding from denatured inclusion bodies. The later process is also associated
+with heterogeneous products and batch-to-batch variation.
+RESULTS: In this study, we developed a simple approach to directly produce high
+yields of active TIMPs in the periplasmic space of Escherichia coli without
+refolding. Facilitated by disulfide isomerase (DsbC) co-expression in
+protease-deficient strain BL21 (DE3), N-TIMP-1/-2 and TIMP-2 which contain
+multiple disulfide bonds were produced without unwanted truncations. 0.2-1.4 mg
+purified monomeric TIMPs were typically yielded per liter of culture media.
+Periplasmically produced TIMPs exhibited expected inhibition potencies towards
+MMP-1/2/7/14, and were functional in competitive ELISA to elucidate the binding
+epitopes of MMP specific antibodies. In addition, prepared N-TIMPs were fully
+active in a cellular context, i.e. regulating cancer cell morphology and
+migration in 2D and 3D bioassays.
+CONCLUSION: Periplasmic expression in E. coli is an excellent strategy to
+recombinantly produce active TIMPs and N-TIMPs.
+
+DOI: 10.1186/s12934-017-0686-9 
+PMCID: PMC5410052
+PMID: 28454584  [Indexed for MEDLINE]
+

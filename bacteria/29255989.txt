@@ -1,0 +1,40 @@
+
+1. J Ind Microbiol Biotechnol. 2018 Jul;45(7):589-598. doi:
+10.1007/s10295-017-1996-y. Epub 2017 Dec 18.
+
+Identification and manipulation of a novel locus to improve cell tolerance to
+short-chain alcohols in Escherichia coli.
+
+Chen Y(1)(2), Wang Y(1)(2), Chen TH(1)(2), Yao MD(1)(2), Xiao WH(1)(2), Li
+BZ(1)(2), Yuan YJ(3)(4).
+
+Author information: 
+(1)Key Laboratory of Systems Bioengineering (Ministry of Education), Tianjin
+University, Tianjin, 300072, People's Republic of China.
+(2)SynBio Research Platform, Collaborative Innovation Center of Chemical Science 
+and Engineering (Tianjin), School of Chemical Engineering and Technology, Tianjin
+University, Tianjin, 300072, People's Republic of China.
+(3)Key Laboratory of Systems Bioengineering (Ministry of Education), Tianjin
+University, Tianjin, 300072, People's Republic of China. yjyuan@tju.edu.cn.
+(4)SynBio Research Platform, Collaborative Innovation Center of Chemical Science 
+and Engineering (Tianjin), School of Chemical Engineering and Technology, Tianjin
+University, Tianjin, 300072, People's Republic of China. yjyuan@tju.edu.cn.
+
+Escherichia coli KO11 is a popular ethanologenic strain, but is more sensitive to
+ethanol than other producers. Here, an ethanol-tolerant mutant EM was isolated
+from ultraviolet mutagenesis library of KO11. Comparative genomic analysis added 
+by piecewise knockout strategy and complementation assay revealed EKO11_3023
+(espA) within the 36.6-kb deletion from KO11 was the only locus responsible for
+ethanol sensitivity. Interestingly, when espA was deleted in strain W (the parent
+strain of KO11), ethanol tolerance was dramatically elevated to the level of
+espA-free hosts [e.g., MG1655 and BL21(DE3)]. And overexpression of espA in
+strains MG1655 and BL21(DE3) led to significantly enhanced ethanol sensitivity.
+In addition to ethanol, deletion of espA also improved cell tolerance to other
+short-chain (C2-C4) alcohols, including methanol, isopropanol, n-butanol,
+isobutanol and 2-butanol. Therefore, espA was responsible for short-chain alcohol
+sensitivity of W-strains compared to other cells, which provides a potential
+engineering target for alcohols production.
+
+DOI: 10.1007/s10295-017-1996-y 
+PMID: 29255989  [Indexed for MEDLINE]
+

@@ -1,0 +1,50 @@
+
+1. malar j. 2014 sep 26;13:382. doi: 10.1186/1475-2875-13-382.
+
+transcriptome sequencing analysis plasmodium gallinaceum reveals
+polymorphisms selection apical membrane antigen-1.
+
+lauron ej(1), oakgrove ks, tell la, biskar k, roy sw, sehgal rn.
+
+author information: 
+(1)department biology, san francisco state university, san francisco, ca
+94132, usa. elauron@mail.sfsu.edu.
+
+background: plasmodium erythrocyte invasion genes play key role malaria
+parasite transmission, host-specificity immuno-evasion. however, the
+evolution genes responsible remains understudied. investigating these
+genes avian malaria parasites, diversity particularly high, offers
+new insights processes confer malaria pathogenesis. parasites
+can pose significant threat birds since birds play crucial ecological
+roles serve important models disease dynamics. comprehensive
+knowledge genetic factors involved avian malaria parasite invasion is
+lacking hampered difficulties obtaining nuclear data from
+avian malaria parasites. thus first illumina-based de novo transcriptome
+sequencing analysis chicken parasite plasmodium gallinaceum was
+performed assess evolution essential plasmodium genes.
+methods: white leghorn chickens inoculated intravenously erythrocytes
+containing p. gallinaceum. cdna libraries prepared rna extracts
+collected infected chick blood sequencing run hiseq2000
+platform. orthologues identified transcriptome sequencing characterized
+using phylogenetic, ab initio protein modelling comparative and
+population-based methods.
+results: analysis transcriptome identified several orthologues required
+for intra-erythrocytic survival erythrocyte invasion, including rhoptry
+neck protein 2 (ron2) apical membrane antigen-1 (ama-1). ama-1 avian
+malaria parasites exhibits high levels genetic diversity evolves under
+positive diversifying selection, ostensibly due protective host immune
+responses.
+conclusion: erythrocyte invasion plasmodium parasites require ama-1 ron2
+interactions. ama-1 ron2 p. gallinaceum evolutionarily and
+structurally conserved, suggesting proteins may play essential roles
+for avian malaria parasites invade host erythrocytes. addition, host-driven
+selection presumably results high levels genetic variation found in
+ama-1 avian plasmodium species. findings implications for
+investigating avian malaria epidemiology population dynamics. moreover, 
+work highlights p. gallinaceum transcriptome important public resource 
+for investigating diversity evolution essential plasmodium genes.
+
+doi: 10.1186/1475-2875-13-382 
+pmcid: pmc4182871
+pmid: 25261185  [indexed medline]
+

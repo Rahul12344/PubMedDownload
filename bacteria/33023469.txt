@@ -1,0 +1,61 @@
+
+1. BMC Genomics. 2020 Oct 6;21(1):692. doi: 10.1186/s12864-020-07102-y.
+
+Distinctive gene and protein characteristics of extremely piezophilic Colwellia.
+
+Peoples LM(1)(2), Kyaw TS(1), Ugalde JA(3), Mullane KK(1), Chastain RA(1),
+Yayanos AA(1), Kusube M(4), Methé BA(5), Bartlett DH(6).
+
+Author information: 
+(1)Marine Biology Research Division, Scripps Institution of Oceanography,
+University of California San Diego, La Jolla, CA, 92093-0202, USA.
+(2)Flathead Lake Biological Station, University of Montana, Polson, MT, 59860,
+USA.
+(3)Millennium Initiative for Collaborative Research on Bacterial Resistance
+(MICROB-R), Santiago, Chile.
+(4)Department of Material Science, National Institute of Technology, Wakayama
+College, 77 Noshima, Nada-cho, Gobo, Wakayama, 644-0023, Japan.
+(5)Center for Microbiome and Medicine, University of Pittsburgh, Pittsburgh, PA, 
+15213, USA.
+(6)Marine Biology Research Division, Scripps Institution of Oceanography,
+University of California San Diego, La Jolla, CA, 92093-0202, USA.
+dbartlett@ucsd.edu.
+
+BACKGROUND: The deep ocean is characterized by low temperatures, high hydrostatic
+pressures, and low concentrations of organic matter. While these conditions
+likely select for distinct genomic characteristics within prokaryotes, the
+attributes facilitating adaptation to the deep ocean are relatively unexplored.
+In this study, we compared the genomes of seven strains within the genus
+Colwellia, including some of the most piezophilic microbes known, to identify
+genomic features that enable life in the deep sea.
+RESULTS: Significant differences were found to exist between piezophilic and
+non-piezophilic strains of Colwellia. Piezophilic Colwellia have a more basic and
+hydrophobic proteome. The piezophilic abyssal and hadal isolates have more genes 
+involved in replication/recombination/repair, cell wall/membrane biogenesis, and 
+cell motility. The characteristics of respiration, pilus generation, and membrane
+fluidity adjustment vary between the strains, with operons for a nuo
+dehydrogenase and a tad pilus only present in the piezophiles. In contrast, the
+piezosensitive members are unique in having the capacity for dissimilatory
+nitrite and TMAO reduction. A number of genes exist only within deep-sea adapted 
+species, such as those encoding d-alanine-d-alanine ligase for peptidoglycan
+formation, alanine dehydrogenase for NADH/NAD+ homeostasis, and a SAM
+methyltransferase for tRNA modification. Many of these piezophile-specific genes 
+are in variable regions of the genome near genomic islands, transposases, and
+toxin-antitoxin systems.
+CONCLUSIONS: We identified a number of adaptations that may facilitate deep-sea
+radiation in members of the genus Colwellia, as well as in other piezophilic
+bacteria. An enrichment in more basic and hydrophobic amino acids could help
+piezophiles stabilize and limit water intrusion into proteins as a result of high
+pressure. Variations in genes associated with the membrane, including those
+involved in unsaturated fatty acid production and respiration, indicate that
+membrane-based adaptations are critical for coping with high pressure. The
+presence of many piezophile-specific genes near genomic islands highlights that
+adaptation to the deep ocean may be facilitated by horizontal gene transfer
+through transposases or other mobile elements. Some of these genes are amenable
+to further study in genetically tractable piezophilic and piezotolerant deep-sea 
+microorganisms.
+
+DOI: 10.1186/s12864-020-07102-y 
+PMCID: PMC7542103
+PMID: 33023469  [Indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+1. infect disord drug targets. 2017;17(3):199-222. doi:
+10.2174/1871526517666170606113133.
+
+apicoplast import protein tic20 promising therapeutic molecular target for
+plasmodium falciparum: silico approach therapeutic intervention.
+
+c p k srimath-tirumala-peddinti r(1), kusuma ss(1), nammi d(1), neelapu nrr(2).
+
+author information: 
+(1)department bioinformatics, school life sciences, gitam institute of
+science, gitam university, rushikonda campus, visakhapatnam - 530045 (ap). india.
+(2)department bioinformatics, school life sciences, gitam institute of
+science, gitam university, rushikonda, visakhapatnam- 530045. ap. india.
+
+background: malaria lethal disease causing mortality millions each
+year. drug resistance malarial parasite spurred effects discover
+effective antimalarial drug targets drugs. objective current study
+is identify drug targets malarial parasite. genes unique, non-homologous
+to humans essential parasite identified using blastn comparing
+genomes parasite host.
+objective: open blastp used filter targets specific to
+plasmodium species later subjected gene property analysis identify
+65 potential targets. screening potential drug targets drug target
+properties like virulence enzyme identified three drug targets virulence
+property eleven enzymatic nature.
+method: thirteen knockouts related potential drug targets already tested 
+in plasmodium species, non-plasmodium species rodent malaria, lending
+credence approach. 3-d structures 27 drug targets predicted using 
+i-tasser server apicoplast import protein tic20 best modeled protein. 
+gene ontology studies analysis motifs nuclear localization signal
+(nls) established apicoplast import protein tic20 import protein. silico
+docking studies used establish druggability apicoplast import
+protein tic20.
+result conclusion: silico docking studies 3-d structure generated using
+i-tasser quinine, chloroquine, artesunate active site apicoplast
+import protein tic20 established apicoplast import protein tic20 promising
+therapeutic molecular target.
+
+copyright© bentham science publishers; queries, please email at
+epub@benthamscience.org.
+
+doi: 10.2174/1871526517666170606113133 
+pmid: 28595540  [indexed medline]
+

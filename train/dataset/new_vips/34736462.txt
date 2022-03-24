@@ -1,0 +1,55 @@
+
+1. Popul Health Metr. 2021 Nov 4;19(1):44. doi: 10.1186/s12963-021-00274-z.
+
+Addressing missing values in routine health information system data: an
+evaluation of imputation methods using data from the Democratic Republic of the
+Congo during the COVID-19 pandemic.
+
+Feng S(1), Hategeka C(2), Grépin KA(3).
+
+Author information: 
+(1)School of Public Health, University of Hong Kong, Pok Fu Lam, Hong Kong.
+(2)Harvard TH Chan School of Public Health, Harvard University, Boston, MA, USA.
+(3)School of Public Health, University of Hong Kong, Pok Fu Lam, Hong Kong.
+kgrepin@hku.hk.
+
+BACKGROUND: Poor data quality is limiting the use of data sourced from routine
+health information systems (RHIS), especially in low- and middle-income
+countries. An important component of this data quality issue comes from missing
+values, where health facilities, for a variety of reasons, fail to report to the 
+central system.
+METHODS: Using data from the health management information system in the
+Democratic Republic of the Congo and the advent of COVID-19 pandemic as an
+illustrative case study, we implemented seven commonly used imputation methods
+and evaluated their performance in terms of minimizing bias in imputed values and
+parameter estimates generated through subsequent analytical techniques, namely
+segmented regression, which is widely used in interrupted time series studies,
+and pre-post-comparisons through paired Wilcoxon rank-sum tests. We also examined
+the performance of these imputation methods under different missing mechanisms
+and tested their stability to changes in the data.
+RESULTS: For regression analyses, there were no substantial differences found in 
+the coefficient estimates generated from all methods except mean imputation and
+exclusion and interpolation when the data contained less than 20% missing values.
+However, as the missing proportion grew, k-NN started to produce biased
+estimates. Machine learning algorithms, i.e. missForest and k-NN, were also found
+to lack robustness to small changes in the data or consecutive missingness. On
+the other hand, multiple imputation methods generated the overall most unbiased
+estimates and were the most robust to all changes in data. They also produced
+smaller standard errors than single imputations. For pre-post-comparisons, all
+methods produced p values less than 0.01, regardless of the amount of missingness
+introduced, suggesting low sensitivity of Wilcoxon rank-sum tests to the
+imputation method used.
+CONCLUSIONS: We recommend the use of multiple imputation in addressing missing
+values in RHIS datasets and appropriate handling of data structure to minimize
+imputation standard errors. In cases where necessary computing resources are
+unavailable for multiple imputation, one may consider seasonal decomposition as
+the next best method. Mean imputation and exclusion and interpolation, however,
+always produced biased and misleading results in the subsequent analyses, and
+thus, their use in the handling of missing values should be discouraged.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12963-021-00274-z 
+PMCID: PMC8567342
+PMID: 34736462  [Indexed for MEDLINE]
+

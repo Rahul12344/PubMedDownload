@@ -1,0 +1,45 @@
+
+1. Oncotarget. 2016 May 31;7(22):32933-45. doi: 10.18632/oncotarget.8782.
+
+Survival in acute myeloid leukemia is associated with NKp44 splice variants.
+
+Shemesh A(1)(2), Brusilovsky M(1), Hadad U(1), Teltsh O(1), Edri A(1), Rubin
+E(1), Campbell KS(3), Rosental B(4), Porgador A(1)(2).
+
+Author information: 
+(1)The Shraga Segal Department of Microbiology, Immunology and Genetics, Faculty 
+of Health Sciences, Ben-Gurion University of the Negev, Beer Sheva, Israel.
+(2)National Institute for Biotechnology in the Negev, Ben-Gurion University of
+the Negev, Beer Sheva, Israel.
+(3)Immune Cell Development and Function Program, Fox Chase Cancer Center,
+Philadelphia, PA, USA.
+(4)Institute for Stem Cell Biology and Regenerative Medicine, Stanford University
+School of Medicine and the Hopkins Marine Station, Stanford, CA, USA.
+
+NKp44 is a receptor encoded by the NCR2 gene, which is expressed by
+cytokine-activated natural killer (NK) cells that are involved in anti-AML
+immunity. NKp44 has three splice variants corresponding to NKp44ITIM+ (NKp44-1)
+and NKp44ITIM- (NKp44-2, and NKp44-3) isoforms. RNAseq data of AML patients
+revealed similar survival of NKp46+NKp44+ and NKp46+NKp44- patients. However, if 
+grouped according to the NKp44 splice variant profile, NKp44-1 expression was
+significantly associated with poor survival of AML patients. Moreover, activation
+of PBMC from healthy controls showed co-dominant expression of NKp44-1 and
+NKp44-3, while primary NK clones show more diverse NKp44 splice variant profiles.
+Cultured primary NK cells resulted in NKp44-1 dominance and impaired function
+associated with PCNA over-expression by target cells. This impaired functional
+phenotype could be rescued by blocking of NKp44 receptor. Human NK cell lines
+revealed co-dominant expression of NKp44-1 and NKp44-3 and showed a functional
+phenotype that was not inhibited by PCNA over-expression. Furthermore,
+transfection-based overexpression of NKp44-1, but not NKp44-2/NKp44-3, reversed
+the endogenous resistance of NK-92 cells to PCNA-mediated inhibition, and
+resulted in poor formation of stable lytic immune synapses. This research
+contributes to the understanding of AML prognosis by shedding new light on the
+functional implications of differential splicing of NKp44.
+
+DOI: 10.18632/oncotarget.8782 
+PMCID: PMC5078064
+PMID: 27102296  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no conflict of
+interest exists.
+

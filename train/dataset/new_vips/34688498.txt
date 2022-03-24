@@ -1,0 +1,64 @@
+
+1. Vaccine. 2021 Nov 16;39(47):6876-6882. doi: 10.1016/j.vaccine.2021.10.025. Epub
+2021 Oct 18.
+
+Resource allocation for different types of vaccines against COVID-19: Tradeoffs
+and synergies between efficacy and reach.
+
+Kim D(1), Pekgün P(2), Yildirim İ(3), Keskinocak P(4).
+
+Author information: 
+(1)H. Milton Stewart School of Industrial and Systems Engineering, Georgia
+Institute of Technology, Atlanta, GA 30332, USA. Electronic address:
+dkim608@gatech.edu.
+(2)Moore School of Business, University of South Carolina, Columbia, SC 29208,
+USA. Electronic address: pelin.pekgun@moore.sc.edu.
+(3)Department of Pediatrics, Section of Infectious Diseases and Global Health,
+Yale School of Medicine and Yale Institute of Global Health, 1 Church Street, New
+Haven, CT 06510, USA. Electronic address: inci.yildirim@yale.edu.
+(4)H. Milton Stewart School of Industrial and Systems Engineering, Georgia
+Institute of Technology, Atlanta, GA 30332, USA. Electronic address:
+pinar@isye.gatech.edu.
+
+OBJECTIVE: Vaccine shortage and supply-chain challenges have caused limited
+access by many resource-limited countries during the COVID-19 pandemic. One of
+the primary decisions for a vaccine-ordering decision-maker is how to allocate
+the limited resources between different types of vaccines effectively. We studied
+the tradeoff between efficacy and reach of the two vaccine types that become
+available at different times.
+METHODS: We extended a Susceptible-Infected-Recovered-Deceased (SIR-D) model with
+vaccination, ran extensive simulations with different settings, and compared the 
+level of infection attack rate (IAR) under different reach ratios between two
+vaccine types under different resource allocation decisions.
+RESULTS: We found that when there were limited resources, allocating resources to
+a vaccine with high efficacy that became available earlier than a vaccine with
+lower efficacy did not always lead to a lower IAR, particularly if the former
+could vaccinate less than 42.5% of the population (with the selected study
+parameters) who could have received the latter. Sensitivity analyses showed that 
+this result stayed robust under different study parameters.
+CONCLUSIONS: Our results showed that a vaccine with lower resource requirements
+(wider reach) can significantly contribute to reducing IAR, even if it becomes
+available later in the pandemic, compared to a higher efficacy vaccine that
+becomes available earlier but requires more resources. Limited resource in
+vaccine distribution is significant challenge in many parts of the world that
+needs to be addressed to improve the global access to life-saving vaccines.
+Understanding the tradeoffs between efficacy and reach is critical for resource
+allocation decisions between different vaccine types for improving health
+outcomes.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.vaccine.2021.10.025 
+PMCID: PMC8520874
+PMID: 34688498  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare the following financial interests/personal relationships which may be
+considered as potential competing interests: [Dr İnci Yildirim reported being a
+member of the mRNA-1273 Study Group. Dr. Yildirim has received funding to her
+institution to conduct clinical research from BioFire, MedImmune, Regeneron,
+PaxVax, Pfizer, GSK, Merck, Novavax, Sanofi-Pasteur, and Micron. Dr. Pinar
+Keskinocak received funding to her institution from Merck to conduct non-clinical
+research. The funders played no role in the study design, data collection,
+analysis, interpretation, or in writing the manuscript.].
+

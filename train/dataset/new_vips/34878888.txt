@@ -1,0 +1,51 @@
+
+1. J Virol. 2021 Dec 8:JVI0186721. doi: 10.1128/JVI.01867-21. [Epub ahead of print]
+
+The mouse cytomegalovirus G protein-coupled receptor homolog, M33, coordinates
+key features of in vivo infection via distinct components of its signalling
+repertoire.
+
+Ma J(1), Bruce K(1), Davis-Poynter N, Stevenson PG(1), Farrell HE(1).
+
+Author information: 
+(1)School of Chemistry and Molecular Biosciences, The University of Queensland,
+Brisbane, Australia.
+
+Common to all cytomegalovirus (CMV) genomes analysed to date is the presence of G
+protein-coupled receptors (GPCR). Animal models of CMV provide insights into
+their role in viral fitness. The mouse cytomegalovirus (MCMV) GPCR, M33,
+facilitates dendritic cell (DC)-dependent viremia, the extravasation of
+blood-borne infected DC to the salivary gland and the frequency of reactivation
+events from latently-infected tissue explants. Constitutive G protein-coupled M33
+signalling is required for these phenotypes, although the contribution of
+distinct biochemical pathways activated by M33 is unknown. M33 engages Gq/11 to
+constitutively activate phospholipase C β (PLCβ) and downstream cyclic AMP
+response-element binding protein (CREB) in vitro. Identification of a MCMV M33
+mutant (M33ΔC38) for which CREB signalling was disabled, but PLCβ activation was 
+preserved, provided the opportunity to investigate their relevance in vivo.
+Following intranasal infection with MCMV M33ΔC38, the absence of M33 CREB
+Gq/11-dependent signalling correlated with reduced mobilisation of
+lytically-infected DC to draining lymph node high endothelial venules (HEVs) and 
+reduced viremia compared with wild type MCMV. In contrast, M33ΔC38-infected DC
+within the vascular compartment extravasated to the salivary glands via a
+pertussis toxin-sensitive, Gi/o-dependent and CREB-independent mechanism. In the 
+context of MCMV latency, spleen explants from M33ΔC38-infected mice were markedly
+attenuated for reactivation. Taken together, these data demonstrate that key
+features of the MCMV lifecycle are coordinated in diverse tissues by distinct
+pathways of the M33 signalling repertoire. IMPORTANCE G protein-coupled receptors
+(GPCRs) act as cell surface molecular "switches" which regulate the cellular
+response to environmental stimuli. All cytomegalovirus (CMV) genomes analysed to 
+date possess GPCR homologs with phylogenetic evidence for independent gene
+capture events, signifying important in vivo roles. The mouse CMV (MCMV) GPCR
+homolog, designated M33, is important for cell-associated virus spread and for
+the establishment and/or reactivation of latent MCMV infection. The signalling
+repertoire of M33 is distinct from cellular GPCRs and little is known of the
+relevance of component signalling pathways for in vivo M33 function. In this
+report, we show temporal and tissue-specific M33 signalling is required
+facilitating in vivo infection. Understanding the relevance of the viral GPCR
+signalling profiles for in vivo function will provide opportunities for future
+targeted interventions.
+
+DOI: 10.1128/JVI.01867-21 
+PMID: 34878888 
+

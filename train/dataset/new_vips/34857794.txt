@@ -1,0 +1,79 @@
+
+1. Sci Rep. 2021 Dec 2;11(1):23315. doi: 10.1038/s41598-021-02432-7.
+
+Multiscale interactome analysis coupled with off-target drug predictions reveals 
+drug repurposing candidates for human coronavirus disease.
+
+Sugiyama MG(#)(1), Cui H(#)(2)(3), Redka DS(#)(4), Karimzadeh M(3), Rujas
+E(5)(6)(7), Maan H(3)(8)(9), Hayat S(10)(11), Cheung K(1)(12), Misra R(1), McPhee
+JB(1)(12), Viirre RD(1)(12), Haller A(13)(14), Botelho RJ(1)(12), Karshafian
+R(12)(15)(16)(17), Sabatinos SA(1)(12), Fairn GD(6)(15)(18), Madani Tonekaboni
+SA(4), Windemuth A(4), Julien JP(5)(6)(19), Shahani V(4), MacKinnon SS(20), Wang 
+B(21)(22)(23)(24), Antonescu CN(25)(26)(27).
+
+Author information: 
+(1)Department of Chemistry and Biology, Ryerson University, Toronto, ON, Canada.
+(2)Department of Computer Science, University of Toronto, Toronto, ON, Canada.
+(3)Vector Institute, Toronto, ON, Canada.
+(4)Cyclica Inc., Toronto, ON, Canada.
+(5)Program in Molecular Medicine, The Hospital for Sick Children Research
+Institute, Toronto, ON, Canada.
+(6)Department of Biochemistry, University of Toronto, Toronto, ON, Canada.
+(7)Biofisika Institute (CSIC, UPV/EHU) and Department of Biochemistry and
+Molecular Biology, University of the Basque Country (UPV/EHU), Bilbao, Spain.
+(8)Department of Medical Biophysics, University of Toronto, Toronto, ON, Canada.
+(9)Peter Munk Cardiac Centre, University Health Centre, Toronto, ON, Canada.
+(10)Precision Cardiology Laboratory, Bayer US LLC, Cambridge, MA, USA.
+(11)Institute of Experimental Medicine and Systems Biology, RWTH Aachen
+University, Aachen, Germany.
+(12)Graduate Program in Molecular Science, Ryerson University, Toronto, ON,
+Canada.
+(13)Phoenox Pharma, Toronto, ON, Canada.
+(14)Department of Pharmacology and Toxicology, University of Toronto, Toronto,
+ON, Canada.
+(15)Keenan Research Centre for Biomedical Science, St. Michael's Hospital,
+Toronto, ON, Canada.
+(16)Institute for Biomedical Engineering, Science and Technology (iBEST), a
+partnership between Ryerson University and St. Michael's Hospital, Toronto, ON,
+Canada.
+(17)Department of Physics, Ryerson University, Toronto, ON, Canada.
+(18)Department of Surgery, University of Toronto, Toronto, ON, Canada.
+(19)Department of Immunology, Toronto, ON, Canada.
+(20)Cyclica Inc., Toronto, ON, Canada. stephen.mackinnon@cyclicarx.com.
+(21)Department of Computer Science, University of Toronto, Toronto, ON, Canada.
+bowang@vectorinstitute.ai.
+(22)Vector Institute, Toronto, ON, Canada. bowang@vectorinstitute.ai.
+(23)Peter Munk Cardiac Centre, University Health Centre, Toronto, ON, Canada.
+bowang@vectorinstitute.ai.
+(24)Department of Laboratory Medicine and Pathobiology, University of Toronto,
+Toronto, ON, Canada. bowang@vectorinstitute.ai.
+(25)Department of Chemistry and Biology, Ryerson University, Toronto, ON, Canada.
+cantonescu@ryerson.ca.
+(26)Graduate Program in Molecular Science, Ryerson University, Toronto, ON,
+Canada. cantonescu@ryerson.ca.
+(27)Keenan Research Centre for Biomedical Science, St. Michael's Hospital,
+Toronto, ON, Canada. cantonescu@ryerson.ca.
+(#)Contributed equally
+
+The COVID-19 pandemic has highlighted the urgent need for the identification of
+new antiviral drug therapies for a variety of diseases. COVID-19 is caused by
+infection with the human coronavirus SARS-CoV-2, while other related human
+coronaviruses cause diseases ranging from severe respiratory infections to the
+common cold. We developed a computational approach to identify new antiviral drug
+targets and repurpose clinically-relevant drug compounds for the treatment of a
+range of human coronavirus diseases. Our approach is based on graph convolutional
+networks (GCN) and involves multiscale host-virus interactome analysis coupled to
+off-target drug predictions. Cell-based experimental assessment reveals several
+clinically-relevant drug repurposing candidates predicted by the in silico
+analyses to have antiviral activity against human coronavirus infection. In
+particular, we identify the MET inhibitor capmatinib as having potent and broad
+antiviral activity against several coronaviruses in a MET-independent manner, as 
+well as novel roles for host cell proteins such as IRAK1/4 in supporting human
+coronavirus infection, which can inform further drug discovery studies.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-02432-7 
+PMCID: PMC8640055
+PMID: 34857794 
+

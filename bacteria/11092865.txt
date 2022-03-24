@@ -1,0 +1,41 @@
+
+1. J Bacteriol. 2000 Dec;182(24):7029-34.
+
+Regulatable arabinose-inducible gene expression system with consistent control in
+all cells of a culture.
+
+Khlebnikov A(1), Risa O, Skaug T, Carrier TA, Keasling JD.
+
+Author information: 
+(1)Department of Chemical Engineering, University of California, Berkeley,
+California 94720-1462, USA.
+
+The arabinose-inducible promoter P(BAD) is subject to all-or-none induction, in
+which intermediate concentrations of arabinose give rise to subpopulations of
+cells that are fully induced and uninduced. To construct a host-vector expression
+system with regulatable control in a homogeneous population of cells, the araE
+gene of Escherichia coli was cloned into an RSF1010-derived plasmid under control
+of the isopropyl-beta-D-thiogalactopyranoside-inducible P(tac) and P(taclac)
+promoters. This gene encodes the low-affinity, high-capacity arabinose transport 
+protein and is controlled natively by an arabinose-inducible promoter. To detect 
+the effect of arabinose-independent araE expression on population homogeneity and
+cell-specific expression, the gfpuv gene was placed under control of the
+arabinose-inducible araBAD promoter (P(BAD)) on the pMB1-derived plasmid pBAD24. 
+The transporter and reporter plasmids were transformed into E. coli strains with 
+native arabinose transport systems and strains deficient in one or both of the
+arabinose transport systems (araE and/or araFGH). The effects of the arabinose
+concentration and arabinose-independent transport control on population
+homogeneity were investigated in these strains using flow cytometry. The araE,
+and araE araFGH mutant strains harboring the transporter and reporter plasmids
+were uniformly induced across the population at all inducer concentrations, and
+the level of gene expression in individual cells varied with arabinose
+concentration. In contrast, the parent strain, which expressed the native araE
+and araFGH genes and harbored the transporter and reporter plasmids, exhibited
+all-or-none behavior. This work demonstrates the importance of including a
+transport gene that is controlled independently of the inducer to achieve
+regulatable and consistent induction in all cells of the culture.
+
+DOI: 10.1128/jb.182.24.7029-7034.2000 
+PMCID: PMC94830
+PMID: 11092865  [Indexed for MEDLINE]
+

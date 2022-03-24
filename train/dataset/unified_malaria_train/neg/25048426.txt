@@ -1,0 +1,43 @@
+
+1. bmc genomics. 2014 jul 21;15:617. doi: 10.1186/1471-2164-15-617.
+
+efficient linkage mapping using exome capture extreme qtl schistosome
+parasites.
+
+chevalier fd, valentim cl, loverde pt, anderson tj(1).
+
+author information: 
+(1)department genetics, texas biomedical research institute, p,o, box 760549, 
+78245 san antonio, texas, usa. tanderso@txbiomedgenetics.org.
+
+background: identification parasite genes underlie traits drug
+resistance host specificity challenging using classical linkage mapping
+approaches. extreme qtl (x-qtl) methods, originally developed rodent malaria
+and yeast researchers, promise increase power simplify logistics of
+linkage mapping experimental crosses schistosomes (or helminth
+parasites), many 1000s progeny analysed, phenotyping not
+required, progeny pools rather individuals genotyped. explored
+the utility method mapping drug resistance gene human
+parasitic fluke schistosoma mansoni.
+results: staged genetic cross oxamniquine sensitive resistant
+parasites, two f1 progeny, generate multiple f2 progeny. one
+group f2s infecting hamsters treated oxamniquine, second
+group left untreated. used exome capture reduce size genome 
+(from 363 mb 15 mb) exomes pooled f2 progeny (treated males,
+untreated males, treated females, untreated females) two parent parasites
+were sequenced high read depth (mean = 95-366×) allele frequencies at
+14,489 variants compared. observed dramatic enrichment alleles the
+resistant parent small region chromosome 6 drug-treated male and
+female pools (combined analysis: z = 11.07, p = 8.74 × 10(-29)). region
+contains smp_089320 gene encoding sulfotransferase recently implicated in
+oxamniquine resistance using classical linkage mapping methods.
+conclusions: results (a) demonstrate utility exome capture for
+generating reduced representation libraries schistosoma mansoni, (b)
+provide proof-of-principle x-qtl methods successfully applied an
+important human helminth. combination methods simplify linkage 
+analysis biomedically biologically important traits parasite.
+
+doi: 10.1186/1471-2164-15-617 
+pmcid: pmc4117968
+pmid: 25048426  [indexed medline]
+

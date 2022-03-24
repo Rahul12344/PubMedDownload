@@ -1,0 +1,53 @@
+
+1. PLoS One. 2015 Apr 28;10(4):e0124283. doi: 10.1371/journal.pone.0124283.
+eCollection 2015.
+
+High EMT Signature Score of Invasive Non-Small Cell Lung Cancer (NSCLC) Cells
+Correlates with NFκB Driven Colony-Stimulating Factor 2 (CSF2/GM-CSF) Secretion
+by Neighboring Stromal Fibroblasts.
+
+Rudisch A(1), Dewhurst MR(2), Horga LG(2), Kramer N(3), Harrer N(2), Dong M(4),
+van der Kuip H(4), Wernitznig A(2), Bernthaler A(2), Dolznig H(3), Sommergruber
+W(2).
+
+Author information: 
+(1)Department of Lead Discovery, Boehringer Ingelheim RCV GmbH & Co KG, Vienna,
+Austria; Department of Microbiology, Immunobiology and Genetics, Center of
+Molecular Biology, Max F. Perutz Laboratories, University of Vienna, Vienna,
+Austria.
+(2)Department of Lead Discovery, Boehringer Ingelheim RCV GmbH & Co KG, Vienna,
+Austria.
+(3)Institute of Medical Genetics, Medical University of Vienna, Vienna, Austria.
+(4)Dr. Margarete Fischer-Bosch Institute of Clinical Pharmacology and University 
+of Tübingen, Stuttgart, Baden-Württemberg, Germany.
+
+We established co-cultures of invasive or non-invasive NSCLC cell lines and
+various types of fibroblasts (FBs) to more precisely characterize the molecular
+mechanism of tumor-stroma crosstalk in lung cancer. The HGF-MET-ERK1/2-CREB-axis 
+was shown to contribute to the onset of the invasive phenotype of Calu-1 with HGF
+being secreted by FBs. Differential expression analysis of the respective mono-
+and co-cultures revealed an upregulation of NFκB-related genes exclusively in
+co-cultures with Calu-1. Cytokine Array- and ELISA-based characterization of the 
+"cytokine fingerprints" identified CSF2 (GM-CSF), CXCL1, CXCL6, VEGF, IL6, RANTES
+and IL8 as being specifically upregulated in various co-cultures. Whilst CXCL6
+exhibited a strictly FB-type-specific induction profile regardless of the
+invasiveness of the tumor cell line, CSF2 was only induced in co-cultures of
+invasive cell lines regardless of the partnered FB type. These cultures revealed 
+a clear link between the induction of CSF2 and the EMT signature of the cancer
+cell line. The canonical NFκB signaling in FBs, but not in tumor cells, was shown
+to be responsible for the induced and constitutive CSF2 expression. In addition
+to CSF2, cytokine IL6, IL8 and IL1B, and chemokine CXCL1 and CXCL6 transcripts
+were also shown to be increased in co-cultured FBs. In contrast, their induction 
+was not strictly dependent on the invasiveness of the co-cultured tumor cell. In 
+a multi-reporter assay, additional signaling pathways (AP-1, HIF1-α, KLF4, SP-1
+and ELK-1) were found to be induced in FBs co-cultured with Calu-1. Most
+importantly, no difference was observed in the level of inducibility of these six
+signaling pathways with regard to the type of FBs used. Finally, upon tumor
+fibroblast interaction the massive induction of chemokines such as CXCL1 and
+CXCL6 in FBs might be responsible for increased recruitment of a monocytic cell
+line (THP-1) in a transwell assay.
+
+DOI: 10.1371/journal.pone.0124283 
+PMCID: PMC4412534
+PMID: 25919140  [Indexed for MEDLINE]
+

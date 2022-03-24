@@ -1,0 +1,53 @@
+
+1. J Int AIDS Soc. 2021 Nov;24(11):e25841. doi: 10.1002/jia2.25841.
+
+The likelihood of severe COVID-19 outcomes among PLHIV with various
+comorbidities: a comparative frequentist and Bayesian meta-analysis approach.
+
+Wang H(1), Jonas KJ(1).
+
+Author information: 
+(1)Department of Work and Social Psychology, Maastricht University, Maastricht,
+the Netherlands.
+
+INTRODUCTION: The SARS-CoV-2 virus can currently pose a serious health threat and
+can lead to severe COVID-19 outcomes, especially for populations suffering from
+comorbidities. Currently, the data available on the risk for severe COVID-19
+outcomes due to an HIV infection with or without comorbidities paint a
+heterogenous picture. In this meta-analysis, we summarized the likelihood for
+severe COVID-19 outcomes among people living with HIV (PLHIV) with or without
+comorbidities.
+METHODS: Following PRISMA guidelines, we utilized PubMed, Web of Science and
+medRxiv to search for studies describing COVID-19 outcomes in PLHIV with or
+without comorbidities up to 25 June 2021. Consequently, we conducted two
+meta-analyses, based on a classic frequentist and Bayesian perspective of higher 
+quality studies.
+RESULTS AND DISCUSSION: We identified 2580 studies (search period: January
+2020-25 June 2021, data extraction period: 1 January 2021-25 June 2021) and
+included nine in the meta-analysis. Based on the frequentist meta-analytical
+model, PLHIV with diabetes had a seven times higher risk of severe COVID-19
+outcomes (odd ratio, OR = 6.69, 95% CI: 3.03-19.30), PLHIV with hypertension a
+four times higher risk (OR = 4.14, 95% CI: 2.12-8.17), PLHIV with cardiovascular 
+disease an odds ratio of 4.75 (95% CI: 1.89-11.94), PLHIV with respiratory
+disease an odds ratio of 3.67 (95% CI: 1.79-7.54) and PLHIV with chronic kidney
+disease an OR of 9.02 (95% CI: 2.53-32.14) compared to PLHIV without
+comorbidities. Both meta-analytic models converged, thereby providing robust
+summative evidence. The Bayesian meta-analysis produced similar effects overall, 
+with the exclusion of PLHIV with respiratory diseases who showed a
+non-significant higher risk to develop severe COVID-19 outcomes compared to PLHIV
+without comorbidities.
+CONCLUSIONS: Our meta-analyses show that people with HIV, PLHIV with coexisting
+diabetes, hypertension, cardiovascular disease, respiratory disease and chronic
+kidney disease are at a higher likelihood of developing severe COVID-19 outcomes.
+Bayesian analysis helped to estimate small sample biases and provided predictive 
+likelihoods. Clinical practice should take these risks due to comorbidities into 
+account and not only focus on the HIV status alone, vaccination priorities should
+be adjusted accordingly.
+
+© 2021 The Authors. Journal of the International AIDS Society published by John
+Wiley & Sons Ltd on behalf of the International AIDS Society.
+
+DOI: 10.1002/jia2.25841 
+PMCID: PMC8604378
+PMID: 34797952  [Indexed for MEDLINE]
+

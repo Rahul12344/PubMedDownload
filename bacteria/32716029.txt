@@ -1,0 +1,34 @@
+
+1. Nucleic Acids Res. 2020 Sep 18;48(16):9098-9108. doi: 10.1093/nar/gkaa614.
+
+Activation of DNA-PK by hairpinned DNA ends reveals a stepwise mechanism of
+kinase activation.
+
+Meek K(1).
+
+Author information: 
+(1)Department of Microbiology & Molecular Genetics, and Department of
+Pathobiology & Diagnostic Investigation, College of Veterinary Medicine, Michigan
+State University, East Lansing, MI 48824, USA.
+
+As its name implies, the DNA dependent protein kinase (DNA-PK) requires DNA
+double-stranded ends for enzymatic activation. Here, I demonstrate that
+hairpinned DNA ends are ineffective for activating the kinase toward many of its 
+well-studied substrates (p53, XRCC4, XLF, HSP90). However, hairpinned DNA ends
+robustly stimulate certain DNA-PK autophosphorylations. Specifically,
+autophosphorylation sites within the ABCDE cluster are robustly phosphorylated
+when DNA-PK is activated by hairpinned DNA ends. Of note, phosphorylation of the 
+ABCDE sites is requisite for activation of the Artemis nuclease that associates
+with DNA-PK to mediate hairpin opening. This finding suggests a multi-step
+mechanism of kinase activation. Finally, I find that all non-homologous end
+joining (NHEJ) defective cells (whether deficient in components of the DNA-PK
+complex or components of the ligase complex) are similarly deficient in joining
+DNA double-stranded breaks (DSBs) with hairpinned termini.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkaa614 
+PMCID: PMC7498359
+PMID: 32716029  [Indexed for MEDLINE]
+

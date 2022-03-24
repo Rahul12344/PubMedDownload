@@ -1,0 +1,49 @@
+
+1. PLoS Pathog. 2021 Nov 9;17(11):e1010057. doi: 10.1371/journal.ppat.1010057.
+eCollection 2021 Nov.
+
+Amino acid residues at core protein dimer-dimer interface modulate multiple steps
+of hepatitis B virus replication and HBeAg biogenesis.
+
+Liu H(1)(2), Cheng J(2), Viswanathan U(2), Chang J(2), Lu F(1), Guo JT(2).
+
+Author information: 
+(1)Department of Microbiology & Infectious Disease Center, School of Basic
+Medical Sciences, Peking University Health Science Center, Beijing, China.
+(2)Baruch S. Blumberg Institute, Doylestown, Pennsylvania, United States of
+America.
+
+The core protein (Cp) of hepatitis B virus (HBV) assembles pregenomic RNA (pgRNA)
+and viral DNA polymerase to form nucleocapsids where the reverse transcriptional 
+viral DNA replication takes place. Core protein allosteric modulators (CpAMs)
+inhibit HBV replication by binding to a hydrophobic "HAP" pocket at Cp
+dimer-dimer interfaces to misdirect the assembly of Cp dimers into aberrant or
+morphologically "normal" capsids devoid of pgRNA. We report herein that a panel
+of CpAM-resistant Cp with single amino acid substitution of residues at the
+dimer-dimer interface not only disrupted pgRNA packaging, but also compromised
+nucleocapsid envelopment, virion infectivity and covalently closed circular (ccc)
+DNA biosynthesis. Interestingly, these mutations also significantly reduced the
+secretion of HBeAg. Biochemical analysis revealed that the CpAM-resistant
+mutations in the context of precore protein (p25) did not affect the levels of
+p22 produced by signal peptidase removal of N-terminal 19 amino acid residues,
+but significantly reduced p17, which is produced by furin cleavage of C-terminal 
+arginine-rich domain of p22 and secreted as HBeAg. Interestingly, p22 existed as 
+both unphosphorylated and phosphorylated forms. While the unphosphorylated p22 is
+in the membranous secretary organelles and the precursor of HBeAg, p22 in the
+cytosol and nuclei is hyperphosphorylated at the C-terminal arginine-rich domain 
+and interacts with Cp to disrupt capsid assembly and viral DNA replication. The
+results thus indicate that in addition to nucleocapsid assembly, interaction of
+Cp at dimer-dimer interface also plays important roles in the production and
+infectivity of progeny virions through modulation of nucleocapsid envelopment and
+uncoating. Similar interaction at reduced p17 dimer-dimer interface appears to be
+important for its metabolic stability and sensitivity to CpAM suppression of
+HBeAg secretion.
+
+DOI: 10.1371/journal.ppat.1010057 
+PMCID: PMC8604296
+PMID: 34752483 
+
+Conflict of interest statement: I have read the journal’s policy and the authors 
+of this manuscript have the following competing interests: JTG received research 
+support and hold stock of Arbutus Biopharma, Inc.
+

@@ -1,0 +1,82 @@
+
+1. Trials. 2021 Nov 22;22(1):828. doi: 10.1186/s13063-021-05788-3.
+
+Statistical analysis plan for the Steppedwedge Cluster Randomized trial of
+Electronic Early Notification of sepsis in hospitalized ward patients (SCREEN).
+
+Arabi YM(1), Vishwakarma RK(2)(3), Al-Dorzi HM(4), Al Qasim E(4), Abdukahil
+SA(4), Al-Rabeah FK(5), Al Ghamdi H(5), Al Ghamdi E(5); SCREEN Trial Group.
+
+Collaborators: Arabi YM, Alsaawi A, Al Khathaami AM, AlHazme RH, Al Mutrafy A, Al
+Qasim E, Abdukahil SA, Al-Rabeah FK, Al Ghamdi H, Al Ghamdi E, Abuelgasim KA,
+Alatassi A, Nammour G, Caswell A, Alchin J, Al-Dorzi HM, AlKatheri ME, Alharbi A,
+Al Almoodi R, Jones J, Al-Qahtani S, Salih SB, Alselaim N, Tashkandi N,
+Vishwakarma RK, Alyousef Z, Al Moammary MS, Rasheed S, Matroud A, Al Anazi RE, Al
+Shammari H, Alshamrani MM, Qasim S, Obbed S, Al Qarni M, Jazieh AR, Al Zahrani M,
+Al-Hameed F, Munshi AA, Jastaniah W, AlMarhabi H, AlWafi E, Alyami AH, Yamani AO,
+Al Tabsh H, Banat BR, Abuskout O, Marcelo AL, Alhabshi MM, Al Hamdan A, Al Qarni 
+A, Al Arfaj A, Mustafa HT, Shahin M, Ghamdi AA, Yaakob J, Chalabi J, Greyvenstein
+JE, Al Qasem A, Esilan H, Aliyyen SM, Sian CM, Alwasaidi T, Alhasani AM, Jaber
+IJ, Omaish N, Abdrabo M, Qureshi AS, Abdrahim A, Almughamisi N, Rahim AA, Al
+Shouabi A, Qahtani S, Alansari M, Al Somali H, Masala C, Madram G, Nasser W,
+Talaqof F, Almulhim M.
+
+Author information: 
+(1)College of Medicine, King Saud Bin Abdulaziz University for Health Sciences,
+King Abdullah International Medical Research Center, Intensive Care Department,
+King Abdulaziz Medical City, Ministry of National Guard Health Affairs, Riyadh,
+Saudi Arabia. yaseenarabi@yahoo.com.
+(2)Biostatistics and Bioinformatics Department, King Saud Bin Abdulaziz
+University for Health Sciences, King Abdullah International Medical Research
+Center, King Abdulaziz Medical City, Ministry of National Guard Health Affairs,
+Riyadh, Saudi Arabia.
+(3)Statistics Department, European Organisation for Research and Treatment of
+Cancer (EORTC) Headquarters, Brussels, Belgium.
+(4)College of Medicine, King Saud Bin Abdulaziz University for Health Sciences,
+King Abdullah International Medical Research Center, Intensive Care Department,
+King Abdulaziz Medical City, Ministry of National Guard Health Affairs, Riyadh,
+Saudi Arabia.
+(5)College of Health Informatics, King Saud Bin Abdulaziz University for Health
+Sciences, King Abdullah International Medical Research Center, Information
+Systems and Informatics Division, King Abdulaziz Medical City, Ministry of
+National Guard Health Affairs, Riyadh, Saudi Arabia.
+
+BACKGROUND: It is unclear whether screening for sepsis using an electronic alert 
+in hospitalized ward patients improves outcomes. The objective of the
+Stepped-wedge Cluster Randomized Trial of Electronic Early Notification of Sepsis
+in Hospitalized Ward Patients (SCREEN) trial is to evaluate whether an electronic
+screening for sepsis compared to no screening among hospitalized ward patients
+reduces all-cause 90-day in-hospital mortality.
+METHODS AND DESIGN: This study is designed as a stepped-wedge cluster randomized 
+trial in which the unit of randomization or cluster is the hospital ward. An
+electronic alert for sepsis was developed in the electronic medical record (EMR),
+with the feature of being active (visible to treating team) or masked (inactive
+in EMR frontend for the treating team but active in the backend of the EMR).
+Forty-five clusters in 5 hospitals are randomized into 9 sequences of 5 clusters 
+each to receive the intervention (active alert) over 10 periods, 2 months each,
+the first being the baseline period. Data are extracted from EMR and are compared
+between the intervention (active alert) and control group (masked alert). During 
+the study period, some of the hospital wards were allocated to manage patients
+with COVID-19. The primary outcome of all-cause hospital mortality by day 90 will
+be compared using a generalized linear mixed model with a binary distribution and
+a log-link function to estimate the relative risk as a measure of effect. We will
+include two levels of random effects to account for nested clustering within
+wards and periods and two levels of fixed effects: hospitals and COVID-19 ward
+status in addition to the intervention. Results will be expressed as relative
+risk with a 95% confidence interval.
+CONCLUSION: The SCREEN trial provides an opportunity for a novel trial design and
+analysis of routinely collected and entered data to evaluate the effectiveness of
+an intervention (alert) for a common medical problem (sepsis in ward patients).
+In this statistical analysis plan, we outline details of the planned analyses in 
+advance of trial completion. Prior specification of the statistical methods and
+outcome analysis will facilitate unbiased analyses of these important clinical
+data.
+TRIAL REGISTRATION: ClinicalTrials.gov NCT04078594 . Registered on September 6,
+2019.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s13063-021-05788-3 
+PMCID: PMC8607063
+PMID: 34809672  [Indexed for MEDLINE]
+

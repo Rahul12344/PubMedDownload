@@ -1,0 +1,38 @@
+
+1. Biochemistry. 2020 Nov 3;59(43):4163-4175. doi: 10.1021/acs.biochem.0c00689. Epub
+2020 Oct 19.
+
+An Engineered T Cell Receptor Variant Realizes the Limits of Functional Binding
+Modes.
+
+Singh NK(1), Alonso JA(1), Harris DT(2), Anderson SD(2), Ma J(1), Hellman LM(1), 
+Rosenberg AM(1), Kolawole EM(3), Evavold BD(3), Kranz DM(2), Baker BM(1).
+
+Author information: 
+(1)Department of Chemistry and Biochemistry and Harper Cancer Research Institute,
+University of Notre Dame, Notre Dame, Indiana 46556, United States.
+(2)Department of Biochemistry and Cancer Center at Illinois, University of
+Illinois, Urbana, Illinois 61801, United States.
+(3)Division of Microbiology and Immunology, Department of Pathology, University
+of Utah, Salt Lake City, Utah 84112, United States.
+
+T cell receptors (TCRs) orchestrate cellular immunity by recognizing peptides
+presented by a range of major histocompatibility complex (MHC) proteins.
+Naturally occurring TCRs bind the composite peptide/MHC surface, recognizing
+peptides that are structurally and chemically compatible with the TCR binding
+site. Here we describe a molecularly evolved TCR variant that binds the human
+class I MHC protein HLA-A2 independent of the bound peptide, achieved by a
+drastic perturbation of the TCR binding geometry that places the molecule far
+from the peptide binding groove. This unique geometry is unsupportive of normal T
+cell signaling. A substantial divergence between affinity measurements in
+solution and in two dimensions between proximal cell membranes leads us to
+attribute the lack of signaling to steric hindrance that limits binding in the
+confines of a cell-cell interface. Our results provide an example of how receptor
+binding geometry can impact T cell function and provide further support for the
+view that germline-encoded residues in TCR binding loops evolved to drive
+productive TCR recognition and signaling.
+
+DOI: 10.1021/acs.biochem.0c00689 
+PMCID: PMC7642186 [Available on 2021-11-03]
+PMID: 33074657  [Indexed for MEDLINE]
+

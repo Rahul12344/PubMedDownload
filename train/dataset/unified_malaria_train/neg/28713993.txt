@@ -1,0 +1,45 @@
+
+1. mol med rep. 2017 sep;16(3):3299-3307. doi: 10.3892/mmr.2017.6966. epub 2017 jul 
+13.
+
+gene microarray analysis expression profiles liver ischemia and
+reperfusion.
+
+zheng x(1), zhou h(2), qiu z(1), gao s(1), wang z(1), xiao l(1).
+
+author information: 
+(1)department anesthesiology, first affiliated hospital, sun yat‑sen
+university, guangzhou, guangdong 510080, p.r. china.
+(2)zhongshan school medicine, sun yat‑sen university, guangzhou, guangdong
+510080, p.r. china.
+
+liver ischemia reperfusion (i/r) injury primary concern cases of
+liver disease worldwide associated hemorrhagic shock, resection and
+transplantation. numerous studies previously conducted investigate
+the underlying mechanisms liver i/r injury, however yet been
+fully elucidated. determine difference ischemia reperfusion in
+signaling pathways relative pathological mechanisms, present study
+downloaded microarray data gse10657 gene expression omnibus database. 
+total two data groups 1‑year‑old mice selected analysis:
+i) a total 90 min ischemia; ii) 90 min ischemia followed 1 h of
+reperfusion, n=3 group. limma package first used identify the
+differentially expressed genes (degs). degs subsequently uploaded the
+database annotation visualization integrated discovery online tool for
+functional enrichment analysis. protein‑protein interaction (ppi) network was
+then constructed via string version 10.0 analyzed using cytoscape software. a
+total 114 degs identified, including 21 down 93 upregulated genes.
+these degs primarily enriched malaria influenza a, addition the
+tumor necrosis factor mitogen activated protein kinase signaling pathways.
+hub genes identified ppi network c‑x‑c motif chemokine ligand (cxcl) 
+1, c‑c motif chemokine ligand (ccl) 2, interleukin 6, jun proto‑oncogene,
+activator protein (ap)‑1 transcription factor subunit, fos proto‑oncogene, ap‑1
+transcription factor subunit dual specificity phosphatase 1. cxcl1 ccl2
+may exhibit important roles liver i/r injury, involvement immune
+and inflammatory responses chemokine‑mediated signaling pathway,
+particularly reperfusion stage. however, experiments elucidate 
+the specific roles mediators required future.
+
+doi: 10.3892/mmr.2017.6966 
+pmcid: pmc5548003
+pmid: 28713993  [indexed medline]
+

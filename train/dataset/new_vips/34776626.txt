@@ -1,0 +1,43 @@
+
+1. J Supercomput. 2021 Nov 10:1-13. doi: 10.1007/s11227-021-04149-w. [Epub ahead of 
+print]
+
+COVID-19 pandemic, predictions and control in Saudi Arabia using SIR-F and
+age-structured SEIR model.
+
+Durai CAD(1), Begum A(1), Jebaseeli J(2), Sabahath A(1).
+
+Author information: 
+(1)College of Computer Science, Kingdom of Saudi Arabia, King Khalid University, 
+Abha, Saudi Arabia.
+(2)Department of Computer Science and Engineering, Karunya Institute of
+Technology and Sciences, Coimbatore, India.
+
+COVID-19 has affected every individual physically or physiologically, leading to 
+substantial impacts on how they perceive and respond to the pandemic's danger.
+Due to the lack of vaccines or effective medicines to cure the infection, an
+urgent control measure is required to prevent the continued spread of COVID-19.
+This can be achieved using advanced computing, such as artificial intelligence
+(AI), machine learning (ML), deep learning (DL), cloud computing, and edge
+computing. To control the exponential spread of the novel virus, it is crucial
+for countries to contain and mitigate interventions. To prevent exponential
+growth, several control measures have been applied in the Kingdom of Saudi Arabia
+to mitigate the COVID-19 epidemic. As the pandemic has been spreading globally
+for more than a year, an ample amount of data is available for researchers to
+predict and forecast the effect of the pandemic in the near future. This article 
+interprets the effects of COVID-19 using the Susceptible-Infected-Recovered
+(SIR-F) while F-stands for 'Fatal with confirmation,' age-structured SEIR
+(Susceptible Exposed Infectious Removed) and machine learning for smart health
+care and the well-being of citizens of Saudi Arabia. Additionally, it examines
+the different control measure scenarios produced by the modified SEIR model. The 
+evolution of the simulation results shows that the interventions are vital to
+flatten the virus spread curve, which can delay the peak and decrease the
+fatality rate.
+
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC,
+part of Springer Nature 2021.
+
+DOI: 10.1007/s11227-021-04149-w 
+PMCID: PMC8579411
+PMID: 34776626 
+

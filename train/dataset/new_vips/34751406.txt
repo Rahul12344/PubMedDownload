@@ -1,0 +1,39 @@
+
+1. Nucleic Acids Res. 2021 Nov 18;49(20):11938-11958. doi: 10.1093/nar/gkab969.
+
+Investigating molecular mechanisms of 2A-stimulated ribosomal pausing and
+frameshifting in Theilovirus.
+
+Hill CH(1), Cook GM(1), Napthine S(1), Kibe A(2), Brown K(1), Caliskan N(2)(3),
+Firth AE(1), Graham SC(1), Brierley I(1).
+
+Author information: 
+(1)Division of Virology, Department of Pathology, University of Cambridge, Tennis
+Court Road, Cambridge CB2 1QP, UK.
+(2)Helmholtz Institute for RNA-based Infection Research (HIRI),
+Josef-Schneider-Straße 2/D15, 97080 Würzburg, Germany.
+(3)Medical Faculty, Julius-Maximilians University Würzburg, 97074 Würzburg,
+Germany.
+
+The 2A protein of Theiler's murine encephalomyelitis virus (TMEV) acts as a
+switch to stimulate programmed -1 ribosomal frameshifting (PRF) during infection.
+Here, we present the X-ray crystal structure of TMEV 2A and define how it
+recognises the stimulatory RNA element. We demonstrate a critical role for bases 
+upstream of the originally predicted stem-loop, providing evidence for a
+pseudoknot-like conformation and suggesting that the recognition of this
+pseudoknot by beta-shell proteins is a conserved feature in cardioviruses.
+Through examination of PRF in TMEV-infected cells by ribosome profiling, we
+identify a series of ribosomal pauses around the site of PRF induced by the
+2A-pseudoknot complex. Careful normalisation of ribosomal profiling data with a
+2A knockout virus facilitated the identification, through disome analysis, of
+ribosome stacking at the TMEV frameshifting signal. These experiments provide
+unparalleled detail of the molecular mechanisms underpinning Theilovirus
+protein-stimulated frameshifting.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkab969 
+PMCID: PMC8599813
+PMID: 34751406 
+

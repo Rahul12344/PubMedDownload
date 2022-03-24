@@ -1,0 +1,42 @@
+
+1. medRxiv. 2021 Nov 24. pii: 2021.11.22.21266713. doi: 10.1101/2021.11.22.21266713.
+
+In Vitro Nasal Tissue Model for the Validation of Nasopharyngeal and
+Mid-turbinate Swabs for SARS-CoV-2 Testing.
+
+Hartigan DR, Adelfio M, Shutt ME, Jones SM, Patel S, Marchand JT, McGuinness PD, 
+Buchholz BO, Ghezzi CE.
+
+Large-scale population testing is a key tool to mitigate the spread of
+respiratory pathogens, as in the current COVID-19 pandemic, where swabs are used 
+to collect samples in the upper airways (e.g. nasopharyngeal and mid-turbinate
+nasal cavities) for diagnostics. However, the high volume of supplies required to
+achieve large-scale population testing has posed unprecedented challenges for
+swab manufacturing and distribution, resulting in a global shortage that has
+heavily impacted testing capacity world-wide and prompted the development of new 
+swabs suitable for large-scale production. Newly designed swabs require rigorous 
+pre-clinical and clinical validation studies that are costly and time consuming (
+i . e . months to years long); reducing the risks associated with swab validation
+is therefore paramount for their rapid deployment. To address these shortages, we
+developed a 3D-printed tissue model that mimics the nasopharyngeal and
+mid-turbinate nasal cavities, and we validated its use as a new tool to rapidly
+test swab performance. In addition to the nasal architecture, the tissue model
+mimics the soft nasal tissue with a silk-based sponge lining, and the
+physiological nasal fluid with asymptomatic and symptomatic viscosities of
+synthetic mucus. We performed several assays comparing standard flocked and
+injection-molded swabs. We quantified the swab pick-up and release, and
+determined the effect of viral load and mucus viscosity on swab efficacy by
+spiking the synthetic mucus with heat-inactivated SARS-CoV-2 virus. By molecular 
+assays, we found that injected molded swabs performed similarly or superiorly in 
+comparison to standard flocked swabs and we underscored a viscosity-dependent
+difference in cycle threshold values between the asymptomatic and symptomatic
+mucus for both swabs. To conclude, we developed an in vitro nasal tissue model,
+that corroborated previous swab performance data from clinical studies, with the 
+potential of providing researchers with a clinically relevant, reproducible,
+safe, and cost-effective validation tool for the rapid development of newly
+designed swabs.
+
+DOI: 10.1101/2021.11.22.21266713 
+PMCID: PMC8629205
+PMID: 34845461 
+

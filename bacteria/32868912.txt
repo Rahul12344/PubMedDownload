@@ -1,0 +1,50 @@
+
+1. Cell Mol Immunol. 2021 Mar;18(3):644-659. doi: 10.1038/s41423-020-00527-1. Epub
+2020 Aug 31.
+
+Exploring the stage-specific roles of Tcf-1 in T cell development and malignancy 
+at single-cell resolution.
+
+Wang F(#)(1), Qi Z(#)(1), Yao Y(1), Yu G(1), Feng T(1), Zhao T(1), Xue HH(2),
+Zhao Y(1), Jiang P(3), Bao L(4), Yu S(5).
+
+Author information: 
+(1)State Key Laboratory of Agrobiotechnology, College of Biological Sciences,
+China Agricultural University, Yuanmingyuan West Road 2, 100193, Beijing, China.
+(2)Department of Microbiology and Immunology, Carver College of Medicine,
+University of Iowa, Iowa City, IA, 52242, USA.
+(3)Regenerative Biology Laboratory, Morgridge Institute for Research, Madison,
+WI, 53707, USA.
+(4)Department Hematology, Beijing Jishuitan Hospital, 100096, Beijing, China.
+(5)State Key Laboratory of Agrobiotechnology, College of Biological Sciences,
+China Agricultural University, Yuanmingyuan West Road 2, 100193, Beijing, China. 
+ysy@cau.edu.cn.
+(#)Contributed equally
+
+Tcf-1 (encoded by Tcf7) not only plays critical roles in promoting T cell
+development and differentiation but also has been identified as a tumor
+suppressor involved in preventing T cell malignancy. However, the comprehensive
+mechanisms of Tcf-1 involved in T cell transformation remain poorly understood.
+In this study, Tcf7fl/fl mice were crossed with Vav-cre, Lck-cre, or Cd4-cre mice
+to delete Tcf-1 conditionally at the beginning of the HSC, DN2-DN3, or DP stage, 
+respectively. The defective T cell development phenotypes became gradually less
+severe as the deletion stage became more advanced in distinct mouse models.
+Interestingly, consistent with Tcf7-/- mice, Tcf7fl/flVav-cre mice developed
+aggressive T cell lymphoma within 45 weeks, but no tumors were generated in
+Tcf7fl/flLck-cre or Tcf7fl/flCd4-cre mice. Single-cell RNA-seq (ScRNA-seq)
+indicated that ablation of Tcf-1 at distinct phases can subdivide DN1 cells into 
+three clusters (C1, C2, and C3) and DN2-DN3 cells into three clusters (C4, C5,
+and C6). Moreover, Tcf-1 deficiency redirects bifurcation among divergent cell
+fates, and clusters C1 and C4 exhibit high potential for leukemic transformation.
+Mechanistically, we found that Tcf-1 directly binds and mediates chromatin
+accessibility for both typical T cell regulators and proto-oncogenes, including
+Myb, Mycn, Runx1, and Lyl1 in the DN1 phase and Lef1, Id2, Dtx1, Fyn, Bcl11b, and
+Zfp36l2 in the DN2-DN3 phase. The aberrant expression of these genes due to Tcf-1
+deficiency in very early T cells contributes to subsequent tumorigenesis. Thus,
+we demonstrated that Tcf-1 plays stage-specific roles in regulating early
+thymocyte development and transformation, providing new insights and evidence for
+clinical trials on T-ALL leukemia.
+
+DOI: 10.1038/s41423-020-00527-1 
+PMID: 32868912 
+

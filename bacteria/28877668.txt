@@ -1,0 +1,62 @@
+
+1. BMC Genomics. 2017 Sep 6;18(1):700. doi: 10.1186/s12864-017-4042-6.
+
+De novo assembly of Phlomis purpurea after challenging with Phytophthora
+cinnamomi.
+
+Baldé A(1)(2), Neves D(3), García-Breijo FJ(4), Pais MS(1), Cravador A(5).
+
+Author information: 
+(1)Plant Molecular Biology and Biotechnology Lab, Center for Biosystems (BioSys),
+Functional and Integrative Genomics (BioFIG), Edifício C2, Faculdade de Ciências 
+da Universidade de Lisboa, Campo Grande, 1749-016, Lisbon, Portugal.
+(2)Present Address: Universidade Jean Piaget, Bissau, Guinea-Bissau.
+(3)Faculdade de Ciências e Tecnologia, Universidade do Algarve, Campus de
+Gambelas, 8005-139, Faro, Portugal.
+(4)Departamento de Ecosistemas Agroforestales, Universidad Politécnica de
+Valencia, Camino de Vera s/n, 46022, Valencia, Spain.
+(5)Centre for Mediterranean Bioresources and Food (MeditBio), FCT, Universidade
+do Algarve, Campus de Gambelas, 8005-139, Faro, Portugal. acravad@ualg.pt.
+
+BACKGROUND: Phlomis plants are a source of biological active substances with
+potential applications in the control of phytopathogens. Phlomis purpurea
+(Lamiaceae) is autochthonous of southern Iberian Peninsula and Morocco and was
+found to be resistant to Phytophthora cinnamomi. Phlomis purpurea has revealed
+antagonistic effect in the rhizosphere of Quercus suber and Q. ilex against P.
+cinnamomi. Phlomis purpurea roots produce bioactive compounds exhibiting
+antitumor and anti-Phytophthora activities with potential to protect susceptible 
+plants. Although these important capacities of P. purpurea have been
+demonstrated, there is no transcriptomic or genomic information available in
+public databases that could bring insights on the genes underlying this
+anti-oomycete activity.
+RESULTS: Using Illumina technology we obtained a de novo assembly of P. purpurea 
+transcriptome and differential transcript abundance to identify putative defence 
+related genes in challenged versus non-challenged plants. A total of
+1,272,600,000 reads from 18 cDNA libraries were merged and assembled into 215,739
+transcript contigs. BLASTX alignment to Nr NCBI database identified 124,386
+unique annotated transcripts (57.7%) with significant hits. Functional annotation
+identified 83,550 out of 124,386 unique transcripts, which were mapped to 141
+pathways. 39% of unigenes were assigned GO terms. Their functions cover
+biological processes, cellular component and molecular functions. Genes
+associated with response to stimuli, cellular and primary metabolic processes,
+catalytic and transporter functions were among those identified. Differential
+transcript abundance analysis using DESeq revealed significant differences among 
+libraries depending on post-challenge times. Comparative cyto-histological
+studies of P. purpurea roots challenged with P. cinnamomi zoospores and controls 
+revealed specific morphological features (exodermal strips and epi-cuticular
+layer), that may provide a constitutive efficient barrier against pathogen
+penetration. Genes involved in cutin biosynthesis and in exodermal Casparian
+strips formation were up-regulated.
+CONCLUSIONS: The de novo assembly of transcriptome using short reads for a
+non-model plant, P. purpurea, revealed many unique transcripts useful for further
+gene expression, biological function, genomics and functional genomics studies.
+The data presented suggest a combination of a constitutive resistance and an
+increased transcriptional response from P. purpurea when challenged with the
+pathogen. This knowledge opens new perspectives for the understanding of defence 
+responses underlying pathogenic oomycete/plant interaction upon challenge with P.
+cinnamomi.
+
+DOI: 10.1186/s12864-017-4042-6 
+PMCID: PMC5585901
+PMID: 28877668  [Indexed for MEDLINE]
+

@@ -1,0 +1,49 @@
+
+1. bmc genomics. 2012;13 suppl 6:s7. doi: 10.1186/1471-2164-13-s6-s7. epub 2012 oct 
+26.
+
+assessing gain biological data integration gene networks inference.
+
+vicente ff(1), lopes fm, hashimoto rf, cesar rm jr.
+
+author information: 
+(1)federal university technology - paraná, brazil. fabiofernandes@utfpr.edu.br
+
+background: current challenge gene annotation define gene function
+in context network relationships instead using single genes. the
+inference gene networks (gns) emerged approach better understand 
+the biology system study several components network
+interact keep functions stable. however, general
+there sufficient data accurately recover gns expression
+levels leading curse dimensionality, number variables
+is higher samples. one way mitigate problem integrate
+biological data instead using expression profiles inference
+process. nowadays, use several biological information inference methods
+had significant increase order better recover connections between
+genes reduce false positives. makes strategy interesting 
+the possibility confirming known connections included
+biological data, possibility discovering new relationships between
+genes observed expression data. although several works data
+integration increased performance network inference methods, 
+real contribution adding type biological information obtained
+improvement clear.
+methods: propose methodology include biological information an
+inference algorithm order assess prediction gain using biological
+information expression profile together. also evaluated compared the
+gain adding four types biological information: (a) protein-protein
+interaction, (b) rosetta stone fusion proteins, (c) kegg (d) kegg+go.
+results conclusions: work presents first comparison gain the
+use prior biological information inference gns considering the
+eukaryote (p. falciparum) organism. results indicates information based 
+on direct interaction produce higher improvement gain data
+about less specific relationship go kegg. also, expected, results 
+show use biological information important approach 
+improvement inference. also compared gain inference the
+global network hubs. results indicates use of
+biological information improve identification connected
+proteins.
+
+doi: 10.1186/1471-2164-13-s6-s7 
+pmcid: pmc3481449
+pmid: 23134775  [indexed medline]
+

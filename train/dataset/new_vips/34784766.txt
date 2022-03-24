@@ -1,0 +1,45 @@
+
+1. Proc Biol Sci. 2021 Nov 24;288(1963):20211651. doi: 10.1098/rspb.2021.1651. Epub 
+2021 Nov 17.
+
+Predicting the zoonotic capacity of mammals to transmit SARS-CoV-2.
+
+Fischhoff IR(1), Castellanos AA(1), Rodrigues JPGLM(2), Varsani A(3)(4), Han
+BA(1).
+
+Author information: 
+(1)Cary Institute of Ecosystem Studies, Box AB Millbrook, NY 12545, USA.
+(2)Department of Structural Biology, Stanford University School of Medicine,
+Stanford, CA 94305, USA.
+(3)The Biodesign Center for Fundamental and Applied Microbiomics, Center for
+Evolution and Medicine, School of Life Sciences, Arizona State University, Tempe,
+AZ 85287, USA.
+(4)Structural Biology Research Unit, Department of Integrative Biomedical
+Sciences, University of Cape Town, 7700 Cape Town, Rondebosch, South Africa.
+
+Update of
+    bioRxiv. 2021 Jun 29;:.
+
+Back and forth transmission of severe acute respiratory syndrome coronavirus 2
+(SARS-CoV-2) between humans and animals will establish wild reservoirs of virus
+that endanger long-term efforts to control COVID-19 in people and to protect
+vulnerable animal populations. Better targeting surveillance and laboratory
+experiments to validate zoonotic potential requires predicting high-risk host
+species. A major bottleneck to this effort is the few species with available
+sequences for angiotensin-converting enzyme 2 receptor, a key receptor required
+for viral cell entry. We overcome this bottleneck by combining species'
+ecological and biological traits with three-dimensional modelling of host-virus
+protein-protein interactions using machine learning. This approach enables
+predictions about the zoonotic capacity of SARS-CoV-2 for greater than 5000
+mammals-an order of magnitude more species than previously possible. Our
+predictions are strongly corroborated by in vivo studies. The predicted zoonotic 
+capacity and proximity to humans suggest enhanced transmission risk from several 
+common mammals, and priority areas of geographic overlap between these species
+and global COVID-19 hotspots. With molecular data available for only a small
+fraction of potential animal hosts, linking data across biological scales offers 
+a conceptual advance that may expand our predictive modelling capacity for
+zoonotic viruses with similarly unknown host ranges.
+
+DOI: 10.1098/rspb.2021.1651 
+PMID: 34784766  [Indexed for MEDLINE]
+

@@ -1,0 +1,39 @@
+
+1. Mol Membr Biol. 2013 Mar;30(2):129-37. doi: 10.3109/09687688.2012.743193. Epub
+2012 Nov 23.
+
+Probing the contacts of a low-affinity substrate with a membrane-embedded
+transport protein using 1H-13C cross-polarisation magic-angle spinning
+solid-state NMR.
+
+Patching SG(1), Henderson PJ, Sharples DJ, Middleton DA.
+
+Author information: 
+(1)School of Biomedical Sciences and Astbury Centre for Structural Molecular
+Biology, University of Leeds, UK. s.g.patching@leeds.ac.uk
+
+Solid-state NMR combined with sample deuteration was used to probe the proximity 
+of the low-affinity substrate D-glucose to its binding site within the
+Escherichia coli sugar transport protein GalP. Samples of E. coli inner membranes
+with amplified expression of GalP were incubated in D(2)O with
+D-[(13)C(6)]glucose and (13)C NMR signals from the substrate were assigned in
+two-dimensional dipolar-assisted rotational resonance (DARR) spectra. The signals
+were confirmed as representing D-glucose bound to GalP as the peaks were
+abolished after the substrate was displaced from the specific site with the
+inhibitor forskolin. The (13)C chemical shift values for D-[(13)C(6)]glucose in
+solution revealed some differences compared to those for ligand bound to GalP,
+the differences being most pronounced for positions C1 and C2, and especially for
+C1 in the α-anomer. (13)C cross-polarization build-up was measured for C1 and C2 
+of D-[(13)C(6)]glucose and D-[(2)H(7), (13)C(6)]glucose in GalP membranes
+suspended in D(2)O. The build-up curves for the deuterated substrate reflect
+intermolecular (1)H-(13)C interactions between the protein and the fully
+deuterated substrate; the signal build-up suggests that the α-anomer is situated 
+closer to the protein binding site than is the β-anomer, consistent with its
+relatively high signal intensities and more pronounced chemical shift changes in 
+the 2D-correlation spectra. These results demonstrate the utility of solid-state 
+NMR combined with sample deuteration for mapping the binding interface of low
+affinity ligands with membrane proteins.
+
+DOI: 10.3109/09687688.2012.743193 
+PMID: 23173920  [Indexed for MEDLINE]
+

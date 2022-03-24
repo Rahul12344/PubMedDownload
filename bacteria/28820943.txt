@@ -1,0 +1,35 @@
+
+1. J Chem Inf Model. 2017 Sep 25;57(9):2351-2357. doi: 10.1021/acs.jcim.7b00265.
+Epub 2017 Sep 1.
+
+Active Site Flexibility of Mycobacterium tuberculosis Isocitrate Lyase in Dimer
+Form.
+
+Lee YV(1), Choi SB(2), Wahab HA(2), Choong YS(1).
+
+Author information: 
+(1)Institute for Research in Molecular Medicine (INFORMM), Universiti Sains
+Malaysia , 11800 Minden, Penang, Malaysia.
+(2)Pharmaceutical Design and Simulation Laboratory, School of Pharmaceutical
+Sciences, Universiti Sains Malaysia , 11800 Minden, Penang, Malaysia.
+
+Tuberculosis (TB) still remains a global threat due to the emergence of a
+drug-resistant strain. Instead of focusing on the drug target of active stage TB,
+we are highlighting the isocitrate lyase (ICL) at the dormant stage TB. ICL is
+one of the persistent factors for Mycobacterium tuberculosis (MTB) to survive
+during the dormant phase. In addition, the absence of ICL in human has made ICL a
+potential drug target for TB therapy. However, the dynamic details of ICL which
+could give insights to the ICL-ligand interaction have yet to be solved.
+Therefore, a series of ICL dimer dynamics studies through molecular dynamics
+simulation were performed in this work. The ICL active site entrance gate closure
+is contributed to by hydrogen bonding and electrostatic interactions with the
+C-terminal. Analysis suggested that the open-closed behavior of the ICL active
+site entrance depends on the type of ligand present in the active site. We also
+observed four residues (Ser91, Asp108, Asp153, and Cys191) which could possibly
+be the nucleophiles for nucleophilic attack on the cleavage of isocitrate at the 
+C2-C3 bond. We hope that the elucidation of ICL dynamics can benefit future works
+such as lead identification or antibody design against ICL for TB therapeutics.
+
+DOI: 10.1021/acs.jcim.7b00265 
+PMID: 28820943  [Indexed for MEDLINE]
+

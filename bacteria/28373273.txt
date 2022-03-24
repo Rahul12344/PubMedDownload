@@ -1,0 +1,54 @@
+
+1. J Bacteriol. 2017 May 25;199(12). pii: e00089-17. doi: 10.1128/JB.00089-17. Print
+2017 Jun 15.
+
+Appropriate Regulation of the σE-Dependent Envelope Stress Response Is Necessary 
+To Maintain Cell Envelope Integrity and Stationary-Phase Survival in Escherichia 
+coli.
+
+Nicoloff H(1), Gopalkrishnan S(1), Ades SE(2).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, The Pennsylvania State
+University, University Park, Pennsylvania, USA.
+(2)Department of Biochemistry and Molecular Biology, The Pennsylvania State
+University, University Park, Pennsylvania, USA ades@psu.edu.
+
+The alternative sigma factor σE is a key component of the Escherichia coli
+response to cell envelope stress and is required for viability even in the
+absence of stress. The activity of σE increases during entry into stationary
+phase, suggesting an important role for σE when nutrients are limiting. Elevated 
+σE activity has been proposed to activate a pathway leading to the lysis of
+nonculturable cells that accumulate during early stationary phase. To better
+understand σE-directed cell lysis and the role of σE in stationary phase, we
+investigated the effects of elevated σE activity in cultures grown for 10 days.
+We demonstrate that high σE activity is lethal for all cells in stationary phase,
+not only those that are nonculturable. Spontaneous mutants with reduced σE
+activity, due primarily to point mutations in the region of σE that binds the -35
+promoter motif, arise and take over cultures within 5 to 6 days after entry into 
+stationary phase. High σE activity leads to large reductions in the levels of
+outer membrane porins and increased membrane permeability, indicating membrane
+defects. These defects can be counteracted and stationary-phase lethality delayed
+significantly by stabilizing membranes with Mg2+ and buffering the growth medium 
+or by deleting the σE-dependent small RNAs (sRNAs) MicA, RybB, and MicL, which
+inhibit the expression of porins and Lpp. Expression of these sRNAs also reverses
+the loss of viability following depletion of σE activity. Our results demonstrate
+that appropriate regulation of σE activity, ensuring that it is neither too high 
+nor too low, is critical for envelope integrity and cell viability.IMPORTANCE The
+Gram-negative cell envelope and cytoplasm differ significantly, and separate
+responses have evolved to combat stress in each compartment. An array of cell
+envelope stress responses exist, each of which is focused on different parts of
+the envelope. The σE response is conserved in many enterobacteria and is tuned to
+monitor pathways for the maturation and delivery of outer membrane porins,
+lipoproteins, and lipopolysaccharide to the outer membrane. The activity of σE is
+tightly regulated to match the production of σE regulon members to the needs of
+the cell. In E. coli, loss of σE results in lethality. Here we demonstrate that
+excessive σE activity is also lethal and results in decreased membrane integrity,
+the very phenotype the system is designed to prevent.
+
+Copyright © 2017 American Society for Microbiology.
+
+DOI: 10.1128/JB.00089-17 
+PMCID: PMC5446625
+PMID: 28373273  [Indexed for MEDLINE]
+

@@ -1,0 +1,29 @@
+
+1. Int J Mol Sci. 2021 Oct 24;22(21). pii: 11462. doi: 10.3390/ijms222111462.
+
+Mastrevirus Rep and RepA Proteins Suppress de novo Transcriptional Gene
+Silencing.
+
+Watanabe K(1), Ugaki M(1).
+
+Author information: 
+(1)Department of Integrated Biosciences, Graduate School of Frontier Sciences,
+The University of Tokyo, 5-1-5, Kashiwanoha, Kashiwa, Chiba 277-8562, Japan.
+
+Transcriptional gene silencing (TGS) in plants is a defense mechanism against DNA
+virus infection. The genomes of viruses in the Geminiviridae family encode
+several TGS suppressors. In this study, we induced de novo TGS against the
+transgenic GFP gene encoding green fluorescent protein by expressing a
+hairpin-shaped self-complementary RNA corresponding to the enhancer region of the
+35S promoter (hpE35S). In addition, we examined the TGS suppression activity of
+proteins encoded in the genome of Tobacco yellow dwarf virus (TYDV, genus
+Mastrevirus). The results show that the replication-associated protein (Rep) and 
+RepA encoded by TYDV have TGS suppressor activity and lead to decreased
+accumulation of 24-nt siRNAs. These results suggest that Rep and RepA can block
+the steps before the loading of siRNAs into Argonaute (AGO) proteins. This is the
+first report of TGS suppressors in the genus Mastrevirus.
+
+DOI: 10.3390/ijms222111462 
+PMCID: PMC8584122
+PMID: 34768892 
+

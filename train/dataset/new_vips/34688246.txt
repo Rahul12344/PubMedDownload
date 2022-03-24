@@ -1,0 +1,47 @@
+
+1. BMC Bioinformatics. 2021 Oct 23;22(1):517. doi: 10.1186/s12859-021-04429-5.
+
+TAGOPSIN: collating taxa-specific gene and protein functional and structural
+information.
+
+Bundhoo E(#)(1), Ghoorah AW(#)(2), Jaufeerally-Fakim Y(1).
+
+Author information: 
+(1)Department of Agricultural and Food Science, Faculty of Agriculture,
+University of Mauritius, Reduit, 80837, Mauritius.
+(2)Department of Digital Technologies, Faculty of Information, Communication and 
+Digital Technologies, University of Mauritius, Reduit, 80837, Mauritius.
+a.ghoorah@uom.ac.mu.
+(#)Contributed equally
+
+BACKGROUND: The wealth of biological information available nowadays in public
+databases has triggered an unprecedented rise in multi-database search and data
+retrieval for obtaining detailed information about key functional and structural 
+entities. This concerns investigations ranging from gene or genome analysis to
+protein structural analysis. However, the retrieval of interconnected data from a
+number of different databases is very often done repeatedly in an unsystematic
+way.
+RESULTS: Here, we present TAxonomy, Gene, Ontology, Protein, Structure INtegrated
+(TAGOPSIN), a command line program written in Java for rapid and systematic
+retrieval of select data from seven of the most popular public biological
+databases relevant to comparative genomics and protein structure studies. The
+program allows a user to retrieve organism-centred data and assemble them in a
+single data warehouse which constitutes a useful resource for several biological 
+applications. TAGOPSIN was tested with a number of organisms encompassing
+eukaryotes, prokaryotes and viruses. For example, it successfully integrated data
+for about 17,000 UniProt entries of Homo sapiens and 21 UniProt entries of human 
+coronavirus.
+CONCLUSION: TAGOPSIN demonstrates efficient data integration whereby manipulation
+of interconnected data is more convenient than doing multi-database queries. The 
+program facilitates for instance interspecific comparative analyses of
+protein-coding genes in a molecular evolutionary study, or identification of
+taxa-specific protein domains and three-dimensional structures. TAGOPSIN is
+available as a JAR file at https://github.com/ebundhoo/TAGOPSIN and is released
+under the GNU General Public License.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12859-021-04429-5 
+PMCID: PMC8541804
+PMID: 34688246  [Indexed for MEDLINE]
+

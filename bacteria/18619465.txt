@@ -1,0 +1,38 @@
+
+1. J Mol Biol. 2008 Oct 31;383(1):1-9. doi: 10.1016/j.jmb.2008.06.058. Epub 2008 Jun
+28.
+
+Down-regulation of outer membrane proteins by noncoding RNAs: unraveling the
+cAMP-CRP- and sigmaE-dependent CyaR-ompX regulatory case.
+
+Johansen J(1), Eriksen M, Kallipolitis B, Valentin-Hansen P.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, University of Southern
+Denmark, Odense M, Denmark.
+
+The sigma(E) (extracytoplasmic stress response sigma factor in Escherichia coli) 
+signaling system of Gram-negative bacteria plays an essential role in the
+maintenance of the extracytoplasmic compartment. Upon induction of this system,
+approximately 100 genes are up-regulated. The majority of these genes encode
+proteins that participate in the synthesis, assembly, and homeostasis of outer
+membrane proteins and lipopolysaccharides. A second aspect of the sigma(E)
+response is a regulatory loop that prevents expression of the major porins.
+Misfolding or overproduction of most of these porins is sufficient to trigger the
+envelope stress response. Recent work indicates that small Hfq-binding RNAs play 
+a major role in maintaining envelope homeostasis and, so far, two
+sigma(E)-dependent small noncoding RNAs (sRNAs), MicA and RybB, have been shown
+to facilitate rapid removal of multiple omp transcripts in response to elevated
+activity of the alternative sigma factor. Here we report the identification of
+the sRNA (CyaR, cyclic AMP-activated RNA) that promotes decay of the ompX mRNA.
+The transcription of the cyaR gene is stringently controlled by cAMP-cAMP
+receptor protein and, unexpectedly, cyaR expression is also up-regulated,
+directly or indirectly, by sigma(E). In addition, this work identified MicA as a 
+factor that cooperates in the negative control of ompX expression. The
+conservation of CyaR, MicA, RybB, and their targets suggests that the omp
+mRNA-sRNA regulatory network is an integral part of the envelope stress response 
+in many enterobacteria.
+
+DOI: 10.1016/j.jmb.2008.06.058 
+PMID: 18619465  [Indexed for MEDLINE]
+

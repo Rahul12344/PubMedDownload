@@ -1,0 +1,103 @@
+
+1. Nat Immunol. 2021 Dec 1. doi: 10.1038/s41590-021-01084-z. [Epub ahead of print]
+
+An immunodominant NP105-113-B*07:02 cytotoxic T cell response controls viral
+replication and is associated with less severe COVID-19 disease.
+
+Peng Y(#)(1)(2), Felce SL(#)(2)(3)(4), Dong D(#)(1)(2)(5), Penkava F(#)(6),
+Mentzer AJ(#)(3)(4), Yao X(#)(2)(4), Liu G(#)(2)(4)(7), Yin Z(#)(1)(2)(4), Chen
+JL(#)(1)(2), Lu Y(8), Wellington D(1)(2), Wing PAC(2)(4), Dominey-Foy DCC(2)(4), 
+Jin C(2)(4), Wang W(2)(4), Hamid MA(2)(4), Fernandes RA(2)(4), Wang B(2)(4),
+Fries A(3)(4), Zhuang X(4), Ashley N(9), Rostron T(10), Waugh C(11), Sopp P(11), 
+Hublitz P(12), Beveridge R(13), Tan TK(1), Dold C(14), Kwok AJ(3)(4),
+Rich-Griffin C(3), Dejnirattisa W(3)(4), Liu C(2)(3)(4), Kurupati P(1), Nassiri
+I(3)(15)(16), Watson RA(15)(16), Tong O(15)(16), Taylor CA(15)(16), Kumar Sharma 
+P(15)(16), Sun B(3), Curion F(3)(17), Revale S(3), Garner LC(16)(18), Jansen
+K(19), Ferreira RC(3), Attar M(19), Fry JW(20), Russell RA(21); COMBAT
+Consortium, Stauss HJ(22), James W(23), Townsend A(1)(2), Ho LP(1), Klenerman
+P(18)(24), Mongkolsapaya J(2)(3)(4)(25), Screaton GR(2)(3)(4), Dendrou C(3),
+Sansom SN(19), Bashford-Rogers R(3), Chain B(26), Smith GL(8), McKeating
+JA(2)(4), Fairfax BP(15)(16), Bowness P(6), McMichael AJ(2)(4), Ogg G(1)(2),
+Knight JC(27)(28)(29), Dong T(30)(31)(32).
+
+Author information: 
+(1)MRC Human Immunology Unit, MRC Weatherall Institute of Molecular Medicine,
+Radcliffe Department of Medicine, University of Oxford, Oxford, UK.
+(2)Chinese Academy of Medical Science Oxford Institute, University of Oxford,
+Oxford, UK.
+(3)Wellcome Centre for Human Genetics, University of Oxford, Oxford, UK.
+(4)Nuffield Department of Medicine, University of Oxford, Oxford, UK.
+(5)CAMS Key Laboratory of Tumor Immunology and Radiation Therapy, Xinjiang Tumor 
+Hospital, Xinjiang Medical University, Urumqi, China.
+(6)Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal
+Sciences, University of Oxford, Oxford, UK.
+(7)Beijing You'an Hospital, Capital Medical University, Beijing, China.
+(8)Department of Pathology, University of Cambridge, Cambridge, UK.
+(9)Single Cell Facility, MRC Weatherall Institute of Molecular Medicine,
+University of Oxford, Oxford, UK.
+(10)Sequencing Facility, MRC Weatherall Institute of Molecular Medicine,
+University of Oxford, Oxford, UK.
+(11)Flow Cytometry Facility, MRC Weatherall Institute of Molecular Medicine,
+University of Oxford, Oxford, UK.
+(12)Genome Engineering Facility, MRC Weatherall Institute of Molecular Medicine, 
+University of Oxford, Oxford, UK.
+(13)Virus Screening Facility, MRC Weatherall Institute of Molecular Medicine,
+University of Oxford, Oxford, UK.
+(14)Oxford Vaccine Group, Department of Paediatrics, and NIHR Oxford Biomedical
+Research Centre, Centre for Clinical Vaccinology and Tropical Medicine,
+University of Oxford, Oxford, UK.
+(15)Department of Oncology, University of Oxford, Oxford, UK.
+(16)MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford,
+UK.
+(17)Helmholtz Center Munich-German Research Center for Environmental Health,
+Institute of Computational Biology, Neuherberg, Germany.
+(18)Translational Gastroenterology Unit, Nuffield Department of Medicine,
+University of Oxford, Oxford, UK.
+(19)Kennedy Institute for Rheumatology, University of Oxford, Oxford, UK.
+(20)ProImmune Limited, Oxford, UK.
+(21)Sir William Dunn School of Pathology, University of Oxford, Oxford, UK.
+(22)Institute of Immunity and Transplantation, University College London, London,
+UK.
+(23)James & Lillian Martin Centre, Sir William Dunn School of Pathology,
+University of Oxford, Oxford, UK.
+(24)Peter Medawar Building for Pathogen Research, University of Oxford, Oxford,
+UK.
+(25)Dengue Hemorrhagic Fever Research Unit, Office for Research and Development, 
+Faculty of Medicine, Siriaj Hospital, Mahidol Unviversity, Bangkok, Thailand.
+(26)Division of Infection and Immunity, University College London, London, UK.
+(27)Chinese Academy of Medical Science Oxford Institute, University of Oxford,
+Oxford, UK. julian.knight@well.ox.ac.uk.
+(28)Wellcome Centre for Human Genetics, University of Oxford, Oxford, UK.
+julian.knight@well.ox.ac.uk.
+(29)Nuffield Department of Medicine, University of Oxford, Oxford, UK.
+julian.knight@well.ox.ac.uk.
+(30)MRC Human Immunology Unit, MRC Weatherall Institute of Molecular Medicine,
+Radcliffe Department of Medicine, University of Oxford, Oxford, UK.
+tao.dong@imm.ox.ac.uk.
+(31)Chinese Academy of Medical Science Oxford Institute, University of Oxford,
+Oxford, UK. tao.dong@imm.ox.ac.uk.
+(32)Nuffield Department of Medicine, University of Oxford, Oxford, UK.
+tao.dong@imm.ox.ac.uk.
+(#)Contributed equally
+
+NP105-113-B*07:02-specific CD8+ T cell responses are considered among the most
+dominant in SARS-CoV-2-infected individuals. We found strong association of this 
+response with mild disease. Analysis of NP105-113-B*07:02-specific T cell clones 
+and single-cell sequencing were performed concurrently, with functional avidity
+and antiviral efficacy assessed using an in vitro SARS-CoV-2 infection system,
+and were correlated with T cell receptor usage, transcriptome signature and
+disease severity (acute n = 77, convalescent n = 52). We demonstrated a
+beneficial association of NP105-113-B*07:02-specific T cells in COVID-19 disease 
+progression, linked with expansion of T cell precursors, high functional avidity 
+and antiviral effector function. Broad immune memory pools were narrowed
+postinfection but NP105-113-B*07:02-specific T cells were maintained 6 months
+after infection with preserved antiviral efficacy to the SARS-CoV-2 Victoria
+strain, as well as Alpha, Beta, Gamma and Delta variants. Our data show that
+NP105-113-B*07:02-specific T cell responses associate with mild disease and high 
+antiviral efficacy, pointing to inclusion for future vaccine design.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41590-021-01084-z 
+PMID: 34853448 
+

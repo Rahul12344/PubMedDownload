@@ -1,0 +1,46 @@
+
+1. Sci Rep. 2021 Oct 28;11(1):21291. doi: 10.1038/s41598-021-00797-3.
+
+Virtual 2D mapping of the viral proteome reveals host-specific modality
+distribution of molecular weight and isoelectric point.
+
+Mohanta TK(#)(1), Mishra AK(#)(2), Mohanta YK(3), Al-Harrasi A(4).
+
+Author information: 
+(1)Department of Biotech and Omics, Natural and Medical Sciences Research Center,
+University of Nizwa, Nizwa, 616, Oman. tapan.mohanta@unizwa.edu.om.
+(2)Department of Biotechnology, Yeungnam University, Gyeongsan, 48541, South
+Korea.
+(3)Department of Applied Biology, School of Biological Sciences, University of
+Science and Technology Meghalaya, Techno City, Baridua, Ri-Bhoi, Meghalaya,
+793101, India.
+(4)Department of Biotech and Omics, Natural and Medical Sciences Research Center,
+University of Nizwa, Nizwa, 616, Oman. aharrasi@unizwa.edu.om.
+(#)Contributed equally
+
+A proteome-wide study of the virus kingdom based on 1.713 million protein
+sequences from 19,128 virus proteomes was conducted to construct an overall
+proteome map of the virus kingdom. Viral proteomes encode an average of 386.214
+amino acids per protein with the variation in the number of protein-coding
+sequences being host-specific. The proteomes of viruses of fungi hosts (882.464) 
+encoded the greatest number of amino acids, while the viral proteome of bacterial
+host (210.912) encoded the smallest number of amino acids. Viral proteomes were
+found to have a host-specific amino acid composition. Leu (8.556%) was the most
+abundant and Trp (1.274%) the least abundant amino acid in the collective
+proteome of viruses. Viruses were found to exhibit a host-dependent molecular
+weight and isoelectric point of encoded proteins. The isoelectric point (pI) of
+viral proteins was found in the acidic range, having an average pI of 6.89.
+However, the pI of viral proteins of algal (pI 7.08) and vertebrate (pI 7.09)
+hosts was in the basic range. The virtual 2D map of the viral proteome from
+different hosts exhibited host-dependent modalities. The virus proteome from
+algal hosts and archaea exhibited a bimodal distribution of molecular weight and 
+pI, while the virus proteome of bacterial host exhibited a trimodal distribution,
+and the virus proteome of fungal, human, land plants, invertebrate, protozoa, and
+vertebrate hosts exhibited a unimodal distribution.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-00797-3 
+PMCID: PMC8553790
+PMID: 34711905 
+

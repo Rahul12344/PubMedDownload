@@ -1,0 +1,34 @@
+
+1. Nucleic Acids Res. 2007;35(6):e43. Epub 2007 Feb 20.
+
+Vectors for co-expression of an unrestricted number of proteins.
+
+Scheich C(1), Kümmel D, Soumailakakis D, Heinemann U, Büssow K.
+
+Author information: 
+(1)Max Planck Institute for Molecular Genetics, Department of Vertebrate
+Genomics, Berlin, Germany.
+
+A vector system is presented that allows generation of E. coli co-expression
+clones by a standardized, robust cloning procedure. The number of co-expressed
+proteins is not limited. Five 'pQLink' vectors for expression of His-tag and
+GST-tag fusion proteins as well as untagged proteins and for cloning by
+restriction enzymes or Gateway cloning were generated. The vectors allow proteins
+to be expressed individually; to achieve co-expression, two pQLink plasmids are
+combined by ligation-independent cloning. pQLink co-expression plasmids can
+accept an unrestricted number of genes. As an example, the co-expression of a
+heterotetrameric human transport protein particle (TRAPP) complex from a single
+plasmid, its isolation and analysis of its stoichiometry are shown. pQLink clones
+can be used directly for pull-down experiments if the proteins are expressed with
+different tags. We demonstrate pull-down experiments of human valosin-containing 
+protein (VCP) with fragments of the autocrine motility factor receptor (AMFR).
+The cloning method avoids PCR or gel isolation of restriction fragments, and a
+single resistance marker and origin of replication are used, allowing
+over-expression of rare tRNAs from a second plasmid. It is expected that
+applications are not restricted to bacteria, but could include co-expression in
+other hosts such as Bacluovirus/insect cells.
+
+DOI: 10.1093/nar/gkm067 
+PMCID: PMC1874614
+PMID: 17311810  [Indexed for MEDLINE]
+

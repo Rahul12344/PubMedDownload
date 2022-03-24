@@ -1,0 +1,46 @@
+
+1. Oncotarget. 2015 Jan 20;6(2):1286-301.
+
+A class of genes in the HER2 regulon that is poised for transcription in breast
+cancer cell lines and expressed in human breast tumors.
+
+Rahmatpanah FB(1), Jia Z(1)(2)(3), Chen X(1), Char JE(1), Men B(1), Franke AC(1),
+Jones FE(4), McClelland M(1)(5), Mercola D(1).
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, University of California,
+Irvine, CA, USA.
+(2)Department of Statistics, University of Akron, Akron, Ohio, USA.
+(3)Department of Family and Community Medicine, Northeast Ohio Medical
+University, Rootstown, Ohio, USA.
+(4)Department of Cell and Molecular Biology, Tulane University, New Orleans,
+Louisiana, USA.
+(5)Department of Microbiology and Molecular Genetics, University of California,
+Irvine, CA, USA.
+
+HER2-positive breast cancer accounts for 25% of all cases and has a poor
+prognosis. Although progress has been made in understanding signal transduction, 
+little is known of how HER2 achieves gene regulation. We performed whole genome
+expression analysis on a HER2⁺ and HER2⁻ breast cancer cell lines and compared
+these results to expression in 812 primary tumors stratified by their HER2
+expression level. Chip-on-chip with anti-RNA polymerase II was compared among
+breast cancer cell lines to identify genes that are potentially activated by
+HER2. The expression levels of these HER2-dependent POL II binding genes were
+determined for the 812 HER2+/- breast cancer tissues. Genes differentially
+expressed between HER2+/- cell lines were generally regulated in the same
+direction as in breast cancer tissues. We identified genes that had POLII binding
+in HER2⁺ cell lines, but without significant gene expression. Of 737 such genes
+"poised" for expression in cell lines, 113 genes were significantly
+differentially expressed in breast tumors in a HER2-dependent manner. Pathway
+analysis of these 113 genes revealed that a large group of genes were associated 
+with stem cell and progenitor cell control as indicated by networks centered on
+NANOG, SOX2, OCT3/4. HER2 directs POL II binding to a large number of genes in
+breast cancer cells. A "poised" class of genes in HER2⁺ cell lines with POLII
+binding and low RNA expression but is differentially expressed in primary tumors,
+strongly suggests a role of the microenvironment and further suggests a role for 
+stem cells proliferation in HER2-regulated breast cancer tissue.
+
+DOI: 10.18632/oncotarget.2676 
+PMCID: PMC4359233
+PMID: 25428913  [Indexed for MEDLINE]
+

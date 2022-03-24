@@ -1,0 +1,45 @@
+
+1. J Biol Chem. 2011 Feb 25;286(8):6479-89. doi: 10.1074/jbc.M110.206722. Epub 2010 
+Dec 21.
+
+Glycoside hydrolase family 89 alpha-N-acetylglucosaminidase from Clostridium
+perfringens specifically acts on GlcNAc alpha1,4Gal beta1R at the non-reducing
+terminus of O-glycans in gastric mucin.
+
+Fujita M(1), Tsuchida A, Hirata A, Kobayashi N, Goto K, Osumi K, Hirose Y,
+Nakayama J, Yamanoi T, Ashida H, Mizuno M.
+
+Author information: 
+(1)Noguchi Institute, 1-8-1 Kaga, Itabashi, Tokyo 173-0003, Japan.
+fujita@noguchi.or.jp
+
+In mammals, α-linked GlcNAc is primarily found in heparan sulfate/heparin and
+gastric gland mucous cell type mucin. α-N-acetylglucosaminidases (αGNases)
+belonging to glycoside hydrolase family 89 are widely distributed from bacteria
+to higher eukaryotes. Human lysosomal αGNase is well known to degrade heparin and
+heparan sulfate. Here, we reveal the substrate specificity of αGNase (AgnC) from 
+Clostridium perfringens strain 13, a bacterial homolog of human αGNase, by
+chemically synthesizing a series of disaccharide substrates containing α-linked
+GlcNAc. AgnC was found to release GlcNAc from GlcNAcα1,4Galβ1pMP and GlcNAcα1pNP 
+substrates (where pMP and pNP represent p-methoxyphenyl and p-nitrophenyl,
+respectively). AgnC also released GlcNAc from porcine gastric mucin and cell
+surface mucin. Because AgnC showed no activity against any of the
+GlcNAcα1,2Galβ1pMP, GlcNAcα1,3Galβ1pMP, GlcNAcα1,6Galβ1pMP, and
+GlcNAcα1,4GlcAβ1pMP substrates, this enzyme may represent a specific glycosidase 
+required for degrading α-GlcNAc-capped O-glycans of the class III mucin secreted 
+from the stomach and duodenum. Deletion of the C-terminal region containing
+several carbohydrate-binding module 32 (CBM32) domains significantly reduced the 
+activity for porcine gastric mucin; however, activity against GlcNAcα1,4Galβ1pMP 
+was markedly enhanced. Dot blot and ELISA analyses revealed that the deletion
+construct containing the C-terminal CBM-C2 to CBM-C6 domains binds strongly to
+porcine gastric mucin. Consequently, tandem CBM32 domains located near the C
+terminus of AgnC should function by increasing the affinity for branched or
+clustered α-GlcNAc-containing glycans. The agnC gene-disrupted strain showed
+significantly reduced growth on the class III mucin-containing medium compared
+with the wild type strain, suggesting that AgnC might have an important role in
+dominant growth in intestines.
+
+DOI: 10.1074/jbc.M110.206722 
+PMCID: PMC3057825
+PMID: 21177247  [Indexed for MEDLINE]
+

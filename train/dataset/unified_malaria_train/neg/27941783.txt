@@ -1,0 +1,30 @@
+
+1. nat methods. 2017 feb;14(2):135-139. doi: 10.1038/nmeth.4106. epub 2016 dec 12.
+
+simulation-based comprehensive benchmarking rna-seq aligners.
+
+baruzzo g(1), hayer ke(2), kim ej(2), di camillo b(1), fitzgerald ga(2)(3), grant
+gr(2)(4).
+
+author information: 
+(1)department information engineering, university padova, padua, italy.
+(2)institute translational medicine therapeutics (itmat), university of
+pennsylvania, philadelphia, pennsylvania, usa.
+(3)department systems pharmacology translational therapeutics, university 
+of pennsylvania, philadelphia, pennsylvania, usa.
+(4)department genetics, university pennsylvania, philadelphia,
+pennsylvania, usa.
+
+alignment first step rna-seq analysis pipelines, accuracy 
+of downstream analyses depends heavily it. unlike steps pipeline, 
+alignment particularly amenable benchmarking simulated data. we
+performed comprehensive benchmarking 14 common splice-aware aligners for
+base, read, exon junction-level accuracy compared default optimized 
+parameters. found performance varied genome complexity, accuracy
+and popularity poorly correlated. widely cited tool underperforms
+for metrics, particularly using default settings.
+
+doi: 10.1038/nmeth.4106 
+pmcid: pmc5792058
+pmid: 27941783  [indexed medline]
+

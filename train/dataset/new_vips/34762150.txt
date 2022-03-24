@@ -1,0 +1,49 @@
+
+1. Arch Virol. 2021 Nov 11. doi: 10.1007/s00705-021-05299-1. [Epub ahead of print]
+
+Complete genome analysis of a nege-like virus in aphids (Astegopteryx formosana).
+
+Zhang XD(1), Lu G(1), Ye ZX(1), Chen JP(1), Zhang CX(1), Li JM(2).
+
+Author information: 
+(1)State Key Laboratory for Managing Biotic and Chemical Threats to the Quality
+and Safety of Agro-products, Key Laboratory of Biotechnology in Plant Protection 
+of Ministry of Agriculture and Zhejiang Province, Institute of Plant Virology,
+Ningbo University, Ningbo, 315211, China.
+(2)State Key Laboratory for Managing Biotic and Chemical Threats to the Quality
+and Safety of Agro-products, Key Laboratory of Biotechnology in Plant Protection 
+of Ministry of Agriculture and Zhejiang Province, Institute of Plant Virology,
+Ningbo University, Ningbo, 315211, China. lijunmin@nbu.edu.cn.
+
+Negeviruses are a group of insect-specific viruses that have a wide geographic
+distribution and broad host range. In recent years, nege-like viruses have been
+discovered in aphids of various genera of the family Aphididae, including Aphis, 
+Rhopalosiphum, Sitobion, and Indomegoura. Here, we report the complete genome
+sequence of a nege-like virus isolated from Astegopteryx formosana aphids
+collected in Guangdong, China, which we have designated as "Astegopteryx
+formosana nege-like virus" (AFNLV). AFNLV has a genome length of 10,107 nt
+(excluding the polyA tail) and possesses the typical conserved domains of
+negeviruses. These include a viral methyltransferase, an
+S-adenosylmethionine-dependent methyltransferase, a viral helicase, and an
+RNA-dependent RNA polymerase (RdRP) domain in open reading frame 1 (ORF1), a
+DiSB-ORF2_chro domain in ORF2, and a SP24 domain in ORF3. The genome of AFNLV
+shares the highest nucleotide sequence identity (74.89%) with Wuhan house
+centipede virus, identified in a mixture of barley aphids. As clearly revealed by
+RdRP-based phylogenetic analysis, AFNLV, together with other negeviruses and
+nege-like viruses discovered in aphids, formed a distinct "unclassified clade"
+closely related to members of the proposed genus "Sandewavirus" and the family
+Kitaviridae. In addition, small interfering RNAs (siRNAs) derived from AFNLV did 
+not exhibit typical characteristics of virus-derived siRNAs processed by the host
+RNAi-based antiviral pathway. However, the extremely high abundance of viral
+transcripts (average read coverage 73,403X) strongly suggested that AFNLV might
+actively replicate in the aphid host. AFNLV described in this study is the first 
+nege-like virus discovered in aphids of the genus Astegopteryx, which will
+contribute to future study of the co-evolution of nege/nege-like viruses and
+their host aphids.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Austria,
+part of Springer Nature.
+
+DOI: 10.1007/s00705-021-05299-1 
+PMID: 34762150 
+

@@ -1,0 +1,45 @@
+
+1. bmc genomics. 2017 jan 19;18(1):100. doi: 10.1186/s12864-017-3504-1.
+
+parasite infection public databases: data mining approach identify
+apicomplexan contaminations animal genome transcriptome assemblies.
+
+borner j(1), burmester t(2).
+
+author information: 
+(1)institute zoology, biocenter grindel, university hamburg,
+martin-luther-king-platz 3, d-20146, hamburg, germany.
+janus.borner@uni-hamburg.de.
+(2)institute zoology, biocenter grindel, university hamburg,
+martin-luther-king-platz 3, d-20146, hamburg, germany.
+thorsten.burmester@uni-hamburg.de.
+
+background: contaminations various exogenous sources common problem in
+next-generation sequencing. another possible source contaminating dna are
+endogenous parasites. one hand, undiscovered contaminations animal
+sequence assemblies may lead erroneous interpretation data; other
+hand, identified, parasite-derived sequences may provide valuable source
+of information.
+results: show sequences deriving apicomplexan parasites 
+found many animal genome transcriptome projects, cases
+derived infection sequenced host specimen. apicomplexan
+sequences extracted sequence assemblies using newly developed
+bioinformatic pipeline (contamfinder) tentatively assigned distinct taxa
+employing phylogenetic methods. analysed 920 assemblies found 20,907
+contigs apicomplexan origin 51 datasets. contaminating species
+were identified members apicomplexan taxa gregarinasina, coccidia,
+piroplasmida, haemosporida. example, platypus genome assembly, 
+found high number contigs derived piroplasmid parasite (presumably
+theileria ornithorhynchi). infecting parasite species, no
+molecular data available previously, datasets contain
+sequences representing large amounts parasite's gene repertoire.
+conclusion: study suggests parasite-derived contaminations represent a
+valuable source information help discover identify new
+parasites, provide information previously unknown host-parasite
+interactions. we, therefore, argue uncurated assembly data routinely 
+be made available addition final assemblies.
+
+doi: 10.1186/s12864-017-3504-1 
+pmcid: pmc5244568
+pmid: 28103801  [indexed medline]
+

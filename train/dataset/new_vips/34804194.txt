@@ -1,0 +1,49 @@
+
+1. Comput Math Methods Med. 2021 Nov 10;2021:6276480. doi: 10.1155/2021/6276480.
+eCollection 2021.
+
+The Identification of Candidate Biomarkers and Pathways in Atherosclerosis by
+Integrated Bioinformatics Analysis.
+
+Lu Y(1), Zhang X(1), Hu W(2), Yang Q(1).
+
+Author information: 
+(1)Department of Geriatrics, Minhang Hospital, Fudan University, 170 Xinsong
+Road, Shanghai 201199, China.
+(2)Department of Cardiology, Minhang Hospital, Fudan University, 170 Xinsong
+Road, Shanghai, China 201199.
+
+Background: Atherosclerosis (AS) is a type of yellow substance containing
+cholesterol in the intima of large and middle arteries, which is mostly caused by
+fat metabolism disorders and neurovascular dysfunction.
+Materials and Methods: The GSE100927 data got analyzed to find out the
+differentially expressed genes (DEGs) using the limma package in R software. Gene
+Ontology (GO) and the Kyoto Encyclopedia of Genes and Genomes (KEGG) analyses of 
+the DEGs were assessed by the Database for Annotation, Visualization, and
+Integrated Discovery (DAVID). The Search Tool for the Retrieval of Interacting
+Genes (STRING) visualized the Protein-Protein Interaction (PPI) network of the
+aggregated DEGs. GSEA software was used to verify the biological process.
+Result: We screened 1574 DEGs from 69 groups of atherosclerotic carotid artery
+and 35 groups of control carotid artery, including 1033 upregulated DEGs and 541 
+downregulated DEGs. DEGs of AS were chiefly related to immune response,
+Epstein-Barr virus infection, vascular smooth muscle contraction, and cGMP-PKG
+signaling pathway. Through PPI networks, we found that the hub genes of AS were
+PTAFR, VAMP8, RNF19A, VPRBP, RNF217, KLHL42, NEDD4, SH3RF1, UBE2N, PJA2, RNF115, 
+ITCH, SKP1, FBXW4, and UBE2H. GSEA analysis showed that GSE100927 was
+concentrated in RIPK1-mediated regulated necrosis, FC epsilon receptor fceri
+signaling, Fceri-mediated NF KB activation, TBC rabgaps, TRAF6-mediated induction
+of TAK1 complex within TLR4 complex, and RAB regulation of trafficking.
+Conclusion: Our analysis reveals that immune response, Epstein-Barr virus
+infection, and so on were major signatures of AS. PTAFR, VAMP8, VPRBP, RNF217,
+KLHL42, and NEDD4 might facilitate the AS tumorigenesis, which could be new
+biomarkers for diagnosis and therapy of AS.
+
+Copyright © 2021 Youwei Lu et al.
+
+DOI: 10.1155/2021/6276480 
+PMCID: PMC8598374
+PMID: 34804194 
+
+Conflict of interest statement: The authors declare that they have no conflicts
+of interest.
+

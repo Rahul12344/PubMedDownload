@@ -1,0 +1,44 @@
+
+1. Viruses. 2021 Sep 28;13(10). pii: 1949. doi: 10.3390/v13101949.
+
+The Holin-Endolysin Lysis System of the OP2-Like Phage X2 Infecting Xanthomonas
+oryzae pv. oryzae.
+
+Wu Z(1), Zhang Y(1), Xu X(1), Ahmed T(1), Yang Y(2), Loh B(3), Leptihn S(3), Yan 
+C(2)(4), Chen J(2)(4), Li B(1).
+
+Author information: 
+(1)State Key Laboratory of Rice Biology and Ministry of Agriculture Key
+Laboratory of Molecular Biology of Crop Pathogens and Insects, Institute of
+Biotechnology, Zhejiang University, Hangzhou 310058, China.
+(2)State Key Laboratory for Managing Biotic and Chemical Threats to the Quality
+and Safety of Agro-Products, Institute of Virology and Biotechnology, Zhejiang
+Academy of Agricultural Sciences, Hangzhou 310021, China.
+(3)University of Edinburgh Institute, Zhejiang University, Hangzhou 314400,
+China.
+(4)Institute of Plant Virology, Ningbo University, Ningbo 315211, China.
+
+Most endolysins of dsDNA phages are exported by a holin-dependent mechanism,
+while in some cases endolysins are exported via a holin-independent mechanism.
+However, it is still unclear whether the same endolysins can be exported by both 
+holin-dependent and holin-independent mechanisms. This study investigated the
+lysis system of OP2-like phage X2 infecting Xanthomonas oryzae pv. oryzae,
+causing devastating bacterial leaf blight disease in rice. Based on
+bioinformatics and protein biochemistry methods, we show that phage X2 employs
+the classic "holin-endolysin" lysis system. The endolysin acts on the cell
+envelope and exhibits antibacterial effects in vitro, while the holin facilitates
+the release of the protein into the periplasm. We also characterized the role of 
+the transmembrane domain (TMD) in the translocation of the endolysin across the
+inner membrane. We found that the TMD facilitated the translocation of the
+endolysin via the Sec secretion system. The holin increases the efficiency of
+protein release, leading to faster and more efficient lysis. Interestingly, in E.
+coli, the expression of either holin or endolysin with TMDs resulted in the
+formation of long rod shaped cells. We conclude that the TMD of X2-Lys plays a
+dual role: One is the transmembrane transport while the other is the inhibition
+of cell division, resulting in larger cells and thus in a higher number of
+released viruses per cell.
+
+DOI: 10.3390/v13101949 
+PMCID: PMC8541568
+PMID: 34696380 
+

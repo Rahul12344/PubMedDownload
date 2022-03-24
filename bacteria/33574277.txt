@@ -1,0 +1,60 @@
+
+1. NPJ Genom Med. 2021 Feb 11;6(1):9. doi: 10.1038/s41525-021-00171-2.
+
+Mapping of susceptible variants for cold medicine-related Stevens-Johnson
+syndrome by whole-genome resequencing.
+
+Kawai Y(#)(1)(2), Hitomi Y(#)(1)(3), Ueta M(#)(4), Khor SS(#)(1)(2), Nakatani
+K(1), Sotozono C(5), Kinoshita S(6), Nagasaki M(7)(8)(9), Tokunaga K(10)(11).
+
+Author information: 
+(1)Department of Human Genetics, Graduate School of Medicine, The University of
+Tokyo, Tokyo, Japan.
+(2)Genome Medical Science Project (Toyama), National Center for Global Health and
+Medicine, Tokyo, Japan.
+(3)Department of Microbiology, Hoshi University School of Pharmacy and
+Pharmaceutical Sciences, Tokyo, Japan.
+(4)Department of Frontier Medical Science and Technology for Ophthalmology, Kyoto
+Prefectural University of Medicine, Kyoto, Japan. mueta@koto.kpu-m.ac.jp.
+(5)Department of Ophthalmology, Kyoto Prefectural University of Medicine, Kyoto, 
+Japan.
+(6)Department of Frontier Medical Science and Technology for Ophthalmology, Kyoto
+Prefectural University of Medicine, Kyoto, Japan.
+(7)Department of Integrative Genomics, Tohoku Medical Megabank Organization,
+Tohoku University, Sendai, Japan.
+(8)Human Biosciences Unit for the Top Global Course Center for the Promotion of
+Interdisciplinary Education and Research, Kyoto University, Kyoto, Japan.
+(9)Center for Genomic Medicine, Graduate School of Medicine, Kyoto University,
+Kyoto, Japan.
+(10)Department of Human Genetics, Graduate School of Medicine, The University of 
+Tokyo, Tokyo, Japan. katokunaga@ri.ncgm.go.jp.
+(11)Genome Medical Science Project (Toyama), National Center for Global Health
+and Medicine, Tokyo, Japan. katokunaga@ri.ncgm.go.jp.
+(#)Contributed equally
+
+Stevens-Johnson syndrome (SJS) and its severe condition with extensive skin
+detachment and a poor prognosis, toxic epidermal necrolysis (TEN), are
+immunologically mediated severe cutaneous reactions of the skin and mucous
+membranes such as the ocular surface. Genetic variations on the HLA-A and other
+autosomal genes have been identified as risk factors for cold medicine-related
+SJS/TEN with severe ocular complications (CM-SJS/TEN with SOC). Using a
+whole-genome sequencing (WGS) approach, we explored other susceptible variants of
+CM-SJS/TEN with SOC, especially among rare variants and structural variants
+(SVs). WGS was performed on samples from 133 patients with CM-SJS/TEN with SOC
+and 418 healthy controls to obtain single nucleotide polymorphisms (SNPs) and
+SVs. Genome-wide association tests were performed with these variants. Our
+genome-wide association test reproduced the associations of the common variants
+of HLA-A and loci on chromosome 16q12.1. We also identified novel associations of
+SVs on these loci and an aggregation of rare coding variants on the TPRM8 gene.
+In silico gene expression analysis on the HLA-A locus revealed that the SNP
+(rs12202296), which was significantly associated with susceptibility to
+CM-SJS/TEN with SOC, was correlated to an increase in HLA-A expression levels in 
+the whole blood (P = 2.9 × 10-17), from the GTEx database. The majority of
+variants that were significantly associated with CM-SJS/TEN with SOC were found
+in non-coding regions, indicating the regulatory role of genetic variations in
+the pathogenesis of CM-SJS/TEN with SOC.
+
+DOI: 10.1038/s41525-021-00171-2 
+PMCID: PMC7878485
+PMID: 33574277 
+

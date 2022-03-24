@@ -1,0 +1,50 @@
+
+1. J Med Virol. 2021 Jan 19. doi: 10.1002/jmv.26794. [Epub ahead of print]
+
+A U-shaped association between baseline neutrophil count and COVID-19-related
+mortality: A retrospective cohort study.
+
+Fu W(1), Chen C(2), Chen XL(3), Wang K(4), Zuo P(5), Liu Y(6), Zhang M(4), Zhao
+X(4), Xie S(4), Zhang H(4), Geng Y(7), Liu C(4).
+
+Author information: 
+(1)Department of Gastroenterology, 925th Hospital of PLA Joint Logistics Support 
+Force, Guiyang, China.
+(2)Department of Immunology and Microbiology, GuiZhou University of Traditional
+Chinese Medicine, Guiyang, Guizhou, China.
+(3)Department of Geriatrics, Zhongnan Hospital of Wuhan University, Wuhan, China.
+(4)Department of Epidemiology and Biostatistics, Empower U, X&Y solutions Inc.,
+Boston, USA.
+(5)Department of Geriatrics, Union Hospital, Tongji Medical College, Huazhong
+University of Science and Technology, Wuhan, China.
+(6)Department of Geriatrics, Tongji Hospital, Tongji Medical College, Huazhong
+University of Science and Technology, Wuhan, China.
+(7)Department of Gastroenterology, 923th Hospital of PLA Joint Logistics Support 
+Force, Nanning, China.
+
+Several descriptive studies have reported that higher neutrophil count (NC) may
+be correlated with poor prognosis in patients with confirmed COVID-19 infection. 
+However, the findings from these studies are limited by methodology and data
+analysis. This study is a cohort study. We nonselectively and consecutively
+collected a total of 663 participants in a Chinese hospital from January 7 to
+February 28. Standardized and two-piecewise Cox regression model were employed to
+evaluate the association between baseline neutrophil count (bNC), neutrophil
+count change rate (NCR), and death. bNC had a U-shaped association with death. In
+the range of 0.1 to ≤1.49 × 109 /L (hazard ratio [HR] = 0.19, 95% confidence
+interval [CI] = 0.05-0.66) and >3.55 × 109 /L of bNC (HR = 2.82, 95%
+CI = 1.19-6.67), the trends on bNC with mortality were opposite. By recursive
+algorithm, the bNC at which the risk of the death was lower in the range of >1.49
+to ≤3.55 × 109 /L (HR = 13.64, 95% CI = 0.25-74.71). In addition, we find that
+NCRs (NCR1 and NCR2) are not associated with COVID-19-related deaths. Compared
+with NCR, bNC has the potential to be used for early risk stratification in
+patients with COVID-19 infection. The relationship between bNC and mortality was 
+U-shaped. The safe range of bNC was 1.64-4.0 × 109 /L. Identifying the
+correlation may be helpful for early risk stratification and medical
+decision-making.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/jmv.26794 
+PMCID: PMC8014534
+PMID: 33463721 
+

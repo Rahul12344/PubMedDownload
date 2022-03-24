@@ -1,0 +1,44 @@
+
+1. BMC Res Notes. 2013 Sep 28;6:388. doi: 10.1186/1756-0500-6-388.
+
+Validation of reference genes for normalization of qPCR gene expression data from
+Coffea spp. hypocotyls inoculated with Colletotrichum kahawae.
+
+Figueiredo A(1), Loureiro A, Batista D, Monteiro F, Várzea V, Pais MS, Gichuru
+EK, Silva MC.
+
+Author information: 
+(1)Plant Systems Biology Lab, Center of Biodiversity, Functional & Integrative
+Genomics (BioFIG), Science Faculty of Lisbon University, Lisbon 1749-016,
+Portugal. aafigueiredo@fc.ul.pt.
+
+BACKGROUND: Coffee production in Africa represents a significant share of the
+total export revenues and influences the lives of millions of people, yet severe 
+socio-economic repercussions are annually felt in result of the overall losses
+caused by the coffee berry disease (CBD). This quarantine disease is caused by
+the fungus Colletotrichum kahawae Waller and Bridge, which remains one of the
+most devastating threats to Coffea arabica production in Africa at high altitude,
+and its dispersal to Latin America and Asia represents a serious concern.
+Understanding the molecular genetic basis of coffee resistance to this disease is
+of high priority to support breeding strategies. Selection and validation of
+suitable reference genes presenting stable expression in the system studied is
+the first step to engage studies of gene expression profiling.
+RESULTS: In this study, a set of ten genes (S24, 14-3-3, RPL7, GAPDH, UBQ9,
+VATP16, SAND, UQCC, IDE and β-Tub9) was evaluated to identify reference genes
+during the first hours of interaction (12, 48 and 72 hpi) between resistant and
+susceptible coffee genotypes and C. kahawae. Three analyses were done for the
+selection of these genes considering the entire dataset and the two genotypes
+(resistant and susceptible), separately. The three statistical methods applied
+GeNorm, NormFinder, and BestKeeper, allowed identifying IDE as one of the most
+stable genes for all datasets analysed, and in contrast GADPH and UBQ9 as the
+least stable ones. In addition, the expression of two defense-related
+transcripts, encoding for a receptor like kinase and a pathogenesis related
+protein 10, were used to validate the reference genes selected.
+CONCLUSION: Taken together, our results provide guidelines for reference gene(s) 
+selection towards a more accurate and widespread use of qPCR to study the
+interaction between Coffea spp. and C. kahawae.
+
+DOI: 10.1186/1756-0500-6-388 
+PMCID: PMC3849654
+PMID: 24073624  [Indexed for MEDLINE]
+

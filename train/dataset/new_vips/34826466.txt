@@ -1,0 +1,78 @@
+
+1. Sci Total Environ. 2021 Nov 24;808:151916. doi: 10.1016/j.scitotenv.2021.151916. 
+[Epub ahead of print]
+
+A comparison of precipitation and filtration-based SARS-CoV-2 recovery methods
+and the influence of temperature, turbidity, and surfactant load in urban
+wastewater.
+
+Kevill JL(1), Pellett C(2), Farkas K(3), Brown MR(4), Bassano I(5), Denise H(6), 
+McDonald JE(2), Malham SK(7), Porter J(8), Warren J(8), Evens NP(8), Paterson
+S(9), Singer AC(10), Jones DL(11).
+
+Author information: 
+(1)Centre for Environmental Biotechnology, School of Natural Sciences, Bangor
+University, Bangor, Gwynedd LL57 2UW, UK. Electronic address:
+j.kevill@bangor.ac.uk.
+(2)Centre for Environmental Biotechnology, School of Natural Sciences, Bangor
+University, Bangor, Gwynedd LL57 2UW, UK.
+(3)Centre for Environmental Biotechnology, School of Natural Sciences, Bangor
+University, Bangor, Gwynedd LL57 2UW, UK; School of Ocean Sciences, Bangor
+University, Menai Bridge, Anglesey LL59 5AB, UK.
+(4)Joint Biosecurity Centre, Department of Health and Social Care, London WC1B
+4DA, UK; School of Engineering, Newcastle University, Newcastle upon Tyne NE1
+7RU, UK.
+(5)Joint Biosecurity Centre, Department of Health and Social Care, London WC1B
+4DA, UK; Department of Infectious Disease, Imperial College London, London SW7
+2AZ, UK.
+(6)Joint Biosecurity Centre, Department of Health and Social Care, London WC1B
+4DA, UK.
+(7)School of Ocean Sciences, Bangor University, Menai Bridge, Anglesey LL59 5AB, 
+UK.
+(8)Environment Agency National Laboratory Service, Exeter, Devon EX6 8PE, UK.
+(9)Centre of Genomics Research & NERC Environmental Omics Facility, University of
+Liverpool, Liverpool L69 7ZB, UK.
+(10)UK Centre for Ecology & Hydrology, Wallingford OX10 8BB, UK.
+(11)Centre for Environmental Biotechnology, School of Natural Sciences, Bangor
+University, Bangor, Gwynedd LL57 2UW, UK; Food Futures Institute, Murdoch
+University, 90 South Street, Murdoch, WA 6105, Australia.
+
+Wastewater-based epidemiology (WBE) has become a complimentary surveillance tool 
+during the SARS-CoV-2 pandemic. Viral concentration methods from wastewater are
+still being optimised and compared, whilst viral recovery under different
+wastewater characteristics and storage temperatures remains poorly understood.
+Using urban wastewater samples, we tested three viral concentration methods;
+polyethylene glycol precipitation (PEG), ammonium sulphate precipitation (AS),
+and CP select™ InnovaPrep® (IP) ultrafiltration. We found no major difference in 
+SARS-CoV-2 and faecal indicator virus (crAssphage) recovery from wastewater
+samples (n = 46) using these methods, PEG slightly (albeit non-significantly),
+outperformed AS and IP for SARS-CoV-2 detection, as a higher genome copies per
+litre (gc/l) was recorded for a larger proportion of samples. Next generation
+sequencing of 8 paired samples revealed non-significant differences in the
+quality of data between AS and IP, though IP data quality was slightly better and
+less variable. A controlled experiment assessed the impact of wastewater
+suspended solids (turbidity; 0-400 NTU), surfactant load (0-200 mg/l), and
+storage temperature (5-20 °C) on viral recovery using the AS and IP methods.
+SARS-CoV-2 recoveries were >20% with AS and <10% with IP in turbid samples,
+whilst viral recoveries for samples with additional surfactant were between 0-18%
+for AS and 0-5% for IP. Turbidity and sample storage temperature combined had no 
+significant effect on SARS-CoV-2 recovery (p > 0.05), whilst surfactant and
+storage temperature combined were significant negative correlates (p < 0.001 and 
+p < 0.05, respectively). In conclusion, our results show that choice of
+methodology had small effect on viral recovery of SARS-CoV-2 and crAssphage in
+wastewater samples within this study. In contrast, sample turbidity, storage
+temperature, and surfactant load did affect viral recovery, highlighting the need
+for careful consideration of the viral concentration methodology used when
+working with wastewater samples.
+
+Copyright © 2021 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2021.151916 
+PMCID: PMC8610557
+PMID: 34826466 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

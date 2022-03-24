@@ -1,0 +1,42 @@
+
+1. PLoS One. 2018 Dec 14;13(12):e0209230. doi: 10.1371/journal.pone.0209230.
+eCollection 2018.
+
+Glucosylceramide acyl chain length is sensed by the glycolipid transfer protein.
+
+Backman APE(1), Halin J(1), Nurmi H(1), Möuts A(1), Kjellberg MA(1), Mattjus
+P(1).
+
+Author information: 
+(1)Biochemistry, Faculty of Science and Engineering Åbo Akademi University,
+Artillerigatan 6A, III, FI Turku, Finland.
+
+The glycolipid transfer protein, GLTP, can be found in the cytoplasm, and it has 
+a FFAT-like motif (two phenylalanines in an acidic tract) that targets it to the 
+endoplasmic reticulum (ER). We have previously shown that GLTP can bind to a
+transmembrane ER protein, vesicle-associated membrane protein-associated protein 
+A (VAP-A), which is involved in a wide range of ER functions. We have addressed
+the mechanisms that might regulate the association between GLTP and the VAP
+proteins by studying the capacity of GLTP to recognize different N-linked acyl
+chain species of glucosylceramide. We used surface plasmon resonance and a lipid 
+transfer competition assay to show that GLTP prefers shorter N-linked fully
+saturated acyl chain glucosylceramides, such as C8, C12, and C16, whereas long
+C18, C20, and C24-glucosylceramides are all bound more weakly and transported
+more slowly than their shorter counterparts. Changes in the intrinsic GLTP
+tryptophan fluorescence blueshifts, also indicate a break-point between C16- and 
+C18-glucosylceramide in the GLTP sensing ability. It has long been postulated
+that GLTP would be a sensor in the sphingolipid synthesis machinery, but how this
+mechanistically occurs has not been addressed before. It is unclear what proteins
+the GLTP VAP association would influence. Here we found that if GLTP has a bound 
+GlcCer the association with VAP-A is weaker. We have also used a formula for
+identifying putative FFAT-domains, and we identified several potential
+VAP-interactors within the ceramide and sphingolipid synthesis pathways that
+could be candidates for regulation by GLTP.
+
+DOI: 10.1371/journal.pone.0209230 
+PMCID: PMC6294359
+PMID: 30550553  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

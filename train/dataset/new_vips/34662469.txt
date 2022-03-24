@@ -1,0 +1,48 @@
+
+1. FASEB J. 2021 Nov;35(11):e21986. doi: 10.1096/fj.202101232RR.
+
+Orthogonal ubiquitin transfer reveals human papillomavirus E6 downregulates
+nuclear transport to disarm interferon-γ dependent apoptosis of cervical cancer
+cells.
+
+Wang Y(1)(2), Liu R(2), Liao J(1), Jiang L(3), Jeong GH(2), Zhou L(2), Polite
+M(2), Duong D(4), Seyfried NT(5), Wang H(1), Kiyokawa H(6), Yin J(2).
+
+Author information: 
+(1)Department of Pathophysiology, School of Medicine, Jinan University,
+Guangzhou, China.
+(2)Department of Chemistry and Center for Diagnostics and Therapeutics, Georgia
+State University, Atlanta, Georgia, USA.
+(3)Department of Pathology, The Third Affiliated Hospital of Southern Medical
+University, Guangzhou, China.
+(4)Integrated Proteomics Core, Emory University, Atlanta, Georgia, USA.
+(5)Department of Biochemistry, Emory University School of Medicine, Atlanta,
+Georgia, USA.
+(6)Department of Pharmacology, Northwestern University, Chicago, Illinois, USA.
+
+The E6 protein of the human papillomavirus (HPV) underpins important protein
+interaction networks between the virus and host to promote viral infection.
+Through its interaction with E6AP, a host E3 ubiquitin (UB) ligase, E6 stirs the 
+protein ubiquitination pathways toward the oncogenic transformation of the
+infected cells. For a systematic measurement of E6 reprogramming of the substrate
+pool of E6AP, we performed a proteomic screen based on "orthogonal UB transfer
+(OUT)" that allowed us to identify the ubiquitination targets of E6AP dependent
+on the E6 protein of HPV-16, a high-risk viral subtype for the development of
+cervical cancer. The OUT screen identified more than 200 potential substrates of 
+the E6-E6AP pair based on the transfer of UB from E6AP to the substrate proteins.
+Among them, we verified that E6 would induce E6AP-catalyzed ubiquitination of
+importin proteins KPNA1-3, protein phosphatase PGAM5, and arginine
+methyltransferases CARM1 to trigger their degradation by the proteasome. We
+further found that E6 could significantly reduce the cellular level of KPNA1 that
+resulted in the suppression of nuclear transport of phosphorylated STAT1 and the 
+inhibition of interferon-γ-induced apoptosis in cervical cancer cells. Overall,
+our work demonstrates OUT as a powerful proteomic platform to probe the
+interaction of E6 and host cells through protein ubiquitination and reveals a new
+role of E6 in down-regulating nuclear transport proteins to attenuate
+tumor-suppressive signaling.
+
+© 2021 Federation of American Societies for Experimental Biology.
+
+DOI: 10.1096/fj.202101232RR 
+PMID: 34662469  [Indexed for MEDLINE]
+

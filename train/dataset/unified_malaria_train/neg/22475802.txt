@@ -1,0 +1,43 @@
+
+1. bmc bioinformatics. 2012 apr 4;13:54. doi: 10.1186/1471-2105-13-54.
+
+mining biological information 3d short time-series gene expression data: the
+optricluster algorithm.
+
+tchagang ab(1), phan s, famili f, shearer h, fobert p, huang y, zou j, huang d,
+cutler a, liu z, pan y.
+
+author information: 
+(1)knowledge discovery group, institute information technology, national
+research council canada, 1200 montréal road, ottawa, k1a 0r6, canada.
+alain.tchagang@nrc-cnrc.gc.ca
+
+background: nowadays, possible collect expression levels set of
+genes set biological samples series time points. data 
+have three dimensions: gene-sample-time (gst). thus called 3d microarray
+gene expression data. take advantage 3d data collected, fully
+understand biological knowledge hidden gst data, novel subspace
+clustering algorithms developed effectively address biological 
+problem corresponding space.
+results: developed subspace clustering algorithm called order preserving
+triclustering (optricluster), 3d short time-series data mining. optricluster 
+is able identify 3d clusters coherent evolution given 3d dataset
+using combinatorial approach sample dimension, order preserving 
+(op) concept time dimension. fusion two methodologies allows
+one study similarities differences samples terms their
+temporal expression profile. optricluster successfully applied four
+case studies: immune response mice infected malaria (plasmodium chabaudi), 
+systemic acquired resistance arabidopsis thaliana, similarities and
+differences inner outer cotyledon brassica napus seed
+development, brassica napus whole seed development. studies showed
+that optricluster robust noise able detect similarities and
+differences biological samples.
+conclusions: analysis showed optricluster generally outperforms other
+well known clustering algorithms tricluster, gtricluster k-means;
+it robust noise effectively mine biological knowledge hidden in
+the 3d short time-series gene expression data.
+
+doi: 10.1186/1471-2105-13-54 
+pmcid: pmc3376030
+pmid: 22475802  [indexed medline]
+

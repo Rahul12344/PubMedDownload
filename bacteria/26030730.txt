@@ -1,0 +1,42 @@
+
+1. Nat Chem Biol. 2015 Jul;11(7):496-503. doi: 10.1038/nchembio.1823. Epub 2015 Jun 
+1.
+
+Efficient genetic encoding of phosphoserine and its nonhydrolyzable analog.
+
+Rogerson DT(1), Sachdeva A(1), Wang K(1), Haq T(2), Kazlauskaite A(3), Hancock
+SM(1), Huguenin-Dezot N(1), Muqit MM(4), Fry AM(2), Bayliss R(2), Chin JW(1).
+
+Author information: 
+(1)Medical Research Council Laboratory of Molecular Biology, Francis Crick
+Avenue, Cambridge, UK.
+(2)Department of Biochemistry, University of Leicester, Leicester, UK.
+(3)Medical Research Council Protein Phosphorylation and Ubiquitylation Unit,
+University of Dundee, Dundee, UK.
+(4)1] Medical Research Council Protein Phosphorylation and Ubiquitylation Unit,
+University of Dundee, Dundee, UK. [2] College of Medicine, Dentistry and Nursing,
+University of Dundee, Dundee, UK.
+
+Comment in
+    Nat Methods. 2015 Aug;12(8):702-3.
+
+Serine phosphorylation is a key post-translational modification that regulates
+diverse biological processes. Powerful analytical methods have identified
+thousands of phosphorylation sites, but many of their functions remain to be
+deciphered. A key to understanding the function of protein phosphorylation is
+access to phosphorylated proteins, but this is often challenging or impossible.
+Here we evolve an orthogonal aminoacyl-tRNA synthetase/tRNACUA pair that directs 
+the efficient incorporation of phosphoserine (pSer (1)) into recombinant proteins
+in Escherichia coli. Moreover, combining the orthogonal pair with a metabolically
+engineered E. coli enables the site-specific incorporation of a nonhydrolyzable
+analog of pSer. Our approach enables quantitative decoding of the amber stop
+codon as pSer, and we purify, with yields of several milligrams per liter of
+culture, proteins bearing biologically relevant phosphorylations that were
+previously challenging or impossible to access--including phosphorylated
+ubiquitin and the kinase Nek7, which is synthetically activated by a genetically 
+encoded phosphorylation in its activation loop.
+
+DOI: 10.1038/nchembio.1823 
+PMCID: PMC4830402
+PMID: 26030730  [Indexed for MEDLINE]
+

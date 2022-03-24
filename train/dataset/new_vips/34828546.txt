@@ -1,0 +1,43 @@
+
+1. Healthcare (Basel). 2021 Nov 4;9(11). pii: 1500. doi: 10.3390/healthcare9111500.
+
+Infection Control Improvement of a Negative-Pressurized Pediatric Intensive Care 
+Unit.
+
+Wang F(1), Permana I(2), Chaerasari C(1), Panigrahi B(1), Rakshit D(3).
+
+Author information: 
+(1)Department of Refrigeration, Air Conditioning and Energy Engineering, National
+Chin-Yi University of Technology, Taichung 411, Taiwan.
+(2)Graduate Institute of Precision Manufacturing, National Chin-Yi University of 
+Technology, Taichung 411, Taiwan.
+(3)Department of Energy Science and Engineering, Indian Institute of Technology
+Delhi, New Delhi 110016, India.
+
+The COVID-19 pandemic caused by the novel SARS-CoV-2 virus raises alarming
+concern around the healthcare facilities due to the significant increase in
+patient inflow. Negative-pressurized isolation rooms have been utilized in
+various health care facilities to isolate the patients from active community
+contact. Several studies have highlighted isolation rooms improvement. However,
+limited knowledge is available regarding the isolation room facilities for
+pediatric intensive care units (PICU) to accommodate more than one pediatric
+patient. In this aspect, this study investigates a negative-pressurized isolation
+facility in PICU with minimal design modifications with the possibility that it
+can accommodate more than one pediatric patient. The field measurement tests were
+conducted to ensure the design compliance of Taiwan CDC. Then, computational
+fluid dynamics (CFD) was further utilized to numerically evaluate the HVAC system
+role and the ventilation performance towards infection control. A protected
+air-jet curtain system with a new ventilation layout was proposed through this
+study to enhance the protection for both pediatric patients and medical staff.
+The concentration decay was monitored and recorded within 900 s to evaluate the
+performance. The concentration can be reduced to 504 ppm for case 1, 620 ppm for 
+case 2, 501 ppm for case 3, and 486 ppm for case 4. In addition, the injected
+bioaerosol particles could be well diluted dealing with two patients presents a
+good performance. The results revealed that this proposed configuration could
+feasibly accommodate two patients with a significant contamination control to
+protect the medical staff and patients.
+
+DOI: 10.3390/healthcare9111500 
+PMCID: PMC8620089
+PMID: 34828546 
+

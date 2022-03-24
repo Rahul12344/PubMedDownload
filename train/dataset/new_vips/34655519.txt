@@ -1,0 +1,84 @@
+
+1. Cell Rep. 2021 Oct 26;37(4):109881. doi: 10.1016/j.celrep.2021.109881. Epub 2021 
+Oct 8.
+
+Structural mechanism of SARS-CoV-2 neutralization by two murine antibodies
+targeting the RBD.
+
+Errico JM(1), Zhao H(1), Chen RE(2), Liu Z(3), Case JB(4), Ma M(1), Schmitz
+AJ(1), Rau MJ(5), Fitzpatrick JAJ(6), Shi PY(7), Diamond MS(8), Whelan SPJ(3),
+Ellebedy AH(9), Fremont DH(10).
+
+Author information: 
+(1)Department of Pathology & Immunology, Washington University School of
+Medicine, St. Louis, MO, USA.
+(2)Department of Pathology & Immunology, Washington University School of
+Medicine, St. Louis, MO, USA; Department of Medicine, Washington University
+School of Medicine, St. Louis, MO, USA.
+(3)Department of Molecular Microbiology, Washington University School of
+Medicine, St. Louis, MO, USA.
+(4)Department of Medicine, Washington University School of Medicine, St. Louis,
+MO, USA.
+(5)Washington University Center for Cellular Imaging, Washington University
+School of Medicine, St. Louis, MO, USA.
+(6)Washington University Center for Cellular Imaging, Washington University
+School of Medicine, St. Louis, MO, USA; Departments of Neuroscience and Cell
+Biology and Physiology, Washington University School of Medicine, St. Louis, MO, 
+USA; Department of Biomedical Engineering, Washington University in St. Louis,
+St. Louis, MO, USA.
+(7)Department of Biochemistry and Molecular Biology, University of Texas Medical 
+Branch, Galveston, TX, USA; Sealy Center for Structural Biology and Molecular
+Biophysics, University of Texas Medical Branch, Galveston, TX, USA; Sealy
+Institute for Vaccine Sciences, University of Texas Medical Branch, Galveston,
+TX, USA.
+(8)Department of Pathology & Immunology, Washington University School of
+Medicine, St. Louis, MO, USA; Department of Molecular Microbiology, Washington
+University School of Medicine, St. Louis, MO, USA; Department of Medicine,
+Washington University School of Medicine, St. Louis, MO, USA; The Andrew M. and
+Jane M. Bursky Center for Human Immunology & Immunotherapy Programs, Washington
+University School of Medicine, St. Louis, MO, USA.
+(9)Department of Pathology & Immunology, Washington University School of
+Medicine, St. Louis, MO, USA; Department of Molecular Microbiology, Washington
+University School of Medicine, St. Louis, MO, USA; The Andrew M. and Jane M.
+Bursky Center for Human Immunology & Immunotherapy Programs, Washington
+University School of Medicine, St. Louis, MO, USA.
+(10)Department of Pathology & Immunology, Washington University School of
+Medicine, St. Louis, MO, USA; Department of Molecular Microbiology, Washington
+University School of Medicine, St. Louis, MO, USA; The Andrew M. and Jane M.
+Bursky Center for Human Immunology & Immunotherapy Programs, Washington
+University School of Medicine, St. Louis, MO, USA; Department of Biochemistry &
+Molecular Biophysics, Washington University School of Medicine, St. Louis, MO,
+USA. Electronic address: fremont@wustl.edu.
+
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic has
+necessitated the rapid development of antibody-based therapies and vaccines as
+countermeasures. Here, we use cryoelectron microscopy (cryo-EM) to characterize
+two protective anti-SARS-CoV-2 murine monoclonal antibodies (mAbs) in complex
+with the spike protein, revealing similarities between epitopes targeted by human
+and murine B cells. The more neutralizing mAb, 2B04, binds the receptor-binding
+motif (RBM) of the receptor-binding domain (RBD) and competes with
+angiotensin-converting enzyme 2 (ACE2). By contrast, 2H04 binds adjacent to the
+RBM and does not compete for ACE2 binding. Naturally occurring sequence variants 
+of SARS-CoV-2 and corresponding neutralization escape variants selected in vitro 
+map to our structurally defined epitopes, suggesting that SARS-CoV-2 might evade 
+therapeutic antibodies with a limited set of mutations, underscoring the
+importance of combination mAb therapeutics. Finally, we show that 2B04
+neutralizes SARS-CoV-2 infection by preventing ACE2 engagement, whereas 2H04
+reduces host cell attachment without directly disrupting ACE2-RBM interactions,
+providing distinct inhibitory mechanisms used by RBD-specific mAbs.
+
+Copyright © 2021 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2021.109881 
+PMCID: PMC8498651
+PMID: 34655519  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests D.H.F. is a founder of
+Courier Therapeutics. A.H.E. is a consultant for Inbios and Fimbrion
+Therapeutics. M.S.D. is a consultant for Inbios, Vir Biotechnology, and NGM
+Biopharmaceuticals and is on the Scientific Advisory Board of Moderna and
+Immunome. D.H.F., M.S.D., and A.H.E. have received unrelated funding support from
+Emergent BioSolutions. M.S.D. has sponsored research agreements from Moderna and 
+Vir Biotechnology, A.H.E. has a sponsored research agreement from Abbvie, and
+D.H.F. has a sponsored research agreement from Mallinckrodt Pharmaceuticals.
+

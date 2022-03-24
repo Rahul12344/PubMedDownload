@@ -1,0 +1,44 @@
+
+1. Life (Basel). 2021 Oct 10;11(10). pii: 1064. doi: 10.3390/life11101064.
+
+Transcriptomic Analysis of Genes Involved in Plant Defense Response to the
+Cucumber Green Mottle Mosaic Virus Infection.
+
+Slavokhotova A(1), Korostyleva T(2), Shelenkov A(3), Pukhalskiy V(2), Korottseva 
+I(4), Slezina M(2), Istomina E(2), Odintsova T(2).
+
+Author information: 
+(1)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, 108819 Moscow,
+Russia.
+(2)Vavilov Institute of General Genetics, Russian Academy of Sciences, 119991
+Moscow, Russia.
+(3)Central Research Institute of Epidemiology, Rospotrebnadzor, 111123 Moscow,
+Russia.
+(4)Federal Scientific Vegetable Center, 143072 Moscow, Russia.
+
+Plants have evolved a complex multilayered defense system to counteract various
+invading pathogens during their life cycle. In addition to silencing, considered 
+to be a major molecular defense response against viruses, different signaling
+pathways activated by phytohormones trigger the expression of secondary
+metabolites and proteins preventing virus entry and propagation. In this study,
+we explored the response of cucumber plants to one of the global pathogens,
+cucumber green mottle mosaic virus (CGMMV), which causes severe symptoms on
+leaves and fruits. The inbred line of Cucumis sativus L., which is highly
+susceptible to CGMMV, was chosen for inoculation. Transcriptomes of infected
+plants at the early and late stages of infection were analyzed in comparison with
+the corresponding transcriptomes of healthy plants using RNA-seq. The changes in 
+the signaling pathways of ethylene and salicylic and jasmonic acids, as well as
+the differences in silencing response and expression of pathogenesis-related
+proteins and transcription factors, were revealed. The results show that
+silencing was strongly suppressed in infected plants, while the salicylic acid
+and ethylene signaling pathways were induced. The genes encoding
+pathogenesis-related proteins and the genes involved in the jasmonic acid pathway
+changed their expression insignificantly. It was also found that WRKY and NAC
+were the most sensitive to CGMMV infection among the transcription factors
+detected.
+
+DOI: 10.3390/life11101064 
+PMCID: PMC8541684
+PMID: 34685435 
+

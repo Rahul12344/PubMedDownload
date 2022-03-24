@@ -1,0 +1,39 @@
+
+1. Life (Basel). 2021 Oct 27;11(11). pii: 1146. doi: 10.3390/life11111146.
+
+A Multiallelic Molecular Beacon-Based Real-Time RT-PCR Assay for the Detection of
+SARS-CoV-2.
+
+Chrysostomou AC(1), Hezka Rodosthenous J(1), Topcu C(1), Papa C(1), Aristokleous 
+A(1), Stathi G(1), Christodoulou C(1), Eleftheriou C(2), Stylianou DC(1),
+Kostrikis LG(1).
+
+Author information: 
+(1)Department of Biological Sciences, University of Cyprus, Aglantzia, Nicosia
+2109, Cyprus.
+(2)Department of Health and Safety, University of Cyprus, Aglantzia, Nicosia
+2109, Cyprus.
+
+Emerging infectious viruses have led to global advances in the development of
+specific and sensitive detection techniques. Viruses have an inherent potential
+to easily mutate, presenting major hurdles for diagnostics and requiring methods 
+capable of detecting genetically diverse viral strains. One such infectious agent
+is severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which emerged in
+December 2019 and has resulted in the global coronavirus disease 2019 (COVID-19) 
+pandemic. This study presents a real-time reverse transcription PCR (RT-PCR)
+detection assay for SARS-CoV-2, taking into account its intrinsic polymorphic
+nature that arises due to genetic drift and recombination, as well as the
+possibility of continuous and multiple introductions of genetically nonidentical 
+strains into the human population. This advance was achieved by using
+mismatch-tolerant molecular beacons designed to specifically detect the
+SARS-CoV-2 S, E, M, and N genes. These were applied to create a simple and
+reproducible real-time RT-PCR assay, which was validated using external quality
+control panels (QCMD: CVOP20, WHO: SARS-CoV-2-EQAP-01) and clinical samples. This
+assay was designed for high target detection accuracy and specificity and can
+also be readily adapted for the detection of other emerging and rapidly mutating 
+pathogens.
+
+DOI: 10.3390/life11111146 
+PMCID: PMC8619337
+PMID: 34833022 
+

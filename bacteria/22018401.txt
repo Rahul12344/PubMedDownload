@@ -1,0 +1,40 @@
+
+1. Genome Biol. 2011 Oct 21;12(10):R106. doi: 10.1186/gb-2011-12-10-r106.
+
+Adaptation of Rhizobium leguminosarum to pea, alfalfa and sugar beet rhizospheres
+investigated by comparative transcriptomics.
+
+Ramachandran VK(1), East AK, Karunakaran R, Downie JA, Poole PS.
+
+Author information: 
+(1)School of Biological Sciences, University of Reading, Reading, RG6 6AJ, UK.
+
+BACKGROUND: The rhizosphere is the microbe-rich zone around plant roots and is a 
+key determinant of the biosphere's productivity. Comparative transcriptomics was 
+used to investigate general and plant-specific adaptations during rhizosphere
+colonization. Rhizobium leguminosarum biovar viciae was grown in the rhizospheres
+of pea (its legume nodulation host), alfalfa (a non-host legume) and sugar beet
+(non-legume). Gene expression data were compared to metabolic and transportome
+maps to understand adaptation to the rhizosphere.
+RESULTS: Carbon metabolism was dominated by organic acids, with a strong bias
+towards aromatic amino acids, C1 and C2 compounds. This was confirmed by
+induction of the glyoxylate cycle required for C2 metabolism and gluconeogenesis 
+in all rhizospheres. Gluconeogenesis is repressed in R. leguminosarum by sugars, 
+suggesting that although numerous sugar and putative complex carbohydrate
+transport systems are induced in the rhizosphere, they are less important carbon 
+sources than organic acids. A common core of rhizosphere-induced genes was
+identified, of which 66% are of unknown function. Many genes were induced in the 
+rhizosphere of the legumes, but not sugar beet, and several were plant specific. 
+The plasmid pRL8 can be considered pea rhizosphere specific, enabling adaptation 
+of R. leguminosarum to its host. Mutation of many of the up-regulated genes
+reduced competitiveness for pea rhizosphere colonization, while two genes
+specifically up-regulated in the pea rhizosphere reduced colonization of the pea 
+but not alfalfa rhizosphere.
+CONCLUSIONS: Comparative transcriptome analysis has enabled differentiation
+between factors conserved across plants for rhizosphere colonization as well as
+identification of exquisite specific adaptation to host plants.
+
+DOI: 10.1186/gb-2011-12-10-r106 
+PMCID: PMC3333776
+PMID: 22018401  [Indexed for MEDLINE]
+

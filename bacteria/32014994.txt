@@ -1,0 +1,60 @@
+
+1. J Biol Chem. 2020 Mar 20;295(12):3965-3981. doi: 10.1074/jbc.RA119.011884. Epub
+2020 Feb 2.
+
+Tuning of pKa values activates substrates in flavin-dependent aromatic
+hydroxylases.
+
+Pitsawong W(1), Chenprakhon P(2), Dhammaraj T(3), Medhanavyn D(4), Sucharitakul
+J(5), Tongsook C(6), van Berkel WJH(7), Chaiyen P(8), Miller AF(9).
+
+Author information: 
+(1)Department of Chemistry, University of Kentucky, Lexington, Kentucky
+40506-0055.
+(2)Institute for Innovative Learning, Mahidol University, Nakhon Pathom 73170,
+Thailand.
+(3)Faculty of Pharmacy, Mahasarakham University, Maha Sarakham 44150, Thailand.
+(4)Department of Biochemistry and Center for Excellence in Protein and Enzyme
+Technology, Faculty of Science, Mahidol University, Bangkok 10400, Thailand.
+(5)Department of Biochemistry, Faculty of Dentistry, Chulalongkorn University,
+Bangkok 10300, Thailand.
+(6)Department of Chemistry, Faculty of Science, Silpakorn University, Nakhon
+Pathom 73000, Thailand.
+(7)Laboratory of Food Chemistry, Wageningen University and Research, Bornse
+Weilanden 9, 6708 WG, Wageningen, The Netherlands.
+(8)School of Biomolecular Science and Engineering, Vidyasirimedhi Institute of
+Science and Technology, Wangchan Valley, 555 Moo 1 Payupnai, Wangchan, Rayong
+21210, Thailand pimchai.chaiyen@vistec.ac.th.
+(9)Department of Chemistry, University of Kentucky, Lexington, Kentucky
+40506-0055 afmill3r2@gmail.com.
+
+Hydroxylation of substituted phenols by flavin-dependent monooxygenases is the
+first step of their biotransformation in various microorganisms. The reaction is 
+thought to proceed via electrophilic aromatic substitution, catalyzed by
+enzymatic deprotonation of substrate, in single-component hydroxylases that use
+flavin as a cofactor (group A). However, two-component hydroxylases (group D),
+which use reduced flavin as a co-substrate, are less amenable to spectroscopic
+investigation. Herein, we employed 19F NMR in conjunction with fluorinated
+substrate analogs to directly measure pKa values and to monitor protein events in
+hydroxylase active sites. We found that the single-component monooxygenase
+3-hydroxybenzoate 6-hydroxylase (3HB6H) depresses the pKa of the bound substrate 
+analog 4-fluoro-3-hydroxybenzoate (4F3HB) by 1.6 pH units, consistent with
+previously proposed mechanisms. 19F NMR was applied anaerobically to the
+two-component monooxygenase 4-hydroxyphenylacetate 3-hydroxylase (HPAH),
+revealing depression of the pKa of 3-fluoro-4-hydroxyphenylacetate by 2.5 pH
+units upon binding to the C2 component of HPAH. 19F NMR also revealed a pKa of
+8.7 ± 0.05 that we attributed to an active-site residue involved in deprotonating
+bound substrate, and assigned to His-120 based on studies of protein variants.
+Thus, in both types of hydroxylases, we confirmed that binding favors the
+phenolate form of substrate. The 9 and 14 kJ/mol magnitudes of the effects for
+3HB6H and HPAH-C2, respectively, are consistent with pKa tuning by one or more
+H-bonding interactions. Our implementation of 19F NMR in anaerobic samples is
+applicable to other two-component flavin-dependent hydroxylases and promises to
+expand our understanding of their catalytic mechanisms.
+
+© 2020 Pitsawong et al.
+
+DOI: 10.1074/jbc.RA119.011884 
+PMCID: PMC7086025
+PMID: 32014994  [Indexed for MEDLINE]
+

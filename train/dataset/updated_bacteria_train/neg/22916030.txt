@@ -1,0 +1,47 @@
+
+1. PLoS Genet. 2012;8(8):e1002885. doi: 10.1371/journal.pgen.1002885. Epub 2012 Aug 
+16.
+
+Transgene induced co-suppression during vegetative growth in Cryptococcus
+neoformans.
+
+Wang X(1), Wang P, Sun S, Darwiche S, Idnurm A, Heitman J.
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, Duke University Medical
+Center, Durham, North Carolina, United States of America.
+
+Introduction of DNA sequences into the genome often results in homology-dependent
+gene silencing in organisms as diverse as plants, fungi, flies, nematodes, and
+mammals. We previously showed in Cryptococcus neoformans that a repeat transgene 
+array can induce gene silencing at a high frequency during mating (∼50%), but at 
+a much lower frequency during vegetative growth (∼0.2%). Here we report a robust 
+asexual co-suppression phenomenon triggered by the introduction of a cpa1::ADE2
+transgene. Multiple copies of the cpa1::ADE2 transgene were ectopically
+integrated into the genome, leading to silencing of the endogenous CPA1 and CPA2 
+genes encoding the cyclosporine A target protein cyclophilin A. Given that
+CPA1-derived antisense siRNAs were detected in the silenced isolates, and that
+RNAi components (Rdp1, Ago1, and Dcr2) are required for silencing, we hypothesize
+that an RNAi pathway is involved, in which siRNAs function as trans factors to
+silence both the CPA1 and the CPA2 genes. The silencing efficiency of the CPA1
+and CPA2 genes is correlated with the transgene copy number and reached ∼90% in
+the presence of >25 copies of the transgene. We term this transgene silencing
+phenomenon asexual co-suppression to distinguish it from the related sex-induced 
+silencing (SIS) process. We further show that replication protein A (RPA), a
+single-stranded DNA binding complex, is required for transgene silencing,
+suggesting that RPA might play a similar role in aberrant RNA production as
+observed for quelling in Neurospora crassa. Interestingly, we also observed that 
+silencing of the ADE2 gene occurred at a much lower frequency than the CPA1/2
+genes even though it is present in the same transgene array, suggesting that
+factors in addition to copy number influence silencing. Taken together, our
+results illustrate that a transgene induced co-suppression process operates
+during C. neoformans vegetative growth that shares mechanistic features with
+quelling.
+
+DOI: 10.1371/journal.pgen.1002885 
+PMCID: PMC3420925
+PMID: 22916030  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

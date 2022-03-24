@@ -1,0 +1,55 @@
+
+1. mBio. 2021 Nov 16:e0293621. doi: 10.1128/mBio.02936-21. [Epub ahead of print]
+
+A Bacterial Cell-Based Assay To Study SARS-CoV-2 Protein-Protein Interactions.
+
+Springstein BL(1), Deighan P(1), Grabe GJ(1), Hochschild A(1).
+
+Author information: 
+(1)Department of Microbiology, Harvard Medical Schoolgrid.471403.5, Boston,
+Massachusetts, USA.
+
+Methods for detecting and dissecting the interactions of virally encoded proteins
+are essential for probing basic viral biology and providing a foundation for
+therapeutic advances. The dearth of targeted therapeutics for the treatment of
+coronavirus disease 2019 (COVID-19), an ongoing global health crisis, underscores
+the importance of gaining a deeper understanding of the interactions of proteins 
+encoded by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Here, we
+describe the use of a convenient bacterial cell-based two-hybrid (B2H) system to 
+analyze the SARS-CoV-2 proteome. We identified 16 distinct intraviral
+protein-protein interactions (PPIs), involving 16 proteins. We found that many of
+the identified proteins interact with more than one partner. Further, our system 
+facilitates the genetic dissection of these interactions, enabling the
+identification of selectively disruptive mutations. We also describe a modified
+B2H system that permits the detection of disulfide bond-dependent PPIs in the
+normally reducing Escherichia coli cytoplasm, and we used this system to detect
+the interaction of the SARS-CoV-2 spike protein receptor-binding domain (RBD)
+with its cognate cell surface receptor ACE2. We then examined how the RBD-ACE2
+interaction is perturbed by several RBD amino acid substitutions found in
+currently circulating SARS-CoV-2 variants. Our findings illustrate the utility of
+a genetically tractable bacterial system for probing the interactions of viral
+proteins and investigating the effects of emerging mutations. In principle, the
+system could also facilitate the identification of potential therapeutics that
+disrupt specific interactions of virally encoded proteins. More generally, our
+findings establish the feasibility of using a B2H system to detect and dissect
+disulfide bond-dependent interactions of eukaryotic proteins. IMPORTANCE
+Understanding how virally encoded proteins interact with one another is essential
+in elucidating basic viral biology, providing a foundation for therapeutic
+discovery. Here, we describe the use of a versatile bacterial cell-based system
+to investigate the interactions of the protein set encoded by SARS-CoV-2, the
+virus responsible for the current COVID-19 pandemic. We identified 16 distinct
+intraviral protein-protein interactions, involving 16 proteins, many of which
+interact with more than one partner. Our system facilitates the genetic
+dissection of these interactions, enabling the identification of selectively
+disruptive mutations. We also describe a modified version of our bacterial
+cell-based system that permits detection of the interaction between the
+SARS-CoV-2 spike protein (specifically, its receptor-binding domain) and its
+cognate human cell surface receptor ACE2, and we investigated the effects of
+spike mutations found in currently circulating SARS-CoV-2 variants. Our findings 
+illustrate the general utility of our system for probing the interactions of
+virally encoded proteins.
+
+DOI: 10.1128/mBio.02936-21 
+PMCID: PMC8593686
+PMID: 34781739 
+

@@ -1,0 +1,69 @@
+
+1. bmc infect dis. 2017 sep 13;17(1):621. doi: 10.1186/s12879-017-2718-9.
+
+a novel diagnostic method malaria using loop-mediated isothermal
+amplification (lamp) minion™ nanopore sequencer.
+
+imai k(1), tarumoto n(2)(3), misawa k(1), runtuwene lr(4), sakai j(2)(3),
+hayashida k(5), eshita y(5)(6)(7)(8), maeda r(9), tuda j(10), murakami t(3)(11), 
+maesaki s(2)(3), suzuki y(4), yamagishi j(5)(12), maeda t(13)(14).
+
+author information: 
+(1)division infectious diseases pulmonary medicine, department internal
+medicine, national defense medical college, 3-2 namiki, tokorozawa, saitama,
+359-8513, japan.
+(2)department infectious disease infection control, saitama medical
+university, 38 morohongo, moroyama-machi, iruma-gun, saitama, 350-0495, japan.
+(3)center clinical infectious diseases research, saitama medical
+university, 38 morohongo, moroyama-machi, iruma-gun, saitama, 350-0495, japan.
+(4)department computational biology medical science, graduate school of
+frontier sciences, university tokyo, 5-1-5 kashiwanoha, kashiwa, chiba,
+277-8562, japan.
+(5)research center zoonosis control, hokkaido university, north 20, west 10
+kita-ku, sapporo, hokkaido, 001-0020, japan.
+(6)faculty medicine, oita university, 1-1 hasama-machi, yufu, oita, 879-5593, 
+japan.
+(7)department medical entomology, faculty tropical medicine, mahidol
+university, 420/6 ratchawithi road, thung phaya, ratchathewi, bangkok, 10400,
+thailand.
+(8)research institute microbial diseases, osaka university, 3-1 yamadaoka,
+suita, osaka, 565-0871, japan.
+(9)division biomedical sciences, department basic veterinary medicine,
+obihiro university agriculture veterinary medicine, 2-11 inada-cho,
+obihiro, hokkaido, 080-8555, japan.
+(10)department parasitology, faculty medicine, sam ratulangi university,
+kampus unsrat, manado, bahu, 95115, indonesia.
+(11)department microbiology, saitama medical university, 38 morohongo,
+moroyama-machi, iruma-gun, saitama, 350-0495, japan.
+(12)global station zoonosis control, gi-core, hokkaido university, north 20, 
+west 10 kita-ku, sapporo, hokkaido, 001-0020, japan.
+(13)center clinical infectious diseases research, saitama medical
+university, 38 morohongo, moroyama-machi, iruma-gun, saitama, 350-0495, japan.
+t_maeda@saitama-med.ac.jp.
+(14)department microbiology, saitama medical university, 38 morohongo,
+moroyama-machi, iruma-gun, saitama, 350-0495, japan. t_maeda@saitama-med.ac.jp.
+
+background: simple accurate molecular diagnostic method malaria is
+urgently needed due limitations conventional microscopic examination.
+in study, demonstrate new diagnostic procedure human malaria using 
+loop mediated isothermal amplification (lamp) minion™ nanopore sequencer.
+methods: generated specific lamp primers targeting 18s-rrna gene all
+five human plasmodium species including two p. ovale subspecies (p. falciparum,
+p. vivax, p. ovale wallikeri, p. ovale curtisi, p. knowlesi p. malariae) 
+examined human blood samples collected 63 malaria patients indonesia.
+additionally, performed amplicon sequencing lamp products using minion™
+nanopore sequencer identify plasmodium species.
+results: lamp method allowed amplification targeted 18s-rrna genes 
+the reference plasmids detection limits 10-100 copies per reaction. among
+the 63 clinical samples, 54 55 samples positive nested pcr our
+lamp method, respectively. identification plasmodium species lamp
+amplicon sequencing analysis using minion™ consistent reference 
+plasmid sequences results nested pcr.
+conclusions: diagnostic method combined lamp minion™ could become 
+simple accurate tool identification human plasmodium species, even
+in resource-limited situations.
+
+doi: 10.1186/s12879-017-2718-9 
+pmcid: pmc5598014
+pmid: 28903726  [indexed medline]
+

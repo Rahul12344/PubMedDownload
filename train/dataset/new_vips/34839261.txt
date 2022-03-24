@@ -1,0 +1,70 @@
+
+1. EBioMedicine. 2021 Nov 25;74:103712. doi: 10.1016/j.ebiom.2021.103712. [Epub
+ahead of print]
+
+Targeting conserved N-glycosylation blocks SARS-CoV-2 variant infection in vitro.
+
+Huang HC(1), Lai YJ(2), Liao CC(1), Yang WF(3), Huang KB(3), Lee IJ(1), Chou
+WC(1), Wang SH(1), Wang LH(1), Hsu JM(4), Sun CP(1), Kuo CT(1), Wang J(1), Hsiao 
+TC(1), Yang PJ(1), Lee TA(1), Huang W(1), Li FA(1), Shen CY(1), Lin YL(5), Tao
+MH(5), Li CW(6).
+
+Author information: 
+(1)Institute of Biomedical Sciences, Academia Sinica, Taipei 115, Taiwan.
+(2)Institute of Biomedical Sciences, Academia Sinica, Taipei 115, Taiwan;
+Solomont School of Nursing, Zuckerberg College of Health Sciences, University of 
+Massachusetts Lowell, 113 Wilder Street, Lowell, MA 01854, USA.
+(3)State Key Laboratory for Chemistry and Molecular Engineering of Medicinal
+Resources, School of Chemistry and Pharmacy, Guangxi Normal University, Guilin
+541004, PR China.
+(4)Graduate Institute of Biomedical Sciences and Research Center for Cancer
+Biology, China Medical University, Taichung 406040, Taiwan.
+(5)Institute of Biomedical Sciences, Academia Sinica, Taipei 115, Taiwan;
+Biomedical Translational Research Center, Academia Sinica, Taipei, Taiwan.
+(6)Institute of Biomedical Sciences, Academia Sinica, Taipei 115, Taiwan.
+Electronic address: cwli@ibms.sinica.edu.tw.
+
+BACKGROUND: Despite clinical success with anti-spike vaccines, the effectiveness 
+of neutralizing antibodies and vaccines has been compromised by rapidly spreading
+SARS-CoV-2 variants. Viruses can hijack the glycosylation machinery of host cells
+to shield themselves from the host's immune response and attenuate antibody
+efficiency. However, it remains unclear if targeting glycosylation on viral spike
+protein can impair infectivity of SARS-CoV-2 and its variants.
+METHODS: We adopted flow cytometry, ELISA, and BioLayer interferometry approaches
+to assess binding of glycosylated or deglycosylated spike with ACE2. Viral entry 
+was determined by luciferase, immunoblotting, and immunofluorescence assays.
+Genome-wide association study (GWAS) revealed a significant relationship between 
+STT3A and COVID-19 severity. NF-κB/STT3A-regulated N-glycosylation was
+investigated by gene knockdown, chromatin immunoprecipitation, and promoter
+assay. We developed an antibody-drug conjugate (ADC) that couples
+non-neutralization anti-spike antibody with NGI-1 (4G10-ADC) to specifically
+target SARS-CoV-2-infected cells.
+FINDINGS: The receptor binding domain and three distinct SARS-CoV-2 surface
+N-glycosylation sites among 57,311 spike proteins retrieved from the
+NCBI-Virus-database are highly evolutionarily conserved (99.67%) and are involved
+in ACE2 interaction. STT3A is a key glycosyltransferase catalyzing spike
+glycosylation and is positively correlated with COVID-19 severity. We found that 
+inhibiting STT3A using N-linked glycosylation inhibitor-1 (NGI-1) impaired
+SARS-CoV-2 infectivity and that of its variants [Alpha (B.1.1.7) and Beta
+(B.1.351)]. Most importantly, 4G10-ADC enters SARS-CoV-2-infected cells and NGI-1
+is subsequently released to deglycosylate spike protein, thereby reinforcing the 
+neutralizing abilities of antibodies, vaccines, or convalescent sera and reducing
+SARS-CoV-2 variant infectivity.
+INTERPRETATION: Our results indicate that targeting evolutionarily-conserved
+STT3A-mediated glycosylation via an ADC can exert profound impacts on SARS-CoV-2 
+variant infectivity. Thus, we have identified a novel deglycosylation method
+suitable for eradicating SARS-CoV-2 variant infection in vitro.
+FUNDING: A full list of funding bodies that contributed to this study can be
+found in the Acknowledgements section.
+
+Copyright © 2021 The Author(s). Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ebiom.2021.103712 
+PMCID: PMC8613501
+PMID: 34839261 
+
+Conflict of interest statement: Declaration of Competing Interest H.-C. H., Y.-J.
+L., and C.-W.L. declared inventorship with US/ 63/262,926 patent listed on 2021, 
+ANTIBODY-DRUG CONJUGATE FOR REDUCING MEMBRANE RECEPTOR GLYCOSYLATION. The
+remaining authors declare no conflicts of interest.
+

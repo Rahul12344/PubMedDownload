@@ -1,0 +1,37 @@
+
+1. IEEE J Sel Top Signal Process. 2021 Feb 23;15(3):746-758. doi:
+10.1109/JSTSP.2021.3061251. eCollection 2021 Apr.
+
+Application of Tensor Decomposition to Gene Expression of Infection of Mouse
+Hepatitis Virus Can Identify Critical Human Genes and Efffective Drugs for
+SARS-CoV-2 Infection.
+
+Taguchi YH(1), Turki T(2).
+
+Author information: 
+(1)Department of PhysicsChuo University Tokyo 112-8551 Japan.
+(2)Department of Computer ScienceKing Abdulaziz University Jeddah 21589 Saudi
+Arabia.
+
+To better understand the genes with altered expression caused by infection with
+the novel coronavirus strain SARS-CoV-2 causing COVID-19 infectious disease, a
+tensor decomposition (TD)-based unsupervised feature extraction (FE) approach was
+applied to a gene expression profile dataset of the mouse liver and spleen with
+experimental infection of mouse hepatitis virus, which is regarded as a suitable 
+model of human coronavirus infection. TD-based unsupervised FE selected 134
+altered genes, which were enriched in protein-protein interactions with orf1ab,
+polyprotein, and 3C-like protease that are well known to play critical roles in
+coronavirus infection, suggesting that these 134 genes can represent the
+coronavirus infectious process. We then selected compounds targeting the
+expression of the 134 selected genes based on a public domain database. The
+identified drug compounds were mainly related to known antiviral drugs, several
+of which were also included in those previously screened with an in silico method
+to identify candidate drugs for treating COVID-19.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more 
+information, see https://creativecommons.org/licenses/by/4.0/.
+
+DOI: 10.1109/JSTSP.2021.3061251 
+PMCID: PMC8545047
+PMID: 34812273 
+

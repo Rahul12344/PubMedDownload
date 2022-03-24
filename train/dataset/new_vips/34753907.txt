@@ -1,0 +1,48 @@
+
+1. Nat Commun. 2021 Nov 9;12(1):6470. doi: 10.1038/s41467-021-26579-z.
+
+Extended antibody-framework-to-antigen distance observed exclusively with broad
+HIV-1-neutralizing antibodies recognizing glycan-dense surfaces.
+
+Lee M(#)(1), Changela A(#)(1), Gorman J(#)(1), Rawi R(1), Bylund T(1), Chao
+CW(1), Lin BC(1), Louder MK(1), Olia AS(1), Zhang B(1), Doria-Rose NA(1),
+Zolla-Pazner S(2), Shapiro L(1)(3), Chuang GY(4), Kwong PD(5)(6).
+
+Author information: 
+(1)Vaccine Research Center, NIAID, National Institutes of Health, Bethesda, MD,
+20892, USA.
+(2)Department of Medicine and Department of Microbiology, Icahn School of
+Medicine at Mount Sinai, New York, NY, 10029, USA.
+(3)Department of Biochemistry and Molecular Biophysics, Columbia University, New 
+York, NY, 10032, USA.
+(4)Vaccine Research Center, NIAID, National Institutes of Health, Bethesda, MD,
+20892, USA. gwo-yu.chuang@nih.gov.
+(5)Vaccine Research Center, NIAID, National Institutes of Health, Bethesda, MD,
+20892, USA. pdkwong@nih.gov.
+(6)Department of Biochemistry and Molecular Biophysics, Columbia University, New 
+York, NY, 10032, USA. pdkwong@nih.gov.
+(#)Contributed equally
+
+Antibody-Framework-to-Antigen Distance (AFAD) - the distance between the body of 
+an antibody and a protein antigen - is an important parameter governing antibody 
+recognition. Here, we quantify AFAD for ~2,000 non-redundant
+antibody-protein-antigen complexes in the Protein Data Bank. AFADs showed a
+gaussian distribution with mean of 16.3 Å and standard deviation (σ) of 2.4 Å.
+Notably, antibody-antigen complexes with extended AFADs (>3σ) were exclusively
+human immunodeficiency virus-type 1 (HIV-1)-neutralizing antibodies. High
+correlation (R2 = 0.8110) was observed between AFADs and glycan coverage, as
+assessed by molecular dynamics simulations of the HIV-1-envelope trimer.
+Especially long AFADs were observed for antibodies targeting the glycosylated
+trimer apex, and we tested the impact of introducing an apex-glycan hole (N160K);
+the cryo-EM structure of the glycan hole-targeting HIV-1-neutralizing antibody
+2909 in complex with an N160K-envelope trimer revealed a substantially shorter
+AFAD. Overall, extended AFADs exclusively recognized densely glycosylated
+surfaces, with the introduction of a glycan hole enabling closer recognition.
+
+© 2021. This is a U.S. Government work and not under copyright protection in the 
+US; foreign copyright protection may apply.
+
+DOI: 10.1038/s41467-021-26579-z 
+PMCID: PMC8578620
+PMID: 34753907 
+

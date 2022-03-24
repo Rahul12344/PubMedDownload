@@ -1,0 +1,41 @@
+
+1. J Fungi (Basel). 2021 Nov 19;7(11). pii: 990. doi: 10.3390/jof7110990.
+
+No Change of Pneumocystis jirovecii Pneumonia after the COVID-19 Pandemic:
+Multicenter Time-Series Analyses.
+
+Kim D(1), Kim SB(2), Jeon S(3), Kim S(1), Lee KH(1), Lee HS(3), Han SH(1).
+
+Author information: 
+(1)Department of Internal Medicine, Division of Infectious Disease, Yonsei
+University College of Medicine, 211 Eonju-ro, Gangnam-gu, Seoul 06273, Korea.
+(2)Department of Internal Medicine, Division of Infectious Diseases, Korea
+University College of Medicine, 73, Goryeodae-ro, Seongbuk-gu, Seoul 02841,
+Korea.
+(3)Biostatistics Collaboration Unit, Yonsei University College of Medicine, 211
+Eonju-ro, Gangnam-gu, Seoul 06273, Korea.
+
+Consolidated infection control measures imposed by the government and hospitals
+during COVID-19 pandemic resulted in a sharp decline of respiratory viruses.
+Based on the issue of whether Pneumocystis jirovecii could be transmitted by
+airborne and acquired from the environment, we assessed changes in P. jirovecii
+pneumonia (PCP) cases in a hospital setting before and after COVID-19. We
+retrospectively collected data of PCP-confirmed inpatients aged ≥18 years (N =
+2922) in four university-affiliated hospitals between January 2015 and June 2021.
+The index and intervention dates were defined as the first time of P. jirovecii
+diagnosis and January 2020, respectively. We predicted PCP cases for
+post-COVID-19 and obtained the difference (residuals) between forecasted and
+observed cases using the autoregressive integrated moving average (ARIMA) and the
+Bayesian structural time-series (BSTS) models. Overall, the average of observed
+PCP cases per month in each year were 36.1 and 47.3 for pre- and post-COVID-19,
+respectively. The estimate for residuals in the ARIMA model was not significantly
+different in the total PCP-confirmed inpatients (7.4%, p = 0.765). The forecasted
+PCP cases by the BSTS model were not significantly different from the observed
+cases in the post-COVID-19 (-0.6%, 95% credible interval; -9.6~9.1%, p = 0.450). 
+The unprecedented strict non-pharmacological interventions did not affect PCP
+cases.
+
+DOI: 10.3390/jof7110990 
+PMCID: PMC8624436
+PMID: 34829277 
+

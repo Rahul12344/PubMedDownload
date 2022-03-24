@@ -1,0 +1,56 @@
+
+1. J Med Internet Res. 2021 Nov 15;23(11):e24460. doi: 10.2196/24460.
+
+Security Engineering of Patient-Centered Health Care Information Systems in
+Peer-to-Peer Environments: Systematic Review.
+
+Abdullahi Yari I(1), Dehling T(2)(3), Kluge F(1), Geck J(4), Sunyaev A(2)(3),
+Eskofier B(1).
+
+Author information: 
+(1)Department of Artificial Intelligence in Biomedical Engineering, Machine
+Learning and Data Analytics Lab, Friedrich-Alexander University
+Erlangen-Nuremberg, Erlangen, Germany.
+(2)Institute of Applied Informatics and Formal Description Methods, Karlsruhe
+Institute of Technology, Karlsruhe, Germany.
+(3)KASTEL Security Research Labs, Karlsruhe, Germany.
+(4)REFINIO GmbH, Rohr, Germany.
+
+BACKGROUND: Patient-centered health care information systems (PHSs) enable
+patients to take control and become knowledgeable about their own health,
+preferably in a secure environment. Current and emerging PHSs use either a
+centralized database, peer-to-peer (P2P) technology, or distributed ledger
+technology for PHS deployment. The evolving COVID-19 decentralized
+Bluetooth-based tracing systems are examples of disease-centric P2P PHSs.
+Although using P2P technology for the provision of PHSs can be flexible,
+scalable, resilient to a single point of failure, and inexpensive for patients,
+the use of health information on P2P networks poses major security issues as
+users must manage information security largely by themselves.
+OBJECTIVE: This study aims to identify the inherent security issues for PHS
+deployment in P2P networks and how they can be overcome. In addition, this study 
+reviews different P2P architectures and proposes a suitable architecture for P2P 
+PHS deployment.
+METHODS: A systematic literature review was conducted following PRISMA (Preferred
+Reporting Items for Systematic Reviews and Meta-Analyses) reporting guidelines.
+Thematic analysis was used for data analysis. We searched the following
+databases: IEEE Digital Library, PubMed, Science Direct, ACM Digital Library,
+Scopus, and Semantic Scholar. The search was conducted on articles published
+between 2008 and 2020. The Common Vulnerability Scoring System was used as a
+guide for rating security issues.
+RESULTS: Our findings are consolidated into 8 key security issues associated with
+PHS implementation and deployment on P2P networks and 7 factors promoting them.
+Moreover, we propose a suitable architecture for P2P PHSs and guidelines for the 
+provision of PHSs while maintaining information security.
+CONCLUSIONS: Despite the clear advantages of P2P PHSs, the absence of centralized
+controls and inconsistent views of the network on some P2P systems have profound 
+adverse impacts in terms of security. The security issues identified in this
+study need to be addressed to increase patients' intention to use PHSs on P2P
+networks by making them safe to use.
+
+©Imrana Abdullahi Yari, Tobias Dehling, Felix Kluge, Juergen Geck, Ali Sunyaev,
+Bjoern Eskofier. Originally published in the Journal of Medical Internet Research
+(https://www.jmir.org), 15.11.2021.
+
+DOI: 10.2196/24460 
+PMID: 34779788  [Indexed for MEDLINE]
+

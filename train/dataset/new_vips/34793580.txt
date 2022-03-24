@@ -1,0 +1,40 @@
+
+1. PLoS Pathog. 2021 Nov 18;17(11):e1010074. doi: 10.1371/journal.ppat.1010074.
+eCollection 2021 Nov.
+
+Yersinia remodels epigenetic histone modifications in human macrophages.
+
+Bekere I(1), Huang J(1), Schnapp M(1), Rudolph M(1), Berneking L(1), Ruckdeschel 
+K(1), Grundhoff A(2), Günther T(2), Fischer N(1), Aepfelbacher M(1).
+
+Author information: 
+(1)Institute of Medical Microbiology, Virology and Hygiene, University Medical
+Center Hamburg-Eppendorf (UKE), Hamburg, Germany.
+(2)Heinrich-Pette-Institute (HPI), Leibniz Institute for Experimental Virology,
+Research Group Virus Genomics, Hamburg, Germany.
+
+Various pathogens systematically reprogram gene expression in macrophages, but
+the underlying mechanisms are largely unknown. We investigated whether the
+enteropathogen Yersinia enterocolitica alters chromatin states to reprogram gene 
+expression in primary human macrophages. Genome-wide chromatin
+immunoprecipitation (ChIP) seq analyses showed that pathogen-associated molecular
+patterns (PAMPs) induced up- or down-regulation of histone modifications (HMod)
+at approximately 14500 loci in promoters and enhancers. Effectors of Y.
+enterocolitica reorganized about half of these dynamic HMod, with the effector
+YopP being responsible for about half of these modulatory activities. The
+reorganized HMod were associated with genes involved in immune response and
+metabolism. Remarkably, the altered HMod also associated with 61% of all 534
+known Rho GTPase pathway genes, revealing a new level in Rho GTPase regulation
+and a new aspect of bacterial pathogenicity. Changes in HMod were associated to
+varying degrees with corresponding gene expression, e. g. depending on chromatin 
+localization and cooperation of the HMod. In summary, infection with Y.
+enterocolitica remodels HMod in human macrophages to modulate key gene expression
+programs of the innate immune response.
+
+DOI: 10.1371/journal.ppat.1010074 
+PMCID: PMC8639070
+PMID: 34793580 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

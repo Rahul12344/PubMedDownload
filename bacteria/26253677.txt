@@ -1,0 +1,51 @@
+
+1. Appl Environ Microbiol. 2015 Oct;81(20):7187-200. doi: 10.1128/AEM.02028-15. Epub
+2015 Aug 7.
+
+Alcohol Selectivity in a Synthetic Thermophilic n-Butanol Pathway Is Driven by
+Biocatalytic and Thermostability Characteristics of Constituent Enzymes.
+
+Loder AJ(1), Zeldes BM(1), Garrison GD 2nd(1), Lipscomb GL(2), Adams MW(2), Kelly
+RM(3).
+
+Author information: 
+(1)Department of Chemical and Biomolecular Engineering, North Carolina State
+University, Raleigh, North Carolina, USA.
+(2)Department of Biochemistry and Molecular Biology, University of Georgia,
+Athens, Georgia, USA.
+(3)Department of Chemical and Biomolecular Engineering, North Carolina State
+University, Raleigh, North Carolina, USA rmkelly@ncsu.edu.
+
+n-Butanol is generated as a natural product of metabolism by several
+microorganisms, but almost all grow at mesophilic temperatures. A synthetic
+pathway for n-butanol production from acetyl coenzyme A (acetyl-CoA) that
+functioned at 70°C was assembled in vitro from enzymes recruited from
+thermophilic bacteria to inform efforts for engineering butanol production into
+thermophilic hosts. Recombinant versions of eight thermophilic enzymes
+(β-ketothiolase [Thl], 3-hydroxybutyryl-CoA dehydrogenase [Hbd], and
+3-hydroxybutyryl-CoA dehydratase [Crt] from Caldanaerobacter subterraneus subsp. 
+tengcongensis; trans-2-enoyl-CoA reductase [Ter] from Spirochaeta thermophila;
+bifunctional acetaldehyde dehydrogenase/alcohol dehydrogenase [AdhE] from
+Clostridium thermocellum; and AdhE, aldehyde dehydrogenase [Bad], and butanol
+dehydrogenase [Bdh] from Thermoanaerobacter sp. strain X514) were utilized to
+examine three possible pathways for n-butanol. These pathways differed in the two
+steps required to convert butyryl-CoA to n-butanol: Thl-Hbd-Crt-Ter-AdhE (C.
+thermocellum), Thl-Hbd-Crt-Ter-AdhE (Thermoanaerobacter X514), and
+Thl-Hbd-Crt-Ter-Bad-Bdh. n-Butanol was produced at 70°C, but with different
+amounts of ethanol as a coproduct, because of the broad substrate specificities
+of AdhE, Bad, and Bdh. A reaction kinetics model, validated via comparison to in 
+vitro experiments, was used to determine relative enzyme ratios needed to
+maximize n-butanol production. By using large relative amounts of Thl and Hbd and
+small amounts of Bad and Bdh, >70% conversion to n-butanol was observed in vitro,
+but with a 60% decrease in the predicted pathway flux. With more-selective
+hypothetical versions of Bad and Bdh, >70% conversion to n-butanol is predicted, 
+with a 19% increase in pathway flux. Thus, more-selective thermophilic versions
+of Bad, Bdh, and AdhE are needed to fully exploit biocatalytic n-butanol
+production at elevated temperatures.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/AEM.02028-15 
+PMCID: PMC4579425
+PMID: 26253677  [Indexed for MEDLINE]
+

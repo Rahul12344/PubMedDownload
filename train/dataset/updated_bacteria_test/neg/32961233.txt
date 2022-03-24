@@ -1,0 +1,45 @@
+
+1. Life Sci. 2020 Dec 1;262:118466. doi: 10.1016/j.lfs.2020.118466. Epub 2020 Sep
+19.
+
+Comparative modeling and dynamic simulation of UDP-N-acetylmuramoyl-alanine
+ligase (MurC) from Mycobacterium tuberculosis through virtual screening and
+toxicity analysis.
+
+Isa MA(1).
+
+Author information: 
+(1)Department of Microbiology, Faculty of Sciences, University of Maiduguri,
+P.M.B. 1069, Nigeria. Electronic address: mustafaisa@unimaid.edu.ng.
+
+INTRODUCTION: UDP-N-acetylmuramic-alanine ligase (MurC) is an enzyme catalyzing
+the addition of L-alanine to UDP-acetylmuramoyl nucleotide precursor in
+Mycobacterium tuberculosis (M. tuberculosis). This enzyme is a prerequisite for
+the biosynthesis of the peptidoglycans in M. tuberculosis.
+AIM: This study aimed to identify the novel inhibitors of MurC using in silico
+approach.
+MATERIALS AND METHODS: The three dimensional (3D) structure of MurC was
+determined using comparative modeling and based on the template obtained from
+Haemophilus influenza (1P31). The structural analysis of the model structure
+shown that three residues (Lys126, Glu170, and Glu358) are critical for in the
+catalytic activity of the enzyme, and their inhibition will block the function of
+the enzyme. Ten thousand and ninety-five (10095) compounds obtained through
+virtual screening against Zinc and PubChem databases based on their ability to
+bind to MurC with minimum binding energies. These ligands screened for the
+physicochemical properties, molecular docking, and pharmacokinetic analyses.
+FINDING: Six compounds had desirable physicochemical and pharmacokinetic
+properties with excellent binding energy ranged between -12.27 and
+-10.09 kcal/mol. These compounds subjected to Molecular Dynamic (MD) Simulation
+and Molecular Mechanics Generalized Born Surface Area (MM-GBSA) analyses. The
+outcome of the analysis revealed that four ligands (PubChem1548994, ZINC11882115,
+ZINC22241774, and ZINC12330603) formed a stable conformation in the
+substrate-binding site of the protein during the 50 ns MD simulation.
+CONCLUSION: Therefore, the ligands mentioned above might regard as novel
+inhibitors of M. tuberculosis which requires further in vitro and in vivo
+validation.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.lfs.2020.118466 
+PMID: 32961233  [Indexed for MEDLINE]
+

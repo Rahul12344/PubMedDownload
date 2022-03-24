@@ -1,0 +1,34 @@
+
+1. Proc Natl Acad Sci U S A. 2000 Jun 20;97(13):7190-5.
+
+Adenosylcobalamin inhibits ribosome binding to btuB RNA.
+
+Nou X(1), Kadner RJ.
+
+Author information: 
+(1)Department of Microbiology, University of Virginia School of Medicine,
+Charlottesville, VA 22908-0734, USA.
+
+Expression of the btuB gene encoding the outer membrane cobalamin transporter in 
+Escherichia coli is strongly reduced on growth with cobalamins. Previous studies 
+have shown that this regulation occurs in response to adenosylcobalamin (Ado-Cbl)
+and operates primarily at the translational level. Changes in the level and
+stability of btuB RNA are consequences of the modulated translation initiation.
+To examine how Ado-Cbl affects translation, the binding of E. coli 30S ribosomal 
+subunits to btuB RNA was investigated by using a primer extension inhibition
+assay. Ribosome binding to btuB RNA was much less efficient than to other RNAs
+and was preferentially lost when the ribosomes were subjected to a high-salt
+wash. Ribosome binding to btuB RNA was inhibited by Ado-Cbl but not by
+cyanocobalamin, with half-maximal inhibition around 0.3 microM Ado-Cbl.
+Ribosome-binding activity was increased or decreased by mutations in the btuB
+leader region, which affected two predicted RNA hairpins and altered expression
+of btuB-lacZ reporters. Finally, the presence of Ado-Cbl elicited formation of a 
+single primer extension-inhibition product with the same specificity and
+Cbl-concentration dependence as the inhibition of ribosome binding. These results
+indicate that btuB expression is controlled by the specific binding of Ado-Cbl to
+btuB RNA, which then affects access to its ribosome-binding sequence.
+
+DOI: 10.1073/pnas.130013897 
+PMCID: PMC16521
+PMID: 10852957  [Indexed for MEDLINE]
+

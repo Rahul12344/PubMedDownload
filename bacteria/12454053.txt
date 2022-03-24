@@ -1,0 +1,34 @@
+
+1. Genetics. 2002 Nov;162(3):1031-43.
+
+A novel class of secA alleles that exert a signal-sequence-dependent effect on
+protein export in Escherichia coli.
+
+Khatib K(1), Belin D.
+
+Author information: 
+(1)Department of Pathology, University of Geneva, Switzerland.
+
+The murine plasminogen activator inhibitor 2 (PAI2) signal sequence inefficiently
+promotes the export of E. coli alkaline phosphatase (AP). High-level expression
+of PAI2::AP chimeric proteins from the arabinose P(BAD) promoter is toxic and
+confers an Ara(S) phenotype. Most Ara(R) suppressors map to secA, as determined
+by sequencing 21 independent alleles. Mutations occur throughout the gene,
+including both nucleotide binding domains (NBDI and NBDII) and the putative
+signal sequence binding domain (SSBD). Using malE and phoA signal sequence
+mutants, we showed that the vast majority of these secA suppressors exhibit weak 
+Sec phenotypes. Eight of these secA mutations were further characterized in
+detail. Phenotypically, these eight suppressors can be divided into three groups,
+each localized to one domain of SecA. Most mutations allow near-normal levels of 
+wild-type preprotein export, but they enhance the secretion defect conferred by
+signal sequence mutations. Interestingly, one group exerts a selective effect on 
+the export of PAI2::AP when compared to that of AP. In conclusion, this novel
+class of secA mutations, selected as suppressors of a toxic signal sequence,
+differs from the classical secA (prlD) mutations, selected as suppressors of
+defective signal sequences, although both types of mutations affect signal
+sequence recognition.
+
+
+PMCID: PMC1462312
+PMID: 12454053  [Indexed for MEDLINE]
+

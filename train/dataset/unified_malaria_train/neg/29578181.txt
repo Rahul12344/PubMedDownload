@@ -1,0 +1,42 @@
+
+1. j cancer res ther. 2018;14(supplement):s243-s247. doi: 10.4103/0973-1482.207068.
+
+identification key genes related high-risk gastrointestinal stromal tumors 
+using bioinformatics analysis.
+
+jin s(1), zhu w(2), li j(2).
+
+author information: 
+(1)department anesthesia, jinan central hospital affiliated shandong
+university, jinan, 250013, shandong province, china.
+(2)department gastroenterology, chinese pla general hospital, beijing, 100853,
+china.
+
+aim: purpose study identify predictive biomarkers used for
+clinical therapy prognostic evaluation high-risk gastrointestinal stromal 
+tumors (gists).
+materials methods: study, microarray data gse31802 used to
+identify differentially expressed genes (degs) high-risk gists and
+low-risk gists. then, enrichment analysis degs conducted based gene
+ontology kyoto encyclopedia genes genomes pathway database. in
+addition, transcription factors cancer-related genes degs were
+screened according transfac, tsgene, tag database. finally,
+protein-protein interaction (ppi) network constructed analyzed look
+for critical genes involved high-risk gists.
+results: total forty degs obtained genes mainly involved
+in four pathways, including melanogenesis, neuroactive ligand-receptor
+interaction, malaria, hematopoietic cell lineage. enriched biological
+processes related regulation insulin secretion, integrin
+activation, neuropeptide signaling pathway. transcription factor analysis 
+degs indicated pou domain, class 2, associating factor 1 (pou2af1) was
+significantly downregulated high-risk gists. constructing ppi network
+of degs, ten genes high degrees formed local networks, pnoc, p2ry14,
+and selp.
+conclusions: four genes pou2af1, pnoc, p2ry14, selp might used as
+biomarkers prognosis high-risk gists.
+
+doi: 10.4103/0973-1482.207068 
+pmid: 29578181  [indexed medline]
+
+conflict interest statement: conflicts interest
+

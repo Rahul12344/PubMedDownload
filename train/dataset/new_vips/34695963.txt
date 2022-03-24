@@ -1,0 +1,60 @@
+
+1. Sensors (Basel). 2021 Oct 12;21(20). pii: 6750. doi: 10.3390/s21206750.
+
+Improving Machine Learning Classification Accuracy for Breathing Abnormalities by
+Enhancing Dataset.
+
+Rehman M(1)(2), Shah RA(1), Khan MB(2), Shah SA(3), AbuAli NA(4), Yang X(5),
+Alomainy A(6), Imran MA(7)(8), Abbasi QH(7).
+
+Author information: 
+(1)Department of Electrical Engineering, HITEC University, Taxila 47080,
+Pakistan.
+(2)Department of Electrical and Computer Engineering, COMSATS University
+Islamabad, Attock Campus, Attock 43600, Pakistan.
+(3)Research Centre for Intelligent Healthcare, Coventry University, Coventry CV1 
+5FB, UK.
+(4)College of Information Technology, United Arab Emirates University (UAEU), Abu
+Dhabi 15551, United Arab Emirates.
+(5)School of Electronic Engineering, Xidian University, Xi'an 710071, China.
+(6)School of Electronic Engineering and Computer Science, Queen Mary University
+of London, London E1 4NS, UK.
+(7)School of Engineering, University of Glasgow, Glasgow G12 8QQ, UK.
+(8)Artificial Intelligence Research Centre (AIRC), Ajman University, Ajman 20550,
+United Arab Emirates.
+
+The recent severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), also
+known as coronavirus disease (COVID)-19, has appeared as a global pandemic with a
+high mortality rate. The main complication of COVID-19 is rapid respirational
+deterioration, which may cause life-threatening pneumonia conditions. Global
+healthcare systems are currently facing a scarcity of resources to assist
+critical patients simultaneously. Indeed, non-critical patients are mostly
+advised to self-isolate or quarantine themselves at home. However, there are
+limited healthcare services available during self-isolation at home. According to
+research, nearly 20-30% of COVID patients require hospitalization, while almost
+5-12% of patients may require intensive care due to severe health conditions.
+This pandemic requires global healthcare systems that are intelligent, secure,
+and reliable. Tremendous efforts have been made already to develop non-contact
+sensing technologies for the diagnosis of COVID-19. The most significant early
+indication of COVID-19 is rapid and abnormal breathing. In this research work,
+RF-based technology is used to collect real-time breathing abnormalities data.
+Subsequently, based on this data, a large dataset of simulated breathing
+abnormalities is generated using the curve fitting technique for developing a
+machine learning (ML) classification model. The advantages of generating
+simulated breathing abnormalities data are two-fold; it will help counter the
+daunting and time-consuming task of real-time data collection and improve the ML 
+model accuracy. Several ML algorithms are exploited to classify eight breathing
+abnormalities: eupnea, bradypnea, tachypnea, Biot, sighing, Kussmaul,
+Cheyne-Stokes, and central sleep apnea (CSA). The performance of ML algorithms is
+evaluated based on accuracy, prediction speed, and training time for real-time
+breathing data and simulated breathing data. The results show that the proposed
+platform for real-time data classifies breathing patterns with a maximum accuracy
+of 97.5%, whereas by introducing simulated breathing data, the accuracy increases
+up to 99.3%. This work has a notable medical impact, as the introduced method
+mitigates the challenge of data collection to build a realistic model of a large 
+dataset during the pandemic.
+
+DOI: 10.3390/s21206750 
+PMCID: PMC8538545
+PMID: 34695963  [Indexed for MEDLINE]
+

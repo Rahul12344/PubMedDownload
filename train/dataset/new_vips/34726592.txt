@@ -1,0 +1,48 @@
+
+1. J Gen Virol. 2021 Nov;102(11). doi: 10.1099/jgv.0.001670.
+
+Extrachromosomal viral DNA produced by transcriptionally active endogenous viral 
+elements in non-infected banana hybrids impedes quantitative PCR diagnostics of
+banana streak virus infections in banana hybrids.
+
+Ricciuti E(1), Laboureau N(1)(2)(3), Noumbissié G(1), Chabannes M(1)(4)(5),
+Sukhikh N(3)(6), Pooggin MM(3), Iskra-Caruana ML(1)(7).
+
+Author information: 
+(1)CIRAD, UMR BGPI, Univ Montpellier, INRAE, Montpellier SupAgro, Montpellier,
+34984, France.
+(2)CIRAD, UMR PHIM, 34090 Montpellier, France.
+(3)PHIM Plant Health Institute, Univ Montpellier, INRAE, IRD, CIRAD, Institut
+Agro, Montpellier, France.
+(4)CIRAD, UMR AGAP Intitute, F-34398 Montpellier, France.
+(5)AGAP Institute, Univ Montpellier, CIRAD, INRAE, Institut Agro, F-34398
+Montpellier, France.
+(6)Institute of Bioengineering, Research Center of Biotechnology of the Russian
+Academy of Sciences. Moscow, 119071, Russia.
+(7)CIRAD, DGD-RS, F-34398 Montpellier, France.
+
+The main edible and cultivated banana varieties are intra- and interspecific
+hybrids of the two main Musa species, Musa acuminata and Musa balbisiana, having 
+diploid genomes denoted A and B, respectively. The B genome naturally hosts
+sequences of banana streak virus (BSV) named endogenous BSV (eBSV). Upon stress, 
+eBSVs are identified as the origin of BSV infection for at least three BSV
+species, causing banana streak disease. For each of the three species, BSV and
+eBSV share >99.9 % sequence identity, complicating PCR-based diagnosis of viral
+infection in the B genome-containing bananas. Here, we designed a quantitative
+PCR-based method to only quantify episomal BSV particles produced, overcoming the
+limitation of eBSV also being detected by qPCR by using it as a 'calibrator'.
+However, our results revealed unexpected variation of eBSV amplification in
+calibrator plants composed of a clonal population of 53 replicating virus-free
+banana hybrids with the same AAB genotype. Our in-depth molecular analyses
+suggest that this calibrator variation is due to the variable abundance of
+non-encapsidated extrachromosomal viral DNA, likely produced via the
+transcription of eBSVs, followed by occasional reverse transcription. We also
+present evidence that accumulation of viral transcripts in AAB plants is
+downregulated both at post-transcriptional and transcriptional levels by an RNA
+interference mechanism that keeps the plants free of virus infection. Finally, we
+recommend that such eBSV amplification variation be taken into account to
+establish a quantitative viral diagnostic for banana plants with the B genome.
+
+DOI: 10.1099/jgv.0.001670 
+PMID: 34726592 
+

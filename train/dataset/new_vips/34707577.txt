@@ -1,0 +1,72 @@
+
+1. Front Microbiol. 2021 Oct 11;12:712081. doi: 10.3389/fmicb.2021.712081.
+eCollection 2021.
+
+Microbiome Profiling Using Shotgun Metagenomic Sequencing Identified Unique
+Microorganisms in COVID-19 Patients With Altered Gut Microbiota.
+
+Li S(1), Yang S(2), Zhou Y(1), Disoma C(1), Dong Z(1), Du A(1), Zhang Y(1), Chen 
+Y(3), Huang W(3), Chen J(4), Song D(4), Chen Z(1), Liu P(1), Li S(1), Zheng R(1),
+Liu S(1), Razzaq A(1), Chen X(1), Tao S(1), Yu C(1), Feng T(5), Liao W(6), Peng
+Y(7), Jiang T(8), Huang J(1), Wu W(9), Hu L(3), Wang L(2), Li S(1), Xia Z(1).
+
+Author information: 
+(1)Hunan Key Laboratory of Animal Models for Human Diseases, Department of Cell
+Biology, School of Life Sciences, Central South University, Changsha, China.
+(2)Beijing Key Laboratory of Emerging Infectious Diseases, Beijing Ditan
+Hospital, Capital Medical University, Beijing, China.
+(3)The First Hospital of Changsha, Changsha, China.
+(4)Suzhou Geneworks Technology Co., Ltd., Suzhou, China.
+(5)Xiangya School of Medicine, Central South University, Changsha, China.
+(6)Department of Gynaecology and Obstetrics, The First Affiliated Hospital of
+University of South China, Hengyang, China.
+(7)Hunan Provincial Key Laboratory of Medical Virology, Bioinformatics Center,
+College of Biology, Hunan University, Changsha, China.
+(8)Center for Systems Medicine, Institute of Basic Medical Sciences, Chinese
+Academy of Medical Sciences and Peking Union Medical College, Beijing, China.
+(9)Department of Plastic and Reconstructive Surgery, Shanghai Ninth People's
+Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+
+COVID-19 is mainly associated with respiratory distress syndrome, but a subset of
+patients often present gastrointestinal (GI) symptoms. Imbalances of gut
+microbiota have been previously linked to respiratory virus infection.
+Understanding how the gut-lung axis affects the progression of COVID-19 can
+provide a novel framework for therapies and management. In this study, we
+examined the gut microbiota of patients with COVID-19 (n = 47) and compared it to
+healthy controls (n = 19). Using shotgun metagenomic sequencing, we have
+identified four microorganisms unique in COVID-19 patients, namely Streptococcus 
+thermophilus, Bacteroides oleiciplenus, Fusobacterium ulcerans, and Prevotella
+bivia. The abundances of Bacteroides stercoris, B. vulgatus, B. massiliensis,
+Bifidobacterium longum, Streptococcus thermophilus, Lachnospiraceae bacterium
+5163FAA, Prevotella bivia, Erysipelotrichaceae bacterium 6145, and
+Erysipelotrichaceae bacterium 2244A were enriched in COVID-19 patients, whereas
+the abundances of Clostridium nexile, Streptococcus salivarius, Coprococcus
+catus, Eubacterium hallii, Enterobacter aerogenes, and Adlercreutzia
+equolifaciens were decreased (p < 0.05). The relative abundance of
+butyrate-producing Roseburia inulinivorans is evidently depleted in COVID-19
+patients, while the relative abundances of Paraprevotella sp. and the probiotic
+Streptococcus thermophilus were increased. We further identified 30 KEGG
+orthology (KO) modules overrepresented, with 7 increasing and 23 decreasing
+modules. Notably, 15 optimal microbial markers were identified using the random
+forest model to have strong diagnostic potential in distinguishing COVID-19.
+Based on Spearman's correlation, eight species were associated with eight
+clinical indices. Moreover, the increased abundance of Bacteroidetes and
+decreased abundance of Firmicutes were also found across clinical types of
+COVID-19. Our findings suggest that the alterations of gut microbiota in patients
+with COVID-19 may influence disease severity. Our COVID-19 classifier, which was 
+cross-regionally verified, provides a proof of concept that a set of microbial
+species markers can distinguish the presence of COVID-19.
+
+Copyright © 2021 Li, Yang, Zhou, Disoma, Dong, Du, Zhang, Chen, Huang, Chen,
+Song, Chen, Liu, Li, Zheng, Liu, Razzaq, Chen, Tao, Yu, Feng, Liao, Peng, Jiang, 
+Huang, Wu, Hu, Wang, Li and Xia.
+
+DOI: 10.3389/fmicb.2021.712081 
+PMCID: PMC8542975
+PMID: 34707577 
+
+Conflict of interest statement: JC and DS are employed by Suzhou Geneworks
+Technology Co., Ltd. The remaining authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

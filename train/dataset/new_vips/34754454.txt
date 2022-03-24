@@ -1,0 +1,61 @@
+
+1. Evol Med Public Health. 2021 Sep 23;9(1):338-348. doi: 10.1093/emph/eoab028.
+eCollection 2021.
+
+Concordance of HIV transmission risk factors elucidated using viral
+diversification rate and phylogenetic clustering.
+
+McLaughlin A(1)(2), Sereda P(1), Brumme CJ(1)(3), Brumme ZL(1)(4), Barrios R(1), 
+Montaner JSG(1)(3), Joy JB(1)(2)(3).
+
+Author information: 
+(1)British Columbia Centre for Excellence in HIV/AIDS, St. Paul's Hospital,
+608-1081 Burrard Street, Vancouver, BC V6Z 1Y6, Canada.
+(2)Department of Bioinformatics, University of British Columbia, Genome Sciences 
+Centre, British Columbia Cancer Agency, 100-570 West 7th Avenue, Vancouver, BC
+V5Z 4S6, Canada.
+(3)Division of Infectious Diseases, Department of Medicine, University of British
+Columbia, 452D, Heather Pavilion East, Vancouver General Hospital, 2733 Heather
+Street, Vancouver, BC V5Z 3J5, Canada.
+(4)Faculty of Health Sciences, Simon Fraser University, Blusson Hall, Room 11300,
+8888 University Drive, Burnaby, BC V5A 1S6, Canada.
+
+Background and objectives: Although HIV sequence clustering is routinely used to 
+identify subpopulations experiencing elevated transmission, it over-simplifies
+transmission dynamics and is sensitive to methodology. Complementarily, viral
+diversification rates can be used to approximate historical transmission rates.
+Here, we investigated the concordance and sensitivity of HIV transmission risk
+factors identified by phylogenetic clustering, viral diversification rate,
+changes in viral diversification rate and a combined approach.
+Methodology: Viral sequences from 9848 people living with HIV in British
+Columbia, Canada, sampled between 1996 and February 2019, were used to infer
+phylogenetic trees, from which clusters were identified and viral diversification
+rates of each tip were calculated. Factors associated with heightened
+transmission risk were compared across models of cluster membership, viral
+diversification rate, changes in diversification rate, and viral diversification 
+rate among clusters.
+Results: Viruses within larger clusters had higher diversification rates and
+lower changes in diversification rate than those within smaller clusters;
+however, rates within individual clusters, independent of size, varied widely.
+Risk factors for both cluster membership and elevated viral diversification rate 
+included being male, young, a resident of health authority E, previous injection 
+drug use, previous hepatitis C virus infection or a high recent viral load. In a 
+sensitivity analysis, models based on cluster membership had wider confidence
+intervals and lower concordance of significant effects than viral diversification
+rate for lower sampling rates.
+Conclusions and implications: Viral diversification rate complements phylogenetic
+clustering, offering a means of evaluating transmission dynamics to guide
+provision of treatment and prevention services.
+Lay Summary: Understanding HIV transmission dynamics within clusters can help
+prioritize public health resource allocation. We compared socio-demographic and
+clinical risk factors associated with phylogenetic cluster membership and viral
+diversification rate, a historical branching rate, in order to assess their
+relative concordance and sampling sensitivity.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of the
+Foundation for Evolution, Medicine, and Public Health.
+
+DOI: 10.1093/emph/eoab028 
+PMCID: PMC8573190
+PMID: 34754454 
+

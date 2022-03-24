@@ -1,0 +1,51 @@
+
+1. J Cell Mol Med. 2021 Mar 22. doi: 10.1111/jcmm.16407. [Epub ahead of print]
+
+A single-cell survey of the human glomerulonephritis.
+
+Chen Z(1), Zhang T(2), Mao K(2), Shao X(1), Xu Y(1), Zhu M(1), Zhou H(1), Wang
+Q(1), Li Z(1), Xie Y(1), Yuan X(3), Ying L(3), Zhang M(3), Hu J(4), Mou S(1).
+
+Author information: 
+(1)Department of Nephrology, Molecular Cell Laboratory for Kidney Disease, Ren Ji
+Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, China.
+(2)Shanghai Institute of Immunology, Department of Microbiology and Immunology,
+Shanghai Jiao Tong University School of Medicine (SJTU-SM), Shanghai, China.
+(3)Transplantation Center of Ren Ji Hospital, School of Medicine, Shanghai Jiao
+Tong University, Shanghai, China.
+(4)Department of Nuclear Medicine, Ruijin Hospital, Shanghai Jiao Tong University
+School of Medicine, Shanghai, China.
+
+Glomerulonephritis is the one of the major causes of the end-stage kidney
+disease, whereas the pathological process of glomerulonephritis is still not
+completely understood. Single-cell RNA sequencing (scRNA-seq) emerges to be a
+powerful tool to evaluate the full heterogeneity of kidney diseases. To reveal
+cellular gene expression profiles of glomerulonephritis, we performed scRNA-seq
+of 2 human kidney transplantation donor samples, 4 human glomerulonephritis
+samples, 1 human malignant hypertension (MH) sample and 1 human chronic
+interstitial nephritis (CIN) sample, all tissues were taken from the biopsy.
+After filtering the cells with < 200 genes and > 10% mitochondria (MT) genes, the
+resulting 14 932 cells can be divided into 20 cell clusters, consistently with
+the previous report, in disease samples dramatic immune cells infiltration was
+found, among which a proximal tubule (PT) subset characterized by wnt-β catenin
+activation and a natural killer T (NKT) subset high expressing LTB were found.
+Furthermore, in the cluster of the podocyte, three glomerulonephritis related
+genes named FXYD5, CD74 and B2M were found. Compared with the mesangial of donor,
+the gene CLIC1 and RPS26 were up-regulated in mesangial of IgA nephropathy(IgAN),
+whereas the gene JUNB was up-regulated in podocyte of IgAN in comparison with
+that of donor. Meanwhile, some membranous nephropathy (MN) high expressed genes
+such as HLA-DRB5, HLA-DQA2, IFNG, CCL2 and NR4A2, which involve in highest
+enrichment pathway, display the cellular-specific expression style, whereas
+monocyte marker of lupus nephritis (LN) named TNFSF13B was also found and
+interferon alpha/beta signalling pathway was enriched in B and NKT of LN
+comparing with donor. By scRNA-seq, we first defined the podocyte markers of
+glomerulonephritis and specific markers in IgA, MN and LN were found at cellular 
+level. Furthermore, the critical role of interferon alpha/beta signalling pathway
+was enriched in B and NKT of LN was declared.
+
+© 2021 The Authors. Journal of Cellular and Molecular Medicine published by
+Foundation for Cellular and Molecular Medicine and John Wiley & Sons Ltd.
+
+DOI: 10.1111/jcmm.16407 
+PMID: 33754492 
+

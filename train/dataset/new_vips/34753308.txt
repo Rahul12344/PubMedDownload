@@ -1,0 +1,39 @@
+
+1. J R Soc Interface. 2021 Nov;18(184):20210401. doi: 10.1098/rsif.2021.0401. Epub
+2021 Nov 10.
+
+Life cycle process dependencies of positive-sense RNA viruses suggest strategies 
+for inhibiting productive cellular infection.
+
+Chhajer H(1), Rizvi VA(2), Roy R(1)(3).
+
+Author information: 
+(1)Centre for Biosystems Science and Engineering, Indian Institute of Science,
+Bangalore 560012, Karnataka, India.
+(2)Molecular Biophysics Unit, Indian Institute of Science, Bangalore 560012,
+Karnataka, India.
+(3)Department of Chemical Engineering, Indian Institute of Science, Bangalore
+560012, Karnataka, India.
+
+Life cycle processes of positive-strand (+)RNA viruses are broadly conserved
+across families, yet they employ different strategies to grow in the cell. Using 
+a generalized dynamical model for intracellular (+)RNA virus growth, we decipher 
+these life cycle determinants and their dependencies for several viruses and
+parse the effects of viral mutations, drugs and host cell permissivity. We show
+that poliovirus employs rapid replication and virus assembly, whereas the
+Japanese encephalitis virus leverages its higher rate of translation and
+efficient cellular reorganization compared to the hepatitis C virus. Stochastic
+simulations demonstrate infection extinction if all seeding (inoculating) viral
+RNA degrade before establishing robust replication critical for infection. The
+probability of this productive cellular infection, 'cellular infectivity', is
+affected by virus-host processes and defined by early life cycle events and viral
+seeding. An increase in cytoplasmic RNA degradation and delay in vesicular
+compartment formation reduces infectivity, more so when combined. Synergy among
+these parameters in limiting (+)RNA virus infection as predicted by our model
+suggests new avenues for inhibiting infections by targeting the early life cycle 
+bottlenecks.
+
+DOI: 10.1098/rsif.2021.0401 
+PMCID: PMC8580453 [Available on 2022-11-10]
+PMID: 34753308 
+

@@ -1,0 +1,26 @@
+
+1. j math biol. 2000 aug;41(2):143-71.
+
+ring vaccination.
+
+müller j(1), schönfisch b, kirkilionis m.
+
+author information: 
+(1)biomathematics, university tübingen, germany.
+johannes.mueller@uni-tuebingen.de
+
+based description outbreak foot-and-mouth disease (fmd), a
+particle model developed describing important properties this
+epidemic. also control measures (mass ring vaccination) implemented. this
+model shows expected behavior simulations. since impossible treat
+this model analytically, use ideas branching processes two levels to
+derive caricature particle model. simulations shown this
+caricature exhibits similar behavior particle system. possible to
+analyze caricature and, way, obtain expressions most
+important quantities like reproduction number expected final number of
+infected individuals etc. way mass vaccination ring vaccination can
+be compared control strategies optimized.
+
+doi: 10.1007/s002850070003 
+pmid: 11039695  [indexed medline]
+

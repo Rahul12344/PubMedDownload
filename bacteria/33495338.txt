@@ -1,0 +1,55 @@
+
+1. Proc Natl Acad Sci U S A. 2021 Feb 2;118(5). pii: e2020478118. doi:
+10.1073/pnas.2020478118.
+
+Tumor-suppressor function of Beclin 1 in breast cancer cells requires E-cadherin.
+
+Wijshake T(1)(2), Zou Z(1)(2)(3), Chen B(4), Zhong L(4), Xiao G(4), Xie Y(4),
+Doench JG(5), Bennett L(6)(2), Levine B(1)(2)(3)(7).
+
+Author information: 
+(1)Center for Autophagy Research, University of Texas Southwestern Medical
+Center, Dallas, TX 75390.
+(2)Department of Internal Medicine, University of Texas Southwestern Medical
+Center, Dallas, TX 75390.
+(3)Howard Hughes Medical Institute, University of Texas Southwestern Medical
+Center, Dallas, TX 75390.
+(4)Quantitative Biomedical Research Center, Department of Population and Data
+Sciences, University of Texas Southwestern Medical Center, Dallas, TX 75390.
+(5)Broad Institute of MIT and Harvard, Cambridge, MA 02142.
+(6)Center for Autophagy Research, University of Texas Southwestern Medical
+Center, Dallas, TX 75390; lynda.bennett@utsouthwestern.edu.
+(7)Department of Microbiology, University of Texas Southwestern Medical Center,
+Dallas, TX 75390.
+
+Beclin 1, an autophagy and haploinsufficient tumor-suppressor protein, is
+frequently monoallelically deleted in breast and ovarian cancers. However, the
+precise mechanisms by which Beclin 1 inhibits tumor growth remain largely
+unknown. To address this question, we performed a genome-wide CRISPR/Cas9 screen 
+in MCF7 breast cancer cells to identify genes whose loss of function reverse
+Beclin 1-dependent inhibition of cellular proliferation. Small guide RNAs
+targeting CDH1 and CTNNA1, tumor-suppressor genes that encode cadherin/catenin
+complex members E-cadherin and alpha-catenin, respectively, were highly enriched 
+in the screen. CRISPR/Cas9-mediated knockout of CDH1 or CTNNA1 reversed Beclin
+1-dependent suppression of breast cancer cell proliferation and
+anchorage-independent growth. Moreover, deletion of CDH1 or CTNNA1 inhibited the 
+tumor-suppressor effects of Beclin 1 in breast cancer xenografts. Enforced Beclin
+1 expression in MCF7 cells and tumor xenografts increased cell surface
+localization of E-cadherin and decreased expression of mesenchymal markers and
+beta-catenin/Wnt target genes. Furthermore, CRISPR/Cas9-mediated knockout of
+BECN1 and the autophagy class III phosphatidylinositol kinase complex 2
+(PI3KC3-C2) gene, UVRAG, but not PI3KC3-C1-specific ATG14 or other autophagy
+genes ATG13, ATG5, or ATG7, resulted in decreased E-cadherin plasma membrane and 
+increased cytoplasmic E-cadherin localization. Taken together, these data reveal 
+previously unrecognized cooperation between Beclin 1 and E-cadherin-mediated
+tumor suppression in breast cancer cells.
+
+Copyright © 2021 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.2020478118 
+PMCID: PMC7865132
+PMID: 33495338 
+
+Conflict of interest statement: Competing interest statement: B.L. is a
+scientific cofounder of Casma Therapeutics, Inc.
+

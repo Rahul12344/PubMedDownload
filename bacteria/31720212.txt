@@ -1,0 +1,45 @@
+
+1. Metab Eng Commun. 2019 Jul 24;9:e00096. doi: 10.1016/j.mec.2019.e00096.
+eCollection 2019 Dec.
+
+Overproduction of gentamicin B in industrial strain Micromonospora echinospora
+CCTCC M 2018898 by cloning of the missing genes genR and genS.
+
+Chang Y(1)(2), Chai B(3), Ding Y(1)(2), He M(3), Zheng L(3), Teng Y(3), Deng
+Z(1)(2), Yu Y(1), Liu T(1)(2).
+
+Author information: 
+(1)Key Laboratory of Combinatorial Biosynthesis and Drug Discovery, Ministry of
+Education, Wuhan University School of Pharmaceutical Sciences, Wuhan, 430071,
+China.
+(2)Hubei Engineering Laboratory for Synthetic Microbiology, Wuhan Institute of
+Biotechnology, Wuhan, 430075, China.
+(3)Zhejiang Key Laboratory of Antifungal Drugs, Zhejiang Hisun Pharmaceutical Co,
+Ltd, Taizhou, 318000, China.
+
+In pharmaceutical industry, isepamicin is mainly manufactured from gentamicin B, 
+which is produced by Micromonospora echinospora as a minor component of the
+gentamicin complex. Improvement of gentamicin B production through metabolic
+engineering is therefore important to satisfy the increasing demand for
+isepamicin. We hypothesized that gentamicin B was generated from gentamicin
+JI-20A via deamination of the C2' amino group. Using kanJ and kanK as the gene
+probes, we identified the putative deamination-related genes, genR and genS,
+through genome mining of the gentamicin B producing strain M. echinospora CCTCC M
+2018898. Interestingly, genR and genS constitute a gene cassette located
+approximately 28.7 kb away from the gentamicin gene cluster. Gene knockout of
+genR and genS almost abolished the production of gentamicin B in the mutant
+strain, suggesting that these two genes, which are responsible for the last steps
+in gentamicin B biosynthesis, constitute the missing part of the known gentamicin
+biosynthetic pathway. Based on these finding, we successfully constructed a
+gentamicin B high-yielding strain (798 mg/L), in which an overexpression cassette
+of genR and genS was introduced. Our work fills the missing piece to solve the
+puzzle of gentamicin B biosynthesis and may inspire future metabolic engineering 
+efforts to generate gentamycin B high-yielding strains that could eventually
+satisfy the need for industrial manufacturing of isepamicin.
+
+© 2019 The Authors.
+
+DOI: 10.1016/j.mec.2019.e00096 
+PMCID: PMC6838515
+PMID: 31720212 
+

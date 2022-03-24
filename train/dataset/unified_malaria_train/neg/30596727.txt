@@ -1,0 +1,57 @@
+
+1. plos one. 2018 dec 31;13(12):e0209699. doi: 10.1371/journal.pone.0209699.
+ecollection 2018.
+
+characterization protozoan phosducin-like protein-3 (phlp-3) reveals
+conserved redox activity.
+
+kooistra rl(1), david r(1), ruiz ac(1), powers sw(1), haselton kj(1), kiernan
+k(1), blagborough am(2), solamen l(1)(3), olsen kw(4), putonti c(1)(3)(5), kanzok
+sm(1)(3).
+
+author information: 
+(1)department biology, loyola university chicago, chicago, il, united states
+of america.
+(2)department life sciences, imperial college london, south kensington campus,
+london, united kingdom.
+(3)bioinformatics program, loyola university chicago, chicago, il, united states 
+of america.
+(4)department chemistry biochemistry, loyola university chicago, chicago, 
+il, united states america.
+(5)department computer science, loyola university chicago, chicago, il, united
+states america.
+
+we recently identified three novel thioredoxin-like genes genome the
+protozoan parasite plasmodium belong phosducin-like family of
+proteins (phlp). phlps small cytosolic proteins hypothesized function in
+g-protein signaling protein folding. although phlps highly conserved in
+eukaryotes yeast mammals, representatives been
+experimentally characterized date. addition, phlps contain a
+thioredoxin domain, lack cxxc motif, strong indicator redox
+activity, unclear whether members phlp family enzymatically 
+active. here, describe pbphlp-3 first phosducin-like protein a
+protozoan organism, plasmodium berghei. initial transcription analysis revealed
+continuous low-level expression pbphlp-3 throughout complex plasmodium
+life cycle. attempts knockout pbphlp-3 p. berghei yield live
+parasites, suggesting essential role gene plasmodium. cloned,
+expressed purified pbphlp-3 determined recombinant protein is
+redox active vitro thioredoxin-coupled redox assay. also the
+capacity reduce organic compound tert-butyl hydroperoxide (tbhp) vitro,
+albeit low efficiency. sequence analysis, structural modeling, and
+site-directed mutagenesis revealed conserved cysteine thioredoxin domain
+to redox active residue. lastly, provide evidence recombinant
+human phlp-3 exhibits redox activity similar pbphlp-3 suggest that
+redox activity may conserved phlp-3 homologs species. data
+provide new insight function phlp-3, hypothesized act 
+co-chaperones folding regulation cytoskeletal proteins. discuss 
+the potential implications phlp-3 thioredoxin-target protein possible
+links cellular redox network eukaryotic protein folding
+machinery.
+
+doi: 10.1371/journal.pone.0209699 
+pmcid: pmc6312279
+pmid: 30596727  [indexed medline]
+
+conflict interest statement: authors declared competing
+interests exist.
+

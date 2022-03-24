@@ -1,0 +1,41 @@
+
+1. Bioresour Technol. 2017 Jul;235:140-148. doi: 10.1016/j.biortech.2017.03.085.
+Epub 2017 Mar 18.
+
+Engineering coenzyme A-dependent pathway from Clostridium saccharobutylicum in
+Escherichia coli for butanol production.
+
+Ye W(1), Li J(1), Han R(1), Xu G(1), Dong J(1), Ni Y(2).
+
+Author information: 
+(1)Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of
+Education, School of Biotechnology, Jiangnan University, Wuxi 214122, China; Key 
+Laboratory of Industrial Biotechnology, Ministry of Education, School of
+Biotechnology, Jiangnan University, Wuxi 214122, China.
+(2)Key Laboratory of Carbohydrate Chemistry and Biotechnology, Ministry of
+Education, School of Biotechnology, Jiangnan University, Wuxi 214122, China; Key 
+Laboratory of Industrial Biotechnology, Ministry of Education, School of
+Biotechnology, Jiangnan University, Wuxi 214122, China. Electronic address:
+yni@jiangnan.edu.cn.
+
+Clostridium saccharobutylicum has been proved to be efficient in butanol
+fermentation from various feedstocks. Whereas, lack of genetic manipulation
+system has severely hindered the engineering of C. saccharobutylicum for more
+extensive applications. In this study, recombinant Escherichia coli harboring
+heterologous coenzyme A-dependent pathway from C. saccharobutylicum DSM 13864 was
+constructed, which consisted of solventogenic pathway genes: acetoacetyl-CoA
+thiolase (thlA), aldehyde/alcohol dehydrogenase (adhE2) and bcs-operon
+(crt-bcd1-etfB2-fixB2-hbd). Then, a butanol titer of 67mg/L was attained. After
+replacing thlA with acetyl-CoA acetyltransferase (atoB) from E. coli and deleting
+the competitive branch genes lactate dehydrogenase (ldhA), aldehyde/alcohol
+dehydrogenase (adhE1) and fumarate reductase (frdBC), the butanol titer was
+successfully improved for 3.8-fold (254mg/L). Under the optimum fermentation
+conditions, the final butanol titer reached 584mg/L after 120h. This result
+demonstrates the feasibility of adapting CoA-dependent solventogenic pathway from
+C. saccharobutylicum in E. coli for butanol synthesis.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biortech.2017.03.085 
+PMID: 28365341  [Indexed for MEDLINE]
+

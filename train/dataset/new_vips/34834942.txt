@@ -1,0 +1,36 @@
+
+1. Viruses. 2021 Oct 22;13(11). pii: 2134. doi: 10.3390/v13112134.
+
+Species-Specific Inhibition of Necroptosis by HCMV UL36.
+
+Muscolino E(1)(2), Castiglioni C(1), Brixel R(1), Frascaroli G(1), Brune W(1).
+
+Author information: 
+(1)Leibniz Institute for Experimental Virology (HPI), 20251 Hamburg, Germany.
+(2)Molecular Virology Group, Department of Experimental and Health Sciences,
+Universitat Pompeu Fabra, 08003 Barcelona, Spain.
+
+Viral infection activates cellular antiviral defenses including programmed cell
+death (PCD). Many viruses, particularly those of the Herpesviridae family, encode
+cell death inhibitors that antagonize different forms of PCD. While some viral
+inhibitors are broadly active in cells of different species, others have
+species-specific functions, probably reflecting the co-evolution of the
+herpesviruses with their respective hosts. Human cytomegalovirus (HCMV) protein
+UL36 is a dual cell death pathway inhibitor. It blocks death receptor-dependent
+apoptosis by inhibiting caspase-8 activation, and necroptosis by binding to the
+mixed lineage kinase domain-like (MLKL) protein and inducing its degradation.
+While UL36 has been shown to inhibit apoptosis in human and murine cells, the
+specificity of its necroptosis-inhibiting function has not been investigated.
+Here we show that UL36 interacts with both human and murine MLKL, but has a
+higher affinity for human MLKL. When expressed by a recombinant mouse
+cytomegalovirus (MCMV), UL36 caused a modest reduction of murine MLKL levels but 
+did not inhibit necroptosis in murine cells. These data suggest that UL36
+inhibits necroptosis, but not apoptosis, in a species-specific manner, similar to
+ICP6 of herpes simplex virus type 1 and MC159 of molluscum contagiosum virus.
+Species-specific necroptosis inhibition might contribute to the narrow host range
+of these viruses.
+
+DOI: 10.3390/v13112134 
+PMCID: PMC8621378
+PMID: 34834942 
+

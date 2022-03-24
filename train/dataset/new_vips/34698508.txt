@@ -1,0 +1,38 @@
+
+1. J Comput Biol. 2021 Nov;28(11):1113-1129. doi: 10.1089/cmb.2021.0302. Epub 2021
+Oct 25.
+
+From Alpha to Zeta: Identifying Variants and Subtypes of SARS-CoV-2 Via
+Clustering.
+
+Melnyk A(1), Mohebbi F(1), Knyazev S(1), Sahoo B(1), Hosseini R(1), Skums P(1),
+Zelikovsky A(1)(2), Patterson M(1).
+
+Author information: 
+(1)Department of Computer Science, Georgia State University, Atlanta, Georgia,
+USA.
+(2)World-Class Research Center "Digital Biodesign and Personalized Healthcare,"
+I.M. Sechenov First Moscow State Medical University, Moscow, Russia.
+
+The availability of millions of SARS-CoV-2 (Severe Acute Respiratory
+Syndrome-Coronavirus-2) sequences in public databases such as GISAID (Global
+Initiative on Sharing All Influenza Data) and EMBL-EBI (European Molecular
+Biology Laboratory-European Bioinformatics Institute) (the United Kingdom) allows
+a detailed study of the evolution, genomic diversity, and dynamics of a virus
+such as never before. Here, we identify novel variants and subtypes of SARS-CoV-2
+by clustering sequences in adapting methods originally designed for haplotyping
+intrahost viral populations. We asses our results using clustering entropy-the
+first time it has been used in this context. Our clustering approach reaches
+lower entropies compared with other methods, and we are able to boost this even
+further through gap filling and Monte Carlo-based entropy minimization. Moreover,
+our method clearly identifies the well-known Alpha variant in the U.K. and GISAID
+data sets, and is also able to detect the much less represented (<1% of the
+sequences) Beta (South Africa), Epsilon (California), and Gamma and Zeta (Brazil)
+variants in the GISAID data set. Finally, we show that each variant identified
+has high selective fitness, based on the growth rate of its cluster over time.
+This demonstrates that our clustering approach is a viable alternative for
+detecting even rare subtypes in very large data sets.
+
+DOI: 10.1089/cmb.2021.0302 
+PMID: 34698508  [Indexed for MEDLINE]
+

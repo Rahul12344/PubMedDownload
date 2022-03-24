@@ -1,0 +1,46 @@
+
+1. mol plant microbe interact. 2018 jul;31(7):683-691. doi:
+10.1094/mpmi-01-18-0002-ta. epub 2018 may 30.
+
+gene-to-gene network analysis mediation plant innate immunity the
+eliciting plant response-like 1 (epl1) elicitor trichoderma formosa.
+
+cheng ch(1), shen bn(2), shang qw(2), liu ld(3), peng kc(4), chen yh(2), chen
+ff(2), hu sf(2), wang yt(5), wang hc(6), wu hy(7), lo ct(1), lin ss(2)(5)(8)(9).
+
+author information: 
+(1)1 department biotechnology, national formosa university, yulin, taiwan.
+(2)2 institute biotechnology, national taiwan university, taipei, taiwan.
+(3)3 department agronomy, national taiwan university.
+(4)4 institute biotechnology, national dong-hwa university, hualien, taiwan.
+(5)5 national center high-performance computing, national applied research
+laboratories, hsinchu, taiwan.
+(6)6 graduate institute translational medicine, college medical science and
+technology, taipei medical university, taipei, taiwan.
+(7)7 instrumentation center, national taiwan university.
+(8)8 agricultural biotechnology research center, academia sinica, taipei, taiwan;
+and.
+(9)9 center biotechnology, national taiwan university.
+
+a new clade, trichoderma formosa, secretes eliciting plant response-like 1
+(epl1), small peptide elicitor stimulates plant immunity. nicotiana
+benthamiana pretreated epl1 3 days developed immunity tomato
+mosaic virus (tomv) infection. transcriptome profiles t. formosa n.
+benthamiana obtained deep sequencing; transcript epl1 736 nt in
+length encodes 12-kda peptide. identifying critical genes epl1-mediated 
+immunity challenging due high similarity transcriptome
+expression profiles epl1-treated tomv-infected n. benthamiana samples.
+therefore, efficient bioinformatics data mining approach used for
+high-throughput transcriptomic assays study. integrated gene-to-gene
+network analysis contigviews transcriptome database, genes related
+to jasmonic acid ethylene signaling, salicylic acid signaling, leucine-rich
+repeats, transcription factors, histone variants hubs the
+gene-to-gene networks. study, epl1 t. formosa triggers plant
+immunity various pathogen infections. moreover, demonstrated that
+high-throughput data mining gene-to-gene network analysis used to
+identify critical candidate genes studies mechanisms plant 
+immunity.
+
+doi: 10.1094/mpmi-01-18-0002-ta 
+pmid: 29436965  [indexed medline]
+

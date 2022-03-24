@@ -1,0 +1,45 @@
+
+1. Sci Rep. 2021 Nov 23;11(1):22810. doi: 10.1038/s41598-021-01932-w.
+
+The encapsulin from Thermotoga maritima is a flavoprotein with a symmetry matched
+ferritin-like cargo protein.
+
+LaFrance BJ(#)(1), Cassidy-Amstutz C(#)(1), Nichols RJ(1), Oltrogge LM(1),
+Nogales E(1)(2)(3), Savage DF(4).
+
+Author information: 
+(1)Department of Molecular and Cell Biology, University of California Berkeley,
+Berkeley, CA, USA.
+(2)Howard Hughes Medical Institute, University of California, Berkeley, CA, USA.
+(3)Molecular Biophysics and Integrated Bioimaging Division, Lawrence Berkeley
+National Laboratory, Berkeley, CA, USA.
+(4)Department of Molecular and Cell Biology, University of California Berkeley,
+Berkeley, CA, USA. savage@berkeley.edu.
+(#)Contributed equally
+
+Bacterial nanocompartments, also known as encapsulins, are an emerging class of
+protein-based 'organelles' found in bacteria and archaea. Encapsulins are
+virus-like icosahedral particles comprising a ~ 25-50 nm shell surrounding a
+specific cargo enzyme. Compartmentalization is thought to create a unique
+chemical environment to facilitate catalysis and isolate toxic intermediates.
+Many questions regarding nanocompartment structure-function remain unanswered,
+including how shell symmetry dictates cargo loading and to what extent the shell 
+facilitates enzymatic activity. Here, we explore these questions using the model 
+Thermotoga maritima nanocompartment known to encapsulate a redox-active
+ferritin-like protein. Biochemical analysis revealed the encapsulin shell to
+possess a flavin binding site located at the interface between capsomere
+subunits, suggesting the shell may play a direct and active role in the function 
+of the encapsulated cargo. Furthermore, we used cryo-EM to show that cargo
+proteins use a form of symmetry-matching to facilitate encapsulation and define
+stoichiometry. In the case of the Thermotoga maritima encapsulin, the decameric
+cargo protein with fivefold symmetry preferentially binds to the pentameric-axis 
+of the icosahedral shell. Taken together, these observations suggest the shell is
+not simply a passive barrier-it also plays a significant role in the structure
+and function of the cargo enzyme.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-01932-w 
+PMCID: PMC8610991
+PMID: 34815415 
+

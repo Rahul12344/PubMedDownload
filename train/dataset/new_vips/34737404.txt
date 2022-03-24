@@ -1,0 +1,48 @@
+
+1. Sci Rep. 2021 Nov 4;11(1):21698. doi: 10.1038/s41598-021-01220-7.
+
+Functional roles of the membrane-associated AAV protein MAAP.
+
+Galibert L(1), Hyvönen A(#)(2)(3), Eriksson RAE(#)(2)(4), Mattola S(#)(5), Aho
+V(5), Salminen S(5), Albers JD(2), Peltola SK(2), Weman S(2), Nieminen T(2),
+Ylä-Herttuala S(2)(4)(6), Lesch HP(2), Vihinen-Ranta M(5), Airenne KJ(2).
+
+Author information: 
+(1)Kuopio Center for Gene and Cell Therapy, Kuopio, Finland.
+lionel.galibert@kct.fi.
+(2)Kuopio Center for Gene and Cell Therapy, Kuopio, Finland.
+(3)FinVector, Kuopio, Finland.
+(4)A.I. Virtanen Institute for Molecular Sciences, University of Eastern Finland,
+Kuopio, Finland.
+(5)Department of Biological and Environmental Science and Nanoscience Center,
+University of Jyvaskyla, Jyväskylä, Finland.
+(6)Gene Therapy Unit and Research Center, Kuopio University Hospital, Kuopio,
+Finland.
+(#)Contributed equally
+
+With a limited coding capacity of 4.7 kb, adeno-associated virus (AAV) genome has
+evolved over-lapping genes to maximise the usage of its genome. An example is the
+recently found ORF in the cap gene, encoding membrane-associated accessory
+protein (MAAP), located in the same genomic region as the VP1/2 unique domain,
+but in a different reading frame. This 13 KDa protein, unique to the dependovirus
+genus, is not homologous to any known protein. Our studies confirm that MAAP
+translation initiates from the first CTG codon found in the VP1 ORF2. We have
+further observed MAAP localised in the plasma membrane, in the membranous
+structures in close proximity to the nucleus and to the nuclear envelope by
+co-transfecting with plasmids encoding the wild-type AAV (wt-AAV) genome and
+adenovirus (Ad) helper genes. While keeping VP1/2 protein sequence identical,
+both inactivation and truncation of MAAP translation affected the emergence and
+intracellular distribution of the AAV capsid proteins. We have demonstrated that 
+MAAP facilitates AAV replication and has a role in controlling Ad infection.
+Additionally, we were able to improve virus production and capsid integrity
+through a C-terminal truncation of MAAP while other modifications led to
+increased packaging of contaminating, non-viral DNA. Our results show that MAAP
+plays a significant role in AAV infection, with profound implications for the
+production of therapeutic AAV vectors.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-01220-7 
+PMCID: PMC8568889
+PMID: 34737404 
+

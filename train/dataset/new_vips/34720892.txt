@@ -1,0 +1,51 @@
+
+1. Front Neuroanat. 2021 Oct 6;15:758350. doi: 10.3389/fnana.2021.758350.
+eCollection 2021.
+
+Cre-Dependent Anterograde Transsynaptic Labeling and Functional Imaging in
+Zebrafish Using VSV With Reduced Cytotoxicity.
+
+Kler S(1), Ma M(1), Narayan S(2), Ahrens MB(2), Pan YA(1)(3)(4).
+
+Author information: 
+(1)Center for Neurobiology Research, Fralin Biomedical Research Institute at VTC,
+Virginia Tech, Roanoke, VA, United States.
+(2)Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, VA, United 
+States.
+(3)Department of Biomedical Sciences and Pathobiology, Virginia-Maryland College 
+of Veterinary Medicine, Virginia Tech, Blacksburg, VA, United States.
+(4)Department of Psychiatry and Behavioral Medicine, Virginia Tech Carilion
+School of Medicine, Roanoke, VA, United States.
+
+The small size and translucency of larval zebrafish (Danio rerio) have made it a 
+unique experimental system to investigate whole-brain neural circuit structure
+and function. Still, the connectivity patterns between most neuronal types remain
+mostly unknown. This gap in knowledge underscores the critical need for effective
+neural circuit mapping tools, especially ones that can integrate structural and
+functional analyses. To address this, we previously developed a vesicular
+stomatitis virus (VSV) based approach called Tracer with Restricted Anterograde
+Spread (TRAS). TRAS utilizes lentivirus to complement replication-incompetent VSV
+(VSVΔG) to allow restricted (monosynaptic) anterograde labeling from projection
+neurons to their target cells in the brain. Here, we report the second generation
+of TRAS (TRAS-M51R), which utilizes a mutant variant of VSVΔG [VSV(M51R)ΔG] with 
+reduced cytotoxicity. Within the primary visual pathway, we found that TRAS-M51R 
+significantly improved long-term viability of transsynaptic labeling (compared to
+TRAS) while maintaining anterograde spread activity. By using Cre-expressing
+VSV(M51R)ΔG, TRAS-M51R could selectively label excitatory (vglut2a positive) and 
+inhibitory (gad1b positive) retinorecipient neurons. We further show that these
+labeled excitatory and inhibitory retinorecipient neurons retained neuronal
+excitability upon visual stimulation at 5-8 days post fertilization (2-5 days
+post-infection). Together, these findings show that TRAS-M51R is suitable for
+neural circuit studies that integrate structural connectivity, cell-type
+identity, and neurophysiology.
+
+Copyright © 2021 Kler, Ma, Narayan, Ahrens and Pan.
+
+DOI: 10.3389/fnana.2021.758350 
+PMCID: PMC8549678
+PMID: 34720892 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

@@ -1,0 +1,44 @@
+
+1. peerj. 2019 jul 10;7:e7313. doi: 10.7717/peerj.7313. ecollection 2019.
+
+bioinformatics analysis microarray data identify candidate biomarkers
+of lung adenocarcinoma.
+
+guo t(#)(1), h(#)(1), zhou y(1).
+
+author information: 
+(1)department biotechnology, college life science & bioengineering, beijing
+university technology, beijing, china.
+(#)contributed equally
+
+background: lung adenocarcinoma (luad) major subtype lung cancer and
+the lethal malignant disease worldwide. however, molecular mechanisms
+underlying luad fully understood.
+methods: four datasets (gse118370, gse85841, gse43458 gse32863) obtained
+from gene expression omnibus (geo). identification differentially
+expressed genes (degs) functional enrichment analysis performed using
+the limma clusterprofiler packages, respectively. protein-protein
+interaction (ppi) network constructed via search tool retrieval of
+interacting genes (string) database, module analysis performed by
+cytoscape. then, overall survival analysis performed using kaplan-meier
+curve, prognostic candidate biomarkers analyzed using the
+oncomine database.
+results: totally, 349 degs identified, including 275 downregulated 74
+upregulated genes significantly enriched biological process 
+extracellular structure organization, leukocyte migration response to
+peptide. mainly enriched pathways complement coagulation cascades,
+malaria prion diseases. extracting key modules ppi network, 11
+hub genes screened out. survival analysis showed except vsig4, other
+hub genes may involved development luad, myh10, mettl7a,
+fcer1g tmod1 reported previously correlated luad.
+briefly, novel hub genes identified study help deepen our
+understanding molecular mechanisms luad carcinogenesis progression,
+and discover candidate targets early detection treatment luad.
+
+doi: 10.7717/peerj.7313 
+pmcid: pmc6626531
+pmid: 31333911 
+
+conflict interest statement: authors declare competing
+interests.
+

@@ -1,0 +1,43 @@
+
+1. Vegetos. 2021 Nov 17:1-11. doi: 10.1007/s42535-021-00318-7. [Epub ahead of print]
+
+Evaluation of bioactive compounds from Boswellia serrata against SARS-CoV-2.
+
+Roy A(1), Menon T(2).
+
+Author information: 
+(1)Department of Biotechnology, School of Engineering and Technology, Sharda
+University, Greater Noida, India.
+(2)Department of Biotechnology, Delhi Technological University, Delhi, India.
+
+With the COVID-19 pandemic still wreaking havoc worldwide, new variants being
+discovered every month in some parts of the globe due to the mutating nature of
+the virus. There is no specific solution for this highly transmissible disease.
+In search of a lead molecule for the discovery and development of drug, extensive
+research is being conducted throughout the world. Many synthetic drugs are
+already in clinical trials and some are utilized for the treatment of this viral 
+infection. Apart from synthetic drugs, phytocompounds from plants act as a
+potential drug candidate which can inhibit the growth of virus and thus able to
+prevent the viral infection. In this study, 26 ligands (bioactive compounds) from
+Boswellia serrata (an important medicinal plant) were tested against SARS-CoV-2
+by using computational method. Selected ligands were shortlisted using Lipinski's
+rule and then subjected to molecular docking against one of the main proteins of 
+SARS-CoV-2, i.e., Mpro. Out of these compounds, Euphane, Ursane, α-Amyrin,
+Phytosterols, and 2,3-Dihydroxyurs-12-en-28-oic acid were potential to inhibit
+the Mpro activity with binding energies of - 10.47 kcal/mol, - 10.41 kcal/mol, - 
+9.99 kcal/mol, - 9.94 kcal/mol and - 9.72 kcal/mol respectively. A comparative
+study was performed using the best five ligands against four possible drug
+targets of SARS-CoV-2. It was found that Euphane showed highest negative binding 
+energy against all the four crucial targets of SARS-CoV-2. Further, in-vitro
+experimentation is required to validate the use of Euphane as a potent drug
+against SARS-CoV-2.
+
+© The Author(s) under exclusive licence to Society for Plant Research 2021.
+
+DOI: 10.1007/s42535-021-00318-7 
+PMCID: PMC8595075
+PMID: 34803247 
+
+Conflict of interest statement: Conflict of interestThe authors declare no
+conflict of interest.
+

@@ -1,0 +1,46 @@
+
+1. Metab Eng. 2018 May;47:263-270. doi: 10.1016/j.ymben.2018.03.019. Epub 2018 Mar
+30.
+
+Design, development and application of whole-cell based antibiotic-specific
+biosensor.
+
+Rebets Y(1), Schmelz S(2), Gromyko O(3), Tistechok S(3), Petzke L(4), Scrima
+A(5), Luzhetskyy A(6).
+
+Author information: 
+(1)Universität des Saarlandes, Pharmazeutische Biotechnologie, Bld. C2.3, 66123
+Saarbrücken, Germany; Helmholtz-Institute for Pharmaceutical Research Saarland,
+UdS Campus, Bld. E8.1, 66123 Saarbrücken, Germany.
+(2)Helmholtz-Centre for Infection Research, Inhoffenstrasse 7, 38124
+Braunschweig, Germany.
+(3)Ivan Franko National University of Lviv, Department of Genetics and
+Biotechnology, Hrushevskogo Street 4, 79005 Lviv, Ukraine.
+(4)BASF SE, 67056 Ludwigshafen, Germany.
+(5)Helmholtz-Centre for Infection Research, Inhoffenstrasse 7, 38124
+Braunschweig, Germany. Electronic address: Andrea.Scrima@helmholtz-hzi.de.
+(6)Universität des Saarlandes, Pharmazeutische Biotechnologie, Bld. C2.3, 66123
+Saarbrücken, Germany; Helmholtz-Institute for Pharmaceutical Research Saarland,
+UdS Campus, Bld. E8.1, 66123 Saarbrücken, Germany. Electronic address:
+a.luzhetskyy@mx.uni-saarland.de.
+
+Synthetic biology techniques hold great promise for optimising the production of 
+natural products by microorganisms. However, evaluating the phenotype of a
+modified bacterium represents a major bottleneck to the engineering cycle -
+particularly for antibiotic-producing actinobacteria strains, which grow slowly
+and are challenging to genetically manipulate. Here, we report the generation and
+application of antibiotic-specific whole-cell biosensor derived from TetR
+transcriptional repressor for use in identifying and optimising antibiotic
+producers. The constructed biosensor was successfully used to improve production 
+of polyketide antibiotic pamamycin. However, an initial biosensor based on native
+genetic elements had inadequate dynamic and operating ranges. To overcome these
+limitations, we fine-tuned biosensor performance through alterations of the
+promoter and operator of output module and the ligand affinity of transcription
+factor module, which enabled us to deduce recommendations for building and
+application of actinobacterial biosensors.
+
+Copyright © 2018. Published by Elsevier Inc.
+
+DOI: 10.1016/j.ymben.2018.03.019 
+PMID: 29609044  [Indexed for MEDLINE]
+

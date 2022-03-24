@@ -1,0 +1,73 @@
+
+1. Plant Dis. 2021 Nov 16. doi: 10.1094/PDIS-03-21-0613-PDN. [Epub ahead of print]
+
+Occurrence of the Iflavirus-like Tomato matilda virus in Solanum species in South
+Africa.
+
+Mahlanza T(1), Makwarela L(2), Roberts R(3), van der Merwe M(4).
+
+Author information: 
+(1)Agricultural Research Council, 56397, Plant Health and Protection, Pretoria,
+South Africa; mahlanzat@arc.agric.za.
+(2)South African National Biodiversity Institute, 56413, Pretoria, Gauteng, South
+Africa; L.Makwarela2@sanbi.org.za.
+(3)Agricultural Research Council, 56397, Plant Health and Protection, Pretoria,
+South Africa; ViljoenR@arc.agric.za.
+(4)Agricultural Research Council, 56397, Plant Health and Protection, Pretoria,
+South Africa; vdmerwema@arc.agric.za.
+
+Tomato matilda virus (TMaV) is an iflavirus-like virus that was first reported by
+Saqib et al. (2015) in symptomless tomato plants in Australia. Those authors
+demonstrated using phylogenetic analysis that TMaV was an iflavirus, and that it 
+replicated in plants and was transmitted between plants. However, infection was
+symptomless in tomato and aubergine, and induced mild symptoms in chilli plants. 
+This was the first report of a plant-infecting iflavirus, a genus of insect
+viruses, suggesting a potential evolutionary transition of iflaviruses into plant
+hosts. Here we report the detection of TMaV in wild Solanum chenopodioides and
+Solanum sisymbriifolium in South Africa. In a survey for viruses of wild Solanum 
+species, leaf tissues from S. chenopodioides and S. sisymbriifolium displaying
+rugosity and chlorotic mottling were collected from roadsides and potato and
+tomato farms in five provinces (Free State, Gauteng, KwaZulu Natal, Limpopo and
+Mpumalanga) in South Africa. Total RNA extracted from 10 plants for each species 
+was pooled (500 ng/sample). Ribosomal RNA removal, cDNA library construction and 
+high throughput sequencing (HTS) using the Illumina HiSeq PE150 were conducted by
+Novogene Co. Ltd (Beijing, China). From S. chenopodioides and S. sisymbriifolium,
+44 052 441 and 47 515 569 total clean reads were obtained, respectively. Using
+Trinity and SPAdes within the VirFind pipeline (Ho and Tzanetakis, 2014), 68711
+and 21125 contigs were assembled. BLASTn search of the contigs revealed the
+presence of TMaV as well as cowpea tombusvirid 1 (Tombusviridae), pepper veinal
+mottle virus, African eggplant mosaic, potato virus Y (Potyviridae), cucumber
+mosaic virus, tomato necrotic spot virus (Bromoviridae), tobacco vein clearing
+virus and cauliflower mosaic virus (Caulimoviridae) in S. chenopodioides and S.
+sisymbriifolium. The TMaV contigs from S. chenopodioides (n = 33) and S.
+sisymbriifolium (n = 88) were mapped to the TMaV genome (HQ260868) reported by
+Saqib et al. (2015). The assembled draft TMaV genomes from S. chenopodioides
+(7547 bp, MW717924) and S. sisymbriifolium (7553 bp, MW717925) covered 98.5% of
+that reference genome with 98.0 and 97.8% sequence identity, respectively, and
+98.5 and 98.3% sequence identity to a TMaV isolate (MK517476) from Italy. The two
+draft genomes displayed 99.5% sequence identity to each other. BLASTn analysis of
+these draft genomes only retrieved hits for TMaV and blackberry iflavirus A
+(BVA), another plant-infecting iflavirus (Khadgi, 2015). No insect iflavirus hits
+were obtained, thereby potentially excluding contamination by insect viruses. The
+two TMaV sequences displayed 81.9-89.9% identity to the partial sequences of BVA.
+The presence of TMaV in S. chenopodioides and S. sisymbriifolium was confirmed by
+RT-PCR of the pooled RNA and sequencing using primer sets reported by Saqib et
+al. (2015), Matil_F1 (ACGGCAGCCACGCTAAGAAA)/Matil_R1 (TCATTATGGCGCCTGTATGG)
+covering TMaV genome locations 1008-1821 (includes rhv-like 1 and partially
+rhv-like 2 structural protein genes) and Matil_F9 (TTTACCTTGTGCTGTTGCAG)/
+Matil_R9 (ACCTGCAGACGTTGTTAATT) spanning positions 6485-7214 (sequence region
+encoding partial cystein protease, nucleotide binding site and partial RNA
+dependent RNA polymerase). The sequences obtained from the amplicons (accessions 
+MW717926 - MW717929) displayed 97.2 - 98.4% sequence identity to those of the
+Saqib et al. (2015) genome, and were fully identical to the TMaV sequences
+generated initially using HTS. The detection of TMaV in these Solanum spp.
+further supports the concept of plant-infecting iflaviruses. Saqib et al. (2015) 
+proposed the genus Tomavirus within Iflaviridae to accommodate TMaV. This is
+possibly similar to Tospoviridae, the only plant-infecting family of the order
+Bunyavirales, which is composed of viruses of arthropods and vertebrates (Ullman 
+et al. 2005). Further studies are needed to understand TMaV infection of
+different plant hosts, especially crops of economic importance.
+
+DOI: 10.1094/PDIS-03-21-0613-PDN 
+PMID: 34784754 
+

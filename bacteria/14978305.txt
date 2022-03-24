@@ -1,0 +1,30 @@
+
+1. Protein Sci. 2004 Mar;13(3):652-8.
+
+The PRESAT-vector: asymmetric T-vector for high-throughput screening of soluble
+protein domains for structural proteomics.
+
+Goda N(1), Tenno T, Takasu H, Hiroaki H, Shirakawa M.
+
+Author information: 
+(1)Graduate School of Integrated Science, Yokohama City University, 1-7-29
+Suehirocho, Tsurumi, Yokohama, Kanagawa 230-0045, Japan.
+
+A rapid unidirectional method for cloning PCR-amplified cDNA fragments into
+virtually any fusion protein expression vector is described. The method, termed
+PRESAT-vector cloning, is based on a T-vector technique that does not require
+restriction endonuclease digestion of the PCR product. Subsequently, we applied a
+novel ORF selection method of the ligated plasmid products. This second step
+involves restriction endonuclease treatment that eliminates the plasmids
+containing an ORF in the wrong orientation prior to transformation into the
+bacterial host for further protein expression studies. To achieve this selection,
+we customized the 5'-sequence of the "rear" PCR primer corresponding to the C
+terminus of the protein to be expressed. The colonies harbored only the ligated
+products of the desired orientation at >90% efficiency. This method is applied to
+a GST fusion expression system, and an HTS system for soluble proteins from an
+expression library was tested.
+
+DOI: 10.1110/ps.03439004 
+PMCID: PMC2286733
+PMID: 14978305  [Indexed for MEDLINE]
+

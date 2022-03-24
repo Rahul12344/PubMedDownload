@@ -1,0 +1,58 @@
+
+1. Neural Comput Appl. 2021 Oct 9:1-9. doi: 10.1007/s00521-021-06579-2. [Epub ahead 
+of print]
+
+A simulated measurement for COVID-19 pandemic using the effective reproductive
+number on an empirical portion of population: epidemiological models.
+
+Alsinglawi B(#)(1), Mubin O(#)(1), Alnajjar F(2), Kheirallah K(3), Elkhodr M(4), 
+Al Zobbi M(1), Novoa M(5), Arsalan M(1), Poly TN(6), Gochoo M(2), Khan G(7), Dev 
+K(8).
+
+Author information: 
+(1)School of Computer, Data and Mathematical Sciences, Western Sydney University,
+Rydalmere, NSW 2116 Australia.
+(2)College of Information Technology, United Arab Emirates University, Al Ain,
+UAE.
+(3)Department of Public Health, Medical School of Jordan University of Science
+and Technology, Irbid, Jordan.
+(4)School of Engineering and Technology, Central Queensland University,
+Rockhampton, Queensland Australia.
+(5)School of Built Environment, Western Sydney University, Rydalmere, NSW 2116
+Australia.
+(6)College of Medical Science and Technology, Taipei Medical University, Taipei, 
+101 Taiwan.
+(7)College of Medicine and Health Sciences, United Arab Emirates University, Al
+Ain, UAE.
+(8)Department of Institute of Intelligent Systems, University of Johannesburg,
+Johannesburg, South Africa.
+(#)Contributed equally
+
+COVID-19 as a global pandemic has had an unprecedented impact on the entire
+world. Projecting the future spread of the virus in relation to its
+characteristics for a specific suite of countries against a temporal trend can
+provide public health guidance to governments and organizations. Therefore, this 
+paper presented an epidemiological comparison of the traditional SEIR model with 
+an extended and modified version of the same model by splitting the infected
+compartment into asymptomatic mild and symptomatic severe. We then exposed our
+derived layered model into two distinct case studies with variations in
+mitigation strategies and non-pharmaceutical interventions (NPIs) as a matter of 
+benchmarking and comparison. We focused on exploring the United Arab Emirates (a 
+small yet urban centre (where clear sequential stages NPIs were implemented).
+Further, we concentrated on extending the models by utilizing the effective
+reproductive number (R t) estimated against time, a more realistic than the
+static R 0, to assess the potential impact of NPIs within each case study.
+Compared to the traditional SEIR model, the results supported the modified model 
+as being more sensitive in terms of peaks of simulated cases and flattening
+determinations.
+
+© The Author(s), under exclusive licence to Springer-Verlag London Ltd., part of 
+Springer Nature 2021.
+
+DOI: 10.1007/s00521-021-06579-2 
+PMCID: PMC8502096
+PMID: 34658535 
+
+Conflict of interest statement: Conflict of interestThe authors declare that they
+have no conflict of interest.
+

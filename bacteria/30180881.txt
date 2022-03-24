@@ -1,0 +1,79 @@
+
+1. Breast Cancer Res. 2018 Sep 4;20(1):105. doi: 10.1186/s13058-018-1020-0.
+
+NOTCH3 expression is linked to breast cancer seeding and distant metastasis.
+
+Leontovich AA(1), Jalalirad M(2), Salisbury JL(3), Mills L(4), Haddox C(2),
+Schroeder M(2), Tuma A(2), Guicciardi ME(5), Zammataro L(6), Gambino MW(3), Amato
+A(7), Di Leonardo A(7), McCubrey J(8), Lange CA(9), Liu M(2), Haddad T(2), Goetz 
+M(2), Boughey J(10), Sarkaria J(2), Wang L(2), Ingle JN(2), Galanis E(2)(4),
+D'Assoro AB(11)(12).
+
+Author information: 
+(1)Department of Biomedical Statistics and Informatics, Mayo Clinic College of
+Medicine, 200 First Street SW, Rochester, MN, USA.
+(2)Department of Medical Oncology, Mayo Clinic College of Medicine, 200 First
+Street SW, Rochester, MN, USA.
+(3)Department of Biochemistry and Molecular Biology, Mayo Clinic College of
+Medicine, 200 First Street SW, Rochester, MN, USA.
+(4)Department of Molecular Medicine, Mayo Clinic College of Medicine, 200 First
+Street SW, Rochester, MN, USA.
+(5)Department of Internal Medicine, Mayo Clinic College of Medicine, 200 First
+Street SW, Rochester, MN, USA.
+(6)Department of Obstetrics, Gynecology, and Reproductive Sciences, Yale
+University School of Medicine, New Haven, CT, USA.
+(7)Department of Cellular and Developmental Biology, University of Palermo,
+Palermo, Italy.
+(8)Department of Microbiology and Immunology, Brody School of Medicine, East
+Carolina University, Greenville, NC, USA.
+(9)Department of Medicine and Pharmacology, University of Minnesota, Minneapolis,
+MN, USA.
+(10)Department of Surgery, Mayo Clinic College of Medicine, 200 First Street SW, 
+Rochester, MN, USA.
+(11)Department of Medical Oncology, Mayo Clinic College of Medicine, 200 First
+Street SW, Rochester, MN, USA. dassoro.antonio@mayo.edu.
+(12)Department of Biochemistry and Molecular Biology, Mayo Clinic College of
+Medicine, 200 First Street SW, Rochester, MN, USA. dassoro.antonio@mayo.edu.
+
+BACKGROUND: Development of distant metastases involves a complex multistep
+biological process termed the invasion-metastasis cascade, which includes
+dissemination of cancer cells from the primary tumor to secondary organs. NOTCH
+developmental signaling plays a critical role in promoting
+epithelial-to-mesenchymal transition, tumor stemness, and metastasis. Although
+all four NOTCH receptors show oncogenic properties, the unique role of each of
+these receptors in the sequential stepwise events that typify the
+invasion-metastasis cascade remains elusive.
+METHODS: We have established metastatic xenografts expressing high endogenous
+levels of NOTCH3 using estrogen receptor alpha-positive (ERα+) MCF-7 breast
+cancer cells with constitutive active Raf-1/mitogen-associated protein kinase
+(MAPK) signaling (vMCF-7Raf-1) and MDA-MB-231 triple-negative breast cancer
+(TNBC) cells. The critical role of NOTCH3 in inducing an invasive phenotype and
+poor outcome was corroborated in unique TNBC cells resulting from a
+patient-derived brain metastasis (TNBC-M25) and in publicly available claudin-low
+breast tumor specimens collected from participants in the Molecular Taxonomy of
+Breast Cancer International Consortium database.
+RESULTS: In this study, we identified an association between NOTCH3 expression
+and development of metastases in ERα+ and TNBC models. ERα+ breast tumor
+xenografts with a constitutive active Raf-1/MAPK signaling developed spontaneous 
+lung metastases through the clonal expansion of cancer cells expressing a NOTCH3 
+reprogramming network. Abrogation of NOTCH3 expression significantly reduced the 
+self-renewal and invasive capacity of ex vivo breast cancer cells, restoring a
+luminal CD44low/CD24high/ERαhigh phenotype. Forced expression of the mitotic
+Aurora kinase A (AURKA), which promotes breast cancer metastases, failed to
+restore the invasive capacity of NOTCH3-null cells, demonstrating that NOTCH3
+expression is required for an invasive phenotype. Likewise, pharmacologic
+inhibition of NOTCH signaling also impaired TNBC cell seeding and metastatic
+growth. Significantly, the role of aberrant NOTCH3 expression in promoting tumor 
+self-renewal, invasiveness, and poor outcome was corroborated in unique TNBC
+cells from a patient-derived brain metastasis and in publicly available
+claudin-low breast tumor specimens.
+CONCLUSIONS: These findings demonstrate the key role of NOTCH3 oncogenic
+signaling in the genesis of breast cancer metastasis and provide a compelling
+preclinical rationale for the design of novel therapeutic strategies that will
+selectively target NOTCH3 to halt metastatic seeding and to improve the clinical 
+outcomes of patients with breast cancer.
+
+DOI: 10.1186/s13058-018-1020-0 
+PMCID: PMC6123953
+PMID: 30180881  [Indexed for MEDLINE]
+

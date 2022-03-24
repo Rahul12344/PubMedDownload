@@ -1,0 +1,47 @@
+
+1. Mol Biol Cell. 2018 Feb 1;29(3):363-375. doi: 10.1091/mbc.E17-08-0493. Epub 2017 
+Dec 6.
+
+A complex molecular switch directs stress-induced cyclin C nuclear release
+through SCFGrr1-mediated degradation of Med13.
+
+Stieg DC(1), Willis SD(1), Ganesan V(1), Ong KL(2), Scuorzo J(3), Song M(3),
+Grose J(2), Strich R(1), Cooper KF(4).
+
+Author information: 
+(1)Department of Molecular Biology, Graduate School of Biological Sciences, Rowan
+University, Stratford, NJ 08084.
+(2)Department of Microbiology and Molecular Biology, Brigham Young University,
+Provo, UT 84602.
+(3)School of Osteopathic Medicine, Rowan University, Stratford, NJ 08084.
+(4)Department of Molecular Biology, Graduate School of Biological Sciences, Rowan
+University, Stratford, NJ 08084 cooperka@rowan.edu.
+
+In response to oxidative stress, cells decide whether to mount a survival or cell
+death response. The conserved cyclin C and its kinase partner Cdk8 play a key
+role in this decision. Both are members of the Cdk8 kinase module, which, with
+Med12 and Med13, associate with the core mediator complex of RNA polymerase II.
+In Saccharomyces cerevisiae, oxidative stress triggers Med13 destruction, which
+thereafter releases cyclin C into the cytoplasm. Cytoplasmic cyclin C associates 
+with mitochondria, where it induces hyperfragmentation and regulated cell death. 
+In this report, we show that residues 742-844 of Med13's 600-amino acid intrinsic
+disordered region (IDR) both directs cyclin C-Cdk8 association and serves as the 
+degron that mediates ubiquitin ligase SCFGrr1-dependent destruction of Med13
+following oxidative stress. Here, cyclin C-Cdk8 phosphorylation of Med13 most
+likely primes the phosphodegron for destruction. Next, pro-oxidant stimulation of
+the cell wall integrity pathway MAP kinase Slt2 initially phosphorylates cyclin C
+to trigger its release from Med13. Thereafter, Med13 itself is modified by Slt2
+to stimulate SCFGrr1-mediated destruction. Taken together, these results support 
+a model in which this IDR of Med13 plays a key role in controlling a molecular
+switch that dictates cell fate following exposure to adverse environments.
+
+© 2018 Stieg et al. This article is distributed by The American Society for Cell 
+Biology under license from the author(s). Two months after publication it is
+available to the public under an Attribution–Noncommercial–Share Alike 3.0
+Unported Creative Commons License
+(http://creativecommons.org/licenses/by-nc-sa/3.0).
+
+DOI: 10.1091/mbc.E17-08-0493 
+PMCID: PMC5996960
+PMID: 29212878  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+1. J Math Biol. 2021 Nov 1;83(5):54. doi: 10.1007/s00285-021-01680-5.
+
+A chain binomial epidemic with asymptomatics motivated by COVID-19 modelling.
+
+Lefèvre C(1), Picard P(2), Simon M(3)(4), Utev S(5).
+
+Author information: 
+(1)Département de Mathématique, Université Libre de Bruxelles, Campus Plaine C.P.
+210, 1050, Brussels, Belgium. claude.lefevre@ulb.be.
+(2)ISFA, LSAF EA2429, Univ Lyon, Université Lyon 1, 50 Avenue Tony Garnier,
+69007, Lyon, France.
+(3)Departament de Matemàtica Econòmica, Financera i Actuarial, Universitat de
+Barcelona, 690 Avinguda Diagonal, 08034, Barcelona, Spain.
+(4)Département de Mathématique, Université de Mons, 20 Place du Parc, 7000, Mons,
+Belgium.
+(5)Department of Mathematics, University of Leicester, University Road,
+Leicester, LE1 7RH, UK.
+
+Motivated by modelling epidemics like COVID-19, this paper proposes a generalized
+chain binomial process which integrates two types of infectives, those with
+symptoms and those without. Testing of infectives and vaccination of susceptibles
+are then incorporated as preventive protective measures. Our interest relates to 
+the distribution of the state of the population at the end of infection and to
+the reproduction number [Formula: see text] with the associated extinction
+condition. The method uses the construction of a family of martingales and a
+branching approximation for large populations, respectively. A more general
+branching process for epidemics is also constructed and studied. Finally, some
+results obtained are illustrated by numerical examples.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany,
+part of Springer Nature.
+
+DOI: 10.1007/s00285-021-01680-5 
+PMCID: PMC8559945
+PMID: 34725739  [Indexed for MEDLINE]
+

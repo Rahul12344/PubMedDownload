@@ -1,0 +1,53 @@
+
+1. Proc Natl Acad Sci U S A. 2020 Sep 8;117(36):22452-22461. doi:
+10.1073/pnas.2012288117. Epub 2020 Aug 20.
+
+Phosphoglycolate salvage in a chemolithoautotroph using the Calvin cycle.
+
+Claassens NJ(1), Scarinci G(1), Fischer A(1), Flamholz AI(2), Newell W(1),
+Frielingsdorf S(3), Lenz O(3), Bar-Even A(4).
+
+Author information: 
+(1)Systems and Synthetic Metabolism Lab, Max Planck Institute of Molecular Plant 
+Physiology, 14476 Potsdam-Golm, Germany.
+(2)Department of Molecular and Cell Biology, University of California, Berkeley, 
+CA 94720.
+(3)Institut für Chemie, Physikalische Chemie, Technische Universität Berlin,
+10623 Berlin, Germany.
+(4)Systems and Synthetic Metabolism Lab, Max Planck Institute of Molecular Plant 
+Physiology, 14476 Potsdam-Golm, Germany; Bar-Even@mpimp-golm.mpg.de.
+
+Carbon fixation via the Calvin cycle is constrained by the side activity of
+Rubisco with dioxygen, generating 2-phosphoglycolate. The metabolic recycling of 
+phosphoglycolate was extensively studied in photoautotrophic organisms, including
+plants, algae, and cyanobacteria, where it is referred to as photorespiration.
+While receiving little attention so far, aerobic chemolithoautotrophic bacteria
+that operate the Calvin cycle independent of light must also recycle
+phosphoglycolate. As the term photorespiration is inappropriate for describing
+phosphoglycolate recycling in these nonphotosynthetic autotrophs, we suggest the 
+more general term "phosphoglycolate salvage." Here, we study phosphoglycolate
+salvage in the model chemolithoautotroph Cupriavidus necator H16 (Ralstonia
+eutropha H16) by characterizing the proxy process of glycolate metabolism,
+performing comparative transcriptomics of autotrophic growth under low and high
+CO2 concentrations, and testing autotrophic growth phenotypes of gene deletion
+strains at ambient CO2 We find that the canonical plant-like C2 cycle does not
+operate in this bacterium, and instead, the bacterial-like glycerate pathway is
+the main route for phosphoglycolate salvage. Upon disruption of the glycerate
+pathway, we find that an oxidative pathway, which we term the malate cycle,
+supports phosphoglycolate salvage. In this cycle, glyoxylate is condensed with
+acetyl coenzyme A (acetyl-CoA) to give malate, which undergoes two oxidative
+decarboxylation steps to regenerate acetyl-CoA. When both pathways are disrupted,
+autotrophic growth is abolished at ambient CO2 We present bioinformatic data
+suggesting that the malate cycle may support phosphoglycolate salvage in diverse 
+chemolithoautotrophic bacteria. This study thus demonstrates a so far unknown
+phosphoglycolate salvage pathway, highlighting important diversity in microbial
+carbon fixation metabolism.
+
+Copyright © 2020 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.2012288117 
+PMCID: PMC7486775
+PMID: 32820073  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.
+

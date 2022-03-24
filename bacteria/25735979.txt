@@ -1,0 +1,45 @@
+
+1. Biochem Biophys Res Commun. 2015 Apr 10;459(3):405-10. doi:
+10.1016/j.bbrc.2015.02.117. Epub 2015 Feb 28.
+
+ROZA-XL, an improved FRET based biosensor with an increased dynamic range for
+visualizing zeta associated protein 70 kD (ZAP-70) tyrosine kinase activity in
+live T cells.
+
+Cadra S(1), Gucciardi A(1), Valignat MP(1), Theodoly O(1), Vacaflores A(2),
+Houtman JC(3), Lellouch AC(4).
+
+Author information: 
+(1)Aix Marseille Université, UM 61 Laboratoire d'Adhésion et Inflammation,
+F-1288, Marseille, France; CNRS UMR7333, F-13288, Marseille, France; INSERM
+U1067, F-13288, Marseille, France.
+(2)Graduate Program in Immunology, University of Iowa, Iowa City, IA, USA.
+(3)Graduate Program in Immunology, University of Iowa, Iowa City, IA, USA;
+Department of Microbiology, University of Iowa, Iowa City, IA, USA.
+(4)Aix Marseille Université, UM 61 Laboratoire d'Adhésion et Inflammation,
+F-1288, Marseille, France; CNRS UMR7333, F-13288, Marseille, France; INSERM
+U1067, F-13288, Marseille, France. Electronic address:
+annemarie.lellouch@inserm.fr.
+
+Genetically encoded FRET based biosensors allow one to visualize the spatial and 
+temporal evolution of specific enzyme activities in live cells. We have
+previously reported the creation of a FRET based biosensor specific for
+Zeta-Associated Protein -70 kD (ZAP-70) (Randriamampita et al., 2008), a Syk
+family protein tyrosine kinase. ZAP-70 is essential for early T cell receptor
+(TCR) signaling events, T lymphocyte development and has also been implicated in 
+integrin mediated T lymphocyte migration. In order to facilitate the study of
+ZAP-70 kinase activity during dynamic phenomena such as immunological synapse
+formation or cell migration, we have designed and prepared a second generation of
+ZAP-70 specific biosensors. Here we describe a novel biosensor named ROZA-XL,
+that displays a 3-4 times greater dynamic range than its predecessor and
+possesses a robust baseline FRET value when expressed in the Jurkat human T cell 
+line. We demonstrate that the robust behavior of this biosensor allows for rapid 
+analysis of TCR mediated of ZAP-70 kinase activity at a single cell level, as
+shown in a simple end point assay in which ROZA-XL expressing cells are allowed
+to interact with stimulatory anti-CD3epsilon coated coverslips.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2015.02.117 
+PMID: 25735979  [Indexed for MEDLINE]
+

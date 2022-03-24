@@ -1,0 +1,51 @@
+
+1. bmc genomics. 2017 feb 27;18(1):205. doi: 10.1186/s12864-017-3590-0.
+
+genome content analysis yields new insights relationship the
+human malaria parasite plasmodium falciparum anopheline vectors.
+
+oppenheim sj(1), rosenfeld ja(2)(3), desalle r(2).
+
+author information: 
+(1)sackler institute comparative genomics, american museum natural
+history, new york, ny, 10024, usa. soppenheim@amnh.org.
+(2)sackler institute comparative genomics, american museum natural
+history, new york, ny, 10024, usa.
+(3)cancer institute new jersey, rutgers university, new brunswick, nj, usa.
+
+background: persistent growing gap availability sequenced 
+genomes ability assign functions sequenced genes led us explore 
+ways maximize information content automated annotation studies of
+anopheline mosquitos. specifically, use genome content analysis large
+number previously sequenced anopheline mosquitos follow loss gain
+of protein families evolutionary history group. importance
+of endeavor lies potential comparative genomic studies between
+anopheles closely related non-vector species reveal ancestral genome
+content dynamics involved vector competence. addition, comparisons within
+anopheles could identify genome content changes responsible variation 
+vectorial capacity family important parasite vectors.
+results: competence capacity p. falciparum vectors appear be
+phylogenetically constrained within anophelinae. instead, using ancestral
+reconstruction methods, suggest previously unexamined component of
+vector biology, anopheline nucleotide metabolism, may contribute unique
+status anophelines p. falciparum vectors. fitness effects of
+nucleotide co-option p. falciparum parasites anopheline hosts not
+yet known, results suggest anopheline genome content may responding
+to selection pressure p. falciparum. whether response defensive, 
+an attempt redress improper nucleotide balance resulting p. falciparum
+infection, perhaps symbiotic, resulting as-yet-unknown mutualism
+between anophelines p. falciparum, open question deserves 
+study.
+conclusions: clearly, wealth functional information gained
+from detailed manual genome annotation, yet rapid increase number of
+available sequences means researchers time or
+resources manually annotate sequence data generate. believe
+that efforts maximize amount information obtained automated
+annotation help address functional annotation deficit most
+evolutionary biologists face, demonstrate value an
+approach.
+
+doi: 10.1186/s12864-017-3590-0 
+pmcid: pmc5327517
+pmid: 28241792  [indexed medline]
+

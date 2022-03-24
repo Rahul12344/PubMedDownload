@@ -1,0 +1,31 @@
+
+1. IEEE/ACM Trans Comput Biol Bioinform. 2021 Oct 26;PP. doi:
+10.1109/TCBB.2021.3122183. [Epub ahead of print]
+
+RMSCNN: A Random Multi-Scale Convolutional Neural Network for Marine Microbial
+Bacteriocins Identification.
+
+Cui Z, Chen ZH, Zhang Q, Gribova VV, Filaretov VF, Huang DS.
+
+The abuse of traditional antibiotics has led to an increase in the resistance of 
+bacteria and viruses. Similar to the function of antibacterial peptides,
+bacteriocins are more common as a kind of peptides produced by bacteria that have
+bactericidal or bacterial effects. More importantly, the marine environment is
+one of the most abundant resources for extracting marine microbial bacteriocins
+(MMBs). Identifying bacteriocins from marine microorganisms is a common goal for 
+the development of new drugs. Effective use of MMBs will greatly alleviate the
+current antibiotic abuse problem. In this work, deep learning is used to identify
+meaningful MMBs. We propose a random multi-scale convolutional neural network
+method. In the scale setting, we set a random model to update the scale value
+randomly. The scale selection method can reduce the contingency caused by
+artificial setting under certain conditions, thereby making the method more
+extensive. The results show that the classification performance of the proposed
+method is better than the state-of-the-art classification methods. In addition,
+some potential MMBs are predicted, and some different sequence analyses are
+performed on these candidates. It is worth mentioning that after sequence
+analysis, the HNH endonucleases of different marine bacteria are considered as
+potential bacteriocins.
+
+DOI: 10.1109/TCBB.2021.3122183 
+PMID: 34699364 
+

@@ -1,0 +1,81 @@
+
+1. Int J Mol Sci. 2020 Oct 8;21(19). pii: E7420. doi: 10.3390/ijms21197420.
+
+Prognostic Role of Survivin and Macrophage Infiltration Quantified on Protein and
+mRNA Level in Molecular Subtypes Determined by RT-qPCR of KRT5, KRT20, and ERBB2 
+in Muscle-Invasive Bladder Cancer Treated by Adjuvant Chemotherapy.
+
+Ecke TH(1)(2), Kiani A(3), Schlomm T(3), Friedersdorff F(3), Rabien A(3)(4), Jung
+K(3)(4), Kilic E(5), Boström P(6), Tervahartiala M(7), Taimen P(8), Gleichenhagen
+J(9), Johnen G(9), Brüning T(9), Koch S(2)(10), Roggisch J(10), Wirtz RM(11).
+
+Author information: 
+(1)Department of Urology, HELIOS Hospital Bad Saarow, DE-15526 Bad Sarrow,
+Germany.
+(2)Brandenburg Medical School, DE-14770 Brandenburg, Germany.
+(3)Department of Urology, Charité-Universitätsmedizin, Corporate Member of Freie 
+Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of
+Health, DE-10098 Berlin, Germany.
+(4)Berlin Institute for Urological Research, DE-10098 Berlin, Germany.
+(5)Institute of Pathology, DE-51375 Leverkusen, Germany.
+(6)Department of Urology, Turku University Hospital, FI-20521 Turku, Finland.
+(7)MediCity Research Laboratory, Department of Medical Microbiology and
+Immunology, University of Turku, FI-20520 Turku, Finland.
+(8)Institute of Pathology, Turku University Hospital, FI-20521 Turku, Finland.
+(9)Institute for Prevention and Occupational Medicine of the German Social
+Accident Insurance (IPA), Institute of the Ruhr University Bochum, DE-44789
+Bochum, Germany.
+(10)Institute of Pathology, HELIOS Hospital Bad Saarow, DE-15526 Bad Sarrow,
+Germany.
+(11)STRATIFYER Molecular Pathology GmbH, DE-50935 Cologne, Germany.
+
+OBJECTIVES: Bladder cancer is a heterogeneous malignancy. Therefore, it is
+difficult to find single predictive markers. Moreover, most studies focus on
+either the immunohistochemical or molecular assessment of tumor tissues by
+next-generation sequencing (NGS) or PCR, while a combination of
+immunohistochemistry (IHC) and PCR for tumor marker assessment might have the
+strongest impact to predict outcome and select optimal therapies in real-world
+application. We investigated the role of proliferation survivin/BIRC5 and
+macrophage infiltration (CD68, MAC387, CLEVER-1) on the basis of molecular
+subtypes of bladder cancer (KRT5, KRT20, ERBB2) to predict outcomes of adjuvant
+treated muscle-invasive bladder cancer patients with regard to progression-free
+survival (PFS) and disease-specific survival (DSS).
+MATERIALS AND METHODS: We used tissue microarrays (TMA) from n = 50 patients (38 
+males, 12 female) with muscle-invasive bladder cancer. All patients had been
+treated with radical cystectomy followed by adjuvant triple chemotherapy. Median 
+follow-up time was 60.5 months. CD68, CLEVER-1, MAC387, and survivin protein were
+detected by immunostaining and subsequent visual inspection. BIRC5, KRT5, KRT20, 
+ERBB2, and CD68 mRNAs were detected by standardized RT-qPCR after tissue dot RNA 
+extraction using a novel stamp technology. All these markers were evaluated in
+three different centers of excellence.
+RESULTS: Nuclear staining rather than cytoplasmic staining of survivin predicted 
+DSS as a single marker with high levels of survivin being associated with better 
+PFS and DSS upon adjuvant chemotherapy (p = 0.0138 and p = 0.001, respectively). 
+These results were validated by the quantitation of BIRC5 mRNA by PCR (p = 0.0004
+and p = 0.0508, respectively). Interestingly, nuclear staining of survivin
+protein was positively associated with BIRC5 mRNA, while cytoplasmic staining was
+inversely related, indicating that the translocation of survivin protein into the
+nucleus occurred at a discrete, higher level of its mRNA. Combining
+survivin/BIRC5 levels based on molecular subtype being assessed by KRT20
+expression improved the predictive value, with tumors having low survivin/BIRC5
+and KRT20 mRNA levels having the best survival (75% vs. 20% vs. 10% 5-year DSS, p
+= 0.0005), and these values were independent of grading, node status, and tumor
+stage in multivariate analysis (p = 0.0167). Macrophage infiltration dominated in
+basal tumors and was inversely related with the luminal subtype marker gene
+expression. The presence of macrophages in survivin-positive or ERBB2-positive
+tumors was associated with worse DSS.
+CONCLUSIONS: For muscle-invasive bladder cancer patients, the proliferative
+activity as determined by the nuclear staining of survivin or RT-qPCR on the
+basis of molecular subtype characteristics outperforms single marker detections
+and single technology approaches. Infiltration by macrophages detected by IHC or 
+PCR is associated with worse outcome in defined subsets of tumors. The
+limitations of this study are the retrospective nature and the limited number of 
+patients. However, the number of molecular markers has been restricted and based 
+on predefined assumptions, which resulted in the dissection of muscle-invasive
+disease into tumor-biological axes of high prognostic relevance, which warrant
+further investigation and validation.
+
+DOI: 10.3390/ijms21197420 
+PMCID: PMC7582791
+PMID: 33050010  [Indexed for MEDLINE]
+

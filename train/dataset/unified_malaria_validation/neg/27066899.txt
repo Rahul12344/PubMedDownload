@@ -1,0 +1,58 @@
+
+1. parasit vectors. 2016 apr 11;9:198. doi: 10.1186/s13071-016-1487-4.
+
+a redesigned crispr/cas9 system marker-free genome editing plasmodium
+falciparum.
+
+lu j(1), tong y(2), pan j(2), yang y(1), liu q(1), tan x(1), zhao s(1), qin l(3),
+chen x(4).
+
+author information: 
+(1)laboratory pathogen biology, state key laboratory respiratory disease,
+center infection immunity, guangzhou institutes biomedicine health
+(gibh), chinese academy sciences, no. 190 kaiyuan avenue, guangzhou science
+park, guangzhou, 510530, guangdong province, china.
+(2)cas lamvac biotech co., ltd, no. 3 lanyue road, guangzhou science park,
+guangzhou, 510530, guangdong province, china.
+(3)laboratory pathogen biology, state key laboratory respiratory disease,
+center infection immunity, guangzhou institutes biomedicine health
+(gibh), chinese academy sciences, no. 190 kaiyuan avenue, guangzhou science
+park, guangzhou, 510530, guangdong province, china. qin_li@gibh.ac.cn.
+(4)laboratory pathogen biology, state key laboratory respiratory disease,
+center infection immunity, guangzhou institutes biomedicine health
+(gibh), chinese academy sciences, no. 190 kaiyuan avenue, guangzhou science
+park, guangzhou, 510530, guangdong province, china. chen_xiaoping@gibh.ac.cn.
+
+erratum in
+    parasit vectors. 2016;9(1):288.
+
+background: highly efficient crispr/cas9-based marker-free genome editing
+system established plasmodium falciparum (pf). however, the
+current methods, two drug-selectable markers needed episome retention,
+which may present hurdles consecutive genome manipulations due limited
+number available selectable markers. loading capacity donor dna also
+unsatisfactory due large size cas9 nuclease sgrna co-expression
+system, limits size knock-in dna fragments. the
+inefficient end joining (ej) dna repair mechanism pf, suicide-rescue
+approach could used address challenges. cas9 nuclease sgrna were
+co-expressed single plasmid (suicide vector) one selectable marker,
+and donor dna ligated plasmid (rescue vector) containing
+only ampicillin-resistance gene (ampr) colel replication origin (ori). 
+nonetheless, whether approach mediate even regular gene editing in
+pf remains unknown. study aimed demonstrate basic gene editing
+function cas9-mediated suicide-rescue system.
+findings: suicide rescue vectors constructed co-transfected into
+pf3d7. system worked expected used disrupt pfset2 gene to
+insert green fluorescent protein-renilla luciferase (gfp-ruc) fusion gene
+cassette 3334 base pairs (bp) pf47 locus, demonstrating the
+suicide vector actually induced double-strand breaks (dsbs) rescue
+vector functioned without maintenance via drug selection.
+conclusions: adapted marker-free crispr/cas9 system single
+episome-selectable marker performs well current systems general gene
+editing lays solid foundation studies including consecutive
+gene manipulations large gene knock-ins.
+
+doi: 10.1186/s13071-016-1487-4 
+pmcid: pmc4828878
+pmid: 27066899  [indexed medline]
+

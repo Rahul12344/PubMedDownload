@@ -1,0 +1,38 @@
+
+1. J Bacteriol. 2005 Oct;187(20):6991-7.
+
+Novel pathway for arsenic detoxification in the legume symbiont Sinorhizobium
+meliloti.
+
+Yang HC(1), Cheng J, Finan TM, Rosen BP, Bhattacharjee H.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, School of Medicine, Wayne
+State University, 540 East Canfield Avenue, Detroit, MI 48201, USA.
+
+We report a novel pathway for arsenic detoxification in the legume symbiont
+Sinorhizobium meliloti. Although a majority of ars operons consist of three
+genes, arsR (transcriptional regulator), arsB [As(OH)3/H+ antiporter], and arsC
+(arsenate reductase), the S. meliloti ars operon includes an aquaglyceroporin
+(aqpS) in place of arsB. The presence of AqpS in an arsenic resistance operon is 
+interesting, since aquaglyceroporin channels have previously been shown to
+adventitiously facilitate uptake of arsenite into cells, rendering them sensitive
+to arsenite. To understand the role of aqpS in arsenic resistance, S. meliloti
+aqpS and arsC were disrupted individually. Disruption of aqpS resulted in
+increased tolerance to arsenite but not arsenate, while cells with an arsC
+disruption showed selective sensitivity to arsenate. The results of transport
+experiments in intact cells suggest that AqpS is the only protein of the S.
+meliloti ars operon that facilitates transport of arsenite. Coexpression of S.
+meliloti aqpS and arsC in a strain of E. coli lacking the ars operon complemented
+arsenate but not arsenite sensitivity. These results imply that, when S. meliloti
+is exposed to environmental arsenate, arsenate enters the cell through phosphate 
+transport systems and is reduced to arsenite by ArsC. Internally generated
+arsenite flows out of the cell by downhill movement through AqpS. Thus, AqpS
+confers arsenate resistance together with ArsC-catalyzed reduction. This is the
+first report of an aquaglyceroporin with a physiological function in arsenic
+resistance.
+
+DOI: 10.1128/JB.187.20.6991-6997.2005 
+PMCID: PMC1251620
+PMID: 16199569  [Indexed for MEDLINE]
+

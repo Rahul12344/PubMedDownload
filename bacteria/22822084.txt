@@ -1,0 +1,42 @@
+
+1. J Biol Chem. 2012 Sep 7;287(37):31515-26. doi: 10.1074/jbc.M112.396895. Epub 2012
+Jul 22.
+
+Identifying key juxtamembrane interactions in cell membranes using AraC-based
+transcriptional reporter assay (AraTM).
+
+Su PC(1), Berger BW.
+
+Author information: 
+(1)Department of Chemical Engineering, Lehigh University, Bethlehem, Pennsylvania
+18015, USA.
+
+Dimerization is a key regulatory mechanism in activation of transmembrane (TM)
+receptors during signal transduction. This process involves a coordinated
+interplay between extracellular (EX), TM, and cytoplasmic (CYTO) regions to form 
+a specific interface required for both ligand binding and intracellular signaling
+to occur. While several transcriptional activator-based methods exist for
+investigating TM interactions in bacterial membranes, expression of TM chimera in
+these methods occurs in a reverse orientation, and are limited to only TM domains
+for proper membrane trafficking and integration. We therefore developed a new,
+AraC-based transcriptional reporter assay (AraTM) that expresses EX-TM-CYTO
+chimera in their native orientation, thereby enabling membrane trafficking to
+occur independent of the TM chimera used as well as permitting analysis of
+EX-TM-CYTO interactions in biological membranes. Using integrin α(IIb) TM-CYTO as
+a model, we observe a large increase in homodimerization for the constitutively
+active TM mutant L980A relative to wild-type in the TM-CYTO construct
+(A963-E1008). We also characterized the receptor for advanced glycation
+endproducts (RAGE), whose homooligomeric state is critical in ligand recognition,
+and find the specific juxtamembrane region within the CYTO (A375-P394) mediates
+homodimerization, and is dominant over effects observed when the extracellular C2
+domain is included. Furthermore, we find good agreement between our AraTM
+measurements in bacterial membranes and BRET measurements made on corresponding
+RAGE constructs expressed in transfected HEK293 cells. Overall, the AraTM assay
+provides a new approach to identify specific interactions between receptor
+EX-TM-CYTO domains in biological membranes that are important in regulation of
+signal transduction.
+
+DOI: 10.1074/jbc.M112.396895 
+PMCID: PMC3438984
+PMID: 22822084  [Indexed for MEDLINE]
+

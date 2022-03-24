@@ -1,0 +1,35 @@
+
+1. Proc Natl Acad Sci U S A. 2002 Dec 24;99(26):16707-12. Epub 2002 Dec 10.
+
+Orthologs of a novel archaeal and of the bacterial peptidyl-tRNA hydrolase are
+nonessential in yeast.
+
+Rosas-Sandoval G(1), Ambrogelly A, Rinehart J, Wei D, Cruz-Vera LR, Graham DE,
+Stetter KO, Guarneros G, Söll D.
+
+Author information: 
+(1)Departments of Molecular Biophysics and Biochemistry and Chemistry, Yale
+University, New Haven, CT 06520-8114, USA.
+
+Peptidyl-tRNA hydrolase (encoded by pth) is an essential enzyme in all bacteria, 
+where it releases tRNA from the premature translation termination product
+peptidyl-tRNA. Archaeal genomes lack a recognizable peptidyl-tRNA hydrolase (Pth)
+ortholog, although it is present in most eukaryotes. However, we detected
+Pth-like activity in extracts of the archaeon Methanocaldococcus jannaschii. The 
+uncharacterized MJ0051 ORF was shown to correspond to a protein with Pth
+activity. Heterologously expressed MJ0051 enzyme catalyzed in vitro the cleavage 
+of the Pth substrates diacetyl-[14C]lysyl-tRNA and acetyl-[14C]phenylalanyl-tRNA.
+On transformation of an Escherichia coli pth(ts) mutant, the MJ0051 gene (named
+pth2) rescued the temperature-sensitive phenotype of the strain. Analysis of
+known genomes revealed the presence of highly conserved orthologs of the archaeal
+pth2 gene in all archaea and eukaryotes but not in bacteria. The phylogeny of
+pth2 homologs suggests that the gene has been vertically inherited throughout the
+archaeal and eukaryal domains. Deletions in Saccharomyces cerevisiae of the pth2 
+(YBL057c) or pth (YHR189w) orthologs were viable, as was the double deletion
+strain, implying that the canonical Pth and Pth2 enzymes are not essential for
+yeast viability.
+
+DOI: 10.1073/pnas.222659199 
+PMCID: PMC139208
+PMID: 12475929  [Indexed for MEDLINE]
+

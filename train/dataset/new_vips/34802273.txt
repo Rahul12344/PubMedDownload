@@ -1,0 +1,36 @@
+
+1. Philos Trans A Math Phys Eng Sci. 2022 Jan 10;380(2214):20210120. doi:
+10.1098/rsta.2021.0120. Epub 2021 Nov 22.
+
+Calibrating COVID-19 susceptible-exposed-infected-removed models with
+time-varying effectivecontact rates.
+
+Gleeson JP(1)(2)(3)(4), Brendan Murphy T(5)(2)(4), O'Brien JD(1), Friel N(5)(2), 
+Bargary N(1)(2)(3), O'Sullivan DJP(1).
+
+Author information: 
+(1)MACSI, Department of Mathematics and Statistics, University of Limerick,
+Limerick, V94 T9PX, Ireland.
+(2)Insight Centre for Data Analytics, Ireland.
+(3)Confirm Centre for Smart Manufacturing, Ireland.
+(4)Irish Epidemiological Modelling Advisory Group (IEMAG), Ireland.
+(5)School of Mathematics and Statistics, University College Dublin, Dublin, D04
+V1W8, Ireland.
+
+We describe the population-based susceptible-exposed-infected-removed (SEIR)
+model developed by the Irish Epidemiological Modelling Advisory Group (IEMAG),
+which advises the Irish government on COVID-19 responses. The model assumes a
+time-varying effective contact rate (equivalently, a time-varying reproduction
+number) to model the effect of non-pharmaceutical interventions. A crucial
+technical challenge in applying such models is their accurate calibration to
+observed data, e.g. to the daily number of confirmed new cases, as the history of
+the disease strongly affects predictions of future scenarios. We demonstrate an
+approach based on inversion of the SEIR equations in conjunction with statistical
+modelling and spline-fitting of the data to produce a robust methodology for
+calibration of a wide class of models of this type. This article is part of the
+theme issue 'Data science approaches to infectious disease surveillance'.
+
+DOI: 10.1098/rsta.2021.0120 
+PMCID: PMC8607149
+PMID: 34802273  [Indexed for MEDLINE]
+

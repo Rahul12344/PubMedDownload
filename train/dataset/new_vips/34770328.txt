@@ -1,0 +1,45 @@
+
+1. Sensors (Basel). 2021 Oct 23;21(21). pii: 7021. doi: 10.3390/s21217021.
+
+Rapid Detection of Coronavirus (COVID-19) Using Microwave Immunosensor Cavity
+Resonator.
+
+Elsheakh DM(1)(2), Ahmed MI(1), Elashry GM(1), Moghannem SM(3), Elsadek HA(1),
+Elmazny WN(4), Alieldin NH(5), Abdallah EA(1).
+
+Author information: 
+(1)Microstrip Department, Electronics Research Institute (ERI), El Nozha 11843,
+Egypt.
+(2)Electrical Department, Faculty of Engineering and Technology, Badr University 
+in Cairo, Badr 11829, Egypt.
+(3)Botany and Microbiology Department, Faculty of Science, Al-Azhar University,
+Cairo 11651, Egypt.
+(4)Holding Company for Biological Products and Vaccines (VACSERA), Dokki, Giza
+12654, Egypt.
+(5)National Cancer Institute, Cairo University, Giza 12613, Egypt.
+
+This paper presents a rapid diagnostic device for the detection of the pandemic
+coronavirus (COVID-19) using a micro-immunosensor cavity resonator. Coronavirus
+has been declared an international public health crisis, so it is important to
+design quick diagnostic methods for the detection of infected cases, especially
+in rural areas, to limit the spread of the virus. Herein, a proof-of-concept is
+presented for a portable laboratory device for the detection of the SARS-CoV-2
+virus using electromagnetic biosensors. This device is a microwave cavity
+resonator (MCR) composed of a sensor operating at industrial, scientific and
+medical (ISM) 2.45 GHz inserted in 3D housing. The changes of electrical
+properties of measured serum samples after passing the sensor surface are
+presented. The three change parameters of the sensor are resonating frequency
+value, amplitude and phase of the reflection coefficient |S11|. This
+immune-sensor offers a portable, rapid and accurate diagnostic method for the
+SARS-CoV-2 virus, which can enable on-site diagnosis of infection. Medical
+validation for the device is performed through biostatistical analysis using the 
+ROC (Receiver Operating Characteristic) method. The predictive accuracy of the
+device is 63.3% and 60.6% for reflection and phase, respectively. The device has 
+advantages of low cost, low size and weight and rapid response. It does need a
+trained technician to operate it since a software program operates automatically.
+The device can be used at ports' quarantine units, hospitals, etc.
+
+DOI: 10.3390/s21217021 
+PMCID: PMC8588152
+PMID: 34770328  [Indexed for MEDLINE]
+

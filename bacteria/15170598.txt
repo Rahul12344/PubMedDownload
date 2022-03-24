@@ -1,0 +1,37 @@
+
+1. Cytometry A. 2004 Jun;59(2):191-202.
+
+Getting the right cells to the array: Gene expression microarray analysis of cell
+mixtures and sorted cells.
+
+Szaniszlo P(1), Wang N, Sinha M, Reece LM, Van Hook JW, Luxon BA, Leary JF.
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Texas Medical Branch 
+at Galveston, 77555, USA.
+
+BACKGROUND: Most biological samples are cell mixtures. Some basic questions are
+still unanswered about analyzing these heterogeneous samples using gene
+expression microarray technology (MAT). How meaningful is a cell mixture's
+overall gene expression profile (GEP)? Is it necessary to purify the cells of
+interest before microarray analysis, and how much purity is needed? How much does
+the purification itself distort the GEP, and how well can the GEP of a small cell
+subset be recovered?
+METHODS: Model cell mixtures with different cell ratios were analyzed by both
+spotted and Affymetrix MAT. GEP distortion during cell purification and GEPs of
+purified cells were studied. CD34+ cord blood cells were purified and analyzed by
+MAT.
+RESULTS: GEPs for mixed cell populations were found to mirror the cell ratios in 
+the mixture. Over 75% pure samples were indistinguishable from pure cells by
+their overall GEP. Cell purification preserved the GEP. The GEPs of small cell
+subsets could be accurately recovered by cell sorting both from model cell
+mixtures and from cord blood.
+CONCLUSIONS: Purification of small cell subsets from a mixture prior to MAT is
+necessary for meaningful results. Even completely hidden GEPs of small cell
+subpopulations can be recovered by cell sorting.
+
+Copyright 2004 Wiley-Liss, Inc.
+
+DOI: 10.1002/cyto.a.20055 
+PMID: 15170598  [Indexed for MEDLINE]
+

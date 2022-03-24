@@ -1,0 +1,81 @@
+
+1. Methods Mol Biol. 2022;2421:141-150. doi: 10.1007/978-1-0716-1944-5_10.
+
+Assessment of Scavenger Receptor Cysteine-Rich Domain Binding to Bacteria.
+
+Telfer JC(1), Hsu H(2), Tyner MD(3), Le Page L(3).
+
+Author information: 
+(1)Department of Veterinary and Animal Sciences, University of Massachusetts,
+Amherst, MA, USA. telfer@vasci.umass.edu.
+(2)Institute of Human Virology, University of Maryland, Baltimore, MD, USA.
+(3)Department of Veterinary and Animal Sciences, University of Massachusetts,
+Amherst, MA, USA.
+
+The scavenger receptor cysteine-rich SRCR domain is an ancient protein domain
+found in SR-A and SR-I scavenger receptors, which is characterized by a conserved
+arrangement of cysteines (Martinez et al., Pharmacol Rev 63(4):967-1000, 2011;
+Sarrias et al., Crit Rev Immunol 24(1):1-37, 2004; Telfer and Baldwin, Cell
+Immunol 296(1):76-86, 2015; PrabhuDas et al., J Immunol, 2017.
+198(10):3775-3789). SRCR domains are divided into group A and group B SRCR
+domains by virtue of how many cysteines they contain and the resulting disulfide 
+bonding pattern. Group B SRCR domains, found in WC1, CD163, CD5, CD6, Spα and
+DMBT1, are approximately 100-110 amino acids long and contain 6-8 cysteines
+predicted to form 3-4 disulfide bonds. The crystal structure of a CD5 group B
+SRCR domain predicts a fold of two beta-sheets and an alpha helix (Rodamilans et 
+al., J Biol Chem 282(17):12669-12677, 2007; Wang et al., Mol Immunol 48:801-809, 
+2011). SRCR domains bind to many different types of chemical compounds found on
+cells, viruses, and microbes and are usually found in multiples in the
+extracellular domains of transmembrane proteins or in secreted proteins. Small
+amino acid differences between these SRCR domains lead to significant differences
+in binding affinity. In addition, SRCR domain genes contain allelic polymorphisms
+and can be extensively duplicated. Thus, single and duplicated SRCR domain
+protein gene loci encode a large tunable binding potential. Binding to
+pathogen-associated molecular patterns (PAMPs) combined with signaling potential 
+predicts an important role for these molecules in the immune response. WC1 SRCR
+domains bind to the spirochetes Leptospira and Borrelia (Hsu et al., J Immunol
+194(5):2280-2288, 2015). CD6 (Sarrias et al., Proc Natl Acad Sci U S A
+104(28):11724-11729, 2007), Spα (Sarrias et al., J Biol Chem 280(42):35391-35398,
+2005), CD163A (Fabriek et al., Blood 113(4):887-892, 2009) and DMBT1 (Madsen et
+al., Eur J Immunol 33(8):2327-2336, 2003) bind to Gram-positive and Gram-negative
+bacteria; CD5 binds to yeast (Vera et al., Proc Natl Acad Sci U S A
+106(5):1506-1511, 2009). Identified ligands include lipoteichoic acid,
+lipopolysaccharide, poly-phosphorylated, and -sulfated compounds such as dextran 
+sulfate sodium, leucine-rich repeat proteins, and fungal mannose (Sarrias et al.,
+Proc Natl Acad Sci U S A 104(28):11724-11729, 2007; Sarrias et al., J Biol Chem
+280(42):35391-35398, 2005; Fabriek et al., Blood 113(4):887-892, 2009; Vera et
+al., Proc Natl Acad Sci U S A 106(5):1506-1511, 2009; End et al., Eur J Immunol
+39(3):833-842, 2009; Loimaranta et al., J Biol Chem 284(28):18614-18623, 2009). A
+conserved linear binding motif (VEVLXXXXW) in an external loop in the SRCR domain
+has been identified in CD163A and DMBT1 and can be used as a peptide that
+aggregates bacteria (Fabriek et al., Blood 113(4):887-892, 2009; Bikker et al., J
+Biol Chem 279(46):47699-47703, 2004; Leito et al., Biol Chem 389(9):1193-1200,
+2008). In contrast, WC1 binding to bacteria is mediated by a noncontinuous motif 
+in the native protein, and mutation of the VEVLXXXXW motif has no effect upon
+bacterial binding (Hsu et al., J Immunol 194(5):2280-2288, 2015). Thus, bacterial
+binding studies with WC1 SRCR domains must be done with native, correctly
+disulfide bonded, protein, ideally posttranslationally modified in mammalian
+cells.WC1 is found in the genomes of most mammals, reptiles, and birds and is
+expressed exclusively on γδ T cells in ruminants. The 13 bovine WC1 genes encode 
+up to 11 extracellular SRCR domains, organized in the SRCR domain pattern of
+a1-[b2-c3-d4-e5-d6]-[b7-c8-d9-e10-d'11], where the alphabet designations indicate
+homology between genes and across species (Chen et al., BMC Genet 13:86, 2012;
+Herzig et al., BMC Evol Biol 10:181, 2010; Herzig and Baldwin, BMC Genomics
+10:191, 2009). Some of the signaling co-receptor WC1 molecules are required for
+the γδ T cell response to Leptospira (Wang et al., Mol Immunol 48:801-809, 2011; 
+Rogers et al., J Immunol 174(6):3386-3393, 2005; Wang et al., Eur J Immunol
+39(1):254-266, 2009). The WC1 expressed on responsive γδ T cells is correlated
+with its direct binding to Leptospira via some of its SRCR domains (Hsu et al., J
+Immunol 194(5):2280-2288, 2015). Because WC1+ γδ T cells share a restriction in
+their γδ TCRs and WC1 has TCR co-receptor activity, we hypothesize that WC1
+co-ligation with the TCR plays the determining role in the activation of WC1+ γδ 
+T cells by pathogens. Classification of the binding of WC1 SRCR domains, their
+ligands, and their role in the interaction of 𝛾δ T cells with pathogens relevant 
+to the host will allow these cells to be recruited in next-generation vaccines to
+pathogens that have significant negative economic and health impact.
+
+© 2022. Springer Science+Business Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/978-1-0716-1944-5_10 
+PMID: 34870817 
+

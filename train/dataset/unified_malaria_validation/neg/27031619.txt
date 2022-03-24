@@ -1,0 +1,39 @@
+
+1. plos one. 2016 mar 31;11(3):e0152322. doi: 10.1371/journal.pone.0152322.
+ecollection 2016.
+
+enhanced methylation analysis recovery unsequenceable fragments.
+
+mcinroy gr(1), beraldi d(2), raiber ea(1), modrzynska k(3), van delft p(1),
+billker o(3), balasubramanian s(1)(2)(4).
+
+author information: 
+(1)department chemistry, university cambridge, cambridge, cambridgeshire,
+united kingdom.
+(2)cancer research uk cambridge institute, li ka shing centre, cambridge,
+cambridgeshire, united kingdom.
+(3)wellcome trust sanger institute, cambridge, cambridgeshire, united kingdom.
+(4)school clinical medicine, university cambridge, cambridge,
+cambridgeshire, united kingdom.
+
+bisulfite sequencing valuable tool mapping position of
+5-methylcytosine genome single base resolution. however, associated
+chemical treatment causes strand scission, depletes number of
+sequenceable dna fragments library thus necessitates pcr amplification. 
+the at-rich nature library generated bisulfite treatment adversely
+affects amplification, resulting introduction major biases that
+can confound methylation analysis. here, report method enables more
+accurate methylation analysis, rebuilding bisulfite-damaged components a
+dna library. recovery bisulfite treatment (rebuilt) approach enables
+pcr-free bisulfite sequencing low nanogram quantities genomic dna. we
+apply rebuilt method first whole methylome analysis highly
+at-rich genome plasmodium berghei. side-by-side comparison commercial
+protocol involving amplification demonstrates substantial improvement in
+uniformity coverage reduction sequence context bias. method be
+widely applicable quantitative methylation analysis, even technically
+challenging genomes, limited sample dna available.
+
+doi: 10.1371/journal.pone.0152322 
+pmcid: pmc4816320
+pmid: 27031619  [indexed medline]
+

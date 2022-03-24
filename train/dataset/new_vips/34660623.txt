@@ -1,0 +1,62 @@
+
+1. Front Med (Lausanne). 2021 Sep 30;8:704256. doi: 10.3389/fmed.2021.704256.
+eCollection 2021.
+
+Artificial Intelligence for COVID-19: A Systematic Review.
+
+Wang L(1), Zhang Y(2)(3), Wang D(1), Tong X(1), Liu T(1), Zhang S(1), Huang J(1),
+Zhang L(1), Chen L(4), Fan H(1), Clarke M(5).
+
+Author information: 
+(1)Department of Respiratory and Critical Care Medicine, West China Hospital/West
+China School of Medicine, Sichuan University, Chengdu, China.
+(2)Department of Periodical Press and National Clinical Research Center for
+Geriatrics, West China Hospital, Sichuan University, Chengdu, China.
+(3)Chinese Evidence-Based Medicine Center, West China Hospital, Sichuan
+University, Chengdu, China.
+(4)Department of Anesthesiology and National Clinical Research Center for
+Geriatrics, West China Hospital, Sichuan University and The Research Units of
+West China, Chinese Academy of Medical Sciences, Chengdu, China.
+(5)Northern Ireland Methodology Hub, Queen's University Belfast, Belfast, United 
+Kingdom.
+
+Background: Recently, Coronavirus Disease 2019 (COVID-19), caused by severe acute
+respiratory syndrome virus 2 (SARS-CoV-2), has affected more than 200 countries
+and lead to enormous losses. This study systematically reviews the application of
+Artificial Intelligence (AI) techniques in COVID-19, especially for diagnosis,
+estimation of epidemic trends, prognosis, and exploration of effective and safe
+drugs and vaccines; and discusses the potential limitations. Methods: We report
+this systematic review following the Preferred Reporting Items for Systematic
+Reviews and Meta-Analyses (PRISMA) guidelines. We searched PubMed, Embase and the
+Cochrane Library from inception to 19 September 2020 for published studies of AI 
+applications in COVID-19. We used PROBAST (prediction model risk of bias
+assessment tool) to assess the quality of literature related to the diagnosis and
+prognosis of COVID-19. We registered the protocol (PROSPERO CRD42020211555).
+Results: We included 78 studies: 46 articles discussed AI-assisted diagnosis for 
+COVID-19 with total accuracy of 70.00 to 99.92%, sensitivity of 73.00 to 100.00%,
+specificity of 25 to 100.00%, and area under the curve of 0.732 to 1.000.
+Fourteen articles evaluated prognosis based on clinical characteristics at
+hospital admission, such as clinical, laboratory and radiological
+characteristics, reaching accuracy of 74.4 to 95.20%, sensitivity of 72.8 to
+98.00%, specificity of 55 to 96.87% and AUC of 0.66 to 0.997 in predicting
+critical COVID-19. Nine articles used AI models to predict the epidemic of the
+COVID-19, such as epidemic peak, infection rate, number of infected cases,
+transmission laws, and development trend. Eight articles used AI to explore
+potential effective drugs, primarily through drug repurposing and drug
+development. Finally, 1 article predicted vaccine targets that have the potential
+to develop COVID-19 vaccines. Conclusions: In this review, we have shown that AI 
+achieved high performance in diagnosis, prognosis evaluation, epidemic prediction
+and drug discovery for COVID-19. AI has the potential to enhance significantly
+existing medical and healthcare system efficiency during the COVID-19 pandemic.
+
+Copyright © 2021 Wang, Zhang, Wang, Tong, Liu, Zhang, Huang, Zhang, Chen, Fan and
+Clarke.
+
+DOI: 10.3389/fmed.2021.704256 
+PMCID: PMC8514781
+PMID: 34660623 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

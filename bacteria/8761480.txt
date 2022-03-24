@@ -1,0 +1,48 @@
+
+1. Biochem J. 1996 Aug 15;318 ( Pt 1):255-61.
+
+The SH3 domain of Src tyrosyl protein kinase interacts with the N-terminal splice
+region of the PDE4A cAMP-specific phosphodiesterase RPDE-6 (RNPDE4A5).
+
+O'Connell JC(1), McCallum JF, McPhee I, Wakefield J, Houslay ES, Wishart W,
+Bolger G, Frame M, Houslay MD.
+
+Author information: 
+(1)Division of Biochemistry and Molecular Biology, I.B.L.S., University of
+Glasgow, Scotland, U.K.
+
+The PDE4A (type IV) cAMP-specific, rolipram-inhibited phosphodiesterase RPDE-6
+(RNPDE4A5), when transiently expressed in COS7 cells, could be complexed with the
+v-Src-SH3 domain expressed as a glutathione S-transferase (GST) fusion protein.
+RPDE-6 did not interact with GST itself. This complex was not disrupted by
+treatment with high NaCl concentration together with Triton X-100. Interaction
+was apparently determined by the N-terminal splice region of RPDE-6, as the PDE4A
+splice variant RPDE-39, which differs from RPDE-6 at the extreme N-terminus,
+failed to associate with v-Src-SH3; met26RD1 (where RD1 is rat 'dunc-like' PDE), 
+which has the N-terminal splice region deleted, failed to associate with
+v-Src-SH3, and the association of RPDE-6 and v-Src-SH3 was blocked by a fusion
+protein formed from the N-terminal splice region. RDPE-6 showed binding to GST
+fusion proteins of both the intact Src kinase and an SH2-SH3 construct but did
+not bind to the Src-SH2 domain or to the adaptor protein Grb-2. RPDE-6 could be
+co-immunoprecipitated from cytosol extracts of transfected cells by using
+anti-Src antiserum. RPDE-6 exhibited selectivity in binding to the SH3 domains of
+c-Abl, Crk, Csk, Lck, Lyn, Fyn and v-Src, with binding to the SH3 regions of the 
+Src-related tyrosyl kinases Lyn and Fyn being the most effective. The binding of 
+RPDE-6 to the SH3 domains of Crk, Csk and Lck led to a marked reduction in PDE
+activity, but no change was apparent in complexes with other species. Endogenous 
+RPDE-6 from brain, but not endogenous RPDE-39 from testis, bound to the Src-SH3
+domain. We suggest that the PDE4A splice variant RPDE-6 has a propensity for
+interaction with selective SH3 domains, in particular those from Src and the
+Src-related tyrosyl kinases Lyn and Fyn. This interaction seems to be governed by
+alternative splicing of the PDE4A gene, because RPDE-39, a splice variant that
+lacks the proline-rich N-terminal splice region of RPDE-6, does not interact with
+these SH3 domains. It is proposed that the binding site on RPDE-6 for SH3 domains
+lies within the unique first 102 residues of its N-terminal splice domain, where 
+two motifs representing Class I SH3 binding sites with selectivity for Src kinase
+SH3 domains can be identified and one motif for a putative Class II SH3 binding
+site.
+
+DOI: 10.1042/bj3180255 
+PMCID: PMC1217616
+PMID: 8761480  [Indexed for MEDLINE]
+

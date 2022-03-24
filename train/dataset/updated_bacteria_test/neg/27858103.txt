@@ -1,0 +1,48 @@
+
+1. Theor Appl Genet. 2017 Mar;130(3):471-482. doi: 10.1007/s00122-016-2827-7. Epub
+2016 Nov 17.
+
+Validating the prediction accuracies of marker-assisted and genomic selection of 
+Fusarium head blight resistance in wheat using an independent sample.
+
+Jiang Y(1), Schulthess AW(1), Rodemann B(2), Ling J(1), Plieske J(3), Kollers
+S(4), Ebmeyer E(4), Korzun V(4), Argillier O(5), Stiewe G(6), Ganal MW(3), Röder 
+MS(1), Reif JC(7).
+
+Author information: 
+(1)Department of Breeding Research, Leibniz Institute of Plant Genetics and Crop 
+Plant Research (IPK), 06466, Gatersleben, Germany.
+(2)Julius Kühn Institute, Brunswick, Germany.
+(3)TraitGenetics GmbH, Gatersleben, Germany.
+(4)KWS LOCHOW GMBH, Bergen, Germany.
+(5)Syngenta France S.A.S., Orgerus, France.
+(6)Syngenta Seeds GmbH, Bad Salzuflen, Germany.
+(7)Department of Breeding Research, Leibniz Institute of Plant Genetics and Crop 
+Plant Research (IPK), 06466, Gatersleben, Germany. reif@ipk-gatersleben.de.
+
+KEY MESSAGE: Compared with independent validation, cross-validation
+simultaneously sampling genotypes and environments provided similar estimates of 
+accuracy for genomic selection, but inflated estimates for marker-assisted
+selection. Estimates of prediction accuracy of marker-assisted (MAS) and genomic 
+selection (GS) require validations. The main goal of our study was to compare the
+prediction accuracies of MAS and GS validated in an independent sample with
+results obtained from fivefold cross-validation using genomic and phenotypic data
+for Fusarium head blight resistance in wheat. In addition, the applicability of
+the reliability criterion, a concept originally developed in the context of
+classic animal breeding and GS, was explored for MAS. We observed that prediction
+accuracies of MAS were overestimated by 127% using cross-validation sampling
+genotype and environments in contrast to independent validation. In contrast,
+prediction accuracies of GS determined in independent samples are similar to
+those estimated with cross-validation sampling genotype and environments. This
+can be explained by small population differentiation between the training and
+validation sets in our study. For European wheat breeding, which is so far
+characterized by a slow temporal dynamic in allele frequencies, this assumption
+seems to be realistic. Thus, GS models used to improve European wheat populations
+are expected to possess a long-lasting validity. Since quantitative trait loci
+information can be exploited more precisely if the predicted genotype is more
+related to the training population, the reliability criterion is also a valuable 
+tool to judge the level of prediction accuracy of individual genotypes in MAS.
+
+DOI: 10.1007/s00122-016-2827-7 
+PMID: 27858103  [Indexed for MEDLINE]
+

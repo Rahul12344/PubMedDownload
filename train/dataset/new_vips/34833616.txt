@@ -1,0 +1,47 @@
+
+1. Sensors (Basel). 2021 Nov 12;21(22). pii: 7540. doi: 10.3390/s21227540.
+
+Body Temperature Monitoring for Regular COVID-19 Prevention Based on Human Daily 
+Activity Recognition.
+
+Zhang L(1), Zhu Y(1), Jiang M(1), Wu Y(1), Deng K(1), Ni Q(2).
+
+Author information: 
+(1)College of Information Science and Technology, Donghua University, Shanghai
+201620, China.
+(2)College of Information, Mechanical and Electrical Engineering, Shanghai Normal
+University, Shanghai 201418, China.
+
+Existing wearable systems that use G-sensors to identify daily activities have
+been widely applied for medical, sports and military applications, while body
+temperature as an obvious physical characteristic that has rarely been considered
+in the system design and relative applications of HAR. In the context of the
+normalization of COVID-19, the prevention and control of the epidemic has become 
+a top priority. Temperature monitoring plays an important role in the preliminary
+screening of the population for fever. Therefore, this paper proposes a wearable 
+device embedded with inertial and temperature sensors that is used to apply human
+behavior recognition (HAR) to body surface temperature detection for body
+temperature monitoring and adjustment by evaluating recognition algorithms. The
+sensing system consists of an STM 32-based microcontroller, a 6-axis
+(accelerometer and gyroscope) sensor, and a temperature sensor to capture the
+original data from 10 individual participants under 4 different daily activity
+scenarios. Then, the collected raw data are pre-processed by signal
+standardization, data stacking and resampling. For HAR, several machine learning 
+(ML) and deep learning (DL) algorithms are implemented to classify the
+activities. To compare the performance of different classifiers on the
+seven-dimensional dataset with temperature sensing signals, evaluation metrics
+and the algorithm running time are considered, and random forest (RF) is found to
+be the best-performing classifier with 88.78% recognition accuracy, which is
+higher than the case of the absence of temperature data (<78%). In addition, the 
+experimental results show that participants' body surface temperature in dynamic 
+activities was lower compared to sitting, which can be associated with the
+possible missing fever population due to temperature deviations in COVID-19
+prevention. According to different individual activities, epidemic prevention
+workers are supposed to infer the corresponding standard normal body temperature 
+of a patient by referring to the specific values of the mean expectation and
+variance in the normal distribution curve provided in this paper.
+
+DOI: 10.3390/s21227540 
+PMCID: PMC8622194
+PMID: 34833616  [Indexed for MEDLINE]
+

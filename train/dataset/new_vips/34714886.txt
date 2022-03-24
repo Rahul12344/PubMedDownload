@@ -1,0 +1,44 @@
+
+1. PLoS One. 2021 Oct 29;16(10):e0259277. doi: 10.1371/journal.pone.0259277.
+eCollection 2021.
+
+Nanopore sequencing of SARS-CoV-2: Comparison of short and long PCR-tiling
+amplicon protocols.
+
+Brejová B(1), Boršová K(2)(3), Hodorová V(4), Čabanová V(2), Gafurov A(1),
+Fričová D(5), Neboháčová M(4), Vinař T(6), Klempa B(2), Nosek J(4).
+
+Author information: 
+(1)Department of Computer Science, Faculty of Mathematics, Physics and
+Informatics, Comenius University in Bratislava, Bratislava, Slovak Republic.
+(2)Institute of Virology, Biomedical Research Center of the Slovak Academy of
+Sciences, Bratislava, Slovak Republic.
+(3)Department of Microbiology and Virology, Faculty of Natural Sciences, Comenius
+University in Bratislava, Bratislava, Slovak Republic.
+(4)Department of Biochemistry, Faculty of Natural Sciences, Comenius University
+in Bratislava, Bratislava, Slovak Republic.
+(5)Institute of Neuroimmunology, Slovak Academy of Sciences, Bratislava, Slovak
+Republic.
+(6)Department of Applied Informatics, Faculty of Mathematics, Physics and
+Informatics, Comenius University in Bratislava, Bratislava, Slovak Republic.
+
+Surveillance of the SARS-CoV-2 variants including the quickly spreading mutants
+by rapid and near real-time sequencing of the viral genome provides an important 
+tool for effective health policy decision making in the ongoing COVID-19
+pandemic. Here we evaluated PCR-tiling of short (~400-bp) and long (~2 and
+~2.5-kb) amplicons combined with nanopore sequencing on a MinION device for
+analysis of the SARS-CoV-2 genome sequences. Analysis of several sequencing runs 
+demonstrated that using the long amplicon schemes outperforms the original
+protocol based on the 400-bp amplicons. It also illustrated common artefacts and 
+problems associated with PCR-tiling approach, such as uneven genome coverage,
+variable fraction of discarded sequencing reads, including human and bacterial
+contamination, as well as the presence of reads derived from the viral
+sub-genomic RNAs.
+
+DOI: 10.1371/journal.pone.0259277 
+PMCID: PMC8555800
+PMID: 34714886  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

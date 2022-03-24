@@ -1,0 +1,46 @@
+
+1. BMC Med Res Methodol. 2021 Oct 17;21(1):215. doi: 10.1186/s12874-021-01410-x.
+
+Analysis of COVID-19 data using neutrosophic Kruskal Wallis H test.
+
+Sherwani RAK(1), Shakeel H(2), Awan WB(2), Faheem M(2), Aslam M(3).
+
+Author information: 
+(1)College of Statistical and Actuarial Sciences, University of the Punjab
+Lahore, Lahore, Pakistan. rehan.stat@pu.edu.pk.
+(2)College of Statistical and Actuarial Sciences, University of the Punjab
+Lahore, Lahore, Pakistan.
+(3)Department of Statistics, Faculty of Science, King Abdulaziz University,
+Jeddah, 21551, Saudi Arabia. aslam_ravian@hotmail.com.
+
+BACKGROUND: Kruskal-Wallis H test from the bank of classical statistics tests is 
+a well-known nonparametric alternative to a one-way analysis of variance. The
+test is extensively used in decision-making problems where one has to compare the
+equality of several means when the observations are in exact form. The test is
+helpless when the data is in an interval form and has some indeterminacy.
+METHODS: The interval-valued data often contain uncertainty and imprecision and
+often arise from situations that contain vagueness and ambiguity. In this
+research, a modified form of the Kruskal-Wallis H test has been proposed for
+indeterminacy data. A comprehensive theoretical methodology with an application
+and implementation of the test has been proposed in the research.
+RESULTS: The proposed test is applied on a Covid-19 data set for application
+purposes. The study results suggested that the proposed modified Kruskal-Wallis H
+test is more suitable in interval-valued data situations. The application of this
+new neutrosophic Kruskal-Wallis test on the Covid-19 data set showed that the
+proposed test provides more relevant and adequate results. The data representing 
+the daily ICU occupancy by the Covid-19 patients were recorded for both
+determinate and indeterminate parts. The existing nonparametric Kruskal-Wallis H 
+test under Classical Statistics would have given misleading results. The proposed
+test showed that at a 1% level of significance, there is a statistically
+significant difference among the average daily ICU occupancy by corona-positive
+patients of different age groups.
+CONCLUSIONS: The findings of the results suggested that our proposed modified
+form of the Kruskal-Wallis is appropriate in place of the classical form of the
+test in the presence of the neutrosophic environment.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12874-021-01410-x 
+PMCID: PMC8520580
+PMID: 34657587  [Indexed for MEDLINE]
+

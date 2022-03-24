@@ -1,0 +1,46 @@
+
+1. IEEE Access. 2021 Jan 28;9:21085-21093. doi: 10.1109/ACCESS.2021.3055374.
+eCollection 2021.
+
+FPGA Realizations of Chaotic Epidemic and Disease Models Including Covid-19.
+
+Elnawawy M(1), Aloul F(1), Sagahyroon A(1), Elwakil AS(2)(3)(4), Sayed WS(5),
+Said LA(4), Mohamed SM(4), Radwan AG(5)(6).
+
+Author information: 
+(1)Department of Computer Science and EngineeringAmerican University of Sharjah
+Sharjah 26666 United Arab Emirates.
+(2)Electrical and Computer EngineeringUniversity of Sharjah Sharjah 27272 United 
+Arab Emirates.
+(3)Department of Electrical and Computer EngineeringUniversity of Calgary Calgary
+AB T2N 1N4 Canada.
+(4)Nanoelectronics Integrated Systems Center (NISC)Nile University Giza 16453
+Egypt.
+(5)Engineering Mathematics and Physics DepartmentFaculty of EngineeringCairo
+University Giza 12613 Egypt.
+(6)School of Engineering and Applied SciencesNile University Giza 12588 Egypt.
+
+The spread of epidemics and diseases is known to exhibit chaotic dynamics; a fact
+confirmed by many developed mathematical models. However, to the best of our
+knowledge, no attempt to realize any of these chaotic models in analog or digital
+electronic form has been reported in the literature. In this work, we report on
+the efficient FPGA implementations of three different virus spreading models and 
+one disease progress model. In particular, the Ebola, Influenza, and COVID-19
+virus spreading models in addition to a Cancer disease progress model are first
+numerically analyzed for parameter sensitivity via bifurcation diagrams.
+Subsequently and despite the large number of parameters and large number of
+multiplication (or division) operations, these models are efficiently implemented
+on FPGA platforms using fixed-point architectures. Detailed FPGA design process, 
+hardware architecture and timing analysis are provided for three of the studied
+models (Ebola, Influenza, and Cancer) on an Altera Cyclone IV EP4CE115F29C7 FPGA 
+chip. All models are also implemented on a high performance Xilinx Artix-7
+XC7A100TCSG324 FPGA for comparison of the needed hardware resources. Experimental
+results showing real-time control of the chaotic dynamics are presented.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more 
+information, see https://creativecommons.org/licenses/by/4.0/.
+
+DOI: 10.1109/ACCESS.2021.3055374 
+PMCID: PMC8545232
+PMID: 34786305 
+

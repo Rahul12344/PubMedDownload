@@ -1,0 +1,38 @@
+
+1. Appl Environ Microbiol. 2005 Dec;71(12):7724-36.
+
+At least 1 in 20 16S rRNA sequence records currently held in public repositories 
+is estimated to contain substantial anomalies.
+
+Ashelford KE(1), Chuzhanova NA, Fry JC, Jones AJ, Weightman AJ.
+
+Author information: 
+(1)Cardiff School of Biosciences, Cardiff University, Main Building, Park Place, 
+P.O. Box 915, Cardiff CF10 3TL, United Kingdom. ashelford@cardiff.ac.uk
+
+A new method for detecting chimeras and other anomalies within 16S rRNA sequence 
+records is presented. Using this method, we screened 1,399 sequences from 19
+phyla, as defined by the Ribosomal Database Project, release 9, update 22, and
+found 5.0% to harbor substantial errors. Of these, 64.3% were obvious chimeras,
+14.3% were unidentified sequencing errors, and 21.4% were highly degenerate. In
+all, 11 phyla contained obvious chimeras, accounting for 0.8 to 11% of the
+records for these phyla. Many chimeras (43.1%) were formed from parental
+sequences belonging to different phyla. While most comprised two fragments, 13.7%
+were composed of at least three fragments, often from three different sources. A 
+separate analysis of the Bacteroidetes phylum (2,739 sequences) also revealed
+5.8% records to be anomalous, of which 65.4% were apparently chimeric. Overall,
+we conclude that, as a conservative estimate, 1 in every 20 public database
+records is likely to be corrupt. Our results support concerns recently expressed 
+over the quality of the public repositories. With 16S rRNA sequence data
+increasingly playing a dominant role in bacterial systematics and environmental
+biodiversity studies, it is vital that steps be taken to improve screening of
+sequences prior to submission. To this end, we have implemented our method as a
+program with a simple-to-use graphic user interface that is capable of running on
+a range of computer platforms. The program is called Pintail, is released under
+the terms of the GNU General Public License open source license, and is freely
+available from our website at http://www.cardiff.ac.uk/biosi/research/biosoft/.
+
+DOI: 10.1128/AEM.71.12.7724-7736.2005 
+PMCID: PMC1317345
+PMID: 16332745  [Indexed for MEDLINE]
+

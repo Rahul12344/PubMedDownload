@@ -1,0 +1,60 @@
+
+1. Front Mol Biosci. 2021 Oct 26;8:728661. doi: 10.3389/fmolb.2021.728661.
+eCollection 2021.
+
+Bromodomain Containing Protein 4 (BRD4) Regulates Expression of its Interacting
+Coactivators in the Innate Response to Respiratory Syncytial Virus.
+
+Xu X(1), Mann M(1), Qiao D(1), Li Y(2), Zhou J(2), Brasier AR(1)(3).
+
+Author information: 
+(1)Department of Medicine, University of Wisconsin-Madison School of Medicine and
+Public Health (SMPH), Madison, WI, United States.
+(2)Department of Pharmacology and Toxicology, University of Texas Medical Branch,
+Galveston, TX, United States.
+(3)Institute for Clinical and Translational Research (ICTR), University of
+Wisconsin-Madison, Madison, WI, United States.
+
+Bromodomain-containing protein 4 plays a central role in coordinating the complex
+epigenetic component of the innate immune response. Previous studies implicated
+BRD4 as a component of a chromatin-modifying complex that is dynamically
+recruited to a network of protective cytokines by binding activated transcription
+factors, polymerases, and histones to trigger their rapid expression via
+transcriptional elongation. Our previous study extended our understanding of the 
+airway epithelial BRD4 interactome by identifying over 100 functionally important
+coactivators and transcription factors, whose association is induced by
+respiratory syncytial virus (RSV) infection. RSV is an etiological agent of
+recurrent respiratory tract infections associated with exacerbations of chronic
+obstructive pulmonary disease. Using a highly selective small-molecule BRD4
+inhibitor (ZL0454) developed by us, we extend these findings to identify the gene
+regulatory network dependent on BRD4 bromodomain (BD) interactions. Human small
+airway epithelial cells were infected in the absence or presence of ZL0454, and
+gene expression profiling was performed. A highly reproducible dataset was
+obtained which indicated that BRD4 mediates both activation and repression of
+RSV-inducible gene regulatory networks controlling cytokine expression,
+interferon (IFN) production, and extracellular matrix remodeling. Index genes of 
+functionally significant clusters were validated independently. We discover that 
+BRD4 regulates the expression of its own gene during the innate immune response. 
+Interestingly, BRD4 activates the expression of NFκB/RelA, a coactivator that
+binds to BRD4 in a BD-dependent manner. We extend this finding to show that BRD4 
+also regulates other components of its functional interactome, including the
+Mediator (Med) coactivator complex and the SWI/SNF-related, matrix-associated,
+actin-dependent regulator of chromatin (SMARC) subunits. To provide further
+insight into mechanisms for BRD4 in RSV expression, we mapped 7,845 RSV-inducible
+Tn5 transposase peaks onto the BRD4-dependent gene bodies. These were located in 
+promoters and introns of cytostructural and extracellular matrix (ECM) formation 
+genes. These data indicate that BRD4 mediates the dynamic response of airway
+epithelial cells to RNA infection by modulating the expression of its
+coactivators, controlling the expression of host defense mechanisms and
+remodeling genes through changes in promoter accessibility.
+
+Copyright © 2021 Xu, Mann, Qiao, Li, Zhou and Brasier.
+
+DOI: 10.3389/fmolb.2021.728661 
+PMCID: PMC8577543
+PMID: 34765643 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

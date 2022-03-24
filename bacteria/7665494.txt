@@ -1,0 +1,33 @@
+
+1. J Bacteriol. 1995 Sep;177(17):5140-7.
+
+The glutamate uptake regulatory protein (Grp) of Zymomonas mobilis and its
+relation to the global regulator Lrp of Escherichia coli.
+
+Peekhaus N(1), Tolner B, Poolman B, Krämer R.
+
+Author information: 
+(1)Institut für Biotechnologie I, Forschungszentrum Jülich, Germany.
+
+After being expressed in Escherichia coli JC5412, which is defective in glutamate
+transport, a Zymomonas mobilis gene which enabled this strain to grow on
+glutamate was cloned. This gene encodes a protein with 33% amino acid identity to
+the leucine-responsive regulatory protein (Lrp) of E. coli. Although overall
+glutamate uptake in E. coli was increased, the protein encoded by the cloned
+fragment repressed the secondary H+/glutamate transport system GltP by
+interaction with the promoter region of the gltP gene. It also repressed the
+secondary, H(+)-coupled glutamate uptake system of Z. mobilis, indicating that at
+least one role of this protein in Z. mobilis is to regulate glutamate transport. 
+Consequently, it was designated Grp (for glutamate uptake regulatory protein).
+When expressed in E. coli, Grp repressed the secondary H+/glutamate transport
+system GltP by binding to the regulatory regions of the gltP gene. An lrp
+mutation in E. coli was complemented in trans with respect to the positive
+expression regulation of ilvIH (coding for acetohydroxy acid synthase III) by a
+plasmid which carries the grp gene. The expression of grp is autoregulated, and
+in Z. mobilis, it depends on growth conditions. The putative presence of a
+homolog of Grp in E. coli is discussed.
+
+DOI: 10.1128/jb.177.17.5140-5147.1995 
+PMCID: PMC177295
+PMID: 7665494  [Indexed for MEDLINE]
+

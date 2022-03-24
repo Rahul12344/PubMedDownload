@@ -1,0 +1,50 @@
+
+1. Front Microbiol. 2016 Mar 23;7:362. doi: 10.3389/fmicb.2016.00362. eCollection
+2016.
+
+Identification and Partial Characterization of a Novel
+UDP-N-Acetylenolpyruvoylglucosamine Reductase/UDP-N-Acetylmuramate:l-Alanine
+Ligase Fusion Enzyme from Verrucomicrobium spinosum DSM 4136(T).
+
+Naqvi KF(1), Patin D(2), Wheatley MS(1), Savka MA(1), Dobson RC(3), Gan HM(4),
+Barreteau H(2), Blanot D(2), Mengin-Lecreulx D(2), Hudson AO(1).
+
+Author information: 
+(1)Thomas H. Gosnell School of Life Sciences, Rochester Institute of Technology
+Rochester, NY, USA.
+(2)Institute for Integrative Biology of the Cell, CEA, CNRS, Univ Paris-Sud,
+Université Paris-Saclay Orsay, France.
+(3)Biomolecular Interaction Centre, School of Biological Sciences, University of 
+CanterburyChristchurch, New Zealand; Department of Biochemistry and Molecular
+Biology, Bio21 Molecular and Biotechnology Institute, The University of
+MelbourneParkville, VIC, Australia.
+(4)Monash University Malaysia Genomics Facility, Monash University
+MalaysiaSelangor, Malaysia; School of Science, Monash University
+MalaysiaSelangor, Malaysia.
+
+The enzymes involved in synthesizing the bacterial cell wall are attractive
+targets for the design of antibacterial compounds, since this pathway is
+essential for bacteria and is absent in animals, particularly humans. A survey of
+the genome of a bacterium that belongs to the phylum Verrucomicrobia, the closest
+free-living relative to bacteria from the Chlamydiales phylum, shows genetic
+evidence that Verrucomicrobium spinosum possesses a novel fusion open reading
+frame (ORF) annotated by the locus tag (VspiD_010100018130). The ORF, which is
+predicted to encode the enzymes UDP-N-acetylenolpyruvoylglucosamine reductase
+(MurB) and UDP-N-acetylmuramate:l-alanine ligase (MurC) that are involved in the 
+cytoplasmic steps of peptidoglycan biosynthesis, was cloned. In vivo analyses
+using functional complementation showed that the fusion gene was able to
+complement Escherichia coli murB and murC temperature sensitive mutants. The
+purified recombinant fusion enzyme (MurB/C Vs ) was shown to be endowed with
+UDP-N-acetylmuramate:l-alanine ligase activity. In vitro analyses demonstrated
+that the latter enzyme had a pH optimum of 9.0, a magnesium optimum of 10 mM and 
+a temperature optimum of 44-46°C. Its apparent K m values for ATP, UDP-MurNAc,
+and l-alanine were 470, 90, and 25 μM, respectively. However, all attempts to
+demonstrate an in vitro UDP-N-acetylenolpyruvoylglucosamine reductase (MurB)
+activity were unsuccessful. Lastly, Hidden Markov Model-based similarity search
+and phylogenetic analysis revealed that this fusion enzyme could only be
+identified in specific lineages within the Verrucomicrobia phylum.
+
+DOI: 10.3389/fmicb.2016.00362 
+PMCID: PMC4803751
+PMID: 27047475 
+

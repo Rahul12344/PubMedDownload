@@ -1,0 +1,64 @@
+
+1. BMJ Open. 2021 Nov 16;11(11):e050361. doi: 10.1136/bmjopen-2021-050361.
+
+Unexplained mortality during the US COVID-19 pandemic: retrospective analysis of 
+death certificate data and critical assessment of excess death calculations.
+
+Fairman KA(1)(2), Goodlet KJ(3), Rucker JD(2), Zawadzki RS(4).
+
+Author information: 
+(1)Department of Pharmacy Practice, Midwestern University College of Pharmacy,
+Glendale, Arizona, USA kfairm@midwestern.edu.
+(2)Kathleen Fairman LTD, Phoenix, Arizona, USA.
+(3)Department of Pharmacy Practice, Midwestern University College of Pharmacy,
+Glendale, Arizona, USA.
+(4)Department of Statistics, Donald Bren School of Information and Computer
+Sciences, University of California, Irvine, California, USA.
+
+OBJECTIVES: Cause-of-death discrepancies are common in respiratory
+illness-related mortality. A standard epidemiological metric, excess all-cause
+death, is unaffected by these discrepancies but provides no actionable policy
+information when increased all-cause mortality is unexplained by reported
+specific causes. To assess the contribution of unexplained mortality to the
+excess death metric, we parsed excess deaths in the COVID-19 pandemic into
+changes in explained versus unexplained (unreported or unspecified) causes.
+DESIGN: Retrospective repeated cross-sectional analysis, US death certificate
+data for six influenza seasons beginning October 2014, comparing
+population-adjusted historical benchmarks from the previous two, three and five
+seasons with 2019-2020.
+SETTING: 48 of 50 states with complete data.
+PARTICIPANTS: 16.3 million deaths in 312 weeks, reported in categories-all
+causes, top eight natural causes and respiratory causes including COVID-19.
+OUTCOME MEASURES: Change in population-adjusted counts of deaths from seasonal
+benchmarks to 2019-2020, from all causes (ie, total excess deaths) and from
+explained versus unexplained causes, reported for the season overall and for time
+periods defined a priori: pandemic awareness (19 January through 28 March);
+initial pandemic peak (29 March through 30 May) and pandemic post-peak (31 May
+through 26 September).
+RESULTS: Depending on seasonal benchmark, 287 957-306 267 excess deaths occurred 
+through September 2020: 179 903 (58.7%-62.5%) attributed to COVID-19; 44 022-49
+311 (15.2%-16.1%) to other reported causes; 64 032-77 054 (22.2%-25.2%)
+unexplained (unspecified or unreported cause). Unexplained deaths constituted
+65.2%-72.5% of excess deaths from 19 January to 28 March and 14.1%-16.1% from 29 
+March through 30 May.
+CONCLUSIONS: Unexplained mortality contributed substantially to US pandemic
+period excess deaths. Onset of unexplained mortality in February 2020 coincided
+with previously reported increases in psychotropic use, suggesting possible
+psychiatric or injurious causes. Because underlying causes of unexplained deaths 
+may vary by group or region, results suggest excess death calculations provide
+limited actionable information, supporting previous calls for improved
+cause-of-death data to support evidence-based policy.
+
+© Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2021-050361 
+PMCID: PMC8595295
+PMID: 34785551  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: KAF is President and JDR is 
+Research Intern with Kathleen Fairman LTD, a for-profit research consulting firm.
+Kathleen Fairman LTD provided analytical support and article processing charges
+but has no financial or non-financial interests related to the topic of the
+manuscript. KJG and RSZ have no competing interests to report.
+

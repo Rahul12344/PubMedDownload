@@ -1,0 +1,38 @@
+
+1. Curr Genet. 2018 Apr;64(2):459-468. doi: 10.1007/s00294-017-0753-0. Epub 2017 Sep
+16.
+
+Sgs1 helicase is required for efficient PCNA monoubiquitination and translesion
+DNA synthesis in Saccharomyces cerevisiae.
+
+Li F(1), Ball LG(2), Fan L(1), Hanna M(2), Xiao W(3)(4).
+
+Author information: 
+(1)Beijing Key Laboratory of DNA Damage Responses and College of Life Sciences,
+Capital Normal University, Beijing, 100048, China.
+(2)Department of Microbiology and Immunology, University of Saskatchewan,
+Saskatoon, SK, S7N 5E5, Canada.
+(3)Beijing Key Laboratory of DNA Damage Responses and College of Life Sciences,
+Capital Normal University, Beijing, 100048, China. wei.xiao@usask.ca.
+(4)Department of Microbiology and Immunology, University of Saskatchewan,
+Saskatoon, SK, S7N 5E5, Canada. wei.xiao@usask.ca.
+
+DNA-damage tolerance (DDT) is employed by eukaryotes to deal with replication
+blocks on the template strand, and is divided into two parallel pathways that are
+activated by sequential ubiquitination of proliferating cell nuclear antigen
+(PCNA) at the Lys164 residue. Rad6-Rad18-mediated PCNA monoubiquitination
+promotes translesion DNA synthesis (TLS) and the monoubiquitinated PCNA can be
+further polyubiquitinated by an Mms2-Ubc13-Rad5 complex, leading to error-free
+lesion bypass. We previously reported that the DNA helicase Sgs1 is required for 
+error-free lesion bypass, probably through the double-Holliday junction migration
+and subsequent resolution. Surprisingly, a synthetic genetic array (SGA) screen
+using rev1 and rev3 as baits did not reveal an anticipated synthetic effect with 
+sgs1, indicating a possible involvement of Sgs1 in TLS. Here, we report detailed 
+genetic analyses demonstrating that Sgs1 plays a key role in efficient TLS and
+that it is probably required for the signaling of DNA damage leading to PCNA
+monoubiquitination. These studies collectively illustrate that Sgs1 participates 
+in both branches of DDT and possibly plays a role in pathway choice.
+
+DOI: 10.1007/s00294-017-0753-0 
+PMID: 28918480  [Indexed for MEDLINE]
+

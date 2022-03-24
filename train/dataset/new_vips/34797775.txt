@@ -1,0 +1,61 @@
+
+1. JMIR Public Health Surveill. 2021 Nov 16. doi: 10.2196/33617. [Epub ahead of
+print]
+
+Utility of Facebook's Social Connectedness Index in Modeling COVID-19 Spread: An 
+Exponential Random Graph Modeling Study.
+
+Prusaczyk B(1), Pietka K(2), Landman J(1), Luke DA(3).
+
+Author information: 
+(1)Washington University School of Medicine in St. Louis, 660 S. Euclid Avenue,
+Saint Louis, US.
+(2)Truman State University, Kirksville, US.
+(3)Washington University in St. Louis, Brown School, Saint Louis, US.
+
+BACKGROUND: The COVID-19 (the disease caused by the SARS-CoV-2 virus) pandemic
+has underscored the need for additional data, tools, and methods that can be used
+to combat emerging and existing public health concerns. Since March 2020, there
+has been great interest in utilizing social media data to both understand and
+intervene in the pandemic. Researchers from many disciplines have recently found 
+a relationship between COVID-19 and a new data set from Facebook called the
+Social Connectedness Index (SCI).
+OBJECTIVE: Building off this work, we sought to use the SCI to examine how social
+similarity of Missouri counties could explain similarities of COVID-19 cases over
+time. Additionally, we aimed to add to the body of literature on the utility of
+the SCI by using a novel modeling technique.
+METHODS: In September 2020 we conducted this cross-sectional study using publicly
+available data to test the association between the SCI and COVID-19 spread in
+Missouri using exponential random graph modeling (ERGM). ERGMs model relational
+data and the outcome variable must be binary; representing the presence or
+absence of a relationship. In our model, this was the presence or absence of a
+highly correlated COVID-19 case count trajectory between two given counties in
+Missouri. Covariates included each county's total population, percent rurality,
+and distance between each county pair.
+RESULTS: We found that all covariates were significantly associated with two
+counties having highly correlated COVID-19 case count trajectories. As the log of
+a county's total population increased, the odds of two counties has having highly
+correlated COVID-19 case count trajectories increased by 66% (OR 1.66, 95% CI
+1.43-1.92). As the percent of a county classified as rural increased, the odds of
+two counties has having highly correlated COVID-19 case count trajectories
+increased by 1% (OR 1.01, 95% CI 1.00-1.01). As the distance (in miles) between
+two counties increased, the odds of two counties has having highly correlated
+COVID-19 case count trajectories decreased by 43% (OR 0.57, 95% CI 0.43-0.77).
+Lastly, as the log of the Social Connectedness Index increased between two
+Missouri counties increases, the odds of those two counties having highly
+correlated COVID-19 case count trajectories significantly increased by 17% (OR
+1.17; 95% CI 1.09-1.26).
+CONCLUSIONS: These results could suggest that two counties with a greater
+likelihood of sharing Facebook friendships means residents of those counties have
+a higher likelihood of sharing similar belief systems, in particular as they
+relate to COVID-19 and public health practices. Another possibility is that the
+SCI is picking up travel or movement data among county residents. This suggests
+the SCI is capturing a unique phenomenon relevant to COVID-19 and that it may be 
+worth adding to other COVID-19 models. Additional research is needed to better
+understand what the SCI is capturing practically and what it means for public
+health policies and prevention practices.
+CLINICALTRIAL:
+
+DOI: 10.2196/33617 
+PMID: 34797775 
+

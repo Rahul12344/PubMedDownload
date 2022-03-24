@@ -1,0 +1,39 @@
+
+1. Comput Biol Med. 2021 Nov;138:104920. doi: 10.1016/j.compbiomed.2021.104920. Epub
+2021 Oct 12.
+
+PAN-LDA: A latent Dirichlet allocation based novel feature extraction model for
+COVID-19 data using machine learning.
+
+Gupta A(1), Katarya R(2).
+
+Author information: 
+(1)Big Data Analytics and Web Intelligence Laboratory, Department of Computer
+Science & Engineering, Delhi Technological University, New Delhi, India.
+Electronic address: aakanshagupta.74@gmail.com.
+(2)Big Data Analytics and Web Intelligence Laboratory, Department of Computer
+Science & Engineering, Delhi Technological University, New Delhi, India.
+Electronic address: rahuldtu@gmail.com.
+
+The recent outbreak of novel Coronavirus disease or COVID-19 is declared a
+pandemic by the World Health Organization (WHO). The availability of social media
+platforms has played a vital role in providing and obtaining information about
+any ongoing event. However, consuming a vast amount of online textual data to
+predict an event's trends can be troublesome. To our knowledge, no study analyzes
+the online news articles and the disease data about coronavirus disease.
+Therefore, we propose an LDA-based topic model, called PAN-LDA (Pandemic-Latent
+Dirichlet allocation), that incorporates the COVID-19 cases data and news
+articles into common LDA to obtain a new set of features. The generated features 
+are introduced as additional features to Machine learning(ML) algorithms to
+improve the forecasting of time series data. Furthermore, we are employing
+collapsed Gibbs sampling (CGS) as the underlying technique for parameter
+inference. The results from experiments suggest that the obtained features from
+PAN-LDA generate more identifiable topics and empirically add value to the
+outcome.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2021.104920 
+PMCID: PMC8505021
+PMID: 34655902  [Indexed for MEDLINE]
+

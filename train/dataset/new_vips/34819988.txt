@@ -1,0 +1,44 @@
+
+1. Comput Math Methods Med. 2021 Nov 15;2021:4384035. doi: 10.1155/2021/4384035.
+eCollection 2021.
+
+Joint Modelling Approaches to Survival Analysis via Likelihood-Based Boosting
+Techniques.
+
+Griesbach C(1), Groll A(2), Bergherr E(1).
+
+Author information: 
+(1)Chair of Spatial Data Science and Statistical Learning, Georg August
+University, Germany.
+(2)Department of Statistics, TU Dortmund University, Germany.
+
+Joint models are a powerful class of statistical models which apply to any data
+where event times are recorded alongside a longitudinal outcome by connecting
+longitudinal and time-to-event data within a joint likelihood allowing for
+quantification of the association between the two outcomes without possible bias.
+In order to make joint models feasible for regularization and variable selection,
+a statistical boosting algorithm has been proposed, which fits joint models using
+component-wise gradient boosting techniques. However, these methods have
+well-known limitations, i.e., they provide no balanced updating procedure for
+random effects in longitudinal analysis and tend to return biased effect
+estimation for time-dependent covariates in survival analysis. In this
+manuscript, we adapt likelihood-based boosting techniques to the framework of
+joint models and propose a novel algorithm in order to improve inference where
+gradient boosting has said limitations. The algorithm represents a novel boosting
+approach allowing for time-dependent covariates in survival analysis and in
+addition offers variable selection for joint models, which is evaluated via
+simulations and real world application modelling CD4 cell counts of patients
+infected with human immunodeficiency virus (HIV). Overall, the method stands out 
+with respect to variable selection properties and represents an accessible way to
+boosting for time-dependent covariates in survival analysis, which lays a
+foundation for all kinds of possible extensions.
+
+Copyright © 2021 Colin Griesbach et al.
+
+DOI: 10.1155/2021/4384035 
+PMCID: PMC8608498
+PMID: 34819988 
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest.
+

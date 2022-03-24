@@ -1,0 +1,69 @@
+
+1. Microb Cell Fact. 2019 Aug 13;18(1):134. doi: 10.1186/s12934-019-1178-x.
+
+Fructose metabolism in Chromohalobacter salexigens: interplay between the
+Embden-Meyerhof-Parnas and Entner-Doudoroff pathways.
+
+Pastor JM(1), Borges N(2), Pagán JP(3), Castaño-Cerezo S(3), Csonka LN(4),
+Goodner BW(5), Reynolds KA(5), Gonçalves LG(2), Argandoña M(6), Nieto JJ(6),
+Vargas C(6), Bernal V(7), Cánovas M(8).
+
+Author information: 
+(1)Dept. de Bioquímica y Biología Molecular B e Inmunología. Facultad de Química.
+Campus Regional de Excelencia Internacional "Campus Mare Nostrum", Universidad de
+Murcia, 30100, Murcia, Spain. josempastor@um.es.
+(2)Instituto de Tecnologia Química e Biologica, Universidade Nova de Lisboa,
+Oeiras, Portugal.
+(3)Dept. de Bioquímica y Biología Molecular B e Inmunología. Facultad de Química.
+Campus Regional de Excelencia Internacional "Campus Mare Nostrum", Universidad de
+Murcia, 30100, Murcia, Spain.
+(4)Dept. of Biological Sciences, Purdue University, West Lafayette, IN,
+47907-2064, USA.
+(5)Dept. of Biology, Hiram College, Hiram, OH, 44234, USA.
+(6)Dept. of Microbiology and Parasitology, University of Seville, 41012, Seville,
+Spain.
+(7)Centro de Tecnología de Repsol, Repsol S.A. Calle Agustín de Betancourt, s/n, 
+28935, Móstoles, Spain. vicente.bernal@repsol.com.
+(8)Dept. de Bioquímica y Biología Molecular B e Inmunología. Facultad de Química.
+Campus Regional de Excelencia Internacional "Campus Mare Nostrum", Universidad de
+Murcia, 30100, Murcia, Spain. mcanovas@um.es.
+
+BACKGROUND: The halophilic bacterium Chromohalobacter salexigens metabolizes
+glucose exclusively through the Entner-Doudoroff (ED) pathway, an adaptation
+which results in inefficient growth, with significant carbon overflow, especially
+at low salinity. Preliminary analysis of C. salexigens genome suggests that
+fructose metabolism could proceed through the Entner-Doudoroff and
+Embden-Meyerhof-Parnas (EMP) pathways. In order to thrive at high salinity, this 
+bacterium relies on the biosynthesis and accumulation of ectoines as major
+compatible solutes. This metabolic pathway imposes a high metabolic burden due to
+the consumption of a relevant proportion of cellular resources, including both
+energy molecules (NADPH and ATP) and carbon building blocks. Therefore, the
+existence of more than one glycolytic pathway with different stoichiometries may 
+be an advantage for C. salexigens. The aim of this work is to experimentally
+characterize the metabolism of fructose in C. salexigens.
+RESULTS: Fructose metabolism was analyzed using in silico genome analysis,
+RT-PCR, isotopic labeling, and genetic approaches. During growth on fructose as
+the sole carbon source, carbon overflow was not observed in a wide range of salt 
+concentrations, and higher biomass yields were reached. We unveiled the initial
+steps of the two pathways for fructose incorporation and their links to central
+metabolism. While glucose is metabolized exclusively through the Entner-Doudoroff
+(ED) pathway, fructose is also partially metabolized by the
+Embden-Meyerhof-Parnas (EMP) route. Tracking isotopic label from [1-13C] fructose
+to ectoines revealed that 81% and 19% of the fructose were metabolized through ED
+and EMP-like routes, respectively. Activities of enzymes from both routes were
+demonstrated in vitro by 31P-NMR. Genes encoding predicted fructokinase and
+1-phosphofructokinase were cloned and the activities of their protein products
+were confirmed. Importantly, the protein encoded by csal1534 gene functions as
+fructose bisphosphatase, although it had been annotated previously as
+pyrophosphate-dependent phosphofructokinase. The gluconeogenic rather than
+glycolytic role of this enzyme in vivo is in agreement with the lack of
+6-phosphofructokinase activity previously described.
+CONCLUSIONS: Overall, this study shows that C. salexigens possesses a greater
+metabolic flexibility for fructose catabolism, the ED and EMP pathways
+contributing to a fine balancing of energy and biosynthetic demands and,
+subsequently, to a more efficient metabolism.
+
+DOI: 10.1186/s12934-019-1178-x 
+PMCID: PMC6692947
+PMID: 31409414  [Indexed for MEDLINE]
+

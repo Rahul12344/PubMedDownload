@@ -1,0 +1,43 @@
+
+1. Mol Microbiol. 2005 Mar;55(6):1829-40.
+
+The Mycobacterium tuberculosis iniA gene is essential for activity of an efflux
+pump that confers drug tolerance to both isoniazid and ethambutol.
+
+Colangeli R(1), Helb D, Sridharan S, Sun J, Varma-Basil M, Hazbón MH,
+Harbacheuski R, Megjugorac NJ, Jacobs WR Jr, Holzenburg A, Sacchettini JC, Alland
+D.
+
+Author information: 
+(1)Division of Infectious Disease and the Center for Emerging Pathogens,
+Department of Medicine, New Jersey Medical School, University of Medicine and
+Dentistry of New Jersey, Newark, NJ 07103, USA.
+
+Little is known about the intracellular events that occur following the initial
+inhibition of Mycobacterium tuberculosis by the first-line antituberculosis drugs
+isoniazid (INH) and ethambutol (EMB). Understanding these pathways should provide
+significant insights into the adaptive strategies M. tuberculosis undertakes to
+survive antibiotics. We have discovered that the M. tuberculosis iniA gene (Rv
+0342) participates in the development of tolerance to both INH and EMB. This gene
+is strongly induced along with iniB and iniC (Rv 0341 and Rv 0343) by treatment
+of Mycobacterium bovis BCG or M. tuberculosis with INH or EMB. BCG strains
+overexpressing M. tuberculosis iniA grew and survived longer than control strains
+upon exposure to inhibitory concentrations of either INH or EMB. An M.
+tuberculosis strain containing an iniA deletion showed increased susceptibility
+to INH. Additional studies showed that overexpression of M. tuberculosis iniA in 
+BCG conferred resistance to ethidium bromide, and the deletion of iniA in M.
+tuberculosis resulted in increased accumulation of intracellular ethidium
+bromide. The pump inhibitor reserpine reversed both tolerance to INH and
+resistance to ethidium bromide in BCG. These results suggest that iniA functions 
+through an MDR-pump like mechanism, although IniA does not appear to directly
+transport INH from the cell. Analysis of two-dimensional crystals of the IniA
+protein revealed that this predicted transmembrane protein forms multimeric
+structures containing a central pore, providing further evidence that iniA is a
+pump component. Our studies elucidate a potentially unique adaptive pathway in
+mycobacteria. Drugs designed to inhibit the iniA gene product may shorten the
+time required to treat tuberculosis and may help prevent the clinical emergence
+of drug resistance.
+
+DOI: 10.1111/j.1365-2958.2005.04510.x 
+PMID: 15752203  [Indexed for MEDLINE]
+

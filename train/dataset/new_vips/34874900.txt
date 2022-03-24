@@ -1,0 +1,47 @@
+
+1. J Water Health. 2021 Dec;19(6):918-932. doi: 10.2166/wh.2021.068.
+
+Systematic review of the relative concentrations of noroviruses and fecal
+indicator bacteria in wastewater: considerations for use in quantitative
+microbial risk assessment.
+
+Hamadieh Z(1), Hamilton KA(2), Silverman AI(3).
+
+Author information: 
+(1)Department of Civil and Urban Engineering, New York University Tandon School
+of Engineering, Brooklyn, NY, USA E-mail: andrea.silverman@nyu.edu.
+(2)School of Sustainable Engineering and the Built Environment, Arizona State
+University, Tempe, AZ, USA; The Biodesign Institute Center for Environmental
+Health Engineering, Arizona State University, Tempe, AZ, USA.
+(3)Department of Civil and Urban Engineering, New York University Tandon School
+of Engineering, Brooklyn, NY, USA E-mail: andrea.silverman@nyu.edu; School of
+Global Public Health, New York University, New York, NY, USA.
+
+Human noroviruses are a leading cause of food- and water-borne disease, which has
+led to an interest in quantifying norovirus health risks using quantitative
+microbial risk assessment (QMRA). Given the limited availability of quantitative 
+norovirus data to input to QMRA models, some studies have applied a conversion
+factor to estimate norovirus exposure based on measured fecal indicator bacteria 
+(FIB) concentrations. We conducted a review of peer-reviewed publications to
+identify the concentrations of noroviruses and FIB in raw, secondary-treated, and
+disinfected wastewater. A meta-analysis was performed to determine the ratios of 
+norovirus-FIB pairs in each wastewater matrix and the variables that
+significantly impact these ratios. Norovirus-to-FIB ratios were found to be
+significantly impacted by the norovirus genotype, month of sample collection,
+geographic location, and the extent of wastewater treatment. Additionally, we
+evaluated the impact of using a FIB-to-virus conversion factor in QMRA and found 
+that the choice of conversion ratio has a great impact on estimated health risks.
+For example, the use of a conversion ratio previously used in the World Health
+Organization Guidelines for the Safe Use of Wastewater, Excreta and Greywater
+predicted health risks that were significantly lower than those estimated with
+measured norovirus concentrations used as inputs. This work emphasizes the gold
+standard of using measured pathogen concentrations directly as inputs to exposure
+assessment in QMRA. While not encouraged, if one must use a FIB-to-virus
+conversion ratio to estimate norovirus dose, the ratio should be chosen carefully
+based on the target microorganisms (i.e., strain, genotype, or class), prevalence
+of disease, and extent of wastewater treatment.
+
+DOI: 10.2166/wh.2021.068 
+PMCID: wh_2021_068
+PMID: 34874900 
+

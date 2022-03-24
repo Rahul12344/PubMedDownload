@@ -1,0 +1,39 @@
+
+1. ACS Chem Biol. 2013 Apr 19;8(4):758-66. doi: 10.1021/cb3005758. Epub 2013 Jan 30.
+
+Peptide-based investigation of the Escherichia coli RNA polymerase σ(70):core
+interface as target site.
+
+Hüsecken K(1), Negri M, Fruth M, Boettcher S, Hartmann RW, Haupenthal J.
+
+Author information: 
+(1)Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), Department of
+Drug Design and Optimization, Saarland University, Campus C2_3, D-66123
+Saarbrücken, Germany.
+
+The number of bacterial strains that are resistant against antibiotics increased 
+dramatically during the past decades. This fact stresses the urgent need for the 
+development of new antibacterial agents with novel modes of action targeting
+essential enzymes such as RNA polymerase (RNAP). Bacterial RNAP is a large
+multi-subunit complex consisting of a core enzyme (subunits: α(2)ββ'ω) and a
+dissociable sigma factor (σ(70); holo enzyme: α(2)ββ'ωσ(70)) that is responsible 
+for promoter recognition and transcription initiation. The interface between core
+RNAP and σ(70) represents a promising binding site. Nevertheless, detailed
+studies investigating its druggability are rare. Compounds binding to this region
+could inhibit this protein-protein interaction and thus holo enzyme formation,
+resulting in inhibition of transcription initiation. Sixteen peptides covering
+different regions of the Escherichia coli σ(70):core interface were designed;
+some of them-all derived from σ(70) 2.2 region-led to a strong RNAP inhibition.
+Indeed, an ELISA-based experiment confirmed the most active peptide P07 to
+inhibit the σ(70):core interaction. Furthermore, an abortive transcription assay 
+revealed that P07 impedes transcription initiation. In order to study the
+mechanism of action of P07 in more detail, molecular dynamics simulations and a
+rational amino acid replacement study were performed, leading to the conclusion
+that P07 binds to the coiled-coil region in β' and that its flexible N-terminus
+inhibits the enzyme by interaction with the β' lid-rudder-system (LRS). This work
+revisits the β' coiled-coil as a hot spot for the protein-protein interaction
+inhibition and expands it by introduction of the LRS as target site.
+
+DOI: 10.1021/cb3005758 
+PMID: 23330640  [Indexed for MEDLINE]
+

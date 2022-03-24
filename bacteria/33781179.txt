@@ -1,0 +1,38 @@
+
+1. Bioengineered. 2021 Dec;12(1):1054-1065. doi: 10.1080/21655979.2021.1902697.
+
+Weighted gene co-expression network analysis (WGCNA) to explore genes responsive 
+to Streptococcus oralis biofilm and immune infiltration analysis in human
+gingival fibroblasts cells.
+
+Chen X(1), Ma J(2).
+
+Author information: 
+(1)Department of Stomatology, Affiliated Yueqing Hospital, Wenzhou Medical
+University; Institute of Stomatology, School and Hospital of Stomatology, Wenzhou
+Medical University, Wenzhou, Zhejiang, China.
+(2)Department of Prosthodontics, School and Hospital of Stomatology, Wenzhou
+Medical University, Wenzhou, Zhejiang, China.
+
+The correlation between oral bacteria and dental implants failure has been
+reported. However, the effect and mechanism of bacteria during dental implants is
+unclear. In this study, we explored key genes and candidate gene clusters in
+human gingival fibroblasts (HGF) cells in response to Streptococcus oralis
+biofilm through weighted gene co-expression network analysis (WGCNA) and
+differential genes analysis using gene expression matrix, GSE134481, downloaded
+from the Gene Expression Omnibus (GEO) database. We obtained 325 genes in the
+module significantly associated with S. oralis infection and 113 differentially
+expressed genes (DEGs) in the S. oralis biofilm; 62 DEGs indicated significant
+correlation with S. oralis injury. Multiple immune pathways, such as the tumor
+necrosis factor (TNF) signaling pathway, were considerably enriched. We obtained 
+a candidate genes cluster containing 12 genes - IL6, JUN, FOS, CSF2, HBEGF, EDN1,
+CCL2, MYC, NGF, SOCS3, CXCL1, and CXCL2; we observed 5 candidate hub genes
+associated with S. oralis infection - JUN, IL6, FOS, MYC, and CCL2. The fraction 
+of macrophage M0 cells was significantly increased in biofilm treatment compared 
+with control; expression of FOS and MYC was significantly positively correlated
+with macrophage M0 cells. Our findings present a fierce inflammation changes in
+the transcript level of HGF in response to S. oralis.
+
+DOI: 10.1080/21655979.2021.1902697 
+PMID: 33781179 
+

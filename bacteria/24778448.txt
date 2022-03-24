@@ -1,0 +1,50 @@
+
+1. J Immunol. 2014 Jun 1;192(11):5118-29. doi: 10.4049/jimmunol.1301992. Epub 2014
+Apr 28.
+
+Ikaros imposes a barrier to CD8+ T cell differentiation by restricting autocrine 
+IL-2 production.
+
+O'Brien S(1), Thomas RM(2), Wertheim GB(3), Zhang F(4), Shen H(4), Wells AD(5).
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia, PA 19104;
+(2)Children's Hospital of Philadelphia Research Institute, Philadelphia, PA
+19104; and.
+(3)Department of Pathology and Laboratory Medicine, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia, PA 19104; Children's Hospital of
+Philadelphia Research Institute, Philadelphia, PA 19104; and.
+(4)Department of Microbiology, Perelman School of Medicine, University of
+Pennsylvania, Philadelphia, PA 19104.
+(5)Department of Pathology and Laboratory Medicine, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia, PA 19104; Children's Hospital of
+Philadelphia Research Institute, Philadelphia, PA 19104; and
+adwells@mail.med.upenn.edu.
+
+Naive CD4(+) T cells require signals from the TCR and CD28 to produce IL-2,
+expand, and differentiate. However, these same signals are not sufficient to
+induce autocrine IL-2 production by naive CD8(+) T cells, which require cytokines
+provided by other cell types to drive their differentiation. The basis for failed
+autocrine IL-2 production by activated CD8(+) cells is unclear. We find that
+Ikaros, a transcriptional repressor that silences IL-2 in anergic CD4(+) T cells,
+also restricts autocrine IL-2 production by CD8(+) T cells. We find that CD8(+) T
+cell activation in vitro in the absence of exogenous cytokines and CD4 help leads
+to marked induction of Ikaros, a known repressor of the Il2 gene. Naive murine
+CD8 T cells haplo-insufficient for Ikzf1 failed to upregulate Ikaros, produced
+autocrine IL-2, and differentiated in an IL-2-dependent manner into
+IFN-γ-producing CTLs in response to TCR/CD28 stimulation alone. Furthermore,
+Ikzf1 haplo-insufficient CD8(+) T cells were more effective at controlling
+Listeria infection and B16 melanoma growth in vivo, and they could provide help
+to neighboring, non-IL-2-producing cells to differentiate into IFN-γ-producing
+effectors. Therefore, by repressing autocrine IL-2 production, Ikaros ensures
+that naive CD8(+) T cells remain dependent on licensing by APCs and CD4(+) T
+cells, and it may therefore act as a cell-intrinsic safeguard against
+inappropriate CTL differentiation and immunopathology.
+
+Copyright © 2014 by The American Association of Immunologists, Inc.
+
+DOI: 10.4049/jimmunol.1301992 
+PMCID: PMC4042307
+PMID: 24778448  [Indexed for MEDLINE]
+

@@ -1,0 +1,41 @@
+
+1. J Biol Chem. 2012 Apr 6;287(15):11911-23. doi: 10.1074/jbc.M111.312918. Epub 2012
+Feb 14.
+
+Engineering mammalian mucin-type O-glycosylation in plants.
+
+Yang Z(1), Drew DP, Jørgensen B, Mandel U, Bach SS, Ulvskov P, Levery SB, Bennett
+EP, Clausen H, Petersen BL.
+
+Author information: 
+(1)Department of Genetics and Biotechnology, Faculty of Agricultural Sciences,
+Aarhus University, Flakkebjerg, 4200 Slagelse, Denmark.
+
+Mucin-type O-glycosylation is an important post-translational modification that
+confers a variety of biological properties and functions to proteins. This
+post-translational modification has a particularly complex and differentially
+regulated biosynthesis rendering prediction and control of where O-glycans are
+attached to proteins, and which structures are formed, difficult. Because plants 
+are devoid of GalNAc-type O-glycosylation, we have assessed requirements for
+establishing human GalNAc O-glycosylation de novo in plants with the aim of
+developing cell systems with custom-designed O-glycosylation capacity. Transient 
+expression of a Pseudomonas aeruginosa Glc(NAc) C4-epimerase and a human
+polypeptide GalNAc-transferase in leaves of Nicotiana benthamiana resulted in
+GalNAc O-glycosylation of co-expressed human O-glycoprotein substrates. A
+chimeric YFP construct containing a 3.5 tandem repeat sequence of MUC1 was
+glycosylated with up to three and five GalNAc residues when co-expressed with
+GalNAc-T2 and a combination of GalNAc-T2 and GalNAc-T4, respectively, as
+determined by mass spectrometry. O-Glycosylation was furthermore demonstrated on 
+a tandem repeat of MUC16 and interferon α2b. In plants, prolines in certain
+classes of proteins are hydroxylated and further substituted with plant-specific 
+O-glycosylation; unsubstituted hydroxyprolines were identified in our MUC1
+construct. In summary, this study demonstrates that mammalian type
+O-glycosylation can be established in plants and that plants may serve as a host 
+cell for production of recombinant O-glycoproteins with custom-designed
+O-glycosylation. The observed hydroxyproline modifications, however, call for
+additional future engineering efforts.
+
+DOI: 10.1074/jbc.M111.312918 
+PMCID: PMC3320939
+PMID: 22334671  [Indexed for MEDLINE]
+

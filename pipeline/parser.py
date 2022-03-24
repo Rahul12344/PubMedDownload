@@ -32,7 +32,7 @@ class Parser:
                 connectors[symbols[0].rstrip("\n")] = symbols[1].rstrip("\n")
             else:
                 connectors[symbols[0]] = ""
-        return ensemble_genes, ids_, connectors
+        return ensemble_genes, ids_, connectors.values()
         
     def ReadMalariaFile(self):
         f=open(self.file, "r")
@@ -56,4 +56,68 @@ class Parser:
                 hgncs.append(info[1].strip('\n'))
         f.close()
         return hgncs
+    
+    def ReadBacteriaFiles(self):
+        f=open(self.file, "r")
+        bacteria_true_positives, bacteria_true_negatives = [], []
+        lines = f.readlines()
+        ids = []
+        for line in lines:
+            print(line)
+            info = line.split(",")
+            if info[1] == "\"1\"\n":
+                bacteria_true_positives.append(info[0])
+            elif info[1] == "\"0\"\n":
+                bacteria_true_negatives.append(info[0])
+        f.close()
+        return bacteria_true_positives, bacteria_true_negatives
+    
+    def ReadUpdatedBacteriaFiles(self):
+        f=open("new_pos_assigned.csv", "r")
+        f2=open("negatives_bacteria.csv", "r")
+        bacteria_true_positives, bacteria_true_negatives = [], []
+        lines = f.readlines()[1:]
+        ids = []
+        for line in lines:
+            info = line.split(",")
+            bacteria_true_positives.append(info[0].strip(".txt"))
+        
+        lines = f2.readlines()[1:]
+        ids = []
+        for line in lines:
+            info = line.split(",")
+            if info[0].strip(".txt") not in bacteria_true_positives:
+                bacteria_true_negatives.append(info[0].strip(".txt"))
+            
+        f.close()
+        f2.close()
+        return bacteria_true_positives, bacteria_true_negatives
+    
+    def ModifyCleanedFile(self, bacteria_true_positives, bacteria_true_negatives):
+        f=open("final_cleaned.csv")
+        lines = f.readlines()
+        added = False
+        for pos in bacteria_true_positives:
+            for i in range(len(lines)):
+                if pos in lines[i]:
+                    lines[i] = "{},\"1\"\n".format(pos)
+                    added = True
+            if not added:
+                lines.append("{},\"1\"\n".format(pos))      
+            added = False
+        """for neg in bacteria_true_negatives:
+            for i in range(len(lines)):
+                if neg in lines[i]:
+                    lines[i] = "{},\"0\"".format(neg)
+                    added = True
+            if not added:
+                lines.append("{},\"1\"".format(neg))      
+            added = False"""
+            
+        f.close()
+            
+        f=open("final_cleaned.csv", "w")
+        f.writelines(lines)
+        f.close()
+
         

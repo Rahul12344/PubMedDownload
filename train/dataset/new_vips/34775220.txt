@@ -1,0 +1,68 @@
+
+1. EBioMedicine. 2021 Nov;73:103651. doi: 10.1016/j.ebiom.2021.103651. Epub 2021 Nov
+11.
+
+Forward and reverse translational approaches to predict efficacy of neutralizing 
+respiratory syncytial virus (RSV) antibody prophylaxis.
+
+Maas BM(1), Lommerse J(2), Plock N(2), Railkar RA(1), Cheung SYA(2), Caro L(1),
+Chen J(1), Liu W(1), Zhang Y(1), Huang Q(1), Gao W(1), Qin L(2), Meng J(2),
+Witjes H(2), Schindler E(2), Guiastrennec B(2), Bellanti F(2), Spellman DS(1),
+Roadcap B(1), Kalinova M(3), Fok-Seang J(3), Catchpole AP(3), Espeseth AS(1),
+Stoch SA(1), Lai E(1), Vora KA(1), Aliprantis AO(1), Sachs JR(4).
+
+Author information: 
+(1)Merck & Co., Inc., 2000 Galloping Hill Rd, Kenilworth, NJ 07033, USA.
+(2)Certara, 100 Overlook Center STE 101, Princeton, NJ 08540, USA.
+(3)hVivo Services Ltd, 42 New Road, London E1 1JT, UK.
+(4)Merck & Co., Inc., 2000 Galloping Hill Rd, Kenilworth, NJ 07033, USA.
+Electronic address: jeff_sachs@merck.com.
+
+BACKGROUND: Neutralizing mAbs can prevent communicable viral diseases. MK-1654 is
+a respiratory syncytial virus (RSV) F glycoprotein neutralizing monoclonal
+antibody (mAb) under development to prevent RSV infection in infants. Development
+and validation of methods to predict efficacious doses of neutralizing antibodies
+across patient populations exposed to a time-varying force of infection (i.e.,
+seasonal variation) are necessary.
+METHODS: Five decades of clinical trial literature were leveraged to build a
+model-based meta-analysis (MBMA) describing the relationship between RSV serum
+neutralizing activity (SNA) and clinical endpoints. The MBMA was validated by
+backward translation to animal challenge experiments and forward translation to
+predict results of a recent RSV mAb trial. MBMA predictions were evaluated
+against a human trial of 70 participants who received either placebo or one of
+four dose-levels of MK-1654 and were challenged with RSV [NCT04086472]. The MBMA 
+was used to perform clinical trial simulations and predict efficacy of MK-1654 in
+the infant target population.
+FINDINGS: The MBMA established a quantitative relationship between RSV SNA and
+clinical endpoints. This relationship was quantitatively consistent with animal
+model challenge experiments and results of a recently published clinical trial.
+Additionally, SNA elicited by increasing doses of MK-1654 in humans reduced RSV
+symptomatic infection rates with a quantitative relationship that approximated
+the MBMA. The MBMA indicated a high probability that a single dose of ≥ 75 mg of 
+MK-1654 will result in prophylactic efficacy (> 75% for 5 months) in infants.
+INTERPRETATION: An MBMA approach can predict efficacy of neutralizing antibodies 
+against RSV and potentially other respiratory pathogens.
+
+Copyright © 2021 Merck Sharp & Dohme Corp., The Author(s). Published by Elsevier 
+B.V. All rights reserved.
+
+DOI: 10.1016/j.ebiom.2021.103651 
+PMCID: PMC8603022
+PMID: 34775220 
+
+Conflict of interest statement: Declaration of Competing Interest BM, RR, LC, JC,
+WL, YZ, QH, WG, DS, BR, AE, SS, EL, AA and KV are employees of Merck Sharp &
+Dohme Corp., a subsidiary of Merck & Co., Inc., Kenilworth, NJ, USA (or were at
+the time of the study), and may hold stock in Merck & Co., Inc., Kenilworth, NJ, 
+USA. JRS is an employee of Merck Sharp & Dohme Corp., a subsidiary of Merck &
+Co., Inc., Kenilworth, NJ, USA, and may hold stock in Merck & Co., Inc.,
+Kenilworth, NJ, USA and reports other investments that are less than 1% ownership
+for any company. JL, NP, LQ, HW, ES, BG, and FB are employed by Certara,
+Princeton, NJ, USA (or were employed at the time of the study) and may hold
+shares in Certara, Princeton, NJ, USA. Certara received funding from Merck Sharp 
+& Dohme Corp., a subsidiary of Merck & Co., Inc., Kenilworth, NJ, USA, for
+modelling work. ASYC is employed by Certara, Princeton, NJ, USA and holds stock
+in Certara, Princeton, NJ, USA and AstraZeneca, Cambridge, UK and is a chair of
+IQ consortium TALG and CLPG Pediatric PBPK group. JM, MK, AP, and JFK : nothing
+to disclose.
+

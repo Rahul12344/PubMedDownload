@@ -1,0 +1,46 @@
+
+1. Genes Cancer. 2016 Mar;7(3-4):110-124. doi: 10.18632/genesandcancer.104.
+
+MUC16 contributes to the metastasis of pancreatic ductal adenocarcinoma through
+focal adhesion mediated signaling mechanism.
+
+Muniyan S(#)(1), Haridas D(#)(1), Chugh S(1), Rachagani S(1), Lakshmanan I(1),
+Gupta S(1), Seshacharyulu P(1), Smith LM(2), Ponnusamy MP(1)(3), Batra
+SK(1)(3)(4).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, University of Nebraska
+Medical Center, Omaha, NE, USA.
+(2)Department of Biostatistics, University of Nebraska Medical Center, Omaha, NE,
+USA.
+(3)Fred and Pamela Buffett Cancer Center, Eppley Institute for Research in Cancer
+and Allied Diseases, University of Nebraska Medical Center, Omaha, NE, USA.
+(4)Department of Pathology and Microbiology, University of Nebraska Medical
+Center, Omaha, NE, USA.
+(#)Contributed equally
+
+MUC16, a heavily glycosylated type-I transmembrane mucin is overexpressed in
+several cancers including pancreatic ductal adenocarcinoma (PDAC). Previously, we
+have shown that MUC16 is significantly overexpressed in human PDAC tissues.
+However, the functional consequences and its role in PDAC is poorly understood.
+Here, we show that MUC16 knockdown decreases PDAC cell proliferation, colony
+formation and migration in vitro. Also, MUC16 knockdown decreases the tumor
+formation and metastasis in orthotopic xenograft mouse model. Mechanistically,
+immunoprecipitation and immunofluorescence analyses confirms MUC16 interaction
+with galectin-3 and mesothelin in PDAC cells. Adhesion assay displayed decreased 
+cell attachment of MUC16 knockdown cells with recombinant galectin-1 and
+galectin-3 protein. Further, CRISPR/Cas9-mediated MUC16 knockout cells show
+decreased tumor-associated carbohydrate antigens (T and Tn) in PDAC cells.
+Importantly, carbohydrate antigens were decreased in the region that corresponds 
+to MUC16 and suggests for the decreased MUC16-galectin interactions.
+Co-immunoprecipitation also revealed a novel interaction between MUC16 and FAK in
+PDAC cells. Interestingly, we observed decreased expression of mesenchymal and
+increased expression of epithelial markers in MUC16-silenced cells. Additionally,
+MUC16 loss showed a decreased FAK-mediated Akt and ERK/MAPK activation.
+Altogether, these findings suggest that MUC16-focal adhesion signaling may play a
+critical role in facilitating PDAC growth and metastasis.
+
+DOI: 10.18632/genesandcancer.104 
+PMCID: PMC4918949
+PMID: 27382435 
+

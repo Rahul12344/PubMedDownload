@@ -1,0 +1,50 @@
+
+1. Sensors (Basel). 2021 Oct 15;21(20). pii: 6853. doi: 10.3390/s21206853.
+
+Deep Learning Based Early Detection Framework for Preliminary Diagnosis of
+COVID-19 via Onboard Smartphone Sensors.
+
+Khaloufi H(1), Abouelmehdi K(1), Beni-Hssane A(1), Rustam F(2), Jurcut AD(3), Lee
+E(4), Ashraf I(5).
+
+Author information: 
+(1)LAROSERI Laboratory, Department of Computer Science, Faculty of Sciences,
+Chouaib Doukali University, El Jadida 24000, Morocco.
+(2)Department of Computer Science, Khwaja Fareed University of Engineering and
+Information Technology, Rahim Yar Khan 64200, Pakistan.
+(3)School of Computer Science, University College Dublin, Belfield, Dublin 4,
+Ireland.
+(4)Department of Computer Science, Broward College, Broward County, FL 33332,
+USA.
+(5)Department of Information and Communication Engineering, Yeungnam University, 
+Gyeongsan 38541, Korea.
+
+The COVID-19 pandemic has affected almost every country causing devastating
+economic and social disruption and stretching healthcare systems to the limit.
+Furthermore, while being the current gold standard, existing test methods
+including NAAT (Nucleic Acid Amplification Tests), clinical analysis of chest CT 
+(Computer Tomography) scan images, and blood test results, require in-person
+visits to a hospital which is not an adequate way to control such a highly
+contagious pandemic. Therefore, top priority must be given, among other things,
+to enlisting recent and adequate technologies to reduce the adverse impact of
+this pandemic. Modern smartphones possess a rich variety of embedded MEMS
+(Micro-Electro-Mechanical-Systems) sensors capable of recording movements,
+temperature, audio, and video of their carriers. This study leverages the
+smartphone sensors for the preliminary diagnosis of COVID-19. Deep learning, an
+important breakthrough in the domain of artificial intelligence in the past
+decade, has huge potential for extracting apt and appropriate features in
+healthcare. Motivated from these facts, this paper presents a new framework that 
+leverages advanced machine learning and data analytics techniques for the early
+detection of coronavirus disease using smartphone embedded sensors. The proposal 
+provides a simple to use and quickly deployable screening tool that can be easily
+configured with a smartphone. Experimental results indicate that the model can
+detect positive cases with an overall accuracy of 79% using only the data from
+the smartphone sensors. This means that the patient can either be isolated or
+treated immediately to prevent further spread, thereby saving more lives. The
+proposed approach does not involve any medical tests and is a cost-effective
+solution that provides robust results.
+
+DOI: 10.3390/s21206853 
+PMCID: PMC8540424
+PMID: 34696066  [Indexed for MEDLINE]
+

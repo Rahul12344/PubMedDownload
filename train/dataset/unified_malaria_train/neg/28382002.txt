@@ -1,0 +1,37 @@
+
+1. front physiol. 2017 mar 14;8:103. doi: 10.3389/fphys.2017.00103. ecollection
+2017.
+
+the 1-particle-per-k-nucleotides (1pkn) elastic network model dna dynamics
+with sequence-dependent geometry.
+
+kameda t(1), isami s(1), togashi y(2), nishimori h(3), sakamoto n(3), awazu a(3).
+
+author information: 
+(1)department mathematical life sciences, hiroshima university hiroshima, 
+japan.
+(2)research center mathematics chromatin live dynamics, hiroshima
+university hiroshima, japan.
+(3)department mathematical life sciences, hiroshima universityhiroshima,
+japan; research center mathematics chromatin live dynamics, hiroshima 
+universityhiroshima, japan.
+
+coarse-grained models dna made important contributions the
+determination physical properties genomic dna, working molecular
+machine gene regulation. study, analyze global dynamics of
+long dna sequences consideration sequence-dependent geometry, propose 
+elastic network models dna particle represents k nucleotides
+(1-particle-per-k-nucleotides, 1pkn). models adjusted according to
+profiles anisotropic fluctuations obtained previous
+1-particle-per-1-nucleotide (1p1n) model, proven reproduce such
+profiles all-atom models. confirmed 1p3n 1p4n models are
+suitable analysis detailed dynamics local twisting motion. the
+models intended analysis large structures, e.g., 10-nm fibers in
+the nucleus, nucleoids mitochondrial phage dna low computational
+costs. example, surveyed physical characteristics whole
+mitochondrial human plasmodium falciparum genomes.
+
+doi: 10.3389/fphys.2017.00103 
+pmcid: pmc5361685
+pmid: 28382002 
+

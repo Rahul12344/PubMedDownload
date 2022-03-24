@@ -1,0 +1,41 @@
+
+1. PLoS One. 2021 Dec 7;16(12):e0260610. doi: 10.1371/journal.pone.0260610.
+eCollection 2021.
+
+Effects of population mobility on the COVID-19 spread in Brazil.
+
+Chagas ETC(1), Barros PH(1), Cardoso-Pereira I(1), Ponte IV(2), Ximenes P(2)(3), 
+Figueiredo F(1), Murai F(1), Couto da Silva AP(1), Almeida JM(1), Loureiro
+AAF(1), Ramos HS(1).
+
+Author information: 
+(1)Department of Computer Science, Federal University of Minas Gerais, Belo
+Horizonte, Minas Gerais, Brazil.
+(2)Department of Motor Vehicles, Government of the State of Ceará, Fortaleza,
+Ceará, Brazil.
+(3)School of Cybersecurity and Privacy, College of Computing, Georgia Institute
+of Technology, Atlanta, Georgia, United States of America.
+
+This article proposes a study of the SARS-CoV-2 virus spread and the efficacy of 
+public policies in Brazil. Using both aggregated (from large Internet companies) 
+and fine-grained (from Departments of Motor Vehicles) mobility data sources, our 
+work sheds light on the effect of mobility on the pandemic situation in the
+Brazilian territory. Our main contribution is to show how mobility data,
+particularly fine-grained ones, can offer valuable insights into virus
+propagation. For this, we propose a modification in the SENUR model to add
+mobility information, evaluating different data availability scenarios (different
+information granularities), and finally, we carry out simulations to evaluate
+possible public policies. In particular, we conduct a case study that shows,
+through simulations of hypothetical scenarios, that the contagion curve in
+several Brazilian cities could have been milder if the government had imposed
+mobility restrictions soon after reporting the first case. Our results also show 
+that if the government had not taken any action and the only safety measure taken
+was the population's voluntary isolation (out of fear), the time until the
+contagion peak for the first wave would have been postponed, but its value would 
+more than double.
+
+DOI: 10.1371/journal.pone.0260610 
+PMID: 34874978 
+
+Conflict of interest statement: NO authors have competing interests.
+

@@ -1,0 +1,36 @@
+
+1. Appl Microbiol Biotechnol. 2007 Sep;76(4):741-52. Epub 2007 Jul 19.
+
+Aerobic degradation of lindane (gamma-hexachlorocyclohexane) in bacteria and its 
+biochemical and molecular basis.
+
+Nagata Y(1), Endo R, Ito M, Ohtsubo Y, Tsuda M.
+
+Author information: 
+(1)Department of Environmental Life Sciences, Graduate School of Life Sciences,
+Tohoku University, 2-1-1 Katahira, Sendai, 980-8577, Japan.
+aynaga@ige.tohoku.ac.jp
+
+gamma-Hexachlorocyclohexane (gamma-HCH, also called gamma-BHC and lindane) is a
+halogenated organic insecticide that causes serious environmental problems. The
+aerobic degradation pathway of gamma-HCH was extensively revealed in bacterial
+strain Sphingobium japonicum (formerly Sphingomonas paucimobilis) UT26. gamma-HCH
+is transformed to 2,5-dichlorohydroquinone through sequential reactions catalyzed
+by LinA, LinB, and LinC, and then 2,5-dichlorohydroquinone is further metabolized
+by LinD, LinE, LinF, LinGH, and LinJ to succinyl-CoA and acetyl-CoA, which are
+metabolized in the citrate/tricarboxylic acid cycle. In addition to these
+catalytic enzymes, a putative ABC-type transporter system encoded by linKLMN is
+also essential for the gamma-HCH utilization in UT26. Preliminary examination of 
+the complete genome sequence of UT26 clearly demonstrated that lin genes for the 
+gamma-HCH utilization are dispersed on three large circular replicons with sizes 
+of 3.5 Mb, 682 kb, and 191 kb. Nearly identical lin genes were also found in
+other HCH-degrading bacterial strains, and it has been suggested that the
+distribution of lin genes is mainly mediated by insertion sequence IS6100 and
+plasmids. Recently, it was revealed that two dehalogenases, LinA and LinB, have
+variants with small number of amino acid differences, and they showed dramatic
+functional differences for the degradation of HCH isomers, indicating these
+enzymes are still evolving at high speed.
+
+DOI: 10.1007/s00253-007-1066-x 
+PMID: 17634937  [Indexed for MEDLINE]
+

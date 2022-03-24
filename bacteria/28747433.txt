@@ -1,0 +1,44 @@
+
+1. J Biol Chem. 2017 Sep 15;292(37):15456-15467. doi: 10.1074/jbc.M117.778548. Epub 
+2017 Jul 26.
+
+Efficient methylation of C2 in l-tryptophan by the cobalamin-dependent radical
+S-adenosylmethionine methylase TsrM requires an unmodified N1 amine.
+
+Blaszczyk AJ(1), Wang B(2), Silakov A(2), Ho JV(2), Booker SJ(3)(2)(4).
+
+Author information: 
+(1)From the Department of Biochemistry and Molecular Biology.
+(2)the Department of Chemistry, and.
+(3)From the Department of Biochemistry and Molecular Biology, squire@psu.edu.
+(4)the Howard Hughes Medical Institute, The Pennsylvania State University,
+University Park, Pennsylvania 16802.
+
+TsrM catalyzes the methylation of C2 in l-tryptophan (Trp). This reaction is the 
+first step in the biosynthesis of the quinaldic acid moiety of the thiopeptide
+antibiotic thiostrepton, which exhibits potent activity against Gram-positive
+pathogens. TsrM is a member of the radical S-adenosylmethionine (SAM) superfamily
+of enzymes, but it does not catalyze the formation of 5'-deoxyadenosin-5'-yl or
+any other SAM-derived radical. In addition to a [4Fe-4S] cluster, TsrM contains a
+cobalamin cofactor that serves as an intermediate methyl carrier in its reaction.
+However, how this cofactor donates a methyl moiety to the Trp substrate is
+unknown. Here, we showed that the unmodified N1 position of Trp is important for 
+turnover and that 1-thia-Trp and 1-oxa-Trp serve as competitive inhibitors. We
+also showed that β-cyclopropyl-Trp undergoes C2 methylation in the absence of
+cyclopropyl ring opening, disfavoring mechanisms that involve unpaired electron
+density at C3 of the indole ring. Moreover, we showed that all other
+indole-substituted analogs of Trp undergo methylation at varying but measurable
+rates and that the analog 7-aza-Trp, which is expected to temper the
+nucleophilicity of C2 in Trp, is a very poor substrate. Last, no formation of
+cob(II)alamin or substrate radicals was observed during the reaction with Trp or 
+any molecule within a tested panel of Trp analogs. In summary, our results are
+most consistent with a mechanism that involves two polar nucleophilic
+displacements, the second of which requires deprotonation of the indole nitrogen 
+in Trp during its attack on methylcobalamin.
+
+© 2017 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1074/jbc.M117.778548 
+PMCID: PMC5602403
+PMID: 28747433  [Indexed for MEDLINE]
+

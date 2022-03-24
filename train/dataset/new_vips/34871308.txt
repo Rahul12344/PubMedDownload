@@ -1,0 +1,75 @@
+
+1. PLoS Med. 2021 Dec 6;18(12):e1003868. doi: 10.1371/journal.pmed.1003868. [Epub
+ahead of print]
+
+Neutralizing antibody responses over time in demographically and clinically
+diverse individuals recovered from SARS-CoV-2 infection in the United States and 
+Peru: A cohort study.
+
+Karuna S(1), Li SS(1), Grant S(1), Walsh SR(2), Frank I(3), Casapia M(4), Trahey 
+M(1), Hyrien O(1), Fisher L(1), Miner MD(1), Randhawa AK(1), Polakowski L(5),
+Kublin JG(1), Corey L(1), Montefiori D(6); HVTN 405/HPTN 1901 Study Team.
+
+Author information: 
+(1)Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research
+Center, Seattle, Washington, United States of America.
+(2)Brigham & Women's Hospital, Harvard Medical School, Boston, Massachusetts,
+United States of America.
+(3)Department of Medicine, Division of Infectious Diseases, University of
+Pennsylvania, Philadelphia, Pennsylvania, United States of America.
+(4)Asociación Civil Selva Amazónica, Iquitos, Peru.
+(5)Division of AIDS, NIAID, NIH, Bethesda, Maryland, United States of America.
+(6)Department of Surgery and Duke Human Vaccine Institute, Duke University
+Medical Center, Durham, North Carolina, United States of America.
+
+BACKGROUND: People infected with Severe Acute Respiratory Syndrome Coronavirus 2 
+(SARS-CoV-2) experience a wide range of clinical manifestations, from
+asymptomatic and mild illness to severe illness and death, influenced by age and 
+a variety of comorbidities. Neutralizing antibodies (nAbs) are thought to be a
+primary immune defense against the virus. Large, diverse, well-characterized
+cohorts of convalescent individuals provide standardized values to benchmark nAb 
+responses to past SARS-CoV-2 infection and define potentially protective levels
+of immunity.
+METHODS AND FINDINGS: This analysis comprises an observational cohort of 329
+HIV-seronegative adults in the United States (n = 167) and Peru (n = 162)
+convalescing from SARS-CoV-2 infection from May through October 2020. The mean
+age was 48 years (range 18 to 86), 54% of the cohort overall was Hispanic, and
+34% identified as White. nAb titers were measured in serum by SARS-CoV-2.D614G
+Spike-pseudotyped virus infection of 293T/ACE2 cells. Multiple linear regression 
+was applied to define associations between nAb titers and demographic variables, 
+disease severity and time from infection or disease onset, and comorbidities
+within and across US and Peruvian cohorts over time. nAb titers peaked 28 to 42
+days post-diagnosis and were higher in participants with a history of severe
+Coronavirus Disease 2019 (COVID-19) illness (p < 0.001). Diabetes, age >55 years,
+male sex assigned at birth, and, in some cases, body mass index were also
+independently associated with higher nAb titers, whereas hypertension was
+independently associated with lower nAb titers. nAb titers did not differ by
+race, underlying pulmonary disease or smoking. Two months post-enrollment, nAb
+ID50 (ID80) titers declined 3.5 (2.8)-fold overall. Study limitations in this
+observational, convalescent cohort include survivorship bias and missing early
+viral loads and acute immune responses to correlate with the convalescent
+responses we observed.
+CONCLUSIONS: In summary, in our cohort, nAb titers after SARS-CoV-2 infection
+peaked approximately 1 month post-diagnosis and varied by age, sex assigned at
+birth, disease severity, and underlying comorbidities. Our data show great
+heterogeneity in nAb responses among people with recent COVID-19, highlighting
+the challenges of interpreting natural history studies and gauging responses to
+vaccines and therapeutics among people with recent infection. Our observations
+illuminate potential correlations of demographic and clinical characteristics
+with nAb responses, a key element for protection from COVID-19, thus informing
+development and implementation of preventative and therapeutic strategies
+globally.
+TRIAL REGISTRATION: ClinicalTrials.gov NCT04403880.
+
+DOI: 10.1371/journal.pmed.1003868 
+PMID: 34871308 
+
+Conflict of interest statement: The authors have read the journal’s policy and
+the authors of this manuscript have the following competing interests: IF serves 
+on advisory boards for Gilead and ViiV and receives grant money from Sanofi,
+Janssen and Moderna. SRW has received funding from NIH/NIAID as well as the Bill 
+and Melinda Gates Foundation unrelated to this work; he has also conducted
+clinical trials funded by Janssen, Sanofi Pasteur, and Regeneron, also unrelated 
+to this work. SK, LF, AKR, SG, LC, JGK, LP, MC, DM, OH, SSL, MT, MDM declare no
+conflicts of interest.
+

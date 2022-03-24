@@ -1,0 +1,53 @@
+
+1. J Bacteriol. 2019 Apr 24;201(10). pii: e00731-18. doi: 10.1128/JB.00731-18. Print
+2019 May 15.
+
+Entry Exclusion of Conjugative Plasmids of the IncA, IncC, and Related Untyped
+Incompatibility Groups.
+
+Humbert M(1), Huguet KT(1), Coulombe F(1), Burrus V(2).
+
+Author information: 
+(1)Département de biologie, Université de Sherbrooke, Sherbrooke, Quebec, Canada.
+(2)Département de biologie, Université de Sherbrooke, Sherbrooke, Quebec, Canada 
+Vincent.Burrus@USherbrooke.ca.
+
+Conjugative plasmids of incompatibility group C (IncC), formerly known as A/C2,
+disseminate antibiotic resistance genes globally in diverse pathogenic species of
+Gammaproteobacteria. Salmonella genomic island 1 (SGI1) can be mobilized by IncC 
+plasmids and was recently shown to reshape the conjugative type IV secretion
+system (T4SS) encoded by these plasmids to evade entry exclusion. Entry exclusion
+blocks DNA translocation between cells containing identical or highly similar
+plasmids. Here, we report that the protein encoded by the entry exclusion gene of
+IncC plasmids (eexC) mediates entry exclusion in recipient cells through
+recognition of the IncC-encoded TraGC protein in donor cells. Phylogenetic
+analyses based on EexC and TraGC homologs predicted the existence of at least
+three different exclusion groups among IncC-related conjugative plasmids. Mating 
+assays using Eex proteins encoded by representative IncC and IncA (former A/C1)
+and related untyped plasmids confirmed these predictions and showed that the IncC
+and IncA plasmids belong to the C exclusion group, thereby explaining their
+apparent incompatibility despite their compatible replicons. Representatives of
+the two other exclusion groups (D and E) are untyped conjugative plasmids found
+in Aeromonas sp. Finally, we determined through domain swapping that the carboxyl
+terminus of the EexC and EexE proteins controls the specificity of these
+exclusion groups. Together, these results unravel the role of entry exclusion in 
+the apparent incompatibility between IncA and IncC plasmids while shedding light 
+on the importance of the TraG subunit substitution used by SGI1 to evade entry
+exclusion.IMPORTANCE IncA and IncC conjugative plasmids drive antibiotic
+resistance dissemination among several pathogenic species of Gammaproteobacteria 
+due to the diversity of drug resistance genes that they carry and their ability
+to mobilize antibiotic resistance-conferring genomic islands such as SGI1 of
+Salmonella enterica While historically grouped as "IncA/C," IncA and IncC
+replicons were recently confirmed to be compatible and to abolish each other's
+entry into the cell in which they reside during conjugative transfer. The
+significance of our study is in identifying an entry exclusion system that is
+shared by IncA and IncC plasmids. It impedes DNA transfer to recipient cells
+bearing a plasmid of either incompatibility group. The entry exclusion protein of
+this system is unrelated to any other known entry exclusion proteins.
+
+Copyright © 2019 American Society for Microbiology.
+
+DOI: 10.1128/JB.00731-18 
+PMCID: PMC6482922
+PMID: 30858294  [Indexed for MEDLINE]
+

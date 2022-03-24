@@ -1,0 +1,41 @@
+
+1. biol direct. 2015 sep 16;10:53. doi: 10.1186/s13062-015-0083-4.
+
+kgcak: k-mer based database genome-wide phylogeny complexity
+evaluation.
+
+wang d(1)(2), xu j(3)(4), yu j(5).
+
+author information: 
+(1)cas key laboratory genome sciences information, beijing institute of
+genomics, chinese academy sciences, beijing, 100101, pr china.
+dapeng.wang@ucl.ac.uk.
+(2)stem cell laboratory, ucl cancer institute, university college london, london,
+wc1e 6bt, uk. dapeng.wang@ucl.ac.uk.
+(3)cas key laboratory genome sciences information, beijing institute of
+genomics, chinese academy sciences, beijing, 100101, pr china. xujy@big.ac.cn.
+(4)university chinese academy sciences, beijing, 100049, china.
+xujy@big.ac.cn.
+(5)cas key laboratory genome sciences information, beijing institute of
+genomics, chinese academy sciences, beijing, 100101, pr china.
+junyu@big.ac.cn.
+
+background: k-mer approach, treating genomic sequences simple characters
+and counting relative abundance string upon fixed k, been
+extensively applied phylogeny inference genome assembly, annotation, and
+comparison.
+results: meet increasing demands comparing large genome sequences to
+promote use k-mer approach, develop versatile database, kgcak (
+http://kgcak.big.ac.cn/kgcak/ ), containing ~8,000 genomes include genome
+sequences diverse life forms (viruses, prokaryotes, protists, animals, and
+plants) cellular organelles eukaryotic lineages. builds phylogeny based
+on genomic elements alignment-free fashion provides in-depth data
+processing enabling users compare complexity genome sequences based 
+k-mer distribution.
+conclusion: hope kgcak becomes powerful tool exploring relationship
+within among groups species tree life based genomic data.
+
+doi: 10.1186/s13062-015-0083-4 
+pmcid: pmc4573299
+pmid: 26376976  [indexed medline]
+

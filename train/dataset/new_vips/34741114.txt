@@ -1,0 +1,48 @@
+
+1. J Expo Sci Environ Epidemiol. 2021 Nov 5. doi: 10.1038/s41370-021-00399-1. [Epub 
+ahead of print]
+
+Bridge the gap: correlate face mask leakage and facial features with 3D morphable
+face models.
+
+Wang TK(1), Solano T(1), Shoele K(2).
+
+Author information: 
+(1)FAMU-FSU College of Engineering, Florida State University, Tallahassee, FL,
+USA.
+(2)FAMU-FSU College of Engineering, Florida State University, Tallahassee, FL,
+USA. kshoele@eng.famu.fsu.edu.
+
+BACKGROUND: Face masks have been proven to be effective in protecting the public 
+against airborne transmitted diseases when fitted appropriately. However, for
+homemade cloth masks and surgical masks, the fit is often poor, allowing viruses 
+to escape through the gap.
+OBJECTIVE: This work aims to identify the correlation between the mask leakage,
+mask configurations, and individual's facial features.
+METHODS: A novel locally morphing 3D face model, and a minimum-energy-based mask 
+deployment model are used to systematically examine the mask fit for a large
+cohort of exemplars.
+RESULTS: The results show that the mask size and tuck-in ratio, along with
+selective facial features, especially nose height and chin length, are key
+factors determining the leakage location and extent. A polynomial regression
+model is presented for mask fitness based on localized facial features.
+SIGNIFICANCE: This study is a complete pipeline to test various masks on a wide
+range of faces with controlled modification of distinct regions of the face,
+which is difficult to achieve with human subjects, and provide knowledge on how
+the masks should be designed in the future.
+IMPACT STATEMENT: The face mask "fit" affects the mask's efficacy in preventing
+airborne transmission. To date, research on the face mask fit has been conducted 
+mainly using experiments on limited subjects. The limited sample size in
+experimental studies makes it hard to reach a statistical correlation between
+mask fit and facial features in a population. Here, we employ a novel framework
+that utilizes a morphable face model and mask's deployment simulation to test
+mask fit for many facial characteristics and mask designs. The proposed technique
+is an important step toward enabling personalized mask selection with maximum
+efficacy for society members.
+
+© 2021. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41370-021-00399-1 
+PMCID: PMC8570071
+PMID: 34741114 
+

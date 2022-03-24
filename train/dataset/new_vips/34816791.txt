@@ -1,0 +1,41 @@
+
+1. J Gen Virol. 2021 Nov;102(11). doi: 10.1099/jgv.0.001687.
+
+Simulated vector transmission differentially influences dynamics of two viral
+variants of deformed wing virus in honey bees (Apis mellifera).
+
+Ray AM(1)(2), Davis SL(3), Rasgon JL(1)(2), Grozinger CM(1)(2).
+
+Author information: 
+(1)Molecular, Cellular, and Integrative Biosciences Graduate Program, The Huck
+Institutes of the Life Sciences, The Pennsylvania State University, University
+Park, PA, USA.
+(2)Department of Entomology, Center for Infectious Disease Dynamics, Center for
+Pollinator Research, Huck Institutes of the Life Sciences, The Pennsylvania State
+University, University Park, PA, USA.
+(3)Department of Biochemistry and Molecular Biology, The Pennsylvania State
+University, University Park, PA, USA.
+
+Understanding how vectors alter the interactions between viruses and their hosts 
+is a fundamental question in virology and disease ecology. In honey bees,
+transmission of deformed wing virus (DWV) by parasitic Varroa mites has been
+associated with elevated disease and host mortality, and Varroa transmission has 
+been hypothesized to lead to increased viral titres or select for more virulent
+variants. Here, we mimicked Varroa transmission by serially passaging a mixed
+population of two DWV variants, A and B, by injection through in vitro reared
+honey bee pupae and tracking these viral populations through five passages. The
+DWV-A and DWV-B variant proportions shifted dynamically through passaging, with
+DWV-B outcompeting DWV-A after one passage, but levels of both variants becoming 
+equivalent by Passage 5. Sequencing analysis revealed a dominant, recombinant
+DWV-B strain (DWV-A derived 5' IRES region with the rest of the genome DWV-B),
+with low nucleotide diversity that decreased through passaging. DWV-A populations
+had higher nucleotide diversity compared to DWV-B, but this also decreased
+through passaging. Selection signatures were found across functional regions of
+the DWV-A and DWV-B genomes, including amino acid mutations in the putative
+capsid protein region. Simulated vector transmission differentially impacted two 
+closely related viral variants which could influence viral interactions with the 
+host, demonstrating surprising plasticity in vector-host-viral dynamics.
+
+DOI: 10.1099/jgv.0.001687 
+PMID: 34816791 
+

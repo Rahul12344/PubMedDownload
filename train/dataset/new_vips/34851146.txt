@@ -1,0 +1,39 @@
+
+1. J Virol. 2021 Dec 1:JVI0110321. doi: 10.1128/JVI.01103-21. [Epub ahead of print]
+
+ATF6-mediated unfolded protein response facilitates AAV2 transduction by
+releasing the suppression of AAV receptor on ER stress.
+
+Cui M(1), Zhao Q(1), Wang J(1), Si Y(1), Cheng S(1), Ding W(1).
+
+Author information: 
+(1)School of Basic Medical Sciences, Capital Medical University, Beijing, China.
+
+Adeno-associated virus (AAV) is extensively used as a viral vector to deliver
+therapeutic genes during human gene therapy. A high affinity cellular receptor
+(AAVR) for most serotypes was recently identified, however, its biological
+function as a gene product remains unclear. In this study, we used AAVR knockdown
+cell models to show that AAVR depletion significantly attenuated cells to
+activate unfolded protein response (UPR) pathways, when exposed to the
+endoplasmic reticulum (ER) stress inducer, tunicamycin. By analyzing three major 
+UPR pathways, we found that ATF6 signaling was most affected in an AAVR-dependent
+fashion, distinct to CHOP and XBP1 branches. AAVR capacity in UPR regulation
+required the full native AAVR protein, and AAV2 capsid binding to the receptor
+altered ATF6 dynamics. Conversely, the transduction efficiency of AAV2 was
+associated with changes in ATF6 signaling in host cells following treatment with 
+different small molecules. Thus, AAVR served as an inhibitory molecule to repress
+UPR responses via a specificity for ATF6 signaling, and the AAV2 infection route 
+involved the release from AAVR-mediated ATF6 repression, thereby facilitating
+viral intracellular trafficking and transduction. Importance The native function 
+of the AAVR as an ER-Golgi localized protein is largely unknown. We showed that
+AAVR acted as a functional molecule to regulate UPR signaling under induced ER
+stress. AAVR inhibited the activation of the transcription factor, ATF6, whereas 
+receptor binding to AAV2 released the suppression effects. This finding has
+expanded our understanding of AAV infection biology in terms of the physiological
+properties of AAVR in host cells. Importantly, our research provides a possible
+strategy which may improve the efficiency of AAV mediated gene delivery during
+gene therapy.
+
+DOI: 10.1128/JVI.01103-21 
+PMID: 34851146 
+

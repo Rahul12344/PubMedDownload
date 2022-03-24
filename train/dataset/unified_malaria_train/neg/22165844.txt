@@ -1,0 +1,38 @@
+
+1. bmc genomics. 2011 dec 13;12:601. doi: 10.1186/1471-2164-12-601.
+
+chromatin-driven de novo discovery dna binding motifs human malaria
+parasite.
+
+harris ey(1), ponts n, le roch kg, lonardi s.
+
+author information: 
+(1)department cell biology neuroscience, university california,
+riverside, ca 92521, usa.
+
+background: despite extensive efforts discover transcription factors their
+binding sites human malaria parasite plasmodium falciparum, few
+transcription factor binding motifs experimentally validated date.
+as consequence, gene regulation p. falciparum still poorly understood.
+there evidence chromatin architecture plays important role 
+transcriptional control malaria.
+results: propose methodology discovering cis-regulatory elements that
+uses first time exclusively dynamic chromatin remodeling data. method
+employs nucleosome positioning data collected seven time points the
+erythrocytic cycle p. falciparum discover putative dna binding motifs and
+their transcription factor binding sites along associated clusters 
+target genes. approach results 129 putative binding motifs within the
+promoter region known genes. 75% novel, remaining being
+highly similar experimentally validated binding motifs. half the
+binding motifs reported show statistically significant enrichment functional
+gene sets strong positional bias promoter region.
+conclusion: experimental results establish principle dynamic chromatin
+remodeling data used lieu gene expression data discover binding
+motifs transcription factor binding sites. approach applied 
+using dynamic nucleosome positioning data, independent knowledge of
+gene function expression.
+
+doi: 10.1186/1471-2164-12-601 
+pmcid: pmc3282892
+pmid: 22165844  [indexed medline]
+

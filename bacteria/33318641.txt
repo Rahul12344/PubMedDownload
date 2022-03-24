@@ -1,0 +1,51 @@
+
+1. Nat Nanotechnol. 2021 Feb;16(2):214-223. doi: 10.1038/s41565-020-00813-z. Epub
+2020 Dec 14.
+
+DNA scaffolds enable efficient and tunable functionalization of biomaterials for 
+immune cell modulation.
+
+Huang X(1)(2), Williams JZ(2)(3), Chang R(1), Li Z(1), Burnett CE(4),
+Hernandez-Lopez R(2)(3), Setiady I(1), Gai E(1), Patterson DM(5), Yu W(2)(3),
+Roybal KT(2)(4), Lim WA(6)(7), Desai TA(8)(9).
+
+Author information: 
+(1)Department of Bioengineering and Therapeutic Sciences, University of
+California, San Francisco, San Francisco, CA, USA.
+(2)Cell Design Institute and Center for Synthetic Immunology, University of
+California, San Francisco, San Francisco, CA, USA.
+(3)Department of Cellular and Molecular Pharmacology, University of California,
+San Francisco, San Francisco, CA, USA.
+(4)Department of Microbiology and Immunology, University of California, San
+Francisco, San Francisco, CA, USA.
+(5)Department of Pharmaceutical Chemistry, University of California, San
+Francisco, San Francisco, CA, USA.
+(6)Cell Design Institute and Center for Synthetic Immunology, University of
+California, San Francisco, San Francisco, CA, USA. wendell.lim@ucsf.edu.
+(7)Department of Cellular and Molecular Pharmacology, University of California,
+San Francisco, San Francisco, CA, USA. wendell.lim@ucsf.edu.
+(8)Department of Bioengineering and Therapeutic Sciences, University of
+California, San Francisco, San Francisco, CA, USA. tejal.desai@ucsf.edu.
+(9)Cell Design Institute and Center for Synthetic Immunology, University of
+California, San Francisco, San Francisco, CA, USA. tejal.desai@ucsf.edu.
+
+Biomaterials can improve the safety and presentation of therapeutic agents for
+effective immunotherapy, and a high level of control over surface
+functionalization is essential for immune cell modulation. Here, we developed
+biocompatible immune cell-engaging particles (ICEp) that use synthetic short DNA 
+as scaffolds for efficient and tunable protein loading. To improve the safety of 
+chimeric antigen receptor (CAR) T cell therapies, micrometre-sized ICEp were
+injected intratumorally to present a priming signal for systemically administered
+AND-gate CAR-T cells. Locally retained ICEp presenting a high density of priming 
+antigens activated CAR T cells, driving local tumour clearance while sparing
+uninjected tumours in immunodeficient mice. The ratiometric control of
+costimulatory ligands (anti-CD3 and anti-CD28 antibodies) and the surface
+presentation of a cytokine (IL-2) on ICEp were shown to substantially impact
+human primary T cell activation phenotypes. This modular and versatile
+biomaterial functionalization platform can provide new opportunities for
+immunotherapies.
+
+DOI: 10.1038/s41565-020-00813-z 
+PMCID: PMC7878327 [Available on 2021-06-14]
+PMID: 33318641 
+

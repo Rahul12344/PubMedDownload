@@ -1,0 +1,43 @@
+
+1. Infect Immun. 2002 Jul;70(7):3611-20.
+
+Expression of the Plasmodium falciparum immunodominant epitope (NANP)(4) on the
+surface of Salmonella enterica using the autotransporter MisL.
+
+Ruiz-Pérez F(1), León-Kempis R, Santiago-Machuca A, Ortega-Pierres G, Barry E,
+Levine M, González-Bonilla C.
+
+Author information: 
+(1)Unidad de Investigación Médica en Inmunología e Infectología, Hospital de
+Infectología Dr. Daniel Méndez Hernández, Centro Médico La Raza, Instituto
+Mexicano del Seguro Social, Mexico D.F., Mexico.
+
+Gram-negative bacterial proteins which are exported from the cytosol to the
+external environment by the type V secretion system are also known as
+autotransporters. Once translocated to the periplasmic compartment by the
+sec-dependent general secretory pathway, their C-terminal domain forms a pore
+through which the N-terminal domain travels to the outer membrane without the
+need of other accessory proteins. MisL (protein of membrane insertion and
+secretion) is a protein of unknown function located in the pathogenicity island
+SPI-3 of Salmonella enterica and classified as an autotransporter due to its high
+homology to Escherichia coli AIDA-I. In the present work, the MisL C-terminal
+translocator domain was used to display the immunodominant B-cell epitope of the 
+circumsporozoite protein (CSP) from Plasmodium falciparum on the surface of
+Salmonella enterica serovar Typhimurium (serovar Typhimurium SL3261) and serovar 
+Typhi (serovar Typhi CVD 908). The MisL beta domain was predicted by alignment
+with AIDA-I, amplified from serovar Typhimurium SL3261, cloned in a plasmid fused
+to four repeats of the tetrapeptide NANP behind the Escherichia coli heat-labile 
+enterotoxin B subunit signal peptide to ensure periplasmic traffic, and expressed
+under the control of the anaerobically inducible nirB promoter. The fusion
+protein was translocated to the outer membrane of both bacterial strains,
+although the foreign epitope was displayed more efficiently in serovar
+Typhimurium SL3261, which elicited a better specific antibody response in BALB/c 
+mice. More importantly, antibodies were able to recognize the native CSP in P.
+falciparum sporozoites. These results confirm that MisL is indeed an
+autotransporter and that it can be used to express foreign immunogenic epitopes
+on the surface of gram-negative bacteria.
+
+DOI: 10.1128/IAI.70.7.3611-3620.2002 
+PMCID: PMC128084
+PMID: 12065502  [Indexed for MEDLINE]
+

@@ -1,0 +1,41 @@
+
+1. J Biomol Struct Dyn. 2021 Nov 19:1-10. doi: 10.1080/07391102.2021.2004230. [Epub 
+ahead of print]
+
+Affinity enhancement of CR3022 binding to RBD; in silico site directed
+mutagenesis using molecular dynamics simulation approaches.
+
+Shariatifar H(1), Farasat A(2).
+
+Author information: 
+(1)Health Products Safety Research Center, Qazvin University of Medical Sciences,
+Qazvin, Iran.
+(2)Cellular and Molecular Research Center, Research Institute for Prevention of
+Non-Communicable Diseases, Qazvin University of Medical Sciences, Qazvin, Iran.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a disease which
+caused by a novel beta coronavirus. Structural and non-structural proteins are
+expressed by the virus gene fragments. The RBD of the S1 protein of the virus has
+the ability to interact with potent antibodies including CR3022, which was
+characterized to target the S protein of the virus which can efficiently
+neutralize the SARS-CoV in vitro and in vivo. In current study, we aimed to
+design CR3022 based antibody with high affinity compared with wild-type CR3022
+using MD simulation method. Two variants were designed based on the amino acid
+binding conformation and the free binding energy of the critical amino acids
+which involved in CR3022-RBD interactions were evaluated. In this study three
+complexes were evaluated; CR3022-RBD, V1-RBD and V2-RBD using molecular dynamics 
+simulations carried out for 100 ns in each case. Then, all the complexes were
+simulated for 100 ns. In the next step, to calculate the free binding affinity of
+the wild CR3022 and mutant antibody (V1 and V2) with RBD, the PMF method was
+performed. The RMSD profile demonstrated that all three complexes were
+equilibrated after 85 ns. Furthermore, the free binding energy results indicated 
+that the V2-RBD complex has the higher binding affinity than V1-RBD and
+CR3022-RBD complexes. It should be noted that in above variants, the
+electrostatic energy and the number of H-bonds between the antibody and RBD
+increased. Thus, it is suggested that both designed antibodies could be
+considered as appropriate candidates for covid-19 disease treatment.Communicated 
+by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2021.2004230 
+PMID: 34796779 
+

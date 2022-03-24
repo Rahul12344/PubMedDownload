@@ -1,0 +1,49 @@
+
+1. JCI Insight. 2020 Aug 6;5(15). pii: 135849. doi: 10.1172/jci.insight.135849.
+
+Arrestin domain containing 3 promotes Helicobacter pylori-associated gastritis by
+regulating protease-activated receptor 1.
+
+Liu YG(1)(2), Teng YS(1), Shan ZG(3), Cheng P(1), Hao CJ(1), Lv YP(1), Mao FY(1),
+Yang SM(4), Chen W(5), Zhao YL(3), You N(6), Zou QM(1), Zhuang Y(1).
+
+Author information: 
+(1)National Engineering Research Center of Immunological Products, Department of 
+Microbiology and Biochemical Pharmacy, College of Pharmacy and Laboratory
+Medicine, Third Military Medical University, Chongqing, China.
+(2)Department of Clinical Laboratory, the General Hospital of Western Theater
+Command, Chengdu, Sichuan, China.
+(3)Department of General Surgery and Center of Minimal Invasive Gastrointestinal 
+Surgery, Southwest Hospital, and.
+(4)Department of Gastroenterology, XinQiao Hospital, Third Military Medical
+University, Chongqing, China.
+(5)La Trobe Institute of Molecular Science, La Trobe University, Bundoora,
+Victoria, Australia.
+(6)Department of Hepatobiliary Surgery, XinQiao Hospital, Third Military Medical 
+University, Chongqing, China.
+
+Arrestin domain containing 3 (ARRDC3) represents a newly discovered α-arrestin
+involved in obesity, inflammation, and cancer. Here, we demonstrate a
+proinflammation role of ARRDC3 in Helicobacter pylori-associated gastritis.
+Increased ARRDC3 was detected in gastric mucosa of patients and mice infected
+with H. pylori. ARRDC3 in gastric epithelial cells (GECs) was induced by H.
+pylori, regulated by ERK and PI3K-AKT pathways in a cagA-dependent manner. Human 
+gastric ARRDC3 correlated with the severity of gastritis, and mouse ARRDC3 from
+non-BM-derived cells promoted gastric inflammation. This inflammation was
+characterized by the CXCR2-dependent influx of CD45+CD11b+Ly6C-Ly6G+ neutrophils,
+whose migration was induced via the ARRDC3-dependent production of CXCL2 by GECs.
+Importantly, gastric inflammation was attenuated in Arrdc3-/- mice but increased 
+in protease-activated receptor 1-/- (Par1-/-) mice. Mechanistically, ARRDC3 in
+GECs directly interacted with PAR1 and negatively regulated PAR1 via
+ARRDC3-mediated lysosomal degradation, which abrogated the suppression of CXCL2
+production and following neutrophil chemotaxis by PAR1, thereby contributing to
+the development of H. pylori-associated gastritis. This study identifies a
+regulatory network involving H. pylori, GECs, ARRDC3, PAR1, and neutrophils,
+which collectively exert a proinflammatory effect within the gastric
+microenvironment. Efforts to inhibit this ARRDC3-dependent pathway may provide
+valuable strategies in treating of H. pylori-associated gastritis.
+
+DOI: 10.1172/jci.insight.135849 
+PMCID: PMC7455081
+PMID: 32634127 
+

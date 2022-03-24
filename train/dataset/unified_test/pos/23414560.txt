@@ -1,0 +1,52 @@
+
+1. retrovirology. 2013 feb 15;10:20. doi: 10.1186/1742-4690-10-20.
+
+tnpo3 protects hiv-1 replication cpsf6-mediated capsid stabilization 
+host cell cytoplasm.
+
+de iaco a(1), santoni f, vannier a, guipponi m, antonarakis s, luban j.
+
+author information: 
+(1)department microbiology molecular medicine, university geneva, 1205,
+geneva, switzerland.
+
+background: despite intensive investigation mechanism hiv-1 reaches 
+the host cell nucleus unknown. tnpo3, karyopherin mediating nuclear entry of
+sr-proteins, shown required hiv-1 infectivity. investigators
+have reported tnpo3 promotes hiv-1 nuclear import, would expected 
+a karyopherin. yet, equal number investigators failed obtain
+evidence supports model. here, series experiments performed
+to better elucidate mechanism tnpo3 promotes hiv-1 infectivity.
+results: examine role tnpo3 hiv-1 replication, 2-ltr circles
+that commonly used marker hiv-1 nuclear entry cloned after
+infection tnpo3 knockdown cells. potential explanation discrepancy 
+the literature concerning effect tnpo3 provided sequencing hundreds
+of clones: significant fraction resulted autointegration sites 
+near ltrs therefore bona fide 2-ltr circles. response this
+finding, new techniques developed monitor hiv-1 cdna, including qpcr
+reactions distinguish 2-ltr circles autointegrants, well massive 
+parallel sequencing hiv-1 cdna. assays, tnpo3 knockdown found
+to reduce levels 2-ltr circles. finding puzzling, though, since
+previous work shown hiv-1 determinant tnpo3-dependence capsid
+(ca), hiv-1 protein forms mega-dalton protein lattice cytoplasm.
+tnpo3 imports cellular splicing factors via sr-domain. attention was
+therefore directed towards cpsf6, sr-protein binds hiv-1 ca inhibits 
+hiv-1 nuclear import c-terminal sr-domain deleted. effect 27
+hiv-1 capsid mutants sensitivity tnpo3 knockdown found to
+correlate strongly sensitivity inhibition c-terminal deletion mutant
+of cpsf6 (r2 = 0.883, p < 0.0001). tnpo3 knockdown shown cause cpsf6 
+to accumulate cytoplasm. mislocalization cpsf6 cytoplasm,
+whether tnpo3 knockdown, deletion cpsf6 nuclear localization signal, or
+by fusion cpsf6 nuclear export signal, resulted inhibition hiv-1
+replication. additionally, targeting cpsf6 nucleus fusion a
+heterologous nuclear localization signal rescued hiv-1 inhibitory
+effects tnpo3 knockdown. finally, mislocalization cpsf6 cytoplasm
+was associated abnormal stabilization hiv-1 ca core.
+conclusion: tnpo3 promotes hiv-1 infectivity indirectly, shifting the
+ca-binding protein cpsf6 nucleus, thus preventing excessive hiv-1 ca
+stability would otherwise result cytoplasmic accumulation cpsf6.
+
+doi: 10.1186/1742-4690-10-20 
+pmcid: pmc3599327
+pmid: 23414560  [indexed medline]
+

@@ -1,0 +1,42 @@
+
+1. Nat Commun. 2021 Nov 18;12(1):6735. doi: 10.1038/s41467-021-26707-9.
+
+Model-based assessment of Chikungunya and O'nyong-nyong virus circulation in Mali
+in a serological cross-reactivity context.
+
+Hozé N(#)(1), Diarra I(#)(2)(3), Sangaré AK(3)(4), Pastorino B(2), Pezzi L(2)(5),
+Kouriba B(3)(4), Sagara I(3), Dabo A(3), Djimdé A(3), Thera MA(3), Doumbo OK, de 
+Lamballerie X(6), Cauchemez S(1).
+
+Author information: 
+(1)Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur,
+Université de Paris, UMR2000, CNRS, Paris, France.
+(2)Unité des Virus Émergents, (UVE: Aix-Marseille Univ-IRD 190-INSERM 1207-IHU
+Méditerranée Infection), Marseille, France.
+(3)Malaria Research and Training Center, USTT, Bamako, Mali.
+(4)Centre d'Infectiologie Charles Mérieux, Bamako, Mali.
+(5)EA7310, Laboratoire de Virologie, Université de Corse-Inserm, Corte, France.
+(6)Unité des Virus Émergents, (UVE: Aix-Marseille Univ-IRD 190-INSERM 1207-IHU
+Méditerranée Infection), Marseille, France. xavier.de-lamballerie@univ-amu.fr.
+(#)Contributed equally
+
+Serological surveys are essential to quantify immunity in a population but
+serological cross-reactivity often impairs estimates of the seroprevalence. Here,
+we show that modeling helps addressing this key challenge by considering the
+important cross-reactivity between Chikungunya (CHIKV) and O'nyong-nyong virus
+(ONNV) as a case study. We develop a statistical model to assess the epidemiology
+of these viruses in Mali. We additionally calibrate the model with paired virus
+neutralization titers in the French West Indies, a region with known CHIKV
+circulation but no ONNV. In Mali, the model estimate of ONNV and CHIKV prevalence
+is 30% and 13%, respectively, versus 27% and 2% in non-adjusted estimates. While 
+a CHIKV infection induces an ONNV response in 80% of cases, an ONNV infection
+leads to a cross-reactive CHIKV response in only 22% of cases. Our study shows
+the importance of conducting serological assays on multiple cross-reactive
+pathogens to estimate levels of virus circulation.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-26707-9 
+PMCID: PMC8602252
+PMID: 34795213 
+

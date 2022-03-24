@@ -1,0 +1,88 @@
+
+1. J Immunother Cancer. 2020 May;8(1). pii: e000262. doi: 10.1136/jitc-2019-000262.
+
+MHC-restricted phosphopeptide antigens: preclinical validation and
+first-in-humans clinical trial in participants with high-risk melanoma.
+
+Engelhard VH(#)(1), Obeng RC(#)(2), Cummings KL(#)(2), Petroni GR(#)(3),
+Ambakhutwala AL(#)(2), Chianese-Bullock KA(#)(4), Smith KT(4), Lulu A(2),
+Varhegyi N(3), Smolkin ME(3), Myers P(5), Mahoney KE(5), Shabanowitz J(5),
+Buettner N(6), Hall EH(7), Haden K(4), Cobbold M(6), Hunt DF(5), Weiss G(8),
+Gaughan E(8), Slingluff CL Jr(4).
+
+Author information: 
+(1)Beirne Carter Center for Immunology Research and Department of Microbiology,
+Immunology, and Cancer Biology, University of Virginia School of Medicine,
+Charlottesville, Virginia, USA vhe@virginia.edu.
+(2)Beirne Carter Center for Immunology Research and Department of Microbiology,
+Immunology, and Cancer Biology, University of Virginia School of Medicine,
+Charlottesville, Virginia, USA.
+(3)Department of Public Health Sciences, University of Virginia School of
+Medicine, Charlottesville, Virginia, USA.
+(4)Department of Surgery/Division of Surgical Oncology, University of Virginia
+School of Medicine, Charlottesville, Virginia, USA.
+(5)Department of Chemistry, University of Virginia, Charlottesville, Virginia,
+USA.
+(6)7Medical Research Council Centre for Immune Regulation and Clinical Immunology
+Service, University of Birmingham College of Medical and Dental Sciences,
+Birmingham, UK.
+(7)Office of Clinical Research, University Virginia Cancer Center, University of 
+Virginia School of Medicine, Charlottesville, Virginia, USA.
+(8)Medicine/Division of Hematology-Oncology, University of Virginia School of
+Medicine, Charlottesville, Virginia, USA.
+(#)Contributed equally
+
+BACKGROUND: Phosphorylated peptides presented by MHC molecules represent a new
+class of neoantigens expressed on cancer cells and recognized by CD8 T-cells.
+These peptides are promising targets for cancer immunotherapy. Previous work
+identified an HLA-A*0201-restricted phosphopeptide from insulin receptor
+substrate 2 (pIRS2) as one such target. The purpose of this study was to
+characterize a second phosphopeptide, from breast cancer antiestrogen resistance 
+3 (BCAR3), and to evaluate safety and immunogenicity of a novel immunotherapic
+vaccine comprising either or both of these phosphorylated peptides.
+METHODS: Phosphorylated BCAR3 protein was evaluated in melanoma and breast cancer
+cell lines by Western blot, and recognition by T-cells specific for
+HLA-A*0201-restricted phosphorylated BCAR3 peptide (pBCAR3126-134) was determined
+by 51Cr release assay and intracellular cytokine staining. Human tumor explants
+were also evaluated by mass spectrometry for presentation of pIRS2 and pBCAR3
+peptides. For the clinical trial, participants with resected stage IIA-IV
+melanoma were vaccinated 6 times over 12 weeks with one or both peptides in
+incomplete Freund's adjuvant and Hiltonol (poly-ICLC). Adverse events (AEs) were 
+coded based on National Cancer Institute (NCI) Common Terminology Criteria for
+Adverse Events (CTCAE) V.4.03, with provision for early study termination if
+dose-limiting toxicity (DLT) rates exceeded 33%. The enrollment target was 12
+participants evaluable for immune response to each peptide. T-cell responses were
+assessed by interferon-γ ELISpot assay.
+RESULTS: pBCAR3 peptides were immunogenic in vivo in mice, and in vitro in normal
+human donors, and T-cells specific for pBCAR3126-134 controlled outgrowth of a
+tumor xenograft. The pIRS21097-1105 peptide was identified by mass spectrometry
+from human hepatocellular carcinoma tumors. In the clinical trial, 15
+participants were enrolled. All had grade 1 or 2 treatment-related AEs, but there
+were no grade 3-4 AEs, DLTs or deaths on study. T-cell responses were induced to 
+the pIRS21097-1105 peptide in 5/12 patients (42%, 90% CI 18% to 68%) and to the
+pBCAR3126-134 peptide in 2/12 patients (17%, 90% CI 3% to 44%).
+CONCLUSION: This study supports the safety and immunogenicity of vaccines
+containing the cancer-associated phosphopeptides pBCAR3126-134 and
+pIRS21097-1105, and the data support continued development of immune therapy
+targeting phosphopeptides. Future studies will define ways to further enhance the
+magnitude and durability of phosphopeptide-specific immune responses.
+TRIAL REGISTRATION NUMBER: NCT01846143.
+
+© Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/jitc-2019-000262 
+PMCID: PMC7228659
+PMID: 32385144 
+
+Conflict of interest statement: Competing interests: VE, RCO, KLC, AL, PM, JS and
+DFH have ownership interest in Agenus, which has licensed phosphopeptide
+technology and associated patent applications from the University of Virginia
+Licensing and Ventures Group. PM is now an employee of Agenus. VE is a consultant
+and the recipient of a Sponsored Research Agreement from Agenus. CLS is the
+recipient of research grants from GlaxoSmithKline, Merck, and Celldex, and is an 
+inventor for patents for other peptides used in cancer vaccines, which are held
+by the UVA Licencing and Ventures Group; and is (or has been) a
+consultant/advisory board member for Immatics. Curevac, and Polynoma. MC is now
+an employee of AstraZeneca.
+

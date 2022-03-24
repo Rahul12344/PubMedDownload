@@ -1,0 +1,75 @@
+
+1. BMC Med. 2021 Nov 16;19(1):301. doi: 10.1186/s12916-021-02177-0.
+
+COVID-19 and risk of subsequent life-threatening secondary infections: a matched 
+cohort study in UK Biobank.
+
+Hou C(1)(2), Hu Y(1)(2), Yang H(1)(2), Chen W(3), Zeng Y(1)(2), Ying Z(1)(2), Hu 
+Y(1)(2), Sun Y(1)(2), Qu Y(1)(2), Gottfreðsson M(4)(5), Valdimarsdóttir
+UA(6)(7)(8), Song H(9)(10)(11).
+
+Author information: 
+(1)West China Biomedical Big Data Center, West China Hospital, Sichuan
+University, Guo Xue Lane 37#, Chengdu, 610041, China.
+(2)Med-X Center for Informatics, Sichuan University, Chengdu, China.
+(3)Division of Nephrology, Kidney Research Institute, State Key Laboratory of
+Biotherapy and Cancer Center, West China Hospital, Sichuan University, Chengdu,
+China.
+(4)Department of Internal Medicine, Faculty of Medicine, School of Health
+Sciences, University of Iceland, Reykjavík, Iceland.
+(5)Department of Infectious Diseases, Landspítali University Hospital, Reykjavik,
+Iceland.
+(6)Center of Public Health Sciences, Faculty of Medicine, University of Iceland, 
+Reykjavík, Iceland.
+(7)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet,
+Stockholm, Sweden.
+(8)Department of Epidemiology, Harvard T H Chan School of Public Health, Boston, 
+MA, USA.
+(9)West China Biomedical Big Data Center, West China Hospital, Sichuan
+University, Guo Xue Lane 37#, Chengdu, 610041, China. songhuan@wchscu.cn.
+(10)Med-X Center for Informatics, Sichuan University, Chengdu, China.
+songhuan@wchscu.cn.
+(11)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+Stockholm, Sweden. songhuan@wchscu.cn.
+
+BACKGROUND: With the increasing number of people infected with and recovered from
+coronavirus disease 2019 (COVID-19), the extent of major health consequences of
+COVID-19 is unclear, including risks of severe secondary infections.
+METHODS: Based on 445,845 UK Biobank participants registered in England, we
+conducted a matched cohort study where 5151 individuals with a positive test
+result or hospitalized with a diagnosis of COVID-19 were included in the exposed 
+group. We then randomly selected up to 10 matched individuals without COVID-19
+diagnosis for each exposed individual (n = 51,402). The life-threatening
+secondary infections were defined as diagnoses of severe secondary infections
+with high mortality rates (i.e., sepsis, endocarditis, and central nervous system
+infections) from the UK Biobank inpatient hospital data, or deaths from these
+infections from mortality data. The follow-up period was limited to 3 months
+after the initial COVID-19 diagnosis. Using a similar study design, we
+additionally constructed a matched cohort where exposed individuals were
+diagnosed with seasonal influenza from either inpatient hospital or primary care 
+data between 2010 and 2019 (6169 exposed and 61,555 unexposed individuals). After
+controlling for multiple confounders, Cox models were used to estimate hazard
+ratios (HRs) of life-threatening secondary infections after COVID-19 or seasonal 
+influenza.
+RESULTS: In the matched cohort for COVID-19, 50.22% of participants were male,
+and the median age at the index date was 66 years. During a median follow-up of
+12.71 weeks, the incidence rate of life-threatening secondary infections was 2.23
+(123/55.15) and 0.25 (151/600.55) per 1000 person-weeks for all patients with
+COVID-19 and their matched individuals, respectively, which corresponded to a
+fully adjusted HR of 8.19 (95% confidence interval [CI] 6.33-10.59). The
+corresponding HR of life-threatening secondary infections among all patients with
+seasonal influenza diagnosis was 4.50, 95% CI 3.34-6.08 (p for difference <
+0.01). Also, elevated HRs were observed among hospitalized individuals for
+life-threatening secondary infections following hospital discharge, both in the
+COVID-19 (HR = 6.28 [95% CI 4.05-9.75]) and seasonal influenza (6.01 [95% CI
+3.53-10.26], p for difference = 0.902) cohorts.
+CONCLUSION: COVID-19 patients have increased subsequent risks of life-threatening
+secondary infections, to an equal extent or beyond risk elevations observed for
+patients with seasonal influenza.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12916-021-02177-0 
+PMCID: PMC8592806
+PMID: 34781951  [Indexed for MEDLINE]
+

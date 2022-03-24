@@ -1,0 +1,56 @@
+
+1. mBio. 2021 Oct 26;12(5):e0234221. doi: 10.1128/mBio.02342-21. Epub 2021 Oct 26.
+
+Identification of ZDHHC17 as a Potential Drug Target for Swine Acute Diarrhea
+Syndrome Coronavirus Infection.
+
+Luo Y(#)(1)(2), Tan CW(#)(3), Xie SZ(#)(1)(2), Chen Y(1)(2), Yao YL(1), Zhao
+K(1), Zhu Y(1), Wang Q(1)(2), Liu MQ(1)(2), Yang XL(1), Wang LF(3), Shi ZL(1).
+
+Author information: 
+(1)CAS Key Laboratory of Special Pathogens and Biosafety, Wuhan Institute of
+Virologygrid.439104.b, Center for Biosafety Mega-Science, Chinese Academy of
+Sciences, Wuhan, China.
+(2)University of Chinese Academy of Sciences, Beijing, China.
+(3)Programme in Emerging Infectious Diseases, Duke-NUS Medical School, Singapore,
+Singapore.
+(#)Contributed equally
+
+The recent emergence and spread of zoonotic viruses highlights that
+animal-sourced viruses are the biggest threat to global public health. Swine
+acute diarrhea syndrome coronavirus (SADS-CoV) is an HKU2-related bat coronavirus
+that was spilled over from Rhinolophus bats to swine, causing large-scale
+outbreaks of severe diarrhea disease in piglets in China. Unlike other porcine
+coronaviruses, SADS-CoV possesses broad species tissue tropism, including primary
+human cells, implying a significant risk of cross-species spillover. To explore
+host dependency factors for SADS-CoV as therapeutic targets, we employed
+genome-wide CRISPR knockout library screening in HeLa cells. Consistent with two 
+independent screens, we identified the zinc finger DHHC-type palmitoyltransferase
+17 (ZDHHC17 or ZD17) as an important host factor for SADS-CoV infection. Through 
+truncation mutagenesis, we demonstrated that the DHHC domain of ZD17 that is
+involved in palmitoylation is important for SADS-CoV infection. Mechanistic
+studies revealed that ZD17 is required for SADS-CoV genomic RNA replication.
+Treatment of infected cells with the palmitoylation inhibitor 2-bromopalmitate
+(2-BP) significantly suppressed SADS-CoV infection. Our findings provide insight 
+on SADS-CoV-host interactions and a potential therapeutic application. IMPORTANCE
+The recent emergence of deadly zoonotic viral diseases, including Ebola virus and
+SARS-CoV-2, emphasizes the importance of pandemic preparedness for the
+animal-sourced viruses with potential risk of animal-to-human spillover. Over the
+last 2 decades, three significant coronaviruses of bat origin, SARS-CoV,
+MERS-CoV, and SARS-CoV-2, have caused millions of deaths with significant economy
+and public health impacts. Lack of effective therapeutics against these
+coronaviruses was one of the contributing factors to such losses. Although
+SADS-CoV, another coronavirus of bat origin, was only known to cause fatal
+diarrhea disease in piglets, the ability to infect cells derived from multiple
+species, including human, highlights the potential risk of animal-to-human
+spillover. As part of our effort in pandemic preparedness, we explore SADS-CoV
+host dependency factors as targets for host-directed therapeutic development and 
+found zinc finger DHHC-type palmitoyltransferase 17 is a promising drug target
+against SADS-CoV replication. We also demonstrated that a palmitoylation
+inhibitor, 2-bromopalmitate (2-BP), can be used as an inhibitor for SADS-CoV
+treatment.
+
+DOI: 10.1128/mBio.02342-21 
+PMCID: PMC8546599
+PMID: 34700373  [Indexed for MEDLINE]
+

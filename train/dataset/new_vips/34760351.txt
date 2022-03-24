@@ -1,0 +1,44 @@
+
+1. PeerJ. 2021 Nov 5;9:e12258. doi: 10.7717/peerj.12258. eCollection 2021.
+
+Abundant CpG-sequences in human genomes inhibit KIR3DL2-expressing NK cells.
+
+Pugh J(1), Guethlein L(1), Parham P(1).
+
+Author information: 
+(1)Departments of Structural Biology and Microbiology & Immunology, Stanford
+University School of Medicine, Stanford, CA, United States.
+
+Killer Immunoglobulin-like Receptors (KIR) comprise a diverse, highly polymorphic
+family of cell-surface glycoproteins that are principally expressed by Natural
+Killer (NK) cells. These innate immune lymphocytes fulfill vital functions in
+human reproduction and immune responses to viral infection. KIR3DL2 is an
+inhibitory NK cell receptor that recognizes a common epitope of the HLA-A3 and
+HLA-A11 class I glycoproteins of the major histocompatibility complex. KIR3DL2
+also binds exogenous DNA containing the CpG motif. This interaction causes
+internalization of the KIR-DNA. Exogenous CpG-DNA typically activates NK cells,
+but the specificity of KIR3DL2-DNA binding and internalization is unclear. We
+hypothesized that KIR3DL2 binds exogenous DNA in a sequence-specific manner that 
+differentiates pathogen DNA from self-DNA. In testing this hypothesis, we
+surveyed octameric CpG-DNA sequences in the human genome, and in reference
+genomes of all bacteria, fungi, viruses, and parasites, with focus on medically
+relevant species. Among all pathogens, the nucleotides flanking CpG motifs in the
+genomes of parasitic worms that infect humans are most divergent from those in
+the human genome. We cultured KIR3DL2+NKL cells with the commonest CpG-DNA
+sequences in either human or pathogen genomes. DNA uptake was negatively
+correlated with the most common CpG-DNA sequences in the human genome. These
+CpG-DNA sequences induced inhibitory signaling in KIR3DL2+NKL cells. In contrast,
+KIR3DL2+NKL cells lysed more malignant targets and produced more IFNγ after
+culture with CpG-DNA sequences prevalent in parasitic worms. By applying
+functional immunology to evolutionary genomics, we conclude that KIR3DL2 allows
+NK cells to differentiate self-DNA from pathogen DNA.
+
+© 2021 Pugh et al.
+
+DOI: 10.7717/peerj.12258 
+PMCID: PMC8574216
+PMID: 34760351 
+
+Conflict of interest statement: The authors declare that they have no competing
+interests.
+

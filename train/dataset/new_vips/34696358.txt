@@ -1,0 +1,78 @@
+
+1. Viruses. 2021 Sep 25;13(10). pii: 1927. doi: 10.3390/v13101927.
+
+Potential Molecular Mechanisms of Rare Anti-Tumor Immune Response by SARS-CoV-2
+in Isolated Cases of Lymphomas.
+
+Barh D(1)(2), Tiwari S(2), Gabriel Rodrigues Gomes L(2), Weener ME(3), Alzahrani 
+KJ(4), Alsharif KF(4), Aljabali AAA(5), Tambuwala MM(6), Lundstrom K(7), Hassan
+SS(8), Serrano-Aroca Á(9), Takayama K(10), Ghosh P(11), Redwan EM(12), Silva
+Andrade B(13), Soares SC(14), Azevedo V(2), Uversky VN(15)(16).
+
+Author information: 
+(1)Centre for Genomics and Applied Gene Technology, Institute of Integrative
+Omics and Applied Biotechnology (IIOAB), Nonakuri, Purba Medinipur 721172, West
+Bengal, India.
+(2)Department of Genetics, Ecology and Evolution, Institute of Biological
+Sciences, Federal University of Minas Gerais, Belo Horizonte 31270-901, Brazil.
+(3)Clinical Research Center, Oftalmic, CRO, 119334 Bardina Str. 22/4, 119991
+Moscow, Russia.
+(4)Department of Clinical Laboratories Sciences, College of Applied Medical
+Sciences, Taif University, Taif 21944, Saudi Arabia.
+(5)Department of Pharmaceutics and Pharmaceutical Technology, Faculty of
+Pharmacy, Yarmouk University, Irbid 21163, Jordan.
+(6)School of Pharmacy and Pharmaceutical Science, Ulster University, Coleraine
+BT52 1SA, UK.
+(7)PanTherapeutics, CH 1095 Lutry, Switzerland.
+(8)Department of Mathematics, Pingla Thana Mahavidyalaya, Maligram, Paschim
+Medinipur 721140, West Bengal, India.
+(9)Biomaterials and Bioengineering Lab, Centro de Investigación Traslacional San 
+Alberto Magno, Universidad Católica de Valencia San Vicente Mártir, 46001
+Valencia, Spain.
+(10)Center for iPS Cell Research and Application (CiRA), Kyoto University, Kyoto 
+606-8507, Japan.
+(11)Department of Computer Science, Virginia Commonwealth University, Richmond,
+VA 23284, USA.
+(12)Department of Biological Science, Faculty of Science, King Abdulazizi
+University, Jeddah 21589, Saudi Arabia.
+(13)Laboratory of Bioinformatics and Computational Chemistry, Department of
+Biological Sciences, State University of Southwest Bahia (UESB), Jequié
+45206-190, Brazil.
+(14)Department of Immunology, Microbiology and Parasitology, Institute of
+Biological and Natural Sciences, Federal University of Triângulo Mineiro (UFTM), 
+Uberaba 38025-180, Brazil.
+(15)Department of Molecular Medicine and USF Health Byrd Alzheimer's Institute,
+Morsani College of Medicine, University of South Florida, Tampa, FL 33612, USA.
+(16)Research Center for Molecular Mechanisms of Aging and Age-Related Diseases,
+Moscow Institute of Physics and Technology, Institutskiy pereulok, 9, 141700
+Dolgoprudny, Russia.
+
+Recently, two cases of complete remission of classical Hodgkin lymphoma (cHL) and
+follicular lymphoma (FL) after SARS-CoV-2 infection were reported. However, the
+precise molecular mechanism of this rare event is yet to be understood. Here, we 
+hypothesize a potential anti-tumor immune response of SARS-CoV-2 and based on a
+computational approach show that: (i) SARS-CoV-2 Spike-RBD may bind to the
+extracellular domains of CD15, CD27, CD45, and CD152 receptors of cHL or FL and
+may directly inhibit cell proliferation. (ii) Alternately, upon internalization
+after binding to these CD molecules, the SARS-CoV-2 membrane (M) protein and
+ORF3a may bind to gamma-tubulin complex component 3 (GCP3) at its tubulin gamma-1
+chain (TUBG1) binding site. (iii) The M protein may also interact with TUBG1,
+blocking its binding to GCP3. (iv) Both the M and ORF3a proteins may render the
+GCP2-GCP3 lateral binding where the M protein possibly interacts with GCP2 at its
+GCP3 binding site and the ORF3a protein to GCP3 at its GCP2 interacting residues.
+(v) Interactions of the M and ORF3a proteins with these gamma-tubulin ring
+complex components potentially block the initial process of microtubule
+nucleation, leading to cell-cycle arrest and apoptosis. (vi) The Spike-RBD may
+also interact with and block PD-1 signaling similar to pembrolizumab and
+nivolumab- like monoclonal antibodies and may induce B-cell apoptosis and
+remission. (vii) Finally, the TRADD interacting "PVQLSY" motif of Epstein-Barr
+virus LMP-1, that is responsible for NF-kB mediated oncogenesis, potentially
+interacts with SARS-CoV-2 Mpro, NSP7, NSP10, and spike (S) proteins, and may
+inhibit the LMP-1 mediated cell proliferation. Taken together, our results
+suggest a possible therapeutic potential of SARS-CoV-2 in lymphoproliferative
+disorders.
+
+DOI: 10.3390/v13101927 
+PMCID: PMC8539762
+PMID: 34696358 
+

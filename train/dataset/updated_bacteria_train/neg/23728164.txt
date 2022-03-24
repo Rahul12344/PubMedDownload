@@ -1,0 +1,42 @@
+
+1. Microb Ecol. 2013 Oct;66(3):533-50. doi: 10.1007/s00248-013-0244-x.
+
+Taxonomic profiling and metagenome analysis of a microbial community from a
+habitat contaminated with industrial discharges.
+
+Shah V(1), Zakrzewski M, Wibberg D, Eikmeyer F, Schlüter A, Madamwar D.
+
+Author information: 
+(1)Museo Nacional de Ciencias Naturales-CSIC, C/Serrano 115 bis., 28006, Madrid, 
+Spain, ma.fernandez@mncn.csic.es.
+
+Industrial units, manufacturing dyes, chemicals,solvents, and xenobiotic
+compounds, produce liquid and solid wastes, which upon conventional treatment are
+released in the nearby environment and thus are the major cause of pollution.
+Soil collected from contaminated Kharicut Canalbank (N 22°57.878′; E
+072°38.478′), Ahmeda bad, Gujarat,India was used for metagenomic DNA preparation 
+to study the capabilities of intrinsic microbial community in dealing with
+xenobiotics. Sequencing of metagenomic DNA on the Genome Sequencer FLX System
+using titanium chemistry resulted in 409,782 reads accounting for 133,529,997
+bases of sequence information. Taxonomic analyses and gene annotations were
+carried out using the bioinformatics platform Sequence Analysis and Management
+System for Metagenomic Datasets. Taxonomic profiling was carried out by three
+different complementary approaches: (a) 16S rDNA, (b) environmental gene tags,
+and (c) lowest common ancestor. The most abundant phylum and genus were found to 
+be “Proteobacteria”and “Pseudomonas,” respectively. Metagenome reads were mapped 
+on sequenced microbial genomes and the highest numbers of reads were allocated to
+Pseudomonas stutzeri A1501. Assignment of obtained metagenome reads to Gene
+Ontology terms, Clusters of Orthologous Groups of protein categories, protein
+family numbers, and Kyoto Encyclopedia of Genes and Genomes hits revealed genomic
+potential of indigenous microbial community. In total, 157,024 reads corresponded
+to 37,028 different KEGG hits, and amongst them, 11,574 reads corresponded to 131
+different enzymes potentially involved in xenobiotic biodegradation. These
+enzymes were mapped on biodegradation pathways of xenobiotics to elucidate their 
+roles in possible catalytic reactions. Consequently, information obtained from
+the present study will act as a baseline which, subsequently along with
+other“-omic” studies, will help in designing future bioremediation strategies in 
+effluent treatment plants and environmental cleanup projects.
+
+DOI: 10.1007/s00248-013-0244-x 
+PMID: 23728164  [Indexed for MEDLINE]
+

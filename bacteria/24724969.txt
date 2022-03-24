@@ -1,0 +1,40 @@
+
+1. J Chem Inf Model. 2014 May 27;54(5):1451-66. doi: 10.1021/ci500104m. Epub 2014
+Apr 28.
+
+Inhibitor design strategy based on an enzyme structural flexibility: a case of
+bacterial MurD ligase.
+
+Perdih A(1), Hrast M, Barreteau H, Gobec S, Wolber G, Solmajer T.
+
+Author information: 
+(1)National Institute of Chemistry, Hajdrihova 19, 1001 Ljubljana, Slovenia.
+
+Increasing bacterial resistance to available antibiotics stimulated the discovery
+of novel efficacious antibacterial agents. The biosynthesis of the bacterial
+peptidoglycan, where the MurD enzyme is involved in the intracellular phase of
+the UDP-MurNAc-pentapeptide formation, represents a collection of highly
+selective targets for novel antibacterial drug design. In our previous
+computational studies, the C-terminal domain motion of the MurD ligase was
+investigated using Targeted Molecular Dynamic (TMD) simulation and the Off-Path
+Simulation (OPS) technique. In this study, we present a drug design strategy
+using multiple protein structures for the identification of novel MurD ligase
+inhibitors. Our main focus was the ATP-binding site of the MurD enzyme. In the
+first stage, three MurD protein conformations were selected based on the obtained
+OPS/TMD data as the initial criterion. Subsequently, a two-stage virtual
+screening approach was utilized combining derived structure-based pharmacophores 
+with molecular docking calculations. Selected compounds were then assayed in the 
+established enzyme binding assays, and compound 3 from the aminothiazole class
+was discovered to act as a dual MurC/MurD inhibitor in the micomolar range. A
+steady-state kinetic study was performed on the MurD enzyme to provide further
+information about the mechanistic aspects of its inhibition. In the final stage, 
+all used conformations of the MurD enzyme with compound 3 were simulated in
+classical molecular dynamics (MD) simulations providing atomistic insights of the
+experimental results. Overall, the study depicts several challenges that need to 
+be addressed when trying to hit a flexible moving target such as the presently
+studied bacterial MurD enzyme and show the possibilities of how computational
+tools can be proficiently used at all stages of the drug discovery process.
+
+DOI: 10.1021/ci500104m 
+PMID: 24724969  [Indexed for MEDLINE]
+

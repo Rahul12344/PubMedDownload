@@ -1,0 +1,42 @@
+
+1. ACS Chem Biol. 2015 Oct 16;10(10):2382-92. doi: 10.1021/acschembio.5b00444. Epub 
+2015 Aug 17.
+
+Beyond a Fluorescent Probe: Inhibition of Cell Division Protein FtsZ by mant-GTP 
+Elucidated by NMR and Biochemical Approaches.
+
+Huecas S(1), Marcelo F(1)(2), Perona A(3), Ruiz-Ávila LB(1), Morreale A(3),
+Cañada FJ(1), Jiménez-Barbero J(1), Andreu JM(1).
+
+Author information: 
+(1)Centro de Investigaciones Biológicas, CIB-CSIC , Ramiro de Maeztu 9, 28040
+Madrid, Spain.
+(2)UCIBIO, REQUIMTE , Dept. de Química, Faculdade de Ciências e Tecnologia, UNL, 
+2829-516 Caparica, Portugal.
+(3)Unidad de Bioinformática, Centro de Biología Molecular Severo Ochoa,
+CBMSO-CSIC , Cantoblanco, 28049 Madrid, Spain.
+
+FtsZ is the organizer of cell division in most bacteria and a target in the quest
+for new antibiotics. FtsZ is a tubulin-like GTPase, in which the active site is
+completed at the interface with the next subunit in an assembled FtsZ filament.
+Fluorescent mant-GTP has been extensively used for competitive binding studies of
+nucleotide analogs and synthetic GTP-replacing inhibitors possessing
+antibacterial activity. However, its mode of binding and whether the mant tag
+interferes with FtsZ assembly function were unknown. Mant-GTP exists in
+equilibrium as a mixture of C2'- and C3'-substituted isomers. We have unraveled
+the molecular recognition process of mant-GTP by FtsZ monomers. Both isomers bind
+in the anti glycosidic bond conformation: 2'-mant-GTP in two ribose puckering
+conformations and 3'-mant-GTP in the preferred C2' endo conformation. In each
+case, the mant tag strongly interacts with FtsZ at an extension of the GTP
+binding site, which is also supported by molecular dynamics simulations.
+Importantly, mant-GTP binding induces archaeal FtsZ polymerization into inactive 
+curved filaments that cannot hydrolyze the nucleotide, rather than straight
+GTP-hydrolyzing assemblies, and also inhibits normal assembly of FtsZ from the
+Gram-negative bacterium Escherichia coli but is hydrolyzed by FtsZ from
+Gram-positive Bacillus subtilis. Thus, the specific interactions provided by the 
+fluorescent mant tag indicate a new way to search for synthetic FtsZ inhibitors
+that selectively suppress the cell division of bacterial pathogens.
+
+DOI: 10.1021/acschembio.5b00444 
+PMID: 26247422  [Indexed for MEDLINE]
+

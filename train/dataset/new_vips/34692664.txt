@@ -1,0 +1,64 @@
+
+1. Front Bioeng Biotechnol. 2021 Oct 6;9:752681. doi: 10.3389/fbioe.2021.752681.
+eCollection 2021.
+
+A Paper-Based IL-6 Test Strip Coupled With a Spectrum-Based Optical Reader for
+Differentiating Influenza Severity in Children.
+
+Lin SW(1), Shen CF(2)(3), Liu CC(2)(4), Cheng CM(1).
+
+Author information: 
+(1)Institute of Biomedical Engineering, National Tsing Hua University, Hsinchu,
+Taiwan.
+(2)Department of Pediatrics, National Cheng Kung University Hospital, College of 
+Medicine, National Cheng Kung University, Tainan, Taiwan.
+(3)Institute of Clinical Medicine, College of Medicine, National Cheng Kung
+University, Tainan, Taiwan.
+(4)Center of Infectious Disease and Signaling Research, National Cheng Kung
+University, Tainan, Taiwan.
+
+Influenza virus infection is a major worldwide public health problem. Influenza
+virus infections are associated with a high hospitalization rate in children
+between the ages of 5 and 14. The predominant reason for poor influenza prognosis
+is the lack of any effective means for early diagnosis. Early diagnosis of severe
+illness is critical to improving patient outcome, and could be especially useful 
+in areas with limited medical resources. Accurate, inexpensive, and easy-to-use
+diagnostic tools could improve early diagnosis and patient outcome, and reduce
+overall healthcare costs. We developed an interleukin-6 paper-based test strip
+that used colloidal gold-conjugated antibodies to detect human interleukin-6
+protein. These complexes were captured on a paper-based test strip patterned with
+perpendicular T lines that were pre-coated with anti-human interleukin-6
+antibodies. Applied serum samples interacted with these antibodies and presented 
+as colored bands that could be read using a spectrum-based optical reader. The
+full-spectrum of the reflected light interleukin-6 protein signal could be
+obtained from the spectral optics module, and the standard could be used to
+quantitatively analyze interleukin 6 level in serum. We retrospectively evaluated
+10 children (23 serum samples) with severe influenza virus infections, 26
+children (26 serum samples) with mild influenza virus infections, and 10 healthy 
+children (10 serum samples). Our system, the combined use of a paper-based test
+strip and a spectrum-based optical reader, provided both qualitative and
+quantitative information. When used with the optical reader, the detection limit 
+was improved from a qualitative, naked-eye level of 400 pg/ml to a quantitative, 
+optical reader level of 76.85 pg/ml. After monitoring serum interleukin-6 level
+via our system, we found a high correlation between our system results and those 
+obtainable using a conventional sandwich enzyme-linked immunosorbent assay method
+(Rho = 0.706, p < 0.001). The sensitivity and specificity for differentiating
+between severe and mild influenza using our combined method (test strip coupled
+with optical reader) were 78.3 and 50.0%, respectively. When interleukin-6 was
+combined with serum C-reaction protein, the sensitivity and specificity were 85.7
+and 95.5%, and the receiver operating characteristic area-under-the-curve was
+quite high (AUC = 0.911, p < 0.001). The potential advantages of our system,
+i.e., a paper-based test strip coupled with a spectrum-based optical reader, are 
+as follows: 1) simple user operation; 2) rapid turnaround times-within 20 min; 3)
+high detection performance; and, 4) low-cost fabrication.
+
+Copyright © 2021 Lin, Shen, Liu and Cheng.
+
+DOI: 10.3389/fbioe.2021.752681 
+PMCID: PMC8527092
+PMID: 34692664 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

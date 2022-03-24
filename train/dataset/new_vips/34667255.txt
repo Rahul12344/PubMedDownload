@@ -1,0 +1,37 @@
+
+1. Sci Rep. 2021 Oct 19;11(1):20687. doi: 10.1038/s41598-021-99721-y.
+
+Drug repurposing improves disease targeting 11-fold and can be augmented by
+network module targeting, applied to COVID-19.
+
+Rivero-García I(1), Castresana-Aguirre M(1), Guglielmo L(1), Guala D(1),
+Sonnhammer ELL(2).
+
+Author information: 
+(1)Department of Biochemistry and Biophysics, Stockholm University, Science for
+Life Laboratory, Box 1031, 17121, Solna, Sweden.
+(2)Department of Biochemistry and Biophysics, Stockholm University, Science for
+Life Laboratory, Box 1031, 17121, Solna, Sweden. erik.sonnhammer@dbb.su.se.
+
+This analysis presents a systematic evaluation of the extent of therapeutic
+opportunities that can be obtained from drug repurposing by connecting drug
+targets with disease genes. When using FDA-approved indications as a reference
+level we found that drug repurposing can offer an average of an 11-fold increase 
+in disease coverage, with the maximum number of diseases covered per drug being
+increased from 134 to 167 after extending the drug targets with their high
+confidence first neighbors. Additionally, by network analysis to connect drugs to
+disease modules we found that drugs on average target 4 disease modules, yet the 
+similarity between disease modules targeted by the same drug is generally low and
+the maximum number of disease modules targeted per drug increases from 158 to 229
+when drug targets are neighbor-extended. Moreover, our results highlight that
+drug repurposing is more dependent on target proteins being shared between
+diseases than on polypharmacological properties of drugs. We apply our drug
+repurposing and network module analysis to COVID-19 and show that Fostamatinib is
+the drug with the highest module coverage.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-99721-y 
+PMCID: PMC8526804
+PMID: 34667255  [Indexed for MEDLINE]
+

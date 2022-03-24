@@ -1,0 +1,31 @@
+
+1. Microb Ecol. 1987 Jan;13(1):31-45. doi: 10.1007/BF02014961.
+
+A mathematical model for the growth of bacterial microcolonies on marine
+sediment.
+
+Davidson AM(1), Fry JC.
+
+Author information: 
+(1)Departments of Mathematics, University of Wales Institute of Science and
+Technology, P.O. Box 13, CF1 3XF, Cardiff, UK.
+
+Counts of bacterial microcolonies attached to deep-sea sediment particles showed 
+4-, 8-, 16-, and 32-celled microcolonies to be very rare. This was investigated
+with a mathematical model in which microcolonies grew from single cells at a
+constant growth rate (μ), detached from particles at constant rate (λ), and
+reattached as single cells. Terms for attachment of foreign bacteria (a) and
+death of single cells (d) were also included. The best method of fitting the
+model to the microcolony counts was a weighted least-squares approach by
+whichλ(0.83 hour(-1)) was estimated to be about 20 times greater thanμ(0.038
+hour(-1)). This showed that the bacteria were very mobile between sediment
+particles and this mobility was explained in terms of attachment by reversible
+sorption. The implications of the results for the frequency of dividing cell
+method for estimating growth rates of sediment bacteria are discussed. The ratio 
+ofλ andμ was found to be very robust both in terms of the errors associated with 
+the microcolony counts and the range of microcolony sizes used to obtain the
+solution.
+
+DOI: 10.1007/BF02014961 
+PMID: 24213101 
+

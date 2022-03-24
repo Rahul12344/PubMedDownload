@@ -1,0 +1,53 @@
+
+1. Sci Rep. 2018 Sep 21;8(1):14175. doi: 10.1038/s41598-018-32040-x.
+
+The potential HLA Class I-restricted epitopes derived from LeIF and TSA of
+Leishmania donovani evoke anti-leishmania CD8+ T lymphocyte response.
+
+Dikhit MR(1)(2), Das S(3), Mahantesh V(2), Kumar A(2), Singh AK(2), Dehury B(4), 
+Rout AK(5), Ali V(6), Sahoo GC(1), Topno RK(7), Pandey K(8), Das VNR(8), Bimal
+S(2), Das P(9).
+
+Author information: 
+(1)BioMedical Informatics Division, Rajendra Memorial Research Institute of
+Medical Sciences, Agamkuan, Patna, 800007, Bihar, India.
+(2)Department of Immunology, Rajendra Memorial Research Institute of Medical
+Sciences, Agamkuan, Patna, 800007, Bihar, India.
+(3)Department of Microbiology, All India Institute of Medical Sciences, Patna,
+801507, Bihar, India.
+(4)BioMedical Informatics Centre, ICMR-Regional Medical Research Centre,
+Bhubaneswar, 751023, Odisha, India.
+(5)Biotechnology Laboratory, ICAR-Central Inland Fisheries Research Institute,
+Barrackpore, Kolkata, 700120, West Bengal, India.
+(6)Department of Clinical Biochemistry, Rajendra Memorial Research Institute of
+Medical Sciences, Agamkuan, Patna, 800007, Bihar, India.
+(7)Department of Epidemiology, Rajendra Memorial Research Institute of Medical
+Sciences, Agamkuan, Patna, 800007, Bihar, India.
+(8)Department of Clinical Medicine, Rajendra Memorial Research Institute of
+Medical Sciences, Agamkuan, Patna, 800007, Bihar, India.
+(9)Department of Molecular Parasitology, Rajendra Memorial Research Institute of 
+Medical Sciences, Agamkuan, Patna, 800007, Bihar, India. drpradeep.das@gmail.com.
+
+To explore new protective measure against visceral leishmaniasis, reverse
+vaccinology approach was employed to identify key immunogenic regions which can
+mediate long-term immunity. In-depth computational analysis revealed nine
+promiscuous epitopes which can possibly be presented by 46 human leukocyte
+antigen, thereby broadening the worldwide population up to 94.16%. This is of
+reasonable significance that most of the epitopes shared 100% sequence homology
+with other Leishmania species and could evoke a common pattern of protective
+immune response. Transporter associated with antigen processing binding affinity,
+molecular docking approach followed by dynamics simulation and human leukocyte
+antigen stabilization assay suggested that the best five optimal set of epitopes 
+bind in between α1 and α2 binding groove with sufficient affinity and stability
+which allows the translocation of intact epitope to the cell surface.
+Fascinatingly, the human leukocyte antigen stabilization assay exhibited a modest
+correlation with the positive immunogenicity score predicted by class I pMHC
+immunogenicity predictor. A support for this notion came from ELISA and FACS
+analysis where the epitopes as a cocktail induced CD8+ IFN-γ and Granzyme B
+levels significantly in treated visceral leishmaniasis subject which suggests the
+immunogenic ability of the selected epitopes.
+
+DOI: 10.1038/s41598-018-32040-x 
+PMCID: PMC6154976
+PMID: 30242172  [Indexed for MEDLINE]
+

@@ -1,0 +1,53 @@
+
+1. J Virol. 2021 Dec 1:JVI0173721. doi: 10.1128/JVI.01737-21. [Epub ahead of print]
+
+Cell strain-derived induced pluripotent stem cell as a genetically controlled
+approach to investigate age-related host response to flaviviral infection.
+
+Bifani AM(1), Tan HC(1), Choy MM(1), Ooi EE(1)(2)(3).
+
+Author information: 
+(1)Programme in Emerging Infectious Diseases, Duke-NUS Medical School, Singapore.
+(2)Viral Research and Experimental Medicine Centre, SingHealth Duke-NUS Academic 
+Medical Centre, Singapore.
+(3)Saw Swee Hock School of Public Health, National University of Singapore,
+Singapore.
+
+The expansion of the geographical footprint of dengue viruses (DENVs) and their
+mosquito vectors have affected more than half of the global population, including
+older adults who appear to show elevated risk of severe dengue. Despite this
+epidemiological trend, how ageing contributes to increase dengue pathogenesis is 
+poorly understood. A limitation has been the lack of useful in vitro experimental
+approaches; cell lines commonly used for infection studies are immortal and hence
+do not age. Cell strains, such as WI-38 and MRC-5 with diploid genomes, do age
+with in vitro passaging but these cell strains were isolated decades ago and are 
+now mostly highly passaged. Herein, we show that reprogramming of cell strains
+with finite lifespan into induced pluripotent stem cells (iPSCs), followed by
+conversion back into terminally differentiated cells, can be an approach to
+derive genetically identical cells at different stages of ageing. The
+iPSC-derived differentiated cells were susceptible to wild-type DENV infection
+and produced greater levels of type-I interferon expression with increase
+passaging, despite similar levels of infection. In contrast, infection with the
+attenuated DENV-2 PDK53 and YF17D-204 strains showed reduced and increased levels
+of infection with increasing passages; the latter could be clinically pertinent
+as YF17D-204 vaccination in older adults is associated with increased risk of
+severe adverse outcome. The differences in infection susceptibility and host
+response collectively suggest the potential of iPSC-derived cell strains as a
+genetically controlled approach to understand how ageing impacts viral
+pathogenesis. Importance Ageing has been a risk factor for poor clinical outcome 
+in several infectious diseases, including dengue. However, age-dependent
+responses to dengue and other flaviviral infection or vaccination have remained
+incompletely understood due partly to lack of suitable laboratory tools. We thus 
+developed an in vitro approach to examine age-related changes in host response to
+flaviviral infection. Notably, this approach uses cell strains with diploid
+rather than aneuploidic genomes, which are unstable. Conversion of these cells
+into iPSCs ensure sustainability of this resource and reprogramming back into
+terminally differentiated cells would, even with limited number of passages,
+produce cells at different stages of ageing for infection studies. Our findings
+suggest that this in vitro system has the potential to serve as a
+genetically-controlled approach to define the age-related response to flavivirus 
+infection.
+
+DOI: 10.1128/JVI.01737-21 
+PMID: 34851147 
+

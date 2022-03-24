@@ -1,0 +1,36 @@
+
+1. Protein Expr Purif. 2005 Feb;39(2):296-306.
+
+Overexpression and purification of Pyrococcus abyssi phosphopantetheine
+adenylyltransferase from an optimized synthetic gene for NMR studies.
+
+Nálezková M(1), de Groot A, Graf M, Gans P, Blanchard L.
+
+Author information: 
+(1)Laboratoire de Résonance Magnétique Nucléaire, Institut de Biologie
+Structurale Jean-Pierre Ebel (CEA-CNRS-UJF), UMR 5075, 41 rue Jules Horowitz,
+38027 Grenoble cedex 1, France.
+
+Phosphopantetheine adenylyltransferase (PPAT) is an essential enzyme that
+catalyses a rate-limiting step in coenzyme A (CoA) biosynthesis in all organisms.
+This study was conducted to obtain a high amount of pure, soluble, and stable
+PPAT from the hyperthermophilic archaeon Pyrococcus abyssi with the aim of
+investigating its structural characterization by NMR. Production of this enzyme
+from its natural gene in the Escherichia coli classical expression strain
+(BL21(DE3)) was not possible, most likely due to the presence of a high number of
+E. coli rare codons. Only a low amount of P. abyssi PPAT was previously obtained 
+in two E. coli strains encoding tRNAs that recognize these rare E. coli codons
+and only by using a very rich growth medium. It was not possible to use this
+strategy to prepare labelled samples for the NMR study, thus another solution had
+to be found. Therefore, a synthetic gene encoding P. abyssi PPAT was constructed 
+for which not only the rare codons were changed but which was also optimized to
+avoid other expression-limiting factors such as internal ribosome entry sites,
+RNA secondary structures, and DNA repeats. Gene optimization strongly increased
+the yield of P. abyssi PPAT in E. coli BL21(DE3) and allowed us to start the
+structural characterization of the enzyme. Circular dichroism and 2D NMR
+experiments indicate the presence of a well-ordered structure for P. abyssi PPAT 
+and also confirm the existence of this enzyme as a monomer in solution.
+
+DOI: 10.1016/j.pep.2004.11.003 
+PMID: 15642482  [Indexed for MEDLINE]
+

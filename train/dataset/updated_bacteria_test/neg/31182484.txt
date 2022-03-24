@@ -1,0 +1,50 @@
+
+1. J Biol Chem. 2019 Jul 26;294(30):11536-11548. doi: 10.1074/jbc.RA119.008246. Epub
+2019 Jun 10.
+
+Addition of formate dehydrogenase increases the production of renewable alkane
+from an engineered metabolic pathway.
+
+Jaroensuk J(1), Intasian P(1), Kiattisewee C(1), Munkajohnpon P(1)(2),
+Chunthaboon P(2), Buttranon S(1), Trisrivirat D(2), Wongnate T(1), Maenpuen S(3),
+Tinikul R(2), Chaiyen P(4).
+
+Author information: 
+(1)School of Biomolecular Science and Engineering, Vidyasirimedhi Institute of
+Science and Technology (VISTEC), Wangchan Valley, Rayong 21210, Thailand.
+(2)Department of Biochemistry and Center for Excellence in Protein and Enzyme
+Technology, Faculty of Science, Mahidol University, Bangkok 14000, Thailand.
+(3)Department of Biochemistry, Faculty of Science, Burapha University, Chonburi
+20131, Thailand.
+(4)School of Biomolecular Science and Engineering, Vidyasirimedhi Institute of
+Science and Technology (VISTEC), Wangchan Valley, Rayong 21210, Thailand
+pimchai.chaiyen@vistec.ac.th.
+
+An engineered metabolic pathway consisting of reactions that convert fatty acids 
+to aldehydes and eventually alkanes would provide a means to produce biofuels
+from renewable energy sources. The enzyme aldehyde-deformylating oxygenase (ADO) 
+catalyzes the conversion of aldehydes and oxygen to alkanes and formic acid and
+uses oxygen and a cellular reductant such as ferredoxin (Fd) as co-substrates. In
+this report, we aimed to increase ADO-mediated alkane production by converting an
+unused by-product, formate, to a reductant that can be used by ADO. We achieved
+this by including the gene (fdh), encoding formate dehydrogenase from
+Xanthobacter sp. 91 (XaFDH), into a metabolic pathway expressed in Escherichia
+coli Using this approach, we could increase bacterial alkane production,
+resulting in a conversion yield of ∼50%, the highest yield reported to date.
+Measuring intracellular nicotinamide concentrations, we found that E. coli cells 
+harboring XaFDH have a significantly higher concentration of NADH and a higher
+NADH/NAD+ ratio than E. coli cells lacking XaFDH. In vitro analysis disclosed
+that ferredoxin (flavodoxin):NADP+ oxidoreductase could use NADH to reduce Fd and
+thus facilitate ADO-mediated alkane production. As formic acid can decrease the
+cellular pH, the addition of formate dehydrogenase could also maintain the
+cellular pH in the neutral range, which is more suitable for alkane production.
+We conclude that this simple, dual-pronged approach of increasing NAD(P)H and
+removing extra formic acid is efficient for increasing the production of
+renewable alkanes via synthetic biology-based approaches.
+
+© 2019 Jaroensuk et al.
+
+DOI: 10.1074/jbc.RA119.008246 
+PMCID: PMC6663878
+PMID: 31182484  [Indexed for MEDLINE]
+

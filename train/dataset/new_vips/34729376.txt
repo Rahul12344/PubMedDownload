@@ -1,0 +1,47 @@
+
+1. Mol Ther Methods Clin Dev. 2021 Oct 1;23:286-295. doi:
+10.1016/j.omtm.2021.09.012. eCollection 2021 Dec 10.
+
+Immunocompromised Cas9 transgenic mice for rapid in vivo assessment of host
+factors involved in highly pathogenic virus infection.
+
+Collette N(1), Dhungel P(2), Lund SJ(2), Schwedler JL(2), Saada EA(3), Light
+YK(3), Sinha A(3), Schoeniger JS(3), Negrete OA(2).
+
+Author information: 
+(1)Physical and Life Science Directorate, Lawrence Livermore National Laboratory,
+Livermore, CA, 94550, USA.
+(2)Department of Biotechnology and Bioengineering, Sandia National Laboratories, 
+Livermore, CA 94550, USA.
+(3)Department of Systems Biology, Sandia National Laboratories, Livermore, CA
+94550, USA.
+
+Targeting host factors for anti-viral development offers several potential
+advantages over traditional countermeasures that include broad-spectrum activity 
+and prevention of resistance. Characterization of host factors in animal models
+provides strong evidence of their involvement in disease pathogenesis, but the
+feasibility of performing high-throughput in vivo analyses on lists of genes is
+problematic. To begin addressing the challenges of screening candidate host
+factors in vivo, we combined advances in CRISPR-Cas9 genome editing with an
+immunocompromised mouse model used to study highly pathogenic viruses. Transgenic
+mice harboring a constitutively expressed Cas9 allele (Cas9 tg/tg ) with or
+without knockout of type I interferon receptors served to optimize in vivo
+delivery of CRISPR single-guide RNA (sgRNA) using Invivofectamine 3.0, a simple
+and easy-to-use lipid nanoparticle reagent. Invivofectamine 3.0-mediated
+liver-specific editing to remove activity of the critical Ebola virus host factor
+Niemann-Pick disease type C1 in an average of 74% of liver cells protected
+immunocompromised Cas9 tg/tg mice from lethal surrogate Ebola virus infection. We
+envision that immunocompromised Cas9 tg/tg mice combined with straightforward
+sgRNA in vivo delivery will enable efficient host factor loss-of-function
+screening in the liver and other organs to rapidly study their effects on viral
+pathogenesis and help initiate development of broad-spectrum, host-directed
+therapies against emerging pathogens.
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.omtm.2021.09.012 
+PMCID: PMC8526419
+PMID: 34729376 
+
+Conflict of interest statement: The authors declare no competing interests.
+

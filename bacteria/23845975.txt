@@ -1,0 +1,35 @@
+
+1. Microbiology (Reading). 2013 Oct;159(Pt 10):2169-2179. doi:
+10.1099/mic.0.069542-0. Epub 2013 Jul 11.
+
+CdpC2PT, a reverse prenyltransferase from Neosartorya fischeri with a distinct
+substrate preference from known C2-prenyltransferases.
+
+Mundt K(1)(2), Li SM(1)(2).
+
+Author information: 
+(1)Zentrum für Synthetische Mikrobiologie, Philipps-Universität Marburg, 35032
+Marburg, Germany.
+(2)Institut für Pharmazeutische Biologie und Biotechnologie, Philipps-Universität
+Marburg, Deutschhausstrasse 17A, 35037 Marburg, Germany.
+
+A putative prenyltransferase gene, NFIA_043650, was amplified from Neosartorya
+fischeri NRRL 181 and cloned into the expression vector pQE60. The deduced
+polypeptide consisting of 445 amino acids with a molecular mass of 51 kDa was
+overproduced in Escherichia coli and purified as His6-tagged protein to near
+homogeneity. The purified soluble protein was subsequently assayed with potential
+aromatic substrates in the presence of dimethylallyl diphosphate. HPLC analysis
+of the reaction mixtures revealed acceptance of all tested tryptophan-containing 
+cyclic dipeptides. Isolation and structural elucidation of enzyme products of
+five selected substrates indicated a reverse C2-prenylation on the indole
+nucleus, proving the enzyme to be a cyclic dipeptide C2-prenyltransferase
+(CdpC2PT). Differing significantly from two known brevianamide F reverse
+C2-prenyltransferases NotF and BrePT which use cyclo-l-Trp-l-Pro as their
+preferred substrate, CdpC2PT showed a clear substrate preference for
+(S)-benzodiazepinedinone and cyclo-l-Trp-l-Trp with KM values of 84.1 and 165.2
+µM and turnover numbers at 0.63 and 0.30 s(-1), respectively. A possible role of 
+CdpC2PT in the biosynthesis of fellutanines is discussed.
+
+DOI: 10.1099/mic.0.069542-0 
+PMID: 23845975  [Indexed for MEDLINE]
+

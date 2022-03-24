@@ -1,0 +1,42 @@
+
+1. Microorganisms. 2020 Nov 11;8(11). pii: E1773. doi:
+10.3390/microorganisms8111773.
+
+Microbial Shifts Following Five Years of Cover Cropping and Tillage Practices in 
+Fertile Agroecosystems.
+
+Kim N(1), Zabaloy MC(2), Riggins CW(1), Rodríguez-Zas S(3), Villamil MB(1).
+
+Author information: 
+(1)Department of Crop Sciences, University of Illinois, Turner Hall, 1102 S.
+Goodwin Ave., Urbana, IL 61801, USA.
+(2)Centro de Recursos Naturales Renovables de la Zona Semiárida (CERZOS),
+Universidad Nacional del Sur (UNS)-CONICET, Ave. de los Constituyentes s/n, Bahía
+Blanca 8000, Argentina.
+(3)Department of Animal Sciences, University of Illinois, 30 ASL, 127 W. Gregory 
+Dr., Urbana, IL 61801, USA.
+
+Metagenomics in agricultural research allows for searching for bioindicators of
+soil health to characterize changes caused by management practices. Cover
+cropping (CC) improves soil health by mitigating nutrient losses, yet the
+benefits depend on the tillage system used. Field studies searching for indicator
+taxa within these systems are scarce and narrow in their scope. Our goal was to
+identify bioindicators of soil health from microbes that were responsive to CC
+(three levels) and tillage (chisel tillage, no-till) treatments after five years 
+under field conditions. We used rRNA gene-based analysis via Illumina HiSeq2500
+technology with QIIME 2.0 processing to characterize the microbial communities.
+Our results indicated that CC and tillage differentially changed the relative
+abundances (RAs) of the copiotrophic and oligotrophic guilds. Corn-soybean
+rotations with legume-grass CC increased the RA of copiotrophic decomposers more 
+than rotations with grass CC, whereas rotations with only bare fallows favored
+stress-tolerant oligotrophs, including nitrifiers and denitrifiers. Unlike
+bacteria, fewer indicator fungi and archaea were detected; fungi were poorly
+identified, and their responses were inconsistent, while the archaea RA increased
+under bare fallow treatments. This is primary information that allows for
+understanding the potential for managing the soil community compositions using
+cover crops to reduce nutrient losses to the environment.
+
+DOI: 10.3390/microorganisms8111773 
+PMCID: PMC7696634
+PMID: 33187276 
+

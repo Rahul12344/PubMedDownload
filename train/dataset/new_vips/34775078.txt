@@ -1,0 +1,65 @@
+
+1. Infect Genet Evol. 2021 Nov 12;96:105136. doi: 10.1016/j.meegid.2021.105136.
+[Epub ahead of print]
+
+Design of a multi-epitope protein vaccine against herpes simplex virus, human
+papillomavirus and Chlamydia trachomatis as the main causes of sexually
+transmitted diseases.
+
+Dorosti H(1), Eskandari S(2), Zarei M(1), Nezafat N(3), Ghasemi Y(4).
+
+Author information: 
+(1)Pharmaceutical Sciences Research Center, Shiraz University of Medical
+Sciences, Shiraz, Iran.; Department of Pharmaceutical Biotechnology, School of
+Pharmacy, Shiraz University of Medical Sciences, Shiraz, Iran.
+(2)Pharmaceutical Sciences Research Center, Shiraz University of Medical
+Sciences, Shiraz, Iran.
+(3)Pharmaceutical Sciences Research Center, Shiraz University of Medical
+Sciences, Shiraz, Iran.; Department of Pharmaceutical Biotechnology, School of
+Pharmacy, Shiraz University of Medical Sciences, Shiraz, Iran. Electronic
+address: n.nezafat@srbiau.ac.ir.
+(4)Pharmaceutical Sciences Research Center, Shiraz University of Medical
+Sciences, Shiraz, Iran.; Department of Pharmaceutical Biotechnology, School of
+Pharmacy, Shiraz University of Medical Sciences, Shiraz, Iran. Electronic
+address: ghasemiy@sums.ac.ir.
+
+Sexually transmitted diseases (STDs) have a profound effect on reproductivity and
+sexual health worldwide. According to world health organization (WHO) 375 million
+new case of STD, including chlamydia trachomatis (chlamydia), Neisseria
+gonorrhoeae, HSV, HPV has been reported in 2016. More than 30 diverse
+pathogenesis have identified to be transmitted through sexual intercourse. Of
+these, viral infections (hepatitis B, herpes simplex virus (HSV or herpes), HIV, 
+and human papillomavirus (HPV) are incurable. However, symptoms caused by the
+incurable viral infections can be alleviated through treatment. Antimicrobial
+resistance (AMR) of sexually transmitted infections (STIs) to antibiotics has
+increased recent years, in this regard, vaccination is proposed as an important
+strategy for prevention or treatment of STDs. Vaccine against HPV 16 and 18
+suggests a new approach for controlling STDs but until now, there is no
+prophylactic or therapeutic vaccine have been approved for HSV-2 and Chlamydia
+trachomatis (CT); in this reason, developing an efficient vaccine is inevitable. 
+Recently, different combinatorial forms of subunit vaccines against two or three 
+type of bacteria have been designed. In this study, to design a combinatorial
+vaccine against HSV, CT, and HPV, the E7 and L2 from HPV, glycoprotein D from
+HSV-2 and ompA from CT were selected as final antigens. Afterward, the
+immunodominant helper T lymphocytes (HTLs) and cytolytic T lymphocytes (CTLs)
+epitopes were chosen from aforesaid antigens. P30 (tetanus toxoid epitope) as
+universal T-helper were also added to the vaccine. Moreover, flagellin D1/D0 as
+TLR5 agonist and the RS09 as a TLR4 ligand were incorporated to N and C-terminals
+of peptide vaccine, respectively. Finally, all selected parts were fused together
+by appropriate linkers to enhance vaccine efficiency. The physicochemical,
+structural, and immunological properties of the designed vaccine protein were
+assessed. To achieve the best 3D model of the protein vaccine, modeling,
+refinement, and validation of modeled structures were also done. Docking
+evaluation demonstrated suitable interaction between the vaccine and TLR5.
+Moreover, molecular dynamics (MD) studies showed an appropriate and stable
+structure of protein and TLR5. Based on immunoinformatic analysis, our vaccine
+candidate could potentially incite humoral and cellular immunities, which are
+critical for protection against HPV, HSV-2, and chlamydia trachomatis. It should 
+be noted that, experimental studies are needed to confirm the efficacy of the
+designed vaccine.
+
+Copyright © 2021. Published by Elsevier B.V.
+
+DOI: 10.1016/j.meegid.2021.105136 
+PMID: 34775078 
+

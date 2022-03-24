@@ -1,0 +1,55 @@
+
+1. Proc Natl Acad Sci U S A. 2021 Dec 14;118(50). pii: e2111011118. doi:
+10.1073/pnas.2111011118.
+
+Nonmuscle myosin heavy chain IIA facilitates SARS-CoV-2 infection in human
+pulmonary cells.
+
+Chen J(1)(2), Fan J(2), Chen Z(1), Zhang M(2), Peng H(3), Liu J(2), Ding L(2),
+Liu M(2), Zhao C(2), Zhao P(4), Zhang S(5)(2), Zhang X(5)(2), Xu J(5)(2).
+
+Author information: 
+(1)Zhongshan Hospital, Institutes of Biomedical Sciences, Fudan University,
+Shanghai 201508, China.
+(2)Shanghai Public Health Clinical Center, Fudan University, Shanghai 201508,
+China.
+(3)Department of Microbiology, Second Military Medical University, Shanghai
+200433, China.
+(4)Department of Microbiology, Second Military Medical University, Shanghai
+200433, China pnzhao@163.com zhangshuye@shphc.org.cn zhangxiaoyan@shphc.org.cn
+xujianqing@shphc.org.cn.
+(5)Zhongshan Hospital, Institutes of Biomedical Sciences, Fudan University,
+Shanghai 201508, China; pnzhao@163.com zhangshuye@shphc.org.cn
+zhangxiaoyan@shphc.org.cn xujianqing@shphc.org.cn.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative agent
+of coronavirus disease 2019 (COVID-19), binds to host receptor
+angiotensin-converting enzyme 2 (ACE2) through its spike (S) glycoprotein, which 
+mediates membrane fusion and viral entry. However, the expression of ACE2 is
+extremely low in a variety of human tissues, especially in the airways. Thus,
+other coreceptors and/or cofactors on the surface of host cells may contribute to
+SARS-CoV-2 infection. Here, we identified nonmuscle myosin heavy chain IIA (MYH9)
+as an important host factor for SARS-CoV-2 infection of human pulmonary cells by 
+using APEX2 proximity-labeling techniques. Genetic ablation of MYH9 significantly
+reduced SARS-CoV-2 pseudovirus infection in wild type (WT) A549 and Calu-3 cells,
+and overexpression of MYH9 enhanced the pseudovirus infection in WT A549 and
+H1299 cells. MYH9 was colocalized with the SARS-CoV-2 S and directly interacted
+with SARS-CoV-2 S through the S2 subunit and S1-NTD (N-terminal domain) by its
+C-terminal domain (designated as PRA). Further experiments suggested that
+endosomal or myosin inhibitors effectively block the viral entry of SARS-CoV-2
+into PRA-A549 cells, while transmembrane protease serine 2 (TMPRSS2) and
+cathepsin B and L (CatB/L) inhibitors do not, indicating that MYH9 promotes
+SARS-CoV-2 endocytosis and bypasses TMPRSS2 and CatB/L pathway. Finally, we
+demonstrated that loss of MYH9 reduces authentic SARS-CoV-2 infection in Calu-3, 
+ACE2-A549, and ACE2-H1299 cells. Together, our results suggest that MYH9 is a
+candidate host factor for SARS-CoV-2, which mediates the virus entering host
+cells by endocytosis in an ACE2-dependent manner, and may serve as a potential
+target for future clinical intervention strategies.
+
+Copyright © 2021 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.2111011118 
+PMID: 34873039 
+
+Conflict of interest statement: The authors declare no competing interest.
+

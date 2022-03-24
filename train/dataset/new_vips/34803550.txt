@@ -1,0 +1,53 @@
+
+1. Appl Soft Comput. 2021 Nov 16:108041. doi: 10.1016/j.asoc.2021.108041. [Epub
+ahead of print]
+
+Novel multi-site graph convolutional network with supervision mechanism for
+COVID-19 diagnosis from X-ray radiographs.
+
+Elazab A(1)(2), Elfattah MA(2), Zhang Y(3).
+
+Author information: 
+(1)School of Biomedical Engineering, Health Science Center, Shenzhen University, 
+Shenzhen, 518060, China.
+(2)Computer Science Department, Misr Higher Institute for Commerce and Computers,
+Mansoura, 35516, Egypt.
+(3)School of Automation, Guangdong Polytechnic Normal University, Guangzhou,
+510665, China.
+
+The novel Coronavirus disease 2019 (COVID-2019) has become a global pandemic and 
+affected almost all aspects of our daily life. The total number of positive
+COVID-2019 cases has exponentially increased in the last few months due to the
+easy transmissibility of the virus. It can be detected using the nucleic acid
+test or the antibodies blood test which are not always available and take several
+hours to get the results. Therefore, researchers proposed computer-aided
+diagnosis systems using the state-of-the-art artificial intelligence techniques
+to learn imaging biomarkers from chest computed tomography and X-ray radiographs 
+to effectively diagnose COVID-19. However, previous methods either adopted
+transfer learning from a pre-trained model on natural images or trained on
+limited datasets. Either cases may lead to accuracy deficiency or overfitting. In
+addition, feature space suffers from noise and outliers when collecting X-ray
+images from multiple datasets. In this paper, we overcome the previous limitation
+by firstly collecting a large-scale X-ray dataset from multiple resources. Our
+dataset includes 11,312 images collected from 10 different data repositories. To 
+alleviate the effect of the noise, we suppress it in the feature space of our new
+dataset. Secondly, we introduce a supervision mechanism and combine it with the
+VGG-16 network to consider the differences between the COVID-19 and healthy cases
+in the feature space. Thirdly, we propose a multi-site (center) COVID-19 graph
+convolutional network (GCN) that exploits dataset information, the status of
+training samples, and initial scores to effectively classify the disease status. 
+Extensive experiments using different convolutional neural network-based methods 
+with and without the supervision mechanism and different classifiers are
+performed. Results demonstrate the effectiveness of the proposed supervision
+mechanism in all models and superior performance with the proposed GCN.
+
+© 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.asoc.2021.108041 
+PMCID: PMC8592887
+PMID: 34803550 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

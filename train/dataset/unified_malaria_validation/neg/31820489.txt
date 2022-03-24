@@ -1,0 +1,34 @@
+
+1. genet epidemiol. 2020 mar;44(2):197-207. doi: 10.1002/gepi.22271. epub 2019 dec
+9.
+
+an efficient integrative resampling method gene-trait association analysis.
+
+kim y(1), chi yy(2), zou f(3).
+
+author information: 
+(1)early development statistics, merck & co., inc., rahway, new jersey.
+(2)department biostatistics, university florida, gainesville, florida.
+(3)department biostatistics, university north carolina chapel hill,
+chapel hill, north carolina.
+
+genetic association studies popular identifying genetic variants, as
+single nucleotide polymorphisms (snps), associated complex traits. 
+statistical tests commonly performed one snp time assumed mode
+of inheritance recessive, additive, dominant genetic model. such
+analysis result inadequate power employed model deviates the
+underlying true genetic model. propose integrative association test
+procedure generalized linear model framework flexibly model data
+from three common genetic models beyond. computationally
+efficient resampling procedure adopted estimate null distribution of
+the proposed test statistic. simulation results show methods maintain
+the type error rate irrespective existence confounding covariates and
+achieve adequate power compared methods true genetic model. the
+new methods applied two genetic studies resistance severe
+malaria sarcoidosis.
+
+© 2019 wiley periodicals, inc.
+
+doi: 10.1002/gepi.22271 
+pmid: 31820489  [indexed medline]
+

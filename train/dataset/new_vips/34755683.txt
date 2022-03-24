@@ -1,0 +1,24 @@
+
+1. Stud Health Technol Inform. 2021 Nov 8;286:16-20. doi: 10.3233/SHTI210628.
+
+Opportunities to Improve COVID-19 Dashboard Designs for the Public.
+
+Monkman H(1), Martin SZ(1), Minshall S(1), Kushniruk AW(1), Lesselroth BJ(1)(2).
+
+Author information: 
+(1)School of Health Information Science, University of Victoria, Victoria, B.C., 
+Canada.
+(2)University of Oklahoma School of Community Medicine, Tulsa, Oklahoma, USA.
+
+Many organizations created COVID-19 dashboards to communicate epidemiologic
+statistics or community health capabilities with the public. In this paper we
+used dashboard heuristics to identify common violations observed in COVID-19
+dashboards targeted to citizens. Many of the faults we identified likely stem
+from failing to include users in the design of these dashboards. We urge health
+information dashboard designers to implement design principles and test
+dashboards with representative users to ensure that their tools are satisfying
+user needs.
+
+DOI: 10.3233/SHTI210628 
+PMID: 34755683  [Indexed for MEDLINE]
+

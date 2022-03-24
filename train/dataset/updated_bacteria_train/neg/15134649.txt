@@ -1,0 +1,33 @@
+
+1. Biochim Biophys Acta. 2004 May 6;1698(2):167-74.
+
+Biochemical characterization of an inhibitor of Escherichia coli
+UDP-N-acetylmuramyl-l-alanine ligase.
+
+Ehmann DE(1), Demeritt JE, Hull KG, Fisher SL.
+
+Author information: 
+(1)Department of Biochemistry, Infection Discovery, Cancer and Infection Research
+Area, AstraZeneca R&D Boston, 35 Gatehouse Drive, Waltham, MA 02451, USA.
+David.Ehmann@AstraZeneca.com
+
+UDP-N-acetylmuramyl-l-alanine ligase (MurC) is an essential bacterial enzyme
+involved in peptidoglycan biosynthesis and a target for the discovery of novel
+antibacterial agents. As a result of a high-throughput screen (HTS) against a
+chemical library for inhibitors of MurC, a series of benzofuran acyl-sulfonamides
+was identified as potential leads. One of these compounds, Compound A, inhibited 
+Escherichia coli MurC with an IC(50) of 2.3 microM. Compound A exhibited
+time-dependent, partially reversible inhibition of E. coli MurC. Kinetic studies 
+revealed a mode of inhibition consistent with the compound acting competitively
+with the MurC substrates ATP and UDP-N-acetyl-muramic acid (UNAM) with a K(i) of 
+4.5 microM against ATP and 6.3 microM against UNAM. Fluorescence binding
+experiments yielded a K(d) of 3.1 microM for the compound binding to MurC.
+Compound A also exhibited high-affinity binding to bovine serum albumin (BSA) as 
+evidenced by a severe reduction in MurC inhibition upon addition of BSA. This
+finding is consistent with the high lipophilicity of the compound. Advancement of
+this compound series for further drug development will require reduction of
+albumin binding.
+
+DOI: 10.1016/j.bbapap.2003.11.006 
+PMID: 15134649  [Indexed for MEDLINE]
+

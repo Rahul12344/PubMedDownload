@@ -1,0 +1,36 @@
+
+1. Assay Drug Dev Technol. 2008 Feb;6(1):95-103. doi: 10.1089/adt.2007.114.
+
+Identification of an inhibitor of the MurC enzyme, which catalyzes an essential
+step in the peptidoglycan precursor synthesis pathway.
+
+Zawadzke LE(1), Norcia M, Desbonnet CR, Wang H, Freeman-Cook K, Dougherty TJ.
+
+Author information: 
+(1)HTS Center of Emphasis, Pfizer Global Research & Development, Groton, CT, USA.
+laura.e.zawadzke@pfizer.com
+
+The pathway for synthesis of the peptidoglycan precursor UDP-N-acetylmuramyl
+pentapeptide is essential in Gram-positive and Gram-negative bacteria. This
+pathway has been exploited in the recent past to identify potential new
+antibiotics as inhibitors of one or more of the Mur enzymes. In the present
+study, a high-throughput screen was employed to identify potential inhibitors of 
+the Escherichia coli MurC (UDP-N-acetylmuramic acid:L-alanine ligase), the first 
+of four paralogous amino acid-adding enzymes. Inhibition of ATP consumed during
+the MurC reaction, using an adaptation of a kinase assay format, identified a
+number of potential inhibitory chemotypes. After nonspecific inhibition testing
+and chemical attractiveness were assessed, C-1 emerged as a compound for further 
+characterization. The inhibition of MurC by this compound was confirmed in both a
+kinetic-coupled enzyme assay and a direct nuclear magnetic resonance product
+detection assay. C-1 was found to be a low micromolar inhibitor of the E. coli
+MurC reaction, with preferential inhibition by one of two enantiomeric forms.
+Experiments indicated that it was a competitive inhibitor of ATP binding to the
+MurC enzyme. Further work with MurC enzymes from several bacterial sources
+revealed that while the compound was equally effective at inhibiting MurC from
+genera (Proteus mirabilis and Klebsiella pneumoniae) closely related to E. coli, 
+MurC enzymes from more distant Gram-negative species such as Haemophilus
+influenzae, Acinetobacter baylyi, and Pseudomonas aeruginosa were not inhibited.
+
+DOI: 10.1089/adt.2007.114 
+PMID: 18315498  [Indexed for MEDLINE]
+

@@ -1,0 +1,58 @@
+
+1. PeerJ. 2021 Nov 3;9:e12449. doi: 10.7717/peerj.12449. eCollection 2021.
+
+Genomic diversity of SARS-CoV-2 in Malaysia.
+
+Mohamad Noordin N(1), Tan JL(2), Chong CK(3), Chem YK(1), Tajudin N(1), Abu Bakar
+RS(1), Sengol S(1), Phoon HYP(1), Che Azid NAM(1), W Mohd Arifin WNA(1), Aziz
+ZA(1), Hussin H(1), Ibrahim NS(1), Omar A(1), Ravi U(1), Kamarul Zaman KH(1),
+Yamin MA(1), Ngeow YF(4)(5).
+
+Author information: 
+(1)National Public Health Laboratory, Ministry of Health Malaysia, Sungai Buloh, 
+Selangor, Malaysia.
+(2)Faculty of Information Science and Technology, Multimedia University, Melaka, 
+Melaka, Malaysia.
+(3)Public Health Department, Ministry of Health, Putrajaya, Malaysia.
+(4)Faculty of Medicine and Health Sciences, Universiti Tunku Abdul Rahman, Bandar
+Sungai Long, Selangor, Malaysia.
+(5)Center for Research on Communincable Diseases, Universiti Tunku Abdul Rahman, 
+Bandar Sungai Long, Selangor, Malaysia.
+
+Background: More than a year after its first appearance in December 2019, the
+COVID-19 pandemic is still on a rampage in many parts of the world. Although
+several vaccines have been approved for emergency use, the emergence and rapid
+spread of new SARS-CoV-2 variants have sparked fears of vaccine failure due to
+immune evasion. Massive viral genome sequencing has been recommended to track the
+genetic changes that could lead to adverse consequences.
+Methods: We sequenced SARS-CoV-2 respiratory isolates from the National Public
+Health Laboratory, Malaysia and examined them together with viral genomes
+deposited in GISAID by other Malaysian researchers, to understand the
+evolutionary trend of the virus circulating in the country. We studied the
+distribution of virus lineages and site-wise mutations, analysed genetic
+clustering with the goeBURST full Minimum Spanning Tree algorithm, examined the
+trend of viral nucleotide diversity over time and performed nucleotide
+substitution association analyses.
+Results: We identified 22 sub-lineages, 13 clonal complexes, 178 sequence types
+and seven sites of linkage disequilibrium in 277 SARS-CoV-2 genomes sequenced
+between January and December 2020. B.1.524 was the largest lineage group. The
+number of mutations per genome ranged from 0 to 19. The mean genomic diversity
+value over 12 months was 3.26 × 10-4. Of 359 mutations detected, 60.5% of which
+were non-synonymous, the most frequent were in the ORF1ab (P4715L), S (D614G and 
+A701V) and N (S194L) genes.
+Conclusion: The SARS-CoV-2 virus accumulated an abundance of mutations in the
+first year of the COVID-19 pandemic in Malaysia. Its overall genetic diversity,
+however, is relatively low compared to other Asian countries with larger
+populations. Continuous genomic and epidemiological surveillance will help to
+clarify the evolutionary processes determining viral diversity and impacting on
+human health.
+
+©2021 Mohamad Noordin et al.
+
+DOI: 10.7717/peerj.12449 
+PMCID: PMC8571957
+PMID: 34760404 
+
+Conflict of interest statement: The authors declare there are no competing
+interests.
+

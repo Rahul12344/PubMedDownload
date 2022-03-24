@@ -1,0 +1,37 @@
+
+1. Anal Chem. 2021 Nov 23;93(46):15559-15566. doi: 10.1021/acs.analchem.1c04033.
+Epub 2021 Nov 8.
+
+Real-Time Investigation of Intracellular Polynucleotide Kinase Using a Cascaded
+Amplification Circuit.
+
+Shang J(1), Yu S(1), Chen Y(1), Gao Y(1), Hong C(1), Li F(1), Wang F(1).
+
+Author information: 
+(1)College of Chemistry and Molecular Sciences, Wuhan University, Wuhan 430072,
+P. R. China.
+
+Polynucleotide kinase (PNK) shows an in-depth correlationship with DNA repair and
+metabolism processes. The in situ visualization of intracellular PNK revealed an 
+extremely biological significance in supplementing reliable and quantitative
+information on its spatiotemporal distribution in live cells. Herein, we
+developed a versatile cascaded DNA amplification circuit through the integration 
+of catalytic DNA assembly and hybridization chain reaction circuits and realized 
+the accurate evaluation of intracellular PNK activity via the Förster resonance
+energy transfer (FRET) principle. Initially, without PNK, trigger T was firmly
+caged in the PNK-recognizing hairpin HT, resulting in no disturbance of the
+concatenated circuit. However, with the introduction of PNK, the 5'-OH terminal
+of PNK-addressing HT was phosphorylated, then the phosphorylated HT could be
+subsequently digested by λ exonuclease (λ Exo) to produce trigger T of the
+cascaded DNA circuit. As a result, the integrated circuit was stimulated to
+produce an amplified FRET signal for quantitatively monitoring the activity of
+PNK. Due to the λ Exo-specific digestion of 5'-phosphate DNA and the high signal 
+gain of the cascade circuit, our proposed strategy enables the sensitive analysis
+of PNK activity in vitro and in complex biological samples. Furthermore, our
+PNK-sensing platform was extensively explored in HeLa cells for realizing
+reliable intracellular PNK imaging and thus showed high potential in the future
+diagnosis and treatment of kinase-related diseases.
+
+DOI: 10.1021/acs.analchem.1c04033 
+PMID: 34748706  [Indexed for MEDLINE]
+

@@ -1,0 +1,36 @@
+
+1. Int J Mol Sci. 2021 Oct 27;22(21). pii: 11627. doi: 10.3390/ijms222111627.
+
+A Collection of Designed Peptides to Target SARS-CoV-2 Spike RBD-ACE2
+Interaction.
+
+Fernandez-Fuentes N(1), Molina R(2), Oliva B(2).
+
+Author information: 
+(1)Institute of Biological, Environmental and Rural Science, Aberystwyth
+University, Aberystwyth SY233EB, UK.
+(2)Structural Bioinformatics Lab, Department of Experimental and Health Sciences,
+University Pompeu Fabra, 08003 Barcelona, Spain.
+
+The angiotensin-converting enzyme 2 (ACE2) is the receptor used by SARS-CoV and
+SARS-CoV-2 coronaviruses to attach to cells via the receptor-binding domain (RBD)
+of their viral spike protein. Since the start of the COVID-19 pandemic, several
+structures of protein complexes involving ACE2 and RBD as well as monoclonal
+antibodies and nanobodies have become available. We have leveraged the structural
+data to design peptides to target the interaction between the RBD of SARS-CoV-2
+and ACE2 and SARS-CoV and ACE2, as contrasting exemplar, as well as the
+dimerization surface of ACE2 monomers. The peptides were modelled using our
+original method: PiPreD that uses native elements of the interaction between the 
+targeted protein and cognate partner(s) that are subsequently included in the
+designed peptides. These peptides recapitulate stretches of residues present in
+the native interface plus novel and highly diverse conformations surrogating key 
+interactions at the interface. To facilitate the access to this information we
+have created a freely available and dedicated web-based repository, PepI-Covid19 
+database, providing convenient access to this wealth of information to the
+scientific community with the view of maximizing its potential impact in the
+development of novel therapeutic and diagnostic agents.
+
+DOI: 10.3390/ijms222111627 
+PMCID: PMC8584250
+PMID: 34769056  [Indexed for MEDLINE]
+

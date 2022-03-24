@@ -1,0 +1,46 @@
+
+1. Microb Cell Fact. 2012 Sep 3;11:118. doi: 10.1186/1475-2859-11-118.
+
+A dual tag system for facilitated detection of surface expressed proteins in
+Escherichia coli.
+
+Jarmander J(1), Gustavsson M, Do TH, Samuelson P, Larsson G.
+
+Author information: 
+(1)School of Biotechnology, Division of Bioprocess Technology, Royal Institute of
+Technology, KTH, Stockholm, SE, 106 91, Sweden.
+
+BACKGROUND: The discovery of the autotransporter family has provided a mechanism 
+for surface expression of proteins in laboratory strains of Escherichia coli. We 
+have previously reported the use of the AIDA-I autotransport system to express
+the Salmonella enterica serovar Enteritidis proteins SefA and H:gm. The SefA
+protein was successfully exposed to the medium, but the orientation of H:gm in
+the outer membrane could not be determined due to proteolytic cleavage of the
+N-terminal detection-tag. The goal of the present work was therefore to construct
+a vector containing elements that facilitates analysis of surface expression,
+especially for proteins that are sensitive to proteolysis or otherwise difficult 
+to express.
+RESULTS: The surface expression system pAIDA1 was created with two detection tags
+flanking the passenger protein. Successful expression of SefA and H:gm on the
+surface of E. coli was confirmed with fluorescently labeled antibodies specific
+for the N-terminal His6-tag and the C-terminal Myc-tag. While both tags were
+detected during SefA expression, only the Myc-tag could be detected for H:gm. The
+negative signal indicates a proteolytic cleavage of this protein that removes the
+His6-tag facing the medium.
+CONCLUSIONS: Expression levels from pAIDA1 were comparable to or higher than
+those achieved with the formerly used vector. The presence of the Myc- but not of
+the His6-tag on the cell surface during H:gm expression allowed us to confirm the
+hypothesis that this fusion protein was present on the surface and oriented
+towards the cell exterior. Western blot analysis revealed degradation products of
+the same molecular weight for SefA and H:gm. The size of these fragments suggests
+that both fusion proteins have been cleaved at a specific site close to the
+C-terminal end of the passenger. This proteolysis was concluded to take place
+either in the outer membrane or in the periplasm. Since H:gm was cleaved to a
+much greater extent then the three times smaller SefA, it is proposed that the
+longer translocation time for the larger H:gm makes it more susceptible to
+proteolysis.
+
+DOI: 10.1186/1475-2859-11-118 
+PMCID: PMC3511212
+PMID: 22943700  [Indexed for MEDLINE]
+

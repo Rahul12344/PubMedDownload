@@ -1,0 +1,55 @@
+
+1. ACS Pharmacol Transl Sci. 2021 Aug 30;4(5):1499-1513. doi:
+10.1021/acsptsci.1c00078. eCollection 2021 Oct 8.
+
+Physiologically Based Pharmacokinetic/Pharmacodynamic Model for the Treatment of 
+Dengue Infections Applied to the Broad Spectrum Antiviral Soraphen A.
+
+Rox K(1)(2)(3), Heyner M(4)(5), Krull J(1), Harmrolfs K(6), Rinne V(7), Hokkanen 
+J(7), Perez Vilaro G(8), Díez J(8), Müller R(2)(6), Kröger A(4)(5), Sugiyama
+Y(3), Brönstrup M(1)(2).
+
+Author information: 
+(1)Department of Chemical Biology, Helmholtz Centre for Infection Research (HZI),
+Inhoffenstrasse 7, 38124 Braunschweig, Germany.
+(2)German Centre for Infection Research (DZIF), Partner-Site
+Hannover-Braunschweig, 38124 Braunschweig, Germany.
+(3)Sugiyama Laboratory, RIKEN Baton Zone Program, 1-7-22 Suehiro-cho, Tsurumi-ku,
+Yokohama, Kanagawa, 230-0045, Japan.
+(4)Research Group Innate Immunity and Infection, Helmholtz Centre for Infection
+Research (HZI), Inhoffenstrasse 7, 38124 Braunschweig, Germany.
+(5)Institute for Medical Microbiology and Hospital Hygiene, Otto-von-Guericke
+University Magdeburg, Leipziger Strasse 44, 39120 Magdeburg, Germany.
+(6)Department of Microbial Natural Products, Helmholtz Institute for
+Pharmaceutical Research Saarland, Helmholtz Centre for Infection Research (HZI), 
+Campus E 8.1, 66123 Saarbrücken, Germany.
+(7)Admesope Ltd, Typpitie 1, 90620 Oulu, Finland.
+(8)Departament de Ciències Experimentals i de la Salut, Universitat Pompeu Fabra,
+Dr. Aiguader, 88, 08003 Barcelona, Spain.
+
+While a drug treatment is unavailable, the global incidence of Dengue virus
+(DENV) infections and its associated severe manifestations continues to rise. We 
+report the construction of the first physiologically based
+pharmacokinetic/pharmacodynamic (PBPK/PD) model that predicts viremia levels in
+relevant target organs based on preclinical data with the broad spectrum
+antiviral soraphen A (SorA), an inhibitor of the host cell target
+acetyl-CoA-carboxylase. SorA was highly effective against DENV in vitro (EC50 =
+4.7 nM) and showed in vivo efficacy by inducing a significant reduction of viral 
+load in the spleen and liver of IFNAR-/- mice infected with DENV-2. PBPK/PD
+predictions for SorA matched well with the experimental infection data. Transfer 
+to a human PBPK/PD model for DENV to mimic a clinical scenario predicted a
+reduction in viremia by more than one log10 unit for an intravenous infusion
+regimen of SorA. The PBPK/PD model is applicable to any DENV drug lead and, thus,
+represents a valuable tool to accelerate and facilitate DENV drug discovery and
+development.
+
+© 2021 American Chemical Society.
+
+DOI: 10.1021/acsptsci.1c00078 
+PMCID: PMC8506605 [Available on 2022-08-30]
+PMID: 34661071 
+
+Conflict of interest statement: The authors declare the following competing
+financial interest(s): Y.S. is a science advisory board member of SimCyp, Cetara.
+The other authors declare no conflict of interest.
+

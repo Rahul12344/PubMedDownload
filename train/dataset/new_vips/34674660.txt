@@ -1,0 +1,55 @@
+
+1. BMC Med Imaging. 2021 Oct 21;21(1):154. doi: 10.1186/s12880-021-00681-6.
+
+GACDN: generative adversarial feature completion and diagnosis network for
+COVID-19.
+
+Zhu Q(1)(2), Ye H(1), Sun L(1), Li Z(1), Wang R(1), Shi F(3), Shen D(4)(5), Zhang
+D(1).
+
+Author information: 
+(1)College of Computer Science and Technology, Nanjing University of Aeronautics 
+and Astronautics, Nanjing, 211106, China.
+(2)Corroborative Innovation Center of Novel Software Technology and
+Industrialization, Nanjing, 210093, China.
+(3)Department of Research and Development, Shanghai United Imaging Intelligence
+Co., Ltd., Shanghai, 201807, China.
+(4)School of Biomedical Engineering, ShanghaiTech University, Shanghai, China.
+dinggang.shen@gmail.com.
+(5)Department of Research and Development, Shanghai United Imaging Intelligence
+Co., Ltd., Shanghai, 201807, China. dinggang.shen@gmail.com.
+
+BACKGROUND: The outbreak of coronavirus disease 2019 (COVID-19) causes tens of
+million infection world-wide. Many machine learning methods have been proposed
+for the computer-aided diagnosis between COVID-19 and community-acquired
+pneumonia (CAP) from chest computed tomography (CT) images. Most of these methods
+utilized the location-specific handcrafted features based on the segmentation
+results to improve the diagnose performance. However, the prerequisite
+segmentation step is time-consuming and needs the intervention by lots of expert 
+radiologists, which cannot be achieved in the areas with limited medical
+resources.
+METHODS: We propose a generative adversarial feature completion and diagnosis
+network (GACDN) that simultaneously generates handcrafted features by radiomic
+counterparts and makes accurate diagnoses based on both original and generated
+features. Specifically, we first calculate the radiomic features from the CT
+images. Then, in order to fast obtain the location-specific handcrafted features,
+we use the proposed GACDN to generate them by its corresponding radiomic
+features. Finally, we use both radiomic features and location-specific
+handcrafted features for COVID-19 diagnosis.
+RESULTS: For the performance of our generated location-specific handcrafted
+features, the results of four basic classifiers show that it has an average of
+3.21% increase in diagnoses accuracy. Besides, the experimental results on
+COVID-19 dataset show that our proposed method achieved superior performance in
+COVID-19 vs. community acquired pneumonia (CAP) classification compared with the 
+state-of-the-art methods.
+CONCLUSIONS: The proposed method significantly improves the diagnoses accuracy of
+COVID-19 vs. CAP in the condition of incomplete location-specific handcrafted
+features. Besides, it is also applicable in some regions lacking of expert
+radiologists and high-performance computing resources.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12880-021-00681-6 
+PMCID: PMC8529574
+PMID: 34674660  [Indexed for MEDLINE]
+

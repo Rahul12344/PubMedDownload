@@ -1,0 +1,44 @@
+
+1. IEEE Access. 2021 May 20;9:78341-78355. doi: 10.1109/ACCESS.2021.3082108.
+eCollection 2021.
+
+A Comparative NLP-Based Study on the Current Trends and Future Directions in
+COVID-19 Research.
+
+Bose P(1), Roy S(2), Ghosh P(1).
+
+Author information: 
+(1)Department of Computer ScienceVirginia Commonwealth University Richmond VA
+23284 USA.
+(2)Department of GeneticsUniversity of North Carolina at Chapel Hill Chapel Hill 
+NC 27515 USA.
+
+COVID-19 is a global health crisis that has altered human life and still promises
+to create ripples of death and destruction in its wake. The sea of scientific
+literature published over a short time-span to understand and mitigate this
+global phenomenon necessitates concerted efforts to organize our findings and
+focus on the unexplored facets of the disease. In this work, we applied natural
+language processing (NLP) based approaches on scientific literature published on 
+COVID-19 to infer significant keywords that have contributed to our social,
+economic, demographic, psychological, epidemiological, clinical, and medical
+understanding of this pandemic. We identify key terms appearing in COVID
+literature that vary in representation when compared to other virus-borne
+diseases such as MERS, Ebola, and Influenza. We also identify countries, topics, 
+and research articles that demonstrate that the scientific community is still
+reacting to the short-term threats such as transmissibility, health risks,
+treatment plans, and public policies, underpinning the need for collective
+international efforts towards long-term immunization and drug-related challenges.
+Furthermore, our study highlights several long-term research directions that are 
+urgently needed for COVID-19 such as: global collaboration to create
+international open-access data repositories, policymaking to curb future
+outbreaks, psychological repercussions of COVID-19, vaccine development for
+SARS-CoV-2 variants and their long-term efficacy studies, and mental health
+issues in both children and elderly.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more 
+information, see https://creativecommons.org/licenses/by/4.0/.
+
+DOI: 10.1109/ACCESS.2021.3082108 
+PMCID: PMC8545210
+PMID: 34786315 
+

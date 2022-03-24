@@ -1,0 +1,35 @@
+
+1. Viruses. 2021 Oct 22;13(11). pii: 2131. doi: 10.3390/v13112131.
+
+Repeated MDA5 Gene Loss in Birds: An Evolutionary Perspective.
+
+Krchlíková V(1), Hron T(1), Těšický M(2), Li T(2), Hejnar J(1), Vinkler M(2),
+Elleder D(1).
+
+Author information: 
+(1)Institute of Molecular Genetics of the Czech Academy of Sciences, 14220
+Prague, Czech Republic.
+(2)Department of Zoology, Faculty of Science, Charles University, 12843 Prague,
+Czech Republic.
+
+Two key cytosolic receptors belonging to the retinoic acid-inducible gene I
+(RIG-I)-like receptor (RLR) family sense the viral RNA-derived danger signals:
+RIG-I and melanoma differentiation-associated protein 5 (MDA5). Their activation 
+establishes an antiviral state by downstream signaling that ultimately activates 
+interferon-stimulated genes (ISGs). While in rare cases RIG-I gene loss has been 
+detected in mammalian and avian species, most notably in the chicken, MDA5
+pseudogenization has only been detected once in mammals. We have screened over a 
+hundred publicly available avian genome sequences and describe an independent
+disruption of MDA5 in two unrelated avian lineages, the storks (Ciconiiformes)
+and the rallids (Gruiformes). The results of our RELAX analysis confirmed the
+absence of negative selection in the MDA5 pseudogene. In contrast to our
+prediction, we have shown, using multiple dN/dS-based approaches, that the MDA5
+loss does not appear to have resulted in any compensatory evolution in the RIG-I 
+gene, which may partially share its ligand-binding specificity. Together, our
+results indicate that the MDA5 pseudogenization may have important functional
+effects on immune responsiveness in these two avian clades.
+
+DOI: 10.3390/v13112131 
+PMCID: PMC8619217
+PMID: 34834938 
+

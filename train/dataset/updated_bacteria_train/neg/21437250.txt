@@ -1,0 +1,42 @@
+
+1. PLoS One. 2011 Mar 18;6(3):e17962. doi: 10.1371/journal.pone.0017962.
+
+Genomes of the most dangerous epidemic bacteria have a virulence repertoire
+characterized by fewer genes but more toxin-antitoxin modules.
+
+Georgiades K(1), Raoult D.
+
+Author information: 
+(1)Unité de Recherche en Maladies Infectieuses Tropicales Emergentes, CNRS-IRD
+UMR 6236, Faculté de la Médecine, Université de la Méditerranée, Marseille,
+France.
+
+BACKGROUND: We conducted a comparative genomic study based on a neutral approach 
+to identify genome specificities associated with the virulence capacity of
+pathogenic bacteria. We also determined whether virulence is dictated by rules,
+or if it is the result of individual evolutionary histories. We systematically
+compared the genomes of the 12 most dangerous pandemic bacteria for humans ("bad 
+bugs") to their closest non-epidemic related species ("controls").
+METHODOLOGY/PRINCIPAL FINDINGS: We found several significantly different features
+in the "bad bugs", one of which was a smaller genome that likely resulted from a 
+degraded recombination and repair system. The 10 Cluster of Orthologous Group
+(COG) functional categories revealed a significantly smaller number of genes in
+the "bad bugs", which lacked mostly transcription, signal transduction
+mechanisms, cell motility, energy production and conversion, and metabolic and
+regulatory functions. A few genes were identified as virulence factors, including
+secretion system proteins. Five "bad bugs" showed a greater number of poly (A)
+tails compared to the controls, whereas an elevated number of poly (A) tails was 
+found to be strongly correlated to a low GC% content. The "bad bugs" had fewer
+tandem repeat sequences compared to controls. Moreover, the results obtained from
+a principal component analysis (PCA) showed that the "bad bugs" had surprisingly 
+more toxin-antitoxin modules than did the controls.
+CONCLUSIONS/SIGNIFICANCE: We conclude that pathogenic capacity is not the result 
+of "virulence factors" but is the outcome of a virulent gene repertoire resulting
+from reduced genome repertoires. Toxin-antitoxin systems could participate in the
+virulence repertoire, but they may have developed independently of selfish
+evolution.
+
+DOI: 10.1371/journal.pone.0017962 
+PMCID: PMC3060909
+PMID: 21437250  [Indexed for MEDLINE]
+

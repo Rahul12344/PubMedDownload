@@ -1,0 +1,51 @@
+
+1. Int J Mol Sci. 2018 Jan 28;19(2). pii: E386. doi: 10.3390/ijms19020386.
+
+Structural Studies of Predicted Ligand Binding Sites and Molecular Docking
+Analysis of Slc2a4 as a Therapeutic Target for the Treatment of Cancer.
+
+Aruleba RT(1), Adekiya TA(2), Oyinloye BE(3)(4), Kappo AP(5).
+
+Author information: 
+(1)Biotechnology and Structural Biochemistry (BSB) Group, Department of
+Biochemistry and Microbiology, University of Zululand, KwaDlangezwa 3886, South
+Africa. arulebataiwo@yahoo.com.
+(2)Biotechnology and Structural Biochemistry (BSB) Group, Department of
+Biochemistry and Microbiology, University of Zululand, KwaDlangezwa 3886, South
+Africa. adekiyatalex@gmail.com.
+(3)Biotechnology and Structural Biochemistry (BSB) Group, Department of
+Biochemistry and Microbiology, University of Zululand, KwaDlangezwa 3886, South
+Africa. babatunjioe@abuad.edu.ng.
+(4)Department of Biochemistry, Afe Babalola University, PMB 5454, Ado-Ekiti
+360001, Nigeria. babatunjioe@abuad.edu.ng.
+(5)Biotechnology and Structural Biochemistry (BSB) Group, Department of
+Biochemistry and Microbiology, University of Zululand, KwaDlangezwa 3886, South
+Africa. KappoA@unizulu.ac.za.
+
+Presently, many studies have focused on exploring in silico approaches in the
+identification and development of alternative therapy for the treatment and
+management of cancer. Solute carrier family-2-member-4-gene (Slc2a4) which
+encodes glucose transporter 4 protein (GLUT4), has been identified as a promising
+therapeutic target for cancer. Though Slc2a4 is known to play a major regulatory 
+role in the pathophysiology of type 2 diabetes, emerging evidence suggests that
+successful pharmacological inhibition of this protein may lead to the development
+of a novel drug candidate for the treatment of cancer. In this study, Slc2a4
+protein sequence was retrieved and analysed using in silico approaches, and we
+identified seven putative antimicrobial peptides (AMPs; RAB1-RAB7) as
+anti-cancer. The structures of the protein and AMPs were modelled using I-TASSER 
+server, and the overall quality of the Slc2a4 model was validated using PROCHECK.
+Subsequently, the probable motifs and active site of the protein were forecasted.
+Also, the molecular interaction between the AMPs and Slc2a4 was ascertained using
+PatchDock. The result revealed that, all the AMPs are good Slc2a4 inhibitors with
+RAB1 having the highest binding affinity of 12,392 and binding energy of -39.13
+kcal/mol. Hence, this study reveals that all the generated AMPs can serve as
+therapeutic drug in treating cancer by inhibiting Slc2a4 which is responsible for
+the production of energy for cancer cells during angiogenesis. This is the first 
+report on AMPs as inhibitors of Slc2a4 for the treatment of cancer.
+
+DOI: 10.3390/ijms19020386 
+PMCID: PMC5855608
+PMID: 29382080  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

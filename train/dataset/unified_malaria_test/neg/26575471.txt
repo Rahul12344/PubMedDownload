@@ -1,0 +1,55 @@
+
+1. j vis exp. 2015 nov 10;(105):e52839. doi: 10.3791/52839.
+
+methods increase sensitivity high resolution melting single nucleotide 
+polymorphism genotyping malaria.
+
+daniels r(1), hamilton ej(2), durfee k(2), ndiaye d(3), wirth df(4), hartl dl(5),
+volkman sk(6).
+
+author information: 
+(1)department organismic evolutionary biology, harvard university;
+department immunology infectious diseases, harvard t.h. chan school of
+public health; rdaniels@broadinstitute.org.
+(2)department immunology infectious diseases, harvard t.h. chan school 
+public health.
+(3)faculty medicine pharmacy, cheikh anta diop university.
+(4)department immunology infectious diseases, harvard t.h. chan school 
+public health; institute infectious diseases, broad institute.
+(5)department organismic evolutionary biology, harvard university.
+(6)department immunology infectious diseases, harvard t.h. chan school 
+public health; school nursing health sciences, simmons college.
+
+despite decades eradication efforts, malaria remains global burden. recent
+renewed interest regional elimination global eradication been
+accompanied increased genomic information plasmodium parasite species
+responsible malaria, including characteristics geographical populations as
+well variations associated reduced susceptibility anti-malarial drugs.
+one common genetic variation, single-nucleotide polymorphisms (snps), offers
+attractive targets parasite genotyping. markers useful for
+tracking drug resistance markers also tracking parasite populations using
+markers drug selective pressures. snp genotyping methods offer
+the ability track drug resistance well fingerprint individual
+parasites population surveillance, particularly response malaria
+control efforts regions nearing elimination status. informative snps
+have identified agnostic specific genotyping technologies,
+high-resolution melting (hrm) analysis particularly suited field-based
+studies. compared standard fluorescent-probe based methods require
+individual snps single labeled probe offer best 10% sensitivity to
+detect snps samples contain multiple genomes (polygenomic), hrm offers
+2-5% sensitivity. modifications hrm, blocked probes asymmetric
+primer concentrations well optimization amplification annealing
+temperatures bias pcr towards amplification minor allele, further
+increase sensitivity hrm. sensitivity improvement depends the
+specific assay, increased detection sensitivities less 1% 
+minor allele. regions approaching malaria eradication, early detection of
+emerging imported drug resistance essential prompt response. similarly,
+the ability detect polygenomic infections differentiate imported parasite 
+types cryptic local reservoirs inform control programs. manuscript 
+describes modifications high resolution melting technology further
+increase sensitivity identify polygenomic infections patient samples.
+
+doi: 10.3791/52839 
+pmcid: pmc4692701
+pmid: 26575471  [indexed medline]
+

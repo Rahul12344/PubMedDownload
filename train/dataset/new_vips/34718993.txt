@@ -1,0 +1,43 @@
+
+1. Methods Mol Biol. 2022;2349:91-136. doi: 10.1007/978-1-0716-1585-0_6.
+
+NanoSIP: NanoSIMS Applications for Microbial Biology.
+
+Pett-Ridge J(1), Weber PK(2).
+
+Author information: 
+(1)Lawrence Livermore National Lab, Physical and Life Science Directorate,
+Livermore, CA, USA. pettridge2@llnl.gov.
+(2)Lawrence Livermore National Lab, Physical and Life Science Directorate,
+Livermore, CA, USA. weber21@llnl.gov.
+
+High-resolution imaging with secondary ion mass spectrometry (nanoSIMS) has
+become a standard method in systems biology and environmental biogeochemistry and
+is broadly used to decipher ecophysiological traits of environmental
+microorganisms, metabolic processes in plant and animal tissues, and
+cross-kingdom symbioses. When combined with stable isotope-labeling-an approach
+we refer to as nanoSIP-nanoSIMS imaging offers a distinctive means to quantify
+net assimilation rates and stoichiometry of individual cell-sized particles in
+both low- and high-complexity environments. While the majority of nanoSIP studies
+in environmental and microbial biology have focused on nitrogen and carbon
+metabolism (using 15N and 13C tracers), multiple advances have pushed the
+capabilities of this approach in the past decade. The development of a
+high-brightness oxygen ion source has enabled high-resolution metal analyses that
+are easier to perform, allowing quantification of metal distribution in cells and
+environmental particles. New preparation methods, tools for automated data
+extraction from large data sets, and analytical approaches that push the limits
+of sensitivity and spatial resolution have allowed for more robust
+characterization of populations ranging from marine archaea to fungi and viruses.
+NanoSIMS studies continue to be enhanced by correlation with orthogonal imaging
+and 'omics approaches; when linked to molecular visualization methods, such as in
+situ hybridization and antibody labeling, these techniques enable in situ
+function to be linked to microbial identity and gene expression. Here we present 
+an updated description of the primary materials, methods, and calculations used
+for nanoSIP, with an emphasis on recent advances in nanoSIMS applications, key
+methodological steps, and potential pitfalls.
+
+© 2022. Springer Science+Business Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/978-1-0716-1585-0_6 
+PMID: 34718993 
+

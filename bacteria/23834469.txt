@@ -1,0 +1,33 @@
+
+1. J Med Chem. 2013 Aug 8;56(15):6146-55. doi: 10.1021/jm4006302. Epub 2013 Jul 19.
+
+Structure optimization of 2-benzamidobenzoic acids as PqsD inhibitors for
+Pseudomonas aeruginosa infections and elucidation of binding mode by SPR, STD
+NMR, and molecular docking.
+
+Weidel E(1), de Jong JC, Brengel C, Storz MP, Braunshausen A, Negri M, Plaza A,
+Steinbach A, Müller R, Hartmann RW.
+
+Author information: 
+(1)Helmholtz-Institute for Pharmaceutical Research Saarland (HIPS) , Department
+of Drug Design and Optimization, Campus C2.3, 66123 Saarbrücken, Germany.
+
+Pseudomonas aeruginosa employs a characteristic pqs quorum sensing (QS) system
+that functions via the signal molecules PQS and its precursor HHQ. They control
+the production of a number of virulence factors and biofilm formation. Recently, 
+we have shown that sulfonamide substituted 2-benzamidobenzoic acids, which are
+known FabH inhibitors, are also able to inhibit PqsD, the enzyme catalyzing the
+last and key step in the biosynthesis of HHQ. Here, we describe the further
+optimization and characterization of this class of compounds as PqsD inhibitors. 
+Structural modifications showed that both the carboxylic acid ortho to the amide 
+and 3'-sulfonamide are essential for binding. Introduction of substituents in the
+anthranilic part of the molecule resulted in compounds with IC50 values in the
+low micromolar range. Binding mode investigations by SPR with wild-type and
+mutated PqsD revealed that this compound class does not bind into the active
+center of PqsD but in the ACoA channel, preventing the substrate from accessing
+the active site. This binding mode was further confirmed by docking studies and
+STD NMR.
+
+DOI: 10.1021/jm4006302 
+PMID: 23834469  [Indexed for MEDLINE]
+

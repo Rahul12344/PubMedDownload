@@ -1,0 +1,45 @@
+
+1. AI Ethics. 2021 May 6:1-16. doi: 10.1007/s43681-021-00056-1. [Epub ahead of
+print]
+
+The ethical use of high-performance computing and artificial intelligence:
+fighting COVID-19 at Barcelona Supercomputing Center.
+
+Cortés U(1)(2), Cortés A(2), Garcia-Gasulla D(2), Pérez-Arnal R(2),
+Álvarez-Napagao S(2), Àlvarez E(1).
+
+Author information: 
+(1)Universitat Politècnica de Catalunya, Edifici Omega 205, Jordi Girona 29,
+08034 Barcelona, Spain.
+(2)Barcelona Supercomputing Center, Edifici Omega 201, Jordi Girona 1 and 3,
+08034 Barcelona, Spain.
+
+The COVID-19 pandemic has created an extraordinary medical, economic and
+humanitarian emergency. Artificial intelligence, in combination with other
+digital technologies, is being used as a tool to support the fight against the
+viral pandemic that has affected the entire world since the beginning of 2020.
+Barcelona Supercomputing Center collaborates in the battle against the
+coronavirus in different areas: the application of bioinformatics for the
+research on the virus and its possible treatments, the use of artificial
+intelligence, natural language processing and big data techniques to analyse the 
+spread and impact of the pandemic, and the use of the MareNostrum 4 supercomputer
+to enable massive analysis on COVID-19 data. Many of these activities have
+included the use of personal and sensitive data of citizens, which, even during a
+pandemic, should be treated and handled with care. In this work we discuss our
+approach based on an ethical, transparent and fair use of this information, an
+approach aligned with the guidelines proposed by the European Union.
+
+© The Author(s), under exclusive licence to Springer Nature Switzerland AG 2021.
+
+DOI: 10.1007/s43681-021-00056-1 
+PMCID: PMC8101339
+PMID: 34790948 
+
+Conflict of interest statement: Conflict of interestXX belongs to a research
+group with a partnership agreement with Facebook Data for Good for purely
+research purposes. The partnership does not involve any financial or monetary
+relationship of any kind. The rest of the authors certify that they have NO
+affiliations with or involvement in any organisation or entity with any financial
+interest, or non-financial interest in the subject matter or materials discussed 
+in this manuscript.
+

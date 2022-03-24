@@ -1,0 +1,34 @@
+
+1. Biochemistry. 2018 Aug 21;57(33):4967-4971. doi: 10.1021/acs.biochem.8b00616.
+Epub 2018 Jul 10.
+
+Stereospecific Radical-Mediated B12-Dependent Methyl Transfer by the Fosfomycin
+Biosynthesis Enzyme Fom3.
+
+McLaughlin MI, van der Donk WA.
+
+Fom3, the antepenultimate enzyme in the fosfomycin biosynthetic pathway in
+Streptomyces spp., is a class B cobalamin-dependent radical SAM methyltransferase
+that catalyzes methylation of (5'-cytidylyl)-2-hydroxyethylphosphonate
+(2-HEP-CMP) to form (5'-cytidylyl)-2-hydroxypropylphosphonate (2-HPP-CMP).
+Previously, the reaction of Fom3 with 2-HEP-CMP produced 2-HPP-CMP with mixed
+stereochemistry at C2. Mechanistic characterization has been challenging because 
+of insoluble expression and poor cobalamin (B12) incorporation in Escherichia
+coli. Recently, soluble E. coli expression and incorporation of cobalamin into
+Fom3 were achieved by overexpression of the BtuCEDFB cobalamin uptake system.
+Herein, we use this new method to obtain Fom3 from Streptomyces wedmorensis. We
+show that the initiator 5'-deoxyadenosyl radical stereospecifically abstracts the
+pro- R hydrogen atom from the C2 position of 2-HEP-CMP and use the downstream
+enzymes FomD and Fom4 to demonstrate that our preparation of Fom3 produces only
+(2 S)-2-HPP-CMP. Additionally, we show that the added methyl group originates
+from SAM under multiple-turnover conditions, but the first turnover uses a methyl
+donor already present on the enzyme; furthermore, cobalamin isolated from Fom3
+reaction mixtures contains methyl groups derived from SAM. These results are
+consistent with a model in which Fom3 catalyzes methyl transfer from SAM to
+cobalamin and the resulting methylcobalamin (MeCbl) is the ultimate methyl source
+for the reaction.
+
+DOI: 10.1021/acs.biochem.8b00616 
+PMCID: PMC6103835
+PMID: 29969250  [Indexed for MEDLINE]
+

@@ -1,0 +1,48 @@
+
+1. Cell Host Microbe. 2021 Nov 30. pii: S1931-3128(21)00512-6. doi:
+10.1016/j.chom.2021.11.006. [Epub ahead of print]
+
+Upper and lower respiratory tract correlates of protection against respiratory
+syncytial virus following vaccination of nonhuman primates.
+
+Zohar T(1), Hsiao JC(1), Mehta N(2), Das J(2), Devadhasan A(2), Karpinski W(2),
+Callahan C(3), Citron MP(3), DiStefano DJ(3), Touch S(3), Wen Z(3), Sachs JR(3), 
+Cejas PJ(3), Espeseth AS(3), Lauffenburger DA(4), Bett AJ(5), Alter G(6).
+
+Author information: 
+(1)Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA 02139, USA; Department
+of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA
+02139, USA.
+(2)Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA 02139, USA.
+(3)Merck & Co., Inc., Kenilworth, NJ 07033, USA.
+(4)Department of Biological Engineering, Massachusetts Institute of Technology,
+Cambridge, MA 02139, USA.
+(5)Merck & Co., Inc., Kenilworth, NJ 07033, USA. Electronic address:
+andrew_bett@merck.com.
+(6)Ragon Institute of MGH, MIT, and Harvard, Cambridge, MA 02139, USA. Electronic
+address: galter@mgh.harvard.edu.
+
+Respiratory syncytial virus (RSV) infection is a major cause of respiratory
+illness in infants and the elderly. Although several vaccines have been
+developed, none have succeeded in part due to our incomplete understanding of the
+correlates of immune protection. While both T cells and antibodies play a role,
+emerging data suggest that antibody-mediated mechanisms alone may be sufficient
+to provide protection. Therefore, to map the humoral correlates of immunity
+against RSV, antibody responses across six different vaccines were profiled in a 
+highly controlled nonhuman primate-challenge model. Viral loads were monitored in
+both the upper and lower respiratory tracts, and machine learning was used to
+determine the vaccine platform-agnostic antibody features associated with
+protection. Upper respiratory control was associated with virus-specific IgA
+levels, neutralization, and complement activity, whereas lower respiratory
+control was associated with Fc-mediated effector mechanisms. These findings
+provide critical compartment-specific insights toward the rational development of
+future vaccines.
+
+Copyright © 2021. Published by Elsevier Inc.
+
+DOI: 10.1016/j.chom.2021.11.006 
+PMID: 34879230 
+
+Conflict of interest statement: Declaration of interests Galit Alter is a founder
+of SeromYx Systems.
+

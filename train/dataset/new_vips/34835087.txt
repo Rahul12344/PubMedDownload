@@ -1,0 +1,34 @@
+
+1. Viruses. 2021 Nov 15;13(11). pii: 2281. doi: 10.3390/v13112281.
+
+PDZ-Containing Proteins Targeted by the ACE2 Receptor.
+
+Caillet-Saguy C(1), Wolff N(1).
+
+Author information: 
+(1)Unité Récepteurs-Canaux, Institut Pasteur, UMR CNRS 3571, 75015 Paris, France.
+
+Angiotensin-converting enzyme 2 (ACE2) is a main receptor for SARS-CoV-2 entry to
+the host cell. Indeed, the first step in viral entry is the binding of the viral 
+trimeric spike (S) protein to ACE2. Abundantly present in human epithelial cells 
+of many organs, ACE2 is also expressed in the human brain. ACE2 is a type I
+membrane protein with an extracellular N-terminal peptidase domain and a
+C-terminal collectrin-like domain that ends with a single transmembrane helix and
+an intracellular 44-residue segment. This C-terminal segment contains a
+PDZ-binding motif (PBM) targeting protein-interacting domains called
+PSD-95/Dlg/ZO-1 (PDZ). Here, we identified the human PDZ specificity profile of
+the ACE2 PBM using the high-throughput holdup assay and measuring the binding
+intensities of the PBM of ACE2 against the full human PDZome. We discovered 14
+human PDZ binders of ACE2 showing significant binding with dissociation
+constants' values ranging from 3 to 81 μM. NHERF, SHANK, and SNX27 proteins found
+in this study are involved in protein trafficking. The PDZ/PBM interactions with 
+ACE2 could play a role in ACE2 internalization and recycling that could be of
+benefit for the virus entry. Interestingly, most of the ACE2 partners we
+identified are expressed in neuronal cells, such as SHANK and MAST families, and 
+modifications of the interactions between ACE2 and these neuronal proteins may be
+involved in the neurological symptoms of COVID-19.
+
+DOI: 10.3390/v13112281 
+PMCID: PMC8624105
+PMID: 34835087 
+

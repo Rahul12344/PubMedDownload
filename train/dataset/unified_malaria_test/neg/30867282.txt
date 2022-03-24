@@ -1,0 +1,41 @@
+
+1. proc natl acad sci u a. 2019 mar 26;116(13):6244-6249. doi:
+10.1073/pnas.1810239116. epub 2019 mar 13.
+
+fractional coalescent.
+
+mashayekhi s(1), beerli p(2).
+
+author information: 
+(1)department scientific computing, florida state university, tallahassee, fl 
+32306 smashayekhi@fsu.edu.
+(2)department scientific computing, florida state university, tallahassee, fl 
+32306.
+
+an approach coalescent, fractional coalescent (f-coalescent), is
+introduced. derivation based discrete-time cannings population
+model variance number offspring depends parameter
+α. additional parameter α affects variability patterns the
+waiting times; values [formula: see text] lead increase short time
+intervals, occasionally allow long time intervals. [formula:
+see text], f-coalescent kingman's n-coalescent equivalent. the
+distribution time recent common ancestor probability
+that n genes descend ancestral genes time interval length for
+the f-coalescent derived. f-coalescent implemented the
+population genetic model inference software migrate simulation studies suggest
+that possible accurately estimate α values data generated
+with known α values f-coalescent detect potential environmental 
+heterogeneity within population. bayes factor comparisons simulated data
+with [formula: see text] real data (h1n1 influenza malaria parasites)
+showed improved model fit f-coalescent n-coalescent. the
+development f-coalescent inclusion inference program
+migrate facilitates testing deviations n-coalescent.
+
+copyright © 2019 author(s). published pnas.
+
+doi: 10.1073/pnas.1810239116 
+pmcid: pmc6442577
+pmid: 30867282  [indexed medline]
+
+conflict interest statement: authors declare conflict interest.
+

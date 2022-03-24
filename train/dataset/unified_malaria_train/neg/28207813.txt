@@ -1,0 +1,78 @@
+
+1. plos genet. 2017 feb 16;13(2):e1006508. doi: 10.1371/journal.pgen.1006508.
+ecollection 2017 feb.
+
+interacting networks resistance, virulence core machinery genes identified
+by genome-wide epistasis analysis.
+
+skwark mj(1), croucher nj(2), puranen s(3), chewapreecha c(4), pesonen m(3), xu
+yy(3), turner p(5)(6), harris sr(7), beres sb(8), musser jm(8)(9), parkhill j(7),
+bentley sd(7), aurell e(10)(11)(12), corander j(7)(13)(14)(15).
+
+author information: 
+(1)department chemistry, vanderbilt university, nashville, tn, united states
+of america.
+(2)department infectious disease epidemiology, imperial college london,
+london, united kingdom.
+(3)department computer science, aalto university, espoo, finland.
+(4)department medicine, university cambridge, cambridge, united kingdom.
+(5)shoklo malaria research unit, mahidol-oxford tropical medicine research unit, 
+faculty tropical medicine, mahidol university, mae sot, thailand.
+(6)centre tropical medicine, nuffield department medicine, university of
+oxford, oxford, united kingdom.
+(7)pathogen genomics, wellcome trust sanger institute, cambridge, united kingdom.
+(8)center molecular translational human infectious diseases research,
+department pathology genomic medicine, houston methodist research
+institute, houston methodist hospital, houston, texas, united states of
+america.
+(9)departments pathology laboratory medicine microbiology and
+immunology, weill cornell medical college, new york, new york, united states of
+america.
+(10)department computational biology, kth-royal institute technology,
+stockholm, sweden.
+(11)departments applied physics computer science, aalto university, espoo,
+finland.
+(12)institute theoretical physics, chinese academy sciences, beijing,
+china.
+(13)department mathematics statistics, university helsinki, helsinki,
+finland.
+(14)department biostatistics, university oslo, oslo, norway.
+(15)department veterinary medicine, university cambridge, cambridge, united
+kingdom.
+
+comment in
+    plos genet. 2017 feb 16;13(2):e1006558.
+
+recent advances scale diversity population genomic datasets for
+bacteria provide potential genome-wide patterns co-evolution be
+studied resolution individual bases. describe new statistical
+method, genomedca, uses recent advances computational structural biology
+to identify polymorphic loci strongest co-evolutionary pressures.
+we apply genomedca two large population data sets representing major human
+pathogens streptococcus pneumoniae (pneumococcus) streptococcus pyogenes
+(group streptococcus). pneumococcus identified 5,199 putative epistatic 
+interactions 1,936 sites. three-quarters links between
+sites within pbp2x, pbp1a pbp2b genes, sequences are
+critical determining non-susceptibility beta-lactam antibiotics. a
+network-based analysis found genes also coupled encoding
+dihydrofolate reductase, changes underlie trimethoprim resistance.
+distinct antibiotic resistance genes, large network component 384
+protein coding sequences encompassed many genes critical basic cellular
+functions, another distinct component included genes associated with
+virulence. group streptococcus (gas) data set population represents a
+clonal population relatively little genetic variation high level of
+linkage disequilibrium across genome. despite this, able pinpoint 
+two rna pseudouridine synthases, strongly linked separate
+set loci across chromosome, representing biologically plausible targets of
+co-selection. population genomic analysis method applied identifies
+statistically significantly co-evolving locus pairs, potentially arising from
+fitness selection interdependence reflecting underlying protein-protein
+interactions, genes whose product activities contribute phenotype.
+this discovery approach greatly enhances future potential epistasis
+analysis systems biology, complement genome-wide association studies 
+as means formulating hypotheses targeted experimental work.
+
+doi: 10.1371/journal.pgen.1006508 
+pmcid: pmc5312804
+pmid: 28207813  [indexed medline]
+

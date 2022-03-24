@@ -1,0 +1,56 @@
+
+1. Gene. 2020 May 5;737:144450. doi: 10.1016/j.gene.2020.144450. Epub 2020 Feb 11.
+
+mRNA profiling reveals response regulators of decreased fungal keratitis symptoms
+in a tree shrew model.
+
+Jia J(1), Wang W(1), Kuang D(1), Lu C(1), Li N(1), Tong P(1), Han Y(1), Sun X(1),
+Dai J(2).
+
+Author information: 
+(1)Institute of Medical Biology, Chinese Academy of Medical Science and Peking
+Union Medical College, Kunming, China; Yunnan Key Laboratory of Vaccine Research 
+and Development on Severe Infectious Diseases, Kunming, China; Yunnan Innovation 
+Team of Standardization and Application Research in Tree Shrew, Kunming, China.
+(2)Institute of Medical Biology, Chinese Academy of Medical Science and Peking
+Union Medical College, Kunming, China; Yunnan Key Laboratory of Vaccine Research 
+and Development on Severe Infectious Diseases, Kunming, China; Yunnan Innovation 
+Team of Standardization and Application Research in Tree Shrew, Kunming, China.
+Electronic address: djj@imbcams.com.cn.
+
+Fungal keratitis is a corneal disease with a high blindness rate caused by
+pathogenic fungal infections. The pathogenesis of fungal keratitis and the immune
+response after fungal infection are still unclear. Notably, the pathological
+features of fungal keratitis in tree shrews are similar to those in humans. In
+the present study, mRNA profiling of tree shrew corneas with fungal keratitis was
+performed. GO and KEGG enrichment analyses were performed on the differentially
+expressed mRNAs, and the GO biological process ontology was used to analyze
+functional trends in the differentially expressed mRNAs. In total, 151
+downregulated and 71 upregulated mRNAs were shared among the 7-day, 14-day and
+30-day infection groups. These differentially expressed mRNAs were significantly 
+enriched in the GO category immune response (GO: 0002376) and the KEGG pathways
+cytokine receptor binding (KEGG ID: tup04060) and cell adhesion (KEGG ID:
+tup04514). The downregulated mRNAs were significantly enriched in the corneal
+epithelial cell adhesion function. Fifty-eight initially upregulated mRNAs
+gradually decreased in expression, and these mRNAs were significantly enriched in
+the functions lipopolysaccharide (LPS) and antibacterial polypeptide recognition,
+cell differentiation, and cell rearrangement. Zeta chain of T-cell receptor
+associated protein kinase 70 (ZAP70), lymphocyte cytosolic protein 2 (LCP2), C-C 
+motif chemokine and its receptor showed high degrees of connectivity in the
+protein-protein interaction (PPI) network. We speculate that the decrease in
+symptoms of tree shrew fungal keratitis may be related to the upregulation of
+genes involved in immune regulation and macrophage colony stimulation. This study
+showed that the C-C motif chemokine and its receptor may play a key role in
+regulating tree shrew fungal keratitis, providing a theoretical basis for
+studying the pathogenesis of human fungal keratitis.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.gene.2020.144450 
+PMID: 32057930  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

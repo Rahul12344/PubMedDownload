@@ -1,0 +1,415 @@
+
+1. BMC Infect Dis. 2021 Nov 20;21(1):1170. doi: 10.1186/s12879-021-06829-7.
+
+Association between convalescent plasma treatment and mortality in COVID-19: a
+collaborative systematic review and meta-analysis of randomized clinical trials.
+
+Axfors C(1)(2), Janiaud P(#)(3), Schmitt AM(3)(4), Van't Hooft J(5), Smith ER(6),
+Haber NA(1), Abayomi A(7), Abduljalil M(8), Abdulrahman A(9)(10), Acosta-Ampudia 
+Y(11), Aguilar-Guisado M(12), Al-Beidh F(13), Alejandria MM(14), Alfonso RN(15), 
+Ali M(16), AlQahtani M(9)(17)(18), AlZamrooni A(19), Anaya JM(11), Ang MAC(20),
+Aomar IF(21), Argumanis LE(22), Averyanov A(23)(24), Baklaushev VP(24)(25),
+Balionis O(23)(26), Benfield T(27), Berry S(28), Birocco N(29), Bonifacio LB(15),
+Bowen AC(30)(31)(32), Bown A(33), Cabello-Gutierrez C(34), Camacho B(35),
+Camacho-Ortiz A(36), Campbell-Lee S(37), Cao DH(38), Cardesa A(39), Carnate
+JM(40), Castillo GJJ(15), Cavallo R(41), Chowdhury FR(42), Chowdhury FUH(43),
+Ciccone G(44), Cingolani A(45), Climacosa FMM(46), Compernolle V(47)(48), Cortez 
+CFN(15), Costa Neto A(49), D'Antico S(50), Daly J(51), Danielle F(52), Davis
+JS(30), De Rosa FG(53), Denholm JT(54)(55), Denkinger CM(56), Desmecht D(57),
+Díaz-Coronado JC(58), Díaz Ponce-Medrano JA(59), Donneau AF(60), Dumagay TE(15), 
+Dunachie S(16), Dungog CC(40), Erinoso O(61), Escasa IMS(15), Estcourt
+LJ(62)(63), Evans A(64), Evasan ALM(14), Fareli CJ(65), Fernandez-Sanchez V(66), 
+Galassi C(44), Gallo JE(67), Garcia PJ(68), Garcia PL(69), Garcia JA(70),
+Garigliany M(57), Garza-Gonzalez E(36), Gauiran DTV(15), Gaviria García PA(35),
+Giron-Gonzalez JA(71), Gómez-Almaguer D(72), Gordon AC(13)(73), Gothot A(74),
+Grass Guaqueta JS(35), Green C(75), Grimaldi D(76), Hammond NE(77), Harvala
+H(78), Heralde FM(79), Herrick J(80), Higgins AM(75), Hills TE(81)(82), Hines
+J(83), Holm K(84)(85), Hoque A(86), Hoste E(87), Ignacio JM(88), Ivanov AV(89),
+Janssen M(90), Jennings JH(83), Jha V(91)(92)(93), King RAN(79), Kjeldsen-Kragh
+J(94), Klenerman P(16), Kotecha A(83), Krapp F(95), Labanca L(52), Laing E(64),
+Landin-Olsson M(96)(97), Laterre PF(98), Lim LL(99), Lim J(14), Ljungquist
+O(100), Llaca-Díaz JM(101), López-Robles C(102), López-Cárdenas S(103),
+Lopez-Plaza I(104), Lucero JAC(15), Lundgren M(94), Macías J(105), Maganito
+SC(40), Malundo AFG(14), Manrique RD(106), Manzini PM(50), Marcos M(107), Marquez
+I(108), Martínez-Marcos FJ(109), Mata AM(110), McArthur CJ(111), McQuilten
+ZK(112)(113), McVerry BJ(114), Menon DK(115), Meyfroidt G(116), Mirasol MAL(15), 
+Misset B(117), Molton JS(118), Mondragon AV(119), Monsalve DM(11), Moradi
+Choghakabodi P(120)(121), Morpeth SC(122), Mouncey PR(123), Moutschen M(117),
+Müller-Tidow C(90), Murphy E(83), Najdovski T(124), Nichol AD(125)(126)(127),
+Nielsen H(128), Novak RM(80), O'Sullivan MVN(129)(130)(131), Olalla J(132),
+Osibogun A(133), Osikomaiya B(7), Oyonarte S(134), Pardo-Oviedo JM(135), Patel
+MC(80), Paterson DL(136), Peña-Perez CA(137), Perez-Calatayud AA(138), Pérez-Alba
+E(36), Perkina A(23)(26), Perry N(55), Pouladzadeh M(139), Poyato I(140), Price
+DJ(141)(142), Quero AKH(15), Rahman MM(43), Rahman MS(143), Ramesh M(144),
+Ramírez-Santana C(11), Rasmussen M(84)(85), Rees MA(145)(146), Rego E(49),
+Roberts JA(135)(147)(148), Roberts DJ(63)(149), Rodríguez Y(11)(150),
+Rodríguez-Baño J(151)(152), Rogers BA(153)(154), Rojas M(11), Romero A(155),
+Rowan KM(156), Saccona F(44), Safdarian M(157), Santos MCM(15), Sasadeusz
+J(54)(55), Scozzari G(158), Shankar-Hari M(159)(160), Sharma G(83), Snelling
+T(30)(31)(161)(162), Soto A(163)(164), Tagayuna PY(40), Tang A(165), Tatem G(83),
+Teofili L(166), Tong SYC(167)(168), Turgeon AF(169), Veloso JD(15), Venkatesh
+B(77)(170)(171), Ventura-Enriquez Y(172), Webb SA(125)(173), Wiese L(174), Wikén 
+C(85), Wood EM(175), Yusubalieva GM(25), Zacharowski K(176), Zarychanski R(177), 
+Khanna N(178), Moher D(179), Goodman SN(1)(180)(181), Ioannidis
+JPA(1)(181)(182)(183)(184), Hemkens LG(185)(186)(187).
+
+Author information: 
+(1)Meta-Research Innovation Center at Stanford (METRICS), Stanford University,
+Stanford, USA.
+(2)Department for Women's and Children's Health, Uppsala University, Uppsala,
+Sweden.
+(3)Department of Clinical Research, University Hospital Basel, University of
+Basel, Spitalstrasse 12, 4031, Basel, Switzerland.
+(4)Department of Medical Oncology, University of Basel, Basel, Switzerland.
+(5)Amsterdam University Medical Center, Amsterdam University, Amsterdam, The
+Netherlands.
+(6)Department of Global Health, Milken Institute School of Public Health, The
+George Washington University, Washington, USA.
+(7)Lagos State Ministry of Health, Lagos, Nigeria.
+(8)Internal Medicine, Bahrain Defence Force Hospital, Riffa, Bahrain.
+(9)Medical Team, National Task Force for Combating the Coronavirus (COVID19),
+Riffa, Bahrain.
+(10)Mohammed Bin Khalifa Cardiac Centre, Awali, Bahrain.
+(11)Center for Autoimmune Diseases Research (CREA), Universidad del Rosario,
+Bogotá, Colombia.
+(12)Infectious Diseases, Microbiology and Preventive Medicine Unit, Hospital
+Universitario Virgen del Rocío, Seville, Spain.
+(13)Surgery and Cancer, Anaesthetics, Pain Medicine and Intensive Care, Imperial 
+College London, London, UK.
+(14)Department of Medicine, Division of Infectious Diseases, University of the
+Philippines-Philippine General Hospital, Manila, Philippines.
+(15)Department of Medicine, Division of Hematology, University of the
+Philippines-Philippine General Hospital, Manila, Philippines.
+(16)Centre for Tropical Medicine and Global Health, Nuffield Department of
+Medicine, University of Oxford, Oxford, UK.
+(17)Microbiology, Infectious Diseases, Bahrain Defence Force Hospital, Riffa,
+Bahrain.
+(18)Microbiology, Royal College of Surgeons in Ireland-Medical University in
+Bahrain, Riffa, Bahrain.
+(19)Internal Medicine, Salmaniya Medical Complex, Manama, Bahrain.
+(20)Department of Laboratories, Division of Blood Bank, University of the
+Philippines-Philippine General Hospital, Manila, Philippines.
+(21)Department of Internal Medicine, Hospital Universitario San Cecilio, Granada,
+Spain.
+(22)Banco de Sangre, Instituto Nacional de Enfermedades Neoplásicas, Lima, Peru.
+(23)Pulmonary Division, Federal Scientific and Clinical Center of Specialized
+Medical Care and Medical Technologies of the Federal Medical and Biological
+Agency, Moscow, Russian Federation.
+(24)Fundamental Medicine Department, Pulmonology Scientific and Research
+Institute under Federal Medical and Biological Agency, Moscow, Russian
+Federation.
+(25)Cell Culture Laboratory, Biomedical Research, Federal Scientific and Clinical
+Center of Specialized Medical Care and Medical Technologies of the Federal
+Medical and Biological Agency, Moscow, Russian Federation.
+(26)Laboratory of Personalized Medicine, Pulmonology Scientific and Research
+Institute under Federal Medical and Biological Agency, Moscow, Russian
+Federation.
+(27)Center for Research and Disruption of Infectious Diseases, Department of
+Infectious Diseases, Copenhagen University Hospital-Amager and Hvidovre,
+Hvidovre, Denmark.
+(28)Berry Consultants, Austin, USA.
+(29)Department of Oncology, University Hospital Città della Salute e della
+Scienza di Torino, Turin, Italy.
+(30)Menzies School of Health Research, Casuarina, Australia.
+(31)Wesfarmers Centre for Vaccines and Infectious Diseases, Telethon Kids
+Institute, University of Western Australia, Nedlands, Australia.
+(32)Department of Infectious Diseases, Perth Children's Hospital, Nedlands,
+Australia.
+(33)Rare and Imported Pathogens Laboratory, Public Health England, Porton Down,
+UK.
+(34)Department Research in Virology and Mycology, Instituto Nacional de
+Enfermedades Respiratorias, Mexico City, Mexico.
+(35)Instituto Distrital de Ciencia Biotecnología e Investigación en Salud
+(IDCBIS), Bogotá, Colombia.
+(36)Department of Infectious Diseases, Universidad Autónoma de Nuevo León,
+Monterrey, Mexico.
+(37)Pathology, University of Illinois at Chicago, Chicago, USA.
+(38)Department of Medicine, Division of Nephrology, Henry Ford Hospital, Detroit,
+USA.
+(39)Clinical Department, Red Andaluza de Diseño y Traslacion de Terapias
+Avanzadas, Sevilla, Spain.
+(40)Department of Laboratories, University of the Philippines-Philippine General 
+Hospital, Manila, Philippines.
+(41)Department of Laboratory Medicine, Unit of Microbiology and Virology,
+University Hospital Città della Salute e della Scienza di Torino, Turin, Italy.
+(42)Internal Medicine, Bangabandhu Sheikh Mujib Medical University, Dhaka,
+Bangladesh.
+(43)Internal Medicine, Dhaka Medical College, Dhaka, Bangladesh.
+(44)Department of Quality and Safety in Health Care, Unit of Clinical
+Epidemiology, University Hospital Città della Salute e della Scienza di Torino,
+Turin, Italy.
+(45)Infectious Disease, Fondazione Policlinico Universitario A. Gemelli IRCCS,
+Rome, Italy.
+(46)Department of Medical Microbiology, University of Philippines Manila, Manila,
+Philippines.
+(47)Blood Services, Belgian Red Cross-Flanders, Mechelen, Belgium.
+(48)Faculty of Medicine and Health Sciences, Ghent University, Ghent, Belgium.
+(49)Instituto D'Or de Pesquisa e Ensino (IDOR), São Paulo, Brazil.
+(50)Department of Laboratory Medicine, Unit of Transfusion Medicine, University
+Hospital Città della Salute e della Scienza di Torino, Turin, Italy.
+(51)Australian Red Cross Lifeblood, Melbourne, Australia.
+(52)Department of Laboratory Medicine, Blood Bank, University Hospital Città
+della Salute e della Scienza di Torino, Turin, Italy.
+(53)Department of Medical Sciences, Unit of Infective Diseases, University
+Hospital Città della Salute e della Scienza di Torino, Turin, Italy.
+(54)Victorian Infectious Diseases Service, The Royal Melbourne Hospital,
+Melbourne, Australia.
+(55)Doherty Department, University of Melbourne, The Peter Doherty Institute for 
+Infection and Immunity, Melbourne, Australia.
+(56)Center of Infectious Diseases, Division of Tropical Medicine, Heidelberg
+University Hospital, Heidelberg, Germany.
+(57)Animal Pathology, Liège University, Liège, Belgium.
+(58)Deparment of Internal Medicine, Universidad CES, Medellín, Colombia.
+(59)Centro Medico Naval, Mexico City, Mexico.
+(60)Public Health Department, Biostatistic, Liège University, Liège, Belgium.
+(61)Lagos State University Teaching Hospital, Lagos, Nigeria.
+(62)Clinical, Research and Development, NHS Blood and Transplant, Oxford, UK.
+(63)Radcliffe Department of Medicine and BRC Haematology Theme, University of
+Oxford, Oxford, UK.
+(64)Clinical Trials Unit, NHS Blood and Transplant, Cambridge, UK.
+(65)CENETEC (National Center for Health Technology Excellence), Mexico City,
+Mexico.
+(66)Blood Bank, Centro Médico Naval and FES Iztacala UNAM, Mexico City, Mexico.
+(67)Genoma CES, Universidad CES, Medellín, Colombia.
+(68)Facultad de Salud Pública y Administración, Universidad Peruana Cayetano
+Heredia, Lima, Peru.
+(69)Servicio de Hemoterapia y Banco de Sangre, Instituto Nacional de Salud del
+Niño San Borja, Lima, Peru.
+(70)Department of Haematology, Centro Transfusional Tejidos y Celulas de Granada,
+Granada, Spain.
+(71)Department of Infectious Diseases, Hospital Universitario Puerta del Mar,
+Cádiz, Spain.
+(72)Department of Hematology, Universidad Autónoma de Nuevo León, Monterrey,
+Mexico.
+(73)Intensive Care, Imperial College Healthcare NHS Trust, London, UK.
+(74)Immunohematology, Liège University Hospital, Liège, Belgium.
+(75)ANZIC-RC, School of Public Health and Preventive Medicine, Monash University,
+Melbourne, Australia.
+(76)Intensive Care Medicine, Cliniques Universitaires de Bruxelles-Erasme,
+Université Libre de Bruxelles, Brussels, Belgium.
+(77)The George Institute for Global Health, Sydney and New Delhi, Sydney,
+Australia.
+(78)Microbiology Services, NHS Blood and Transplant, London, UK.
+(79)Department of Biochemistry and Molecular Biology, University of the
+Philippines, Manila, Philippines.
+(80)Medicine, Division of Infectious Diseases, Immunology, and International
+Medicine, University of Illinois at Chicago, Chicago, USA.
+(81)Medical Research Institute of New Zealand, Wellington, New Zealand.
+(82)Auckland City Hospital, Auckland, New Zealand.
+(83)Division of Pulmonary and Critical Care Medicine, Department of Internal
+Medicine, Henry Ford Hospital, Detroit, USA.
+(84)Division of Infection Medicine, Department of Clinical Sciences, Lund
+University, Lund, Sweden.
+(85)Infectious Diseases, Skåne University Hospital, Lund, Sweden.
+(86)Blood Transfusion, Sheikh Hasina National Institute of Burn and Plastic
+Surgery, Dhaka, Bangladesh.
+(87)Intensive Care Medicine, Gand University Hospital, Gent, Belgium.
+(88)Department of Neumology and Pulmonology, Hospital Quiron de Marbella, Málaga,
+Spain.
+(89)Center for Precision Genome Editing and Genetic Technologies for Biomedicine,
+Engelhardt Institute of Molecular Biology of the Russian Academy of Sciences,
+Moscow, Russian Federation.
+(90)Department of Hematology, Oncology and Rheumatology, Internal Medicine V,
+University Hospital Heidelberg, Heidelberg, Germany.
+(91)The George Institute for Global Health, Sydney and New Delhi, New Delhi,
+India.
+(92)School of Public Health, Imperial College, London, UK.
+(93)Prasanna School of Public Health, Manipal Academy of Higher Education,
+Manipal, India.
+(94)Clinical Immunology and Transfusion Medicine, University and Regional
+Laboratories, Region Skåne, Lund, Sweden.
+(95)Facultad de Medicina, Instituto de Medicina Tropical Alexander Von Humboldt, 
+Universidad Peruana Cayetano Heredia, Lima, Peru.
+(96)Department of Clinical Sciences, Lund University, Lund, Sweden.
+(97)Department of Endocrinology, Skåne University Hospital, Lund, Sweden.
+(98)Intensive Care Medicine, Saint-Luc University Hospital, Brussels, Belgium.
+(99)Eastern Health, Box Hill, Australia.
+(100)Clinical Sciences, Clinical Infection Medicine, Lund University, Malmo,
+Sweden.
+(101)Department of Clinical Pathology, Universidad Autónoma de Nuevo León,
+Monterrey, Mexico.
+(102)Department of Infectious Diseases, Hospital Universitario Virgen de Las
+Nieves, Granada, Spain.
+(103)Department of Infectious Diseases, Hospital Universitario de Jerez de La
+Frontera, Jerez de la Frontera, Spain.
+(104)Division of Transfusion Medicine, Department of Pathology, Henry Ford
+Hospital, Detroit, USA.
+(105)Department of Infectious Diseases, Hospital Universitario de Valme, Sevilla,
+Spain.
+(106)Epidemiology and Biostatistics Research Group, Universidad CES, Medellín,
+Colombia.
+(107)Department of Internal Medicine, Hospital Quiron de Malaga, Málaga, Spain.
+(108)Department of Infectious Diseases, Hospital Regional Universitario de
+Malaga, Málaga, Spain.
+(109)Infectious Disease Unit, Hospital Universitario Juan Ramon Jimenez, Huelva, 
+Spain.
+(110)Department of Internal Medicine, Hospital San Juan de Dios del Aljarafe,
+Bormujos, Spain.
+(111)Department of Critical Care Medicine, Auckland City Hospital, Auckland, New 
+Zealand.
+(112)Department of Epidemiology and Preventive Medicine, Monash University,
+Melbourne, Australia.
+(113)Department of Haematology, Monash Health, Melbourne, Australia.
+(114)Division of Pulmonary, Allergy, and Critical Care Medicine, University of
+Pittsburgh School of Medicine, Pittsburgh, USA.
+(115)University Division of Anaesthesia, Addenbrooke's Hospital Cambridge,
+University of Cambridge, Cambridge, UK.
+(116)Intensive Care Medicine, Leuven University Hospital, Leuven, Belgium.
+(117)Intensive Care Medicine, Liège University Hospital, Liège, Belgium.
+(118)Western Health, Melbourne, Australia.
+(119)Department of Medicine, Division of Allergy and Immunology, University of
+the Philippines-Philippine General Hospital, Manila, Philippines.
+(120)Thalassemia and Hemoglobinopathy Research Center, Ahvaz Jundishapur
+University of Medical Sciences, Ahvaz, Iran.
+(121)Thalassemia and Hemoglobinopathy Research Center, Health Research Institute,
+Ahvaz, Iran.
+(122)Middlemore Hospital, Auckland, New Zealand.
+(123)Clinical Trials Unit, Intensive Care National Audit and Research Centre,
+London, UK.
+(124)Blood Services, Red Cross, Suarlée, Belgium.
+(125)School of Medicine and Medical Sciences, University College Dublin-Clinical 
+Research Centre, University College Dublin, Dublin, Ireland.
+(126)Australian and New Zealand Intensive Care Research Centre, School of Public 
+Health and Preventive Medicine, Monash University, Melbourne, Australia.
+(127)Intensive Care Medicine, Alfred Health, Melbourne, Australia.
+(128)Department of Infectious Diseases, Aalborg University Hospital, Aalborg,
+Denmark.
+(129)Institute of Clinical Pathology and Medical Research, NSW Health Pathology, 
+Westmead, Australia.
+(130)Centre for Infectious Diseases and Microbiology, Westmead Hospital,
+Westmead, Australia.
+(131)Faculty of Medicine and Health, University of Sydney, Sydney, Australia.
+(132)Department of Internal Medicine, Hospital Costa del Sol, Málaga, Spain.
+(133)College of Medicine, University of Lagos, Lagos, Nigeria.
+(134)Department of Infectious Diseases, Centro Transfusional Tejidos y Celulas de
+Sevilla, Sevilla, Spain.
+(135)Hospital Universitario Mayor Méderi, Universidad del Rosario, Bogotá,
+Colombia.
+(136)Centre for Clinical Research, Faculty of Medicine, The University of
+Queensland, Herston, Australia.
+(137)Adult Intensive Care Unit, Centro Medico Naval, Mexico City, Mexico.
+(138)Acute Medicine, Head ICU, Hospital General de Mexico, Mexico City, Mexico.
+(139)Emergency Medicine Department, School of Medicine, Ahvaz Jundishapur
+University of Medical Sciences, Ahvaz, Iran.
+(140)Department of Internal Medicine, Hospital Universitario Torrecardenas,
+Almería, Spain.
+(141)Doherty Department, University of Melbourne, Peter Doherty Institute for
+Infection and Immunity, Melbourne, Australia.
+(142)Centre for Epidemiology and Biostatistics, Melbourne School of Population
+and Global Health, University of Melbourne, Melbourne, Australia.
+(143)Pharmacology, Bangabandhu Sheikh Mujib Medical University, Dhaka,
+Bangladesh.
+(144)Department of Internal Medicine, Division of Infectious Diseases, Henry Ford
+Hospital, Detroit, USA.
+(145)Department of Medicine, University of Melbourne, Melbourne, Australia.
+(146)Royal Melbourne Hospital, Melbourne Health, Melbourne, Australia.
+(147)Departments of Pharmacy and Intensive Care Medicine, Royal Brisbane and
+Women's Hospital, Brisbane, Australia.
+(148)Division of Anaesthesiology Critical Care Emergency and Pain Medicine, Nîmes
+University Hospital, University of Montpellier, Nîmes, France.
+(149)Clinical and Research and Development, NHS Blood and Transplant, Oxford, UK.
+(150)Clinica del Occidente, Bogotá, Colombia.
+(151)Infectious Diseases and Clinical Microbiology Unit, Hospital Universitario
+Virgen Macarena, Sevilla, Spain.
+(152)Department of Medicine, University of Sevilla-IBiS, Sevilla, Spain.
+(153)Monash University, Melbourne, Australia.
+(154)Monash Health, Melbourne, Australia.
+(155)Department of Infectious Diseases, Hospital Universitario de Puerto Real,
+Cádiz, Spain.
+(156)Intensive Care National Audit and Research Centre (ICNARC), London, UK.
+(157)Nanotechnology Research Center, Ahvaz Jundishapur University of Medical
+Sciences, Ahvaz, Iran.
+(158)Department of Medical Hospital Direction, Unit of Medical Direction,
+University Hospital Città della Salute e della Scienza di Torino, Turin, Italy.
+(159)St Thomas' Hospital, Guy's and St Thomas' NHS Foundation Trust, London, UK.
+(160)School of Immunology and Microbial Sciences, Kings College London, London,
+UK.
+(161)Sydney School of Public Health, University of Sydney, Camperdown, Australia.
+(162)Sydney Children's Hospital Network, Westmead, Australia.
+(163)Facultad de Medicina Humana, Instituto de Investigación en Ciencias
+Biomédicas (INICIB), Universidad Ricardo Palma, Lima, Peru.
+(164)Department of Internal Medicine, Hospital Nacional Hipolito Unanue, Lima,
+Peru.
+(165)Public Health Sciences, Henry Ford Hospital, Detroit, USA.
+(166)Transfusion Medicine, Fondazione Policlinico Universitario A. Gemelli IRCCS,
+Rome, Italy.
+(167)Victorian Infectious Diseases Service, The Royal Melbourne Hospital, at the 
+Peter Doherty Institute for Infection and Immunity, Melbourne, Australia.
+(168)Department of Infectious Diseases, The University of Melbourne at the Peter 
+Doherty Institute for Infection and Immunity, Melbourne, Australia.
+(169)Department of Anesthesiology and Critical Care Medicine, Division of
+Critical Care Medicine, Université Laval, Quebec City, QC, Canada.
+(170)Faculty of Medicine, University of New South Wales, Sydney, Australia.
+(171)Wesley and Princess Alexandra Hospitals, University of Queensland, Brisbane,
+Australia.
+(172)Blood Bank, Centro Medico Naval, Mexico City, Mexico.
+(173)St John of God Hospital, Subiaco, Subiaco, Australia.
+(174)Department of Infectious Diseases, Zealand University Hospital, Roskilde,
+Denmark.
+(175)Department of Clinical Haematology, Monash Health, Melbourne, Australia.
+(176)Department of Anesthesiology, Intensive Care Medicine and Pain Therapy,
+University Hospital Frankfurt, Goethe University, Frankfurt, Germany.
+(177)Department of Internal Medicine, Critical Care and Hematology/Medical
+Oncology, University of Manitoba, Winnipeg, Canada.
+(178)Division of Infectious Diseases and Hospital Hygiene and Infection Biology
+Laboratory, University Hospital Basel and University of Basel, Basel,
+Switzerland.
+(179)Centre for Journalology, Clinical Epidemiology Program, Ottawa Hospital
+Research Institute, Ottawa, Canada.
+(180)Stanford University School of Medicine, Stanford, USA.
+(181)Department of Epidemiology and Population Health, Stanford University School
+of Medicine, Stanford, USA.
+(182)Department of Biomedical Data Science, Stanford University School of
+Medicine, Stanford, USA.
+(183)Stanford Prevention Research Center, Department of Medicine, Stanford
+University, Stanford, USA.
+(184)Meta-Research Innovation Center Berlin (METRIC-B), Berlin Institute of
+Health, Berlin, Germany.
+(185)Meta-Research Innovation Center at Stanford (METRICS), Stanford University, 
+Stanford, USA. lars.hemkens@usb.ch.
+(186)Department of Clinical Research, University Hospital Basel, University of
+Basel, Spitalstrasse 12, 4031, Basel, Switzerland. lars.hemkens@usb.ch.
+(187)Meta-Research Innovation Center Berlin (METRIC-B), Berlin Institute of
+Health, Berlin, Germany. lars.hemkens@usb.ch.
+(#)Contributed equally
+
+BACKGROUND: Convalescent plasma has been widely used to treat COVID-19 and is
+under investigation in numerous randomized clinical trials, but results are
+publicly available only for a small number of trials. The objective of this study
+was to assess the benefits of convalescent plasma treatment compared to placebo
+or no treatment and all-cause mortality in patients with COVID-19, using data
+from all available randomized clinical trials, including unpublished and ongoing 
+trials (Open Science Framework, https://doi.org/10.17605/OSF.IO/GEHFX ).
+METHODS: In this collaborative systematic review and meta-analysis, clinical
+trial registries (ClinicalTrials.gov, WHO International Clinical Trials Registry 
+Platform), the Cochrane COVID-19 register, the LOVE database, and PubMed were
+searched until April 8, 2021. Investigators of trials registered by March 1,
+2021, without published results were contacted via email. Eligible were ongoing, 
+discontinued and completed randomized clinical trials that compared convalescent 
+plasma with placebo or no treatment in COVID-19 patients, regardless of setting
+or treatment schedule. Aggregated mortality data were extracted from publications
+or provided by investigators of unpublished trials and combined using the
+Hartung-Knapp-Sidik-Jonkman random effects model. We investigated the
+contribution of unpublished trials to the overall evidence.
+RESULTS: A total of 16,477 patients were included in 33 trials (20 unpublished
+with 3190 patients, 13 published with 13,287 patients). 32 trials enrolled only
+hospitalized patients (including 3 with only intensive care unit patients). Risk 
+of bias was low for 29/33 trials. Of 8495 patients who received convalescent
+plasma, 1997 died (23%), and of 7982 control patients, 1952 died (24%). The
+combined risk ratio for all-cause mortality was 0.97 (95% confidence interval:
+0.92; 1.02) with between-study heterogeneity not beyond chance (I2 = 0%). The
+RECOVERY trial had 69.8% and the unpublished evidence 25.3% of the weight in the 
+meta-analysis.
+CONCLUSIONS: Convalescent plasma treatment of patients with COVID-19 did not
+reduce all-cause mortality. These results provide strong evidence that
+convalescent plasma treatment for patients with COVID-19 should not be used
+outside of randomized trials. Evidence synthesis from collaborations among trial 
+investigators can inform both evidence generation and evidence application in
+patient care.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12879-021-06829-7 
+PMCID: PMC8605464
+PMID: 34800996  [Indexed for MEDLINE]
+

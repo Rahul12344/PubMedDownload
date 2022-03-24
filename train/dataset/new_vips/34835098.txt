@@ -1,0 +1,43 @@
+
+1. Viruses. 2021 Nov 16;13(11). pii: 2292. doi: 10.3390/v13112292.
+
+Mathematical Modeling of Within-Host, Untreated, Cytomegalovirus Infection
+Dynamics after Allogeneic Transplantation.
+
+Duke ER(1)(2), Boshier FAT(1)(3), Boeckh M(1)(2), Schiffer JT(1)(2),
+Cardozo-Ojeda EF(1).
+
+Author information: 
+(1)Fred Hutchinson Cancer Research Center, Vaccine and Infectious Disease
+Division, Seattle, WA 98109, USA.
+(2)Department of Medicine, University of Washington, Seattle, WA 98195, USA.
+(3)Department of Infection, Immunity and Inflammation, UCL Great Ormond Street
+Institute of Child Health, University College London, London WC1N 1EH, UK.
+
+Cytomegalovirus (CMV) causes significant morbidity and mortality in recipients of
+allogeneic hematopoietic cell transplantation (HCT). Whereas insights gained from
+mathematical modeling of other chronic viral infections such as HIV, hepatitis C,
+and herpes simplex virus-2 have aided in optimizing therapy, previous CMV
+modeling has been hindered by a lack of comprehensive quantitative PCR viral load
+data from untreated episodes of viremia in HCT recipients. We performed
+quantitative CMV DNA PCR on stored, frozen serum samples from the placebo group
+of participants in a historic randomized controlled trial of ganciclovir for the 
+early treatment of CMV infection in bone marrow transplant recipients. We
+developed four main ordinary differential Equation mathematical models and used
+model selection theory to choose between 38 competing versions of these models.
+Models were fit using a population, nonlinear, mixed-effects approach. We found
+that CMV kinetics from untreated HCT recipients are highly variable. The models
+that recapitulated the observed patterns most parsimoniously included explicit,
+dynamic immune cell compartments and did not include dynamic target cell
+compartments, consistent with the large number of tissue and cell types that CMV 
+infects. In addition, in our best-fitting models, viral clearance was extremely
+slow, suggesting severe impairment of the immune response after HCT. Parameters
+from our best model correlated well with participants' clinical risk factors and 
+outcomes from the trial, further validating our model. Our models suggest that
+CMV dynamics in HCT recipients are determined by host immune response rather than
+target cell limitation in the absence of antiviral treatment.
+
+DOI: 10.3390/v13112292 
+PMCID: PMC8618844
+PMID: 34835098 
+

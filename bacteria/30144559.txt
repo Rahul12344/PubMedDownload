@@ -1,0 +1,53 @@
+
+1. Metab Eng. 2018 Sep;49:201-211. doi: 10.1016/j.ymben.2018.08.008. Epub 2018 Aug
+23.
+
+Synthetic metabolic pathways for photobiological conversion of CO2 into
+hydrocarbon fuel.
+
+Yunus IS(1), Wichmann J(2), Wördenweber R(2), Lauersen KJ(2), Kruse O(2), Jones
+PR(3).
+
+Author information: 
+(1)Department of Life Sciences, Imperial College London, SW7 2AZ London, UK.
+(2)Bielefeld University, Faculty of Biology, Center for Biotechnology (CeBiTec), 
+Universitätsstrasse 27, 33615 Bielefeld, Germany.
+(3)Department of Life Sciences, Imperial College London, SW7 2AZ London, UK.
+Electronic address: p.jones@imperial.ac.uk.
+
+Liquid fuels sourced from fossil sources are the dominant energy form for mobile 
+transport today. The consumption of fossil fuels is still increasing, resulting
+in a continued search for more sustainable methods to renew our supply of liquid 
+fuel. Photosynthetic microorganisms naturally accumulate hydrocarbons that could 
+serve as a replacement for fossil fuel, however productivities remain low. We
+report successful introduction of five synthetic metabolic pathways in two green 
+cell factories, prokaryotic cyanobacteria and eukaryotic algae. Heterologous
+thioesterase expression enabled high-yield conversion of native fatty acyl-acyl
+carrier protein (ACP) into free fatty acids (FFA) in Synechocystis sp. PCC 6803
+but not in Chlamydomonas reinhardtii where the polar lipid fraction instead was
+enhanced. Despite no increase in measurable FFA in Chlamydomonas, genetic
+recoding and over-production of the native fatty acid photodecarboxylase (FAP)
+resulted in increased accumulation of 7-heptadecene. Implementation of a
+carboxylic acid reductase (CAR) and aldehyde deformylating oxygenase (ADO)
+dependent synthetic pathway in Synechocystis resulted in the accumulation of
+fatty alcohols and a decrease in the native saturated alkanes. In contrast, the
+replacement of CAR and ADO with Pseudomonas mendocina UndB (so named as it is
+responsible for 1-undecene biosynthesis in Pseudomonas) or Chlorella variabilis
+FAP resulted in high-yield conversion of thioesterase-liberated FFAs into
+corresponding alkenes and alkanes, respectively. At best, the engineering
+resulted in an increase in hydrocarbon accumulation of 8- (from 1 to 8.5 mg/g
+cell dry weight) and 19-fold (from 4 to 77 mg/g cell dry weight) for
+Chlamydomonas and Synechocystis, respectively. In conclusion, reconstitution of
+the eukaryotic algae pathway in the prokaryotic cyanobacteria host generated the 
+most effective system, highlighting opportunities for mix-and-match synthetic
+metabolism. These studies describe functioning synthetic metabolic pathways for
+hydrocarbon fuel synthesis in photosynthetic microorganisms for the first time,
+moving us closer to the commercial implementation of photobiocatalytic systems
+that directly convert CO2 into infrastructure-compatible fuels.
+
+Copyright © 2018 International Metabolic Engineering Society. Published by
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymben.2018.08.008 
+PMID: 30144559  [Indexed for MEDLINE]
+

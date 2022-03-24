@@ -1,0 +1,47 @@
+
+1. Virulence. 2021 Dec;12(1):2764-2776. doi: 10.1080/21505594.2021.1996072.
+
+Sweeping analysis of transcript profile in dengue virus serotype 3 infection and 
+antibody-dependent enhancement of infection.
+
+Long M(1)(2)(3), Pan Y(1)(2)(3), Chen J(1)(2)(3), Jia F(1)(2)(4), Wang
+H(1)(2)(3), Li D(1)(2)(3), Feng K(1)(2)(3), Yan L(1)(2)(3), Wang X(1)(2)(3), Ning
+X(1)(2)(5), Qiu L(2), Zhang J(1)(2)(4), Sun Q(1)(2)(3).
+
+Author information: 
+(1)Institute of Medical Biology, Chinese Academy of Medical Sciences, and Peking 
+Union Medical College, Kunming, Peoples Republic of China.
+(2)Yunnan Key Laboratory of Vaccine Research & Development on Severe Infectious
+Diseases, Kunming, PR China.
+(3)Yunnan Key Laboratory of Vector-borne Infectious Disease, Kunming, Peoples
+Republic of China.
+(4)Kunming Medical University, Kunming, Peoples Republic of China.
+(5)Yunnan University, Kunming, Peoples Republic of China.
+
+Dengue virus infection mainly causes dengue hemorrhagic fever (DHF) and/or dengue
+shock syndrome (DSS). However, ADE (antibody-dependent enhancement) is one of the
+main pathogenic factors, and its pathogenic mechanism has not been fully
+elucidated. Recently, with the development of high-throughput sequencing, an
+increased number of RNAs have been confirmed to play a vital regulatory role in
+the process of virus infection. However, there is a lack of research on dengue
+virus infection and ADE. In this study, we used RNA-Seq to detect differentially 
+expressed RNAs (DE RNAs) profiles in mock-infected, DENV-3-infected, and
+ADE-infected THP-1 cells. Firstly, we found 69 circRNAs, 259 miRNAs, and 18 mRNAs
+were differentially expressed in THP-1 vs DENV-3. In THP-1 vs ADE, 94 circRNAs,
+263 miRNAs, and 111 mRNAs were differentially expressed. In DENV-3 vs ADE, 68
+circRNAs, 105 miRNAs, and 94 mRNAs were differentially expressed. Functional
+enrichment analysis of these DE RNAs mainly focused on immune system, viral
+infectious diseases, cytokine-cytokine receptor interactions, and NOD/RIG-I-like 
+receptor signaling pathways. In DENV-3 vs ADE, notably, the expression of HBB was
+up-regulated, which was a Fcγ Receptor-mediated phagocytosis protein.
+Additionally, we predicted the encoding ability of DE circRNAs, and it was found 
+that a small peptide was encoded by novel_circ_001562 and that its amino acid
+sequence was consistent with that of DDX60L, which is a class of
+interferon-stimulated genes. Finally, we constructed the ceRNA regulatory network
+pathway. Therefore, our study provides a new strategy for further investigation
+on DENV-host interactions.
+
+DOI: 10.1080/21505594.2021.1996072 
+PMCID: PMC8583062
+PMID: 34699307 
+

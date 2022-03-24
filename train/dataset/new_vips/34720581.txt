@@ -1,0 +1,55 @@
+
+1. Bioinform Biol Insights. 2021 Oct 26;15:11779322211054684. doi:
+10.1177/11779322211054684. eCollection 2021.
+
+Prediction of the Effects of Variants and Differential Expression of Key Host
+Genes ACE2, TMPRSS2, and FURIN in SARS-CoV-2 Pathogenesis: An In Silico Approach.
+
+Hossain MS(1), Tonmoy MIQ(1), Fariha A(1), Islam MS(2), Roy AS(1), Islam MN(1),
+Kar K(1), Alam MR(3), Rahaman MM(4).
+
+Author information: 
+(1)Department of Biotechnology & Genetic Engineering, Noakhali Science and
+Technology University, Noakhali, Bangladesh.
+(2)Department of Biochemistry & Biotechnology, University of Barishal, Barishal, 
+Bangladesh.
+(3)Department of Food Technology & Nutrition Science, Noakhali Science and
+Technology University, Noakhali, Bangladesh.
+(4)Department of Microbiology, University of Dhaka, Dhaka, Bangladesh.
+
+A new strain of the beta coronavirus, severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2), is solely responsible for the ongoing coronavirus
+disease 2019 (COVID-19) pandemic. Although several studies suggest that the spike
+protein of this virus interacts with the cell surface receptor,
+angiotensin-converting enzyme 2 (ACE2), and is subsequently cleaved by TMPRSS2
+and FURIN to enter into the host cell, conclusive insight about the interaction
+pattern of the variants of these proteins is still lacking. Thus, in this study, 
+we analyzed the functional conjugation among the spike protein, ACE2, TMPRSS2,
+and FURIN in viral pathogenesis as well as the effects of the mutations of the
+proteins through the implementation of several bioinformatics approaches.
+Analysis of the intermolecular interactions revealed that T27A (ACE2), G476S
+(receptor-binding domain [RBD] of the spike protein), C297T (TMPRSS2), and P812S 
+(cleavage site for TMPRSS2) coding variants may render resistance in viral
+infection, whereas Q493L (RBD), S477I (RBD), P681R (cleavage site for FURIN), and
+P683W (cleavage site for FURIN) may lead to increase viral infection.
+Genotype-specific expression analysis predicted several genetic variants of ACE2 
+(rs2158082, rs2106806, rs4830971, and rs4830972), TMPRSS2 (rs458213, rs468444,
+rs4290734, and rs6517666), and FURIN (rs78164913 and rs79742014) that
+significantly alter their normal expression which might affect the viral spread. 
+Furthermore, we also found that ACE2, TMPRSS2, and FURIN proteins are
+functionally co-related with each other, and several genes are highly
+co-expressed with them, which might be involved in viral pathogenesis. This study
+will thus help in future genomics and proteomics studies of SARS-CoV-2 and will
+provide an opportunity to understand the underlying molecular mechanism during
+SARS-CoV-2 pathogenesis.
+
+© The Author(s) 2021.
+
+DOI: 10.1177/11779322211054684 
+PMCID: PMC8554545
+PMID: 34720581 
+
+Conflict of interest statement: Declaration of conflicting interests: The
+author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.
+

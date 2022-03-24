@@ -1,0 +1,91 @@
+
+1. Hum Reprod. 2020 Nov 1;35(11):2413-2427. doi: 10.1093/humrep/deaa184.
+
+A panel of extracellular vesicle long noncoding RNAs in seminal plasma for
+predicting testicular spermatozoa in nonobstructive azoospermia patients.
+
+Xie Y(1)(2)(3), Yao J(1)(4), Zhang X(5), Chen J(3), Gao Y(6), Zhang C(1)(4), Chen
+H(1)(4), Wang Z(7), Zhao Z(8), Chen W(2), Lv L(2)(4), Li Y(2)(4), Gao F(7), Xie
+M(9), Zhang J(2), Zhao L(2), Wang Z(10), Liang X(2), Sun X(1), Zou X(3), Deng
+C(1), Liu G(2)(4).
+
+Author information: 
+(1)Department of Andrology, The First Affiliated Hospital, Sun Yat-sen
+University, 510080 Guangzhou, China.
+(2)Reproductive Medicine Center, The Sixth Affiliated Hospital, Sun Yat-sen
+University, 510655 Guangzhou, China.
+(3)Guangdong Provincial Key Laboratory of Orthopedics and Traumatology, The First
+Affiliated Hospital, Sun Yat-sen University, 510080 Guangzhou, China.
+(4)Gastrointestinal Diseases Research Institute of Guangdong Province, The Sixth 
+Affiliated Hospital, Sun Yat-sen University, 510655 Guangzhou, China.
+(5)Department of Male Reproduction, Family Planning Research Institute of
+Guangdong, 510000 Guangzhou, China.
+(6)Reproductive Medicine Center, The Key Laboratory for Reproductive Medicine of 
+Guangdong Province, The First Affiliated Hospital of Sun Yat-sen University,
+510080 Guangzhou, China.
+(7)Guangzhou Epibiotek Co., Ltd., 510663 Guangzhou, China.
+(8)State Key Laboratory of Applied Microbiology Southern China, Guangdong
+Provincial Key Laboratory of Microbial Culture Collection and Application,
+Guangdong Institute of Microbiology, 510070 Guangzhou, China.
+(9)Vision Medicals Co., Ltd., 510500 Guangzhou, China.
+(10)Department of Medical Ultrasonics, Ultrasonics Artificial Intelligence X-Lab,
+Institute of Diagnostic and Interventional Ultrasound, The First Affiliated
+Hospital, Sun Yat-sen University, 510080 Guangzhou, China.
+
+STUDY QUESTION: Whether the testis-specific extracellular vesicle (EV) long
+noncoding RNAs (lncRNAs) in seminal plasma could be utilized to predict the
+presence of testicular spermatozoa in nonobstructive azoospermia (NOA) patients?
+SUMMARY ANSWER: Our findings indicate that the panel based on seminal plasma EV
+lncRNAs was a sensitive and specific method in predicting the presence of
+testicular spermatozoa and may improve clinical decision-making of NOA.
+WHAT IS KNOWN ALREADY: The adoption of sperm retrieval techniques, especially
+microdissection testicular sperm extraction (mTESE), in combination with ICSI has
+revolutionized treatment for NOA. However, there are no precise and noninvasive
+methods for predicting whether there are testicular spermatozoa in NOA patients
+before mTESE.
+STUDY DESIGN, SIZE, DURATION: RNA sequencing was performed on seminal plasma EVs 
+from 6 normozoospermic men who underwent IVF due to female factor and 5
+idiopathic NOA patients who failed to obtain testicular spermatozoa by mTESE and 
+were diagnosed as having Sertoli cell-only syndrome by postoperative pathology. A
+biomarker panel of lncRNAs was constructed and verified in 96 NOA patients who
+underwent mTESE. Decision-making process was established based on the panel in
+seminal plasma EVs from 45 normozoospermia samples, 43 oligozoospermia samples,
+62 cryptozoospermia samples, 96 NOA samples.
+PARTICIPANTS/MATERIALS, SETTING, METHODS: RNA sequencing was done to examine
+altered profiles of EV lncRNAs in seminal plasma. Furthermore, a panel consisting
+of EV lncRNAs was established and evaluated in training set and validation sets.
+MAIN RESULTS AND THE ROLE OF CHANCE: A panel consisting of nine differentially
+expressed testis-specific lncRNAs, including LOC100505685, SPATA42, CCDC37-DT,
+GABRG3-AS1, LOC440934, LOC101929088 (XR_927561.2), LOC101929088 (XR_001745218.1),
+LINC00343 and LINC00301, was established in the training set and the AUC was
+0.986. Furthermore, the AUC in the validation set was 0.960. Importantly, the
+panel had a unique advantage when compared with models based on serum hormones
+from the same group of NOA cases (AUC, 0.970 vs 0.723; 0.959 vs 0.687,
+respectively). According to the panel of lncRNAs, a decision-making process was
+established, that is when the score of an NOA case exceeds 0.532, sperm retrieval
+surgery may be recommended.
+LIMITATIONS, REASONS FOR CAUTION: In the future, the sample size needs to be
+further expanded. Meanwhile, the regulatory functions and mechanism of lncRNAs in
+spermatogenesis also need to be elucidated.
+WIDER IMPLICATIONS OF THE FINDINGS: When the score of our panel is below 0.532,
+subjecting the NOA patients to ineffective surgical interventions may not be
+recommended due to poor sperm retrieval rate.
+STUDY FUNDING/COMPETING INTEREST(S): This work was supported by the National
+Natural Science Foundation of China (81871110, 81971314 and 81971759); the
+Guangdong Special Support Plan-Science and Technology Innovation Youth Top
+Talents Project (2016TQ03R444); the Science and Technology Planning Project of
+Guangdong Province (2016B030230001 and 201707010394); the Key Scientific and
+Technological Program of Guangzhou City (201604020189); the Pearl River S&T Nova 
+Program of Guangzhou (201806010089); the Transformation of Scientific and
+Technological Achievements Project of Sun Yat-sen University (80000-18843235) and
+the Youth Teacher Training Project of Sun Yat-sen University (17ykpy68 and
+18ykpy09). There are no competing interests related to this study.
+TRIAL REGISTRATION NUMBER: N/A.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of European 
+Society of Human Reproduction and Embryology. All rights reserved. For
+permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/humrep/deaa184 
+PMID: 32914196 
+

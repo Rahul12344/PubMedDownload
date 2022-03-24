@@ -1,0 +1,55 @@
+
+1. Acc Chem Res. 2021 Nov 2;54(21):4012-4023. doi: 10.1021/acs.accounts.1c00521.
+Epub 2021 Oct 22.
+
+Immunogenicity of In Vitro-Transcribed RNA.
+
+Mu X(1)(2), Hur S(3)(4).
+
+Author information: 
+(1)School of Pharmaceutical Science and Technology, Tianjin University, Tianjin
+300072, China.
+(2)Tianjin University and Health-Biotech United Group Joint Laboratory of
+Innovative Drug Development and Translational Medicine, Tianjin University,
+Tianjin 300072, China.
+(3)Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical
+School, Boston, Massachusetts 02115, United States.
+(4)Program in Cellular and Molecular Medicine, Boston Children's Hospital,
+Boston, Massachusetts 02115, United States.
+
+In vitro-transcribed RNAs are emerging as new biologics for therapeutic
+innovation, as exemplified by their application recently in SARS-CoV-2
+vaccinations. RNAs prepared by in vitro transcription (IVT) allow transient
+expression of proteins of interest, conferring safety over DNA- or virus-mediated
+gene delivery systems. However, in vitro-transcribed RNAs should be used with
+caution because of their immunogenicity, which is in part triggered by
+double-stranded RNA (dsRNA) byproducts during IVT. Cellular innate immune
+response to dsRNA byproducts can lead to undesirable consequences, including
+suppression of protein synthesis and cell death, which in turn can detrimentally 
+impact the efficacy of mRNA therapy. Thus, it is critical to understand the
+nature of IVT byproducts and the mechanisms by which they trigger innate immune
+responses.Our lab has been investigating the mechanisms by which the innate
+immune system discriminates between "self" and "nonself" RNA, with the focus on
+the cytoplasmic dsRNA receptors retinoic acid-inducible gene I (RIG-I) and
+melanoma differentiation-associated 5 (MDA5). We have biochemically and
+structurally characterized critical events involving RNA discrimination and
+signal transduction by RIG-I or MDA5. We have used in vitro-transcribed RNAs as
+tools to investigate RNA specificity of RIG-I and MDA5, which required
+optimization of the IVT reaction and purification processes to eliminate the
+effect of IVT byproducts. In this Account, we summarize our current understanding
+of RIG-I and MDA5 and IVT reactions and propose future directions for improving
+IVT as a method to generate both research tools and therapeutics. Other critical 
+proteins in cellular innate immune response to dsRNAs are also discussed. We
+arrange the contents in the following order: (i) innate immunity sensors for
+nonself RNA, including the RIG-I-like receptors (RLRs) in the cytosol and the
+toll-like receptors (TLRs) in the endosome, as well as cytoplasmic
+dsRNA-responding proteins, including protein kinase R (PKR) and
+2',5'-oligoadenylate synthetases (OASes), illustrating the feature of protein-RNA
+binding and its consequences; (ii) the immunogenicity of IVT byproducts,
+specifically the generation of dsRNA molecules during IVT; and (iii) methods to
+reduce IVT RNA immunogenicity, including optimizations of RNA polymerases,
+reagents, and experimental conditions during IVT and subsequent purification.
+
+DOI: 10.1021/acs.accounts.1c00521 
+PMID: 34677064  [Indexed for MEDLINE]
+

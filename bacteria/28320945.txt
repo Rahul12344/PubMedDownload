@@ -1,0 +1,66 @@
+
+1. Proc Natl Acad Sci U S A. 2017 Apr 4;114(14):E2852-E2861. doi:
+10.1073/pnas.1618297114. Epub 2017 Mar 20.
+
+Three-dimensional culture system identifies a new mode of cetuximab resistance
+and disease-relevant genes in colorectal cancer.
+
+Li C(1)(2)(3)(4), Singh B(1)(2), Graves-Deal R(1)(2), Ma H(5), Starchenko A(6),
+Fry WH(1)(2), Lu Y(1)(2), Wang Y(7), Bogatcheva G(1)(2), Khan MP(8), Milne GL(9),
+Zhao S(10), Ayers GD(11), Li N(3), Hu H(3), Washington MK(8), Yeatman TJ(12),
+McDonald OG(8), Liu Q(10)(13), Coffey RJ(14)(2)(15).
+
+Author information: 
+(1)Department of Medicine, Vanderbilt University Medical Center, Nashville, TN
+37232.
+(2)Department of Cell and Developmental Biology, Vanderbilt University,
+Nashville, TN 37232.
+(3)Jiaen Genetics Laboratory, Beijing Jiaen Hospital, Beijing 100191.
+(4)Molecular Pathology, Cancer Research Center, Medical College of Xiamen
+University, Xiamen, Fujian 361102.
+(5)Whitehead Institute for Biomedical Research, Cambridge, MA 02142.
+(6)Interdisciplinary Graduate Program, Vanderbilt University School of Medicine, 
+Nashville, TN 37232.
+(7)Department of Human Genetics, Emory University, Atlanta, GA 30084.
+(8)Department of Pathology, Microbiology, and Immunology, Vanderbilt University
+Medical Center, Nashville, TN 37232.
+(9)Division of Clinical Pharmacology, Vanderbilt University Medical Center,
+Nashville, TN 37232.
+(10)Center for Quantitative Sciences, Vanderbilt University School of Medicine,
+Nashville, TN 37232.
+(11)Division of Cancer Biostatistics, Department of Biostatistics, Vanderbilt
+University School of Medicine, Nashville, TN 37232.
+(12)Gibbs Cancer Center & Research Institute, Spartanburg, SC 29303.
+(13)Department of Biomedical Informatics, Vanderbilt University School of
+Medicine, Nashville, TN 37232.
+(14)Department of Medicine, Vanderbilt University Medical Center, Nashville, TN
+37232; robert.coffey@vanderbilt.edu.
+(15)Veterans Affairs Medical Center, Nashville, TN 37212.
+
+We previously reported that single cells from a human colorectal cancer (CRC)
+cell line (HCA-7) formed either hollow single-layered polarized cysts or solid
+spiky masses when plated in 3D in type-I collagen. To begin in-depth analyses
+into whether clonal cysts and spiky masses possessed divergent properties,
+individual colonies of each morphology were isolated and expanded. The lines thus
+derived faithfully retained their parental cystic and spiky morphologies and were
+termed CC (cystic) and SC (spiky), respectively. Although both CC and SC
+expressed EGF receptor (EGFR), the EGFR-neutralizing monoclonal antibody,
+cetuximab, strongly inhibited growth of CC, whereas SC was resistant to growth
+inhibition, and this was coupled to increased tyrosine phosphorylation of MET and
+RON. Addition of the dual MET/RON tyrosine kinase inhibitor, crizotinib, restored
+cetuximab sensitivity in SC. To further characterize these two lines, we
+performed comprehensive genomic and transcriptomic analysis of CC and SC in 3D.
+One of the most up-regulated genes in CC was the tumor suppressor 15-PGDH/HPGD,
+and the most up-regulated gene in SC was versican (VCAN) in 3D and xenografts.
+Analysis of a CRC tissue microarray showed that epithelial, but not stromal, VCAN
+staining strongly correlated with reduced survival, and combined epithelial VCAN 
+and absent HPGD staining portended a poorer prognosis. Thus, with this 3D system,
+we have identified a mode of cetuximab resistance and a potential prognostic
+marker in CRC. As such, this represents a potentially powerful system to identify
+additional therapeutic strategies and disease-relevant genes in CRC and possibly 
+other solid tumors.
+
+DOI: 10.1073/pnas.1618297114 
+PMCID: PMC5389279
+PMID: 28320945  [Indexed for MEDLINE]
+

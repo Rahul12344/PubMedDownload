@@ -1,0 +1,40 @@
+
+1. J Bacteriol. 2006 Mar;188(6):2154-62.
+
+Function of the N-terminal cap of the PAS domain in signaling by the aerotaxis
+receptor Aer.
+
+Watts KJ(1), Sommer K, Fry SL, Johnson MS, Taylor BL.
+
+Author information: 
+(1)Division of Microbiology and Molecular Genetics, Loma Linda University, Loma
+Linda, CA 92350, USA.
+
+Erratum in
+    J Bacteriol. 2006 May;188(9):3429.
+
+Aer, the Escherichia coli receptor for behavioral responses to oxygen
+(aerotaxis), energy, and redox potential, contains a PAS sensory-input domain.
+Within the PAS superfamily, the N-terminal segment (N-cap) is poorly conserved
+and its role is not well understood. We investigated the role of the N-cap
+(residues 1 to 19) in the Aer PAS domain by missense and truncation mutagenesis. 
+Aer-PAS N-cap truncations and an Aer-M21P substitution resulted in low cellular
+levels of the mutant proteins, suggesting that the N-terminal region was
+important for stabilizing the structure of the PAS domain. The junction of the
+N-cap and PAS core was critical for signaling in Aer. Mutations and truncations
+in the sequence encoding residues 15 to 21 introduced a range of phenotypes,
+including defects in FAD binding, constant tumbling motility, and an inverse
+response in which E. coli cells migrated away from oxygen concentrations to which
+they are normally attracted. The proximity of two N-cap regions in an Aer dimer
+was assessed in vivo by oxidatively cross-linking serial cysteine substitutions. 
+Cross-linking of several cysteine replacements at 23 degrees C was attenuated at 
+10 degrees C, indicating contact was not at a stable dimer interface but required
+lateral mobility. We observed large multimers of Aer when we combined
+cross-linking of N-cap residues with a cysteine replacement that cross-links
+exclusively at the Aer dimer interface. This suggests that the PAS N-cap faces
+outwards in a dimer and that PAS-PAS contacts can occur between adjacent dimers.
+
+DOI: 10.1128/JB.188.6.2154-2162.2006 
+PMCID: PMC1428145
+PMID: 16513745  [Indexed for MEDLINE]
+

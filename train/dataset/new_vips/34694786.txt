@@ -1,0 +1,38 @@
+
+1. J Agric Food Chem. 2021 Nov 3;69(43):12891-12899. doi: 10.1021/acs.jafc.1c03586. 
+Epub 2021 Oct 25.
+
+Design, Synthesis, and Mechanism of Antiviral Acylurea Derivatives Containing a
+Trifluoromethylpyridine Moiety.
+
+Guo S(1), Zhao W(1), Wang Y(1), Zhang W(1), Chen S(1), Wei P(1), Wu J(1).
+
+Author information: 
+(1)State Key Laboratory Breeding Base of Green Pesticide and Agricultural
+Bioengineering, Key Laboratory of Green Pesticide and Agricultural
+Bioengineering, Ministry of Education, Guizhou University, Huaxi District,
+Guiyang, Guizhou 550025, People's Republic of China.
+
+Novel acylurea derivatives 7a-7ab were designed and synthesized by linking the
+active substructures trifluoromethylpyridine and anthranilic diamide via an
+acylurea bridge. Most of the title compounds exhibited good activity against
+tobacco mosaic virus (TMV), particularly compound 7x (EC50 of 211.8 μg/mL), which
+showed much higher curative activity than ningnanmycin (EC50 of 389.8 μg/mL), and
+compound 7ab, which showed excellent inactivation activity (EC50 of 36.1 μg/mL), 
+similar to ningnanmycin (EC50 of 23.2 μg/mL). The preliminary mechanism of these 
+derivatives was investigated. Autodocking analysis revealed that compounds 7x and
+7ab had good affinity for TMV coat protein (TMV CP), with low binding energies
+(-7.86 and -8.59 kcal/mol) comparable to ningnanmycin (-8.75 kcal/mol). Molecular
+dynamics simulation showed that compound 7x had a stable system structure with a 
+better binding free energy (-32.94 kcal/mol) than ningnanmycin (-25.62 kcal/mol).
+Microscale thermophoresis showed that compound 7x bound more strongly to TMV CP
+(Kd of 19.8 ± 7.3 μM) than ningnanmycin (Kd of 21.2 ± 7.3 μM). Transmission
+electron microscopy and self-assembly experiments demonstrated that compounds 7x 
+and 7ab significantly obstructed the self-assembly of TMV RNA and TMV CP. This
+new acylurea derivative has excellent antiviral activity by targeting TMV CP and 
+inhibiting TMV self-assembly and can be considered a candidate for antiviral
+applications.
+
+DOI: 10.1021/acs.jafc.1c03586 
+PMID: 34694786  [Indexed for MEDLINE]
+

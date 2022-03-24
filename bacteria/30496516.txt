@@ -1,0 +1,44 @@
+
+1. Nucleic Acids Res. 2019 Jan 25;47(2):779-793. doi: 10.1093/nar/gky1184.
+
+Excision of uracil from DNA by hSMUG1 includes strand incision and processing.
+
+Alexeeva M(1), Moen MN(1)(2), Grøsvik K(1), Tesfahun AN(1), Xu XM(1),
+Muruzábal-Lecumberri I(1), Olsen KM(1), Rasmussen A(3), Ruoff P(1), Kirpekar
+F(3), Klungland A(2)(4), Bjelland S(1).
+
+Author information: 
+(1)Department of Chemistry, Bioscience and Environmental Technology-Centre for
+Organelle Research, Faculty of Science and Technology, University of Stavanger,
+P.O. Box 8600 Forus, N-4021 Stavanger, Norway.
+(2)Department of Microbiology, Oslo University Hospital, Rikshospitalet, NO-0372 
+Oslo, Norway.
+(3)Department of Biochemistry and Molecular Biology, University of Southern
+Denmark, 5230 Odense M, Denmark.
+(4)Department of Molecular Medicine, Institute of Basic Medical Sciences,
+University of Oslo, NO-0317 Oslo, Norway.
+
+Uracil arises in DNA by hydrolytic deamination of cytosine (C) and by erroneous
+incorporation of deoxyuridine monophosphate opposite adenine, where the former
+event is devastating by generation of C → thymine transitions. The base excision 
+repair (BER) pathway replaces uracil by the correct base. In human cells two
+uracil-DNA glycosylases (UDGs) initiate BER by excising uracil from DNA; one is
+hSMUG1 (human single-strand-selective mono-functional UDG). We report that repair
+initiation by hSMUG1 involves strand incision at the uracil site resulting in a
+3'-α,β-unsaturated aldehyde designated uracil-DNA incision product (UIP), and a
+5'-phosphate. UIP is removed from the 3'-end by human apurinic/apyrimidinic (AP) 
+endonuclease 1 preparing for single-nucleotide insertion. hSMUG1 also incises DNA
+or processes UIP to a 3'-phosphate designated uracil-DNA processing product
+(UPP). UIP and UPP were indirectly identified and quantified by polyacrylamide
+gel electrophoresis and chemically characterised by matrix-assisted laser
+desorption/ionisation time-of-flight mass-spectrometric analysis of DNA from
+enzyme reactions using 18O- or 16O-water. The formation of UIP accords with an
+elimination (E2) reaction where deprotonation of C2' occurs via the formation of 
+a C1' enolate intermediate. A three-phase kinetic model explains rapid uracil
+excision in phase 1, slow unspecific enzyme adsorption/desorption to DNA in phase
+2 and enzyme-dependent AP site incision in phase 3.
+
+DOI: 10.1093/nar/gky1184 
+PMCID: PMC6344882
+PMID: 30496516  [Indexed for MEDLINE]
+

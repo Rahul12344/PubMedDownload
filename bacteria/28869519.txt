@@ -1,0 +1,50 @@
+
+1. Int J Mol Sci. 2017 Sep 3;18(9). pii: E1894. doi: 10.3390/ijms18091894.
+
+Differences in Sulfotyrosine Binding amongst CXCR1 and CXCR2 Chemokine Ligands.
+
+Moussouras NA(1), Getschman AE(2), Lackner ER(3), Veldkamp CT(4), Dwinell MB(5), 
+Volkman BF(6).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Medical College of Wisconsin,
+Milwaukee, WI 53226, USA. nmoussouras@mcw.edu.
+(2)Department of Biochemistry, Medical College of Wisconsin, Milwaukee, WI 53226,
+USA. agetschman@mcw.edu.
+(3)Department of Chemistry, University of Wisconsin-Whitewater, Whitewater, WI
+53190, USA. LacknerER29@uww.edu.
+(4)Department of Chemistry, University of Wisconsin-Whitewater, Whitewater, WI
+53190, USA. veldkamc@uww.edu.
+(5)Department of Microbiology and Immunology, Medical College of Wisconsin,
+Milwaukee, WI 53226, USA. mdwinell@mcw.edu.
+(6)Department of Biochemistry, Medical College of Wisconsin, Milwaukee, WI 53226,
+USA. bvolkman@mcw.edu.
+
+Tyrosine sulfation, a post-translational modification found on many chemokine
+receptors, typically increases receptor affinity for the chemokine ligand. A
+previous bioinformatics analysis suggested that a sulfotyrosine (sY)-binding site
+on the surface of the chemokine CXCL12 may be conserved throughout the chemokine 
+family. However, the extent to which receptor tyrosine sulfation contributes to
+chemokine binding has been examined in only a few instances. Computational
+solvent mapping correctly identified the conserved sulfotyrosine-binding sites on
+CXCL12 and CCL21 detected by nuclear magnetic resonance (NMR) spectroscopy,
+demonstrating its utility for hot spot analysis in the chemokine family. In this 
+study, we analyzed five chemokines that bind to CXCR2, a subset of which also
+bind to CXCR1, to identify hot spots that could participate in receptor binding. 
+A cleft containing the predicted sulfotyrosine-binding pocket was identified as a
+principal hot spot for ligand binding on the structures of CXCL1, CXCL2, CXCL7,
+and CXCL8, but not CXCL5. Sulfotyrosine titrations monitored via NMR spectroscopy
+showed specific binding to CXCL8, but not to CXCL5, which is consistent with the 
+predictions from the computational solvent mapping. The lack of
+CXCL5-sulfotyrosine interaction and the presence of CXCL8-sulfotyrosine binding
+suggests a role for receptor post-translational modifications regulating ligand
+selectivity.
+
+DOI: 10.3390/ijms18091894 
+PMCID: PMC5618543
+PMID: 28869519  [Indexed for MEDLINE]
+
+Conflict of interest statement: Brian F. Volkman and Michael B. Dwinell are
+co-founders and have ownership interests in Protein Foundry, LLC. The other
+authors declare no conflict of interest.
+

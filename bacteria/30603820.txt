@@ -1,0 +1,56 @@
+
+1. J Comput Aided Mol Des. 2019 Feb;33(2):295-305. doi: 10.1007/s10822-018-0182-2.
+Epub 2019 Jan 2.
+
+First virtual screening and experimental validation of inhibitors targeting GES-5
+carbapenemase.
+
+Spyrakis F(1), Bellio P(2), Quotadamo A(3), Linciano P(3), Benedetti P(4)(5),
+D'Arrigo G(6), Baroni M(7), Cendron L(8), Celenza G(2), Tondi D(9).
+
+Author information: 
+(1)Department of Drug Science and Technology, University of Turin, Via Giuria 9, 
+10125, Turin, Italy. francesca.spyrakis@unito.it.
+(2)Department of Biotechnological and Applied Clinical Sciences, University of
+L'Aquila, via Vetoio 1, 67100, L'Aquila, Italy.
+(3)Department of Life Sciences, University of Modena and Reggio Emilia, Via Campi
+103, 41125, Modena, Italy.
+(4)Department of Chemistry, Biology and Biotechnology, University of Perugia, Via
+Elce di Sotto 8, 06123, Perugia, Italy.
+(5)Consortium for Computational Molecular and Materials Sciences (CMS), Via Elce 
+di Sotto 8, 06123, Perugia, Italy.
+(6)Department of Drug Science and Technology, University of Turin, Via Giuria 9, 
+10125, Turin, Italy.
+(7)Molecular Discovery Limited, U.501 Centennial Park, Centennial Ave, Elstree,
+Borehamwood, Hertfordshire, WD6 3FG, UK.
+(8)Department of Biology, University of Padua, Viale G. Colombo 3, 35121, Padua, 
+Italy.
+(9)Department of Life Sciences, University of Modena and Reggio Emilia, Via Campi
+103, 41125, Modena, Italy. donatella.tondi@unimore.it.
+
+The worldwide spread of beta-lactamases with hydrolytic activity extended to last
+resort carbapenems is aggravating the antibiotic resistance problem and endangers
+the successful antimicrobial treatment of clinically relevant pathogens. As
+recently highlighted by the World Health Organization, new strategies to contain 
+antimicrobial resistance are urgently needed. Class A carbapenemases include
+members of the KPC, GES and SFC families. These enzymes have the ability to
+hydrolyse penicillins, cephalosporins and carbapenems, while also being less
+susceptible to available beta-lactam inhibitors, such as clavulanic acid. The KPC
+family is the most prevalent. It is mostly found on plasmids in Klebsiella
+pneumoniae, meaning that great amounts of attention, in terms of inhibitor design
+and structural biology, have been dedicated to it, whereas no efforts have yet
+been dedicated to GES-type enzymes, despite their ability to rapidly and
+horizontally disseminate. We herein report the first in silico screening against 
+GES-5, which is the most dangerous GES-type beta-lactamase, using a library of
+800K commercially available candidates that all share drug-like properties, such 
+as their MW, logP, rotatable bonds and HBA/HBD atoms. The best screening results 
+were filtered to enrich the number of different chemotypes, and then submitted to
+molecular docking. The 34 most promising candidates were selected for in vitro
+validation in biochemical assays against recombinant GES-5. Six hits acted as
+inhibitors, in the high micromolar range, towards GES-5 and led to the
+identification of the first, novel chemotypes with inhibitory activity against
+this clinically relevant carbapenemase.
+
+DOI: 10.1007/s10822-018-0182-2 
+PMID: 30603820  [Indexed for MEDLINE]
+

@@ -1,0 +1,44 @@
+
+1. Viruses. 2021 Oct 6;13(10). pii: 2006. doi: 10.3390/v13102006.
+
+Utilizing the VirIdAl Pipeline to Search for Viruses in the Metagenomic Data of
+Bat Samples.
+
+Budkina AY(1)(2), Korneenko EV(1), Kotov IA(1)(2), Kiselev DA(3), Artyushin
+IV(4), Speranskaya AS(1)(4), Khafizov K(1)(2), Akimkin VG(1).
+
+Author information: 
+(1)FSBI Central Research Institute for Epidemiology of the Federal Service for
+Surveillance of Consumer Rights Protection and Human Wellbeing, 111123 Moscow,
+Russia.
+(2)Moscow Institute of Physics and Technology, National Research University,
+115184 Dolgoprudny, Russia.
+(3)I.M. Sechenov First Moscow State Medical University (Sechenov University),
+119991 Moscow, Russia.
+(4)Lomonosov Moscow State University, 119991 Moscow, Russia.
+
+According to various estimates, only a small percentage of existing viruses have 
+been discovered, naturally much less being represented in the genomic databases. 
+High-throughput sequencing technologies develop rapidly, empowering large-scale
+screening of various biological samples for the presence of pathogen-associated
+nucleotide sequences, but many organisms are yet to be attributed specific loci
+for identification. This problem particularly impedes viral screening, due to
+vast heterogeneity in viral genomes. In this paper, we present a new
+bioinformatic pipeline, VirIdAl, for detecting and identifying viral pathogens in
+sequencing data. We also demonstrate the utility of the new software by applying 
+it to viral screening of the feces of bats collected in the Moscow region, which 
+revealed a significant variety of viruses associated with bats, insects, plants, 
+and protozoa. The presence of alpha and beta coronavirus reads, including the
+MERS-like bat virus, deserves a special mention, as it once again indicates that 
+bats are indeed reservoirs for many viral pathogens. In addition, it was shown
+that alignment-based methods were unable to identify the taxon for a large
+proportion of reads, and we additionally applied other approaches, showing that
+they can further reveal the presence of viral agents in sequencing data. However,
+the incompleteness of viral databases remains a significant problem in the
+studies of viral diversity, and therefore necessitates the use of combined
+approaches, including those based on machine learning methods.
+
+DOI: 10.3390/v13102006 
+PMCID: PMC8541124
+PMID: 34696436  [Indexed for MEDLINE]
+

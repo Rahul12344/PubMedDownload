@@ -1,0 +1,68 @@
+
+1. plos genet. 2014 aug 7;10(8):e1004547. doi: 10.1371/journal.pgen.1004547.
+ecollection 2014 aug.
+
+comprehensive identification single nucleotide polymorphisms associated with
+beta-lactam resistance within pneumococcal mosaic genes.
+
+chewapreecha c(1), marttinen p(2), croucher nj(3), salter sj(1), harris sr(1),
+mather ae(1), hanage wp(4), goldblatt d(5), nosten fh(6), turner c(7), turner
+p(7), bentley sd(8), parkhill j(1).
+
+author information: 
+(1)the wellcome trust sanger institute, wellcome trust genome campus, hinxton,
+cambridge, united kingdom.
+(2)center communicable disease dynamics, harvard school public health,
+boston, massachusetts, united states america; helsinki institute for
+information technology hiit, department information computer science,
+aalto university, espoo, finland.
+(3)department infectious disease epidemiology, imperial college london,
+london, united kingdom.
+(4)center communicable disease dynamics, harvard school public health,
+boston, massachusetts, united states america.
+(5)immunobiology unit, institute child health, university college london,
+london, united kingdom.
+(6)shoklo malaria research unit, mahidol-oxford tropical medicine research unit, 
+faculty tropical medicine, mahidol university, maesot, thailand; centre for
+tropical medicine, nuffield department medicine, university oxford, oxford,
+united kingdom.
+(7)shoklo malaria research unit, mahidol-oxford tropical medicine research unit, 
+faculty tropical medicine, mahidol university, maesot, thailand; centre for
+tropical medicine, nuffield department medicine, university oxford, oxford,
+united kingdom; cambodia-oxford medical research unit, angkor hospital for
+children, siem reap, cambodia.
+(8)the wellcome trust sanger institute, wellcome trust genome campus, hinxton,
+cambridge, united kingdom; department medicine, university cambridge,
+addenbrooke's hospital, cambridge, united kingdom.
+
+traditional genetic association studies difficult bacteria, the
+generally limited recombination leads large linked haplotype blocks,
+confounding identification causative variants. beta-lactam antibiotic
+resistance streptococcus pneumoniae arises readily bacteria quickly
+incorporate dna fragments encompassing variants make transformed strains
+resistant. however, causative mutations embedded within larger
+recombined blocks, previous studies analysed limited number of
+isolates, leading description "mosaic genes" responsible for
+resistance. comparing large number genomes beta-lactam susceptible and
+non-susceptible strains, high frequency recombination break up
+these haplotype blocks allow use genetic association approaches to
+identify individual causative variants. here, performed genome-wide
+association study identify single nucleotide polymorphisms (snps) indels
+that could confer beta-lactam non-susceptibility using 3,085 thai 616 usa
+pneumococcal isolates independent datasets variant discovery. the
+large sample sizes allowed us narrow source beta-lactam
+non-susceptibility long recombinant fragments much smaller loci
+comprised discrete linked snps. loci appear universal
+resistance determinants, contributing equally non-susceptibility least 
+two classes beta-lactam antibiotics, play larger role resistance 
+particular antibiotics. identified loci highly non-uniform
+distribution populations. enriched vaccine-targeted, 
+but also non-vaccine-targeted lineages, may raise clinical concerns.
+identification single nucleotide polymorphisms underlying resistance be
+essential future use genome sequencing predict antibiotic sensitivity
+in clinical microbiology.
+
+doi: 10.1371/journal.pgen.1004547 
+pmcid: pmc4125147
+pmid: 25101644  [indexed medline]
+

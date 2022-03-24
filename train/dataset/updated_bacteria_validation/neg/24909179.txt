@@ -1,0 +1,50 @@
+
+1. Oncogene. 2015 Apr 16;34(16):2061-71. doi: 10.1038/onc.2014.153. Epub 2014 Jun 9.
+
+PRKACA mediates resistance to HER2-targeted therapy in breast cancer cells and
+restores anti-apoptotic signaling.
+
+Moody SE(1), Schinzel AC(2), Singh S(2), Izzo F(2), Strickland MR(2), Luo L(3),
+Thomas SR(4), Boehm JS(4), Kim SY(5), Wang ZC(6), Hahn WC(1).
+
+Author information: 
+(1)1] Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA,
+USA [2] Department of Medicine, Bringham and Women's Hospital and Harvard Medical
+School, Boston, MA, USA [3] Broad Institute of MIT and Harvard, Cambridge, MA,
+USA.
+(2)Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA, USA.
+(3)1] Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA,
+USA [2] Department of Medicine, Bringham and Women's Hospital and Harvard Medical
+School, Boston, MA, USA.
+(4)Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+(5)Department of Molecular Genetics and Microbiology, Duke University, Durham,
+NC, USA.
+(6)1] Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, MA, USA
+[2] Department of Surgery, Brigham and Women's Hospital and Harvard Medical
+School, Boston, MA, USA.
+
+Targeting HER2 with antibodies or small molecule inhibitors in HER2-positive
+breast cancer leads to improved survival, but resistance is a common clinical
+problem. To uncover novel mechanisms of resistance to anti-HER2 therapy in breast
+cancer, we performed a kinase open reading frame screen to identify genes that
+rescue HER2-amplified breast cancer cells from HER2 inhibition or suppression. In
+addition to multiple members of the MAPK (mitogen-activated protein kinase) and
+PI3K (phosphoinositide 3-kinase) signaling pathways, we discovered that
+expression of the survival kinases PRKACA and PIM1 rescued cells from anti-HER2
+therapy. Furthermore, we observed elevated PRKACA expression in
+trastuzumab-resistant breast cancer samples, indicating that this pathway is
+activated in breast cancers that are clinically resistant to
+trastuzumab-containing therapy. We found that neither PRKACA nor PIM1 restored
+MAPK or PI3K activation after lapatinib or trastuzumab treatment, but rather
+inactivated the pro-apoptotic protein BAD, the BCl-2-associated death promoter,
+thereby permitting survival signaling through BCL-XL. Pharmacological blockade of
+BCL-XL/BCL-2 partially abrogated the rescue effects conferred by PRKACA and PIM1,
+and sensitized cells to lapatinib treatment. These observations suggest that
+combined targeting of HER2 and the BCL-XL/BCL-2 anti-apoptotic pathway may
+increase responses to anti-HER2 therapy in breast cancer and decrease the
+emergence of resistant disease.
+
+DOI: 10.1038/onc.2014.153 
+PMCID: PMC4261061
+PMID: 24909179  [Indexed for MEDLINE]
+

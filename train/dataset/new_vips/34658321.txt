@@ -1,0 +1,49 @@
+
+1. Prim Health Care Res Dev. 2021 Oct 18;22:e56. doi: 10.1017/S1463423621000347.
+
+The Roth score as a triage tool for detecting hypoxaemia in general practice: a
+diagnostic validation study in patients with possible COVID-19.
+
+Ten Broeke CEM(1), Himmelreich JCL(1), Cals JWL(2), Lucassen WAM(1), Harskamp
+RE(1).
+
+Author information: 
+(1)Department of General Practice, Amsterdam UMC, University of Amsterdam,
+Amsterdam Cardiovascular Sciences and Amsterdam Public Health, Amsterdam, the
+Netherlands.
+(2)Department of Family Medicine, Maastricht University, Maastricht, the
+Netherlands.
+
+AIM: To validate the Roth score as a triage tool for detecting hypoxaemia.
+BACKGROUNDS: The virtual assessment of patients has become increasingly important
+during the corona virus disease (COVID-19) pandemic, but has limitations as to
+the evaluation of deteriorating respiratory function. This study presents data on
+the validity of the Roth score as a triage tool for detecting hypoxaemia remotely
+in potential COVID-19 patients in general practice.
+METHODS: This cross-sectional validation study was conducted in Dutch general
+practice. Patients aged ≥18 with suspected or confirmed COVID-19 were asked to
+rapidly count from 1 to 30 in a single breath. The Roth score involves the
+highest number counted during exhalation (counting number) and the time taken to 
+reach the maximal count (counting time).Outcome measures were (1) the correlation
+between both Roth score measurements and simultaneous pulse oximetry (SpO2) on
+room air and (2) discrimination (c-statistic), sensitivity, specificity and
+predictive values of the Roth score for detecting hypoxaemia (SpO2 < 95%).
+FINDINGS: A total of 33 physicians enrolled 105 patients (52.4% female, mean age 
+of 52.6 ± 20.4 years). A positive correlation was found between counting number
+and SpO2 (rs = 0.44, P < 0.001), whereas only a weak correlation was found
+between counting time and SpO2 (rs = 0.15, P = 0.14). Discrimination for
+hypoxaemia was higher for counting number [c-statistic 0.91 (95% CI: 0.85-0.96)] 
+than for counting time [c-statistic 0.77 (95% CI: 0.62-0.93)]. Optimal diagnostic
+performance was found at a counting number of 20, with a sensitivity of 93.3%
+(95% CI: 68.1-99.8) and a specificity of 77.8% (95% CI: 67.8-85.9). A counting
+time of 7 s showed the best sensitivity of 85.7% (95% CI: 57.2-98.2) and
+specificity of 81.1% (95% CI: 71.5-88.6).
+CONCLUSIONS: A Roth score, with an optimal counting number cut-off value of 20,
+maybe of added value for signalling hypoxaemia in general practice. Further
+external validation is warranted before recommending integration in telephone
+triage.
+
+DOI: 10.1017/S1463423621000347 
+PMCID: PMC8527530
+PMID: 34658321  [Indexed for MEDLINE]
+

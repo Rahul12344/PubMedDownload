@@ -1,0 +1,46 @@
+
+1. Protein Expr Purif. 2012 Mar;82(1):174-8. doi: 10.1016/j.pep.2011.11.017. Epub
+2011 Dec 8.
+
+Ubiquitin-intein and SUMO2-intein fusion systems for enhanced protein production 
+and purification.
+
+Wang Z(1), Li N, Wang Y, Wu Y, Mu T, Zheng Y, Huang L, Fang X.
+
+Author information: 
+(1)School of Life Sciences, Tsinghua University, Beijing 100084, PR China.
+
+Erratum in
+    Protein Expr Purif. 2012 Nov;86(1):82.
+
+Although most commonly used for protein production, expression of soluble and
+functional recombinant protein in Escherichia coli is still a major challenge.
+The development and application of fusion tags that can facilitate protein
+expression and solubility partly solve this problem, however, under most
+circumstance, the fusion tags have to be removed by proteases in order to use the
+proteins. Because the tag removal using proteases increases cost and introduces
+extra purification steps, it remains a significant problem that must be resolved 
+before being widely used in industry production. Ubiquitin and SUMO have been
+successfully used to enhance protein expression and solubility. In the last
+decades, intein has also been widely used in protein production for its
+self-cleavage property, which could help to remove the fusion tag without any
+protease. Here, we take the advantages of ubiquitin, SUMO2 and intein in protein 
+expression. We constructed tandem ubiquitin-intein and SUMO2-intein fusion tags, 
+and chose human MMP13 (amino acid 104-274) and eGFP as the passenger proteins
+that fused to the C-terminus of the tags. These constructs were expressed in E.
+coli and both MMP13 and eGFP expression and solubility were evaluated. Both tags 
+showed the ability to enhance the solubility of MMP13 and eGFP and improve the
+expression of eGFP, and the SUMO2-intein having a more significant effect. Both
+ubiquitin-intein-eGFP and SUMO2-intein-eGFP were purified using Ni-NTA column
+chromatography and self-cleavaged by changing pH. The recombinant un-tagged eGFP 
+were released and eluted with high homogeneity. In summary, ubiquitin-intein and 
+SUMO2-intein are convenient and useful fusion tags that can enhance the
+expression, solubility and improve the purification process of the model
+heterologous protein and these tags may have a good prospect in protein
+production.
+
+Copyright Â© 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pep.2011.11.017 
+PMID: 22178731  [Indexed for MEDLINE]
+

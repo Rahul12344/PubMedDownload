@@ -1,0 +1,57 @@
+
+1. malar j. 2020 may 29;19(1):194. doi: 10.1186/s12936-020-03257-x.
+
+identification conserved var gene different plasmodium falciparum
+strains.
+
+dimonte s(1), bruske ei(1), enderes c(1), otto td(2)(3), turner l(4)(5), kremsner
+p(1), frank m(6).
+
+author information: 
+(1)institute tropical medicine, university tuebingen, wilhelmstr. 27,
+72074, tuebingen, germany.
+(2)malaria programme, wellcome trust sanger institute, hinxton, cb10 1sa, uk.
+(3)centre immunobiology, institute infection, immunity & inflammation,
+college mvls, university glasgow, glasgow, uk.
+(4)centre medical parasitology, department immunology microbiology
+(isim), faculty health medical sciences, university copenhagen, 1165,
+copenhagen, denmark.
+(5)department infectious diseases, copenhagen university hospital
+(rigshospitalet), 2100, copenhagen, denmark.
+(6)institute tropical medicine, university tuebingen, wilhelmstr. 27,
+72074, tuebingen, germany. matthias.frank@praxis-frank-tuebingen.de.
+
+background: multicopy var gene family plasmodium falciparum crucial 
+importance pathogenesis antigenic variation. far var2csa, var
+gene responsible placental malaria, found highly conserved among
+all p. falciparum strains. here, new conserved 3d7 var gene (pf3d7_0617400) 
+identified several field isolates.
+methods: dna sequencing, transcriptional analysis, cluster differentiation
+(cd) 36-receptor binding, indirect immunofluorescence with
+pf3d7_0617400-antibodies quantification surface reactivity against
+semi-immune sera used characterize nf54 clone gabonese field
+isolate clone (moa c3) transcribing gene. population 714 whole genome
+sequenced parasites analysed characterize conservation locus in
+african asian isolates. genetic diversity two var2csa fragments was
+compared genetic diversity 57 microsatellites fragments field
+isolates.
+results: pfga01_060022400 identified gabonese parasite isolate (moa)
+from chronic infection found 99% identical pf3d7_0617400 
+3d7 genome strain. transcriptional analysis immunofluorescence showed
+expression gene nf54 moa clone cd36 binding assays and
+surface reactivity semi-immune sera differed markedly two clones.
+long-read pacific bioscience whole genome sequencing showed pfga01_060022400
+is located internal cluster chromosome 6. full length
+pfga01_060022400 detected 36 714 p. falciparum isolates 500 bp
+fragments identified 100 isolates. var2csa parts highly 
+conserved (he = 0) parts variable (he = 0.86) 57
+microsatellites markers (he = 0.8).
+conclusions: individual var gene sequences exhibit conservation global
+parasite population suggesting purifying selection may limit overall genetic
+diversity var genes. notably, field laboratory isolates expressing
+the var gene exhibit markedly different phenotypes.
+
+doi: 10.1186/s12936-020-03257-x 
+pmcid: pmc7260770
+pmid: 32471507 
+

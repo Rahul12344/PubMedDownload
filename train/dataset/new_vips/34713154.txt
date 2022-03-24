@@ -1,0 +1,53 @@
+
+1. Front Digit Health. 2021 Jul 21;3:683161. doi: 10.3389/fdgth.2021.683161.
+eCollection 2021.
+
+A Digital Personal Health Library for Enabling Precision Health Promotion to
+Prevent Human Papilloma Virus-Associated Cancers.
+
+Olusanya OA(1), Ammar N(1), Davis RL(1), Bednarczyk RA(2), Shaban-Nejad A(1).
+
+Author information: 
+(1)UTHSC-Oak Ridge National Laboratory (ORNL) Center for Biomedical Informatics, 
+Department of Pediatrics, College of Medicine, The University of Tennessee Health
+Science Center, Memphis, TN, United States.
+(2)Hubert Department of Global Health, Rollins School of Public Health, Emory
+University, Atlanta, GA, United States.
+
+Human papillomavirus (HPV) causes the most prevalent sexually transmitted
+infection (STI) in the United States. Sexually active young adults are
+susceptible to HPV, accounting for approximately 50% of new STIs. Oncogenic HPV
+subtypes 16 and 18 are associated with squamous intraepithelial lesions and
+cancers and are mostly preventable through prophylactic HPV vaccination.
+Accordingly, this study's objectives are to (1) summarize SDoH barriers and
+implication for low HPV vaccination rates among young adults (18-26 years), (2)
+propose a digital health solution that utilizes the PHL to collect, integrate,
+and manage personalized sexual and health information, and (3) describe the
+features of the PHL-based app. Through the application of novel techniques from
+artificial intelligence, specifically knowledge representation, semantic web, and
+natural language processing, this proposed PHL-based application will compile
+clinical, biomedical, and SDoH data from multi-dimensional sources. Therefore,
+this application will provide digital health interventions that are customized to
+individuals' specific needs and capacities. The PHL-based application could
+promote management and usage of personalized digital health information to
+facilitate precision health promotion thereby, informing health decision-making
+regarding HPV vaccinations, routine HPV/STI testing, cancer screenings, vaccine
+safety/efficacy/side effects, and safe sexual practices. In addition to detecting
+vaccine hesitancy, disparities and perceived barriers, this application could
+address participants' specific needs/challenges with navigating health literacy, 
+technical skills, peer influence, education, language, cultural and spiritual
+beliefs. Precision health promotion focused on improving knowledge acquisition
+and information-seeking behaviors, promoting safe sexual practices, increasing
+HPV vaccinations, and facilitating cancer screenings could be effective in
+preventing HPV-associated cancers.
+
+Copyright © 2021 Olusanya, Ammar, Davis, Bednarczyk and Shaban-Nejad.
+
+DOI: 10.3389/fdgth.2021.683161 
+PMCID: PMC8521976
+PMID: 34713154 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

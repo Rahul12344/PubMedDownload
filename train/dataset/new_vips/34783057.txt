@@ -1,0 +1,45 @@
+
+1. J Cell Biochem. 2021 Nov 15. doi: 10.1002/jcb.30181. [Epub ahead of print]
+
+SARS-CoV-2 spike evolutionary behaviors; simulation of N501Y mutation outcomes in
+terms of immunogenicity and structural characteristic.
+
+Rostami N(1), Choupani E(2), Hernandez Y(3), Arab SS(4), Jazayeri SM(5), Gomari
+MM(2).
+
+Author information: 
+(1)Department of Chemical Engineering, Faculty of Engineering, Arak University,
+Arak, Iran.
+(2)Department of Medical Biotechnology, Faculty of Allied Medicine, Iran
+University of Medical Sciences, Tehran, Iran.
+(3)Department of Cellular and Molecular Medicine, University of Arizona, Tucson, 
+Arizona, USA.
+(4)Department of Biophysics, School of Biological Sciences, Tarbiat Modares
+University, Tehran, Iran.
+(5)Department of Virology, School of Public Health, Tehran University of Medical 
+Sciences, Tehran, Iran.
+
+Since the emergence of severe acute respiratory syndrome coronavirus 2
+(SARS-CoV-2), a large number of mutations in its genome have been reported. Some 
+of the mutations occur in noncoding regions without affecting the pathobiology of
+the virus, while mutations in coding regions are significant. One of the regions 
+where a mutation can occur, affecting the function of the virus is at the
+receptor-binding domain (RBD) of the spike protein. RBD interacts with
+angiotensin-converting enzyme 2 (ACE2) and facilitates the entry of the virus
+into the host cells. There is a lot of focus on RBD mutations, especially the
+displacement of N501Y which is observed in the UK/Kent, South Africa, and
+Brazilian lineages of SARS-CoV-2. Our group utilizes computational biology
+approaches such as immunoinformatics, protein-protein interaction analysis,
+molecular dynamics, free energy computation, and tertiary structure analysis to
+disclose the consequences of N501Y mutation at the molecular level. Surprisingly,
+we discovered that this mutation reduces the immunogenicity of the spike protein;
+also, displacement of Asn with Tyr reduces protein compactness and significantly 
+increases the stability of the spike protein and its affinity to ACE2. Moreover, 
+following the N501Y mutation secondary structure and folding of the spike protein
+changed dramatically.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/jcb.30181 
+PMID: 34783057 
+

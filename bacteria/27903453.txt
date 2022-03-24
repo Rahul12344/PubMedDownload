@@ -1,0 +1,47 @@
+
+1. Free Radic Biol Med. 2017 Jun;107:179-201. doi:
+10.1016/j.freeradbiomed.2016.11.042. Epub 2016 Nov 27.
+
+Repair of 8-oxo-7,8-dihydroguanine in prokaryotic and eukaryotic cells:
+Properties and biological roles of the Fpg and OGG1 DNA N-glycosylases.
+
+Boiteux S(1), Coste F(2), Castaing B(3).
+
+Author information: 
+(1)Centre de Biophysique Moléculaire, CNRS, UPR4301, rue Charles Sadron, 45072
+Orléans, France. Electronic address: serge.boiteux@cnrs-orleans.fr.
+(2)Centre de Biophysique Moléculaire, CNRS, UPR4301, rue Charles Sadron, 45072
+Orléans, France.
+(3)Centre de Biophysique Moléculaire, CNRS, UPR4301, rue Charles Sadron, 45072
+Orléans, France. Electronic address: bertrand.castaing@cnrs-orleans.fr.
+
+Oxidatively damaged DNA results from the attack of sugar and base moieties by
+reactive oxygen species (ROS), which are formed as byproducts of normal cell
+metabolism and during exposure to endogenous or exogenous chemical or physical
+agents. Guanine, having the lowest redox potential, is the DNA base the most
+susceptible to oxidation, yielding products such as 8-oxo-7,8-dihydroguanine
+(8-oxoG) and 2-6-diamino-4-hydroxy-5-formamidopyrimidine (FapyG). In DNA, 8-oxoG 
+was shown to be mutagenic yielding GC to TA transversions upon incorporation of
+dAMP opposite this lesion by replicative DNA polymerases. In prokaryotic and
+eukaryotic cells, 8-oxoG is primarily repaired by the base excision repair
+pathway (BER) initiated by a DNA N-glycosylase, Fpg and OGG1, respectively. In
+Escherichia coli, Fpg cooperates with MutY and MutT to prevent 8-oxoG-induced
+mutations, the "GO-repair system". In Saccharomyces cerevisiae, OGG1 cooperates
+with nucleotide excision repair (NER), mismatch repair (MMR), post-replication
+repair (PRR) and DNA polymerase η to prevent mutagenesis. Human and mouse cells
+mobilize all these pathways using OGG1, MUTYH (MutY-homolog also known as MYH),
+MTH1 (MutT-homolog also known as NUDT1), NER, MMR, NEILs and DNA polymerases η
+and λ, to prevent 8-oxoG-induced mutations. In fact, mice deficient in both OGG1 
+and MUTYH develop cancer in different organs at adult age, which points to the
+critical impact of 8-oxoG repair on genetic stability in mammals. In this review,
+we will focus on Fpg and OGG1 proteins, their biochemical and structural
+properties as well as their biological roles. Other DNA N-glycosylases able to
+release 8-oxoG from damaged DNA in various organisms will be discussed. Finally, 
+we will report on the role of OGG1 in human disease and the possible use of
+8-oxoG DNA N-glycosylases as therapeutic targets.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.freeradbiomed.2016.11.042 
+PMID: 27903453  [Indexed for MEDLINE]
+

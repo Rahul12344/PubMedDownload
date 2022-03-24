@@ -1,0 +1,83 @@
+
+1. genome res. 2017 jan;27(1):133-144. doi: 10.1101/gr.201368.115. epub 2016 nov 15.
+
+integrating transcriptomic proteomic data accurate assembly and
+annotation genomes.
+
+prasad ts(1)(2)(3), mohanty ak(4)(5), kumar m(1)(6), sreenivasamurthy sk(1)(6),
+dey g(1)(6), nirujogi rs(1)(7), pinto sm(1)(2), madugundu ak(1)(7), patil
+ah(1)(8), advani j(1)(6), manda ss(1)(7), gupta mk(1)(6), dwivedi sb(1), kelkar
+ds(1), hall b(9), jiang x(9), peery a(10), rajagopalan p(1)(8), yelamanchi
+sd(1)(8), solanki hs(1)(8), raja r(1), sathe gj(1)(6), chavan s(1)(6), verma
+r(1)(8), patel km(1), jain ap(1)(8), syed n(1)(11), datta kk(1)(8), khan
+aa(1)(8), dammalli m(1)(12), jayaram s(1)(6), radhakrishnan a(1)(11), mitchell
+cj(13), na ch(14), kumar n(15), sinnis p(16), sharakhov iv(10), wang c(17), gowda
+h(1)(2), tu z(9), kumar a(4), pandey a(1)(13)(18)(19)(20).
+
+author information: 
+(1)institute bioinformatics, international technology park, bangalore,
+karnataka 560066, india.
+(2)yu-iob center systems biology molecular medicine, yenepoya university,
+mangalore 575018, india.
+(3)nimhans-iob proteomics bioinformatics laboratory, neurobiology research
+centre, national institute mental health neuro sciences, bangalore,
+karnataka 560029, india.
+(4)national institute malaria research, field station, goa 403001, india.
+(5)department zoology, goa university, taleigao plateau, goa 403206, india.
+(6)manipal university, madhav nagar, manipal, karnataka 576104, india.
+(7)centre bioinformatics, pondicherry university, puducherry 605014, india.
+(8)school biotechnology, kiit university, bhubaneswar, odisha 751024, india.
+(9)department biochemistry, virginia polytechnic institute state
+university, blacksburg, virginia 24061, usa.
+(10)department entomology, virginia polytechnic institute state
+university, blacksburg, virginia 24061, usa.
+(11)department biochemistry molecular biology, pondicherry university,
+puducherry 605014, india.
+(12)department biotechnology, siddaganga institute technology, tumkur,
+karnataka 572103, india.
+(13)mckusick-nathans institute genetic medicine, johns hopkins university
+school medicine, baltimore, maryland 21205, usa.
+(14)department neurology, johns hopkins university, baltimore, maryland 21205,
+usa.
+(15)department tropical medicine, tulane university school public health
+and tropical medicine, new orleans, louisiana 70112, usa.
+(16)malaria research institute, johns hopkins bloomberg school public health, 
+baltimore, maryland 21205, usa.
+(17)center genomics department basic sciences, school medicine,
+loma linda university, loma linda, california 92350, usa.
+(18)department biological chemistry, johns hopkins university school of
+medicine, baltimore, maryland 21205, usa.
+(19)department oncology, johns hopkins university school medicine,
+baltimore, maryland 21205, usa.
+(20)department pathology, johns hopkins university school medicine,
+baltimore, maryland 21205, usa.
+
+complementing genome sequence deep transcriptome proteome data could
+enable accurate assembly annotation newly sequenced genomes. here, we
+provide proof-of-concept integrated approach analysis genome
+and proteome anopheles stephensi, one important vectors
+of malaria parasite. achieve broad coverage genes, carried out
+transcriptome sequencing deep proteome profiling multiple anatomically
+distinct sites. based transcriptomic data alone, identified corrected
+535 events incomplete genome assembly involving 1196 scaffolds 868
+protein-coding gene models. proteogenomic approach enabled us add 365
+genes missed genome annotation identify 917 gene correction 
+events discovery 151 novel exons, 297 protein extensions, 231 exon
+extensions, 192 novel protein start sites, 19 novel translational frames, 28
+events joining exons, 76 events joining adjacent genes a
+single gene. incorporation proteomic evidence allowed us change the
+designation 87 predicted "noncoding rnas" conventional mrnas
+coded protein-coding genes. importantly, extension newly corrected
+genome assemblies gene models 15 newly assembled anopheline genomes 
+led discovery large number apparent discrepancies assembly 
+annotation genomes. data provide framework future genome
+sequencing efforts incorporate transcriptomic proteomic analysis in
+combination simultaneous manual curation achieve near complete assembly
+and accurate annotation genomes.
+
+© 2017 prasad et al.; published cold spring harbor laboratory press.
+
+doi: 10.1101/gr.201368.115 
+pmcid: pmc5204337
+pmid: 28003436  [indexed medline]
+

@@ -1,0 +1,43 @@
+
+1. PLoS One. 2021 Nov 24;16(11):e0260511. doi: 10.1371/journal.pone.0260511.
+eCollection 2021.
+
+Ten genes are considered as potential biomarkers for the diagnosis of
+dermatomyositis.
+
+Xiao L(1), Xiao W(2), Lin S(1).
+
+Author information: 
+(1)Department of Rheumatology, Hainan general hospital (Hainan Affiliated
+Hospital of Hainan Medical University), Hainan, China.
+(2)Department of Respiratory, Hainan general hospital (Hainan Affiliated Hospital
+of Hainan Medical University), Hainan, China.
+
+OBJECTIVE: This study aimed to identify the biomarkers and mechanisms for
+dermatomyositis (DM) progression at the transcriptome level through a combination
+of microarray and bioinformatic analyses.
+METHOD: Microarray datasets for skeletal muscle of DM and healthy control (HC)
+were downloaded from the Gene Expression Omnibus (GEO) database, and
+differentially expressed genes (DEGs) were identified by using GEO2R. Enrichment 
+analyses were performed to understand the functions and enriched pathways of
+DEGs. A protein-protein interaction network was constructed to identify hub
+genes. The top 10 hub genes were validated by other GEO datasets. The diagnostic 
+accuracy of the top 10 hub genes for DM was evaluated using the area under the
+curve of the receiver operating characteristic curve.
+RESULT: A total of 63 DEGs were identified between 10 DM samples and 9 HC
+samples. Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment
+analysis indicated that DEGs are mostly enriched in response to virus, defense
+response to virus, and type I interferon signaling pathway. 10 hub genes and 3
+gene cluster modules were identified by Cytoscape. The identified hub genes were 
+verified by GSE1551 and GSE11971 datasets and proven to be potential biomarkers
+for the diagnosis of DM.
+CONCLUSION: Our work identified 10 valuable genes as potential biomarkers for the
+diagnosis of DM and explored the potential underlying molecular mechanism of the 
+disease.
+
+DOI: 10.1371/journal.pone.0260511 
+PMCID: PMC8612544
+PMID: 34818375 
+
+Conflict of interest statement: The authors declare no competing interest.
+

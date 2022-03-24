@@ -1,0 +1,37 @@
+
+1. Elife. 2021 Dec 8;10. pii: e72516. doi: 10.7554/eLife.72516. [Epub ahead of
+print]
+
+Antigenic evolution of human influenza H3N2 neuraminidase is constrained by
+charge balancing.
+
+Wang Y(1), Lei R(1), Nourmohammad A(2), Wu NC(1).
+
+Author information: 
+(1)Department of Biochemistry, University of Illinois at Urbana-Champaign,
+Urbana, United States.
+(2)Department of Physics, University of Washington, Seattle, United States.
+
+As one of the main influenza antigens, neuraminidase (NA) in H3N2 virus has
+evolved extensively for more than 50 years due to continuous immune pressure.
+While NA has recently emerged as an effective vaccine target, biophysical
+constraints on the antigenic evolution of NA remain largely elusive. Here, we
+apply combinatorial mutagenesis and next-generation sequencing to characterize
+the local fitness landscape in an antigenic region of NA in six different human
+H3N2 strains that were isolated around 10 years apart. The local fitness
+landscape correlates well among strains and the pairwise epistasis is highly
+conserved. Our analysis further demonstrates that local net charge governs the
+pairwise epistasis in this antigenic region. In addition, we show that residue
+coevolution in this antigenic region is correlated with the pairwise epistasis
+between charge states. Overall, this study demonstrates the importance of
+quantifying epistasis and the underlying biophysical constraint for building a
+model of influenza evolution.
+
+© 2021, Wang et al.
+
+DOI: 10.7554/eLife.72516 
+PMID: 34878407 
+
+Conflict of interest statement: YW, RL, NW The other authors declare that no
+competing interests exist. AN Armita Nourmohammad, Reviewing editor, eLife.
+

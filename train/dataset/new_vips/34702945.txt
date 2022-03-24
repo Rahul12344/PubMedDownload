@@ -1,0 +1,42 @@
+
+1. Sci Rep. 2021 Oct 26;11(1):21084. doi: 10.1038/s41598-021-00609-8.
+
+Generator based approach to analyze mutations in genomic datasets.
+
+Jain S(#)(1), Xiao X(#)(2), Bogdan P(3), Bruck J(4).
+
+Author information: 
+(1)California Institute of Technology, Electrical Engineering, Pasadena, 91125,
+USA.
+(2)University of Southern California , Electrical and Computer Engineering, Los
+Angeles, 90007, USA.
+(3)University of Southern California , Electrical and Computer Engineering, Los
+Angeles, 90007, USA. pbogdan@usc.edu.
+(4)California Institute of Technology, Electrical Engineering, Pasadena, 91125,
+USA. bruck@caltech.edu.
+(#)Contributed equally
+
+In contrast to the conventional approach of directly comparing genomic sequences 
+using sequence alignment tools, we propose a computational approach that performs
+comparisons between sequence generators. These sequence generators are learned
+via a data-driven approach that empirically computes the state machine generating
+the genomic sequence of interest. As the state machine based generator of the
+sequence is independent of the sequence length, it provides us with an efficient 
+method to compute the statistical distance between large sets of genomic
+sequences. Moreover, our technique provides a fast and efficient method to
+cluster large datasets of genomic sequences, characterize their temporal and
+spatial evolution in a continuous manner, get insights into the locality
+sensitive information about the sequences without any need for alignment.
+Furthermore, we show that the technique can be used to detect local regions with 
+mutation activity, which can then be applied to aid alignment techniques for the 
+fast discovery of mutations. To demonstrate the efficacy of our technique on real
+genomic data, we cluster different strains of SARS-CoV-2 viral sequences,
+characterize their evolution and identify regions of the viral sequence with
+mutations.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-00609-8 
+PMCID: PMC8548350
+PMID: 34702945  [Indexed for MEDLINE]
+

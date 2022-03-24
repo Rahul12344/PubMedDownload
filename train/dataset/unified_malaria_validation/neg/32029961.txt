@@ -1,0 +1,45 @@
+
+1. indian j pharmacol. 2019 nov-dec;51(6):389-399. doi: 10.4103/ijp.ijp_535_19. epub
+2020 jan 16.
+
+investigation hub genes nonsynonymous single nucleotide polymorphism
+analysis plasmodium falciparum designing therapeutic methodologies using
+next-generation sequencing approach.
+
+singh sk(1), reddy sm(1).
+
+author information: 
+(1)department biotechnology, thapar institute engineering technology,
+patiala, punjab, india.
+
+background: incidences resistance current drugs plasmodium is
+increasing, hence, necessary investigate explore new drug targets to
+combat malarial disease.
+objective: analysis transcriptome sequence information characterize hub
+genes nonsynonymous single nucleotide polymorphisms (nssnps) derive 
+therapeutic objectives plasmodium falciparum.
+materials methods: differentially expressed genes ring other
+stages p. falciparum identified using cufflinks tool. using david and
+kaas programs, gene ontology pathway analysis performed. the
+networks protein-protein interaction (ppi) developed search tool for
+the retrieval interacting genes/proteins cytoscape, node degree in
+the network calculated using network analyzer, mcode plugins of
+cytoscape. sift, provean, predictsnp programs used study genetic 
+variations, affect protein functions.
+results: list 4196 nonredundant genes used functional annotation
+cluster analysis, 8 significant hub genes picked ppi
+network using mcode plugins cytoscape. various nssnps identified these
+8 hub genes investigated native mutant stage for
+solvent accessibility alteration secondary structure protein residues.
+conclusion: hub genes identified study serve potential targets to
+develop therapy suppress pathogenic action p. falciprum through
+experimental techniques.
+
+copyright: © 2020 indian journal pharmacology.
+
+doi: 10.4103/ijp.ijp_535_19 
+pmcid: pmc6984025
+pmid: 32029961  [indexed medline]
+
+conflict interest statement: conflicts interest.
+

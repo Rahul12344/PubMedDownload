@@ -1,0 +1,59 @@
+
+1. ACS Sens. 2021 Dec 2. doi: 10.1021/acssensors.1c01524. [Epub ahead of print]
+
+Gravity-Driven Microfluidic Siphons: Fluidic Characterization and Application to 
+Quantitative Immunoassays.
+
+Reis NM(1), Needs SH(2), Jegouic SM(2)(3), Gill KK(1), Sirivisoot S(4), Howard
+S(1), Kempe J(1), Bola S(1), Al-Hakeem K(1), Jones IM(3), Prommool T(5),
+Luangaram P(5), Avirutnan P(4)(5)(6), Puttikhunt C(4)(5)(6), Edwards AD(2).
+
+Author information: 
+(1)Department of Chemical Engineering and Centre for Biosensors, Biodevices and
+Bioelectronics (C3Bio), University of Bath, Claverton Down, Bath BA2 7AY, United 
+Kingdom.
+(2)Reading School of Pharmacy, University of Reading, Whiteknights Campus,
+Reading, RG6 6AD United Kingdom.
+(3)School of Biological Sciences, University of Reading, Whiteknights Campus,
+Reading, RG6 6AJ, United Kingdom.
+(4)Dengue Hemorrhagic Fever Research Unit, Office for Research and Development,
+Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, 10700,
+Thailand.
+(5)Molecular Biology of Dengue and Flaviviruses Research Team, Medical Molecular 
+Biotechnology Research Group, National Center for Genetic Engineering and
+Biotechnology, National Science and Technology Development Agency, Pathum Thani, 
+73170, Thailand.
+(6)Siriraj Center of Research Excellence in Dengue and Emerging Pathogens,
+Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, 10700,
+Thailand.
+
+A range of biosensing techniques including immunoassays are routinely used for
+quantitation of analytes in biological samples and available in a range of
+formats, from centralized lab testing (e.g., microplate enzyme-linked
+immunosorbent assay (ELISA)) to automated point-of-care (POC) and lateral flow
+immunochromatographic tests. High analytical performance is intrinsically linked 
+to the use of a sequence of reagent and washing steps, yet this is extremely
+challenging to deliver at the POC without a high level of fluidic control
+involving, e.g., automation, fluidic pumping, or manual fluid handling/pipetting.
+Here we introduce a microfluidic siphon concept that conceptualizes a multistep
+″dipstick″ for quantitative, enzymatically amplified immunoassays using a strip
+of microporous or microbored material. We demonstrated that gravity-driven siphon
+flow can be realized in single-bore glass capillaries, a multibored
+microcapillary film, and a glass fiber porous membrane. In contrast to other POC 
+devices proposed to date, the operation of the siphon is only dependent on the
+hydrostatic liquid pressure (gravity) and not capillary forces, and the unique
+stepwise approach to the delivery of the sample and immunoassay reagents results 
+in zero dead volume in the device, no reagent overlap or carryover, and full
+start/stop fluid control. We demonstrated applications of a 10-bore microfluidic 
+siphon as a portable ELISA system without compromised quantitative capabilities
+in two global diagnostic applications: (1) a four-plex sandwich ELISA for rapid
+smartphone dengue serotype identification by serotype-specific dengue virus NS1
+antigen detection, relevant for acute dengue fever diagnosis, and (2)
+quantitation of anti-SARS-CoV-2 IgG and IgM titers in spiked serum samples.
+Diagnostic siphons provide the opportunity for high-performance immunoassay
+testing outside sophisticated laboratories, meeting the rapidly changing global
+clinical and public health needs.
+
+DOI: 10.1021/acssensors.1c01524 
+PMID: 34854666 
+

@@ -1,0 +1,51 @@
+
+1. medRxiv. 2021 Oct 20. pii: 2021.10.18.21264623. doi: 10.1101/2021.10.18.21264623.
+
+SARS-CoV-2 variants associated with vaccine breakthrough in the Delaware Valley
+through summer 2021.
+
+Marques AD, Sherrill-Mix S, Everett J, Reddy S, Hokama P, Roche AM, Hwang Y,
+Glascock A, Whiteside SA, Graham-Wooten J, Khatib LA, Fitzgerald AS, Moustafa AM,
+Bianco C, Rajagopal S, Helton J, Deming R, Denu L, Ahmed A, Kitt E, Coffin SE,
+Newbern C, Mell JC, Planet PJ, Badjatia N, Richards B, Wang ZX, Cannuscio CC,
+Strelau KM, Jaskowiak-Barr A, Cressman L, Loughrey S, Ganguly A, Feldman MD,
+Collman RG, Rodino KG, Kelly BJ, Bushman FD.
+
+The severe acute respiratory coronavirus-2 (SARS-CoV-2) is the cause of the
+global outbreak of COVID-19. Evidence suggests that the virus is evolving to
+allow efficient spread through the human population, including vaccinated
+individuals. Here we report a study of viral variants from surveillance of the
+Delaware Valley, including the city of Philadelphia, and variants infecting
+vaccinated subjects. We sequenced and analyzed complete viral genomes from 2621
+surveillance samples from March 2020 to September 2021 and compared them to
+genome sequences from 159 vaccine breakthroughs. In the early spring of 2020, all
+detected variants were of the B.1 and closely related lineages. A mixture of
+lineages followed, notably including B.1.243 followed by B.1.1.7 (alpha), with
+other lineages present at lower levels. Later isolations were dominated by
+B.1.617.2 (delta) and other delta lineages; delta was the exclusive variant
+present by the last time sampled. To investigate whether any variants appeared
+preferentially in vaccine breakthroughs, we devised a model based on Bayesian
+autoregressive moving average logistic multinomial regression to allow rigorous
+comparison. This revealed that B.1.617.2 (delta) showed three-fold enrichment in 
+vaccine breakthrough cases (odds ratio of 3; 95% credible interval 0.89-11).
+Viral point substitutions could also be associated with vaccine breakthroughs,
+notably the N501Y substitution found in the alpha, beta and gamma variants (odds 
+ratio 2.04; 95% credible interval of 1.25-3.18). This study thus provides a
+detailed picture of viral evolution in the Delaware Valley and a geographically
+matched analysis of vaccine breakthroughs; it also introduces a rigorous
+statistical approach to interrogating enrichment of viral variants.Importance:
+SARS-CoV-2 vaccination is highly effective at reducing viral infection,
+hospitalization and death. However, vaccine breakthrough infections have been
+widely observed, raising the question of whether particular viral variants or
+viral mutations are associated with breakthrough. Here we report analysis of 2621
+surveillance isolates from xsxpeople diagnosed with COVID-19 in the Delaware
+Valley in South Eastern Pennsylvania, allowing rigorous comparison to 159 vaccine
+breakthrough case specimens. Our best estimate is a three-fold enrichment for
+some lineages of delta among breakthroughs, and enrichment of a notable spike
+substitution, N501Y. We introduce statistical methods that should be widely
+useful for evaluating vaccine breakthroughs and other viral phenotypes.
+
+DOI: 10.1101/2021.10.18.21264623 
+PMCID: PMC8547530
+PMID: 34704098 
+

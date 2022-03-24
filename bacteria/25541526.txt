@@ -1,0 +1,51 @@
+
+1. J Mol Graph Model. 2015 Mar;56:10-9. doi: 10.1016/j.jmgm.2014.11.014. Epub 2014
+Dec 8.
+
+Molecular recognition of CYP26A1 binding pockets and structure-activity
+relationship studies for design of potent and selective retinoic acid metabolism 
+blocking agents.
+
+Sun B(1), Song S(1), Hao CZ(1), Huang WX(1), Liu CC(1), Xie HL(1), Lin B(1),
+Cheng MS(1), Zhao DM(2).
+
+Author information: 
+(1)Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of
+Education, School of Pharmaceutical Engineering, Shenyang Pharmaceutical
+University, 103 Wenhua Road, Shenhe District, Shenyang 110016, PR China.
+(2)Key Laboratory of Structure-Based Drug Design & Discovery of Ministry of
+Education, School of Pharmaceutical Engineering, Shenyang Pharmaceutical
+University, 103 Wenhua Road, Shenhe District, Shenyang 110016, PR China.
+Electronic address: medchemzhao@163.com.
+
+All-trans-retinoic acid (ATRA), the biologically most active metabolite of
+vitamin A, plays a major role in the regulation of cellular differentiation and
+proliferation, and it is also an important pharmacological agent particularly
+used in the treatment of cancer, skin, neurodegenerative and autoimmune diseases.
+However, ATRA is very easy to be metabolized into 4-hydroxyl-RA in vivo by
+CYP26A1, an inducible cytochrome P450 enzyme, eventually into more polar
+metabolites. Therefore, it is vital to develop specific retinoic acid metabolism 
+blocking agents (RAMBAs) to inhibit the metabolic enzyme CYP26A1 in the treatment
+of relevant diseases aforementioned. In this study, CYP26A1 and its interactions 
+with retinoic acid-competitive metabolism blocking agents were investigated by a 
+combined ligand- and structure-based approach. First, since the crystal structure
+of CYP26A1 protein has not been determined, we constructed the 3D structure of
+CYP26A1 using homology modeling. In order to achieve a deeper insight into the
+mode of action of RAMBAs in the active site, the molecular superimposition model 
+and the common feature pharmacophore model were constructed, and molecular
+docking was performed. The molecular superimposition model is composed of three
+features: the main chain groups, side chain groups, and azole groups. The common 
+feature pharmacophore model consists of five chemical features: four hydrophobic 
+groups and one hydrogen acceptor (HHHHA). The results of molecular docking show
+that the characteristic groups of RAMBAs were mapped into three different active 
+pockets, respectively. A structure-activity relationship (SAR) was obtained by a 
+combination of the molecular superimposition and docking results with the
+pharmacophore model. This study gives more insight into the interaction model
+inside the CYP26A1 active site and provides guidance for the design of more
+potent and possibly more selective RAMBAs.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jmgm.2014.11.014 
+PMID: 25541526  [Indexed for MEDLINE]
+

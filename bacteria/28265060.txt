@@ -1,0 +1,40 @@
+
+1. Proc Natl Acad Sci U S A. 2017 Mar 14;114(11):2916-2921. doi:
+10.1073/pnas.1617615114. Epub 2017 Mar 6.
+
+Electron transfer pathways in a multiheme cytochrome MtrF.
+
+Watanabe HC(1)(2), Yamashita Y(1), Ishikita H(3)(2).
+
+Author information: 
+(1)Department of Applied Chemistry, Graduate School of Engineering, The
+University of Tokyo, Tokyo 113-8654, Japan.
+(2)Research Center for Advanced Science and Technology, The University of Tokyo, 
+Tokyo 153-8904, Japan.
+(3)Department of Applied Chemistry, Graduate School of Engineering, The
+University of Tokyo, Tokyo 113-8654, Japan; hiro@appchem.t.u-tokyo.ac.jp.
+
+Comment in
+    Proc Natl Acad Sci U S A. 2017 Nov 21;114(47):E10029-E10030.
+    Proc Natl Acad Sci U S A. 2017 Nov 21;114(47):E10028.
+
+In MtrF, an outer-membrane multiheme cytochrome, the 10 heme groups are arranged 
+in heme binding domains II and IV along the pseudo-C2 axis, forming the electron 
+transfer (ET) pathways. Previous reports based on molecular dynamics simulations 
+showed that the redox potential (Em) values for the heme pairs located in
+symmetrical positions in domains II and IV were similar, forming bidirectional ET
+pathways [Breuer M, Zarzycki P, Blumberger J, Rosso KM (2012) J Am Chem Soc
+134(24):9868-9871]. Here, we present the Em values of the 10 hemes in MtrF,
+solving the linear Poisson-Boltzmann equation and considering the protonation
+states of all titratable residues and heme propionic groups. In contrast to
+previous studies, the Em values indicated that the ET is more likely to be
+downhill from domain IV to II because of localization of acidic residues in
+domain IV. Reduction of hemes in MtrF lowered the Em values, resulting in
+switching to alternative downhill ET pathways that extended to the flavin binding
+sites. These findings present an explanation of how MtrF serves as an electron
+donor to extracellular substrates.
+
+DOI: 10.1073/pnas.1617615114 
+PMCID: PMC5358398
+PMID: 28265060  [Indexed for MEDLINE]
+

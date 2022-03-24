@@ -1,0 +1,48 @@
+
+1. Sci Rep. 2021 Nov 30;11(1):23179. doi: 10.1038/s41598-021-02353-5.
+
+Drug repurposing for COVID-19 using graph neural network and harmonizing multiple
+evidence.
+
+Hsieh K(1), Wang Y(2), Chen L(1), Zhao Z(3), Savitz S(4), Jiang X(1), Tang J(2), 
+Kim Y(5).
+
+Author information: 
+(1)Center for Secure Artificial Intelligence for Healthcare, School of Biomedical
+Informatics, The University of Texas Health Science Center at Houston, Houston,
+TX, USA.
+(2)Research Program in Systems Oncology, Faculty of Medicine, University of
+Helsinki, Helsinki, Finland.
+(3)Center for Precision Health, School of Biomedical Informatics, The University 
+of Texas Health Science Center at Houston, Houston, TX, USA.
+(4)Institute for Stroke and Cerebrovascular Disease, The University of Texas
+Health Science Center at Houston, Houston, TX, USA.
+(5)Center for Secure Artificial Intelligence for Healthcare, School of Biomedical
+Informatics, The University of Texas Health Science Center at Houston, Houston,
+TX, USA. yejin.kim@uth.tmc.edu.
+
+Since the 2019 novel coronavirus disease (COVID-19) outbreak in 2019 and the
+pandemic continues for more than one year, a vast amount of drug research has
+been conducted and few of them got FDA approval. Our objective is to prioritize
+repurposable drugs using a pipeline that systematically integrates the
+interaction between COVID-19 and drugs, deep graph neural networks, and in
+vitro/population-based validations. We first collected all available drugs
+(n = 3635) related to COVID-19 patient treatment through CTDbase. We built a
+COVID-19 knowledge graph based on the interactions among virus baits, host genes,
+pathways, drugs, and phenotypes. A deep graph neural network approach was used to
+derive the candidate drug's representation based on the biological interactions. 
+We prioritized the candidate drugs using clinical trial history, and then
+validated them with their genetic profiles, in vitro experimental efficacy, and
+population-based treatment effect. We highlight the top 22 drugs including
+Azithromycin, Atorvastatin, Aspirin, Acetaminophen, and Albuterol. We further
+pinpointed drug combinations that may synergistically target COVID-19. In
+summary, we demonstrated that the integration of extensive interactions, deep
+neural networks, and multiple evidence can facilitate the rapid identification of
+candidate drugs for COVID-19 treatment.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-02353-5 
+PMCID: PMC8632883
+PMID: 34848761 
+

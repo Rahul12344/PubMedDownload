@@ -1,0 +1,72 @@
+
+1. Lancet Microbe. 2021 Nov 15. doi: 10.1016/S2666-5247(21)00267-6. [Epub ahead of
+print]
+
+Neutralising antibody titres as predictors of protection against SARS-CoV-2
+variants and the impact of boosting: a meta-analysis.
+
+Cromer D(1), Steain M(2)(3), Reynaldi A(1), Schlub TE(1)(4), Wheatley AK(5), Juno
+JA(5), Kent SJ(5)(6), Triccas JA(2)(3), Khoury DS(1), Davenport MP(1).
+
+Author information: 
+(1)Kirby Institute, University of New South Wales, Sydney, NSW, Australia.
+(2)Sydney Institute of Infectious Diseases and Charles Perkins Centre, The
+University of Sydney, Camperdown, NSW, Australia.
+(3)School of Medical Sciences, University of Sydney, Sydney, NSW, Australia.
+(4)Sydney School of Public Health, University of Sydney, Sydney, NSW, Australia.
+(5)Department of Microbiology and Immunology, University of Melbourne at the
+Peter Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia.
+(6)Melbourne Sexual Health Centre and Department of Infectious Diseases, Alfred
+Hospital and Central Clinical School, Monash University, Melbourne, VIC,
+Australia.
+
+Background: Several SARS-CoV-2 variants of concern have been identified that
+partly escape serum neutralisation elicited by current vaccines. Studies have
+also shown that vaccines demonstrate reduced protection against symptomatic
+infection with SARS-CoV-2 variants. We explored whether in-vitro neutralisation
+titres remain predictive of vaccine protection from infection with SARS-CoV-2
+variants.
+Methods: In this meta-analysis, we analysed published data from 24 identified
+studies on in-vitro neutralisation and clinical protection to understand the loss
+of neutralisation to existing SARS-CoV-2 variants of concern. We integrated the
+results of this analysis into our existing statistical model relating in-vitro
+neutralisation to protection (parameterised on data from ancestral virus
+infection) to estimate vaccine efficacy against SARS-CoV-2 variants. We also
+analysed data on boosting of vaccine responses and use the model to predict the
+impact of booster vaccination on protection against SARS-CoV-2 variants.
+Findings: The neutralising activity against the ancestral SARS-CoV-2 was highly
+predictive of neutralisation of variants of concern. Decreases in neutralisation 
+titre to the alpha (1·6-fold), beta (8·8-fold), gamma (3·5-fold), and delta
+(3·9-fold) variants (compared to the ancestral virus) were not significantly
+different between different vaccines. Neutralisation remained strongly correlated
+with protection from symptomatic infection with SARS-CoV-2 variants of concern (r
+S=0·81, p=0·0005) and the existing model remained predictive of vaccine efficacy 
+against variants of concern once decreases in neutralisation to the variants of
+concern were incorporated. Modelling of predicted vaccine efficacy against
+variants over time suggested that protection against symptomatic infection might 
+decrease below 50% within the first year after vaccination for some vaccines.
+Boosting of previously infected individuals with existing vaccines (which target 
+ancestral virus) is predicted to provide a higher degree of protection from
+infection with variants of concern than primary vaccination schedules alone.
+Interpretation: In-vitro neutralisation titres remain a correlate of protection
+from SARS-CoV-2 variants and modelling of the effects of waning immunity predicts
+a loss of protection to the variants after vaccination. However, booster
+vaccination with current vaccines should enable higher neutralisation to
+SARS-CoV-2 variants than is achieved with primary vaccination, which is predicted
+to provide robust protection from severe infection outcomes with the current
+SARS-CoV-2 variants of concern, at least in the medium term.
+Funding: The National Health and Medical Research Council (Australia), the
+Medical Research Future Fund (Australia), and the Victorian Government.
+
+© 2021 The Author(s). Published by Elsevier Ltd. This is an Open Access article
+under the CC BY 4.0 license.
+
+DOI: 10.1016/S2666-5247(21)00267-6 
+PMCID: PMC8592563
+PMID: 34806056 
+
+Conflict of interest statement: DSK is elected executive committee member of the 
+New South Wales branch of the Australian and New Zealand Industrial and Applied
+Mathematics society. MPD is senior editor for eLife, for which he receives an
+annual retainer. All other authors declare no competing interests.
+

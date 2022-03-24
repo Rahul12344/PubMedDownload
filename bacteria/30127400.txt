@@ -1,0 +1,58 @@
+
+1. Sci Rep. 2018 Aug 20;8(1):12471. doi: 10.1038/s41598-018-30763-5.
+
+Repurposing Thioridazine (TDZ) as an anti-inflammatory agent.
+
+Baig MS(1), Roy A(2), Saqib U(3), Rajpoot S(2), Srivastava M(2), Naim A(2), Liu
+D(4), Saluja R(5), Faisal SM(6), Pan Q(7), Turkowski K(8), Darwhekar GN(9), Savai
+R(10)(11).
+
+Author information: 
+(1)Discipline of Biosciences and Biomedical Engineering (BSBE), Indian Institute 
+of Technology Indore (IITI), Simrol, 453552, India. msb@iiti.ac.in.
+(2)Discipline of Biosciences and Biomedical Engineering (BSBE), Indian Institute 
+of Technology Indore (IITI), Simrol, 453552, India.
+(3)Discipline of Chemistry, Indian Institute of Technology Indore (IITI), Simrol,
+453552, India.
+(4)Centre for Inflammation & Epigenetics, Houston Methodist Research Institute,
+Houston, Department of Microbiology and Immunology, Weill Cornell Medical
+College, Cornell University, New York, NY, USA.
+(5)Department of Biochemistry, All India Institute of Medical Sciences (AIIMS),
+Bhopal, 462020, India.
+(6)National Institute of Animal Biotechnology (NIAB), Hyderabad, 500032, India.
+(7)Department of Gastroenterology and Hepatology, Erasmus MC-University Medical
+Center, 3015 CE, Rotterdam, The Netherlands.
+(8)Max Planck Institute for Heart and Lung Research, Department of Lung
+Development and Remodeling, 61231, Bad Nauheim, Germany.
+(9)Acropolis Institute of Pharmaceutical Education and Research (AIPER), Indore, 
+453771, India.
+(10)Max Planck Institute for Heart and Lung Research, Department of Lung
+Development and Remodeling, 61231, Bad Nauheim, Germany.
+rajkumar.savai@mpi-bn.mpg.de.
+(11)Department of Internal Medicine, Universities of Giessen and Marburg Lung
+Center (UGMLC), member of the DZL, Justus Liebig University, Giessen, 35392,
+Germany. rajkumar.savai@mpi-bn.mpg.de.
+
+Nuclear factor-kB (NF-kB) is a crucial transcription factor in the signal
+transduction cascade of the inflammatory signaling. Activation of NF-κB depends
+on the phosphorylation of IκBα by IκB kinase (IKKβ) followed by subsequent
+ubiquitination and degradation. This leads to the nuclear translocation of the
+p50- p65 subunits of NF-κB, and further triggers pro-inflammatory cytokine gene
+expression. Thus, in the need of a more effective therapy for the treatment of
+inflammatory diseases, specific inhibition of IKKβ represents a rational
+alternative strategy to the current therapies. A computer-aided drug
+identification protocol was followed to identify novel IKKβ inhibitors from a
+database of over 1500 Food and Drug Administration (FDA) drugs. The best scoring 
+compounds were compared with the already known high-potency IKKβ inhibitors for
+their ability to bind and inhibit IKKβ by evaluating their docking energy.
+Finally, Thioridazinehydrochloride (TDZ), a potent antipsychotic drug against
+Schizophrenia was selected and its efficiency in inhibiting IκBα protein
+degradation and NF-κB activation was experimentally validated. Our study has
+demonstrated that TDZ blocks IκBα protein degradation and subsequent NF-κB
+activation to inhibit inflammation. Thus, it is a potential repurposed drug
+against inflammation.
+
+DOI: 10.1038/s41598-018-30763-5 
+PMCID: PMC6102213
+PMID: 30127400  [Indexed for MEDLINE]
+

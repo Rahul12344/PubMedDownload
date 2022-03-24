@@ -1,0 +1,42 @@
+
+1. Appl Environ Microbiol. 2003 May;69(5):2800-9.
+
+The ars detoxification system is advantageous but not required for As(V)
+respiration by the genetically tractable Shewanella species strain ANA-3.
+
+Saltikov CW(1), Cifuentes A, Venkateswaran K, Newman DK.
+
+Author information: 
+(1)Department Geological and Planetary Sciences, California Institute of
+Technology, Pasadena, CA 91125, USA.
+
+Arsenate [As(V); HAsO(4)(2-)] respiration by bacteria is poorly understood at the
+molecular level largely due to a paucity of genetically tractable organisms with 
+this metabolic capability. We report here the isolation of a new As(V)-respiring 
+strain (ANA-3) that is phylogenetically related to members of the genus
+Shewanella and that also provides a useful model system with which to explore the
+molecular basis of As(V) respiration. This gram-negative strain
+stoichiometrically couples the oxidation of lactate to acetate with the reduction
+of As(V) to arsenite [As(III); HAsO(2)]. The generation time and lactate molar
+growth yield (Y(lactate)) are 2.8 h and 10.0 g of cells mol of lactate(-1),
+respectively, when it is grown anaerobically on lactate and As(V). ANA-3 uses a
+wide variety of terminal electron acceptors, including oxygen, soluble ferric
+iron, oxides of iron and manganese, nitrate, fumarate, the humic acid functional 
+analog 2,6-anthraquinone disulfonate, and thiosulfate. ANA-3 also reduces As(V)
+to As(III) in the presence of oxygen and resists high concentrations of As(III)
+(up to 10 mM) when grown under either aerobic or anaerobic conditions. ANA-3
+possesses an ars operon (arsDABC) that allows it to resist high levels of
+As(III); this operon also confers resistance to the As-sensitive strains
+Shewanella oneidensis MR-1 and Escherichia coli AW3110. When the gene encoding
+the As(III) efflux pump, arsB, is inactivated in ANA-3 by a polar mutation that
+also eliminates the expression of arsC, which encodes an As(V) reductase, the
+resulting As(III)-sensitive strain still respires As(V); however, the generation 
+time and the Y(lactate) value are two- and threefold lower, respectively, than
+those of the wild type. These results suggest that ArsB and ArsC may be useful
+for As(V)-respiring bacteria in environments where As concentrations are high,
+but that neither is required for respiration.
+
+DOI: 10.1128/AEM.69.5.2800-2809.2003 
+PMCID: PMC154534
+PMID: 12732551  [Indexed for MEDLINE]
+

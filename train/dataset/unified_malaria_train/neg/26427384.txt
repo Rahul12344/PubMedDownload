@@ -1,0 +1,39 @@
+
+1. curr protein pept sci. 2016;17(3):220-7.
+
+multi-output model box-jenkins operators quadratic indices prediction
+of malaria cancer inhibitors targeting ubiquitin- proteasome pathway (upp)
+proteins.
+
+casañola-martin gm, le-thi-thu h, pérez-giménez f, marrero-ponce y,
+merino-sanjuán m, abad c, gonzález-díaz h(1).
+
+author information: 
+(1)departament de bioquímica biologia molecular, universitat de valència,
+e-46100 burjassot, spain ikerbasque, basque foundation science, 48011,
+bilbao, spain. humberto.gonzalezdiaz@ehu.es.
+
+the ubiquitin-proteasome pathway (upp) primary degradation system of
+short-lived regulatory proteins. cellular processes cell cycle,
+signal transduction, gene expression, dna repair apoptosis regulated by
+this upp dysfunctions system important implications the
+development cancer, neurodegenerative, cardiac human pathologies.
+upp seems also important function eukaryote cells the
+human parasites like plasmodium falciparum, causal agent neglected
+disease malaria. hence, upp could considered attractive target for
+the development compounds anti-malarial anti-cancer properties. recent
+online databases like chembl contains larger quantity information terms
+of pharmacological assay protocols compounds tested upp inhibitors under
+many different conditions. large amount data give new openings the
+computer-aided identification upp inhibitors, intrinsic data diversity
+is obstacle development successful classifiers. solve this
+problem used bob-jenkins moving average operators atom-based 
+quadratic molecular indices calculated software tomocomd-cardd (tc) to
+develop quantitative model prediction multiple outputs this
+complex dataset. multi-target model predict results drugs 22 
+molecular cellular targets different organisms accuracies 70% in
+both training validation sets.
+
+doi: 10.2174/1389203717999160226173500 
+pmid: 26427384  [indexed medline]
+

@@ -1,0 +1,70 @@
+
+1. Lancet Healthy Longev. 2021 Dec;2(12):e811-e819. doi:
+10.1016/S2666-7568(21)00253-1. Epub 2021 Dec 1.
+
+Reinfection with new variants of SARS-CoV-2 after natural infection: a
+prospective observational cohort in 13 care homes in England.
+
+Jeffery-Smith A(1)(2), Rowland TAJ(1), Patel M(1), Whitaker H(3), Iyanger N(4),
+Williams SV(4), Giddings R(4), Thompson L(4), Zavala M(5), Aiano F(5), Ellis
+J(5), Lackenby A(1), Höschler K(1), Brown K(5), Ramsay ME(5), Gopal R(1), Chow
+JY(4), Ladhani SN(5)(6), Zambon M(1).
+
+Author information: 
+(1)Virus Reference Department, Public Health England, London, UK.
+(2)Blizard Institute, Queen Mary University of London, London, UK.
+(3)Data and Analytical Sciences, Public Health England, London, UK.
+(4)London Coronavirus Response Cell, National Infection Service, Public Health
+England, London, UK.
+(5)Immunisation and Countermeasures Division, Public Health England, London, UK.
+(6)Paediatric Infectious Diseases Research Group, St. George's University of
+London, London, UK.
+
+Background: Understanding the duration of protection and risk of reinfection
+after natural infection is crucial to planning COVID-19 vaccination for at-risk
+groups, including care home residents, particularly with the emergence of more
+transmissible variants. We report on the duration, neutralising activity, and
+protection against the alpha variant of previous SARS-CoV-2 infection in care
+home residents and staff infected more than 6 months previously.
+Methods: We did this prospective observational cohort surveillance in 13 care
+homes in Greater London, England. All staff and residents were included. Staff
+and residents had regular nose and throat screening for SARS-CoV-2 by RT-PCR
+according to national guidelines, with ad hoc testing of symptomatic individuals.
+From January, 2021, antigen lateral flow devices were also used, but positive
+tests still required RT-PCR confirmation. Staff members took the swab samples for
+themselves and the residents. The primary outcome was SARS-CoV-2 RT-PCR positive 
+primary infection or reinfection in previously infected individuals, as
+determined by previous serological testing and screening or diagnostic RT-PCR
+results. Poisson regression and Cox proportional hazards models were used to
+estimate protective effectiveness of previous exposure. SARS-CoV-2 spike,
+nucleoprotein, and neutralising antibodies were assessed at multiple timepoints
+as part of the longitudinal follow-up.
+Findings: Between April 10 and Aug 3, 2020, we recruited and tested 1625
+individuals (933 staff and 692 residents). 248 participants were lost to
+follow-up (123 staff and 125 residents) and 1377 participants were included in
+the follow-up period to Jan 31, 2021 (810 staff and 567 residents). There were 23
+reinfections (ten confirmed, eight probable, five possible) in 656 previously
+infected individuals (366 staff and 290 residents), compared with 165 primary
+infections in 721 susceptible individuals (444 staff and 277 residents). Those
+with confirmed reinfections had no or low neutralising antibody concentration
+before reinfection, with boosting of titres after reinfection. Kinetics of
+binding and neutralising antibodies were similar in older residents and younger
+staff.
+Interpretation: SARS-CoV-2 reinfections were rare in older residents and younger 
+staff. Protection from SARS-CoV-2 was sustained for longer than 9 months,
+including against the alpha variant. Reinfection was associated with no or low
+neutralising antibody before reinfection, but significant boosting occurred on
+reinfection.
+Funding: Public Health England.
+
+© 2021 Published by Elsevier Ltd. This is an Open Access article under the CC
+BY-NC-ND 4.0 license.
+
+DOI: 10.1016/S2666-7568(21)00253-1 
+PMCID: PMC8635459
+PMID: 34873592 
+
+Conflict of interest statement: We declare no competing interests. The authors
+are all employed by Public Health England, which is a public body and an
+executive agency of the Department of Health and Social Care.
+

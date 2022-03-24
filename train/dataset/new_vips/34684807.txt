@@ -1,0 +1,38 @@
+
+1. Molecules. 2021 Oct 15;26(20). pii: 6226. doi: 10.3390/molecules26206226.
+
+Actions of Camptothecin Derivatives on Larvae and Adults of the Arboviral Vector 
+Aedes aegypti.
+
+Partridge FA(1), Poulton BC(2), Lake MAI(1), Lees RA(2), Mann HJ(1), Lycett
+GJ(2), Sattelle DB(1).
+
+Author information: 
+(1)Centre for Respiratory Biology, UCL Respiratory, Division of Medicine,
+University College London, London WC1E 6BT, UK.
+(2)Liverpool School of Tropical Medicine, Pembroke Place, Liverpool L3 5QA, UK.
+
+Mosquito-borne viruses including dengue, Zika, and Chikungunya viruses, and
+parasites such as malaria and Onchocerca volvulus endanger health and economic
+security around the globe, and emerging mosquito-borne pathogens have pandemic
+potential. However, the rapid spread of insecticide resistance threatens our
+ability to control mosquito vectors. Larvae of Aedes aegypti were screened with
+the Medicines for Malaria Venture Pandemic Response Box, an open-source compound 
+library, using INVAPP, an invertebrate automated phenotyping platform suited to
+high-throughput chemical screening of larval motility. We identified rubitecan (a
+synthetic derivative of camptothecin) as a hit compound that reduced A. aegypti
+larval motility. Both rubitecan and camptothecin displayed concentration
+dependent reduction in larval motility with estimated EC50 of 25.5 ± 5.0 µM and
+22.3 ± 5.4 µM, respectively. We extended our investigation to adult mosquitoes
+and found that camptothecin increased lethality when delivered in a blood meal to
+A. aegypti adults at 100 µM and 10 µM, and completely blocked egg laying when fed
+at 100 µM. Camptothecin and its derivatives are inhibitors of topoisomerase I,
+have known activity against several agricultural pests, and are also approved for
+the treatment of several cancers. Crucially, they can inhibit Zika virus
+replication in human cells, so there is potential for dual targeting of both the 
+vector and an important arbovirus that it carries.
+
+DOI: 10.3390/molecules26206226 
+PMCID: PMC8540655
+PMID: 34684807  [Indexed for MEDLINE]
+

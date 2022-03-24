@@ -1,0 +1,66 @@
+
+1. PLoS One. 2021 Oct 21;16(10):e0258913. doi: 10.1371/journal.pone.0258913.
+eCollection 2021.
+
+High association of COVID-19 severity with poor gut health score in Lebanese
+patients.
+
+Al Kassaa I(1)(2), El Omari S(3), Abbas N(4), Papon N(5), Drider D(6), Kassem
+II(7), Osman M(8).
+
+Author information: 
+(1)Faculty of Public Health, Lebanese University, Beirut, Lebanon.
+(2)Doctoral School of Science and Technology, Lebanese University, Beirut,
+Lebanon.
+(3)Department of Epidemiology and Population Health, Faculty of Health Sciences, 
+American University of Beirut, Beirut, Lebanon.
+(4)Department of Health Management and Policy, Faculty of Health Sciences,
+American University of Beirut, Beirut, Lebanon.
+(5)Univ Angers, Univ Brest, GEIHP, SFR ICAT, Angers, France.
+(6)UMR Transfrontalière BioEcoAgro1158, Univ. Lille, INRAE, Univ. Liège, UPJV,
+YNCREA, Univ. Artois, Univ. Littoral Côte d'Opale, ICV-Institut Charles
+Viollette, Lille, France.
+(7)Center for Food Safety and Department of Food Science and Technology,
+University of Georgia, Griffin, GA, United States of America.
+(8)Department of Population Medicine and Diagnostic Sciences, College of
+Veterinary Medicine, Cornell University, Ithaca, NY, United States of America.
+
+BACKGROUND: Coronavirus disease 2019 (COVID-19) has affected millions of lives
+globally. However, the disease has presented more extreme challenges for
+developing countries that are experiencing economic crises. Studies on COVID-19
+symptoms and gut health are scarce and have not fully analyzed possible
+associations between gut health and disease pathophysiology. Therefore, this
+study aimed to demonstrate a potential association between gut health and
+COVID-19 severity in the Lebanese community, which has been experiencing a severe
+economic crisis.
+METHODS: This cross-sectional study investigated SARS-CoV-2 PCR-positive Lebanese
+patients. Participants were interviewed and gut health, COVID-19 symptoms, and
+different metrics were analyzed using simple and multiple logistic regression
+models.
+RESULTS: Analysis of the data showed that 25% of participants were asymptomatic, 
+while an equal proportion experienced severe symptoms, including dyspnea (22.7%),
+oxygen need (7.5%), and hospitalization (3.1%). The mean age of the participants 
+was 38.3 ±0.8 years, and the majority were males (63.9%), married (68.2%), and
+currently employed (66.7%). A negative correlation was found between gut health
+score and COVID-19 symptoms (Kendall's tau-b = -0.153, P = 0.004); indicating
+that low gut health was associated with more severe COVID-19 cases. Additionally,
+participants who reported unhealthy food intake were more likely to experience
+severe symptoms (Kendall's tau-b = 0.118, P = 0.049). When all items were taken
+into consideration, multiple ordinal logistic regression models showed a
+significant association between COVID-19 symptoms and each of the following
+variables: working status, flu-like illness episodes, and gut health score.
+COVID-19 severe symptoms were more common among patients having poor gut health
+scores (OR:1.31, 95%CI:1.07-1.61; P = 0.008), experiencing more than one episode 
+of flu-like illness per year (OR:2.85, 95%CI:1.58-5.15; P = 0.001), and owning a 
+job (OR:2.00, 95%CI:1.1-3.65; P = 0.023).
+CONCLUSIONS: To our knowledge, this is the first study that showed the impact of 
+gut health and exposure to respiratory viruses on COVID-19 severity in Lebanon.
+These findings can facilitate combating the pandemic in Lebanon.
+
+DOI: 10.1371/journal.pone.0258913 
+PMCID: PMC8530309
+PMID: 34673813  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

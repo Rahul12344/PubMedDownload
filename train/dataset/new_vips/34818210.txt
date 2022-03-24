@@ -1,0 +1,43 @@
+
+1. JMIR Form Res. 2021 Nov 16. doi: 10.2196/28416. [Epub ahead of print]
+
+Predictors to use mobile apps for monitoring COVID-19 symptoms and contact
+tracing: A survey among Dutch citizens.
+
+Jansen-Kosterink SM(1)(2), Hurmuz M(1)(2), den Ouden M(3), van Velsen L(1)(2).
+
+Author information: 
+(1)Roessingh Research and Development, Roessinghsbleekweg 33b, Enschede, NL.
+(2)University of Twente, Drienerlolaan 6, Enschede, NL.
+(3)Saxion University of Applied Sciences, Enschede, NL.
+
+BACKGROUND: eHealth applications have been recognized as a valuable tool to
+reduce COVID-19's effective reproduction number. The factors that determine
+acceptance of COVID-19 apps are unknown. The exception here is privacy.
+OBJECTIVE: The aim of this article was to identify antecedents of acceptance of
+1) a mobile application for COVID-19 symptom recognition and monitoring, and 2) a
+mobile application for contact tracing, both by means of an online survey among
+Dutch citizens.
+METHODS: Next to the demographics, the online survey contained questions focusing
+on perceived health, fear of COVID-19 and intention to use. We used snowball
+sampling via posts on social media and personal connections. To identify
+antecedents of the model for acceptance of the two mobile applications we
+conducted multiple linear regression analyses.
+RESULTS: In total, 238 Dutch adults completed the survey. Almost 60% of the
+responders were female and the average age was 45.6 years (SD±17.4). For the
+symptom app, the final model included the predictors age, attitude towards
+technology and fear of COVID-19. The model had an r2 of 0.141. The final model
+for the tracing app included the same predictors and had an r2 of 0.156. The main
+reason to use both mobile applications was to control the spread of the COVID-19 
+virus. Concerns about privacy was mentioned as the main reason not to use the
+mobile applications.
+CONCLUSIONS: Age, attitude towards technology and fear of COVID-19 are important 
+predictors of the acceptance of COVID-19 mobile applications for symptom
+recognition and monitoring and for contact tracing. These predictors should be
+taken into account during the development and implementation of these mobile
+applications to secure acceptance.
+CLINICALTRIAL:
+
+DOI: 10.2196/28416 
+PMID: 34818210 
+

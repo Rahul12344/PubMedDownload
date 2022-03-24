@@ -1,0 +1,48 @@
+
+1. Front Immunol. 2019 May 3;10:966. doi: 10.3389/fimmu.2019.00966. eCollection
+2019.
+
+Dynamically Driven Allostery in MHC Proteins: Peptide-Dependent Tuning of Class I
+MHC Global Flexibility.
+
+Ayres CM(1)(2), Abualrous ET(3), Bailey A(4), Abraham C(1)(2), Hellman LM(1)(2), 
+Corcelli SA(1), Noé F(3), Elliott T(4), Baker BM(1)(2).
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, University of Notre Dame, Notre
+Dame, IN, United States.
+(2)Harper Cancer Research Institute, University of Notre Dame, South Bend, IN,
+United States.
+(3)Computational Molecular Biology Group, Institute for Mathematics, Freie
+Universität Berlin, Berlin, Germany.
+(4)Institute for Life Sciences and Centre for Cancer Immunology, University of
+Southampton, Southampton, United Kingdom.
+
+T cell receptor (TCR) recognition of antigenic peptides bound and presented by
+class I major histocompatibility complex (MHC) proteins underlies the cytotoxic
+immune response to diseased cells. Crystallographic structures of TCR-peptide/MHC
+complexes have demonstrated how TCRs simultaneously interact with both the
+peptide and the MHC protein. However, it is increasingly recognized that, beyond 
+serving as a static platform for peptide presentation, the physical properties of
+class I MHC proteins are tuned by different peptides in ways that are not always 
+structurally visible. These include MHC protein motions, or dynamics, which are
+believed to influence interactions with a variety of MHC-binding proteins,
+including not only TCRs, but other activating and inhibitory receptors as well as
+components of the peptide loading machinery. Here, we investigated the mechanisms
+by which peptides tune the dynamics of the common class I MHC protein HLA-A2. By 
+examining more than 50 lengthy molecular dynamics simulations of HLA-A2
+presenting different peptides, we identified regions susceptible to dynamic
+tuning, including regions in the peptide binding domain as well as the distal α3 
+domain. Further analyses of the simulations illuminated mechanisms by which the
+influences of different peptides are communicated throughout the protein, and
+involve regions of the peptide binding groove, the β2-microglobulin subunit, and 
+the α3 domain. Overall, our results demonstrate that the class I MHC protein is a
+highly tunable peptide sensor whose physical properties vary considerably with
+bound peptide. Our data provides insight into the underlying principles and
+suggest a role for dynamically driven allostery in the immunological function of 
+MHC proteins.
+
+DOI: 10.3389/fimmu.2019.00966 
+PMCID: PMC6509175
+PMID: 31130956  [Indexed for MEDLINE]
+

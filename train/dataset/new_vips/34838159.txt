@@ -1,0 +1,61 @@
+
+1. Cell. 2021 Nov 10. pii: S0092-8674(21)01319-2. doi: 10.1016/j.cell.2021.11.004.
+[Epub ahead of print]
+
+Identification of a therapeutic interfering particle-A single-dose SARS-CoV-2
+antiviral intervention with a high barrier to resistance.
+
+Chaturvedi S(1), Vasen G(2), Pablo M(2), Chen X(2), Beutler N(3), Kumar A(2),
+Tanner E(2), Illouz S(4), Rahgoshay D(4), Burnett J(5), Holguin L(5), Chen PY(6),
+Ndjamen B(7), Ott M(6), Rodick R(4), Rogers T(3), Smith DM(3), Weinberger LS(8).
+
+Author information: 
+(1)Gladstone|UCSF Center for Cell Circuitry, Gladstone Institutes, San Francisco,
+CA 94158, USA; Gladstone Institute of Virology, Gladstone Institutes, San
+Francisco, CA 94158, USA. Electronic address:
+sonali.chaturvedi@gladstone.ucsf.edu.
+(2)Gladstone|UCSF Center for Cell Circuitry, Gladstone Institutes, San Francisco,
+CA 94158, USA; Gladstone Institute of Virology, Gladstone Institutes, San
+Francisco, CA 94158, USA.
+(3)Department of Medicine, University of California, San Diego, San Diego, CA
+92121, USA.
+(4)VxBiosciences Inc., Berkeley, CA 94707, USA.
+(5)Beckman Research Institute of City of Hope, Duarte, CA 91010, USA.
+(6)Gladstone Institute of Virology, Gladstone Institutes, San Francisco, CA
+94158, USA.
+(7)Histology and Light Microscopy Core, Gladstone Institutes, San Francisco, CA
+94158, USA.
+(8)Gladstone|UCSF Center for Cell Circuitry, Gladstone Institutes, San Francisco,
+CA 94158, USA; Gladstone Institute of Virology, Gladstone Institutes, San
+Francisco, CA 94158, USA; Department of Biochemistry and Biophysics, University
+of California, San Francisco, San Francisco, CA 94158, USA; Department of
+Pharmaceutical Chemistry, University of California, San Francisco, San Francisco,
+CA 94158, USA. Electronic address: leor.weinberger@gladstone.ucsf.edu.
+
+Viral-deletion mutants that conditionally replicate and inhibit the wild-type
+virus (i.e., defective interfering particles, DIPs) have long been proposed as
+single-administration interventions with high genetic barriers to resistance.
+However, theories predict that robust, therapeutic DIPs (i.e., therapeutic
+interfering particles, TIPs) must conditionally spread between cells with R0 >1. 
+Here, we report engineering of TIPs that conditionally replicate with SARS-CoV-2,
+exhibit R0 >1, and inhibit viral replication 10- to 100-fold. Inhibition occurs
+via competition for viral replication machinery, and a single administration of
+TIP RNA inhibits SARS-CoV-2 sustainably in continuous cultures. Strikingly, TIPs 
+maintain efficacy against neutralization-resistant variants (e.g., B.1.351). In
+hamsters, both prophylactic and therapeutic intranasal administration of
+lipid-nanoparticle TIPs durably suppressed SARS-CoV-2 by 100-fold in the lungs,
+reduced pro-inflammatory cytokine expression, and prevented severe pulmonary
+edema. These data provide proof of concept for a class of single-administration
+antivirals that may circumvent current requirements to continually update medical
+countermeasures against new variants.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2021.11.004 
+PMCID: PMC8577993
+PMID: 34838159 
+
+Conflict of interest statement: Declaration of interests L.S.W., S.C., and R.R.
+are co-inventors on a patent application filed for therapeutic interfering
+particles for SARS-CoV-2. L.S.W. is a scientific co-founder of VxBiosciences.
+

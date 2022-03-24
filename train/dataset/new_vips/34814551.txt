@@ -1,0 +1,50 @@
+
+1. Zhonghua Liu Xing Bing Xue Za Zhi. 2021 Aug 10;42(8):1341-1346. doi:
+10.3760/cma.j.cn112338-20210225-00147.
+
+[Fitting and predicting trend of COVID-19 by SVEPIUHDR dynamic model].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Chen JL(1), Jin ML(1), Wang X(2), Yang XJ(1), Zhang N(1), Liu FN(1), Liu R(1),
+Guo JP(3), Chen Y(3), Wang CJ(3).
+
+Author information: 
+(1)School of Public Health, China Medical University, Shenyang 110122, China.
+(2)Shaanxi Normal University, Xi'an 710119, China.
+(3)Chinese People's Liberation Army Center for Disease Control and Prevention,
+Beijing 100071, China.
+
+Objective: To fit and predict the trend of COVID-19 epidemics in the United
+States (USA) and the United Kingdom (UK), and analyze the effect of vaccination. 
+Methods: Based on the SEIR dynamic model, considering the presymptomatic
+infections, isolation measures, vaccine vaccination coverage, etc., we developed 
+a SEIR with vaccine inoculation, Presymptomatic infectious, unconfirmed
+infectious, hospital isolation and domiciliary isolation dynamics model. The
+publicly released incidence data of COVID-19 from November 6, 2020 to January 31,
+2021 in USA and from November 23, 2020 to January 31, 2021 in UK were used to fit
+the model and the publicly released incidence data of COVID-19 from February 1,
+2021 to April 1 were used to evaluate the predicting power of the model by
+software R 4.0.3 and predict changes in the daily new cases in the context of
+different vaccination coverage. Results: According to the cumulative confirmed
+cases, the fitting bias and the predicting bias of the SVEPIUHDR model for USA
+and UK were less than 5%, respectively. From the model prediction results, the
+cumulative cases after COVID-19 vaccination in USA in early April reached 31 864 
+970. If there had not had such vaccination, the cumulative cases of COVID-19
+would have reached to 35 317 082, with a gap of more than 3.4 million cases. In
+UK, the cumulative cases of COVID-19 after the vaccination was estimated to be 4 
+195 538 in early April, compared with 4 268 786 cases if no COVID-19 vaccination 
+had been provided, there would have heen a gap of more than 70 000 cases.
+Conclusion: SVEPIUHDR model shows a good prediction effect on the epidemic of
+COVID-19 in both USA and UK.
+
+Publisher: 目的： 对美国和英国新型冠状病毒肺炎（COVID-19）疫情的发展趋势进行模型拟合和预测，对疫苗接种的效果进行初步分析。 方法：
+在SEIR模型基础上，增加症状前感染者、隔离措施及疫苗接种等要素，建立SVEPIUHDR模型。利用公开发布的数据建模，分别将美国2020年11月6日至2021年1
+月31日和英国2020年11月23日至2021年1月31日的数据进行拟合，2021年2月1日至4月1日的疫情数据评估预测效果，使用R
+4.0.3软件进行分析，并预测在疫苗不同接种率下每日新增病例数的变化。 结果：
+SVEPIUHDR模型对美国和英国的累计确诊病例数的拟合及预测平均偏差均<5%。按计划接种疫苗后，预计美国2021年4月COVID-19累计确诊人数达31 864
+970人，若未接种疫苗，累积确诊人数达35 317 082人，相差345余万人。英国按计划接种疫苗后预计4月初累积确诊人数达4 195
+538人，若未接种疫苗情况下累积确诊人数达4 268 786人，相差7万余人。 结论： SVEPIUHDR模型对美、英两国COVID-19疫情的预测效果较好。.
+DOI: 10.3760/cma.j.cn112338-20210225-00147 
+PMID: 34814551  [Indexed for MEDLINE]
+

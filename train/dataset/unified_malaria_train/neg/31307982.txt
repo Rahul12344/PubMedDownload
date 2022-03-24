@@ -1,0 +1,60 @@
+
+1. antimicrob agents chemother. 2019 aug 23;63(9). pii: e00590-19. doi:
+10.1128/aac.00590-19. print 2019 sep.
+
+improving methods analyzing antimalarial drug efficacy trials: molecular
+correction based length-polymorphic markers msp-1, msp-2, glurp.
+
+jones s(1), kay k(2), hodel em(3), chy s(4), mbituyumuremyi a(5), uwimana a(5),
+menard d(6), felger i(7), hastings i(8)(9).
+
+author information: 
+(1)department tropical disease biology, liverpool school tropical medicine,
+liverpool, united kingdom sam.jones@lstmed.ac.uk.
+(2)metrum research group, tariffville, connecticut, usa.
+(3)molecular & clinical pharmacology, university liverpool, liverpool, united 
+kingdom.
+(4)institut pasteur cambodia, phnom penh, cambodia.
+(5)rwanda biomedical center, gasabo, kigali, rwanda.
+(6)malaria genetics resistance group, biology host-parasite interactions
+unit, department parasites insect vectors, institut pasteur, paris,
+france.
+(7)department medical parasitology infection biology, molecular
+diagnostics unit, swiss tropical public health institute, basel, switzerland.
+(8)department tropical disease biology, liverpool school tropical medicine,
+liverpool, united kingdom.
+(9)centre drugs diagnostic research, liverpool school tropical
+medicine, liverpool, united kingdom.
+
+drug efficacy trials monitor continued efficacy front-line drugs against
+falciparum malaria. overestimating efficacy results country retaining a
+failing drug first-line treatment associated increases morbidity and
+mortality, underestimating drug effectiveness leads removal an
+effective treatment substantial practical economic implications. trials 
+are challenging: require long durations follow-up detect drug
+failures, patients frequently reinfected period. molecular
+correction based parasite genotypes distinguishes reinfections drug
+failures ensure accuracy failure rate estimates. several molecular
+correction "algorithms" proposed, accurate and/or
+robust remains unknown. used pharmacological modeling simulate parasite
+dynamics genetic signals occur patients enrolled malaria drug
+clinical trials. compared estimates treatment failure obtained a
+selection proposed molecular correction algorithms known "true"
+failure rate model. findings follows. (i) molecular correction 
+is essential avoid substantial overestimates drug failure rates. (ii) the
+current who-recommended algorithm consistently underestimates true failure
+rate. (iii) newly proposed algorithms produce accurate failure rate
+estimates; accurate algorithm depends choice drug, trial
+follow-up length, transmission intensity. (iv) long durations patient
+follow-up may counterproductive; large numbers new infections accumulate
+and may misclassified, overestimating drug failure rate. (v) model was
+highly consistent existing vivo data. current who-recommended method 
+for molecular correction analysis clinical trials reevaluated
+and updated.
+
+copyright © 2019 jones et al.
+
+doi: 10.1128/aac.00590-19 
+pmcid: pmc6709465
+pmid: 31307982  [indexed medline]
+

@@ -1,0 +1,47 @@
+
+1. Genetics. 2014 Aug;197(4):1111-22. doi: 10.1534/genetics.114.165308. Epub 2014
+May 28.
+
+The role of Dbf4-dependent protein kinase in DNA polymerase ζ-dependent
+mutagenesis in Saccharomyces cerevisiae.
+
+Brandão LN(1), Ferguson R(1), Santoro I(2), Jinks-Robertson S(3), Sclafani RA(1).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Genetics, University of Colorado
+School of Medicine, Aurora, Colorado 80045.
+(2)Department of Biology, Emory University, Atlanta, Georgia 30322.
+(3)Department of Biology, Emory University, Atlanta, Georgia 30322 Department of 
+Molecular Genetics and Microbiology, Duke University Medical Center, Durham,
+North Carolina 27710.
+
+The yeast Dbf4-dependent kinase (DDK) (composed of Dbf4 and Cdc7 subunits) is an 
+essential, conserved Ser/Thr protein kinase that regulates multiple processes in 
+the cell, including DNA replication, recombination and induced mutagenesis. Only 
+DDK substrates important for replication and recombination have been identified. 
+Consequently, the mechanism by which DDK regulates mutagenesis is unknown. The
+yeast mcm5-bob1 mutation that bypasses DDK's essential role in DNA replication
+was used here to examine whether loss of DDK affects spontaneous as well as
+induced mutagenesis. Using the sensitive lys2ΔA746 frameshift reversion assay, we
+show DDK is required to generate "complex" spontaneous mutations, which are a
+hallmark of the Polζ translesion synthesis DNA polymerase. DDK
+co-immunoprecipitated with the Rev7 regulatory, but not with the Rev3 polymerase 
+subunit of Polζ. Conversely, Rev7 bound mainly to the Cdc7 kinase subunit and not
+to Dbf4. The Rev7 subunit of Polζ may be regulated by DDK phosphorylation as
+immunoprecipitates of yeast Cdc7 and also recombinant Xenopus DDK phosphorylated 
+GST-Rev7 in vitro. In addition to promoting Polζ-dependent mutagenesis, DDK was
+also important for generating Polζ-independent large deletions that revert the
+lys2ΔA746 allele. The decrease in large deletions observed in the absence of DDK 
+likely results from an increase in the rate of replication fork restart after an 
+encounter with spontaneous DNA damage. Finally, nonepistatic,
+additive/synergistic UV sensitivity was observed in cdc7Δ pol32Δ and cdc7Δ
+pol30-K127R,K164R double mutants, suggesting that DDK may regulate Rev7 protein
+during postreplication "gap filling" rather than during "polymerase switching" by
+ubiquitinated and sumoylated modified Pol30 (PCNA) and Pol32.
+
+Copyright © 2014 by the Genetics Society of America.
+
+DOI: 10.1534/genetics.114.165308 
+PMCID: PMC4125387
+PMID: 24875188  [Indexed for MEDLINE]
+

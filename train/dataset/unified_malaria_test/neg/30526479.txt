@@ -1,0 +1,60 @@
+
+1. bmc genomics. 2018 dec 10;19(1):894. doi: 10.1186/s12864-018-5257-x.
+
+schizont transcriptome variation among clinical isolates laboratory-adapted
+clones malaria parasite plasmodium falciparum.
+
+tarr sj(1), díaz-ingelmo o(2), stewart lb(2), hocking se(2), murray l(2), duffy
+cw(2), otto td(3)(4), chappell l(4), rayner jc(4), awandare ga(5), conway dj(6).
+
+author information: 
+(1)pathogen molecular biology department, london school hygiene tropical
+medicine, london, uk. sarah.tarr@lshtm.ac.uk.
+(2)pathogen molecular biology department, london school hygiene tropical
+medicine, london, uk.
+(3)institute infection, immunity inflammation, university glasgow,
+scotland, uk.
+(4)wellcome sanger institute, hinxton, cambridge, uk.
+(5)west african centre cell biology infectious pathogens, department of
+biochemistry, cell molecular biology, university ghana, legon, ghana.
+(6)pathogen molecular biology department, london school hygiene tropical
+medicine, london, uk. david.conway@lshtm.ac.uk.
+
+background: malaria parasites genetically polymorphic phenotypically
+plastic. studying transcriptome variation among parasites different
+infections, challenging overcome potentially confounding technical and
+biological variation samples. investigate variation major human
+parasite plasmodium falciparum, generating rna-seq data multiple independent
+replicate sample preparations merozoite-containing intra-erythrocytic
+schizonts panel clinical isolates long-term laboratory-adapted
+clones, goal robustly identifying differentially expressed genes.
+results: analysis biological sample replicates shows increased numbers
+improve true discovery rate differentially expressed genes, six
+independent replicates parasite line allowed identification most
+differences could detected larger numbers. highly expressed
+genes, focusing top quartile schizont stages, power to
+detect differences. comparing cultured clinical isolates laboratory-adapted
+clones, genes highly expressed laboratory-adapted clones include
+those encoding ap2 transcription factor (pf3d7_0420300), ubiquitin-binding
+protein two putative methyl transferases. contrast, higher expression in
+clinical isolates seen merozoite surface protein gene dblmsp2,
+proposed marker schizonts forming merozoites committed sexual
+differentiation. variable expression extremely strongly, exclusively,
+associated genes known targeted heterochromatin protein 1. clinical
+isolates show variable expression several known merozoite invasion ligands, as
+well genes new rt-qpcr assays validate quantitation and
+allow characterisation samples limited material. expression levels
+of genes vary among schizont preparations different clinical isolates in
+the first ex vivo cycle patient erythrocytes, mean levels similar to
+those continuously cultured clinical isolates.
+conclusions: analysis multiple biological sample replicates greatly improves
+identification genes variably expressed different cultured parasite
+lines. clinical isolates recently established culture show differences from
+long-term adapted clones transcript levels particular genes, are
+suitable analyses requiring biological replicates understand parasite
+phenotypes variable expression likely relevant nature.
+
+doi: 10.1186/s12864-018-5257-x 
+pmcid: pmc6288915
+pmid: 30526479  [indexed medline]
+

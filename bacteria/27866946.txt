@@ -1,0 +1,53 @@
+
+1. Cell Syst. 2017 Jan 25;4(1):121-128.e4. doi: 10.1016/j.cels.2016.10.016. Epub
+2016 Nov 17.
+
+Systems Genetics Approach Identifies Gene Pathways and Adamts2 as Drivers of
+Isoproterenol-Induced Cardiac Hypertrophy and Cardiomyopathy in Mice.
+
+Rau CD(1), Romay MC(2), Tuteryan M(2), Wang JJ(3), Santolini M(4), Ren S(5),
+Karma A(4), Weiss JN(3), Wang Y(5), Lusis AJ(6).
+
+Author information: 
+(1)Department of Microbiology, Immunology and Molecular Genetics, David Geffen
+School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095,
+USA; Departments of Anesthesiology, Physiology, and Medicine, Cardiovascular
+Research Laboratories, David Geffen School of Medicine, University of California,
+Los Angeles, Los Angeles, CA 90095, USA.
+(2)Department of Microbiology, Immunology and Molecular Genetics, David Geffen
+School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095,
+USA.
+(3)Department of Medicine, David Geffen School of Medicine, University of
+California, Los Angeles, Los Angeles, CA 90095, USA.
+(4)Center for Interdisciplinary Research on Complex Systems, Department of
+Physics, Northeastern University, Boston, MA 02115, USA.
+(5)Departments of Anesthesiology, Physiology, and Medicine, Cardiovascular
+Research Laboratories, David Geffen School of Medicine, University of California,
+Los Angeles, Los Angeles, CA 90095, USA.
+(6)Department of Microbiology, Immunology and Molecular Genetics, David Geffen
+School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095,
+USA; Department of Medicine, David Geffen School of Medicine, University of
+California, Los Angeles, Los Angeles, CA 90095, USA; Department of Human
+Genetics, David Geffen School of Medicine, University of California, Los Angeles,
+Los Angeles, CA 90095, USA. Electronic address: jlusis@mednet.ucla.edu.
+
+We previously reported a genetic analysis of heart failure traits in a population
+of inbred mouse strains treated with isoproterenol to mimic catecholamine-driven 
+cardiac hypertrophy. Here, we apply a co-expression network algorithm, wMICA, to 
+perform a systems-level analysis of left ventricular transcriptomes from these
+mice. We describe the features of the overall network but focus on a module
+identified in treated hearts that is strongly related to cardiac hypertrophy and 
+pathological remodeling. Using the causal modeling algorithm NEO, we identified
+the gene Adamts2 as a putative regulator of this module and validated the
+predictive value of NEO using small interfering RNA-mediated knockdown in
+neonatal rat ventricular myocytes. Adamts2 silencing regulated the expression of 
+the genes residing within the module and impaired isoproterenol-induced cellular 
+hypertrophy. Our results provide a view of higher order interactions in heart
+failure with potential for diagnostic and therapeutic insights.
+
+Copyright © 2017 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cels.2016.10.016 
+PMCID: PMC5338604
+PMID: 27866946  [Indexed for MEDLINE]
+

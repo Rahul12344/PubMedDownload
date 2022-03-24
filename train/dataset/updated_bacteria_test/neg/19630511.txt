@@ -1,0 +1,30 @@
+
+1. Foodborne Pathog Dis. 2009 Oct;6(8):1001-7. doi: 10.1089/fpd.2009.0276.
+
+Differentiation of whole bacterial cells based on high-throughput microarray chip
+printing and infrared microspectroscopic readout.
+
+Al-Khaldi SF(1), Mossoba MM, Burke TL, Fry FS.
+
+Author information: 
+(1)Division of Microbiology, Office of Regulatory Science, Center for Food Safety
+and Applied Nutrition, Food and Drug Administration, College Park, Maryland
+20740-3855, USA.
+
+Using robotic automation, a microarray printing protocol for whole bacterial
+cells was developed for subsequent label-free and nondestructive infrared
+microspectroscopic detection. Using this contact microspotting system, 24
+microorganisms were printed on zinc selenide slides; these were 6 species of
+Listeria, 10 species of Vibrio, 2 strains of Photobacterium damselae, Yersinia
+enterocolitica 289, Bacillus cereus ATCC 14529, Staphylococcus aureus, ATCC 19075
+(serotype 104 B), Shigella sonnei 20143, Klebsiella pneumoniae KP73, Enterobacter
+cloacae, Citrobacter freundii 200, and Escherichia coli. Microarrays consisting
+of separate spots of bacterial deposits gave consistent and reproducible infrared
+spectra, which were differentiated by unsupervised pattern recognition
+algorithms. Two multivariate analysis algorithms, principal component analysis
+and hierarchical cluster analysis, successfully separated most, but not all, the 
+bacteria investigated down to the species level.
+
+DOI: 10.1089/fpd.2009.0276 
+PMID: 19630511  [Indexed for MEDLINE]
+

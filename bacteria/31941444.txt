@@ -1,0 +1,69 @@
+
+1. BMC Genomics. 2020 Jan 15;21(1):50. doi: 10.1186/s12864-020-6456-9.
+
+Transcriptome-based screening of intracellular pathways and angiogenesis related 
+genes at different stages of thiram induced tibial lesions in broiler chickens.
+
+Jahejo AR(1), Zhang D(1), Niu S(1), Mangi RA(1), Khan A(1), Qadir MF(1), Khan
+A(1), Chen HC(2), Tian WX(3).
+
+Author information: 
+(1)College of Animal Science and Veterinary Medicine, Shanxi Agricultural
+University, Taigu, 030801, China.
+(2)The State Key Laboratory of Agricultural Microbiology, College of Veterinary
+Medicine, Huazhong Agricultural University, Wuhan, 430070, China.
+(3)College of Animal Science and Veterinary Medicine, Shanxi Agricultural
+University, Taigu, 030801, China. wenxiatian@126.com.
+
+BACKGROUND: The Tibial dyschondroplasia (TD) in fast-growing chickens is mainly
+caused by improper blood circulation. The exact mechanism underlying angiogenesis
+and vascularization in tibial growth plate of broiler chickens remains unclear.
+Therefore, this research attempts to study genes involved in the regulation of
+angiogenesis in chicken red blood cells. Twenty-four broiler chickens were
+allotted into a control and thiram (Tetramethyl thiuram disulfide) group. Blood
+samples were collected on day 2, 6 (8- and 14-days old chickens) and 15 (23 days 
+old chickens).
+RESULTS: Histopathology and hematoxylin and eosin (H&E) results showed that
+angiogenesis decreased on the 6th day of the experiment but started to recover on
+the 15th day of the experiment. Immunohistochemistry (IHC) results confirmed the 
+expressions of integrin alpha-v precursor (ITGAV) and clusterin precursor (CLU). 
+Transcriptome sequencing analysis evaluated 293 differentially expressed genes
+(DEGs), of which 103 up-regulated genes and 190 down-regulated genes were
+enriched in the pathways of neuroactive ligand receptor interaction,
+mitogen-activated protein kinase (MAPK), ribosome, regulation of actin
+cytoskeleton, focal adhesion, natural killer cell mediated cytotoxicity and the
+notch signalling pathways. DEGs (n = 20) related to angiogenesis of chicken
+erythrocytes in the enriched pathways were thromboxane A2 receptor (TBXA2R),
+interleukin-1 receptor type 1 precursor (IL1R1), ribosomal protein L17 (RPL17),
+integrin beta-3 precursor (ITGB3), ITGAV, integrin beta-2 precursor (ITGB2),
+ras-related C3 botulinum toxin substrate 2 (RAC2), integrin alpha-2 (ITGA2), IQ
+motif containing GTPase activating protein 2 (IQGAP2), ARF GTPase-activating
+protein (GIT1), proto-oncogene vav (VAV1), integrin alpha-IIb-like (ITGA5),
+ras-related protein Rap-1b precursor (RAP1B), tyrosine protein kinase Fyn-like
+(FYN), tyrosine-protein phosphatase non-receptor type 11 (PTPN11), protein
+patched homolog 1 (PTCH1), nuclear receptor corepressor 2 (NCOR2) and mastermind 
+like protein 3 (MAML3) selected for further confirmation with qPCR. However,
+commonly DEGs were sarcoplasmic/endoplasmic reticulum calcium ATPase 3 (ATP2A3), 
+ubiquitin-conjugating enzyme E2 R2 (UBE2R2), centriole cilia and
+spindle-associated protein (CCSAP), coagulation factor XIII A chain protein
+(F13A1), shroom 2 isoform X6 (SHROOM2), ras GTPase-activating protein 3 (RASA3)
+and CLU.
+CONCLUSION: We have found potential therapeutic genes concerned to erythrocytes
+and blood regulation, which regulated the angiogenesis in thiram induced TD
+chickens. This study also revealed the potential functions of erythrocytes. 1.
+Tibial dyschondroplasia (TD) in chickens were more on day 6, which started
+recovering on day 15. 2. The enriched pathway observed in TD chickens on day 6
+was ribosome pathway, on day 15 were regulation of actin cytoskeleton and focal
+adhesion pathway. 3. The genes involved in the ribosome pathways was ribosomal
+protein L17 (RPL17). regulation of actin cytoskeleton pathway were Ras-related C3
+botulinum toxin substrate 2 (RAC2), Ras-related protein Rap-1b precursor (RAP1B),
+ARF GTPase-activating protein (GIT1), IQ motif containing GTPase activating
+protein 2 (IQGAP2), Integrin alpha-v precursor (ITGAV), Integrin alpha-2 (ITGA2),
+Integrin beta-2 precursor (ITGB2), Integrin beta-3 precursor (ITGB3), Integrin
+alpha-IIb-like (ITGA5). Focal adhesion Proto-oncogene vav (Vav-like),
+Tyrosine-protein kinase Fyn-like (FYN).
+
+DOI: 10.1186/s12864-020-6456-9 
+PMCID: PMC6964038
+PMID: 31941444  [Indexed for MEDLINE]
+

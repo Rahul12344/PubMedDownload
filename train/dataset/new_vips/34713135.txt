@@ -1,0 +1,45 @@
+
+1. Front Digit Health. 2021 Jun 17;3:660823. doi: 10.3389/fdgth.2021.660823.
+eCollection 2021.
+
+Digital Contact Tracing Against COVID-19 in Europe: Current Features and Ongoing 
+Developments.
+
+Blasimme A(1), Ferretti A(1), Vayena E(1).
+
+Author information: 
+(1)Health Ethics and Policy Lab, Department of Health Sciences and Technology,
+ETH Zürich, Zürich, Switzerland.
+
+The SARS-CoV-2 pandemic is a public health challenge of unprecedented scale. In
+the midst of the first wave of the pandemic, governments worldwide introduced
+digital contact tracing systems as part of a strategy to contain the spread of
+the virus. In Europe, after intense discussion about privacy-related risks
+involving policymakers, technology experts, information technology companies,
+and-albeit to a limited extent-the public at large, technical protocols were
+created to support the development of privacy-compatible proximity tracing apps. 
+However, as the second wave of SARS-CoV-2 sweeps the continent, digital contact
+tracing in Europe is evolving in terms of both technological and governance
+features. To enable policymakers to harness the full potential of digital health 
+tools against SARS-CoV-2, this paper examines the evolution of digital contact
+tracing in eight European countries. Our study highlights that while privacy and 
+data protection are at the core of contact tracing apps in Europe, countries
+differ in their technical protocols, and in their capacity to utilize collected
+data beyond proximity tracing alone. In particular, the most recently released
+apps tend to offer users more granular information about risk in specific
+locations, and to collect data about user whereabouts, in order to enhance
+retrospective contact tracing capacity. These developments signal a shift from a 
+strict interpretation of data minimization and purpose limitation toward a more
+expansive approach to digital contact tracing in Europe, calling for careful
+scrutiny and appropriate oversight.
+
+Copyright © 2021 Blasimme, Ferretti and Vayena.
+
+DOI: 10.3389/fdgth.2021.660823 
+PMCID: PMC8521942
+PMID: 34713135 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

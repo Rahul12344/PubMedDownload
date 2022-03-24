@@ -1,0 +1,50 @@
+
+1. Int J Mol Cell Med. 2019 Summer;8(3):169-178. doi: 10.22088/IJMCM.BUMS.8.3.169.
+
+Whole Exome Sequencing Revealed a Novel GJB1 Pathogenic Variant and a Rare BSCL2 
+Mutation in Two Iranian Large Pedigrees with Multiple Affected Cases of
+Charcot-Marie-Tooth.
+
+Mohsenpour N(1), Roknizadeh H(2), Maghbooli M(3), Changi-Ashtiani M(4), Shahrooei
+M(5)(6), Salehi M(7)(8), Behnam M(7), Shahani T(1), Biglari A(1).
+
+Author information: 
+(1)Department of Genetics and Molecular Medicine, School of Medicine, Zanjan
+University of Medical Sciences (ZUMS), Zanjan, Iran.
+(2)Department of Medical Biotechnology, School of Medicine, Zanjan University of 
+Medical Sciences (ZUMS), Zanjan, Iran.
+(3)Department of Neurology, School of Medicine, Zanjan University of Medical
+Sciences (ZUMS), Zanjan, Iran.
+(4)School of Mathematics, Institute for Research in Fundamental Sciences (IPM),
+Tehran, Iran.
+(5)Experimental Laboratory Immunology, Department of Microbiology and Immunology,
+KU Leuven, Leuven, Belgium.
+(6)Specialized Immunology Laboratory of Dr. Shahrooei, Ahvaz, Iran.
+(7)Cellular, Molecular and Genetics Research Center, Isfahan University of
+Medical Sciences, Isfahan, Iran.
+(8)Department of Genetics, Medical School, Isfahan University of Medical
+Sciences, Isfahan, Iran.
+
+Charcot-Marie-Tooth disease (CMT) is the most common hereditary neuropathy of the
+peripheral nervous system with a wide range of severity and age of onset. CMT
+patients share similar phenotypes which make it often impossible to identify the 
+disease types based on clinical presentation and electrophysiological studies
+alone. In recent years, novel genetic diagnostic approaches such as whole exome
+sequencing (WES) has provided a ground for accurate diagnosis of CMT through
+identification of the disease-causing mutation(s). In the present study, that
+approach was effectively employed. Two unrelated large pedigrees with multiple
+affected cases of various pattern of inheritance (one autosomal dominant and one 
+X-linked) were included. Clinical and electrophysiological data were obtained.
+DNA sample from each pedigree's proband was subjected to WES. Data analysis was
+performed using an in-house developed pipeline, adopted from GATK and ANNOVAR.
+Candidate variant segregation was evaluated by PCR-based Sanger sequencing. A
+known but extremely rare (unreported in the Middle Easterners) mutation in BSCL2 
+(c.C269T:p.S90L) as well as a novel hemizygous variant in GJB1 (c.G224C:p.R75P)
+were identified and segregations were confirmed by Sanger sequencing. This study 
+supports effectiveness of WES for genetic diagnosis of CMT in undiagnosed
+families.
+
+DOI: 10.22088/IJMCM.BUMS.8.3.169 
+PMCID: PMC7241839
+PMID: 32489946 
+

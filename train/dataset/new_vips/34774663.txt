@@ -1,0 +1,36 @@
+
+1. J Theor Biol. 2021 Nov 11;534:110961. doi: 10.1016/j.jtbi.2021.110961. [Epub
+ahead of print]
+
+A mathematical model to evaluate the role of memory B and T cells in heterologous
+secondary dengue infection.
+
+Rubio FA(1), Yang HM(2).
+
+Author information: 
+(1)Institute of Mathematics, Statistics and Scientific Computing - University of 
+Campinas, Campinas, SP, Brazil. Electronic address: felipearubio@gmail.com.
+(2)Institute of Mathematics, Statistics and Scientific Computing - University of 
+Campinas, Campinas, SP, Brazil.
+
+We propose a mathematical model to investigate the antibody-dependent enhancement
+(ADE) phenomenon during secondary dengue infection. The model consists of an ODE 
+system that describes the interaction of the dengue virus with macrophages and
+memory B and T cell role during the infection. The qualitative model analysis is 
+done in terms of memory B and T cell cloning parameters and the basic
+reproduction number R0. In the absence of memory B and T cell cloning, if R0<1
+the dengue virus population extinguishes, while for R0>1, it tends asymptotically
+to a positive equilibrium. However, when we consider the memory B cell cloning,
+it is possible to occur dengue infection even when R0<1. Memory T cells have an
+essential role in eliminating the possibility of ADE occurrence when R0<1.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jtbi.2021.110961 
+PMID: 34774663 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

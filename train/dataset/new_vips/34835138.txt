@@ -1,0 +1,50 @@
+
+1. Viruses. 2021 Nov 22;13(11). pii: 2332. doi: 10.3390/v13112332.
+
+Mass Spectrometry-Based System for Identifying and Typing Norovirus Major Capsid 
+Protein VP1.
+
+Chu PY(1)(2), Huang HW(3), Boonchan M(4), Tyan YC(5), Louis KL(1), Lee KM(2),
+Motomura K(4)(6), Ke LY(1)(2)(7).
+
+Author information: 
+(1)Department of Medical Laboratory Science and Biotechnology, College of Health 
+Sciences, Kaohsiung Medical University, Kaohsiung 807, Taiwan.
+(2)Department of Laboratory Medicine, Kaohsiung Medical University Hospital,
+Kaohsiung 807, Taiwan.
+(3)Department of Anesthesiology, Kaohsiung Chang Gung Memorial Hospital and Chang
+Gung University College of Medicine, Kaohsiung 833, Taiwan.
+(4)Thailand-Japan Research Collaboration Center on Emerging and Re-emerging
+Infections, Nonthaburi 11004, Thailand.
+(5)Department of Medical Imaging and Radiological Sciences, Kaohsiung Medical
+University, Kaohsiung 807, Taiwan.
+(6)Division of Public Health, Osaka Institute of Public Health, Osaka 543-0026,
+Japan.
+(7)Center for Lipid Biosciences, Department of Medical Research, Kaohsiung
+Medical University Hospital, Kaohsiung 807, Taiwan.
+
+Norovirus-associated diseases are the most common foodborne illnesses worldwide. 
+Polymerase chain reaction-based methods are the primary diagnostics for clinical 
+samples; however, the high mutation rate of norovirus makes viral amplification
+and genotyping challenging. Technological advances in mass spectrometry (MS) make
+it a promising tool for identifying disease markers. Besides, the superior
+sensitivity of MS and proteomic approaches may enable the detection of all
+variants. Thus, this study aimed to establish an MS-based system for identifying 
+and typing norovirus. We constructed three plasmids containing the major capsid
+protein VP1 of the norovirus GII.4 2006b, 2006a, and 2009a strains to produce
+virus-like particles for use as standards. Digested peptide signals were
+collected using a nano-flow ultra-performance liquid chromatography mass
+spectrometry (nano-UPLC/MSE) system, and analyzed by ProteinLynx Global SERVER
+and TREE-PUZZLE software. Results revealed that the LC/MSE system had an
+excellent coverage rate: the system detected more than 94% of amino acids of 3.61
+femtomole norovirus VP1 structural protein. In the likelihood-mapping analysis,
+the proportions of unresolved quartets were 2.9% and 4.9% in the VP1 and S
+domains, respectively, which is superior to the 15.1% unresolved quartets in
+current PCR-based methodology. In summary, the use of LC/MSE may efficiently
+monitor genotypes, and sensitively detect structural and functional mutations of 
+noroviruses.
+
+DOI: 10.3390/v13112332 
+PMCID: PMC8624548
+PMID: 34835138 
+

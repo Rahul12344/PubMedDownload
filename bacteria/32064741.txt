@@ -1,0 +1,625 @@
+
+1. Addict Biol. 2021 Jan;26(1):e12880. doi: 10.1111/adb.12880. Epub 2020 Feb 16.
+
+Shared genetic risk between eating disorder- and substance-use-related
+phenotypes: Evidence from genome-wide association studies.
+
+Munn-Chernoff MA(1), Johnson EC(2), Chou YL(2), Coleman JRI(3)(4), Thornton
+LM(1), Walters RK(5)(6), Yilmaz Z(1)(7), Baker JH(1), Hübel C(3)(4)(8), Gordon
+S(9), Medland SE(9), Watson HJ(1)(10)(11), Gaspar HA(3)(4), Bryois J(8), Hinney
+A(12), Leppä VM(8), Mattheisen M(13)(14)(15)(16), Ripke S(5)(6)(17), Yao S(8),
+Giusti-Rodríguez P(7), Hanscombe KB(18), Adan RAH(19)(20)(21), Alfredsson L(22), 
+Ando T(23), Andreassen OA(24), Berrettini WH(25), Boehm I(26), Boni C(27),
+Boraska Perica V(28)(29), Buehren K(30), Burghardt R(31), Cassina M(32), Cichon
+S(33)(34)(35), Clementi M(32), Cone RD(36), Courtet P(37), Crow S(38), Crowley
+JJ(7)(14), Danner UN(39), Davis OSP(40)(41), de Zwaan M(42), Dedoussis G(43),
+Degortes D(44), DeSocio JE(45), Dick DM(46)(47)(48), Dikeos D(49), Dina C(50),
+Dmitrzak-Weglarz M(51), Docampo E(52)(53)(54), Duncan LE(55), Egberts K(56),
+Ehrlich S(26), Escaramís G(52)(53)(54), Esko T(57)(58), Estivill
+X(52)(53)(54)(59), Farmer A(3), Favaro A(44), Fernández-Aranda F(60)(61), Fichter
+MM(62)(63), Fischer K(57), Föcker M(64), Foretova L(65), Forstner
+AJ(34)(66)(67)(68), Forzan M(32), Franklin CS(28), Gallinger S(69), Giegling
+I(70), Giuranna J(12), Gonidakis F(71), Gorwood P(72)(73), Gratacos Mayora
+M(52)(53)(54), Guillaume S(37), Guo Y(74), Hakonarson H(74)(75), Hatzikotoulas
+K(28)(76), Hauser J(77), Hebebrand J(12), Helder SG(3)(78), Herms S(33)(34),
+Herpertz-Dahlmann B(30), Herzog W(79), Huckins LM(28)(80), Hudson JI(81), Imgart 
+H(82), Inoko H(83), Janout V(84), Jiménez-Murcia S(60)(61), Julià A(85), Kalsi
+G(3), Kaminská D(86), Karhunen L(87), Karwautz A(88), Kas MJH(19)(89), Kennedy
+JL(90)(91)(92), Keski-Rahkonen A(93), Kiezebrink K(94), Kim YR(95), Klump KL(96),
+Knudsen GPS(97), La Via MC(1), Le Hellard S(98)(99)(100), Levitan RD(90)(91)(92),
+Li D(74), Lilenfeld L(101), Lin BD(19), Lissowska J(102), Luykx J(19),
+Magistretti PJ(103)(104), Maj M(105), Mannik K(57)(106), Marsal S(85), Marshall
+CR(107), Mattingsdal M(108), McDevitt S(109)(110), McGuffin P(3), Metspalu
+A(57)(111), Meulenbelt I(112), Micali N(113)(114), Mitchell K(115)(116),
+Monteleone AM(105), Monteleone P(117), Nacmias B(118), Navratilova M(65), Ntalla 
+I(43), O'Toole JK(119), Ophoff RA(120)(121), Padyukov L(122), Palotie
+A(58)(123)(124), Pantel J(27), Papezova H(86), Pinto D(80), Rabionet
+R(125)(126)(127), Raevuori A(93), Ramoz N(72), Reichborn-Kjennerud T(97)(128),
+Ricca V(129), Ripatti S(130), Ritschel F(26)(131), Roberts M(3), Rotondo A(132), 
+Rujescu D(70), Rybakowski F(133), Santonastaso P(134), Scherag A(135), Scherer
+SW(136)(137), Schmidt U(138), Schork NJ(139), Schosser A(140), Seitz J(30),
+Slachtova L(141), Slagboom PE(142), Slof-Op't Landt MCT(143)(144), Slopien
+A(145), Sorbi S(118)(146), Świątkowska B(147), Szatkiewicz JP(7), Tachmazidou
+I(28), Tenconi E(44), Tortorella A(148)(149), Tozzi F(150), Treasure J(138),
+Tsitsika A(151), Tyszkiewicz-Nwafor M(145), Tziouvas K(152), van Elburg
+AA(20)(153), van Furth EF(143)(144), Wagner G(88), Walton E(26), Widen E(123),
+Zeggini E(28)(76), Zerwas S(1), Zipfel S(154), Bergen AW(155)(156), Boden
+JM(157), Brandt H(158), Crawford S(158), Halmi KA(159), Horwood LJ(157), Johnson 
+C(160), Kaplan AS(90)(91)(92), Kaye WH(161), Mitchell J(162), Olsen CM(163),
+Pearson JF(164), Pedersen NL(8), Strober M(165)(166), Werge T(167), Whiteman
+DC(163), Woodside DB(91)(92)(168)(169), Grove J(13)(170)(171)(172), Henders
+AK(173), Larsen JT(170)(174)(175), Parker R(9), Petersen LV(170)(174)(175),
+Jordan J(176)(177), Kennedy MA(178), Birgegård A(8)(14)(15), Lichtenstein P(8),
+Norring C(14)(15), Landén M(8)(179), Mortensen PB(170)(174)(175), Polimanti
+R(180)(181), McClintick JN(182), Adkins AE(46)(47), Aliev F(46)(183), Bacanu
+SA(184)(185)(186), Batzler A(187), Bertelsen S(188), Biernacka JM(189)(190),
+Bigdeli TB(191), Chen LS(2), Clarke TK(192), Degenhardt F(193), Docherty AR(194),
+Edwards AC(185)(186), Foo JC(195), Fox L(2), Frank J(195), Hack LM(55), Hartmann 
+AM(70), Hartz SM(2), Heilmann-Heimbach S(193), Hodgkinson C(196), Hoffmann
+P(33)(67)(197), Hottenga JJ(198), Konte B(70), Lahti J(199), Lahti-Pulkkinen
+M(200), Lai D(201), Ligthart L(198), Loukola A(123), Maher BS(202), Mbarek
+H(198), McIntosh AM(203), McQueen MB(204), Meyers JL(205), Milaneschi Y(206),
+Palviainen T(123), Peterson RE(185)(186), Ryu E(189), Saccone NL(207), Salvatore 
+JE(46)(185)(186), Sanchez-Roige S(161), Schwandt M(208), Sherva R(209), Streit
+F(195), Strohmaier J(195), Thomas N(46)(47), Wang JC(188), Webb
+BT(184)(185)(186), Wedow R(5)(6)(210)(211), Wetherill L(201), Wills AG(212), Zhou
+H(180)(181), Boardman JD(213)(214), Chen D(6), Choi DS(215), Copeland WE(216),
+Culverhouse RC(217), Dahmen N(218), Degenhardt L(219), Domingue BW(220), Frye
+MA(190), Gäebel W(221), Hayward C(222), Ising M(223), Keyes M(224), Kiefer
+F(225), Koller G(226), Kramer J(227), Kuperman S(227), Lucae S(223), Lynskey
+MT(228), Maier W(229), Mann K(225), Männistö S(230), Müller-Myhsok B(231), Murray
+AD(232), Nurnberger JI(201)(233), Preuss U(234)(235), Räikkönen K(200), Reynolds 
+MD(236), Ridinger M(237), Scherbaum N(238), Schuckit MA(161), Soyka M(239)(240), 
+Treutlein J(195), Witt SH(195), Wodarz N(241), Zill P(242), Adkins DE(194)(243), 
+Boomsma DI(198), Bierut LJ(2), Brown SA(161)(244), Bucholz KK(2), Costello
+EJ(245), de Wit H(246), Diazgranados N(247), Eriksson JG(248)(249), Farrer
+LA(209)(250)(251)(252)(253), Foroud TM(201), Gillespie NA(185), Goate AM(188),
+Goldman D(196)(254), Grucza RA(2), Hancock DB(255), Harris KM(256)(257),
+Hesselbrock V(258), Hewitt JK(259), Hopfer CJ(260), Iacono WG(224), Johnson
+EO(255)(261), Karpyak VM(190), Kendler KS(185)(186), Kranzler HR(262)(263),
+Krauter K(264), Lind PA(9), McGue M(224), MacKillop J(265)(266), Madden PAF(2),
+Maes HH(185), Magnusson PKE(8), Nelson EC(2), Nöthen MM(193), Palmer
+AA(161)(267), Penninx BWJH(268), Porjesz B(205), Rice JP(2), Rietschel M(195),
+Riley BP(184)(185)(186), Rose RJ(269), Shen PH(196), Silberg J(185)(186),
+Stallings MC(259), Tarter RE(236), Vanyukov MM(236), Vrieze S(224), Wall TL(161),
+Whitfield JB(9), Zhao H(270), Neale BM(5)(6), Wade TD(271), Heath AC(2),
+Montgomery GW(9)(173)(272), Martin NG(9), Sullivan PF(1)(7)(8), Kaprio
+J(93)(123), Breen G(3)(4), Gelernter J(180)(181)(273)(274), Edenberg
+HJ(182)(201), Bulik CM(1)(8)(275), Agrawal A(2).
+
+Author information: 
+(1)Department of Psychiatry, University of North Carolina at Chapel Hill, Chapel 
+Hill, North Carolina, USA.
+(2)Department of Psychiatry, Washington University School of Medicine, Saint
+Louis, Missouri, USA.
+(3)Social, Genetic and Developmental Psychiatry (SGDP) Centre, Institute of
+Psychiatry, Psychology and Neuroscience, King's College London, London, UK.
+(4)National Institute for Health Research Biomedical Research Centre, King's
+College London and South London and Maudsley National Health Service Trust,
+London, UK.
+(5)Analytic and Translational Genetics Unit, Department of Medicine,
+Massachusetts General Hospital and Harvard Medical School, Boston, Massachusetts,
+USA.
+(6)Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard,
+Cambridge, Massachusetts, USA.
+(7)Department of Genetics, University of North Carolina at Chapel Hill, Chapel
+Hill, North Carolina, USA.
+(8)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet,
+Stockholm, Sweden.
+(9)QIMR Berghofer Medical Research Institute, Brisbane, Queensland, Australia.
+(10)School of Psychology, Curtin University, Perth, Western Australia, Australia.
+(11)School of Paediatrics and Child Health, University of Western Australia,
+Perth, Western Australia, Australia.
+(12)Department of Child and Adolescent Psychiatry, University Hospital Essen,
+University of Duisburg-Essen, Essen, Germany.
+(13)Department of Biomedicine, Aarhus University, Aarhus, Denmark.
+(14)Department of Clinical Neuroscience, Karolinska Institutet, Stockholm,
+Sweden.
+(15)Center for Psychiatry Research, Stockholm Health Care Services, Stockholm
+County Council, Stockholm, Sweden.
+(16)Department of Psychiatry, Psychosomatics and Psychotherapy, University of
+Würzburg, Germany.
+(17)Department of Psychiatry and Psychotherapy, Charité - Universitätsmedizin,
+Berlin, Germany.
+(18)Department of Medical and Molecular Genetics, King's College London, Guy's
+Hospital, London, UK.
+(19)Department of Translational Neuroscience, Brain Center Rudolf Magnus,
+University Medical Center Utrecht, Utrecht, The Netherlands.
+(20)Center for Eating Disorders Rintveld, Altrecht Mental Health Institute,
+Zeist, The Netherlands.
+(21)Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+(22)Institute of Environmental Medicine, Karolinska Institutet, Stockholm,
+Sweden.
+(23)Department of Behavioral Medicine, National Institute of Mental Health,
+National Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan.
+(24)NORMENT Centre, Division of Mental Health and Addiction, NORMENT Centre,
+University of Oslo, Oslo University Hospital, Oslo, Norway.
+(25)Department of Psychiatry, Center for Neurobiology and Behavior, University of
+Pennsylvania Perelman School of Medicine, Philadelphia, Pennsylvania, USA.
+(26)Division of Psychological and Social Medicine and Developmental
+Neurosciences, Faculty of Medicine, Technische Universität Dresden, Dresden,
+Germany.
+(27)Centre of Psychiatry and Neuroscience, INSERM U894, Paris, France.
+(28)Wellcome Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK.
+(29)Department of Medical Biology, School of Medicine, University of Split,
+Split, Croatia.
+(30)Department of Child and Adolescent Psychiatry, Psychosomatics and
+Psychotherapy, RWTH Aachen University, Aachen, Germany.
+(31)Klinikum Frankfurt/Oder, Frankfurt, Germany.
+(32)Clinical Genetics Unit, Department of Woman and Child Health, University of
+Padova, Italy.
+(33)Institute of Medical Genetics and Pathology, University Hospital Basel,
+Basel, Switzerland.
+(34)Department of Biomedicine, University of Basel, Basel, Switzerland.
+(35)Institute of Neuroscience and Medicine (INM-1), Research Center Juelich,
+Germany.
+(36)Department of Molecular and Integrative Physiology, Life Sciences Institute, 
+University of Michigan, Ann Arbor, Michigan, USA.
+(37)Department of Emergency Psychiatry and Post-Acute Care, CHRU Montpellier,
+University of Montpellier, Montpellier, France.
+(38)Department of Psychiatry, University of Minnesota, Minneapolis, Minnesota,
+USA.
+(39)Altrecht Eating Disorders Rintveld, Altrecht Mental Health Institute, Zeist, 
+The Netherlands.
+(40)MRC Integrative Epidemiology Unit, University of Bristol, Bristol, UK.
+(41)School of Social and Community Medicine, University of Bristol, Bristol, UK.
+(42)Department of Psychosomatic Medicine and Psychotherapy, Hannover Medical
+School, Hannover, Germany.
+(43)Department of Nutrition and Dietetics, Harokopio University, Athens, Greece.
+(44)Department of Neurosciences, University of Padova, Padova, Italy.
+(45)College of Nursing, Seattle University, Seattle, Washington, USA.
+(46)Department of Psychology, Virginia Commonwealth University, Richmond,
+Virginia, USA.
+(47)College Behavioral and Emotional Health Institute, Virginia Commonwealth
+University, Richmond, Virginia, USA.
+(48)Department of Human & Molecular Genetics, Virginia Commonwealth University,
+Richmond, Virginia, USA.
+(49)Department of Psychiatry, Athens University Medical School, Athens
+University, Athens, Greece.
+(50)l'institut du thorax, INSERM, CNRS, Univ Nantes, Nantes, France.
+(51)Department of Psychiatric Genetics, Poznan University of Medical Sciences,
+Poznan, Poland.
+(52)Barcelona Institute of Science and Technology, Barcelona, Spain.
+(53)Universitat Pompeu Fabra, Barcelona, Spain.
+(54)Centro de Investigación Biomédica en Red en Epidemiología y Salud Pública
+(CIBERESP), Barcelona, Spain.
+(55)Department of Psychiatry and Behavioral Sciences, Stanford University,
+Stanford, California, USA.
+(56)Department of Child and Adolescent Psychiatry, Psychosomatics and
+Psychotherapy, Centre for Mental Health, University Hospital of Würzburg,
+Würzburg, Germany.
+(57)Estonian Genome Center, University of Tartu, Tartu, Estonia.
+(58)Program in Medical and Population Genetics, Broad Institute of MIT and
+Harvard, Cambridge, Massachusetts, USA.
+(59)Genomics and Disease, Bioinformatics and Genomics Programme, Centre for
+Genomic Regulation, Barcelona, Spain.
+(60)Department of Psychiatry, University Hospital of Bellvitge -IDIBELL and
+CIBERobn, Barcelona, Spain.
+(61)Department of Clinical Sciences, School of Medicine, University of Barcelona,
+Barcelona, Spain.
+(62)Department of Psychiatry and Psychotherapy, Ludwig-Maximilians-University,
+Munich, Germany.
+(63)Schön Klinik Roseneck affiliated with the Medical Faculty of the University
+of Munich, Munich, Germany.
+(64)Department of Child and Adolescent Psychiatry, University of Münster,
+Münster, Germany.
+(65)Department of Cancer, Epidemiology and Genetics, Masaryk Memorial Cancer
+Institute, Brno, Czech Republic.
+(66)Centre for Human Genetics, University of Marburg, Marburg, Germany.
+(67)Institute of Human Genetics, School of Medicine & University Hospital Bonn,
+University of Bonn, Bonn, Germany.
+(68)Department of Psychiatry (UPK), University of Basel, Basel, Switzerland.
+(69)Department of Surgery, Faculty of Medicine, University of Toronto, Toronto,
+Ontario, Canada.
+(70)Department of Psychiatry, Psychotherapy and Psychosomatics,
+Martin-Luther-University Halle-Wittenberg, Halle (Saale), Germany.
+(71)1st Psychiatric Department, National and Kapodistrian University of Athens,
+Medical School, Eginition Hospital, Athens, Greece.
+(72)Institute of Psychiatry and Neuroscience of Paris, INSERM U1266, Paris,
+France.
+(73)CMME (GHU Paris Psychiatrie et Neurosciences), Paris Descartes University,
+Paris, France.
+(74)Center for Applied Genomics, Children's Hospital of Philadelphia,
+Philadelphia, Pennsylvania, USA.
+(75)Department of Pediatrics, University of Pennsylvania Perelman School of
+Medicine, Philadelphia, Pennsylvania, USA.
+(76)Institute of Translational Genomics, Helmholtz Zentrum München - German
+Research Centre for Environmental Health, Neuherberg, Germany.
+(77)Department of Adult Psychiatry, Poznan University of Medical Sciences,
+Poznan, Poland.
+(78)Zorg op Orde, Delft, The Netherlands.
+(79)Department of General Internal Medicine and Psychosomatics, Heidelberg
+University Hospital, Heidelberg University, Heidelberg, Germany.
+(80)Department of Psychiatry, and Genetics and Genomics Sciences, Division of
+Psychiatric Genomics, Icahn School of Medicine at Mount Sinai, New York, New
+York, USA.
+(81)Biological Psychiatry Laboratory, McLean Hospital/Harvard Medical School,
+Boston, Massachusetts, USA.
+(82)Eating Disorders Unit, Parklandklinik, Bad Wildungen, Germany.
+(83)Department of Molecular Life Science, Division of Basic Medical Science and
+Molecular Medicine, School of Medicine, Tokai University, Isehara, Japan.
+(84)Faculty of Health Sciences, Palacky University, Olomouc, Czech Republic.
+(85)Rheumatology Research Group, Vall d'Hebron Research Institute, Barcelona,
+Spain.
+(86)Department of Psychiatry, First Faculty of Medicine, Charles University,
+Prague, Czech Republic.
+(87)Department of Clinical Nutrition, Institute of Public Health and Clinical
+Nutrition, University of Eastern Finland, Kuopio, Finland.
+(88)Eating Disorders Unit, Department of Child and Adolescent Psychiatry, Medical
+University of Vienna, Vienna, Austria.
+(89)Groningen Institute for Evolutionary Life Sciences, University of Groningen, 
+Groningen, The Netherlands.
+(90)Centre for Addiction and Mental Health, Toronto, Ontario, Canada.
+(91)Institute of Medical Science, University of Toronto, Toronto, Ontario,
+Canada.
+(92)Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada.
+(93)Department of Public Health, University of Helsinki, Helsinki, Finland.
+(94)Institute of Applied Health Sciences, School of Medicine, Medical Sciences
+and Nutrition, University of Aberdeen, Aberdeen, UK.
+(95)Department of Psychiatry, Seoul Paik Hospital, Inje University, Seoul, Korea.
+(96)Department of Psychology, Michigan State University, East Lansing, Michigan, 
+USA.
+(97)Department of Mental Disorders, Norwegian Institute of Public Health, Oslo,
+Norway.
+(98)Department of Clinical Science, Norwegian Centre for Mental Disorders
+Research (NORMENT), University of Bergen, Bergen, Norway.
+(99)Dr. Einar Martens Research Group for Biological Psychiatry, Center for
+Medical Genetics and Molecular Medicine, Haukeland University Hospital, Bergen,
+Norway.
+(100)Department of Clinical Medicine, Laboratory Building, Haukeland University
+Hospital, Bergen, Norway.
+(101)The Chicago School of Professional Psychology, Washington DC Campus,
+Washington, District of Columbia, USA.
+(102)Department of Cancer Epidemiology and Prevention, M Skłodowska-Curie Cancer 
+Center - Oncology Center, Warsaw, Poland.
+(103)BESE Division, King Abdullah University of Science and Technology, Thuwal,
+Saudi Arabia.
+(104)Department of Psychiatry, University of Lausanne-University Hospital of
+Lausanne (UNIL-CHUV), Lausanne, Switzerland.
+(105)Department of Psychiatry, University of Campania "Luigi Vanvitelli", Naples,
+Italy.
+(106)Center for Integrative Genomics, University of Lausanne, Lausanne,
+Switzerland.
+(107)Department of Paediatric Laboratory Medicine, Division of Genome
+Diagnostics, The Hospital for Sick Children, Toronto, Ontario, Canada.
+(108)NORMENT KG Jebsen Centre, Division of Mental Health and Addiction,
+University of Oslo, Oslo University Hospital, Oslo, Norway.
+(109)Department of Psychiatry, University College Cork, Cork, Ireland.
+(110)Eist Linn Adolescent Unit, Bessborough, Health Service Executive South,
+Cork, Ireland.
+(111)Institute of Molecular and Cell Biology, University of Tartu, Tartu,
+Estonia.
+(112)Molecular Epidemiology Section (Department of Biomedical Datasciences),
+Leiden University Medical Centre, Leiden, The Netherlands.
+(113)Department of Psychiatry, Faculty of Medicine, University of Geneva, Geneva,
+Switzerland.
+(114)Division of Child and Adolescent Psychiatry, Geneva University Hospital,
+Geneva, Switzerland.
+(115)National Center for PTSD, VA Boston Healthcare System, Boston,
+Massachusetts, USA.
+(116)Department of Psychiatry, Boston University School of Medicine, Boston,
+Massachusetts, USA.
+(117)Department of Medicine, Surgery and Dentistry "Scuola Medica Salernitana",
+University of Salerno, Salerno, Italy.
+(118)Department of Neuroscience, Psychology, Drug Research and Child Health
+(NEUROFARBA), University of Florence, Florence, Italy.
+(119)Kartini Clinic, Portland, Oregon, USA.
+(120)Center for Neurobehavioral Genetics, Semel Institute for Neuroscience and
+Human Behavior, University of California Los Angeles, Los Angeles, California,
+USA.
+(121)Department of Psychiatry, Erasmus MC, University Medical Center Rotterdam,
+Rotterdam, The Netherlands.
+(122)Department of Medicine, Center for Molecular Medicine, Division of
+Rheumatology, Karolinska Institutet and Karolinska University Hospital,
+Stockholm, Sweden.
+(123)Institute for Molecular Medicine FIMM, HiLIFE, University of Helsinki,
+Helsinki, Finland.
+(124)Center for Human Genome Research, Massachusetts General Hospital, Boston,
+Massachusetts, USA.
+(125)Saint Joan de Déu Research Institute, Saint Joan de Déu Barcelona Children's
+Hospital, Barcelona, Spain.
+(126)Institute of Biomedicine (IBUB), University of Barcelona, Barcelona, Spain.
+(127)Department of Genetics, Microbiology and Statistics, University of
+Barcelona, Barcelona, Spain.
+(128)Institute of Clinical Medicine, University of Oslo, Oslo, Norway.
+(129)Department of Health Science, University of Florence, Florence, Italy.
+(130)Department of Biometry, University of Helsinki, Helsinki, Finland.
+(131)Department of Child and Adolescent Psychiatry, Faculty of Medicine, Eating
+Disorders Research and Treatment Center, Technische Universität Dresden, Dresden,
+Germany.
+(132)Department of Psychiatry, Neurobiology, Pharmacology, and Biotechnologies,
+University of Pisa, Pisa, Italy.
+(133)Department of Psychiatry, Poznan University of Medical Sciences, Poznan,
+Poland.
+(134)Department of Neurosciences, Padua Neuroscience Center, University of
+Padova, Padova, Italy.
+(135)Institute of Medical Statistics, Computer and Data Sciences, Jena University
+Hospital, Jena, Germany.
+(136)Department of Genetics and Genomic Biology, The Hospital for Sick Children, 
+Toronto, Ontario, Canada.
+(137)McLaughlin Centre, University of Toronto, Toronto, Ontario, Canada.
+(138)Department of Psychological Medicine, Institute of Psychiatry, Psychology
+and Neuroscience, King's College London, London, UK.
+(139)J. Craig Venter Institute (JCVI), La Jolla, California, USA.
+(140)Department of Psychiatry and Psychotherapy, Medical University of Vienna,
+Vienna, Austria.
+(141)Department of Pediatrics and Center of Applied Genomics, First Faculty of
+Medicine, Charles University, Prague, Czech Republic.
+(142)Molecular Epidemiology Section (Department of Medical Statistics), Leiden
+University Medical Centre, Leiden, The Netherlands.
+(143)Center for Eating Disorders Ursula, Rivierduinen, Leiden, The Netherlands.
+(144)Department of Psychiatry, Leiden University Medical Centre, Leiden, The
+Netherlands.
+(145)Department of Child and Adolescent Psychiatry, Poznan University of Medical 
+Sciences, Poznan, Poland.
+(146)IRCCS Fondazione Don Carlo Gnocchi, Florence, Italy.
+(147)Department of Environmental Epidemiology, Nofer Institute of Occupational
+Medicine, Lodz, Poland.
+(148)Department of Psychiatry, University of Naples SUN, Naples, Italy.
+(149)Department of Psychiatry, University of Perugia, Perugia, Italy.
+(150)Brain Sciences Department, Stremble Ventures, Limassol, Cyprus.
+(151)Adolescent Health Unit, Second Department of Pediatrics, "P. & A. Kyriakou" 
+Children's Hospital, University of Athens, Athens, Greece.
+(152)Pediatric Intensive Care Unit, "P. & A. Kyriakou" Children's Hospital,
+University of Athens, Athens, Greece.
+(153)Faculty of Social and Behavioral Sciences, Utrecht University, Utrecht, The 
+Netherlands.
+(154)Department of Internal Medicine VI, Psychosomatic Medicine and
+Psychotherapy, University Medical Hospital Tuebingen, Tuebingen, Germany.
+(155)BioRealm, LLC, Walnut, California, USA.
+(156)Oregon Research Institute, Eugene, Oregon, USA.
+(157)Christchurch Health and Development Study, University of Otago,
+Christchurch, New Zealand.
+(158)The Center for Eating Disorders at Sheppard Pratt, Baltimore, Maryland, USA.
+(159)Department of Psychiatry, Weill Cornell Medical College, New York, New York,
+USA.
+(160)Eating Recovery Center, Denver, Colorado, USA.
+(161)Department of Psychiatry, University of California San Diego, La Jolla,
+California, USA.
+(162)Department of Psychiatry and Behavioral Science, University of North Dakota 
+School of Medicine and Health Sciences, Fargo, North Dakota, USA.
+(163)Population Health Department, QIMR Berghofer Medical Research Institute,
+Brisbane, Queensland, Australia.
+(164)Biostatistics and Computational Biology Unit, University of Otago,
+Christchurch, New Zealand.
+(165)Department of Psychiatry and Biobehavioral Science, Semel Institute for
+Neuroscience and Human Behavior, University of California Los Angeles, Los
+Angeles, California, USA.
+(166)David Geffen School of Medicine, University of California Los Angeles, Los
+Angeles, California, USA.
+(167)Department of Clinical Medicine, University of Copenhagen, Copenhagen,
+Denmark.
+(168)Centre for Mental Health, University Health Network, Toronto, Ontario,
+Canada.
+(169)Program for Eating Disorders, University Health Network, Toronto, Ontario,
+Canada.
+(170)The Lundbeck Foundation Initiative for Integrative Psychiatric Research
+(iPSYCH), Aarhus, Denmark.
+(171)Centre for Integrative Sequencing, iSEQ, Aarhus University, Aarhus, Denmark.
+(172)Bioinformatics Research Centre, Aarhus University, Aarhus, Denmark.
+(173)Institute for Molecular Bioscience, University of Queensland, Brisbane,
+Queensland, Australia.
+(174)National Centre for Register-Based Research, Aarhus BSS, Aarhus University, 
+Aarhus, Denmark.
+(175)Centre for Integrated Register-based Research (CIRRAU), Aarhus University,
+Aarhus, Denmark.
+(176)Department of Psychological Medicine, University of Otago, Christchurch, New
+Zealand.
+(177)Canterbury District Health Board, Christchurch, New Zealand.
+(178)Department of Pathology and Biomedical Science, University of Otago,
+Christchurch, New Zealand.
+(179)Department of Psychiatry and Neurochemistry, Institute of Neuroscience and
+Physiology, The Sahlgrenska Academy at the University of Gothenburg, Gothenburg, 
+Sweden.
+(180)Department of Psychiatry, Division of Human Genetics, Yale School of
+Medicine, New Haven, Connecticut, USA.
+(181)Veterans Affairs Connecticut Healthcare System, West Haven, Connecticut,
+USA.
+(182)Department of Biochemistry and Molecular Biology, Indiana University School 
+of Medicine, Indianapolis, Indiana, USA.
+(183)Faculty of Business, Karabuk University, Karabuk, Turkey.
+(184)Virginia Commonwealth University Alcohol Research Center, Virginia
+Commonwealth University, Richmond, Virginia, USA.
+(185)Virginia Institute for Psychiatric and Behavioral Genetics, Virginia
+Commonwealth University, Richmond, Virginia, USA.
+(186)Department of Psychiatry, Virginia Commonwealth University, Richmond,
+Virginia, USA.
+(187)Psychiatric Genomics and Pharmacogenomics Program, Mayo Clinic, Rochester,
+Minnesota, USA.
+(188)Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New
+York, New York, USA.
+(189)Department of Health Sciences Research, Mayo Clinic, Rochester, Minnesota,
+USA.
+(190)Department of Psychiatry and Psychology, Mayo Clinic, Rochester, Minnesota, 
+USA.
+(191)Department of Psychiatry and Behavioral Sciences, State University of New
+York Downstate Medical Center, Brooklyn, New York, USA.
+(192)Division of Psychiatry, University of Edinburgh, Edinburgh, UK.
+(193)Institute of Human Genetics, University of Bonn School of Medicine &
+University Hospital Bonn, Bonn, Germany.
+(194)Department of Psychiatry, University of Utah, Salt Lake City, Utah, USA.
+(195)Department of Genetic Epidemiology in Psychiatry, Central Institute of
+Mental Health, Medical Faculty Mannheim, Heidelberg University, Mannheim,
+Germany.
+(196)Laboratory of Neurogenetics, NIH/NIAAA, Bethesda, Maryland, USA.
+(197)Human Genomics Research Group, Department of Biomedicine, University of
+Basel, Basel, Switzerland.
+(198)Department of Biological Psychology, Amsterdam Public Health Research
+Institute, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands.
+(199)Turku Institute for Advanced Studies, University of Turku, Turku, Finland.
+(200)Department of Psychology and Logopedics, University of Helsinki, Helsinki,
+Finland.
+(201)Department of Medical and Molecular Genetics, Indiana University School of
+Medicine, Indianapolis, Indiana, USA.
+(202)Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland, USA.
+(203)Division of Psychiatry, Centre for Cognitive Ageing and Cognitive
+Epidemiology, University of Edinburgh, Edinburgh, UK.
+(204)Department of Integrative Physiology, University of Colorado Boulder,
+Boulder, Colorado, USA.
+(205)Department of Psychiatry and Behavioral Sciences, Henri Begleiter
+Neurodynamics Laboratory, SUNY Downstate Medical Center, Brooklyn, New York, USA.
+(206)Department of Psychiatry, Amsterdam Public Health Research Institute, VU
+University Medical Center/GGz inGeest, Amsterdam, The Netherlands.
+(207)Department of Genetics, Washington University School of Medicine, Saint
+Louis, Missouri, USA.
+(208)Office of the Clinical Director, NIH/NIAAA, Bethesda, Maryland, USA.
+(209)Department of Medicine (Biomedical Genetics), Boston University School of
+Medicine, Boston, Massachusetts, USA.
+(210)Department of Epidemiology, Harvard T.H. Chan School of Public Health,
+Harvard University, Cambridge, Massachusetts, USA.
+(211)Department of Sociology, Harvard University, Cambridge, Massachusetts, USA.
+(212)Department of Pharmacology, University of Colorado School of Medicine,
+Aurora, Colorado, USA.
+(213)Institute of Behavioral Science, University of Colorado, Boulder, Colorado, 
+USA.
+(214)Department of Sociology, University of Colorado, Boulder, Colorado, USA.
+(215)Department of Molecular Pharmacology and Experimental Therapeutics, Mayo
+Clinic, Rochester, Minnesota, USA.
+(216)Department of Psychiatry, University of Vermont Medical Center, Burlington, 
+Vermont, USA.
+(217)Department of Medicine, Division of Biostatistics, Washington University
+School of Medicine, Saint Louis, Missouri, USA.
+(218)Department of Psychiatry, University of Mainz, Mainz, Germany.
+(219)National Drug and Alcohol Research Centre, University of New South Wales,
+Sydney, New South Wales, Australia.
+(220)Stanford University Graduate School of Education, Stanford University,
+Stanford, California, USA.
+(221)Department of Psychiatry and Psychotherapy, University of Düsseldorf,
+Duesseldorf, Germany.
+(222)MRC Human Genetics Unit, Institute of Genetics and Molecular Medicine,
+University of Edinburgh, Edinburgh, UK.
+(223)Max-Planck-Institute of Psychiatry, Munich, Germany.
+(224)Department of Psychology, University of Minnesota, Minneapolis, Minnesota,
+USA.
+(225)Department of Addictive Behavior and Addiction Medicine, Central Institute
+of Mental Health, Medical Faculty Mannheim, Heidelberg University, Mannheim,
+Germany.
+(226)Department of Psychiatry and Psychotherapy, University Hospital, LMU Munich,
+Munich, Germany.
+(227)Department of Psychiatry, University of Iowa Roy J and Lucille A Carver
+College of Medicine, Iowa City, Iowa, USA.
+(228)Addictions Department, Institute of Psychiatry, Psychology & Neuroscience,
+King's College London, London, UK.
+(229)Department of Psychiatry, University of Bonn, Bonn, Germany.
+(230)Department of Public Health Solutions, National Institute for Health and
+Welfare, Helsinki, Finland.
+(231)Department of Statistical Genetics, Max-Planck-Institute of Psychiatry,
+München, Germany.
+(232)Aberdeen Biomedical Imaging Centre, School of Medicine, Medical Sciences &
+Nutrition, University of Aberdeen, Foresterhill, Aberdeen, UK.
+(233)Department of Psychiatry, Indiana University School of Medicine,
+Indianapolis, Indiana, USA.
+(234)Department of Psychiatry, Psychotherapy and Psychosomatics,
+Martin-Luther-University Halle-Wittenberg, Herborn, Germany.
+(235)Department of Psychiatry and Psychotherapy, Vitos Hospital Herborn, Herborn,
+Germany.
+(236)School of Pharmacy, University of Pittsburgh, Pittsburgh, Pennsylvania, USA.
+(237)Department of Psychiatry and Psychotherapy, University of Regensburg
+Psychiatric Health Care Aargau, Regensburg, Germany.
+(238)Department of Psychiatry and Psychotherapy and Department of Addictive
+Behaviour and Addiction Medicine, Medical Faculty, LVR-Hospital Essen, University
+of Duisburg-Essen, Essen, Germany.
+(239)Medical Park Chiemseeblick in Bernau-Felden, Ludwig-Maximilians-University, 
+Bernau am Chiemsee, Germany.
+(240)Psychiatric Hospital, Ludwig-Maximilians-University, Bernau am Chiemsee,
+Germany.
+(241)Department of Psychiatry and Psychotherapy, University of Regensburg,
+Regensburg, Germany.
+(242)Department of Psychiatry, Psychiatric Hospital,
+Ludwig-Maximilians-University, Munich, Germany.
+(243)Department of Sociology, University of Utah, Salt Lake City, Utah, USA.
+(244)Department of Psychology, University of California San Diego, La Jolla,
+California, USA.
+(245)Department of Psychiatry and Behavioral Sciences, Duke University Medical
+Center, Durham, North Carolina, USA.
+(246)Department of Psychiatry and Behavioral Neuroscience, University of Chicago,
+Chicago, Illinois, USA.
+(247)NIAAA Intramural Research Program, Bethesda, Maryland, USA.
+(248)Department of General Practice and Primary Health Care, University of
+Helsinki, Helsinki, Finland.
+(249)National Institute for Health and Welfare, Helsinki, Finland.
+(250)Department of Neurology, Boston University School of Medicine, Boston,
+Massachusetts, USA.
+(251)Department of Ophthalmology, Boston University School of Medicine, Boston,
+Massachusetts, USA.
+(252)Department of Epidemiology, School of Public Health, Boston University,
+Boston, Massachusetts, USA.
+(253)Department of Biostatistics, School of Public Health, Boston University,
+Boston, Massachusetts, USA.
+(254)Office of the Clinical Director, NIH/NIAAA, Besthesda, Maryland, USA.
+(255)Center for Omics Discovery and Epidemiology, Behavioral Health Research
+Division, RTI International, Research Triangle Park, North Carolina, USA.
+(256)Department of Sociology, University of North Carolina at Chapel Hill, Chapel
+Hill, North Carolina, USA.
+(257)Carolina Population Center, University of North Carolina at Chapel Hill,
+Chapel Hill, North Carolina, USA.
+(258)Department of Psychiatry, University of Connecticut School of Medicine,
+Farmington, Connecticut, USA.
+(259)Institute for Behavioral Genetics, University of Colorado Boulder, Boulder, 
+Colorado, USA.
+(260)Department of Psychiatry, University of Colorado Denver, Aurora, Colorado,
+USA.
+(261)Fellow Program, RTI International, Research Triangle Park, North Carolina,
+USA.
+(262)Center for Studies of Addiction, University of Pennsylvania Perelman School 
+of Medicine, Philadelphia, Pennsylvania, USA.
+(263)VISN 4 MIRECC, Crescenz VAMC, Philadelphia, Pennsylvania, USA.
+(264)Department of Molecular, Cellular, and Developmental Biology, University of 
+Colorado Boulder, Boulder, Colorado, USA.
+(265)Peter Boris Centre for Addictions Research, McMaster University/St. Joseph's
+Healthcare Hamilton, Hamilton, Ontario, Canada.
+(266)Michael G. DeGroote Centre for Medicinal Cannabis Research, McMaster
+University/St. Joseph's Healthcare Hamilton, Hamilton, Ontario, Canada.
+(267)Institute for Genomic Medicine, University of California San Diego, La
+Jolla, California, USA.
+(268)Department of Psychiatry, Amsterdam UMC, VU University and GGZinGeest,
+Amsterdam, The Netherlands.
+(269)Department of Psychological & Brain Sciences, Indiana University
+Bloomington, Bloomington, Indiana, USA.
+(270)Department of Biostatistics, Yale School of Public Health, Yale University, 
+New Haven, Connecticut, USA.
+(271)School of Psychology, Flinders University, Adelaide, South Australia,
+Australia.
+(272)Queensland Brain Institute, University of Queensland, Brisbane, Queensland, 
+Australia.
+(273)Department of Genetics, Yale School of Medicine, New Haven, Connecticut,
+USA.
+(274)Department of Neuroscience, Yale School of Medicine, New Haven, Connecticut,
+USA.
+(275)Department of Nutrition, University of North Carolina at Chapel Hill, Chapel
+Hill, North Carolina, USA.
+
+Eating disorders and substance use disorders frequently co-occur. Twin studies
+reveal shared genetic variance between liabilities to eating disorders and
+substance use, with the strongest associations between symptoms of bulimia
+nervosa and problem alcohol use (genetic correlation [rg ], twin-based =
+0.23-0.53). We estimated the genetic correlation between eating disorder and
+substance use and disorder phenotypes using data from genome-wide association
+studies (GWAS). Four eating disorder phenotypes (anorexia nervosa [AN], AN with
+binge eating, AN without binge eating, and a bulimia nervosa factor score), and
+eight substance-use-related phenotypes (drinks per week, alcohol use disorder
+[AUD], smoking initiation, current smoking, cigarettes per day, nicotine
+dependence, cannabis initiation, and cannabis use disorder) from eight studies
+were included. Significant genetic correlations were adjusted for variants
+associated with major depressive disorder and schizophrenia. Total study sample
+sizes per phenotype ranged from ~2400 to ~537 000 individuals. We used linkage
+disequilibrium score regression to calculate single nucleotide polymorphism-based
+genetic correlations between eating disorder- and substance-use-related
+phenotypes. Significant positive genetic associations emerged between AUD and AN 
+(rg = 0.18; false discovery rate q = 0.0006), cannabis initiation and AN (rg =
+0.23; q < 0.0001), and cannabis initiation and AN with binge eating (rg = 0.27; q
+= 0.0016). Conversely, significant negative genetic correlations were observed
+between three nondiagnostic smoking phenotypes (smoking initiation, current
+smoking, and cigarettes per day) and AN without binge eating (rgs = -0.19 to
+-0.23; qs < 0.04). The genetic correlation between AUD and AN was no longer
+significant after co-varying for major depressive disorder loci. The patterns of 
+association between eating disorder- and substance-use-related phenotypes
+highlights the potentially complex and substance-specific relationships among
+these behaviors.
+
+© 2020 Society for the Study of Addiction.
+
+DOI: 10.1111/adb.12880 
+PMCID: PMC7429266 [Available on 2022-01-01]
+PMID: 32064741 
+

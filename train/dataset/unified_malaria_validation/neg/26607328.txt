@@ -1,0 +1,66 @@
+
+1. bmc genomics. 2015 nov 25;16:1005. doi: 10.1186/s12864-015-2214-9.
+
+analysis nucleosome positioning landscapes enables gene discovery human
+malaria parasite plasmodium falciparum.
+
+lu xm(1), bunnik em(2), pokhriyal n(3), nasseri s(4), lonardi s(5), le roch
+kg(6).
+
+author information: 
+(1)department cell biology neuroscience, institute integrative genome 
+biology, center disease vector research, university california, riverside,
+900 university avenue, riverside, ca, 92521, usa. xlu006@ucr.edu.
+(2)department cell biology neuroscience, institute integrative genome 
+biology, center disease vector research, university california, riverside,
+900 university avenue, riverside, ca, 92521, usa. evelien.bunnik@ucr.edu.
+(3)department computer science engineering, university california,
+riverside, 900 university avenue, riverside, ca, 92521, usa.
+neetipok@buffalo.edu.
+(4)department computer science engineering, university california,
+riverside, 900 university avenue, riverside, ca, 92521, usa.
+sara.nasseri@email.ucr.edu.
+(5)department computer science engineering, university california,
+riverside, 900 university avenue, riverside, ca, 92521, usa. stelo@cs.ucr.edu.
+(6)department cell biology neuroscience, institute integrative genome 
+biology, center disease vector research, university california, riverside,
+900 university avenue, riverside, ca, 92521, usa. karine.leroch@ucr.edu.
+
+background: plasmodium falciparum, deadliest malaria-causing parasite, an
+extremely at-rich (80.7 %) genome. high at-content, sequence-based
+annotation genes functional elements remains challenging. order to
+better understand regulatory network controlling gene expression the
+parasite, complete genome annotation well analysis tools adapted for
+at-rich genomes needed. recent studies genome-wide nucleosome positioning 
+in eukaryotes shown nucleosome landscapes exhibit regular
+characteristic patterns 5'- 3'-end protein non-protein coding
+genes. addition, nucleosome depleted regions found near transcription
+start sites. unique nucleosome landscape patterns may exploited 
+identification novel genes. paper, propose computational approach
+to discover novel putative genes based exclusively nucleosome positioning data
+in at-rich genome p. falciparum.
+results: using binary classifiers trained nucleosome landscapes gene
+boundaries two independent nucleosome positioning data sets, able to
+detect total 231 regions containing putative genes genome of
+plasmodium falciparum, 67 highly confident genes found data
+sets. eighty-eight 231 newly predicted genes exhibited transcription
+signal rna-seq data, indicative active transcription. addition, 20 out
+of 21 selected gene candidates validated rt-pcr, 28 of
+the 231 genes showed significant matches using blastn expressed
+sequence tag (est) database. furthermore, 108 (47%) 231 putative novel
+genes overlapped previously identified unannotated long non-coding rnas.
+collectively, results provide experimental validation 163 predicted
+genes (70.6%). finally, 73 231 genes found potentially
+translated based signal polysome-associated rna-seq representing
+transcripts actively translated.
+conclusion: results clearly indicate nucleosome positioning data
+contains sufficient information novel gene discovery. distinct nucleosome 
+landscapes around genes found many eukaryotic organisms, this
+methodology could used characterize transcriptome organism,
+especially coupled dna-based gene finding experimental
+methods (e.g., rna-seq).
+
+doi: 10.1186/s12864-015-2214-9 
+pmcid: pmc4658763
+pmid: 26607328  [indexed medline]
+

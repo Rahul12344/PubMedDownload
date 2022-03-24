@@ -1,0 +1,39 @@
+
+1. Biochemistry. 2018 Aug 14;57(32):4858-4866. doi: 10.1021/acs.biochem.8b00690.
+Epub 2018 Jul 25.
+
+Biochemical and Structural Analysis of FomD That Catalyzes the Hydrolysis of
+Cytidylyl ( S)-2-Hydroxypropylphosphonate in Fosfomycin Biosynthesis.
+
+Sato S(1), Miyanaga A(1), Kim SY, Kuzuyama T, Kudo F(1), Eguchi T(1).
+
+Author information: 
+(1)Department of Chemistry , Tokyo Institute of Technology , 2-12-1 O-okayama ,
+Meguro-ku, Tokyo 152-8551 , Japan.
+
+In fosfomycin biosynthesis, the hydrolysis of cytidylyl (
+S)-2-hydroxypropylphosphonate [( S)-HPP-CMP] to afford ( S)-HPP is the only
+uncharacterized step. Because FomD is an uncharacterized protein with a DUF402
+domain that is encoded in the fosfomycin biosynthetic gene cluster, FomD was
+hypothesized to be responsible for this reaction. In this study, FomD was found
+to hydrolyze ( S)-HPP-CMP to give ( S)-HPP and CMP efficiently in the presence of
+Mn2+ or Co2+. FomD also hydrolyzed cytidylyl 2-hydroxyethylphosphonate (HEP-CMP),
+which is a biosynthetic intermediate before C-methylation. The kcat/ KM value of 
+FomD with ( S)-HPP-CMP was 10-fold greater than that with HEP-CMP, suggesting
+that FomD hydrolyzes ( S)-HPP-CMP rather than HEP-CMP in bacteria. The crystal
+structure of FomD showed that this protein adopts a barrel-like fold, which
+consists of a large twisted antiparallel β-sheet. This is a key structural
+feature of the DUF402 domain-containing proteins. Two metal cations are located
+between the FomD barrel and the two α-helices at the C-terminus and serve to
+presumably activate the phosphonate group of substrates for hydrolysis. Docking
+simulations with ( S)-HPP-CMP suggested that the methyl group at the C2 position 
+of the HPP moiety is recognized by a hydrophobic interaction with Trp68. Further 
+mutational analysis suggested that a conserved Tyr107 among the DUF402 domain
+family of proteins activates a water molecule to promote nucleophilic attack on
+the phosphorus atom of the phosphonate moiety. These findings provide mechanistic
+insights into the FomD reaction and lead to a complete understanding of the
+fosfomycin biosynthetic pathway in Streptomyces.
+
+DOI: 10.1021/acs.biochem.8b00690 
+PMID: 30010320  [Indexed for MEDLINE]
+

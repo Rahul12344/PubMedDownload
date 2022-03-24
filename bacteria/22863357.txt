@@ -1,0 +1,41 @@
+
+1. FEBS J. 2012 Oct;279(19):3727-3737. doi: 10.1111/j.1742-4658.2012.08734.x. Epub
+2012 Aug 31.
+
+Requirement of lid2 for interfacial activation of a family I.3 lipase with unique
+two lid structures.
+
+Cheng M(1), Angkawidjaja C(1)(2), Koga Y(1), Kanaya S(1).
+
+Author information: 
+(1)Department of Material and Life Science, Graduate School of Engineering, Osaka
+University, Japan.
+(2)International College, Osaka University, Japan.
+
+A family I.3 lipase from Pseudomonas sp. MIS38 (PML) is characterized by the
+presence of two lids (lid1 and lid2) that greatly change conformation upon
+substrate binding. While lid1 represents the commonly known lid in lipases, lid2 
+is unique to PML and other family I.3 lipases. To clarify the role of lid2 in
+PML, a lid2 deletion mutant (ΔL2-PML) was constructed by deleting residues 35-64 
+of PML. ΔL2-PML requires calcium ions for both lipase and esterase activities as 
+does PML, suggesting that it exhibits activity only when lid1 is fully open and
+anchored by the catalytically essential calcium ion, as does PML. However, when
+the enzymatic activity was determined using triacetin, the activity of PML
+exponentially increased as the substrate concentration reached and increased
+beyond the critical micellar concentration, while that of ΔL2-PML did not. These 
+results indicate that PML undergoes interfacial activation, while ΔL2-PML does
+not. The activities of ΔL2-PML for long-chain triglycerides significantly
+decreased while its activity for fatty acid ethyl esters increased, compared with
+those of PML. Comparison of the tertiary models of ΔL2-PML in a closed and open
+conformation, which are optimized by molecular dynamics simulation, with the
+crystal structures of PML suggests that the hydrophobic surface area provided by 
+lid1 and lid2 in an open conformation is considerably decreased by the deletion
+of lid2. We propose that the hydrophobic surface area provided by these lids is
+necessary to hold the micellar substrates firmly to the active site and therefore
+lid2 is required for interfacial activation of PML.
+
+© 2012 The Authors Journal compilation © 2012 FEBS.
+
+DOI: 10.1111/j.1742-4658.2012.08734.x 
+PMID: 22863357  [Indexed for MEDLINE]
+

@@ -1,0 +1,49 @@
+
+1. oncogene. 2016 feb 11;35(6):715-26. doi: 10.1038/onc.2015.122. epub 2015 apr 20.
+
+hepatitis b virus x protein induces epcam expression via active dna demethylation
+directed rela complex ezh2 tet2.
+
+fan h(1)(2), zhang h(1)(2), pascuzzi pe(3), andrisani o(1)(2).
+
+author information: 
+(1)department basic medical sciences, purdue university, west lafayette, in,
+usa.
+(2)department purdue center cancer research, purdue university, west
+lafayette, in, usa.
+(3)purdue university libraries, purdue university, west lafayette, in, usa.
+
+chronic hepatitis b virus (hbv) infection major risk factor developing
+hepatocellular carcinoma (hcc), hbv x protein (hbx) acts cofactor in
+hepatocarcinogenesis. liver tumors animals modeling hbx- hbv-mediated
+hepatocarcinogenesis, downregulation chromatin regulating proteins suz12 and
+znf198 induces expression several genes, including epithelial cell adhesion
+molecule (epcam). epcam upregulation occurs hbv-mediated hccs hepatic
+cancer stem cells, mechanism understood. herein demonstrate hbx
+induces epcam expression via active dna demethylation. hepatocytes, epcam is
+silenced polycomb repressive complex 2 (prc2) znf198/lsd1/co-rest/hdac1
+chromatin-modifying complexes. cells stable knockdown suz12, essential
+prc2 subunit, upon hbx expression demethylate cpg dinucleotide located adjacent
+to nf-κb/rela half-site. nf-κb/rela site cpg island downstream 
+epcam transcriptional start site (tss). chromatin immunoprecipitation (chip)
+assays demonstrate hbx-dependent rela occupancy nf-κb half-site, whereas rela 
+knockdown suppresses cpg demethylation epcam expression. tumor necrosis
+factor-α activates rela, propagating demethylation nearby cpg sites, shown 
+sodium bisulfite sequencing. rela-dependent demethylation occurring upon hbx
+expression requires methyltrasferase ezh2, tet2 key factor cytosine
+demethylation inactive dnmt3l, shown knockdown assays sodium bisulfite
+sequencing. co-immunoprecipitations sequential chip assays demonstrate that
+rela presence hbx forms complex ezh2, tet2 dnmt3l, although 
+the role dnmt3l remains understood. interestingly, human epcam gene 
+also cpg island downstream tss, nf-κb-binding site flanked
+by cpgs. hepg2 cells derived human hcc exhibit demethylation these
+nf-κb-flanking cpg sites, hbv replication propagates demethylation nearby 
+cpg sites. dlk1, another prc2 target gene, also upregulated hbv-mediated hccs,
+is demethylated liver tumors cpg dinucleotides flanking nf-κb-binding
+sequence, supporting active dna demethylation mechanism functions
+during oncogenic transformation.
+
+doi: 10.1038/onc.2015.122 
+pmcid: pmc4615262
+pmid: 25893293  [indexed medline]
+

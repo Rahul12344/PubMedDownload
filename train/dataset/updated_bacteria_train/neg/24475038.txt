@@ -1,0 +1,60 @@
+
+1. PLoS One. 2014 Jan 27;9(1):e85140. doi: 10.1371/journal.pone.0085140. eCollection
+2014.
+
+Characterization of cyanobacterial hydrocarbon composition and distribution of
+biosynthetic pathways.
+
+Coates RC(1), Podell S(1), Korobeynikov A(2), Lapidus A(3), Pevzner P(4), Sherman
+DH(5), Allen EE(1), Gerwick L(1), Gerwick WH(6).
+
+Author information: 
+(1)Center for Marine Biotechnology and Biomedicine, Scripps Institution of
+Oceanography, University of California San Diego, La Jolla, California, United
+States of America.
+(2)Algorithmic Biology Laboratory, St. Petersburg Academic University, Russian
+Academy of Sciences, St. Petersburg, Russia ; Department of Mathematics and
+Mechanics, St. Petersburg State University, St. Petersburg, Russia.
+(3)Algorithmic Biology Laboratory, St. Petersburg Academic University, Russian
+Academy of Sciences, St. Petersburg, Russia ; Theodosius Dobzhansky Center for
+Genome Bionformatics, St. Petersburg State University, St. Petersburg, Russia.
+(4)Algorithmic Biology Laboratory, St. Petersburg Academic University, Russian
+Academy of Sciences, St. Petersburg, Russia ; Department of Computer Science and 
+Engineering, University of California San Diego, La Jolla, California, United
+States of America.
+(5)Life Sciences Institute and Department of Medical Chemistry, University of
+Michigan, Ann Arbor, Michigan, United States of America.
+(6)Center for Marine Biotechnology and Biomedicine, Scripps Institution of
+Oceanography, University of California San Diego, La Jolla, California, United
+States of America ; Skaggs School of Pharmacy and Pharmaceutical Sciences,
+University of California San Diego, La Jolla, California, United States of
+America.
+
+Cyanobacteria possess the unique capacity to naturally produce hydrocarbons from 
+fatty acids. Hydrocarbon compositions of thirty-two strains of cyanobacteria were
+characterized to reveal novel structural features and insights into hydrocarbon
+biosynthesis in cyanobacteria. This investigation revealed new double bond (2-
+and 3-heptadecene) and methyl group positions (3-, 4- and 5-methylheptadecane)
+for a variety of strains. Additionally, results from this study and literature
+reports indicate that hydrocarbon production is a universal phenomenon in
+cyanobacteria. All cyanobacteria possess the capacity to produce hydrocarbons
+from fatty acids yet not all accomplish this through the same metabolic pathway. 
+One pathway comprises a two-step conversion of fatty acids first to fatty
+aldehydes and then alkanes that involves a fatty acyl ACP reductase (FAAR) and
+aldehyde deformylating oxygenase (ADO). The second involves a polyketide synthase
+(PKS) pathway that first elongates the acyl chain followed by decarboxylation to 
+produce a terminal alkene (olefin synthase, OLS). Sixty-one strains possessing
+the FAAR/ADO pathway and twelve strains possessing the OLS pathway were newly
+identified through bioinformatic analyses. Strains possessing the OLS pathway
+formed a cohesive phylogenetic clade with the exception of three Moorea strains
+and Leptolyngbya sp. PCC 6406 which may have acquired the OLS pathway via
+horizontal gene transfer. Hydrocarbon pathways were identified in
+one-hundred-forty-two strains of cyanobacteria over a broad phylogenetic range
+and there were no instances where both the FAAR/ADO and the OLS pathways were
+found together in the same genome, suggesting an unknown selective pressure
+maintains one or the other pathway, but not both.
+
+DOI: 10.1371/journal.pone.0085140 
+PMCID: PMC3903477
+PMID: 24475038  [Indexed for MEDLINE]
+

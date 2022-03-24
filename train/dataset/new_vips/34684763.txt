@@ -1,0 +1,47 @@
+
+1. Molecules. 2021 Oct 13;26(20). pii: 6182. doi: 10.3390/molecules26206182.
+
+In Silico and In Vivo Evaluation of SARS-CoV-2 Predicted Epitopes-Based Candidate
+Vaccine.
+
+Shehata MM(1)(2), Mahmoud SH(1), Tarek M(3), Al-Karmalawy AA(4), Mahmoud A(5),
+Mostafa A(1), M Elhefnawi M(6), Ali MA(1).
+
+Author information: 
+(1)Center of Scientific Excellence for Influenza Viruses, National Research
+Centre, Giza 12622, Egypt.
+(2)Institute of Medical Virology, Justus Liebig University Giessen, 35392
+Giessen, Germany.
+(3)Bioinformatics Department, Armed Forces College of Medicine (AFCM), Cairo
+11757, Egypt.
+(4)Department of Pharmaceutical Medicinal Chemistry, Faculty of Pharmacy, Horus
+University-Egypt, New Damietta 34518, Egypt.
+(5)Department of Biology, College of Science, Imam Abdulrahman Bin Faisal
+University, P.O. Box. 1982, Dammam 31441, Saudi Arabia.
+(6)National Research Centre, Biomedical Informatics and Cheminformatics Group,
+Informatics and Systems Department, Cairo 12622, Egypt.
+
+Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2, the causative agent 
+of coronavirus disease (COVID-19)) has caused relatively high mortality rates in 
+humans throughout the world since its first detection in late December 2019,
+leading to the most devastating pandemic of the current century. Consequently,
+SARS-CoV-2 therapeutic interventions have received high priority from public
+health authorities. Despite increased COVID-19 infections, a vaccine or therapy
+to cover all the population is not yet available. Herein, immunoinformatics and
+custommune tools were used to identify B and T-cells epitopes from the available 
+SARS-CoV-2 sequences spike (S) protein. In the in silico predictions, six B cell 
+epitopes QTGKIADYNYK, TEIYQASTPCNGVEG, LQSYGFQPT, IRGDEVRQIAPGQTGKIADYNYKLPD,
+FSQILPDPSKPSKRS and PFAMQMAYRFNG were cross-reacted with MHC-I and MHC-II T-cells
+binding epitopes and selected for vaccination in experimental animals for
+evaluation as candidate vaccine(s) due to their high antigenic matching and
+conserved score. The selected six peptides were used individually or in
+combinations to immunize female Balb/c mice. The immunized mice raised reactive
+antibodies against SARS-CoV-2 in two different short peptides located in receptor
+binding domain and S2 region. In combination groups, an additive effect was
+demonstrated in-comparison with single peptide immunized mice. This study
+provides novel epitope-based peptide vaccine candidates against SARS-CoV-2.
+
+DOI: 10.3390/molecules26206182 
+PMCID: PMC8540548
+PMID: 34684763  [Indexed for MEDLINE]
+

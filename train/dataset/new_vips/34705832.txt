@@ -1,0 +1,39 @@
+
+1. PLoS Comput Biol. 2021 Oct 27;17(10):e1009473. doi: 10.1371/journal.pcbi.1009473.
+eCollection 2021 Oct.
+
+Determining travel fluxes in epidemic areas.
+
+Chen D(1)(2), Xue Y(1), Xiao Y(1).
+
+Author information: 
+(1)School of Mathematics and Statistics, Xi'an Jiaotong University, Xi'an, China.
+(2)Mathematical Institute, Leiden University, Leiden, The Netherlands.
+
+Infectious diseases attack humans from time to time and threaten the lives and
+survival of people all around the world. An important strategy to prevent the
+spatial spread of infectious diseases is to restrict population travel. With the 
+reduction of the epidemic situation, when and where travel restrictions can be
+lifted, and how to organize orderly movement patterns become critical and fall
+within the scope of this study. We define a novel diffusion distance derived from
+the estimated mobility network, based on which we provide a general model to
+describe the spatiotemporal spread of infectious diseases with a random diffusion
+process and a deterministic drift process of the population. We consequently
+develop a multi-source data fusion method to determine the population flow in
+epidemic areas. In this method, we first select available subregions in epidemic 
+areas, and then provide solutions to initiate new travel flux among these
+subregions. To verify our model and method, we analyze the multi-source data from
+mainland China and obtain a new travel flux triggering scheme in the selected 29 
+cities with the most active population movements in mainland China. The testable 
+predictions in these selected cities show that reopening the borders in
+accordance with our proposed travel flux will not cause a second outbreak of
+COVID-19 in these cities. The finding provides a methodology of re-triggering
+travel flux during the weakening spread stage of the epidemic.
+
+DOI: 10.1371/journal.pcbi.1009473 
+PMCID: PMC8550429
+PMID: 34705832  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

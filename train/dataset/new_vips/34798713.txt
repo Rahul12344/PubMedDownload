@@ -1,0 +1,77 @@
+
+1. Sci Total Environ. 2022 Jan 15;804:149986. doi: 10.1016/j.scitotenv.2021.149986. 
+Epub 2021 Sep 4.
+
+Long-term exposure to ambient air pollution and incidence of depression: A
+population-based cohort study in China.
+
+Wei F(1), Yu Z(2), Zhang X(3), Wu M(4), Wang J(4), Shui L(5), Lin H(6), Jin M(7),
+Tang M(8), Chen K(9).
+
+Author information: 
+(1)Department of Epidemiology and Biostatistics at School of Public Health and
+the Fourth Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou,
+China; Department of Occupational Health and Radiation Protection, Zhejiang
+Provincial Center for Disease Control and Prevention, Hangzhou, China.
+(2)Department of Epidemiology and Biostatistics at School of Public Health and
+the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou,
+China; Institute of Environmental Medicine, Karolinska Institutet, Stockholm,
+Sweden.
+(3)Department of Epidemiology and Biostatistics at School of Public Health and
+the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou,
+China.
+(4)Department of Epidemiology and Biostatistics at School of Public Health and
+National Clinical Research Center for Child Health of the Children's Hospital,
+Zhejiang University School of Medicine, Hangzhou, China.
+(5)Health Commission of Ningbo, Zhejiang, China.
+(6)The Center for Disease Control and Prevention of Yinzhou District, Ningbo,
+Zhejiang, China.
+(7)Department of Epidemiology and Biostatistics at School of Public Health and
+the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou,
+China. Electronic address: jinmj@zju.edu.cn.
+(8)Department of Epidemiology and Biostatistics at School of Public Health and
+the Fourth Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou,
+China. Electronic address: tangml@zju.edu.cn.
+(9)Department of Epidemiology and Biostatistics at School of Public Health and
+the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou,
+China. Electronic address: ck@zju.edu.cn.
+
+BACKGROUND: Long-term exposure to ambient air pollution was linked to depression 
+incidence, although the results were limited and inconsistent.
+OBJECTIVES: To investigate the effects of long-term air pollution exposure on
+depression risk prospectively in China.
+METHODS: The present study used data from Yinzhou Cohort on adults without
+depression at baseline, and followed up until April 2020. Two-year moving average
+concentrations of particulate matter with a diameter ≤ 2.5 μm (PM2.5), ≤10 μm
+(PM10) and nitrogen dioxide (NO2) were measured using land-use regression (LUR)
+models for each participant. Depression cases were ascertained using the Health
+Information System (HIS) of the local health administration by linking the unique
+identifiers. We conducted Cox regression models with time-varying exposures to
+estimate the hazard ratios (HRs) and 95% confidence intervals (95% CIs) of
+depression with each pollutant, after adjusting for a sequence of individual
+covariates as demographic characteristics, lifestyles, and comorbidity. Besides, 
+physical activity, baseline potential depressive symptoms, cancer status,
+COVID-19 pandemic, different outcome definitions and air pollution exposure
+windows were considered in sensitivity analyses.
+RESULTS: Among the 30,712 adults with a mean age of 62.22 ± 11.25, 1024 incident 
+depression cases were identified over totaling 98,619 person-years of
+observation. Interquartile range increments of the air pollutants were associated
+with increased risks of depression, and the corresponding HRs were 1.59 (95%CI:
+1.46, 1.72) for PM2.5, 1.49 (95%CI: 1.35, 1.64) for PM10 and 1.58 (95%CI: 1.42,
+1.77) for NO2. Subgroup analyses suggested that participants without taking any
+protective measures towards air pollution were more susceptible. The results
+remained robust in all sensitivity analyses.
+CONCLUSIONS: Long-term exposure to ambient air pollution was identified as a risk
+factor for depression onset. Strategies to reduce air pollution are necessary to 
+decrease the disease burden of depression.
+
+Copyright © 2021. Published by Elsevier B.V.
+
+DOI: 10.1016/j.scitotenv.2021.149986 
+PMID: 34798713  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

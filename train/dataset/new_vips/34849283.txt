@@ -1,0 +1,50 @@
+
+1. Dyn Games Appl. 2021 Nov 26:1-21. doi: 10.1007/s13235-021-00409-9. [Epub ahead of
+print]
+
+Necessity of Social Distancing in Pandemic Control: A Dynamic Game Theory
+Approach.
+
+Dahmouni I(1), Kanani Kuchesfehani E(2).
+
+Author information: 
+(1)The Public Health Agency of Canada, Ottawa, Canada.
+(2)Deloitte Canada, Ottawa, Canada.
+
+We model a society with two types of citizens: healthy and vulnerable
+individuals. While both types can be exposed to the virus and contribute to its
+spread, the vulnerable people tend to be more cautious as being exposed to the
+virus can be fatal for them due to their conditions, e.g., advanced age or prior 
+medical conditions. We assume that both types would like to participate in
+in-person social activities as freely as possible and they make this decision
+based on the total number of infected people in the society. In this model, we
+assume that a local governmental authority imposes and administers social
+distancing regulations based on the infection status of the society and revises
+it accordingly in each time period. We model and solve for the steady state in
+four scenarios: (i) non-cooperative (Nash), (ii) cooperative, (iii) egoistic, and
+(iv) altruistic. The results show that the Altruistic scenario is the best among 
+the four, i.e., the healthy citizens put the vulnerable citizens' needs first and
+self-isolate more strictly which results in more flexibility for the vulnerable
+citizens. We use a numerical example to illustrate that the Altruistic scenario
+will assist with pandemic control for both healthy and vulnerable citizens in the
+long run. The objective of this research is not to find a way to resolve the
+pandemic but to optimally live in a society which has been impacted by pandemic
+restrictions, similar to what was experienced in 2020 with the spread of
+COVID-19.
+
+© Crown 2021.
+
+DOI: 10.1007/s13235-021-00409-9 
+PMCID: PMC8620332
+PMID: 34849283 
+
+Conflict of interest statement: Conflict of interestThe authors did not receive
+support from any organization for the submitted work. The authors have no
+relevant financial or non-financial interests to disclose. The authors have no
+conflicts of interest to declare that are relevant to the content of this
+article. All authors certify that they have no affiliations with or involvement
+in any organization or entity with any financial interest or non-financial
+interest in the subject matter or materials discussed in this manuscript. The
+authors have no financial or proprietary interests in any material discussed in
+this article. This manuscript has no associated data.
+

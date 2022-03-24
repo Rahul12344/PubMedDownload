@@ -1,0 +1,47 @@
+
+1. Anal Chem. 2021 Dec 7;93(48):16184-16193. doi: 10.1021/acs.analchem.1c04065. Epub
+2021 Nov 25.
+
+Universally Stable and Precise CRISPR-LAMP Detection Platform for Precise
+Multiple Respiratory Tract Virus Diagnosis Including Mutant SARS-CoV-2 Spike
+N501Y.
+
+Zhang T(1), Zhao W(1), Zhao W(1), Si Y(2), Chen N(2), Chen X(1), Zhang X(1), Fan 
+L(2), Sui G(1)(3)(4).
+
+Author information: 
+(1)Shanghai Key Laboratory of Atmospheric Particle Pollution and Prevention
+(LAP3), Department of Environmental Science and Engineering, Fudan University,
+2205 Songhu Road, Shanghai 200433, P. R. China.
+(2)Department of Clinical Laboratory, Shanghai East Hospital, School of Medicine,
+Tong Ji University, 150 Ji Mo Road, Shanghai 200120, P. R. China.
+(3)Department of Medical Microbiology and Parasitology, School of Basic Medical
+Sciences, Fudan University, Shanghai 200032, P. R. China.
+(4)Jiangsu Collaborative Innovation Center of Atmospheric Environment and
+Equipment Technology (CICAEET), Nanjing University of Information Science &
+Technology, Nanjing 210044, PR China.
+
+Nowadays, rapid and accurate diagnosis of respiratory tract viruses is an urgent 
+need to prevent another epidemic outbreak. To overcome this problem, we have
+developed a clustered, regularly interspaced short palindromic repeats (CRISPR)
+loop mediated amplification (LAMP) technology to detect influenza A virus,
+influenza B virus, respiratory syncytial A virus, respiratory syncytial B virus, 
+and severe acute respiratory syndrome coronavirus 2, including variants of
+concern (B.1.1.7), which utilized CRISPR-associated protein 12a (Cas12a) to
+advance LAMP technology with the sensitivity increased 10 times. To reduce
+aerosol contamination in CRISPR-LAMP technology, an
+uracil-DNA-glycosylase-reverse transcription-LAMP system was also developed which
+can effectively remove dUTP-incorporated LAMP amplicons. In vitro Cas12a cleavage
+reaction with 28 crRNAs showed that there were no position constraints for
+Cas12a/CRISPR RNA (crRNA) recognition and cleavage in LAMP amplicons, and even
+the looped position of LAMP amplicons could be effectively recognized and
+cleaved. Wild-type or spike N501Y can be detected with a limit of detection of 10
+copies/μL (wild-type) even at a 1% ratio level on the background (spike N501Y).
+Combining UDG-RT-LAMP technology, CRISPR-LAMP design, and mutation detection
+design, we developed a CRISPR-LAMP detection platform that can precisely diagnose
+pathogens with better stability and significantly improved point mutation
+detection efficiency.
+
+DOI: 10.1021/acs.analchem.1c04065 
+PMID: 34818890 
+

@@ -1,0 +1,39 @@
+
+1. J Biol Chem. 2011 Jul 8;286(27):24508-18. doi: 10.1074/jbc.M111.234062. Epub 2011
+May 17.
+
+The Mycobacterium tuberculosis early secreted antigenic target of 6 kDa inhibits 
+T cell interferon-γ production through the p38 mitogen-activated protein kinase
+pathway.
+
+Peng H(1), Wang X, Barnes PF, Tang H, Townsend JC, Samten B.
+
+Author information: 
+(1)Center for Pulmonary and Infectious Disease Control, University of Texas
+Health Science Center, Tyler, Texas 75708, USA.
+
+We reported previously that the early secreted antigenic target of 6 kDa (ESAT-6)
+from Mycobacterium tuberculosis directly inhibits human T cell IFN-γ production
+and proliferation in response to stimulation with anti-CD3 and anti-CD28. To
+determine the mechanism of this effect, we treated T cells with kinase inhibitors
+before stimulation with ESAT-6. Only the p38 MAPK inhibitor, SB203580, abrogated 
+ESAT-6-mediated inhibition of IFN-γ production in a dose-dependent manner.
+SB203580 did not reverse ESAT-6-mediated inhibition of IL-17 and IL-10
+production, suggesting a specific effect of SB203580 on IFN-γ production.
+SB203580 did not act through inhibition of AKT (PKB) as an AKT inhibitor did not 
+affect ESAT-6 inhibition of T cell IFN-γ production and proliferation. ESAT-6 did
+not reduce IFN-γ production by expanding FoxP3(+) T regulatory cells. Incubation 
+of T cells with ESAT-6 induced phosphorylation and increased functional p38 MAPK 
+activity, but not activation of ERK or JNK. Incubation of peripheral blood
+mononuclear cells with ESAT-6 induced activation of p38 MAPK, and inhibition of
+p38 MAPK with SB203580 reversed ESAT-6 inhibition of M. tuberculosis-stimulated
+IFN-γ production by peripheral blood mononuclear cells from subjects with latent 
+tuberculosis infection. Silencing of p38α MAPK with siRNA rendered T cells
+resistant to ESAT-6 inhibition of IFN-γ production. Taken together, our results
+demonstrate that ESAT-6 inhibits T cell IFN-γ production in a p38 MAPK-dependent 
+manner.
+
+DOI: 10.1074/jbc.M111.234062 
+PMCID: PMC3129230
+PMID: 21586573  [Indexed for MEDLINE]
+

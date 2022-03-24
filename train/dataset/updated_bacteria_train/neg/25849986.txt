@@ -1,0 +1,47 @@
+
+1. Nat Neurosci. 2015 May;18(5):647-56. doi: 10.1038/nn.3995. Epub 2015 Apr 6.
+
+Regulation of chromatin accessibility and Zic binding at enhancers in the
+developing cerebellum.
+
+Frank CL(1), Liu F(2), Wijayatunge R(2), Song L(3), Biegler MT(2), Yang MG(2),
+Vockley CM(4), Safi A(3), Gersbach CA(5), Crawford GE(6), West AE(2).
+
+Author information: 
+(1)1] Department of Molecular Genetics and Microbiology, Duke University Medical 
+Center, Durham, North Carolina, USA. [2] Center for Genomic and Computational
+Biology, Duke University Medical Center, Durham, North Carolina, USA.
+(2)Department of Neurobiology, Duke University Medical Center, Durham, North
+Carolina, USA.
+(3)Center for Genomic and Computational Biology, Duke University Medical Center, 
+Durham, North Carolina, USA.
+(4)1] Center for Genomic and Computational Biology, Duke University Medical
+Center, Durham, North Carolina, USA. [2] Department of Cell Biology, Duke
+University Medical Center, Durham, North Carolina, USA.
+(5)1] Center for Genomic and Computational Biology, Duke University Medical
+Center, Durham, North Carolina, USA. [2] Department of Biomedical Engineering,
+Duke University, Durham, North Carolina, USA.
+(6)1] Center for Genomic and Computational Biology, Duke University Medical
+Center, Durham, North Carolina, USA. [2] Department of Pediatrics, Division of
+Molecular Genetics, Duke University Medical Center, Durham, North Carolina, USA.
+
+To identify chromatin mechanisms of neuronal differentiation, we characterized
+chromatin accessibility and gene expression in cerebellar granule neurons (CGNs) 
+of the developing mouse. We used DNase-seq to map accessibility of cis-regulatory
+elements and RNA-seq to profile transcript abundance across postnatal stages of
+neuronal differentiation in vivo and in culture. We observed thousands of
+chromatin accessibility changes as CGNs differentiated, and verified, using
+H3K27ac ChIP-seq, reporter gene assays and CRISPR-mediated activation, that many 
+of these regions function as neuronal enhancers. Motif discovery in
+differentially accessible chromatin regions suggested a previously unknown role
+for the Zic family of transcription factors in CGN maturation. We confirmed the
+association of Zic with these elements by ChIP-seq and found, using knockdown,
+that Zic1 and Zic2 are required for coordinating mature neuronal gene expression 
+patterns. Together, our data reveal chromatin dynamics at thousands of gene
+regulatory elements that facilitate the gene expression patterns necessary for
+neuronal differentiation and function.
+
+DOI: 10.1038/nn.3995 
+PMCID: PMC4414887
+PMID: 25849986  [Indexed for MEDLINE]
+

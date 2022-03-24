@@ -1,0 +1,60 @@
+
+1. Mol Cell Proteomics. 2020 Dec;19(12):1921-1936. doi: 10.1074/mcp.RA120.002283.
+Epub 2020 Aug 31.
+
+A Mouse Brain-based Multi-omics Integrative Approach Reveals Potential Blood
+Biomarkers for Ischemic Stroke.
+
+Simats A(1), Ramiro L(1), García-Berrocoso T(1), Briansó F(2), Gonzalo R(3),
+Martín L(4), Sabé A(4), Gill N(1), Penalba A(1), Colomé N(4), Sánchez A(2),
+Canals F(4), Bustamante A(1), Rosell A(1), Montaner J(5).
+
+Author information: 
+(1)Neurovascular Research Laboratory, Vall d'Hebron Institute of Research (VHIR),
+Universitat Autònoma de Barcelona, Barcelona, Spain.
+(2)Bioinformatics and Biostatistics Unit, Vall d'Hebron Institute of Research
+(VHIR), Universitat Autònoma de Barcelona, Barcelona, Spain; Genetics,
+Microbiology and Statistics Dept., Universitat de Barcelona, Barcelona, Spain.
+(3)Bioinformatics and Biostatistics Unit, Vall d'Hebron Institute of Research
+(VHIR), Universitat Autònoma de Barcelona, Barcelona, Spain.
+(4)Proteomics Laboratory, Vall d'Hebron Institute of Oncology (VHIO), Universitat
+Autònoma de Barcelona, Barcelona, Spain.
+(5)Neurovascular Research Laboratory, Vall d'Hebron Institute of Research (VHIR),
+Universitat Autònoma de Barcelona, Barcelona, Spain. Electronic address:
+joan.montaner@vhir.org.
+
+Stroke remains a leading cause of death and disability worldwide. Despite
+continuous advances, the identification of key molecular signatures in the
+hyper-acute phase of ischemic stroke is still a primary interest for
+translational research on stroke diagnosis, prognosis, and treatment. Data
+integration from high-throughput -omics techniques has become crucial to
+unraveling key interactions among different molecular elements in complex
+biological contexts, such as ischemic stroke. Thus, we used advanced data
+integration methods for a multi-level joint analysis of transcriptomics and
+proteomics data sets obtained from mouse brains at 2 h after cerebral ischemia.
+By modeling net-like correlation structures, we identified an integrated network 
+of genes and proteins that are differentially expressed at a very early stage
+after stroke. We validated 10 of these deregulated elements in acute stroke, and 
+changes in their expression pattern over time after cerebral ischemia were
+described. Of these, CLDN20, GADD45G, RGS2, BAG5, and CTNND2 were next evaluated 
+as blood biomarkers of cerebral ischemia in mice and human blood samples, which
+were obtained from stroke patients and patients presenting stroke-mimicking
+conditions. Our findings indicate that CTNND2 levels in blood might potentially
+be useful for distinguishing ischemic strokes from stroke-mimicking conditions in
+the hyper-acute phase of the disease. Furthermore, circulating GADD45G content
+within the first 6 h after stroke could also play a key role in predicting poor
+outcomes in stroke patients. For the first time, we have used an integrative
+biostatistical approach to elucidate key molecules in the initial stages of
+stroke pathophysiology and highlight new notable molecules that might be further 
+considered as blood biomarkers of ischemic stroke.
+
+© 2020 Simats et al.
+
+DOI: 10.1074/mcp.RA120.002283 
+PMCID: PMC7710142 [Available on 2021-12-01]
+PMID: 32868372 
+
+Conflict of interest statement: Conflict of interest—The authors declared no
+potential conflicts of interest with respect to the research, authorship, and/or 
+publication of this article.
+

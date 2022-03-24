@@ -1,0 +1,52 @@
+
+1. Sep Purif Technol. 2022 Feb 1;282:120049. doi: 10.1016/j.seppur.2021.120049. Epub
+2021 Nov 1.
+
+Filtering efficiency model that includes the statistical randomness of non-woven 
+fiber layers in facemasks.
+
+Borgelink BTH(1), Carchia AE(1)(2), Hernández-Sánchez JF(3), Caputo D(2),
+Gardeniers JGE(1), Susarrey-Arce A(1).
+
+Author information: 
+(1)Mesoscale Chemical Systems, MESA+ Institute, University of Twente,
+Drienerlolaan 5, 7522 NB Enschede, the Netherlands.
+(2)Department Information Engineering, Electronics and Telecommunications,
+Sapienza University of Rome, via Eudossiana 18, 00184 Rome, Italy.
+(3)Instituto de Ciencias Aplicadas y Tecnología, Universidad Nacional Autónoma de
+México, Circuito Exterior S/N, Ciudad universitaria, 04510, Mexico City.
+
+Facemasks have become important tools to fight virus spread during the recent
+COVID-19 pandemic, but their effectiveness is still under debate. We present a
+computational model to predict the filtering efficiency of an N95-facemask,
+consisting of three non-woven fiber layers with different particle capturing
+mechanisms. Parameters such as fiber layer thickness, diameter distribution, and 
+packing density are used to construct two-dimensional cross-sectional geometries.
+An essential and novel element is that the polydisperse fibers are positioned
+randomly within a simulation domain, and that the simulation is repeated with
+different random configurations. This strategy is thought to give a more
+realistic view of practical facemasks compared to existing analytical models that
+mostly assume homogeneous fiber beds of monodisperse fibers. The incompressible
+Navier-Stokes and continuity equations are used to solve the velocity field for
+various droplet-laden air inflow velocities. Droplet diameters are ranging from
+10 nm to 1.0 µm, which covers the size range from the SARS-CoV-2 virus to the
+large virus-laden airborne droplets. Air inflow velocities varying between
+0.1 m·s-1 to 10 m·s-1 are considered, which are typically encountered during
+expiratory events like breathing, talking, and coughing. The presented model
+elucidates the different capturing efficiencies (i.e., mechanical and
+electrostatic filtering) of droplets as a function of their diameter and air
+inflow velocity. Simulation results are compared to analytical models and
+particularly compare well with experimental results from literature. Our
+numerical approach will be helpful in finding new directions for anti-viral
+facemask optimization.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.seppur.2021.120049 
+PMCID: PMC8558106
+PMID: 34744488 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

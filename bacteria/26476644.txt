@@ -1,0 +1,33 @@
+
+1. Appl Microbiol Biotechnol. 2016 Jan;100(2):757-67. doi:
+10.1007/s00253-015-7026-y. Epub 2015 Oct 17.
+
+Improving alkane synthesis in Escherichia coli via metabolic engineering.
+
+Song X(1)(2), Yu H(1), Zhu K(3).
+
+Author information: 
+(1)CAS Key Laboratory of Microbial Physiological and Metabolic Engineering,
+Institute of Microbiology, Chinese Academy of Sciences, Beijing, 100101, China.
+(2)University of Chinese Academy of Sciences, Beijing, 100049, China.
+(3)CAS Key Laboratory of Microbial Physiological and Metabolic Engineering,
+Institute of Microbiology, Chinese Academy of Sciences, Beijing, 100101, China.
+zhuk@im.ac.cn.
+
+Concerns about energy security and global petroleum supply have made the
+production of renewable biofuels an industrial imperative. The ideal biofuels are
+n-alkanes in that they are chemically and structurally identical to the fossil
+fuels and can "drop in" to the transportation infrastructure. In this work, an
+Escherichia coli strain that produces n-alkanes was constructed by heterologous
+expression of acyl-acyl carrier protein (ACP) reductase (AAR) and aldehyde
+deformylating oxygenase (ADO) from Synechococcus elongatus PCC7942. The
+accumulation of alkanes ranged from 3.1 to 24.0 mg/L using different expressing
+strategies. Deletion of yqhD, an inherent aldehyde reductase in E. coli, or
+overexpression of fadR, an activator for fatty acid biosynthesis, exhibited a
+nearly twofold increase in alkane titers, respectively. Combining yqhD deletion
+and fadR overexpression resulted in a production titer of 255.6 mg/L in E. coli, 
+and heptadecene was the most abundant product.
+
+DOI: 10.1007/s00253-015-7026-y 
+PMID: 26476644  [Indexed for MEDLINE]
+

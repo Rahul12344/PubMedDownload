@@ -1,0 +1,46 @@
+
+1. Biochem J. 2018 Nov 30;475(22):3651-3667. doi: 10.1042/BCJ20180548.
+
+Two active site arginines are critical determinants of substrate binding and
+catalysis in MenD: a thiamine-dependent enzyme in menaquinone biosynthesis.
+
+Qin M(1), Song H(1), Dai X(1), Chen Y(1), Guo Z(2).
+
+Author information: 
+(1)Department of Chemistry, The Hong Kong University of Science and Technology,
+Clear Water Bay, Kowloon, Hong Kong SAR, China.
+(2)Department of Chemistry, The Hong Kong University of Science and Technology,
+Clear Water Bay, Kowloon, Hong Kong SAR, China chguo@ust.hk.
+
+The bacterial enzyme MenD, or
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate (SEPHCHC)
+synthase, catalyzes an essential Stetter reaction in menaquinone (vitamin K2)
+biosynthesis via thiamine diphosphate (ThDP)-bound tetrahedral
+post-decarboxylation intermediates. The detailed mechanism of this intermediate
+chemistry, however, is still poorly understood, but of significant interest given
+that menaquinone is an essential electron transporter in many pathogenic
+bacteria. Here, we used site-directed mutagenesis, enzyme kinetic assays, and
+protein crystallography to reveal an active-inactive intermediate equilibrium in 
+MenD catalysis and its modulation by two conserved active site arginine residues.
+We observed that these conserved residues play a key role in shifting the
+equilibrium to the active intermediate by orienting the C2-succinyl group of the 
+intermediates through strong ionic hydrogen bonding. We found that when this
+interaction is moderately weakened by amino acid substitutions, the resulting
+proteins are catalytically competent with the C2-succinyl group taking either the
+active or the inactive orientation in the post-decarboxylation intermediate. When
+this hydrogen-bonding interaction was strongly weakened, the succinyl group was
+re-oriented by 180° relative to the native intermediate, resulting in the
+reversal of the stereochemistry at the reaction center that disabled catalysis.
+Interestingly, this inactive intermediate was formed with a distinct kinetic
+behavior, likely as a result of a non-native mode of enzyme-substrate
+interaction. The mechanistic insights gained from these findings improve our
+understanding of the new ThDP-dependent catalysis. More importantly, the
+non-native-binding site of the inactive MenD intermediate uncovered here provides
+a new target for the development of antibiotics.
+
+© 2018 The Author(s). Published by Portland Press Limited on behalf of the
+Biochemical Society.
+
+DOI: 10.1042/BCJ20180548 
+PMID: 30341164  [Indexed for MEDLINE]
+

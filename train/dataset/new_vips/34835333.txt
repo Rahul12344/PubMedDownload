@@ -1,0 +1,50 @@
+
+1. Microorganisms. 2021 Oct 23;9(11). pii: 2207. doi: 10.3390/microorganisms9112207.
+
+Cellular Proteo-Transcriptomic Changes in the Immediate Early-Phase of Lentiviral
+Transduction.
+
+Linkner TR(1)(2), Ambrus V(1)(2), Kunkli B(1)(2), Szojka ZI(3), Kalló G(4), Csősz
+É(4), Kumar A(2)(4), Emri M(5), Tőzsér J(1)(4), Mahdi M(1).
+
+Author information: 
+(1)Laboratory of Retroviral Biochemistry, Department of Biochemistry and
+Molecular Biology, Faculty of Medicine, University of Debrecen, 4032 Debrecen,
+Hungary.
+(2)Doctoral School of Molecular Cell and Immune Biology, University of Debrecen, 
+4032 Debrecen, Hungary.
+(3)Division of Medical Microbiology, Department of Laboratory Medicine, Lund
+University, 221 00 Lund, Sweden.
+(4)Proteomics Core Facility, Department of Biochemistry and Molecular Biology,
+Faculty of Medicine, University of Debrecen, 4032 Debrecen, Hungary.
+(5)Department of Medical Imaging, Division of Nuclear Medicine and Translational 
+Imaging, Faculty of Medicine, University of Debrecen, 4032 Debrecen, Hungary.
+
+Lentivirus-based vectors derived from human immunodeficiency viruses type 1 and 2
+(HIV-1 and 2) are widely used tools in research and may also be utilized in
+clinical settings. Like their parental virions, they are known to depend on the
+cellular machinery for successful gene delivery and integration. While most of
+the studies on cellular proteomic and transcriptomic changes have focused on the 
+late phase of the transduction, studies of those changes in early time-points,
+especially in the case of HIV-2 based vectors, are widely lacking. Using second
+generation HIV-1 and 2 vesicular stomatitis virus G protein (VSV-G) pseudotyped
+lentiviral vectors, we transduced HEK-293T human embryonic kidney cells and
+carried out transcriptomic profiling at 0 and 2 h time points, with accompanying 
+proteomic analysis at 2 h following transduction. Significant variations were
+observed in gene expression profile between HIV-1 and HIV-2 transduced samples.
+Thrombospondin 1 (THBS1), collagens (COL1A2, COL3A1), and eukaryotic translation 
+factors (EIF3CL) in addition to various genes coding for long non-coding RNA
+(lncRNA) were significantly upregulated 2 h after HIV-2 transduction compared to 
+HIV-1. Label-free quantification mass spectrometry (MS) indicated that seven
+proteins involved in RNA binding, mRNA transport, and chaperoning were
+significantly downregulated. The identification of cellular protein targets of
+lentiviral vectors and their effect on the cellular transcriptome will
+undoubtedly shed more light on their complex life cycle and may be utilized
+against infection by their parental lentiviruses. Furthermore, characterizing the
+early phase of HIV-2 infection may aid in the understanding of its pathomechanism
+and long incubation period.
+
+DOI: 10.3390/microorganisms9112207 
+PMCID: PMC8625573
+PMID: 34835333 
+

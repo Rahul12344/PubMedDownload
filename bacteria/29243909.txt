@@ -1,0 +1,35 @@
+
+1. ACS Infect Dis. 2018 Mar 9;4(3):391-402. doi: 10.1021/acsinfecdis.7b00214. Epub
+2017 Dec 22.
+
+Optimization of CoaD Inhibitors against Gram-Negative Organisms through Targeted 
+Metabolomics.
+
+Rath CM(1), Benton BM(1), de Vicente J(1), Drumm JE(1), Geng M(1), Li C(1),
+Moreau RJ(1), Shen X(1), Skepper CK(1), Steffek M(1), Takeoka K(1), Wang L(1),
+Wei JR(1), Xu W(1), Zhang Q(1), Feng BY(1).
+
+Author information: 
+(1)Novartis Institutes for BioMedical Research , 5300 Chiron Way , Emeryville ,
+California 94608 , United States.
+
+Drug-resistant Gram-negative bacteria are of increasing concern worldwide. Novel 
+antibiotics are needed, but their development is complicated by the requirement
+to simultaneously optimize molecules for target affinity and cellular potency,
+which can result in divergent structure-activity relationships (SARs). These
+challenges were exemplified during our attempts to optimize inhibitors of the
+bacterial enzyme CoaD originally identified through a biochemical screen. To
+facilitate lead optimization, we developed mass spectroscopy assays based on the 
+hypothesis that levels of CoA metabolites would reflect the cellular enzymatic
+activity of CoaD. Using these methods, we were able to monitor the effects of
+cellular enzyme inhibition at compound concentrations up to 100-fold below the
+minimum inhibitory concentration (MIC), a common metric of growth inhibition.
+Furthermore, we generated a panel of efflux pump mutants to dissect the
+susceptibility of a representative CoaD inhibitor to efflux. These approaches
+allowed for a nuanced understanding of the permeability and efflux liabilities of
+the series and helped guide optimization efforts to achieve measurable MICs
+against wild-type E. coli.
+
+DOI: 10.1021/acsinfecdis.7b00214 
+PMID: 29243909  [Indexed for MEDLINE]
+

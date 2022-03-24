@@ -1,0 +1,36 @@
+
+1. Appl Microbiol Biotechnol. 2011 Mar;89(5):1527-36. doi:
+10.1007/s00253-011-3100-2. Epub 2011 Jan 29.
+
+Evaluation of promoters for gene expression in polyhydroxyalkanoate-producing
+Cupriavidus necator H16.
+
+Fukui T(1), Ohsawa K, Mifune J, Orita I, Nakamura S.
+
+Author information: 
+(1)Department of Bioengineering, Graduate School of Bioscience and Biotechnology,
+Tokyo Institute of Technology, B-37 4259 Nagatsuta, Midori-ku, Yokohama 226-8501,
+Japan. tfukui@bio.titech.ac.jp
+
+Five kinds of promoters were evaluated as tools for regulated gene expression in 
+the PHA-producing bacterium Cupriavidus necator. Several broad-host-range
+expression vectors were constructed by which expression of a reporter gene gfp
+was controlled by P(lac), P(tac), or P(BAD) derived from Escherichia coli, or
+promoter regions of phaC1 (P(phaC)) or phaP1 (P(phaP)) derived from C. necator.
+Then, the gfp-expression profiles were determined in C. necator strains harboring
+the constructed vectors when the cells were grown on fructose or soybean oil.
+P(lac), P(tac), P(phaC), and P(phaP ) mediated constitutive gene expression,
+among which P(tac) was the strongest promoter. lacI-P(tac) was not thoroughly
+functional even after addition of isopropyl-β-D-thiogalactopyranoside (IPTG),
+probably due to inability of C. necator to uptake IPTG. Gene expression by
+araC-P(BAD) could be regulated by varying L-arabinose concentration in the
+medium, although P(3HB) production rate was slightly decreased in the
+recombinant. phaR-P(phaP) exhibited an expression profile tightly coupled with
+P(3HB) accumulation, suggesting application of the vector harboring phaR-P(phaP )
+for gene expression specific at the PHA-biosynthesis phase. The properties of
+these promoters were expected to be useful for effective engineering of PHA
+biosynthesis in C. necator.
+
+DOI: 10.1007/s00253-011-3100-2 
+PMID: 21279346  [Indexed for MEDLINE]
+

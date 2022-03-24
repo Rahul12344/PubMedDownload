@@ -1,0 +1,41 @@
+
+1. Proteins. 2020 Mar;88(3):449-461. doi: 10.1002/prot.25822. Epub 2019 Oct 16.
+
+Experimental comparison of energy landscape features of ubiquitin family
+proteins.
+
+Nandi T(1), Yadav A(1), Ainavarapu SRK(1).
+
+Author information: 
+(1)Department of Chemical Sciences, Tata Institute of Fundamental Research,
+Mumbai, India.
+
+Small ubiquitin-related modifiers (SUMO1 and SUMO2) are ubiquitin family
+proteins, structurally similar to ubiquitin, differing in terms of their amino
+acid sequence and functions. Therefore, they provide a great platform for
+investigating sequence-structure-stability-function relationship. Here, we used
+chemical denaturation in comparing the folding-unfolding pathways of the SUMO
+proteins with their structural homologue ubiquitin (UF45W-pseudo wild-type [WT]
+tryptophan variant) with structurally analogous tryptophan mutations (SUMO1
+[S1F66W], SUMO2 [S2F62W]). Equilibrium denaturation studies report that ubiquitin
+is the most stable protein among the three. The observed denaturant-dependent
+folding rates of SUMOs are much lower than ubiquitin and primarily exhibit a
+two-state folding pathway unlike ubiquitin, which has a kinetic folding
+intermediate. We hypothesize that, as SUMO proteins start off as slow folders,
+they avoid stabilizing their folding intermediates and the presence of which
+might further slow-down their folding rates. The denaturant-dependent unfolding
+of ubiquitin is the fastest, followed by SUMO2, and slowest for SUMO1. However,
+the spontaneous unfolding rate constant is the lowest for ubiquitin (~40 times), 
+and similar for SUMOs. This correlation between thermodynamic stability and
+kinetic stability is achieved by having different unfolding transition state
+positions with respect to the solvent-accessible surface area, as quantified by
+the Tanford β u values: ubiquitin (0.42) > SUMO2 (0.20) > SUMO1 (0.16). The
+results presented here highlight the unique energy landscape features which help 
+in optimizing the folding-unfolding rates within a structurally homologous
+protein family.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1002/prot.25822 
+PMID: 31587348  [Indexed for MEDLINE]
+

@@ -1,0 +1,50 @@
+
+1. nature. 2012 jul 26;487(7408):491-5. doi: 10.1038/nature11288.
+
+interpreting cancer genomes using systematic host network perturbations tumour
+virus proteins.
+
+rozenblatt-rosen o(1), deo rc, padi m, adelmant g, calderwood ma, rolland t,
+grace m, dricot a, askenazi m, tavares m, pevzner sj, abderazzaq f, byrdsong d,
+carvunis ar, chen aa, cheng j, correll m, duarte m, fan c, feltkamp mc, ficarro
+sb, franchi r, garg bk, gulbahce n, hao t, holthaus am, james r, korkhin a,
+litovchick l, mar jc, pak tr, rabello s, rubio r, shen y, singh s, spangle jm,
+tasan m, wanamaker s, webber jt, roecklein-canfield j, johannsen e, barabási al, 
+beroukhim r, kieff e, cusick me, hill de, münger k, marto ja, quackenbush j, roth
+fp, decaprio ja, vidal m.
+
+author information: 
+(1)genomic analysis network perturbations center excellence genomic
+science, dana-farber cancer institute, boston, massachusetts 02215, usa.
+
+comment in
+    nat rev cancer. 2012 sep;12(9):582.
+    nat methods. 2012 sep;9(9):868.
+
+genotypic differences greatly influence susceptibility resistance disease.
+understanding genotype-phenotype relationships requires phenotypes viewed
+as manifestations network properties, rather simply result of
+individual genomic variations. genome sequencing efforts identified numerous
+germline mutations, large numbers somatic genomic alterations, associated 
+with predisposition cancer. however, remains difficult distinguish
+background, 'passenger', cancer mutations causal, 'driver', mutations 
+in data sets. human viruses intrinsically depend host cell 
+the course infection elicit pathological phenotypes similar those
+arising mutations. test hypothesis genomic variations and
+tumour viruses may cause cancer related mechanisms, systematically
+examining host interactome transcriptome network perturbations caused dna 
+tumour virus proteins. resulting integrated viral perturbation data reflects 
+rewiring host cell networks, highlights pathways, notch
+signalling apoptosis, go awry cancer. show systematic
+analyses host targets viral proteins identify cancer genes a
+success rate par identification functional genomics and
+large-scale cataloguing tumour mutations. together, complementary
+approaches increase specificity cancer gene identification. combining
+systems-level studies pathogen-encoded gene products genomic approaches
+will facilitate prioritization cancer-causing driver genes advance 
+understanding genetic basis human cancer.
+
+doi: 10.1038/nature11288 
+pmcid: pmc3408847
+pmid: 22810586  [indexed medline]
+

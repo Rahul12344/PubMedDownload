@@ -1,0 +1,61 @@
+
+1. mBio. 2021 Dec 7:e0307521. doi: 10.1128/mBio.03075-21. [Epub ahead of print]
+
+The Cellular and Viral circRNAome Induced by Respiratory Syncytial Virus
+Infection.
+
+Yao W(#)(1), Pan J(#)(1), Liu Z(#)(1), Dong Z(1), Liang M(1), Xia S(2)(3), Xiao
+Y(1), Cai X(4), Peng T(2), Zhou X(1), Cai H(1)(2).
+
+Author information: 
+(1)The Fifth Affiliated Hospital of Guangzhou Medical
+Universitygrid.410737.6Guangzhou Medical University, grid.410737.6, Guangzhou
+Medical University, Guangzhou, China.
+(2)Guangzhou Hoffmann Institute of Immunology, College of Basic Sciences,
+Guangzhou Medical Universitygrid.410737.6, Guangzhou, China.
+(3)The First Affiliated Hospital of Guangzhou Medical
+Universitygrid.410737.6Guangzhou Medical University, grid.410737.6, Guangzhou
+Medical University, Guangzhou, China.
+(4)Guangzhou Gene Denovo Biotechnology Co. Ltd., Guangzhou, China.
+(#)Contributed equally
+
+Circular RNAs (circRNAs) are a new class of noncoding RNAs that have gained
+increased attention. DNA virus infections have been reported to induce
+modifications in cellular circRNA transcriptomes and express viral circRNAs.
+However, the identification and expression of cellular and viral circRNAs are
+unknown in the context of respiratory syncytial virus (RSV), a human RNA virus
+with no effective treatments or vaccines. Here, we report a comprehensive
+identification of the cellular and viral circRNAs induced by RSV infection in
+A549 cells with high-throughput sequencing. In total, 53,719 cellular circRNAs
+and 2,280 differentially expressed cellular circRNAs were identified. Trend
+analysis further identified three significant expression pattern clusters, which 
+were related to the antiviral immune response according to gene enrichment
+analysis. Subsequent results showed that not only RSV infection but also
+poly(I·C) treatment and another RNA virus infection induced the upregulation of
+the top 10 circRNAs from the focused cluster. The top 10 circRNAs generally
+inhibit RSV replication in turn. Moreover, 1,254 viral circRNAs were identified
+by the same circRNA sequencing. The induced expression of viral circRNAs by RSV
+infection was found not only in A549 cells but also in HEp-2 cells. Additionally,
+we profiled the general characteristics of both cellular and viral circRNAs such 
+as back-splicing signals, etc. Collectively, RSV infection induced the
+differential expression of cellular circRNAs, some of which affected RSV
+infection, and RSV also expressed viral circRNAs. Our study reveals novel layers 
+of host-RSV interactions and identifies cellular or viral circRNAs that may be
+novel therapeutic targets or biomarkers. IMPORTANCE Noncoding RNAs (ncRNAs)
+demonstrate substantial roles in cell-virus interactions. Circular RNAs
+(circRNAs) are a newly identified class of ncRNAs that have gained increased
+attention recently. DNA virus infections have been reported to induce
+modifications in cellular circRNA transcriptomes and express viral circRNAs.
+However, the identification and expression of cellular and viral circRNAs are
+unknown in the context of respiratory syncytial virus (RSV), a human RNA virus
+with no effective treatments or vaccines. Here, we report a comprehensive
+identification of the cellular and viral circRNAs induced by RSV infection by
+high-throughput sequencing. We revealed that RSV infection induces the
+differential expression of cellular circRNAs, some of which affected RSV
+infection, and that RSV also expresses viral circRNAs. Our study reveals novel
+layers of host-RSV interactions and identifies cellular or viral circRNAs that
+may be novel therapeutic targets or biomarkers.
+
+DOI: 10.1128/mBio.03075-21 
+PMID: 34872355 
+

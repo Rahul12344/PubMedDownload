@@ -1,0 +1,48 @@
+
+1. PLoS Pathog. 2015 Jun 17;11(6):e1004946. doi: 10.1371/journal.ppat.1004946.
+eCollection 2015 Jun.
+
+Virulence Factors of Pseudomonas aeruginosa Induce Both the Unfolded Protein and 
+Integrated Stress Responses in Airway Epithelial Cells.
+
+van 't Wout EF(1), van Schadewijk A(2), van Boxtel R(3), Dalton LE(4), Clarke
+HJ(4), Tommassen J(3), Marciniak SJ(4), Hiemstra PS(2).
+
+Author information: 
+(1)Department of Pulmonology, Leiden University Medical Centre, Leiden, the
+Netherlands; Cambridge Institute for Medical Research (CIMR), University of
+Cambridge, Cambridge, United Kingdom.
+(2)Department of Pulmonology, Leiden University Medical Centre, Leiden, the
+Netherlands.
+(3)Department of Molecular Microbiology, Utrecht University, Utrecht, the
+Netherlands.
+(4)Cambridge Institute for Medical Research (CIMR), University of Cambridge,
+Cambridge, United Kingdom.
+
+Pseudomonas aeruginosa infection can be disastrous in chronic lung diseases such 
+as cystic fibrosis and chronic obstructive pulmonary disease. Its toxic effects
+are largely mediated by secreted virulence factors including pyocyanin, elastase 
+and alkaline protease (AprA). Efficient functioning of the endoplasmic reticulum 
+(ER) is crucial for cell survival and appropriate immune responses, while an
+excess of unfolded proteins within the ER leads to "ER stress" and activation of 
+the "unfolded protein response" (UPR). Bacterial infection and Toll-like receptor
+activation trigger the UPR most likely due to the increased demand for protein
+folding of inflammatory mediators. In this study, we show that cell-free
+conditioned medium of the PAO1 strain of P. aeruginosa, containing secreted
+virulence factors, induces ER stress in primary bronchial epithelial cells as
+evidenced by splicing of XBP1 mRNA and induction of CHOP, GRP78 and GADD34
+expression. Most aspects of the ER stress response were dependent on TAK1 and p38
+MAPK, except for the induction of GADD34 mRNA. Using various mutant strains and
+purified virulence factors, we identified pyocyanin and AprA as inducers of ER
+stress. However, the induction of GADD34 was mediated by an ER stress-independent
+integrated stress response (ISR) which was at least partly dependent on the
+iron-sensing eIF2α kinase HRI. Our data strongly suggest that this increased
+GADD34 expression served to protect against Pseudomonas-induced, iron-sensitive
+cell cytotoxicity. In summary, virulence factors from P. aeruginosa induce ER
+stress in airway epithelial cells and also trigger the ISR to improve cell
+survival of the host.
+
+DOI: 10.1371/journal.ppat.1004946 
+PMCID: PMC4471080
+PMID: 26083346  [Indexed for MEDLINE]
+

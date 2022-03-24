@@ -1,0 +1,47 @@
+
+1. PLoS One. 2020 Aug 3;15(8):e0236823. doi: 10.1371/journal.pone.0236823.
+eCollection 2020.
+
+Unraveling the mechanisms of resistance to Sclerotium rolfsii in peanut (Arachis 
+hypogaea L.) using comparative RNA-Seq analysis of resistant and susceptible
+genotypes.
+
+Bosamia TC(1), Dodia SM(1), Mishra GP(1)(2), Ahmad S(1), Joshi B(1),
+Thirumalaisamy PP(1), Kumar N(1), Rathnakumar AL(1), Sangh C(1), Kumar A(1)(3),
+Thankappan R(1).
+
+Author information: 
+(1)ICAR-Directorate of Groundnut Research (ICAR-DGR), Junagadh, India.
+(2)Indian Agricultural Research Institute (IARI), New Delhi, India.
+(3)ICAR-National Research Centre on Litchi, Muzaffarpur, India.
+
+Stem rot, a devastating fungal disease of peanut, is caused by Sclerotium
+rolfsii. RNA-sequencing approaches have been used to unravel the mechanisms of
+resistance to stem rot in peanut over the course of fungal infection in resistant
+(NRCG-CS85) and susceptible (TG37A) genotypes under control conditions and during
+the course of infection. Out of about 290 million reads, nearly 251 million
+(92.22%) high-quality reads were obtained and aligned to the Arachis duranensis
+and Arachis ipaensis genomes with the average mapping of 78.91% and 78.61%,
+respectively. In total, about 48.6% of genes were commonly regulated, while
+approximately 21.8% and 29.6% of uniquely regulated genes from A. duranensis and 
+A. ipaensis genomes, respectively, were identified. Several annotated
+transcripts, such as receptor-like kinases, jasmonic acid pathway enzymes, and
+transcription factors (TFs), including WRKY, Zinc finger protein, and C2-H2 zinc 
+finger, showed higher expression in resistant genotypes upon infection. These
+transcripts have a known role in channelizing the downstream of pathogen
+perception. The higher expression of WRKY transcripts might have induced the
+systemic acquired resistance (SAR) by the activation of the jasmonic acid defense
+signaling pathway. Furthermore, a set of 30 transcripts involved in the defense
+mechanisms were validated with quantitative real-time PCR. This study suggested
+PAMP-triggered immunity as a probable mechanism of resistance, while the jasmonic
+acid signaling pathway was identified as a possible defense mechanism in peanut. 
+The information generated is of immense importance in developing more effective
+ways to combat the stem rot disease in peanut.
+
+DOI: 10.1371/journal.pone.0236823 
+PMCID: PMC7398544
+PMID: 32745143  [Indexed for MEDLINE]
+
+Conflict of interest statement: No. The authors have declared that no competing
+interests exist.
+

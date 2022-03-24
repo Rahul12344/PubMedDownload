@@ -1,0 +1,69 @@
+
+1. Viruses. 2021 Nov 19;13(11). pii: 2312. doi: 10.3390/v13112312.
+
+The HIV-1 Nucleocapsid Regulates Its Own Condensation by Phase-Separated
+Activity-Enhancing Sequestration of the Viral Protease during Maturation.
+
+Lyonnais S(1)(2), Sadiq SK(3)(4)(5), Lorca-Oró C(1), Dufau L(6), Nieto-Marquez
+S(1), Escribà T(1), Gabrielli N(1), Tan X(1)(6), Ouizougun-Oubari M(1), Okoronkwo
+J(1), Reboud-Ravaux M(6), Gatell JM(1)(7), Marquet R(8), Paillart JC(8),
+Meyerhans A(3)(9), Tisné C(10), Gorelick RJ(11), Mirambeau G(1)(12).
+
+Author information: 
+(1)Infectious Disease & AIDS Research Unit, Institut d'Investigacions Biomèdiques
+August Pi i Sunyer (IDIBAPS), Villaroel 170, 08036 Barcelona, Spain.
+(2)Centre d'Etudes des Maladies Infectieuses et Pharmacologie Anti-Infectieuse
+(CEMIPAI), CNRS UAR 3725, Université de Montpellier, 1919 Route de Mende, CEDEX
+05, 34293 Montpellier, France.
+(3)Infection Biology Laboratory, Department of Experimental and Health Sciences
+(DCEXS), Universitat Pompeu Fabra, Carrer Doctor Aiguader 88, 08003 Barcelona,
+Spain.
+(4)Molecular and Cellular Modeling Group, Heidelberg Institute for Theoretical
+Studies (HITS), Schloss-Wolfsbrunnenweg 35, 69118 Heidelberg, Germany.
+(5)Genome Biology Unit, European Molecular Biology Laboratory, Meyerhofstrasse 1,
+69117 Heidelberg, Germany.
+(6)Biological Adaptation and Ageing (B2A), CNRS UMR 8256 & INSERM ERL U1164,
+Institut de Biologie Paris-Seine (IBPS), Faculté des Sciences et d'Ingénierie
+(FSI), Sorbonne Université, 7 Quai St Bernard, CEDEX 05, 75252 Paris, France.
+(7)Facultat de Medicina y Ciencias de la Salud, Universitat de Barcelona, Carrer 
+de Casanova 143, 08036 Barcelona, Spain.
+(8)Architecture et Réactivité de l'ARN, CNRS UPR 9002, Université de Strasbourg, 
+2 Allée Conrad Roentgen, 67000 Strasbourg, France.
+(9)Institució Catalana de Recerca i Estudis Avançats (ICREA), Passeig de Lluís
+Companys 23, 08010 Barcelona, Spain.
+(10)Expression Génétique Microbienne, CNRS UMR 8261, Institut de Biologie
+Physico-Chimique (IBPC), Université de Paris, 13 Rue Pierre et Marie Curie, 75005
+Paris, France.
+(11)AIDS and Cancer Virus Program, Leidos Biomedical Research, Inc., Frederick
+National Laboratory for Cancer Research, Frederick, MD 21701, USA.
+(12)Biologie Intégrative des Organismes Marins (BIOM), CNRS UMR 7232,
+Observatoire Océanologique de Banyuls (OOB), Faculté des Sciences et d'Ingénierie
+(FSI), Sorbonne Université, 1 Avenue Pierre Fabre, 66650 Banyuls-sur-Mer, France.
+
+A growing number of studies indicate that mRNAs and long ncRNAs can affect
+protein populations by assembling dynamic ribonucleoprotein (RNP) granules. These
+phase-separated molecular 'sponges', stabilized by quinary (transient and weak)
+interactions, control proteins involved in numerous biological functions.
+Retroviruses such as HIV-1 form by self-assembly when their genomic RNA (gRNA)
+traps Gag and GagPol polyprotein precursors. Infectivity requires extracellular
+budding of the particle followed by maturation, an ordered processing of ∼2400
+Gag and ∼120 GagPol by the viral protease (PR). This leads to a condensed
+gRNA-NCp7 nucleocapsid and a CAp24-self-assembled capsid surrounding the RNP. The
+choreography by which all of these components dynamically interact during virus
+maturation is one of the missing milestones to fully depict the HIV life cycle.
+Here, we describe how HIV-1 has evolved a dynamic RNP granule with successive
+weak-strong-moderate quinary NC-gRNA networks during the sequential processing of
+the GagNC domain. We also reveal two palindromic RNA-binding triads on NC,
+KxxFxxQ and QxxFxxK, that provide quinary NC-gRNA interactions. Consequently, the
+nucleocapsid complex appears properly aggregated for capsid reassembly and
+reverse transcription, mandatory processes for viral infectivity. We show that PR
+is sequestered within this RNP and drives its maturation/condensation within
+minutes, this process being most effective at the end of budding. We anticipate
+such findings will stimulate further investigations of quinary interactions and
+emergent mechanisms in crowded environments throughout the wide and growing array
+of RNP granules.
+
+DOI: 10.3390/v13112312 
+PMCID: PMC8625067
+PMID: 34835118 
+

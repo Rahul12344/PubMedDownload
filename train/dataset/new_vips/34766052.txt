@@ -1,0 +1,58 @@
+
+1. Sens Int. 2021;2:100092. doi: 10.1016/j.sintl.2021.100092. Epub 2021 Apr 28.
+
+Concept design of the physical structure for ICU ventilators for COVID-19
+pandemic.
+
+Agarwal KM(1), Sharma P(1), Bhatia D(2), Mishra A(3).
+
+Author information: 
+(1)Mechanical Engineering Department, Amity University, Uttar Pradesh, Noida,
+201313, India.
+(2)Department of Biomedical Engineering, North Eastern Hill University, Shillong,
+793022, Meghalaya, India.
+(3)Department of Cardiology, North Eastern Indira Gandhi Regional Institute of
+Health and Medical Sciences, Shillong, 793018, Meghalaya, India.
+
+A new disease known as COVID-19 caused by the SARS CoV2 virus has engulfed the
+entire world and led to a global pandemic situation. Till December 9, 2020, the
+disease has infected 68 million people worldwide and more than 1.56 million
+people have been killed. The origin of the COVID-19 disease has been traced back 
+to the bats, but the intermediary contact is unknown. The disease spreads by
+respiratory droplets and contaminated surfaces. In most cases, the virus shows
+mild symptoms such as fever, fatigue, dyspnea, cough, etc. which may become
+severe if appropriate precautions are not adhered to. For people with
+comorbidities (usually elderly) the disease may turn deadly and cause pneumonia, 
+Acute Respiratory Distress Syndrome (ARDS), and multi-organ failure, thereby
+affecting a person's ability to perform normal breathing which may put them on
+ventilator support. The virus causes Acute Respiratory Distress Syndrome (ARDS)
+that can lead to multi-organ failure in the most severe form. A patient suffering
+from ARDS must be put on a mechanical ventilator. These assistive devices help
+patients with respiratory disorders perform normal breathing. Presently nearly
+sixty thousand COVID-19 patients are in critical condition worldwide, fighting
+for survival requiring ventilator support. In India, the number stands close to
+eight thousand such individuals especially when the second wave of COVID-19 is
+expected to spread globally with initial signs arising from European and Middle
+East countries. With a large number of patients requiring ventilators, it puts a 
+huge strain on the already weak health infrastructure of the developing
+countries. This is where some manufacturing and automobile companies have stepped
+in to help hospitals by developing ventilators at a faster rate and lower costs
+without comprising on the quality with the support of different government
+initiatives. This paper aims to study the basic requirements to be considered
+while designing the physical structure of an elementary level ICU ventilator for 
+the hospital environment. The challenges related to research in electronic wiring
+of a mechanical ventilator, the overall structural design, and surrounding base
+could be appropriately done for different loads by simulating the conditions on
+tools like ANSYS software with accurate dimensions which could improve their
+future designs.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.sintl.2021.100092 
+PMCID: PMC8080500
+PMID: 34766052 
+
+Conflict of interest statement: The Authors report no conflict of interest for
+submitting paper titled “Design of Physical Structure of an ICU Ventilator for
+Novel Corona Virus Disease (COVID-19)” to the Sensors International Journal.
+

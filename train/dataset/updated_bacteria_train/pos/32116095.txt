@@ -1,0 +1,47 @@
+
+1. Autophagy. 2021 Mar;17(3):706-722. doi: 10.1080/15548627.2020.1728098. Epub 2020 
+Mar 1.
+
+Coxiella effector protein CvpF subverts RAB26-dependent autophagy to promote
+vacuole biogenesis and virulence.
+
+Siadous FA(1), Cantet F(1), Van Schaik E(2), Burette M(1), Allombert J(1),
+Lakhani A(1), Bonaventure B(1), Goujon C(1), Samuel J(2), Bonazzi M(1), Martinez 
+E(1).
+
+Author information: 
+(1)Institut de Recherche en Infectiologie de Montpellier (IRIM) UMR 9004 CNRS,
+Université de Montpellier, Montpellier, France.
+(2)Department of Microbial and Molecular Pathogenesis, Texas A&M Health Science
+Center College of Medicine, Bryan, TX, USA.
+
+Coxiella burnetii, the etiological agent of the zoonosis Q fever, replicates
+inside host cells within a large vacuole displaying autolysosomal
+characteristics. The development of this compartment is mediated by bacterial
+effectors, which interfere with a number of host membrane trafficking pathways.
+By screening a Coxiella transposon mutant library, we observed that transposon
+insertions in cbu0626 led to intracellular replication and vacuole biogenesis
+defects. Here, we demonstrate that CBU0626 is a novel member of the Coxiella
+vacuolar protein (Cvp) family of effector proteins, which is translocated by the 
+Dot/Icm secretion system and localizes to vesicles with autolysosomal features as
+well as Coxiella-containing vacuoles (CCVs). We thus renamed this effector CvpF
+for Coxiella vacuolar protein F. CvpF specifically interacts with the host small 
+GTPase RAB26, leading to the recruitment of the autophagosomal marker
+MAP1LC3B/LC3B (microtubule associated protein 1 light chain 3 beta) to CCVs.
+Importantly, cvpF::Tn mutants were highly attenuated compared to wild-type
+bacteria in the SCID mouse model of infection, highlighting the importance of
+CvpF for Coxiella virulence. These results suggest that CvpF manipulates
+endosomal trafficking and macroautophagy/autophagy induction for optimal C.
+burnetii vacuole biogenesis.Abbreviations: ACCM: acidified citrate cystein
+medium; AP: adaptor related protein complex; CCV: Coxiella-containing vacuole;
+Cvp: Coxiella vacuolar protein; GDI: guanosine nucleotide dissociation inhibitor;
+GDF: GDI dissociation factor; GEF: guanine exchange factor; LAMP1: lysosomal
+associated membrane protein 1; MAP1LC3B/LC3B: microtubule associated protein 1
+light chain 3 beta; MTORC1: mechanistic target of rapamycin kinase MTOR complex
+1; PBS: phosphate-buffered saline; PMA: phorbol myristate acetate; SQSTM1/p62:
+sequestosome 1; WT: wild-type.
+
+DOI: 10.1080/15548627.2020.1728098 
+PMCID: PMC8032239
+PMID: 32116095 
+

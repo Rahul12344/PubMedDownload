@@ -1,0 +1,49 @@
+
+1. Physiol Genomics. 2014 Oct 1;46(19):699-724. doi:
+10.1152/physiolgenomics.00062.2014. Epub 2014 Aug 5.
+
+Bioinformatic approaches to augment study of epithelial-to-mesenchymal transition
+in lung cancer.
+
+Beck TN(1), Chikwem AJ(2), Solanki NR(3), Golemis EA(4).
+
+Author information: 
+(1)Developmental Therapeutics Program, Fox Chase Cancer Center, Philadelphia,
+Pennsylvania; Program in Molecular and Cell Biology and Genetics, Drexel
+University College of Medicine, Philadelphia, Pennsylvania; and.
+(2)Developmental Therapeutics Program, Fox Chase Cancer Center, Philadelphia,
+Pennsylvania; Temple University School of Medicine, Philadelphia, Pennsylvania;
+and.
+(3)Immune Cell Development and Host Defense Program, Fox Chase Cancer Center,
+Philadelphia, Pennsylvania; Program in Microbiology and Immunology, Drexel
+University College of Medicine, Philadelphia, Pennsylvania.
+(4)Developmental Therapeutics Program, Fox Chase Cancer Center, Philadelphia,
+Pennsylvania; Temple University School of Medicine, Philadelphia, Pennsylvania;
+and Program in Molecular and Cell Biology and Genetics, Drexel University College
+of Medicine, Philadelphia, Pennsylvania; and Erica.Golemis@fccc.edu.
+
+Bioinformatic approaches are intended to provide systems level insight into the
+complex biological processes that underlie serious diseases such as cancer. In
+this review we describe current bioinformatic resources, and illustrate how they 
+have been used to study a clinically important example: epithelial-to-mesenchymal
+transition (EMT) in lung cancer. Lung cancer is the leading cause of
+cancer-related deaths and is often diagnosed at advanced stages, leading to
+limited therapeutic success. While EMT is essential during development and wound 
+healing, pathological reactivation of this program by cancer cells contributes to
+metastasis and drug resistance, both major causes of death from lung cancer.
+Challenges of studying EMT include its transient nature, its molecular and
+phenotypic heterogeneity, and the complicated networks of rewired signaling
+cascades. Given the biology of lung cancer and the role of EMT, it is critical to
+better align the two in order to advance the impact of precision oncology. This
+task relies heavily on the application of bioinformatic resources. Besides
+summarizing recent work in this area, we use four EMT-associated genes, TGF-β
+(TGFB1), NEDD9/HEF1, β-catenin (CTNNB1) and E-cadherin (CDH1), as exemplars to
+demonstrate the current capacities and limitations of probing bioinformatic
+resources to inform hypothesis-driven studies with therapeutic goals.
+
+Copyright © 2014 the American Physiological Society.
+
+DOI: 10.1152/physiolgenomics.00062.2014 
+PMCID: PMC4187119
+PMID: 25096367  [Indexed for MEDLINE]
+

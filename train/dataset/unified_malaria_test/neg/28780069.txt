@@ -1,0 +1,46 @@
+
+1. insect biochem mol biol. 2017 sep;88:48-62. doi: 10.1016/j.ibmb.2017.07.008. epub
+2017 aug 2.
+
+serine protease-related proteins malaria mosquito, anopheles gambiae.
+
+cao x(1), gulati m(1), jiang h(2).
+
+author information: 
+(1)department entomology plant pathology, oklahoma state university,
+stillwater, ok 74078, usa.
+(2)department entomology plant pathology, oklahoma state university,
+stillwater, ok 74078, usa. electronic address: haobo.jiang@okstate.edu.
+
+insect serine proteases (sps) serine protease homologs (sphs) participate 
+digestion, defense, development, physiological processes. in
+mosquitoes, clip-domain sps sphs (i.e. clips) investigated for
+possible roles antiparasitic responses. recent test aimed improving
+quality gene models anopheles gambiae genome using rna-seq data, we
+observed various discrepancies gene models agamp4.5 corresponding 
+sequences selected modeled cufflinks, trinity bridger. 
+report comparative analysis 337 sp-related proteins a. gambiae by
+examining domain structures, sequence diversity, chromosomal locations, and
+expression patterns. one hundred ten clips contain 1 5 clip domains in
+addition protease domains (pds) non-catalytic, protease-like domains 
+(plds). divided five subgroups: clipas (22) clip1-5-pld; clipbs
+(29), clipcs (12) clipds (14) mainly clip-pd; clipes (33) a
+domain structure pd/pld-pld-clip-pld0-1. expression clip genes in
+group-1 generally low detected various tissue- stage-specific
+rna-seq libraries, putative gps/gphs (i.e. single domain gut sps/sphs) in
+group-2 highly expressed midgut, whole larva whole adult libraries. 
+comparison, 46 sps, 26 sphs, 37 multi-domain sps/sphs (i.e. pd/pld-pld≥1) 
+group-3 seem specifically expressed digestive tract. 16
+sps 2 sph containing types putative regulatory domains (e.g. ldla,
+cub, gd). 337 sp sph genes, 159 sorted 46 groups (2-8
+members/group) based similar phylogenetic tree position, chromosomal location,
+and expression profile. information analysis, including improved gene
+models protein sequences, constitute solid foundation functional
+analysis sp-related proteins a. gambiae.
+
+copyright © 2017 elsevier ltd. rights reserved.
+
+doi: 10.1016/j.ibmb.2017.07.008 
+pmcid: pmc5586530
+pmid: 28780069  [indexed medline]
+

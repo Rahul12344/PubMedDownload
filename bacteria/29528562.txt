@@ -1,0 +1,45 @@
+
+1. Environ Microbiol Rep. 2018 Jun;10(3):283-292. doi: 10.1111/1758-2229.12637. Epub
+2018 Apr 10.
+
+Two enzymes of the acetone degradation pathway of Desulfococcus biacutus:
+coenzyme B12 -dependent 2-hydroxyisobutyryl-CoA mutase and 3-hydroxybutyryl-CoA
+dehydrogenase.
+
+Frey J(1)(2), Schneider F(3), Huhn T(3)(4), Spiteller D(1)(4), Schink B(1)(4),
+Schleheck D(1)(4).
+
+Author information: 
+(1)Department of Biology, University of Konstanz, D-78464 Konstanz, Germany.
+(2)Graduate School Biological Sciences, University of Konstanz, D-78464 Konstanz,
+Germany.
+(3)Department of Chemistry, University of Konstanz, D-78464 Konstanz, Germany.
+(4)Konstanz Research School Chemical Biology, University of Konstanz, D-78464
+Konstanz, Germany.
+
+Degradation of acetone by the sulfate-reducing bacterium Desulfococcus biacutus
+involves an acetone-activation reaction different from that used by aerobic or
+nitrate-reducing bacteria, because the small energy budget of sulfate-reducing
+bacteria does not allow for major expenditures into ATP-consuming carboxylation
+reactions. In the present study, an inducible coenzyme B12 -dependent conversion 
+of 2-hydroxyisobutyryl-CoA to 3-hydroxybutyryl-CoA was demonstrated in cell-free 
+extracts of acetone-grown D. biacutus cells, together with a NAD+ -dependent
+oxidation of 3-hydroxybutyryl-CoA to acetoacetyl-CoA. Genes encoding two mutase
+subunits and a dehydrogenase, which were found previously to be strongly induced 
+during growth with acetone, were heterologously expressed in E. coli. The
+activities of the purified recombinant proteins matched with the inducible
+activities observed in cell-free extracts of acetone-grown D. biacutus: proteins 
+(IMG locus tags) DebiaDRAFT_04573 and 04574 constituted a B12 -dependent
+2-hydroxyisobutyryl-CoA/3-hydroxybutyryl-CoA mutase, and DebiaDRAFT_04571 was a
+3-hydroxybutyryl-CoA dehydrogenase. Hence, these enzymes play key roles in the
+degradation of acetone and define an involvement of CoA esters in the pathway.
+Further, the involvement of 2-hydroxyisobutyryl-CoA strongly indicates that the
+carbonyl-C2 of acetone is added, most likely, to formyl-CoA through a
+TDP-dependent enzyme that is co-induced in acetone-grown cells and is encoded in 
+the same gene cluster as the identified mutase and dehydrogenase.
+
+© 2018 Society for Applied Microbiology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/1758-2229.12637 
+PMID: 29528562  [Indexed for MEDLINE]
+

@@ -1,0 +1,47 @@
+
+1. Viruses. 2021 Oct 7;13(10). pii: 2017. doi: 10.3390/v13102017.
+
+TNF-Mediated Inhibition of Classical Swine Fever Virus Replication Is IRF1-,
+NF-κB- and JAK/STAT Signaling-Dependent.
+
+Liniger M(1)(2), Gerber M(1)(2), Renzullo S(1), García-Nicolás O(1)(2), Ruggli
+N(1)(2).
+
+Author information: 
+(1)Institute of Virology and Immunology IVI, Sensemattstrasse 293, 3147
+Mittelhäusern, Switzerland.
+(2)Department of Infectious Diseases and Pathobiology (DIP), Vetsuisse Faculty,
+University of Bern, Länggassstrasse 122, 3012 Bern, Switzerland.
+
+The sera from pigs infected with virulent classical swine fever virus (CSFV)
+contain substantial amounts of tumor necrosis factor (TNF), a prototype
+proinflammatory cytokine with pleiotropic activities. TNF limits the replication 
+of CSFV in cell culture. In order to investigate the signaling involved in the
+antiviral activity of TNF, we employed small-molecule inhibitors to interfere
+specifically with JAK/STAT and NF-κB signaling pathways in near-to-primary
+endothelial PEDSV.15 cells. In addition, we knocked out selected factors of the
+interferon (IFN) induction and signaling pathways using CRISPR/Cas9. We found
+that the anti-CSFV effect of TNF was sensitive to JAK/STAT inhibitors, suggesting
+that TNF induces IFN signaling. Accordingly, we observed that the antiviral
+effect of TNF was dependent on intact type I IFN signaling as PEDSV.15 cells with
+the disrupted type I IFN receptor lost their capacity to limit the replication of
+CSFV after TNF treatment. Consequently, we examined whether TNF activates the
+type I IFN induction pathway. With genetically modified PEDSV.15 cells deficient 
+in functional interferon regulatory factor 1 or 3 (IRF1 or IRF3), we observed
+that the anti-CSFV activity exhibited by TNF was dependent on IRF1, whereas IRF3 
+was dispensable. This was distinct from the lipopolysaccharide (LPS)-driven
+antiviral effect that relied on both IRF1 and IRF3. In agreement with the
+requirement of IRF1 to induce TNF- and LPS-mediated antiviral effects, intact
+IRF1 was also essential for TNF- and LPS-mediated induction of IFN-β mRNA, while 
+the activation of NF-κB was not dependent on IRF1. Nevertheless, NF-κB activation
+was essential for the TNF-mediated antiviral effect. Finally, we observed that
+CSFV failed to counteract the TNF-mediated induction of the IFN-β mRNA in
+PEDSV.15 cells, suggesting that CSFV does not interfere with IRF1-dependent
+signaling. In summary, we report that the proinflammatory cytokine TNF limits the
+replication of CSFV in PEDSV.15 cells by specific induction of an IRF1-dependent 
+antiviral type I IFN response.
+
+DOI: 10.3390/v13102017 
+PMCID: PMC8540133
+PMID: 34696447 
+

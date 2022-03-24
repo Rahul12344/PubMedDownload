@@ -1,0 +1,61 @@
+
+1. Front Immunol. 2021 Oct 13;12:738073. doi: 10.3389/fimmu.2021.738073. eCollection
+2021.
+
+Immune Response in Severe and Non-Severe Coronavirus Disease 2019 (COVID-19)
+Infection: A Mechanistic Landscape.
+
+Mukund K(1), Nayak P(1), Ashokkumar C(2)(3), Rao S(4), Almeda J(4),
+Betancourt-Garcia MM(4), Sindhi R(2)(3), Subramaniam S(1)(5)(6).
+
+Author information: 
+(1)Department of Bioengineering, University of California, San Diego, La Jolla,
+CA, United States.
+(2)Plexision Inc., Pittsburgh, PA, United States.
+(3)Hillman Center for Pediatric Transplantation, University of Pittsburgh,
+Pittsburgh, PA, United States.
+(4)DHR Health and DHR Health Institute for Research and Development, Edinburg,
+TX, United States.
+(5)Department of Cellular and Molecular Medicine, University of California, San
+Diego, La Jolla, CA, United States.
+(6)Department of Computer Science and Engineering, University of California, San 
+Diego, La Jolla, CA, United States.
+
+The mechanisms underlying the immune remodeling and severity response in
+coronavirus disease 2019 (COVID-19) are yet to be fully elucidated. Our
+comprehensive integrative analyses of single-cell RNA sequencing (scRNAseq) data 
+from four published studies, in patients with mild/moderate and severe
+infections, indicate a robust expansion and mobilization of the innate immune
+response and highlight mechanisms by which low-density neutrophils and
+megakaryocytes play a crucial role in the cross talk between lymphoid and myeloid
+lineages. We also document a marked reduction of several lymphoid cell types,
+particularly natural killer cells, mucosal-associated invariant T (MAIT) cells,
+and gamma-delta T (γδT) cells, and a robust expansion and extensive heterogeneity
+within plasmablasts, especially in severe COVID-19 patients. We confirm the
+changes in cellular abundances for certain immune cell types within a new patient
+cohort. While the cellular heterogeneity in COVID-19 extends across cells in both
+lineages, we consistently observe certain subsets respond more potently to
+interferon type I (IFN-I) and display increased cellular abundances across the
+spectrum of severity, as compared with healthy subjects. However, we identify
+these expanded subsets to have a more muted response to IFN-I within severe
+disease compared to non-severe disease. Our analyses further highlight an
+increased aggregation potential of the myeloid subsets, particularly monocytes,
+in COVID-19. Finally, we provide detailed mechanistic insights into the
+interaction between lymphoid and myeloid lineages, which contributes to the
+multisystemic phenotype of COVID-19, distinguishing severe from non-severe
+responses.
+
+Copyright © 2021 Mukund, Nayak, Ashokkumar, Rao, Almeda, Betancourt-Garcia,
+Sindhi and Subramaniam.
+
+DOI: 10.3389/fimmu.2021.738073 
+PMCID: PMC8548832
+PMID: 34721400  [Indexed for MEDLINE]
+
+Conflict of interest statement: Phenotyping of the independent cohort was
+performed at Plexision, a University of Pittsburgh spinoff in which RS and the
+University hold equity. RS and CA are currently employed at Plexision. The
+remaining authors declare that the research was conducted in the absence of any
+commercial or financial relationships that could be construed as a potential
+conflict of interest.
+

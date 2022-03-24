@@ -1,0 +1,181 @@
+
+1. Elife. 2021 Nov 23;10. pii: e70970. doi: 10.7554/eLife.70970. [Epub ahead of
+print]
+
+Ten months of temporal variation in the clinical journey of hospitalised patients
+with COVID-19: an observational cohort.
+
+ISARIC Clinical Characterisation Group, Hall MD(1), Baruch J(2), Carson G(2),
+Citarella BW(2), Dagens A(2), Dankwa E(3), Donnelly CA(3), Dunning J(2), Escher
+M(2), Kartsonaki C(3), Merson L(4), Pritchard M(2), Wei J(1), Horby PW(2), Rojek 
+A(2), Olliaro PL(5).
+
+Author information: 
+(1)Big Data Institute, Nuffield Department of Medicine, University of Oxford,
+Oxford, United Kingdom.
+(2)ISARIC Global Support Centre, Centre for Tropical Medicine and Global Health, 
+Nuffield Department of Medicine, University of Oxford, Oxford, United Kingdom.
+(3)Department of Statistics, University of Oxford, Oxford, United Kingdom.
+(4)Centre for Tropical Medicine and Global Health, University of Oxford, Oxford, 
+United Kingdom.
+(5)ISARIC Global Support Centre, Centre for Tropical Medicine and Global Health, 
+Nuffield Department of Medicine, University of Oxford, London, United Kingdom.
+
+Background: There is potentially considerable variation in the nature and
+duration of the care provided to hospitalised patients during an infectious
+disease epidemic or pandemic. Improvements in care and clinician confidence may
+shorten the time spent as an inpatient, or the need for admission to an intensive
+care unit (ICU) or high density unit (HDU). On the other hand, limited resources 
+at times of high demand may lead to rationing. Nevertheless, these variables may 
+be used as static proxies for disease severity, as outcome measures for trials,
+and to inform planning and logistics.Methods: We investigate these time trends in
+an extremely large international cohort of 142,540 patients hospitalised with
+COVID-19. Investigated are: time from symptom onset to hospital admission,
+probability of ICU/HDU admission, time from hospital admission to ICU/HDU
+admission, hospital case fatality ratio (hCFR) and total length of hospital
+stay.Results: Time from onset to admission showed a rapid decline during the
+first months of the pandemic followed by peaks during August/September and
+December 2020. ICU/HDU admission was more frequent from June to August. The hCFR 
+was lowest from June to August. Raw numbers for overall hospital stay showed
+little variation, but there is clear decline in time to discharge for ICU/HDU
+survivors.Conclusions: Our results establish that variables of these kinds have
+limitations when used as outcome measures in a rapidly-evolving
+situation.Funding: This work was supported by the UK Foreign, Commonwealth and
+Development Office and Wellcome [215091/Z/18/Z] and the Bill and Melinda Gates
+Foundation [OPP1209135]. The funders had no role in study design, data collection
+and analysis, decision to publish, or preparation of the manuscript.
+
+© 2021, Hall et al.
+
+DOI: 10.7554/eLife.70970 
+PMID: 34812731 
+
+Conflict of interest statement: Allavena, C. declares personal fees from
+ViiVHealthcare, MSD, Janssen and Gilead, all outside the submitted work.
+Andréjak, C. declares personal fees for lecture from Astra Zeneca, outside the
+submitted work. Cheng, M. declares grants from McGill Interdisciplinary
+Initiative in Infection and Immunity, grants from Canadian Institutes of Health
+Research, during the conduct of the study; personal fees from GEn1E Lifesciences 
+(as a member of the scientific advisory board), personal fees from nplex
+biosciences (as a member of the scientific advisory board), outside the submitted
+work. He is the co-founder of Kanvas Biosciences and owns equity in the company. 
+In addition, M. Cheng reports a patent Methods for detecting tissue damage, graft
+versus host disease, and infections using cell-free DNA profiling pending, and a 
+patent Methods for assessing the severity and progression of SARS-CoV-2
+infections using cell-free DNA pending. Cholley, B. declares personal fees (for
+lectures and participation to advisory boards) from Edwards, Amomed, Nordic
+Pharma, and Orion Pharma. Cruz-Bermúdez, J.L. declares personal fees from
+Elsevier for advice, outside the submitted work. Cummings, M. and O'Donnell, M.
+participated as investigators for clinical trials evaluating the efficacy and
+safety of remdesivir (sponsored by Gilead Sciences) and convalescent plasma
+(sponsored by Amazon) in hospitalized patients with COVID-19. Support for this
+work is paid to Columbia University. Dalton, H. declares personal fees for
+medical director of Innovative ECMO Conceots and honorarium from Abiomed/BREETHE 
+Oxi-1 and Instrumentation Labs. Dyrhol-Riise, AM. declares grants from Gilead
+outside this work. Deplanque, D. declares personal fees from Biocodex,
+Bristol-Myers Squibb and Pfizer (advisory boards). Dudman, S. reports grants from
+Research Council of Norway grant no 312780. Durante-Mangoni, E. declares funding 
+via his Institution from MSD, Pfizer, and personal fees or participation in
+advisory boards or participation to the speaker's bureau of Roche, Pfizer, MSD,
+Angelini, Correvio, Nordic Pharma, Bio-Merieux, Abbvie, Sanofi-Aventis,
+Medtronic, Tyrx and DiaSorin. Grasselli, G. declares personal fees from Getinge, 
+Biotest, Draeger Medical, Fisher &amp; Paykel, MSD and unrestricted research
+grant from MSD and Fisher &amp; Paykel, all outside the submitted work.
+Guerguerian, AM. participated as site investigator for the Hospital For Sick
+Children, Toronto, Canada as a site through SPRINT-SARI Study via the Canadian
+Critical Care Trials Group sponsored in part by the Canadian Institutes of Health
+Research. Ho, A. declares grant funding from Medical Research Council UK,
+Scottish Funding Council - Grand Challenges Research Fund, and the Wellcome
+Trust, outside this submitted work. Holter, J. C. reports grants from Research
+Council of Norway grant no 312780, and from Vivaldi Invest A/S owned by Jon
+Stephenson von Tetzchner, during the conduct of the study. Kimmoun, A. declares
+personal fees (payment for lectures) from Baxter, Aguettant, Aspen. Kumar, D.
+declares grants and personal fees from Roche, GSK and Merck; and personal fees
+from Pfizer and Sanofi. Kutsogiannis, D.J. declares personal fees for a lecture
+from Tabuk Pharmaceuticals and the Saudi Critical Care Society. Kutsyna, G.
+declares the study consulting fee for clinical trial ClinicalTrials.gov
+Identifier: NCT04762628. Laffey, J. reports that he has received fees for
+consultancy from GlaxoSmithKline and from Baxter Therapeutics for work outside
+the scope of this work. Lairez, O. declares grant funding from Pfizer; conference
+fees from Amicus, GE Healthcare, Novartis, Sanofi-Genzyme, and Takeda-Shire; and 
+consultancy fees from Alnylam, Amicus, Pfizer, Takeda-Shire. Lee, J. reports
+grants from European Commission PREPARE grant agreement No 602525, European
+Commission RECOVER Grant Agreement No 101003589 and European Commission
+ECRAID-Plan Grant Agreement 825715 supporting the conduct, coordination and
+management of the work. Lee, T.C. declares research salary support from les Fonds
+de recherche du Québec - Santé. Lefèvre, B. declares travel/accommodation/meeting
+expenses from Mylan and Gilead, all outside the submitted work. Lemaignen, A.
+declares personal fees (payment for lectures) from MSD and Gilead; and
+travel/accommodation/meeting expenses from Pfizer. Lescure, F.X. declares
+personal fees (payment for lectures) from Gilead, MSD; and
+travel/accommodation/meeting expenses from Astellas, Eumedica, MSD. Liu, K.
+reports personal fees from MERA and receives a salary from TXP Medical completely
+outside the submitted work. Martin-Loeches I. declares consulting fees for Gilead
+outside of the submitted work. Martín-Quiros, A. declares consulting fees for
+Gilead. Mentré F, declares consulting fees from IPSEN, Servier and Da Volterra,
+and reports research grants to her group from Sanofi, Roche, Servier and Da
+Voleterra, all outside the submitted work. Murthy, S declares receiving salary
+support from the Health Research Foundation and Innovative Medicines Canada Chair
+in Pandemic Preparedness Research. Nichol, A. declares a grant from the Health
+Research Board of Ireland to support data collection in Ireland (CTN-2014-012).
+Openshaw, P. has served on scientific advisory boards for Janssen/J&amp;J, Oxford
+Immunotech Ltd, GSK, Nestle and Pfizer (fees to Imperial College). He is Imperial
+College lead investigator on EMINENT, a consortium funded by the MRC and GSK. He 
+is a member of the RSV Consortium in Europe (RESCEU) and Inno4Vac, Innovative
+Medicines Initiatives (IMI) from the European Union. Peltan, I.D. declares grant 
+support from the National Institutes of Health and, outside the submitted work,
+grant support from Centers for Disease Control and Prevention, and Jannsen and
+payments to his institution for trials by Regeneron and Asahi Kasei Pharma on
+which he served as an investigator. Pesenti, A. declares personal fees from
+Maquet, Novalung/Xenios, Baxter, and Boehringer Ingelheim. Poissy, J. declares
+personal fees from Gilead for lectures, outside the submitting work. Povoa, P.
+declares personal fees (for lectures and advisory boards) from MSD, Technophage, 
+Sanofi, and Gilead. Póvoas, D. declares consulting fees (for lectures and/or
+participation in advisory boards) from Roche and Viiv Healthcare; and
+travel/accommodation/meeting expenses from Abbvie, Gilead Sciences, Janssen
+Cilag, Merck Sharp &amp; Dohme and ViiV Healthcare. Rewa, O. declares consulting 
+fees from Baxter Inc. Rossanese, A. declares consulting fees (for lectures and/or
+participation to advisory boards) from Emergent BioSolutions and Sanofi Pasteur, 
+but all outside of the frame of the submitted work. Săndulescu, O. has been an
+investigator in COVID-19 clinical trials by Algernon Pharmaceuticals, Atea
+Pharmaceuticals, Regeneron Pharmaceuticals, Diffusion Pharmaceuticals, and
+Celltrion, Inc., outside the scope of the submitted work. Semple, M.G. reports
+grants from DHSC National Institute of Health Research UK, from the Medical
+Research Council UK, and from the Health Protection Research Unit in Emerging
+&amp; Zoonotic Infections, University of Liverpool, supporting the conduct of the
+study; other interest in Integrum Scientific LLC, Greensboro, NC, USA, outside
+the submitted work. Serpa Neto, A. declares personal lecture fees from Drager
+outside the submitted work. Shrapnel, S. participated as an investigator for an
+observational study analysing ICU patients with COVID-19 (for the Critical Care
+Consortium including ECMOCARD) funded by The Prince Charles Hospital Foundation
+during the conduct of this study. S. Shrapnel reports in kind support from the
+Australian Research Council Centre of Excellence for Engineered Quantum Systems
+(CE170100009). Streinu-Cercel, Adrian has been an investigator in COVID-19
+clinical trials by Algernon Pharmaceuticals, Atea Pharmaceuticals, Regeneron
+Pharmaceuticals, Diffusion Pharmaceuticals, and Celltrion, Inc., outside the
+scope of the submitted work. Streinu-Cercel, Anca has been an investigator in
+COVID-19 clinical trials by Algernon Pharmaceuticals, Atea Pharmaceuticals,
+Regeneron Pharmaceuticals, Diffusion Pharmaceuticals, and Celltrion, Inc.,
+outside the scope of the submitted work. Summers, C. reports that she has
+received fees for consultancy for Abbvie relating to COVID-19 therapeutics. She
+was also the UK Chief Investigator of a GlaxoSmithKline plc sponsored study of a 
+therapy for COVID, and is a member of the UK COVID Therapeutic Advisory Panel
+(UK-CTAP). Outside the scope of this work, Dr Summers' institution receives
+research grants from the Wellcome Trust, UKRI/MRC, National Institute for Health 
+Research (NIHR), GlaxoSmithKline and AstraZeneca to support research in her
+laboratory. Tedder, R. reports grants from MRC/UKRI during the conduct of the
+study. In addition, R. Tedder has a patent United Kingdom Patent Application No. 
+2014047.1 "SARS-CoV-2 antibody detection assay" issued. Timsit, J.F. declares
+personal fees from Merck, Pfizer, Gilead, Beckton dickinson, Medimune, Bayer
+pharma, and reports research grants to his research unit from Pfizerpers, Merck, 
+Thermofisher. Troost, J. declares personal fees from General Electric and Procter
+and Gamble. Turtle, L. reports fees from Eisai for delivering a lecture related
+to COVID-19 and cancer, paid to the University of Liverpool. Ullrich, R. reports 
+grant funding to his institution from Apeptico, APEIRON, Biotest, Bayer, CCORE
+and Philips, as well as personal fees from Biotest. He holds European patent
+EP15189777.4 "Blood purification device" and equity in CCORE Technology GesmbH, a
+medical device research and development company. Visseaux, B. declares personal
+fees from BioMérieux, Qiagen and Gilead and research grants from Qiagen, all
+outside the submitted work. MH, JB, GC, BC, AD, ED, CD, JD, ME, CK, LM, MP, JW,
+PH, AR, PO The authors declare that no competing interests exist.
+

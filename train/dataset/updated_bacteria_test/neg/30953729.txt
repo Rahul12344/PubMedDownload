@@ -1,0 +1,44 @@
+
+1. J Proteomics. 2019 May 30;200:102-110. doi: 10.1016/j.jprot.2019.04.003. Epub
+2019 Apr 3.
+
+Proteome profiling of carbapenem-resistant K. pneumoniae clinical isolate
+(NDM-4): Exploring the mechanism of resistance and potential drug targets.
+
+Sharma D(1), Garg A(2), Kumar M(2), Khan AU(3).
+
+Author information: 
+(1)Interdisciplinary Biotechnology Unit, Aligarh Muslim University, Aligarh,
+India.
+(2)Department of Biophysics, University of Delhi South Campus, India.
+(3)Interdisciplinary Biotechnology Unit, Aligarh Muslim University, Aligarh,
+India. Electronic address: asad.k@rediffmail.com.
+
+The emergence of carbapenem resistance has become a major problem worldwide. This
+has made treatment of K. pneumoniae infections a difficult task. In this study,
+we have explored the whole proteome of the carbapenem-resistant Klebsiella
+pneumonia clinical isolate (NDM-4) under the meropenem stress. Proteomics
+(LC-MS/MS) and bioinformatics approaches were employed to uncover the novel
+mystery of the resistance over the existing mechanisms. Gene ontology, KEGG and
+STRING were used for functional annotation, pathway enrichment and
+protein-protein interaction (PPI) network respectively. LC-MS/MS analysis
+revealed that 52 proteins were overexpressed (≥10 log folds) under meropenem
+stress. These proteins belong to four major groups namely protein translational
+machinery complex, DNA/RNA modifying enzymes or proteins, proteins involved in
+carbapenems cleavage, modifications & transport and energy metabolism &
+intermediary metabolism-related proteins. Among the total 52 proteins 38 {matched
+to Klebsiella pneumonia subsp. pneumoniae (strain ATCC 700721/MGH 78578)} were
+used for functional annotation, pathways enrichment and protein-protein
+interaction. These were significantly enriched in the "intracellular" (14 of 38),
+"cytoplasm" (12 of 38) and "ribosome" (10 of 38). We suggest that these 52 over
+expressed proteins and their interactive proteins cumulatively contributed in
+survival of bacteria and meropenem resistance through various mechanisms or
+enriched pathways. These proteins targets and their pathways might be used for
+development of novel therapeutics against the resistance; therefore, the
+situation of the emergence of "bad-bugs" could be controlled.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jprot.2019.04.003 
+PMID: 30953729  [Indexed for MEDLINE]
+

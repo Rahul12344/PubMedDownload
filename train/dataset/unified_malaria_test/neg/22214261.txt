@@ -1,0 +1,46 @@
+
+1. bmc genomics. 2012 jan 3;13:1. doi: 10.1186/1471-2164-13-1.
+
+optimizing illumina next-generation sequencing library preparation extremely 
+at-biased genomes.
+
+oyola so(1), otto td, gu y, maslen g, manske m, campino s, turner dj, macinnis b,
+kwiatkowski dp, swerdlow hp, quail ma.
+
+author information: 
+(1)wellcome trust sanger institute, hinxton, cambridge, uk. so1@sanger.ac.uk
+
+background: massively parallel sequencing technology revolutionizing
+approaches genomic genetic research. since advent, scale and
+efficiency next-generation sequencing (ngs) rapidly improved. spite 
+this success, sequencing genomes genomic regions extremely biased base
+composition still great challenge currently available ngs platforms. 
+the genomes important pathogenic organisms like plasmodium falciparum
+(high content) mycobacterium tuberculosis (high gc content) display
+extremes base composition. standard library preparation procedures that
+employ pcr amplification shown cause uneven read coverage
+particularly across gc rich regions, leading problems genome
+assembly variation analyses. alternative library-preparation approaches 
+omit pcr amplification require large quantities starting material hence
+are suitable small amounts dna/rna clinical
+isolates. developed optimized library-preparation procedures suitable
+for low quantity starting material tolerant extremely high content
+sequences.
+results: used optimized conditions parallel standard methods 
+to prepare illumina sequencing libraries non-clinical clinical
+isolate (containing ~53% host contamination). analyzing comparing the
+quality sequence data generated, show optimized conditions that
+involve pcr additive (tmac), produces amplified libraries improved
+coverage extremely at-rich regions reduced bias toward gc neutral
+templates.
+conclusion: developed robust optimized next-generation sequencing
+library amplification method suitable extremely at-rich genomes. new
+amplification conditions significantly reduce bias retain complexity of
+either extremes base composition. development greatly benefit
+sequencing clinical samples often require amplification due low mass of
+dna starting material.
+
+doi: 10.1186/1471-2164-13-1 
+pmcid: pmc3312816
+pmid: 22214261  [indexed medline]
+

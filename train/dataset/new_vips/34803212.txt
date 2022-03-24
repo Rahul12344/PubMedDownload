@@ -1,0 +1,44 @@
+
+1. Eur J Oper Res. 2021 Nov 16. doi: 10.1016/j.ejor.2021.11.016. [Epub ahead of
+print]
+
+Design of control strategies to help prevent the spread of COVID-19 pandemic.
+
+Hosseini-Motlagh SM(1), Samani MRG(1), Homaei S(1).
+
+Author information: 
+(1)School of Industrial Engineering, Iran University of Science and Technology,
+University Ave, Narmak, 16846, Tehran, Iran.
+
+This paper proposes control strategies to allocate COVID-19 patients to screening
+facilities, health facilities, and quarantine facilities for minimizing the
+spread of the virus by these patients. To calculate the transmission rate, we
+propose a function that accounts for contact rate, duration of the contact, age
+structure of the population, susceptibility to infection, and the number of
+transmission events per contact. Moreover, the COVID-19 cases are divided into
+different groups according to the severity of their disease and are allocated to 
+appropriate health facilities that provide care tailored to their needs. The
+multi-stage fuzzy stochastic programming approach is applied to cope with
+uncertainty, in which the probability associated with nodes of the scenario tree 
+is treated as fuzzy variables. To handle the probabilistic model, we use a more
+flexible measure, M e measure, which allows decision-makers to adopt varying
+attitudes by assigning the optimistic-pessimistic parameter. This measure does
+not force decision-makers to hold extreme views and obtain the interval solution 
+that provides further information in the fuzzy environment. We apply the proposed
+model to the case of Tehran, Iran. The results of this study indicate that
+assigning patients to appropriate medical centers improves the performance of the
+healthcare system. The result analysis highlights the impact of the demographic
+differences on virus transmission, and the older population has a greater
+influence on virus transmission than other age groups. Besides, the results
+indicate that behavioral changes in the population and their vaccination play a
+key role in curbing COVID-19 transmission.
+
+© 2021 Published by Elsevier B.V.
+
+DOI: 10.1016/j.ejor.2021.11.016 
+PMCID: PMC8592648
+PMID: 34803212 
+
+Conflict of interest statement: The authors declare that they have no conflict of
+interest.
+

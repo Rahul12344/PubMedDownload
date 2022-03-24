@@ -1,0 +1,41 @@
+
+1. Nat Commun. 2020 May 11;11(1):2343. doi: 10.1038/s41467-020-15985-4.
+
+A deubiquitylase with an unusually high-affinity ubiquitin-binding domain from
+the scrub typhus pathogen Orientia tsutsugamushi.
+
+Berk JM(1), Lim C(1), Ronau JA(1)(2), Chaudhuri A(3), Chen H(1), Beckmann
+JF(1)(4), Loria JP(1)(3), Xiong Y(5), Hochstrasser M(6).
+
+Author information: 
+(1)Department of Molecular Biophysics and Biochemistry, Yale University, New
+Haven, CT, 06520, USA.
+(2)Discovery, Research and Development, AbbVie, Inc., North Chicago, IL, 60064,
+USA.
+(3)Department of Chemistry, Yale University, New Haven, CT, 06520, USA.
+(4)Department of Entomology and Plant Pathology, Auburn University, Auburn, AL,
+36830, USA.
+(5)Department of Molecular Biophysics and Biochemistry, Yale University, New
+Haven, CT, 06520, USA. yong.xiong@yale.edu.
+(6)Department of Molecular Biophysics and Biochemistry, Yale University, New
+Haven, CT, 06520, USA. mark.hochstrasser@yale.edu.
+
+Ubiquitin mediated signaling contributes critically to host cell defenses during 
+pathogen infection. Many pathogens manipulate the ubiquitin system to evade these
+defenses. Here we characterize a likely effector protein bearing a deubiquitylase
+(DUB) domain from the obligate intracellular bacterium Orientia tsutsugamushi,
+the causative agent of scrub typhus. The Ulp1-like DUB prefers ubiquitin
+substrates over ubiquitin-like proteins and efficiently cleaves polyubiquitin
+chains of three or more ubiquitins. The co-crystal structure of the DUB (OtDUB)
+domain with ubiquitin revealed three bound ubiquitins: one engages the S1 site,
+the second binds an S2 site contributing to chain specificity and the third binds
+a unique ubiquitin-binding domain (UBD). The UBD modulates OtDUB activity,
+undergoes a pronounced structural transition upon binding ubiquitin, and binds
+monoubiquitin with an unprecedented ~5 nM dissociation constant. The
+characterization and high-resolution structure determination of this enzyme
+should aid in its development as a drug target to counter Orientia infections.
+
+DOI: 10.1038/s41467-020-15985-4 
+PMCID: PMC7214410
+PMID: 32393759  [Indexed for MEDLINE]
+

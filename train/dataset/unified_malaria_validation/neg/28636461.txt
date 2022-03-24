@@ -1,0 +1,39 @@
+
+1. j comput biol. 2017 aug;24(8):809-830. doi: 10.1089/cmb.2017.0022. epub 2017 jun 
+21.
+
+genice: novel framework gene network inference clustering, exhaustive
+search, multivariate analysis.
+
+de souza jacomini r(1), martins dc jr(2), da silva fl(1), costa ahr(1).
+
+author information: 
+(1)1 escola politécnica da universidade de são paulo , são paulo, brazil .
+(2)2 universidade federal abc , santo andré, brazil .
+
+gene network (gn) inference temporal gene expression data crucial and
+challenging problem systems biology. expression data sets usually consist of
+dozens temporal samples, networks consist thousands genes, thus
+rendering many inference methods unfeasible practice. improve the
+scalability gn inference methods, propose novel framework called genice, 
+based probabilistic gns; main novelty introduction clustering 
+procedure group genes related expression profiles provide an
+approximate solution reduced computational complexity. use defined
+clusters perform exhaustive search retrieve best predictor gene
+subsets target gene, according multivariate criterion functions.
+genice greatly reduces search space predictor candidates are
+restricted one gene per cluster. finally, multivariate analysis performed
+for defined predictor subset retrieve minimal subsets simplify the
+network. experiments silico generated data sets, genice achieved
+substantial computational time reduction compared solutions without the
+clustering step, preserving gene expression prediction accuracy even
+when number clusters small (about 50) relative number genes
+(order thousands). plasmodium falciparum microarray data set, the
+prediction accuracy achieved genice roughly 97%, respective
+topologies involving glycolytic apicoplast seed genes large
+intramodularity, small interconnection modules, module hub 
+genes, reflecting small-world scale-free topological properties, expected.
+
+doi: 10.1089/cmb.2017.0022 
+pmid: 28636461  [indexed medline]
+

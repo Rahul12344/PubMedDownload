@@ -1,0 +1,47 @@
+
+1. J Biomol NMR. 2016 Nov;66(3):209-219. Epub 2016 Oct 22.
+
+Solution NMR structure of the HLTF HIRAN domain: a conserved module in SWI2/SNF2 
+DNA damage tolerance proteins.
+
+Korzhnev DM(1), Neculai D(2), Dhe-Paganon S(3), Arrowsmith CH(4)(5), Bezsonova
+I(6).
+
+Author information: 
+(1)Department of Molecular Biology and Biophysics, University of Connecticut
+Health, Farmington, CT, 06030, USA.
+(2)School of Medicine, Zhejiang University, Hangzhou, China.
+(3)Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, MA, 02215,
+USA.
+(4)Structural Genomics Consortium, University of Toronto, Toronto, ON, M5G 1L7,
+Canada.
+(5)Department of Medical Biophysics, Princess Margaret Cancer Centre, University 
+of Toronto, Toronto, ON, M5S 1A8, Canada.
+(6)Department of Molecular Biology and Biophysics, University of Connecticut
+Health, Farmington, CT, 06030, USA. bezsonova@uchc.edu.
+
+HLTF is a SWI2/SNF2-family ATP-dependent chromatin remodeling enzyme that acts in
+the error-free branch of DNA damage tolerance (DDT), a cellular mechanism that
+enables replication of damaged DNA while leaving damage repair for a later time. 
+Human HLTF and a closely related protein SHPRH, as well as their yeast homologue 
+Rad5, are multi-functional enzymes that share E3 ubiquitin-ligase activity
+required for activation of the error-free DDT. HLTF and Rad5 also function as
+ATP-dependent dsDNA translocases and possess replication fork reversal
+activities. Thus, they can convert Y-shaped replication forks into X-shaped
+Holliday junction structures that allow error-free replication over DNA lesions. 
+The fork reversal activity of HLTF is dependent on 3'-ssDNA-end binding activity 
+of its N-terminal HIRAN domain. Here we present the solution NMR structure of the
+human HLTF HIRAN domain, an OB-like fold module found in organisms from bacteria 
+(as a stand-alone domain) to plants, fungi and metazoan (in combination with
+SWI2/SNF2 helicase-like domain). The obtained structure of free HLTF HIRAN is
+similar to recently reported structures of its DNA bound form, while the NMR
+analysis also reveals that the DNA binding site of the free domain exhibits
+conformational heterogeneity. Sequence comparison of N-terminal regions of HLTF, 
+SHPRH and Rad5 aided by knowledge of the HLTF HIRAN structure suggests that the
+SHPRH N-terminus also includes an uncharacterized structured module, exhibiting
+weak sequence similarity with HIRAN regions of HLTF and Rad5, and potentially
+playing a similar functional role.
+
+DOI: 10.1007/s10858-016-0070-9 
+PMID: 27771863  [Indexed for MEDLINE]
+

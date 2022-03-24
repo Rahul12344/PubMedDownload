@@ -1,0 +1,34 @@
+
+1. Eur Biophys J. 1996;24(6):371-80.
+
+Solution studies of the SH2 domain from the fyn tyrosine kinase: secondary
+structure, backbone dynamics and protein association.
+
+Pintar A(1), Hensmann M, Jumel K, Pitkeathly M, Harding SE, Campbell ID.
+
+Author information: 
+(1)Department of Biochemistry, Oxford University, UK.
+
+The SH2 domain from Fyn tyrosine kinase, corresponding to residues 155-270 of the
+human enzyme, was expressed as a GST-fusion protein in a pGEX-E. coli system.
+After thrombin cleavage and removal of GST, the protein was studied by
+heteronuclear NMR. Two different phosphotyrosyl-peptides were synthesized and
+added to the SH2 domain. One peptide corresponded to the regulatory C-terminal
+tail region of Fyn. Sequence-specific assignment of NMR spectra was achieved
+using a combination of 1H-15N-correlated 2D HSQC, 15N-edited 3D TOCSY-HMQC, and
+15N-edited 3D NOESY-HMQC spectra. By analysis of the alpha-proton chemical shifts
+and NOE intensities, the positions of secondary structural elements were
+determined and found to correspond closely to that seen in the crystal structure 
+of the, homologous, Src-SH2 domain. To investigate the internal dynamics of the
+protein backbone, T1 and T2 relaxation parameters were measured on the free
+protein, as well as on both peptide complexes. Analytical ultracentrifugation and
+dynamic light scattering were employed to measure the effect of concentration and
+peptide-binding on self-association. The results suggest that, at NMR-sample
+concentrations, the free protein is present in at least dimeric form.
+Phosphopeptide binding and lower concentration significantly, but not completely,
+shift the equilibrium towards monomers. The possible role of this protein
+association in the regulation of the Src-family tyrosine kinases is discussed.
+
+DOI: 10.1007/BF00576709 
+PMID: 8765711  [Indexed for MEDLINE]
+

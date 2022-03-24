@@ -1,0 +1,56 @@
+
+1. Appl Environ Microbiol. 2021 Jan 15;87(3). pii: e02481-20. doi:
+10.1128/AEM.02481-20. Print 2021 Jan 15.
+
+The Entner-Doudoroff Pathway Is an Essential Metabolic Route for
+Methylotuvimicrobium buryatense 5GB1C.
+
+He L(1), Groom JD(2), Lidstrom ME(2)(3).
+
+Author information: 
+(1)Department of Chemical Engineering, University of Washington, Seattle,
+Washington, USA lianhe@uw.edu.
+(2)Department of Chemical Engineering, University of Washington, Seattle,
+Washington, USA.
+(3)Department of Microbiology, University of Washington, Seattle, Washington,
+USA.
+
+Methylotuvimicrobium buryatense 5GB1C, a fast-growing gammaproteobacterial
+methanotroph, is equipped with two glycolytic pathways, the Entner-Doudoroff (ED)
+pathway and the Embden-Meyerhof-Parnas (EMP) pathway. Metabolic flux analysis and
+13C-labeling experiments have shown the EMP pathway is the principal glycolytic
+route in M. buryatense 5GB1C, while the ED pathway appears to be metabolically
+and energetically insignificant. However, it has not been possible to obtain a
+null mutant in the edd-eda genes encoding the two unique enzymatic reactions in
+the ED pathway, suggesting the ED pathway may be essential for M. buryatense
+5GB1C growth. In this study, the inducible P BAD promoter was used to manipulate 
+gene expression of edd-eda, and in addition, the expression of these two genes
+was separated from that of a downstream gltA gene. The resulting strain shows
+arabinose-dependent growth that correlates with ED pathway activity, with normal 
+growth achieved in the presence of ∼0.1 g/liter arabinose. Flux balance analysis 
+shows that M. buryatense 5GB1C with a strong ED pathway has a reduced energy
+budget, thereby limiting the mutant growth at a high concentration of arabinose. 
+Collectively, our study demonstrates that the ED pathway is essential for M.
+buryatense 5GB1C. However, no known mechanism can directly explain the
+essentiality of the ED pathway, and thus, it may have a yet unknown regulatory
+role required for sustaining a healthy and functional metabolism in this
+bacterium.IMPORTANCE The gammaproteobacterial methanotrophs possess a unique
+central metabolic architecture where methane and other reduced C1 carbon sources 
+are assimilated through the ribulose monophosphate cycle. Although efforts have
+been made to better understand methanotrophic metabolism in these bacteria via
+experimental and computational approaches, many questions remain unanswered. One 
+of these is the essentiality of the ED pathway for M. buryatense 5GB1C, as
+current results appear contradictory. By creating a construct with edd-eda and
+gltA genes controlled by P BAD and P J23101 , respectively, we demonstrated the
+essentiality of the ED pathway for this obligate methanotroph. It is also
+demonstrated that these genetic tools are applicable to M. buryatense 5GB1C and
+that expression of the target genes can be tightly controlled across an extensive
+range. Our study adds to the expanding knowledge of methanotrophic metabolism and
+practical approaches to genetic manipulation for obligate methanotrophs.
+
+Copyright © 2021 American Society for Microbiology.
+
+DOI: 10.1128/AEM.02481-20 
+PMCID: PMC7848903 [Available on 2021-07-15]
+PMID: 33218997  [Indexed for MEDLINE]
+

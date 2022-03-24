@@ -1,0 +1,41 @@
+
+1. Appl Environ Microbiol. 2015 Jul;81(13):4253-62. doi: 10.1128/AEM.00377-15. Epub 
+2015 Apr 17.
+
+BadR and BadM Proteins Transcriptionally Regulate Two Operons Needed for
+Anaerobic Benzoate Degradation by Rhodopseudomonas palustris.
+
+Hirakawa H(1), Hirakawa Y(1), Greenberg EP(1), Harwood CS(2).
+
+Author information: 
+(1)Department of Microbiology, University of Washington, Seattle, Washington,
+USA.
+(2)Department of Microbiology, University of Washington, Seattle, Washington, USA
+csh5@uw.edu.
+
+The bacterium Rhodopseudomonas palustris grows with the aromatic acid benzoate
+and the alicyclic acid cyclohexanecarboxylate (CHC) as sole carbon sources. The
+enzymatic steps in an oxygen-independent pathway for CHC degradation have been
+elucidated, but it was unknown how the CHC operon (badHI aliAB badK) encoding the
+enzymes for CHC degradation was regulated. aliA and aliB encode enzymes for the
+conversion of CHC to cyclohex-1-enecarboxyl-coenzyme A (CHene-CoA). At this
+point, the pathway for CHC degradation merges with the pathway for anaerobic
+benzoate degradation, as CHene-CoA is an intermediate in both degradation
+pathways. Three enzymes, encoded by badK, badH, and badI, prepare and cleave the 
+alicyclic ring of CHene-CoA to yield pimelyl-CoA. Here, we show that the MarR
+transcription factor family member, BadR, represses transcription of the CHC
+operon by binding near the transcription start site of badH.
+2-Ketocyclohexane-1-carboxyl-CoA, an intermediate of CHC and benzoate
+degradation, interacts with BadR to abrogate repression. We also present evidence
+that the transcription factor BadM binds to the promoter of the badDEFGAB (Bad)
+operon for the anaerobic conversion of benzoate to CHene-CoA to repress its
+expression. Contrary to previous reports, BadR does not appear to control
+expression of the Bad operon. These data enhance our view of the transcriptional 
+regulation of anaerobic benzoate degradation by R. palustris.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/AEM.00377-15 
+PMCID: PMC4475878
+PMID: 25888170  [Indexed for MEDLINE]
+

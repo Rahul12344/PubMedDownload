@@ -1,0 +1,37 @@
+
+1. Biosensors (Basel). 2021 Oct 7;11(10). pii: 376. doi: 10.3390/bios11100376.
+
+Design and Analysis of a Single System of Impedimetric Biosensors for the
+Detection of Mosquito-Borne Viruses.
+
+Nasrin F(1), Tsuruga K(2), Utomo DIS(3), Chowdhury AD(1), Park EY(1)(2)(3).
+
+Author information: 
+(1)Laboratory of Biotechnology, Research Institute of Green Science and
+Technology, Shizuoka University, 836 Ohya, Suruga-ku, Shizuoka 422-8529, Japan.
+(2)Laboratory of Biotechnology, Department of Agriculture, Graduate School of
+Integrated Science and Technology, Shizuoka University, 836 Ohya, Suruga-ku,
+Shizuoka 422-8529, Japan.
+(3)Laboratory of Biotechnology, Graduate School of Science and Technology,
+Shizuoka University, 836 Ohya, Suruga-ku, Shizuoka 422-8529, Japan.
+
+The treatment for mosquito-borne viral diseases such as dengue virus (DENV), zika
+virus (ZIKV), and chikungunya virus (CHIKV) has become difficult due to delayed
+diagnosis processes. In addition, sharing the same transmission media and similar
+symptoms at the early stage of infection of these diseases has become more
+critical for early diagnosis. To overcome this, a common platform that can
+identify the virus with high sensitivity and selectivity, even for the different 
+serotypes, is in high demand. In this study, we have attempted an electrochemical
+impedimetric method to detect the ZIKV, DENV, and CHIKV using their corresponding
+antibody-conjugated sensor electrodes. The significance of this method is
+emphasized on the fabrication of a common matrix of gold-polyaniline and sulfur, 
+nitrogen-doped graphene quantum dot nanocomposites (Au-PAni-N,S-GQDs), which have
+a strong impedimetric response based only on the conjugated antibody, resulting
+in minimum cross-reactivity for the detection of various mosquito-borne viruses, 
+separately. As a result, four serotypes of DENV and ZIKV, and CHIKV have been
+detected successfully with an LOD of femtogram mL-1.
+
+DOI: 10.3390/bios11100376 
+PMCID: PMC8533959
+PMID: 34677332 
+

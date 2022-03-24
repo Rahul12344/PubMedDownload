@@ -1,0 +1,45 @@
+
+1. J Pharmacokinet Pharmacodyn. 2021 Nov 13. doi: 10.1007/s10928-021-09795-4. [Epub 
+ahead of print]
+
+Experimental and computational assessment of the synergistic pharmacodynamic
+drug-drug interactions of a triple combination therapy in refractory
+HER2-positive breast cancer cells.
+
+Vaidya TR(1), Ait-Oudhia S(2).
+
+Author information: 
+(1)Center for Pharmacometrics and Systems Pharmacology, Department of
+Pharmaceutics, College of Pharmacy, University of Florida, Orlando, FL, USA.
+(2)Merck & Co., Inc, Kenilworth, NJ, USA. sb.manuscript.submission@gmail.com.
+
+The development of innate and/or acquired resistance to human epidermal growth
+factor receptor type-2 (HER2)-targeted therapy in HER2-positive breast cancer
+(HER2 + BC) is a major clinical challenge that needs to be addressed. One of the 
+main mechanisms of resistance includes aberrant activation of the HER2 and
+phosphatidylinositol 3-kinase/AKT8 virus oncogene cellular homolog/mammalian
+target of rapamycin (PI3K/Akt/mTOR) pathways. In the present work, we propose to 
+use a triple combination therapy to combat this resistance phenomenon. Our
+strategy involves evaluation of two targeted small molecule agents, everolimus
+and dasatinib, with complementary inhibitory circuitries in the PI3K/Akt/mTOR
+pathway, along with a standard cytotoxic agent, paclitaxel. Everolimus inhibits
+mTOR, while dasatinib inhibits Src, which is a protein upstream of Akt. An
+over-activation of these two proteins has been implicated in approximately 50% of
+HER2 + BC cases. Hence, we hypothesize that their simultaneous inhibition may
+lead to enhanced cell-growth inhibition. Moreover, the potent apoptotic effects
+of paclitaxel may help augment the overall cytotoxicity of the proposed triple
+combination in HER2 + BC cells. To this end, we investigated experimentally and
+assessed computationally the in vitro pharmacodynamic drug-drug interactions of
+the various dual and triple combinations to assess their subsequent combinatorial
+effects (synergistic/additive/antagonistic) in a HER2-therapy resistant BC cell
+line, JIMT-1. Our proposed triple combination therapy demonstrated synergism in
+JIMT-1 cells, thus corroborating our hypothesis. This effort may form the basis
+for further investigation of the triple combination therapy in vivo at a
+mechanistic level in HER2-therapy resistant BC cells.
+
+© 2021. The Author(s), under exclusive licence to Springer Science+Business
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s10928-021-09795-4 
+PMID: 34773540 
+

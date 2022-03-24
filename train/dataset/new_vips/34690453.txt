@@ -1,0 +1,48 @@
+
+1. Vegetos. 2021 Oct 19:1-15. doi: 10.1007/s42535-021-00304-z. [Epub ahead of print]
+
+Computational screening of natural compounds from Salvia plebeia R. Br. for
+inhibition of SARS-CoV-2 main protease.
+
+Zackria AA(#)(1), Pattabiraman R(#)(1), Murthy TPK(1), Kumar SB(1), Mathew BB(2),
+Biju VG(3).
+
+Author information: 
+(1)Department of Biotechnology, M S Ramaiah Institute of Technology, Bengaluru,
+Karnataka 560054 India.
+(2)Department of Biotechnology, Dayananda Sagar College of Engineering,
+Bengaluru, Karnataka 560078 India.
+(3)Department of Computer Science and Engineering, Christ (Deemed-to-be
+University), Bengaluru, Karnataka 560060 India.
+(#)Contributed equally
+
+The novel Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV-2) has emerged 
+to be the reason behind the COVID-19 pandemic. It was discovered in Wuhan, China 
+and then began spreading around the world, impacting the health of millions.
+Efforts for treatment have been hampered as there are no antiviral drugs that are
+effective against this virus. In the present study, we have explored the
+phytochemical constituents of Salvia plebeia R. Br., in terms of its binding
+affinity by targeting COVID-19 main protease (Mpro) using computational analysis.
+Molecular docking analysis was performed using PyRx software. The ADMET and
+drug-likeness properties of the top 10 compounds showing binding affinity greater
+than or equal to - 8.0 kcal/mol were analysed using pkCSM and DruLiTo,
+respectively. Based on the docking studies, it was confirmed that Rutin and
+Plebeiosides B were the most potent inhibitors of the main protease of SARS-CoV-2
+with the best binding affinities of - 9.1 kcal/mol and - 8.9 kcal/mol,
+respectively. Further, the two compounds were analysed by studying their
+biological activity using the PASS webserver. Molecular dynamics simulation
+analysis was performed for the selected protein-ligand complexes to confirm their
+stability at 300 ns. MM-PBSA provided the basis for analyzing the affinity of the
+phytochemicals towards Mpro by calculating the binding energy, and secondary
+structure analysis indicated the stability of protease structure when it is bound
+to Rutin and Plebeiosides B. Altogether, the study identifies Rutin and
+Plebeiosides B to be potent Mpro inhibitors of SARS-CoV-2.Supplementary
+Information: The online version contains supplementary material available at
+10.1007/s42535-021-00304-z.
+
+© Society for Plant Research 2021.
+
+DOI: 10.1007/s42535-021-00304-z 
+PMCID: PMC8523934
+PMID: 34690453 
+

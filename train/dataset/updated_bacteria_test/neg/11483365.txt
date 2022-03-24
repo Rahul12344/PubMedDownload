@@ -1,0 +1,35 @@
+
+1. Gene. 2001 Jul 25;273(1):97-104.
+
+The TGV transgenic vectors for single-copy gene expression from the Escherichia
+coli chromosome.
+
+Gumbiner-Russo LM(1), Lombardo MJ, Ponder RG, Rosenberg SM.
+
+Author information: 
+(1)Department of Molecular and Human Genetics, Baylor College of Medicine,
+Houston, TX 77030-3411, USA.
+
+Plasmid-based cloning and expression of genes in Escherichia coli can have
+several problems: plasmid destabilization; toxicity of gene products; inability
+to achieve complete repression of gene expression; non-physiological
+overexpression of the cloned gene; titration of regulatory proteins; and the
+requirement for antibiotic selection. We describe a simple system for cloning and
+expression of genes in single copy in the E. coli chromosome, using a
+non-antibiotic selection for transgene insertion. The transgene is inserted into 
+a vector containing homology to the chromosomal region flanking the attachment
+site for phage lambda. This vector is then linearized and introduced into a
+recombination-proficient E. coli strain carrying a temperature-sensitive lambda
+prophage. Selection for replacement of the prophage with the transgene is
+performed at high temperature. Once in the chromosome, transgenes can be moved
+into other lysogenic E. coli strains using standard phage-mediated transduction
+techniques, selecting against a resident prophage. Additional vector constructs
+provide an arabinose-inducible promoter (P(BAD)), P(BAD) plus a
+translation-initiation sequence, and optional chloramphenicol-, tetracycline-, or
+kanamycin-resistance cassettes. These Transgenic E. coli Vectors (TGV) allow
+drug-free, single-copy expression of genes from the E. coli chromosome, and are
+useful for genetic studies of gene function.
+
+DOI: 10.1016/s0378-1119(01)00565-0 
+PMID: 11483365  [Indexed for MEDLINE]
+

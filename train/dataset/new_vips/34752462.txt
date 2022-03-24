@@ -1,0 +1,43 @@
+
+1. PLoS One. 2021 Nov 9;16(11):e0258868. doi: 10.1371/journal.pone.0258868.
+eCollection 2021.
+
+Network percolation reveals adaptive bridges of the mobility network response to 
+COVID-19.
+
+Deng H(1), Du J(2), Gao J(3), Wang Q(1).
+
+Author information: 
+(1)Department of Civil and Environmental Engineering, Northeastern University,
+Boston, MA, United States of America.
+(2)Department of Civil and Coastal Engineering, University of Florida,
+Gainsville, FL, United States of America.
+(3)Department of Computer Science and Center for Network Science and Technology, 
+Rensselaer Polytechnic Institute, Troy, NY, United States of America.
+
+Human mobility is crucial to understand the transmission pattern of COVID-19 on
+spatially embedded geographic networks. This pattern seems unpredictable, and the
+propagation appears unstoppable, resulting in over 350,000 death tolls in the
+U.S. by the end of 2020. Here, we create the spatiotemporal inter-county mobility
+network using 10 TB (Terabytes) trajectory data of 30 million smart devices in
+the U.S. in the first six months of 2020. We investigate the bond percolation
+process by removing the weakly connected edges. As we increase the threshold, the
+mobility network nodes become less interconnected and thus experience
+surprisingly abrupt phase transitions. Despite the complex behaviors of the
+mobility network, we devised a novel approach to identify a small, manageable set
+of recurrent critical bridges, connecting the giant component and the
+second-largest component. These adaptive links, located across the United States,
+played a key role as valves connecting components in divisions and regions during
+the pandemic. Beyond, our numerical results unveil that network characteristics
+determine the critical thresholds and the bridge locations. The findings provide 
+new insights into managing and controlling the connectivity of mobility networks 
+during unprecedented disruptions. The work can also potentially offer practical
+future infectious diseases both globally and locally.
+
+DOI: 10.1371/journal.pone.0258868 
+PMCID: PMC8577732
+PMID: 34752462  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,53 @@
+
+1. bmc biol. 2020 aug 11;18(1):98. doi: 10.1186/s12915-020-00834-z.
+
+modelling suppression malaria vector using crispr-cas9 gene drive to
+reduce female fertility.
+
+north ar(1), burt a(2), godfray hcj(3).
+
+author information: 
+(1)department zoology, university oxford, oxford, uk.
+ace.north@zoo.ox.ac.uk.
+(2)imperial college, london, uk.
+(3)oxford martin school, university oxford, oxford, uk.
+
+background: gene drives based crispr-cas9 technology increasingly being
+considered tools reducing capacity mosquito populations transmit
+malaria, one promising options driving endonuclease genes that
+reduce fertility female mosquitoes. particular, much interest 
+in constructs target conserved mosquito doublesex (dsx) gene that
+the emergence functional drive-resistant alleles unlikely. proof of
+principle constructs lead substantial population suppression
+has obtained population cages, evaluated use in
+sub-saharan africa. here, use simulation modelling understand factors
+affecting spread type gene drive one million-square
+kilometre area west africa containing substantial environmental social
+heterogeneity.
+results: found driving endonuclease gene targeting female fertility
+could lead substantial reductions malaria vector populations regional 
+scale. exact level suppression influenced additional fitness costs
+of transgene somatic expression cas9, deposition in
+sperm eggs leading damage zygote. absence costs, 
+of emergent drive-resistant alleles restore female fertility, population
+suppression across study area predicted stabilise ~ 95% 4 years
+after releases commence. small additional fitness costs greatly affect
+levels suppression, though fertility females whose offspring
+transmit construct drops ~ 40%, population suppression is
+much less efficient. show suppression potential drive allele with
+high fitness costs enhanced engineering also express male bias in
+the progeny transgenic males. irrespective strength drive
+allele, spatial model predicts somewhat less suppression equivalent
+non-spatial models, particular highly seasonal regions dry season
+stochasticity reduces drive efficiency. explored robustness these
+results uncertainties mosquito ecology, particular method of
+surviving dry season dispersal rates.
+conclusions: modelling presented indicates considerable suppression
+of vector populations achieved within years using female
+sterility gene drive, though impact likely heterogeneous space
+and time.
+
+doi: 10.1186/s12915-020-00834-z 
+pmcid: pmc7422583
+pmid: 32782000 
+

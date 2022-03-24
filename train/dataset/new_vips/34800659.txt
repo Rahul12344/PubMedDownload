@@ -1,0 +1,82 @@
+
+1. Ann Epidemiol. 2021 Nov 17. pii: S1047-2797(21)00321-5. doi:
+10.1016/j.annepidem.2021.11.001. [Epub ahead of print]
+
+Design of a population-based longitudinal cohort study of SARS-CoV-2 incidence
+and prevalence among adults in the San Francisco Bay Area.
+
+Lindan CP(1), Desai M(2), Boothroyd D(2), Judson T(3), Bollyky J(4), Sample H(5),
+Weng Y(2), Cheng Y(6), Dahlen A(7), Hedlin H(2), Grumbach K(8), Henne J(9),
+Garcia S(9), Gonzales R(10), Craik CS(11), Maldonado Y(12), Rutherford G(13).
+
+Author information: 
+(1)Department of Epidemiology and Biostatistics, University of California San
+Francisco, 550 16(th) Street, Suite 200, San Francisco, CA 94143; Institute for
+Global Health Sciences, University of California San Francisco, Mission Hall, 550
+16(th) Street, Suite 300, San Francisco, CA 94143. Electronic address:
+krysia.lindan@ucsf.edu.
+(2)Quantitative Sciences Unit, School of Medicine, Stanford University. 1070
+Arastradero Road, Palo Alto, CA 94304.
+(3)Department of Medicine, University of California San Francisco, 350 Parnassus 
+Ave, San Francisco, CA 94117; Office of Population Health, University of
+California San Francisco, 8000 Marina  Blvd., Suite 600, Brisbane, CA 94005.
+(4)Division of Primary Care & Population Health, School of Medicine, Stanford
+University, 211 Quarry Rd, Stanford, CA 94305.
+(5)Department of Epidemiology and Biostatistics, University of California San
+Francisco, 550 16(th) Street, Suite 200, San Francisco, CA 94143.
+(6)Institute for Scientific Analysis, 1150 Ballena Blvd Suite 211, Alameda, Ca
+94501; The Henne Group, 425 2nd St #400, San Francisco, CA 94107.
+(7)The Chan-Zuckerberg Initiative, Redwood City, CA 94063.
+(8)Department of Family and Community Medicine, University of California San
+Francisco., San Francisco General Hospital, Ward 83, 1001 Potrero Avenue, San
+Francisco, CA 94110; Office of Population Health, University of California San
+Francisco, 8000 Marina  Blvd., Suite 600, Brisbane, CA 94005.
+(9)Institute for Scientific Analysis, 1150 Ballena Blvd Suite 211, Alameda, Ca
+94501.
+(10)Department of Medicine, University of California San Francisco, 350 Parnassus
+Ave, San Francisco, CA 94117.
+(11)Department of Pharmaceutical Chemistry, University of California San
+Francisco, Genentech Hall, 600 16th Street, S-512C, San Francisco, CA 94143.
+(12)Department of Pediatrics, School of Medicine, Stanford University, 300
+Pasteur Drive Stanford, CA 94305.
+(13)Department of Epidemiology and Biostatistics, University of California San
+Francisco, 550 16(th) Street, Suite 200, San Francisco, CA 94143; Institute for
+Global Health Sciences, University of California San Francisco, Mission Hall, 550
+16(th) Street, Suite 300, San Francisco, CA 94143.
+
+PURPOSE: We describe the design of a longitudinal cohort study to determine
+SARS-CoV-2 incidence and prevalence among a population-based sample of adults
+living in six San Francisco Bay Area counties.
+METHODS: Using an address-based sample, we stratified households by county and by
+census-tract risk. Risk strata were determined by using regression models to
+predict infections by geographic area using census-level sociodemographic and
+health characteristics. We disproportionately sampled high and medium risk
+strata, which had smaller population sizes, to improve precision of estimates,
+and calculated a desired sample size of 3400. Participants were primarily
+recruited by mail and were followed monthly with PCR testing of nasopharyngeal
+swabs, testing of venous blood samples for antibodies to SARS-CoV-2 spike and
+nucleocapsid antigens, and testing of the presence of neutralizing antibodies,
+with completion of questionnaires about socio-demographics and behavior.
+Estimates of incidence and prevalence will be weighted by county, risk strata and
+sociodemographic characteristics of non-responders, and will take into account
+laboratory test performance.
+RESULTS: We enrolled 3842 adults from August to December, 2020, and completed
+follow-up March 31, 2021. We reached target sample sizes within most strata.
+CONCLUSIONS: Our stratified random sampling design will allow us to recruit a
+robust general population cohort of adults to determine the incidence of
+SARS-CoV-2 infection. Identifying risk strata was unique to the design and will
+help ensure precise estimates, and high-performance testing for presence of virus
+and antibodies will enable accurate ascertainment of infections.
+
+Copyright © 2021. Published by Elsevier Inc.
+
+DOI: 10.1016/j.annepidem.2021.11.001 
+PMCID: PMC8596645
+PMID: 34800659 
+
+Conflict of interest statement: Competing Interests Statement All the authors
+listed below for the submission of the following manuscript declare that there
+are no financial interests or personal relationships that may be considered as
+potential competing interests, or that have inappropriately influenced their
+contribution to this study or the paper.
+

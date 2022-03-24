@@ -1,0 +1,41 @@
+
+1. Integr Biol (Camb). 2015 Nov;7(11):1387-95. doi: 10.1039/c5ib00058k.
+
+The influence of hypermodified nucleosides lysidine and t(6)A to recognize the
+AUA codon instead of AUG: a molecular dynamics simulation study.
+
+Sonawane KD(1), Sambhare SB(2).
+
+Author information: 
+(1)Structural Bioinformatics Unit, Department of Biochemistry, Shivaji
+University, Kolhapur-416 004, Maharashtra, India. kds_biochem@unishivaji.ac.in
+and Department of Microbiology, Shivaji University, Kolhapur- 416 004,
+Maharashtra, India.
+(2)Structural Bioinformatics Unit, Department of Biochemistry, Shivaji
+University, Kolhapur-416 004, Maharashtra, India. kds_biochem@unishivaji.ac.in.
+
+Hypermodified nucleosides lysidine (L) and N(6)-threonylcarbamoyladenosine
+(t(6)A) influence codon-anticodon interactions during the protein biosynthesis
+process. Lysidine prevents the misrecognition of the AUG codon as isoleucine and 
+that of AUA as methionine. The structural significance of these modified bases
+has not been studied in detail at the atomic level. Hence, in the present study
+we performed multiple molecular dynamics (MD) simulations of anticodon stem loop 
+(ASL) of tRNA(Ile) in the presence and absence of modified bases 'L' and 't(6)A' 
+at the 34th and 37th positions respectively along with trinucleotide 'AUA' and
+'AUG' codons. Hydrogen bonding interactions formed by the tautomeric form of
+lysidine may assist in reading the third base adenine of the 'AUA' codon, unlike 
+the guanine of the 'AUG' codon. Such interactions might be useful to restrict
+codon specificity to recognize isoleucine tRNA instead of methionine tRNA. The
+t(6)A side chain interacts with the purine ring of the first codon nucleotide
+adenine, which might provide base stacking interactions and could be responsible 
+for restricting extended codon-anticodon recognition. We found that ASL tRNA(Ile)
+in the absence of modifications at the 34th and 37th positions cannot establish
+proper hydrogen bonding interactions to recognize the isoleucine codon 'AUA' and 
+subsequently disturbs the anticodon loop structure. The binding free energy
+calculations revealed that tRNA(Ile) ASL with modified nucleosides prefers the
+codon AUA over AUG. Thus, these findings might be useful to understand the role
+of modified bases L and t(6)A to recognize the AUA codon instead of AUG.
+
+DOI: 10.1039/c5ib00058k 
+PMID: 26215455  [Indexed for MEDLINE]
+

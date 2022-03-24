@@ -1,0 +1,45 @@
+
+1. PLoS Genet. 2021 Nov 4;17(11):e1009885. doi: 10.1371/journal.pgen.1009885.
+eCollection 2021 Nov.
+
+Serotonin transporter-mediated molecular axis regulates regional retinal ganglion
+cell vulnerability and axon regeneration after nerve injury.
+
+Kingston R(1), Amin D(1), Misra S(1), Gross JM(1)(2), Kuwajima T(1).
+
+Author information: 
+(1)Department of Ophthalmology, The Louis J. Fox Center for Vision Restoration,
+Pittsburgh, Pennsylvania, United States of America.
+(2)Department of Developmental Biology, The McGowan Institute for Regenerative
+Medicine, The University of Pittsburgh School of Medicine, Pittsburgh,
+Pennsylvania, United States of America.
+
+Molecular insights into the selective vulnerability of retinal ganglion cells
+(RGCs) in optic neuropathies and after ocular trauma can lead to the development 
+of novel therapeutic strategies aimed at preserving RGCs. However, little is
+known about what molecular contexts determine RGC susceptibility. In this study, 
+we show the molecular mechanisms underlying the regional differential
+vulnerability of RGCs after optic nerve injury. We identified RGCs in the mouse
+peripheral ventrotemporal (VT) retina as the earliest population of RGCs
+susceptible to optic nerve injury. Mechanistically, the serotonin transporter
+(SERT) is upregulated on VT axons after injury. Utilizing SERT-deficient mice,
+loss of SERT attenuated VT RGC death and led to robust retinal axon regeneration.
+Integrin β3, a factor mediating SERT-induced functions in other systems, is also 
+upregulated in RGCs and axons after injury, and loss of integrin β3 led to VT RGC
+protection and axon regeneration. Finally, RNA sequencing analyses revealed that 
+loss of SERT significantly altered molecular signatures in the VT retina after
+optic nerve injury, including expression of the transmembrane protein, Gpnmb.
+GPNMB is rapidly downregulated in wild-type, but not SERT- or integrin
+β3-deficient VT RGCs after injury, and maintaining expression of GPNMB in RGCs
+via AAV2 viruses even after injury promoted VT RGC survival and axon
+regeneration. Taken together, our findings demonstrate that the SERT-integrin
+β3-GPNMB molecular axis mediates selective RGC vulnerability and axon
+regeneration after optic nerve injury.
+
+DOI: 10.1371/journal.pgen.1009885 
+PMCID: PMC8594818
+PMID: 34735454 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

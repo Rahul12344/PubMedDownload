@@ -1,0 +1,42 @@
+
+1. J Clin Microbiol. 2007 Oct;45(10):3251-6. Epub 2007 Aug 8.
+
+External quality assessment of a DNA sequence-based scheme for epidemiological
+typing of Legionella pneumophila by an international network of laboratories.
+
+Afshar B(1), Fry NK, Bellamy W, Underwood AP, Harrison TG; Members of the
+European Working Group for Legionella Infections.
+
+Author information: 
+(1)Respiratory and Systemic Infection Laboratory, Health Protection Agency,
+Centre for Infections, 61 Colindale Avenue, London NW9 5EQ, United Kingdom.
+Baharak.Afshar@HPA.org.uk
+
+We report the results of an international external quality assessment (EQA)
+program to assess the performance of laboratories in genotyping Legionella
+pneumophila isolates using the standard European Working Group for Legionella
+Infections sequence-based typing protocol. Three coded distributions of L.
+pneumophila isolates were sent to laboratories in 12, 14, and 20 countries,
+respectively. The data were returned by 11 of 16, 18 of 19, and 27 of 29 centers,
+respectively. Incomplete submission of data resulted in exclusion from certain
+aspects of the analyses. The number of centers achieving 100% score, for all loci
+tested, rose successively from 50% (5 of 10) for the first EQA distribution, to
+56% (9 of 16) for the second EQA distribution, to 76% (19 of 25) for the third
+EQA distribution. A number of additional centers made only a few errors (one to
+three) in each distribution. Sequence data from the first two distributions were 
+collected in flat text file format and using specially developed software, the
+sequence quality tool (SQT), in the third distribution. The SQT allows users to
+upload trace files in standard file formats, automates basecalling using phred
+and phrap software, contig assembly, trimming, and matching against a reference
+library. The program described here allow users an independent measure of
+sequence quality, and such schemes are vital in order to identify strengths and
+weakness in centers responsible for the generation of genotyping data in
+legionella outbreak investigation. The present study demonstrates that DNA
+sequence data can be highly reproducible but, when independently assessed, in
+practice frequently falls short of this goal. However, experience and training in
+the methodology results in increased performance.
+
+DOI: 10.1128/JCM.00898-07 
+PMCID: PMC2045376
+PMID: 17687012  [Indexed for MEDLINE]
+

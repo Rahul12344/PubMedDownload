@@ -1,0 +1,50 @@
+
+1. BMC Genomics. 2021 Dec 6;22(1):882. doi: 10.1186/s12864-021-08164-2.
+
+QTL and candidate gene identification of the node of the first fruiting branch
+(NFFB) by QTL-seq in upland cotton (Gossypium hirsutum L.).
+
+Zhang J(1), Jia X(2), Guo X(1), Wei H(1), Zhang M(1), Wu A(1), Cheng S(1), Cheng 
+X(1), Yu S(3), Wang H(4).
+
+Author information: 
+(1)State Key Laboratory of Cotton Biology, Institute of Cotton Research of
+Chinese Academy of Agricultural Sciences, Anyang, 455000, Henan, China.
+(2)Hebei Laboratory of Crop Genetics and Breeding, Institute of Cereal and Oil
+Crops, Hebei Academy of Agriculture and Forestry Sciences, Shijiazhuang, 050051, 
+Hebei, China.
+(3)State Key Laboratory of Cotton Biology, Institute of Cotton Research of
+Chinese Academy of Agricultural Sciences, Anyang, 455000, Henan, China.
+ysx195311@163.com.
+(4)State Key Laboratory of Cotton Biology, Institute of Cotton Research of
+Chinese Academy of Agricultural Sciences, Anyang, 455000, Henan, China.
+w.wanghantao@163.com.
+
+BACKGROUND: The node of the first fruiting branch (NFFB) is an important
+precocious trait in cotton. Many studies have been conducted on the localization 
+of quantitative trait loci (QTLs) and genes related to fiber quality and yield,
+but there has been little attention to traits related to early maturity,
+especially the NFFB, in cotton.
+RESULTS: To identify the QTL associated with the NFFB in cotton, a BC4F2
+population comprising 278 individual plants was constructed. The parents and two 
+DNA bulks for high and low NFFB were whole genome sequenced, and 243.8 Gb of
+clean nucleotide data were generated. A total of 449,302 polymorphic SNPs and
+135,353 Indels between two bulks were identified for QTL-seq. Seventeen QTLs were
+detected and localized on 11 chromosomes in the cotton genome, among which two
+QTLs (qNFFB-Dt2-1 and qNFFB-Dt3-3) were located in hotspots. Two candidate genes 
+(GhAPL and GhHDA5) related to the NFFB were identified using quantitative
+real-time PCR (qRT-PCR) and virus-induced gene silencing (VIGS) experiments in
+this study. Both genes exhibited higher expression levels in the early-maturing
+cotton material RIL182 during flower bud differentiation, and the silencing of
+GhAPL and GhHDA5 delayed the flowering time and increased the NFFB compared to
+those of VA plants in cotton.
+CONCLUSIONS: Our study preliminarily found that GhAPL and GhHDA5 are related to
+the early maturity in cotton. The findings provide a basis for the further
+functional verification of candidate genes related to the NFFB and contribute to 
+the study of early maturity in cotton.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12864-021-08164-2 
+PMID: 34872494 
+

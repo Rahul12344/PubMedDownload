@@ -1,0 +1,47 @@
+
+1. f1000res. 2016 aug 8;5. pii: iscb comm j-1932. doi:
+10.12688/f1000research.9093.1. ecollection 2016.
+
+cluster analysis plasmodium rna-seq time-course data identifies stage-specific
+co-regulated biological processes regulatory elements.
+
+ashano e(#)(1), isewon i(#)(1)(2), oyelade j(1)(2), adebiyi e(1)(2)(3).
+
+author information: 
+(1)covenant university bioinformatics research (cubre), covenant university, ota,
+ogun state, 110001, nigeria.
+(2)department computer information sciences, covenant university, ota,
+ogun state, 110001, nigeria.
+(3)division applied bioinformatics, german cancer research center (dkfz),
+heidelberg,, 69120, germany.
+(#)contributed equally
+
+in study, interpreted rna-seq time-course data three developmental
+stages plasmodium species clustering genes based similarities their
+expression profile without prior knowledge gene function. functional
+enrichment clusters upregulated genes specific time-points reveals
+potential targetable biological processes information timings. we
+identified common consensus sequences clusters shared potential
+points coordinated transcriptional control. five cluster groups showed
+upregulated profile patterns biological interest. included two clusters
+from intraerythrocytic developmental cycle (cluster 4 = 16 genes, cluster
+9 = 32 genes), one sexual development stage (cluster 2 = 851 genes), and
+two gamete-fertilization stage mosquito host (cluster 4 = 153
+genes, cluster 9 = 258 genes). idc expressed least numbers genes
+with 1448 genes showing significant activity 5020 genes (~29%) in
+the experiment. gene ontology (go) enrichment analysis clusters revealed
+a total 671 uncharacterized genes implicated 14 biological processes and
+components associated stages, currently being
+investigated drug targets on-going research. five putative transcription
+regulatory binding motifs shared members cluster also identified,
+one also identified previous study separate researchers. our
+study shows stage-specific genes biological processes may important
+in antimalarial drug research efforts. addition, timed-coordinated control 
+separate processes may explain paucity factors parasites.
+
+doi: 10.12688/f1000research.9093.1 
+pmcid: pmc5155496
+pmid: 27990252 
+
+conflict interest statement: competing interests disclosed.
+

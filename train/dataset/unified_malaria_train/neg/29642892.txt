@@ -1,0 +1,48 @@
+
+1. malar j. 2018 apr 11;17(1):160. doi: 10.1186/s12936-018-2294-5.
+
+a systematic prospectively validated approach identifying synergistic
+drug combinations malaria.
+
+kalantarmotamedi y(1), eastman rt(2), guha r(3), bender a(4).
+
+author information: 
+(1)centre molecular informatics, department chemistry, university of
+cambridge, lensfield road, cambridge, cb2 1ew, uk.
+(2)division preclinical innovation, national center advancing
+translational sciences, national institutes health, 9800 medical center drive,
+rockville, md, 20852, usa.
+(3)division preclinical innovation, national center advancing
+translational sciences, national institutes health, 9800 medical center drive,
+rockville, md, 20852, usa. guhar@mail.nih.gov.
+(4)centre molecular informatics, department chemistry, university of
+cambridge, lensfield road, cambridge, cb2 1ew, uk. ab454@cam.ac.uk.
+
+background: nearly half world's population (3.2 billion people) at
+risk malaria 2015, resistance current therapies major concern. 
+while standard care includes drug combinations, pressing need
+to identify new combinations bypass current resistance mechanisms. in
+the work presented here, combined transcriptional drug repositioning/discovery 
+and machine learning approach proposed.
+methods: integrated approach utilizes gene expression data from
+patient-derived samples, combination large-scale anti-malarial
+combination screening data, predict synergistic compound combinations for
+three plasmodium falciparum strains (3d7, dd2 hb3). single compounds and
+combinations predicted active prospectively tested experiment.
+results: one predicted single agents, apicidin, active ac50
+values 74.9, 84.1 74.9 nm 3d7, dd2 hb3 p. falciparum strains 
+its maximal safe plasma concentration human 547.6 ± 136.6 nm. apicidin at
+the safe dose 500 nm kills average 97% parasite. synergy
+prediction algorithm exhibited overall precision recall 83.5 65.1% for
+mild-to-strong, 48.8 75.5% moderate-to-strong 12.0 62.7% for
+strong synergies. prospectively predicted combinations, as
+tacrolimus-hydroxyzine raloxifene-thioridazine, exhibited significant synergy
+across three p. falciparum strains included study.
+conclusions: systematic approaches play important role accelerating
+discovering novel combinational therapies malaria enables selecting
+novel synergistic compound pairs informed cost-effective manner.
+
+doi: 10.1186/s12936-018-2294-5 
+pmcid: pmc5896032
+pmid: 29642892  [indexed medline]
+

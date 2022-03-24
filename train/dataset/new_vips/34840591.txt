@@ -1,0 +1,57 @@
+
+1. Biomed Signal Process Control. 2022 Mar;73:103371. doi:
+10.1016/j.bspc.2021.103371. Epub 2021 Nov 24.
+
+Virtual Reality visualization for computerized COVID-19 lesion segmentation and
+interpretation.
+
+Oulefki A(1), Agaian S(2), Trongtirakul T(3), Benbelkacem S(1), Aouam D(1),
+Zenati-Henda N(1), Abdelli ML(4).
+
+Author information: 
+(1)Centre de Développement des Technologies Avancées (CDTA), PO. Box 17 Baba
+Hassen, Algiers 16081, Algeria.
+(2)Dept. of Computer Science, College of Staten Island, New York, 2800 Victory
+Blvd Staten Island, New York 10314, USA.
+(3)Faculty of Industrial Education, Rajamangala University of Technology Phra
+Nakhon, 399 Samsen Rd. Vachira Phayaban, Dusit, Bangkok 10300, Thailand.
+(4)EL-BAYANE, Center for Radiology and Medical Imaging, Bordj Bou Arréridj 34000,
+Algeria.
+
+Coronavirus disease (COVID-19) is a severe infectious disease that causes
+respiratory illness and has had devastating medical and economic consequences
+globally. Therefore, early, and precise diagnosis is critical to control disease 
+progression and management. Compared to the very popular RT-PCR
+(reverse-transcription polymerase chain reaction) method, chest CT imaging is a
+more consistent, sensible, and fast approach for identifying and managing
+infected COVID-19 patients, specifically in the epidemic area. CT images use
+computational methods to combine 2D X-ray images and transform them into 3D
+images. One major drawback of CT scans in diagnosing COVID-19 is creating
+false-negative effects, especially early infection. This article aims to combine 
+novel CT imaging tools and Virtual Reality (VR) technology and generate an
+automatize system for accurately screening COVID-19 disease and navigating 3D
+visualizations of medical scenes. The key benefits of this system are a) it
+offers stereoscopic depth perception, b) give better insights and comprehension
+into the overall imaging data, c) it allows doctors to visualize the 3D models,
+manipulate them, study the inside 3D data, and do several kinds of measurements, 
+and finally d) it has the capacity of real-time interactivity and accurately
+visualizes dynamic 3D volumetric data. The tool provides novel visualizations for
+medical practitioners to identify and analyze the change in the shape of COVID-19
+infectious. The second objective of this work is to generate, the first time, the
+CT African patient COVID-19 scan datasets containing 224 patients positive for an
+infection and 70 regular patients CT-scan images. Computer simulations
+demonstrate that the proposed method's effectiveness comparing with
+state-of-the-art baselines methods. The results have also been evaluated with
+medical professionals. The developed system could be used for medical education
+professional training and a telehealth VR platform.
+
+© 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.bspc.2021.103371 
+PMCID: PMC8610934
+PMID: 34840591 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

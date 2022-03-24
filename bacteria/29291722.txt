@@ -1,0 +1,66 @@
+
+1. BMC Bioinformatics. 2018 Jan 2;19(1):1. doi: 10.1186/s12859-017-2006-0.
+
+Evaluation and comparison of bioinformatic tools for the enrichment analysis of
+metabolomics data.
+
+Marco-Ramell A(1)(2), Palau-Rodriguez M(1)(2), Alay A(3), Tulipani S(1),
+Urpi-Sarda M(1)(2), Sanchez-Pla A(3)(4), Andres-Lacueva C(5)(6).
+
+Author information: 
+(1)Biomarkers & Nutrimetabolomics Laboratory, Nutrition, Food Science and
+Gastronomy Department, Food Technology Reference Net (XaRTA), Nutrition and Food 
+Safety Research Institute (INSA-UB), Faculty of Pharmacy and Food Sciences,
+Pharmacy and Food Science Faculty, University of Barcelona, Barcelona, Spain.
+(2)CIBER Fragilidad y Envejecimiento Saludable [CIBERfes], Instituto de Salud
+Carlos III [ISCIII], Madrid, Spain.
+(3)Genetics, Microbiology and Statistics Department, Biology Faculty, University 
+of Barcelona, Barcelona, Spain.
+(4)Statistics and Bioinformatics Unit, Vall d'Hebron Institut de Recerca (VHIR), 
+Barcelona, Spain.
+(5)Biomarkers & Nutrimetabolomics Laboratory, Nutrition, Food Science and
+Gastronomy Department, Food Technology Reference Net (XaRTA), Nutrition and Food 
+Safety Research Institute (INSA-UB), Faculty of Pharmacy and Food Sciences,
+Pharmacy and Food Science Faculty, University of Barcelona, Barcelona, Spain.
+candres@ub.edu.
+(6)CIBER Fragilidad y Envejecimiento Saludable [CIBERfes], Instituto de Salud
+Carlos III [ISCIII], Madrid, Spain. candres@ub.edu.
+
+BACKGROUND: Bioinformatic tools for the enrichment of 'omics' datasets facilitate
+interpretation and understanding of data. To date few are suitable for
+metabolomics datasets. The main objective of this work is to give a critical
+overview, for the first time, of the performance of these tools. To that aim,
+datasets from metabolomic repositories were selected and enriched data were
+created. Both types of data were analysed with these tools and outputs were
+thoroughly examined.
+RESULTS: An exploratory multivariate analysis of the most used tools for the
+enrichment of metabolite sets, based on a non-metric multidimensional scaling
+(NMDS) of Jaccard's distances, was performed and mirrored their diversity. Codes 
+(identifiers) of the metabolites of the datasets were searched in different
+metabolite databases (HMDB, KEGG, PubChem, ChEBI, BioCyc/HumanCyc, LipidMAPS,
+ChemSpider, METLIN and Recon2). The databases that presented more identifiers of 
+the metabolites of the dataset were PubChem, followed by METLIN and ChEBI.
+However, these databases had duplicated entries and might present false
+positives. The performance of over-representation analysis (ORA) tools, including
+BioCyc/HumanCyc, ConsensusPathDB, IMPaLA, MBRole, MetaboAnalyst, Metabox,
+MetExplore, MPEA, PathVisio and Reactome and the mapping tool KEGGREST, was
+examined. Results were mostly consistent among tools and between real and
+enriched data despite the variability of the tools. Nevertheless, a few
+controversial results such as differences in the total number of metabolites were
+also found. Disease-based enrichment analyses were also assessed, but they were
+not found to be accurate probably due to the fact that metabolite disease sets
+are not up-to-date and the difficulty of predicting diseases from a list of
+metabolites.
+CONCLUSIONS: We have extensively reviewed the state-of-the-art of the available
+range of tools for metabolomic datasets, the completeness of metabolite
+databases, the performance of ORA methods and disease-based analyses. Despite the
+variability of the tools, they provided consistent results independent of their
+analytic approach. However, more work on the completeness of metabolite and
+pathway databases is required, which strongly affects the accuracy of enrichment 
+analyses. Improvements will be translated into more accurate and global insights 
+of the metabolome.
+
+DOI: 10.1186/s12859-017-2006-0 
+PMCID: PMC5749025
+PMID: 29291722  [Indexed for MEDLINE]
+

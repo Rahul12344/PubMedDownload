@@ -1,0 +1,35 @@
+
+1. bmc genomics. 2015;16 suppl 7:s9. doi: 10.1186/1471-2164-16-s7-s9. epub 2015 jun 
+11.
+
+network-based gene prediction plasmodium falciparum malaria towards
+genetics-based drug discovery.
+
+chen y, xu r.
+
+background: malaria deadly parasitic infectious disease. existing
+drug treatments limited efficacy malaria elimination, complex
+pathogenesis disease fully understood. detecting novel
+malaria-associated genes contributes revealing disease
+pathogenesis, also facilitates discovering new targets anti-malaria
+drugs.
+methods: study, developed network-based approach predict
+malaria-associated genes. constructed cross-species network integrate
+human-human, parasite-parasite human-parasite protein interactions. we
+extended random walk algorithm network, used known malaria genes 
+as seeds find novel candidate genes malaria.
+results: validated algorithms using 77 known malaria genes: 14 human genes
+and 63 parasite genes ranked averagely within top 2% top 4%,
+respectively among human parasite genomes. also evaluated method for
+predicting novel malaria genes using set 27 genes literature supporting
+evidence. approach ranked 12 genes within top 1% 24 genes within top 5%. 
+in addition, demonstrated top-ranked candied genes enriched drug
+targets, identified commonalities underlying top-ranked malaria genes through
+pathway analysis. summary, candidate malaria-associated genes predicted by
+our data-driven approach potential guide genetics-based anti-malaria 
+drug discovery.
+
+doi: 10.1186/1471-2164-16-s7-s9 
+pmcid: pmc4474419
+pmid: 26099491  [indexed medline]
+

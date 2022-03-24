@@ -1,0 +1,67 @@
+
+1. Crit Care. 2020 Jul 13;24(1):423. doi: 10.1186/s13054-020-03146-4.
+
+The circular RNA landscape in specific peripheral blood mononuclear cells of
+critically ill patients with sepsis.
+
+Khan HN(1)(2), Brands X(1), Aufiero S(2), Hoogendijk AJ(1), Klarenbeek AM(1), van
+Engelen TSR(1), Haak BW(1), van Vught LA(1), Horn J(3), Schultz MJ(3)(4),
+Zwinderman AH(2), van der Poll T(1)(5), Scicluna BP(6)(7).
+
+Author information: 
+(1)Center for Experimental Molecular Medicine, Amsterdam University Medical
+Centers, location Academic Medical Center, University of Amsterdam, Room G2-105, 
+Meibergdreef 9, 1105 AZ, Amsterdam, the Netherlands.
+(2)Department of Clinical Epidemiology, Biostatistics and Bioinformatics,
+Amsterdam University Medical Centers, location Academic Medical Center,
+University of Amsterdam, Amsterdam, the Netherlands.
+(3)Department of Intensive Care Medicine, Amsterdam University Medical Centers,
+location Academic Medical Center, University of Amsterdam, Amsterdam, the
+Netherlands.
+(4)Mahidol Oxford Tropical Medicine Research Unit, Bangkok, Thailand.
+(5)Division of Infectious Diseases, Amsterdam University Medical Centers,
+location Academic Medical Center, University of Amsterdam, Amsterdam, the
+Netherlands.
+(6)Center for Experimental Molecular Medicine, Amsterdam University Medical
+Centers, location Academic Medical Center, University of Amsterdam, Room G2-105, 
+Meibergdreef 9, 1105 AZ, Amsterdam, the Netherlands. b.scicluna@amsterdamumc.nl.
+(7)Department of Clinical Epidemiology, Biostatistics and Bioinformatics,
+Amsterdam University Medical Centers, location Academic Medical Center,
+University of Amsterdam, Amsterdam, the Netherlands. b.scicluna@amsterdamumc.nl.
+
+BACKGROUND: Dysregulation of the host immune response is a pathognomonic feature 
+of sepsis. Abnormal physiological conditions are understood to shift efficient
+linear splicing of protein-coding RNA towards non-canonical splicing,
+characterized by the accumulation of non-coding circularized (circ)RNA. CircRNAs 
+remain unexplored in specific peripheral blood mononuclear cells (PBMCs) during
+sepsis. We here sought to identify and characterize circRNA expression in
+specific PBMCs of patients with sepsis due to community-acquired pneumonia (CAP) 
+relative to healthy subjects.
+METHODS: The study comprised a discovery cohort of six critically ill patients
+diagnosed with sepsis due to community-acquired pneumonia and four (age, gender
+matched) healthy subjects. PBMCs were isolated, and fluorescence-activated cell
+sorting was used to purify CD14+ monocytes, CD4+, CD8+ T cells, and CD19+ B cells
+for RNA sequencing. CD14+ monocytes from independent six healthy volunteers were 
+purified, and total RNA was treated with or without RNase R.
+RESULTS: RNA sequencing of sorted CD14+ monocytes, CD4+, CD8+ T cells, and CD19+ 
+B cells from CAP patients and healthy subjects identified various circRNAs with
+predominantly cell-specific expression patterns. CircRNAs were expressed to a
+larger extent in monocytes than in CD4+, CD8+ T cells, or B cells. Cells from CAP
+patients produced significantly higher levels of circRNA as compared to healthy
+subjects. Considering adjusted p values, circVCAN (chr5:83519349-83522309) and
+circCHD2 (chr15:93000512-93014909) levels in monocytes were significantly altered
+in sepsis. Functional inference per cell-type uncovered pathways mainly attuned
+to cell proliferation and cytokine production. In addition, our data does not
+support a role for these circRNAs in microRNA sequestration. Quantitative PCR
+analysis in purified monocytes from an independent group of healthy volunteers
+confirmed the existence of circVCAN and circCHD2.
+CONCLUSIONS: We provide a benchmark map of circRNA expression dynamics in
+specific immune cell subsets of sepsis patients secondary to CAP. CircRNAs were
+more abundant in immune cells of sepsis patients relative to healthy subjects.
+Further studies evaluating circRNA expression in larger cohorts of sepsis
+patients are warranted.
+
+DOI: 10.1186/s13054-020-03146-4 
+PMCID: PMC7359566
+PMID: 32660590  [Indexed for MEDLINE]
+

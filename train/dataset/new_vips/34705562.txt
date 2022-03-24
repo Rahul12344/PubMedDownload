@@ -1,0 +1,53 @@
+
+1. J Virol. 2021 Oct 27:JVI0139521. doi: 10.1128/JVI.01395-21. [Epub ahead of print]
+
+Core Protein-Directed Antivirals and Importin β Can Synergistically Disrupt HBV
+Capsids.
+
+Kim C(1), Barnes LF(2), Schlicksup CJ(1), Patterson AJ(3), Bothner BB(3), Jarrold
+MF(2), Wang CJ(4), Zlotnick A(1).
+
+Author information: 
+(1)Department of Molecular & Cellular Biochemistry, Indiana University,
+Bloomington, Indiana, USA.
+(2)Department of Chemistry, Indiana University, Bloomington, Indiana, USA.
+(3)Department of Chemistry & Biochemistry, Montana State University, Bozeman,
+Montana, USA.
+(4)Department of Microbiology & Immunology, Pennsylvania State University College
+of Medicine, Hershey, Pennsylvania, USA.
+
+Viral structural proteins can have multiple activities. Antivirals that target
+structural proteins have potential to exhibit multiple antiviral mechanisms.
+Hepatitis B Virus (HBV) core protein (Cp) is involved in most stages of the viral
+lifecycle: it assembles into capsids, packages viral RNA, is a metabolic
+compartment for reverse transcription, interacts with nuclear trafficking
+machinery, and disassembles to release the viral genome into the nucleus. During 
+nuclear localization, HBV capsids bind to host importins (e.g. Impβ) via Cp's
+C-terminal domain (CTD); the CTD is localized to the interior of the capsid and
+is transiently exposed on the exterior. We used HAP12 as a representative Cp
+Allosteric Modulators (CpAMs), a class of antivirals that inappropriately
+stimulates and misdirects HBV assembly and deforms capsids. CpAM impact on other 
+aspects of the HBV lifecycle is poorly understood. We investigated how HAP12
+influenced the interactions between empty or RNA-filled capsids with Impβ and
+trypsin in vitro. We showed that HAP12 can modulate CTD accessibility and capsid 
+stability, depending on the saturation of HAP12-binding sites. We demonstrated
+that Impβ synergistically contributes to capsid disruption at high levels of
+HAP12 saturation, using electron microscopy to visualize disruption and
+rearrangement of Cp dimers into aberrant complexes. However, RNA-filled capsids
+resisted the destabilizing effects of HAP12 and Impβ. In summary, we show host
+protein-induced catalysis of capsid disruption, an unexpected additional
+mechanism of action for CpAMs. Potentially, untimely capsid disassembly can
+hamper the HBV lifecycle and also cause the virus to become vulnerable to host
+innate immune responses. IMPORTANCE The HBV core, an icosahedral complex of 120
+copies of the homodimeric core (capsid) protein with or without packaged nucleic 
+acid, is transported to the host nucleus by its interaction with host importin
+proteins. Importin-core interaction requires the core protein C-terminal domain, 
+which is inside the capsid, to "flip" to the capsid exterior. Core-protein
+directed drugs that affect capsid assembly and stability have been developed
+recently. We show that these molecules can, synergistically with importins,
+disrupt capsids. This mechanism of action, synergism with host protein, has
+potential to disrupt the virus lifecycle and activate the innate immune system.
+
+DOI: 10.1128/JVI.01395-21 
+PMID: 34705562 
+

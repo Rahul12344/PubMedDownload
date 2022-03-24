@@ -1,0 +1,32 @@
+
+1. methods mol biol. 2018;1689:83-101. doi: 10.1007/978-1-4939-7380-4_8.
+
+characterization nucleosome landscape micrococcal nuclease-sequencing
+(mnase-seq).
+
+hoeijmakers wam(1), bártfai r(2).
+
+author information: 
+(1)department molecular biology, radboud institute molecular life
+sciences, faculty science, radboud university, 6525, ga, nijmegen, the
+netherlands. w.hoeijmakers@ncmls.ru.nl.
+(2)department molecular biology, radboud institute molecular life
+sciences, faculty science, radboud university, 6525, ga, nijmegen, the
+netherlands. r.bartfai@science.ru.nl.
+
+mnase-seq allows genome-wide examination nucleosome landscape by
+determination nucleosome positioning occupancy. typically, native or
+formaldehyde fixed chromatin subjected digestion micrococcal nuclease
+(mnase), degrades linker dna yields mainly mono-nucleosomes. the
+resulting material processed directly subjected optional
+chromatin immunoprecipitation step (mnase-chip-seq). de-crosslinked purified 
+dna subjected next-generation sequencing. protocol presented 
+has tailored analysis nucleosome landscape malaria
+parasite, plasmodium falciparum, steps directly applicable 
+cell types. also discuss general considerations experimental design and
+computational analysis, crucial accurate investigation the
+nucleosome landscape.
+
+doi: 10.1007/978-1-4939-7380-4_8 
+pmid: 29027167  [indexed medline]
+

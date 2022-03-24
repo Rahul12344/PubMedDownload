@@ -1,0 +1,47 @@
+
+1. BMC Genomics. 2014 May 12;15:359. doi: 10.1186/1471-2164-15-359.
+
+Genome analysis reveals three genomospecies in Mycobacterium abscessus.
+
+Sassi M, Drancourt M(1).
+
+Author information: 
+(1)Aix Marseille Université, URMITE, UMR63, CNRS 7278, IRD 198, Inserm 1095,
+Marseille, France. michel.drancourt@univ-amu.fr.
+
+BACKGROUND: Mycobacterium abscessus complex, the third most frequent
+mycobacterial complex responsible for community- and health care-associated
+infections in developed countries, comprises of M. abscessus subsp. abscessus and
+M. abscessus subsp. bolletii reviously referred as Mycobacterium bolletii and
+Mycobacterium massiliense. The diversity of this group of opportunistic pathogens
+is poorly described.
+RESULTS: In-depth analysis of 14 published M. abscessus complex genomes found a
+pan-genome of 6,153 proteins and core-genome of 3,947 (64.1%) proteins,
+indicating a non-conservative genome. Analysing the average percentage of
+amino-acid sequence identity (from 94.19% to 98.58%) discriminates three main
+clusters C1, C2 and C3: C1 comprises strains belonging to M. abscessus, C2
+comprises strains belonging to M. massiliense and C3 comprises strains belonging 
+to M. bolletii; and two sub-clusters in clusters C2 and C3. The phylogenomic
+network confirms these three clusters. The genome length (from 4.8 to 5.51-Mb)
+varies from 5.07-Mb in C1, 4.89-Mb in C2A, 5.01-Mb in C2B and 5.28-Mb in C3. The 
+mean number of prophage regions (from 0 to 7) is 2 in C1; 1.33 in C2A; 3.5 in C2B
+and five in C3. A total of 36 genes are uniquely present in C1, 15 in C2 and 15
+in C3. These genes could be used for the detection and identification of
+organisms in each cluster. Further, the mean number of host-interaction factors
+(including PE, PPE, LpqH, MCE, Yrbe and type VII secretion system ESX3 and ESX4) 
+varies from 70 in cluster C1, 80 in cluster C2A, 74 in cluster C2B and 93 in
+clusters C3A and C3B. No significant differences in antibiotic resistance genes
+were observed between clusters, in contrast to previously reported in-vitro
+patterns of drug resistance. They encode both penicillin-binding proteins
+targeted by β-lactam antibiotics and an Ambler class A β-lactamase for which
+inhibitors exist.
+CONCLUSIONS: Our comparative analysis indicates that M. abscessus complex
+comprises three genomospecies, corresponding to M. abscessus, M. bolletii, and M.
+massiliense. The genomics data here reported indicate differences in virulence of
+medical interest; and suggest targets for the refined detection and
+identification of M. abscessus.
+
+DOI: 10.1186/1471-2164-15-359 
+PMCID: PMC4035080
+PMID: 24886480  [Indexed for MEDLINE]
+

@@ -1,0 +1,43 @@
+
+1. Appl Intell (Dordr). 2021 Aug 14:1-16. doi: 10.1007/s10489-021-02728-1. [Epub
+ahead of print]
+
+Masked face recognition with convolutional neural networks and local binary
+patterns.
+
+Vu HN(1), Nguyen MH(2), Pham C(1).
+
+Author information: 
+(1)Department of Computer Science, Posts and Telecommunications Institute of
+Technology, Hanoi, 12110 Vietnam.
+(2)Department of Computer Vision, Aimesoft., JSC, Hanoi, 11310 Vietnam.
+
+Face recognition is one of the most common biometric authentication methods as
+its feasibility while convenient use. Recently, the COVID-19 pandemic is
+dramatically spreading throughout the world, which seriously leads to negative
+impacts on people's health and economy. Wearing masks in public settings is an
+effective way to prevent viruses from spreading. However, masked face recognition
+is a highly challenging task due to the lack of facial feature information. In
+this paper, we propose a method that takes advantage of the combination of deep
+learning and Local Binary Pattern (LBP) features to recognize the masked face by 
+utilizing RetinaFace, a joint extra-supervised and self-supervised multi-task
+learning face detector that can deal with various scales of faces, as a fast yet 
+effective encoder. In addition, we extract local binary pattern features from
+masked face's eye, forehead and eyebow areas and combine them with features
+learnt from RetinaFace into a unified framework for recognizing masked faces. In 
+addition, we collected a dataset named COMASK20 from 300 subjects at our
+institution. In the experiment, we compared our proposed system with several
+state of the art face recognition methods on the published Essex dataset and our 
+self-collected dataset COMASK20. With the recognition results of 87% f1-score on 
+the COMASK20 dataset and 98% f1-score on the Essex dataset, these demonstrated
+that our proposed system outperforms Dlib and InsightFace, which has shown the
+effectiveness and suitability of the proposed method. The COMASK20 dataset is
+available on https://github.com/tuminguyen/COMASK20 for research purposes.
+
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC,
+part of Springer Nature 2021.
+
+DOI: 10.1007/s10489-021-02728-1 
+PMCID: PMC8363871
+PMID: 34764616 
+

@@ -1,0 +1,35 @@
+
+1. RNA Biol. 2020 Oct 12:1-18. doi: 10.1080/15476286.2020.1827784. [Epub ahead of
+print]
+
+The mRNA derived MalH sRNA contributes to alternative carbon source utilization
+by tuning maltoporin expression in E. coli.
+
+Iosub IA(1), Marchioretto M(2), van Nues RW(3), McKellar S(1), Viero G(2),
+Granneman S(1).
+
+Author information: 
+(1)Centre for Synthetic and Systems Biology, University of Edinburgh ,
+Edinburgh0, UK.
+(2)Institute of Biophysics, CNR Unit at Trento , Trento, Italy.
+(3)Institute of Cell Biology, University of Edinburgh , Edinburgh, UK.
+
+Previous high-throughput studies in Gram-negative bacteria identified a large
+number of 3'UTR fragments that potentially function as sRNAs. Here we extensively
+characterize the MalH sRNA. We show that MalH is a stable degradation
+intermediate derived from the 3' end of malG, which is part of the maltose uptake
+operon transcript malEFG. Unlike the majority of bacterial sRNAs, MalH is
+transiently expressed during the transition from the exponential to the
+stationary growth phase, suggesting that it contributes to adaptation to changes 
+in nutrient availability. Over-expression of MalH reduces expression of general
+outer membrane porins and MicA, a repressor of the high-affinity
+maltose/maltodextrin transporter LamB. Disrupting MalH production and function
+significantly reduces lamB accumulation when maltose is the only available carbon
+source, presumably due to the accumulation of the MicA repressor. We propose that
+MalH is part of a regulatory network that, during the transition phase, directly 
+or indirectly promotes accumulation of high-affinity maltose transporters in the 
+outer membrane by dampening competing pathways.
+
+DOI: 10.1080/15476286.2020.1827784 
+PMID: 33043783 
+

@@ -1,0 +1,56 @@
+
+1. BMC Health Serv Res. 2021 Oct 25;21(1):1152. doi: 10.1186/s12913-021-07027-6.
+
+Comparing health care use and costs among new Medicaid enrollees before and
+during the COVID-19 pandemic.
+
+Wright B(1)(2), Anderson D(3), Whitaker R(3), Shrader P(4), Bettger JP(3)(5),
+Wong C(3)(6), Shafer P(7).
+
+Author information: 
+(1)Department of Family Medicine, University of North Carolina at Chapel Hill,
+590 Manning Dr, NC, CB 7595, Chapel Hill, United States. brad_wright@med.unc.edu.
+(2)Cecil G. Sheps Center for Health Services Research, University of North
+Carolina at Chapel Hill, Chapel Hill, USA. brad_wright@med.unc.edu.
+(3)Duke-Margolis Center for Health Policy, Washington, USA.
+(4)Duke Clinical Research Institute, Durham, USA.
+(5)Department of Orthopaedic Surgery, Duke University, Durham, USA.
+(6)Department of Pediatrics, Duke University, Durham, USA.
+(7)Department of Health Law, Policy, and Management, Boston University, Boston,
+USA.
+
+BACKGROUND AND OBJECTIVE: To characterize health care use and costs among new
+Medicaid enrollees before and during the COVID pandemic. Results can help
+Medicaid non-expansion states understand health care use and costs of new
+enrollees in a period of enrollment growth.
+RESEARCH DESIGN: Retrospective cross-sectional analysis of North Carolina
+Medicaid claims data (January 1, 2018 - August 31, 2020). We used modified
+Poisson and ordinary least squares regression analysis to estimate health care
+use and costs as a function of personal characteristics and enrollment during
+COVID. Using data on existing enrollees before and during COVID, we projected the
+extent to which changes in outcomes among new enrollees during COVID were
+pandemic-related.
+SUBJECTS: 340,782 new enrollees pre-COVID (January 2018 - December 2019) and
+56,428 new enrollees during COVID (March 2020 - June 2020).
+MEASURES: We observed new enrollees for 60-days after enrollment to identify
+emergency department (ED) visits, nonemergent ED visits, primary care visits,
+potentially-avoidable hospitalizations, dental visits, and health care costs.
+RESULTS: New Medicaid enrollees during COVID were less likely to have an ED visit
+(-46 % [95 % CI: -48 %, -43 %]), nonemergent ED visit (-52 % [95 % CI: -56 %,
+-48 %]), potentially-avoidable hospitalization (-52 % [95 % CI: -60 %, -43 %]),
+primary care visit (-34 % [95 % CI: -36 %, -33 %]), or dental visit (-36 % [95 % 
+CI: -41 %, -30 %]). They were also less likely to incur any health care costs
+(-29 % [95 % CI: -30 %, -28 %]), and their total costs were 8 % lower [95 % CI:
+-12 %, -4 %]. Depending on the outcome, COVID explained between 34 % and 100 % of
+these reductions.
+CONCLUSIONS: New Medicaid enrollees during COVID used significantly less care
+than new enrollees pre-COVID. Most of the reduction stems from pandemic-related
+changes in supply and demand, but the profile of new enrollees before versus
+during COVID also differed.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12913-021-07027-6 
+PMCID: PMC8544632
+PMID: 34696801  [Indexed for MEDLINE]
+

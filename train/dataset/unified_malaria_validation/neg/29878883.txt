@@ -1,0 +1,35 @@
+
+1. int j biostat. 2018 jun 7;15(2). pii:
+/j/ijb.2019.15.issue-2/ijb-2017-0061/ijb-2017-0061.xml. doi:
+10.1515/ijb-2017-0061.
+
+unfolding genome: case study p. falciparum.
+
+varoquaux n(1)(2).
+
+author information: 
+(1)statistics, university california, berkeley, 367 evans hall, berkeley,
+california, usa.
+(2)berkeley institute data science, 190, doe library berkeley, united states 
+of america.
+
+the development new ways probe samples three-dimensional (3d)
+structure dna paves way depth systematic analyses genome
+architecture. 3c-like methods coupled high-throughput sequencing now
+assess physical interactions pairs loci genome-wide fashion, thus
+enabling creation genome-by-genome contact maps. spreading such
+protocols creates many new opportunities methodological development: 
+we infer 3d models contact maps? models help us gain insights
+into biological processes? several recent studies applied protocols p.
+falciparum (the deadliest five human malaria parasites), assessing its
+genome organization different moments life cycle. small
+genomic size, fairly simple (yet changing) genomic organization its
+lifecyle strong correlation chromatin folding gene expression,
+this parasite ideal case study applying developing methods to
+infer 3d models use downstream analysis. here, review set of
+methods used build analyse three-dimensional models contact maps data
+with special highlight p. falciparum's genome organization.
+
+doi: 10.1515/ijb-2017-0061 
+pmid: 29878883 
+

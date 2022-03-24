@@ -1,0 +1,55 @@
+
+1. Comput Struct Biotechnol J. 2021 Sep 16;19:5292-5308. doi:
+10.1016/j.csbj.2021.09.017. eCollection 2021.
+
+An Ebola, Neisseria and Trypanosoma human protein interaction census reveals a
+conserved human protein cluster targeted by various human pathogens.
+
+Gupta SK(1)(2), Ponte-Sucre A(3)(4), Bencurova E(1), Dandekar T(1)(5).
+
+Author information: 
+(1)Functional Genomics & Systems Biology Group, Department of Bioinformatics,
+Biocenter, Am Hubland, University of Würzburg, 97074 Würzburg, Germany.
+(2)Evolutionary Genomics Group, Center for Computational and Theoretical Biology,
+University of Würzburg, 97078 Würzburg, Germany.
+(3)Laboratorio de Fisiología Molecular, Instituto de Medicina Experimental,
+Escuela Luis Razetti, Universidad Central de Venezuela, Caracas, Venezuela.
+(4)Medical Mission Institute, Hermann-Schell-Str. 7, 97074 Würzburg, Germany.
+(5)EMBL Heidelberg, BioComputing Unit, Meyerhofstraße 1, 69117 Heidelberg,
+Germany.
+
+Filovirus ebolavirus (ZE; Zaire ebolavirus, Bundibugyo ebolavirus), Neisseria
+meningitidis (NM), and Trypanosoma brucei (Tb) are serious infectious pathogens, 
+spanning viruses, bacteria and protists and all may target the blood and central 
+nervous system during their life cycle. NM and Tb are extracellular pathogens
+while ZE is obligatory intracellular, targetting immune privileged sites. By
+using interactomics and comparative evolutionary analysis we studied whether
+conserved human proteins are targeted by these pathogens. We examined 2797 unique
+pathogen-targeted human proteins. The information derived from orthology searches
+of experimentally validated protein-protein interactions (PPIs) resulted both in 
+unique and shared PPIs for each pathogen. Comparing and analyzing conserved and
+pathogen-specific infection pathways for NM, TB and ZE, we identified human
+proteins predicted to be targeted in at least two of the compared host-pathogen
+networks. However, four proteins were common to all three host-pathogen
+interactomes: the elongation factor 1-alpha 1 (EEF1A1), the SWI/SNF complex
+subunit SMARCC2 (matrix-associated actin-dependent regulator of chromatin
+subfamily C), the dolichyl-diphosphooligosaccharide--protein glycosyltransferase 
+subunit 1 (RPN1), and the tubulin beta-5 chain (TUBB). These four human proteins 
+all are also involved in cytoskeleton and its regulation and are often addressed 
+by various human pathogens. Specifically, we found (i) 56 human pathogenic
+bacteria and viruses that target these four proteins, (ii) the well researched
+new pandemic pathogen SARS-CoV-2 targets two of these four human proteins and
+(iii) nine human pathogenic fungi (yet another evolutionary distant organism
+group) target three of the conserved proteins by 130 high confidence
+interactions.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.csbj.2021.09.017 
+PMCID: PMC8531761
+PMID: 34745452 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

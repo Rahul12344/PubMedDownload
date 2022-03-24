@@ -1,0 +1,52 @@
+
+1. bmc syst biol. 2016 aug 8;10(1):58. doi: 10.1186/s12918-016-0291-2.
+
+metabolic host responses malarial infection intraerythrocytic
+developmental cycle.
+
+wallqvist a(1), fang x(1), tewari sg(1), ye p(1), reifman j(2).
+
+author information: 
+(1)department defense biotechnology high performance computing software
+applications institute, telemedicine advanced technology research center,
+u.s. army medical research materiel command, ft. detrick, md, 21702, usa.
+(2)department defense biotechnology high performance computing software
+applications institute, telemedicine advanced technology research center,
+u.s. army medical research materiel command, ft. detrick, md, 21702, usa.
+jaques.reifman.civ@mail.mil.
+
+background: malarial parasite plasmodium falciparum undergoes complex life 
+cycle, including intraerythrocytic developmental cycle, is
+metabolically dependent infected human red blood cell (rbc). describe
+whole cell metabolic activity within p. falciparum rbcs the
+asexual reproduction phase intraerythrocytic developmental cycle, we
+developed integrated host-parasite metabolic modeling framework driven by
+time-dependent gene expression data.
+results: validated model reproducing experimentally determined 1)
+stage-specific production biomass components precursors the
+parasite 2) metabolite concentration changes medium p.
+falciparum-infected rbc cultures. model allowed us explore time- and
+strain-dependent p. falciparum metabolism hypothesize host cell
+metabolism alters response malarial infection. specifically, metabolic 
+analysis showed uninfected rbcs coexist infected cells same
+culture decrease production 2,3-bisphosphoglycerate, oxygen-carrying 
+regulator, reducing ability hemoglobin cells release oxygen.
+furthermore, response parasite-induced oxidative stress, infected rbcs
+downgraded glycolytic flux using pentose phosphate pathway and
+secreting ribulose-5-phosphate. mechanism links individually observed
+experimental phenomena, glycolytic inhibition ribulose-5-phosphate
+secretion, oxidative stress response.
+conclusions: although metabolic model incorporate regulatory
+mechanisms per se, alterations gene expression levels caused regulatory
+mechanisms manifested model altered metabolic states. provides
+the model capability capture complex multicellular host-pathogen metabolic
+interactions infected rbc culture. system-level analysis revealed
+complex relationships parasite reduce oxygen release in
+uninfected cells presence infected rbcs well role of
+different metabolic pathways involved oxidative stress response of
+infected rbcs.
+
+doi: 10.1186/s12918-016-0291-2 
+pmcid: pmc4977726
+pmid: 27502771  [indexed medline]
+

@@ -1,0 +1,45 @@
+
+1. Biochemistry. 2020 Aug 18;59(32):2962-2973. doi: 10.1021/acs.biochem.0c00515.
+Epub 2020 Jul 28.
+
+Biochemical and Structural Characterization of l-2-Keto-3-deoxyarabinonate
+Dehydratase: A Unique Catalytic Mechanism in the Class I Aldolase Protein
+Superfamily.
+
+Watanabe S(1)(2)(3), Watanabe Y(1)(2), Nobuchi R(2), Ono A(2).
+
+Author information: 
+(1)Department of Bioscience, Graduate School of Agriculture, Ehime University,
+3-5-7 Tarumi, Matsuyama, Ehime 790-8566, Japan.
+(2)Faculty of Agriculture, Ehime University, 3-5-7 Tarumi, Matsuyama, Ehime
+790-8566, Japan.
+(3)Center for Marine Environmental Studies (CMES), Ehime University, 2-5
+Bunkyo-cho, Matsuyama, Ehime 790-8577, Japan.
+
+l-2-Keto-3-deoxyarabinonate (l-KDA) dehydratase (AraD) catalyzes the hydration of
+l-KDA to α-ketoglutaric semialdehyde in the nonphosphorylative l-arabinose
+pathway from bacteria and belongs to the dihydrodipicolinate synthase
+(DHDPS)/N-acetylneuraminate lyase (NAL) protein superfamily. All members of this 
+superfamily, including several aldolases for l-KDA, share a common catalytic
+mechanism of retro-aldol fission, in which a lysine residue forms a Schiff base
+with the carbonyl C2 atom of the substrate, followed by proton abstraction of the
+substrate by a tyrosine residue as the base catalyst. Only AraD possesses a
+glutamine residue instead of this active site tyrosine, suggesting its
+involvement in catalysis. We herein determined the crystal structures of AraD
+from the nitrogen-fixing bacterium Azospirillum brasilense and AraD in complex
+with β-hydroxypyruvate and 2-oxobutyrate, two substrate analogues, at resolutions
+of 1.9, 1.6, and 2.2 Å, respectively. In both of the complexed structures, the
+ε-nitrogen of the conserved Lys171 was covalently linked to the carbonyl C2 atom 
+of the ligand, which was consistent with the Schiff base intermediate form,
+similar to other DHDPS/NAL members. A site-directed mutagenic study revealed that
+Glu173 and Glu200 played important roles as base catalysts, whereas Gln143 was
+not absolutely essential. The abstraction of one of the C3 protons of the
+substrate (but not the O4 hydroxyl) by Glu173 was similar to that by the
+(conserved) tyrosine residues in the two DHDPS/NAL members that produce
+α-ketoglutaric semialdehyde (d-5-keto-4-deoxygalactarate dehydratase and
+Δ1-pyrroline-4-hydroxy-2-carboxylate deaminase), indicating that these enzymes
+evolved convergently despite similarities in the overall reaction.
+
+DOI: 10.1021/acs.biochem.0c00515 
+PMID: 32697085  [Indexed for MEDLINE]
+

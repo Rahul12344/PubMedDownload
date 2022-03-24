@@ -1,0 +1,45 @@
+
+1. J Econ Entomol. 2017 Dec 5;110(6):2623-2629. doi: 10.1093/jee/tox253.
+
+Selection of Reference Genes for Expression Studies in Diaphorina citri
+(Hemiptera: Liviidae).
+
+Bassan MM(1), Angelotti-Mendonc A JS(1), Alves GR(2), Yamamoto PT(2), Moura O
+Filho FAA(1).
+
+Author information: 
+(1)Departamento de Produc¸a~o Vegetal, Universidade de Sa~o Paulo, Escola
+Superior de Agricultura "Luiz de Queiroz", Brazil.
+(2)Departamento de Entomologia e Acarologia, Universidade de Sa~o Paulo, Escola
+Superior de Agricultura "Luiz de Queiroz", Brazil.
+
+The Asian citrus psyllid, Diaphorina citri Kuwayama (Hemiptera: Liviidae), is
+considered the main vector of the bacteria associated with huanglongbing, a very 
+serious disease that has threatened the world citrus industry. The absence of
+efficient control management protocols, including a lack of resistant cultivars, 
+has led to the development of different approaches to study this pathosystem. The
+production of resistant genotypes relies on D. citri gene expression analyses by 
+RT-qPCR to assess control of the vector population. High-quality, reliable
+RT-qPCR analyses depend upon proper reference gene selection and validation.
+However, adequate D. citri reference genes have not yet been identified. In the
+present study, we evaluated the genes EF 1-α, ACT, GAPDH, RPL7, RPL17, and TUB as
+candidate reference genes for this insect. Gene expression stability was
+evaluated using the mathematical algorithms deltaCt, NormFinder, BestKeeper, and 
+geNorm, at five insect developmental stages, grown on two different plant hosts
+[Citrus sinensis (L.) Osbeck (Sapindales: Rutaceae) and Murraya paniculata (L.)
+Jack (Sapindales: Rutaceae)]. The final gene ranking was calculated using
+RefFinder software, and the V-ATPase-A gene was selected for validation.
+According to our results, two reference genes are recommended when different
+plant hosts and developmental stages are considered. Considering gene expression 
+studies in D. citri grown on M. paniculata, regardless of the insect
+developmental stage, GAPDH and RPL7 have the best fit as reference genes in
+RT-qPCR analyses, whereas GAPDH and EF 1-α are recommended as reference genes in 
+insect studies using C. sinensis.
+
+© The Author(s) 2017. Published by Oxford University Press on behalf of
+Entomological Society of America. All rights reserved. For permissions, please
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/jee/tox253 
+PMID: 29029285  [Indexed for MEDLINE]
+

@@ -1,0 +1,57 @@
+
+1. plos genet. 2019 oct 14;15(10):e1008453. doi: 10.1371/journal.pgen.1008453.
+ecollection 2019 oct.
+
+genetic mapping fitness determinants across malaria parasite plasmodium
+falciparum life cycle.
+
+li x(1), kumar s(2), mcdew-white m(1), haile m(2), cheeseman ih(1), emrich
+s(3)(4), button-simons k(3), nosten f(5)(6), kappe shi(2)(7), ferdig mt(3),
+anderson tjc(1), vaughan am(2).
+
+author information: 
+(1)texas biomedical research institute, san antonio, texas, united states of
+america.
+(2)center global infectious disease research, seattle children's research
+institute, seattle, washington, united states america.
+(3)eck institute global health, department biological sciences, university
+of notre dame, notre dame, indiana, united states america.
+(4)electrical engineering computer science, university tennessee,
+knoxville, tennessee, united states america.
+(5)shoklo malaria research unit, mahidol-oxford tropical medicine research unit, 
+faculty tropical medicine, mahidol university, mae sot, thailand.
+(6)centre tropical medicine global health, university oxford, oxford, 
+united kingdom.
+(7)department global health, university washington, seattle, washington,
+united states america.
+
+determining genetic basis fitness central understanding evolution
+and transmission microbial pathogens. human malaria parasites (plasmodium
+falciparum), experimental work fitness focused asexual blood stage
+parasites, stage easily cultured, although transmission
+of malaria requires female anopheles mosquitoes vertebrate hosts. we
+explore powerful approach identify genetic determinants parasite
+fitness across invertebrate vertebrate life-cycle stages p.
+falciparum. combines experimental genetic crosses using humanized mice, with
+selective whole genome amplification pooled sequencing determine
+genome-wide allele frequencies identify genomic regions selection
+across multiple lifecycle stages. applied approach genetic crosses
+between artemisinin resistant (art-r, kelch13-c580y) art-sensitive (art-s,
+kelch13-wt) parasites, recently isolated southeast asian patients. two
+striking results emerge: observed (i) strong genome-wide skew (>80%) towards
+alleles art-r parent mosquito stage, dropped ~50% 
+blood stage selfed art-r parasites selected against; (ii) repeatable 
+allele specific skews blood stage parasites particularly strong selection
+(selection coefficient (s) ≤ 0.18/asexual cycle) alleles art-r
+parent loci chromosome 12 containing mrp2 chromosome 14 containing
+arps10. approach robustly identifies selected loci strong potential 
+for identifying parasite genes interact mosquito vector or
+compensatory loci involved drug resistance.
+
+doi: 10.1371/journal.pgen.1008453 
+pmcid: pmc6821138
+pmid: 31609965  [indexed medline]
+
+conflict interest statement: authors declared competing
+interests exist.
+

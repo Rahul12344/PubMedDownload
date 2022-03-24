@@ -1,0 +1,38 @@
+
+1. J Bacteriol. 2003 Sep;185(18):5363-71.
+
+Arsenic sensing and resistance system in the cyanobacterium Synechocystis sp.
+strain PCC 6803.
+
+López-Maury L(1), Florencio FJ, Reyes JC.
+
+Author information: 
+(1)Instituto de Bioquímica Vegetal y Fotosíntesis, Consejo Superior de
+Investigaciones Científicas, Universidad de Sevilla, E-41092 Seville, Spain.
+
+Arsenic is one of the most important global environmental pollutants. Here we
+show that the cyanobacterium Synechocystis sp. strain PCC 6803 contains an
+arsenic and antimony resistance operon consisting of three genes: arsB, encoding 
+a putative arsenite and antimonite carrier, arsH, encoding a protein of unknown
+function, and arsC, encoding a putative arsenate reductase. While arsB mutant
+strains were sensitive to arsenite, arsenate, and antimonite, arsC mutants were
+sensitive only to arsenate. The arsH mutant strain showed no obvious phenotype
+under the conditions tested. In vivo the arsBHC operon was derepressed by
+oxyanions of arsenic and antimony (oxidation state, +3) and, to a lesser extent, 
+by bismuth (oxidation state, +3) and arsenate (oxidation state, +5). In the
+absence of these effectors, the operon was repressed by a transcription repressor
+of the ArsR/SmtB family, encoded by an unlinked gene termed arsR. Thus, arsR null
+mutants showed constitutive derepression of the arsBHC operon. Expression of the 
+arsR gene was not altered by the presence of arsenic or antimony compounds.
+Purified recombinant ArsR protein binds to the arsBHC promoter-operator region in
+the absence of metals and dissociates from the DNA in the presence of Sb(III) or 
+As(III) but not in the presence of As(V), suggesting that trivalent metalloids
+are the true inducers of the system. DNase I footprinting experiments indicate
+that ArsR binds to two 17-bp direct repeats, with each one consisting of two
+inverted repeats, in the region from nucleotides -34 to + 17 of the arsBHC
+promoter-operator.
+
+DOI: 10.1128/JB.185.18.5363-5371.2003 
+PMCID: PMC193754
+PMID: 12949088  [Indexed for MEDLINE]
+

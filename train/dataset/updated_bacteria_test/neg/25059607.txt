@@ -1,0 +1,30 @@
+
+1. Methods Mol Biol. 2014;1188:95-106. doi: 10.1007/978-1-4939-1142-4_8.
+
+Stable isotope labeling for proteomic analysis of tissues in mouse.
+
+Hölper S(1), Ruhs A, Krüger M.
+
+Author information: 
+(1)Max Planck Institute for Heart and Lung Research, Lugwigstr. 43, 61231, Bad
+Nauheim, Germany.
+
+Since the first metabolic labeling experiments with stable isotopes beginning of 
+the last century, several approaches were pursued to monitor protein dynamics in 
+living animals. Today, almost all model organisms from bacteria to rodents can be
+fully labeled with SILAC (stable isotope labeling of amino acids in cell culture)
+amino acids. The development of special media and diets containing the labeled
+amino acids provides an efficient way to metabolically label prokaryotic and
+eukaryotic organisms. Preferentially, the essential amino acid lysine
+((13)C6-lysine) is used to label mice (Mus musculus) and after one generation the
+natural isotope is fully replaced by the stable (13)C6-lysine isotope. So far,
+the SILAC mouse approach has been used to analyze several transgenic and knockout
+mouse models. Spike-in of labeled proteins into non-labeled samples provides an
+accurate relative protein quantification method without any chemical
+modification. Here we describe how to establish a SILAC mouse colony and describe
+the analysis of skeletal muscle tissue with different metabolic and contractile
+profiles.
+
+DOI: 10.1007/978-1-4939-1142-4_8 
+PMID: 25059607  [Indexed for MEDLINE]
+

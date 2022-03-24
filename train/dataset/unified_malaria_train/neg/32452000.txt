@@ -1,0 +1,37 @@
+
+1. methods mol biol. 2020;2151:109-133. doi: 10.1007/978-1-0716-0635-3_10.
+
+step-by-step bioinformatics analysis schistosoma mansoni long non-coding rna
+sequences.
+
+maciel lf(1)(2), verjovski-almeida s(3)(4).
+
+author information: 
+(1)instituto butantan, são paulo, sp, brazil.
+(2)instituto de química, universidade de são paulo, são paulo, sp, brazil.
+(3)instituto butantan, são paulo, sp, brazil. verjo@iq.usp.br.
+(4)instituto de química, universidade de são paulo, são paulo, sp, brazil.
+verjo@iq.usp.br.
+
+in last years, long non-coding rnas (lncrnas) widely studied in
+humans, relevance physiological pathological conditions has
+been demonstrated. parasites, works, in
+plasmodium falciparum, shown lncrna regulates expression
+of gene associated immune system evasion, also indicating relevance of
+understanding role class rnas parasites. schistosoma
+mansoni, last 2 years, four published articles related the
+annotation lncrnas different life cycle stages using rna-seq libraries. 
+order make process lncrna identification annotation more
+accessible biologists bioinformatics training, considering growing
+number s. mansoni rna-seq libraries publicly available different sources,
+such ovary tissues bi-sex single-sex infections, potential of
+lncrnas therapeutic targets, provide step-by-step protocol lncrna
+identification quantification. guide includes download rna-seq
+libraries public database reads processing mapping the
+genome, transcript reconstruction, novel lncrna identification, transcripts
+expression level determination, identification differentially
+expressed lncrnas.
+
+doi: 10.1007/978-1-0716-0635-3_10 
+pmid: 32452000 
+

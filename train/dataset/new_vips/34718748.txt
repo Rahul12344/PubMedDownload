@@ -1,0 +1,44 @@
+
+1. Nucleic Acids Res. 2021 Oct 30. pii: gkab958. doi: 10.1093/nar/gkab958. [Epub
+ahead of print]
+
+MVIP: multi-omics portal of viral infection.
+
+Tang Z(1), Fan W(1), Li Q(1), Wang D(1), Wen M(2), Wang J(1), Li X(1), Zhou
+Y(1)(2)(3)(4).
+
+Author information: 
+(1)State Key Laboratory of Virology, College of Life Sciences, Wuhan University, 
+Wuhan 430072, China.
+(2)Institute for Advanced Studies, Wuhan University, Wuhan 430072, China.
+(3)RNA Institute, Wuhan University, Wuhan 430072, China.
+(4)Frontier Science Center for Immunology and Metabolism, Wuhan University, Wuhan
+430072, China.
+
+Virus infections are huge threats to living organisms and cause many diseases,
+such as COVID-19 caused by SARS-CoV-2, which has led to millions of deaths. To
+develop effective strategies to control viral infection, we need to understand
+its molecular events in host cells. Virus related functional genomic datasets are
+growing rapidly, however, an integrative platform for systematically
+investigating host responses to viruses is missing. Here, we developed a
+user-friendly multi-omics portal of viral infection named as MVIP
+(https://mvip.whu.edu.cn/). We manually collected available high-throughput
+sequencing data under viral infection, and unified their detailed metadata
+including virus, host species, infection time, assay, and target, etc. We
+processed multi-layered omics data of more than 4900 viral infected samples from 
+77 viruses and 33 host species with standard pipelines, including RNA-seq,
+ChIP-seq, and CLIP-seq, etc. In addition, we integrated these genome-wide signals
+into customized genome browsers, and developed multiple dynamic charts to
+exhibit the information, such as time-course dynamic and differential gene
+expression profiles, alternative splicing changes and enriched GO/KEGG terms.
+Furthermore, we implemented several tools for efficiently mining the virus-host
+interactions by virus, host and genes. MVIP would help users to retrieve
+large-scale functional information and promote the understanding of virus-host
+interactions.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkab958 
+PMID: 34718748 
+

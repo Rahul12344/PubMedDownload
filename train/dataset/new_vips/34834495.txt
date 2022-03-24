@@ -1,0 +1,41 @@
+
+1. J Pers Med. 2021 Nov 4;11(11). pii: 1143. doi: 10.3390/jpm11111143.
+
+The Application Value of Lipoprotein Particle Numbers in the Diagnosis of
+HBV-Related Hepatocellular Carcinoma with BCLC Stage 0-A.
+
+Zuo D(1), An H(1), Li J(1), Xiao J(1), Ren L(1).
+
+Author information: 
+(1)Department of Clinical Laboratory, Tianjin Medical University Cancer Institute
+and Hospital, National Clinical Research Center for Cancer, Tianjin's Clinical
+Research Center for Cancer, Key Laboratory of Cancer Prevention and Therapy,
+Tianjin 300060, China.
+
+Early diagnosis is essential for improving the prognosis and survival of patients
+with hepatocellular carcinoma (HCC). This study aims to explore the clinical
+value of lipoprotein subfractions in the diagnosis of hepatitis B virus
+(HBV)-related HCC. Lipoprotein subfractions were detected by 1H-NMR spectroscopy,
+and the pattern-recognition method and binary logistic regression were performed 
+to classify distinct serum profiles and construct prediction models for HCC
+diagnosis. Differentially expressed proteins associated with lipid metabolism
+were detected by LC-MS/MS, and the potential prognostic significance of the mRNA 
+expression was evaluated by Kaplan-Meier survival analysis. The diagnostic panel 
+constructed from the serum particle number of very-low-density lipoprotein
+(VLDL), intermediate-density lipoprotein (IDL), and low-density lipoprotein
+(LDL-1~LDL-6) achieved higher accuracy for the diagnosis of HBV-related HCC and
+HBV-related benign liver disease (LD) than that constructed from serum
+alpha-fetoprotein (AFP) alone in the training set (AUC: 0.850 vs. AUC: 0.831) and
+validation set (AUC: 0.926 vs. AUC: 0.833). Furthermore, the panel achieved good 
+diagnostic performance in distinguishing AFP-negative HCC from AFP-negative LD
+(AUC: 0.773). We also found that lipoprotein lipase (LPL) transcript levels
+showed a significant increase in cancerous tissue and that high expression was
+significantly positively correlated with the poor prognosis of patients. Our
+research provides new insight for the development of diagnostic biomarkers for
+HCC, and abnormal lipid metabolism and LPL-mediated abnormal serum lipoprotein
+metabolism may be important factors in promoting HCC development.
+
+DOI: 10.3390/jpm11111143 
+PMCID: PMC8617679
+PMID: 34834495 
+

@@ -1,0 +1,42 @@
+
+1. Yi Chuan. 2021 Nov 20;43(11):1088-1100. doi: 10.16288/j.yczz.21-164.
+
+Analysis of microRNA expression profile in Emiliania huxleyi in response to virus
+infection.
+
+Zhang EQ(1), Cai WC(1), Li GL(1), Li J(1), Liu JW(1).
+
+Author information: 
+(1)College of Food and Bioengineering, Jimei University, Xiamen 361021, China.
+
+The interactions between Emiliania huxleyi and E. huxleyi virus (EhV) regulate
+marine carbon and sulfur biogeochemical cycle and play a prominent role in global
+climate change. As a large DNA virus, EhVs have developed a novel "virocell
+metabolism" model to meet their higher metabolic needs. However, the regulatory
+mechanism of this metabolic model is still largely unclear. MicroRNAs (miRNAs)
+can regulate biological pathways through targeting hub genes in the metabolic
+processes. Here, we performed high-throughput small RNA sequencing to analyse
+miRNA expression in EhV99B1 infected E. huxleyi BOF92. A total of 26 miRNAs
+(including 2 virus-derived miRNAs) were identified, including four up-regulated
+and one down-regulated miRNAs. These results were further validated through
+quantitative real-time PCR. Functional enrichment analysis showed that five
+differentially-expressed miRNAs might be involved in the regulation of
+carbohydrate metabolism, lipid metabolism and amino acid metabolism. Moreover,
+the expression levels of differentially-expressed miRNAs were negatively
+correlated with that of several lipid metabolism-related genes, such as ACC-1,
+SPT, ACOX, ACAT, CERS and ACADS, indicating that these miRNAs might play an
+important regulatory role in virus-mediated lipid metabolism.
+
+Publisher:
+海洋颗石藻病毒-宿主互作是影响海洋碳、硫生物地化循环及全球气候变化的重要环节。作为大的双链DNA病毒,颗石藻病毒进化出一种“病毒细胞代谢”模式,通过重编程宿主代谢
+途径以满足其代谢需求,但对这一代谢模式的调控机制尚缺乏足够的认识。MicroRNA
+(miRNA)作为一种基因表达调控的重要因子,能够通过调控代谢过程中的靶基因表达,从而调节相关代谢通路。本研究采用small
+RNA测序技术分析病毒感染颗石藻差异表达的miRNA及其靶基因功能,鉴定出26条成熟miRNA
+(包括2条病毒来源的miRNA),均来自23条新的miRNA前体序列,其中5条miRNA显著差异表达,包括4条上调,1条下调。实时荧光定量PCR
+(quantitative real-time PCR,
+qRT-PCR)验证结果与miRNA-seq结果基本一致。功能富集分析显示,5个差异表达的miRNA可能参与调节糖代谢、脂代谢和氨基酸等代谢。此外,差异表达miR
+NA的表达水平与脂质代谢相关靶基因如ACC-1、SPT、ACOX、ACAT、CERS、ACADS等的表达水平呈负相关,说明这些miRNA可能在病毒感染过程中对宿主
+的脂质代谢发挥重要的调控作用。.
+DOI: 10.16288/j.yczz.21-164 
+PMID: 34815211  [Indexed for MEDLINE]
+

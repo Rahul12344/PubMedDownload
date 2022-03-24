@@ -1,0 +1,47 @@
+
+1. Front Immunol. 2021 Oct 27;12:756288. doi: 10.3389/fimmu.2021.756288. eCollection
+2021.
+
+Genome-Wide Profiling Reveals Alternative Polyadenylation of Innate
+Immune-Related mRNA in Patients With COVID-19.
+
+An S(1), Li Y(1), Lin Y(1), Chu J(1), Su J(1), Chen Q(1), Wang H(1), Pan P(1),
+Zheng R(1), Li J(1), Jiang J(1)(2), Ye L(1)(2), Liang H(1)(2).
+
+Author information: 
+(1)Biosafety Level-3 Laboratory, Life Sciences Institute & Guangxi Collaborative 
+Innovation Center for Biomedicine, Guangxi Medical University, Nanning, China.
+(2)Guangxi Key Laboratory of AIDS Prevention and Treatment, School of Public
+Health, Guangxi Medical University, Nanning, China.
+
+The coronavirus disease 2019 (COVID-19) pandemic has caused many deaths
+worldwide. To date, the mechanism of viral immune escape remains unclear, which
+is a great obstacle to developing effective clinical treatment. RNA processing
+mechanisms, including alternative polyadenylation (APA) and alternative splicing 
+(AS), are crucial in the regulation of most human genes in many types of
+infectious diseases. Because the role of APA and AS in response to severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2) infection remains unknown, we
+performed de novo identification of dynamic APA sites using a public dataset of
+human peripheral blood mononuclear cell (PBMC) RNA-Seq data in COVID-19 patients.
+We found that genes with APA were enriched in innate immunity -related gene
+ontology categories such as neutrophil activation, regulation of the MAPK cascade
+and cytokine production, response to interferon-gamma and the innate immune
+response. We also reported genome-wide AS events and enriched viral
+transcription-related categories upon SARS-CoV-2 infection. Interestingly, we
+found that APA events may give better predictions than AS in COVID-19 patients,
+suggesting that APA could act as a potential therapeutic target and novel
+biomarker in those patients. Our study is the first to annotate genes with APA
+and AS in COVID-19 patients and highlights the roles of APA variation in
+SARS-CoV-2 infection.
+
+Copyright © 2021 An, Li, Lin, Chu, Su, Chen, Wang, Pan, Zheng, Li, Jiang, Ye and 
+Liang.
+
+DOI: 10.3389/fimmu.2021.756288 
+PMCID: PMC8578971
+PMID: 34777369  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

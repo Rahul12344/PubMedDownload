@@ -1,0 +1,39 @@
+
+1. Microb Cell Fact. 2011 Dec 9;10:105. doi: 10.1186/1475-2859-10-105.
+
+Enhanced expression of membrane proteins in E. coli with a P(BAD) promoter
+mutant: synergies with chaperone pathway engineering strategies.
+
+Nannenga BL(1), Baneyx F.
+
+Author information: 
+(1)Department of Chemical Engineering, University of Washington, Seattle, WA
+98195-1750, USA.
+
+BACKGROUND: Membrane proteins (MPs) populate 20-30% of genomes sequenced to date 
+and hold potential as therapeutic targets as well as for practical applications
+in bionanotechnology. However, MP toxicity and low yields in normally robust
+expression hosts such as E. coli has curtailed progress in our understanding of
+their structure and function.
+RESULTS: Using the seven transmembrane segments H. turkmenica deltarhodopsin
+(HtdR) as a reporter, we isolated a spontaneous mutant in the arabinose-inducible
+P(BAD) promoter leading to improved cell growth and a twofold increase in the
+recovery of active HtdR at 37°C. A single transversion in a conserved region of
+the cyclic AMP receptor protein binding site caused the phenotype by reducing
+htdR transcript levels by 65%. When the mutant promoter was used in conjunction
+with a host lacking the molecular chaperone Trigger Factor (Δtig cells), toxicity
+was further suppressed and the amount of correctly folded HtdR was 4-fold that
+present in the membranes of control cells. More importantly, while improved
+growth barely compensated for the reduction in transcription rates when another
+polytopic membrane protein (N. pharonis sensory rhodopsin II) was expressed under
+control of the mutant promoter in wild type cells, a 4-fold increase in
+productivity could be achieved in a Δtig host.
+CONCLUSIONS: Our system, which combines a downregulated version of the tightly
+repressed P(BAD) promoter with a TF-deficient host may prove a valuable
+alternative to T7-based expression for the production of membrane proteins that
+have so far remained elusive targets.
+
+DOI: 10.1186/1475-2859-10-105 
+PMCID: PMC3265434
+PMID: 22151946  [Indexed for MEDLINE]
+

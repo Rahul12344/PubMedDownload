@@ -1,0 +1,101 @@
+
+1. Health Technol Assess. 2014 Jan;18(6):vii-xxv, 1-101. doi: 10.3310/hta18060.
+
+PRImary care Streptococcal Management (PRISM) study: in vitro study, diagnostic
+cohorts and a pragmatic adaptive randomised controlled trial with nested
+qualitative study and cost-effectiveness study.
+
+Little P(1), Hobbs FD(2), Moore M(1), Mant D(3), Williamson I(1), McNulty C(4),
+Lasseter G(4), Cheng MY(1), Leydon G(1), McDermott L(1), Turner D(1),
+Pinedo-Villanueva R(1), Raftery J(1), Glasziou P(3), Mullee M(1); PRISM
+investigators.
+
+Collaborators: Meer-Baloch R, Kelly J, Barnett J, Lambton T, Cooper R, Henderson 
+H, Hawtin P, Middleton K, Smith S, Selwood M, Coulson D.
+
+Author information: 
+(1)Primary Care and Population Sciences Unit, University of Southampton,
+Southampton, UK.
+(2)Primary Care Clinical Sciences, University of Birmingham, Birmingham, UK.
+(3)Department of Primary Care Health Sciences, University of Oxford, Oxford, UK.
+(4)Public Health England, Primary Care Unit, Microbiology Laboratory,
+Gloucestershire Royal Hospital, Gloucester, UK.
+
+Erratum in
+    Health Technol Assess. 2018 Oct;18(6):103-104.
+
+BACKGROUND: Antibiotics are still prescribed to most patients attending primary
+care with acute sore throat, despite evidence that there is modest benefit
+overall from antibiotics. Targeting antibiotics using either clinical scoring
+methods or rapid antigen detection tests (RADTs) could help. However, there is
+debate about which groups of streptococci are important (particularly Lancefield 
+groups C and G), and uncertainty about the variables that most clearly predict
+the presence of streptococci.
+OBJECTIVE: This study aimed to compare clinical scores or RADTs with delayed
+antibiotic prescribing.
+DESIGN: The study comprised a RADT in vitro study; two diagnostic cohorts to
+develop streptococcal scores (score 1; score 2); and, finally, an open pragmatic 
+randomised controlled trial with nested qualitative and cost-effectiveness
+studies.
+SETTING: The setting was UK primary care general practices.
+PARTICIPANTS: Participants were patients aged ≥ 3 years with acute sore throat.
+INTERVENTIONS: An internet program randomised patients to targeted antibiotic use
+according to (1) delayed antibiotics (control group), (2) clinical score or (3)
+RADT used according to clinical score.
+MAIN OUTCOME MEASURES: The main outcome measures were self-reported antibiotic
+use and symptom duration and severity on seven-point Likert scales (primary
+outcome: mean sore throat/difficulty swallowing score in the first 2-4 days).
+RESULTS: The IMI TestPack Plus Strep A (Inverness Medical, Bedford, UK) was
+sensitive, specific and easy to use. Lancefield group A/C/G streptococci were
+found in 40% of cohort 2 and 34% of cohort 1. A five-point score predicting the
+presence of A/C/G streptococci [FeverPAIN: Fever; Purulence; Attend rapidly (≤ 3 
+days); severe Inflammation; and No cough or coryza] had moderate predictive value
+(bootstrapped estimates of area under receiver operating characteristic curve:
+0.73 cohort 1, 0.71 cohort 2) and identified a substantial number of participants
+at low risk of streptococcal infection. In total, 38% of cohort 1 and 36% of
+cohort 2 scored ≤ 1 for FeverPAIN, associated with streptococcal percentages of
+13% and 18%, respectively. In an adaptive trial design, the preliminary score
+(score 1; n = 1129) was replaced by FeverPAIN (n = 631). For score 1, there were 
+no significant differences between groups. For FeverPAIN, symptom severity was
+documented in 80% of patients, and was lower in the clinical score group than in 
+the delayed prescribing group (-0.33; 95% confidence interval -0.64 to -0.02;
+p = 0.039; equivalent to one in three rating sore throat a slight rather than
+moderately bad problem), and a similar reduction was observed for the RADT group 
+(-0.30; -0.61 to 0.00; p = 0.053). Moderately bad or worse symptoms resolved
+significantly faster (30%) in the clinical score group (hazard ratio 1.30; 1.03
+to 1.63) but not the RADT group (1.11; 0.88 to 1.40). In the delayed group,
+75/164 (46%) used antibiotics, and 29% fewer used antibiotics in the clinical
+score group (risk ratio 0.71; 0.50 to 0.95; p = 0.018) and 27% fewer in the RADT 
+group (0.73; 0.52 to 0.98; p = 0.033). No significant differences in
+complications or reconsultations were found. The clinical score group dominated
+both other groups for both the cost/quality-adjusted life-years and cost/change
+in symptom severity analyses, being both less costly and more effective, and
+cost-effectiveness acceptability curves indicated the clinical score to be the
+most likely to be cost-effective from an NHS perspective. Patients were positive 
+about RADTs. Health professionals' concerns about test validity, the time the
+test took and medicalising self-limiting illness lessened after using the tests. 
+For both RADTs and clinical scores, there were tensions with established clinical
+experience.
+CONCLUSIONS: Targeting antibiotics using a clinical score (FeverPAIN) efficiently
+improves symptoms and reduces antibiotic use. RADTs used in combination with
+FeverPAIN provide no clear advantages over FeverPAIN alone, and RADTs are
+unlikely to be incorporated into practice until health professionals' concerns
+are met and they have experience of using them. Clinical scores also face
+barriers related to clinicians' perceptions of their utility in the face of
+experience. This study has demonstrated the limitation of using one data set to
+develop a clinical score. FeverPAIN, derived from two data sets, appears to be
+valid and its use improves outcomes, but diagnostic studies to confirm the
+validity of FeverPAIN in other data sets and settings are needed. Experienced
+clinicians need to identify barriers to the use of clinical scoring methods.
+Implementation studies that address perceived barriers in the use of FeverPAIN
+are needed.
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN32027234.
+SOURCE OF FUNDING: This project was funded by the NIHR Health Technology
+Assessment programme and will be published in full in Health Technology
+Assessment; Vol. 18, No. 6. See the NIHR Journals Library website for further
+project information.
+
+DOI: 10.3310/hta18060 
+PMCID: PMC4781545
+PMID: 24467988  [Indexed for MEDLINE]
+

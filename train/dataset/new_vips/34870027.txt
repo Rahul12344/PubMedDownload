@@ -1,0 +1,65 @@
+
+1. ACS Omega. 2021 Nov 18;6(47):32043-32071. doi: 10.1021/acsomega.1c04817.
+eCollection 2021 Nov 30.
+
+Designing of a Multi-epitope Vaccine against the Structural Proteins of Marburg
+Virus Exploiting the Immunoinformatics Approach.
+
+Sami SA(1), Marma KKS(1), Mahmud S(2), Khan MAN(3), Albogami S(4), El-Shehawi
+AM(4), Rakib A(1), Chakraborty A(1), Mohiuddin M(1), Dhama K(5), Uddin MMN(1),
+Hossain MK(1), Tallei TE(6), Emran TB(7).
+
+Author information: 
+(1)Department of Pharmacy, Faculty of Biological Sciences, University of
+Chittagong, Chittagong 4331, Bangladesh.
+(2)Microbiology Laboratory, Bioinformatics Division, Department of Genetic
+Engineering and Biotechnology, University of Rajshahi, Rajshahi 6205, Bangladesh.
+(3)Department of Biochemistry and Molecular Biology, Faculty of Biological
+Sciences, University of Chittagong, Chittagong 4331, Bangladesh.
+(4)Department of Biotechnology, College of Science, Taif University, P.O. Box
+11099, Taif 21944, Saudi Arabia.
+(5)Division of Pathology, ICAR-Indian Veterinary Research Institute, Izatnagar,
+Bareilly, Uttar Pradesh 243122, India.
+(6)Department of Biology, Faculty of Mathematics and Natural Sciences, Sam
+Ratulangi University, Manado, North Sulawesi 95115, Indonesia.
+(7)Department of Pharmacy, BGC Trust University Bangladesh, Chittagong 4381,
+Bangladesh.
+
+Marburg virus disease (MVD) caused by the Marburg virus (MARV) generally appears 
+with flu-like symptoms and leads to severe hemorrhagic fever. It spreads via
+direct contact with infected individuals or animals. Despite being considered to 
+be less threatening in terms of appearances and the number of infected patients, 
+the high fatality rate of this pathogenic virus is a major concern. Until now, no
+vaccine has been developed to combat this deadly virus. Therefore, vaccination
+for this virus is necessary to reduce its mortality. Our current investigation
+focuses on the design and formulation of a multi-epitope vaccine based on the
+structural proteins of MARV employing immunoinformatics approaches. The screening
+of potential T-cell and B-cell epitopes from the seven structural proteins of
+MARV was carried out through specific selection parameters. Afterward, we
+compiled the shortlisted epitopes by attaching them to an appropriate adjuvant
+and linkers. Population coverage analysis, conservancy analysis, and MHC cluster 
+analysis of the shortlisted epitopes were satisfactory. Importantly,
+physicochemical characteristics, human homology assessment, and structure
+validation of the vaccine construct delineated convenient outcomes. We
+implemented disulfide bond engineering to stabilize the tertiary or quaternary
+interactions. Furthermore, stability and physical movements of the vaccine
+protein were explored using normal-mode analysis. The immune simulation study of 
+the vaccine complexes also exhibited significant results. Additionally, the
+protein-protein docking and molecular dynamics simulation of the final construct 
+exhibited a higher affinity toward toll-like receptor-4 (TLR4). From simulation
+trajectories, multiple descriptors, namely, root mean square deviations (rmsd),
+radius of gyration (Rg), root mean square fluctuations (RMSF), solvent-accessible
+surface area (SASA), and hydrogen bonds, have been taken into account to
+demonstrate the inflexible and rigid nature of receptor molecules and the
+constructed vaccine. Inclusively, our findings suggested the vaccine constructs' 
+ability to regulate promising immune responses against MARV pathogenesis.
+
+© 2021 The Authors. Published by American Chemical Society.
+
+DOI: 10.1021/acsomega.1c04817 
+PMCID: PMC8638006
+PMID: 34870027 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

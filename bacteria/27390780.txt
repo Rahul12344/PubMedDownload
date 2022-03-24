@@ -1,0 +1,63 @@
+
+1. mSphere. 2016 Jun 29;1(4). pii: e00121-16. doi: 10.1128/mSphere.00121-16.
+eCollection 2016 Jul-Aug.
+
+Separate F-Type Plasmids Have Shaped the Evolution of the H30 Subclone of
+Escherichia coli Sequence Type 131.
+
+Johnson TJ(1), Danzeisen JL(1), Youmans B(1), Case K(1), Llop K(1), Munoz-Aguayo 
+J(1), Flores-Figueroa C(1), Aziz M(2), Stoesser N(3), Sokurenko E(4), Price
+LB(2), Johnson JR(5).
+
+Author information: 
+(1)Department of Veterinary and Biomedical Sciences, University of Minnesota, St.
+Paul, Minnesota, USA.
+(2)Division of Pathogen Genomics, Translational Genomics Research Institute,
+Flagstaff, Arizona, USA; Department of Occupational and Environmental Health,
+George Washington University, Washington, DC, USA.
+(3)Modernising Medical Microbiology Consortium, Nuffield Department of Medicine, 
+John Radcliffe Hospital, University of Oxford, Oxford, United Kingdom.
+(4)Department of Microbiology, University of Washington, Seattle, Washington,
+USA.
+(5)Minneapolis Veterans Health Care System, Minneapolis, Minnesota, USA;
+Department of Medicine, University of Minnesota, Minneapolis, Minnesota, USA.
+
+The extraintestinal pathogenic Escherichia coli (ExPEC) H30 subclone of sequence 
+type 131 (ST131-H30) has emerged abruptly as a dominant lineage of ExPEC
+responsible for human disease. The ST131-H30 lineage has been well described
+phylogenetically, yet its plasmid complement is not fully understood. Here,
+single-molecule, real-time sequencing was used to generate the complete plasmid
+sequences of ST131-H30 isolates and those belonging to other ST131 clades.
+Comparative analyses revealed separate F-type plasmids that have shaped the
+evolution of the main fluoroquinolone-resistant ST131-H30 clades. Specifically,
+an F1:A2:B20 plasmid is strongly associated with the H30R/C1 clade, whereas an
+F2:A1:B- plasmid is associated with the H30Rx/C2 clade. A series of plasmid gene 
+losses, gains, and rearrangements involving IS26 likely led to the current
+plasmid complements within each ST131-H30 sublineage, which contain several
+overlapping gene clusters with putative functions in virulence and fitness,
+suggesting plasmid-mediated convergent evolution. Evidence suggests that the
+H30Rx/C2-associated F2:A1:B- plasmid type was present in strains ancestral to the
+acquisition of fluoroquinolone resistance and prior to the introduction of a
+multidrug resistance-encoding gene cassette harboring bla CTX-M-15. In vitro
+experiments indicated a host strain-independent low frequency of plasmid
+transfer, differential levels of plasmid stability even between closely related
+ST131-H30 strains, and possible epistasis for carriage of these plasmids within
+the H30R/Rx lineages. IMPORTANCE A clonal lineage of Escherichia coli known as
+ST131 has emerged as a dominating strain type causing extraintestinal infections 
+in humans. The evolutionary history of ST131 E. coli is now well understood.
+However, the role of plasmids in ST131's evolutionary history is poorly defined. 
+This study utilized real-time, single-molecule sequencing to compare plasmids
+from various current and historical lineages of ST131. From this work, it was
+determined that a series of plasmid gains, losses, and recombinational events has
+led to the currently circulating plasmids of ST131 strains. These plasmids appear
+to have evolved to acquire similar gene clusters on multiple occasions,
+suggesting possible plasmid-mediated convergent evolution leading to evolutionary
+success. These plasmids also appear to be better suited to exist in specific
+strains of ST131 due to coadaptive mutations. Overall, a series of events has
+enabled the evolution of ST131 plasmids, possibly contributing to the lineage's
+success.
+
+DOI: 10.1128/mSphere.00121-16 
+PMCID: PMC4933990
+PMID: 27390780 
+

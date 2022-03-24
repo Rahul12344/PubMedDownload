@@ -1,0 +1,43 @@
+
+1. Mol Cell Biol. 1989 Nov;9(11):4882-8.
+
+Arginine restriction induced by delta-N-(phosphonacetyl)-L-ornithine signals
+increased expression of HIS3, TRP5, CPA1, and CPA2 in Saccharomyces cerevisiae.
+
+Kinney DM(1), Lusty CJ.
+
+Author information: 
+(1)Department of Molecular Genetics, Public Health Research Institute, New York, 
+New York 10016.
+
+delta-N-(Phosphonacetyl)-L-ornithine (PALO), a transition state analog inhibitor 
+of ornithine transcarbamylase, induced arginine limitation in vivo in
+Saccharomyces cerevisiae. Arginine restriction caused increased expression of
+HIS3 and TRP5, measured by the beta-galactosidase activity in strains carrying
+chromosomally integrated fusions of the promoter regions of each gene with the
+lacZ gene of Escherichia coli. The increase in beta-galactosidase activity
+induced by PALO was reversed by the addition of arginine and was dependent on
+GCN4 protein. These results indicate that PALO, like 3-amino-1,2,4-triazole
+DL-5-methyltryptophan, can be used to study the effect of limitation of a single 
+amino acid, arginine, on the expression of genes under the general amino acid
+control regulatory system. Arginine deprivation imposed by PALO also caused
+increased expression of CPA1 and CPA2, coding respectively for the small and
+large subunits of arginine-specific carbamyl-phosphate synthetase. The observed
+increase was GCN4 dependent and was genetically separable from arginine-specific 
+repression of CPA1 mRNA translation. The 5'-flanking regions of CPA1 (reported
+previously) and CPA2 determined in this study each contained at least two copies 
+of the sequence TGACTC, shown to bind GCN4 protein. The beta-galactosidase
+activities expressed from CPA1- and CPA2-lacZ fusions integrated into the nuclear
+DNA of gcn4 mutant strains were five to six times less than in the wild type,
+when both strains were grown under depressed conditions. The gcn4 mutation
+reduced basal expression of both CPA1 and CPA2. The addition of arginine to
+strains containing the CPA1-lacZ fusion further reduced beta-galactosidase
+activity of the gcn4 mutant, indicating independent regulation of the CPA1 gene
+by the general amino acid control and by arginine-specific repression. In strains
+overproducing GCN4 protein, the translational control completely overrode
+transcriptional activation of CPA1 by general amino acid control.
+
+DOI: 10.1128/mcb.9.11.4882-4888.1989 
+PMCID: PMC363638
+PMID: 2689869  [Indexed for MEDLINE]
+

@@ -1,0 +1,59 @@
+
+1. BMC Microbiol. 2015 Apr 3;15:83. doi: 10.1186/s12866-015-0413-9.
+
+Genome sequencing and comparative genomics provides insights on the evolutionary 
+dynamics and pathogenic potential of different H-serotypes of Shiga
+toxin-producing Escherichia coli O104.
+
+Yan X(1)(2), Fratamico PM(3), Bono JL(4), Baranzoni GM(5), Chen CY(6).
+
+Author information: 
+(1)USDA, Agricultural Research Service, Eastern Regional Research Center, 600 E. 
+Mermaid Lane, 19038, Wyndmoor, PA, USA. Xianghe.Yan@ars.usda.gov.
+(2)U.S. Department of Agriculture, Eastern Regional Research Center, Agricultural
+Research Service, 600 East Mermaid Lane, 19038, Wyndmoor, PA, USA.
+Xianghe.Yan@ars.usda.gov.
+(3)USDA, Agricultural Research Service, Eastern Regional Research Center, 600 E. 
+Mermaid Lane, 19038, Wyndmoor, PA, USA. Pina.Fratamico@ars.usda.gov.
+(4)USDA, Agricultural Research Service, Meat Animal Research Center, Clay Center,
+NE, 68933, USA. Jim.Bono@ars.usda.gov.
+(5)USDA, Agricultural Research Service, Eastern Regional Research Center, 600 E. 
+Mermaid Lane, 19038, Wyndmoor, PA, USA. GianMarco.Baranzoni@ars.usda.gov.
+(6)USDA, Agricultural Research Service, Eastern Regional Research Center, 600 E. 
+Mermaid Lane, 19038, Wyndmoor, PA, USA. Chin-Yi.Chen@ars.usda.gov.
+
+BACKGROUND: Various H-serotypes of the Shiga toxin-producing Escherichia coli
+(STEC) O104, including H4, H7, H21, and H¯, have been associated with sporadic
+cases of illness and have caused food-borne outbreaks globally. In the U.S., STEC
+O104:H21 caused an outbreak associated with milk in 1994. However, there is
+little known on the evolutionary origins of STEC O104 strains, and how genotypic 
+diversity contributes to pathogenic potential of various O104 H-antigen serotypes
+isolated from different ecological niches and/or geographical regions.
+RESULTS: Two STEC O104:H21 (milk outbreak strain) and O104:H7 (cattle isolate)
+strains were shot-gun sequenced, and the genomes were closed. The intimin (eae)
+gene, involved in the attaching-effacing phenotype of diarrheagenic E. coli, was 
+not found in either strain. Examining various O104 genome sequences, we found
+that two "complete" left and right end portions of the locus of enterocyte
+effacement (LEE) pathogenicity island were present in 13 O104 strains; however,
+the central portion of LEE was missing, where the eae gene is located. In O104:H4
+strains, the missing central portion of the LEE locus was replaced by a
+pathogenicity island carrying the aidA (adhesin involved in diffuse adherence)
+gene and antibiotic resistance genes commonly carried on plasmids.
+Enteroaggregative E. coli-specific virulence genes and European outbreak
+O104:H4-specific stx2-encoding Escherichia P13374 or Escherichia TL-2011c
+bacteriophages were missing in some of the O104:H4 genome sequences available
+from public databases. Most of the genomic variations in the strains examined
+were due to the presence of different mobile genetic elements, including
+prophages and genomic island regions. The presence of plasmids carrying
+virulence-associated genes may play a role in the pathogenic potential of O104
+strains.
+CONCLUSIONS: The two strains sequenced in this study (O104:H21 and O104:H7) are
+genetically more similar to each other than to the O104:H4 strains that caused an
+outbreak in Germany in 2011 and strains found in Central Africa. A hypothesis on 
+strain evolution and pathogenic potential of various H-serotypes of E. coli O104 
+strains is proposed.
+
+DOI: 10.1186/s12866-015-0413-9 
+PMCID: PMC4393859
+PMID: 25887577  [Indexed for MEDLINE]
+

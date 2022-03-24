@@ -1,0 +1,52 @@
+
+1. Hum Genomics. 2017 Mar 16;11(1):4. doi: 10.1186/s40246-017-0101-y.
+
+Transcriptome analysis of bronchoalveolar lavage fluid from children with severe 
+Mycoplasma pneumoniae pneumonia reveals novel gene expression and
+immunodeficiency.
+
+Wang K(1), Gao M(2), Yang M(1), Meng F(2), Li D(2), Lu R(2), Wang Y(2), Zhuang
+H(2), Li M(3), Cheng G(1)(4), Wang X(5).
+
+Author information: 
+(1)Institute of Translational Medicine, the First Hospital of Jilin University,
+Changchun, 130061, China.
+(2)Department of Pediatrics, the First Hospital of Jilin University, Changchun,
+130021, China.
+(3)Bethune Medical School of Jilin University, Changchun, 130021, China.
+(4)Department of Microbiology, Immunology and Molecular Genetics, University of
+California Los Angeles, Los Angeles, CA, 90095, USA.
+(5)Institute of Translational Medicine, the First Hospital of Jilin University,
+Changchun, 130061, China. xiaosongwang@jlu.edu.cn.
+
+BACKGROUND: A growing number of severe Mycoplasma pneumoniae pneumonia (MPP)
+cases have been reported recently. However, the pathogenesis of severe MPP is not
+clear. In the current study, transcriptome sequencing was used to identify gene
+expression and alternative splicing profiles to provide insights into the
+pathogenesis of severe MPP.
+METHODS: RNAs of bronchoalveolar lavage fluid (BALF) samples from three severe
+MPP children and three mild MPP children were analyzed respectively by deep
+sequencing followed by computational annotation and quantification.
+RESULTS: The gene expression analysis revealed 14 up-regulated and 34
+down-regulated genes in severe MPP children comparing to mild MPP children. The
+top 10 most up-regulated genes were IGHV1-69, CH17-472G23.1, ATP1B2, FCER2,
+MUC21, IL13, FCRLB, CLEC5A, FAM124A, and INHBA. The top 10 most down-regulated
+genes were OSTN-AS1, IL22RA2, COL3A1, C1orf141, IGKV2-29, RP11-731F5.2, IGHV4-4, 
+KIRREL, DNASE1L3, and COL6A2. Clustering analysis revealed similar expression
+pattern of CLEC5A, IL13, FCER2, and FLT1. Kyoto Encyclopedia of Genes and Genomes
+(KEGG) pathway enrichment analyses revealed changes related to primary
+immunodeficiency in severe MPP children comparing to mild MPP children; the
+pathway involves CD19, TNFRSF13C, CD79A, and AICDA genes. Among the
+differentially expressed genes, significant alternative splicing events were
+found in FCER2 and FCRLA.
+CONCLUSIONS: The current study on RNA sequencing provides novel insights into the
+pathogenesis of severe MPP in terms of gene expression and alternative splicing. 
+The up-regulation of IL13, FCER2, FLT1, and CLEC5A and the down-regulation of
+CD79A, AICDA, CD19, and TNFRSF13C may contribute to the pathogenesis of severe
+MPP. The differential expressions of FCER2 and FCRLA could be due to their
+alternative splicing.
+
+DOI: 10.1186/s40246-017-0101-y 
+PMCID: PMC5356355
+PMID: 28302172  [Indexed for MEDLINE]
+

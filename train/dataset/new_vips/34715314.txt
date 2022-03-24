@@ -1,0 +1,56 @@
+
+1. J Clin Epidemiol. 2021 Oct 29;142:38-44. doi: 10.1016/j.jclinepi.2021.10.011.
+[Epub ahead of print]
+
+BNT162b2 vaccine effectiveness was marginally affected by the SARS-CoV-2 beta
+variant in fully vaccinated individuals.
+
+Mor O(1), Zuckerman NS(2), Hazan I(3), Fluss R(4), Ash N(3), Ginish N(3),
+Mendelson E(1), Alroy-Preis S(5), Freedman L(4), Huppert A(6).
+
+Author information: 
+(1)Central Virology Laboratory, Israel Ministry of Health, Sheba Medical
+Center, Tel-Hashomer 5262100, Israel; Department of Epidemiology and Preventive
+Medicine, School of Public Health, Sackler Faculty of Medicine, Tel-Aviv
+University, Tel-Aviv 6997801, Israel.
+(2)Central Virology Laboratory, Israel Ministry of Health, Sheba Medical
+Center, Tel-Hashomer 5262100, Israel.
+(3)Israel Ministry of Health, 39 Yirmiyahu Street, P.O.Box 1176, Jerusalem
+9101002, Israel.
+(4)The Biostatistical and Biomathematical Unit, Gertner Institute for
+Epidemiology & Health Policy Research, Sheba Medical Center, Ramat Gan 5265601,
+Israel.
+(5)Public Health Services, Israel Ministry of Health, 39 Yirmiyahu Street,
+P.O.Box 1176, Jerusalem 9101002, Israel.
+(6)Department of Epidemiology and Preventive Medicine, School of Public Health,
+Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv 6997801, Israel; The
+Biostatistical and Biomathematical Unit, Gertner Institute for Epidemiology &
+Health Policy Research, Sheba Medical Center, Ramat Gan 5265601, Israel.
+Electronic address: amit.huppert@gmail.com.
+
+OBJECTIVE: To evaluate the effectiveness of the Pfizer BNT162b2 vaccine against
+the SARS-Cov-2 Beta variant.
+STUDY DESIGN AND SETTING: Israel's mass vaccination program, using two doses of
+the Pfizer BNT162b2 vaccine, successfully curtailed the Alpha variant outbreak
+during winter 2020-2021, However, the virus may mutate and partially evade the
+immune system. To monitor this, sequencing of selected positive swab samples of
+interest was initiated. Comparing vaccinated with unvaccinated PCR positive
+persons, we estimated the odds ratio for a vaccinated case to have the Beta vs.
+the Alpha variant, using logistic regression, controlling for important
+confounders.
+RESULTS: There were 19 cases of Beta variant (3.2%) among those vaccinated more
+than 14 days before the positive sample and 79 (3.4%) among the unvaccinated. The
+estimated odds ratio was 1.26 (95% CI: 0.65-2.46). Assuming the effectiveness
+against the Alpha variant to be 95%, the estimated effectiveness against the Beta
+variant was 94% (95% CI: 88%-98%).
+CONCLUSION: Despite concerns over the Beta variant, the BNT162b2 vaccine seemed
+to provide substantial immunity against both the Beta and the Alpha variants.
+From 14 days following the second vaccine dose, the effectiveness of BNT162b2
+vaccine was at most marginally affected by the Beta variant.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jclinepi.2021.10.011 
+PMCID: PMC8553421
+PMID: 34715314 
+

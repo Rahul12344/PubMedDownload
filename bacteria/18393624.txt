@@ -1,0 +1,37 @@
+
+1. Mol Plant Microbe Interact. 2008 May;21(5):646-57. doi: 10.1094/MPMI-21-5-0646.
+
+Discovery of ADP-ribosylation and other plant defense pathway elements through
+expression profiling of four different Arabidopsis-Pseudomonas R-avr
+interactions.
+
+Adams-Phillips L(1), Wan J, Tan X, Dunning FM, Meyers BC, Michelmore RW, Bent AF.
+
+Author information: 
+(1)Department of Plant Pathology, University of Wisconsin-Madison, Madison, WI
+53706, USA.
+
+A dissection of plant defense pathways was initiated through gene expression
+profiling of the responses of a single Arabidopsis thaliana genotype to isogenic 
+Pseudomonas syringae strains expressing one of four different cloned avirulence
+(avr) genes. Differences in the expression profiles elicited by different
+resistance (R)-avr interactions were observed. A role for poly(ADP-ribosyl)ation 
+in plant defense responses was suggested initially by the upregulated expression 
+of genes encoding NUDT7 and poly(ADP-ribose) glycohydrolase in multiple R-avr
+interactions. Gene knockout plant lines were tested for 20 candidate genes
+identified by the expression profiling, and Arabidopsis NUDT7 mutants allowed
+less growth of virulent P. syringae (as previously reported) but also exhibited a
+reduced hypersensitive-response phenotype. Inhibitors of poly(ADP-ribose)
+polymerase (PARP) disrupted FLS2-mediated basal defense responses such as callose
+deposition. EIN2 (ethylene response) and IXR1 and IXR2 (cellulose synthase)
+mutants impacted the FLS2-mediated responses that occur during PARP inhibition,
+whereas no impacts were observed for NPR1, PAD4, or NDR1 mutants. In the
+expression profiling work, false-positive selection and grouping of genes was
+reduced by requiring simultaneous satisfaction of statistical significance
+criteria for each of three separate analysis methods, and by clustering genes
+based on statistical confidence values for each gene rather than on average
+fold-change of transcript abundance.
+
+DOI: 10.1094/MPMI-21-5-0646 
+PMID: 18393624  [Indexed for MEDLINE]
+

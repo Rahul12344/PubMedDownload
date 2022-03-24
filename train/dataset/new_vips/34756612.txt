@@ -1,0 +1,58 @@
+
+1. Vaccine. 2021 Nov 26;39(48):7044-7051. doi: 10.1016/j.vaccine.2021.10.045. Epub
+2021 Oct 22.
+
+Evaluation of a downstream process for the recovery and concentration of a
+Cell-Culture-Derived rVSV-Spike COVID-19 vaccine candidate.
+
+Makovitzki A(1), Lerer E(1), Kafri Y(1), Adar Y(1), Cherry L(1), Lupu E(1),
+Monash A(1), Levy R(1), Israeli O(2), Dor E(1), Epstein E(1), Levin L(1), Toister
+E(1), Hefetz I(1), Hazan O(1), Simon I(1), Tal A(1), Girshengorn M(1), Tzadok
+H(1), Rosen O(1), Oren Z(3).
+
+Author information: 
+(1)Department of Biotechnology, Israel Institute for Biological Research, 24
+Reuven Lerer St., Nes-Ziona, Israel.
+(2)Department of Biochemistry and Molecular Genetics, Israel Institute for
+Biological, Research, 24 Reuven Lerer St., Nes-Ziona, Israel.
+(3)Department of Biotechnology, Israel Institute for Biological Research, 24
+Reuven Lerer St., Nes-Ziona, Israel. Electronic address: zivo@iibr.gov.il.
+
+rVSV-Spike (rVSV-S) is a recombinant viral vaccine candidate under development to
+control the COVID-19 pandemic and is currently in phase II clinical trials.
+rVSV-S induces neutralizing antibodies and protects against SARS-CoV-2 infection 
+in animal models. Bringing rVSV-S to clinical trials required the development of 
+a scalable downstream process for the production of rVSV-S that can meet
+regulatory guidelines. The objective of this study was the development of the
+first downstream unit operations for cell-culture-derived rVSV-S, namely, the
+removal of nucleic acid contamination, the clarification and concentration of
+viral harvested supernatant, and buffer exchange. Retaining the infectivity of
+the rVSV-S during the downstream process was challenged by the shear sensitivity 
+of the enveloped rVSV-S and its membrane protruding spike protein. Through a
+series of screening experiments, we evaluated and established the required
+endonuclease treatment conditions, filter train composition, and hollow
+fiber-tangential flow filtration parameters to remove large particles, reduce the
+load of impurities, and concentrate and exchange the buffer while retaining
+rVSV-S infectivity. The combined effect of the first unit operations on viral
+recovery and the removal of critical impurities was examined during scale-up
+experiments. Overall, approximately 40% of viral recovery was obtained and the
+regulatory requirements of less than 10 ng host cell DNA per dose were met.
+However, while 86-97% of the host cell proteins were removed, the regulatory
+acceptable HCP levels were not achieved, requiring subsequent purification and
+polishing steps. The results we obtained during the scale-up experiments were
+similar to those obtained during the screening experiments, indicating the
+scalability of the process. The findings of this study set the foundation for the
+development of a complete downstream manufacturing process, requiring subsequent 
+purification and polishing unit operations for clinical preparations of rVSV-S.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.vaccine.2021.10.045 
+PMCID: PMC8531466
+PMID: 34756612  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

@@ -1,0 +1,57 @@
+
+1. J Med Virol. 2021 Dec 7. doi: 10.1002/jmv.27510. [Epub ahead of print]
+
+Robust clinical detection of SARS-CoV-2 variants by RT-PCR/MALDI-TOF multi-target
+approach.
+
+Hernandez MM(1), Banu R(1), Gonzalez-Reiche AS(2), van de Guchte A(2), Khan Z(2),
+Shrestha P(1), Cao L(1), Chen F(1), Shi H(1), Hanna A(1), Alshammary H(3), Fabre 
+S(1), Amoako A(3), Obla A(2), Alburquerque B(2)(4), Patiño LH(5), Ramírez JD(5), 
+Sebra R(2)(6)(7)(8), Gitman MR(1), Nowak MD(1), Cordon-Cardo C(1), Schutzbank
+TE(9), Simon V(1)(3)(10)(11), van Bakel H(2)(6), Sordillo EM(1), Paniz-Mondolfi
+AE(1).
+
+Author information: 
+(1)Department of Pathology, Molecular, and Cell-Based Medicine, Icahn School of
+Medicine at Mount Sinai, New York, NY, 10029, USA.
+(2)Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount
+Sinai, New York, NY, 10029, USA.
+(3)Department of Microbiology, Icahn School of Medicine at Mount Sinai, New York,
+NY, 10029, USA.
+(4)The Graduate School of Biomedical Sciences, Icahn School of Medicine at Mount 
+Sinai, New York, NY, 10029, USA.
+(5)Centro de Investigaciones en Microbiología y Biotecnología-UR (CIMBIUR),
+Facultad de Ciencias Naturales, Universidad del Rosario, Bogotá, Colombia.
+(6)Icahn Institute for Data Science and Genomic Technology, Icahn School of
+Medicine at Mount Sinai, New York, NY, 10029, USA.
+(7)Black Family Stem Cell Institute, Icahn School of Medicine at Mount Sinai, New
+York, NY, 10029, USA.
+(8)Sema4, a Mount Sinai venture, Stamford, CT, 06902, USA.
+(9)Senior Scientific Affairs Manager, Infectious Diseases, Agena Bioscience, San 
+Diego, CA, 92121, USA.
+(10)Division of Infectious Diseases, Department of Medicine, Icahn School of
+Medicine at Mount Sinai, New York, NY, 10029, USA.
+(11)The Global Health and Emerging Pathogens Institute, Icahn School of Medicine 
+at Mount Sinai, New York, NY, 10029, USA.
+
+The COVID-19 pandemic sparked rapid development of SARS-CoV-2 diagnostics.
+However, emerging variants pose the risk for target dropout and false-negative
+results secondary to primer/probe binding site (PBS) mismatches. The Agena
+MassARRAY® SARS-CoV-2 Panel combines RT-PCR and MALDI-TOF mass-spectrometry to
+probe for five targets across N and ORF1ab genes, which provides a robust
+platform to accommodate PBS mismatches in divergent viruses. Herein, we utilize a
+deidentified dataset of 1,262 SARS-CoV-2-positive specimens from Mount Sinai
+Health System (New York City) from December 2020 through April 2021 to evaluate
+target results and corresponding sequencing data. Overall, the level of PBS
+mismatches was greater in specimens with target dropout. Of specimens with N3
+target dropout, 57% harbored an A28095T substitution that is highly-specific for 
+the alpha (B.1.1.7) variant of concern. These data highlight the benefit of
+redundancy in target design and the potential for target performance to
+illuminate the dynamics of circulating SARS-CoV-2 variants. This article is
+protected by copyright. All rights reserved.
+
+This article is protected by copyright. All rights reserved.
+
+DOI: 10.1002/jmv.27510 
+PMID: 34877674 
+

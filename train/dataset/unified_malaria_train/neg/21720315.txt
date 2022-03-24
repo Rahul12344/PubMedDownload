@@ -1,0 +1,29 @@
+
+1. nat protoc. 2011 jun 23;6(7):1026-36. doi: 10.1038/nprot.2011.345.
+
+linear amplification deep sequencing.
+
+hoeijmakers wa(1), bártfai r, françoijs kj, stunnenberg hg.
+
+author information: 
+(1)department molecular biology, faculty science, nijmegen center for
+molecular life sciences, radboud university, nijmegen, netherlands.
+
+linear amplification deep sequencing (lads) amplification method that
+produces representative libraries illumina next-generation sequencing within 
+2 d. method relies attaching two different sequencing adapters to
+blunt-end repaired a-tailed dna fragments, wherein one adapters is
+extended sequence t7 rna polymerase promoter. ligated and
+size-selected dna fragments transcribed vitro high rna yields.
+subsequent cdna synthesis initiated primer complementary first
+adapter, ensuring library contain full-length fragments with
+two distinct adapters. contrary severely biased representation at- or
+gc-rich fragments standard pcr-amplified libraries, sequence coverage in
+t7-amplified libraries indistinguishable nonamplified libraries. 
+moreover, contrast amplification-free methods, lads generate sequencing
+libraries nanograms dna, essential applications in
+which starting material limited.
+
+doi: 10.1038/nprot.2011.345 
+pmid: 21720315  [indexed medline]
+

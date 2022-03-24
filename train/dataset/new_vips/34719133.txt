@@ -1,0 +1,48 @@
+
+1. Hepatol Commun. 2021 Oct 31. doi: 10.1002/hep4.1842. [Epub ahead of print]
+
+An RNA Interference/Adeno-Associated Virus Vector-Based Combinatorial Gene
+Therapy Approach Against Hepatitis E Virus.
+
+Zhang C(1)(2)(3), Freistaedter A(2), Schmelas C(1), Gunkel M(4), Dao Thi
+VL(#)(2)(3), Grimm D(#)(1)(3)(5).
+
+Author information: 
+(1)Department of Infectious Diseases/Virology, Medical Faculty, Heidelberg
+University, Cluster of Excellence CellNetworks, BioQuant, Center for Integrative 
+Infectious Diseases Research, Heidelberg, Germany.
+(2)Schaller Research group at Department of Infectious Diseases/Virology, Medical
+Faculty, Heidelberg University, Center for Integrative Infectious Diseases
+Research, Heidelberg, Germany.
+(3)German Center for Infection Research, Heidelberg, Germany.
+(4)High-Content Analysis of the Cell and Advanced Biological Screening Facility, 
+BioQuant, Heidelberg University, Heidelberg, Germany.
+(5)German Center for Cardiovascular Research, Heidelberg, Germany.
+(#)Contributed equally
+
+Hepatitis E virus (HEV) is a major public health problem with limited therapeutic
+options. Here, we engineered adeno-associated viral vectors of serotype 6 (AAV6) 
+to express short hairpin RNAs (shRNAs) against HEV transcripts with the prospect 
+of down-regulating HEV replication in vivo. We designed 20 different shRNAs,
+targeting the genome of the HEV genotype 3 (GT3) Kernow-C1 p6 strain, for
+delivery upon AAV6 transduction. Using an original selectable HEV GT3 reporter
+replicon, we identified three shRNAs that efficiently down-regulated HEV
+replication. We further confirmed their inhibitory potency with full-length HEV
+infection. Seventy-two hours following transduction, HEV replication in both
+systems decreased by up to 95%. The three most potent inhibitory shRNAs
+identified were directed against the methyltransferase domain, the junction
+region between the open reading frames (ORFs), and the 3´ end of ORF2. Targeting 
+all three regions by multiplexing the shRNAs further enhanced their inhibitory
+potency over a prolonged period of up to 21 days following transduction.
+Conclusion: Combining RNA interference and AAV vector-based gene therapy has
+great potential for suppressing HEV replication. Our strategy to target the viral
+RNA with multiplexed shRNAs should help to counteract viral escape through
+mutations. Considering the widely documented safety of AAV vector-based gene
+therapies, our approach is, in principle, amenable to clinical translation.
+
+© 2021 The Authors. Hepatology Communications published by Wiley Periodicals LLC 
+on behalf of American Association for the Study of Liver Diseases.
+
+DOI: 10.1002/hep4.1842 
+PMID: 34719133 
+

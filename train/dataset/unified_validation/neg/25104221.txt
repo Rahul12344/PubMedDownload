@@ -1,0 +1,44 @@
+
+1. bmc bioinformatics. 2014;15 suppl 4:s1. doi: 10.1186/1471-2105-15-s4-s1. epub
+2014 mar 19.
+
+integrated assessment predicted mhc binding cross-conservation self
+reveals patterns viral camouflage.
+
+he l, de groot as, gutierrez ah, martin wd, moise l, bailey-kellogg c.
+
+background: immune recognition foreign proteins cells hinges the
+formation ternary complex sandwiching constituent peptide protein
+between major histocompatibility complex (mhc) molecule cell receptor
+(tcr). viruses evolved means "camouflaging" themselves, avoiding immune
+recognition reducing mhc and/or tcr binding constituent peptides.
+computer-driven cell epitope mapping tools used evaluate the
+degree particular viruses used means avoiding immune
+response, analyses focus mhc-facing 'agretopes'. set out
+a new means evaluating tcr faces viral peptides addition their
+agretopes, integrating evaluations sides ternary complex a
+single analysis.
+methods: paper develops call janus immunogenicity score (jis),
+bringing together well-established method predicting mhc binding, a
+novel assessment potential tcr binding based similarity self. 
+intuitively, good mhc binding poor self-similarity required high
+immunogenicity (i.e., robust effector response).
+results: focusing class ii antigen-processing pathway, show the
+jis effector epitopes null regulatory epitopes deposited large
+database epitopes (immune epitope database) significantly different. we
+then show different types viruses display significantly different
+patterns scores constituent peptides, viruses causing chronic 
+infection (epstein-barr cytomegalovirus) strongly shifted lower scores
+relative causing acute infection (ebola marburg). similarly find 
+distinct patterns among influenza proteins h1n1 (a strain human 
+populations rapidly developed immunity) h5n1 h7n9 (highly pathogenic
+avian flu strains, significantly greater case mortality rates).
+conclusion: janus immunogenicity score, integrates mhc binding tcr 
+cross-reactivity, provides new tool studying immunogenicity pathogens
+and may improve selection optimization antigenic elements vaccine 
+design.
+
+doi: 10.1186/1471-2105-15-s4-s1 
+pmcid: pmc4094998
+pmid: 25104221  [indexed medline]
+

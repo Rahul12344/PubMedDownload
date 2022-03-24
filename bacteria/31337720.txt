@@ -1,0 +1,62 @@
+
+1. mBio. 2019 Jul 23;10(4). pii: e01146-19. doi: 10.1128/mBio.01146-19.
+
+Identification of Dephospho-Coenzyme A (Dephospho-CoA) Kinase in Thermococcus
+kodakarensis and Elucidation of the Entire CoA Biosynthesis Pathway in Archaea.
+
+Shimosaka T(1)(2), Makarova KS(3), Koonin EV(3), Atomi H(4).
+
+Author information: 
+(1)Department of Synthetic Chemistry and Biological Chemistry, Graduate School of
+Engineering, Kyoto University, Kyoto, Japan.
+(2)Japan Society for the Promotion of Science, Tokyo, Japan.
+(3)National Center for Biotechnology Information, National Library of Medicine,
+National Institutes of Health, Bethesda, Maryland, USA.
+(4)Department of Synthetic Chemistry and Biological Chemistry, Graduate School of
+Engineering, Kyoto University, Kyoto, Japan atomi@sbchem.kyoto-u.ac.jp.
+
+Dephospho-coenzyme A (dephospho-CoA) kinase (DPCK) catalyzes the ATP-dependent
+phosphorylation of dephospho-CoA, the final step in coenzyme A (CoA)
+biosynthesis. DPCK has been identified and characterized in bacteria and
+eukaryotes but not in archaea. The hyperthermophilic archaeon Thermococcus
+kodakarensis encodes two homologs of bacterial DPCK and the DPCK domain of
+eukaryotic CoA synthase, TK1334 and TK2192. We purified the recombinant TK1334
+and TK2192 proteins and found that they lacked DPCK activity. Bioinformatic
+analyses showed that, in several archaea, the uncharacterized gene from
+arCOG04076 protein is fused with the gene for phosphopantetheine
+adenylyltransferase (PPAT), which catalyzes the reaction upstream of the DPCK
+reaction in CoA biosynthesis. This observation suggested that members of
+arCOG04076, both fused to PPAT and standalone, could be the missing archaeal
+DPCKs. We purified the recombinant TK1697 protein, a standalone member of
+arCOG04076 from T. kodakarensis, and demonstrated its GTP-dependent DPCK
+activity. Disruption of the TK1697 resulted in CoA auxotrophy, indicating that
+TK1697 encodes a DPCK that contributes to CoA biosynthesis in T. kodakarensis
+TK1697 homologs are widely distributed in archaea, suggesting that the arCOG04076
+protein represents a novel family of DPCK that is not homologous to bacterial and
+eukaryotic DPCKs but is distantly related to bacterial and eukaryotic thiamine
+pyrophosphokinases. We also constructed and characterized gene disruption strains
+of TK0517 and TK2128, homologs of bifunctional phosphopantothenoylcysteine
+synthetase-phosphopantothenoylcysteine decarboxylase and PPAT, respectively. Both
+strains displayed CoA auxotrophy, indicating their contribution to CoA
+biosynthesis. Taken together with previous studies, the results experimentally
+validate the entire CoA biosynthesis pathway in T. kodakarensis IMPORTANCE CoA is
+utilized in a wide range of metabolic pathways, and its biosynthesis is essential
+for all life. Pathways for CoA biosynthesis in bacteria and eukaryotes have been 
+established. In archaea, however, the enzyme that catalyzes the final step in CoA
+biosynthesis, dephospho-CoA kinase (DPCK), had not been identified. In the
+present study, bioinformatic analyses identified a candidate for the DPCK in
+archaea, which was biochemically and genetically confirmed in the
+hyperthermophilic archaeon Thermococcus kodakarensis Genetic analyses on genes
+presumed to encode bifunctional phosphopantothenoylcysteine
+synthetase-phosphopantothenoylcysteine decarboxylase and phosphopantetheine
+adenylyltransferase confirmed their involvement in CoA biosynthesis. Taken
+together with previous studies, the results reveal the entire pathway for CoA
+biosynthesis in a single archaeon and provide insight into the different
+mechanisms of CoA biosynthesis and their distribution in nature.
+
+Copyright © 2019 Shimosaka et al.
+
+DOI: 10.1128/mBio.01146-19 
+PMCID: PMC6650551
+PMID: 31337720  [Indexed for MEDLINE]
+

@@ -1,0 +1,50 @@
+
+1. PLoS One. 2017 Sep 21;12(9):e0185109. doi: 10.1371/journal.pone.0185109.
+eCollection 2017.
+
+Spontaneous non-canonical assembly of CcmK hexameric components from
+β-carboxysome shells of cyanobacteria.
+
+Garcia-Alles LF(1), Lesniewska E(2), Root K(3), Aubry N(1), Pocholle N(2),
+Mendoza CI(4)(5), Bourillot E(2), Barylyuk K(3), Pompon D(1), Zenobi R(3),
+Reguera D(4), Truan G(1).
+
+Author information: 
+(1)LISBP, CNRS, INRA, INSA, University of Toulouse, Toulouse, France.
+(2)ICB UMR CNRS 6303, University of Bourgogne Franche-Comte, Dijon, France.
+(3)Department of Chemistry and Applied Biosciences, ETH Zurich, Zurich,
+Switzerland.
+(4)Departament de Física de la Matèria Condensada, Universitat de Barcelona,
+Barcelona, Spain.
+(5)Instituto de Investigaciones en Materiales, Universidad Nacional Autónoma de
+México, Cd Mx, México.
+
+CcmK proteins are major constituents of icosahedral shells of β-carboxysomes, a
+bacterial microcompartment that plays a key role for CO2 fixation in nature.
+Supported by the characterization of bidimensional (2D) layers of packed CcmK
+hexamers in crystal and electron microscopy structures, CcmK are assumed to be
+the major components of icosahedral flat facets. Here, we reassessed the validity
+of this model by studying CcmK isoforms from Synechocystis sp. PCC6803. Native
+mass spectrometry studies confirmed that CcmK are hexamers in solution.
+Interestingly, potential pre-assembled intermediates were also detected with
+CcmK2. Atomic-force microscopy (AFM) imaging under quasi-physiological conditions
+confirmed the formation of canonical flat sheets with CcmK4. Conversely, CcmK2
+formed both canonical and striped-patterned patches, while CcmK1 assembled into
+remarkable supra-hexameric curved honeycomb-like mosaics. Mutational studies
+ascribed the propensity of CcmK1 to form round assemblies to a combination of two
+features shared by at least one CcmK isoform in most β-cyanobacteria: a
+displacement of an α helical portion towards the hexamer edge, where a potential 
+phosphate binding funnel forms between packed hexamers, and the presence of a
+short C-terminal extension in CcmK1. All-atom molecular dynamics supported a
+contribution of phosphate molecules sandwiched between hexamers to bend CcmK1
+assemblies. Formation of supra-hexameric curved structures could be reproduced in
+coarse-grained simulations, provided that adhesion forces to the support were
+weak. Apart from uncovering unprecedented CcmK self-assembly features, our data
+suggest the possibility that transitions between curved and flat assemblies,
+following cargo maturation, could be important for the biogenesis of
+β-carboxysomes, possibly also of other BMC.
+
+DOI: 10.1371/journal.pone.0185109 
+PMCID: PMC5608322
+PMID: 28934279  [Indexed for MEDLINE]
+

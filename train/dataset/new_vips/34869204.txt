@@ -1,0 +1,48 @@
+
+1. Front Chem. 2021 Nov 17;9:753427. doi: 10.3389/fchem.2021.753427. eCollection
+2021.
+
+Predicting New Anti-Norovirus Inhibitor With the Help of Machine Learning
+Algorithms and Molecular Dynamics Simulation-Based Model.
+
+Ebenezer O(1), Damoyi N(1), Shapi M(1).
+
+Author information: 
+(1)Department of Chemistry, Faculty of Natural Science, Mangosuthu University of 
+Technology, Durban, South Africa.
+
+Hepatitis C virus (HCV) inhibitors are essential in the treatment of human
+norovirus (HuNoV). This study aimed to map out HCV NS5B RNA-dependent RNA
+polymerase inhibitors that could potentially be responsible for the inhibitory
+activity of HuNoV RdRp. It is necessary to develop robust machine learning and in
+silico methods to predict HuNoV RdRp compounds. In this study, Naïve Bayesian and
+random forest models were built to categorize norovirus RdRp inhibitors from the 
+non-inhibitors using their molecular descriptors and PubChem fingerprints. The
+best model observed had accuracy, specificity, and sensitivity values of 98.40%, 
+97.62%, and 97.62%, respectively. Meanwhile, an external test set was used to
+validate model performance before applicability to the screened HCV compounds
+database. As a result, 775 compounds were predicted as NoV RdRp inhibitors. The
+pharmacokinetics calculations were used to filter out the inhibitors that lack
+drug-likeness properties. Molecular docking and molecular dynamics simulation
+investigated the inhibitors' binding modes and residues critical for the HuNoV
+RdRp receptor. The most active compound, CHEMBL167790, closely binds to the
+binding pocket of the RdRp enzyme and depicted stable binding with RMSD
+0.8-3.2 Å, and the RMSF profile peak was between 1.0-4.0 Å, and the
+conformational fluctuations were at 450-460 residues. Moreover, the dynamic
+residue cross-correlation plot also showed the pairwise correlation between the
+binding residues 300-510 of the HuNoV RdRp receptor and CHEMBL167790. The
+principal component analysis depicted the enhanced movement of protein atoms.
+Moreover, additional residues such as Glu510 and Asn505 interacted with
+CHEMBL167790 via water bridge and established H-bond interactions after the
+simulation. http://zinc15.docking.org/substances/ZINC000013589565.
+
+Copyright © 2021 Ebenezer, Damoyi and Shapi.
+
+DOI: 10.3389/fchem.2021.753427 
+PMCID: PMC8636098
+PMID: 34869204 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

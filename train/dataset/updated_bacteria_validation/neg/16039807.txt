@@ -1,0 +1,43 @@
+
+1. Gene. 2005 Aug 1;355:1-10.
+
+The roles of positive and negative selection in the molecular evolution of insect
+endosymbionts.
+
+Fry AJ(1), Wernegreen JJ.
+
+Author information: 
+(1)Josephine Bay Paul Center for Comparative Molecular Biology and Evolution,
+Marine Biological Laboratory, Woods Hole, MA 02543, USA.
+
+The evolutionary rate acceleration observed in most endosymbiotic bacteria may be
+explained by higher mutation rates, changes in selective pressure, and increased 
+fixation of deleterious mutations by genetic drift. Here, we explore the forces
+influencing molecular evolution in Blochmannia, an obligate endosymbiont of
+Camponotus and related ant genera. Our goals were to compare rates of sequence
+evolution in Blochmannia with related bacteria, to explore variation in the
+strength and efficacy of negative (purifying) selection, and to evaluate the
+effect of positive selection. For six Blochmannia pairs, plus Buchnera and
+related enterobacteria, estimates of sequence divergence at four genes confirm
+faster rates of synonymous evolution in the ant mutualist. This conclusion is
+based on higher dS between Blochmannia lineages despite their more recent
+divergence. Likewise, generally higher dN in Blochmannia indicates faster rates
+of nonsynonymous substitution in this group. One exception is the groEL gene, for
+which lower dN and dN/dS compared to Buchnera indicate exceptionally strong
+negative selection in Blochmannia. In addition, we explored evidence for positive
+selection in Blochmannia using both site-and lineage-based maximum likelihood
+models. These approaches confirmed heterogeneity of dN/dS among codon sites and
+revealed significant variation in dN/dS across Blochmannia lineages for three
+genes. Lineage variation affected genes independently, with no evidence of
+parallel changes in dN/dS across genes along a given branch. Our data also reveal
+instances of dN/dS greater than one; however, we do not interpret these large
+dN/dS ratios as evidence for positive selection. In sum, while drift may
+contribute to an overall rate acceleration at nonsynonymous sites in Blochmannia,
+variable selective pressures best explain the apparent gene-specific changes in
+dN/dS across lineages of this ant mutualist. In the course of this study, we
+reanalyzed variation at Buchnera groEL and found no evidence of positive
+selection that was previously reported.
+
+DOI: 10.1016/j.gene.2005.05.021 
+PMID: 16039807  [Indexed for MEDLINE]
+

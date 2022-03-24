@@ -1,0 +1,48 @@
+
+1. BMC Public Health. 2021 Nov 11;21(1):2069. doi: 10.1186/s12889-021-12126-4.
+
+The association between first and second wave COVID-19 mortality in Italy.
+
+Vinceti M(1)(2), Filippini T(3), Rothman KJ(4)(5), Di Federico S(3), Orsini N(6).
+
+Author information: 
+(1)Environmental, Genetic and Nutritional Epidemiology Research Center (CREAGEN),
+Section of Public Health, Department of Biomedical, Metabolic and Neural
+Sciences, University of Modena and Reggio Emilia, Modena, Italy.
+marco.vinceti@unimore.it.
+(2)Department of Epidemiology, Boston University School of Public Health, Boston,
+MA, US. marco.vinceti@unimore.it.
+(3)Environmental, Genetic and Nutritional Epidemiology Research Center (CREAGEN),
+Section of Public Health, Department of Biomedical, Metabolic and Neural
+Sciences, University of Modena and Reggio Emilia, Modena, Italy.
+(4)Department of Epidemiology, Boston University School of Public Health, Boston,
+MA, US.
+(5)RTI Health Solutions, Research Triangle Park, Raleigh, NC, US.
+(6)Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden.
+
+BACKGROUND: The relation between the magnitude of successive waves of the
+COVID-19 outbreak within the same communities could be useful in predicting the
+scope of new outbreaks.
+METHODS: We investigated the extent to which COVID-19 mortality in Italy during
+the second wave was related to first wave mortality within the same provinces. We
+compared data on province-specific COVID-19 2020 mortality in two time periods,
+corresponding to the first wave (February 24-June 30, 2020) and to the second
+wave (September 1-December 31, 2020), using cubic spline regression.
+RESULTS: For provinces with the lowest crude mortality rate in the first wave
+(February-June), i.e. < 22 cases/100,000/month, mortality in the second wave
+(September-December) was positively associated with mortality during the first
+wave. In provinces with mortality greater than 22/100,000/month during the first 
+wave, higher mortality in the first wave was associated with a lower second wave 
+mortality. Results were similar when the analysis was censored at October 2020,
+before the implementation of region-specific measures against the outbreak.
+Neither vaccination nor variant spread had any role during the study period.
+CONCLUSIONS: These findings indicate that provinces with the most severe initial 
+COVID-19 outbreaks, as assessed through mortality data, faced milder second
+waves.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12889-021-12126-4 
+PMCID: PMC8582237
+PMID: 34763690  [Indexed for MEDLINE]
+

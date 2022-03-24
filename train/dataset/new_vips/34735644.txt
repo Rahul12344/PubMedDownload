@@ -1,0 +1,53 @@
+
+1. Mar Biotechnol (NY). 2021 Dec;23(6):854-869. doi: 10.1007/s10126-021-10068-x.
+Epub 2021 Nov 4.
+
+Effects of rrm1 on NNV Resistance Revealed by RNA-seq and Gene Editing.
+
+Yang Z(1)(2), Wong SM(3)(4)(5), Yue GH(6)(7)(8).
+
+Author information: 
+(1)Department of Biological Sciences, National University of Singapore, 14
+Science Drive, Singapore, 117543, Singapore.
+(2)Temasek Life Sciences Laboratory, National University of Singapore, 1 Research
+Link, Singapore, 117604, Singapore.
+(3)Department of Biological Sciences, National University of Singapore, 14
+Science Drive, Singapore, 117543, Singapore. dbswsm@nus.edu.sg.
+(4)Temasek Life Sciences Laboratory, National University of Singapore, 1 Research
+Link, Singapore, 117604, Singapore. dbswsm@nus.edu.sg.
+(5)National University of Singapore Suzhou Research Institute, Suzhou, 215123,
+Jiangsu, China. dbswsm@nus.edu.sg.
+(6)Department of Biological Sciences, National University of Singapore, 14
+Science Drive, Singapore, 117543, Singapore. genhua@tll.org.sg.
+(7)Temasek Life Sciences Laboratory, National University of Singapore, 1 Research
+Link, Singapore, 117604, Singapore. genhua@tll.org.sg.
+(8)School of Biological Sciences, Nanyang Technological University, 6 Nanyang
+Drive, Singapore, 637551, Singapore. genhua@tll.org.sg.
+
+Viral nervous necrosis (VNN) disease caused by the nervous necrosis virus (NNV)
+is a major disease, leading to a huge economic loss in aquaculture. Previous GWAS
+and QTL mapping have identified a major QTL for NNV resistance in linkage group
+20 in Asian seabass. However, no causative gene for NNV resistance has been
+identified. In this study, RNA-seq from brains of Asian seabass fingerlings
+challenged with NNV at four time points (5, 10, 15 and 20 days post-challenge)
+identified 1228, 245, 189 and 134 DEGs, respectively. Eight DEGs, including rrm1,
+were located in the major QTL for NNV resistance. An association study in 445
+survived and 608 dead fingerlings after NNV challenge revealed that the SNP in
+rrm1 were significantly associated with NNV resistance. Therefore, rrm1 was
+selected for functional analysis, as a candidate gene for NNV resistance. The
+expression of rrm1 was significantly increased in the gill, liver, spleen and
+muscle, and was suppressed in the brain, gut and skin after NNV challenge. The
+rrm1 protein was localized in the nuclear membrane. Over-expression of rrm1
+significantly decreased viral RNA and titer in NNV-infected Asian seabass cells, 
+whereas knock-down of rrm1 significantly increased viral RNA and titer in
+NNV-infected Asian seabass cells. The rrm1 knockout heterozygous zebrafish was
+more susceptible to NNV infection. Our study suggests that rrm1 is one of the
+causative genes for NNV resistance and the SNP in the gene may be applied for
+accelerating genetic improvement for NNV resistance.
+
+© 2021. The Author(s), under exclusive licence to Springer Science+Business
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s10126-021-10068-x 
+PMID: 34735644 
+

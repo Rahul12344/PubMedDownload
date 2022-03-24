@@ -1,0 +1,38 @@
+
+1. Biochemistry. 2003 Nov 4;42(43):12682-90.
+
+Mutagenesis of the conserved active-site tyrosine changes a retaining sialidase
+into an inverting sialidase.
+
+Watson JN(1), Dookhun V, Borgford TJ, Bennet AJ.
+
+Author information: 
+(1)Departments of Molecular Biology and Biochemistry, Simon Fraser University,
+8888 University Drive, Burnaby, British Columbia, Canada V5A 1S6.
+
+Mutagenesis of the conserved tyrosine (Y370) of the Micromonospora viridifaciens 
+sialidase changes the mechanism of catalysis from retention of anomeric
+configuration to an unprecedented inverting mechanism in which water efficiently 
+functions as the nucleophile. Three mutants, Y370A, Y370D, and Y370G, were
+produced recombinantly in Escherichia coli, and all are catalytically active
+against the activated substrate 4-methylumbelliferyl alpha-D-N-acetylneuraminide.
+The Y370D mutant was also shown to catalyze the hydrolysis of natural substrate
+analogues such as 3'-sialyllactose. A comparison of the pH-rate profiles for the 
+wild-type and the Y370D mutant sialidase reveals no major differences, although
+with respect to the kinetic term k(cat)/K(m), an ionized form of the
+aspartate-370 enzyme is catalytically compromised. For the wild-type enzyme, the 
+value of the Brønsted parameter beta(lg) on k(cat) is 0.02 +/- 0.03, while for
+the Y370D mutant sialidase beta(lg) = -0.55 +/- 0.03 for the substrates with bad 
+leaving groups. Thus, for the wild-type enzyme, a nonchemical step(s) is
+rate-limiting, but for the tyrosine mutant cleavage of the glycosidic C-O bond is
+rate-determining. The Brønsted slopes derived for the kinetic parameter
+k(cat)/K(m) display a similar trend (beta(lg) -0.30 +/- 0.04 and -0.74 +/- 0.04
+for the wild-type and Y370D, respectively). These results reveal that the
+tyrosine residue lowers the activation free energy for cleavage of
+6'-sialyllactose, a natural substrate analogue, by more than 24.9 kJ mol(-1).
+Evidence is presented that the mutant sialidases operate by a dissociative
+mechanism, and the wild-type enzyme operates by a concerted mechanism.
+
+DOI: 10.1021/bi035396g 
+PMID: 14580216  [Indexed for MEDLINE]
+

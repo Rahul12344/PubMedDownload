@@ -1,0 +1,36 @@
+
+1. Nat Commun. 2017 Jan 13;8:14004. doi: 10.1038/ncomms14004.
+
+Structural basis for the recognition and degradation of host TRIM proteins by
+Salmonella effector SopA.
+
+Fiskin E(1), Bhogaraju S(1)(2), Herhaus L(1), Kalayil S(1)(2), Hahn M(1), Dikic
+I(1)(2)(3).
+
+Author information: 
+(1)Institute of Biochemistry II, Goethe University School of Medicine,
+Theodor-Stern-Kai 7, 60590 Frankfurt am Main, Germany.
+(2)Buchmann Institute for Molecular Life Sciences, Goethe University,
+Max-von-Laue-Strasse 15, 60438 Frankfurt am Main, Germany.
+(3)Department of Immunology and Medical Genetics, School of Medicine, University 
+of Split, Soltanska 2, 21000 Split, Croatia.
+
+The hallmark of Salmonella Typhimurium infection is an acute intestinal
+inflammatory response, which is mediated through the action of secreted bacterial
+effector proteins. The pro-inflammatory Salmonella effector SopA is a HECT-like
+E3 ligase, which was previously proposed to activate host RING ligases TRIM56 and
+TRIM65. Here we elucidate an inhibitory mechanism of TRIM56 and TRIM65 targeting 
+by SopA. We present the crystal structure of SopA in complex with the RING domain
+of human TRIM56, revealing the atomic details of their interaction and the basis 
+for SopA selectivity towards TRIM56 and TRIM65. Structure-guided biochemical
+analysis shows that SopA inhibits TRIM56 E3 ligase activity by occluding the
+E2-interacting surface of TRIM56. We further demonstrate that SopA ubiquitinates 
+TRIM56 and TRIM65, resulting in their proteasomal degradation during infection.
+Our results provide the basis for how a bacterial HECT ligase blocks host RING
+ligases and exemplifies the multivalent power of bacterial effectors during
+infection.
+
+DOI: 10.1038/ncomms14004 
+PMCID: PMC5241803
+PMID: 28084320  [Indexed for MEDLINE]
+

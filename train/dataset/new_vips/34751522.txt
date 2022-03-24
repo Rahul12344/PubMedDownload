@@ -1,0 +1,47 @@
+
+1. Clin Chem Lab Med. 2021 Nov 5. doi: 10.1515/cclm-2021-0889. [Epub ahead of print]
+
+Inadequate design of mutation detection panels prevents interpretation of
+variants of concern: results of an external quality assessment for SARS-CoV-2
+variant detection.
+
+Buchta C(1), Camp JV(2), Jovanovic J(1), Radler U(1), Benka B(3),
+Puchhammer-Stöckl E(2), Müller MM(1), Griesmacher A(1), Aberle SW(2), Görzer
+I(2).
+
+Author information: 
+(1)Austrian Association for Quality Assurance and Standardization of Medical and 
+Diagnostic Tests (ÖQUASTA), Vienna, Austria.
+(2)Center for Virology, Medical University of Vienna, Vienna, Austria.
+(3)Division Public Health, AGES - Austrian Agency for Health and Food Safety,
+Vienna, Austria.
+
+OBJECTIVES: Mutation-specific PCR assays have quickly found their way into
+laboratory diagnostics due to their capacity to be a fast, easy to implement and 
+high-throughput method for the detection of known SARS-CoV-2 variants of concern 
+(VoCs). However, little is known about the performance of such assays in routine 
+laboratory analysis.
+METHODS: The results reported in a recent round of an external quality assessment
+(EQA) scheme for SARS-CoV-2 mutation-specific PCR were retrospectively analyzed. 
+For the determination of individual variant-specific sequences as well as for the
+interpretation results for certain virus variants, correct, incorrect, and
+unreported results were evaluated, and their possible causes were investigated.
+RESULTS: A total of 34 laboratories participated in this study. For five samples 
+containing the VoC Alpha + E484K, Beta, Gamma, Delta, or B.1.1.318 (as a variant 
+of interest), 848 results for SARS-2-CoV mutation detection were reported, 824
+(97.2%, range per sample 88-100%) of which were correct. Melting curve assays
+gave 99% correct results, real-time RT-qPCR 94%, microarray-based assays 100%,
+and MALDI-TOF MS 96%. A total of 122/167 (73%) reported results for SARS-CoV-2
+variant determination were correct. Of the 45 inconclusive or incorrect results, 
+33 (73%) were due to inadequate selection of targets that did not allow
+identification of contemporary VoC, 11 (24%) were due to incorrect results, and
+one (3%) was due to correct results of mutation-specific PCR.
+CONCLUSIONS: Careful and up-to-date selection of the targets used in
+mutation-specific PCR is essential for successful detection of current SARS-CoV-2
+variants.
+
+© 2021 Christoph Buchta et al., published by De Gruyter, Berlin/Boston.
+
+DOI: 10.1515/cclm-2021-0889 
+PMID: 34751522 
+

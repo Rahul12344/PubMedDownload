@@ -1,0 +1,51 @@
+
+1. Syst Appl Microbiol. 2019 Jan;42(1):30-40. doi: 10.1016/j.syapm.2018.11.001. Epub
+2018 Nov 15.
+
+Recovering microbial genomes from metagenomes in hypersaline environments: The
+Good, the Bad and the Ugly.
+
+Ramos-Barbero MD(1), Martin-Cuadrado AB(1), Viver T(2), Santos F(1),
+Martinez-Garcia M(1), Antón J(3).
+
+Author information: 
+(1)Department of Physiology, Genetics and Microbiology, University of Alicante,
+Alicante, Spain.
+(2)Department of Animal and Microbial Biodiversity, Marine Microbiology Group,
+Mediterranean Institute for Advanced Studies (IMEDEA, CSIC-UIB), Esporles, Spain.
+(3)Department of Physiology, Genetics and Microbiology, University of Alicante,
+Alicante, Spain; Multidisciplinary Institute of Environmental Studies Ramon
+Margalef, University of Alicante, Alicante, Spain. Electronic address:
+anton@ua.es.
+
+Erratum in
+    Syst Appl Microbiol. 2020 Jul;43(4):126100.
+
+Current metagenomic tools allow the recovery of microbial genomes directly from
+the environment. This can be accomplished by binning metagenomic contigs
+according to their coverage and tetranucleotide frequency, followed by an
+estimation of the bin quality. The public availability of bioinformatics tools,
+together with the decreasing cost of next generation sequencing, are
+democratizing this powerful approach that is spreading from specialized research 
+groups to the general public. Using metagenomes from hypersaline environments, as
+well as mock metagenomes composed of Archaea and Bacteria frequently found in
+these systems, we have analyzed the advantages and difficulties of the binning
+process in these extreme environments to tackle microbial population diversity.
+These extreme systems harbor relatively low species diversity but high
+intraspecific diversity, which can compromise metagenome assembly and therefore
+the whole binning process. The main goal is to compare the output of the binning 
+process with what is previously known from the analyzed samples, based on years
+of study using different approaches. Several scenarios have been analyzed in
+detail: (i) a good quality bin from a species highly abundant in the environment;
+(ii) an intermediate quality bin with incongruences that can be solved by further
+analyses and manual curation, and (iii) a low-quality bin to investigate the
+failure to recover a very abundant microbial genome as well as some possible
+solutions. The latter can be considered the "great metagenomics anomaly" and is
+mainly due to assembly problems derived from the microdiversity of naturally
+co-existing populations in nature.
+
+Copyright © 2018 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.syapm.2018.11.001 
+PMID: 30528276  [Indexed for MEDLINE]
+

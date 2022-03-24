@@ -1,0 +1,49 @@
+
+1. Proteomics. 2017 Nov;17(22). doi: 10.1002/pmic.201700233.
+
+Proteomics and Network Analyses Reveal Inhibition of Akt-mTOR Signaling in CD4+ T
+Cells by Mycobacterium tuberculosis Mannose-Capped Lipoarabinomannan.
+
+Karim AF(1)(2), Sande OJ(1), Tomechko SE(3), Ding X(1), Li M(3), Maxwell S(3),
+Ewing RM(4), Harding CV(2)(5), Rojas RE(2), Chance MR(3)(6), Boom WH(1)(2).
+
+Author information: 
+(1)Department of Medicine, University Hospitals Cleveland Medical Center, Case
+Western Reserve University, Cleveland, OH, USA.
+(2)Department of Molecular Biology & Microbiology, Case Western Reserve
+University, Cleveland, OH, USA.
+(3)Center for Proteomics & Bioinformatics, Case Western Reserve University,
+Cleveland, OH, USA.
+(4)Centre for Biological Sciences, University of Southampton, Southampton, UK.
+(5)Department of Pathology, University Hospitals Cleveland Medical Center, Case
+Western Reserve University, Cleveland, OH, USA.
+(6)Department of Nutrition, School of Medicine, Case Western Reserve University, 
+Cleveland, OH, USA.
+
+Mycobacterium tuberculosis (Mtb) cell wall glycolipid mannose-capped
+lipoarabinomannan (ManLAM) inhibits CD4+ T-cell activation by inhibiting proximal
+T-cell receptor (TCR) signaling when activated by anti-CD3. To understand the
+impact of ManLAM on CD4+ T-cell function when both the TCR-CD3 complex and major 
+costimulator CD28 are engaged, we performed label-free quantitative MS and
+network analysis. Mixed-effect model analysis of peptide intensity identified 149
+unique peptides representing 131 proteins that were differentially regulated by
+ManLAM in anti-CD3- and anti-CD28-activated CD4+ T cells. Crosstalker, a novel
+network analysis tool identified dysregulated translation, TCA cycle, and RNA
+metabolism network modules. PCNA, Akt, mTOR, and UBC were found to be bridge node
+proteins connecting these modules of dysregulated proteins. Altered PCNA
+expression and cell cycle analysis showed arrest at the G2M phase. Western blot
+confirmed that ManLAM inhibited Akt and mTOR phosphorylation, and decreased
+expression of deubiquitinating enzymes Usp9x and Otub1. Decreased NF-κB
+phosphorylation suggested interference with CD28 signaling through inhibition of 
+the Usp9x-Akt-mTOR pathway. Thus, ManLAM induced global changes in the CD4+
+T-cell proteome by affecting Akt-mTOR signaling, resulting in broad functional
+impairment of CD4+ T-cell activation beyond inhibition of proximal TCR-CD3
+signaling.
+
+© 2017 The Authors, Proteomics Published by WILEY-VCH Verlag GmbH & Co. KGaA,
+Weinheim.
+
+DOI: 10.1002/pmic.201700233 
+PMCID: PMC5725663
+PMID: 28994205  [Indexed for MEDLINE]
+

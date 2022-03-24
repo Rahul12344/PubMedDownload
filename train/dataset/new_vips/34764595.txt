@@ -1,0 +1,50 @@
+
+1. Appl Intell (Dordr). 2021 Apr 23:1-10. doi: 10.1007/s10489-021-02379-2. [Epub
+ahead of print]
+
+From SIR to SEAIRD: A novel data-driven modeling approach based on the Grey-box
+System Theory to predict the dynamics of COVID-19.
+
+Pekpe KM(1), Zitouni D(2), Gasso G(3), Dhifli W(2), Guinhouya BC(2).
+
+Author information: 
+(1)Univ. Lille, CNRS, UMR 9189 - CRIStAL - Centre de Recherche en Informatique
+Signal et Automatique de Lille, F-59000 Lille, France.
+(2)Univ. Lille, ULR 2694 - METRICS : Évaluation des technologies de santé et des 
+pratiques médicales, F-59000 Lille, France.
+(3)Normandie Univ., UNIROUEN, UNIHAVRE, INSA Rouen, LITIS, F-76000 Rouen, France.
+
+Common compartmental modeling for COVID-19 is based on a priori knowledge and
+numerous assumptions. Additionally, they do not systematically incorporate
+asymptomatic cases. Our study aimed at providing a framework for data-driven
+approaches, by leveraging the strengths of the grey-box system theory or grey-box
+identification, known for its robustness in problem solving under partial,
+incomplete, or uncertain data. Empirical data on confirmed cases and deaths,
+extracted from an open source repository were used to develop the SEAIRD
+compartment model. Adjustments were made to fit current knowledge on the COVID-19
+behavior. The model was implemented and solved using an Ordinary Differential
+Equation solver and an optimization tool. A cross-validation technique was
+applied, and the coefficient of determination R 2 was computed in order to
+evaluate the goodness-of-fit of the model. Key epidemiological parameters were
+finally estimated and we provided the rationale for the construction of SEAIRD
+model. When applied to Brazil's cases, SEAIRD produced an excellent agreement to 
+the data, with an R 2 ≥ 90%. The probability of COVID-19 transmission was
+generally high (≥ 95%). On the basis of a 20-day modeling data, the incidence
+rate of COVID-19 was as low as 3 infected cases per 100,000 exposed persons in
+Brazil and France. Within the same time frame, the fatality rate of COVID-19 was 
+the highest in France (16.4%) followed by Brazil (6.9%), and the lowest in Russia
+(≤ 1%). SEAIRD represents an asset for modeling infectious diseases in their
+dynamical stable phase, especially for new viruses when pathophysiology knowledge
+is very limited.Supplementary Information: The online version contains
+supplementary material available at 10.1007/s10489-021-02379-2.
+
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC,
+part of Springer Nature 2021.
+
+DOI: 10.1007/s10489-021-02379-2 
+PMCID: PMC8062253
+PMID: 34764595 
+
+Conflict of interest statement: Conflict of InterestsWe declare no competing
+interests.
+

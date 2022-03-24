@@ -1,0 +1,64 @@
+
+1. J Mol Biol. 2021 Oct 27;434(2):167332. doi: 10.1016/j.jmb.2021.167332. [Epub
+ahead of print]
+
+Glycosylation and Serological Reactivity of an Expression-enhanced SARS-CoV-2
+Viral Spike Mimetic.
+
+Chawla H(1), Jossi SE(2), Faustini SE(2), Samsudin F(3), Allen JD(1), Watanabe
+Y(4), Newby ML(1), Marcial-Juárez E(2), Lamerton RE(2), McLellan JS(5), Bond
+PJ(6), Richter AG(2), Cunningham AF(2), Crispin M(7).
+
+Author information: 
+(1)School of Biological Sciences, University of Southampton, Southampton SO17
+1BJ, UK.
+(2)Institute of Immunology and Immunotherapy, University of Birmingham,
+Birmingham B15 2TT, UK.
+(3)Bioinformatics Institute, Agency for Science, Technology and Research
+(A*STAR), Singapore 138671, Singapore.
+(4)School of Biological Sciences, University of Southampton, Southampton SO17
+1BJ, UK; Oxford Glycobiology Institute, Department of Biochemistry, University of
+Oxford, South Parks Road, Oxford OX1 3QU, UK.
+(5)Department of Molecular Biosciences, The University of Texas at Austin,
+Austin, TX 78712, USA.
+(6)Bioinformatics Institute, Agency for Science, Technology and Research
+(A*STAR), Singapore 138671, Singapore; Department of Biological Sciences,
+National University of Singapore, Singapore 117543, Singapore.
+(7)School of Biological Sciences, University of Southampton, Southampton SO17
+1BJ, UK. Electronic address: max.crispin@soton.ac.uk.
+
+Extensive glycosylation of viral glycoproteins is a key feature of the antigenic 
+surface of viruses and yet glycan processing can also be influenced by the manner
+of their recombinant production. The low yields of the soluble form of the
+trimeric spike (S) glycoprotein from SARS-CoV-2 has prompted advances in protein 
+engineering that have greatly enhanced the stability and yields of the
+glycoprotein. The latest expression-enhanced version of the spike incorporates
+six proline substitutions to stabilize the prefusion conformation (termed
+SARS-CoV-2 S HexaPro). Although the substitutions greatly enhanced expression
+whilst not compromising protein structure, the influence of these substitutions
+on glycan processing has not been explored. Here, we show that the site-specific 
+N-linked glycosylation of the expression-enhanced HexaPro resembles that of an
+earlier version containing two proline substitutions (2P), and that both capture 
+features of native viral glycosylation. However, there are site-specific
+differences in glycosylation of HexaPro when compared to 2P. Despite these
+discrepancies, analysis of the serological reactivity of clinical samples from
+infected individuals confirmed that both HexaPro and 2P protein are equally able 
+to detect IgG, IgA, and IgM responses in all sera analysed. Moreover, we extend
+this observation to include an analysis of glycan engineered S protein, whereby
+all N-linked glycans were converted to oligomannose-type and conclude that
+serological activity is not impacted by large scale changes in glycosylation.
+These observations suggest that variations in glycan processing will not impact
+the serological assessments currently being performed across the globe.
+
+Copyright © 2021 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jmb.2021.167332 
+PMCID: PMC8550889
+PMID: 34717971 
+
+Conflict of interest statement: Declaration of interests J.S.M. is an inventor on
+the following U.S. patent applications: no. 62/412,703 (“Prefusion Coronavirus
+Spike Proteins and Their Use”); no. 62/972,886 (“2019-nCoV Vaccine”); no.
+63/032,502 (“Engineered Coronavirus Spike (S) Protein and Methods of Use
+Thereof”).
+

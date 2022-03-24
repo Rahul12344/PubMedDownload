@@ -1,0 +1,55 @@
+
+1. BMC Genomics. 2021 Oct 30;22(1):782. doi: 10.1186/s12864-021-08112-0.
+
+SARS-CoV-2 surveillance in Italy through phylogenomic inferences based on Hamming
+distances derived from pan-SNPs, -MNPs and -InDels.
+
+Di Pasquale A(1), Radomski N(2), Mangone I(1), Calistri P(1), Lorusso A(1), Cammà
+C(1).
+
+Author information: 
+(1)National Reference Centre (NRC) for Whole Genome Sequencing of microbial
+pathogens: data-base and bioinformatics analysis (GENPAT), Istituto
+Zooprofilattico Sperimentale dell'Abruzzo e del Molise "Giuseppe Caporale"
+(IZSAM), via Campo Boario, 64100, Teramo, TE, Italy.
+(2)National Reference Centre (NRC) for Whole Genome Sequencing of microbial
+pathogens: data-base and bioinformatics analysis (GENPAT), Istituto
+Zooprofilattico Sperimentale dell'Abruzzo e del Molise "Giuseppe Caporale"
+(IZSAM), via Campo Boario, 64100, Teramo, TE, Italy. n.radomski@izs.it.
+
+BACKGROUND: Faced with the ongoing global pandemic of coronavirus disease, the
+'National Reference Centre for Whole Genome Sequencing of microbial pathogens:
+database and bioinformatic analysis' (GENPAT) formally established at the
+'Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise' (IZSAM) in
+Teramo (Italy) is in charge of the SARS-CoV-2 surveillance at the genomic scale. 
+In a context of SARS-CoV-2 surveillance requiring correct and fast assessment of 
+epidemiological clusters from substantial amount of samples, the present study
+proposes an analytical workflow for identifying accurately the PANGO lineages of 
+SARS-CoV-2 samples and building of discriminant minimum spanning trees (MST)
+bypassing the usual time consuming phylogenomic inferences based on multiple
+sequence alignment (MSA) and substitution model.
+RESULTS: GENPAT constituted two collections of SARS-CoV-2 samples. The first
+collection consisted of SARS-CoV-2 positive swabs collected by IZSAM from the
+Abruzzo region (Italy), then sequenced by next generation sequencing (NGS) and
+analyzed in GENPAT (n = 1592), while the second collection included samples from 
+several Italian provinces and retrieved from the reference Global Initiative on
+Sharing All Influenza Data (GISAID) (n = 17,201). The main results of the present
+work showed that (i) GENPAT and GISAID detected the same PANGO lineages, (ii) the
+PANGO lineages B.1.177 (i.e. historical in Italy) and B.1.1.7 (i.e. 'UK variant')
+are major concerns today in several Italian provinces, and the new MST-based
+method (iii) clusters most of the PANGO lineages together, (iv) with a higher
+dicriminatory power than PANGO lineages, (v) and faster that the usual
+phylogenomic methods based on MSA and substitution model.
+CONCLUSIONS: The genome sequencing efforts of Italian provinces, combined with a 
+structured national system of NGS data management, provided support for
+surveillance SARS-CoV-2 in Italy. We propose to build phylogenomic trees of
+SARS-CoV-2 variants through an accurate, discriminant and fast MST-based method
+avoiding the typical time consuming steps related to MSA and substitution
+model-based phylogenomic inference.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12864-021-08112-0 
+PMCID: PMC8556844
+PMID: 34717546  [Indexed for MEDLINE]
+

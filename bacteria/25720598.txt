@@ -1,0 +1,62 @@
+
+1. J Lab Autom. 2015 Dec;20(6):621-35. doi: 10.1177/2211068215573188. Epub 2015 Feb 
+26.
+
+Process for Assembly and Transformation into Saccharomyces cerevisiae of a
+Synthetic Yeast Artificial Chromosome Containing a Multigene Cassette to Express 
+Enzymes That Enhance Xylose Utilization Designed for an Automated Platform.
+
+Hughes SR(1), Cox EJ(2), Bang SS(3), Pinkelman RJ(3), López-Núñez JC(4), Saha
+BC(5), Qureshi N(5), Gibbons WR(6), Fry MR(7), Moser BR(8), Bischoff KM(9), Liu
+S(9), Sterner DE(10), Butt TR(11), Riedmuller SB(12), Jones MA(13), Riaño-Herrera
+NM(4).
+
+Author information: 
+(1)United States Department of Agriculture (USDA), Agricultural Research Service 
+(ARS), National Center for Agricultural Utilization Research (NCAUR), Renewable
+Product Technology Research Unit, Peoria, IL, USA stephen.hughes@ars.usda.gov.
+(2)United States Department of Agriculture (USDA), Agricultural Research Service 
+(ARS), National Center for Agricultural Utilization Research (NCAUR), Renewable
+Product Technology Research Unit, Peoria, IL, USA Department of Chemistry and
+Biochemistry, Bradley University, Peoria, IL, USA.
+(3)South Dakota School of Mines & Technology, Chemical and Biological
+Engineering, Rapid City, SD, USA.
+(4)National Coffee Research Centre (Cenicafe), National Federation of Coffee
+Growers of Colombia (FNC), Manizales, Caldas, Colombia.
+(5)USDA, ARS, NCAUR, Bioenergy Research Unit, Peoria, IL, USA.
+(6)Department of Biology and Microbiology, South Dakota State University,
+Brookings, SD, USA.
+(7)Department of Chemistry and Biochemistry, Bradley University, Peoria, IL, USA.
+(8)USDA, ARS, NCAUR, Bio-Oils Research Unit, Peoria, IL, USA.
+(9)United States Department of Agriculture (USDA), Agricultural Research Service 
+(ARS), National Center for Agricultural Utilization Research (NCAUR), Renewable
+Product Technology Research Unit, Peoria, IL, USA.
+(10)Progenra, Inc., Malvern, PA, USA.
+(11)LifeSensors, Inc., Malvern, PA, USA.
+(12)Hudson Control Group, Inc., Springfield, NJ, USA.
+(13)Department of Chemistry, Illinois State University, Normal, IL, USA.
+
+A yeast artificial chromosome (YAC) containing a multigene cassette for
+expression of enzymes that enhance xylose utilization (xylose isomerase [XI] and 
+xylulokinase [XKS]) was constructed and transformed into Saccharomyces cerevisiae
+to demonstrate feasibility as a stable protein expression system in yeast and to 
+design an assembly process suitable for an automated platform. Expression of XI
+and XKS from the YAC was confirmed by Western blot and PCR analyses. The
+recombinant and wild-type strains showed similar growth on plates containing
+hexose sugars, but only recombinant grew on D-xylose and L-arabinose plates. In
+glucose fermentation, doubling time (4.6 h) and ethanol yield (0.44 g ethanol/g
+glucose) of recombinant were comparable to wild type (4.9 h and 0.44 g/g). In
+whole-corn hydrolysate, ethanol yield (0.55 g ethanol/g [glucose + xylose]) and
+xylose utilization (38%) for recombinant were higher than for wild type (0.47 g/g
+and 12%). In hydrolysate from spent coffee grounds, yield was 0.46 g ethanol/g
+(glucose + xylose), and xylose utilization was 93% for recombinant. These results
+indicate introducing a YAC expressing XI and XKS enhanced xylose utilization
+without affecting integrity of the host strain, and the process provides a
+potential platform for automated synthesis of a YAC for expression of multiple
+optimized genes to improve yeast strains.
+
+© 2015 Society for Laboratory Automation and Screening.
+
+DOI: 10.1177/2211068215573188 
+PMID: 25720598  [Indexed for MEDLINE]
+

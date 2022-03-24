@@ -1,0 +1,63 @@
+
+1. J Virol. 2021 Oct 20:JVI0155221. doi: 10.1128/JVI.01552-21. [Epub ahead of print]
+
+The glycan hole area of HIV-1 envelope trimers contributes prominently to the
+induction of autologous neutralization.
+
+Schorcht A(1), Cottrell CA(2), Pugach P(3), Ringe RP(3), Han AX(4), Allen JD(5), 
+van den Kerkhof TLGM(1)(6), Seabright GE(5), Schermer EE(1), Ketas TJ(3), Burger 
+JA(1), van Schooten J(1), LaBranche CC(7), Ozorowski G(2), de Val N(2)(3), Bader 
+DLV(2), Schuitemaker H(6), Russell CA(4), Montefiori DC(7), van Gils MJ(1),
+Crispin M(5), Klasse PJ(3), Ward AB(2), Moore JP(3), Sanders RW(1)(3).
+
+Author information: 
+(1)Department of Medical Microbiology and Infection Prevention, Amsterdam
+Infection & Immunity Institute (AI&AII), Amsterdam UMC, Location Meibergdreef,
+University of Amsterdam, Amsterdam, The Netherlands.
+(2)Department of Integrative Structural and Computational Biology, The Scripps
+Research Institute, La Jolla, California, USA.
+(3)Department of Microbiology and Immunology, Weill Cornell Medical College, New 
+York, New York, USA.
+(4)Laboratory of Applied Evolutionary Biology, Department of Medical Microbiology
+and Infection Prevention, Amsterdam Infection & Immunity Institute (AI&AII),
+Amsterdam UMC, Location Meibergdreef, University of Amsterdam, Amsterdam, The
+Netherlands.
+(5)Centre for Biological Sciences and Institute for Life Sciences, University of 
+Southampton, Southampton, England, United Kingdom.
+(6)Department of Experimental Immunology, Amsterdam Infection & Immunity
+Institute (AI&AII), Amsterdam UMC, Location Meibergdreef, University of
+Amsterdam, Amsterdam, The Netherlands.
+(7)Department of Surgery, Duke University Medical Center, Durham, North Carolina,
+USA.
+
+The HIV-1 envelope glycoprotein trimer (Env) is heavily glycosylated, creating a 
+dense glycan shield that protects the underlying peptidic surface from antibody
+recognition. The absence of conserved glycans, due to missing potential N-linked 
+glycosylation sites (PNGS), can result in strain-specific, autologous
+neutralizing antibody (NAb) responses. Here we sought to gain a deeper
+understanding of the autologous neutralization by introducing holes in the
+otherwise dense glycan shields of the AMC011 and AMC016 SOSIP trimers.
+Specifically, when we knocked out the N130 and N289 glycans, which are absent
+from the well-characterized B41 SOSIP trimer, we observed stronger autologous NAb
+responses. We also analyzed the highly variable NAb responses induced in rabbits 
+by diverse SOSIP trimers from subtypes A, B and C. Statistical analysis, using a 
+linear regression analysis, revealed that the cumulative area exposed on a trimer
+by glycan holes correlates with the magnitude of the autologous NAb response.
+Importance 40 years after the first description of HIV-1 the search for a
+protective vaccine is still ongoing. The sole target for antibodies that can
+neutralize the virus are the trimeric envelope glycoproteins (Env) located on the
+viral surface. The glycoprotein surface is covered with glycans that shield off
+the underlying protein components from recognition by the immune system. However,
+the Env trimers of some viral strains have holes in the glycan shield. Immunized 
+animals developed antibodies against such glycan holes. These antibodies are
+generally strain-specific. Here we sought to gain a deeper understanding of what 
+drives these specific immune responses. First, we show that strain-specific
+neutralizing antibody responses can be increased by creating artificial holes in 
+the glycan shield. Second, when studying a diverse set of Env trimers with
+different characteristics, we found that the surface area of the glycan holes
+contributes prominently to the induction of strain-specific neutralizing
+antibodies.
+
+DOI: 10.1128/JVI.01552-21 
+PMID: 34669426 
+

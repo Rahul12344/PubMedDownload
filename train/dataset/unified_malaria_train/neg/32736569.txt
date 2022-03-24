@@ -1,0 +1,54 @@
+
+1. j transl med. 2020 jul 31;18(1):291. doi: 10.1186/s12967-020-02456-z.
+
+a modular framework development targeted covid-19 blood transcript
+profiling panels.
+
+rinchai d(1), syed ahamed kabeer b(1), toufiq m(1), tatari-calderone z(1), deola 
+s(1), brummaier t(2)(3)(4)(5), garand m(1), branco r(1), baldwin n(6), alfaki
+m(1), altman mc(7)(8), ballestrero a(9)(10), bassetti m(11)(12), zoppoli
+g(9)(10), de maria a(11)(12), tang b(13), bedognetti d(1)(9), chaussabel d(14).
+
+author information: 
+(1)sidra medicine, doha, qatar.
+(2)shoklo malaria research unit, mahidol-oxford tropical medicine research unit, 
+faculty tropical medicine, mahidol university, mae sot, thailand.
+(3)centre tropical medicine global health, nuffield department of
+medicine, university oxford, oxford, uk.
+(4)swiss tropical public health institute, basel, switzerland.
+(5)university basel, basel, switzerland.
+(6)baylor institute immunology research baylor research institute,
+dallas, tx, usa.
+(7)division allergy infectious diseases, university washington,
+seattle, wa, usa.
+(8)systems immunology, benaroya research institute, seattle, wa, usa.
+(9)department internal medicine, università degli studi di genova, genoa,
+italy.
+(10)irccs ospedale policlinico san martino, genoa, italy.
+(11)division infectious tropical diseases, irccs ospedale policlinico san 
+martino, genoa, italy.
+(12)department health sciences, university genoa, genoa, italy.
+(13)nepean clinical school, university sydney, sydney, nsw, australia.
+(14)sidra medicine, doha, qatar. dchaussabel@sidra.org.
+
+background: covid-19 morbidity mortality associated dysregulated
+immune response. tools needed enhance existing immune profiling
+capabilities affected patients. aimed develop approach to
+support design targeted blood transcriptome panels profiling the
+immune response sars-cov-2 infection.
+methods: designed pool candidates based pre-existing and
+well-characterized repertoire blood transcriptional modules. available
+covid-19 blood transcriptome data also used guide process. further
+selection steps relied expert curation. additionally, developed several
+custom web applications support evaluation candidates.
+results: proof principle, designed three targeted blood transcript
+panels, different translational connotation: immunological relevance,
+therapeutic development relevance sars biology relevance.
+conclusion: altogether work presented may contribute future
+expansion immune profiling capabilities via targeted profiling blood
+transcript abundance covid-19 patients.
+
+doi: 10.1186/s12967-020-02456-z 
+pmcid: pmc7393249
+pmid: 32736569  [indexed medline]
+

@@ -1,0 +1,33 @@
+
+1. Microb Ecol. 2007 May;53(4):562-70. Epub 2007 Apr 4.
+
+MiCA: a web-based tool for the analysis of microbial communities based on
+terminal-restriction fragment length polymorphisms of 16S and 18S rRNA genes.
+
+Shyu C(1), Soule T, Bent SJ, Foster JA, Forney LJ.
+
+Author information: 
+(1)Department of Computer Science, University of Idaho, Moscow, ID 83844, USA.
+
+A web-based resource, Microbial Community Analysis (MiCA), has been developed to 
+facilitate studies on microbial community ecology that use analyses of
+terminal-restriction fragment length polymorphisms (T-RFLP) of 16S and 18S rRNA
+genes. MiCA provides an intuitive web interface to access two specialized
+programs and a specially formatted database of 16S ribosomal RNA sequences. The
+first program performs virtual polymerase chain reaction (PCR) amplification of
+rRNA genes and restriction of the amplicons using primer sequences and
+restriction enzymes chosen by the user. This program, in silico PCR and
+Restriction (ISPaR), uses a binary encoding of DNA sequences to rapidly scan
+large numbers of sequences in databases searching for primer annealing and
+restriction sites while permitting the user to specify the number of mismatches
+in primer sequences. ISPaR supports multiple digests with up to three enzymes.
+The number of base pairs between the 5' and 3' primers and the proximal
+restriction sites can be reported, printed, or exported in various formats. The
+second program, APLAUS, infers a plausible community structure(s) based on T-RFLP
+data supplied by a user. APLAUS estimates the relative abundances of populations 
+and reports a listing of phylotypes that are consistent with the empirical data. 
+MiCA is accessible at http://mica.ibest.uidaho.edu/.
+
+DOI: 10.1007/s00248-006-9106-0 
+PMID: 17406775  [Indexed for MEDLINE]
+

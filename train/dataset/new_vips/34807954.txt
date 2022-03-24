@@ -1,0 +1,45 @@
+
+1. PLoS Pathog. 2021 Nov 22;17(11):e1009820. doi: 10.1371/journal.ppat.1009820.
+eCollection 2021 Nov.
+
+TMPRSS2 promotes SARS-CoV-2 evasion from NCOA7-mediated restriction.
+
+Khan H(1), Winstone H(1), Jimenez-Guardeño JM(1), Graham C(1), Doores KJ(1),
+Goujon C(2), Matthews DA(3), Davidson AD(3), Rihn SJ(4), Palmarini M(4), Neil
+SJD(1), Malim MH(1).
+
+Author information: 
+(1)Department of Infectious Diseases, School of Immunology and Microbial
+Sciences, King's College London, London, United Kingdom.
+(2)IRIM, CNRS, Université de Montpellier, Montpellier, France.
+(3)School of Cellular and Molecular Medicine, Faculty of Life Sciences,
+University Walk, University of Bristol, Bristol, United Kingdom.
+(4)MRC-University of Glasgow Centre for Virus Research (CVR), Glasgow, United
+Kingdom.
+
+Interferons play a critical role in regulating host immune responses to
+SARS-CoV-2, but the interferon (IFN)-stimulated gene (ISG) effectors that inhibit
+SARS-CoV-2 are not well characterized. The IFN-inducible short isoform of human
+nuclear receptor coactivator 7 (NCOA7) inhibits endocytic virus entry, interacts 
+with the vacuolar ATPase, and promotes endo-lysosomal vesicle acidification and
+lysosomal protease activity. Here, we used ectopic expression and gene knockout
+to demonstrate that NCOA7 inhibits infection by SARS-CoV-2 as well as by
+lentivirus particles pseudotyped with SARS-CoV-2 Spike in lung epithelial cells. 
+Infection with the highly pathogenic, SARS-CoV-1 and MERS-CoV, or seasonal,
+HCoV-229E and HCoV-NL63, coronavirus Spike-pseudotyped viruses was also inhibited
+by NCOA7. Importantly, either overexpression of TMPRSS2, which promotes plasma
+membrane fusion versus endosomal fusion of SARS-CoV-2, or removal of Spike's
+polybasic furin cleavage site rendered SARS-CoV-2 less sensitive to NCOA7
+restriction. Collectively, our data indicate that furin cleavage sensitizes
+SARS-CoV-2 Spike to the antiviral consequences of endosomal acidification by
+NCOA7, and suggest that the acquisition of furin cleavage may have favoured the
+co-option of cell surface TMPRSS proteases as a strategy to evade the suppressive
+effects of IFN-induced endo-lysosomal dysregulation on virus infection.
+
+DOI: 10.1371/journal.ppat.1009820 
+PMCID: PMC8648102
+PMID: 34807954 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

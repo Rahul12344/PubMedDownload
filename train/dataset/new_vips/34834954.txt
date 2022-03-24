@@ -1,0 +1,41 @@
+
+1. Viruses. 2021 Oct 25;13(11). pii: 2147. doi: 10.3390/v13112147.
+
+Evaluating Large Spontaneous Deletions in a Bovine Cell Line Selected for Bovine 
+Viral Diarrhea Virus Resistance.
+
+Workman AM(1), Heaton MP(1), Webster DA(2), Harhay GP(1), Kalbfleisch TS(3),
+Smith TPL(1), Falkenberg SM(4), Carlson DF(2), Sonstegard TS(5).
+
+Author information: 
+(1)US Meat Animal Research Center, United States Department of Agriculture,
+Agricultural Research Service, Clay Center, NE 68901, USA.
+(2)Recombinetics Inc., Eagan, MN 55121, USA.
+(3)Gluck Equine Research Center, Department of Veterinary Science, University of 
+Kentucky, Lexington, KY 40506, USA.
+(4)National Animal Disease Center, United States Department of Agriculture,
+Agricultural Research Service, Ames, IA 50010, USA.
+(5)Acceligen Inc., Eagan, MN 55121, USA.
+
+Bovine viral diarrhea virus's (BVDV) entry into bovine cells involves attachment 
+of virions to cellular receptors, internalization, and pH-dependent fusion with
+endosomal membranes. The primary host receptor for BVDV is CD46; however, the
+complete set of host factors required for virus entry is unknown. The Madin-Darby
+bovine kidney (MDBK) cell line is susceptible to BVDV infection, while a
+derivative cell line (CRIB) is resistant at the level of virus entry. We
+performed complete genome sequencing of each to identify genomic variation
+underlying the resistant phenotype with the aim of identifying host factors
+essential for BVDV entry. Three large compound deletions in the BVDV-resistant
+CRIB cell line were identified and predicted to disrupt the function or
+expression of the genes PTPN12, GRID2, and RABGAP1L. However, CRISPR/Cas9
+mediated knockout of these genes, individually or in combination, in the parental
+MDBK cell line did not impact virus entry or replication. Therefore, resistance
+to BVDV in the CRIB cell line is not due to the apparent spontaneous loss of
+PTPN12, GRID2, or RABGAP1L gene function. Identifying the functional cause of
+BVDV resistance in the CRIB cell line may require more detailed comparisons of
+the genomes and epigenomes.
+
+DOI: 10.3390/v13112147 
+PMCID: PMC8622392
+PMID: 34834954 
+

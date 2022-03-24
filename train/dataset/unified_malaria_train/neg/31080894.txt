@@ -1,0 +1,46 @@
+
+1. version 2. wellcome open res. 2019 may 28 [revised 2019 may 28];4:58. doi:
+10.12688/wellcomeopenres.15194.2. ecollection 2019.
+
+progression canonical reference malaria parasite genome 2002-2019.
+
+böhme u(1), otto td(1)(2), sanders m(1), newbold ci(1)(3), berriman m(1).
+
+author information: 
+(1)parasite genomics, wellcome sanger institute, hinxton, cambridge, cb10 1sa,
+uk.
+(2)institute infection, immunity inflammation, mvls, university of
+glasgow, glasgow, g12 8qq, uk.
+(3)weatherall institute molecular medicine, university oxford, john
+radcliffe hospital, oxford, ox3 9du, uk.
+
+here describe ways sequence annotation plasmodium 
+falciparum reference genome changed since publication 2002. the
+malaria species responsible deaths worldwide, richness of
+annotation accuracy sequence important resources p.
+falciparum research community well basis interpreting genomes
+of subsequently sequenced species. time publication 2002 60% of
+predicted genes unknown functions. march 2019, number been
+significantly decreased 33%. reduction due inclusion genes
+that subsequently characterised experimentally genes significant
+similarity others known functions. addition, structural annotation
+of genes significantly refined; 27% gene structures changed
+since 2002, comprising changes exon-intron boundaries, addition deletion of
+exons addition deletion genes. sequence also undergone
+significant improvements. addition correction large number of
+single-base insertion deletion errors, major miss-assembly the
+subtelomeres chromosome 7 8 corrected. number sequenced
+isolates continues grow rapidly, single reference genome an
+adequate basis interpreting intra-species sequence diversity. therefore
+describe publication population reference genome p. falciparum,
+called pfref1. reference enable community map regions that
+are present current assembly. p. falciparum 3d7 continue be
+maintained, ongoing curation ensuring continual improvements annotation
+quality.
+
+doi: 10.12688/wellcomeopenres.15194.2 
+pmcid: pmc6484455
+pmid: 31080894 
+
+conflict interest statement: competing interests disclosed.
+

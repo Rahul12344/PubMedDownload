@@ -1,0 +1,59 @@
+
+1. JMIR Res Protoc. 2021 Dec 2;10(12):e30304. doi: 10.2196/30304.
+
+Utility of a Machine-Guided Tool for Assessing Risk Behavior Associated With
+Contracting HIV in Three Sites in South Africa: Protocol for an In-Field
+Evaluation.
+
+Majam M(1), Phatsoane M(1), Hanna K(2), Faul C(2), Arora L(2), Makthal S(2),
+Kumar A(2), Jois K(2), Lalla-Edward ST(1).
+
+Author information: 
+(1)Ezintsha, Faculty of Health Sciences, University of Witswatersrand,
+Johannesburg, South Africa.
+(2)IPRD Solutions, New York, NY, United States.
+
+BACKGROUND: Mobile technology has helped to advance health programs, and studies 
+have shown that an automated risk prediction model can successfully be used to
+identify patients who exhibit a high probable risk of contracting human
+immunodeficiency virus (HIV). A machine-guided tool is an algorithm that takes a 
+set of subjective and objective answers from a simple questionnaire and computes 
+an HIV risk assessment score.
+OBJECTIVE: The primary objective of this study is to establish that machine
+learning can be used to develop machine-guided tools and give us a deeper
+statistical understanding of the correlation between certain behavioral patterns 
+and HIV.
+METHODS: In total, 200 HIV-negative adult individuals across three South African 
+study sites each (two semirural and one urban) will be recruited. Study processes
+will include (1) completing a series of questions (demographic, sexual behavior
+and history, personal, lifestyle, and symptoms) on an application system, unaided
+(assistance will only be provided upon user request); (2) two HIV tests (one per 
+study visit) being performed by a nurse/counselor according to South African
+national guidelines (to evaluate the prediction accuracy of the tool); and (3)
+communicating test results and completing a user experience survey questionnaire.
+The output metrics for this study will be computed by using the participants'
+risk assessment scores as "predictions" and the test results as the "ground
+truth." Analyses will be completed after visit 1 and then again after visit 2.
+All risk assessment scores will be used to calculate the reliability of the
+machine-guided tool.
+RESULTS: Ethical approval was received from the University of Witwatersrand Human
+Research Ethics Committee (HREC; ethics reference no. 200312) on August 20, 2020.
+This study is ongoing. Data collection has commenced and is expected to be
+completed in the second half of 2021. We will report on the machine-guided tool's
+performance and usability, together with user satisfaction and recommendations
+for improvement.
+CONCLUSIONS: Machine-guided risk assessment tools can provide a cost-effective
+alternative to large-scale HIV screening and help in providing targeted
+counseling and testing to prevent the spread of HIV.
+TRIAL REGISTRATION: South African National Clinical Trial Registry
+DOH-27-042021-679; https://sanctr.samrc.ac.za/TrialDisplay.aspx?TrialID=5545.
+INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID): DERR1-10.2196/30304.
+
+©Mohammed Majam, Mothepane Phatsoane, Keith Hanna, Charles Faul, Lovkesh Arora,
+Sarvesh Makthal, Akhil Kumar, Kashyap Jois, Samanta Tresha Lalla-Edward.
+Originally published in JMIR Research Protocols
+(https://www.researchprotocols.org), 02.12.2021.
+
+DOI: 10.2196/30304 
+PMID: 34860679 
+

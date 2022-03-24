@@ -1,0 +1,34 @@
+
+1. j biopharm stat. 2005;15(2):241-52.
+
+sampling strategies detecting rare impurities: application gene therapy
+products.
+
+wang c(1), gheyas f.
+
+author information: 
+(1)schering-plough research institute, kenilworth, new jersey 07033-1300, usa.
+
+detection rare impurities drug products presents special challenges.
+replication competent adenovirus (rca) rare impurity found in
+adenovirus-based gene therapy products. various methods used detection of
+rcas. primarily focus qualitative assays. acceptance sampling plans for
+detecting rcas batches gene therapy products discussed. assuming that
+the number rca units per patient dose follows poisson distribution,
+operating characteristics (oc) sampling plans studied. oc
+curves display acceptance probabilities batches specific true but
+unknown level rca used assess specificity sensitivity of
+the test strategies. application bayesian methodologies assessment of
+rca levels drug batches also discussed. using observed data prior
+belief, 95% credible region number rca units per patient dose be
+constructed. classical bayesian calculations display impact of
+sample size, sampling fraction, assay quality detection rca. for
+better sensitivity, largest possible sampling fraction not
+interfere logistics performance assay used. the
+choice sample size depend upper limit biologically safe
+level rca, testing strategy, desired level sensitivity and
+specificity, also practical issues.
+
+doi: 10.1081/bip-200049834 
+pmid: 15796292  [indexed medline]
+

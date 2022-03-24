@@ -1,0 +1,28 @@
+
+1. Bioprocess Biosyst Eng. 2005 Aug;27(5):339-48. Epub 2005 Jul 15.
+
+Predicting the onset of filamentous bulking in biological wastewater treatment
+systems by exploiting image analysis information.
+
+Banadda EN(1), Smets IY, Jenné R, Van Impe JF.
+
+Author information: 
+(1)BioTeC - Bioprocess Technology and Control, Chemical Engineering Department,
+Katholieke Universiteit Leuven, 3001 Leuven, Belgium.
+
+The performance of the activated sludge process is limited by the ability of the 
+sedimentation tank (1) to separate the activated sludge from the treated effluent
+and (2) to concentrate it. Apart from bad operating strategies or poorly designed
+clarifiers, settling failures can mainly be attributed to filamentous bulking.
+Image analysis is a promising technique that can be used for early detection of
+filamentous bulking. The aim of this paper is therefore twofold. Foremost,
+correlations are sought between image analysis information (i.e., the total
+filament length per image, the mean form factor, the mean equivalent floc
+diameter, the mean floc roundness and the mean floc reduced radius of gyration)
+and classical measurements (i.e., the Sludge Volume Index (SVI)). Secondly, this 
+information is both explored and exploited in order to identify dynamic ARX and
+state space-type models. Their performance is compared based on two criteria.
+
+DOI: 10.1007/s00449-005-0412-6 
+PMID: 16021475  [Indexed for MEDLINE]
+

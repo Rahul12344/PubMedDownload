@@ -1,0 +1,53 @@
+
+1. J Hosp Med. 2021 Nov;16(11):659-666. doi: 10.12788/jhm.3717.
+
+Association of Healthcare Access With Intensive Care Unit Utilization and
+Mortality in Patients of Hispanic Ethnicity Hospitalized With COVID-19.
+
+Velasco F(1), Yang DM(2), Zhang M(2), Nelson T(1), Sheffield T(2), Keller T(1),
+Wang Y(2), Walker C(1), Katterapalli C(1), Zimmerman K(1), Masica A(1), Lehmann
+CU(3), Xie Y(2), Hollingsworth JW(4)(5).
+
+Author information: 
+(1)Texas Health Resources, Arlington, Texas.
+(2)Quantitative Biomedical Research Center, Department of Population and Data
+Sciences, University of Texas Southwestern Medical Center, Dallas, Texas.
+(3)Clinical Informatics Center, University of Texas Southwestern Medical Center, 
+Dallas, Texas.
+(4)Texas Health Harris Methodist Hospital, Fort Worth, Texas.
+(5)Texas Christian University School of Medicine, Fort Worth, Texas.
+
+BACKGROUND: Racial and ethnic minority groups in the United States experience a
+disproportionate burden of COVID-19 deaths.
+OBJECTIVE: To evaluate whether outcome differences between Hispanic and
+non-Hispanic COVID-19 hospitalized patients exist and, if so, to identify the
+main malleable contributing factors.
+DESIGN, SETTING, PARTICIPANTS: Retrospective, cross-sectional, observational
+study of 6097 adult COVID-19 patients hospitalized within a single large
+healthcare system from March to November 2020.
+EXPOSURES: Self-reported ethnicity and primary language.
+MAIN OUTCOMES AND MEASURES: Clinical outcomes included intensive care unit (ICU) 
+utilization and in-hospital death. We used age-adjusted odds ratios (OR) and
+multivariable analysis to evaluate the associations between ethnicity/language
+groups and outcomes.
+RESULTS: 32.1% of patients were Hispanic, 38.6% of whom reported a non-English
+primary language. Hispanic patients were less likely to be insured, have a
+primary care provider, and have accessed the healthcare system prior to the
+COVID-19 admission. After adjusting for age, Hispanic inpatients experienced
+higher ICU utilization (non-English-speaking: OR, 1.75; 95% CI, 1.47-2.08;
+English-speaking: OR, 1.13; 95% CI, 0.95-1.33) and higher mortality
+(non-English-speaking: OR, 1.43; 95% CI, 1.10-1.86; English-speaking: OR, 1.53;
+95% CI, 1.19-1.98) compared to non-Hispanic inpatients. There were no observed
+treatment disparities among ethnic groups. After adjusting for age, Hispanic
+inpatients had elevated disease severity at admission (non-English-speaking: OR, 
+2.27; 95% CI, 1.89-2.72; English-speaking: OR, 1.33; 95% CI, 1.10- 1.61). In
+multivariable analysis, the associations between ethnicity/language and clinical 
+outcomes decreased after considering baseline disease severity (P < .001).
+CONCLUSION: The associations between ethnicity and clinical outcomes can be
+explained by elevated disease severity at admission and limited access to
+healthcare for Hispanic patients, especially non-English-speaking Hispanics.
+
+DOI: 10.12788/jhm.3717 
+PMCID: PMC8577697 [Available on 2022-11-01]
+PMID: 34730508  [Indexed for MEDLINE]
+

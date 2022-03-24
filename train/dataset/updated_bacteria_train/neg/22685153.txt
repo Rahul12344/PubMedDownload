@@ -1,0 +1,38 @@
+
+1. Appl Environ Microbiol. 2012 Aug;78(16):5831-8. doi: 10.1128/AEM.01147-12. Epub
+2012 Jun 8.
+
+Development and application of an arabinose-inducible expression system by
+facilitating inducer uptake in Corynebacterium glutamicum.
+
+Zhang Y(1), Shang X, Lai S, Zhang G, Liang Y, Wen T.
+
+Author information: 
+(1)Department of Industrial Microbiology and Biotechnology, Institute of
+Microbiology, Chinese Academy of Sciences, Beijing, China.
+
+Corynebacterium glutamicum is currently used for the industrial production of a
+variety of biological materials. Many available inducible expression systems in
+this species use lac-derived promoters from Escherichia coli that exhibit much
+lower levels of inducible expression and leaky basal expression. We developed an 
+arabinose-inducible expression system that contains the L-arabinose regulator
+AraC, the P(BAD) promoter from the araBAD operon, and the L-arabinose transporter
+AraE, all of which are derived from E. coli. The level of inducible P(BAD)-based 
+expression could be modulated over a wide concentration range from 0.001 to 0.4% 
+L-arabinose. This system tightly controlled the expression of the uracil
+phosphoribosyltransferase without leaky expression. When the gene encoding green 
+fluorescent protein (GFP) was under the control of P(BAD) promoter, flow
+cytometry analysis showed that GFP was expressed in a highly homogeneous profile 
+throughout the cell population. In contrast to the case in E. coli, P(BAD)
+induction was not significantly affected in the presence of different carbon
+sources in C. glutamicum, which makes it useful in fermentation applications. We 
+used this system to regulate the expression of the odhI gene from C. glutamicum, 
+which encodes an inhibitor of α-oxoglutarate dehydrogenase, resulting in high
+levels of glutamate production (up to 13.7 mM) under biotin nonlimiting
+conditions. This system provides an efficient tool available for molecular
+biology and metabolic engineering of C. glutamicum.
+
+DOI: 10.1128/AEM.01147-12 
+PMCID: PMC3406113
+PMID: 22685153  [Indexed for MEDLINE]
+

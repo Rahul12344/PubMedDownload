@@ -1,0 +1,58 @@
+
+1. BMC Med Genomics. 2021 Nov 13;14(1):269. doi: 10.1186/s12920-021-01127-2.
+
+Estimating causal effects of atherogenic lipid-related traits on COVID-19
+susceptibility and severity using a two-sample Mendelian randomization approach.
+
+Yoshikawa M(1), Asaba K(2), Nakayama T(3).
+
+Author information: 
+(1)Division of Laboratory Medicine, Department of Pathology and Microbiology,
+Nihon University School of Medicine, Tokyo, Japan. myosh-tky@umin.ac.jp.
+(2)Department of Computational Diagnostic Radiology and Preventive Medicine, The 
+University of Tokyo Hospital, Tokyo, Japan.
+(3)Division of Laboratory Medicine, Department of Pathology and Microbiology,
+Nihon University School of Medicine, Tokyo, Japan.
+
+BACKGROUND: As the number of COVID-19 deaths continues to rise worldwide, the
+identification of risk factors for the disease is an urgent issue, and it remains
+controversial whether atherogenic lipid-related traits including serum
+apolipoprotein B, low-density lipoprotein (LDL)-cholesterol, and triglyceride
+levels, are risk factors. The aim of this study was to estimate causal effects of
+lipid-related traits on COVID-19 risk in the European population using a
+two-sample Mendelian randomization (MR) approach.
+METHODS: We used summary statistics from a genome-wide association study (GWAS)
+that included 441,016 participants from the UK Biobank as the exposure dataset of
+lipid-related traits and from COVID-19 Host Genetics Initiative GWAS
+meta-analyses of European ancestry as the outcome dataset for COVID-19
+susceptibility (32,494 cases and 1,316,207 controls), hospitalization (8316 cases
+and 1,549,095 controls), and severity (4792 cases and 1,054,664 controls). We
+performed two-sample MR analyses using the inverse variance weighted (IVW)
+method. As sensitivity analyses, the MR-Egger regression, weighted median, and
+weighted mode methods were conducted as were leave-one-out sensitivity analysis, 
+the MR-PRESSO global test, PhenoScanner searches, and IVW multivariable MR
+analyses. A P value below 0.0055 with Bonferroni correction was considered
+statistically significant.
+RESULTS: This MR study suggested that serum apolipoprotein B or LDL-cholesterol
+levels were not significantly associated with COVID-19 risk. On the other hand,
+we inferred that higher serum triglyceride levels were suggestively associated
+with higher risks of COVID-19 susceptibility (odds ratio [OR] per standard
+deviation increase in lifelong triglyceride levels, 1.065; 95% confidence
+interval [CI], 1.001-1.13; P = 0.045) and hospitalization (OR, 1.174; 95% CI,
+1.04-1.33; P = 0.012), and were significantly associated with COVID-19 severity
+(OR, 1.274; 95% CI, 1.08-1.50; P = 0.004). Sensitivity and bidirectional MR
+analyses suggested that horizontal pleiotropy and reverse causation were
+unlikely.
+CONCLUSIONS: Our MR study indicates a causal effect of higher serum triglyceride 
+levels on a greater risk of COVID-19 severity in the European population using
+the latest and largest GWAS datasets to date. However, as the underlying
+mechanisms remain unclear and our study might be still biased due to possible
+horizontal pleiotropy, further studies are warranted to validate our findings and
+investigate underlying mechanisms.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12920-021-01127-2 
+PMCID: PMC8590430
+PMID: 34774031  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+1. Multimed Tools Appl. 2021 Oct 12:1-22. doi: 10.1007/s11042-021-11409-7. [Epub
+ahead of print]
+
+Pneumonia classification using quaternion deep learning.
+
+Singh S(1), Tripathi BK(2).
+
+Author information: 
+(1)JSS Academy of Technical Education, Noida, India.
+(2)Harcourt Butler Technological University Kanpur, Kanpur, India.
+
+Pneumonia is an infection in one or both the lungs because of virus or bacteria
+through breathing air. It inflames air sacs in lungs which fill with fluid which 
+further leads to problems in respiration. Pneumonia is interpreted by
+radiologists by observing abnormality in lungs in case of fluid in Chest X-Rays. 
+Computer Aided Detection Diagnosis (CAD) tools can assist radiologists by
+improving their diagnostic accuracy. Such CAD tools use neural networks which are
+trained on Chest X-Ray dataset to classify a Chest X-Ray into normal or infected 
+with Pneumonia. Convolution neural networks have shown remarkable performance in 
+object detection in an image. Quaternion Convolution neural network (QCNN) is a
+generalization of conventional convolution neural networks. QCNN treats all three
+channels (R, G, B) of color image as a single unit and it extracts better
+representative features and which further improves classification. In this paper,
+we have trained Quaternion residual network on a publicly available large Chest
+X-Ray dataset on Kaggle repository and obtained classification accuracy of 93.75%
+and F-score of .94. We have also compared our performance with other CNN
+architectures. We found that classification accuracy was higher with Quaternion
+Residual network when we compared it with a real valued Residual network.
+
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC,
+part of Springer Nature 2021.
+
+DOI: 10.1007/s11042-021-11409-7 
+PMCID: PMC8506489
+PMID: 34658656 
+

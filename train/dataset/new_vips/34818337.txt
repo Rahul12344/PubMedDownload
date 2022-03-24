@@ -1,0 +1,50 @@
+
+1. PLoS Comput Biol. 2021 Nov 24;17(11):e1009587. doi: 10.1371/journal.pcbi.1009587.
+eCollection 2021 Nov.
+
+Data-driven multi-scale mathematical modeling of SARS-CoV-2 infection reveals
+heterogeneity among COVID-19 patients.
+
+Wang S(1)(2), Hao M(1)(2), Pan Z(3), Lei J(4), Zou X(1)(2).
+
+Author information: 
+(1)School of Mathematics and Statistics, Wuhan University, Wuhan, China.
+(2)Hubei Key Laboratory of Computational Science, Wuhan University, Wuhan, China.
+(3)State Key Laboratory of Virology, College of Life Sciences, Wuhan University, 
+Wuhan, China.
+(4)School of Mathematical Sciences, Center for Applied Mathematics, Tiangong
+University, Tianjin, China.
+
+Patients with coronavirus disease 2019 (COVID-19) often exhibit diverse disease
+progressions associated with various infectious ability, symptoms, and clinical
+treatments. To systematically and thoroughly understand the heterogeneous
+progression of COVID-19, we developed a multi-scale computational model to
+quantitatively understand the heterogeneous progression of COVID-19 patients
+infected with severe acute respiratory syndrome (SARS)-like coronavirus
+(SARS-CoV-2). The model consists of intracellular viral dynamics, multicellular
+infection process, and immune responses, and was formulated using a combination
+of differential equations and stochastic modeling. By integrating multi-source
+clinical data with model analysis, we quantified individual heterogeneity using
+two indexes, i.e., the ratio of infected cells and incubation period.
+Specifically, our simulations revealed that increasing the host antiviral state
+or virus induced type I interferon (IFN) production rate can prolong the
+incubation period and postpone the transition from asymptomatic to symptomatic
+outcomes. We further identified the threshold dynamics of T cell exhaustion in
+the transition between mild-moderate and severe symptoms, and that patients with 
+severe symptoms exhibited a lack of naïve T cells at a late stage. In addition,
+we quantified the efficacy of treating COVID-19 patients and investigated the
+effects of various therapeutic strategies. Simulations results suggested that
+single antiviral therapy is sufficient for moderate patients, while combination
+therapies and prevention of T cell exhaustion are needed for severe patients.
+These results highlight the critical roles of IFN and T cell responses in
+regulating the stage transition during COVID-19 progression. Our study reveals a 
+quantitative relationship underpinning the heterogeneity of transition stage
+during COVID-19 progression and can provide a potential guidance for personalized
+therapy in COVID-19 patients.
+
+DOI: 10.1371/journal.pcbi.1009587 
+PMID: 34818337 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

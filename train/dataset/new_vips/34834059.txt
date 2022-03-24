@@ -1,0 +1,51 @@
+
+1. Molecules. 2021 Nov 18;26(22). pii: 6967. doi: 10.3390/molecules26226967.
+
+Alkyne-Tagged Apigenin, a Chemical Tool to Navigate Potential Targets of
+Flavonoid Anti-Dengue Leads.
+
+Hengphasatporn K(1), Kaewmalai B(2)(3), Jansongsaeng S(4), Badavath VN(2), Saelee
+T(2), Chokmahasarn T(4), Khotavivattana T(4), Shigeta Y(1), Rungrotmongkol
+T(5)(6), Boonyasuppayakorn S(2).
+
+Author information: 
+(1)Center for Computational Sciences, University of Tsukuba, 1-1-1 Tennodai,
+Tsukuba, Ibaraki 305-8577, Japan.
+(2)Applied Medical Virology Research Unit, Department of Microbiology, Faculty of
+Medicine, Chulalongkorn University, Bangkok 10330, Thailand.
+(3)Interdisciplinary Program in Microbiology, Graduate School, Chulalongkorn
+University, Bangkok 10330, Thailand.
+(4)Center of Excellence for Natural Product, Department of Chemistry, Faculty of 
+Science, Chulalongkorn University, Pathumwan, Bangkok 10330, Thailand.
+(5)Structural and Computational Biology Research Unit, Department of
+Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok 10330,
+Thailand.
+(6)Program in Bioinformatics and Computational Biology, Graduate School,
+Chulalongkorn University, Bangkok 10330, Thailand.
+
+A flavonoid is a versatile core structure with various cellular, immunological,
+and pharmacological effects. Recently, flavones have shown anti-dengue activities
+by interfering with viral translation and replication. However, the molecular
+target is still elusive. Here we chemically modified apigenin by adding an alkyne
+moiety into the B-ring hydroxyl group. The alkyne serves as a chemical tag for
+the alkyne-azide cycloaddition reaction for subcellular visualization. The
+compound located at the perinuclear region at 1 and 6 h after infection.
+Interestingly, the compound signal started shifting to vesicle-like structures at
+6 h and accumulated at 24 and 48 h after infection. Moreover, the compound
+treatment in dengue-infected cells showed that the compound restricted the viral 
+protein inside the vesicles, especially at 48 h. As a result, the dengue envelope
+proteins spread throughout the cells. The alkyne-tagged apigenin showed a more
+potent efficacy at the EC50 of 2.36 ± 0.22, and 10.55 ± 3.37 µM, respectively,
+while the cytotoxicities were similar to the original apigenin at the CC50 of
+70.34 ± 11.79, and 82.82 ± 11.68 µM, respectively. Molecular docking confirmed
+the apigenin binding to the previously reported target, ribosomal protein S9, at 
+two binding sites. The network analysis, homopharma, and molecular docking
+revealed that the estrogen receptor 1 and viral NS1 were potential targets at the
+late infection stage. The interactions could attenuate dengue productivity by
+interfering with viral translation and suppressing the viral proteins from
+trafficking to the cell surface.
+
+DOI: 10.3390/molecules26226967 
+PMCID: PMC8618255
+PMID: 34834059 
+

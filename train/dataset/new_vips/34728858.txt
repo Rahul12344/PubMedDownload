@@ -1,0 +1,50 @@
+
+1. Int J Eng Sci. 2022 Jan 1;170:103604. doi: 10.1016/j.ijengsci.2021.103604. Epub
+2021 Oct 29.
+
+On the deformation and frequency analyses of SARS-CoV-2 at nanoscale.
+
+Dastjerdi S(1), Malikan M(2), Akgöz B(1), Civalek Ö(3), Wiczenbach T(2), Eremeyev
+VA(2)(4)(5).
+
+Author information: 
+(1)Division of Mechanics, Civil Engineering Department, Akdeniz University,
+Antalya, Turkey.
+(2)Department of Mechanics of Materials and Structures, Faculty of Civil and
+Environmental Engineering, Gdansk University of Technology, Gdansk, Poland.
+(3)Department of Medical Research, China Medical University Hospital, China
+Medical University, Taichung, Taiwan.
+(4)Research and Education Center "Materials" Don State Technical University,
+Gagarina sq., 1, 344000 Rostov on Don, Russia.
+(5)DICAAR, Università degli Studi di Cagliari, Via Marengo, 2, 09123, Cagliari,
+Italy.
+
+The SARS-CoV-2 virus, which has emerged as a Covid-19 pandemic, has had the most 
+significant impact on people's health, economy, and lifestyle around the world
+today. In the present study, the SARS-CoV-2 virus is mechanically simulated to
+obtain its deformation and natural frequencies. The virus under analysis is
+modeled on a viscoelastic spherical structure. The theory of shell structures in 
+mechanics is used to derive the governing equations. Whereas the virus has
+nanometric size, using classical theories may give incorrect results.
+Consequently, the nonlocal elasticity theory is used to consider the effect of
+interatomic forces on the results. From the mechanical point of view, if a
+structure vibrates with a natural frequency specific to it, the resonance
+phenomenon will occur in that structure, leading to its destruction. Therefore,
+it is possible that the protein chains of SARS-CoV-2 would be destroyed by
+vibrating it at natural frequencies. Since the mechanical properties of
+SARS-CoV-2 are not clearly known due to the new emergence of this virus,
+deformation and natural frequencies are obtained in a specific interval.
+Researchers could also use this investigation as a pioneering study to find a
+non-vaccine treatment solution for the SARS-CoV-2 virus and various viruses,
+including HIV.
+
+© 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ijengsci.2021.103604 
+PMCID: PMC8554078
+PMID: 34728858 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

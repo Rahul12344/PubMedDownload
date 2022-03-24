@@ -1,0 +1,40 @@
+
+1. Biochem Cell Biol. 2014 Dec;92(6):555-63. doi: 10.1139/bcb-2014-0074. Epub 2014
+Sep 18.
+
+Discovery of novel membrane binding structures and functions.
+
+Kufareva I(1), Lenoir M, Dancea F, Sridhar P, Raush E, Bissig C, Gruenberg J,
+Abagyan R, Overduin M.
+
+Author information: 
+(1)a Skaggs School of Pharmacy and Pharmaceutical Sciences, University of
+California, San Diego, 9500 Gilman Drive, La Jolla, CA 92093, USA.
+
+The function of a protein is determined by its intrinsic activity in the context 
+of its subcellular distribution. Membranes localize proteins within cellular
+compartments and govern their specific activities. Discovering such
+membrane-protein interactions is important for understanding biological
+mechanisms and could uncover novel sites for therapeutic intervention. We present
+a method for detecting membrane interactive proteins and their exposed residues
+that insert into lipid bilayers. Although the development process involved
+analysis of how C1b, C2, ENTH, FYVE, Gla, pleckstrin homology (PH), and PX
+domains bind membranes, the resulting membrane optimal docking area (MODA) method
+yields predictions for a given protein of known three-dimensional structures
+without referring to canonical membrane-targeting modules. This approach was
+tested on the Arf1 GTPase, ATF2 acetyltransferase, von Willebrand factor A3
+domain, and Neisseria gonorrhoeae MsrB protein and further refined with membrane 
+interactive and non-interactive FAPP1 and PKD1 pleckstrin homology domains,
+respectively. Furthermore we demonstrate how this tool can be used to discover
+unprecedented membrane binding functions as illustrated by the Bro1 domain of
+Alix, which was revealed to recognize lysobisphosphatidic acid (LBPA). Validation
+of novel membrane-protein interactions relies on other techniques such as nuclear
+magnetic resonance spectroscopy (NMR), which was used here to map the sites of
+micelle interaction. Together this indicates that genome-wide identification of
+known and novel membrane interactive proteins and sites is now feasible and
+provides a new tool for functional annotation of the proteome.
+
+DOI: 10.1139/bcb-2014-0074 
+PMCID: PMC4267288
+PMID: 25394204  [Indexed for MEDLINE]
+

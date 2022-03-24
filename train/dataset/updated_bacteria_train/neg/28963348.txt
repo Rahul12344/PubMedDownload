@@ -1,0 +1,48 @@
+
+1. Biochem J. 2017 Nov 9;474(22):3799-3815. doi: 10.1042/BCJ20170589.
+
+Reduction potentials of protein disulfides and catalysis of glutathionylation and
+deglutathionylation by glutaredoxin enzymes.
+
+Ukuwela AA(1), Bush AI(2), Wedd AG(1), Xiao Z(3)(2).
+
+Author information: 
+(1)School of Chemistry and Bio21 Molecular Science and Biotechnology Institute,
+The University of Melbourne, Parkville, Victoria 3010, Australia.
+(2)Melbourne Dementia Research Centre, Florey Institute of Neuroscience and
+Mental Health, The University of Melbourne, Parkville, Victoria 3052, Australia.
+(3)School of Chemistry and Bio21 Molecular Science and Biotechnology Institute,
+The University of Melbourne, Parkville, Victoria 3010, Australia
+z.xiao@florey.edu.au.
+
+Glutaredoxins (Grxs) are a class of GSH (glutathione)-dependent thiol-disulfide
+oxidoreductase enzymes. They use the cellular redox buffer GSSG (glutathione
+disulfide)/GSH directly to catalyze these exchange reactions. Grxs feature
+dithiol active sites and can shuttle rapidly between three oxidation states,
+namely dithiol Grx(SH)2, mixed disulfide Grx(SH)(SSG) and oxidized disulfide
+Grx(SS). Each is characterized by a distinct standard reduction potential
+[Formula: see text] The [Formula: see text] values for the redox couple
+Grx(SS)/Grx(SH)2 are available, but a recent estimate differs by over 100 mV from
+the literature values. No estimates are available for [Formula: see text] for the
+mixed disulfide couple Grx(SH)(SSG)/(Grx(SH)2 + GSH). This work determined both
+[Formula: see text] and [Formula: see text] for two representative Grx enzymes,
+Homo sapiens HsGrx1 and Escherichia coli EcGrx1. The empirical approaches were
+verified rigorously to overcome the sensitivity of these redox-labile enzymes to 
+experimental conditions. The classic method of acid 'quenching' was demonstrated 
+to shift the thiol-disulfide redox equilibria. Both enzymes exhibit an [Formula: 
+see text] (vs. SHE) at a pH of 7.0. Their [Formula: see text] values (-213 and
+-230 mV for EcGrx1 and HsGrx1, respectively) are slightly less negative than that
+([Formula: see text]) of the redox buffer GSSG/2GSH. Both [Formula: see text] and
+[Formula: see text] vary with log [GSH], but the former more sensitively by a
+factor of 2. This confers dual catalytic functions to a Grx enzyme as either an
+oxidase at low [GSH] or as a reductase at high [GSH]. Consequently, these enzymes
+can participate efficiently in either glutathionylation or deglutathionylation.
+The catalysis is demonstrated to proceed via a monothiol ping-pong mechanism
+relying on a single Cys residue only in the dithiol active site.
+
+© 2017 The Author(s). Published by Portland Press Limited on behalf of the
+Biochemical Society.
+
+DOI: 10.1042/BCJ20170589 
+PMID: 28963348  [Indexed for MEDLINE]
+

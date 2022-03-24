@@ -1,0 +1,57 @@
+
+1. Neuron. 2021 Nov 24. pii: S0896-6273(21)00896-5. doi:
+10.1016/j.neuron.2021.11.003. [Epub ahead of print]
+
+Opto-vTrap, an optogenetic trap for reversible inhibition of vesicular release,
+synaptic transmission, and behavior.
+
+Won J(1), Pankratov Y(2), Jang MW(3), Kim S(3), Ju YH(4), Lee S(4), Lee SE(5),
+Kim A(4), Park S(4), Lee CJ(6), Heo WD(7).
+
+Author information: 
+(1)Center for Cognition and Sociality, Institute for Basic Science (IBS), Daejeon
+34126, Republic of Korea; Department of Biological Sciences, Korea Advanced
+Institute of Science and Technology (KAIST), Daejeon 34141, Republic of Korea.
+(2)School of Life Sciences, University of Warwick, Coventry, CV4 7AL, UK.
+(3)Center for Cognition and Sociality, Institute for Basic Science (IBS), Daejeon
+34126, Republic of Korea; KU-KIST Graduate School of Converging Science and
+Technology, Korea University, Seoul 02841, Republic of Korea.
+(4)Center for Cognition and Sociality, Institute for Basic Science (IBS), Daejeon
+34126, Republic of Korea.
+(5)Virus Facility, Research Animal Resource Center, Korea Institute of Science
+and Technology (KIST), Seoul 02792, Republic of Korea.
+(6)Center for Cognition and Sociality, Institute for Basic Science (IBS), Daejeon
+34126, Republic of Korea; KU-KIST Graduate School of Converging Science and
+Technology, Korea University, Seoul 02841, Republic of Korea. Electronic address:
+cjl@ibs.re.kr.
+(7)Center for Cognition and Sociality, Institute for Basic Science (IBS), Daejeon
+34126, Republic of Korea; Department of Biological Sciences, Korea Advanced
+Institute of Science and Technology (KAIST), Daejeon 34141, Republic of Korea;
+KAIST Institute for the BioCentury, Korea Advanced Institute of Science and
+Technology (KAIST), Daejeon 34141, Republic of Korea. Electronic address:
+wondo@kaist.ac.kr.
+
+Spatiotemporal control of brain activity by optogenetics has emerged as an
+essential tool to study brain function. For silencing brain activity, optogenetic
+probes, such as halorhodopsin and archaerhodopsin, inhibit transmitter release
+indirectly by hyperpolarizing membrane potentials. However, these probes cause an
+undesirable ionic imbalance and rebound spikes. Moreover, they are not applicable
+to use in non-excitable glial cells. Here we engineered Opto-vTrap, a
+light-inducible and reversible inhibition system to temporarily trap the
+transmitter-containing vesicles from exocytotic release. Light activation of
+Opto-vTrap caused full vesicle clusterization and complete inhibition of
+exocytosis within 1 min, which recovered within 30 min after light off. We found 
+a significant reduction in synaptic and gliotransmission upon activation of
+Opto-vTrap in acute brain slices. Opto-vTrap significantly inhibited
+hippocampus-dependent memory retrieval with full recovery within an hour. We
+propose Opto-vTrap as a next-generation optogenetic silencer to control brain
+activity and behavior with minimal confounding effects.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2021.11.003 
+PMID: 34852235 
+
+Conflict of interest statement: Declaration of interests The authors declare no
+competing interests.
+

@@ -1,0 +1,43 @@
+
+1. Mol Ecol. 2020 Apr;29(7):1386-1397. doi: 10.1111/mec.15410. Epub 2020 Apr 6.
+
+Combining genome-wide association study and FST -based approaches to identify
+targets of Borrelia-mediated selection in natural rodent hosts.
+
+Cornetti L(1)(2), Tschirren B(3).
+
+Author information: 
+(1)Department of Evolutionary Biology and Environmental Studies, University of
+Zurich, Zurich, Switzerland.
+(2)Zoological Institute, University of Basel, Basel, Switzerland.
+(3)Centre for Ecology and Conservation, University of Exeter, Penryn, UK.
+
+Recent advances in high-throughput sequencing technologies provide opportunities 
+to gain novel insights into the genetic basis of phenotypic trait variation. Yet 
+to date, progress in our understanding of genotype-phenotype associations in
+nonmodel organisms in general and natural vertebrate populations in particular
+has been hampered by small sample sizes typically available for wildlife
+populations and a resulting lack of statistical power, as well as a limited
+ability to control for false-positive signals. Here we propose to combine a
+genome-wide association study (GWAS) and FST -based approach with
+population-level replication to partly overcome these limitations. We present a
+case study in which we used this approach in combination with
+genotyping-by-sequencing (GBS) single nucleotide polymorphism (SNP) data to
+identify genomic regions associated with Borrelia afzelii resistance or
+susceptibility in the natural rodent host of this Lyme disease-causing
+spirochete, the bank vole (Myodes glareolus). Using this combined approach we
+identified four consensus SNPs located in exonic regions of the genes Slc26a4,
+Tns3, Wscd1 and Espnl, which were significantly associated with the voles'
+Borrelia infectious status within and across populations. Functional links
+between host responses to bacterial infections and most of these genes have
+previously been demonstrated in other rodent systems, making them promising new
+candidates for the study of evolutionary host responses to Borrelia emergence.
+Our approach is applicable to other systems and may facilitate the identification
+of genetic variants underlying disease resistance or susceptibility, as well as
+other ecologically relevant traits, in wildlife populations.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/mec.15410 
+PMID: 32163646  [Indexed for MEDLINE]
+

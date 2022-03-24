@@ -1,0 +1,49 @@
+
+1. Immune Netw. 2017 Aug;17(4):237-249. doi: 10.4110/in.2017.17.4.237. Epub 2017 Aug
+28.
+
+Comparative Analyses of Signature Genes in Acute Rejection and Operational
+Tolerance.
+
+Choi JW(1)(2), Kim YH(3)(4), Oh JW(1)(2).
+
+Author information: 
+(1)Biomedical Research Institute, Kyungpook National University Hospital, Daegu
+41404, Korea.
+(2)Department of Anatomy, Kyungpook National University School of Medicine, Daegu
+41944, Korea.
+(3)Department of Microbiology, Kyungpook National University School of Medicine, 
+Daegu 41944, Korea.
+(4)Xenotransplantation Research Center, Seoul National University College of
+Medicine, Seoul 03080, Korea.
+
+Using biomarkers as prediction tools or therapeutic targets can be a valuable
+strategy in transplantation. Recent studies identified biomarkers of acute
+rejection (AR) and operational tolerance (TOL) through the application of
+meta-analysis. In this study, we comparatively analyzed the signature genes in
+acute rejection and operational tolerance seen in human allogeneic
+transplantations using massive bioinformatical meta-analysis. To identify the
+signature genes in opposite immunological conditions, AR and TOL, we first
+collected the 1,252 gene expression data specifically intended for those
+circumstances. Then we excluded based on biological cut-values, Principal
+Component Analysis (PCA) as well as Multi-Dimensional Scaling (MDS). Using
+differentially expressed genes (DEGs) from meta-analysis, we then applied a
+ranked scoring system to identify the signature genes of AR and TOL. We
+identified 53 up-regulated and 32 down-regulated signature genes in acute
+rejection condition. Among them, ISG20, CXCL9, CXCL10, CCL19, FCER1G, PMSE1, UBD 
+are highly expressed in AR condition. In operational tolerance, we identified 110
+up-regulated and 48 down-regulated signature genes. TCL1A, BLNK, MS4A1, EBF1,
+IGHM are up-regulated in TOL condition. These genes are highly representative of 
+AR or TOL across the different organs such as liver, kidney and heart. Since
+immune response is the sum of complex biological and molecular dynamics, these
+signature genes as well as pathway analysis using a systems biology approach
+could be used to catch the insights of the certain pathways that would be
+overlooked with the conventional gene-level comparative analysis.
+
+DOI: 10.4110/in.2017.17.4.237 
+PMCID: PMC5577301
+PMID: 28860953 
+
+Conflict of interest statement: Conflict of Interest: The authors declare no
+potential conflicts of interest.
+

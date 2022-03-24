@@ -1,0 +1,42 @@
+
+1. Cell Cycle. 2016 Oct;15(19):2636-2646. Epub 2016 Jul 27.
+
+The USP1-UAF1 complex interacts with RAD51AP1 to promote homologous recombination
+repair.
+
+Cukras S(1), Lee E(1), Palumbo E(1), Benavidez P(1), Moldovan GL(2), Kee Y(1).
+
+Author information: 
+(1)a Department of Cell Biology , Microbiology, and Molecular Biology, College of
+Arts and Sciences, University of South Florida , Tampa , FL , USA.
+(2)b Department of Biochemistry and Molecular Biology , Pennsylvania State
+University College of Medicine , Hershey , PA , USA.
+
+Comment in
+    Cell Cycle. 2016 Dec;15(23):3163-3164.
+
+USP1 deubiquitinating enzyme and its stoichiometric binding partner UAF1 play an 
+essential role in promoting DNA homologous recombination (HR) repair in response 
+to various types of DNA damaging agents. Deubiquitination of FANCD2 may be
+attributed to the key role of USP1-UAF1 complex in regulating HR repair, however 
+whether USP1-UAF1 promotes HR repair independently of FANCD2 deubiquitination is 
+not known. Here we show evidence that the USP1-UAF1 complex has a
+FANCD2-independent function in promoting HR repair. Proteomic search of
+UAF1-interacting proteins revealed that UAF1 associates with RAD51AP1, a
+RAD51-interacting protein implicated in HR repair. We show that UAF1 mediates the
+interaction between USP1 and RAD51AP1, and that depletion of USP1 or UAF1 led to 
+a decreased stability of RAD51AP1. Protein interaction mapping analysis
+identified some key residues within RAD51AP1 required for interacting with the
+USP1-UAF1 complex. Cells expressing the UAF1 interaction-deficient mutant of
+RAD51AP1 show increased chromosomal aberrations in response to Mitomycin C
+treatment. Moreover, similar to the RAD51AP1 depleted cells, the cells expressing
+UAF1-interaction deficient RAD51AP1 display persistent RAD51 foci following DNA
+damage exposure, indicating that these factors regulate a later step during the
+HR repair. These data altogether suggest that the USP1-UAF1 complex promotes HR
+repair via multiple mechanisms: through FANCD2 deubiquitination, as well as by
+interacting with RAD51AP1.
+
+DOI: 10.1080/15384101.2016.1209613 
+PMCID: PMC5053553
+PMID: 27463890  [Indexed for MEDLINE]
+

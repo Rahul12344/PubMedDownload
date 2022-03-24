@@ -1,0 +1,37 @@
+
+1. nucleic acids res. 2013 feb 1;41(3):e48. doi: 10.1093/nar/gks1214. epub 2012 dec 
+11.
+
+emdecode: novel algorithm capable reading words epigenetic code to
+predict enhancers retroviral integration sites identify h3r2me1 a
+distinctive mark coding versus non-coding genes.
+
+santoni fa(1).
+
+author information: 
+(1)department genetic medicine development, university geneva, 1211
+geneva 4, switzerland. federico.santoni@unige.ch
+
+existence extra-genetic (epigenetic) codes postulated since 
+discovery primary genetic code. evident effects histone
+post-translational modifications dna methylation efficiency the
+regulation dna processes supporting postulation. emdecode an
+original algorithm approximate genomic distribution given dna
+features (e.g. promoter, enhancer, viral integration) identifying relevant
+chipseq profiles post-translational histone marks dna binding proteins 
+combining supermark. emdecode kernel essentially two-step
+procedure: (i) expectation-maximization process calculates mixture of
+epigenetic factors maximize sensitivity (recall) association with
+the feature study; (ii) approximated density recursively
+trimmed respect control dataset increase precision reducing
+the number false positives. emdecode densities improve significantly the
+prediction enhancer loci retroviral integration sites respect to
+previous methods. importantly, also used extract distinctive factors
+between two arbitrary conditions. indeed emdecode identifies unexpected
+epigenetic profiles specific coding versus non-coding rna, pointing towards a
+new role h3r2me1 coding regions.
+
+doi: 10.1093/nar/gks1214 
+pmcid: pmc3561958
+pmid: 23234700  [indexed medline]
+

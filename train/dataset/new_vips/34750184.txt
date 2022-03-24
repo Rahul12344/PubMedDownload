@@ -1,0 +1,44 @@
+
+1. CMAJ. 2021 Nov 8;193(44):E1716-E1719. doi: 10.1503/cmaj.202066-f.
+
+Problèmes associés au déploiement des modèles fondés sur l’apprentissage machine 
+en santé.
+
+[Article in French]
+
+Cohen JP(1), Cao T(1), Viviano JD(2), Huang CW(1), Fralick M(1), Ghassemi M(1),
+Mamdani M(1), Greiner R(1), Bengio Y(1).
+
+Author information: 
+(1)Institut de recherche sur l'IA Mila (Cohen, Viviano, Huang, Bengio),
+Université de Montréal, Montréal, Qc.; Institut Vector sur l'intelligence
+artificielle (Cao, Ghassemi), Université de Toronto; Réseau hospitalier Unity
+Health de Toronto (Mamdani); Département de médecine (Fralick), Université de
+Toronto, Toronto, Ont.; Institut d'intelligence machine de l'Alberta (Greiner),
+Université de l'Alberta, Edmonton, Alb.; Département de radiologie (Cohen), et
+Centre d'intelligence artificielle machine & imagerie (Cohen), Université
+Stanford, Stanford, Calif.
+(2)Institut de recherche sur l'IA Mila (Cohen, Viviano, Huang, Bengio),
+Université de Montréal, Montréal, Qc.; Institut Vector sur l'intelligence
+artificielle (Cao, Ghassemi), Université de Toronto; Réseau hospitalier Unity
+Health de Toronto (Mamdani); Département de médecine (Fralick), Université de
+Toronto, Toronto, Ont.; Institut d'intelligence machine de l'Alberta (Greiner),
+Université de l'Alberta, Edmonton, Alb.; Département de radiologie (Cohen), et
+Centre d'intelligence artificielle machine & imagerie (Cohen), Université
+Stanford, Stanford, Calif. joseph@josephpcohen.com.
+
+DOI: 10.1503/cmaj.202066-f 
+PMCID: PMC8584367
+PMID: 34750184 
+
+Conflict of interest statement: Intérêts concurrents: Joseph Paul Cohen déclare
+avoir reçu une subvention Catalyseur en IA et une subvention Catalyseur
+IA-COVID-19 du CIFAR, ainsi qu’une subvention du Groupe de santé Carestream
+(Université Stanford), indépendamment des travaux soumis. Il déclare aussi être
+administrateur pour l’Institut de recherche sur les données reproductibles, un
+organisme sans but lucratif aux États-Unis. Michael Fralick déclare avoir reçu
+des honoraires de services-conseils de la société Proof Diagnostics (anciennement
+Pine Trees Health), une entreprise en démarrage qui travaille à la création d’un 
+test diagnostique du virus SRAR-CoV2 utilisant la technologie CRISPR. Aucun autre
+intérêt concurrent n’a été déclaré.
+

@@ -1,0 +1,51 @@
+
+1. Front Public Health. 2021 Oct 4;9:744100. doi: 10.3389/fpubh.2021.744100.
+eCollection 2021.
+
+Recurrent Neural Network and Reinforcement Learning Model for COVID-19
+Prediction.
+
+Kumar RL(1), Khan F(2), Din S(3), Band SS(4), Mosavi A(5)(6), Ibeke E(7).
+
+Author information: 
+(1)Department of Computer Applications, Hindusthan College of Engineering and
+Technology, Coimbatore, India.
+(2)Dubai Men's College, Higher Colleges of Technology, Dubai, United Arab
+Emirates.
+(3)Department of Information and Communication Engineering, Yeung University,
+Gyeongsan, South Korea.
+(4)Future Technology Research Center, College of Future, National Yunlin
+University of Science and Technology, Douliu, Taiwan.
+(5)Faculty of Civil Engineering, Technische Universität Dresden, Dresden,
+Germany.
+(6)John von Neumann Faculty of Informatics, Obuda University, Budapest, Hungary.
+(7)School of Creative and Cultural Business, Robert Gordon University, Aberdeen, 
+United Kingdom.
+
+Detection and prediction of the novel Coronavirus present new challenges for the 
+medical research community due to its widespread across the globe. Methods driven
+by Artificial Intelligence can help predict specific parameters, hazards, and
+outcomes of such a pandemic. Recently, deep learning-based approaches have proven
+a novel opportunity to determine various difficulties in prediction. In this
+work, two learning algorithms, namely deep learning and reinforcement learning,
+were developed to forecast COVID-19. This article constructs a model using
+Recurrent Neural Networks (RNN), particularly the Modified Long Short-Term Memory
+(MLSTM) model, to forecast the count of newly affected individuals, losses, and
+cures in the following few days. This study also suggests deep learning
+reinforcement to optimize COVID-19's predictive outcome based on symptoms.
+Real-world data was utilized to analyze the success of the suggested system. The 
+findings show that the established approach promises prognosticating outcomes
+concerning the current COVID-19 pandemic and outperformed the Long Short-Term
+Memory (LSTM) model and the Machine Learning model, Logistic Regresion (LR) in
+terms of error rate.
+
+Copyright © 2021 Kumar, Khan, Din, Band, Mosavi and Ibeke.
+
+DOI: 10.3389/fpubh.2021.744100 
+PMCID: PMC8521000
+PMID: 34671588  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

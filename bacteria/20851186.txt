@@ -1,0 +1,44 @@
+
+1. Protein Expr Purif. 2011 Feb;75(2):192-203. doi: 10.1016/j.pep.2010.09.008. Epub 
+2010 Sep 17.
+
+A high-throughput protein refolding screen in 96-well format combined with design
+of experiments to optimize the refolding conditions.
+
+Dechavanne V(1), Barrillat N, Borlat F, Hermant A, Magnenat L, Paquet M,
+Antonsson B, Chevalet L.
+
+Author information: 
+(1)Geneva Research Center, Merck Serono S.A., Department of Protein and Cell
+Sciences, 9 Chemin des Mines, 1202 Geneva, Switzerland.
+vincent.dechavanne@merckserono.net
+
+Production of correctly folded and biologically active proteins in
+Escherichiacoli can be a challenging process. Frequently, proteins are recovered 
+as insoluble inclusion bodies and need to be denatured and refolded into the
+correct structure. To address this, a refolding screening process based on a
+96-well assay format supported by design of experiments (DOE) was developed for
+identification of optimal refolding conditions. After a first generic screen of
+96 different refolding conditions the parameters that produced the best yield
+were further explored in a focused DOE-based screen. The refolding efficiency and
+the quality of the refolded protein were analyzed by RP-HPLC and SDS-PAGE. The
+results were analyzed by the DOE software to identify the optimal concentrations 
+of the critical additives. The optimal refolding conditions suggested by DOE were
+verified in medium-scale refolding tests, which confirmed the reliability of the 
+predictions. Finally, the refolded protein was purified and its biological
+activity was tested in vitro. The screen was applied for the refolding of
+Interleukin 17F (IL-17F), stromal-cell-derived factor-1 (SDF-1α/CXCL12), B
+cell-attracting chemokine 1 (BCA-1/CXCL13), granulocyte macrophage colony
+stimulating factor (GM-CSF) and the complement factor C5a. This procedure
+identified refolding conditions for all the tested proteins. For the proteins
+where refolding conditions were already available, the optimized conditions
+identified in the screening process increased the yields between 50% and 100%.
+Thus, the method described herein is a useful tool to determine the feasibility
+of refolding and to identify high-yield scalable refolding conditions optimized
+for each individual protein.
+
+Copyright © 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pep.2010.09.008 
+PMID: 20851186  [Indexed for MEDLINE]
+

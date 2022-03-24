@@ -1,0 +1,46 @@
+
+1. Phys Fluids (1994). 2021 Oct;33(10):101302. doi: 10.1063/5.0061469. Epub 2021 Oct
+27.
+
+Challenges in simulating and modeling the airborne virus transmission: A
+state-of-the-art review.
+
+Pourfattah F(1), Wang LP, Deng W(1), Ma YF(1), Hu L(1), Yang B(1).
+
+Author information: 
+(1)Guangdong Provincial Key Laboratory of Turbulence Research and Applications,
+Center for Complex Flows and Soft Matter Research and Department of Mechanics and
+Aerospace Engineering, Southern University of Science and Technology, Shenzhen
+518055, People's Republic of China.
+
+Recently, the COVID-19 virus pandemic has led to many studies on the airborne
+transmission of expiratory droplets. While limited experiments and on-site
+measurements offer qualitative indication of potential virus spread rates and the
+level of transmission risk, the quantitative understanding and mechanistic
+insights also indispensably come from careful theoretical modeling and numerical 
+simulation efforts around which a surge of research papers has emerged. However, 
+due to the highly interdisciplinary nature of the topic, numerical simulations of
+the airborne spread of expiratory droplets face serious challenges. It is
+essential to examine the assumptions and simplifications made in the existing
+modeling and simulations, which will be reviewed carefully here to better advance
+the fidelity of numerical results when compared to the reality. So far, existing 
+review papers have focused on discussing the simulation results without
+questioning or comparing the model assumptions. This review paper focuses instead
+on the details of the model simplifications used in the numerical methods and how
+to properly incorporate important processes associated with respiratory droplet
+transmission. Specifically, the critical issues reviewed here include modeling of
+the respiratory droplet evaporation, droplet size distribution, and
+time-dependent velocity profile of air exhaled from coughing and sneezing.
+According to the literature review, another problem in numerical simulations is
+that the virus decay rate and suspended viable viral dose are often not
+incorporated; therefore here, empirical relationships for the bioactivity of
+coronavirus are presented. It is hoped that this paper can assist researchers to 
+significantly improve their model fidelity when simulating respiratory droplet
+transmission.
+
+© 2021 Author(s).
+
+DOI: 10.1063/5.0061469 
+PMCID: PMC8597718
+PMID: 34803360 
+

@@ -1,0 +1,40 @@
+
+1. Vaccines (Basel). 2021 Sep 22;9(10). pii: 1054. doi: 10.3390/vaccines9101054.
+
+HSV-1 ICP22 Is a Selective Viral Repressor of Cellular RNA Polymerase II-Mediated
+Transcription Elongation.
+
+Isa NF(1)(2), Bensaude O(3), Aziz NC(2), Murphy S(1).
+
+Author information: 
+(1)Sir William Dunn School of Pathology, University of Oxford, Oxford OX1 3RE,
+UK.
+(2)Research Unit for Bioinformatics and Computational Biology, Department of
+Biotechnology, Kulliyyah of Science, International Islamic University Malaysia,
+Kuantan 25200, Pahang, Malaysia.
+(3)Ecole Normale Supérieure, Institut de Biologie de l'Ecole Normale Supérieure, 
+PSL Research University, CNRS UMR 8197, INSERM U 1024, F-75005 Paris, France.
+
+The Herpes Simplex Virus (HSV-1) immediate-early protein ICP22 interacts with
+cellular proteins to inhibit host cell gene expression and promote viral gene
+expression. ICP22 inhibits phosphorylation of Ser2 of the RNA polymerase II (pol 
+II) carboxyl-terminal domain (CTD) and productive elongation of pol II. Here we
+show that ICP22 affects elongation of pol II through both the early-elongation
+checkpoint and the poly(A)-associated elongation checkpoint of a protein-coding
+gene model. Coimmunoprecipitation assays using tagged ICP22 expressed in human
+cells and pulldown assays with recombinant ICP22 in vitro coupled with mass
+spectrometry identify transcription elongation factors, including P-TEFb,
+additional CTD kinases and the FACT complex as interacting cellular factors.
+Using a photoreactive amino acid incorporated into ICP22, we found that L191,
+Y230 and C225 crosslink to both subunits of the FACT complex in cells. Our
+findings indicate that ICP22 interacts with critical elongation regulators to
+inhibit transcription elongation of cellular genes, which may be vital for HSV-1 
+pathogenesis. We also show that the HSV viral activator, VP16, has a region of
+structural similarity to the ICP22 region that interacts with elongation factors,
+suggesting a model where VP16 competes with ICP22 to deliver elongation factors
+to viral genes.
+
+DOI: 10.3390/vaccines9101054 
+PMCID: PMC8539892
+PMID: 34696162 
+

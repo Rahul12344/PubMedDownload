@@ -1,0 +1,30 @@
+
+1. Math Biosci Eng. 2021 Sep 22;18(6):8257-8297. doi: 10.3934/mbe.2021410.
+
+A model of hepatitis B virus with random interference infection rate.
+
+Li DM(1), Chai B(1), Wang Q(2).
+
+Author information: 
+(1)College of Science, Harbin University of Science and Technology, Harbin
+150080, China.
+(2)Heilongjiang Hospital, Harbin 150036, China.
+
+According to the mechanism of drug inhibition of hepatitis B virus and the
+analysis of clinical data, it is found that random factors in long-term treatment
+produced uncertainty and resistance to hepatitis B virus infection rate, a model 
+of hepatitis B virus with random interference infection rate is established. By
+constructing Lyapunov function and using Ito's formula, it is proved that the
+stochastic hepatitis B model has a unique global positive solution. The
+sufficient conditions for the asymptotic behavior of solution are given. The
+relationship between noise intensity and oscillation amplitude is obtained. The
+effects of noise intensity on the asymptotic behavior of the model and antiviral 
+therapy are simulated, and the conclusion of the theorem is verified. An
+interesting phenomenon is also found that with the increase of noise intensity,
+the number of drug-resistant viruses will decrease, which will affect the
+accuracy of a single test of HBV DNA. Therefore, it is suggested to increase the 
+frequency and interval of tests.
+
+DOI: 10.3934/mbe.2021410 
+PMID: 34814299 
+

@@ -1,0 +1,43 @@
+
+1. Sci Rep. 2021 Nov 1;11(1):21382. doi: 10.1038/s41598-021-00362-y.
+
+Assessing cost-effectiveness of hepatitis C testing pathways in Georgia using the
+Hep C Testing Calculator.
+
+Adee M(#)(1), Zhuo Y(#)(1)(2)(3), Zhong H(1)(2), Zhan T(1), Aggarwal R(4),
+Shilton S(5), Chhatwal J(6)(7).
+
+Author information: 
+(1)Massachusetts General Hospital, Boston, MA, USA.
+(2)Harvard Medical School, Boston, MA, USA.
+(3)College of Business, Mississippi State University, Mississippi State, MS, USA.
+(4)Jawaharlal Institute of Postgraduate Medical Education and Research,
+Puducherry, India.
+(5)Foundation for Innovative New Diagnostics, Geneva, Switzerland.
+(6)Massachusetts General Hospital, Boston, MA, USA. jagchhatwal@mgh.harvard.edu.
+(7)Harvard Medical School, Boston, MA, USA. jagchhatwal@mgh.harvard.edu.
+(#)Contributed equally
+
+The cost of testing can be a substantial contributor to hepatitis C virus (HCV)
+elimination program costs in many low- and middle-income countries such as
+Georgia, resulting in the need for innovative and cost-effective strategies for
+testing. Our objective was to investigate the most cost-effective testing
+pathways for scaling-up HCV testing in Georgia. We developed a Markov-based model
+with a lifetime horizon that simulates the natural history of HCV, and the cost
+of detection and treatment of HCV. We then created an interactive online tool
+that uses results from the Markov-based model to evaluate the cost-effectiveness 
+of different HCV testing pathways. We compared the current standard-of-care (SoC)
+testing pathway and four innovative testing pathways for Georgia. The SoC testing
+was cost-saving compared to no testing, but all four new HCV testing pathways
+further increased QALYs and decreased costs. The pathway with the highest patient
+follow-up, due to on-site testing, resulted in the highest discounted QALYs (123 
+QALY more than the SoC) and lowest costs ($127,052 less than the SoC) per 10,000 
+persons screened. The current testing algorithm in Georgia can be replaced with a
+new pathway that is more effective while being cost-saving.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-00362-y 
+PMCID: PMC8560949
+PMID: 34725356 
+

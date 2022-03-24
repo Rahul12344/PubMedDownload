@@ -1,0 +1,51 @@
+
+1. Microb Cell Fact. 2013 Jun 24;12:60. doi: 10.1186/1475-2859-12-60.
+
+Knock-in/Knock-out (KIKO) vectors for rapid integration of large DNA sequences,
+including whole metabolic pathways, onto the Escherichia coli chromosome at
+well-characterised loci.
+
+Sabri S(1), Steen JA, Bongers M, Nielsen LK, Vickers CE.
+
+Author information: 
+(1)Australian Institute for Bioengineering and Nanotechnology, The University of 
+Queensland, Brisbane, QLD 4072, Australia.
+
+BACKGROUND: Metabolic engineering projects often require integration of multiple 
+genes in order to control the desired phenotype. However, this often requires
+iterative rounds of engineering because many current insertion approaches are
+limited by the size of the DNA that can be transferred onto the chromosome.
+Consequently, construction of highly engineered strains is very time-consuming. A
+lack of well-characterised insertion loci is also problematic.
+RESULTS: A series of knock-in/knock-out (KIKO) vectors was constructed for
+integration of large DNA sequences onto the E. coli chromosome at well-defined
+loci. The KIKO plasmids target three nonessential genes/operons as insertion
+sites: arsB (an arsenite transporter); lacZ (β-galactosidase); and rbsA-rbsR (a
+ribose metabolism operon). Two homologous 'arms' target each insertion locus;
+insertion is mediated by λ Red recombinase through these arms. Between the arms
+is a multiple cloning site for the introduction of exogenous sequences and an
+antibiotic resistance marker (either chloramphenicol or kanamycin) for selection 
+of positive recombinants. The resistance marker can subsequently be removed by
+flippase-mediated recombination. The insertion cassette is flanked by hairpin
+loops to isolate it from the effects of external transcription at the integration
+locus. To characterize each target locus, a xylanase reporter gene (xynA) was
+integrated onto the chromosomes of E. coli strains W and K-12 using the KIKO
+vectors. Expression levels varied between loci, with the arsB locus consistently 
+showing the highest level of expression. To demonstrate the simultaneous use of
+all three loci in one strain, xynA, green fluorescent protein (gfp) and a sucrose
+catabolic operon (cscAKB) were introduced into lacZ, arsB and rbsAR respectively,
+and shown to be functional.
+CONCLUSIONS: The KIKO plasmids are a useful tool for efficient integration of
+large DNA fragments (including multiple genes and pathways) into E. coli.
+Chromosomal insertion provides stable expression without the need for continuous 
+antibiotic selection. Three non-essential loci have been characterised as
+insertion loci; combinatorial insertion at all three loci can be performed in one
+strain. The largest insertion at a single site described here was 5.4 kb; we have
+used this method in other studies to insert a total of 7.3 kb at one locus and
+11.3 kb across two loci. These vectors are particularly useful for integration of
+multigene cassettes for metabolic engineering applications.
+
+DOI: 10.1186/1475-2859-12-60 
+PMCID: PMC3706339
+PMID: 23799955  [Indexed for MEDLINE]
+

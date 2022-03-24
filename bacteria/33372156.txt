@@ -1,0 +1,63 @@
+
+1. Proc Natl Acad Sci U S A. 2021 Jan 5;118(1). pii: e2011763118. doi:
+10.1073/pnas.2011763118.
+
+UFMylation inhibits the proinflammatory capacity of interferon-γ-activated
+macrophages.
+
+Balce DR(1), Wang YT(2)(3), McAllaster MR(3), Dunlap BF(2), Orvedahl A(4), Hykes 
+BL Jr(2), Droit L(2), Handley SA(2), Wilen CB(5)(6), Doench JG(7), Orchard RC(8),
+Stallings CL(3), Virgin HW(1).
+
+Author information: 
+(1)Department of Pathology and Immunology, Washington University School of
+Medicine in St. Louis, St. Louis, MO 63110; dbalce@vir.bio svirgin@vir.bio.
+(2)Department of Pathology and Immunology, Washington University School of
+Medicine in St. Louis, St. Louis, MO 63110.
+(3)Department of Molecular Microbiology, Washington University School of Medicine
+in St. Louis, St. Louis, MO 63110.
+(4)Department of Pediatrics, Washington University School of Medicine in St.
+Louis, St. Louis, MO 63110.
+(5)Department of Laboratory Medicine, Yale School of Medicine, New Haven, CT
+06510.
+(6)Department of Immunobiology, Yale School of Medicine, New Haven, CT 06510.
+(7)Broad Institute of MIT and Harvard, Cambridge, MA 02142.
+(8)Department of Immunology and Microbiology, University of Texas Southwestern
+Medical Center, Dallas, TX 75390.
+
+Macrophages activated with interferon-γ (IFN-γ) in combination with other
+proinflammatory stimuli, such as lipopolysaccharide or tumor necrosis factor-α
+(TNF-α), respond with transcriptional and cellular changes that enhance clearance
+of intracellular pathogens at the risk of damaging tissues. IFN-γ effects must
+therefore be carefully balanced with inhibitory mechanisms to prevent
+immunopathology. We performed a genome-wide CRISPR knockout screen in a
+macrophage cell line to identify negative regulators of IFN-γ responses. We
+discovered an unexpected role of the ubiquitin-fold modifier (Ufm1) conjugation
+system (herein UFMylation) in inhibiting responses to IFN-γ and
+lipopolysaccharide. Enhanced IFN-γ activation in UFMylation-deficient cells
+resulted in increased transcriptional responses to IFN-γ in a manner dependent on
+endoplasmic reticulum stress responses involving Ern1 and Xbp1. Furthermore,
+UFMylation in myeloid cells is required for resistance to influenza infection in 
+mice, indicating that this pathway modulates in vivo responses to infection.
+These findings provide a genetic roadmap for the regulation of responses to a key
+mediator of cellular immunity and identify a molecular link between the
+UFMylation pathway and immune responses.
+
+DOI: 10.1073/pnas.2011763118 
+PMCID: PMC7817147 [Available on 2021-06-28]
+PMID: 33372156 
+
+Conflict of interest statement: Competing interest statement: D.R.B., M.R.M., and
+H.W.V. are now employed at Vir Biotechnology, but the initial findings reported
+here were made while at Washington University School of Medicine in St. Louis.
+The work at Washington University School of Medicine in St. Louis was not funded 
+by Vir Biotechnology. J.G.D. consults for Agios, Foghorn Therapeutics, Maze
+Therapeutics, Merck, and Pfizer; J.G.D. consults for and has equity in Tango
+Therapeutics. J.G.D.’s interests were reviewed and are managed by the Broad
+Institute in accordance with its conflict of interest policies. H.W.V. is a
+founder of Casma Therapeutics, an autophagy-focused company. This paper has data 
+relevant to autophagy, but the research in the paper was not funded by Casma.
+D.R.B., M.R.M., and H.W.V. are employees and hold stock in Vir Biotechnology,
+where some of the work was performed. H.W.V. is a founder of PierianDx, a genomic
+diagnostics company that did not fund the research in this report.
+

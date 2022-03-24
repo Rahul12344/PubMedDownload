@@ -1,0 +1,43 @@
+
+1. Biomaterials. 2015 Jan;37:62-72. doi: 10.1016/j.biomaterials.2014.10.011. Epub
+2014 Oct 28.
+
+Design of self-assembling peptide hydrogelators amenable to bacterial expression.
+
+Sonmez C(1), Nagy KJ(1), Schneider JP(2).
+
+Author information: 
+(1)National Cancer Institute, Center for Cancer Research, Frederick, MD 21701,
+United States; University of Delaware, Department of Chemistry and Biochemistry, 
+Newark, DE 19716, United States.
+(2)National Cancer Institute, Center for Cancer Research, Frederick, MD 21701,
+United States. Electronic address: Joel.Schneider@nih.gov.
+
+Hydrogels formed from self-assembling peptides are finding use in tissue
+engineering and drug delivery applications. Given the notorious difficulties
+associated with producing self-assembling peptides by recombinant expression,
+most are typically prepared by chemical synthesis. Herein, we report the design
+of a family of self-assembling β-hairpin peptides amenable to efficient
+production using an optimized bacterial expression system. Expressing peptides,
+EX1, EX2 and EX3 contain identical eight-residue amphiphilic β-strands connected 
+by varying turn sequences that are responsible for ensuring chain reversal and
+the proper intramolecular folding and consequent self-assembly of the peptide
+into a hydrogel network under physiological conditions. EX1 was initially used to
+establish and optimize the bacterial expression system by which all the peptides 
+could be eventually individually expressed. Expression clones were designed to
+allow exploration of possible fusion partners and investigate both enzymatic and 
+chemical cleavage as means to liberate the target peptide. A systematic analysis 
+of possible expression systems followed by fermentation optimization lead to a
+system in which all three peptides could be expressed as fusions with BAD-BH3,
+the BH3 domain of the proapoptotic BAD (Bcl-2 Associated Death) Protein. CNBr
+cleavage followed by purification afforded 50, 31, and 15 mg/L yields of pure
+EX1, EX2 and EX3, respectively. CD spectroscopy, TEM, and rheological analysis
+indicate that these peptides fold and assembled into well-defined fibrils that
+constitute hydrogels having shear-thin/recovery properties.
+
+Published by Elsevier Ltd.
+
+DOI: 10.1016/j.biomaterials.2014.10.011 
+PMCID: PMC4312208
+PMID: 25453938  [Indexed for MEDLINE]
+

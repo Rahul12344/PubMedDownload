@@ -1,0 +1,42 @@
+
+1. Biochemistry. 2018 Aug 21;57(33):4963-4966. doi: 10.1021/acs.biochem.8b00614.
+Epub 2018 Jul 12.
+
+C-Methylation Catalyzed by Fom3, a Cobalamin-Dependent Radical
+S-adenosyl-l-methionine Enzyme in Fosfomycin Biosynthesis, Proceeds with
+Inversion of Configuration.
+
+Sato S(1), Kudo F(1), Kuzuyama T(2), Hammerschmidt F(3), Eguchi T(1).
+
+Author information: 
+(1)Department of Chemistry , Tokyo Institute of Technology , 2-12-1 O-okayama ,
+Meguro-ku, Tokyo 152-8551 , Japan.
+(2)Biotechnology Research Center, Collaborative Research Institute for Innovative
+Microbiology , The University of Tokyo , 1-1-1 Yayoi , Bunkyo-ku, Tokyo 113-8657 
+, Japan.
+(3)Institute of Organic Chemistry , University of Vienna , Währingerstraße 38 ,
+A-1090 Vienna , Austria.
+
+Fom3, a cobalamin-dependent radical S-adenosyl-l-methionine (SAM)
+methyltransferase, catalyzes C-methylation at the C2 position of cytidylylated
+2-hydroxyethylphosphonate (HEP-CMP) to afford cytidylylated
+2-hydroxypropylphosphonate (HPP-CMP) in fosfomycin biosynthesis. In this study,
+the Fom3 reaction product HPP-CMP was reanalyzed by chiral ligand exchange
+chromatography to confirm its stereochemistry. The Fom3 methylation product was
+found to be ( S)-HPP-CMP only, indicating that the stereochemistry of the
+C-methylation catalyzed by Fom3 is ( S)-selective. In addition, Fom3 reaction was
+performed with ( S)-[2-2H1]HEP-CMP and ( R)-[2-2H1]HEP-CMP to elucidate the
+stereoselectivity during the abstraction of the hydrogen atom from C2 of HEP-CMP.
+Liquid chromatography-electrospray ionization mass spectrometry analysis of the
+5'-deoxyadenosine produced showed that the 2H atom of ( R)-[2-2H1]HEP-CMP was
+incorporated into 5'-deoxyadenosine but that from ( S)-[2-2H1]HEP-CMP was not.
+Retention of the 2H atom of ( S)-[2-2H1]HEP-CMP in HPP-CMP was also observed.
+These results indicate that the 5'-deoxyadenosyl radical stereoselectively
+abstracts the pro-R hydrogen atom at the C2 position of HEP-CMP and the substrate
+radical intermediate reacts with the methyl group on cobalamin that is located on
+the opposite side of the substrate from SAM. Consequently, it was clarified that 
+the C-methylation catalyzed by Fom3 proceeds with inversion of configuration.
+
+DOI: 10.1021/acs.biochem.8b00614 
+PMID: 29966085  [Indexed for MEDLINE]
+

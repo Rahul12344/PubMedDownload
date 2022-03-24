@@ -1,0 +1,86 @@
+
+1. mbio. 2019 apr 30;10(2). pii: e00217-19. doi: 10.1128/mbio.00217-19.
+
+meta-analysis plasmodium falciparum var signatures contributing severe
+malaria african children indian adults.
+
+duffy f(#)(1), bernabeu m(#)(1), babar ph(2)(3), kessler a(4), wang cw(5)(6), vaz
+m(2), chery l(3), mandala wl(7)(8)(9), rogerson sj(10), taylor te(11)(12), seydel
+kb(11)(12), lavstsen t(5)(6), gomes e(2), kim k(4), lusingu j(5)(6)(13), rathod
+pk(3), aitchison jd(14)(15), smith jd(14)(16).
+
+author information: 
+(1)seattle children's research institute, seattle, washington, usa.
+(2)goa medical college & hospital, bambolim, goa, india.
+(3)departments chemistry global health, university washington, seattle,
+washington, usa.
+(4)albert einstein college medicine, bronx, new york, usa.
+(5)centre medical parasitology, department immunology microbiology,
+university copenhagen, copenhagen, denmark.
+(6)department infectious diseases, copenhagen university hospital
+(rigshospitalet), copenhagen, denmark.
+(7)malawi-liverpool wellcome trust clinical research programme, blantyre, malawi.
+(8)college medicine, biomedical department, university malawi, blantyre,
+malawi.
+(9)academy medical sciences, malawi university science technology,
+thyolo, malawi.
+(10)department medicine doherty institute, university melbourne,
+melbourne, australia.
+(11)blantyre malaria project, university malawi college medicine, blantyre,
+malawi.
+(12)college osteopathic medicine, michigan state university, east lansing,
+michigan, usa.
+(13)tanga medical research centre, national institute medical research,
+tanga, tanzania.
+(14)seattle children's research institute, seattle, washington, usa
+john.aitchison@seattlechildrens.org joe.smith@seattlechildrens.org.
+(15)institute systems biology, seattle, washington, usa.
+(16)department global health, university washington, seattle, washington,
+usa.
+(#)contributed equally
+
+the clinical presentation severe plasmodium falciparum malaria differs between
+children adults, mechanistic basis remains unclear.
+contributing factors disease severity include total parasite biomass the
+diverse cytoadhesive properties mediated polymorphic var gene parasite
+ligand family displayed infected erythrocytes. explore factors, we
+performed multicohort analysis contribution var expression and
+parasite biomass severe malaria two previously published pediatric cohorts 
+in tanzania malawi adult cohort india. machine learning analysis
+revealed independent complementary roles var adhesion types parasite 
+biomass adult pediatric severe malaria showed similar var
+profiles, including upregulation group dc8 var, predict severe malaria
+in adults children. among adults, patients multiorgan complications
+presented infections significantly higher parasite biomass without
+significant differences var adhesion types. conversely, pediatric patients
+with specific complications showed distinct var signatures. cerebral malaria
+patients showed broadly increased expression var genes, particular group 
+and dc8 var, children severe malaria anemia classified based on
+high transcription dc8 var only. study represents first large
+multisite meta-analysis var expression, demonstrates presence of
+common var profiles severe malaria patients different ages across distant
+geographical sites, well syndrome-specific disease signatures. complex 
+associations parasite biomass, var adhesion type, clinical
+presentation revealed represent comprehensive picture far the
+relationship cytoadhesion, parasite load, clinical
+syndrome.importance p. falciparum malaria cause multiple disease
+complications differ patient age. previous studies attempted to
+address roles parasite adhesion biomass disease severity; however, 
+these studies limited single geographical sites, is
+limited understanding parasite adhesion biomass interact influence 
+disease manifestations. meta-analysis, compared parasite disease
+determinants african children indian adults. study demonstrates 
+parasite biomass specific subsets var genes independently associated
+with detrimental outcomes childhood adult malaria. also explored
+how parasite var adhesion types biomass play different roles the
+development specific severe malaria pathologies, including childhood cerebral 
+malaria multiorgan complications adults. work represents largest 
+study date role var adhesion types biomass severe
+malaria.
+
+copyright © 2019 duffy et al.
+
+doi: 10.1128/mbio.00217-19 
+pmcid: pmc6495371
+pmid: 31040236  [indexed medline]
+

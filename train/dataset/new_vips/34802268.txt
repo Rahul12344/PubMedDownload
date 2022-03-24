@@ -1,0 +1,38 @@
+
+1. Philos Trans A Math Phys Eng Sci. 2022 Jan 10;380(2214):20210116. doi:
+10.1098/rsta.2021.0116. Epub 2021 Nov 22.
+
+Percolation of temporal hierarchical mobility networks during COVID-19.
+
+He H(1), Deng H(2), Wang Q(2), Gao J(1).
+
+Author information: 
+(1)Department of Computer Science and Center for Network Science and Technology, 
+Rensselaer Polytechnic Institute, Troy, NY 12180, USA.
+(2)Department of Civil and Environmental Engineering, Northeastern University,
+Boston, MA 02115, USA.
+
+Percolation theory is essential for understanding disease transmission patterns
+on the temporal mobility networks. However, the traditional approach of the
+percolation process can be inefficient when analysing a large-scale, dynamic
+network for an extended period. Not only is it time-consuming but it is also hard
+to identify the connected components. Recent studies demonstrate that spatial
+containers restrict mobility behaviour, described by a hierarchical topology of
+mobility networks. Here, we leverage crowd-sourced, large-scale human mobility
+data to construct temporal hierarchical networks composed of over 175 000 block
+groups in the USA. Each daily network contains mobility between block groups
+within a Metropolitan Statistical Area (MSA), and long-distance travels across
+the MSAs. We examine percolation on both levels and demonstrate the changes of
+network metrics and the connected components under the influence of COVID-19. The
+research reveals the presence of functional subunits even with high thresholds of
+mobility. Finally, we locate a set of recurrent critical links that divide
+components resulting in the separation of core MSAs. Our findings provide novel
+insights into understanding the dynamical community structure of mobility
+networks during disruptions and could contribute to more effective infectious
+disease control at multiple scales. This article is part of the theme issue 'Data
+science approaches to infectious disease surveillance'.
+
+DOI: 10.1098/rsta.2021.0116 
+PMCID: PMC8607142
+PMID: 34802268  [Indexed for MEDLINE]
+

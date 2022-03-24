@@ -1,0 +1,28 @@
+
+1. J Biosci Bioeng. 2005 Feb;99(2):136-42.
+
+DnaK from Vibrio proteolyticus: complementation of a dnaK-null mutant of
+Escherichia coli and the role of its ATPase domain.
+
+Yoshimune K(1), Galkin A, Kulakova L, Yoshimura T, Esaki N.
+
+Author information: 
+(1)Institute for Chemical Research, Kyoto University, Uji, Kyoto 611-0011, Japan.
+
+We cloned the 4.8-kbp DNA fragment containing the dnaK gene from the chromosomal 
+DNA of Vibrio proteolyticus. It contained four genes arranged unidirectionally in
+the order of grpE, gltP, dnaK and dnaJ. The DnaK gene of V. proteolyticus
+(VprDnaK) allowed a dnaK-null mutant of Escherichia coli (DeltadnaK52) to
+propagate lambda phages but not to grow at 43 degrees C. However, a chimeric DnaK
+gene comprising the regions corresponding to the N-terminal ATPase domain of E.
+coli DnaK (EcoDnaK) and the C-terminal region of VprDnaK including the
+substrate-binding domain, enabled the mutant to grow at 43 degrees C. The
+temperature dependence for the ATPase activity of the chimeric DnaK was similar
+to that of EcoDnaK. Fluorometric analyses showed that the chimeric DnaK is much
+more thermostable than EcoDnaK and VprDnaK. These findings indicate that the
+thermal stability of the ATPase domain of DnaK is responsible for its chaperone
+action at high temperatures such as 43 degrees C.
+
+DOI: 10.1263/jbb.99.136 
+PMID: 16233770  [Indexed for MEDLINE]
+

@@ -1,0 +1,44 @@
+
+1. malar j. 2014 aug 30;13:340. doi: 10.1186/1475-2875-13-340.
+
+effects kdr resistance mutation susceptibility wild anopheles
+gambiae populations plasmodium falciparum: hindrance vector control.
+
+ndiath mo(1), cailleau a, diedhiou sm, gaye a, boudin c, richard v, trape jf.
+
+author information: 
+(1)g4 group, institut pasteur international network, institut pasteur de bangui, 
+bangui bp 923, central african republic. ousmane.ndiath@gmail.com.
+
+background: context generalization insecticide resistance, the
+hypothesis insecticide resistance positive impact capacity of
+mosquitoes transmit malaria constitutes hindrance malaria elimination.
+the aim study investigated populations anopheles coluzzii and
+anopheles gambiae molecular form assess whether different genotypes the
+kdr locus responsible different susceptibility plasmodium falciparum
+infection.
+methods: f3 progeny an. gambiae s.l. collected dielmo infected by
+direct membrane feeding p. falciparum gametocyte-containing blood sampled
+from volunteer patients. presence oocysts determined light
+microscopy seven days, presence sporozoites elisa after
+14 days. mosquito species molecular forms identified pcr. generalized
+linear models performed using r software test effect of
+explanatory variables including genotype kdr locus infection rate
+and density.
+results: odds infected oocysts sporozoites greater 
+rs rr groups ss groups (χ2 = 42.8, df = 1, p(>χ2) = 6.1e-11). the
+density infection also dependent genotype, rr rs genotypes
+showing denser infection ss genotypes. pairwise comparisons oocyst number
+and absorbance indicated sometime small betwen species (i.e. an.
+gambiae form, an. coluzzii), effect genotype much more
+important.
+conclusion: presence resistance allele kdr locus increases
+susceptibility plasmodium oocyst stage also the
+sporozoite stage non-genetically modified wild mosquitoes. results 
+significant implications taken account development of
+strategies malaria control.
+
+doi: 10.1186/1475-2875-13-340 
+pmcid: pmc4159551
+pmid: 25176292  [indexed medline]
+

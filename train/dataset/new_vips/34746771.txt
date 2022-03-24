@@ -1,0 +1,53 @@
+
+1. Front Big Data. 2021 Oct 22;4:718351. doi: 10.3389/fdata.2021.718351. eCollection
+2021.
+
+Modelling Representative Population Mobility for COVID-19 Spatial Transmission in
+South Africa.
+
+Potgieter A(1), Fabris-Rotelli IN(1), Kimmie Z(2), Dudeni-Tlhone N(3), Holloway
+JP(3), Janse van Rensburg C(4), Thiede RN(1), Debba P(5)(6), Manjoo-Docrat R(6), 
+Abdelatif N(4), Khuluse-Makhanya S(7)(8).
+
+Author information: 
+(1)Department of Statistics, University of Pretoria, Pretoria, South Africa.
+(2)Foundation of Human Rights, Johannesburg, South Africa.
+(3)Operational Intelligence, NextGen Enterprises and Institutions, Council for
+Scientific and Industrial Research, Pretoria, South Africa.
+(4)Biostatistics Research Unit, South African Medical Research Council, Cape
+Town, South Africa.
+(5)Inclusive Smart Settlements and Regions, Smart Places, Council for Scientific 
+and Industrial Research, Pretoria, South Africa.
+(6)Department of Statistics and Actuarial Science, University of Witwatersrand,
+Johannesburg, South Africa.
+(7)IBM Research, Johannesburg, South Africa.
+(8)College of Graduate Studies, University of South Africa, Johannesburg, South
+Africa.
+
+The COVID-19 pandemic starting in the first half of 2020 has changed the lives of
+everyone across the world. Reduced mobility was essential due to it being the
+largest impact possible against the spread of the little understood SARS-CoV-2
+virus. To understand the spread, a comprehension of human mobility patterns is
+needed. The use of mobility data in modelling is thus essential to capture the
+intrinsic spread through the population. It is necessary to determine to what
+extent mobility data sources convey the same message of mobility within a region.
+This paper compares different mobility data sources by constructing spatial
+weight matrices at a variety of spatial resolutions and further compares the
+results through hierarchical clustering. We consider four methods for
+constructing spatial weight matrices representing mobility between spatial units,
+taking into account distance between spatial units as well as spatial covariates.
+This provides insight for the user into which data provides what type of
+information and in what situations a particular data source is most useful.
+
+Copyright © 2021 Potgieter, Fabris-Rotelli, Kimmie, Dudeni-Tlhone, Holloway,
+Janse van Rensburg, Thiede, Debba, Manjoo-Docrat, Abdelatif and Khuluse-Makhanya.
+
+DOI: 10.3389/fdata.2021.718351 
+PMCID: PMC8570263
+PMID: 34746771 
+
+Conflict of interest statement: Author SK-M was employed by IBM, South Africa.
+The remaining authors declare that the research was conducted in the absence of
+any commercial or financial relationships that could be construed as a potential 
+conflict of interest.
+

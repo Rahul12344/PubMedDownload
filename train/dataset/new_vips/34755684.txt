@@ -1,0 +1,34 @@
+
+1. Stud Health Technol Inform. 2021 Nov 8;286:21-25. doi: 10.3233/SHTI210629.
+
+"Japan LIVE Dashboard" for COVID-19: A Scalable Solution to Monitor Real-Time and
+Regional-Level Epidemic Case Data.
+
+Su W(1), Fu W(1), Kato K(2), Wong ZS(3).
+
+Author information: 
+(1)Yahoo Japan Corporation.
+(2)Faculty of Economics, Keio University.
+(3)Graduate School of Public Health, St. Luke's International University.
+
+Under pandemic conditions, it is important to communicate local infection risks
+to better enable the general population to adjust their behaviors accordingly. In
+Japan, our team operates a popular non-government and not-for-profit dashboard
+project - "Japan LIVE Dashboard" - which allows the public to easily grasp the
+evolution of the pandemic on the internet. We presented the Dashboard design
+concept with a generic framework integrating socio-technical theories, disease
+epidemiology and related contexts, and evidence-based approaches. Through
+synthesizing multiple types of reliable and real-time local data sources from all
+prefectures across the country, the Dashboard allows the public access to
+user-friendly and intuitive disease visualization in real time and has gained an 
+extensive online followership. To date, it has attracted c.30 million visits (98%
+domestic access) testifying to the reputation it has acquired as a user-friendly 
+portal for understanding the progression of the pandemic. Designed as an
+open-source solution, the Dashboard can also be adopted by other countries as
+well as made applicable for other emerging outbreaks in the future. Furthermore, 
+the conceptual design framework may prove applicable into other ehealth scaled
+for global pandemics.
+
+DOI: 10.3233/SHTI210629 
+PMID: 34755684  [Indexed for MEDLINE]
+

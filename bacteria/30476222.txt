@@ -1,0 +1,39 @@
+
+1. Nucleic Acids Res. 2019 Feb 20;47(3):1557-1563. doi: 10.1093/nar/gky1178.
+
+Ribosomal ambiguity (ram) mutations promote the open (off) to closed (on)
+transition and thereby increase miscoding.
+
+Hoffer ED(1), Maehigashi T(1), Fredrick K(2), Dunham CM(1).
+
+Author information: 
+(1)Department of Biochemistry and Emory Antibiotic Resistance Center, Emory
+University School of Medicine, Atlanta, GA 30322, USA.
+(2)Department of Microbiology and Center for RNA Biology, The Ohio State
+University, Columbus, OH 43210, USA.
+
+Decoding is thought to be governed by a conformational transition in the
+ribosome-open (off) to closed (on)-that occurs upon codon-anticodon pairing in
+the A site. Ribosomal ambiguity (ram) mutations increase miscoding and map to
+disparate regions, consistent with a role for ribosome dynamics in decoding, yet 
+precisely how these mutations act has been unclear. Here, we solved crystal
+structures of 70S ribosomes harboring 16S ram mutations G299A and G347U in the
+absence A-site tRNA (A-tRNA) and in the presence of a near-cognate anticodon
+stem-loop (ASL). In the absence of an A-tRNA, each of the mutant ribosomes
+exhibits a partially closed (on) state. In the 70S-G347U structure, the 30S
+shoulder is rotated inward and intersubunit bridge B8 is disrupted. In the
+70S-G299A structure, the 30S shoulder is rotated inward and decoding nucleotide
+G530 flips into the anti conformation. Both of these mutant ribosomes adopt the
+fully closed (on) conformation in the presence of near-cognate A-tRNA, just as
+they do with cognate A-tRNA. Thus, these ram mutations act by promoting the open 
+(off) to closed (on) transition, albeit in somewhat distinct ways. This work
+reveals the functional importance of 30S shoulder rotation for productive
+aminoacylated-tRNA incorporation.
+
+© The Author(s) 2018. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gky1178 
+PMCID: PMC6379664
+PMID: 30476222  [Indexed for MEDLINE]
+

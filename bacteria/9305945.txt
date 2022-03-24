@@ -1,0 +1,43 @@
+
+1. Biochemistry. 1997 Sep 30;36(39):11556-63.
+
+Invariant amino acids in the Mur peptide synthetases of bacterial peptidoglycan
+synthesis and their modification by site-directed mutagenesis in the
+UDP-MurNAc:L-alanine ligase from Escherichia coli.
+
+Bouhss A(1), Mengin-Lecreulx D, Blanot D, van Heijenoort J, Parquet C.
+
+Author information: 
+(1)Unité de Recherche Associée 1131 du Centre National de la Recherche
+Scientifique, Biochimie Moléculaire et Cellulaire, Université Paris-Sud, 91405
+Orsay, France.
+
+The comparison of the amino acid sequences of 20 cytoplasmic peptidoglycan
+synthetases (MurC, MurD, MurE, MurF, and Mpl) from various bacterial organisms
+has allowed us to detect common invariants: seven amino acids and the ATP-binding
+consensus sequence GXXGKT/S all at the same position in the alignment. The Mur
+synthetases thus appeared as a well-defined class of closely functionally related
+proteins. The conservation of a constant backbone length between certain
+invariants suggested common structural motifs. Among the other enzymes catalyzing
+a peptide bond formation driven by ATP hydrolysis to ADP and Pi, only
+folylpoly-gamma-l-glutamate synthetases presented the same common conserved amino
+acid residues, except for the most N-terminal invariant D50. Site-directed
+mutageneses were carried out to replace the K130, E174, H199, N293, N296, R327,
+and D351 residues by alanine in the MurC protein from Escherichia coli taken as
+model. For this purpose, plasmid pAM1005 was used as template, MurC being highly 
+overproduced in this genetic setting. Analysis of the Vmax values of the mutated 
+proteins suggested that residues K130, E174, and D351 are essential for the
+catalytic process whereas residues H199, N293, N296, and R327 were not. Mutations
+K130A, H199A, N293A, N296A, and R327A led to important variations of the Km
+values for one or more substrates, thereby indicating that these residues are
+involved in the structure of the active site and suggesting that the binding
+order of the substrates could be ATP, UDP-MurNAc, and alanine. The various
+mutated murC plasmids were tested for their effects on the growth, cell
+morphology, and peptidoglycan cell content of a murC thermosensitive strain at 42
+degrees C. The observed effects (complementation, altered morphology, and reduced
+peptidoglycan content) paralleled more or less the decreased values of the MurC
+activity of each mutant.
+
+DOI: 10.1021/bi970797f 
+PMID: 9305945  [Indexed for MEDLINE]
+

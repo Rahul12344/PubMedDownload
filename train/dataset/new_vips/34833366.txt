@@ -1,0 +1,41 @@
+
+1. Medicina (Kaunas). 2021 Oct 22;57(11). pii: 1148. doi: 10.3390/medicina57111148.
+
+Can Deep Learning-Based Volumetric Analysis Predict Oxygen Demand Increase in
+Patients with COVID-19 Pneumonia?
+
+Takahashi M(1)(2), Fujioka T(1), Horii T(1), Kimura K(1), Kimura M(1), Hashimoto 
+Y(1), Kitazume Y(1), Kishino M(1), Tateishi U(1).
+
+Author information: 
+(1)Department of Diagnostic Radiology, Tokyo Medical and Dental University
+Hospital of Medicine, Tokyo 113-8510, Japan.
+(2)Trauma and Acute Critical Care Medical Center, Tokyo Medical and Dental
+University Hospital of Medicine, Tokyo 113-8510, Japan.
+
+Background and Objectives: This study aimed to investigate whether predictive
+indicators for the deterioration of respiratory status can be derived from the
+deep learning data analysis of initial chest computed tomography (CT) scans of
+patients with coronavirus disease 2019 (COVID-19). Materials and Methods: Out of 
+117 CT scans of 75 patients with COVID-19 admitted to our hospital between April 
+and June 2020, we retrospectively analyzed 79 CT scans that had a definite time
+of onset and were performed prior to any medication intervention. Patients were
+grouped according to the presence or absence of increased oxygen demand after CT 
+scan. Quantitative volume data of lung opacity were measured automatically using 
+a deep learning-based image analysis system. The sensitivity, specificity, and
+area under the receiver operating characteristic curve (AUC) of the opacity
+volume data were calculated to evaluate the accuracy of the system in predicting 
+the deterioration of respiratory status. Results: All 79 CT scans were included
+(median age, 62 years (interquartile range, 46-77 years); 56 (70.9%) were male.
+The volume of opacity was significantly higher for the increased oxygen demand
+group than for the nonincreased oxygen demand group (585.3 vs. 132.8 mL, p <
+0.001). The sensitivity, specificity, and AUC were 76.5%, 68.2%, and 0.737,
+respectively, in the prediction of increased oxygen demand. Conclusion: Deep
+learning-based quantitative analysis of the affected lung volume in the initial
+CT scans of patients with COVID-19 can predict the deterioration of respiratory
+status to improve treatment and resource management.
+
+DOI: 10.3390/medicina57111148 
+PMCID: PMC8619125
+PMID: 34833366  [Indexed for MEDLINE]
+

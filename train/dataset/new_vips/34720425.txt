@@ -1,0 +1,37 @@
+
+1. Saf Sci. 2021 Jul;139:105274. doi: 10.1016/j.ssci.2021.105274. Epub 2021 Mar 31.
+
+Towards a new approach for managing pandemics: Hybrid resilience and bowtie
+modelling.
+
+Labib A(1).
+
+Author information: 
+(1)University of Portsmouth, Faculty of Business & Law, Richmond Building,
+Portland Street, Portsmouth PO1 3DE, United Kingdom.
+
+Pandemic viruses have historically caused tremendous damage to lives and
+livelihoods. The coronavirus, COVID-19, has proven to be a significant issue
+around the world. In this paper it is argued that systems of controlling similar 
+types of disasters need to be improved through learning from past experience and 
+from others, as well as through improved modelling for better decision making. In
+doing so, the focus will be on resilience modelling and learning from incidents. 
+Therefore, in this paper, first the introduction deals with hybrid approaches in 
+operational research highlighting the differences between hybrid modelling and
+hybrid models. Second, an introduction to mathematical modelling of epidemics is 
+provided and how such modelling leads to certain types of public health modelling
+is demonstrated. Third, resilience modelling will be discussed as a complimentary
+type of modelling, where concepts related to robustness, redundancy,
+resourcefulness, and rapidity are introduced. Fourth, resilience modelling will
+be extended to new principles taking COVID-19 as an example for the analysis.
+Fifth, the analysis will then be used to compare degrees of resilience for
+different countries. Finally, other modelling approaches for managing - and
+learning from - pandemics, in terms of root cause analysis, bowtie modelling and 
+safety barriers, are proposed.
+
+© 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ssci.2021.105274 
+PMCID: PMC8545685
+PMID: 34720425 
+

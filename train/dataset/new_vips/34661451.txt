@@ -1,0 +1,68 @@
+
+1. Plant Dis. 2021 Oct 18. doi: 10.1094/PDIS-04-21-0770-PDN. [Epub ahead of print]
+
+First Report of Saguaro Cactus Virus Infecting Gymnocalycium mihanovichii in
+South Korea.
+
+Lim MS(1), Min BE(2), Choi SH(3).
+
+Author information: 
+(1)Seoul Women's University, 35012, Department of Horticulture, Biotechnology and
+Landscape Architecture, Nowon-gu, Seoul, Korea (the Republic of);
+misang89@swu.ac.kr.
+(2)Animal and Plant Quarantine Agency, 65359, Jungbu Regional Office, Gimcheon,
+Gyeongsangbuk-do, Korea (the Republic of); beunmin@gmail.com.
+(3)Seoul Women's University, 35012, Horticulture, Biotechnology and Landscape
+Architecture, 621 Hwarangro, Nowon, Seoul, Nowon-gu, Seoul, Korea (the Republic
+of), 01797; paxs@swu.ac.kr.
+
+Saguaro cactus virus (SgCV, genus Carmovirus, family Tombusviridae) was first
+isolated from an asymptomatic giant saguaro cactus (Carnegiea gigantea) in
+Arizona, USA (Milbrath and Nelson, 1972). In November 2017, 30 asymptomatic
+grafted cactus plants (Gymnocalycium mihanovichii grafted onto Hylocereus
+trigonus) were randomly collected from a commercial market in Gyeonggi Province, 
+South Korea. Total RNA was extracted from both the scions and rootstocks of the
+plants using an RNeasy Plant Mini Kit (Qiagen, Germany) then subjected to reverse
+transcription polymerase chain reaction (RT-PCR) using RevertAid reverse
+transcriptase (Thermo Scientific, USA), TaKaRa Taq (TaKaRa, Japan), and SgCV-CP
+primers (forward, 5'- ATGGACGCTAAGTATGCG-3'; reverse, 5'- TCAGAGCCTAGCAACATA-3').
+A validated SgCV stock (PV 0734, DSMZ, Germany) was used as an RT-PCR positive
+control. Out of 30 samples each of the rootstocks and scions, 21 and 8 produced, 
+respectively, an amplicon at the expected size of 1,035 bp. The amplicons from
+three samples were cloned into a pGEM-T easy vector (Promega, USA), and three
+clones of each sample were sequenced (Macrogen, South Korea). The amplicons
+shared 100 % sequence identity with each other. BLASTn analysis showed that the
+sequence shared the highest identity at 66.3% with SgCV isolate Arizona (GenBank 
+U72332). For bioassay of the virus, sap from infected G. mihanovichii was
+mechanically inoculated on four indicator plant species. The virus induced local 
+lesions in Chenopodium amaranticolor, C. quinoa, and Gomphrena globosa, and
+systemic necrosis including growth reduction in C. capitatum. These results are
+consistent with those reported on SgCV by Milbrath and Nelson (1972). For
+determination of the exact species of the virus, non-inoculated leaves of C.
+capitatum were harvested 21 days after mechanical inoculation and subjected to
+total RNA extraction using the RNeasy Plant Mini Kit (Qiagen). A cDNA library was
+prepared using TruSeq RNA sample preparation v2, and sequenced on a NovaSeq 6000 
+system sequencer (Macrogen, South Korea). A total of 137,393,766 raw reads were
+quality-trimmed, and assembled into 120,408 contigs with sizes ranging from 201
+to 15,898 nt using the Trinity program (r20140717). The assembled contigs were
+screened against the NCBI viral genome database using BLASTn, and a single contig
+of 3,858 nt matched the SgCV (acc. number U72332, coverage 88%, identity 70.3%). 
+The sequence was deposited in GenBank (SgCV-gm, MW590184) and contained five open
+reading frames (ORFs), which is consistent with those of SgCV reported by Weng
+and Xiong (1997). Using DNAMAN software (Lynnon Biosoft, Canada) the deduced
+amino acid sequences encoded by the ORFs were determined and their homology with 
+respective ORF proteins of various carmoviruses was subsequently compared (Table 
+S1). The deduced protein sequences shared the highest identity of 68.2 to 81%
+with those of the SgCV isolate Arizona. King et al. (2012) suggested respective
+artificial host range reactions and percentage of coat protein and polymerase
+amino acid sequence identities of less than 52% and 57% as criteria for species
+demarcation in Carmovirus. These features suggest that SgCV-gm should possibly be
+designated a new SgCV isolate. To the best of our knowledge, this is the first
+report of SgCV naturally infecting G. mihanovichii in South Korea. Further
+research is needed to gain more in-depth insight into the biological and
+pathological properties of this virus. Funding: National Research Foundation of
+Korea NRF-2017R1D1A1B03031711 Seoul Women's University 2021-0070.
+
+DOI: 10.1094/PDIS-04-21-0770-PDN 
+PMID: 34661451 
+

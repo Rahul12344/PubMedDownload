@@ -1,0 +1,43 @@
+
+1. CPT Pharmacometrics Syst Pharmacol. 2021 Oct 22. doi: 10.1002/psp4.12732. [Epub
+ahead of print]
+
+Pharmacometric analysis of seasonal influenza epidemics and the effect of
+vaccination using sentinel surveillance data.
+
+Otani Y(1)(2), Kasai H(1), Tanigawara Y(1).
+
+Author information: 
+(1)Laboratory of Pharmacometrics and Systems Pharmacology, Keio Frontier Research
+and Education Collaboration Square at Tonomachi, Kanagawa, Japan.
+(2)Keio University Graduate School of Medicine, Tokyo, Japan.
+
+The identification of influenza epidemics and assessment of the efficacy of
+vaccination against this infection are major challenges for the implementation of
+effective public health strategies, such as vaccination programs. In this study, 
+we developed a new pharmacometric model to evaluate the efficacy of vaccination
+based on infection surveillance data from the 2010/2011 to 2018/2019 influenza
+seasons in Japan. A novel susceptible-infected-removed plus vaccination model,
+based on an indirect response structure with the effect of vaccination, was
+applied to describe seasonal influenza epidemics using a preseasonal collection
+of data regarding serological H1 antibody titer positivity and the fraction of
+virus strains. Using this model, we evaluated Kin (a parameter describing the
+transmission rate of symptomatic influenza infection) for different age groups.
+Furthermore, we defined a new parameter (prevention factor) showing the efficacy 
+of vaccination against each viral strain and in different age groups. We found
+that the prevention factor of vaccination against influenza varied among age
+groups. Notably, children aged 5-14 years showed the highest Kin value during the
+10 influenza seasons and the greatest preventive effect of vaccination
+(prevention factor = 70.8%). The propagation of influenza epidemics varies in
+different age groups. Children aged 5-14 years most likely play a leading role in
+the transmission of influenza. Prioritized vaccination in this age group may be
+the most effective strategy for reducing the prevalence of influenza in the
+community.
+
+© 2021 The Authors. CPT: Pharmacometrics & Systems Pharmacology published by
+Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology and
+Therapeutics.
+
+DOI: 10.1002/psp4.12732 
+PMID: 34676676 
+

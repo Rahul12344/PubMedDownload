@@ -1,0 +1,43 @@
+
+1. Mol Plant Pathol. 2021 Oct 20. doi: 10.1111/mpp.13152. [Epub ahead of print]
+
+A plant reovirus hijacks the DNAJB12-Hsc70 chaperone complex to promote viral
+spread in its planthopper vector.
+
+Liang Q(1), Wan J(1), Liu H(1), Chen M(1), Xue T(1), Jia D(1), Chen Q(1), Chen
+H(1), Wei T(1).
+
+Author information: 
+(1)Fujian Province Key Laboratory of Plant Virology, Vector-borne Virus Research 
+Center, State Key Laboratory of Ecological Pest Control for Fujian and Taiwan
+Crops, Fujian Agriculture and Forestry University, Fuzhou, Fujian, China.
+
+Many viruses usurp the functions of endoplasmic reticulum (ER) for virus-encoded 
+membrane proteins proper functional folding or assembly to promote virus spread. 
+Southern rice black-streaked dwarf virus (SRBSDV), a plant reovirus, exploits
+virus-containing tubules composed of nonstructural membrane protein P7-1 to
+spread in its planthopper vector Sogatella furcifera. Here, we report that two
+factors of the ER-associated degradation (ERAD) machinery, the ER chaperone
+DNAJB12 and its cytosolic co-chaperone Hsc70, are activated by SRBSDV to
+facilitate ER-to-cytosol export of P7-1 tubules in S. furcifera. Both P7-1 of
+SRBSDV and Hsc70 directly bind to the J-domain of DNAJB12. DNAJB12 overexpression
+induces ER retention of P7-1, but Hsc70 overexpression promotes the transport of 
+P7-1 from the ER to the cytosol to initiate tubule assembly. Thus, P7-1 is
+initially retained in the ER by interaction with DNAJB12 and then delivered to
+Hsc70. Furthermore, the inhibitors of the ATPase activity of Hsc70 reduce P7-1
+tubule assembly, suggesting that the proper folding and assembly of P7-1 tubules 
+is dependent on the ATPase activity of Hsc70. The DNAJB12-Hsc70 chaperone complex
+is recruited to P7-1 tubules in virus-infected midgut epithelial cells in
+S. furcifera. The knockdown of DNAJB12 or Hsc70 strongly inhibits P7-1 tubule
+assembly in vivo, finally suppressing effective viral spread in S. furcifera.
+Taken together, our results indicate that the DNAJB12-Hsc70 chaperone complex in 
+the ERAD machinery facilitates the ER-to-cytosol transport of P7-1 for proper
+assembly of tubules, enabling viral spread in insect vectors in a manner
+dependent on ATPase activity of Hsc70.
+
+© 2021 The Authors. Molecular Plant Pathology published by British Society for
+Plant Pathology and John Wiley & Sons Ltd.
+
+DOI: 10.1111/mpp.13152 
+PMID: 34668642 
+

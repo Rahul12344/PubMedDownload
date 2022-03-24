@@ -1,0 +1,56 @@
+
+1. Antiviral Res. 2021 Nov;195:105194. doi: 10.1016/j.antiviral.2021.105194. Epub
+2021 Oct 23.
+
+Optimal flexibility of the linker region of Zika virus NS5
+methyltransferase-polymerase is critical for virus replication.
+
+Flory C(1), Chan KWK(2), Bifani AM(2), Choy MMJ(2), Lescar J(3), Ooi EE(4), Tautz
+N(5), Vasudevan SG(6).
+
+Author information: 
+(1)Program in Emerging Infectious Diseases, DUKE-NUS Medical School, Singapore,
+Singapore; Institute of Virology and Cell Biology, University of Lübeck, Lübeck, 
+Germany.
+(2)Program in Emerging Infectious Diseases, DUKE-NUS Medical School, Singapore,
+Singapore.
+(3)School of Biological Sciences, Nanyang Technological University, 60 Nanyang
+Drive, Singapore, 637551.
+(4)Program in Emerging Infectious Diseases, DUKE-NUS Medical School, Singapore,
+Singapore; Department of Microbiology, National University of Singapore,
+Singapore.
+(5)Institute of Virology and Cell Biology, University of Lübeck, Lübeck, Germany.
+(6)Program in Emerging Infectious Diseases, DUKE-NUS Medical School, Singapore,
+Singapore; Department of Microbiology, National University of Singapore,
+Singapore; Institute for Glycomics, Griffith University, Gold Coast Campus,
+Queensland, Australia. Electronic address: subhash.vasudevan@duke-nus.edu.sg.
+
+The flavivirus NS5 protein contains an N-terminal methyl-transferase (MTase)
+connected through a flexible linker with a C-terminal RNA-dependent
+RNA-polymerase (RdRp) domain, that work cooperatively to replicate and methylate 
+the viral genome. In this study we probed the importance of an
+evolutionary-conserved hydrophobic residue (Val266) located at the start of the
+ten-residue interdomain linker of Zika virus (ZIKV) NS5. In flavivirus NS5
+crystal structures, the start of the linker forms a 310 helix when NS5 adopts a
+compact conformation, but becomes disordered or extended in open conformations.
+Using reverse genetics system, we either introduced rigidity in the linker
+through mutation to a proline or flexibility through a glycine mutation at
+position 266. ZIKV NS5 Val 266 to Pro mutation was lethal for viral RNA
+replication while the Gly mutation was severely attenuated. Serial passaging of
+cell culture supernatant derived from C6/36 mosquito cells transfected with
+mutant ZIKV RNA showed that the attenuation can be rescued. Next generation deep 
+sequencing revealed four single nucleotide polymorphisms that occur with an
+allele frequency >98%. The single non-synonymous NS5 mutation Glu419 to Lys is
+adjacent to RdRp motif G at the tip of the fingers subdomain, while the remaining
+three are synonymous variants at nucleotide positions 1403, 4403 and 6653 in the 
+genome. Reverse engineering the changes into the ZIKV NS5/Val266Gly background
+followed by serial passaging revealed that residue 266 is under strong positive
+selection to revert back to Val. The interaction of the specific conformation of 
+the NS5 linker with Val at position 266 and the RNA binding motif G region may
+present a potential strategy for allosteric antiviral drug development.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.antiviral.2021.105194 
+PMID: 34699863 
+

@@ -1,0 +1,57 @@
+
+1. PLoS One. 2021 Oct 26;16(10):e0258774. doi: 10.1371/journal.pone.0258774.
+eCollection 2021.
+
+A bioinformatics pipeline for Mycobacterium tuberculosis sequencing that cleans
+contaminant reads from sputum samples.
+
+Cuevas-Córdoba B(1)(2), Fresno C(3), Haase-Hernández JI(3), Barbosa-Amezcua M(1),
+Mata-Rocha M(1), Muñoz-Torrico M(4), Salazar-Lezama MA(4), Martínez-Orozco JA(4),
+Narváez-Díaz LA(4), Salas-Hernández J(4), González-Covarrubias V(1), Soberón
+X(1).
+
+Author information: 
+(1)Laboratorio de Farmacogenómica, Instituto Nacional de Medicina Genómica
+(INMEGEN), Ciudad de México, México.
+(2)Instituto de Investigaciones Biológicas, Universidad Veracruzana, Xalapa,
+Veracruz, México.
+(3)Departamento de Desarrollo Tecnológico, Instituto Nacional de Medicina
+Genómica (INMEGEN), Ciudad de México, México.
+(4)Clínica de Tuberculosis y Enfermedades Pleurales, Instituto Nacional de
+Enfermedades Respiratorias (INER), Ciudad de México, México.
+
+Next-Generation Sequencing (NGS) is widely used to investigate genomic variation.
+In several studies, the genetic variation of Mycobacterium tuberculosis has been 
+analyzed in sputum samples without previous culture, using target enrichment
+methodologies for NGS. Alignments obtained by different programs generally map
+the sequences under default parameters, and from these results, it is assumed
+that only Mycobacterium reads will be obtained. However, variants of interest
+microorganism in clinical samples can be confused with a vast collection of reads
+from other bacteria, viruses, and human DNA. Currently, there are no standardized
+pipelines, and the cleaning success is never verified since there is a lack of
+rigorous controls to identify and remove reads from other sputum-microorganisms
+genetically similar to M. tuberculosis. Therefore, we designed a bioinformatic
+pipeline to process NGS data from sputum samples, including several filters and
+quality control points to identify and eliminate non-M. tuberculosis reads to
+obtain a reliable genetic variant report. Our proposal uses the SURPI software as
+a taxonomic classifier to filter input sequences and perform a mapping that
+provides the highest percentage of Mycobacterium reads, minimizing the reads from
+other microorganisms. We then use the filtered sequences to perform variant
+calling with the GATK software, ensuring the mapping quality, realignment,
+recalibration, hard-filtering, and post-filter to increase the reliability of the
+reported variants. Using default mapping parameters, we identified reads of
+contaminant bacteria, such as Streptococcus, Rhotia, Actinomyces, and
+Veillonella. Our final mapping strategy allowed a sequence identity of 97.8%
+between the input reads and the whole M. tuberculosis reference genome H37Rv
+using a genomic edit distance of three, thus removing 98.8% of the off-target
+sequences with a Mycobacterium reads loss of 1.7%. Finally, more than 200
+unreliable genetic variants were removed during the variant calling, increasing
+the report's reliability.
+
+DOI: 10.1371/journal.pone.0258774 
+PMCID: PMC8547644
+PMID: 34699523  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

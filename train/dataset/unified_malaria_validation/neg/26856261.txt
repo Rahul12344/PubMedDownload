@@ -1,0 +1,134 @@
+
+1. nat commun. 2016 feb 9;7:10507. doi: 10.1038/ncomms10507.
+
+genomic insights ixodes scapularis tick vector lyme disease.
+
+gulia-nuss m(1), nuss ab(1), meyer jm(1), sonenshine de(2), roe rm(3), waterhouse
+rm(4)(5)(6)(7), sattelle db(8), de la fuente j(9)(10), ribeiro jm(11), megy
+k(12), thimmapuram j(13), miller jr(14), walenz bp(14), koren s(14), hostetler
+jb(14), thiagarajan m(14), joardar vs(14), hannick li(14), bidwell s(14), hammond
+mp(12), young s(15), zeng q(15), abrudan jl(16), almeida fc(17), ayllón n(9),
+bhide k(13), bissinger bw(3), bonzon-kulichenko e(18), buckingham sd(8), caffrey 
+dr(19), caimano mj(20), croset v(21), driscoll t(22), gilbert d(23), gillespie
+jj(22), giraldo-calderón gi(1)(16), grabowski jm(1)(24), jiang d(25), khalil
+sms(26), kim d(27), kocan km(10), koči j(28), kuhn rj(24), kurtti tj(29), lees
+k(30), lang eg(1), kennedy rc(31), kwon h(27), perera r(24), qi y(25), radolf
+jd(20), sakamoto jm(32), sánchez-gracia a(17), severo ms(33), silverman n(19),
+šimo l(28), tojo m(34)(35), tornador c(36), van zee jp(1), vázquez j(18), vieira 
+fg(17), villar m(9), wespiser ar(19), yang y(27), zhu j(3), arensburger p(37),
+pietrantonio pv(27), barker sc(38), shao r(39), zdobnov em(4)(5), hauser f(40),
+grimmelikhuijzen cjp(40), park y(28), rozas j(17), benton r(21), pedra jhf(33),
+nelson dr(41), unger mf(16), tubio jmc(42)(43), tu z(25), robertson hm(44),
+shumway m(14), sutton g(14), wortman jr(14), lawson d(12), wikel sk(45), nene
+vm(14), fraser cm(46), collins fh(16), birren b(7), nelson ke(14), caler e(14),
+hill ca(1).
+
+author information: 
+(1)department entomology, purdue university, west lafayette, indiana 47907,
+usa.
+(2)department biological sciences, old dominion university, norfolk, virginina
+23529, usa.
+(3)department entomology, north carolina state university, raleigh, north
+carolina 27695, usa.
+(4)department genetic medicine development, university geneva medical
+school, geneva 1211, switzerland.
+(5)swiss institute bioinformatics, geneva 1211, switzerland.
+(6)computer science artificial intelligence laboratory, massachusetts
+institute technology, cambridge, massachusetts 02139, usa.
+(7)the broad institute mit harvard, cambridge, massachusetts 02142, usa.
+(8)centre respiratory biology, ucl respiratory department, division of
+medicine, university college london, rayne building, 5 university street, london 
+wc1e 6jf, uk.
+(9)sabio, instituto de investigación en recursos cinegéticos,
+irec-csic-uclm-jccm, ronda de toledo sn, ciudad real 13005, spain.
+(10)department veterinary pathobiology, center veterinary health sciences,
+oklahoma state university, 250 mcelroy hall, stillwater, oklahama 74078, usa.
+(11)laboratory malaria vector research, niaid, rockville, maryland 20852, 
+usa.
+(12)vectorbase/embl-ebi, wellcome trust genome campus, cambridge cb10 1sd, uk.
+(13)bioinformatics core, purdue university, west lafayette, indiana 47907, usa.
+(14)j. craig venter institute, rockville, maryland 20850, usa.
+(15)genome sequencing analysis program, broad institute, cambridge,
+massachusetts 02142, usa.
+(16)department biological sciences, university notre dame, notre dame,
+indiana 46556, usa.
+(17)departament de genètica &institut de recerca de la biodiversitat (irbio),
+universitat de barcelona, barcelona e-08028, spain.
+(18)vascular physiopathology, centro nacional de investigaciones
+cardiovasculares, madrid 28029, spain.
+(19)department medicine, division infectious diseases, university of
+massachusetts medical school, worcester, massachusetts 01605, usa.
+(20)department medicine, university connecticut health center, farmington, 
+connecticut 06030, usa.
+(21)center integrative genomics, faculty biology medicine, university 
+of lausanne, lausanne ch-1015, switzerland.
+(22)genetics, bioinformatics, computational biology program, virginia
+bioinformatics institute virginia tech, blacksburg, virginia 24061, usa.
+(23)department biology, indiana university, bloomington, indiana 47405, usa.
+(24)department biological sciences, markey center structural biology, purdue 
+university, west lafayette, indiana 47907, usa.
+(25)department biochemistry, virginia tech, blacksburg, virginia 24061, usa.
+(26)department microbial molecular biology, agricultural genetic engineering
+research institute, giza 12619, egypt.
+(27)department entomology, texas a&m university, college station, texas 77843,
+usa.
+(28)department entomology, kansas state university, manhattan, kansas 66506,
+usa.
+(29)department entomology, university minnesota, st paul, minnesota 55108, 
+usa.
+(30)department neurosystems, faculty life sciences, university of
+manchester, manchester m13 9pt, uk.
+(31)department bioengineering therapeutic sciences, university of
+california, san francisco, california 94143, usa.
+(32)department entomology, pennsylvania state university, university park,
+pennsylvania 16802, usa.
+(33)department entomology, center disease vector research, university of
+california, riverside, california 92506, usa.
+(34)department pathology, cambridge genomic services, university cambridge,
+cambridge cb2 1qp, uk.
+(35)department physiology, school medicine-cimus-instituto de
+investigaciones sanitarias, university santiago de compostela, santiago de
+compostela 15782, spain.
+(36)department experimental health sciences, universidad pompeu fabra,
+barcelona 08003, spain.
+(37)department biological sciences, california state polytechnic university,
+pomona, california 91768, usa.
+(38)parasitology section, school chemistry &molecular biosciences, university 
+of queensland, brisbane, queensland 4072, australia.
+(39)genecology research centre, faculty science, health, education and
+engineering, university sunshine coast, maroochydore, queensland 4556,
+australia.
+(40)department biology, center functional comparative insect genomics,
+university copenhagen, copenhagen dk-2100, denmark.
+(41)department microbiology, immunology &biochemistry, university tennessee
+health science center, memphis, tennessee 38163, usa.
+(42)cancer genome project, wellcome trust sanger institute, hinxton cb10 1sa, uk.
+(43)department biochemistry, genetics immunology, university vigo, vigo
+36310, spain.
+(44)department entomology, university illinois urbana-champaign, urbana,
+illinois 61801, usa.
+(45)department medical sciences, frank h. netter md school medicine at
+quinnipiac university, hamden, connecticut 06518, usa.
+(46)institute genome sciences, university maryland, school medicine,
+baltimore, maryland 21201, usa.
+
+ticks transmit pathogens humans animals arthropod. 
+describe 2.1 gbp nuclear genome tick, ixodes scapularis (say), which
+vectors pathogens cause lyme disease, human granulocytic anaplasmosis,
+babesiosis diseases. large genome reflects accumulation of
+repetitive dna, new lineages retro-transposons, gene architecture patterns
+resembling ancient metazoans rather pancrustaceans. annotation scaffolds 
+representing ∼57% genome, reveals 20,486 protein-coding genes and
+expansions gene families associated tick-host interactions. report
+insights genome analyses parasitic processes unique ticks, including
+host 'questing', prolonged feeding, cuticle synthesis, blood meal concentration, 
+novel methods haemoglobin digestion, haem detoxification, vitellogenesis and
+prolonged off-host survival. identify proteins associated agent of
+human granulocytic anaplasmosis, emerging disease, the
+encephalitis-causing langat virus, population structure correlated to
+life-history traits transmission lyme disease agent.
+
+doi: 10.1038/ncomms10507 
+pmcid: pmc4748124
+pmid: 26856261  [indexed medline]
+

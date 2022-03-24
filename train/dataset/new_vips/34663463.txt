@@ -1,0 +1,60 @@
+
+1. Microbiome. 2021 Oct 18;9(1):208. doi: 10.1186/s40168-021-01154-2.
+
+Active virus-host interactions at sub-freezing temperatures in Arctic peat soil.
+
+Trubl G(1), Kimbrel JA(2), Liquet-Gonzalez J(2), Nuccio EE(2), Weber PK(2),
+Pett-Ridge J(2)(3), Jansson JK(4), Waldrop MP(5), Blazewicz SJ(6).
+
+Author information: 
+(1)Physical and Life Sciences Directorate, Lawrence Livermore National
+Laboratory, Livermore, CA, USA. Trubl1@llnl.gov.
+(2)Physical and Life Sciences Directorate, Lawrence Livermore National
+Laboratory, Livermore, CA, USA.
+(3)Department of Life and Environmental Sciences, University of California,
+Merced, CA, 95343, USA.
+(4)Biological Sciences Division, Pacific Northwest National Laboratory, Richland,
+WA, USA.
+(5)U.S. Geological Survey, Geology, Minerals, Energy, and Geophysics Science
+Center, Menlo Park, CA, USA.
+(6)Physical and Life Sciences Directorate, Lawrence Livermore National
+Laboratory, Livermore, CA, USA. blazewicz1@llnl.gov.
+
+BACKGROUND: Winter carbon loss in northern ecosystems is estimated to be greater 
+than the average growing season carbon uptake and is primarily driven by
+microbial decomposers. Viruses modulate microbial carbon cycling via induced
+mortality and metabolic controls, but it is unknown whether viruses are active
+under winter conditions (anoxic and sub-freezing temperatures).
+RESULTS: We used stable isotope probing (SIP) targeted metagenomics to reveal the
+genomic potential of active soil microbial populations under simulated winter
+conditions, with an emphasis on viruses and virus-host dynamics. Arctic peat
+soils from the Bonanza Creek Long-Term Ecological Research site in Alaska were
+incubated under sub-freezing anoxic conditions with H218O or natural abundance
+water for 184 and 370 days. We sequenced 23 SIP-metagenomes and measured carbon
+dioxide (CO2) efflux throughout the experiment. We identified 46 bacterial
+populations (spanning 9 phyla) and 243 viral populations that actively took up
+18O in soil and respired CO2 throughout the incubation. Active bacterial
+populations represented only a small portion of the detected microbial community 
+and were capable of fermentation and organic matter degradation. In
+contrast, active viral populations represented a large portion of the detected
+viral community and one third were linked to active bacterial populations. We
+identified 86 auxiliary metabolic genes and other environmentally relevant genes.
+The majority of these genes were carried by active viral populations and had
+diverse functions such as carbon utilization and scavenging that could provide
+their host with a fitness advantage for utilizing much-needed carbon sources or
+acquiring essential nutrients.
+CONCLUSIONS: Overall, there was a stark difference in the identity and function
+of the active bacterial and viral community compared to the unlabeled community
+that would have been overlooked with a non-targeted standard metagenomic
+analysis. Our results illustrate that substantial active virus-host interactions 
+occur in sub-freezing anoxic conditions and highlight viruses as a major
+community-structuring agent that likely modulates carbon loss in peat soils
+during winter, which may be pivotal for understanding the future fate of arctic
+soils' vast carbon stocks. Video abstract.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s40168-021-01154-2 
+PMCID: PMC8522061
+PMID: 34663463  [Indexed for MEDLINE]
+

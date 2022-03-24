@@ -1,0 +1,53 @@
+
+1. Fish Shellfish Immunol. 2021 Nov 7;120:31-44. doi: 10.1016/j.fsi.2021.11.006.
+[Epub ahead of print]
+
+Transcriptome profiling reveals the novel immunometabolism-related genes against 
+WSSV infection from Fenneropenaeus merguiensis.
+
+Jaree P(1), Boonchuen P(2), Thawonsuwan J(3), Kondo H(4), Hirono I(4),
+Somboonwiwat K(5).
+
+Author information: 
+(1)Center of Applied Shrimp Research and Innovation, Institute of Molecular
+Biosciences, Mahidol University, Salaya, Nakhon Pathom, Thailand.
+(2)School of Biotechnology, Institute of Agricultural Technology, Suranaree
+University of Technology, Nakhon Ratchasima, Thailand.
+(3)Songkhla Aquatic Animal Health Research Center, Department of Fisheries,
+Songkhla, Thailand.
+(4)Graduate School of Marine Science and Technology, Tokyo University of Marine
+Science and Technology, Minato-ku, Tokyo, Japan.
+(5)Center of Excellence for Molecular Biology and Genomics of Shrimp, Department 
+of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok, Thailand.
+Electronic address: kunlaya.s@chula.ac.th.
+
+The white spot syndrome virus (WSSV) has been considered a serious threat to
+shrimp aquaculture. Besides, the activation of cell metabolism as an immune
+reaction to the virus is now recognized as a piece of the pivotal puzzle of the
+antiviral responses. Hence, this study explores the relationship between
+metabolic gene expression and antiviral responses in shrimp using transcriptome
+analysis. The RNA-seq libraries of Fenneropenaeus merguensis hemocytes after WSSV
+challenge at early (6 hpi) and late (24 hpi) stages of infection were analyzed to
+identify differentially expressed genes (DEGs) that the WSSV subverted the
+expression. One-hundred-thirty-three DEGs that were expressed in response to WSSV
+infection at both stages were identified. Based on the GO annotation, they were
+related to innate immunity and metabolic pathway. The expression correlation
+between "full term" (NGS) and qRT-PCR of 16 representative DEGs is shown.
+Noticeably, the expression profiles of all the selected metabolic genes involved 
+in glucose metabolism, lipid metabolism, amino acid metabolism, and nucleotide
+metabolism showed a specific correlation between NGS and qRT-PCR upon WSSV
+infection. Of these, we further characterized the function related to the WSSV
+response of glutamine: fructose-6-phosphate aminotransferase (FmGFAT), the
+rate-limiting enzyme of the hexosamine biosynthesis pathway, which was found to
+be up-regulated at the late stage of WSSV infection. Suppression of FmGFAT by RNA
+interference resulted in postponing the death of WSSV-infected shrimp and
+reduction of viral copy number. These results suggested that the FmGFAT is linked
+between metabolic change and WSSV responses in shrimp, where the virus-induced
+metabolic rewiring hijack biological compounds and/or energy sources to benefit
+the viral replication process.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.fsi.2021.11.006 
+PMID: 34758397 
+

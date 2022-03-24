@@ -1,0 +1,29 @@
+
+1. dna cell biol. 2007 may;26(5):321-37.
+
+microrna detection target prediction: integration computational and
+experimental approaches.
+
+chaudhuri k(1), chatterjee r.
+
+author information: 
+(1)molecular & human genetics division, indian institute chemical biology,
+kolkata, india. keyachaudhuri@yahoo.com
+
+in recent years, micrornas (mirnas), class 19-25 nucleotides noncoding rnas,
+have shown play major role gene regulation across broad range of
+metazoans important diverse biological functions. mirnas 
+involved regulation protein expression primarily binding one or
+more target sites mrna transcript causing cleavage repression of
+translation. computer-based approaches mirna gene identification mirna
+target prediction considered indispensable mirna research.
+similarly, effective experimental techniques validating silico predictions are
+crucial testing finetuning computational algorithms. iterative
+interactions silico experimental methods playing central
+role biology mirnas. review, summarize various
+computational methods identification mirnas targets well as
+the technologies developed validate predictions.
+
+doi: 10.1089/dna.2006.0549 
+pmid: 17504028  [indexed medline]
+

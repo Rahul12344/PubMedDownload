@@ -1,0 +1,47 @@
+
+1. Plants (Basel). 2021 Sep 24;10(10). pii: 2008. doi: 10.3390/plants10102008.
+
+Optimized RNA-Silencing Strategies for Rice Ragged Stunt Virus Resistance in
+Rice.
+
+Lacombe S(1), Bangratz M(1), Ta HA(2), Nguyen TD(3), Gantet P(4), Brugidou C(1).
+
+Author information: 
+(1)PHIM Plant Health Institute, University Montpellier, IRD, CIRAD, INRAE,
+Institut Agro, 34090 Montpellier, France.
+(2)Plant Protection Research Institute (PPRI), Bac Tu Liem District, Hanoi 10000,
+Vietnam.
+(3)Agricultural Genetics Institute, Bac Tu Liem District, Hanoi 10000, Vietnam.
+(4)UMR DIADE, Université de Montpellier, IRD, 34090 Montpellier, France.
+
+Rice ragged stunt virus (RRSV) is one of the most damaging viruses of the rice
+culture area in south and far-eastern Asia. To date, no genetic resistance has
+been identified and only expensive and non-environmentally friendly chemical
+treatments are deployed to fight this important disease. Non-chemical approaches 
+based on RNA-silencing have been developed as resistance strategies against
+viruses. Here, we optimized classical miRNA and siRNA-based strategies to obtain 
+efficient and durable resistance to RRSV. miRNA-based strategies are involved in 
+producing artificial miRNA (amiR) targeting viral genomes in plants. Classically,
+only one amiR is produced from a single construct. We demonstrated for the first 
+time that two amiRs targeting conserved regions of RRSV genomes could be
+transgenically produced in Nicotiana benthamiana and in rice for a single
+precursor. Transgenic rice plants producing either one or two amiR were produced.
+Despite efficient amiR accumulations, miRNA-based strategies with single or
+double amiRs failed to achieve efficient RRSV resistance in transformed rice
+plants. This suggests that this strategy may not be adapted to RRSV, which could 
+rapidly evolve to counteract them. Another RNA-silencing-based method for viral
+resistance concerns producing several viral siRNAs targeting a viral fragment.
+These viral siRNAs are produced from an inverted repeat construct carrying the
+targeted viral fragment. Here, we optimized the inverted repeat construct using a
+chimeric fragment carrying conserved sequences of three different RRSV genes
+instead of one. Of the three selected homozygous transgenic plants, one failed to
+accumulate the expected siRNA. The two other ones accumulated siRNAs from either 
+one or three fragments. A strong reduction of RRSV symptoms was observed only in 
+transgenic plants expressing siRNAs. We consequently demonstrated, for the first 
+time, an efficient and environmentally friendly resistance to RRSV in rice based 
+on the siRNA-mediated strategy.
+
+DOI: 10.3390/plants10102008 
+PMCID: PMC8540896
+PMID: 34685817 
+

@@ -1,0 +1,59 @@
+
+1. Sci Rep. 2021 Nov 2;11(1):21449. doi: 10.1038/s41598-021-00341-3.
+
+A feasible route for the design and manufacture of customised respiratory
+protection through digital facial capture.
+
+Carter LN(1), Reed CA(2), Morrell AP(2), Fong AKH(3), Chowdhury R(3), Miller
+E(3), Alberini F(4), Khambay B(5), Anand S(2), Grover LM(4), Coward T(2), Addison
+O(6), Cox SC(4).
+
+Author information: 
+(1)School of Chemical Engineering, College of Engineering and Physical Sciences, 
+University of Birmingham, Edgbaston, Birmingham, B15 2TT, UK.
+L.N.Carter@bham.ac.uk.
+(2)Centre of Oral, Clinical & Translational Sciences, Faculty of Dentistry, Oral 
+& Craniofacial Sciences, King's College London, Guy's Hospital, London, SE1 9RT, 
+UK.
+(3)Department of Mechanical Engineering, College of Engineering and Physical
+Sciences, University of Birmingham, Edgbaston, Birmingham, B15 2TT, UK.
+(4)School of Chemical Engineering, College of Engineering and Physical Sciences, 
+University of Birmingham, Edgbaston, Birmingham, B15 2TT, UK.
+(5)School of Dentistry, College of Medical and Dental Sciences, University of
+Birmingham, Edgbaston, Birmingham, B15 2TT, UK.
+(6)Centre of Oral, Clinical & Translational Sciences, Faculty of Dentistry, Oral 
+& Craniofacial Sciences, King's College London, Guy's Hospital, London, SE1 9RT, 
+UK. owen.addison@kcl.ac.uk.
+
+The World Health Organisation has called for a 40% increase in personal
+protective equipment manufacturing worldwide, recognising that frontline workers 
+need effective protection during the COVID-19 pandemic. Current devices suffer
+from high fit-failure rates leaving significant proportions of users exposed to
+risk of viral infection. Driven by non-contact, portable, and widely available 3D
+scanning technologies, a workflow is presented whereby a user's face is rapidly
+categorised using relevant facial parameters. Device design is then directed down
+either a semi-customised or fully-customised route. Semi-customised designs use
+the extracted eye-to-chin distance to categorise users in to pre-determined size 
+brackets established via a cohort of 200 participants encompassing 87.5% of the
+cohort. The user's nasal profile is approximated to a Gaussian curve to further
+refine the selection in to one of three subsets. Flexible silicone provides the
+facial interface accommodating minor mismatches between true nasal profile and
+the approximation, maintaining a good seal in this challenging region.
+Critically, users with outlying facial parameters are flagged for the
+fully-customised route whereby the silicone interface is mapped to 3D scan data. 
+These two approaches allow for large scale manufacture of a limited number of
+design variations, currently nine through the semi-customised approach, whilst
+ensuring effective device fit. Furthermore, labour-intensive fully-customised
+designs are targeted as those users who will most greatly benefit. By
+encompassing both approaches, the presented workflow balances manufacturing
+scale-up feasibility with the diverse range of users to provide well-fitting
+devices as widely as possible. Novel flow visualisation on a model face is
+presented alongside qualitative fit-testing of prototype devices to support the
+workflow methodology.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-00341-3 
+PMCID: PMC8563770
+PMID: 34728650  [Indexed for MEDLINE]
+

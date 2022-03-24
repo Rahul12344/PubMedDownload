@@ -1,0 +1,59 @@
+
+1. mBio. 2019 Feb 12;10(1). pii: e02818-18. doi: 10.1128/mBio.02818-18.
+
+Cdk8 and Ssn801 Regulate Oxidative Stress Resistance and Virulence in
+Cryptococcus neoformans.
+
+Chang AL(1), Kang Y(2), Doering TL(3).
+
+Author information: 
+(1)Department of Molecular Microbiology, Washington University School of
+Medicine, Washington University, St. Louis, Missouri, USA.
+(2)Department of Computer Science and Engineering, Washington University, St.
+Louis, Missouri, USA.
+(3)Department of Molecular Microbiology, Washington University School of
+Medicine, Washington University, St. Louis, Missouri, USA doering@wustl.edu.
+
+Cryptococcus neoformans kills 200,000 people worldwide each year. After
+inhalation, this environmental yeast proliferates either extracellularly or
+within host macrophages. Under conditions of immunocompromise, cryptococci
+disseminate from the lungs to the brain, causing a deadly meningoencephalitis
+that is difficult and expensive to treat. Cryptococcal adaptation to the harsh
+lung environment is a critical first step in its pathogenesis, and consequently a
+compelling topic of study. This adaptation is mediated by a complex
+transcriptional program that integrates cellular responses to environmental
+stimuli. Although several key regulators in this process have been examined, one 
+that remains understudied in C. neoformans is the Mediator complex. In other
+organisms, this complex promotes transcription of specific genes by increasing
+assembly of the RNA polymerase II preinitiation complex. We focused on the Kinase
+Module of Mediator, which consists of cyclin C (Ssn801), cyclin-dependent kinase 
+8 (Cdk8), Med12, and Med13. This module provides important inhibitory control of 
+Mediator complex assembly and activity. Using transcriptomics, we discovered that
+Cdk8 and Ssn801 together regulate cryptococcal functions such as the ability to
+grow on acetate and the response to oxidative stress, both of which were
+experimentally validated. Deletion of CDK8 yielded altered mitochondrial
+morphology and the dysregulation of genes involved in oxidation-reduction
+processes. This strain exhibited increased susceptibility to oxidative stress,
+resulting in an inability of mutant cells to proliferate within phagocytes,
+decreased lung burdens, and attenuated virulence in vivo These findings increase 
+our understanding of cryptococcal adaptation to the host environment and its
+regulation of oxidative stress resistance and virulence.IMPORTANCE Cryptococcus
+neoformans is a fungal pathogen that primarily affects severely immunocompromised
+patients, resulting in 200,000 deaths every year. This yeast occurs in the
+environment and can establish disease upon inhalation into the lungs of a
+mammalian host. In this harsh environment it must survive engulfment by host
+phagocytes, including the oxidative stresses it experiences inside them. To adapt
+to these challenging conditions, C. neoformans deploys a variety of regulatory
+proteins to alter gene expression levels and enhance its ability to survive. We
+have elucidated the role of a protein complex that regulates the cryptococcal
+response to oxidative stress, survival within phagocytes, and ability to cause
+disease. These findings are important because they advance our understanding of
+cryptococcal disease, which we hope will help in the efforts to control this
+devastating infection.
+
+Copyright © 2019 Chang et al.
+
+DOI: 10.1128/mBio.02818-18 
+PMCID: PMC6372802
+PMID: 30755515  [Indexed for MEDLINE]
+

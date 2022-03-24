@@ -1,0 +1,45 @@
+
+1. Viruses. 2021 Oct 27;13(11). pii: 2164. doi: 10.3390/v13112164.
+
+IRE1-Mediated Unfolded Protein Response Promotes the Replication of Tick-Borne
+Flaviviruses in a Virus and Cell-Type Dependent Manner.
+
+Breitkopf VJM(1)(2), Dobler G(3), Claus P(4), Naim HY(1), Steffen I(1)(2).
+
+Author information: 
+(1)Department of Biochemistry, University of Veterinary Medicine, 30559 Hannover,
+Germany.
+(2)Research Center for Emerging Infections and Zoonoses, University of Veterinary
+Medicine, 30559 Hannover, Germany.
+(3)German Center of Infection Research (DZIF), Bundeswehr Institute of
+Microbiology, 80937 Munich, Germany.
+(4)SMATHERIA gGmbH-Non-Profit Biomedical Research Institute and Center for
+Systems Neuroscience (ZSN), 30625 Hannover, Germany.
+
+Tick-borne flaviviruses (TBFV) can cause severe neurological complications in
+humans, but differences in tissue tropism and pathogenicity have been described
+for individual virus strains. Viral protein synthesis leads to the induction of
+the unfolded protein response (UPR) within infected cells. The IRE1 pathway has
+been hypothesized to support flavivirus replication by increasing protein and
+lipid biogenesis. Here, we investigated the role of the UPR in TBFV infection in 
+human astrocytes, neuronal and intestinal cell lines that had been infected with 
+tick-borne encephalitis virus (TBEV) strains Neudoerfl and MucAr-HB-171/11 as
+well as Langat virus (LGTV). Both TBEV strains replicated better than LGTV in
+central nervous system (CNS) cells. TBEV strain MucAr-HB-171/11, which is
+associated with gastrointestinal symptoms, replicated best in intestinal cells.
+All three viruses activated the inositol-requiring enzyme 1 (IRE1) pathway via
+the X-box binding protein 1 (XBP1). Interestingly, the neurotropic TBEV strain
+Neudoerfl induced a strong upregulation of XBP1 in all cell types, but with
+faster kinetics in CNS cells. In contrast, TBEV strain MucAr-HB-171/11 failed to 
+activate the IRE1 pathway in astrocytes. The low pathogenic LGTV led to a mild
+induction of IRE1 signaling in astrocytes and intestinal cells. When cells were
+treated with IRE1 inhibitors prior to infection, TBFV replication in astrocytes
+was significantly reduced. This confirms a supporting role of the IRE1 pathway
+for TBFV infection in relevant viral target cells and suggests a correlation
+between viral tissue tropism and the cell-type dependent induction of the
+unfolded protein response.
+
+DOI: 10.3390/v13112164 
+PMCID: PMC8619205
+PMID: 34834970 
+

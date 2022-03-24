@@ -1,0 +1,42 @@
+
+1. Methods. 2021 Nov 9. pii: S1046-2023(21)00251-6. doi:
+10.1016/j.ymeth.2021.11.002. [Epub ahead of print]
+
+Identification of potential pan-coronavirus therapies using a computational drug 
+repurposing platform.
+
+Hwang W(1), Han N(2).
+
+Author information: 
+(1)Milner Therapeutics Institute, University of Cambridge, Cambridge, UK.
+(2)Milner Therapeutics Institute, University of Cambridge, Cambridge, UK;
+Cambridge Centre for AI in Medicine, Department of Applied Mathematics and
+Theoretical Physics, University of Cambridge, Cambridge, UK. Electronic address: 
+nh417@cam.ac.uk.
+
+In the past 20 years, there have been several infectious disease outbreaks in
+humans for which the causative agent has been a zoonotic coronavirus. Novel
+infectious disease outbreaks, as illustrated by the current coronavirus disease
+2019 (COVID-19) pandemic, demand a rapid response in terms of identifying
+effective treatments for seriously ill patients. The repurposing of approved
+drugs from other therapeutic areas is one of the most practical routes through
+which to approach this. Here, we present a systematic network-based drug
+repurposing methodology, which interrogates virus-human, human protein-protein
+and drug-protein interactome data. We identified 196 approved drugs that are
+appropriate for repurposing against COVID-19 and 102 approved drugs against a
+related coronavirus, severe acute respiratory syndrome (SARS-CoV). We constructed
+a protein-protein interaction (PPI) network based on disease signatures from
+COVID-19 and SARS multi-omics datasets. Analysis of this PPI network uncovered
+key pathways. Of the 196 drugs predicted to target COVID-19 related pathways, 44 
+(hypergeometric p-value: 1.98e-04) are already in COVID-19 clinical trials,
+demonstrating the validity of our approach. Using an artificial neural network,
+we provide information on the mechanism of action and therapeutic value for each 
+of the identified drugs, to facilitate their rapid repurposing into clinical
+trials.
+
+Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymeth.2021.11.002 
+PMCID: PMC8577587
+PMID: 34767922 
+

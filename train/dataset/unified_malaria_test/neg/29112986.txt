@@ -1,0 +1,52 @@
+
+1. plos one. 2017 nov 7;12(11):e0187595. doi: 10.1371/journal.pone.0187595.
+ecollection 2017.
+
+simultaneous genome-wide gene expression transcript isoform profiling 
+human malaria parasite.
+
+turnbull lb(1)(2), siwo gh(1)(3), button-simons ka(1), tan a(1)(4), checkley
+la(1), painter hj(5), llinás m(5)(6), ferdig mt(1).
+
+author information: 
+(1)department biological sciences, eck institute global health, university
+of notre dame, notre dame, indiana, united states america.
+(2)ryan white center pediatric infectious diseases global health, indiana
+university, indianapolis, indiana, united states america.
+(3)ibm research africa, johannesburg, south africa.
+(4)illumina, madison, wisconsin, united states america.
+(5)department biochemistry & molecular biology center malaria
+research, pennsylvania state university, university park, pennsylvania, united
+states america.
+(6)department chemistry, pennsylvania state university, university park,
+pennsylvania, united states america.
+
+gene expression dna microarrays vital characterizing whole-genome
+transcriptional profiles. nevertheless, effectiveness relies heavily the
+accuracy genome sequences, annotation gene structures, the
+sequence-dependent performance individual probes. currently available gene
+expression arrays malaria parasite plasmodium falciparum rely an
+average 2 probes per gene, usually positioned near 3' end genes;
+consequently, existing designs prone measurement bias cannot capture
+complexities occurrence transcript isoforms arising from
+alternative splicing alternative start/ stop sites. here, describe two
+novel gene expression arrays exon-focused probes designed average of
+12 20 probes spanning gene. high probe density minimizes signal
+noise inherent probe-to-probe sequence-dependent hybridization intensity. we
+demonstrate exon arrays accurately profile genome-wide expression,
+comparing favorably currently available arrays rna-seq profiling, 
+detect alternatively spliced transcript isoforms well non-coding rnas
+(ncrnas). 964 candidate alternate splicing events published rna-seq
+studies, 162 confirmed using exon array. furthermore, exon array
+predicted 330 previously unidentified alternate splicing events. gene expression 
+microarrays continue offer cost-effective alternative rna-seq the
+simultaneous monitoring gene expression alternative splicing events.
+microarrays may even preferred cases due affordability and
+the rapid turn-around results hundreds samples required for
+fine-scale systems biology investigations, including monitoring the
+networks gene co-expression emergence drug resistance.
+
+doi: 10.1371/journal.pone.0187595 
+pmcid: pmc5675406
+pmid: 29112986  [indexed medline]
+

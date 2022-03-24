@@ -1,0 +1,70 @@
+
+1. sci immunol. 2017 mar 3;2(9). pii: eaal2192. doi: 10.1126/sciimmunol.aal2192.
+
+single-cell rna-seq computational analysis using temporal mixture modelling
+resolves th1/tfh fate bifurcation malaria.
+
+lönnberg t(1), svensson v(2), james kr(3), fernandez-ruiz d(4), sebina i(3),
+montandon r(5), soon ms(3), fogg lg(3), nair as(3), liligeto u(3), stubbington
+mj(1), ly lh(5), bagger fo(6), zwiessele m(7), lawrence nd(7),
+souza-fonseca-guimaraes f(3), bunn pt(3), engwerda cr(3), heath wr(8), billker
+o(5), stegle o(2), haque a(3), teichmann sa(1).
+
+author information: 
+(1)european molecular biology laboratory, european bioinformatics institute
+(embl-ebi), wellcome genome campus, hinxton, cambridge, uk; wellcome trust sanger
+institute, wellcome genome campus, hinxton, cambridge, uk.
+(2)european molecular biology laboratory, european bioinformatics institute
+(embl-ebi), wellcome genome campus, hinxton, cambridge, uk.
+(3)qimr berghofer medical research institute, herston, brisbane, queensland,
+australia.
+(4)department microbiology immunology, peter doherty institute,
+university melbourne, parkville, victoria, australia.
+(5)wellcome trust sanger institute, wellcome genome campus, hinxton, cambridge,
+uk.
+(6)european molecular biology laboratory, european bioinformatics institute
+(embl-ebi), wellcome genome campus, hinxton, cambridge, uk; wellcome trust sanger
+institute, wellcome genome campus, hinxton, cambridge, uk; department of
+haematology, university cambridge, cambridge biomedical campus, cambridge, uk;
+national health service (nhs) blood transplant, cambridge biomedical campus, 
+long road, cambridge, uk.
+(7)department computer science, university sheffield, sheffield, uk.
+(8)department microbiology immunology, peter doherty institute,
+university melbourne, parkville, victoria, australia; australian research 
+council centre excellence advanced molecular imaging, university of
+melbourne, parkville, victoria, australia.
+
+erratum in
+    sci immunol. 2018 mar 9;3(21):.
+
+differentiation naïve cd4+ cells functionally distinct helper subsets
+is crucial orchestration immune responses. due extensive
+heterogeneity multiple overlapping transcriptional programs in
+differentiating cell populations, process remained challenge for
+systematic dissection vivo. using single-cell transcriptomics and
+computational analysis using temporal mixtures gaussian processes model,
+termed gpfates, reconstructed developmental trajectories th1 tfh
+cells blood-stage plasmodium infection mice. tracking clonality
+using endogenous tcr sequences, first demonstrated th1/tfh bifurcation
+had occurred population single-clone levels. next, identified
+genes whose expression associated th1 tfh fates, demonstrated a
+t-cell intrinsic role galectin-1 supporting th1 differentiation. also
+revealed close molecular relationship th1 il-10-producing tr1
+cells infection. th1 tfh fates emerged highly proliferative
+precursor upregulated aerobic glycolysis accelerated cell cycling as
+cytokine expression began. dynamic gene expression chemokine receptors around 
+bifurcation predicted roles cell-cell driving th1/tfh fates. in
+particular, found precursor th cells coached towards th1 a
+tfh fate inflammatory monocytes. thus, integrating genomic and
+computational approaches, study provided two unique resources, database
+www.plasmoth.org, facilitates discovery novel factors controlling
+th1/tfh fate commitment, generally, gpfates, modelling framework for
+characterizing cell differentiation towards multiple fates.
+
+doi: 10.1126/sciimmunol.aal2192 
+pmcid: pmc5365145
+pmid: 28345074 
+
+conflict interest statement: competing interests authors declare no
+competing interests.
+

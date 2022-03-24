@@ -1,0 +1,51 @@
+
+1. BMC Genet. 2020 Nov 2;21(1):121. doi: 10.1186/s12863-020-00925-4.
+
+Functional analysis of bovine interleukin-10 receptor alpha in response to
+Mycobacterium avium subsp. paratuberculosis lysate using CRISPR/Cas9.
+
+Mallikarjunappa S(1)(2), Shandilya UK(2), Sharma A(2), Lamers K(2), Bissonnette
+N(3), Karrow NA(2), Meade KG(4).
+
+Author information: 
+(1)Animal and Bioscience Research Department, Animal and Grassland Research and
+Innovation Centre, Teagasc, Grange, Co. Meath, Ireland.
+(2)Centre for Genetic Improvement of Livestock, Department of Animal Biosciences,
+University of Guelph, Guelph, Ontario, N1G 2W1, Canada.
+(3)Agriculture and Agri-Food Canada, Sherbrooke Research and Development Centre, 
+Sherbrooke, QC, J1M 0C8, Canada.
+(4)Animal and Bioscience Research Department, Animal and Grassland Research and
+Innovation Centre, Teagasc, Grange, Co. Meath, Ireland. kieran.meade@teagasc.ie.
+
+BACKGROUND: The interleukin-10 receptor alpha (IL10RA) gene codes for the alpha
+chain of the IL-10 receptor which binds the cytokine IL-10. IL-10 is an
+anti-inflammatory cytokine with immunoregulatory function during the pathogenesis
+of many inflammatory disorders in livestock, including Johne's disease (JD). JD
+is a chronic enteritis in cattle caused by Mycobacterium avium subsp.
+paratuberculosis (MAP) and is responsible for significant economic losses to the 
+dairy industry. Several candidate genes including IL10RA have been found to be
+associated with JD. The aim of this study was to better understand the functional
+significance of IL10RA in the context of immune stimulation with MAP cell wall
+lysate.
+RESULTS: An IL10RA knock out (KO) bovine mammary epithelial cell (MAC-T) line was
+generated using the CRISPR/cas9 (Clustered Regularly Interspaced Short
+Palindromic Repeats/CRISPR-associated protein 9) gene editing system. These
+IL10RA KO cells were stimulated with the immune stimulant MAP lysate +/- IL-10,
+or with LPS as a positive control. In comparison to unedited cells, relative
+quantification of immune-related genes after stimulation revealed that knocking
+out IL10RA resulted in upregulation of pro-inflammatory cytokine gene expression 
+(TNFA, IL1A, IL1B and IL6) and downregulation of suppressor of cytokine signaling
+3 (SOCS3), a negative regulator of pro-inflammatory cytokine signaling. At the
+protein level knocking out IL10RA also resulted in upregulation of inflammatory
+cytokines - TNF-α and IL-6 and chemokines - IL-8, CCL2 and CCL4, relative to
+unedited cells.
+CONCLUSIONS: The findings of this study illustrate the broad and significant
+effects of knocking out the IL10RA gene in enhancing pro-inflammatory cytokine
+expression and further support the immunoregulatory role of IL10RA in eliciting
+an anti-inflammatory response as well as its potential functional involvement
+during the immune response associated with JD.
+
+DOI: 10.1186/s12863-020-00925-4 
+PMCID: PMC7607837
+PMID: 33138773  [Indexed for MEDLINE]
+

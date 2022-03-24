@@ -1,0 +1,45 @@
+
+1. J Biotechnol. 2019 Oct 10;304:31-37. doi: 10.1016/j.jbiotec.2019.08.009. Epub
+2019 Aug 14.
+
+Deletion of glycerol-3-phosphate dehydrogenase genes improved 2,3-butanediol
+production by reducing glycerol production in pyruvate decarboxylase-deficient
+Saccharomyces cerevisiae.
+
+Kim JW(1), Lee YG(1), Kim SJ(2), Jin YS(3), Seo JH(4).
+
+Author information: 
+(1)Department of Agricultural Biotechnology and Center for Food and
+Bioconvergence, Seoul National University, Seoul, 08826, Repubilc of Korea.
+(2)Department of Food Science and Technology, Chonnam National University,
+Gwangju, 61186, Republic of Korea.
+(3)Department of Food Science and Human Nutrition, University of Illinois at
+Urbana-Champaign, Urbana, IL, 61822, USA.
+(4)Department of Agricultural Biotechnology and Center for Food and
+Bioconvergence, Seoul National University, Seoul, 08826, Repubilc of Korea.
+Electronic address: jhseo94@snu.ac.kr.
+
+2,3-Butanediol (2,3-BD) can be produced at high titers by engineered
+Saccharomyces cerevisiae by abolishing the ethanol biosynthetic pathway and
+introducing the bacterial butanediol-producing pathway. However, production of
+2,3-BD instead of ethanol by engineered S. cerevisiae has resulted in glycerol
+production because of surplus NADH accumulation caused by a lower degree of
+reduction (γ = 5.5) of 2,3-BD than that (γ = 6) of ethanol. In order to eliminate
+glycerol production and resolve redox imbalance during 2,3-BD production, both
+GPD1 and GPD2 coding for glycerol-3-phosphate dehydrogenases were disrupted after
+overexpressing NADH oxidase from Lactococcus lactis. As disruption of the GPD
+genes caused growth defects due to limited supply of C2 compounds, Candida
+tropicalis PDC1 was additionally introduced to provide a necessary amount of C2
+compounds while minimizing ethanol production. The resulting strain (BD5_T2
+nox_dGPD1,2_CtPDC1) produced 99.4 g/L of 2,3-BD with 0.5 g/L glycerol
+accumulation in a batch culture. The fed-batch fermentation led to production of 
+108.6 g/L 2,3-BD with a negligible amount of glycerol production, resulting in a 
+high BD yield (0.462 g2,3-BD/gglucose) corresponding to 92.4 % of the theoretical
+yield. These results demonstrate that glycerol-free production of 2,3-BD by
+engineered yeast is feasible.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jbiotec.2019.08.009 
+PMID: 31421146  [Indexed for MEDLINE]
+

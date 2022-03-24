@@ -1,0 +1,52 @@
+
+1. Comput Biol Med. 2021 Nov;138:104889. doi: 10.1016/j.compbiomed.2021.104889. Epub
+2021 Oct 6.
+
+Interactome of human and SARS-CoV-2 proteins to identify human hub proteins
+associated with comorbidities.
+
+Ghosh N(1), Saha I(2), Sharma N(3).
+
+Author information: 
+(1)Department of Computer Science and Information Technology, Institute of
+Technical Education and Research, Siksha 'O' Anusandhan (Deemed to Be
+University), Bhubaneswar, Odisha, India; Faculty of Mathematics, Informatics and 
+Mechanics, University of Warsaw, Warsaw, Poland.
+(2)Department of Computer Science and Engineering, National Institute of
+Technical Teachers' Training and Research, Kolkata, West Bengal, India.
+Electronic address: indrajit@nitttrkol.ac.in.
+(3)Department of Electronics and Communication Engineering, Jaypee Institute of
+Information Technology, Noida, Uttar Pradesh, India.
+
+SARS-CoV-2 has a higher chance of progression in adults of any age with certain
+underlying health conditions or comorbidities like cancer, neurological diseases 
+and in certain cases may even lead to death. Like other viruses, SARS-CoV-2 also 
+interacts with host proteins to pave its entry into host cells. Therefore, to
+understand the behaviour of SARS-CoV-2 and design of effective antiviral drugs,
+host-virus protein-protein interactions (PPIs) can be very useful. In this
+regard, we have initially created a human-SARS-CoV-2 PPI database from existing
+works in the literature which has resulted in 7085 unique PPIs. Subsequently, we 
+have identified at most 10 proteins with highest degrees viz. hub proteins from
+interacting human proteins for individual virus protein. The identification of
+these hub proteins is important as they are connected to most of the other human 
+proteins. Consequently, when they get affected, the potential diseases are
+triggered in the corresponding pathways, thereby leading to comorbidities.
+Furthermore, the biological significance of the identified hub proteins is shown 
+using KEGG pathway and GO enrichment analysis. KEGG pathway analysis is also
+essential for identifying the pathways leading to comorbidities. Among others,
+SARS-CoV-2 proteins viz. NSP2, NSP5, Envelope and ORF10 interacting with human
+hub proteins like COX4I1, COX5A, COX5B, NDUFS1, CANX, HSP90AA1 and TP53 lead to
+comorbidities. Such comorbidities are Alzheimer, Parkinson, Huntington, HTLV-1
+infection, prostate cancer and viral carcinogenesis. Subsequently, using Enrichr 
+tool possible repurposable drugs which target the human hub proteins are reported
+in this paper as well. Therefore, this work provides a consolidated study for
+human-SARS-CoV-2 protein interactions to understand the relationship between
+comorbidity and hub proteins so that it may pave the way for the development of
+anti-viral drugs.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2021.104889 
+PMCID: PMC8492901
+PMID: 34655901  [Indexed for MEDLINE]
+

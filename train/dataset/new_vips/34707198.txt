@@ -1,0 +1,38 @@
+
+1. Sci Rep. 2021 Oct 27;11(1):21233. doi: 10.1038/s41598-021-99991-6.
+
+Predictive usefulness of RT-PCR testing in different patterns of Covid-19
+symptomatology: analysis of a French cohort of 12,810 outpatients.
+
+AP-HP/Universities/Inserm COVID-19 Research Collaboration.
+
+Collaborators: Apra C, Caucheteux C, Mensch A, Mansour J, Bernaux M, Dechartres
+A, Debuc E, Lescure X, Dinh A, Yordanov Y, Jourdain P, Mensch A, Caucheteux C,
+Apra C, Mansour J, Paris N, Gramfort A, Aime-Eusebi A, Apra C, Bleibtreu A, Debuc
+E, Dechartres A, Deconinck L, Dinh A, Jourdain P, Katlama C, Lebel J, Lescure FX,
+Yordanov Y, Artigou Y, Banzet A, Boucheron E, Boudier C, Buzenac E, Chapron MC,
+Chekaoui D, De Bastard L, Debuc E, Dinh A, Grenier A, Haas PE, Hody J, Jarraya M,
+Jourdain P, Lacaille L, Le Guern A, Leclert J, Male F, Marchand-Arvier J,
+Martin-Blondet E, Nassour A, Ourahou O, Penn T, Ribardiere A, Robin N, Rouge C,
+Schmidt N, Villie P.
+
+Reverse transcriptase polymerase chain reaction (RT-PCR) is a key tool to
+diagnose Covid-19. Yet it may not be the most efficient test in all patients. In 
+this paper, we develop a clinical strategy for prescribing RT-PCR to patients
+based on data from COVIDOM, a French cohort of 54,000 patients with clinically
+suspected Covid-19, including 12,810 patients tested by RT-PCR. We use a
+machine-learning algorithm (decision tree) in order to predict RT-PCR results
+based on the clinical presentation. We show that symptoms alone are sufficient to
+predict RT-PCR outcome with a mean average precision of 86%. We identify
+combinations of symptoms that are predictive of RT-PCR positivity (90% for
+anosmia/ageusia) or negativity (only 30% of RT-PCR+ for a subgroup with
+cardiopulmonary symptoms): in both cases, RT-PCR provides little added diagnostic
+value. We propose a prescribing strategy based on clinical presentation that can 
+improve the global efficiency of RT-PCR testing.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-99991-6 
+PMCID: PMC8551264
+PMID: 34707198  [Indexed for MEDLINE]
+

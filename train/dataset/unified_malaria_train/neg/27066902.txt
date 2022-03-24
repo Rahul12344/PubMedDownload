@@ -1,0 +1,50 @@
+
+1. malar j. 2016 apr 12;15:206. doi: 10.1186/s12936-016-1258-x.
+
+plasmodium copy number variation scan: gene copy numbers evaluation haploid
+genomes.
+
+beghain j(1), langlois ac(2), legrand e(3), grange l(4), khim n(2), witkowski
+b(2), duru v(2), l(5), bouchier c(5), ménard d(2), paul re(4), ariey f(6).
+
+author information: 
+(1)institut pasteur, génome et génomique des insectes vecteurs, paris, france.
+johann.beghain@wanadoo.fr.
+(2)institut pasteur du cambodge, epidémiologie moléculaire du paludisme, phnom
+penh, cambodia.
+(3)institut pasteur, génome et génomique des insectes vecteurs, paris, france.
+(4)institut pasteur, génétique fonctionnelle des maladies infectieuses, paris,
+france.
+(5)institut pasteur, plate forme génomique, paris, france.
+(6)inserm u 1016, institut cochin, université paris descartes sorbonne paris
+cité, faculté de médecine, paris, france.
+
+background: eukaryotic genomes, deletion amplification rates been
+estimated thousand frequent single nucleotide variation. in
+plasmodium falciparum, relatively transcription factors identified,
+and regulation transcription seemingly largely influenced gene
+amplification events. thus copy number variation (cnv) major mechanism
+enabling parasite genomes adapt new environmental changes.
+methods: currently, detection cnvs based quantitative pcr (qpcr),
+which significantly limited relatively small number genes can
+be analysed one time. technological advances facilitate whole-genome 
+sequencing, next generation sequencing (ngs) enable deeper analyses of
+the genomic variation performed. characteristics plasmodium 
+cnvs need special consideration algorithms strategies classical 
+cnv detection programs suited dedicated algorithm detect cnvs across
+the entire exome p. falciparum developed. algorithm based a
+custom read depth strategy ngs data called plasmocnvscan.
+results: analysis cnv identification three genes known have
+different levels amplification located either nuclear,
+apicoplast mitochondrial genomes presented. results correlated with
+the qpcr experiments, usually used identification locus specific
+amplification/deletion.
+conclusions: tool facilitate study p. falciparum genomic
+adaptation response ecological changes: drug pressure, decreased
+transmission, reduction parasite population size (transition to
+pre-elimination endemic area).
+
+doi: 10.1186/s12936-016-1258-x 
+pmcid: pmc4828863
+pmid: 27066902  [indexed medline]
+

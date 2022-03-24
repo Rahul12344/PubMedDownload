@@ -1,0 +1,44 @@
+
+1. bmc plant biol. 2013 dec 20;13:220. doi: 10.1186/1471-2229-13-220.
+
+differential transcriptome analysis glandular filamentous trichomes in
+artemisia annua.
+
+soetaert ss, van neste cm, vandewoestyne ml, head sr, goossens a, van
+nieuwerburgh fc, deforce dl(1).
+
+author information: 
+(1)laboratory pharmaceutical biotechnology, faculty pharmaceutical
+sciences, ghent university, harelbekestraat 72, 9000 ghent, belgium.
+dieter.deforce@ugent.be.
+
+background: medicinal plant artemisia annua covered filamentous
+trichomes glandular, artemisinin producing trichomes. high artemisinin
+supply needed reduced cost treating malaria. artemisinin production
+in bioreactors facilitated better insight obtained the
+biosynthesis artemisinin metabolites. therefore, metabolic
+activities glandular filamentous trichomes investigated the
+transcriptome level.
+results: laser pressure catapulting, glandular filamentous trichomes as
+well apical sub-apical cells glandular trichomes collected and
+their transcriptome sequenced using illumina rna-seq. de novo transcriptome
+was assembled (trinity) studied differential expression analysis
+(edger).a comparison transcriptome glandular filamentous
+trichomes shows mep, mva, terpene lipid biosynthesis pathways are
+significantly upregulated glandular trichomes. conversely, transcripts
+coding specific sesquiterpenoid triterpenoid enzymes 8-epi-cedrol
+synthase uncharacterized oxidosqualene cyclase significantly
+upregulated filamentous trichomes. known artemisinin biosynthesis genes
+are upregulated glandular trichomes detected apical and
+sub-apical cells glandular trichomes. significant differential
+expression could observed apical sub-apical cells.
+conclusions: results underscore vast metabolic capacities a. annua
+glandular trichomes nonetheless point existence specific terpene
+metabolic pathways filamentous trichomes. candidate genes might be
+involved artemisinin biosynthesis proposed based putative
+function differential expression level.
+
+doi: 10.1186/1471-2229-13-220 
+pmcid: pmc3878173
+pmid: 24359620  [indexed medline]
+

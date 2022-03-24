@@ -1,0 +1,55 @@
+
+1. Health Policy Technol. 2021 Nov 8:100574. doi: 10.1016/j.hlpt.2021.100574. [Epub 
+ahead of print]
+
+Policy Stringency, Handwashing and COVID-19 cases: Evidence from Global dataset.
+
+Dzator J(1)(2)(3), Acheampong AO(1)(3), Dzator M(4)(2)(3), Paolucci F(1)(2), Yawe
+BL(5)(2), Asmah EE(6)(2), Andoh FK(6)(2), Kabagenyi A(5)(2), Gillespie J(2)(7).
+
+Author information: 
+(1)Newcastle Business School, University of Newcastle, Australia.
+(2)Australia Africa Universities Network (AAUN) Partner.
+(3)Centre for African Research, Engagement and Partnerships (CARE-P), University 
+of Newcastle, Australia.
+(4)SAE, Central Queensland University, Mackay, QLD, Australia.
+(5)School of Economics, Makerere University, Uganda.
+(6)School of Economics, University of Cape Coast, Ghana.
+(7)Menzies Centre for Health Policy and Sydney School of Public Health,
+University of Sydney, Australia.
+
+Objective: : Since the COVID-19 pandemic, many governments globally have
+introduced policy measures to contain the spread of the virus. Popular COVID-19
+containment measures include lockdowns of various forms (aggregated into
+government response stringency index [GRSI]) and handwashing (HWF). The
+effectiveness of these policy measures remains unclear in the academic
+literature. This study, therefore, examines the effect of government policy
+stringency and handwashing on total daily reported COVID-19 cases.
+Method: : We use a comprehensive dataset of 176 countries to investigate the
+effect of government policy stringency and handwashing on daily reported COVID-19
+cases. In this study, we apply the Lewbel (2012) two-stage least squares
+technique to control endogeneity.
+Results: : Our results indicated that GRSI significantly contributes to the
+increase in the total and new confirmed cases of COVI-19. Sensitivity analyses
+revealed that the 1st, 4th, and 5th quintiles of GRIS significantly reduce total 
+confirmed cases of COVID-19. Also, the result indicated that while the 1st
+quintile of GRIS contributes significantly to reducing the new confirmed cases of
+COVID-19, the 3rd, 4th, and 5th quintiles of GRSI contribute significantly to
+increasing the new confirmed cases of COVID-19. The results indicated that HWF
+reduces total and new confirmed cases of COVID-19; however, such effect is not
+robust to income and regional effects. Nonlinear analysis revealed that while
+GRSI has an inverted U-shaped relationship with total and new confirmed cases of 
+COVID-19, HWF has a U-shaped relationship.
+Conclusion: : We suggest that policymakers should focus on raising awareness and 
+full engagement of all members of society in implementing public health policies 
+rather than using stringent lockdown measures.
+
+© 2021 Fellowship of Postgraduate Medicine. Published by Elsevier Ltd. All rights
+reserved.
+
+DOI: 10.1016/j.hlpt.2021.100574 
+PMCID: PMC8574075
+PMID: 34786329 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

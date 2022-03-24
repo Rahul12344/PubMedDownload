@@ -1,0 +1,160 @@
+
+1. Can J Kidney Health Dis. 2021 Oct 30;8:20543581211052185. doi:
+10.1177/20543581211052185. eCollection 2021.
+
+Acute Kidney Injury and Renal Replacement Therapy in COVID-19 Versus Other
+Respiratory Viruses: A Systematic Review and Meta-Analysis.
+
+Cau A(1), Cheng MP(2), Lee T(3), Levin A(4), Lee TC(2), Vinh DC(2), Lamontagne
+F(5), Singer J(3), Walley KR(6), Murthy S(7), Patrick D(8), Rewa O(9), Winston
+B(10), Marshall J(11), Boyd J(6), Russell JA(6).
+
+Author information: 
+(1)The University of British Columbia, Vancouver, BC, Canada.
+(2)Department of Medicine, McGill University, Montreal, QC, Canada.
+(3)Centre for Health Evaluation & Outcomes Science, The University of British
+Columbia, Vancouver, BC, Canada.
+(4)Division of Nephrology, St. Paul's Hospital, Vancouver, BC, Canada.
+(5)University of Sherbrooke, QC, Canada.
+(6)Centre for Heart Lung Innovation, St. Paul's Hospital and The University of
+British Columbia, Vancouver, BC, Canada.
+(7)BC Children's Hospital, The University of British Columbia, Vancouver, BC,
+Canada.
+(8)British Columbia Centre for Disease Control and The University of British
+Columbia, Vancouver, BC, Canada.
+(9)University of Alberta, Edmonton, AB, Canada.
+(10)University of Calgary, Calgary, AB, Canada.
+(11)St. Michael's Hospital, University of Toronto, Toronto, ON, Canada.
+
+Background: Acute kidney injury (AKI) is a potentially fatal complication of
+Coronavirus Disease-2019 (COVID-19). Binding of the Severe Acute Respiratory
+Syndrome Coronavirus 2 (SARS-CoV-2), the virus responsible for COVID-19, to its
+viral receptor, angiotensin converting enzyme 2 (ACE2), results in viral entry
+and may cause AKI.
+Objectives: We performed a systematic review and meta-analysis of the frequencies
+of AKI and renal replacement therapy (RRT) in critically ill COVID-19 patients
+and compared those frequencies with patients who were infected by respiratory
+viruses that bind or downregulate ACE2 (ACE2-associated viruses) and viruses that
+do not bind nor downregulate ACE2 (non-ACE2-associated viruses).
+Design: Systematic review and meta-analysis.
+Setting: Observational studies on COVID-19 and other respiratory viral infections
+reporting AKI and RRT were included. The exclusion criteria were non-English
+articles, non-peer-reviewed articles, review articles, studies that included
+patients under the age of 18, studies including fewer than 10 patients, and
+studies not reporting AKI and RRT rates.
+Patients: Adult COVID-19, Severe Acute Respiratory Syndrome (SARS), Middle East
+Respiratory Syndrome (MERS), and influenza patients.
+Measurements: We extracted the following data from the included studies: author, 
+year, study location, age, sex, race, diabetes mellitus, hypertension, chronic
+kidney disease, shock, vasopressor use, mortality, intensive care unit (ICU)
+admission, ICU mortality, AKI, and RRT.
+Methods: We systematically searched PubMed and EMBASE for articles reporting AKI 
+or RRT. AKI was defined by authors of included studies. Critical illness was
+defined by ICU admission. We performed a random effects meta-analysis to
+calculate pooled estimates for the AKI and RRT rate within each virus group using
+a random intercept logistic regression model.
+Results: Of 23 655 hospitalized, critically ill COVID-19 patients, AKI
+frequencies were not significantly different between COVID-19 patients (51%, 95% 
+confidence interval [CI]: 44%-57%) and critically ill patients infected with
+ACE2-associated (56%, 95% CI: 37%-74%, P = .610) or non-ACE2-associated viruses
+(63%, 95% CI: 43%-79%, P = .255). Pooled RRT rates were also not significantly
+different between critically ill, hospitalized patients with COVID-19 (20%, 95%
+CI: 16%-24%) and ACE2-associated viruses (18%, 95% CI: 8%-33%, P = .747). RRT
+rates for both COVID-19 and ACE2-associated viruses were significantly different 
+(P < .001 for both) from non-ACE2-associated viruses (49%, 95% CI: 44%-54%).
+After adjusting for shock or vasopressor use, AKI and RRT rates were not
+significantly different between groups.
+Limitations: Limitations of this study include the heterogeneity of definitions
+of AKI that were used across different virus studies. We could not match severity
+of infection or do propensity matching across studies. Most of the included
+studies were conducted in retrospective fashion. Last, we did not include
+non-English publications.
+Conclusions: Our findings suggest that viral ACE2 association does not
+significantly alter the rates of AKI and RRT among critically ill patients
+admitted to the ICU. However, the rate of RRT is lower in patients with COVID-19 
+or ACE2-associated viruses when compared with patients infected with
+non-ACE2-binding viruses, which might partly be due to the lower frequencies of
+shock and use of vasopressors in these two virus groups. Prospective studies are 
+necessary to demonstrate whether modulation of the ACE2 axis with
+Renin-Angiotensin System inhibitors impacts the rates of AKI and whether they are
+beneficial or harmful in COVID-19 patients.
+
+Publisher: L’insuffisance rénale aiguë (IRA) est une complication potentiellement
+mortelle de la maladie à coronavirus-2019 (COVID-19). Obligatoire du Coronavirus 
+2 du Syndrome Respiratoire Aigu Sévère (SARS-CoV-2), le virus responsable du
+COVID-19, à son récepteur, l’enzyme de conversion de l’angiotensine 2 (ACE2),
+entraîne une entrée virale et peut provoquer une IRA.Nous avons effectué une
+revue systématique et une méta-analyse des fréquences de l’IRA et de la thérapie 
+de remplacement renal (RRT) chez les patients COVID-19 gravement malades et a
+comparé ces fréquences avec les patients qui ont été infectés par des voies
+respiratoires virus qui lient ou régulent négativement l’ACE2 (virus associés à
+l’ACE2) et les virus qui ne régulent pas négativement ni ne lient l’ACE2 (virus
+non associés à l’ACE2).Revue systématique et méta-analyse. Des études
+d’observation sur le COVID-19 et d’autres infections virales respiratoires
+signalant une AKI et une RRT ont été incluses. Les critères d’exclusion étaient
+des articles non anglophones, des articles non évalués par des pairs, des
+articles de revue, des études incluant des patients moins de 18 ans, les études
+incluant moins de 10 patients et les études ne rapportant pas les taux d’IRA et
+de RRT.Adultes COVID-19, syndrome respiratoire aigu sévère (SRAS), syndrome
+respiratoire du Moyen-Orient (MERS) et malades de la grippe.Nous avons extrait
+les données suivantes des études incluses : auteur, année, lieu de l’étude, âge, 
+sexe, race, diabète sucré, hypertension, maladie rénale chronique, état de choc, 
+utilisation de vasopresseurs, mortalité, admission en unité de soins intensifs
+(USI), Mortalité en soins intensifs, AKI et RRT.Nous avons systématiquement
+recherché dans PubMed et EMBASE les articles rapportant AKI ou RRT. AKI a été
+défini par les auteurs des études incluses. La maladie grave a été définie par
+l’admission aux soins intensifs. Nous avons effectué une méta-analyse à effets
+aléatoires pour calculer estimations regroupées pour le taux d’IRA et de RRT au
+sein de chaque groupe de virus à l’aide d’un modèle de régression logistique
+d’interception aléatoire.Sur 23 655 patients hospitalisés et gravement malades
+COVID-19, les fréquences AKI n’étaient pas significativement différentes entre
+patients COVID-19 (51 %, intervalle de confiance à 95 % [IC] : 44 %-57 %) et
+patients gravement malades infectés par l’ACE2 associé (56 %, IC à 95 % : 37 % à 
+74 %, P = 0,610) ou des virus non associés à l’ACE2 (63 %, IC à 95 % : 43 % à 79 
+%, P = 0,255). Tarifs RRT groupés n’étaient pas non plus significativement
+différents entre les patients hospitalisés gravement malades atteints de COVID-19
+(20 %, IC à 95 % : 16 % à 24 %) et virus associés à l’ACE2 (18 %, IC à 95 % : 8 %
+à 33 %, P = 0,747). Taux de RRT pour les virus associés au COVID-19 et à l’ACE2
+étaient significativement différents (P < 0,001 pour les deux) des virus non
+associés à l’ACE2 (49 %, IC à 95 % : 44 % à 54 %). Après ajustement pour le choc 
+ou l’utilisation de vasopresseurs, les taux d’IRA et de RRT n’étaient pas
+significativement différents entre les groupes.Les limites de cette étude
+incluent l’hétérogénéité des définitions de l’IRA qui ont été utilisées pour
+différents virus études. Nous n’avons pas pu faire correspondre la gravité de
+l’infection ou faire une correspondance de propension entre les études. La
+plupart des études incluses ont été menées de manière rétrospective. Enfin, nous 
+n’avons pas inclus les publications non anglophones.Nos résultats suggèrent que
+l’association virale ACE2 ne modifie pas de manière significative les taux d’IRA 
+et de RRT parmi les patients gravement malades admis aux soins intensifs.
+Cependant, le taux de RRT est plus faible chez les patients atteints de COVID-19 
+ou associés à l’ACE2 virus par rapport aux patients infectés par des virus ne se 
+liant pas à l’ACE2, ce qui pourrait être dû en partie à la plus faible fréquences
+de choc et utilisation de vasopresseurs dans ces deux groupes de virus. Des
+études prospectives sont nécessaires pour démontrer si la modulation de l’axe
+ACE2 avec les inhibiteurs du système rénine-angiotensine a un impact sur les taux
+d’IRA et si ells sont bénéfiques ou nocifs chez les patients COVID-19.
+© The Author(s) 2021.
+
+DOI: 10.1177/20543581211052185 
+PMCID: PMC8558598
+PMID: 34733538 
+
+Conflict of interest statement: Declaration of Conflicting Interests: The
+author(s) declared the following potential conflicts of interest with respect to 
+the research, authorship, and/or publication of this article: Dr Russell reports 
+patents owned by the University of British Columbia (UBC) that are related to the
+use of PCSK9 inhibitor(s) in sepsis and related to the use of vasopressin in
+septic shock. Dr Russell is an inventor on these patents. Dr Russell was a
+founder, Director, and shareholder in Cyon Therapeutics Inc and is a shareholder 
+in Molecular You Corp. Dr Russell reports receiving consulting fees in the last 3
+years from (1) Asahi Kesai Pharmaceuticals of America (AKPA) (was developing
+recombinant thrombomodulin in sepsis), (2) SIB Therapeutics LLC (developing a
+sepsis drug), and (3) Ferring Pharmaceuticals (manufactures vasopressin and
+developing selepressin). Dr Russell is no longer actively consulting for the
+following: (4) La Jolla Pharmaceuticals (developing angiotensin II; Dr Russell
+chaired the DSMB of a trial of angiotensin II from 2015 to 2017) and (5) PAR
+Pharma (sells prepared bags of vasopressin). Dr Russell reports having received
+an investigator-initiated grant from Grifols (entitled “Is HBP a mechanism of
+albumin’s efficacy in human septic shock?”) that was provided to and administered
+by UBC.
+

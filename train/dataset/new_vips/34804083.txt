@@ -1,0 +1,53 @@
+
+1. Front Plant Sci. 2021 Nov 5;12:726797. doi: 10.3389/fpls.2021.726797. eCollection
+2021.
+
+RhWRKY33 Positively Regulates Onset of Floral Senescence by Responding to
+Wounding- and Ethylene-Signaling in Rose Plants.
+
+Jing W(1)(2), Zhao Q(1)(2), Zhang S(1)(2), Zeng D(3), Xu J(3), Zhou H(4), Wang
+F(4), Liu Y(3), Li Y(1).
+
+Author information: 
+(1)School of Food and Drug, Shenzhen Polytechnic, Shenzhen, China.
+(2)Postdoctoral Innovation Practice Base, Shenzhen Polytechnic, Shenzhen, China.
+(3)School of Construction Engineering, Shenzhen Polytechnic, Shenzhen, China.
+(4)College of Horticulture and Landscape Architecture, Zhongkai University of
+Agriculture and Engineering, Guangzhou, China.
+
+Rose plants are one of the most important horticultural crops, whose commercial
+value mainly depends on long-distance transportation, and wounding and ethylene
+are the main factors leading to their quality decline and accelerated senescence 
+in the process. However, underlying molecular mechanisms of crosstalk between
+wounding and ethylene in the regulation of flower senescence remain poorly
+understood. In relation to this, transcriptome analysis was performed on rose
+flowers subjected to various treatments, including control, wounding, ethylene,
+and wounding- and ethylene- (EW) dual treatment. A large number of differentially
+expressed genes (DEGs) were identified, ranging from 2,442 between the ethylene- 
+and control-treated groups to 4,055 between the EW- and control-treated groups.
+Using weighted gene co-expression network analysis (WGCNA), we identified a hub
+gene RhWRKY33 (rchiobhmchr5g0071811), accumulated in the nucleus, where it may
+function as a transcription factor. Moreover, quantitative reverse transcription 
+PCR (RT-qPCR) results showed that the expression of RhWRKY33 was higher in the
+wounding-, ethylene, and EW-treated petals than in the control-treated petals. We
+also functionally characterized the RhWRKY33 gene through virus-induced gene
+silencing (VIGS). The silencing of RhWRKY33 significantly delayed the senescence 
+process in the different treatments (control, wounding, ethylene, and EW).
+Meanwhile, we found that the effect of RhWRKY33-silenced petals under ethylene
+and EW dual-treatment were stronger than those under wounding treatment in
+delaying the petal senescence process, implying that RhWRKY33 is closely involved
+with ethylene and wounding mediated petal senescence. Overall, the results
+indicate that RhWRKY33 positively regulates the onset of floral senescence
+mediated by both ethylene and wounding signaling, but relies heavily on ethylene 
+signaling.
+
+Copyright © 2021 Jing, Zhao, Zhang, Zeng, Xu, Zhou, Wang, Liu and Li.
+
+DOI: 10.3389/fpls.2021.726797 
+PMCID: PMC8602865
+PMID: 34804083 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

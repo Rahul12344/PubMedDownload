@@ -1,0 +1,52 @@
+
+1. BMC Genomics. 2017 Jan 13;18(1):77. doi: 10.1186/s12864-016-3413-8.
+
+Cecal MicroRNAome response to Salmonella enterica serovar Enteritidis infection
+in White Leghorn Layer.
+
+Wu G(1), Qi Y(1), Liu X(1), Yang N(2), Xu G(2), Liu L(3), Li X(4)(5).
+
+Author information: 
+(1)College of Animal Science and Technology, Shandong Agricultural University,
+Tai'an, Shandong, 271018, China.
+(2)College of Animal Science and Technology, China Agricultural University,
+Beijing, 100193, China.
+(3)College of Life Science, Shandong Agricultural University, Tai'an, Shandong,
+271018, China. lyliu@sdau.edu.cn.
+(4)College of Animal Science and Technology, Shandong Agricultural University,
+Tai'an, Shandong, 271018, China. xyli@sdau.edu.cn.
+(5)Shandong Provincial Key Laboratory of Animal Biotechnology and Disease Control
+and Prevention, Tai'an, Shandong, 271018, China. xyli@sdau.edu.cn.
+
+BACKGROUND: Salmonella enterica serovar Enteritidis (SE) is a food-borne pathogen
+and of great threat to human health through consuming the contaminated poultry
+products. MicroRNAs (miRNAs) play an important role in different biological
+activities and have been shown to regulate the innate immunity in the bacterial
+infection. The objective of this study is to identify miRNAs associated with SE
+infection in laying chicken cecum.
+RESULTS: Average number of reads of three libraries constructed from infected and
+non-infected chickens was 12,476,156 and 10,866,976, respectively. There were 598
+miRNAs including 194 potential novel miRNAs identified in which 37 miRNAs were
+significantly differentially expressed between infected and non-infected
+chickens. In total, 2897 unique target genes regulated by differentially
+expressed miRNAs were predicted, in which, 841 genes were uniquely regulated by
+up-regulated miRNAs (G1), 636 genes were uniquely regulated by down-regulated
+miRNAs (G2), and 1420 were co-regulated by both up and down- regulated miRNAs
+(G3). There were 118, 73 and 178 GO (Gene ontology) BP (Biological process) terms
+significantly enriched in G1, G2 and G3 groups, respectively. More immune-related
+GO BP terms than metabolism-related terms were found in G1. Expression of 12
+immune-related genes of four differentially expressed miRNAs was detected through
+qRT-PCR. The regulatory direction of gga-miR-1416-5p, gga-miR-1662, and
+gga-miR-34a-5p were opposite with the target genes of TLR21, BCL10, TLR1LA,
+NOTCH2 and THBS1, respectively.
+CONCLUSION: The miRNAs contribute to the response to SE infection at the onset of
+egg laying through regulating the homeostasis between metabolism and immunity.
+The gga-miR-125b-5p, gga-miR-34a-5p, gga-miR-1416-5p and gga-miR-1662 could play 
+an important role in SE infection through regulating their target genes. The
+finding herein will pave the foundation for the studies of microRNA regulation in
+SE infection in laying hens.
+
+DOI: 10.1186/s12864-016-3413-8 
+PMCID: PMC5237128
+PMID: 28086873  [Indexed for MEDLINE]
+

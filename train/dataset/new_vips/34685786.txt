@@ -1,0 +1,46 @@
+
+1. Plants (Basel). 2021 Sep 22;10(10). pii: 1977. doi: 10.3390/plants10101977.
+
+Analysis of New RGB Vegetation Indices for PHYVV and TMV Identification in
+Jalapeño Pepper (Capsicum annuum) Leaves Using CNNs-Based Model.
+
+Yee-Rendon A(1), Torres-Pacheco I(2), Trujillo-Lopez AS(1), Romero-Bringas KP(1),
+Millan-Almaraz JR(3).
+
+Author information: 
+(1)Facultad de Informática Culiacán, Universidad Autónoma de Sinaloa, Culiacán
+80013, Mexico.
+(2)Facultad de Ingeniería, Universidad Autónoma de Querétaro, Santiago de
+Querétaro 76010, Mexico.
+(3)Facultad de Ciencias Físico Matemáticas, Universidad Autónoma de Sinaloa,
+Culiacán 80010, Mexico.
+
+Recently, deep-learning techniques have become the foundations for many
+breakthroughs in the automated identification of plant diseases. In the
+agricultural sector, many recent visual-computer approaches use deep-learning
+models. In this approach, a novel predictive analytics methodology to identify
+Tobacco Mosaic Virus (TMV) and Pepper Huasteco Yellow Vein Virus (PHYVV) visual
+symptoms on Jalapeño pepper (Capsicum annuum L.) leaves by using image-processing
+and deep-learning classification models is presented. The proposed
+image-processing approach is based on the utilization of Normalized Red-Blue
+Vegetation Index (NRBVI) and Normalized Green-Blue Vegetation Index (NGBVI) as
+new RGB-based vegetation indices, and its subsequent Jet pallet colored version
+NRBVI-Jet NGBVI-Jet as pre-processing algorithms. Furthermore, four standard
+pre-trained deep-learning architectures, Visual Geometry Group-16 (VGG-16),
+Xception, Inception v3, and MobileNet v2, were implemented for classification
+purposes. The objective of this methodology was to find the most accurate
+combination of vegetation index pre-processing algorithms and pre-trained deep-
+learning classification models. Transfer learning was applied to fine tune the
+pre-trained deep- learning models and data augmentation was also applied to
+prevent the models from overfitting. The performance of the models was evaluated 
+using Top-1 accuracy, precision, recall, and F1-score using test data. The
+results showed that the best model was an Xception-based model that uses the
+NGBVI dataset. This model reached an average Top-1 test accuracy of 98.3%. A
+complete analysis of the different vegetation index representations using models 
+based on deep-learning architectures is presented along with the study of the
+learning curves of these deep-learning models during the training phase.
+
+DOI: 10.3390/plants10101977 
+PMCID: PMC8540942
+PMID: 34685786 
+

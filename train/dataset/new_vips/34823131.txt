@@ -1,0 +1,43 @@
+
+1. Soc Sci Med. 2021 Nov 12;292:114538. doi: 10.1016/j.socscimed.2021.114538. [Epub 
+ahead of print]
+
+COVID-19: Early evening curfews and mobility.
+
+Velias A(1), Georganas S(1), Vandoros S(2).
+
+Author information: 
+(1)City, University of London, Northampton Square, EC1V 0HB, London, United
+Kingdom.
+(2)King's College London, 30 Aldwych, London, WC2B 4BG, United Kingdom; Harvard
+T.H. Chan School of Public Health, 677 Huntington Avenue, Boston, MA, 02115, USA.
+Electronic address: vandoros@hsph.harvard.edu.
+
+During the COVID-19 pandemic, some countries introduced early evening curfews.
+Several studies try to measure the effectiveness of such measures across
+different countries, but disentangling competing effects can be elusive. We
+examined the impact of an early evening curfew on mobility by studying a shift in
+curfews from 9pm to 6pm in Greece using Google mobility data. We followed a
+difference-in-differences (DiD) econometric approach, where we compared trends in
+mobility in residential spaces as well as groceries and pharmacies, before and
+after the introduction of the 6pm curfew in Attica with trends in three other
+comparable Regions. We found little or no evidence of an effect of the early
+curfew on daily mobility relating to groceries and pharmacies, and that an 18.75%
+reduction in hours where people were allowed to leave home led to a relatively
+small increase in time spent in residential spaces. This less-than-proportionate 
+reduction in mobility outside the household suggests a possibility that the
+curfew led to more people coinciding in indoor public spaces, such as grocery
+shops - which constitutes a contagion risk factor. Results should be treated with
+caution, especially with regards to the magnitude of any effect, as Google
+mobility data do not report the time of the day, so the time density of
+activities cannot be estimated. Lockdowns and other measures are necessary to
+tackle Covid-19, but it is important to avoid substitution by activities that
+contribute further to spreading the virus. Interventions should therefore be
+based on a thorough analysis of human behaviour.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.socscimed.2021.114538 
+PMCID: PMC8588835
+PMID: 34823131 
+

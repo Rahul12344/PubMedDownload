@@ -1,0 +1,30 @@
+
+1. J Bacteriol. 2001 Feb;183(3):921-7.
+
+Lowering S-adenosylmethionine levels in Escherichia coli modulates C-to-T
+transition mutations.
+
+Macintyre G(1), Atwood CV, Cupples CG.
+
+Author information: 
+(1)Biology Department, Concordia University, Montreal, Quebec H3G 1M8, Canada.
+ginmac@vax2.concorndia.ca
+
+Deoxycytosine methylase (Dcm) enzyme activity causes mutagenesis in vitro either 
+directly by enzyme-induced deamination of cytosine to uracil in the absence of
+the methyl donor, S-adenosylmethionine (SAM), or indirectly through spontaneous
+deamination of [5-methyl]cytosine to thymine. Using a Lac reversion assay, we
+investigated the contribution of the first mechanism to Dcm mutagenesis in vivo
+by lowering the levels of SAM. Escherichia coli SAM levels were lowered by
+reducing SAM synthetase activity via the introduction of a metK84 allele or by
+hydrolyzing SAM using the bacteriophage T3 SAM hydrolase. The metK84 strains
+exhibited increased C-to-T mutagenesis. Expression of the T3 SAM hydrolase gene, 
+under the control of the arabinose-inducible P(BAD) promoter, effectively reduced
+Dcm-mediated genomic DNA methylation. However, increased mutagenesis was not
+observed until extremely high arabinose concentrations were used, and genome
+methylation at Dcm sites was negligible.
+
+DOI: 10.1128/JB.183.3.921-927.2001 
+PMCID: PMC94959
+PMID: 11208790  [Indexed for MEDLINE]
+

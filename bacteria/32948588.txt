@@ -1,0 +1,41 @@
+
+1. Sci Adv. 2020 Sep 18;6(38). pii: eabb8783. doi: 10.1126/sciadv.abb8783. Print
+2020 Sep.
+
+RELATe enables genome-scale engineering in fungal genomics.
+
+Li Z(1), Kim KS(2)(3).
+
+Author information: 
+(1)Division of Pediatric Infectious Diseases, School of Medicine, Johns Hopkins
+University, Baltimore, MD 21287, USA.
+(2)Division of Pediatric Infectious Diseases, School of Medicine, Johns Hopkins
+University, Baltimore, MD 21287, USA. kwangkim@jhmi.edu.
+(3)Department of Molecular Microbiology and Immunology, Bloomberg School of
+Public Health, Johns Hopkins University, Baltimore, MD 21205, USA.
+
+CRISPR-Cas9-based screening with single-guide RNA (sgRNA) libraries has emerged
+as a revolutionary tool for comprehensive analysis of genetic elements. However, 
+genome-scale sgRNA libraries are currently available only in a few model
+organisms. The traditional approach is to synthesize thousands to tens of
+thousands of sgRNAs, which is laborious and expensive. We have developed a simple
+method, RELATe (restriction/ligation coupled with Agrobacterium-mediated
+transformation), to generate sgRNA libraries from 10 μg of genomic DNA, targeting
+over 98% of the protein-coding genes in the human fungal pathogen Cryptococcus
+neoformans Functional screens identified 142 potential C. neoformans genes
+contributing to blood-brain barrier penetration. We selected two cryptococcal
+genes, SFP1 and WDR1, for a proof-of-concept demonstration that RELATe-identified
+genes are relevant to C. neoformans central nervous system infection. Our RELATe 
+method can be used in many other fungal species and is powerful and
+cost-effective for genome-wide high-throughput screening for elucidating
+functional genomics.
+
+Copyright © 2020 The Authors, some rights reserved; exclusive licensee American
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works. Distributed under a Creative Commons Attribution NonCommercial License 4.0
+(CC BY-NC).
+
+DOI: 10.1126/sciadv.abb8783 
+PMCID: PMC7500931
+PMID: 32948588 
+

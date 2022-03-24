@@ -1,0 +1,56 @@
+
+1. BMC Genet. 2020 Jun 3;21(1):58. doi: 10.1186/s12863-020-00862-2.
+
+RNA-seq reveals downregulated osteochondral genes potentially related to tibia
+bacterial chondronecrosis with osteomyelitis in broilers.
+
+de Oliveira HC(1), Ibelli AMG(2)(3), Guimarães SEF(1), Cantão ME(2), Peixoto
+JO(2)(3), Coutinho LL(4), Ledur MC(5)(6).
+
+Author information: 
+(1)Universidade Federal de Viçosa, Viçosa, Minas Gerais, Brazil.
+(2)Embrapa Suínos e Aves, Rodovia BR-153, Km 110, Distrito de Tamanduá, Caixa
+Postal: 321, Concórdia, Santa Catarina, 89715-899, Brazil.
+(3)Programa de Pós-Graduação em Ciências Veterinárias, Universidade Estadual do
+Centro-Oeste, Guarapuava, Paraná, Brazil.
+(4)Universidade de São Paulo, Piracicaba, SP, Brazil.
+(5)Embrapa Suínos e Aves, Rodovia BR-153, Km 110, Distrito de Tamanduá, Caixa
+Postal: 321, Concórdia, Santa Catarina, 89715-899, Brazil.
+monica.ledur@embrapa.br.
+(6)Programa de Pós-Graduação em Zootecnia, UDESC-Oeste, Chapecó, SC, Brazil.
+monica.ledur@embrapa.br.
+
+BACKGROUND: Bacterial chondronecrosis with osteomyelitis (BCO) develops in the
+growth plate (GP) of the proximal femur and tibia and is initiated by damage to
+the less mineralized chondrocytes followed by colonization of opportunistic
+bacteria. This condition affects approximately 1% of all birds housed, being
+considered one of the major causes of lameness in fast growing broilers. Although
+several studies have been previously performed aiming to understand its
+pathogenesis, the molecular mechanisms involved with BCO remains to be
+elucidated. Therefore, this study aimed to generate a profile of global
+differential gene expression involved with BCO in the tibia of commercial
+broilers, through RNA sequencing analysis to identity genes and molecular
+pathways involved with BCO in chickens.
+RESULTS: Our data showed 192 differentially expressed (DE) genes: 63 upregulated 
+and 129 downregulated in the GP of the tibia proximal epiphysis of BCO-affected
+broilers. Using all DE genes, six Biological Processes (BP) were associated with 
+bone development (connective tissue development, cartilage development, skeletal 
+system development, organ morphogenesis, system development and skeletal system
+morphogenesis). The analyses of the upregulated genes did not indicate any
+significant BP (FDR < 0.05). However, with the downregulated genes, the same BP
+were identified when using all DE genes in the analysis, with a total of 26
+coding genes explaining BCO in the tibia: ACAN, ALDH1A2, CDH7, CHAD, CHADL,
+COL11A1, COMP, CSGALNACT1, CYR61, FRZB, GAL3ST1, HAPLN1, IHH, KIF26B, LECT1,
+LPPR1, PDE6B, RBP4A, SERINC5, SFRP1, SOX8, SOX9, TENM2, THBS1, UCHL1 and WFIKKN2.
+In addition, seven transcription factors were also associated to BCO: NFATC2,
+MAFB, HIF1A-ARNT, EWSR1-FLI1, NFIC, TCF3 and NF-KAPPAB.
+CONCLUSIONS: Our data show that osteochondral downregulated genes are potential
+molecular causes of BCO in broilers, and the bacterial process seems to be, in
+fact, a secondary condition. Sixteen genes responsible for bone and cartilage
+formation were downregulated in BCO-affected broilers being strong candidate
+genes to trigger this disorder.
+
+DOI: 10.1186/s12863-020-00862-2 
+PMCID: PMC7271470
+PMID: 32493207  [Indexed for MEDLINE]
+

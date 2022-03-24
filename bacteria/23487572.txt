@@ -1,0 +1,43 @@
+
+1. Front Genet. 2013 Mar 12;4:28. doi: 10.3389/fgene.2013.00028. eCollection 2013.
+
+Maximal information component analysis: a novel non-linear network analysis
+method.
+
+Rau CD(1), Wisniewski N, Orozco LD, Bennett B, Weiss J, Lusis AJ.
+
+Author information: 
+(1)Division of Cardiology, Department of Medicine, David Geffen School of
+Medicine, University of California Los Angeles, CA, USA ; Department of
+Microbiology, Immunology and Molecular Genetics, University of California Los
+Angeles, CA, USA.
+
+BACKGROUND: Network construction and analysis algorithms provide scientists with 
+the ability to sift through high-throughput biological outputs, such as
+transcription microarrays, for small groups of genes (modules) that are relevant 
+for further research. Most of these algorithms ignore the important role of
+non-linear interactions in the data, and the ability for genes to operate in
+multiple functional groups at once, despite clear evidence for both of these
+phenomena in observed biological systems.
+RESULTS: We have created a novel co-expression network analysis algorithm that
+incorporates both of these principles by combining the information-theoretic
+association measure of the maximal information coefficient (MIC) with an
+Interaction Component Model. We evaluate the performance of this approach on two 
+datasets collected from a large panel of mice, one from macrophages and the other
+from liver by comparing the two measures based on a measure of module entropy,
+Gene Ontology (GO) enrichment, and scale-free topology (SFT) fit. Our algorithm
+outperforms a widely used co-expression analysis method, weighted gene
+co-expression network analysis (WGCNA), in the macrophage data, while returning
+comparable results in the liver dataset when using these criteria. We demonstrate
+that the macrophage data has more non-linear interactions than the liver dataset,
+which may explain the increased performance of our method, termed Maximal
+Information Component Analysis (MICA) in that case.
+CONCLUSIONS: In making our network algorithm more accurately reflect known
+biological principles, we are able to generate modules with improved relevance,
+particularly in networks with confounding factors such as gene by environment
+interactions.
+
+DOI: 10.3389/fgene.2013.00028 
+PMCID: PMC3594742
+PMID: 23487572 
+

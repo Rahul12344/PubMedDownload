@@ -1,0 +1,45 @@
+
+1. Bull Math Biol. 2021 Nov 30;84(1):11. doi: 10.1007/s11538-021-00971-8.
+
+Dynamical Differences in Respiratory Syncytial Virus.
+
+Heumann R(1), Duncan C(2), Stobart CC(2), Kaschner S(3).
+
+Author information: 
+(1)Department of Mathematics, Statistics, and Actuarial Science, Butler
+University, 4600 Sunset Ave, Indianapolis, IN, 46208, USA.
+(2)Department of Biological Sciences, Butler University, 4600 Sunset Ave,
+Indianapolis, IN, 46208, USA.
+(3)Department of Mathematics, Statistics, and Actuarial Science, Butler
+University, 4600 Sunset Ave, Indianapolis, IN, 46208, USA. skaschne@butler.edu.
+
+Respiratory syncytial virus (RSV) is a leading viral cause of pediatric
+respiratory infections and early infant mortality. Despite extensive development 
+efforts currently underway, there remain no vaccines available for the prevention
+of RSV. RSV is an enveloped, negative-strand RNA virus that utilizes two
+different proteins (G and F) to mediate attachment and entry into host cells.
+These G and F proteins are the primary determinants of viral strain-specific
+differences and elicit protective neutralizing antibodies during natural
+infection in humans. Earlier studies have demonstrated that these proteins play
+an additional role in regulating the stability of RSV particles in response to
+temperature and pH. However, it remains unclear how much variability exists in
+the stability of RSV strains and what contribution changes in temperature and pH 
+make to the clearance of virus during an active infection. In this study, we
+evaluated the impacts of changes in temperature and pH on the inactivation of
+four different chimeric recombinant RSV strains that differ exclusively in G and 
+F protein expression. Using these data, we developed predictive mathematical
+models to examine the specific contributions and variations in susceptibility
+that exist between viral strains. Our data provide strain-specific clearance
+rates and temperature-pH landscapes that shed light on the optimal contributions 
+of temperature and pH to viral clearance. These provide new insight into how much
+variation exists in the clearance of a major respiratory pathogen and may offer
+new guidance on optimization of viral strains for development of live-attenuated 
+vaccine preparations.
+
+© 2021. The Author(s), under exclusive licence to Society for Mathematical
+Biology.
+
+DOI: 10.1007/s11538-021-00971-8 
+PMCID: PMC8631269
+PMID: 34850293 
+

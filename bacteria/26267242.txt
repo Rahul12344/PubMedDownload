@@ -1,0 +1,46 @@
+
+1. PLoS One. 2015 Aug 12;10(8):e0135293. doi: 10.1371/journal.pone.0135293.
+eCollection 2015.
+
+Novel Penicillin Analogues as Potential Antimicrobial Agents; Design, Synthesis
+and Docking Studies.
+
+Ashraf Z(1), Bais A(2), Manir MM(3), Niazi U(4).
+
+Author information: 
+(1)Department of Chemistry, Allama Iqbal Open University, H-8, Islamabad,
+Pakistan; Department of Biology, College of Natural Sciences, Kongju National
+University, Kongju, South Korea.
+(2)Department of Chemistry, Allama Iqbal Open University, H-8, Islamabad,
+Pakistan.
+(3)Department of Chemistry, Kongju National University, Gongju, Republic of
+Korea.
+(4)Atta ur Rehman School of Modeling and Simulation, National University of
+Science and Technology, Islamabad, Pakistan.
+
+A number of penicillin derivatives (4a-h) were synthesized by the condensation of
+6-amino penicillinic acid (6-APA) with non-steroidal anti-inflammatory drugs as
+antimicrobial agents. In silico docking study of these analogues was performed
+against Penicillin Binding Protein (PDBID 1CEF) using AutoDock Tools 1.5.6 in
+order to investigate the antimicrobial data on structural basis. Penicillin
+binding proteins function as either transpeptidases or carboxypeptidases and in
+few cases demonstrate transglycosylase activity in bacteria. The excellent
+antibacterial potential was depicted by compounds 4c and 4e against Escherichia
+coli, Staphylococcus epidermidus and Staphylococcus aureus compared to the
+standard amoxicillin. The most potent penicillin derivative 4e exhibited same
+activity as standard amoxicillin against S. aureus. In the enzyme inhibitory
+assay the compound 4e inhibited E. coli MurC with an IC50 value of 12.5 μM. The
+docking scores of these compounds 4c and 4e also verified their greater
+antibacterial potential. The results verified the importance of side chain
+functionalities along with the presence of central penam nucleus. The binding
+affinities calculated from docking results expressed in the form of binding
+energies ranges from -7.8 to -9.2kcal/mol. The carboxylic group of penam nucleus 
+in all these compounds is responsible for strong binding with receptor protein
+with the bond length ranges from 3.4 to 4.4 Ǻ. The results of present work ratify
+that derivatives 4c and 4e may serve as a structural template for the design and 
+development of potent antimicrobial agents.
+
+DOI: 10.1371/journal.pone.0135293 
+PMCID: PMC4534092
+PMID: 26267242  [Indexed for MEDLINE]
+

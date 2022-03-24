@@ -1,0 +1,43 @@
+
+1. Infect Immun. 2008 Dec;76(12):5745-53. doi: 10.1128/IAI.00897-08. Epub 2008 Sep
+22.
+
+Immunogenicity of recombinant attenuated Salmonella enterica serovar Typhimurium 
+vaccine strains carrying a gene that encodes Eimeria tenella antigen SO7.
+
+Konjufca V(1), Jenkins M, Wang S, Juarez-Rodriguez MD, Curtiss R 3rd.
+
+Author information: 
+(1)Biodesign Institute, Center for Infectious Diseases and Vaccinology, School of
+Life Sciences, Arizona State University, Tempe, Arizona 85287, USA.
+vkonjufca@pathology.wustl.edu
+
+Recombinant attenuated Salmonella vaccines against avian coccidiosis were
+developed to deliver Eimeria species antigens to the lymphoid tissues of chickens
+via the type 3 secretion system (T3SS) and the type 2 secretion system (T2SS) of 
+Salmonella. For antigen delivery via the T3SS, the Eimeria tenella gene encoding 
+sporozoite antigen SO7 was cloned downstream of the translocation domain of the
+Salmonella enterica serovar Typhimurium sopE gene in the parental pYA3868 and
+pYA3870 vectors to generate pYA4156 and pYA4157. Newly constructed T3SS vectors
+were introduced into host strain chi8879 (Delta phoP233 Delta sptP1033::xylE
+Delta asdA16), an attenuated derivative of the highly virulent UK-1 strain. The
+SopE-SO7 fusion protein was secreted by the T3SS of Salmonella. The vector
+pYA4184 was constructed for delivery of the SO7 antigen via the T2SS. The SO7
+protein was toxic to Salmonella when larger amounts were synthesized; thus, the
+synthesis of this protein was placed under the control of the lacI repressor
+gene, whose expression in turn was dependent on the amount of available arabinose
+in the medium. The pYA4184 vector was introduced into host strain chi9242 (Delta 
+phoP233 Delta asdA16 Delta araBAD23 Delta relA198::araC P(BAD) lacI TT [TT is the
+T4ipIII transcription terminator]). In addition to SO7, for immunization and
+challenge studies we used the EAMZ250 antigen of Eimeria acervulina, which was
+previously shown to confer partial protection against E. acervulina challenge
+when it was delivered via the T3SS. Immunization of chickens with a combination
+of the SO7 and EAMZ250 antigens delivered via the T3SS induced superior
+protection against challenge by E. acervulina. In contrast, chickens immunized
+with SO7 that was delivered via the T2SS of Salmonella were better protected from
+challenge by E. tenella.
+
+DOI: 10.1128/IAI.00897-08 
+PMCID: PMC2583560
+PMID: 18809658  [Indexed for MEDLINE]
+

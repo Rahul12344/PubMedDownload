@@ -1,0 +1,56 @@
+
+1. BMC Genomics. 2021 Dec 7;22(1):884. doi: 10.1186/s12864-021-08194-w.
+
+Th17 cell differentiation induced by cytopathogenic biotype BVDV-2 in bovine
+PBLCs.
+
+Li Y(1), Liu T(1), Chen G(1), Wang L(1), Guo A(1), Li Z(1), Pan L(1), Mao L(2),
+Luo X(3).
+
+Author information: 
+(1)State Key Laboratory of Veterinary Etiological Biology, Key Laboratory of
+Veterinary Parasitology of Gansu Province, Lanzhou Veterinary Research Institute,
+CAAS, Lanzhou, 730046, China.
+(2)Institute of Veterinary Medicine, Jiangsu Academy of Agricultural Sciences,
+Key Laboratory of Veterinary Biological Engineering and Technology, Ministry of
+Agriculture, National Center for Engineering Research of Veterinary Bio-products,
+Nanjing, 210014, China. mao-li@live.cn.
+(3)State Key Laboratory of Veterinary Etiological Biology, Key Laboratory of
+Veterinary Parasitology of Gansu Province, Lanzhou Veterinary Research Institute,
+CAAS, Lanzhou, 730046, China. luoxuenong@caas.cn.
+
+BACKGROUND: Bovine viral diarrhea virus (BVDV) is a major pathogen that causes
+bovine viral diarrhea/mucosal disease (BVD-MD), which has become a global
+infectious disease due to its wide spread and the lack of effective treatment.
+The process of BVDV infection is complex. Once infected, host immune cells are
+activated and modulated. As a major immune cell, peripheral blood lymphocyte
+cells (PBLCs) are the primary target of BVDV. In order to further understand the 
+mechanism of BVDV- host interaction, the expression profiles of host lymphocytes 
+mRNAs associated with BVDV infection were investigated by transcriptomic
+sequencing analysis.
+RESULTS: The transcriptomic sequencing analysis was performed on bovine PBLCs
+infected with CP BVDV-2 GS2018 after 12 h of infection. Gene expression profiling
+demonstrated that 1052 genes were differentially expressed in GS2018 infected
+PBLCs compared with the control group. Of these genes, 485 genes were
+up-regulated and 567 were down-regulated. The 19 differential expressed genes
+(DEGs) were selected for validation using quantitative real-time PCR and the
+results were consistent with the results of RNA-Seq. Gene ontology enrichment and
+KEGG pathway analysis showed that 1052 DEGs were significantly enriched in 16
+pathways, including cytokine-cytokine receptor interaction, IL17, PI3K-Akt, MAPK 
+and TNF signaling pathway. PPI network analysis showed that IL17A, IFN-γ and
+TNF-α interacted with various proteins and may play crucial roles in BVDV-2
+infection. Of note, we confirmed that GS2018 induced Th17 cell differentiation in
+PBLCs and persistently increased the expression levels of IL17A. In turn, the
+replication of GS2018 was inhibited by IL17A.
+CONCLUSION: In this study, the transcription changes of DEGs related to host
+immune responses in bovine PBLCs were caused by CP BVDV-2 infection. In
+particular, the effector molecules IL17A of Th17 cells were significantly
+up-regulated, which inhibited viral replication. These results will contribute to
+exploration and further understanding of the host immune response mechanism and
+interaction between host and BVDV-2.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12864-021-08194-w 
+PMID: 34872498 
+

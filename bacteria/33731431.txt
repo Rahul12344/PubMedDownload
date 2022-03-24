@@ -1,0 +1,63 @@
+
+1. Sci Transl Med. 2021 Mar 17;13(585). pii: eaaz0316. doi:
+10.1126/scitranslmed.aaz0316.
+
+RNA-seq of human T cells after hematopoietic stem cell transplantation identifies
+Linc00402 as a regulator of T cell alloimmunity.
+
+Peltier D(1), Radosevich M(1), Ravikumar V(2), Pitchiaya S(3), Decoville T(1),
+Wood SC(4), Hou G(5), Zajac C(5), Oravecz-Wilson K(5), Sokol D(5), Henig I(5), Wu
+J(5), Kim S(5), Taylor A(5), Fujiwara H(5), Sun Y(5), Rao A(2), Chinnaiyan AM(6),
+Goldstein DR(7), Reddy P(8).
+
+Author information: 
+(1)Division of Hematology and Oncology, Department of Pediatrics, University of
+Michigan, Ann Arbor, MI 48109, USA.
+(2)Departments of Computational Medicine and Bioinformatics, Biostatistics,
+Radiation Oncology, and Biomedical Engineering, University of Michigan, Ann
+Arbor, MI 48109, USA.
+(3)Michigan Center for Translational Pathology, University of Michigan, Ann
+Arbor, MI 48109, USA.
+(4)Department of Internal Medicine, University of Michigan, Ann Arbor, MI 48109, 
+USA.
+(5)Division of Hematology and Oncology, Department of Internal Medicine,
+University of Michigan Rogel Cancer Center, Ann Arbor, MI 48109, USA.
+(6)Department of Pathology, Michigan Center for Translational Pathology, Howard
+Hughes Medical Institute, University of Michigan, Ann Arbor, MI 48109, USA.
+(7)Department of Internal Medicine, Institute of Gerontology, and Department of
+Microbiology and Immunology, Program of Michigan Biology of Cardiovascular Aging,
+University of Michigan, Ann Arbor, MI 48109, USA.
+(8)Division of Hematology and Oncology, Department of Internal Medicine,
+University of Michigan Rogel Cancer Center, Ann Arbor, MI 48109, USA.
+reddypr@umich.edu.
+
+Mechanisms governing allogeneic T cell responses after solid organ and allogeneic
+hematopoietic stem cell transplantation (HSCT) are incompletely understood. To
+identify lncRNAs that regulate human donor T cells after clinical HSCT, we
+performed RNA sequencing on T cells from healthy individuals and donor T cells
+from three different groups of HSCT recipients that differed in their degree of
+major histocompatibility complex (MHC) mismatch. We found that lncRNA
+differential expression was greatest in T cells after MHC-mismatched HSCT
+relative to T cells after either MHC-matched or autologous HSCT. Differential
+expression was validated in an independent patient cohort and in mixed lymphocyte
+reactions using ex vivo healthy human T cells. We identified Linc00402, an
+uncharacterized lncRNA, among the lncRNAs differentially expressed between the
+mismatched unrelated and matched unrelated donor T cells. We found that Linc00402
+was conserved and exhibited an 88-fold increase in human T cells relative to all 
+other samples in the FANTOM5 database. Linc00402 was also increased in donor T
+cells from patients who underwent allogeneic cardiac transplantation and in
+murine T cells. Linc00402 was reduced in patients who subsequently developed
+acute graft-versus-host disease. Linc00402 enhanced the activity of ERK1 and
+ERK2, increased FOS nuclear accumulation, and augmented expression of
+interleukin-2 and Egr-1 after T cell receptor engagement. Functionally, Linc00402
+augmented the T cell proliferative response to an allogeneic stimulus but not to 
+a nominal ovalbumin peptide antigen or polyclonal anti-CD3/CD28 stimulus. Thus,
+our studies identified Linc00402 as a regulator of allogeneic T cell function.
+
+Copyright © 2021 The Authors, some rights reserved; exclusive licensee American
+Association for the Advancement of Science. No claim to original U.S. Government 
+Works.
+
+DOI: 10.1126/scitranslmed.aaz0316 
+PMID: 33731431 
+

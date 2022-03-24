@@ -1,0 +1,48 @@
+
+1. PLoS One. 2021 Nov 23;16(11):e0260038. doi: 10.1371/journal.pone.0260038.
+eCollection 2021.
+
+Modeling SARS-CoV-2 propagation using rat coronavirus-associated shedding and
+transmission.
+
+Zeiss CJ(1), Asher JL(1), Vander Wyk B(2), Allore HG(2)(3), Compton SR(1).
+
+Author information: 
+(1)Department of Comparative Medicine, Yale School of Medicine, New Haven, CT,
+United States of America.
+(2)Department of Internal Medicine, Yale School of Medicine, New Haven, CT,
+United States of America.
+(3)Department of Biostatistics, Yale School of Public Health, New Haven, CT,
+United States of America.
+
+At present, global immunity to SARS-CoV-2 resides within a heterogeneous
+combination of susceptible, naturally infected and vaccinated individuals. The
+extent to which viral shedding and transmission occurs on re-exposure to
+SARS-CoV-2 is an important determinant of the rate at which COVID-19 achieves
+endemic stability. We used Sialodacryoadenitis Virus (SDAV) in rats to model the 
+extent to which immune protection afforded by prior natural infection via high
+risk (inoculation; direct contact) or low risk (fomite) exposure, or by
+vaccination, influenced viral shedding and transmission on re-exposure. On
+initial infection, we confirmed that amount, duration and consistency of viral
+shedding, and seroconversion rates were correlated with exposure risk. Animals
+were reinfected after 3.7-5.5 months using the same exposure paradigm. 59% of
+seropositive animals shed virus, although at lower amounts. Previously exposed
+seropositive reinfected animals were able to transmit virus to 25% of naive
+recipient rats after 24-hour exposure by direct contact. Rats vaccinated
+intranasally with a related virus (Parker's Rat Coronavirus) were able to
+transmit SDAV to only 4.7% of naive animals after a 7-day direct contact
+exposure, despite comparable viral shedding. Cycle threshold values associated
+with transmission in both groups ranged from 29-36 cycles. Observed shedding was 
+not a prerequisite for transmission. Results indicate that low-level shedding in 
+both naturally infected and vaccinated seropositive animals can propagate
+infection in susceptible individuals. Extrapolated to COVID-19, our results
+suggest that continued propagation of SARS-CoV-2 by seropositive previously
+infected or vaccinated individuals is possible.
+
+DOI: 10.1371/journal.pone.0260038 
+PMCID: PMC8610237
+PMID: 34813610 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

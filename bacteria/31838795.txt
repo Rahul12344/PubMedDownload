@@ -1,0 +1,35 @@
+
+1. J Microbiol Biotechnol. 2020 Feb 28;30(2):216-225. doi: 10.4014/jmb.1907.07057.
+
+Characterization of Novel Salt-Tolerant Esterase Isolated from the Marine
+Bacterium Alteromonas sp. 39-G1.
+
+Won SJ(1), Jeong HB(1), Kim HK(1).
+
+Author information: 
+(1)Department of Biotechnology, The Catholic University of Korea, Bucheon 14662, 
+Republic of Korea.
+
+An esterase gene, estA1, was cloned from Alteromonas sp. 39-G1 isolated from the 
+Beaufort Sea. The gene is composed of 1,140 nucleotides and codes for a 41,190 Da
+protein containing 379 amino acids. As a result of a BLAST search, the protein
+sequence of esterase EstA1 was found to be identical to Alteromonas sp. esterase 
+(GenBank: PHS53692). As far as we know, no research on this enzyme has yet been
+conducted. Phylogenetic analysis showed that esterase EstA1 was a member of the
+bacterial lipolytic enzyme family IV (hormone sensitive lipases). Two deletion
+mutants (Δ20 and Δ54) of the esterase EstA1 were produced in Escherichia coli
+BL21 (DE3) cells with part of the N-terminal of the protein removed and His-tag
+attached to the C-terminal. These enzymes exhibited the highest activity toward
+p-nitrophenyl (pNP) acetate (C2) and had little or no activity towards pNP-esters
+with acyl chains longer than C6. Their optimum temperature and pH of the
+catalytic activity were 45°C and pH 8.0, respectively. As the NaCl concentration 
+increased, their enzyme activities continued to increase and the highest enzyme
+activities were measured in 5 M NaCl. These enzymes were found to be stable for
+up to 8 h in the concentration of 3-5 M NaCl. Moreover, they have been found to
+be stable for various metal ions, detergents and organic solvents. These
+salt-tolerant and chemical-resistant properties suggest that the enzyme esterase 
+EstA1 is both academically and industrially useful.
+
+DOI: 10.4014/jmb.1907.07057 
+PMID: 31838795  [Indexed for MEDLINE]
+

@@ -1,0 +1,36 @@
+
+1. biosystems. 2010 jan;99(1):70-8. doi: 10.1016/j.biosystems.2009.09.001. epub 2009
+sep 12.
+
+reproducibility usability chronic virus infection model using agent-based 
+simulation; comparing mathematical model.
+
+itakura j(1), kurosaki m, itakura y, maekawa s, asahina y, izumi n, enomoto n.
+
+author information: 
+(1)division gastroenterology hepatology, musashino red cross hospital,
+1-26-1 kyonan-cho, musashino-shi, tokyo 180-8610, japan.
+jitakura@musashino.jrc.or.jp
+
+we created agent-based models visually simulate conditions chronic viral 
+infections using two software. results two models consistent, 
+they parameters actual simulation. simulation results
+comprise transient phase equilibrium phase, unlike mathematical 
+model, virus count transit smoothly equilibrium phase without overshooting
+which correlates actual biology vivo certain viruses. investigated 
+the effects caused varying parameters included concept; increasing 
+virus lifespan, uninfected cell lifespan, uninfected cell regeneration rate,
+virus production count infected cells, infection rate positive
+effects virus count equilibrium period, whereas increasing 
+latent period, lifespan-shortening ratio infected cells, cell
+cycle speed negative effects. virus count start influence 
+equilibrium conditions, influenced infection development rate. the
+space size intrinsic effect equilibrium period, virus count
+maximized virus moving speed twice space size. agent-based
+simulation models reproducibly provide visual representation disease,
+and enable simulation encompasses parameters difficult to
+account mathematical model.
+
+doi: 10.1016/j.biosystems.2009.09.001 
+pmid: 19751799  [indexed medline]
+

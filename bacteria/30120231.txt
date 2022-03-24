@@ -1,0 +1,48 @@
+
+1. Emerg Microbes Infect. 2018 Aug 17;7(1):149. doi: 10.1038/s41426-018-0148-4.
+
+Multiple domains of bacterial and human Lon proteases define substrate
+selectivity.
+
+He L(1), Luo D(2), Yang F(3), Li C(4), Zhang X(2), Deng H(3), Zhang JR(5)(6).
+
+Author information: 
+(1)Center for Infectious Disease Research, School of Medicine, Tsinghua
+University, Beijing, China.
+(2)MOE Key Laboratory of Bioinformatics, Bioinformatics Division, TNLIST and
+Department of Automation, Tsinghua University, Beijing, China.
+(3)MOE Key Laboratory of Bioinformatics, School of Life Sciences, Tsinghua
+University, Beijing, 10084, China.
+(4)Philip Research Institute for Oral Health, School of Dentistry, Virginia
+Commonwealth University, Richmond, VA, USA.
+(5)Center for Infectious Disease Research, School of Medicine, Tsinghua
+University, Beijing, China. zhanglab@tsinghua.edu.cn.
+(6)Collaborative Innovation Center for Biotherapy, State Key Laboratory of
+Biotherapy and Cancer Center, West China Hospital, West China Medical School,
+Sichuan University, Chengdu, China. zhanglab@tsinghua.edu.cn.
+
+The Lon protease selectively degrades abnormal proteins or certain normal
+proteins in response to environmental and cellular conditions in many prokaryotic
+and eukaryotic organisms. However, the mechanism(s) behind the substrate
+selection of normal proteins remains largely unknown. In this study, we
+identified 10 new substrates of F. tularensis Lon from a total of 21 candidate
+substrates identified in our previous work, the largest number of novel Lon
+substrates from a single study. Cross-species degradation of these and other
+known Lon substrates revealed that human Lon is unable to degrade many bacterial 
+Lon substrates, suggestive of a "organism-adapted" substrate selection mechanism 
+for the natural Lon variants. However, individually replacing the N, A, and P
+domains of human Lon with the counterparts of bacterial Lon did not enable the
+human protease to degrade the same bacterial Lon substrates. This result showed
+that the "organism-adapted" substrate selection depends on multiple domains of
+the Lon proteases. Further in vitro proteolysis and mass spectrometry analysis
+revealed a similar substrate cleavage pattern between the bacterial and human Lon
+variants, which was exemplified by predominant representation of leucine,
+alanine, and other hydrophobic amino acids at the P(-1) site within the
+substrates. These observations suggest that the Lon proteases select their
+substrates at least in part by fine structural matching with the proteins in the 
+same organisms.
+
+DOI: 10.1038/s41426-018-0148-4 
+PMCID: PMC6098112
+PMID: 30120231  [Indexed for MEDLINE]
+

@@ -1,0 +1,43 @@
+
+1. Sci Rep. 2021 Mar 10;11(1):5585. doi: 10.1038/s41598-021-85044-5.
+
+Integrative network analyses of transcriptomics data reveal potential drug
+targets for acute radiation syndrome.
+
+Moore R(#)(1), Puniya BL(#)(1), Powers R(2), Guda C(3), Bayles KW(4), Berkowitz
+DB(2), Helikar T(5).
+
+Author information: 
+(1)Department of Biochemistry, University of Nebraska-Lincoln, Lincoln, NE, USA.
+(2)Department of Chemistry, University of Nebraska-Lincoln, Lincoln, NE, USA.
+(3)Department of Genetics, Cell Biology & Anatomy, University of Nebraska Medical
+Center, Omaha, NE, USA.
+(4)Department of Pathology and Microbiology, University of Nebraska Medical
+Center, Omaha, NE, USA.
+(5)Department of Biochemistry, University of Nebraska-Lincoln, Lincoln, NE, USA. 
+thelikar2@unl.edu.
+(#)Contributed equally
+
+Erratum in
+    Sci Rep. 2021 Mar 23;11(1):7057.
+
+Recent political unrest has highlighted the importance of understanding the
+short- and long-term effects of gamma-radiation exposure on human health and
+survivability. In this regard, effective treatment for acute radiation syndrome
+(ARS) is a necessity in cases of nuclear disasters. Here, we propose 20
+therapeutic targets for ARS identified using a systematic approach that
+integrates gene coexpression networks obtained under radiation treatment in
+humans and mice, drug databases, disease-gene association, radiation-induced
+differential gene expression, and literature mining. By selecting gene targets
+with existing drugs, we identified potential candidates for drug repurposing.
+Eight of these genes (BRD4, NFKBIA, CDKN1A, TFPI, MMP9, CBR1, ZAP70, IDH3B) were 
+confirmed through literature to have shown radioprotective effect upon
+perturbation. This study provided a new perspective for the treatment of ARS
+using systems-level gene associations integrated with multiple biological
+information. The identified genes might provide high confidence drug target
+candidates for potential drug repurposing for ARS.
+
+DOI: 10.1038/s41598-021-85044-5 
+PMCID: PMC7946886
+PMID: 33692493 
+

@@ -1,0 +1,46 @@
+
+1. Clin Epigenetics. 2017 Apr 4;9:32. doi: 10.1186/s13148-017-0331-9. eCollection
+2017.
+
+DNA methylation signatures for 2016 WHO classification subtypes of diffuse
+gliomas.
+
+Paul Y(#)(1), Mondal B(#)(1), Patil V(1), Somasundaram K(1).
+
+Author information: 
+(1)Department of Microbiology and Cell Biology, Indian Institute of Science,
+Bangalore, 560012 India.
+(#)Contributed equally
+
+BACKGROUND: Glioma is the most common of all primary brain tumors with poor
+prognosis and high mortality. The 2016 World Health Organization classification
+of the tumors of central nervous system uses molecular parameters in addition to 
+histology to redefine many tumor entities. The new classification scheme divides 
+diffuse gliomas into low-grade glioma (LGG) and glioblastoma (GBM) as per
+histology. LGGs are further divided into isocitrate dehydrogenase (IDH) wild type
+or mutant, which is further classified into either oligodendroglioma that harbors
+1p/19q codeletion or diffuse astrocytoma that has an intact 1p/19q loci but
+enriched for ATRX loss and TP53 mutation. GBMs are divided into IDH wild type
+that corresponds to primary or de novo GBMs and IDH mutant that corresponds to
+secondary or progressive GBMs. To make the 2016 WHO subtypes of diffuse gliomas
+more robust, we carried out Prediction Analysis of Microarrays (PAM) to develop
+DNA methylation signatures for these subtypes.
+RESULTS: In this study, we applied PAM on a training set of diffuse gliomas
+derived from The Cancer Genome Atlas (TCGA) and identified DNA methylation
+signatures to classify LGG IDH wild type from LGG IDH mutant, LGG IDH mutant with
+1p/19q codeletion from LGG IDH mutant with intact 1p/19q loci and GBM IDH wild
+type from GBM IDH mutant with an accuracy of 99-100%. The signatures were
+validated using the test set of diffuse glioma samples derived from TCGA with an 
+accuracy of 96 to 99%. In addition, we also carried out additional validation of 
+all three signatures using independent LGG and GBM cohorts. Further, the
+methylation signatures identified a fraction of samples as discordant, which were
+found to have molecular and clinical features typical of the subtype as
+identified by methylation signatures.
+CONCLUSIONS: Thus, we identified methylation signatures that classified different
+subtypes of diffuse glioma accurately and propose that these signatures could
+complement 2016 WHO classification scheme of diffuse glioma.
+
+DOI: 10.1186/s13148-017-0331-9 
+PMCID: PMC5379538
+PMID: 28392842  [Indexed for MEDLINE]
+

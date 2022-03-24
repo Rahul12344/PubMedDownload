@@ -1,0 +1,42 @@
+
+1. J Virol. 2021 Oct 20:JVI0109821. doi: 10.1128/JVI.01098-21. [Epub ahead of print]
+
+Evolution and diversity of bat and rodent Paramyxoviruses from North America.
+
+Larsen BB(1), Gryseels S(1)(2), Otto HW(1), Worobey M(1).
+
+Author information: 
+(1)Department of Ecology and Evolutionary Biology, University of Arizona, Tucson,
+Arizona, USA.
+(2)Laboratory of Clinical and Evolutionary Virology, Department of Microbiology, 
+Immunology and Transplantation, Rega Institute, KU Leuven, Leuven, Belgium.
+
+Paramyxoviruses are a diverse group of negative-sense, single-stranded RNA
+viruses of which several species cause significant mortality and morbidity. In
+recent years the collection of paramyxoviruses sequences detected in wild mammals
+has substantially grown, however little is known about paramyxovirus diversity in
+North American mammals. To better understand natural paramyxovirus diversity,
+host range, and host specificity, we sought to comprehensively characterize
+paramyxoviruses across a range of diverse co-occurring wild small mammals in
+Southern Arizona. We used highly degenerate primers to screen fecal and urine
+samples and obtained a total of 55 paramyxovirus sequences from 12 rodent species
+and 6 bat species. We also performed illumina RNA-seq and de novo assembly on 14 
+of the positive samples to recover a total of five near full-length viral
+genomes. We show there are at least two clades of rodent-borne paramyxoviruses in
+Arizona, while bat-associated paramyxoviruses formed a putative single clade.
+Using structural homology modeling of the viral attachment protein, we infer that
+three of the five novel viruses likely bind sialic acid in a manner similar to
+other Respiroviruses, while the other two viruses from Heteromyid rodents likely 
+bind a novel host receptor. We find no evidence for cross-species transmission,
+even among closely related sympatric host species. Taken together, these data
+suggest paramyxoviruses are a common viral infection in some bat and rodent
+species present in North America, and illuminate the evolution of these viruses. 
+Importance There are a number of viral lineages that are potential zoonotic
+threats to humans. One of these, paramyxoviruses, have jumped into humans
+multiple times from wild and domestic animals. We conducted one of the largest
+viral surveys of wild mammals in the United States to better understand
+paramyxovirus diversity and evolution.
+
+DOI: 10.1128/JVI.01098-21 
+PMID: 34668771 
+

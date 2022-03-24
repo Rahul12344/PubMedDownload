@@ -1,0 +1,49 @@
+
+1. BMC Bioinformatics. 2019 Aug 27;20(1):441. doi: 10.1186/s12859-019-3008-x.
+
+An equivalence approach to the integrative analysis of feature lists.
+
+Sánchez-Pla A(1), Salicrú M(2), Ocaña J(2).
+
+Author information: 
+(1)Genetics, Microbiology and Statistics Department, Universitat de Barcelona,
+Avinguda Diagonal, 648, Barcelona, 08028, Spain. asanchez@ub.edu.
+(2)Genetics, Microbiology and Statistics Department, Universitat de Barcelona,
+Avinguda Diagonal, 648, Barcelona, 08028, Spain.
+
+BACKGROUND: Although a few comparison methods based on the biological meaning of 
+gene lists have been developed, the goProfiles approach is one of the few that
+are being used for that purpose. It consists of projecting lists of genes into
+predefined levels of the Gene Ontology, in such a way that a multinomial model
+can be used for estimation and testing. Of particular interest is the fact that
+it may be used for proving equivalence (in the sense of "enough similarity")
+between two lists, instead of proving differences between them, which seems
+conceptually better suited to the end goal of establishing similarity among gene 
+lists. An equivalence method has been derived that uses a distance-based approach
+and the confidence interval inclusion principle. Equivalence is declared if the
+upper limit of a one-sided confidence interval for the distance between two
+profiles is below a pre-established equivalence limit.
+RESULTS: In this work, this method is extended to establish the equivalence of
+any number of gene lists. Additionally, an algorithm to obtain the smallest
+equivalence limit that would allow equivalence between two or more lists to be
+declared is presented. This algorithm is at the base of an iterative method of
+graphic visualization to represent the most to least equivalent gene lists. These
+methods deal adequately with the problem of adjusting for multiple testing. The
+applicability of these techniques is illustrated in two typical situations: (i) a
+collection of cancer-related gene lists, suggesting which of them are more
+reasonable to combine -as claimed by the authors- and (ii) a collection of
+pathogenesis-based transcript sets, showing which of these are more closely
+related. The methods developed are available in the goProfiles Bioconductor
+package.
+CONCLUSIONS: The method provides a simple yet powerful and statistically
+well-grounded way to classify a set of genes or other feature lists by
+establishing their equivalence at a given equivalence threshold. The
+classification results can be viewed using standard visualization methods. This
+may be applied to a variety of problems, from deciding whether a series of
+datasets generating the lists can be combined to the simplification of groups of 
+lists.
+
+DOI: 10.1186/s12859-019-3008-x 
+PMCID: PMC6712676
+PMID: 31455218  [Indexed for MEDLINE]
+

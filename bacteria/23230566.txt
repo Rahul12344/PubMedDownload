@@ -1,0 +1,36 @@
+
+1. Analyst. 2013 Feb 21;138(3):907-15. doi: 10.1039/c2an36153a.
+
+Real-time electrochemical detection of pathogen DNA using electrostatic
+interaction of a redox probe.
+
+Ahmed MU(1), Nahar S, Safavieh M, Zourob M.
+
+Author information: 
+(1)Institut National de la Recherche Scientifique (INRS) - Énergie Matériaux
+Télécommunications (EMT), 1650 Boulevard Lionel-Boulet, Varennes, J3X 1S2,
+Quebec, Canada. minhaz.ahmed@ubd.edu.bn
+
+Electrostatic redox probes interaction has been widely rendered for DNA
+quantification. We have established a proof-of-principle by using the ruthenium
+hexaamine molecule [Ru(NH(3))(6)](3+). We have applied this method for real-time 
+electrochemical monitoring of a loop mediated isothermal amplification (LAMP)
+amplicon of target genes of Escherichia coli and Staphylococcus aureus by square 
+wave voltammetry (SWV). Ruthenium hexaamine interaction with free DNAs in
+solution without being immobilized onto the biochip surface enabled us to discard
+the time-consuming overnight probe immobilization step in DNA quantification. We 
+have measured the changes in the cathodic current signals using screen printed
+low-cost biochips both in the presence and the absence of LAMP amplicons of
+target DNAs in the solution-phase. By using this novel probe, we successfully
+carried out the real-time isothermal amplification and detection in less than 30 
+min for S. aureus and E. coli with a sensitivity up to 30 copies μL(-1) and 20
+copies μL(-1), respectively. The cathode peak height of the current was related
+to the extent of amplicon formation and the amount of introduced template genomic
+DNA. Importantly, since laborious probe immobilization is not necessary at all,
+and both the in vitro amplification and real-time monitoring are performed in a
+single polypropylene tube using a single biochip, this novel approach could avoid
+all potential cross-contamination in the whole procedure.
+
+DOI: 10.1039/c2an36153a 
+PMID: 23230566  [Indexed for MEDLINE]
+

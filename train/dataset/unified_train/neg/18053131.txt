@@ -1,0 +1,48 @@
+
+1. bmc biotechnol. 2007 nov 30;7:85.
+
+a new generation pprig-based retroviral vectors.
+
+albagli-curiel o(1), lécluse y, pognonec p, boulukos ke, martin p.
+
+author information: 
+(1)inserm u790 ifr54, institut gustave roussy, pr1, 39 rue camille
+desmoulins, 94805 villejuif, france. oalbagli@igr.fr
+
+background: retroviral vectors valuable tools gene transfer. particularly
+convenient ires-containing retroviral vectors expressing protein 
+interest marker protein single bicistronic mrna. coupled
+expression increases relevance tracking and/or selection transduced
+cells based detection marker protein. pap2 retroviral vector
+containing egfp downstream modified ires element emcv origin, cmv
+enhancer-promoter instead u3 region 5'ltr, increases its
+efficiency transient transfection. however, pap2 contains limited
+multicloning site (mcs) shows weak egfp expression, previously led us
+to engineer improved version, termed pprig, harboring: i) wild-type ecmv
+ires sequence, thereby restoring full activity; ii) optimized mcs flanked 
+by t7 sp6 sequences; iii) ha tag encoding sequence 5' mcs (pprig
+haa/b/c).
+results: convenience pprig makes good basic vector generate
+additional derivatives extended range use. present several
+novel pprig-based vectors (collectively referred prigs) : i) the
+ha tag sequence inserted three reading frames 3' mcs (3'ha
+prigs); ii) functional domain (er, vp16 krab) inserted either 5' 3'
+of mcs (<< modular >> prigs); iii) egfp replaced either ecfp, eyfp,
+mcherry puro-r (<< single color/resistance >> prigs); iv) mcherry, eyfp or
+egfp inserted 5' mcs ires-egfp, ires-ecfp ires-puro-r
+containing prigs, respectively (<< dual color/selection >> prigs). additionally, 
+some prigs also constructed pmigr mscv background has
+been widely used pluripotent cells.
+conclusion: novel vectors allow straightforward detection any
+expressed protein (3'ha prigs), functional studies chimeric proteins (<<
+modular >> prigs), multiple transductions fluorescence analyses of
+transduced cells (<< single color/resistance >> prigs), quantitative
+detection studied proteins independently identified/selected transduced
+cells (<< dual color/selection >> prigs). maintain original advantages
+of pprig provide suitable tools either transient stable expression and
+functional studies large range experimental settings.
+
+doi: 10.1186/1472-6750-7-85 
+pmcid: pmc2241607
+pmid: 18053131  [indexed medline]
+

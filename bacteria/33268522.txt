@@ -1,0 +1,60 @@
+
+1. J Virol. 2020 Dec 2. pii: JVI.01837-20. doi: 10.1128/JVI.01837-20. [Epub ahead of
+print]
+
+Identification of HLA-A*02:01-restricted candidate epitopes derived from the
+non-structural polyprotein 1a of SARS-CoV-2 that may be natural targets of CD8+ T
+cell recognition in vivo.
+
+Takagi A(1), Matsui M(2).
+
+Author information: 
+(1)School of Medical Technology, Faculty of Health and Medical Care, Saitama
+Medical University, 1397-1 Yamane, Hidaka-city, Saitama 350-1241, Japan.
+(2)Department of Microbiology, Faculty of Medicine, Saitama Medical University,
+38 Morohongo, Moroyama-cho, Iruma-gun, Saitama 350-0495, Japan
+mmatsui@saitama-med.ac.jp.
+
+COVID-19 vaccines are being rapidly developed and human trials are underway.
+Almost all of these vaccines have been designed to induce antibodies targeting
+spike protein of SARS-CoV-2 in expectation of neutralizing activities. However,
+non-neutralizing antibodies are at risk of causing antibody-dependent
+enhancement. Further, the longevity of SARS-CoV-2-specific antibodies is very
+short. Therefore, in addition to antibody-induced vaccines, novel vaccines on the
+basis of SARS-CoV-2-specific cytotoxic T lymphocytes (CTLs) should be considered 
+in the vaccine development. Here, we attempted to identify HLA-A*02:01-restricted
+CTL epitopes derived from the non-structural polyprotein 1a of SARS-CoV-2.
+Eighty-two peptides were firstly predicted as epitope candidates on
+bioinformatics. Fifty-four in 82 peptides showed high or medium binding
+affinities to HLA-A*02:01. HLA-A*02:01 transgenic mice were then immunized with
+each of the 54 peptides encapsulated into liposomes. The intracellular cytokine
+staining assay revealed that 18 out of 54 peptides were CTL epitopes because of
+the induction of IFN-γ-producing CD8+ T cells. In the 18 peptides, 10 peptides
+were chosen for the following analyses because of their high responses. To
+identify dominant CTL epitopes, mice were immunized with liposomes containing the
+mixture of the 10 peptides. Some peptides were shown to be statistically
+predominant over the other peptides. Surprisingly, all mice immunized with the
+liposomal 10 peptide mixture did not show the same reaction pattern to the 10
+peptides. There were three response patterns, suggesting the existence of an
+immunodominance hierarchy following peptide vaccination, which may provide us
+more variations in the epitope selection for designing CTL-based COVID-19
+vaccines.IMPORTANCE For the development of vaccines based on SARS-CoV-2-specific 
+cytotoxic T lymphocytes (CTLs), we attempted to identify HLA-A*02:01-restricted
+CTL epitopes derived from the non-structural polyprotein 1a of SARS-CoV-2. Out of
+82 peptides predicted on bioinformatics, 54 peptides showed good binding
+affinities to HLA-A*02:01. Using HLA-A*02:01 transgenic mice, 18 in 54 peptides
+were found to be CTL epitopes in the intracellular cytokine staining assay. Out
+of 18 peptides, 10 peptides were chosen for the following analyses because of
+their high responses. To identify dominant epitopes, mice were immunized with
+liposomes containing the mixture of the 10 peptides. Some peptides were shown to 
+be statistically predominant. Surprisingly, all immunized mice did not show the
+same reaction pattern to the 10 peptides. There were three reaction patterns,
+suggesting the existence of an immunodominance hierarchy following peptide
+vaccination, which may provide us more variations in the epitope selection for
+designing CTL-based COVID-19 vaccines.
+
+Copyright © 2020 American Society for Microbiology.
+
+DOI: 10.1128/JVI.01837-20 
+PMID: 33268522 
+

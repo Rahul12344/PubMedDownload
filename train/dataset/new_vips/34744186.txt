@@ -1,0 +1,48 @@
+
+1. Pattern Recognit. 2022 Mar;123:108404. doi: 10.1016/j.patcog.2021.108404. Epub
+2021 Oct 26.
+
+Big data directed acyclic graph model for real-time COVID-19 twitter stream
+detection.
+
+Amen B(1), Faiz S(2), Do TT(3).
+
+Author information: 
+(1)Department of Computer Science, School of Electrical Engineering, Electronics,
+and Computer Science, University of Liverpool, Liverpool L69 3BX, UK.
+(2)State Islamic Institute of Surakarta (IAIN Surakarta), Indonesia.
+(3)Department of Data Science and AI, Faculty of Information Technology, Monash
+University, Australia.
+
+Every day, large-scale data are continuously generated on social media as
+streams, such as Twitter, which inform us about all events around the world in
+real-time. Notably, Twitter is one of the effective platforms to update countries
+leaders and scientists during the coronavirus (COVID-19) pandemic. Other people
+have also used this platform to post their concerns about the spread of this
+virus and a rapid increase of death cases globally. The aim of this work is to
+detect anomalous events associated with COVID-19 from Twitter. To this end, we
+propose a distributed Directed Acyclic Graph topology framework to aggregate and 
+process large-scale real-time tweets related to COVID-19. The core of our system 
+is a novel lightweight algorithm that can automatically detect anomaly events. In
+addition, our system can also identify, cluster, and visualize important keywords
+in tweets. On 18 August 2020, our model detected the highest anomaly since many
+tweets mentioned the casualties' updates and the debates on the pandemic that
+day. We obtained the three most commonly listed terms on Twitter: "covid",
+"death", and "Trump" (21,566, 11,779, and 4761 occurrences, respectively), with
+the highest TF-IDF score for these terms: "people" (0.63637), "school"
+(0.5921407) and "virus" (0.57385). From our clustering result, the word "death", 
+"corona", and "case" are grouped into one cluster, where the word "pandemic",
+"school", and "president" are grouped as another cluster. These terms were
+located near each other on vector space so that they were clustered, indicating
+people's most concerned topics on Twitter.
+
+© 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.patcog.2021.108404 
+PMCID: PMC8556703
+PMID: 34744186 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

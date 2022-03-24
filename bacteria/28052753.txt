@@ -1,0 +1,54 @@
+
+1. Microb Cell Fact. 2017 Jan 4;16(1):5. doi: 10.1186/s12934-016-0619-z.
+
+Chromosomal position effect influences the heterologous expression of genes and
+biosynthetic gene clusters in Streptomyces albus J1074.
+
+Bilyk B(1)(2), Horbal L(3), Luzhetskyy A(4)(5)(6).
+
+Author information: 
+(1)PharmBioTec GmbH, Science Park 1, 66123, Saarbrücken, Germany.
+(2)Helmholtz-Institute for Pharmaceutical Research Saarland, Campus, Building
+C2.3, 66123, Saarbrücken, Germany.
+(3)Department of Pharmaceutical Biotechnology, Saarland University, 66123,
+Saarbrücken, Germany.
+(4)PharmBioTec GmbH, Science Park 1, 66123, Saarbrücken, Germany.
+a.luzhetskyy@mx.uni-saarland.de.
+(5)Helmholtz-Institute for Pharmaceutical Research Saarland, Campus, Building
+C2.3, 66123, Saarbrücken, Germany. a.luzhetskyy@mx.uni-saarland.de.
+(6)Department of Pharmaceutical Biotechnology, Saarland University, 66123,
+Saarbrücken, Germany. a.luzhetskyy@mx.uni-saarland.de.
+
+BACKGROUND: Efforts to construct the Streptomyces host strain with enhanced
+yields of heterologous product have focussed mostly on engineering of primary
+metabolism and/or the deletion of endogenous biosynthetic gene clusters. However,
+other factors, such as chromosome compactization, have been shown to have a
+significant influence on gene expression levels in bacteria and fungi. The
+expression of genes and biosynthetic gene clusters may vary significantly
+depending on their location within the chromosome. Little is known about the
+position effect in actinomycetes, which are important producers of various
+industrially relevant bioactive molecules.
+RESULTS: To demonstrate an impact of the chromosomal position effect on the
+heterologous expression of genes and gene clusters in Streptomyces albus J1074, a
+transposon mutant library with randomly distributed transposon that includes a
+β-glucuronidase reporter gene was generated. Reporter gene expression levels have
+been shown to depend on the position on the chromosome. Using a combination of
+the transposon system and a φC31-based vector, the aranciamycin biosynthetic
+cluster was introduced randomly into the S. albus genome. The production levels
+of aranciamycin varied up to eightfold depending on the location of the gene
+cluster within the chromosome of S. albus J1074. One of the isolated mutant
+strains with an artificially introduced attachment site produced approximately
+50% more aranciamycin than strains with endogenous attBs.
+CONCLUSIONS: In this study, we demonstrate that expression of the reporter gene
+and aranciamycin biosynthetic cluster in Streptomyces albus J1074 varies up to
+eightfold depending on its position on the chromosome. The integration of the
+heterologous cluster into different locations on the chromosome may significantly
+influence the titre of the produced substance. This knowledge can be used for the
+more efficient engineering of Actinobacteria via the relocation of the
+biosynthetic gene clusters and insertion of additional copies of heterologous
+constructs in a suitable chromosomal position.
+
+DOI: 10.1186/s12934-016-0619-z 
+PMCID: PMC5209838
+PMID: 28052753  [Indexed for MEDLINE]
+

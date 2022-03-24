@@ -1,0 +1,43 @@
+
+1. PLoS One. 2017 Sep 28;12(9):e0185734. doi: 10.1371/journal.pone.0185734.
+eCollection 2017.
+
+Exploring Lactobacillus reuteri DSM20016 as a biocatalyst for transformation of
+longer chain 1,2-diols: Limits with microcompartment.
+
+Chen L(1), Hatti-Kaul R(1).
+
+Author information: 
+(1)Division of Biotechnology, Center for Chemistry and Chemical Engineering, Lund
+University, Lund, Sweden.
+
+Lactobacillus reuteri metabolises glycerol efficiently to form 3-hydroxypropionic
+acid (3-HP) and 1,3-propanediol (1,3PDO) by the same mechanism as that for
+1,2-propanediol (1,2PDO) conversion to propionic acid and propanol via its
+propanediol utilization (pdu) pathway. Pdu enzymes are encoded by the pdu-operon,
+which also contain genes encoding the shell proteins of the microcompartment
+housing the metabolic pathway. In this work the selectivity and kinetics of the
+reactions catalysed by L. reuteri DSM20016 Pdu enzymes glycerol dehydratase
+(GDH), 1,3-propanediol oxidoreductase (PduQ) and coenzyme-A acylating
+propionaldehyde dehydrogenase (PduP), produced recombinantly, was investigated
+against corresponding substrates of different chain lengths. Glycerol dehydratase
+exhibited activity against C2-C4 polyols, with the highest activity against
+glycerol and 1,2-propanediol (1,2-PDO). A double mutant of the pduC gene of GDH
+(PduC-S302A/Q337A) was constructed that displayed lowered activity against
+glycerol and 1,2PDO but extended the substrate range upto C6-diol. The best
+substrate for both PduQ and PduP was 3-hydroxypropanal (3HPA), although PduP
+exhibited nearly 10-fold higher specific activity. The enzymes also showed some
+activity against C3-C10 aliphatic aldehydes, with PduP having higher relative
+activity. Subsequently, transformation of polyols using whole cells of L. reuteri
+containing the wild type- and mutated GDH, respectively, confirmed the reduced
+activity of the mutant against glycerol and 1,2PDO, but its activity against
+longer substrates was negligible. In contrast, recombinant Escherichia coli
+BL21(DE3) cells harboring the GDH variant converted diols with up to C6 carbon
+chain length to their respective aldehydes, suggesting that the protein shell of 
+the microcompartment in L. reuteri posed a barrier to the passage of longer chain
+substrate.
+
+DOI: 10.1371/journal.pone.0185734 
+PMCID: PMC5619818
+PMID: 28957423  [Indexed for MEDLINE]
+

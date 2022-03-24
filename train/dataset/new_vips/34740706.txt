@@ -1,0 +1,48 @@
+
+1. J Virol Methods. 2022 Jan;299:114346. doi: 10.1016/j.jviromet.2021.114346. Epub
+2021 Nov 2.
+
+Development and evaluation of a ligation-free sequence-independent, single-primer
+amplification (LF-SISPA) assay for whole genome characterization of viruses.
+
+Jothikumar N(1), Cromeans T(2), Shivajothi J(3), Vinjé J(4), Murphy J(5).
+
+Author information: 
+(1)Division of Foodborne, Waterborne and Environmental Diseases, Centers for
+Disease Control and Prevention, Atlanta, GA, 30329, USA. Electronic address:
+njothik@gmail.com.
+(2)CDC Foundation, USA Contracted to Division of Viral Diseases, Centers for
+Disease Control and Prevention, Atlanta, GA, 30329, USA.
+(3)COX, Atlanta, USA.
+(4)Division of Viral Diseases, National Center for Immunizations and Respiratory 
+Diseases, Centers for Disease Control and Prevention, Atlanta, GA, 30329, USA.
+(5)Division of Foodborne, Waterborne and Environmental Diseases, Centers for
+Disease Control and Prevention, Atlanta, GA, 30329, USA. Electronic address:
+iod7@cdc.gov.
+
+Molecular identification and characterization of novel or re-emerging infectious 
+pathogens is critical for disease surveillance and outbreak investigations. Next 
+generation sequencing (NGS) using Sequence-Independent, Single-Primer
+Amplification (SISPA) is being used extensively in sequencing of viral genomes
+but it requires an expensive library preparation step. We developed a simple,
+low-cost method that enriches nucleic acids followed by a ligation-free (LF)
+2-step Polymerase Chain Reaction (PCR) procedure for library preparation. A
+pan-chimeric universal primer (JS15N14) containing 15 nucleotides with a random
+tetradecamer (14N) attached to the 3'-end was designed. The complimentary primer 
+(JS15) was used for nucleic acid enrichment in a first round PCR. A second PCR
+was designed to create Illumina sequencer-compatible sequencing-ready libraries
+for NGS. The new LF-SISPA protocol was tested using six RNA and DNA viral genomes
+(10.8-229.4 kilobases, kb) from an ATCC virome nucleic acid mix (ATCC® MSA-1008™)
+followed by analysis using One Codex, an online identification tool. In addition,
+a human stool sample known to be positive for norovirus GII was sequenced, and de
+novo assembly was performed using the Genome Detective Virus Tool allowing for
+near complete genome identification in less than 24 h. The LF-SISPA method does
+not require prior knowledge of target sequences and does not require an expensive
+enzymatic library preparation kit, thereby providing a simple, fast, low-cost
+alternative for the identification of unknown viral pathogens.
+
+Copyright © 2021. Published by Elsevier B.V.
+
+DOI: 10.1016/j.jviromet.2021.114346 
+PMID: 34740706 
+

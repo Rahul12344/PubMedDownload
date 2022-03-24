@@ -1,0 +1,49 @@
+
+1. proc natl acad sci u a. 2015 mar 31;112(13):4038-43. doi:
+10.1073/pnas.1502370112. epub 2015 mar 16.
+
+silencing end-joining repair efficient site-specific gene insertion 
+talen/crispr mutagenesis aedes aegypti.
+
+basu s(1), aryan a(1), overcash jm(1), samuel gh(1), anderson ma(1), dahlem
+tj(2), myles km(3), adelman zn(3).
+
+author information: 
+(1)fralin life science institute department entomology, virginia tech,
+blacksburg, va 24061; and.
+(2)mutation generation detection core, health science center core research
+facility, university utah, salt lake city, ut 84132.
+(3)fralin life science institute department entomology, virginia tech,
+blacksburg, va 24061; mylesk@vt.edu zachadel@vt.edu.
+
+conventional control strategies mosquito-borne pathogens malaria 
+dengue complemented development transgenic mosquito
+strains reprogrammed generate beneficial phenotypes conditional
+sterility pathogen resistance. widespread success site-specific
+nucleases transcription activator-like effector nucleases (talens) and
+clustered regularly interspaced short palindromic repeats (crispr)/cas9 model 
+organisms also suggests reprogrammable gene drive systems based these
+nucleases may capable spreading beneficial phenotypes wild mosquito
+populations. using mosquito aedes aegypti, determined mutations in
+the foki domain used talens generate obligate heterodimeric complexes
+substantially significantly reduce gene editing rates. found that
+crispr/cas9-based editing mosquito ae. aegypti also highly variable,
+with majority guide rnas unable generate detectable editing. first
+evaluating candidate guide rnas using transient embryo assay, able to
+rapidly identify highly effective guide rnas; focusing germ line-based
+experiments cohort resulted consistently high editing rates of
+24-90%. microinjection double-stranded rnas targeting ku70 lig4, both
+essential components end-joining response, increased recombination-based
+repair early embryos determined plasmid-based reporters. rnai-based
+suppression ku70 concurrent embryonic microinjection site-specific
+nucleases yielded consistent gene insertion frequencies 2-3%, similar to
+traditional transposon- φc31-based integration methods without the
+requirement initial docking step. studies greatly accelerate 
+investigations mosquito biology, streamline development transgenic
+strains field releases, simplify evaluation novel cas9-based gene 
+drive systems.
+
+doi: 10.1073/pnas.1502370112 
+pmcid: pmc4386333
+pmid: 25775608  [indexed medline]
+

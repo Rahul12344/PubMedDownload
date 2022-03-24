@@ -1,0 +1,42 @@
+
+1. bmc genomics. 2013 jan 16;14:8. doi: 10.1186/1471-2164-14-8.
+
+a new computational approach redefines subtelomeric vir superfamily of
+plasmodium vivax.
+
+lopez fj(1), bernabeu m, fernandez-becerra c, del portillo ha.
+
+author information: 
+(1)barcelona centre international health research, cresib, hospital
+clínic-universitat de barcelona, roselló 153, 1a planta cek building, 08036
+barcelona, spain.
+
+background: subtelomeric multigene families malaria parasites encode virulent 
+determinants. published genome sequence plasmodium vivax revealed the
+largest subtelomeric multigene family human malaria parasites, vir
+super-family, presently composed 346 vir genes subdivided 12 different
+subfamilies based sequence homologies detected blast.
+results: novel computational approach used redefine vir genes. first, 
+protein-weighted graph built based blast alignments. graph was
+processed ensure edge weights exclusively based blast
+score two corresponding proteins, strongly dependant their
+graph neighbours associations. markov clustering algorithm was
+applied protein graph. next, homology block concept used to
+further validate clustering approach. finally, proteome-wide analysis was
+carried predict new vir members. results showed (i) three previous
+subfamilies cannot longer classified vir genes; (ii) previously
+unclustered vir genes clustered vir subfamilies; (iii) 39 hypothetical 
+proteins predicted vir proteins; (iv) many findings are
+supported number structural functional evidences, sub-cellular
+localization studies, gene expression analysis chromosome localization (v)
+this approach used study multigene families malaria.
+conclusions: methodology, resource new classification vir genes 
+contribute new structural framing multigene family other
+multigene families malaria parasites, facilitating design experiments
+to understand role pathology, turn may help furthering vaccine 
+development.
+
+doi: 10.1186/1471-2164-14-8 
+pmcid: pmc3566924
+pmid: 23324551  [indexed medline]
+

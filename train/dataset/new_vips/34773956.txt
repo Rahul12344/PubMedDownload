@@ -1,0 +1,34 @@
+
+1. J Chem Phys. 2021 Nov 14;155(18):184106. doi: 10.1063/5.0069917.
+
+Surface-facilitated trapping by active sites: From catalysts to viruses.
+
+Misiura MM(1), Berezhkovskii AM(2), Bezrukov SM(3), Kolomeisky AB(1).
+
+Author information: 
+(1)Department of Chemistry and Center for Theoretical Biological Physics, Rice
+University, Houston, Texas 77005, USA.
+(2)Mathematical and Statistical Computing Laboratory, Office of Intramural
+Research, Center for Information Technology, National Institutes of Health,
+Bethesda, Maryland 20892, USA.
+(3)Section on Molecular Transport, Eunice Kennedy Shriver National Institute of
+Child Health and Human Development, National Institutes of Health, Bethesda,
+Maryland 20892, USA.
+
+Trapping by active sites on surfaces plays important roles in various chemical
+and biological processes, including catalysis, enzymatic reactions, and viral
+entry into host cells. However, the mechanisms of these processes remain not well
+understood, mostly because the existing theoretical descriptions are not fully
+accounting for the role of the surfaces. Here, we present a theoretical
+investigation on the dynamics of surface-assisted trapping by specific active
+sites. In our model, a diffusing particle can occasionally reversibly bind to the
+surface and diffuse on it before reaching the final target site. An approximate
+theoretical framework is developed, and its predictions are tested by Brownian
+dynamics computer simulations. It is found that the surface diffusion can be
+crucial in mediating trapping by active sites. Our theoretical predictions work
+reasonably well as long as the area of the active site is much smaller than the
+overall surface area. Potential applications of our approach are discussed.
+
+DOI: 10.1063/5.0069917 
+PMID: 34773956 
+

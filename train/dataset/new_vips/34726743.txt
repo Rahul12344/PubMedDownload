@@ -1,0 +1,52 @@
+
+1. JAMA Netw Open. 2021 Nov 1;4(11):e2132540. doi:
+10.1001/jamanetworkopen.2021.32540.
+
+Analysis of the Effectiveness of the Ad26.COV2.S Adenoviral Vector Vaccine for
+Preventing COVID-19.
+
+Corchado-Garcia J(1), Zemmour D(1), Hughes T(1), Bandi H(1), Cristea-Platon T(1),
+Lenehan P(1), Pawlowski C(1), Bade S(2), O'Horo JC(3), Gores GJ(3), Williams
+AW(3), Badley AD(3), Halamka J(3), Virk A(3), Swift MD(3), Wagner T(1),
+Soundararajan V(1)(2).
+
+Author information: 
+(1)nference, Cambridge, Massachusetts.
+(2)nference Labs, Murgesh Pallya, Bengaluru, Karnataka, India.
+(3)Department of Internal Medicine, Mayo Clinic, Rochester, Minnesota.
+
+Importance: Continuous assessment of the effectiveness and safety of the US Food 
+and Drug Administration-authorized SARS-CoV-2 vaccines is critical to amplify
+transparency, build public trust, and ultimately improve overall health outcomes.
+Objective: To evaluate the effectiveness of the Johnson & Johnson Ad26.COV2.S
+vaccine for preventing SARS-CoV-2 infection.
+Design, Setting, and Participants: This comparative effectiveness research study 
+used large-scale longitudinal curation of electronic health records from the
+multistate Mayo Clinic Health System (Minnesota, Arizona, Florida, Wisconsin, and
+Iowa) to identify vaccinated and unvaccinated adults between February 27 and July
+22, 2021. The unvaccinated cohort was matched on a propensity score derived from 
+age, sex, zip code, race, ethnicity, and previous number of SARS-CoV-2 polymerase
+chain reaction tests. The final study cohort consisted of 8889 patients in the
+vaccinated group and 88 898 unvaccinated matched patients.
+Exposure: Single dose of the Ad26.COV2.S vaccine.
+Main Outcomes and Measures: The incidence rate ratio of SARS-CoV-2 infection in
+the vaccinated vs unvaccinated control cohorts, measured by SARS-CoV-2 polymerase
+chain reaction testing.
+Results: The study was composed of 8889 vaccinated patients (4491 men [50.5%];
+mean [SD] age, 52.4 [16.9] years) and 88 898 unvaccinated patients (44 748 men
+[50.3%]; mean [SD] age, 51.7 [16.7] years). The incidence rate ratio of
+SARS-CoV-2 infection in the vaccinated vs unvaccinated control cohorts was 0.26
+(95% CI, 0.20-0.34) (60 of 8889 vaccinated patients vs 2236 of 88 898
+unvaccinated individuals), which corresponds to an effectiveness of 73.6% (95%
+CI, 65.9%-79.9%) and a 3.73-fold reduction in SARS-CoV-2 infections.
+Conclusions and Relevance: This study's findings are consistent with the clinical
+trial-reported efficacy of Ad26.COV2.S and the first retrospective analysis,
+suggesting that the vaccine is effective at reducing SARS-CoV-2 infection, even
+with the spread of variants such as Alpha or Delta that were not present in the
+original studies, and reaffirm the urgent need to continue mass vaccination
+efforts globally.
+
+DOI: 10.1001/jamanetworkopen.2021.32540 
+PMCID: PMC8564583
+PMID: 34726743  [Indexed for MEDLINE]
+

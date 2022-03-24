@@ -1,0 +1,40 @@
+
+1. Sensors (Basel). 2021 Nov 12;21(22). pii: 7511. doi: 10.3390/s21227511.
+
+The Comparative Estimation of Primary Students' Programming Outcomes Based on
+Traditional and Distance Out-of-School Extracurricular Informatics Education in
+Electronics Courses during the Challenging COVID-19 Period.
+
+Panskyi T(1), Biedroń S(1), Grudzień K(1), Korzeniewska E(2).
+
+Author information: 
+(1)Institute of Applied Computer Science, Lodz University of Technology, 90-537
+Lodz, Poland.
+(2)Institute of Electrical Engineering Systems, Lodz University of Technology,
+90-924 Lodz, Poland.
+
+The authors decided to investigate the impact of the lockdown period and the
+resulting limitations in informatics education, especially programming, in
+out-of-school electronics courses using traditional and distance learning modes
+in primary school COVID-19 pandemic settings. Two extracurricular courses were
+held successively; the first electronics course was performed in a traditional
+out-of-school learning mode using Arduino kits, while the other was held using
+the TinkerCad circuits virtual environment in distance learning mode. A
+structured questionnaire was administered to students to map their knowledge of
+programming. The questionnaire consists of three emotional dimensions: enjoyment,
+satisfaction and motivation. The fourth dimension was dedicated to the students' 
+programming outcomes. Three emotional dimensions were addressed to primary school
+students, while the fourth dimension was addressed to the tutors' observations
+toward the students' programming outcomes. The obtained results revealed that
+learning modes have no significant impact on students perceiving the programming 
+issues. However, three emotional dimensions revealed a significant difference in 
+the students' enjoyment, satisfaction and motivation in favor of the traditional 
+learning mode. Our findings are of particular interest in light of possible
+crisis-prompted distance education in the future but can also serve to inform
+government institutions and policymakers seeking to develop effective concepts
+for successful distance learning.
+
+DOI: 10.3390/s21227511 
+PMCID: PMC8618431
+PMID: 34833587  [Indexed for MEDLINE]
+

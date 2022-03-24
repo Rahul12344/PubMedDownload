@@ -1,0 +1,59 @@
+
+1. PLoS One. 2014 Jan 16;9(1):e85892. doi: 10.1371/journal.pone.0085892. eCollection
+2014.
+
+Penam sulfones and β-lactamase inhibition: SA2-13 and the importance of the C2
+side chain length and composition.
+
+Rodkey EA(1), Winkler ML(2), Bethel CR(3), Pagadala SR(4), Buynak JD(4), Bonomo
+RA(5), van den Akker F(1).
+
+Author information: 
+(1)Department of Biochemistry, Case Western Reserve University, Cleveland, Ohio, 
+United States of America.
+(2)Department of Molecular Biology and Microbiology, Case Western Reserve
+University, Cleveland, Ohio, United States of America ; Research Division, Louis 
+Stokes Cleveland Veterans Affairs Medical Center, Cleveland, Ohio, United States 
+of America.
+(3)Research Division, Louis Stokes Cleveland Veterans Affairs Medical Center,
+Cleveland, Ohio, United States of America.
+(4)Department of Chemistry, Southern Methodist University, Dallas, Texas, United 
+States of America.
+(5)Department of Molecular Biology and Microbiology, Case Western Reserve
+University, Cleveland, Ohio, United States of America ; Research Division, Louis 
+Stokes Cleveland Veterans Affairs Medical Center, Cleveland, Ohio, United States 
+of America ; Department of Medicine, Case Western Reserve University, Cleveland, 
+Ohio, United States of America ; Department of Pharmacology, Case Western Reserve
+University, Cleveland, Ohio, United States of America.
+
+β-Lactamases are the major reason β-lactam resistance is seen in Gram-negative
+bacteria. To combat this resistance mechanism, β-lactamase inhibitors are
+currently being developed. Presently, there are only three that are in clinical
+use (clavulanate, sulbactam and tazobactam). In order to address this important
+medical need, we explored a new inhibition strategy that takes advantage of a
+long-lived inhibitory trans-enamine intermediate. SA2-13 was previously
+synthesized and shown to have a lower k(react) than tazobactam. We investigated
+here the importance of the carboxyl linker length and composition by synthesizing
+three analogs of SA2-13 (PSR-4-157, PSR-4-155, and PSR-3-226). All SA2-13 analogs
+yielded higher turnover numbers and k(react) compared to SA2-13. We next
+demonstrated using protein crystallography that increasing the linker length by
+one carbon allowed for better capture of a trans-enamine intermediate; in
+contrast, this trans-enamine intermediate did not occur when the C2 linker length
+was decreased by one carbon. If the linker was altered by both shortening it and 
+changing the carboxyl moiety into a neutral amide moiety, the stable
+trans-enamine intermediate in wt SHV-1 did not form; this intermediate could only
+be observed when a deacylation deficient E166A variant was studied. We
+subsequently studied SA2-13 against a relatively recently discovered
+inhibitor-resistant (IR) variant of SHV-1, SHV K234R. Despite the alteration in
+the mechanism of resistance due to the K→R change in this variant, SA2-13 was
+effective at inhibiting this IR enzyme and formed a trans-enamine inhibitory
+intermediate similar to the intermediate seen in the wt SHV-1 structure. Taken
+together, our data reveals that the C2 side chain linker length and composition
+profoundly affect the formation of the trans-enamine intermediate of penam
+sulfones. We also show that the design of SA2-13 derivatives offers promise
+against IR SHV β-lactamases that possess the K234R substitution.
+
+DOI: 10.1371/journal.pone.0085892 
+PMCID: PMC3894197
+PMID: 24454944  [Indexed for MEDLINE]
+

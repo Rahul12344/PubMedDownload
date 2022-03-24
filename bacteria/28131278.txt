@@ -1,0 +1,51 @@
+
+1. Mol Ther Nucleic Acids. 2016;5:e351. doi: 10.1038/mtna.2016.52.
+
+Reactivating Fetal Hemoglobin Expression in Human Adult Erythroblasts Through
+BCL11A Knockdown Using Targeted Endonucleases.
+
+Bjurström CF(1), Mojadidi M(1), Phillips J(2), Kuo C(3), Lai S(1), Lill GR(1),
+Cooper A(1), Kaufman M(1), Urbinati F(1), Wang X(4), Hollis RP(1), Kohn DB(5).
+
+Author information: 
+(1)Department of Microbiology, Immunology, & Molecular Genetics, University of
+California, Los Angeles, Los Angeles, California, USA.
+(2)Howard Hughes Medical Institute, University of California, Los Angeles, Los
+Angeles, California, USA.
+(3)Department of Pediatrics, University of California, Los Angeles, Los Angeles, 
+California, USA.
+(4)Department of General Internal Medicine and Health Services Research,
+University of California, Los Angeles, Los Angeles, California, USA.
+(5)Department of Microbiology, Immunology, & Molecular Genetics, University of
+California, Los Angeles, Los Angeles, California, USA; Department of Pediatrics, 
+University of California, Los Angeles, Los Angeles, California, USA. Electronic
+address: dkohn@mednet.ucla.edu.
+
+We examined the efficiency, specificity, and mutational signatures of zinc finger
+nucleases (ZFNs), transcriptional activator-like effector nucleases (TALENs), and
+clustered regularly interspaced short palindromic repeat (CRISPR)/Cas9 systems
+designed to target the gene encoding the transcriptional repressor BCL11A, in
+human K562 cells and human CD34+ progenitor cells. ZFNs and TALENs were delivered
+as in vitro transcribed mRNA through electroporation; CRISPR/Cas9 was codelivered
+by Cas9 mRNA with plasmid-encoded guideRNA (gRNA) (pU6.g1) or in vitro
+transcribed gRNA (gR.1). Analyses of efficacy revealed that for these specific
+reagents and the delivery methods used, the ZFNs gave rise to more allelic
+disruption in the targeted locus compared to the TALENs and CRISPR/Cas9, which
+was associated with increased levels of fetal hemoglobin in erythroid cells
+produced in vitro from nuclease-treated CD34+ cells. Genome-wide analysis to
+evaluate the specificity of the nucleases revealed high specificity of this
+specific ZFN to the target site, while specific TALENs and CRISPRs evaluated
+showed off-target cleavage activity. ZFN gene-edited CD34+ cells had the capacity
+to engraft in NOD-PrkdcSCID-IL2Rγnull mice, while retaining multi-lineage
+potential, in contrast to TALEN gene-edited CD34+ cells. CRISPR engraftment
+levels mirrored the increased relative plasmid-mediated toxicity of pU6.g1/Cas9
+in hematopoietic stem/progenitor cells (HSPCs), highlighting the value for the
+further improvements of CRISPR/Cas9 delivery in primary human HSPCs.
+
+Copyright © 2016 Official journal of the American Society of Gene & Cell Therapy.
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1038/mtna.2016.52 
+PMCID: PMC5023398
+PMID: 28131278 
+

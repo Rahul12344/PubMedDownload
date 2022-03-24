@@ -1,0 +1,51 @@
+
+1. Nat Commun. 2021 Nov 25;12(1):6855. doi: 10.1038/s41467-021-27180-0.
+
+Spike residue 403 affects binding of coronavirus spikes to human ACE2.
+
+Zech F(1), Schniertshauer D(1), Jung C(2)(3)(4), Herrmann A(5), Cordsmeier A(5), 
+Xie Q(1), Nchioua R(1), Prelli Bozzo C(1), Volcic M(1), Koepke L(1), Müller
+JA(1), Krüger J(6), Heller S(6), Stenger S(7), Hoffmann M(8), Pöhlmann S(8),
+Kleger A(6), Jacob T(2)(3)(4), Conzelmann KK(9), Ensser A(5), Sparrer KMJ(1),
+Kirchhoff F(10).
+
+Author information: 
+(1)Institute of Molecular Virology, Ulm University Medical Center, 89081, Ulm,
+Germany.
+(2)Institute of Electrochemistry, Ulm University, 89081, Ulm, Germany.
+(3)Helmholtz-Institute Ulm (HIU) Electrochemical Energy Storage, Helmholtz-Straße
+16, 89081, Ulm, Germany.
+(4)Karlsruhe Institute of Technology (KIT), P.O. Box 3640, 76021, Karlsruhe,
+Germany.
+(5)Institute of Clinical and Molecular Virology, University Hospital Erlangen,
+Friedrich-Alexander Universität Erlangen-Nürnberg, 91054, Erlangen, Germany.
+(6)Department of Internal Medicine I, Ulm University Medical Center, 89081, Ulm, 
+Germany.
+(7)Institute of Medical Microbiology and Hygiene, Ulm University Medical Centre, 
+89081, Ulm, Germany.
+(8)Infection Biology Unit, German Primate Center-Leibniz Institute for Primate
+Research, Göttingen, Germany.
+(9)Max von Pettenkofer-Institute of Virology, Medical Faculty, and Gene Center,
+Ludwig-Maximilians-Universität München, 81377, Munich, Germany.
+(10)Institute of Molecular Virology, Ulm University Medical Center, 89081, Ulm,
+Germany. Frank.Kirchhoff@uni-ulm.de.
+
+The bat sarbecovirus RaTG13 is a close relative of SARS-CoV-2, the cause of the
+COVID-19 pandemic. However, this bat virus was most likely unable to directly
+infect humans since its Spike (S) protein does not interact efficiently with the 
+human ACE2 receptor. Here, we show that a single T403R mutation increases binding
+of RaTG13 S to human ACE2 and allows VSV pseudoparticle infection of human lung
+cells and intestinal organoids. Conversely, mutation of R403T in the SARS-CoV-2 S
+reduces pseudoparticle infection and viral replication. The T403R RaTG13 S is
+neutralized by sera from individuals vaccinated against COVID-19 indicating that 
+vaccination might protect against future zoonoses. Our data suggest that a
+positively charged amino acid at position 403 in the S protein is critical for
+efficient utilization of human ACE2 by S proteins of bat coronaviruses. This
+finding could help to better predict the zoonotic potential of animal
+coronaviruses.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-27180-0 
+PMID: 34824253 
+

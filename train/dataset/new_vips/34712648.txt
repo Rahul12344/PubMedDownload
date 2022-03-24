@@ -1,0 +1,46 @@
+
+1. Front Chem. 2021 Oct 12;9:722633. doi: 10.3389/fchem.2021.722633. eCollection
+2021.
+
+Virtual Screening on Marine Natural Products for Discovering TMPRSS2 Inhibitors.
+
+Mahmudpour M(1)(2), Nabipour I(1), Keshavarz M(2), Farrokhnia M(1).
+
+Author information: 
+(1)The Persian Gulf Marine Biotechnology Research Center, The Persian Gulf
+Biomedical Sciences Research Institute, Bushehr University of Medical Sciences,
+Bushehr, Iran.
+(2)The Persian Gulf Tropical Medicine Research Center, The Persian Gulf
+Biomedical Sciences Research Institute, Bushehr University of Medical Sciences,
+Bushehr, Iran.
+
+Although SARS-CoV-2 entry to cells strictly depends on angiotensin-converting
+enzyme 2 (ACE2), the virus also needs transmembrane serine protease 2 (TMPRSS2)
+for its spike protein priming. It has been shown that the entrance of SARS-CoV-2 
+through ACE2 can be blocked by cellular TMPRSS2 blockers. The main aim of this
+study was to find potential inhibitor(s) of TMPRSS2 through virtual screening
+against a homology model of TMPRSS2 using the library of marine natural products 
+(MNPs). The homology modeling technique for generating a three-dimensional
+structure of TMPRSS2 was applied. Molecular docking, MM-GBSA and absorption,
+distribution, metabolism, excretion (ADME) evaluations were performed to
+investigate the inhibitory activity of marine natural products (MNPs) against
+TMPRSS2 and their pharmacokinetic properties. Camostat and nafamostat mesylate
+were used as the standard inhibitory molecules. Seven MNPs were able to inhibit
+TMPRSS2 better than the standard compounds. MNP 10 with CAS number 107503-09-3,
+called Watasenia β-D- Preluciferyl glucopyrasoiuronic acid, was found to be the
+best inhibitor of TMPRSS2 with acceptable pharmacokinetic properties. Herein, for
+the first time, a new marine natural product was introduced with potent
+inhibitory effects against TMPRSS2. MNP 10 exhibited favorable drug-like
+pharmacokinetic properties and it promises a novel TMPRSS2 blocker to combat
+SARS-CoV-2.
+
+Copyright © 2021 Mahmudpour, Nabipour, Keshavarz and Farrokhnia.
+
+DOI: 10.3389/fchem.2021.722633 
+PMCID: PMC8545810
+PMID: 34712648 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

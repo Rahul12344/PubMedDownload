@@ -1,0 +1,61 @@
+
+1. Curr Opin Solid State Mater Sci. 2022 Feb;26(1):100966. doi:
+10.1016/j.cossms.2021.100966. Epub 2021 Nov 20.
+
+Overcoming the limitations of COVID-19 diagnostics with nanostructures, nucleic
+acid engineering, and additive manufacturing.
+
+Li N(1)(2)(3), Zhao B(1)(2), Stavins R(4), Peinetti AS(5), Chauhan N(1)(2),
+Bashir R(1)(2)(3)(6), Cunningham BT(1)(2)(3)(6), King WP(2)(4), Lu Y(1)(5), Wang 
+X(1)(2)(5), Valera E(2)(6).
+
+Author information: 
+(1)Carle Woese Institute for Genomic Biology, University of Illinois at
+Urbana-Champaign, United States.
+(2)Holonyak Micro and Nanotechnology Laboratory, University of Illinois at
+Urbana-Champaign, United States.
+(3)Department of Electrical and Computer Engineering, University of Illinois at
+Urbana-Champaign, United States.
+(4)Department of Mechanical Science and Engineering, University of Illinois at
+Urbana-Champaign, United States.
+(5)Department of Chemistry, University of Illinois at Urbana-Champaign, United
+States.
+(6)Department of Bioengineering, University of Illinois at Urbana-Champaign,
+United States.
+
+The COVID-19 pandemic revealed fundamental limitations in the current model for
+infectious disease diagnosis and serology, based upon complex assay workflows,
+laboratory-based instrumentation, and expensive materials for managing samples
+and reagents. The lengthy time delays required to obtain test results, the high
+cost of gold-standard PCR tests, and poor sensitivity of rapid point-of-care
+tests contributed directly to society's inability to efficiently identify
+COVID-19-positive individuals for quarantine, which in turn continues to impact
+return to normal activities throughout the economy. Over the past year, enormous 
+resources have been invested to develop more effective rapid tests and laboratory
+tests with greater throughput, yet the vast majority of engineering and chemistry
+approaches are merely incremental improvements to existing methods for nucleic
+acid amplification, lateral flow test strips, and enzymatic amplification assays 
+for protein-based biomarkers. Meanwhile, widespread commercial availability of
+new test kits continues to be hampered by the cost and time required to develop
+single-use disposable microfluidic plastic cartridges manufactured by injection
+molding. Through development of novel technologies for sensitive, selective,
+rapid, and robust viral detection and more efficient approaches for scalable
+manufacturing of microfluidic devices, we can be much better prepared for future 
+management of infectious pathogen outbreaks. Here, we describe how photonic
+metamaterials, graphene nanomaterials, designer DNA nanostructures, and polymers 
+amenable to scalable additive manufacturing are being applied towards overcoming 
+the fundamental limitations of currently dominant COVID-19 diagnostic approaches.
+In this paper, we review how several distinct classes of nanomaterials and
+nanochemistry enable simple assay workflows, high sensitivity, inexpensive
+instrumentation, point-of-care sample-to-answer virus diagnosis, and rapidly
+scaled manufacturing.
+
+DOI: 10.1016/j.cossms.2021.100966 
+PMCID: PMC8604633
+PMID: 34840515 
+
+Conflict of interest statement: Yi Lu is a co-founder of ANDAlyze and
+GlucoSentient, Inc. The other authors declare that they have no known competing
+financial interests or personal relationships that could have appeared to
+influence the work reported in this paper.
+

@@ -1,0 +1,55 @@
+
+1. J Proteome Res. 2017 Sep 1;16(9):3147-3157. doi: 10.1021/acs.jproteome.7b00001.
+Epub 2017 Jul 31.
+
+Human Regulatory Protein Ki-1/57 Is a Target of SUMOylation and Affects PML
+Nuclear Body Formation.
+
+Saito Â(1), Souza EE(2), Costa FC(3), Meirelles GV(1), Gonçalves KA(1), Santos
+MT(4), Bressan GC(5), McComb ME(6), Costello CE(6), Whelan SA(6), Kobarg J(2)(7).
+
+Author information: 
+(1)Laboratório Nacional de Biociências (LNBio), Centro Nacional de Pesquisa em
+Energia e Materiais (CNPEM) , Campinas, São Paulo 13083-970, Brazil.
+(2)Faculdade de Ciências Farmacêuticas, Universidade Estadual de Campinas ,
+Campinas, São Paulo 13083-859, Brazil.
+(3)Instituto de Física de São Carlos, Universidade de São Paulo , São Carlos, São
+Paulo 13563-120, Brazil.
+(4)ONKOS Molecular Diagnostics, Inc. , R&D Department, Ribeirão Preto, São Paulo 
+14056-680, Brazil.
+(5)Departamento de Bioquímica e Biologia Molecular, Universidade Federal de
+Viçosa (UFV) , Viçosa, Minas Gerais 36570-000, Brazil.
+(6)Center for Biomedical Mass Spectrometry, Boston University School of Medicine 
+, Boston, Massachusetts 02118, United States.
+(7)Departamento de Bioquímica e Biologia Tecidual, Programa de Pós-graduação em
+Biologia Funcional e Molecular, Universidade Estadual de Campinas , Campinas, São
+Paulo 13083-862, Brazil.
+
+Ki-1/57 is a nuclear and cytoplasmic regulatory protein first identified in
+malignant cells from Hodgkin's lymphoma. It is involved in gene expression
+regulation on both transcriptional and mRNA metabolism levels. Ki-1/57 belongs to
+the family of intrinsically unstructured proteins and undergoes phosphorylation
+by PKC and methylation by PRMT1. Previous characterization of its protein
+interaction profile by yeast two-hybrid screening showed that Ki-1/57 interacts
+with proteins of the SUMOylation machinery, the SUMO E2 conjugating enzyme UBC9
+and the SUMO E3 ligase PIAS3, which suggested that Ki-1/57 could be involved with
+this process. Here we identified seven potential SUMO target sites (lysine
+residues) on Ki-1/57 sequence and observed that Ki-1/57 is modified by SUMO
+proteins in vitro and in vivo. We showed that SUMOylation of Ki-1/57 occurred on 
+lysines 213, 276, and 336. In transfected cells expressing FLAG-Ki-1/57
+wild-type, its paralog FLAG-CGI-55 wild-type, or their non-SUMOylated triple
+mutants, the number of PML-nuclear bodies (PML-NBs) is reduced compared with the 
+control cells not expressing the constructs. More interestingly, after treating
+cells with arsenic trioxide (As2O3), the number of PML-NBs is no longer reduced
+when the non-SUMOylated triple mutant Ki-1/57 is expressed, suggesting that the
+SUMOylation of Ki-1/57 has a role in the control of As2O3-induced PML-NB
+formation. A proteome-wide analysis of Ki-1/57 partners in the presence of either
+SUMO-1 or SUMO-2 suggests that the involvement of Ki-1/57 with the regulation of 
+gene expression is independent of the presence of either SUMO-1 or SUMO-2;
+however, the presence of SUMO-1 strongly influences the interaction of Ki-1/57
+with proteins associated with cellular metabolism, maintenance, and cell cycle.
+
+DOI: 10.1021/acs.jproteome.7b00001 
+PMCID: PMC6699623
+PMID: 28695742  [Indexed for MEDLINE]
+

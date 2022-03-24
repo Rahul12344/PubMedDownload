@@ -1,0 +1,40 @@
+
+1. brief funct genomics. 2018 nov 26;17(6):441-450. doi: 10.1093/bfgp/elx024.
+
+analysis protein targets pathogen-host interaction infectious diseases: 
+a case study plasmodium falciparum homo sapiens interaction network.
+
+saha s(1), sengupta k(2), chatterjee p(3), basu s(2), nasipuri m(2).
+
+author information: 
+(1)department computer science engineering dr sudhir chandra sur degree
+engineering college, india.
+(2)department computer science engineering, jadavpur university, india.
+(3)department computer science engineering, netaji subhash engineering
+college, garia, india.
+
+infection disease progression outcome protein interactions 
+pathogen host. pathogen, role player infection, becoming severe
+threat life adaptability toward drugs evolutionary
+dynamism nature. identifying protein targets analyzing protein interactions
+between host pathogen key point. proteins higher degree and
+possessing topologically significant graph theoretical measures found to
+be drug targets. hand, exceptional nodes may involved in
+infection mechanism pathway process biologically unknown
+factors. article, attempt investigate characteristics of
+host-pathogen protein interactions presenting comprehensive review of
+computational approaches applied different infectious diseases. an
+illustration, analyzed case study infectious disease malaria, with
+its causative agent plasmodium falciparum acting 'bait' host, homo
+sapiens/human acting 'prey'. pathogen-host interaction network based
+on interconnectivity centrality properties, proteins viewed as
+central, peripheral, hub non-hub nodes significance infection
+process. besides, observed sparseness pathogen and
+host interaction network, may topologically unimportant but
+biologically significant proteins, also act bait/prey. so,
+functional similarity gene ontology mapping help us case to
+identify proteins.
+
+doi: 10.1093/bfgp/elx024 
+pmid: 29028886  [indexed medline]
+

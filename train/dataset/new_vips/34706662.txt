@@ -1,0 +1,67 @@
+
+1. BMC Infect Dis. 2021 Oct 27;21(1):1107. doi: 10.1186/s12879-021-06805-1.
+
+Zika virus infection and microcephaly: spatial analysis and socio-environmental
+determinants in a region of high Aedes aegypti infestation in the Central-West
+Region of Brazil.
+
+Nunes PS(1)(2), Guimarães RA(3)(4), Martelli CMT(5), de Souza WV(5), Turchi
+MD(6).
+
+Author information: 
+(1)Federal Institute of Education, Science and Technology of Goiás, Goiânia,
+Brazil. patnunesufg@gmail.com.
+(2)Institute of Tropical Pathology and Public Health, Federal University of
+Goiás, Goiânia, Brazil. patnunesufg@gmail.com.
+(3)Institute of Tropical Pathology and Public Health, Federal University of
+Goiás, Goiânia, Brazil.
+(4)Faculty of Nursing, Federal University of Goiás, Goiânia, Brazil.
+(5)Instituto Aggeu Magalhães, Oswaldo Cruz Foundation, Recife, Brazil.
+(6)Institute of Tropical Pathology and Public Health, Federal University of
+Goiás, Goiânia, Brazil. marilia.turchi@gmail.com.
+
+BACKGROUND: More than 5 years after the Zika virus (ZIKV) epidemic, Zika
+infection remains a major concern in regions with high Aedes infestation. The
+objectives of this study were (i) to identify clusters of ZIKV infection and
+microcephaly, and/or central nervous system (CNS) alterations associated with
+congenital infection during the epidemic peak in 2016 and subsequently, in 2017
+and 2018; (ii) to measure the non-spatial correlation between ZIKV infection and 
+microcephaly and/or CNS alterations associated with congenital infection; and
+(iii) to analyse the sociodemographic/economic, health, and environmental
+determinants associated with the incidence of ZIKV in a region of high
+infestation by Aedes aegypti in the Central-West Region of Brazil.
+METHODS: This ecological study analysed 246 municipalities in the state of Goiás 
+(6.9 million inhabitants). The data were obtained from the Information System for
+Notifiable Diseases (ZIKV cases) and the Public Health Event Registry
+(microcephaly and/or CNS alterations associated with congenital infection).
+Incidence rates and prevalence of ZIKA infection were smoothed by an empirical
+Bayesian estimator (LEbayes), producing the local empirical Bayesian rate (LEBR).
+In the spatial analysis, ZIKV infection and microcephaly cases were georeferenced
+by the municipality of residence for 2016 and grouped for 2017 and 2018. Global
+Moran's I and the Hot Spot Analysis tool (Getis-Ord Gi* statistics) were used to 
+analyse the spatial autocorrelation and clusters of ZIKV infection and
+microcephaly, respectively. A generalised linear model from the Poisson family
+was used to assess the association between ecological determinants and the
+smoothing incidence rate of ZIKV infection.
+RESULTS: A total of 9892 cases of acute ZIKV infection and 121 cases of
+microcephaly were confirmed. The mean LEBR of the ZIKV infection in the 246
+municipalities was 22.3 cases/100,000 inhabitants in 2016, and 10.3 cases/100,000
+inhabitants in 2017 and 2018. The LEBR of the prevalence rate of microcephaly
+and/or CNS alterations associated with congenital infection was 7 cases/10,000
+live births in 2016 and 2 cases/10,000 live births during 2017-2018. Hotspots of 
+ZIKV infection and microcephaly cases were identified in the capital and
+neighbouring municipalities in 2016, with new clusters in the following years. In
+a multiple regression Poisson analysis, ZIKV infection was associated with higher
+population density, the incidence of dengue, Aedes larvae infestation index, and 
+average rainfall. The important determinant of ZIKV infection incidence reduction
+was the increase in households attended by endemic disease control agents.
+CONCLUSIONS: Our analyses were able to capture, in a more granular way, aspects
+that make it possible to inform public managers of the sentinel areas identified 
+in the post-epidemic hotspots.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12879-021-06805-1 
+PMCID: PMC8549329
+PMID: 34706662  [Indexed for MEDLINE]
+

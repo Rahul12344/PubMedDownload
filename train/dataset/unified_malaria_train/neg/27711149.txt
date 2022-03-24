@@ -1,0 +1,68 @@
+
+1. plos one. 2016 oct 6;11(10):e0164054. doi: 10.1371/journal.pone.0164054.
+ecollection 2016.
+
+spatial effects multiplicity plasmodium falciparum infections.
+
+karl s(1)(2)(3), white mt(1)(4), milne gj(5), gurarie d(6), hay si(7)(8), barry
+ae(1)(2), felger i(9)(10), mueller i(1)(2)(11).
+
+author information: 
+(1)population-based biology division, walter eliza hall institute medical 
+research, parkville, victoria, australia.
+(2)department medical biology, university melbourne, parkville, victoria,
+australia.
+(3)vector-borne diseases unit, papua new guinea insititute medical research,
+madang, madang province, papua new guinea.
+(4)mrc centre outbreak analysis & modelling, department infectious disease
+epidemiology, imperial college, london, united kingdom.
+(5)school computer science software engineering, university western
+australia, perth, wa, australia.
+(6)department mathematics, applied mathematics statistics, case western
+reserve university, cleveland, ohio, united states america.
+(7)institute health metrics evaluation, seattle, washington, united
+states america.
+(8)fogarty international center, national institutes health, bethesda,
+maryland, united states america.
+(9)department medical parasitology infection biology swiss tropical and
+public health institute, basel, switzerland.
+(10)university basel, basel, switzerland.
+(11)malaria: parasites hosts unit, department parasites & insect vectors, 
+institut pasteur, paris, france.
+
+as malaria pushed back many frontiers global case numbers are
+declining, accurate measurement prediction transmission becomes
+increasingly difficult. low transmission settings characterised high
+levels spatial heterogeneity, stands stark contrast widely
+used assumption spatially homogeneous transmission used mathematical
+transmission models malaria. present study individual-based
+mathematical malaria transmission model incorporates multiple parasite
+clones, variable human exposure duration infection, limited mosquito
+flight distance importantly geographically heterogeneous human and
+mosquito population densities used illustrate differences between
+homogeneous heterogeneous transmission assumptions aiming predict
+surrogate indicators transmission intensity population parasite
+prevalence multiplicity infection (moi). traditionally highly malaria
+endemic regions population harbours malaria parasites, humans
+are often infected multiple parasite clones. however, studies shown
+also areas low overall parasite prevalence, infection multiple
+parasite clones common occurrence. mathematical models assuming homogeneous 
+transmission humans mosquitoes cannot explain observations.
+heterogeneity transmission arise many factors including acquired
+immunity, body size occupational exposure. study, show that
+spatial heterogeneity profound effect predictions moi parasite
+prevalence. illustrate, models assuming homogeneous transmission
+underestimate average moi low transmission settings compared field
+data spatially heterogeneous models predict stable transmission much 
+lower overall parasite prevalence. therefore important models
+used guide malaria surveillance control strategies low transmission and
+elimination settings take account spatial features specific
+target area, including human mosquito vector distribution.
+
+doi: 10.1371/journal.pone.0164054 
+pmcid: pmc5053403
+pmid: 27711149  [indexed medline]
+
+conflict interest statement: authors declared competing
+interests exist.
+

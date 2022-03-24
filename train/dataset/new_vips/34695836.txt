@@ -1,0 +1,140 @@
+
+1. Nature. 2021 Oct 25. doi: 10.1038/s41586-021-04142-6. [Epub ahead of print]
+
+Untimely TGFβ responses in COVID-19 limit antiviral functions of NK cells.
+
+Witkowski M(#)(1)(2)(3), Tizian C(#)(4)(5), Ferreira-Gomes M(#)(6), Niemeyer
+D(7)(8), Jones TC(7)(8)(9), Heinrich F(6), Frischbutter S(10)(11), Angermair
+S(12), Hohnstein T(4)(5), Mattiola I(4)(5), Nawrath P(4)(5), McEwen S(4)(5),
+Zocche S(13), Viviano E(14), Heinz GA(6), Maurer M(10)(11), Kölsch U(15), Chua
+RL(16), Aschman T(17), Meisel C(15)(18), Radke J(17), Sawitzki B(18), Roehmel
+J(19), Allers K(20), Moos V(20), Schneider T(20), Hanitsch L(18), Mall
+MA(19)(21), Conrad C(16), Radbruch H(17), Duerr CU(22), Trapani JA(23), Marcenaro
+E(24), Kallinich T(19)(25), Corman VM(7)(8), Kurth F(26)(27), Sander LE(26),
+Drosten C(7)(8), Treskatsch S(12), Durek P(6), Kruglov A(28)(29)(30), Radbruch
+A(31), Mashreghi MF(6)(32), Diefenbach A(33)(34)(35).
+
+Author information: 
+(1)Laboratory of Innate Immunity, Institute of Microbiology, Infectious Diseases 
+and Immunology, Charité - Universitätsmedizin Berlin, Corporate Member of Freie
+Universität Berlin and Humboldt-Universität zu Berlin, Campus Benjamin Franklin, 
+Berlin, Germany. mario.witkowski@charite.de.
+(2)Mucosal and Developmental Immunology, Deutsches Rheuma-Forschungszentrum
+(DRFZ), an Institute of the Leibniz Association, Berlin, Germany.
+mario.witkowski@charite.de.
+(3)Department of Microbiology and Hygiene, Labor Berlin, Charité-Vivantes,
+Berlin, Germany. mario.witkowski@charite.de.
+(4)Laboratory of Innate Immunity, Institute of Microbiology, Infectious Diseases 
+and Immunology, Charité - Universitätsmedizin Berlin, Corporate Member of Freie
+Universität Berlin and Humboldt-Universität zu Berlin, Campus Benjamin Franklin, 
+Berlin, Germany.
+(5)Mucosal and Developmental Immunology, Deutsches Rheuma-Forschungszentrum
+(DRFZ), an Institute of the Leibniz Association, Berlin, Germany.
+(6)Therapeutic Gene Regulation, Deutsches Rheuma-Forschungszentrum (DRFZ), an
+Institute of the Leibniz Association, Berlin, Germany.
+(7)Institute of Virology, Charité - Universitätsmedizin Berlin, Corporate Member 
+of Freie Universität Berlin and Humboldt-Universität zu Berlin, Campus Charité
+Mitte, Berlin, Germany.
+(8)German Center for Infection Research (DZIF), Partner Site Berlin, Berlin,
+Germany.
+(9)Centre for Pathogen Evolution, Department of Zoology, University of Cambridge,
+Cambridge, UK.
+(10)Dermatological Allergology, Allergie-Centrum-Charité, Department of
+Dermatology and Allergy, Charité-Universitätsmedizin Berlin, Corporate Member of 
+Freie Universität Berlin and Humboldt-Universität zu Berlin, Campus Charité
+Mitte, Berlin, Germany.
+(11)Fraunhofer Institute for Translational Medicine and Pharmacology (ITMP)
+Allergology and Immunology, Berlin, Germany.
+(12)Department of Anesthesiology and Intensive Care Medicine, Charité -
+Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin and
+Humboldt-Universität zu Berlin, Campus Benjamin Franklin, Berlin, Germany.
+(13)Department of Pediatric Gastroenterology, Nephrology and Metabolic Diseases, 
+Charité - Universitätsmedizin Berlin, Corporate Member of Freie Universität
+Berlin and Humboldt-Universität zu Berlin, Campus Virchow-Klinikum, Berlin,
+Germany.
+(14)Institute of Physiology, Center for Space Medicine and Extreme Environments
+Berlin, Charité-Universitätsmedizin Berlin, Corporate Member of Freie Universität
+Berlin and Humboldt-Universität zu Berlin, Berlin, Germany.
+(15)Department of Immunology, Labor Berlin, Charité-Vivantes, Berlin, Germany.
+(16)Center for Digital Health, Berlin Institute of Health (BIH) and
+Charité-Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin 
+and Humboldt-Universität zu Berlin, Berlin, Germany.
+(17)Department of Neuropathology, Charité-Universitätsmedizin Berlin, Corporate
+Member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Berlin,
+Germany.
+(18)Institute of Medical Immunology, Charité - Universitätsmedizin Berlin,
+Corporate Member of Freie Universität Berlin and Humboldt-Universität zu Berlin, 
+Campus Virchow-Klinikum, Berlin, Germany.
+(19)Department of Pediatric Respiratory Medicine, Immunology and Critical Care
+Medicine, Charité-Universitätsmedizin Berlin, Corporate Member of Freie
+Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany.
+(20)Department of Medicine (Gastroenterology, Infectious Diseases, Rheumatology),
+Charité - Universitätsmedizin Berlin, Corporate Member of Freie Universität
+Berlin, Humboldt-Universität zu Berlin and Berlin Institute of Health, Campus
+Benjamin Franklin, Berlin, Germany.
+(21)German Center for Lung Research (DZL), Associated Partner Berlin, Berlin,
+Germany.
+(22)Laboratory of Mucosal Immunity, Institute of Microbiology, Infectious
+Diseases and Immunology, Charité - Universitätsmedizin Berlin, Corporate Member
+of Freie Universität Berlin and Humboldt-Universität zu Berlin, Campus Benjamin
+Franklin, Berlin, Germany.
+(23)Cancer Immunology Program, Peter MacCallum Cancer Centre, Melbourne,
+Victoria, Australia.
+(24)Department of Experimental Medicine, University of Genoa, Genoa, Italy.
+(25)Chronic inflammation in Childhood, Deutsches Rheuma-Forschungszentrum (DRFZ),
+an Institute of the Leibniz Association, Berlin, Germany.
+(26)Department of Infectious Diseases and Respiratory Medicine, Charité -
+Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin and
+Humboldt-Universität zu Berlin, Berlin, Germany.
+(27)Department of Tropical Medicine, Bernhard Nocht Institute for Tropical
+Medicine, and Department of Medicine I, University Medical Centre
+Hamburg-Eppendorf, Hamburg, Germany.
+(28)Chronic Inflammation, Deutsches Rheuma-Forschungszentrum (DRFZ), an Institute
+of the Leibniz Association, Berlin, Germany.
+(29)Belozersky Institute of Physico-Chemical Biology and Biological Faculty, M.V.
+Lomonosov Moscow State University, Moscow, Russia.
+(30)Center for Precision Genome Editing and Genetic Technologies for Biomedicine,
+Engelhardt Institute of Molecular Biology, Russian Academy of Sciences, Moscow,
+Russia.
+(31)Cell Biology, Deutsches Rheuma-Forschungszentrum (DRFZ), an Institute of the 
+Leibniz Association, Berlin, Germany.
+(32)BIH Center for Regenerative Therapies (BCRT), Charité Universitätsmedizin
+Berlin, Berlin, Germany.
+(33)Laboratory of Innate Immunity, Institute of Microbiology, Infectious Diseases
+and Immunology, Charité - Universitätsmedizin Berlin, Corporate Member of Freie
+Universität Berlin and Humboldt-Universität zu Berlin, Campus Benjamin Franklin, 
+Berlin, Germany. andreas.diefenbach@charite.de.
+(34)Mucosal and Developmental Immunology, Deutsches Rheuma-Forschungszentrum
+(DRFZ), an Institute of the Leibniz Association, Berlin, Germany.
+andreas.diefenbach@charite.de.
+(35)Department of Microbiology and Hygiene, Labor Berlin, Charité-Vivantes,
+Berlin, Germany. andreas.diefenbach@charite.de.
+(#)Contributed equally
+
+SARS-CoV-2 is a single-stranded RNA virus that causes COVID-19. Given its acute
+and often self-limiting course, it is likely that components of the innate immune
+system play a central part in controlling virus replication and determining
+clinical outcome. Natural killer (NK) cells are innate lymphocytes with notable
+activity against a broad range of viruses, including RNA viruses1,2. NK cell
+function may be altered during COVID-19 despite increased representation of NK
+cells with an activated and adaptive phenotype3,4. Here we show that a decline in
+viral load in COVID-19 correlates with NK cell status and that NK cells can
+control SARS-CoV-2 replication by recognizing infected target cells. In severe
+COVID-19, NK cells show defects in virus control, cytokine production and
+cell-mediated cytotoxicity despite high expression of cytotoxic effector
+molecules. Single-cell RNA sequencing of NK cells over the time course of the
+COVID-19 disease spectrum reveals a distinct gene expression signature.
+Transcriptional networks of interferon-driven NK cell activation are superimposed
+by a dominant transforming growth factor-β (TGFβ) response signature, with
+reduced expression of genes related to cell-cell adhesion, granule exocytosis and
+cell-mediated cytotoxicity. In severe COVID-19, serum levels of TGFβ peak during 
+the first two weeks of infection, and serum obtained from these patients severely
+inhibits NK cell function in a TGFβ-dependent manner. Our data reveal that an
+untimely production of TGFβ is a hallmark of severe COVID-19 and may inhibit NK
+cell function and early control of the virus.
+
+© 2021. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41586-021-04142-6 
+PMID: 34695836 
+

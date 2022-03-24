@@ -1,0 +1,57 @@
+
+1. PLoS One. 2021 Oct 22;16(10):e0259010. doi: 10.1371/journal.pone.0259010.
+eCollection 2021.
+
+Stratifying the early radiologic trajectory in dyspneic patients with COVID-19
+pneumonia.
+
+Kim JY(1), Jung KJ(2), Yoo SJ(3), Yoon SH(4)(5).
+
+Author information: 
+(1)Department of Radiology, Dongsan Hospital, Keimyung University College of
+Medicine, Daegu, South Korea.
+(2)Department of Epidemiology and Health Promotion, Institute for Health
+Promotion, Graduate School of Public Health, Yonsei University, Seoul, South
+Korea.
+(3)Department of Radiology, Hanyang University Medical Center, Hanyang University
+College of Medicine, Seoul, South Korea.
+(4)Department of Radiology, UMass Memorial Medical Center, Worcester, MA, United 
+States of America.
+(5)Department of Radiology, Seoul National University Hospital, Seoul, South
+Korea.
+
+OBJECTIVE: This study aimed to stratify the early pneumonia trajectory on chest
+radiographs and compare patient characteristics in dyspneic patients with
+coronavirus disease 2019 (COVID-19).
+MATERIALS AND METHODS: We retrospectively included 139 COVID-19 patients with
+dyspnea (87 men, 62.7±16.3 years) and serial chest radiographs from January to
+September 2020. Radiographic pneumonia extent was quantified as a percentage
+using a previously-developed deep learning algorithm. A group-based trajectory
+model was used to categorize the pneumonia trajectory after symptom onset during 
+hospitalization. Clinical findings, and outcomes were compared, and Cox
+regression was performed for survival analysis.
+RESULTS: Radiographic pneumonia trajectories were categorized into four groups.
+Group 1 (n = 83, 59.7%) had negligible pneumonia, and group 2 (n = 29, 20.9%) had
+mild pneumonia. Group 3 (n = 13, 9.4%) and group 4 (n = 14, 10.1%) showed similar
+considerable pneumonia extents at baseline, but group 3 had decreasing pneumonia 
+extent at 1-2 weeks, while group 4 had increasing pneumonia extent. Intensive
+care unit admission and mortality were significantly more frequent in groups 3
+and 4 than in groups 1 and 2 (P < .05). Groups 3 and 4 shared similar clinical
+and laboratory findings, but thrombocytopenia (<150×103/μL) was exclusively
+observed in group 4 (P = .016). When compared to groups 1 and 2, group 4 (hazard 
+ratio, 63.3; 95% confidence interval, 7.9-504.9) had a two-fold higher risk for
+mortality than group 3 (hazard ratio, 31.2; 95% confidence interval, 3.5-280.2), 
+and this elevated risk was maintained after adjusting confounders.
+CONCLUSION: Monitoring the early radiologic trajectory beyond baseline further
+prognosticated at-risk COVID-19 patients, who potentially had
+thrombo-inflammatory responses.
+
+DOI: 10.1371/journal.pone.0259010 
+PMCID: PMC8535425
+PMID: 34679127  [Indexed for MEDLINE]
+
+Conflict of interest statement: Soon Ho Yoon has read the journal’s policy and
+the authors of this manuscript have the following competing interests: employment
+as a chief medical officer in MEDICALIP. Other authors do not have any conflict
+of interest to declare.
+

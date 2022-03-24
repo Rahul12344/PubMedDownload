@@ -1,0 +1,57 @@
+
+1. J Infect Dis. 2020 Jan 2;221(2):325-335. doi: 10.1093/infdis/jiz460.
+
+Surface Proteome of Plasma Extracellular Vesicles as Biomarkers for Pneumonia and
+Acute Exacerbation of Chronic Obstructive Pulmonary Disease.
+
+Jung AL(1), Møller Jørgensen M(2), Bæk R(2), Griss K(1)(3), Han M(1)(4), Auf Dem 
+Brinke K(1), Timmesfeld N(5), Bertrams W(1), Greulich T(6), Koczulla R(6),
+Hippenstiel S(3), Suttorp N(3), Schmeck B(1)(6)(7).
+
+Author information: 
+(1)Institute for Lung Research, Universities of Giessen and Marburg Lung Center, 
+Philipps-University Marburg, Member of the German Center for Lung Research,
+Marburg, Germany.
+(2)Department of Clinical Immunology, Aalborg University Hospital, Aalborg,
+Denmark.
+(3)Medizinische Klinik m.S. Infektiologie und Pneumologie,
+Charité-Universitätsmedizin Berlin, Berlin, Germany.
+(4)Medizinische Klinik m.S. Hämatologie und Onkologie,
+Charité-Universitätsmedizin Berlin, Berlin, Germany.
+(5)Abteilung für Medizinische Informatik, Biometrie und Epidemiologie,
+Ruhr-Universität Bochum, Bochum, Germany.
+(6)Department of Medicine, Pulmonary and Critical Care Medicine, University
+Medical Center Giessen and Marburg, Philipps-University Marburg, Member of the
+German Center for Lung Research, Marburg, Germany.
+(7)Center for Synthetic Microbiology (SYNMIKRO), Philipps-University Marburg,
+Marburg, Germany.
+
+BACKGROUND: Community-acquired pneumonia (CAP) and acute exacerbation of chronic 
+obstructive pulmonary disease (AECOPD) represent a major burden of disease and
+death and their differential diagnosis is critical. A potential source of
+relevant accessible biomarkers are blood-borne small extracellular vesicles
+(sEVs).
+METHODS: We performed an extracellular vesicle array to find proteins on plasma
+sEVs that are differentially expressed and possibly allow the differential
+diagnosis between CAP and AECOPD. Plasma samples were analyzed from 21 healthy
+controls, 24 patients with CAP, and 10 with AECOPD . The array contained 40
+antibodies to capture sEVs, which were then visualized with a cocktail of
+biotin-conjugated CD9, CD63, and CD81 antibodies.
+RESULTS: We detected significant differences in the protein decoration of sEVs
+between healthy controls and patients with CAP or AECOPD. We found CD45 and CD28 
+to be the best discrimination markers between CAP and AECOPD in receiver
+operating characteristic analyses, with an area under the curve >0.92. Additional
+ensemble feature selection revealed the possibility to distinguish between CAP
+and AECOPD even if the patient with CAP had COPD, with a panel of CD45, CD28,
+CTLA4 (cytotoxic T-lymphocyte-associated protein 4), tumor necrosis factor-R-II, 
+and CD16.
+CONCLUSION: The discrimination of sEV-associated proteins is a minimally invasive
+method with potential to discriminate between CAP and AECOPD.
+
+© The Author(s) 2019. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiz460 
+PMID: 31617573  [Indexed for MEDLINE]
+

@@ -1,0 +1,52 @@
+
+1. Appl Microbiol Biotechnol. 2019 May;103(10):4089-4102. doi:
+10.1007/s00253-019-09789-w. Epub 2019 Apr 1.
+
+Regulation of teicoplanin biosynthesis: refining the roles of tei
+cluster-situated regulatory genes.
+
+Yushchuk O(1), Horbal L(2), Ostash B(1), Marinelli F(3), Wohlleben W(4), Stegmann
+E(4), Fedorenko V(5).
+
+Author information: 
+(1)Department of Genetics and Biotechnology, Ivan Franko National University of
+Lviv, Rm. 102, 4 Hrushevskoho St., Lviv, 79005, Ukraine.
+(2)Department of Pharmaceutical Biotechnology, Helmholtz Institute for
+Pharmaceutical Research Saarland, Actinobacteria Metabolic Engineering Group,
+Saarland University, UdS Campus C2 3, 66123, Saarbrucken, Germany.
+(3)Department of Biotechnology and Life Sciences, University of Insubria, via
+J.H. Dunant 3, 21100, Varese, Italy.
+(4)Interfaculty Institute of Microbiology and Infection Medicine Tübingen,
+Microbiology/Biotechnology, University of Tübingen, Auf der Morgenstelle 28,
+72076, Tubingen, Germany.
+(5)Department of Genetics and Biotechnology, Ivan Franko National University of
+Lviv, Rm. 102, 4 Hrushevskoho St., Lviv, 79005, Ukraine.
+viktor.fedorenko@lnu.edu.ua.
+
+Teicoplanin is a frontline glycopeptide antibiotic produced by Actinoplanes
+teichomyceticus. It is used to treat complicated cases of infection, including
+pediatric ones, caused by Gram-positive pathogens. There is a steady interest in 
+elucidating the genetic mechanisms determining teicoplanin production, as they
+would help overproduce known teicoplanins and discover novel glycopeptides.
+Herein, we investigate the transcriptional organization of the tei biosynthetic
+gene cluster and the roles of the cluster-situated regulatory genes in
+controlling teicoplanin production and self-resistance in A. teichomyceticus. We 
+demonstrate that the tei cluster is organized into nine polygenic and nine
+monogenic transcriptional units. Most of tei biosynthetic genes are subjected to 
+StrR-like Tei15* control, which, in turn, appears to be regulated by LuxR-type
+Tei16*. Expression of the genes conferring teicoplanin self-resistance in A.
+teichomyceticus is not co-regulated with antibiotic production. The gene tei31*, 
+coding for a putative DNA binding protein, is not expressed under teicoplanin
+producing conditions and is dispensable for antibiotic production. Finally,
+phylogenesis reconstruction of the glycopeptide cluster-encoded regulators
+reveals two main clades of StrR-like regulators. Tei15* and close orthologues
+form one of these clades; the second clade is composed by orthologues of Bbr and 
+Dbv4, governing the biosynthesis of balhimycin and teicoplanin-like A40926,
+respectively. In addition, the LuxR-type Tei16* appears unrelated to the
+LuxR-like Dbv3, which is controlling A40926 biosynthesis. Our results shed new
+light on teicoplanin biosynthesis regulation and on the evolution of novel and
+old glycopeptide biosynthetic gene clusters.
+
+DOI: 10.1007/s00253-019-09789-w 
+PMID: 30937499  [Indexed for MEDLINE]
+

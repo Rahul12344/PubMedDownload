@@ -1,0 +1,39 @@
+
+1. Mol Ther Methods Clin Dev. 2021 Sep 10;23:198-209. doi:
+10.1016/j.omtm.2021.09.003. eCollection 2021 Dec 10.
+
+Optimization of AAV6 transduction enhances site-specific genome editing of
+primary human lymphocytes.
+
+Rogers GL(1), Huang C(1), Clark RDE(1), Seclén E(1), Chen HY(1), Cannon PM(1).
+
+Author information: 
+(1)Department of Molecular Microbiology and Immunology, Keck School of Medicine, 
+University of Southern California, Los Angeles, CA, USA.
+
+Adeno-associated virus serotype 6 (AAV6) is a valuable reagent for genome editing
+of hematopoietic cells due to its ability to serve as a homology donor template. 
+However, a comprehensive study of AAV6 transduction of hematopoietic cells in
+culture, with the goal of maximizing ex vivo genome editing, has not been
+reported. Here, we evaluated how the presence of serum, culture volume,
+transduction time, and electroporation parameters could influence AAV6
+transduction. Based on these results, we identified an optimized protocol for
+genome editing of human lymphocytes based on a short, highly concentrated AAV6
+transduction in the absence of serum, followed by electroporation with a targeted
+nuclease. In human CD4+ T cells and B cells, this protocol improved editing rates
+up to 7-fold and 21-fold, respectively, when compared to standard AAV6
+transduction protocols described in the literature. As a result, editing
+frequencies could be maintained using 50- to 100-fold less AAV6, which also
+reduced cellular toxicity. Our results highlight the important contribution of
+cell culture conditions for ex vivo genome editing with AAV6 vectors and provide 
+a blueprint for improving AAV6-mediated homology-directed editing of human T and 
+B cells.
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.omtm.2021.09.003 
+PMCID: PMC8517001
+PMID: 34703842 
+
+Conflict of interest statement: The authors declare no competing interests.
+

@@ -1,0 +1,40 @@
+
+1. J Immunol. 2008 Oct 1;181(7):4723-32.
+
+Arrestin 3 mediates endocytosis of CCR7 following ligation of CCL19 but not
+CCL21.
+
+Byers MA(1), Calloway PA, Shannon L, Cunningham HD, Smith S, Li F, Fassold BC,
+Vines CM.
+
+Author information: 
+(1)Department of Microbiology, Molecular Genetics and Immunology, The University 
+of Kansas Medical Center, Kansas City, KS 66160, USA.
+
+Internalization of ligand bound G protein-coupled receptors, an important
+cellular function that mediates receptor desensitization, takes place via
+distinct pathways, which are often unique for each receptor. The C-C chemokine
+receptor (CCR7) G protein-coupled receptor is expressed on naive T cells,
+dendritic cells, and NK cells and has two endogenous ligands, CCL19 and CCL21.
+Following binding of CCL21, 21 +/- 4% of CCR7 is internalized in the HuT 78 human
+T cell lymphoma line, while 76 +/- 8% of CCR7 is internalized upon binding to
+CCL19. To determine whether arrestins mediated differential internalization of
+CCR7/CCL19 vs CCR7/CCL21, we used small interfering RNA (siRNA) to knock down
+expression of arrestin 2 or arrestin 3 in HuT 78 cells. Independent of arrestin 2
+or arrestin 3 expression, CCR7/CCL21 internalized. In contrast, following
+depletion of arrestin 3, CCR7/CCL19 failed to internalize. To examine the
+consequence of complete loss of both arrestin 2 and arrestin 3 on CCL19/CCR7
+internalization, we examined CCR7 internalization in arrestin 2(-/-)/arrestin
+3(-/-) murine embryonic fibroblasts. Only reconstitution with arrestin 3-GFP but 
+not arrestin 2-GFP rescued internalization of CCR7/CCL19. Loss of arrestin 2 or
+arrestin 3 blocked migration to CCL19 but had no effect on migration to CCL21.
+Using immunofluorescence microscopy, we found that arrestins do not cluster at
+the membrane with CCR7 following ligand binding but cap with CCR7 during receptor
+internalization. These are the first studies that define a role for arrestin 3 in
+the internalization of a chemokine receptor following binding of one but not both
+endogenous ligands.
+
+DOI: 10.4049/jimmunol.181.7.4723 
+PMCID: PMC7877961
+PMID: 18802075  [Indexed for MEDLINE]
+

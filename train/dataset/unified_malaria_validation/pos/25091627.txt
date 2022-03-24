@@ -1,0 +1,65 @@
+
+1. genome res. 2014 sep;24(9):1433-44. doi: 10.1101/gr.158980.113. epub 2014 aug 4.
+
+interactive transcriptome analysis malaria patients infecting plasmodium
+falciparum.
+
+yamagishi j(1), natori a(2), tolba me(3), mongan ae(4), sugimoto c(5), katayama
+t(6), kawashima s(6), makalowski w(7), maeda r(8), eshita y(9), tuda j(4), suzuki
+y(10).
+
+author information: 
+(1)tohoku medical megabank organization, tohoku university, sendai, miyagi
+980-8579, japan; obihiro university agriculture veterinary medicine,
+obihiro, hokkaido 080-8555, japan;
+(2)department medical genome sciences, university tokyo, kashiwa, chiba
+277-8562, japan;
+(3)department parasitology, assiut university, assiut, 71515, egypt;
+(4)department medicine, sam ratulangi university, kampus unsrat, bahu manado, 
+95115, indonesia;
+(5)research center zoonosis control, hokkaido university, sapporo 001-0020,
+japan;
+(6)database center life science (dbcls), research organization information
+and systems (rois), university tokyo bunkyo-ku, tokyo 113-0032, japan;
+(7)institute bioinformatics, faculty medicine, university muenster,
+48149 munster, germany;
+(8)obihiro university agriculture veterinary medicine, obihiro, hokkaido
+080-8555, japan;
+(9)oita university, school medicine, yufushi, oita 879-5593, japan.
+(10)department medical genome sciences, university tokyo, kashiwa, chiba
+277-8562, japan; ysuzuki@hgc.jp.
+
+erratum in
+    genome res. 2018 aug;28(8):1253.
+
+comment in
+    nat rev genet. 2014 oct;15(10):646.
+
+to understand molecular mechanisms parasitism vivo, essential 
+elucidate transcriptomes human hosts infecting parasites
+affect one another. report rna-seq analysis 116 indonesian
+patients infected malaria parasite plasmodium falciparum (pf). we
+extracted rnas peripheral blood mixture host parasite
+transcripts mapped rna-seq tags human pf reference genomes 
+separate respective tags. thus able simultaneously analyze
+expression patterns humans parasites. identified human and
+parasite genes pathways correlated various clinical data, may
+serve primary targets drug developments. particular importance, we
+revealed characteristic expression changes human innate immune response
+pathway genes including tlr2 ticam2 correlated severity 
+malaria infection. also found group transcription regulatory factors,
+jund, example, signaling molecules, tnfaip3, example, were
+strongly correlated expression patterns humans parasites. also
+identified several genetic variations important anti-malaria drug
+resistance-related genes. furthermore, identified genetic variations which
+are potentially associated severe malaria symptoms humans and
+parasites. newly generated data collectively lay unique foundation
+for understanding variable behaviors field malaria parasites, are
+far complex observed laboratory conditions.
+
+© 2014 yamagishi et al.; published cold spring harbor laboratory press.
+
+doi: 10.1101/gr.158980.113 
+pmcid: pmc4158759
+pmid: 25091627  [indexed medline]
+

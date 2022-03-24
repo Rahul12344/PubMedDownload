@@ -1,0 +1,54 @@
+
+1. Elife. 2021 Nov 8;10. pii: e70843. doi: 10.7554/eLife.70843.
+
+Rapid and sensitive detection of SARS-CoV-2 infection using quantitative peptide 
+enrichment LC-MS analysis.
+
+Hober A(1), Tran-Minh KH(1)(2), Foley D(3), McDonald T(3), Vissers JP(3),
+Pattison R(3), Ferries S(3), Hermansson S(3), Betner I(3), Uhlén M(1)(2), Razavi 
+M(4), Yip R(4), Pope ME(4), Pearson TW(4), Andersson LN(4), Bartlett A(3), Calton
+L(3), Alm JJ(5), Engstrand L(6), Edfors F(1)(2).
+
+Author information: 
+(1)Science for Life Laboratory, Solna, Sweden.
+(2)The Royal Institute of Technology, Division of Systems Biology, Department of 
+Protein Science, School of Chemistry, Biotechnology and Health, Stockholm,
+Sweden.
+(3)Waters Corporation, Milford, United Kingdom.
+(4)SISCAPA Assay Technologies, Inc, Victoria, Canada.
+(5)Karolinska Institutet, Department of Microbiology, Tumor and Cell Biology &
+National Pandemic Center, Karolinska Institutet, Solna, Sweden.
+(6)Microbiology, Tumour and Cell Biology, Karolinska Institutet, Stockholm,
+Sweden.
+
+Reliable, robust, large-scale molecular testing for severe acute respiratory
+syndrome coronavirus 2 (SARS-CoV-2) is essential for monitoring the ongoing
+coronavirus disease 2019 (COVID-19) pandemic. We have developed a scalable
+analytical approach to detect viral proteins based on peptide immuno-affinity
+enrichment combined with liquid chromatography-mass spectrometry (LC-MS). This is
+a multiplexed strategy, based on targeted proteomics analysis and read-out by
+LC-MS, capable of precisely quantifying and confirming the presence of SARS-CoV-2
+in phosphate-buffered saline (PBS) swab media from combined
+throat/nasopharynx/saliva samples. The results reveal that the levels of
+SARS-CoV-2 measured by LC-MS correlate well with their correspondingreal-time
+polymerase chain reaction (RT-PCR) read-out (r = 0.79). The analytical workflow
+shows similar turnaround times as regular RT-PCR instrumentation with a
+quantitative read-out of viral proteins corresponding to cycle thresholds (Ct)
+equivalents ranging from 21 to 34. Using RT-PCR as a reference, we demonstrate
+that the LC-MS-based method has 100% negative percent agreement (estimated
+specificity) and 95% positive percent agreement (estimated sensitivity) when
+analyzing clinical samples collected from asymptomatic individuals with a Ct
+within the limit of detection of the mass spectrometer (Ct ≤ 30). These results
+suggest that a scalable analytical method based on LC-MS has a place in future
+pandemic preparedness centers to complement current virus detection technologies.
+
+© 2021, Hober et al.
+
+DOI: 10.7554/eLife.70843 
+PMCID: PMC8626084
+PMID: 34747696 
+
+Conflict of interest statement: AH, KT, MU, JA, LE, FE No competing interests
+declared, DF, TM, JV, RP, SF, SH, IB, AB, LC employed by Waters Corporation, MR, 
+RY, MP, TP, LA employed by SISCAPA Assay Technologies
+

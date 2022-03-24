@@ -1,0 +1,52 @@
+
+1. oncol lett. 2018 aug;16(2):2344-2354. doi: 10.3892/ol.2018.8882. epub 2018 jun 4.
+
+hub genes key pathways non-small lung cancer identified using
+bioinformatics.
+
+tang q(1), zhang h(2), kong m(2), mao x(2), cao x(2).
+
+author information: 
+(1)department clinical laboratory, tongji hospital, wuhan, hubei 430014, p.r. 
+china.
+(2)department clinical laboratory, central hospital wuhan, tongji
+medical college, huazhong university science technology, wuhan, hubei
+430014, p.r. china.
+
+non-small cell lung cancer (nsclc) common type lung cancer,
+accounting ~80% lung cancer cases. aim present study to
+identify key genes pathways nsclc, order improve understanding of
+the mechanism lung cancer. gse33532 gene expression dataset, containing 20
+normal 80 nsclc samples, used. gene ontology (go) kyoto encyclopedia 
+of genes genomes (kegg) analyses performed obtain enrichment data
+of differently expressed genes (degs). disease modules within nsclc were
+constructed cytoscape, using protein-protein interaction (ppi) search
+tool retrieval interacting genes database. addition, kaplan
+meier plotter kmplot used assess top hub genes ppi network. 
+a result, 1,795 genes identified nsclc; 729 upregulated 1,066
+were downregulated. results go analysis indicated upregulated
+degs significantly enriched 'biological processes' (bp), including 'cell 
+cycle nuclear division'; downregulated degs also significantly
+enriched bp, including 'response wounding', 'anatomical structure
+morphogenesis' 'response stimulus'. upregulated degs also enriched in
+'cell cycle', 'dna replication' 'tumor protein 53 signaling pathway',
+while downregulated degs also enriched 'complement coagulation
+cascades', 'malaria' 'cell adhesion molecules'. top 9 hub genes were
+cyclin-dependent kinase 9 (cdk1), polo-like kinase 1, aurora kinase b, cell
+division cycle 20, baculoviral initiator apoptosis repeat containing 5,
+mitotic checkpoint serine/threonine kinase b, proliferating cell nuclear antigen 
+(pcna), centromere protein mad2 mitotic arrest deficient-like 1, the
+kmplot results revealed high expression levels genes resulted
+in significantly low survival rates, compared low expression samples
+(p<0.05), exception pcna cdk1. pathway crosstalk analysis,
+26 nodes 41 interactions divided two groups: one module two 
+groups primarily included 'metabolism amino acid' primarily
+contained 'tumor necrosis signaling' pathways. conclusion, present study
+assisted improving understanding molecular mechanisms underlying
+nsclc development, results may help understanding biological
+mechanism nsclc.
+
+doi: 10.3892/ol.2018.8882 
+pmcid: pmc6036325
+pmid: 30008938 
+

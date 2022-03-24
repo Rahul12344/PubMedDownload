@@ -1,0 +1,74 @@
+
+1. BMC Infect Dis. 2021 Nov 25;21(1):1185. doi: 10.1186/s12879-021-06870-6.
+
+Epidemic size, trend and spatiotemporal mapping of SARS-CoV-2 using geographical 
+information system in Alborz Province, Iran.
+
+Kabir K(#)(1), Taherinia A(#)(2), Ashourloo D(3), Khosravi A(4), Karim H(5),
+Salehi Shahrabi H(3), Hedayat Yaghoobi M(6), Soleimani A(6), Siami Z(6),
+Noorisepehr M(7), Tajbakhsh R(8), Maghsoudi MR(2), Lak M(9), Mardi P(10), Nouri
+B(10), Mohammadzadeh M(11), Azimzadeh M(12), Bakhtiyari M(13)(14).
+
+Author information: 
+(1)Department of Community Medicine, School of Medicine, Alborz University of
+Medical Sciences, Karaj, Iran.
+(2)Department of Emergency Medicine, Alborz University of Medical Sciences,
+Karaj, Iran.
+(3)Remote Sensing and GIS Research Center, Shahid Beheshti University, Tehran,
+Iran.
+(4)Department of Epidemiology, School of Public Health, Shahroud University of
+Medical Sciences, Shahroud, Iran.
+(5)Department of Cardiology, School of Medicine, Alborz University of Medical
+Sciences, Karaj, Iran.
+(6)Department of Infectious Diseases, School of Medicine, Alborz University of
+Medical Sciences, Karaj, Iran.
+(7)Department of Environmental Health, School of Health, Alborz University of
+Medical Sciences, Karaj, Iran.
+(8)Department of Internal Medicine, School of Medicine, Alborz University of
+Medical Sciences, Karaj, Iran.
+(9)Department of Infectious Diseases, School of Medicine, Shahid Beheshti
+University of Medical Sciences, Tehran, Iran.
+(10)Student Research Committee, School of Medicine, Alborz University of Medical 
+Sciences, Karaj, Iran.
+(11)Department of Microbiology, School of Medicine, Alborz University of Medical 
+Sciences, Karaj, Iran.
+(12)Information Technology Unit, Alborz University of Medical Sciences, Karaj,
+Iran.
+(13)Department of Community Medicine, School of Medicine, Alborz University of
+Medical Sciences, Karaj, Iran. Mahmood.bakhtiyari@ymail.com.
+(14)Non-Communicable Research Diseases Center, Alborz University of Medical
+Sciences, Karaj, Iran. Mahmood.bakhtiyari@ymail.com.
+(#)Contributed equally
+
+BACKGROUND: The first confirmed cases of COVID-19 in Iran were reported in Qom
+city. Subsequently, the neighboring provinces and gradually all 31 provinces of
+Iran were involved. This study aimed to investigate the case fatility rate, basic
+reproductive number in different period of epidemic, projection of daily and
+cumulative incidence cases and also spatiotemporal mapping of SARS-CoV-2 in
+Alborz province, Iran.
+METHODS: A confirmed case of COVID-19 infection was defined as a case with a
+positive result of viral nucleic acid testing in respiratory specimens. Serial
+interval (SI) was fitted by gamma distribution and considered the
+likelihood-based R0 using a branching process with Poisson likelihood. Seven days
+average of cases, deaths, doubling times and CFRs used to draw smooth charts.
+kernel density tool in Arc GIS (Esri) software has been employed to compute hot
+spot area of the study site.
+RESULTS: The maximum-likelihood value of R0 was 2.88 (95%, CI: 2.57-3.23) in the 
+early 14 days of epidemic. The case fatility rate for Alborz province (Iran) on
+March 10, was 8.33% (95%, CI:6.3-11), and by April 20, it had an increasing trend
+and reached 12.9% (95%,CI:11.5-14.4). The doubling time has been increasing from 
+about two days and then reached about 97 days on April 20, 2020, which shows the 
+slowdown in the spread rate of the disease. Also, from March 26 to April 2, 2020 
+the whole Geographical area of Karj city was almost affected by SARS-CoV-2.
+CONCLUSIONS: The R0 of COVID-19 in Alborz province was substantially high at the 
+beginning of the epidemic, but with preventive measures and public education and 
+GIS based monitoring of the cases,it has been reduced to 1.19 within two months. 
+This reduction highpoints the attainment of preventive measures in place, however
+we must be ready for any second epidemic waves during the next months.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12879-021-06870-6 
+PMCID: PMC8613730
+PMID: 34823478  [Indexed for MEDLINE]
+

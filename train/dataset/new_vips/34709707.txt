@@ -1,0 +1,48 @@
+
+1. Mol Syst Biol. 2021 Nov;17(11):e10260. doi: 10.15252/msb.202110260.
+
+Genome-scale metabolic modeling reveals SARS-CoV-2-induced metabolic changes and 
+antiviral targets.
+
+Cheng K(1)(2), Martin-Sancho L(3), Pal LR(1), Pu Y(3), Riva L(3), Yin X(3)(4),
+Sinha S(1)(2), Nair NU(1), Chanda SK(3), Ruppin E(1)(5).
+
+Author information: 
+(1)Cancer Data Science Laboratory (CDSL), National Cancer Institute (NCI),
+National Institutes of Health (NIH), Bethesda, MD, USA.
+(2)Biological Sciences Graduate Program (BISI), University of Maryland, College
+Park, MD, USA.
+(3)Immunity and Pathogenesis Program, Infectious and Inflammatory Disease Center,
+Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, USA.
+(4)State Key Laboratory of Veterinary Biotechnology, Harbin Veterinary Research
+Institute, Chinese Academy of Agricultural Sciences, Harbin, China.
+(5)Department of Computer Science, University of Maryland, College Park, MD, USA.
+
+Update of
+    bioRxiv. 2021 Jan 28;:.
+
+Tremendous progress has been made to control the COVID-19 pandemic caused by the 
+SARS-CoV-2 virus. However, effective therapeutic options are still rare. Drug
+repurposing and combination represent practical strategies to address this urgent
+unmet medical need. Viruses, including coronaviruses, are known to hijack host
+metabolism to facilitate viral proliferation, making targeting host metabolism a 
+promising antiviral approach. Here, we describe an integrated analysis of 12
+published in vitro and human patient gene expression datasets on SARS-CoV-2
+infection using genome-scale metabolic modeling (GEM), revealing complicated host
+metabolism reprogramming during SARS-CoV-2 infection. We next applied the
+GEM-based metabolic transformation algorithm to predict anti-SARS-CoV-2 targets
+that counteract the virus-induced metabolic changes. We successfully validated
+these targets using published drug and genetic screen data and by performing an
+siRNA assay in Caco-2 cells. Further generating and analyzing RNA-sequencing data
+of remdesivir-treated Vero E6 cell samples, we predicted metabolic targets acting
+in combination with remdesivir, an approved anti-SARS-CoV-2 drug. Our study
+provides clinical data-supported candidate anti-SARS-CoV-2 targets for future
+evaluation, demonstrating host metabolism targeting as a promising antiviral
+strategy.
+
+© 2021 The Authors. Published under the terms of the CC BY 4.0 license.
+
+DOI: 10.15252/msb.202110260 
+PMCID: PMC8552660
+PMID: 34709707  [Indexed for MEDLINE]
+

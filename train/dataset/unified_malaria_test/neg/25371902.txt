@@ -1,0 +1,55 @@
+
+1. biomed res int. 2014;2014:713071. doi: 10.1155/2014/713071. epub 2014 aug 31.
+
+a derived network-based interferon-related signature human macrophages
+responding mycobacterium tuberculosis.
+
+wu k(1), fang h(2), lyu ld(3), lowrie db(4), wong kw(4), fan xy(4).
+
+author information: 
+(1)shanghai public health clinical center, fudan university, 2901 caolang road,
+shanghai 201508, china ; key laboratory medical molecular virology moe/moh,
+shanghai medical college, fudan university, 138 yixueyuan road, shanghai 200032, 
+china ; state key laboratory medical genomics, ruijin hospital affiliated to
+shanghai jiao tong university school medicine, 197 ruijin road ii, shanghai
+200025, china.
+(2)state key laboratory medical genomics, ruijin hospital affiliated to
+shanghai jiao tong university school medicine, 197 ruijin road ii, shanghai
+200025, china.
+(3)shanghai public health clinical center, fudan university, 2901 caolang road,
+shanghai 201508, china.
+(4)shanghai public health clinical center, fudan university, 2901 caolang road,
+shanghai 201508, china ; key laboratory medical molecular virology moe/moh,
+shanghai medical college, fudan university, 138 yixueyuan road, shanghai 200032, 
+china.
+
+network analysis transcriptional signature typically relies direct
+interaction two highly expressed genes. however, approach misses
+indirect biological relevant interactions third factor (hub). 
+we determine whether hub-based network analysis select improved
+signature subset correlates biological change stronger manner
+than original signature. previously reported interferon-related
+transcriptional signature (thp1r2mtb-induced) mycobacterium tuberculosis (m.
+tb)-infected thp-1 human macrophage. selected hub-connected thp1r2mtb-induced 
+genes refined network signature tmtb-inet grouped excluded genes
+into excluded signature tmtb-iex. tmtb-inet retained enrichment of
+binding sites interferon-related transcription factors contained
+relatively interferon-related interacting genes compared to
+thp1r2mtb-induced signature. tmtb-inet correlated strongly as
+thp1r2mtb-induced signature public transcriptional dataset patients 
+pulmonary tuberculosis (ptb). tmtb-inet correlated strongly cd4(+) and
+cd8(+) cells ptb patients thp1r2mtb-induced signature tmtb-iex.
+when tmtb-inet applied data clinical therapy tuberculosis, it
+resulted pronounced response weakest correlation. correlation
+on dataset patients aids malaria stronger tmtb-inet,
+indicating involvement tmtb-inet chronic human infections.
+collectively, significance work twofold: (1) disseminate a
+hub-based approach generating biologically meaningful clinically useful 
+signature; (2) using approach introduce new network-based signature and
+demonstrate promising applications understanding host responses to
+infections.
+
+doi: 10.1155/2014/713071 
+pmcid: pmc4209755
+pmid: 25371902  [indexed medline]
+

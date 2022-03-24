@@ -1,0 +1,40 @@
+
+1. Int J Environ Sci Technol (Tehran). 2021 Oct 26:1-12. doi:
+10.1007/s13762-021-03748-7. [Epub ahead of print]
+
+Medical waste management during coronavirus disease 2019 pandemic at the city
+level.
+
+Polat EG(1).
+
+Author information: 
+(1)Department of Industrial Engineering, Munzur University, Tunceli, Turkey.
+
+Coronavirus disease 2019 brings about the economic damage and loss of life. Thus,
+demand of personal protective equipment continues to increase, consequently an
+increase in infectious equipment pollution. Most of these wastes threaten the
+environment and increase the spread of diseases. This paper provides a research
+hypothesis whether effective medical waste management would prevent the possible 
+impacts of coronavirus disease 2019-related waste issues on environment at the
+city level. To confirm this hypothesis, installation of waste treatment centre is
+addressed. Then, by incorporating uncertain waste generation amounts utilizing
+Jimenez method, a pickup routing is addressed to decide the pickup routes between
+the waste treatment centre and residential area. This study is first to assign
+the optimistic, realistic and pessimistic scenarios of the uncertain waste
+generation using time series analysis method and waste generation formulation.
+Also, L-type matrix is used to define, assess and prioritize the environmental
+and operational risks on waste generation formulation and to provide risk
+reaction strategies. Practicality of these approaches is illustrated in the case 
+of Turkey. The computational results reveal the effectiveness of the integrated
+method, which ensures practical and theoretical insights controlling the waste
+generation to prevent virus propagation for health authorities.
+
+© Islamic Azad University (IAU) 2021.
+
+DOI: 10.1007/s13762-021-03748-7 
+PMCID: PMC8546391
+PMID: 34721594 
+
+Conflict of interest statement: Conflict of interestThere is no conflict of
+interest.
+

@@ -1,0 +1,31 @@
+
+1. Biotechnol Bioeng. 2001 Sep;76(2):108-14.
+
+Metabolic engineering of poly(3-hydroxybutyrate-co-3-hydroxyvalerate) composition
+in recombinant Salmonella enterica serovar typhimurium.
+
+Aldor I(1), Keasling JD.
+
+Author information: 
+(1)Department of Chemical Engineering, University of California, Berkeley,
+94720-1462, USA.
+
+A recombinant strain of Salmonella enterica serovar Typhimurium (mutant in
+propionate-activation activity) was metabolically engineered to control the
+composition of poly(3-hydroxybutyrate-co-3-hydroxy- valerate) (PHBV), a
+polyhydroxyalkanoate copolymer with commercially desirable properties. A gene
+(prpE) encoding propionyl-CoA synthetase was placed under the control of the
+IPTG-inducible taclacUV5 promoter (P(taclacUV5)) while the polyhydroxyalkanoate
+synthesis operon (phaBCA) from Acinetobacter sp. RA3849 was coexpressed under the
+control of the arabinose-inducible araBAD promoter (P(BAD)). S. enterica,
+harboring both constructs, was grown in medium containing a fixed substrate
+concentration and the composition of the copolymer was varied between 2 mol% and 
+25 mol% 3-hydroxyvalerate by controlling the IPTG level in the medium. This
+"dial-a-composition" system should find application in cases where the substrate 
+concentration of a feedstream for PHBV bioplastic production is not adjustable.
+
+Copyright 2001 John Wiley & Sons, Inc.
+
+DOI: 10.1002/bit.1150 
+PMID: 11505380  [Indexed for MEDLINE]
+

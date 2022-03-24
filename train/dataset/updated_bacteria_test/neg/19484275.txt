@@ -1,0 +1,33 @@
+
+1. J Mol Model. 2010 Jan;16(1):77-85. doi: 10.1007/s00894-009-0521-2. Epub 2009 May 
+30.
+
+Probing ligand binding modes of Mycobacterium tuberculosis MurC ligase by
+molecular modeling, dynamics simulation and docking.
+
+Anuradha CM(1), Mulakayala C, Babajan B, Naveen M, Rajasekhar C, Kumar CS.
+
+Author information: 
+(1)Department of Biotechnology, University College of Engineering and technology,
+Anantapur, India.
+
+Multi drug resistance capacity for Mycobacterium tuberculosis (MDR-Mtb) demands
+the profound need for developing new anti-tuberculosis drugs. The present work is
+on Mtb-MurC ligase, which is an enzyme involved in biosynthesis of peptidoglycan,
+a component of Mtb cell wall. In this paper the 3-D structure of Mtb-MurC has
+been constructed using the templates 1GQQ and 1P31. Structural refinement and
+energy minimization of the predicted Mtb-MurC ligase model has been carried out
+by molecular dynamics. The streochemical check failures in the energy minimized
+model have been evaluated through Procheck, Whatif ProSA, and Verify 3D. Further 
+torsion angles for the side chains of amino acid residues of the developed model 
+were determined using Predictor. Docking analysis of Mtb-MurC model with ligands 
+and natural substrates enabled us to identify specific residues viz. Gly125,
+Lys126, Arg331, and Arg332, within the Mtb-MurC binding pocket to play an
+important role in ligand and substrate binding affinity and selectivity. The
+availability of Mtb-MurC ligase built model, together with insights gained from
+docking analysis will promote the rational design of potent and selective
+Mtb-MurC ligase inhibitors as antituberculosis therapeutics.
+
+DOI: 10.1007/s00894-009-0521-2 
+PMID: 19484275  [Indexed for MEDLINE]
+

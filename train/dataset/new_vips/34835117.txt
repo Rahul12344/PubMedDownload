@@ -1,0 +1,48 @@
+
+1. Viruses. 2021 Nov 19;13(11). pii: 2311. doi: 10.3390/v13112311.
+
+Characterization of Single-Chain Fv Fragments of Neutralizing Antibodies to
+Rabies Virus Glycoprotein.
+
+Yumoto K(1), Arisaka T(1), Okada K(2), Aoki K(1), Ose T(1), Masatani T(2),
+Sugiyama M(2), Ito N(2), Fukuhara H(3)(4), Maenaka K(1)(3)(4).
+
+Author information: 
+(1)Laboratory of Biomolecular Science, Faculty of Pharmaceutical Sciences,
+Hokkaido University, Sapporo 060-0812, Japan.
+(2)Faculty of Applied Biological Sciences, Gifu University, Gifu 501-1193, Japan.
+(3)Center for Research and Education on Drug Discovery, Hokkaido University,
+Sapporo 060-0812, Japan.
+(4)Global Station for Biosurfaces and Drug Discovery, Faculty of Pharmaceutical
+Sciences, Hokkaido University, Sapporo 060-0812, Japan.
+
+Rabies has almost a 100% case-fatality rate and kills more than 59,000 people
+annually around the world. There is no established treatment for rabies. The
+rabies virus (RABV) expresses only the glycoprotein (RABVG) at the viral surface,
+and it is the target for the neutralizing antibodies. We previously established
+mouse monoclonal antibodies, 15-13 and 12-22, which showed neutralizing activity 
+against the RABV, targeting the sequential and conformational epitopes on the
+RABVG, respectively. However, the molecular basis for the neutralizing activity
+of these antibodies is not yet fully understood. In this study, we evaluated the 
+binding characteristics of the Fab fragments of the 15-13 and 12-22 antibodies.
+The recombinant RABVG protein, in prefusion form for the binding analysis, was
+prepared by the silkworm-baculovirus expression system. Biolayer interferometry
+(BLI) analysis indicated that the 15-13 Fab interacts with the RABVG, with a KD
+value at the nM level, and that the 12-22 Fab has a weaker binding affinity (KD ~
+μM) with the RABVG compared to the 15-13 Fab. Furthermore, we determined the
+amino acid sequences of both the antibodies and the designed single-chain Fv
+fragments (scFvs) of the 15-13 and 12-22 antibodies as another potential
+biopharmaceutical for targeting rabies. The 15-13 and 12-22 scFvs were
+successfully prepared by the refolding method and were shown to interact with the
+RABVG at the nM level and the μM level of the KD, respectively. These binding
+characteristics were similar to that of each Fab. On the other hand, differential
+scanning fluorometry (DSF) revealed that the thermal stability of these scFvs
+decreases compared to their Fabs. While the improvement of the stability of scFvs
+will still be required, these results provide insights into the neutralizing
+activity and the potential therapeutic use of antibody fragments for RABV
+infection.
+
+DOI: 10.3390/v13112311 
+PMCID: PMC8624154
+PMID: 34835117 
+

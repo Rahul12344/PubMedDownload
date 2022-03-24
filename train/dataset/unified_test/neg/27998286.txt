@@ -1,0 +1,55 @@
+
+1. retrovirology. 2016 dec 20;13(1):87. doi: 10.1186/s12977-016-0321-6.
+
+ultrasensitive single-genome sequencing: accurate, targeted, next generation
+sequencing hiv-1 rna.
+
+boltz vf(1), rausch j(2), shao w(3), hattori j(2), luke b(3), maldarelli f(2),
+mellors jw(4), kearney mf(2), coffin jm(5).
+
+author information: 
+(1)hiv dynamics replication program, ccr, national cancer institute, nih,
+translational research unit, 105 boyles street, building 535 room 111, frederick,
+md, 21702-1201, usa. boltzv@mail.nih.gov.
+(2)hiv dynamics replication program, ccr, national cancer institute, nih,
+translational research unit, 105 boyles street, building 535 room 111, frederick,
+md, 21702-1201, usa.
+(3)frederick national laboratory cancer research, advanced biomedical
+computing center, leidos biomedical research, inc, frederick, md, usa.
+(4)division infectious disease, university pittsburgh, pittsburgh, pa, usa.
+(5)department molecular biology microbiology, tufts university, boston,
+ma, usa.
+
+background: although next generation sequencing (ngs) offers potential for
+studying virus populations unprecedented depth, pcr error, amplification bias 
+and recombination library construction limited use population 
+sequencing measurements unlinked allele frequencies. report a
+method, termed ultrasensitive single-genome sequencing (usgs), ngs library
+construction analysis eliminates pcr errors recombinants, and
+generates single-genome sequences quality "gold-standard" of
+hiv-1 single-genome sequencing assay 100-fold greater depth.
+results: primer id tagged cdna synthesized mixtures cloned bh10
+wild-type mutant hiv-1 transcripts containing ten drug resistance mutations. 
+first, resultant cdna divided ngs libraries generated in
+parallel using two methods: usgs method applying long pcr primers attach
+the ngs adaptors (lp-pcr-1). second, cdna divided ngs libraries were
+generated parallel comparing 3 methods: usgs 2 methods adapted more
+recent reports using variations long pcr primers attach adaptors
+(lp-pcr-2 lp-pcr-3). consistently, usgs method amplified greater
+proportion cdnas, averaging 30% compared 13% lp-pcr-1, 21% lp-pcr-2
+and 14% lp-pcr-3. importantly, usgs sequences binned
+according primer ids, 94% bins contain pcr recombinant
+sequences versus 55, 75 65% lp-pcr-1, 2 3, respectively.
+finally, usgs applied plasma samples hiv-1 infected donors, both
+frequent rare variants detected sample neighbor-joining
+trees revealed clusters genomes driven linkage mutations,
+showing lack pcr recombinants datasets.
+conclusions: usgs assay used accurate detection rare variants
+and identifying linkage rare alleles associated hiv-1 drug
+resistance. addition, method allows accurate in-depth analyses the
+complex genetic relationships viral populations vivo.
+
+doi: 10.1186/s12977-016-0321-6 
+pmcid: pmc5175307
+pmid: 27998286  [indexed medline]
+

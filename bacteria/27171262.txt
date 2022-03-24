@@ -1,0 +1,48 @@
+
+1. Cell Death Dis. 2016 May 12;7:e2220. doi: 10.1038/cddis.2016.121.
+
+Stalled replication forks within heterochromatin require ATRX for protection.
+
+Huh MS(1), Ivanochko D(1)(2), Hashem LE(1)(3), Curtin M(1)(2), Delorme M(1)(2),
+Goodall E(1)(2), Yan K(1), Picketts DJ(1)(2)(3).
+
+Author information: 
+(1)Regenerative Medicine Program, Ottawa Hospital Research Institute, Ottawa, ON 
+K1H 8L6, Canada.
+(2)Department of Biochemistry, Microbiology, and Immunology, Faculty of Medicine,
+University of Ottawa, Ottawa, ON K1H 8M5, Canada.
+(3)Department of Cellular and Molecular Medicine, Faculty of Medicine, University
+of Ottawa, Ottawa, ON K1H 8M5, Canada.
+
+Expansive growth of neural progenitor cells (NPCs) is a prerequisite to the
+temporal waves of neuronal differentiation that generate the six-layered
+neocortex, while also placing a heavy burden on proteins that regulate chromatin 
+packaging and genome integrity. This problem is further reflected by the growing 
+number of developmental disorders caused by mutations in chromatin regulators.
+ATRX gene mutations cause a severe intellectual disability disorder
+(α-thalassemia mental retardation X-linked (ATRX) syndrome; OMIM no. 301040),
+characterized by microcephaly, urogenital abnormalities and α-thalassemia.
+Although the ATRX protein is required for the maintenance of repetitive DNA
+within heterochromatin, how this translates to disease pathogenesis remain poorly
+understood and was a focus of this study. We demonstrate that Atrx(FoxG1Cre)
+forebrain-specific conditional knockout mice display poly(ADP-ribose)
+polymerase-1 (Parp-1) hyperactivation during neurogenesis and generate fewer
+late-born Cux1- and Brn2-positive neurons that accounts for the reduced cortical 
+size. Moreover, DNA damage, induced Parp-1 and Atm activation is elevated in
+progenitor cells and contributes to their increased level of cell death.
+ATRX-null HeLa cells are similarly sensitive to hydroxyurea-induced replication
+stress, accumulate DNA damage and proliferate poorly. Impaired BRCA1-RAD51
+colocalization and PARP-1 hyperactivation indicated that stalled replication
+forks are not efficiently protected. DNA fiber assays confirmed that MRE11
+degradation of stalled replication forks was rampant in the absence of ATRX or
+DAXX. Indeed, fork degradation in ATRX-null cells could be attenuated by
+treatment with the MRE11 inhibitor mirin, or exacerbated by inhibiting PARP-1
+activity. Taken together, these results suggest that ATRX is required to limit
+replication stress during cellular proliferation, whereas upregulation of PARP-1 
+activity functions as a compensatory mechanism to protect stalled forks, limiting
+genomic damage, and facilitating late-born neuron production.
+
+DOI: 10.1038/cddis.2016.121 
+PMCID: PMC4917659
+PMID: 27171262  [Indexed for MEDLINE]
+

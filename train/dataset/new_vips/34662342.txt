@@ -1,0 +1,47 @@
+
+1. PLoS Comput Biol. 2021 Oct 18;17(10):e1009474. doi: 10.1371/journal.pcbi.1009474.
+eCollection 2021 Oct.
+
+Factors affecting aerosol SARS-CoV-2 transmission via HVAC systems; a modeling
+study.
+
+Cotman ZJ(1), Bowden MJ(1), Richter BP(1), Phelps JH(1), Dibble CJ(1).
+
+Author information: 
+(1)Battelle Memorial Institute, Columbus, Ohio, United States of America.
+
+The role of heating, ventilation, and air-conditioning (HVAC) systems in the
+transmission of SARS-CoV-2 is unclear. To address this gap, we simulated the
+release of SARS-CoV-2 in a multistory office building and three social gathering 
+settings (bar/restaurant, nightclub, wedding venue) using a well-mixed,
+multi-zone building model similar to those used by Wells, Riley, and others. We
+varied key factors of HVAC systems, such as the Air Changes Per Hour rate (ACH), 
+Fraction of Outside Air (FOA), and Minimum Efficiency Reporting Values (MERV) to 
+examine their effect on viral transmission, and additionally simulated the
+protective effects of in-unit ultraviolet light decontamination (UVC) and
+separate in-room air filtration. In all building types, increasing the ACH
+reduced simulated infections, and the effects were seen even with low aerosol
+emission rates. However, the benefits of increasing the fraction of outside air
+and filter efficiency rating were greatest when the aerosol emission rate was
+high. UVC filtration improved the performance of typical HVAC systems. In-room
+filtration in an office setting similarly reduced overall infections but worked
+better when placed in every room. Overall, we found little evidence that HVAC
+systems facilitate SARS-CoV-2 transmission; most infections in the simulated
+office occurred near the emission source, with some infections in individuals
+temporarily visiting the release zone. HVAC systems only increased infections in 
+one scenario involving a marginal increase in airflow in a poorly ventilated
+space, which slightly increased the likelihood of transmission outside the
+release zone. We found that improving air circulation rates, increasing filter
+MERV rating, increasing the fraction of outside air, and applying UVC radiation
+and in-room filtration may reduce SARS-CoV-2 transmission indoors. However, these
+mitigation measures are unlikely to provide a protective benefit unless
+SARS-CoV-2 aerosol emission rates are high (>1,000 Plaque-forming units (PFU) /
+min).
+
+DOI: 10.1371/journal.pcbi.1009474 
+PMCID: PMC8553169
+PMID: 34662342  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

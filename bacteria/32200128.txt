@@ -1,0 +1,54 @@
+
+1. J Glob Antimicrob Resist. 2020 Jun;21:65-67. doi: 10.1016/j.jgar.2020.02.034.
+Epub 2020 Mar 19.
+
+Whole-genome sequencing and comparative analysis of the genomes of Bacteroides
+thetaiotaomicron and Escherichia coli isolated from a healthy resident in
+Vietnam.
+
+Mohsin M(1), Tanaka K(2), Kawahara R(3), Kondo S(4), Noguchi H(4), Motooka D(5), 
+Nakamura S(5), Khong DT(6), Nguyen TN(6), Hoang TN(6), Yamamoto Y(7).
+
+Author information: 
+(1)Division of Anaerobe Research, Life Science Research Center, Gifu University, 
+Gifu, Japan; Institute of Microbiology, University of Agriculture, Faisalabad,
+Pakistan.
+(2)Division of Anaerobe Research, Life Science Research Center, Gifu University, 
+Gifu, Japan.
+(3)Department of Microbiology, Osaka Institute of Public Health, Osaka, Japan.
+(4)Joint Support-Center for Data Science Research, Research Organization of
+Information and Systems, Mishima, Japan.
+(5)Genome Information Research Center, Research Institute for Microbial Diseases,
+Osaka University, Osaka, Japan.
+(6)Center of Medical-Pharmaceutical Science and Technology Services, Thai Binh
+University of Medicine and Pharmacy, Thai Binh, Viet Nam.
+(7)Division of Anaerobe Research, Life Science Research Center, Gifu University, 
+Gifu, Japan; Graduate School of Pharmaceutical Sciences, Osaka University, Suita,
+Japan. Electronic address: yyamamot@sahs.med.osaka-u.ac.jp.
+
+OBJECTIVES: The aim of this study was to report the draft genome sequences of two
+multidrug-resistant bacteria (Bacteroides thetaiotaomicron F9-2 and Escherichia
+coli 09-02E) isolated from stool samples of a healthy resident in Vietnam.
+METHODS: Genome sequences were determined using MiSeq and MinION platforms.
+Genome assembly was performed using Platanus Assembler v.1.2.4 and Canu v.1.7.
+The DDBJ Fast Annotation and Submission Tool were used for genome annotation.
+RESULTS: The genome of B. thetaiotaomicron F9-2 comprised 6 283 774 bp with a GC 
+content of 42.7% and 4802 protein coding sequences (CDS), whereas the genome of
+E. coli 09-02E comprised 5 246 320 bp with a GC content of 50.6% and 4991 protein
+CDS. Both strains harboured common antimicrobial resistance genes, such as those 
+for sulfonamides (sul2) and aminoglycosides (strA, strB). However, the
+sul2-strA-strB cassette was located on the chromosome of B. thetaiotaomicron
+F9-2, whereas it was located on a plasmid in E. coli 09-02E. These genes were
+flanked by different insertion sequences.
+CONCLUSION: Considering their diversities in the human gut resistome, these
+strains would be of considerable interest for detailed comparative genomic
+analysis. Notably, the same sul2 cassette was found in facultative and obligate
+anaerobic bacterial isolates (resident in humans). However, the different
+location of the cassette indicates a possible mechanism of gene transfer among
+gut microbes.
+
+Copyright © 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jgar.2020.02.034 
+PMID: 32200128 
+

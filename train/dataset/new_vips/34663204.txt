@@ -1,0 +1,63 @@
+
+1. BMC Bioinformatics. 2021 Oct 18;22(Suppl 6):508. doi: 10.1186/s12859-021-04402-2.
+
+Development of the International Classification of Diseases Ontology (ICDO) and
+its application for COVID-19 diagnostic data analysis.
+
+Wan L(1)(2), Song J(3), He V(4), Roman J(5), Whah G(6), Peng S(7)(8), Zhang
+L(8)(9)(10), He Y(11).
+
+Author information: 
+(1)University of Michigan Medical School, Ann Arbor, MI, 48109, USA.
+(2)OntoWise, Nanjing, Jiangsu, China.
+(3)Cranbrook Kingswood Upper School, Bloomfield Hills, MI, 48304, USA.
+(4)Huron High School, Ann Arbor, MI, 48105, USA.
+(5)College of Literacy, Science, and Arts, University of Michigan, Ann Arbor, MI,
+48109, USA.
+(6)College of Engineering, University of Michigan, Ann Arbor, MI, 48109, USA.
+(7)School of Public Health, Peking University, Beijing, China.
+(8)National Institute of Health Data Science, Peking University, Beijing, China.
+(9)Advanced Institute of Information Technology, Peking University, Hangzhou,
+China.
+(10)Renal Division, Department of Medicine, Peking University First Hospital,
+Peking University Institute of Nephrology, Beijing, China.
+(11)University of Michigan Medical School, Ann Arbor, MI, 48109, USA.
+yongqunh@med.umich.edu.
+
+BACKGROUND: The 10th and 9th revisions of the International Statistical
+Classification of Diseases and Related Health Problems (ICD10 and ICD9) have been
+adopted worldwide as a well-recognized norm to share codes for diseases, signs
+and symptoms, abnormal findings, etc. The international Consortium for Clinical
+Characterization of COVID-19 by EHR (4CE) website stores diagnosis COVID-19
+disease data using ICD10 and ICD9 codes. However, the ICD systems are difficult
+to decode due to their many shortcomings, which can be addressed using ontology.
+METHODS: An ICD ontology (ICDO) was developed to logically and scientifically
+represent ICD terms and their relations among different ICD terms. ICDO is also
+aligned with the Basic Formal Ontology (BFO) and reuses terms from existing
+ontologies. As a use case, the ICD10 and ICD9 diagnosis data from the 4CE website
+were extracted, mapped to ICDO, and analyzed using ICDO.
+RESULTS: We have developed the ICDO to ontologize the ICD terms and relations.
+Different from existing disease ontologies, all ICD diseases in ICDO are defined 
+as disease processes to describe their occurrence with other properties. The ICDO
+decomposes each disease term into different components, including anatomic
+entities, process profiles, etiological causes, output phenotype, etc. Over 900
+ICD terms have been represented in ICDO. Many ICDO terms are presented in both
+English and Chinese. The ICD10/ICD9-based diagnosis data of over 27,000 COVID-19 
+patients from 5 countries were extracted from the 4CE. A total of 917
+COVID-19-related disease codes, each of which were associated with 1 or more
+cases in the 4CE dataset, were mapped to ICDO and further analyzed using the ICDO
+logical annotations. Our study showed that COVID-19 targeted multiple systems and
+organs such as the lung, heart, and kidney. Different acute and chronic kidney
+phenotypes were identified. Some kidney diseases appeared to result from other
+diseases, such as diabetes. Some of the findings could only be easily found using
+ICDO instead of ICD9/10.
+CONCLUSIONS: ICDO was developed to ontologize ICD10/10 codes and applied to study
+COVID-19 patient diagnosis data. Our findings showed that ICDO provides a
+semantic platform for more accurate detection of disease profiles.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12859-021-04402-2 
+PMCID: PMC8522253
+PMID: 34663204  [Indexed for MEDLINE]
+

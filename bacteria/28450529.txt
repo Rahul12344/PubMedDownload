@@ -1,0 +1,79 @@
+
+1. Thorax. 2017 Oct;72(10):876-883. doi: 10.1136/thoraxjnl-2016-209719. Epub 2017
+Apr 27.
+
+Identification and validation of distinct biological phenotypes in patients with 
+acute respiratory distress syndrome by cluster analysis.
+
+Bos LD(1)(2)(3), Schouten LR(1)(3), van Vught LA(4), Wiewel MA(4), Ong DSY(5)(6),
+Cremer O(6), Artigas A(7), Martin-Loeches I(8), Hoogendijk AJ(4), van der Poll
+T(4), Horn J(1)(3), Juffermans N(1)(3), Calfee CS(9), Schultz MJ(1)(3); MARS
+consortium.
+
+Collaborators: Frencken JF, Bonten M, Klein Klouwenberg PMC, van Hooijdonk RTM,
+Huson MA, Straat M, Witteveen E, Glas GJ, Wieske L, Scicluna BP, Belkasim-Bohoudi
+H.
+
+Author information: 
+(1)Department of Intensive Care, Academic Medical Center, Amsterdam, The
+Netherlands.
+(2)Department of Respiratory Medicine, Academic Medical Center, Amsterdam, The
+Netherlands.
+(3)Laboratory of Experimental Intensive Care and Anesthesiology (L.E.I.C.A),
+Academic Medical Center, Amsterdam, The Netherlands.
+(4)Center for Experimental and Molecular Medicine (CEMM), Academic Medical
+Center, Amsterdam, The Netherlands.
+(5)Department of Medical Microbiology, University Medical Center Utrecht,
+Utrecht, The Netherlands.
+(6)Department of Intensive Care Medicine, University Medical Center Utrecht,
+Utrecht, The Netherlands.
+(7)CIBER enfermedades respiratorias (CIBERES), Critical Care Center, Sabadell
+Hospital, Corporación Sanitaria Universitaria Parc Taulí, Universitat Autonoma de
+Barcelona, Sabadell, Spain.
+(8)Multidisciplinary Intensive Care Research Organization (MICRO), Department of 
+Clinical Medicine, Trinity Centre for Health Sciences, Dublin, Ireland.
+(9)Departments of Medicine and Anesthesia, Cardiovascular Research Institute,
+University of California San Francisco, San Francisco, California, USA.
+
+Comment in
+    Thorax. 2017 Oct;72 (10 ):867-869.
+    Am J Respir Crit Care Med. 2018 May 1;197(9):1209-1211.
+
+RATIONALE: We hypothesised that patients with acute respiratory distress syndrome
+(ARDS) can be clustered based on concentrations of plasma biomarkers and that the
+thereby identified biological phenotypes are associated with mortality.
+METHODS: Consecutive patients with ARDS were included in this prospective
+observational cohort study. Cluster analysis of 20 biomarkers of inflammation,
+coagulation and endothelial activation provided the phenotypes in a training
+cohort, not taking any outcome data into account. Logistic regression with
+backward selection was used to select the most predictive biomarkers, and these
+predicted phenotypes were validated in a separate cohort. Multivariable logistic 
+regression was used to quantify the independent association with mortality.
+RESULTS: Two phenotypes were identified in 454 patients, which we named
+'uninflamed' (N=218) and 'reactive' (N=236). A selection of four biomarkers
+(interleukin-6, interferon gamma, angiopoietin 1/2 and plasminogen activator
+inhibitor-1) could be used to accurately predict the phenotype in the training
+cohort (area under the receiver operating characteristics curve: 0.98, 95% CI
+0.97 to 0.99). Mortality rates were 15.6% and 36.4% (p<0.001) in the training
+cohort and 13.6% and 37.5% (p<0.001) in the validation cohort (N=207). The
+'reactive phenotype' was independent from confounders associated with intensive
+care unit mortality (training cohort: OR 1.13, 95% CI 1.04 to 1.23; validation
+cohort: OR 1.18, 95% CI 1.06 to 1.31).
+CONCLUSIONS: Patients with ARDS can be clustered into two biological phenotypes, 
+with different mortality rates. Four biomarkers can be used to predict the
+phenotype with high accuracy. The phenotypes were very similar to those found in 
+cohorts derived from randomised controlled trials, and these results may improve 
+patient selection for future clinical trials targeting host response in patients 
+with ARDS.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://www.bmj.com/company/products-services/rights-and-licensing/.
+
+DOI: 10.1136/thoraxjnl-2016-209719 
+PMCID: PMC5964254
+PMID: 28450529  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: CC was supported by the NIH 
+(HL133390 and HL131621).
+

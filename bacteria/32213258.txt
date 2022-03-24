@@ -1,0 +1,53 @@
+
+1. Microb Genom. 2020 Apr;6(4). doi: 10.1099/mgen.0.000352. Epub 2020 Mar 20.
+
+Genomic surveillance of Escherichia coli ST131 identifies local expansion and
+serial replacement of subclones.
+
+Ludden C(1)(2), Decano AG(3), Jamrozy D(2), Pickard D(4), Morris D(5)(6),
+Parkhill J(7), Peacock SJ(8)(4), Cormican M(6), Downing T(3).
+
+Author information: 
+(1)London School of Hygiene & Tropical Medicine, Keppel Street, London WC1E 7HT, 
+UK.
+(2)Wellcome Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge
+CB10 1SA, UK.
+(3)School of Biotechnology, Dublin City University, Dublin 9, Ireland.
+(4)Department of Medicine, University of Cambridge, Box 157 Addenbrooke's
+Hospital, Hills Road, Cambridge CB2 0QQ, UK.
+(5)Ryan Institute Centre for One Health, National University of Ireland Galway,
+Ireland.
+(6)Discipline of Bacteriology, School of Medicine, National University of
+Ireland, Galway, Ireland.
+(7)Department of Veterinary Medicine, University of Cambridge, Madingley Road,
+Cambridge CB3 0ES, UK.
+(8)Cambridge University Hospitals NHS Foundation Trust, Hills Road, Cambridge CB2
+0QQ, UK.
+
+Escherichia coli sequence type 131 (ST131) is a pandemic clone that is evolving
+rapidly with increasing levels of antimicrobial resistance. Here, we investigated
+an outbreak of E. coli ST131 producing extended spectrum β-lactamases (ESBLs) in 
+a long-term care facility (LTCF) in Ireland by combining data from this LTCF
+(n=69) with other Irish (n=35) and global (n=690) ST131 genomes to reconstruct
+the evolutionary history and understand changes in population structure and
+genome architecture over time. This required a combination of short- and
+long-read genome sequencing, de novo assembly, read mapping, ESBL gene screening,
+plasmid alignment and temporal phylogenetics. We found that Clade C was the most 
+prevalent (686 out of 794 isolates, 86 %) of the three major ST131 clades
+circulating worldwide (A with fimH41, B with fimH22, C with fimH30), and was
+associated with the presence of different ESBL alleles, diverse plasmids and
+transposable elements. Clade C was estimated to have emerged in c. 1985 and
+subsequently acquired different ESBL gene variants (bla CTX-M-14 vs bla
+CTX-M-15). An ISEcp1-mediated transposition of the bla CTX-M-15 gene further
+increased the diversity within Clade C. We discovered a local clonal expansion of
+a rare C2 lineage (C2_8) with a chromosomal insertion of bla CTX-M-15 at the mppA
+gene. This was acquired from an IncFIA plasmid. The C2_8 lineage clonally
+expanded in the Irish LTCF from 2006, displacing the existing C1 strain (C1_10), 
+highlighting the potential for novel ESBL-producing ST131 with a distinct genetic
+profile to cause outbreaks strongly associated with specific healthcare
+environments.
+
+DOI: 10.1099/mgen.0.000352 
+PMCID: PMC7276707
+PMID: 32213258  [Indexed for MEDLINE]
+

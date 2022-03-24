@@ -1,0 +1,35 @@
+
+1. Appl Microbiol Biotechnol. 2010 Feb;85(6):1923-33. doi:
+10.1007/s00253-009-2245-8. Epub 2009 Sep 30.
+
+The Escherichia coli rhamnose promoter rhaP(BAD) is in Pseudomonas putida KT2440 
+independent of Crp-cAMP activation.
+
+Jeske M(1), Altenbuchner J.
+
+Author information: 
+(1)Institut für Industrielle Genetik, Universität Stuttgart, Allmandring 31,
+70569, Stuttgart, Germany.
+
+We developed an expression vector system based on the broad host range plasmid
+pBBR1MCS2 with the Escherichia coli rhamnose-inducible expression system for
+applications in Pseudomonas. For validation and comparison to E. coli, enhanced
+green fluorescent protein (eGFP) was used as a reporter. For further
+characterization, we also constructed plasmids containing different modifications
+of the rhaP(BAD) promoter. Induction experiments after the successful transfer of
+these plasmids into Pseudomonas putida KT2440 wild-type and different knockout
+strains revealed significant differences. In Pseudomonas, we observed no
+catabolite repression of the rhaP(BAD) promoter, and in contrast to E. coli, the 
+binding of cyclic adenosine monophosphate (cAMP) receptor protein (Crp)-cAMP to
+this promoter is not necessary for induction as shown by deletion of the Crp
+binding site. The crp(-) mutant of P. putida KT2440 lacked eGFP expression, but
+this is likely due to problems in rhamnose uptake, since this defect was
+complemented by the insertion of the L-rhamnose-specific transporter rhaT into
+its genome via transposon mutagenesis. Other global regulators like Crc, PtsN,
+and CyoB had no or minor effects on rhamnose-induced eGFP expression. Therefore, 
+this expression system may also be generally useful for Pseudomonas and other
+gamma-proteobacteria.
+
+DOI: 10.1007/s00253-009-2245-8 
+PMID: 19789867  [Indexed for MEDLINE]
+

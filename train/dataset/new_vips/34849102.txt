@@ -1,0 +1,34 @@
+
+1. Stoch Environ Res Risk Assess. 2021 Nov 26:1-7. doi: 10.1007/s00477-021-02119-5. 
+[Epub ahead of print]
+
+Mathematical modeling and estimation for next wave of COVID-19 in Poland.
+
+Arti MK(1), Wilinski A(2).
+
+Author information: 
+(1)NSUT East Campus (AIACTR), New Delhi, India.
+(2)WSB University in Gdansk, Gdansk, Poland.
+
+We investigate the problem of mathematical modeling of new corona virus
+(COVID-19) in Poland and tries to predict the upcoming wave. A Gaussian mixture
+model is proposed to characterize the COVID-19 disease and to predict a new /
+future wave of COVID-19. This prediction is very much needed to prepare for
+medical setup and continue with the upcoming program. Specifically, data related 
+to the new confirmed cases of COVID-19 per day are considered, and then we
+attempt to predict the data and statistical activity. A close match between
+actual data and analytical data by using the Gaussian mixture model shows that it
+is a suitable model to present new cases of COVID-19. In addition, it is thought 
+that there are N waves of COVID-19 and that information for each future wave is
+also present in current and previous waves as well. Using this concept,
+predictions of a future wave can be made.
+
+© The Author(s) 2021.
+
+DOI: 10.1007/s00477-021-02119-5 
+PMCID: PMC8624632
+PMID: 34849102 
+
+Conflict of interest statement: Conflict of interestAll authors have declare that
+they have no conflict of interest.
+

@@ -1,0 +1,48 @@
+
+1. PLoS One. 2015 Jul 10;10(7):e0129321. doi: 10.1371/journal.pone.0129321.
+eCollection 2015.
+
+Transcriptomic-Wide Discovery of Direct and Indirect HuR RNA Targets in Activated
+CD4+ T Cells.
+
+Techasintana P(1), Davis JW(2), Gubin MM(3), Magee JD(4), Atasoy U(1).
+
+Author information: 
+(1)Department of Surgery, University of Missouri, Columbia, Missouri, United
+States of America; Department of Molecular Microbiology and Immunology,
+University of Missouri, Columbia, Missouri, United States of America.
+(2)Department of Biostatistics, University of Missouri, Columbia, Missouri,
+United States of America.
+(3)Department of Pathology and Immunology, Washington University School of
+Medicine, St. Louis, Missouri, United States of America.
+(4)Dalton Cardiovascular Research Center, University of Missouri, Columbia,
+Missouri, United States of America.
+
+Due to poor correlation between steady state mRNA levels and protein product,
+purely transcriptomic profiling methods may miss genes posttranscriptionally
+regulated by RNA binding proteins (RBPs) and microRNAs (miRNAs). RNA
+immunoprecipitation (RIP) methods developed to identify in vivo targets of RBPs
+have greatly elucidated those mRNAs which may be regulated via transcript
+stability and translation. The RBP HuR (ELAVL1) and family members are major
+stabilizers of mRNA. Many labs have identified HuR mRNA targets; however, many of
+these analyses have been performed in cell lines and oftentimes are not
+independent biological replicates. Little is known about how HuR target mRNAs
+behave in conditional knock-out models. In the present work, we performed HuR
+RIP-Seq and RNA-Seq to investigate HuR direct and indirect targets using a novel 
+conditional knock-out model of HuR genetic ablation during CD4+ T activation and 
+Th2 differentiation. Using independent biological replicates, we generated a high
+coverage RIP-Seq data set (>160 million reads) that was analyzed using
+bioinformatics methods specifically designed to find direct mRNA targets in
+RIP-Seq data. Simultaneously, another set of independent biological replicates
+were sequenced by RNA-Seq (>425 million reads) to identify indirect HuR targets. 
+These direct and indirect targets were combined to determine canonical pathways
+in CD4+ T cell activation and differentiation for which HuR plays an important
+role. We show that HuR may regulate genes in multiple canonical pathways involved
+in T cell activation especially the CD28 family signaling pathway. These data
+provide insights into potential HuR-regulated genes during T cell activation and 
+immune mechanisms.
+
+DOI: 10.1371/journal.pone.0129321 
+PMCID: PMC4498740
+PMID: 26162078  [Indexed for MEDLINE]
+

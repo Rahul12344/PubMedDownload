@@ -1,0 +1,51 @@
+
+1. Trials. 2021 Nov 8;22(1):788. doi: 10.1186/s13063-021-05763-y.
+
+Definitions and elements of endpoints in phase III randomized trials for the
+treatment of COVID-19: a cross-sectional analysis of trials registered in
+ClinicalTrials.gov.
+
+Sakamaki K(1), Uemura Y(2), Shimizu Y(2).
+
+Author information: 
+(1)Center for Data Science, Yokohama City University, 22-2 Seto, Kanazawa-ku,
+Yokohama, 236-0027, Japan. sakamaki@yokohama-cu.ac.jp.
+(2)Department of Clinical Research, National Center for Global Health and
+Medicine, Tokyo, Japan.
+
+BACKGROUND: There are several challenges in designing clinical trials for the
+treatment of novel infectious diseases, such as COVID-19. In particular, the
+definition of endpoints related to the severity, time frame, and clinical course 
+remains unclear. Therefore, we conducted a cross-sectional analysis of phase III 
+randomized trials for COVID-19 registered at ClinicalTrials.gov .
+METHODS: We collected the data from ClinicalTrials.gov on March 31, 2021, by
+specifying the following search conditions under Advanced Search: Condition or
+disease: (COVID-19) OR (SARS-CoV-2); Study type: Interventional Studies; Study
+Results: All Studies; Recruitment: Not yet recruiting, Recruiting, Enrolling by
+invitation, Active, Not recruiting, Suspended, Completed; Sex: All; and Phase:
+Phase 3. From the downloaded search results, we selected trials that met the
+following criteria: Primary Purpose: Treatment; Allocation: Randomized. We
+manually transcribed information not included in the downloaded file, such as
+Primary Outcome Measures, Secondary Outcome Measures, Time Frame, and Inclusion
+Criteria. In the analysis, we examined primary and secondary endpoints in trials 
+with severe and non-severe patients, including the types of endpoints, time
+frame, clinical course, and sample size.
+RESULTS: A total of 406 trials were included in the analysis. The median numbers 
+of endpoints in trials with severe and non-severe patients were 9 and 7,
+respectively. Approximately 25% of the trials used multiple primary endpoints.
+Regardless of the type of endpoint, the time frames were longer in the trials
+with severe patients than in the trials with non-severe patients. In the
+evaluation of the clinical course, worsening was often considered in binary
+endpoints, and improvement was considered in time-to-event endpoints. The sample 
+size was the largest in clinical trials using binary endpoints.
+CONCLUSIONS: Endpoints can differ with respect to severity, and the clinical
+course and time frame are important for defining endpoints. This study provides
+information that can facilitate the achievement of a consensus for the endpoints 
+in evaluating COVID-19 treatments.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s13063-021-05763-y 
+PMCID: PMC8575152
+PMID: 34749761  [Indexed for MEDLINE]
+

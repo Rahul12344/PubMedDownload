@@ -1,0 +1,60 @@
+
+1. BMC Biol. 2021 Mar 11;19(1):43. doi: 10.1186/s12915-021-00967-9.
+
+Divergent CPEB prion-like domains reveal different assembly mechanisms for a
+generic amyloid-like fold.
+
+Hervás R(#)(1)(2), Del Carmen Fernández-Ramírez M(#)(3), Galera-Prat A(3), Suzuki
+M(4)(5), Nagai Y(4)(6), Bruix M(7), Menéndez M(7)(8), Laurents DV(7),
+Carrión-Vázquez M(9).
+
+Author information: 
+(1)Instituto Cajal, IC-CSIC, Avda. Doctor Arce 37, E-28002, Madrid, Spain.
+ruhm@hku.hk.
+(2)Present address: School of Biomedical Sciences, Li Ka Shing Faculty of
+Medicine, The University of Hong Kong, Pokfulam, Hong Kong SAR, China.
+ruhm@hku.hk.
+(3)Instituto Cajal, IC-CSIC, Avda. Doctor Arce 37, E-28002, Madrid, Spain.
+(4)Department of Degenerative Neurological Diseases, National Institute of
+Neuroscience, National Center of Neurology and Psychiatry, Kodaira, Tokyo, Japan.
+(5)Present address: Diabetic Neuropathy Project, Department of Sensory and Motor 
+Systems, Tokyo Metropolitan Institute of Medical Science, Setagaya, Tokyo, Japan.
+(6)Present address: Department of Neurology, Faculty of Medicine, Kindai
+University, Osaka-Sayama, Osaka, Japan.
+(7)Instituto de Química-Física Rocasolano, IQFR-CSIC, Serrano 119, E-28006,
+Madrid, Spain.
+(8)Centro de Investigación Biomédica en Red sobre Enfermedades Respiratorias
+(CIBERES), C/ Monforte de Lemos 3-5, 28029, Madrid, Spain.
+(9)Instituto Cajal, IC-CSIC, Avda. Doctor Arce 37, E-28002, Madrid, Spain.
+mcarrion@cajal.csic.es.
+(#)Contributed equally
+
+BACKGROUND: Amyloids are ordered, insoluble protein aggregates, characterized by 
+a cross-β sheet quaternary structure in which molecules in a β-strand
+conformation are stacked along the filament axis via intermolecular interactions.
+While amyloids are typically associated with pathological conditions, functional 
+amyloids have also been identified and are present in a wide variety of organisms
+ranging from bacteria to humans. The cytoplasmic polyadenylation element-binding 
+(CPEB) prion-like protein is an mRNA-binding translation regulator, whose
+neuronal isoforms undergo activity-dependent aggregation, a process that has
+emerged as a plausible biochemical substrate for memory maintenance. CPEB
+aggregation is driven by prion-like domains (PLD) that are divergent in sequence 
+across species, and it remains unknown whether such divergent PLDs follow a
+similar aggregating assembly pathway. Here, we describe the amyloid-like features
+of the neuronal Aplysia CPEB (ApCPEB) PLD and compare them to those of the
+Drosophila ortholog, Orb2 PLD.
+RESULTS: Using in vitro single-molecule and bulk biophysical methods, we find
+transient oligomers and mature amyloid-like filaments that suggest similarities
+in the late stages of the assembly pathway for both ApCPEB and Orb2 PLDs.
+However, while prior to aggregation the Orb2 PLD monomer remains mainly as a
+random coil in solution, ApCPEB PLD adopts a diversity of conformations
+comprising α-helical structures that evolve to coiled-coil species, indicating
+structural differences at the beginning of their amyloid assembly pathways.
+CONCLUSION: Our results indicate that divergent PLDs of CPEB proteins from
+different species retain the ability to form a generic amyloid-like fold through 
+different assembly mechanisms.
+
+DOI: 10.1186/s12915-021-00967-9 
+PMCID: PMC7953810
+PMID: 33706787 
+

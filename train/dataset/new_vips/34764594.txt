@@ -1,0 +1,50 @@
+
+1. Appl Intell (Dordr). 2021 Apr 19:1-16. doi: 10.1007/s10489-021-02292-8. [Epub
+ahead of print]
+
+A bi-stage feature selection approach for COVID-19 prediction using chest CT
+images.
+
+Sen S(1), Saha S(2), Chatterjee S(2), Mirjalili S(3)(4)(5), Sarkar R(6).
+
+Author information: 
+(1)Department of Computer Science and Engineering, University of Engineering &
+Management, Kolkata, 700160 India.
+(2)Department of Computer Science and Engineering, Future Institute of
+Engineering and Management, Kolkata, 700150 India.
+(3)Torrens University, Adelaide, Australia.
+(4)Yonsei Frontier Lab, Yonsei University, Seoul, South Korea.
+(5)King Abdulaziz University, Jeddah, Saudi Arabia.
+(6)Department of Computer Science and Engineering, Jadavpur University, Kolkata, 
+700032 India.
+
+The rapid spread of coronavirus disease has become an example of the worst
+disruptive disasters of the century around the globe. To fight against the spread
+of this virus, clinical image analysis of chest CT (computed tomography) images
+can play an important role for an accurate diagnostic. In the present work, a
+bi-modular hybrid model is proposed to detect COVID-19 from the chest CT images. 
+In the first module, we have used a Convolutional Neural Network (CNN)
+architecture to extract features from the chest CT images. In the second module, 
+we have used a bi-stage feature selection (FS) approach to find out the most
+relevant features for the prediction of COVID and non-COVID cases from the chest 
+CT images. At the first stage of FS, we have applied a guided FS methodology by
+employing two filter methods: Mutual Information (MI) and Relief-F, for the
+initial screening of the features obtained from the CNN model. In the second
+stage, Dragonfly algorithm (DA) has been used for the further selection of most
+relevant features. The final feature set has been used for the classification of 
+the COVID-19 and non-COVID chest CT images using the Support Vector Machine (SVM)
+classifier. The proposed model has been tested on two open-access datasets:
+SARS-CoV-2 CT images and COVID-CT datasets and the model shows substantial
+prediction rates of 98.39% and 90.0% on the said datasets respectively. The
+proposed model has been compared with a few past works for the prediction of
+COVID-19 cases. The supporting codes are uploaded in the Github link:
+https://github.com/Soumyajit-Saha/A-Bi-Stage-Feature-Selection-on-Covid-19-Datase
+t.
+
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC,
+part of Springer Nature 2021.
+
+DOI: 10.1007/s10489-021-02292-8 
+PMCID: PMC8053442
+PMID: 34764594 
+

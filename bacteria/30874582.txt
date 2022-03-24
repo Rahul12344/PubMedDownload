@@ -1,0 +1,51 @@
+
+1. Sci Rep. 2019 Mar 15;9(1):4656. doi: 10.1038/s41598-019-40966-z.
+
+The MurG glycosyltransferase provides an oligomeric scaffold for the cytoplasmic 
+steps of peptidoglycan biosynthesis in the human pathogen Bordetella pertussis.
+
+Laddomada F(1), Miyachiro MM(2)(3), Jessop M(1), Patin D(4), Job V(1),
+Mengin-Lecreulx D(4), Le Roy A(1), Ebel C(1), Breyton C(1), Gutsche I(1), Dessen 
+A(5)(6).
+
+Author information: 
+(1)Univ. Grenoble Alpes, CNRS, CEA, Institut de Biologie Structurale (IBS), F-
+38000, Grenoble, France.
+(2)Brazilian Biosciences National Laboratory (LNBio), CNPEM, Campinas, 13084-971,
+São Paulo, Brazil.
+(3)Universidade Estadual de Campinas (UNICAMP), Departamento de Genética,
+Evolução e Bioagentes, Campinas, São Paulo, Brazil.
+(4)Institute for Integrative Biology of the Cell (I2BC), CEA, CNRS, Univ
+Paris-Sud and Université Paris-Saclay, 91198, Gif-sur-Yvette, France.
+(5)Univ. Grenoble Alpes, CNRS, CEA, Institut de Biologie Structurale (IBS), F-
+38000, Grenoble, France. andrea.dessen@ibs.fr.
+(6)Brazilian Biosciences National Laboratory (LNBio), CNPEM, Campinas, 13084-971,
+São Paulo, Brazil. andrea.dessen@ibs.fr.
+
+Peptidoglycan is a major component of the bacterial cell wall and thus a major
+determinant of cell shape. Its biosynthesis is initiated by several sequential
+reactions catalyzed by cytoplasmic Mur enzymes. Mur ligases (MurC, -D, -E, and
+-F) are essential for bacteria, metabolize molecules not present in eukaryotes,
+and are structurally and biochemically tractable. However, although many Mur
+inhibitors have been developed, few have shown promising antibacterial activity, 
+prompting the hypothesis that within the cytoplasm, Mur enzymes could exist as a 
+complex whose architecture limits access of small molecules to their active
+sites. This suggestion is supported by the observation that in many bacteria,
+mur genes are present in a single operon, and pairs of these genes often are
+fused to generate a single polypeptide. Here, we explored this genetic
+arrangement in the human pathogen Bordetella pertussis and show that MurE and
+MurF are expressed as a single, bifunctional protein. EM, small angle X-ray
+scattering (SAXS), and analytical centrifugation (AUC) revealed that the
+MurE-MurF fusion displays an elongated, flexible structure that can dimerize.
+Moreover, MurE-MurF interacted with the peripheral glycosyltransferase MurG,
+which formed discrete oligomers resembling 4- or 5-armed stars in EM images. The 
+oligomeric structure of MurG may allow it to play a bona fide scaffolding role
+for a potential Mur complex, facilitating the efficient conveyance of
+peptidoglycan-building blocks toward the inner membrane leaflet. Our findings
+shed light on the structural determinants of a peptidoglycan formation complex
+involving Mur enzymes in bacterial cell wall formation.
+
+DOI: 10.1038/s41598-019-40966-z 
+PMCID: PMC6420597
+PMID: 30874582  [Indexed for MEDLINE]
+

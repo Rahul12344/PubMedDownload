@@ -1,0 +1,40 @@
+
+1. Nat Commun. 2021 Nov 3;12(1):6343. doi: 10.1038/s41467-021-26350-4.
+
+Selection for constrained peptides that bind to a single target protein.
+
+King AM(1)(2), Anderson DA(#)(1), Glassey E(#)(1), Segall-Shapiro TH(1), Zhang
+Z(1), Niquille DL(1), Embree AC(2), Pratt K(2), Williams TL(2), Gordon DB(1)(2), 
+Voigt CA(3)(4).
+
+Author information: 
+(1)Synthetic Biology Center, Department of Biological Engineering, Massachusetts 
+Institute of Technology, Cambridge, MA, USA.
+(2)Broad Institute of MIT and Harvard, Cambridge, MA, USA.
+(3)Synthetic Biology Center, Department of Biological Engineering, Massachusetts 
+Institute of Technology, Cambridge, MA, USA. cavoigt@gmail.com.
+(4)Broad Institute of MIT and Harvard, Cambridge, MA, USA. cavoigt@gmail.com.
+(#)Contributed equally
+
+Peptide secondary metabolites are common in nature and have
+diverse pharmacologically-relevant functions, from antibiotics to cross-kingdom
+signaling. Here, we present a method to design large libraries of modified
+peptides in Escherichia coli and screen them in vivo to identify those that bind 
+to a single target-of-interest. Constrained peptide scaffolds were produced using
+modified enzymes gleaned from microbial RiPP (ribosomally synthesized and
+post-translationally modified peptide) pathways and diversified to build large
+libraries. The binding of a RiPP to a protein target leads to the
+intein-catalyzed release of an RNA polymerase σ factor, which drives the
+expression of selectable markers. As a proof-of-concept, a selection was
+performed for binding to the SARS-CoV-2 Spike receptor binding domain. A 1625 Da 
+constrained peptide (AMK-1057) was found that binds with similar affinity
+(990 ± 5 nM) as an ACE2-derived peptide. This demonstrates a generalizable method
+to identify constrained peptides that adhere to a single protein target, as a
+step towards "molecular glues" for therapeutics and diagnostics.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-26350-4 
+PMCID: PMC8566587
+PMID: 34732700  [Indexed for MEDLINE]
+

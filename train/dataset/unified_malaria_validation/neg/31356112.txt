@@ -1,0 +1,33 @@
+
+1. j comput biol. 2019 dec;26(12):1438-1447. doi: 10.1089/cmb.2019.0182. epub 2019
+jul 30.
+
+key genes involved diabetic nephropathy investigated microarray analysis.
+
+liu x(1), li x(2).
+
+author information: 
+(1)public health college, zhengzhou university, zhengzhou, china.
+(2)the first affiliated hospital, zhengzhou university, zhengzhou, china.
+
+we aimed investigate significant genes associated diabetic nephropathy
+(dn), potential mechanisms process dn pathogenesis. we
+downloaded microarray data gse111154 gene expression omnibus (geo)
+database. first, analyzed differentially expressed genes (degs) early 
+diabetic nephropathy (edn) samples nondiabetic control samples. functional
+and pathway enrichment analysis carried out. disease-related gene sets were
+analyzed. then, constructed protein-protein interaction (ppi) network 
+predicted relation. finally, transcriptional regulation analyses microrna 
+and transcription factors performed. totally 554 degs edn samples
+and nondiabetic control samples obtained. enrichment analysis of
+disease-related gene sets showed transforming growth factor beta 1 (tgfb1)
+was significantly enriched dn. tgfb1 involved pathways, as
+proteoglycans cancer, malaria, amebiasis. furthermore, tgfb1 the
+highest degree ppi network. addition, tgfb1 correlated mir-21-5p, 
+mir-146a-5p, rad21. tgfb1, mir-146a-5p, mir-21-5p important dn
+development. furthermore, tgfb1 may involved dn progression the
+regulation mir-21-5p, mir-146a-5p, rad21.
+
+doi: 10.1089/cmb.2019.0182 
+pmid: 31356112  [indexed medline]
+

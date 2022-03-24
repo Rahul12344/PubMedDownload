@@ -1,0 +1,41 @@
+
+1. Sci Rep. 2018 Jan 11;8(1):491. doi: 10.1038/s41598-017-18846-1.
+
+A set of synthetic versatile genetic control elements for the efficient
+expression of genes in Actinobacteria.
+
+Horbal L(1), Siegl T(1), Luzhetskyy A(2)(3).
+
+Author information: 
+(1)Department Microbial Natural Products, Actinobacteria Metabolic Engineering
+Group, Saarland University, Saarbrücken, Germany.
+(2)Department Microbial Natural Products, Actinobacteria Metabolic Engineering
+Group, Saarland University, Saarbrücken, Germany.
+andriy.luzhetskyy@helmholtz-hzi.de.
+(3)Helmholtz-Institute for Pharmaceutical Research Saarland (HIPS) Helmholtz
+Center for Infectious Research (HZI), Campus C2.3, 66123, Saarbrücken, Germany.
+andriy.luzhetskyy@helmholtz-hzi.de.
+
+The design and engineering of secondary metabolite gene clusters that are
+characterized by complicated genetic organization, require the development of
+collections of well-characterized genetic control elements that can be reused
+reliably. Although a few intrinsic terminators and RBSs are used routinely, their
+translation and termination efficiencies have not been systematically studied in 
+Actinobacteria. Here, we analyzed the influence of the regions surrounding RBSs
+on gene expression in these bacteria. We demonstrated that inappropriate RBSs can
+reduce the expression efficiency of a gene to zero. We developed a genetic device
+- an in vivo RBS-selector - that allows selection of an optimal RBS for any gene 
+of interest, enabling rational control of the protein expression level. In
+addition, a genetic tool that provides the opportunity for measurement of
+termination efficiency was developed. Using this tool, we found strong
+terminators that lead to a 17-100-fold reduction in downstream expression and are
+characterized by sufficient sequence diversity to reduce homologous recombination
+when used with other elements. For the first time, a C-terminal degradation tag
+was employed for the control of protein stability in Streptomyces. Finally, we
+describe a collection of regulatory elements that can be used to control
+metabolic pathways in Actinobacteria.
+
+DOI: 10.1038/s41598-017-18846-1 
+PMCID: PMC5765039
+PMID: 29323285  [Indexed for MEDLINE]
+

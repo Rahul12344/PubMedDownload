@@ -1,0 +1,54 @@
+
+1. J Virol. 2021 Dec 1:JVI0181521. doi: 10.1128/JVI.01815-21. [Epub ahead of print]
+
+Effects of the noncoding subgenomic RNA of red clover necrotic mosaic virus in
+virus infection.
+
+Kanodia P(1)(2), Miller WA(1)(2)(3).
+
+Author information: 
+(1)Plant Pathology and Microbiology Department, Iowa State University, Ames, IA, 
+USA.
+(2)Interdepartmental Genetics and Genomics Major, Iowa State University, Ames,
+IA, USA.
+(3)Plant Science Institute, Iowa State University, Ames, IA, USA.
+
+In recent years, a new class of viral noncoding subgenomic (ncsg)RNA has been
+identified. This RNA is generated as a stable degradation product via an
+exoribonuclease-resistant (xr) RNA structure, which blocks the progression of
+5'→3' exoribonuclease on viral RNAs in infected cells. Here, we assess the
+effects of the ncsgRNA of red clover necrotic mosaic virus (RCNMV), called SR1f, 
+in infected plants. We demonstrate: (i) absence of SR1f reduces symptoms and
+decreases viral RNA accumulation in Nicotiana benthamiana and Arabidopsis
+thaliana plants; (ii) SR1f has an essential function other than suppression of
+RNA silencing; and (iii) the cytoplasmic exoribonuclease involved in mRNA
+turnover, XRN4, is not required for SR1f production or virus infection. A
+comparative transcriptomic analysis in N. benthamiana infected with wildtype
+RCNMV or an SR1f-deficient mutant RCNMV revealed that wt RCNMV infection, which
+produces SR1f and much higher levels of virus, has a greater and more significant
+impact on cellular gene expression than the SR1f-deficient mutant. Upregulated
+pathways include plant hormone signaling, plant-pathogen interaction, MAPK
+signaling, and several metabolic pathways, while photosynthesis-related genes
+were downregulated. We compare this to host genes known to participate in
+infection by other tombusvirids. Viral reads revealed a 10 to 100-fold ratio of
+positive to negative strand, and the abundance of reads of both strands mapping
+to the 3' region of RCNMV RNA1 support the premature mechanism of synthesis for
+the coding sgRNA. These results provide a framework for future studies of the
+interactions and functions of noncoding RNAs of plant viruses. IMPORTANCE
+Knowledge of how RNA viruses manipulate host and viral gene expression is crucial
+to our understanding of infection and disease. Unlike viral protein-host
+interactions, little is known about the control of gene expression by viral RNA. 
+Here we begin to address this question by investigating the noncoding subgenomic 
+(ncsg)RNA of red clover necrotic mosaic virus (RCNMV), called SR1f. Similar
+exoribonuclease-resistant RNAs of flaviviruses are well-studied, but the roles of
+plant viral ncsgRNAs, and how they arise, are poorly understood. Surprisingly, we
+find the likely exonuclease candidate, XRN4, is not required to generate SR1f,
+and we assess the effects of SR1f on virus accumulation and symptom development. 
+Finally, we compare the effects of infection by wildtype RCNMV vs an
+SR1f-deficient mutant on host gene expression in Nicotiana benthamiana, which
+reveals that ncsgRNAs such as SR1f are key players in virus-host interactions to 
+facilitate productive infection.
+
+DOI: 10.1128/JVI.01815-21 
+PMID: 34851690 
+

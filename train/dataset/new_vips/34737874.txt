@@ -1,0 +1,34 @@
+
+1. R Soc Open Sci. 2021 Nov 3;8(11):210787. doi: 10.1098/rsos.210787. eCollection
+2021 Nov.
+
+A hybrid PDE-ABM model for viral dynamics with application to SARS-CoV-2 and
+influenza.
+
+Marzban S(1), Han R(1), Juhász N(1), Röst G(1).
+
+Author information: 
+(1)Bolyai Institute, University of Szeged, Szeged 6720, Hungary.
+
+We propose a hybrid partial differential equation-agent-based (PDE-ABM) model to 
+describe the spatio-temporal viral dynamics in a cell population. The virus
+concentration is considered as a continuous variable and virus movement is
+modelled by diffusion, while changes in the states of cells (i.e. healthy,
+infected, dead) are represented by a stochastic ABM. The two subsystems are
+intertwined: the probability of an agent getting infected in the ABM depends on
+the local viral concentration, and the source term of viral production in the PDE
+is determined by the cells that are infected. We develop a computational tool
+that allows us to study the hybrid system and the generated spatial patterns in
+detail. We systematically compare the outputs with a classical ODE system of
+viral dynamics, and find that the ODE model is a good approximation only if the
+diffusion coefficient is large. We demonstrate that the model is able to predict 
+SARS-CoV-2 infection dynamics, and replicate the output of in vitro experiments. 
+Applying the model to influenza as well, we can gain insight into why the
+outcomes of these two infections are different.
+
+© 2021 The Authors.
+
+DOI: 10.1098/rsos.210787 
+PMCID: PMC8564626
+PMID: 34737874 
+

@@ -1,0 +1,44 @@
+
+1. comput biol chem. 2014 jun;50:3-10. doi: 10.1016/j.compbiolchem.2014.01.002. epub
+2014 jan 23.
+
+deciphering histone code transcriptional regulation malaria parasites by
+large-scale data mining.
+
+chen h(1), lonardi s(2), zheng j(3).
+
+author information: 
+(1)school computer engineering, nanyang technological university, 50 nanyang
+avenue, singapore 639798, singapore. electronic address: hchen009@e.ntu.edu.sg.
+(2)department computer science engineering, university california
+riverside, 900 university avenue, riverside, ca 92521, usa. electronic address:
+stelo@cs.ucr.edu.
+(3)school computer engineering, nanyang technological university, 50 nanyang
+avenue, singapore 639798, singapore; genome institute singapore, a*star
+(agency science, technology, research), biopolis, singapore 138672,
+singapore. electronic address: zhengjie@ntu.edu.sg.
+
+histone modifications play major role regulation gene expression.
+accumulated evidence shown histone modifications mediate biological
+processes transcription cooperatively. led hypothesis 
+'histone code' suggests combinations different histone
+modifications correspond unique chromatin states distinct functions. 
+in paper, propose framework based association rule mining to
+discover potential regulatory relations histone modifications and
+gene expression plasmodium falciparum. approach output rules with
+statistical significance. discovered rules supported by
+literature experimental results. moreover, also discovered de novo
+rules guide research epigenetic regulation transcription.
+based association rules build model predict gene expression, which
+outperforms published bayesian network model gene expression prediction 
+histone modifications. results study reveal mechanisms histone
+modifications regulate transcription large-scale. among findings, the
+cooperation among histone modifications provides new evidence hypothesis 
+of histone code. furthermore, rules output method used to
+predict change gene expression.
+
+copyright © 2014 elsevier ltd. rights reserved.
+
+doi: 10.1016/j.compbiolchem.2014.01.002 
+pmid: 24581698  [indexed medline]
+

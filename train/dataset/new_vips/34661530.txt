@@ -1,0 +1,50 @@
+
+1. Elife. 2021 Oct 18;10. pii: e70640. doi: 10.7554/eLife.70640.
+
+Early prediction of in-hospital death of COVID-19 patients: a machine-learning
+model based on age, blood analyses, and chest x-ray score.
+
+Garrafa E(#)(1)(2), Vezzoli M(#)(1), Ravanelli M(3)(4), Farina D(3)(4), Borghesi 
+A(3)(4), Calza S(1), Maroldi R(3)(4).
+
+Author information: 
+(1)Department of Molecular and Translational Medicine, University of Brescia,
+Brescia, Italy.
+(2)ASST Spedali Civili di Brescia, Department of Laboratory, Brescia, Italy.
+(3)Department of Medical and Surgical Specialties, Radiological Sciences and
+Public Health, University of Brescia, Brescia, Italy.
+(4)ASST Spedali Civili di Brescia, Department of Radiology, Brescia, Italy.
+(#)Contributed equally
+
+An early-warning model to predict in-hospital mortality on admission of COVID-19 
+patients at an emergency department (ED) was developed and validated using a
+machine-learning model. In total, 2782 patients were enrolled between March 2020 
+and December 2020, including 2106 patients (first wave) and 676 patients (second 
+wave) in the COVID-19 outbreak in Italy. The first-wave patients were divided
+into two groups with 1474 patients used to train the model, and 632 to validate
+it. The 676 patients in the second wave were used to test the model. Age, 17
+blood analytes, and Brescia chest X-ray score were the variables processed using 
+a random forests classification algorithm to build and validate the model.
+Receiver operating characteristic (ROC) analysis was used to assess the model
+performances. A web-based death-risk calculator was implemented and integrated
+within the Laboratory Information System of the hospital. The final score was
+constructed by age (the most powerful predictor), blood analytes (the strongest
+predictors were lactate dehydrogenase, D-dimer, neutrophil/lymphocyte ratio,
+C-reactive protein, lymphocyte %, ferritin std, and monocyte %), and Brescia
+chest X-ray score (https://bdbiomed.shinyapps.io/covid19score/). The areas under 
+the ROC curve obtained for the three groups (training, validating, and testing)
+were 0.98, 0.83, and 0.78, respectively. The model predicts in-hospital mortality
+on the basis of data that can be obtained in a short time, directly at the ED on 
+admission. It functions as a web-based calculator, providing a risk score which
+is easy to interpret. It can be used in the triage process to support the
+decision on patient allocation.
+
+© 2021, Garrafa et al.
+
+DOI: 10.7554/eLife.70640 
+PMCID: PMC8550757
+PMID: 34661530  [Indexed for MEDLINE]
+
+Conflict of interest statement: EG, MV, MR, DF, AB, SC, RM No competing interests
+declared
+

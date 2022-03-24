@@ -1,0 +1,42 @@
+
+1. Comput Biol Med. 2021 Dec;139:104946. doi: 10.1016/j.compbiomed.2021.104946. Epub
+2021 Oct 14.
+
+Computational investigation to identify potent inhibitors of the GTPase-Kirsten
+RAt sarcoma virus (K-Ras) mutants G12C and G12D.
+
+Kumar SU(1), Priya Doss CG(2).
+
+Author information: 
+(1)School of Bio Sciences and Technology, Vellore Institute of Technology,
+Vellore, Tamil Nadu, 632014, India.
+(2)School of Bio Sciences and Technology, Vellore Institute of Technology,
+Vellore, Tamil Nadu, 632014, India. Electronic address:
+georgepriyadoss@vit.ac.in.
+
+K-Ras mutations are frequent in various cancer types, and according to recent
+research, K-Ras possesses four-drug targeting sites. This increased our interest 
+in finding potential small molecule inhibitors with anticancer activity to treat 
+K-Ras-driven cancers. We utilized integrated bioinformatic strategies, such as XP
+docking, MM-GBSA, cell-line cytotoxicity prediction, ADMET, and molecular
+simulation, to discover potential inhibitors of G12C and G12D mutants compared to
+sotorasib, which is a recent FDA-approved inhibitor of G12C. We identified
+compounds, such as flupentixol, amlodipine, and fluvoxamine, for the G12C mutant 
+and paroxetine, flupentixol, and zuclopenthixol for the G12D mutant with
+significant inhibitory functions. All five compounds bound to the H95 cryptic
+groove of mutant K-Ras with high efficiency and, like sotorasib, retained a novel
+binding mechanism with additional hydrophobic interactions at the molecular
+level. Furthermore, the simulation studies suggested that the binding of
+flupentixol and amlodipine to G12C stabilizes switch I and switch II. In
+contrast, paroxetine and flupentixol to G12D showed a similar trend compared to
+sotorasib complexes. Thus, despite the very dynamic functionality of K-Ras
+switches I and II, the binding of shortlisted compounds is highly stable.
+Therefore, the reported study provides potential drug candidates for K-Ras
+inhibition that can be further developed with in vitro and in vivo evidence for
+targeted therapy.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2021.104946 
+PMID: 34715554 
+

@@ -1,0 +1,33 @@
+
+1. J Theor Biol. 2003 Jun 21;222(4):495-503.
+
+Gene arrangements and branching orders of gram-positive bacteria.
+
+Kunisawa T(1).
+
+Author information: 
+(1)Department of Applied Biological Sciences, Science University of Tokyo, Noda
+278-8510, Japan. kunisawa@rs.noda.tus.ac.jp
+
+The availability of complete genomic sequence data allows one to develop new
+methods of reconstructing phylogenetic trees. A simple method of reconstructing
+branching orders based on gene transposition (or lateral transfer) is presented. 
+It is argued that specific gene arrangements on four different genomes could
+determine a branching order. A computer search for such gene arrangements was
+carried out against gene order data of completely sequenced Gram-positive
+bacteria. Gene arrangements around ribosomal protein S4 gene, murC
+(UDP-N-acetylmuramate:alanine ligase) gene and dnaE (DNA polymerase III alpha
+chain) gene each suggest a branching order in which actinobacteria with a high
+genomic G+C content first branched off from other Gram-positives with a low G+C
+content and then a split occurred between Mycoplasma species and a group closely 
+related to Bacillus subtilis. A recently sequenced thermophilic bacterium
+Thermoanaerobacter tengcongensis is suggested to have branched off from the
+lineage leading to the low G+C Gram-positives prior to the split between the
+Mycoplasma and Bacillus groups. By contrast to the indel analysis in which a
+single evolutionary event of insertion or deletion of a signature sequence is
+assumed, the present method does not necessarily require such a parsimonious
+assumption of gene transposition.
+
+DOI: 10.1016/s0022-5193(03)00064-x 
+PMID: 12781748  [Indexed for MEDLINE]
+

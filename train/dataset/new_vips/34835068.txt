@@ -1,0 +1,36 @@
+
+1. Viruses. 2021 Nov 11;13(11). pii: 2262. doi: 10.3390/v13112262.
+
+Impact of Phage CDHS-1 on the Transcription, Physiology and Pathogenicity of a
+Clostridioides difficile Ribotype 027 Strain, R20291.
+
+Nale JY(1), Al-Tayawi TS(1), Heaphy S(1), Clokie MRJ(1).
+
+Author information: 
+(1)Department of Genetics and Genome Biology, University of Leicester, Leicester 
+LE1 7RH, UK.
+
+All known Clostridioides difficile phages encode integrases rendering them
+potentially able to lyse or lysogenise bacterial strains. Here, we observed the
+infection of the siphovirus, CDHS-1 on a ribotype 027 strain, R20291 and
+determined the phage and bacterial gene expression profiles, and impacts of phage
+infection on bacterial physiology and pathogenicity. Using RNA-seq and RT-qPCR we
+analysed transcriptomic changes during early, mid-log and late phases of phage
+replication at an MOI of 10. The phage has a 20 min latent period, takes 80 min
+to lyse cells and a burst size of ~37. All phage genes are highly expressed
+during at least one time point. The Cro/C1-transcriptional regulator, ssDNA
+binding protein and helicase are expressed early, the holin is expressed during
+the mid-log phase and structural proteins are expressed from mid-log to late
+phase. Most bacterial genes, particularly the metabolism and toxin
+production/regulatory genes, were downregulated from early phage replication.
+Phage-resistant strains and lysogens showed reduced virulence during Galleria
+mellonella colonization as ascertained by the larval survival and expression of
+growth (10), reproduction (2) and infection (2) marker genes. These data suggest 
+that phage infection both reduces colonization and negatively impacts bacterial
+pathogenicity, providing encouraging data to support the development of this
+phage for therapy to treat C. difficile infection.
+
+DOI: 10.3390/v13112262 
+PMCID: PMC8619979
+PMID: 34835068 
+

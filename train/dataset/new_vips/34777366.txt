@@ -1,0 +1,66 @@
+
+1. Front Immunol. 2021 Oct 28;12:754127. doi: 10.3389/fimmu.2021.754127. eCollection
+2021.
+
+Divergent COVID-19 Disease Trajectories Predicted by a DAMP-Centered Immune
+Network Model.
+
+Day JD(1)(2), Park S(3)(4), Ranard BL(4)(5), Singh H(6)(7), Chow CC(8), Vodovotz 
+Y(7)(9)(10).
+
+Author information: 
+(1)Department of Mathematics, University of Tennessee, Knoxville, TN, United
+States.
+(2)Department of Electrical Engineering & Computer Science, University of
+Tennessee, Knoxville, TN, United States.
+(3)Department of Neurology & Division of Critical Care and Hospital Neurology,
+Columbia University College of Physicians and Surgeons, New York Presbyterian
+Hospital - Columbia University Irving Medical Center, New York, NY, United
+States.
+(4)Program for Hospital and Intensive Care Informatics, Department of Neurology, 
+Columbia University College of Physicians and Surgeons, New York, NY, United
+States.
+(5)Division of Pulmonary, Allergy & Critical Care Medicine, Department of
+Medicine, Columbia University College of Physicians and Surgeons, New York
+Presbyterian Hospital - Columbia University Irving Medical Center, New York, NY, 
+United States.
+(6)Department of Immunology, University of Pittsburgh, Pittsburgh, PA, United
+States.
+(7)Center for Systems Immunology, University of Pittsburgh, Pittsburgh, PA,
+United States.
+(8)Mathematical Biology Section, Laboratory of Biological Modeling, National
+Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, MD, United
+States.
+(9)Department of Surgery, University of Pittsburgh, Pittsburgh, PA, United
+States.
+(10)Center for Inflammation and Regeneration Modeling, McGowan Institute for
+Regenerative Medicine, University of Pittsburgh, Pittsburgh, PA, United States.
+
+COVID-19 presentations range from mild to moderate through severe disease but
+also manifest with persistent illness or viral recrudescence. We hypothesized
+that the spectrum of COVID-19 disease manifestations was a consequence of
+SARS-CoV-2-mediated delay in the pathogen-associated molecular pattern (PAMP)
+response, including dampened type I interferon signaling, thereby shifting the
+balance of the immune response to be dominated by damage-associated molecular
+pattern (DAMP) signaling. To test the hypothesis, we constructed a parsimonious
+mechanistic mathematical model. After calibration of the model for initial viral 
+load and then by varying a few key parameters, we show that the core model
+generates four distinct viral load, immune response and associated disease
+trajectories termed "patient archetypes", whose temporal dynamics are reflected
+in clinical data from hospitalized COVID-19 patients. The model also accounts for
+responses to corticosteroid therapy and predicts that vaccine-induced
+neutralizing antibodies and cellular memory will be protective, including from
+severe COVID-19 disease. This generalizable modeling framework could be used to
+analyze protective and pathogenic immune responses to diverse viral infections.
+
+Copyright © 2021 Day, Park, Ranard, Singh, Chow and Vodovotz.
+
+DOI: 10.3389/fimmu.2021.754127 
+PMCID: PMC8582279
+PMID: 34777366  [Indexed for MEDLINE]
+
+Conflict of interest statement: YV is a co-founder of, and stakeholder in,
+Immunetrics, Inc. The remaining authors declare that the research was conducted
+in the absence of any commercial or financial relationships that could be
+construed as a potential conflict of interest.
+

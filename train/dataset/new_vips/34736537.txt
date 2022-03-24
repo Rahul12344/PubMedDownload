@@ -1,0 +1,62 @@
+
+1. Syst Rev. 2021 Nov 4;10(1):294. doi: 10.1186/s13643-021-01835-x.
+
+Systematic review and meta-analysis of the safety of chloroquine and
+hydroxychloroquine from randomized controlled trials on malarial and non-malarial
+conditions.
+
+Souza Botelho M(1), Bolfi F(1), Leite RGOF(1), Leite MSF(1), Banzato LR(1),
+Soares LT(1), Olivatti TOF(1), Mangolim AS(1), Oliveira FRK(1), Abbade LPF(2),
+Abbade JF(3), de Barros Almeida RAM(2), Simões Corrêa Galendi J(4), Thabane
+L(5)(6)(7), Dos Santos Nunes-Nogueira V(8).
+
+Author information: 
+(1)Department of Internal Medicine, São Paulo State University/UNESP, Medical
+School, Sao Paulo, Brazil.
+(2)Department of Infectious Diseases, Dermatology, Imaging Diagnosis and
+Radiotherapy, São Paulo State University/UNESP, Medical School, Sao Paulo,
+Brazil.
+(3)Department of Gynecology and Obstetrics, São Paulo State University/UNESP,
+Medical School, Sao Paulo, Brazil.
+(4)Institute of Health Economics and Clinical Epidemiology, Faculty of Medicine
+and University Hospital of Cologne, University of Cologne, Cologne, Germany.
+(5)Department of Health Research Methods, Evidence, and Impact, McMaster
+University, Hamilton, ON, Canada.
+(6)Biostatistics Unit, St Joseph's Healthcare-Hamilton, Hamilton, ON, Canada.
+(7)Faculty of Health Sciences, University of Johannesburg, Johannesburg, South
+Africa.
+(8)Department of Internal Medicine, São Paulo State University/UNESP, Medical
+School, Sao Paulo, Brazil. vania.nunes-nogueira@unesp.br.
+
+BACKGROUND: Despite the expectations regarding the effectiveness of chloroquine
+(CQ) and hydroxychloroquine (HCQ) for coronavirus disease (COVID-19) management, 
+concerns about their adverse events have remained.
+OBJECTIVES: The objective of this systematic review was to evaluate the safety of
+CQ and HCQ from malarial and non-malarial randomized clinical trials (RCTs).
+METHODS: The primary outcomes were the frequencies of serious adverse events
+(SAEs), retinopathy, and cardiac complications. Search strategies were applied to
+MEDLINE, EMBASE, LILACS, CENTRAL, Scopus, and Trip databases. We used a
+random-effects model to pool results across studies and Peto's one-step odds
+ratio (OR) for event rates below 1%. Both-armed zero-event studies were excluded 
+from the meta-analyses. We used the Grading of Recommendations Assessment,
+Development, and Evaluation system to evaluate the certainty of evidence.
+RESULTS: One hundred and six RCTs were included. We found no significant
+difference between CQ/HCQ and control (placebo or non-CQ/HCQ) in the frequency of
+SAEs (OR: 0.98, 95% confidence interval [CI]: 0.76-1.26, 33 trials, 15,942
+participants, moderate certainty of evidence). However, there was a moderate
+certainty of evidence that CQ/HCQ increases the incidence of cardiac
+complications (RR: 1.62, 95% CI: 1.10-2.38, 16 trials, 9908 participants). No
+clear relationship was observed between CQ/HCQ and retinopathy (OR: 1.63, 95% CI:
+- 0.4-6.57, 5 trials, 344 participants, very low certainty of evidence).
+CONCLUSIONS: CQ and HCQ probably do not increase SAEs, with low frequency of
+these adverse events on malarial and non-malarial conditions. However, they may
+increase cardiac complications especially in patients with COVID-19. No clear
+effect of their use on the incidence of retinopathy was observed.
+SYSTEMATIC REVIEW REGISTRATION: PROSPERO CRD42020177818.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s13643-021-01835-x 
+PMCID: PMC8567984
+PMID: 34736537  [Indexed for MEDLINE]
+

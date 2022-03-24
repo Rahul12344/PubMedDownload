@@ -1,0 +1,50 @@
+
+1. plos one. 2014 sep 26;9(9):e108430. doi: 10.1371/journal.pone.0108430.
+ecollection 2014.
+
+simulation modelling population dynamics mosquito vectors rift valley
+fever virus disease epidemic setting.
+
+mweya cn(1), holst n(2), mboera le(3), kimera si(4).
+
+author information: 
+(1)national institute medical research, tukuyu, tanzania; department of
+veterinary medicine public health, sokoine university agriculture,
+morogoro, tanzania.
+(2)department agroecology, aarhus university, slagelse, denmark.
+(3)national institute medical research, dar es salaam, tanzania.
+(4)department veterinary medicine public health, sokoine university of
+agriculture, morogoro, tanzania.
+
+background: rift valley fever (rvf) weather dependent arboviral infection of
+livestock humans. population dynamics mosquito vectors associated 
+disease epidemics. study, use daily temperature rainfall model
+inputs simulate dynamics mosquito vectors population relation disease
+epidemics.
+methods/findings: time-varying distributed delays (tvdd) multi-way functional
+response equations implemented simulate mosquito vectors hosts
+developmental stages establish interactions stages phases of
+mosquito vectors relation vertebrate hosts infection introduction in
+compartmental phases. open-source modelling platforms, universal simulator and
+qt integrated development environment used develop models c++
+programming language. developed models include source codes mosquito
+fecundity, host fecundity, water level, mosquito infection, host infection,
+interactions, egg time. extensible markup language (xml) files used as
+recipes integrate source codes qt creator universal simulator plug-in.
+we observed floodwater aedines culicine population continued to
+fluctuate temperature water level simulation period while
+controlled availability host blood feeding. infection system was
+introduced floodwater aedines. culicines pick infection infected host
+once amplify disease epidemic. simulated mosquito population show sudden
+unusual increase december 1997 january 1998 similar period rvf
+outbreak occurred ngorongoro district.
+conclusion/significance: findings presented provide new opportunities for
+weather-driven rvf epidemic simulation modelling. ideal approach for
+understanding disease transmission dynamics towards epidemics prediction,
+prevention control. approach used alternative source for
+generation calibrated rvf epidemics data different settings.
+
+doi: 10.1371/journal.pone.0108430 
+pmcid: pmc4178157
+pmid: 25259792  [indexed medline]
+

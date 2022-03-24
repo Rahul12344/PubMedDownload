@@ -1,0 +1,57 @@
+
+1. BMC Public Health. 2021 Nov 15;21(1):2099. doi: 10.1186/s12889-021-12175-9.
+
+Global trends and predictors of face mask usage during the COVID-19 pandemic.
+
+Badillo-Goicoechea E(#)(1), Chang TH(#)(2), Kim E(3), LaRocca S(3), Morris K(3), 
+Deng X(4), Chiu S(4), Bradford A(4), Garcia A(4), Kern C(5), Cobb C(3), Kreuter
+F(4)(6)(7), Stuart EA(8)(9).
+
+Author information: 
+(1)Department of Mental Health, Johns Hopkins Bloomberg School of Public Health, 
+615 N. Wolfe St. W1033, Baltimore, MD, 21205, USA.
+(2)Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, 
+615 N. Wolfe St. W1033, Baltimore, MD, 21205, USA.
+(3)Facebook Research, Menlo Park, California, USA.
+(4)Joint Program in Survey Methodology, University of Maryland College Park,
+College Park, MD, USA.
+(5)University of Mannheim, Mannheim, Germany.
+(6)Department of Statistics, Ludwig Maximilians University, Munich, Germany.
+(7)Institute for Employment Research, Nuremberg, Germany.
+(8)Department of Mental Health, Johns Hopkins Bloomberg School of Public Health, 
+615 N. Wolfe St. W1033, Baltimore, MD, 21205, USA. estuart@jhu.edu.
+(9)Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, 
+615 N. Wolfe St. W1033, Baltimore, MD, 21205, USA. estuart@jhu.edu.
+(#)Contributed equally
+
+BACKGROUND: Guidelines and recommendations from public health authorities related
+to face masks have been essential in containing the COVID-19 pandemic. We
+assessed the prevalence and correlates of mask usage during the pandemic.
+METHODS: We examined a total of 13,723,810 responses to a daily cross-sectional
+online survey in 38 countries of people who completed from April 23, 2020 to
+October 31, 2020 and reported having been in public at least once during the last
+7 days. The outcome was individual face mask usage in public settings, and the
+predictors were country fixed effects, country-level mask policy stringency,
+calendar time, individual sociodemographic factors, and health prevention
+behaviors. Associations were modeled using survey-weighted multivariable logistic
+regression.
+RESULTS: Mask-wearing varied over time and across the 38 countries. While some
+countries consistently showed high prevalence throughout, in other countries mask
+usage increased gradually, and a few other countries remained at low prevalence. 
+Controlling for time and country fixed effects, sociodemographic factors (older
+age, female gender, education, urbanicity) and stricter mask-related policies
+were significantly associated with higher mask usage in public settings.
+Crucially, social behaviors considered risky in the context of the pandemic
+(going out to large events, restaurants, shopping centers, and socializing
+outside of the household) were associated with lower mask use.
+CONCLUSION: The decision to wear a face mask in public settings is significantly 
+associated with sociodemographic factors, risky social behaviors, and mask
+policies. This has important implications for health prevention policies and
+messaging, including the potential need for more targeted policy and messaging
+design.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12889-021-12175-9 
+PMID: 34781917  [Indexed for MEDLINE]
+

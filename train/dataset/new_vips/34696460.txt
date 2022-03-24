@@ -1,0 +1,46 @@
+
+1. Viruses. 2021 Oct 8;13(10). pii: 2030. doi: 10.3390/v13102030.
+
+Inhibition of SARS-CoV-2 Replication by a Small Interfering RNA Targeting the
+Leader Sequence.
+
+Tolksdorf B(1), Nie C(2), Niemeyer D(3)(4), Röhrs V(1), Berg J(1), Lauster D(2), 
+Adler JM(5)(6), Haag R(2), Trimpert J(5), Kaufer B(5), Drosten C(3)(4), Kurreck
+J(1).
+
+Author information: 
+(1)Applied Biochemistry, Institute of Biotechnology, Technische Universität
+Berlin, 10623 Berlin, Germany.
+(2)Institute of Chemistry and Biochemistry, Freie Universität Berlin, 14195
+Berlin, Germany.
+(3)German Centre for Infection Research (DZIF), Charitéplatz 1, 10117 Berlin,
+Germany.
+(4)Institute of Virology, Charité-Universitätsmedizin Berlin, 10117 Berlin,
+Germany.
+(5)Department of Veterinary Medicine, Institute of Virology, Freie Universität
+Berlin, 14163 Berlin, Germany.
+(6)Department of Infectious Diseases and Respiratory Medicine,
+Charité-Universitätsmedizin Berlin, 10117 Berlin, Germany.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has infected almost 
+200 million people worldwide and led to approximately 4 million deaths as of
+August 2021. Despite successful vaccine development, treatment options are
+limited. A promising strategy to specifically target viral infections is to
+suppress viral replication through RNA interference (RNAi). Hence, we designed
+eight small interfering RNAs (siRNAs) targeting the highly conserved
+5'-untranslated region (5'-UTR) of SARS-CoV-2. The most promising candidate
+identified in initial reporter assays, termed siCoV6, targets the leader sequence
+of the virus, which is present in the genomic as well as in all subgenomic RNAs. 
+In assays with infectious SARS-CoV-2, it reduced replication by two orders of
+magnitude and prevented the development of a cytopathic effect. Moreover, it
+retained its activity against the SARS-CoV-2 alpha variant and has perfect
+homology against all sequences of the delta variant that were analyzed by
+bioinformatic means. Interestingly, the siRNA was even highly active in virus
+replication assays with the SARS-CoV-1 family member. This work thus identified a
+very potent siRNA with a broad activity against various SARS-CoV viruses that
+represents a promising candidate for the development of new treatment options.
+
+DOI: 10.3390/v13102030 
+PMCID: PMC8539227
+PMID: 34696460  [Indexed for MEDLINE]
+

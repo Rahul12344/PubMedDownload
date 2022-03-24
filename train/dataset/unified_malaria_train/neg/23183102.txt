@@ -1,0 +1,32 @@
+
+1. parasitol int. 2013 apr;62(2):134-6. doi: 10.1016/j.parint.2012.11.003. epub 2012
+nov 24.
+
+geneious plugins access plasmodb piroplasmadb databases.
+
+ma c(1), gunther s, cooke b, coppel rl.
+
+author information: 
+(1)department microbiology, monash university, clayton vic 3800, australia.
+charles.ma@monash.edu
+
+the bioinformatics software, geneious, provides useful platform researchers
+to retrieve analyse genomic functional genomics information. however, the
+main databases software able access hosted ncbi (national
+center biotechnology information). databases eupathdb (eukaryotic
+pathogen database resources), plasmodb piroplasmadb, collect more
+specific detailed information eukaryotic pathogens kept in
+ncbi databases. two plugins geneious, one plasmadb one for
+piroplasmadb developed. installed, users use search facilities to
+find import gene protein sequences eupathdb databases. users can
+then use functions geneious process sequence information. when
+information unique plasmodb piroplasmadb required, user access 
+results linked gene/protein sequence via default web browser. the
+plugins freely available victorian bioinformatics consortium
+website. plugins modified access databases eupathdb.
+
+copyright © 2012 elsevier ireland ltd. rights reserved.
+
+doi: 10.1016/j.parint.2012.11.003 
+pmid: 23183102  [indexed medline]
+

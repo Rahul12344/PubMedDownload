@@ -1,0 +1,37 @@
+
+1. Biochem Biophys Res Commun. 2005 Oct 7;335(4):1060-9.
+
+New mutant Chinese hamster ovary cell representing an unknown gene for attachment
+of glycosylphosphatidylinositol to proteins.
+
+Hong Y(1), Kang JY, Kim YU, Shin DJ, Choy HE, Maeda Y, Kinoshita T.
+
+Author information: 
+(1)Genomic Research Center for Enteropathogenic Bacteria and Department of
+Microbiology, Chonnam National University Medical School, Gwangju, Republic of
+Korea. yjhong@chonnam.ac.kr
+
+Aerolysin, a secreted bacterial toxin from Aeromonas hydrophila, binds to
+glycosylphosphatidylinositol (GPI)-anchored protein and kills the cells by
+forming pores. Both GPI and N-glycan moieties of GPI-anchored proteins are
+involved in efficient binding of aerolysin. We isolated various Chinese hamster
+ovary (CHO) mutant cells resistant to aerolysin. Among them, CHOPA41.3 mutant
+cells showed several-fold decreased expression of GPI-anchored proteins. After
+transfection of N-acetylglucosamine transferase I (GnT1) cDNA, aerolysin was
+efficiently bound to the cells, indicating that the resistance against aerolysin 
+in this cells was mainly ascribed to the defect of N-glycan maturation. CHOPA41.3
+cells also accumulated GPI intermediates lacking ethanolamine phosphate
+modification on the first mannose. After stable transfection of PIG-N cDNA
+encoding GPI-ethanolamine phosphate transferase1, a profile of accumulated GPI
+intermediates became similar to that of GPI transamidase mutant cells. It
+indicated, therefore, that CHOPA41.3 cells are defective in GnT1, ethanolamine
+phosphate modification of the first mannose, and attachment of GPI to proteins.
+The GPI accumulation in CHOPA41.3 cells carrying PIG-N cDNA was not normalized
+after transfection with cDNAs of all known components in GPI transamidase
+complex. Microsomes from CHOPA41.3 cells had normal GPI transamidase activity.
+Taken together, there is an unknown gene required for efficient attachment of GPI
+to proteins.
+
+DOI: 10.1016/j.bbrc.2005.07.177 
+PMID: 16102723  [Indexed for MEDLINE]
+

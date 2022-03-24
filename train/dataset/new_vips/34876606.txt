@@ -1,0 +1,50 @@
+
+1. Sci Rep. 2021 Dec 7;11(1):23561. doi: 10.1038/s41598-021-02904-w.
+
+N-glycosylation profiles of the SARS-CoV-2 spike D614G mutant and its ancestral
+protein characterized by advanced mass spectrometry.
+
+Wang D(1), Zhou B(2), Keppel TR(3), Solano M(3), Baudys J(3), Goldstein J(4),
+Finn MG(5), Fan X(2), Chapman AP(5), Bundy JL(3), Woolfitt AR(3), Osman SH(3),
+Pirkle JL(3), Wentworth DE(2), Barr JR(6).
+
+Author information: 
+(1)Division of Laboratory Sciences, National Center for Environmental Health,
+Centers for Disease Control and Prevention (CDC), Atlanta, GA, USA. dov2@cdc.gov.
+(2)Influenza Division; CDC COVID-19 Emergency Response - Laboratory and Testing
+Task Force, National Center for Immunization and Respiratory Diseases, Centers
+For Disease Control and Prevention (CDC), Atlanta, GA, USA.
+(3)Division of Laboratory Sciences, National Center for Environmental Health,
+Centers for Disease Control and Prevention (CDC), Atlanta, GA, USA.
+(4)Division of Scientific Resources, National Center for Emerging and Zoonotic
+Infectious Diseases, Centers for Disease Control and Prevention (CDC), Atlanta,
+GA, USA.
+(5)School of Chemistry and Biochemistry, Georgia Institute of Technology,
+Atlanta, GA, USA.
+(6)Division of Laboratory Sciences, National Center for Environmental Health,
+Centers for Disease Control and Prevention (CDC), Atlanta, GA, USA.
+jbarr@cdc.gov.
+
+N-glycosylation plays an important role in the structure and function of membrane
+and secreted proteins. The spike protein on the surface of the severe acute
+respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes COVID-19, 
+is heavily glycosylated and the major target for developing vaccines, therapeutic
+drugs and diagnostic tests. The first major SARS-CoV-2 variant carries a D614G
+substitution in the spike (S-D614G) that has been associated with altered
+conformation, enhanced ACE2 binding, and increased infectivity and transmission. 
+In this report, we used mass spectrometry techniques to characterize and compare 
+the N-glycosylation of the wild type (S-614D) or variant (S-614G) SARS-CoV-2
+spike glycoproteins prepared under identical conditions. The data showed that
+half of the N-glycosylation sequons changed their distribution of glycans in the 
+S-614G variant. The S-614G variant showed a decrease in the relative abundance of
+complex-type glycans (up to 45%) and an increase in oligomannose glycans (up to
+33%) on all altered sequons. These changes led to a reduction in the overall
+complexity of the total N-glycosylation profile. All the glycosylation sites with
+altered patterns were in the spike head while the glycosylation of three sites in
+the stalk remained unchanged between S-614G and S-614D proteins.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-02904-w 
+PMID: 34876606 
+

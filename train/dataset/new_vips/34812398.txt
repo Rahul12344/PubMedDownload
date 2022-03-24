@@ -1,0 +1,42 @@
+
+1. IEEE Access. 2021 Jun 30;9:95730-95753. doi: 10.1109/ACCESS.2021.3093633.
+eCollection 2021.
+
+Blockchain and AI-Based Solutions to Combat Coronavirus (COVID-19)-Like
+Epidemics: A Survey.
+
+Nguyen DC(1), Ding M(2), Pathirana PN(1), Seneviratne A(3).
+
+Author information: 
+(1)School of EngineeringDeakin University Waurn Ponds VIC 3216 Australia.
+(2)Data61CSIRO Eveleigh NSW 2015 Australia.
+(3)School of Electrical Engineering and TelecommunicationsUniversity of New South
+Wales (UNSW) Sydney NSW 2052 Australia.
+
+The beginning of 2020 has seen the emergence of coronavirus outbreak caused by a 
+novel virus called SARS-CoV-2. The sudden explosion and uncontrolled worldwide
+spread of COVID-19 show the limitations of existing healthcare systems in timely 
+handling public health emergencies. In such contexts, innovative technologies
+such as blockchain and Artificial Intelligence (AI) have emerged as promising
+solutions for fighting coronavirus epidemic. In particular, blockchain can combat
+pandemics by enabling early detection of outbreaks, ensuring the ordering of
+medical data, and ensuring reliable medical supply chain during the outbreak
+tracing. Moreover, AI provides intelligent solutions for identifying symptoms
+caused by coronavirus for treatments and supporting drug manufacturing.
+Therefore, we present an extensive survey on the use of blockchain and AI for
+combating COVID-19 epidemics. First, we introduce a new conceptual architecture
+which integrates blockchain and AI for fighting COVID-19. Then, we survey the
+latest research efforts on the use of blockchain and AI for fighting COVID-19 in 
+various applications. The newly emerging projects and use cases enabled by these 
+technologies to deal with coronavirus pandemic are also presented. A case study
+is also provided using federated AI for COVID-19 detection. Finally, we point out
+challenges and future directions that motivate more research efforts to deal with
+future coronavirus-like epidemics.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more 
+information, see https://creativecommons.org/licenses/by/4.0/.
+
+DOI: 10.1109/ACCESS.2021.3093633 
+PMCID: PMC8545197
+PMID: 34812398 
+

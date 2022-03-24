@@ -1,0 +1,37 @@
+
+1. J Immunol. 2009 May 1;182(9):5730-9. doi: 10.4049/jimmunol.0803114.
+
+Pertussis toxin signals through the TCR to initiate cross-desensitization of the 
+chemokine receptor CXCR4.
+
+Schneider OD(1), Weiss AA, Miller WE.
+
+Author information: 
+(1)Department of Molecular Genetics, Biochemistry, and Microbiology, University
+of Cincinnati College of Medicine, Cincinnati, OH 45267, USA.
+
+Pertussis toxin (PTx) has been shown to exert a variety of effects on immune
+cells independent of its ability to ADP-ribosylate G proteins. Of these effects, 
+the binding subunit of PTx (PTxB) has been shown to block signaling via the
+chemokine receptor CCR5, but the mechanism involved in this process is unknown.
+Here, we show that PTxB causes desensitization of a related chemokine receptor,
+CXCR4, and explore the mechanism by which this occurs. CXCR4 is the receptor for 
+the chemokine stromal cell-derived factor 1alpha (SDF-1alpha) and elicits a
+number of biological effects, including stimulation of T cell migration. PTxB
+treatment causes a decrease in CXCR4 surface expression, inhibits G
+protein-associated signaling, and blocks SDF-1alpha-mediated chemotaxis. We show 
+that PTxB mediates these effects by activating the TCR signaling network, as the 
+effects are dependent on TCR and ZAP70 expression. Additionally, the activation
+of the TCR with anti-CD3 mAb elicits a similar set of effects on CXCR4 activity, 
+supporting the idea that TCR signaling leads to cross-desensitization of CXCR4.
+The inhibition of CXCR4 by PTxB is rapid and transient; however, the catalytic
+activity of PTx prevents CXCR4 signaling in the long term. Thus, the effects of
+PTx holotoxin on CXCR4 signaling can be divided into two phases: short term by
+the B subunit, and long term by the catalytic subunit. These data suggest that
+TCR crosstalk with CXCR4 is likely a normal cellular process that leads to
+cross-desensitization, which is exploited by the B subunit of PTx.
+
+DOI: 10.4049/jimmunol.0803114 
+PMCID: PMC2766007
+PMID: 19380820  [Indexed for MEDLINE]
+

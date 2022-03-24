@@ -1,0 +1,52 @@
+
+1. Cancers (Basel). 2021 Oct 11;13(20). pii: 5079. doi: 10.3390/cancers13205079.
+
+HCV Activates Somatic L1 Retrotransposition-A Potential Hepatocarcinogenesis
+Pathway.
+
+Sudhindar PD(1), Wainwright D(1), Saha S(2), Howarth R(1), McCain M(2), Bury
+Y(3), Saha SS(2), McPherson S(4), Reeves H(2)(4), Patel AH(5), Faulkner GJ(6)(7),
+Lunec J(1), Shukla R(1).
+
+Author information: 
+(1)Newcastle University Centre for Cancer, Biosciences Institute, Faculty of
+Medical Sciences, The Medical School, Newcastle University, Newcastle upon Tyne
+NE2 4HH, UK.
+(2)Newcastle University Centre for Cancer, Translational and Clinical Research
+Institute, Faculty of Medical Sciences, The Medical School, Newcastle University,
+Newcastle upon Tyne NE2 4HH, UK.
+(3)Department of Cellular Pathology, Royal Victoria Infirmary, Newcastle upon
+Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne NE1 4LP, UK.
+(4)The Liver Unit, Freeman Hospital, Newcastle upon Tyne Hospitals NHS Foundation
+Trust, Heaton NE7 7DN, UK.
+(5)MRC-University of Glasgow Centre for Virus Research, University of Glasgow,
+Glasgow G61 1QH, UK.
+(6)Mater Research Institute, University of Queensland, Woolloongabba, QLD 4102,
+Australia.
+(7)Queensland Brain Institute, University of Queensland, Brisbane, QLD 4072,
+Australia.
+
+Hepatitis C virus (HCV) is a common cause of hepatocellular carcinoma (HCC). The 
+activation and mutagenic consequences of L1 retrotransposons in
+virus-associated-HCC have been documented. However, the direct influence of HCV
+upon L1 elements is unclear, and is the focus of the present study. L1 transcript
+expression was evaluated in a publicly available liver tissue RNA-seq dataset
+from patients with chronic HCV hepatitis (CHC), as well as healthy controls. L1
+transcript expression was significantly higher in CHC than in controls. L1orf1p
+(a L1 encoded protein) expression was observed in six out of 11 CHC livers by
+immunohistochemistry. To evaluate the influence of HCV on retrotransposition
+efficiency, in vitro engineered-L1 retrotransposition assays were employed in
+Huh7 cells in the presence and absence of an HCV replicon. An increased
+retrotransposition rate was observed in the presence of replicating HCV RNA, and 
+persisted in cells after viral clearance due to sofosbuvir (PSI7977) treatment.
+Increased retrotransposition could be due to dysregulation of the DNA-damage
+repair response, including homologous recombination, due to HCV infection.
+Altogether these data suggest that L1 expression can be activated before
+oncogenic transformation in CHC patients, with HCV-upregulated retrotransposition
+potentially contributing to HCC genomic instability and a risk of transformation 
+that persists post-viral clearance.
+
+DOI: 10.3390/cancers13205079 
+PMCID: PMC8533982
+PMID: 34680227 
+

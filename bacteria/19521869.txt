@@ -1,0 +1,35 @@
+
+1. Methods Mol Biol. 2009;551:89-104. doi: 10.1007/978-1-60327-999-4_8.
+
+Amplified fragment-length polymorphism analysis.
+
+Fry NK(1), Savelkoul PH, Visca P.
+
+Author information: 
+(1)Respiratory and Systemic Infection Laboratory, Health Protection Agency,
+Centre for Infections, London, UK.
+
+Amplified fragment length polymorphism (AFLP) analysis is a universal polymerase 
+chain reaction (PCR)-based DNA fingerprinting technique comprising three main
+stages: (i) digestion of genomic DNA with restriction endonucleases and ligation 
+to double-stranded adaptors (each comprised of two oligonucleotides), thus
+creating restriction fragments with identical known adaptor sequences; (ii)
+specific amplification of a subset of these DNA fragments using primers (one
+labeled) targeting the adaptor sequences and additional selected bases within the
+unknown genomic DNA; and (iii) analysis of the patterns (usually automated).
+Differences or polymorphisms between samples are revealed by separation of the
+labeled fragments by electrophoresis (standard agarose, high-resolution
+denaturing acrylamide, or capillary gels). Comparison of banding patterns is
+typically achieved using dedicated fingerprinting analysis software. The
+advantages of AFLP analysis include the ability to use a universal protocol in
+combination with different restriction endonucleases and the choice of adding one
+or more selective nucleotides in the PCR -primers to achieve optimal results
+relatively quickly without prior knowledge of DNA sequences from a large variety 
+of (micro)organisms. The method also has the potential for high-throughput and
+local electronic database pattern storage with relatively low cost. Disadvantages
+include variation in the precision of sizing of fragments, leading to suboptimal 
+reproducibility, particularly across different platforms.
+
+DOI: 10.1007/978-1-60327-999-4_8 
+PMID: 19521869  [Indexed for MEDLINE]
+

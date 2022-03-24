@@ -1,0 +1,60 @@
+
+1. PLoS One. 2021 Nov 15;16(11):e0258645. doi: 10.1371/journal.pone.0258645.
+eCollection 2021.
+
+Immunoinformatics mapping of potential epitopes in SARS-CoV-2 structural
+proteins.
+
+Devi YD(1), Goswami HB(1), Konwar S(1), Doley C(1), Dolley A(1), Devi A(1),
+Chongtham C(1)(2), Dowerah D(3), Biswa V(4), Jamir L(5), Kumar A(1), Satapathy
+SS(6)(7), Ray SK(1)(7), Deka RC(3)(7), Doley R(1), Mandal M(1)(7), Das S(4),
+Singh CS(8), Borah PP(9), Nath P(10), Namsa ND(1)(7).
+
+Author information: 
+(1)Department of Molecular Biology and Biotechnology, Tezpur University, Napaam, 
+Assam, India.
+(2)National Institute of Immunology, Aruna Asaf Ali Marg, Jawaharlal Nehru
+University, New Delhi, India.
+(3)Department of Chemical Sciences, Tezpur University, Napaam, Assam, India.
+(4)Department of Biotechnology, Bodoland University, Kokrajhar, Assam, India.
+(5)Department of Environmental Science, Nagaland University (Central), Lumami,
+India.
+(6)Department of Computer Science and Engineering, Tezpur University, Napaam,
+Assam, India.
+(7)Centre for Multi-disciplinary Research, Tezpur University, Napaam, Assam,
+India.
+(8)Department of Paediatrics, Regional Institute of Medical Sciences, Imphal,
+India.
+(9)Department of Paediatrics and Neonatology, Pratiksha Hospital, Borbari,
+Guwahati, Assam, India.
+(10)Department of Physics, Tezpur University, Napaam, Assam, India.
+
+All approved coronavirus disease 2019 (COVID-19) vaccines in current use are
+safe, effective, and reduce the risk of severe illness. Although data on the
+immunological presentation of patients with COVID-19 is limited, increasing
+experimental evidence supports the significant contribution of B and T cells
+towards the resolution of severe acute respiratory syndrome coronavirus 2
+(SARS-CoV-2) infection. Despite the availability of several COVID-19 vaccines
+with high efficacy, more effective vaccines are still needed to protect against
+the new variants of SARS-CoV-2. Employing a comprehensive immunoinformatic
+prediction algorithm and leveraging the genetic closeness with SARS-CoV, we have 
+predicted potential immune epitopes in the structural proteins of SARS-CoV-2. The
+S and N proteins of SARS-CoV-2 and SARS-CoVs are main targets of antibody
+detection and have motivated us to design four multi-epitope vaccines which were 
+based on our predicted B- and T-cell epitopes of SARS-CoV-2 structural proteins. 
+The cardinal epitopes selected for the vaccine constructs are predicted to
+possess antigenic, non-allergenic, and cytokine-inducing properties.
+Additionally, some of the predicted epitopes have been experimentally validated
+in published papers. Furthermore, we used the C-ImmSim server to predict
+effective immune responses induced by the epitope-based vaccines. Taken together,
+the immune epitopes predicted in this study provide a platform for future
+experimental validations which may facilitate the development of effective
+vaccine candidates and epitope-based serological diagnostic assays.
+
+DOI: 10.1371/journal.pone.0258645 
+PMCID: PMC8592446
+PMID: 34780495  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

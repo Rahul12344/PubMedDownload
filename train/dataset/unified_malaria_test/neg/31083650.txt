@@ -1,0 +1,61 @@
+
+1. plos biol. 2019 may 13;17(5):e3000271. doi: 10.1371/journal.pbio.3000271.
+ecollection 2019 may.
+
+rapid antigen diversification mitotic recombination human malaria 
+parasite plasmodium falciparum.
+
+zhang x(1), alexander n(2), leonardi i(3), mason c(2)(4)(5)(6), kirkman la(1)(7),
+deitsch kw(1).
+
+author information: 
+(1)department microbiology immunology, weill cornell medical college, new 
+york, new york, united states america.
+(2)department physiology biophysics, weill cornell medical college, new
+york, new york, united states america.
+(3)jill roberts center inflammatory bowel disease, weill cornell medical
+college, new york, new york, united states america.
+(4)hrh prince alwaleed bin talal bin abdulaziz alsaud institute computational
+biomedicine, weill cornell medical college, new york, new york, united states 
+america.
+(5)feil family brain mind research institute, weill cornell medical college, 
+new york, new york, united states america.
+(6)worldquant initiative quantitative prediction, weill cornell medical
+college, new york, new york, united states america.
+(7)department internal medicine, division infectious diseases, weill
+cornell medical college, new york, new york, united states america.
+
+comment in
+    trends parasitol. 2019 aug;35(8):588-590.
+
+malaria parasites possess remarkable ability maintain chronic infections
+that fail elicit protective immune response, characteristics have
+stymied vaccine development cause people living endemic regions remain 
+at risk malaria despite previous exposure disease. traits stem
+from tremendous antigenic diversity displayed parasites circulating the
+field. plasmodium falciparum, virulent human malaria
+parasites, diversity exemplified variant gene family called var,
+which encodes major surface antigen displayed infected red blood cells
+(rbcs). gene family exhibits virtually limitless diversity var gene
+repertoires different parasite isolates compared. previous studies
+indicated remarkable genome plasticity results extensive ectopic
+recombination var genes mitotic replication; however, the
+molecular mechanisms direct process antigen-encoding loci 
+rest genome remains relatively stable determined. using targeted 
+dna double-strand breaks (dsbs) long-read whole-genome sequencing, show
+that single break within antigen-encoding region genome result in
+a cascade recombination events leading generation multiple chimeric 
+var genes, process greatly accelerate generation diversity
+within family. also found recombinations occur randomly, but
+rather high-probability, specific recombination products observed
+repeatedly. results provide molecular basis previously described
+structured rearrangements drive diversification highly polymorphic
+gene family.
+
+doi: 10.1371/journal.pbio.3000271 
+pmcid: pmc6532940
+pmid: 31083650  [indexed medline]
+
+conflict interest statement: authors declared competing
+interests exist.
+

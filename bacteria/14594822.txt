@@ -1,0 +1,38 @@
+
+1. J Bacteriol. 2003 Nov;185(22):6507-12.
+
+Functional and biochemical analysis of Chlamydia trachomatis MurC, an enzyme
+displaying UDP-N-acetylmuramate:amino acid ligase activity.
+
+Hesse L(1), Bostock J, Dementin S, Blanot D, Mengin-Lecreulx D, Chopra I.
+
+Author information: 
+(1)Antimicrobial Research Centre and Division of Microbiology, School of
+Biochemistry and Molecular Biology, University of Leeds, Leeds LS2 9JT, United
+Kingdom.
+
+Chlamydiae are unusual obligate intracellular bacteria that cause serious
+infections in humans. Chlamydiae contain genes that appear to encode products
+with peptidoglycan biosynthetic activity. The organisms are also susceptible to
+antibiotics that inhibit peptidoglycan synthesis. However, chlamydiae do not
+synthesize detectable peptidoglycan. The paradox created by these observations is
+known as the chlamydial anomaly. The MurC enzyme of chlamydiae, which is
+synthesized as a bifunctional MurC-Ddl product, is expected to possess
+UDP-N-acetylmuramate (UDP-MurNAc):L-alanine ligase activity. In this paper we
+demonstrate that the MurC domain of the Chlamydia trachomatis bifunctional
+protein is functionally expressed in Escherichia coli, since it complements a
+conditional lethal E. coli mutant possessing a temperature-sensitive lesion in
+MurC. The recombinant MurC domain was overexpressed in and purified from E. coli.
+It displayed in vitro ATP-dependent UDP-MurNAc:L-alanine ligase activity, with a 
+pH optimum of 8.0 and dependence upon magnesium ions (optimum concentration, 20
+mM). Its substrate specificity was studied with three amino acids (L-alanine,
+L-serine, and glycine); comparable Vmax/Km values were obtained. Our results are 
+consistent with the synthesis of a muramic acid-containing polymer in chlamydiae 
+with UDP-MurNAc-pentapeptide as a precursor molecule. However, due to the lack of
+specificity of MurC activity in vitro, it is not obvious which amino acid is
+present in the first position of the pentapeptide.
+
+DOI: 10.1128/jb.185.22.6507-6512.2003 
+PMCID: PMC262092
+PMID: 14594822  [Indexed for MEDLINE]
+

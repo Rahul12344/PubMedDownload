@@ -1,0 +1,90 @@
+
+1. Front Cell Dev Biol. 2021 Aug 3;9:661272. doi: 10.3389/fcell.2021.661272.
+eCollection 2021.
+
+Low-Coverage Whole Genome Sequencing of Cell-Free DNA From Immunosuppressed
+Cancer Patients Enables Tumor Fraction Determination and Reveals Relevant Copy
+Number Alterations.
+
+Bouzidi A(1), Labreche K(2), Baron M(3), Veyri M(4), Denis JA(5), Touat M(6),
+Sanson M(6), Davi F(7), Guillerm E(8), Jouannet S(9), Charlotte F(10), Bielle
+F(11), Choquet S(3), Boëlle PY(2), Cadranel J(12), Leblond V(3), Autran B(13),
+Lacorte JM(1), Spano JP(1), Coulet F(1); IDEATION study group.
+
+Collaborators: Idbaih A, Balegroune N, Guihot A, Theodorou I, Alentorn A,
+Brocheriou I, Anne-Geneviève, Weil DR, Picca A.
+
+Author information: 
+(1)Sorbonne University, INSERM, Research Unit on Cardiovascular and Metabolic
+Disease UMR ICAN, Department of Endocrine Biochemistry and Oncology, AP-HP,
+Hôpital Pitié Salpêtrière, Paris, France.
+(2)Sorbonne University, INSERM, Pierre Louis Institute of Epidemiology and Public
+Health, Paris, France.
+(3)Sorbonne University, Center for Immunology and Infectious Diseases
+(CIMI-Paris), Department of Hematology, APHP, Hôpital Pitié Salpêtrière, Paris,
+France.
+(4)Sorbonne University, INSERM, Pierre Louis Institute of Epidemiology and Public
+Health, Theravir Team, Medical Oncology, AP-HP, Hôpital Pitié Salpêtrière, Paris,
+France.
+(5)Sorbonne University, INSERM, Saint-Antoine Research Center, Cancer Biology and
+Therapeutics, CRSA, Department of Endocrine Biochemistry and Oncology, AP-HP,
+Hôpital Pitié Salpêtrière, Paris, France.
+(6)Sorbonne University, INSERM, CNRS, Brain and Spine Institute, ICM, Department 
+of Neurology 2-Mazarin, AP-HP, Hôpital Pitié Salpêtrière, Paris, France.
+(7)Sorbonne University, INSERM, Centre de Recherche des Cordeliers, Department of
+Biological Hematology, AP-HP, Hôpital Pitié Salpêtrière, Paris, France.
+(8)Sorbonne University, INSERM, Saint-Antoine Research Center, Microsatellites
+Instability and Cancer, CRSA, Genetics Department, AP-HP, Hôpital Pitié
+Salpêtrière, Paris, France.
+(9)Sorbonne University, Neurosurgery Department, AP-HP, Hôpital Pitié
+Salpêtrière, Paris, France.
+(10)Sorbonne University, Anatomy and Pathologic Cytology, AP-HP, Hôpital Pitié
+Salpêtrière, Paris, France.
+(11)Sorbonne University, Neuropathology Department, AP-HP, Hôpital Pitié
+Salpêtrière, Paris, France.
+(12)Sorbonne University, Chest Department and Thoracic Oncology, GRC 04,
+Theranoscan, AP-HP, Hôpital Tenon, Paris, France.
+(13)Sorbonne University, INSERM, CNRS, Center for Immunology and Infectious
+Diseases (CIMI-Paris), AP-HP, Pitié-Salpêtrière Hospital, Paris, France.
+
+Cell-free DNA (cfDNA) analysis is a minimally invasive method that can be used to
+detect genomic abnormalities by directly testing a blood sample. This method is
+particularly useful for immunosuppressed patients, who are at high risk of
+complications from tissue biopsy. The cfDNA tumor fraction (TF) varies greatly
+across cancer type and between patients. Thus, the detection of molecular
+alterations is highly dependent on the circulating TF. In our study, we aimed to 
+calculate the TF and characterize the copy number aberration (CNA) profile of
+cfDNA from patients with rare malignancies occurring in immunosuppressed
+environments or immune-privileged sites. To accomplish this, we recruited 36
+patients: 19 patients with non-Hodgkin lymphoma (NHL) who were either human
+immunodeficiency virus (HIV)-positive or organ transplant recipients, 5
+HIV-positive lung cancer patients, and 12 patients with glioma. cfDNA was
+extracted from the patients' plasma and sequenced using low-coverage whole genome
+sequencing (LC-WGS). The cfDNA TF was then calculated using the ichorCNA
+bioinformatic algorithm, based on the CNA profile. In parallel, we performed
+whole exome sequencing of patient tumor tissue and cfDNA samples with detectable 
+TFs. We detected a cfDNA TF in 29% of immune-suppressed patients (one patient
+with lung cancer and six with systemic NHL), with a TF range from 8 to 70%. In
+these patients, the events detected in the CNA profile of cfDNA are well-known
+events associated with NHL and lung cancer. Moreover, cfDNA CNA profile
+correlated with the CNA profile of matched tumor tissue. No tumor-derived cfDNA
+was detected in the glioma patients. Our study shows that tumor genetic content
+is detectable in cfDNA from immunosuppressed patients with advanced NHL or lung
+cancer. LC-WGS is a time- and cost-effective method that can help select an
+appropriate strategy for performing extensive molecular analysis of cfDNA. This
+technique also enables characterization of CNAs in cfDNA when sufficient tumor
+content is available. Hence, this approach can be used to collect useful
+molecular information that is relevant to patient care.
+
+Copyright © 2021 Bouzidi, Labreche, Baron, Veyri, Denis, Touat, Sanson, Davi,
+Guillerm, Jouannet, Charlotte, Bielle, Choquet, Boëlle, Cadranel, Leblond,
+Autran, Lacorte, Spano, Coulet and the IDEATION study group.
+
+DOI: 10.3389/fcell.2021.661272 
+PMCID: PMC8369887
+PMID: 34710202 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

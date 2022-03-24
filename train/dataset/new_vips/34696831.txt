@@ -1,0 +1,39 @@
+
+1. Enzymes. 2021;49:149-193. doi: 10.1016/bs.enz.2021.06.001. Epub 2021 Jul 19.
+
+Allosteric and dynamic control of RNA-dependent RNA polymerase function and
+fidelity.
+
+Winston DS(1), Boehr DD(2).
+
+Author information: 
+(1)Department of Chemistry, The Pennsylvania State University, University Park,
+PA, United States.
+(2)Department of Chemistry, The Pennsylvania State University, University Park,
+PA, United States. Electronic address: ddb12@psu.edu.
+
+All RNA viruses encode an RNA-dependent RNA polymerase (RdRp) responsible for
+genome replication. It is now recognized that enzymes in general, and RdRps
+specifically, are dynamic macromolecular machines such that their moving parts,
+including active site loops, play direct functional roles. While X-ray
+crystallography has provided deep insight into structural elements important for 
+RdRp function, this methodology generally provides only static snapshots, and so 
+is limited in its ability to report on dynamic fluctuations away from the lowest 
+energy conformation. Nuclear magnetic resonance (NMR), molecular dynamics (MD)
+simulations and other biophysical techniques have brought new insight into RdRp
+function by their ability to characterize the trajectories, kinetics and
+thermodynamics of conformational motions. In particular, these methodologies have
+identified coordinated motions among conserved structural motifs necessary for
+nucleotide selection and incorporation. Disruption of these motions through amino
+acid substitutions or inhibitor binding impairs RdRp function. Understanding and 
+re-engineering these motions thus provides exciting new avenues for anti-viral
+strategies. This chapter outlines the basics of these methodologies, summarizes
+the dynamic motions observed in different RdRps important for nucleotide
+selection and incorporation, and illustrates how this information can be
+leveraged towards rational vaccine strain development and anti-viral drug design.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/bs.enz.2021.06.001 
+PMID: 34696831  [Indexed for MEDLINE]
+

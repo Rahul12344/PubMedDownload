@@ -1,0 +1,29 @@
+
+1. ACS Synth Biol. 2021 Nov 16. doi: 10.1021/acssynbio.1c00323. [Epub ahead of
+print]
+
+CRISPR-Cas12a-Based Detection of SARS-CoV-2 Harboring the E484K Mutation.
+
+Marqués MC(1), Ruiz R(1), Montagud-Martínez R(1), Márquez-Costa R(1), Albert
+S(1), Domingo-Calap P(1), Rodrigo G(1).
+
+Author information: 
+(1)Institute for Integrative Systems Biology (I2SysBio), CSIC - University of
+Valencia, 46980 Paterna, Spain.
+
+The novel respiratory virus SARS-CoV-2 is rapidly evolving across the world with 
+the potential of increasing its transmission and the induced disease. Here, we
+applied the CRISPR-Cas12a system to detect, without the need of sequencing,
+SARS-CoV-2 genomes harboring the E484K mutation, first identified in the Beta
+variant and catalogued as an escape mutation. The E484K mutation creates a
+canonical protospacer adjacent motif for Cas12a recognition in the resulting DNA 
+amplicon, which was exploited to obtain a differential readout. We analyzed a
+series of fecal samples from hospitalized patients in Valencia (Spain), finding
+one infection with SARS-CoV-2 harboring the E484K mutation, which was then
+confirmed by sequencing. Overall, these results suggest that CRISPR diagnostics
+can be a useful tool in epidemiology to monitor the spread of escape mutations.
+
+DOI: 10.1021/acssynbio.1c00323 
+PMCID: PMC8610009
+PMID: 34783536 
+

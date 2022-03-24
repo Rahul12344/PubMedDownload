@@ -1,0 +1,51 @@
+
+1. bmc genomics. 2011 feb 18;12:119. doi: 10.1186/1471-2164-12-119.
+
+rspred, set hidden markov models detect classify rifin stevor
+proteins plasmodium falciparum.
+
+joannin n(1), kallberg y, wahlgren m, persson b.
+
+author information: 
+(1)department microbiology, cell tumor biology (mtc), karolinska
+institutet, se-17177 stockholm, sweden. njoannin@gmail.com
+
+background: many parasites use multicopy protein families avoid host's
+immune system strategy called antigenic variation. rifin stevor
+proteins variable surface antigens uniquely found malaria parasites
+plasmodium falciparum p. reichenowi. although two protein families 
+different, similarity proteins
+described date. result, grouped together one pfam
+domain. however, recent study described sub-division rifin
+protein family several functionally distinct groups. sub-groups
+require phylogenetic analysis sort out, practical large-scale
+projects, sequencing patient isolates meta-genomic analysis.
+results: manually curated rif stevor gene repertoires two
+plasmodium falciparum genomes, isolates dd2 hb3. identified 25% of
+mis-annotated ~30 missing rif stevor genes. using data sets, as
+well sequences well curated reference genome (isolate 3d7) field 
+isolate data uniprot, developed tool named rspred. tool, based
+on set hidden markov models evaluation program, automatically
+identifies stevor rifin sequences well sub-groups: a-rifin,
+b-rifin, b1-rifin b2-rifin. addition groups, distinguish a
+small subset stevor proteins named stevor-like, either differ 
+remarkably typical stevor proteins fragmented reach high
+enough score. compared pfam tigrfams, rspred proves more
+robust sensitive method. applied rspred proteomes of
+several p. falciparum strains, p. reichenowi, p. vivax, p. knowlesi the
+rodent malaria species. groups found p. falciparum strains, and
+also p. reichenowi parasite, whereas none predicted other
+species.
+conclusions: generated tool sorting rifin stevor
+proteins, large antigenic variant protein groups, homogeneous sub-families. 
+assigning functions protein families requires subdivision into
+meaningful groups shown rifin protein family. rspred
+removes need complicated time consuming phylogenetic analysis
+methods. benefit research groups sequencing whole genomes well as
+others working field isolates. rspred freely accessible via
+http://www.ifm.liu.se/bioinfo/.
+
+doi: 10.1186/1471-2164-12-119 
+pmcid: pmc3050820
+pmid: 21332983  [indexed medline]
+

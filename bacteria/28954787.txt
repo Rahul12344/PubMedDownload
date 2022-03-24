@@ -1,0 +1,55 @@
+
+1. Clin Cancer Res. 2017 Dec 15;23(24):7596-7607. doi:
+10.1158/1078-0432.CCR-17-0618. Epub 2017 Sep 27.
+
+Mutational Analysis of Gene Fusions Predicts Novel MHC Class I-Restricted T-Cell 
+Epitopes and Immune Signatures in a Subset of Prostate Cancer.
+
+Kalina JL(1), Neilson DS(1)(2), Lin YY(3), Hamilton PT(1), Comber AP(1), Loy
+EMH(1)(2), Sahinalp SC(3)(4)(5), Collins CC(4), Hach F(6)(4)(7), Lum JJ(8)(2).
+
+Author information: 
+(1)Trev & Joyce Deeley Research Centre, British Columbia Cancer Agency, Victoria,
+Canada.
+(2)Department of Biochemistry & Microbiology, University of Victoria, Victoria,
+Canada.
+(3)School of Computing Science, Simon Fraser University, Burnaby, Canada.
+(4)Vancouver Prostate Centre, Vancouver, Canada.
+(5)School of Informatics & Computing, Indiana University, Bloomington, Indiana.
+(6)School of Computing Science, Simon Fraser University, Burnaby, Canada.
+jjlum@bccancer.bc.ca fhach@prostatecentre.com.
+(7)Department of Urologic Sciences, University of British Columbia, Vancouver,
+Canada.
+(8)Trev & Joyce Deeley Research Centre, British Columbia Cancer Agency, Victoria,
+Canada. jjlum@bccancer.bc.ca fhach@prostatecentre.com.
+
+Purpose: Gene fusions are frequently found in prostate cancer and may result in
+the formation of unique chimeric amino acid sequences (CASQ) that span the
+breakpoint of two fused gene products. This study evaluated the potential for
+fusion-derived CASQs to be a source of tumor neoepitopes, and determined their
+relationship to patterns of immune signatures in prostate cancer
+patients.Experimental Design: A computational strategy was used to identify CASQs
+and their corresponding predicted MHC class I epitopes using RNA-Seq data from
+The Cancer Genome Atlas of prostate tumors. In vitro peptide-specific T-cell
+expansion was performed to identify CASQ-reactive T cells. A multivariate
+analysis was used to relate patterns of in silico-predicted tumor-infiltrating
+immune cells with prostate tumors harboring these mutational events.Results:
+Eighty-seven percent of tumors contained gene fusions with a mean of 12 per
+tumor. In total, 41% of fusion-positive tumors were found to encode CASQs. Within
+these tumors, 87% gave rise to predicted MHC class I-binding epitopes. This
+observation was more prominent when patients were stratified into low- and
+intermediate/high-risk categories. One of the identified CASQ from the recurrent 
+TMPRSS2:ERG type VI fusion contained several high-affinity HLA-restricted
+epitopes. These peptides bound HLA-A*02:01 in vitro and were recognized by CD8+ T
+cells. Finally, the presence of fusions and CASQs were associated with expression
+of immune cell infiltration.Conclusions: Mutanome analysis of gene fusion-derived
+CASQs can give rise to patient-specific predicted neoepitopes. Moreover, these
+fusions predicted patterns of immune cell infiltration within a subgroup of
+prostate cancer patients. Clin Cancer Res; 23(24); 7596-607. ©2017 AACR.
+
+©2017 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-17-0618 
+PMCID: PMC5831673
+PMID: 28954787  [Indexed for MEDLINE]
+

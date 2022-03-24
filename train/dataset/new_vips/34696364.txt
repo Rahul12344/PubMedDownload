@@ -1,0 +1,42 @@
+
+1. Viruses. 2021 Sep 26;13(10). pii: 1934. doi: 10.3390/v13101934.
+
+Characterization of Blf4, an Archaeal Lytic Virus Targeting a Member of the
+Methanomicrobiales.
+
+Weidenbach K(1), Wolf S(2), Kupczok A(1)(3), Kern T(2), Fischer MA(1), Reetz
+J(4), Urbańska N(2), Künzel S(5), Schmitz RA(1), Rother M(2).
+
+Author information: 
+(1)Institute for General Microbiology, Christian-Albrechts-Universität zu Kiel,
+24118 Kiel, Germany.
+(2)Institute of Microbiology, Technische Universität Dresden, 01062 Dresden,
+Germany.
+(3)Bioinformatics Group, Plant Sciences Group, Wageningen University & Research, 
+6708 PE Wageningen, The Netherlands.
+(4)German Federal Institute for Risk Assessment, 10589 Berlin, Germany.
+(5)Max-Planck-Institute for Evolutionary Biology, 24306 Plön, Germany.
+
+Today, the number of known viruses infecting methanogenic archaea is limited.
+Here, we report on a novel lytic virus, designated Blf4, and its host strain
+Methanoculleus bourgensis E02.3, a methanogenic archaeon belonging to the
+Methanomicrobiales, both isolated from a commercial biogas plant in Germany. The 
+virus consists of an icosahedral head 60 nm in diameter and a long
+non-contractile tail of 125 nm in length, which is consistent with the new
+isolate belonging to the Siphoviridae family. Electron microscopy revealed that
+Blf4 attaches to the vegetative cells of M. bourgensis E02.3 as well as to
+cellular appendages. Apart from M. bourgensis E02.3, none of the tested
+Methanoculleus strains were lysed by Blf4, indicating a narrow host range. The
+complete 37 kb dsDNA genome of Blf4 contains 63 open reading frames (ORFs), all
+organized in the same transcriptional direction. For most of the ORFs, potential 
+functions were predicted. In addition, the genome of the host M. bourgensis E02.3
+was sequenced and assembled, resulting in a 2.6 Mbp draft genome consisting of
+nine contigs. All genes required for a hydrogenotrophic lifestyle were predicted.
+A CRISPR/Cas system (type I-U) was identified with six spacers directed against
+Blf4, indicating that this defense system might not be very efficient in fending 
+off invading Blf4 virus.
+
+DOI: 10.3390/v13101934 
+PMCID: PMC8540584
+PMID: 34696364 
+

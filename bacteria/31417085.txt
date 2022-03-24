@@ -1,0 +1,49 @@
+
+1. Nat Commun. 2019 Aug 15;10(1):3678. doi: 10.1038/s41467-019-11549-3.
+
+Arkadia/RNF111 is a SUMO-targeted ubiquitin ligase with preference for substrates
+marked with SUMO1-capped SUMO2/3 chain.
+
+Sriramachandran AM(1)(2), Meyer-Teschendorf K(1)(3), Pabst S(1), Ulrich HD(2),
+Gehring NH(1), Hofmann K(4), Praefcke GJK(5)(6)(7), Dohmen RJ(8).
+
+Author information: 
+(1)Institute for Genetics, Faculty of Mathematics and Natural Sciences,
+University of Cologne, Center of Molecular Biosciences, Zülpicher Str. 47a,
+D-50674, Cologne, Germany.
+(2)Institute of Molecular Biology, Ackermannweg 4, D-55128, Mainz, Germany.
+(3)Center for Molecular Medicine Cologne (CMMC), University of Cologne,
+Robert-Koch-Straße 21, D-50931, Cologne, Germany.
+(4)Institute for Genetics, Faculty of Mathematics and Natural Sciences,
+University of Cologne, Center of Molecular Biosciences, Zülpicher Str. 47a,
+D-50674, Cologne, Germany. Kay.Hofmann@uni-koeln.de.
+(5)Institute for Genetics, Faculty of Mathematics and Natural Sciences,
+University of Cologne, Center of Molecular Biosciences, Zülpicher Str. 47a,
+D-50674, Cologne, Germany. Gerrit.Praefcke@pei.de.
+(6)Center for Molecular Medicine Cologne (CMMC), University of Cologne,
+Robert-Koch-Straße 21, D-50931, Cologne, Germany. Gerrit.Praefcke@pei.de.
+(7)Paul-Ehrlich-Institute, Department of Haematology and Transfusion Medicine,
+Paul-Ehrlich-Str. 51-59, D-63225, Langen, Germany. Gerrit.Praefcke@pei.de.
+(8)Institute for Genetics, Faculty of Mathematics and Natural Sciences,
+University of Cologne, Center of Molecular Biosciences, Zülpicher Str. 47a,
+D-50674, Cologne, Germany. j.dohmen@uni-koeln.de.
+
+Modification with SUMO regulates many eukaryotic proteins. Down-regulation of
+sumoylated forms of proteins involves either their desumoylation, and hence
+recycling of the unmodified form, or their proteolytic targeting by ubiquitin
+ligases that recognize their SUMO modification (termed STUbL or ULS). STUbL
+enzymes such as Uls1 and Slx5-Slx8 in budding yeast or RNF4 and Arkadia/RNF111 in
+humans bear multiple SUMO interaction motifs to recognize substrates carrying
+poly-SUMO chains. Using yeast as experimental system and isothermal titration
+calorimetry, we here show that Arkadia specifically selects substrates carrying
+SUMO1-capped SUMO2/3 hybrid conjugates and targets them for proteasomal
+degradation. Our data suggest that a SUMO1-specific binding site in Arkadia with 
+sequence similarity to a SUMO1-binding site in DPP9 is required for targeting
+endogenous hybrid SUMO conjugates and PML nuclear bodies in human cells. We thus 
+characterize Arkadia as a STUbL with a preference for substrate proteins marked
+with distinct hybrid SUMO chains.
+
+DOI: 10.1038/s41467-019-11549-3 
+PMCID: PMC6695498
+PMID: 31417085  [Indexed for MEDLINE]
+

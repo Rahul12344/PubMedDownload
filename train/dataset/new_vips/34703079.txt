@@ -1,0 +1,43 @@
+
+1. Neurocomputing. 2022 Jan 22;470:11-28. doi: 10.1016/j.neucom.2021.10.043. Epub
+2021 Oct 22.
+
+Digital twins based on bidirectional LSTM and GAN for modelling the COVID-19
+pandemic.
+
+Quilodrán-Casas C(1)(2), Silva VLS(2), Arcucci R(1)(2), Heaney CE(2), Guo Y(1),
+Pain CC(1)(2).
+
+Author information: 
+(1)Data Science Institute, Department of Computing, Imperial College London, UK.
+(2)Department of Earth Science & Engineering, Imperial College London, UK.
+
+The outbreak of the coronavirus disease 2019 (COVID-19) has now spread throughout
+the globe infecting over 150 million people and causing the death of over 3.2
+million people. Thus, there is an urgent need to study the dynamics of
+epidemiological models to gain a better understanding of how such diseases
+spread. While epidemiological models can be computationally expensive, recent
+advances in machine learning techniques have given rise to neural networks with
+the ability to learn and predict complex dynamics at reduced computational costs.
+Here we introduce two digital twins of a SEIRS model applied to an idealised
+town. The SEIRS model has been modified to take account of spatial variation and,
+where possible, the model parameters are based on official virus spreading data
+from the UK. We compare predictions from one digital twin based on a
+data-corrected Bidirectional Long Short-Term Memory network with predictions from
+another digital twin based on a predictive Generative Adversarial Network. The
+predictions given by these two frameworks are accurate when compared to the
+original SEIRS model data. Additionally, these frameworks are data-agnostic and
+could be applied to towns, idealised or real, in the UK or in other countries.
+Also, more compartments could be included in the SEIRS model, in order to study
+more realistic epidemiological behaviour.
+
+© 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.neucom.2021.10.043 
+PMCID: PMC8531233
+PMID: 34703079 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

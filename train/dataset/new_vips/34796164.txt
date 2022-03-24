@@ -1,0 +1,48 @@
+
+1. Front Chem. 2021 Nov 2;9:763794. doi: 10.3389/fchem.2021.763794. eCollection
+2021.
+
+Effective Search of Triterpenes with Anti-HSV-1 Activity Using a Classification
+Model by Logistic Regression.
+
+Ogawa K(1), Nakamura S(2), Oguri H(1), Ryu K(2), Yoneda T(2), Hosoki R(1).
+
+Author information: 
+(1)Laboratory of Regulatory Science, College of Pharmaceutical Sciences,
+Ritsumeikan University, Kusatsu, Japan.
+(2)Department of Pharmacognosy, Kyoto Pharmaceutical University, Kyoto, Japan.
+
+Natural products are an excellent source of skeletons for medicinal seeds.
+Triterpenes and saponins are representative natural products that exhibit
+anti-herpes simplex virus type 1 (HSV-1) activity. However, there has been a lack
+of comprehensive information on the anti-HSV-1 activity of triterpenes.
+Therefore, expanding information on the anti-HSV-1 activity of triterpenes and
+improving the efficiency of their exploration are urgently required. To improve
+the efficiency of the development of anti-HSV-1 active compounds, we constructed 
+a predictive model for the anti-HSV-1 activity of triterpenes by using the
+information obtained from previous studies using machine learning methods. In
+this study, we constructed a binary classification model (i.e., active or
+inactive) using a logistic regression algorithm. As a result of the evaluation of
+predictive model, the accuracy for the test data is 0.79, and the area under the 
+curve (AUC) is 0.86. Additionally, to enrich the information on the anti-HSV-1
+activity of triterpenes, a plaque reduction assay was performed on 20
+triterpenes. As a result, chikusetsusaponin IVa (11: IC50 = 13.06 μM) was found
+to have potent anti-HSV-1 with three potentially anti-HSV-1 active triterpenes.
+The assay result was further used for external validation of predictive model.
+The prediction of the test compounds in the activity test showed a high accuracy 
+(0.83) and AUC (0.81). We also found that this predictive model was found to be
+able to successfully narrow down the active compounds. This study provides more
+information on the anti-HSV-1 activity of triterpenes. Moreover, the predictive
+model can improve the efficiency of the development of active triterpenes by
+integrating many previous studies to clarify potential relationships.
+
+Copyright © 2021 Ogawa, Nakamura, Oguri, Ryu, Yoneda and Hosoki.
+
+DOI: 10.3389/fchem.2021.763794 
+PMCID: PMC8593400
+PMID: 34796164 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

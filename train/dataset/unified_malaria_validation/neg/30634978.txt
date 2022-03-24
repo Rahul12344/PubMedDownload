@@ -1,0 +1,42 @@
+
+1. bmc syst biol. 2019 jan 11;13(1):5. doi: 10.1186/s12918-018-0669-4.
+
+plasmodium vivax readiness transmit: implication malaria eradication.
+
+adapa sr(1), taylor ra(2), wang c(1), thomson-luque r(1), johnson lr(2), jiang
+rhy(3).
+
+author information: 
+(1)department global health (gh) & center drug discovery innovation
+(cddi), college public health, university south florida, tampa, fl, 33612, 
+usa.
+(2)department integrative biology, university south florida, tampa, fl,
+usa.
+(3)department global health (gh) & center drug discovery innovation
+(cddi), college public health, university south florida, tampa, fl, 33612, 
+usa. jiang2@health.usf.edu.
+
+background: lack continuous long-term vitro culture system for
+plasmodium vivax severely limits knowledge pathophysiology most
+widespread malaria parasite. gain direct understanding p. vivax human
+infections, used next generation sequencing data mining unravel parasite in
+vivo expression profiles p. vivax, p. falciparum comparison.
+results: performed cloud local computing extract parasite
+transcriptomes publicly available raw data human blood samples. we
+developed poisson modelling (pm) method confidently identify parasite
+derived transcripts mixed rnaseq signals infected host tissues. we
+successfully retrieved reconstructed parasite transcriptomes infected
+patient blood early first blood stage cycle; methodology
+did recover significant signal controls. surprisingly, first
+generation blood parasites already show strong signature transmission, which
+indicates commitment asexual-to-sexual stages. further, place the
+results within context p. vivax's complex life cycle, developing
+mathematical models p. vivax p. falciparum using sensitivity analysis
+assess relative epidemiological impact possible early stage transmission.
+conclusion: study uncovers earliest onset p. vivax blood pathogenesis 
+and highlights challenges p. vivax eradication programs.
+
+doi: 10.1186/s12918-018-0669-4 
+pmcid: pmc6330404
+pmid: 30634978  [indexed medline]
+

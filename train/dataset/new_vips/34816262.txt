@@ -1,0 +1,46 @@
+
+1. bioRxiv. 2021 Nov 15. pii: 2020.11.23.393488. doi: 10.1101/2020.11.23.393488.
+
+LinearTurboFold: Linear-Time Global Prediction of Conserved Structures for RNA
+Homologs with Applications to SARS-CoV-2.
+
+Li S, Zhang H, Zhang L, Liu K, Liu B, Mathews DH, Huang L.
+
+The constant emergence of COVID-19 variants reduces the effectiveness of existing
+vaccines and test kits. Therefore, it is critical to identify conserved
+structures in SARS-CoV-2 genomes as potential targets for variant-proof
+diagnostics and therapeutics. However, the algorithms to predict these conserved 
+structures, which simultaneously fold and align multiple RNA homologs, scale at
+best cubically with sequence length, and are thus infeasible for coronaviruses,
+which possess the longest genomes (∼30,000 nt ) among RNA viruses. As a result,
+existing efforts on modeling SARS-CoV-2 structures resort to single sequence
+folding as well as local folding methods with short window sizes, which
+inevitably neglect long-range interactions that are crucial in RNA functions.
+Here we present LinearTurboFold, an efficient algorithm for folding RNA homologs 
+that scales linearly with sequence length, enabling unprecedented global
+structural analysis on SARS-CoV-2. Surprisingly, on a group of SARS-CoV-2 and
+SARS-related genomes, LinearTurbo-Fold's purely in silico prediction not only is 
+close to experimentally-guided models for local structures, but also goes far
+beyond them by capturing the end-to-end pairs between 5' and 3' UTRs (∼29,800 nt 
+apart) that match perfectly with a purely experimental work. Furthermore,
+LinearTurboFold identifies novel conserved structures and conserved accessible
+regions as potential targets for designing efficient and mutation-insensitive
+small-molecule drugs, antisense oligonucleotides, siRNAs, CRISPR-Cas13 guide RNAs
+and RT-PCR primers. LinearTurboFold is a general technique that can also be
+applied to other RNA viruses and full-length genome studies, and will be a useful
+tool in fighting the current and future pandemics.Significance Statement:
+Conserved RNA structures are critical for designing diagnostic and therapeutic
+tools for many diseases including COVID-19. However, existing algorithms are much
+too slow to model the global structures of full-length RNA viral genomes. We
+present LinearTurboFold, a linear-time algorithm that is orders of magnitude
+faster, making it the first method to simultaneously fold and align whole genomes
+of SARS-CoV-2 variants, the longest known RNA virus (∼30 kilobases). Our work
+enables unprecedented global structural analysis and captures long-range
+interactions that are out of reach for existing algorithms but crucial for RNA
+functions. LinearTurboFold is a general technique for full-length genome studies 
+and can help fight the current and future pandemics.
+
+DOI: 10.1101/2020.11.23.393488 
+PMCID: PMC8609897
+PMID: 34816262 
+

@@ -1,0 +1,60 @@
+
+1. IEEE Access. 2021 Feb 9;9:27840-27867. doi: 10.1109/ACCESS.2021.3058066.
+eCollection 2021.
+
+CoAID-DEEP: An Optimized Intelligent Framework for Automated Detecting COVID-19
+Misleading Information on Twitter.
+
+Abdelminaam DS(1)(2), Ismail FH(2), Taha M(1), Taha A(1), Houssein EH(3), Nabil
+A(2).
+
+Author information: 
+(1)Faculty of Computers and Artificial IntelligenceBenha University Benha 13511
+Egypt.
+(2)Faculty of Computer ScienceMisr International University Cairo 11341 Egypt.
+(3)Faculty of Computers and InformationMinia University Minia 61519 Egypt.
+
+COVID-19 has affected all peoples' lives. Though COVID-19 is on the rising, the
+existence of misinformation about the virus also grows in parallel. Additionally,
+the spread of misinformation has created confusion among people, caused
+disturbances in society, and even led to deaths. Social media is central to our
+daily lives. The Internet has become a significant source of knowledge. Owing to 
+the widespread damage caused by fake news, it is important to build computerized 
+systems to detect fake news. The paper proposes an updated deep neural network
+for identification of false news. The deep learning techniques are The
+Modified-LSTM (one to three layers) and The Modified GRU (one to three layers).
+In particular, we carry out investigations of a large dataset of tweets passing
+on data with respect to COVID-19. In our study, we separate the dubious claims
+into two categories: true and false. We compare the performance of the various
+algorithms in terms of prediction accuracy. The six machine learning techniques
+are decision trees, logistic regression, k nearest neighbors, random forests,
+support vector machines, and naïve Bayes (NB). The parameters of deep learning
+techniques are optimized using Keras-tuner. Four Benchmark datasets were used.
+Two feature extraction methods were used (TF-ID with N-gram) to extract essential
+features from the four benchmark datasets for the baseline machine learning model
+and word embedding feature extraction method for the proposed deep neural network
+methods. The results obtained with the proposed framework reveal high accuracy in
+detecting Fake and non-Fake tweets containing COVID-19 information. These results
+demonstrate significant improvement as compared to the existing state of art
+results of baseline machine learning models. In our approach, we classify the
+data into two categories: fake or nonfake. We compare the execution of the
+proposed approaches with Six machine learning procedures. The six machine
+learning procedures are Decision Tree (DT), Logistic Regression (LR), K Nearest
+Neighbor (KNN), Random Forest (RF), Support Vector Machine (SVM), and Naive Bayes
+(NB). The parameters of deep learning techniques are optimized using Keras-tuner.
+Four Benchmark datasets were used. Two feature extraction methods were used
+(TF-ID with N-gram) to extract essential features from the four benchmark
+datasets for the baseline machine learning model and word embedding feature
+extraction method for the proposed deep neural network methods. The results
+obtained with the proposed framework reveal high accuracy in detecting Fake and
+non-Fake tweets containing COVID-19 information. These results demonstrate
+significant improvement as compared to the existing state of art results of
+baseline machine learning models.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more 
+information, see https://creativecommons.org/licenses/by/4.0/.
+
+DOI: 10.1109/ACCESS.2021.3058066 
+PMCID: PMC8545243
+PMID: 34786308 
+

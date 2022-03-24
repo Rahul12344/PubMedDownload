@@ -1,0 +1,51 @@
+
+1. Cancers (Basel). 2020 Mar 26;12(4). pii: E800. doi: 10.3390/cancers12040800.
+
+A Nine-Gene Signature for Predicting the Response to Preoperative
+Chemoradiotherapy in Patients with Locally Advanced Rectal Cancer.
+
+Park IJ(1), Yu YS(2), Mustafa B(3), Park JY(2), Seo YB(2), Kim GD(2)(4), Kim
+J(2), Kim CM(2), Noh HD(2), Hong SM(5)(6), Kim YW(6), Kim MJ(6), Ansari AA(7),
+Buonaguro L(8), Ahn SM(9), Yu CS(1).
+
+Author information: 
+(1)Department of Surgery, Asan Medical Center, University of Ulsan College of
+Medicine, Seoul 05505, Korea.
+(2)CbsBioscience Inc., Daejeon 34036, Korea.
+(3)Department of Health Sciences and Technology, Gachon Advanced Institute for
+Health Sciences and Technology, Gachon University, Incheon 21565, Korea.
+(4)Department of Microbiology, College of Natural Sciences, Pukyong National
+University, Busan 48513, Korea.
+(5)Department of Pathology, Asan Medical Center, University of Ulsan College of
+Medicine, Seoul 05505, Korea.
+(6)Asan Institute for Life Science, Asan Medical Center, University of Ulsan
+College of Medicine, Seoul 05505, Korea.
+(7)Department of Industrial and Environmental Engineering, Graduate School of
+Environment, Gachon University, Incheon 21565, Korea.
+(8)Cancer Immunoregulation Unit, Istituto Nazionale per lo Studio e la Cura dei
+Tumori, "Fondazione Pascale"-IRCCS, 80131 Naples, Italy.
+(9)Department of Genome Medicine and Science, College of Medicine, Gachon
+University, Incheon 21565, Korea.
+
+Preoperative chemoradiotherapy (PCRT) and subsequent surgery is the standard
+multimodal treatment for locally advanced rectal cancer (LARC), albeit PCRT
+response varies among the individuals. This creates a dire necessity to identify 
+a predictive model to forecast treatment response outcomes and identify patients 
+who would benefit from PCRT. In this study, we performed a gene expression study 
+using formalin-fixed paraffin-embedded (FFPE) tumor biopsy samples from 156 LARC 
+patients (training cohort n = 60; validation cohort n = 96); we identified the
+nine-gene signature (FGFR3, GNA11, H3F3A, IL12A, IL1R1, IL2RB, NKD1, SGK2, and
+SPRY2) that distinctively differentiated responders from non-responders in the
+training cohort (accuracy = 86.9%, specificity = 84.8%, sensitivity = 81.5%) as
+well as in an independent validation cohort (accuracy = 81.0%, specificity =
+79.4%, sensitivity = 82.3%). The signature was independent of all pathological
+and clinical features and was robust in predicting PCRT response. It is readily
+applicable to the clinical setting using FFPE samples and Food and Drug
+Administration (FDA) approved hardware and reagents. Predicting the response to
+PCRT may aid in tailored therapies for respective responders to PCRT and improve 
+the oncologic outcomes for LARC patients.
+
+DOI: 10.3390/cancers12040800 
+PMCID: PMC7226472
+PMID: 32225122 
+

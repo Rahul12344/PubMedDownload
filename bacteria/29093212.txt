@@ -1,0 +1,51 @@
+
+1. Open Biol. 2017 Nov;7(11). pii: 170149. doi: 10.1098/rsob.170149.
+
+Legionella pneumophila CsrA regulates a metabolic switch from amino acid to
+glycerolipid metabolism.
+
+Häuslein I(1), Sahr T(2)(3), Escoll P(2)(3), Klausner N(1), Eisenreich W(4),
+Buchrieser C(5)(3).
+
+Author information: 
+(1)Department of Chemistry, Biochemistry, Technische Universität München,
+Garching, Germany.
+(2)Institut Pasteur, Biologie des Bactéries Intracellulaires, Paris, France.
+(3)CNRS UMR 3525, Paris, France.
+(4)Department of Chemistry, Biochemistry, Technische Universität München,
+Garching, Germany wolfgang.eisenreich@ch.tum.de.
+(5)Institut Pasteur, Biologie des Bactéries Intracellulaires, Paris, France
+cbuch@pasteur.fr.
+
+Legionella pneumophila CsrA plays a crucial role in the life-stage-specific
+expression of virulence phenotypes and metabolic activity. However, its exact
+role is only partly known. To elucidate how CsrA impacts L. pneumophila
+metabolism we analysed the CsrA depended regulation of metabolic functions by
+comparative 13C-isotopologue profiling and oxygen consumption experiments of a L.
+pneumophila wild-type (wt) strain and its isogenic csrA- mutant. We show that a
+csrA- mutant has significantly lower respiration rates when serine, alanine,
+pyruvate, α-ketoglutarate or palmitate is the sole carbon source. By contrast,
+when grown in glucose or glycerol, no differences in respiration were detected.
+Isotopologue profiling uncovered that the transfer of label from [U-13C3]serine
+via pyruvate into the citrate cycle and gluconeogenesis was lower in the mutant
+as judged from the labelling patterns of protein-derived amino acids,
+cell-wall-derived diaminopimelate, sugars and amino sugars and 3-hydroxybutyrate 
+derived from polyhydroxybutyrate (PHB). Similarly, the incorporation of
+[U-13C6]glucose via the glycolysis/Entner-Doudoroff (ED) pathway but not via the 
+pentose phosphate pathway was repressed in the csrA- mutant. On the other hand,
+fluxes due to [U-13C3]glycerol utilization were increased in the csrA- mutant. In
+addition, we showed that exogenous [1,2,3,4-13C4]palmitic acid is efficiently
+used for PHB synthesis via 13C2-acetyl-CoA. Taken together, CsrA induces serine
+catabolism via the tricarboxylic acid cycle and glucose degradation via the ED
+pathway, but represses glycerol metabolism, fatty acid degradation and PHB
+biosynthesis, in particular during exponential growth. Thus, CsrA has a
+determining role in substrate usage and carbon partitioning during the L.
+pneumophila life cycle and regulates a switch from amino acid usage in
+replicative phase to glycerolipid usage during transmissive growth.
+
+© 2017 The Authors.
+
+DOI: 10.1098/rsob.170149 
+PMCID: PMC5717341
+PMID: 29093212  [Indexed for MEDLINE]
+

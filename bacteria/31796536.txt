@@ -1,0 +1,61 @@
+
+1. mBio. 2019 Dec 3;10(6). pii: e01856-19. doi: 10.1128/mBio.01856-19.
+
+Embryonic Cells Redistribute SUMO1 upon Forced SUMO1 Overexpression.
+
+Lee A(1), Zhu Y(2)(3), Sabo Y(4), Goff SP(5)(3).
+
+Author information: 
+(1)Department of Biological Sciences, Howard Hughes Medical Institute, Columbia
+University Medical Center, Columbia University, New York, New York, USA.
+(2)Department of Biochemistry and Molecular Biophysics, Howard Hughes Medical
+Institute, Columbia University Medical Center, Columbia University, New York, New
+York, USA.
+(3)Department of Microbiology and Immunology, Howard Hughes Medical Institute,
+Columbia University Medical Center, Columbia University, New York, New York, USA.
+(4)Department of Medicine, Howard Hughes Medical Institute, Columbia University
+Medical Center, Columbia University, New York, New York, USA.
+(5)Department of Biochemistry and Molecular Biophysics, Howard Hughes Medical
+Institute, Columbia University Medical Center, Columbia University, New York, New
+York, USA spg1@cumc.columbia.edu.
+
+Conjugation of small ubiquitin-like modifiers (SUMOs) to substrate proteins is a 
+posttranslational protein modification that affects a diverse range of
+physiological processes. Global inhibition of SUMO conjugation in mice results in
+embryonic lethality, reflecting the importance of the SUMO pathways for embryonic
+development. Here, we demonstrated that SUMO1 overexpression was not well
+tolerated in murine embryonic carcinoma and embryonic stem (ES) cells and that
+only a few clones were recovered after transduction with vectors delivering SUMO1
+expression constructs. Differentiated NIH/3T3 cells overexpress SUMO1 without
+deleterious effects and maintain high levels of both conjugated and free forms of
+SUMO1. The few embryonic cells surviving after forced overexpression retained all
+their SUMO1 in the form of a few high-molecular-weight conjugates and maintained 
+undetectable levels of free SUMO1. The absence of free SUMO in embryonic cells
+was seen specifically upon overexpression of SUMO1, but not SUMO2. Moreover,
+blocking SUMO1 conjugation to endogenous substrates by C-terminal mutations of
+SUMO1 or by overexpression of a SUMO1 substrate "sponge" or by overexpression of 
+the deSUMOylating enzyme SUMO-specific peptidase 1 (SENP1) dramatically restored 
+free SUMO1 overexpression. The data suggest that overexpression of SUMO1 protein 
+leading to an excess accumulation of critical SUMO1-conjugated substrates is not 
+tolerated in embryonic cells. Surviving embryonic cells exhibit SUMO1 conjugation
+to allowed substrates but a complete absence of free SUMO1.IMPORTANCE Embryonic
+stem (ES) cells exhibit unusual transcriptional, proteomic, and signal response
+profiles, reflecting their unusual needs for rapid differentiation and
+replication. The work reported here demonstrated that mouse embryonic cell lines 
+did not tolerate the overexpression of SUMO1, the small ubiquitin-like modifier
+protein that is covalently attached to many substrates to alter their
+intracellular localization and functionality. Forced SUMO1 overexpression is
+toxic to ES cells, and surviving cell populations adapt by dramatically reducing 
+the levels of free SUMO1. Such a response is not seen in differentiated cells or 
+with SUMO2 or with nonconjugatable SUMO1 mutants or in the presence of a SUMO1
+"sponge" substrate that accepts the modification. The findings suggest that
+excess SUMO1 modification of specific substrates is not tolerated by embryonic
+cells and highlight a distinctive need for these cells to control the levels of
+SUMO1 available for conjugation.
+
+Copyright © 2019 Lee et al.
+
+DOI: 10.1128/mBio.01856-19 
+PMCID: PMC6890988
+PMID: 31796536  [Indexed for MEDLINE]
+

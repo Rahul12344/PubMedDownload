@@ -1,0 +1,46 @@
+
+1. Front Immunol. 2021 Nov 5;12:755512. doi: 10.3389/fimmu.2021.755512. eCollection 
+2021.
+
+Interferon-Inducible LINC02605 Promotes Antiviral Innate Responses by
+Strengthening IRF3 Nuclear Translocation.
+
+Xu R(1), Yu SS(1), Yao RR(1), Tang RC(1), Liang JW(1), Pang X(1), Zhang J(1).
+
+Author information: 
+(1)Department of Immunology, School of Basic Medical Sciences, NHC Key Laboratory
+of Medical Immunology, Ministry of Health (Peking University), Peking University 
+Health Science Center, Beijing, China.
+
+Non-coding RNAs represent a class of important regulators in immune response.
+Previously, LINC02605 was identified as a candidate regulator in innate immune
+response by lncRNA microarray assays. In this study, we systematically analyzed
+the functions and the acting mechanisms of LINC02605 in antiviral innate immune
+response. LINC02605 was up-regulated by RNA virus, DNA virus, and type I IFNs in 
+NF-κB and Jak-stat dependent manner. Overexpression of LINC02605 promotes RNA
+virus-induced type I interferon production and inhibited viral replication.
+Consistently, knockdown of LINC02605 resulted in reduced antiviral immune
+response and increased viral replication. Mechanistically, LINC02605 released the
+inhibition of hsa-miR-107 on the expression of phosphatase and tensin homolog
+(PTEN). By microRNA mimics and inhibitors, hsa-miR-107 was demonstrated to not
+only inhibit PTEN's expression but also negatively regulate the antiviral immune 
+response. Knockdown of LINC02605 led to the reduction of PTEN expression both in 
+mRNA and protein levels. Overexpression of LINC02605 had an opposite impact.
+Moreover, LINC02605 attenuated the serine 97 phosphorylation level of interferon 
+regulatory factor 3 (IRF3) by promoting PTEN expression. Nucleoplasmic
+fragmentation assay showed that knocking down LINC02605 inhibited the nuclear
+translocation of IRF3, rendering the host cells more susceptible to viral
+invasion, while overexpression showed opposite effects. Therefore, LINC02605 is
+an induced lncRNA by viral infection and plays a positive feedback in antiviral
+immune response through modulating the nuclear translocation of IRF3.
+
+Copyright © 2021 Xu, Yu, Yao, Tang, Liang, Pang and Zhang.
+
+DOI: 10.3389/fimmu.2021.755512 
+PMCID: PMC8602795
+PMID: 34804040 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

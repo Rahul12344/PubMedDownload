@@ -1,0 +1,68 @@
+
+1. JMIR Mhealth Uhealth. 2021 Nov 2;9(11):e30674. doi: 10.2196/30674.
+
+Analysis of Apps With a Medication List Functionality for Older Adults With Heart
+Failure Using the Mobile App Rating Scale and the IMS Institute for Healthcare
+Informatics Functionality Score: Evaluation Study.
+
+Diaz-Skeete YM(1), McQuaid D(2), Akinosun AS(3), Ekerete I(4), Carragher N(5)(6),
+Carragher L(1).
+
+Author information: 
+(1)NetwellCASALA Advanced Research Centre, Dundalk Institute of Technology,
+Dundalk, Ireland.
+(2)CCT College Dublin, Dublin, Ireland.
+(3)University of Highlands and Islands, Inverness, United Kingdom.
+(4)Ulster University, Belfast, United Kingdom.
+(5)National Drug and Alcohol Research Centre, University of New South Wales,
+Sydney, Australia.
+(6)Alcohol, Drugs and Addictive Behaviours, Department of Mental Health and
+Substance Use, World Health Organization, Geneva, Switzerland.
+
+BACKGROUND: Managing the care of older adults with heart failure (HF) largely
+centers on medication management. Because of frequent medication or dosing
+changes, an app that supports these older adults in keeping an up-to-date list of
+medications could be advantageous. During the COVID-19 pandemic, HF outpatient
+consultations are taking place virtually or by telephone. An app with the
+capability to share a patient's medication list with health care professionals
+before consultation could support clinical efficiency, for example, by reducing
+consultation time. However, the influence of apps on maintaining an up-to-date
+medication history for older adults with HF in Ireland remains largely
+unexplored.
+OBJECTIVE: The aims of this review are twofold: to review apps with a medication 
+list functionality and to assess the quality of the apps included in the review
+using the Mobile App Rating Scale (MARS) and the IMS Institute for Healthcare
+Informatics functionality scale.
+METHODS: A systematic search of apps was conducted in June 2019 using the Google 
+Play Store and iTunes App Store. The MARS was used independently by 4 researchers
+to assess the quality of the apps using an Android phone and an iPad. Apps were
+also evaluated using the IMS Institute for Healthcare Informatics functionality
+score.
+RESULTS: Google Play and iTunes App store searches identified 483 potential apps 
+(292 from Google Play and 191 from iTunes App stores). A total of 6 apps (3
+across both stores) met the inclusion criteria. Of the 6 apps, 4 achieved an
+acceptable MARS score (3/5). The Medisafe app had the highest overall MARS score 
+(4/5), and the Medication List & Medical Records app had the lowest overall score
+(2.5/5). On average, the apps had 8 functions based on the IMS functionality
+criteria (range 5-11). A total of 2 apps achieved the maximum score for number of
+features (11 features) according to the IMS Institute for Healthcare Informatics 
+functionality score, and 2 scored the lowest (5 features). Peer-reviewed
+publications were identified for 3 of the apps.
+CONCLUSIONS: The quality of current apps with medication list functionality
+varies according to their technical aspects. Most of the apps reviewed have an
+acceptable MARS objective quality (ie, the overall quality of an app). However,
+subjective quality (ie, satisfaction with the apps) was poor. Only 3 apps are
+based on scientific evidence and have been tested previously. A total of 2 apps
+featured all the IMS Institute for Healthcare Informatics functionalities, and
+half did not provide clear instructions on how to enter medication data, did not 
+display vital parameter data in an easy-to-understand format, and did not guide
+users on how or when to take their medication.
+
+©Yohanca Maria Diaz-Skeete, David McQuaid, Adewale Samuel Akinosun, Idongesit
+Ekerete, Natacha Carragher, Lucia Carragher. Originally published in JMIR mHealth
+and uHealth (https://mhealth.jmir.org), 02.11.2021.
+
+DOI: 10.2196/30674 
+PMCID: PMC8596242
+PMID: 34726613  [Indexed for MEDLINE]
+

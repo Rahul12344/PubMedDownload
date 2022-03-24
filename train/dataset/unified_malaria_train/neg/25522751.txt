@@ -1,0 +1,53 @@
+
+1. malar j. 2014 dec 18;13:509. doi: 10.1186/1475-2875-13-509.
+
+pooled pcr testing strategy prevalence estimation submicroscopic
+infections using bayesian latent class models pregnant women receiving
+intermittent preventive treatment machinga district hospital, malawi, 2010.
+
+zhou z(1), mitchell rm, gutman j, wiegand re, mwandama da, mathanga dp,
+skarbinski j, shi yp.
+
+author information: 
+(1)malaria branch division parasitic diseases malaria, center for
+global health, centers disease control prevention, atlanta, ga, usa.
+zaz6@cdc.gov.
+
+background: low malaria parasite densities pregnancy diagnostic
+challenge. pcr provides high sensitivity specificity detecting low density
+of parasites, cost technical requirements limit application in
+resources-limited settings. pooling samples pcr detection explored to
+estimate prevalence submicroscopic malaria infection pregnant women at
+delivery. previous work uses gold-standard based methods calculate sensitivity
+and specificity tests, creating challenge newer methodologies are
+substantially sensitive gold standard. thus prevalence was
+estimated using bayesian latent class models (lcms) study.
+methods: nested pcr (npcr) 18s rrna gene subunit plasmodium falciparum
+was conducted detect malaria infection microscopy-negative malawian women
+on iptp. two-step sample pooling used dried blood spot samples (dbss) collected
+from placenta periphery delivery. results npcr histology well
+as previously published data used construct lcms estimate assay
+sensitivity specificity. theoretical confidence intervals prevalence of
+infection calculated two-step one-step pooling strategies.
+results: 617 microscopy-negative malawian women, 39 (6.3%) identified 
+actively infected histology 52 (8.4%) positive npcr. one hundred
+forty (22.7%) individuals past infection assessed histology. with
+histology reference, 72% women active infection group, 7.1% the
+past infection group 3.2% histology-negative group npcr positive.
+using latent class models without gold standard, histology median
+sensitivity 49.7% specificity 97.6% active infection pcr 
+a median sensitivity 96.0% specificity 99.1%. true prevalence of
+active infection estimated 8.0% (ci: 5.8-10.5%) pcr. pcr also had
+similar sensitivity detecting either peripheral placental malaria for
+submicroscopic infections. one-step pooling would give similar confidence
+intervals pool sizes less 20 reducing number tests
+performed.
+conclusions: pooled npcr testing sensitive resource-efficient strategy 
+and lcms provided precise prevalence estimates submicroscopic infections.
+compared two-step pooling, one-step pooling could provide similar prevalence
+estimates population levels many fewer tests required.
+
+doi: 10.1186/1475-2875-13-509 
+pmcid: pmc4301903
+pmid: 25522751  [indexed medline]
+

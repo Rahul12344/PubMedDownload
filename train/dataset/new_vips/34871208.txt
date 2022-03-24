@@ -1,0 +1,58 @@
+
+1. Medicine (Baltimore). 2021 Nov 5;100(44):e27428. doi:
+10.1097/MD.0000000000027428.
+
+Identification of HIV-1-specific cascaded microRNA-mRNA regulatory relationships 
+by parallel mRNA and microRNA expression profiling with AIDS patients after
+antiviral treatment.
+
+Shen F(1), Liu Y(2)(3), Wang L(1), Chai X(1), Yang J(1), Feng Q(2), Li X(1).
+
+Author information: 
+(1)Key Laboratory of Bio-Resource and Eco-Environment of Ministry of Education,
+College of Life Sciences, Sichuan University, Chengdu, China.
+(2)College of Basic Medicine, Chengdu University of Traditional Chinese Medicine,
+Chengdu, China.
+(3)No. 3 Affiliated Hospital of Chengdu University of TCM (West District),
+Chengdu Pidu District Hospital of TCM, China.
+
+BACKGROUND: The pathogenesis of human immunodeficiency virus 1 (HIV-1) infection 
+is so complex that have not been clearly defined, despite intensive efforts have 
+been made by many researchers. MicroRNA (miRNA) as regulation factor in various
+human diseases may influence the course of HIV-1 infection by targeting mRNAs.
+Thus, studies combining transcription of posttranscriptional miRNA regulation are
+required.
+METHODS: With the purpose of identifying cascaded miRNA-mRNA regulatory
+relationships related to HIV infection in gene level, the parallel miRNA, and
+mRNA expression profiles were analyzed to select differential expressed miRNAs
+and mRNAs. Then, miRNA-mRNA interactions were predicted using 3 data sources and 
+Pearson correlation coefficient was calculated based on the gene expression level
+for accuracy improvement. Furthermore, the calculation of the regulatory impact
+factors was conducted to reveal crucial regulators in HIV-1 infection. To give
+further insight into these transcription factor (TF) regulators, the
+differentially co-expression analysis was conducted to identify differentially
+co-expressed links and differential co-expressed genes and the co-expression gene
+modules were identified using a threshold-based hierarchical clustering method,
+then modules were combined into a miRNA-TF-mRNA network.
+RESULTS: A total of 69,126 differentially co-expressed links and 626 differential
+co-expressed genes were identified. Functional enrichment analysis indicated that
+these co-expressed genes were significantly involved in immune response and
+apoptosis. Moreover, according to regulatory impact factors, 5 most influential
+TFs and miRNA in HIV-1 infection were identified and miRNA-TF-mRNA regulatory
+networks were built during the computing process.
+CONCLUSIONS: In our study, a set of integrated methods was generated to identify 
+important regulators and miRNA-TF-mRNA interactions. Parallel profiling analysis 
+of the miRNAs and mRNAs expression of HIV/acquired immunodeficiency syndrome
+(AIDS) patients after antiretroviral therapy indicated that some regulators have 
+wide impact on gene regulation and that these regulatory elements may bear
+significant implications on the underlying molecular mechanism and pathogenesis
+of AIDS occurrence.
+
+Copyright © 2021 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000027428 
+PMID: 34871208 
+
+Conflict of interest statement: The authors have no conflicts of interest to
+disclose.
+

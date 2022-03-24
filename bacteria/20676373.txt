@@ -1,0 +1,40 @@
+
+1. PLoS One. 2010 Jul 28;5(7):e11834. doi: 10.1371/journal.pone.0011834.
+
+Live cell monitoring of hiPSC generation and differentiation using differential
+expression of endogenous microRNAs.
+
+Kamata M(1), Liang M, Liu S, Nagaoka Y, Chen IS.
+
+Author information: 
+(1)Department of Microbiology, Immunology and Molecular Genetics, David Geffen
+School of Medicine, University of California at Los Angeles, Los Angeles,
+California, United States of America.
+
+Human induced pluripotent stem cells (hiPSCs) provide new possibilities for
+regenerative therapies. In order for this potential to be achieved, it is
+critical to efficiently monitor the differentiation of these hiPSCs into specific
+lineages. Here, we describe a lentiviral reporter vector sensitive to specific
+microRNAs (miRNA) to show that a single vector bearing multiple miRNA target
+sequences conjugated to different reporters can be used to monitor hiPSC
+formation and subsequent differentiation from human fetal fibroblasts (HFFs). The
+reporter vector encodes EGFP conjugated to the targets of human embryonic stem
+cell (hESC) specific miRNAs (miR-302a and miR-302d) and mCherry conjugated to the
+targets of differentiated cells specific miRNAs (miR-142-3p, miR-155, and
+miR-223). The vector was used to track reprogramming of HFF to iPSC. HFFs
+co-transduced with this reporter vector and vectors encoding 4 reprogramming
+factors (OCT4, SOX2, KLF4 and cMYC) were mostly positive for EGFP (67%) at an
+early stage of hiPSC formation. EGFP expression gradually disappeared and mCherry
+expression increased indicating less miRNAs specific to differentiated cells and 
+expression of miRNAs specific to hESCs. Upon differentiation of the hiPSC into
+embryoid bodies, a large fraction of these hiPSCs regained EGFP expression and
+some of those cells became single positive for EGFP. Further differentiation into
+neural lineages showed distinct structures demarcated by either EGFP or mCherry
+expression. These findings demonstrate that a miRNA dependent reporter vector can
+be a useful tool to monitor living cells during reprogramming of hiPSC and
+subsequent differentiation to lineage specific cells.
+
+DOI: 10.1371/journal.pone.0011834 
+PMCID: PMC2911382
+PMID: 20676373  [Indexed for MEDLINE]
+

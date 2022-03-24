@@ -1,0 +1,34 @@
+
+1. J Healthc Eng. 2021 Nov 18;2021:5169292. doi: 10.1155/2021/5169292. eCollection
+2021.
+
+Research on Recognition of Faces with Masks Based on Improved Neural Network.
+
+Zhang S(1), Sun J(1), Kang J(1), Wang S(2).
+
+Author information: 
+(1)The Affiliated Hospital of Qingdao University, Qingdao 266000, China.
+(2)School of Computer and Communication Engineering, China University of
+Petroleum (East of China), Qingdao 266000, China.
+
+Background: At present, the new crown virus is spreading around the world,
+causing all people in the world to wear masks to prevent the spread of the virus.
+Problem. People with masks have found a lot of trouble for face recognition.
+Finding a feasible method to recognize faces wearing masks is a problem that
+needs to be solved urgently.
+Method: This paper proposes a mask recognition algorithm based on improved
+YOLO-V4 neural network and the integrated SE-Net and DenseNet network and
+introduces deformable convolution.
+Conclusion: Compared with other target detection networks, the improved YOLO-V4
+neural network used in this paper improves the accuracy of face recognition and
+detection with masks to a certain extent.
+
+Copyright © 2021 Song Zhang et al.
+
+DOI: 10.1155/2021/5169292 
+PMCID: PMC8616645
+PMID: 34840698 
+
+Conflict of interest statement: The authors declare that there are no conflicts
+of interest regarding the publication of this paper.
+

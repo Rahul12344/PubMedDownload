@@ -1,0 +1,45 @@
+
+1. plos comput biol. 2011 dec;7(12):e1002320. doi: 10.1371/journal.pcbi.1002320.
+epub 2011 dec 22.
+
+genome comparison human non-human malaria parasites reveals species
+subset-specific genes potentially linked human disease.
+
+frech c(1), chen n.
+
+author information: 
+(1)department molecular biology biochemistry, simon fraser university,
+burnaby, british columbia, canada.
+
+genes underlying important phenotypic differences plasmodium species, the
+causative agents malaria, frequently found subset species and
+cluster dynamically evolving subtelomeric regions chromosomes. we
+hypothesized chromosome-internal regions plasmodium genomes harbour
+additional species subset-specific genes underlie differences human
+pathogenicity, human-to-human transmissibility, human virulence. combined 
+sequence similarity searches synteny block analyses identify species
+subset-specific genes chromosome-internal regions six published plasmodium 
+genomes, including plasmodium falciparum, plasmodium vivax, plasmodium knowlesi, 
+plasmodium yoelii, plasmodium berghei, plasmodium chabaudi. improve
+comparative analysis, first revised incorrectly annotated gene models using
+homology-based gene finders examined putative subset-specific genes within
+syntenic contexts. confirmed subset-specific genes analyzed their
+role biological pathways examined molecular functions using publicly
+available databases. identified 16 genes well conserved three 
+primate parasites found rodent parasites, including three key enzymes 
+of thiamine (vitamin b1) biosynthesis pathway. thirteen genes found to
+be present human parasites absent monkey parasite p. knowlesi,
+including genes specifically upregulated sporozoites gametocytes could
+be linked parasite transmission success humans. furthermore, we
+propose 15 chromosome-internal p. falciparum-specific genes new candidate
+genes underlying increased human virulence detected currently
+uncharacterized cluster p. vivax-specific genes chromosome 6 likely
+involved erythrocyte invasion. conclusion, plasmodium species harbour many 
+chromosome-internal differences form protein-coding genes, of
+which potentially linked human disease thus promising leads future
+laboratory research.
+
+doi: 10.1371/journal.pcbi.1002320 
+pmcid: pmc3245289
+pmid: 22215999  [indexed medline]
+

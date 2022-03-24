@@ -1,0 +1,57 @@
+
+1. malar j. 2016 nov 7;15(1):535.
+
+a new tool chemical genetic investigation plasmodium falciparum
+pfnek-2 nima-related kinase.
+
+mitcheson df(1), bottrill ar(2), carr k(1), coxon cr(3), cano c(4), golding
+bt(4), griffin rj(4), fry am(1), doerig c(5), bayliss r(6), tobin ab(7).
+
+author information: 
+(1)department molecular cell biology, university leicester, lancaster
+road, leicester, le1 9hn, uk.
+(2)protein nucleic acid chemistry laboratory, university leicester,
+hodgkin building, leicester, le1 9hn, uk.
+(3)school pharmacy biomolecular sciences, liverpool john moores
+university, 2 rodney street, liverpool, l3 5ux, uk.
+(4)school chemistry, bedson building, northern institute cancer research, 
+newcastle university, newcastle upon tyne, ne1 7ru, uk.
+(5)department microbiology, building 76, monash university, wellington road,
+clayton, vic, 3800, australia.
+(6)astbury 6.108a, school molecular cellular biology, university leeds,
+leeds, ls2 9jt, uk.
+(7)centre translational pharmacology, institute molecular cell systems
+biology, university glasgow, glasgow, g12 8qq, uk. tba@leicester.ac.uk.
+
+background: examining essential biochemical pathways plasmodium falciparum
+presents serious challenges, standard molecular techniques sirna
+cannot employed organism, generating gene knock-outs essential 
+proteins requires specialized conditional approaches. study protein
+kinases, pharmacological inhibition presents feasible alternative option.
+however, mammalian systems, inhibitors often lack desired selectivity. 
+described chemical genetic approach selectively inhibit pfnek-2 in
+p. falciparum, member nima-related kinase family essential for
+completion sexual development parasite.
+results: introduction valine cysteine mutation position 24 the
+glycine rich loop pfnek-2 affect kinase activity confers
+sensitivity protein kinase inhibitor 4-(6-ethynyl-9h-purin-2-ylamino)
+benzene sulfonamide (ncl-00016066). using combination vitro kinase assays
+and mass spectrometry, (including phosphoproteomics) study shows this
+compound acts irreversible inhibitor mutant pfnek2 likely 
+covalent link introduced cysteine residue. particular, shown
+by analysis total protein mass using mass spectrometry showed shift in
+molecular weight mutant kinase presence inhibitor be
+precisely equivalent molecular weight ncl-00016066. similar molecular
+weight shift observed wild type kinase. importantly, this
+inhibitor little activity towards wild type pfnek-2 and, therefore, has
+all properties effective chemical genetic tool could employed
+to determine cellular targets pfnek-2.
+conclusions: allelic replacement wild-type pfnek-2 mutated kinase
+will allow targeted inhibition pfnek-2 ncl-00016066 hence pave
+the way comparative studies aimed understanding biological role and
+transmission-blocking potential pfnek-2.
+
+doi: 10.1186/s12936-016-1580-3 
+pmcid: pmc5100313
+pmid: 27821169  [indexed medline]
+

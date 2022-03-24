@@ -1,0 +1,39 @@
+
+1. Appl Microbiol Biotechnol. 2014 Oct;98(20):8641-55. doi:
+10.1007/s00253-014-5918-x. Epub 2014 Jul 12.
+
+Novel and tightly regulated resorcinol and cumate-inducible expression systems
+for Streptomyces and other actinobacteria.
+
+Horbal L(1), Fedorenko V, Luzhetskyy A.
+
+Author information: 
+(1)Helmholtz Institute for Pharmaceutical Research Saarland, Saarland University 
+Campus, Building C2 3, 66123, Saarbrücken, Germany.
+
+Inducible expression is a versatile genetic tool for controlling gene
+transcription, determining gene functions and other uses. Herein, we describe our
+attempts to create several inducible systems based on a cumate or a resorcinol
+switch, a hammerhead ribozyme, the LacI repressor, and isopropyl
+β-d-thiogalactopyranoside (IPTG). We successfully developed a new cumate
+(p-isopropylbenzoic acid)-inducible gene switch in actinobacteria that is based
+on the CymR regulator, the operator sequence (cmt) from the Pseudomonas putida
+cumate degradation operon and P21 synthetic promoter. Resorcinol-inducible
+expression system is also functional and is composed of the RolR regulator and
+the PA3 promoter fused with the operator (rolO) from the Corynebacterium
+glutamicum resorcinol catabolic operon. Using the gusA (β-glucuronidase) gene as 
+a reporter, we showed that the newly generated expression systems are tightly
+regulated and hyper-inducible. The activity of the uninduced promoters is
+negligible in both cases. Whereas the induction factor reaches 45 for
+Streptomyces albus in the case of cumate switch and 33 in the case of resorcinol 
+toggle. The systems are also dose-dependent, which allows the modulation of gene 
+expression even from a single promoter. In addition, the cumate system is
+versatile, given that it is functional in different actinomycetes. Finally, these
+systems are nontoxic and inexpensive, as these are characteristics of cumate and 
+resorcinol, and they are easy to use because inducers are water-soluble and
+easily penetrate cells. Therefore, the P21-cmt-CymR and PA3-rolO-RolR systems are
+powerful tools for engineering actinobacteria.
+
+DOI: 10.1007/s00253-014-5918-x 
+PMID: 25012786  [Indexed for MEDLINE]
+

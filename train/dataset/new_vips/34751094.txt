@@ -1,0 +1,40 @@
+
+1. J Biomol Struct Dyn. 2021 Nov 9:1-11. doi: 10.1080/07391102.2021.1997817. [Epub
+ahead of print]
+
+Relaxed complex scheme and molecular dynamics simulation suggests small molecule 
+inhibitor of human TMPRSS2 for combating COVID-19.
+
+Vuai SAH(1), Ogedjo MM(1), Isaac O(1), Sahini MG(1), Swai HS(2), Shadrack DM(3).
+
+Author information: 
+(1)Department of Chemistry, College of Natural and Mathematical Sciences,
+University of Dodoma, Dodoma, Tanzania.
+(2)School of Life Sciences and Bioengineering, The Nelson Mandela African
+Institution of Science and Technology, Arusha, Tanzania.
+(3)Department of Chemistry, Faculty of Natural and Applied Sciences, St. John's
+University of Tanzania, Dodoma, Tanzania.
+
+As the coronavirus disease 19 (COVID-19) pandemic continues to pose a health and 
+economic crisis worldwide, the quest for drugs and/or vaccines against the virus 
+continues. The human transmembrane protease serine 2 (TMPRSS2) has attracted
+attention as a target for drug discovery, as inhibition of its catalytic reaction
+would result in the inactivation of the proteolytic cleavage of the SARS-CoV-2 S 
+protein. As a result, the inactivation prevents viral cell entry to the host's
+cell. In this work, we screened and identified two potent molecules that interact
+and inhibit the catalytic reaction by using computational approaches. Two docking
+screening experiments were performed utilizing the crystal structure and holo
+ensemble structure obtained from molecular dynamics in bound form. There is
+enhancement and sensitivity of docking results to the holo ensemble as compared
+to the crystal structure. Compound 1 demonstrated a similar inhibition value to
+nafamostat by interacting with catalytic triad residues His296 and Ser441,
+thereby disrupting the already established hydrogen bond interaction. The
+stability of the ligand-TMPRSS2 complexes was studied by molecular dynamics
+simulation, and the binding energy was re-scored by using molecular mechanics
+Poisson-Boltzmann surface area (MM-PBSA) binding free energy. The obtained
+compounds may serve as an initial point toward the discovery of potent TMPRSS2
+inhibitors upon further in vivo validation.Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2021.1997817 
+PMID: 34751094 
+

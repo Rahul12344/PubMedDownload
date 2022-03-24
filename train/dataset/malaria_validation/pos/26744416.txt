@@ -1,0 +1,56 @@
+
+1. Mol Biol Evol. 2016 May;33(5):1188-204. doi: 10.1093/molbev/msw004. Epub 2016 Jan
+6.
+
+Environmental Correlation Analysis for Genes Associated with Protection against
+Malaria.
+
+Mackinnon MJ, Ndila C(1), Uyoga S(1), Macharia A(1), Snow RW(2), Band G(3),
+Rautanen A(3), Rockett KA(4), Kwiatkowski DP(4), Williams TN(5).
+
+Author information: 
+(1)Department of Epidemiology and Demography, KEMRI-Wellcome Trust Research
+Programme, Kilifi, Kenya.
+(2)Department of Public Health Research, KEMRI-Wellcome Trust Research Programme,
+Nairobi, Kenya Centre for Tropical Medicine, Nuffield Department of Clinical
+Medicine, University of Oxford, Oxford, United Kingdom.
+(3)Wellcome Trust Centre for Human Genetics, Nuffield Department of Medicine,
+University of Oxford, Oxford, United Kingdom.
+(4)Wellcome Trust Centre for Human Genetics, Nuffield Department of Medicine,
+University of Oxford, Oxford, United Kingdom The Wellcome Trust Sanger Institute,
+Cambridge, United Kingdom.
+(5)Department of Epidemiology and Demography, KEMRI-Wellcome Trust Research
+Programme, Kilifi, Kenya Department of Medicine, Imperial College, London, United
+Kingdom INDEPTH Network, Kanda, Accra, Ghana.
+
+Genome-wide searches for loci involved in human resistance to malaria are
+currently being conducted on a large scale in Africa using case-control studies. 
+Here, we explore the utility of an alternative approach-"environmental
+correlation analysis, ECA," which tests for clines in allele frequencies across a
+gradient of an environmental selection pressure-to identify genes that have
+historically protected against death from malaria. We collected genotype data
+from 12,425 newborns on 57 candidate malaria resistance loci and 9,756 single
+nucleotide polymorphisms (SNPs) selected at random from across the genome, and
+examined their allele frequencies for geographic correlations with long-term
+malaria prevalence data based on 84,042 individuals living under different
+historical selection pressures from malaria in coastal Kenya. None of the 57
+candidate SNPs showed significant (P < 0.05) correlations in allele frequency
+with local malaria transmission intensity after adjusting for population
+structure and multiple testing. In contrast, two of the random SNPs that had
+highly significant correlations (P < 0.01) were in genes previously linked to
+malaria resistance, namely, CDH13, encoding cadherin 13, and HS3ST3B1, encoding
+heparan sulfate 3-O-sulfotransferase 3B1. Both proteins play a role in
+glycoprotein-mediated cell-cell adhesion which has been widely implicated in
+cerebral malaria, the most life-threatening form of this disease. Other top
+genes, including CTNND2 which encodes δ-catenin, a molecular partner to cadherin,
+were significantly enriched in cadherin-mediated pathways affecting inflammation 
+of the brain vascular endothelium. These results demonstrate the utility of ECA
+in the discovery of novel genes and pathways affecting infectious disease.
+
+© The Author 2016. Published by Oxford University Press on behalf of the Society 
+for Molecular Biology and Evolution.
+
+DOI: 10.1093/molbev/msw004 
+PMCID: PMC4839215
+PMID: 26744416  [Indexed for MEDLINE]
+

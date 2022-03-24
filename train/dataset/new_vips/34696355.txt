@@ -1,0 +1,31 @@
+
+1. Viruses. 2021 Sep 24;13(10). pii: 1925. doi: 10.3390/v13101925.
+
+Comparison of CRISPR-Cas9 Tools for Transcriptional Repression and Gene
+Disruption in the BEVS.
+
+Bruder MR(1), Walji SD(1), Aucoin MG(1).
+
+Author information: 
+(1)Department of Chemical Engineering, University of Waterloo, Waterloo, ON N2L
+3G1, Canada.
+
+The generation of knock-out viruses using recombineering of bacmids has greatly
+accelerated scrutiny of baculovirus genes for a variety of applications. However,
+the CRISPR-Cas9 system is a powerful tool that simplifies sequence-specific
+genome editing and effective transcriptional regulation of genes compared to
+traditional recombineering and RNAi approaches. Here, the effectiveness of the
+CRISPR-Cas9 system for gene disruption and transcriptional repression in the BEVS
+was compared. Cell lines constitutively expressing the cas9 or dcas9 gene were
+developed, and recombinant baculoviruses delivering the sgRNA were evaluated for 
+disruption or repression of a reporter green fluorescent protein gene. Finally,
+endogenous AcMNPV genes were targeted for disruption or downregulation to affect 
+gene expression and baculovirus replication. This study provides a
+proof-of-concept that CRISPR-Cas9 technology may be an effective tool for
+efficient scrutiny of baculovirus genes through targeted gene disruption and
+transcriptional repression.
+
+DOI: 10.3390/v13101925 
+PMCID: PMC8541072
+PMID: 34696355 
+

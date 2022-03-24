@@ -1,0 +1,56 @@
+
+1. BMC Genomics. 2018 Dec 27;19(1):972. doi: 10.1186/s12864-018-5385-3.
+
+Genome-wide association study of Mycobacterium avium subspecies Paratuberculosis 
+infection in Chinese Holstein.
+
+Gao Y(1), Jiang J(1), Yang S(1), Cao J(2), Han B(1), Wang Y(1), Zhang Y(1), Yu
+Y(1), Zhang S(1), Zhang Q(1), Fang L(3), Cantrell B(4), Sun D(5).
+
+Author information: 
+(1)Key Laboratory of Animal Genetics and Breeding of Ministry of Agriculture,
+National Engineering Laboratory of Animal Breeding, College of Animal Science and
+Technology, China Agricultural University, Beijing, 100193, China.
+(2)College of Veterinary Medicine, China Agricultural University, Beijing,
+100193, China.
+(3)Department of Animal and Avian Sciences, University of Maryland, College Park,
+MD, 20742, USA.
+(4)Department of Animal and Veterinary Sciences, University of Vermont,
+Burlington, VT, 05405, USA.
+(5)Key Laboratory of Animal Genetics and Breeding of Ministry of Agriculture,
+National Engineering Laboratory of Animal Breeding, College of Animal Science and
+Technology, China Agricultural University, Beijing, 100193, China.
+sundx@cau.edu.cn.
+
+BACKGROUND: Paratuberculosis is a contagious, chronic and enteric disease in
+ruminants, which is caused by Mycobacterium avium subspecies paratuberculosis
+(MAP) infection, resulting in enormous economic losses worldwide. There is
+currently no effective cure for MAP infection or a vaccine, it is thus important 
+to explore the genetic variants that contribute to host susceptibility to
+infection by MAP, which may provide a better understanding of the mechanisms of
+paratuberculosis and benefit animal genetic improvement. Herein we performed a
+genome-wide association study (GWAS) to identify genomic regions and candidate
+genes associated with susceptibility to MAP infection in dairy cattle.
+RESULTS: Using Illumina Bovine 50 K (54,609 SNPs) and GeneSeek HD (138,893 SNPs) 
+chips, two analytical approaches were performed, GRAMMAR-GC and ROADTRIPS in 937 
+Chinese Holstein cows, among which individuals genotyped by the 50 K chip were
+imputed to HD SNPs with Beagle software. Consequently, 15 and 11 significant SNPs
+(P < 5 × 10- 5) were identified with GRAMMAR-GC and ROADTDRIPS, respectively. A
+total of 10 functional genes were in proximity to (i.e., within 1 Mb) these SNPs,
+including IL4, IL5, IL13, IRF1, MyD88, PACSIN1, DEF6, TDP2, ZAP70 and CSF2.
+Functional enrichment analysis showed that these genes were involved in immune
+related pathways, such as interleukin, T cell receptor signaling pathways and
+inflammatory bowel disease (IBD), implying their potential associations with
+susceptibility to MAP infection. In addition, by examining the publicly available
+cattle QTLdb, a previous QTL for MAP was found to be overlapped with one of
+regions detected currently at 32.5 Mb on BTA23, where the TDP2 gene was anchored.
+CONCLUSIONS: In conclusion, we identified 26 SNPs located on 15 chromosomes in
+the Chinese Holstein population using two GWAS strategies with high density SNPs.
+Integrated analysis of GWAS, biological functions and the reported QTL
+information helps to detect positional candidate genes and the identification of 
+regions associated with susceptibility to MAP traits in dairy cattle.
+
+DOI: 10.1186/s12864-018-5385-3 
+PMCID: PMC6307165
+PMID: 30591025  [Indexed for MEDLINE]
+

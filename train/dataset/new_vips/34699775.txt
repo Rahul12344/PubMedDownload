@@ -1,0 +1,53 @@
+
+1. J Am Coll Radiol. 2021 Oct 24. pii: S1546-1440(21)00766-3. doi:
+10.1016/j.jacr.2021.09.024. [Epub ahead of print]
+
+Estimating Catchment Populations of Global Health Radiology Outreach Using
+Geographic Information Systems Analysis.
+
+Gage DC(1), Lugossy AM(2), Mollura DJ(3), England RW(4).
+
+Author information: 
+(1)Russell H. Morgan Department of Radiology and Radiological Science, Johns
+Hopkins Hospital, Baltimore, Maryland.
+(2)Chief Operating Officer, RAD-AID International, Chevy Chase, Maryland.
+(3)Chief Executive Officer, RAD-AID International, Chevy Chase, Maryland.
+(4)Russell H. Morgan Department of Radiology and Radiological Science, Johns
+Hopkins Hospital, Baltimore, Maryland; Manager, GIS Research and Medical Hybrid
+Airship Programs, RAD-AID International, Chevy Chase, Maryland. Electronic
+address: renglan4@jhmi.edu.
+
+PURPOSE: The purpose of this study was to design, develop, and test geographic
+information systems (GIS) analytic methods for quantifying and characterizing
+catchment populations across all sites served by a radiology global health
+organization.
+METHODS: The analysis included populations served by 78 low-resource medical
+facilities in 32 countries partnered with radiology nonprofit organization,
+RAD-AID International. Three constraints were used to approximate patient
+catchment areas: (1) 1-hour driving time, (2) 1-hour walking time, and (3)
+10-mile circular radius. GIS calculated populations within each constraint using 
+publicly available geospatial input databases, including a global digital
+elevation model, population and land cover data, and road locations from
+OpenStreetMap. Demographic and health data from the World Health Organization
+were incorporated to provide further characteristics of covered populations.
+RESULTS: The total populations served by all RAD-AID sites as measured by driving
+time, walking time, and 10-mile radius were 189,241,193 (47.8% female),
+26,190,117 (48.7% female), and 110,884,095 (48.1% female), respectively. For
+individual locations, median population within 1-hour driving time was 1,795,977 
+(range: 8,742-30,630,800), with an average life expectancy of 68.4 ± 5.8 years.
+Median child mortality before age 5 was 3.8% (range: 0.9%-8.3%), and median
+prevalence of human immunodeficiency virus infection was 3.1% (range:
+0.7%-10.9%).
+CONCLUSION: In this study, GIS provided a robust multisite analysis for
+estimating the potential global population reached by an international radiology 
+outreach organization with targeted individual site measurements. Given
+heightened needs to accurately characterize global outreach populations, this
+GIS-based approach may be useful for analysis, outreach planning, and resource
+allocation among global health organizations.
+
+Copyright © 2021 American College of Radiology. Published by Elsevier Inc. All
+rights reserved.
+
+DOI: 10.1016/j.jacr.2021.09.024 
+PMID: 34699775 
+

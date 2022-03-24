@@ -1,0 +1,55 @@
+
+1. Biomolecules. 2021 Sep 26;11(10). pii: 1409. doi: 10.3390/biom11101409.
+
+Probing GFP Chromophore Analogs as Anti-HIV Agents Targeting LTR-III
+G-Quadruplex.
+
+Ryazantsev DY(1), Myshkin MY(1), Alferova VA(1)(2), Tsvetkov VB(3)(4), Shustova
+EY(5), Kamzeeva PN(1)(6), Kovalets PV(1), Zaitseva ER(1)(6), Baleeva NS(1)(7),
+Zatsepin TS(8), Shenkarev ZO(1), Baranov MS(1)(7), Kozlovskaya LI(5)(9), Aralov
+AV(1)(10).
+
+Author information: 
+(1)Shemyakin-Ovchinnikov Institute of Bioorganic Chemistry, Russian Academy of
+Sciences, 117997 Moscow, Russia.
+(2)Gause Institute of New Antibiotics, B. Pirogovskaya 11, 119021 Moscow, Russia.
+(3)World-Class Research Center "Digital Biodesign and Personalized Healthcare",
+Sechenov First Moscow State Medical University, 8/2 Trubetskaya Str., 119146
+Moscow, Russia.
+(4)Federal Research and Clinical Center of Physical-Chemical Medicine of Federal 
+Medical Biological Agency, 119435 Moscow, Russia.
+(5)Chumakov Federal Scientific Center for Research and Development of
+Immune-and-Biological Products of Russian Academy of Sciences, 108819 Moscow,
+Russia.
+(6)D. Mendeleev University of Chemical Technology of Russia, 9 Miusskaya Sq.,
+125047 Moscow, Russia.
+(7)Pirogov Russian National Research Medical University, Ostrovitianov 1, 117997 
+Moscow, Russia.
+(8)Center for Life Sciences, Skolkovo Institute of Science and Technology, 121205
+Moscow, Russia.
+(9)Sechenov First Moscow State Medical University, 119991 Moscow, Russia.
+(10)G4_Interact, USERN, University of Pavia, 27100 Pavia, Italy.
+
+Green fluorescent protein (GFP) chromophore and its congeners draw significant
+attention mostly for bioimaging purposes. In this work we probed these compounds 
+as antiviral agents. We have chosen LTR-III DNA G4, the major G-quadruplex (G4)
+present in the long terminal repeat (LTR) promoter region of the human
+immunodeficiency virus-1 (HIV-1), as the target for primary screening and
+designing antiviral drug candidates. The stabilization of this G4 was previously 
+shown to suppress viral gene expression and replication. FRET-based
+high-throughput screening (HTS) of 449 GFP chromophore-like compounds revealed a 
+number of hits, sharing some general structural features. Structure-activity
+relationships (SAR) for the most effective stabilizers allowed us to establish
+structural fragments, important for G4 binding. Synthetic compounds, developed on
+the basis of SAR analysis, exhibited high LTR-III G4 stabilization level. NMR
+spectroscopy and molecular modeling revealed the possible formation of LTR-III
+G4-ligand complex with one of the lead selective derivative ZS260.1 positioned
+within the cavity, thus supporting the LTR-III G4 attractiveness for drug
+targeting. Selected compounds showed moderate activity against HIV-I (EC50
+1.78-7.7 μM) in vitro, but the activity was accompanied by pronounced
+cytotoxicity.
+
+DOI: 10.3390/biom11101409 
+PMCID: PMC8533149
+PMID: 34680042 
+

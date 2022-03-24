@@ -1,0 +1,36 @@
+
+1. Cancer Res. 2006 Jun 1;66(11):5927-33.
+
+Generation of antitumor responses by genetic modification of primary human T
+cells with a chimeric NKG2D receptor.
+
+Zhang T(1), Barber A, Sentman CL.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Dartmouth Medical School, Lebanon, 
+New Hampshire, USA.
+
+To create more effective T cells against human tumors, we have designed a
+strategy to allow T cells to recognize tumor cells using natural killer (NK) cell
+receptors but retain the effector responses of T lymphocytes. NKG2D is an
+activating cell surface receptor expressed on NK cells and on some T-cell
+subsets. Its ligands are primarily expressed on tumor cells. We have shown that
+by linking mouse NKG2D to the CD3zeta chain, it was possible to generate a
+chimeric NKG2D (chNKG2D) receptor that allowed activation of murine T cells on
+engagement with NKG2D ligand-positive tumor cells leading to antitumor responses 
+in mice. In this study, a human version of the chNKG2D receptor was expressed on 
+primary human T cells, and antitumor responses were determined. Human peripheral 
+blood mononuclear cell-derived T cells were retrovirally transduced with a human 
+chNKG2D receptor gene. These chNKG2D-bearing human T cells responded to NKG2D
+ligand-positive tumor cells by producing T-helper 1 cytokines, proinflammatory
+chemokines, and significant cellular cytotoxicity. This response could be blocked
+by anti-NKG2D antibodies, and it was dependent on NKG2D ligand expression on the 
+target cells but not on expression of MHC molecules. In addition, the activity of
+chNKG2D-bearing T cells remained unimpaired after exposure to a soluble NKG2D
+ligand, soluble MICA, at concentrations as high as 1.5 mug/mL. These data
+indicate the feasibility of using chNKG2D receptors in primary human T cells and 
+suggest that this approach may be a promising means for cancer immunotherapy.
+
+DOI: 10.1158/0008-5472.CAN-06-0130 
+PMID: 16740733  [Indexed for MEDLINE]
+

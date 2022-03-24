@@ -1,0 +1,41 @@
+
+1. Front Public Health. 2021 Oct 25;9:646863. doi: 10.3389/fpubh.2021.646863.
+eCollection 2021.
+
+Kaplan-Meier Type Survival Curves for COVID-19: A Health Data Based
+Decision-Making Tool.
+
+Calabuig JM(1), García-Raffi LM(1), García-Valiente A(2), Sánchez-Pérez EA(1).
+
+Author information: 
+(1)Instituto Universitario de Matemática Pura y Aplicada, Universitat Politècnica
+de València, Valencia, Spain.
+(2)Universitat Pompeu i Fabra, Barcelona, Spain.
+
+Countries are recording health information on the global spread of COVID-19 using
+different methods, sometimes changing the rules after a few days. All of them are
+publishing the number of new individuals infected, recovered and dead
+individuals, along with some supplementary material. These data are often
+recorded in a non-uniform manner and do not conform the standard definitions of
+these variables. In this paper we show that, using data from the first wave of
+the epidemic (February-June), Kaplan-Meier curves calculated with them could
+provide useful information on the dynamics of the disease in different countries.
+We developed our scheme based on the cumulative total number of infected,
+recovered and dead individuals provided by the countries. We present a robust and
+simple model to show certain characteristics of the evolution of the dynamic
+process, showing that the differences in evolution between countries are
+reflected in the corresponding Kaplan-Meier-type curves. We compare the curves
+obtained for the most affected countries at that time, with the corresponding
+interpretation of the properties that distinguish them. The model is revealed as 
+a practical tool for countries in the management of the Healthcare System.
+
+Copyright © 2021 Calabuig, García-Raffi, García-Valiente and Sánchez-Pérez.
+
+DOI: 10.3389/fpubh.2021.646863 
+PMCID: PMC8572972
+PMID: 34760856  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

@@ -1,0 +1,50 @@
+
+1. Microb Cell Fact. 2018 Aug 17;17(1):127. doi: 10.1186/s12934-018-0969-9.
+
+A novel method for transforming the thermophilic bacterium Geobacillus
+kaustophilus.
+
+Miyano M(1), Tanaka K(1), Ishikawa S(1), Mori K(1), Miguel-Arribas A(2), Meijer
+WJJ(3), Yoshida KI(4).
+
+Author information: 
+(1)Department of Science, Technology and Innovation, Kobe University, 1-1
+Rokkodai, Nada, Kobe, 657 8501, Japan.
+(2)Centro de Biología Molecular 'Severo Ochoa' (CSIC-UAM), Instituto de Biología 
+Molecular 'Eladio Viñuela' (CSIC), Universidad Autónoma, Canto Blanco, 28049,
+Madrid, Spain.
+(3)Centro de Biología Molecular 'Severo Ochoa' (CSIC-UAM), Instituto de Biología 
+Molecular 'Eladio Viñuela' (CSIC), Universidad Autónoma, Canto Blanco, 28049,
+Madrid, Spain. wmeijer@cbm.csic.es.
+(4)Department of Science, Technology and Innovation, Kobe University, 1-1
+Rokkodai, Nada, Kobe, 657 8501, Japan. kenyoshi@kobe-u.ac.jp.
+
+BACKGROUND: Bacterial strains of the genus Geobacillus grow at high temperatures 
+of 50-75 °C and could thus be useful for biotechnological applications. However, 
+genetic manipulation of these species is difficult because the current techniques
+for transforming Geobacillus species are not efficient. In this study, we
+developed an easy and efficient method for transforming Geobacillus kaustophilus 
+using the conjugative plasmid pLS20cat.
+RESULTS: We constructed a transformation system comprising (i) a mobilizable
+Bacillus subtilis-G. kaustophilus shuttle plasmid named pGK1 that carries the
+elements for selection and replication in Geobacillus, and (ii) a
+pLS20cat-harboring B. subtilis donor strain expressing the dam methylase gene of 
+Escherichia coli and the conjugation-stimulating rapLS20 gene of pLS20cat. This
+system can be used to efficiently introduce pGK1 into G. kaustophilus by
+mobilization in a pLS20cat-dependent way. Whereas the thermostable kanamycin
+marker and Geobacillus replication origin of pGK1 as well as expression of dam
+methylase in the donor were indispensable for mobilization, ectopic expression of
+rapLS20 increased its efficiency. In addition, the conditions of the recipient
+influenced mobilization efficiency: the highest mobilization efficiencies were
+obtained using recipient cells that were in the exponential growth phase.
+Furthermore, elimination of the origin of transfer from pLS20cat enhanced the
+mobilization.
+CONCLUSIONS: We describe a novel method of plasmid mobilization into G.
+kaustophilus recipient from B. subtilis donor depending on the helper function of
+pLS20cat, which enables simple, rapid, and easy transformation of the
+thermophilic Gram-positive bacterium.
+
+DOI: 10.1186/s12934-018-0969-9 
+PMCID: PMC6098629
+PMID: 30119674  [Indexed for MEDLINE]
+

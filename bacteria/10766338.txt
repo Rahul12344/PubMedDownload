@@ -1,0 +1,38 @@
+
+1. J Inorg Biochem. 2000 Jan 30;78(2):149-60.
+
+Hydrogen abstraction from thiols by adenosyl radicals: chemical precedent for
+thiyl radical formation, the first catalytic step in ribonucleoside triphosphate 
+reductase from Lactobacillus leichmannii.
+
+Sirovatka JM(1), Finke RG.
+
+Author information: 
+(1)Chemistry Department, Colorado State University, Ft. Collins 80523, USA.
+
+Aqueous solutions of adenosylcobalamin (AdoCbl) were thermolyzed with excess
+beta-mercaptoethanol under anaerobic conditions. The product studies reveal that 
+approximately 90% Co-C bond homolysis occurs, to yield Co(II)cobalamin,
+5'-deoxyadenosine, and the disulfide product from the combination of two
+HOCH2CH2S* radicals, 2,2'-dithiodiethanol; there is also approximately 10% Co-C
+bond heterolysis, yielding Co(III)cobalamin, adenine, and
+2,3-dihydroxy-4-pentenal. The kinetic studies show there is a first-order
+dependence on AdoCbl and zero-order dependence on thiol under the higher [RSH]
+experimental conditions used, consistent with the rate-determining step at high
+[RSH] being the generation of Ado*. The kinetic results require that, in
+enzyme-free AdoCbl solution, adenosyl radical (Ado*) is formed as a discrete
+intermediate which then abstracts H* from the added thiol. The activation
+parameters for Co-C bond homolysis in the presence of thiol trap are the same
+within experimental error as the activation parameters for Co-C bond homolysis
+without trap, standard delta H(obs) = 29(2) kcal mol(-1) and standard delta
+S(obs) = -1(5) e.u. The results, in comparison to the rate of Co-C bond homolysis
+in ribonucleoside triphosphate reductase (RTPR), reveal that RTPR accelerates
+Co-C bond cleavage in AdoCbl by approximately 10(10+/-1). The recent literature
+evidence bearing on the exact mechanism of RTPR enzymic cleavage of the Co-C bond
+of AdoCbl is briefly discussed, notably the fact that this mechanism is presently
+controversial, but does involve at least coupled (and possibly concerted) Co-C
+cleavage, -S-H cleavage, and C-H (Ado-H) formation steps.
+
+DOI: 10.1016/s0162-0134(99)00224-x 
+PMID: 10766338  [Indexed for MEDLINE]
+

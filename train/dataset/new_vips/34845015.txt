@@ -1,0 +1,58 @@
+
+1. Proc Natl Acad Sci U S A. 2021 Dec 7;118(49). pii: e2108709118. doi:
+10.1073/pnas.2108709118.
+
+Structure-function analysis of the nsp14 N7-guanine methyltransferase reveals an 
+essential role in Betacoronavirus replication.
+
+Ogando NS(1), El Kazzi P(2), Zevenhoven-Dobbe JC(1), Bontes BW(1), Decombe A(2), 
+Posthuma CC(1), Thiel V(3)(4), Canard B(2)(5), Ferron F(2)(5), Decroly E(6),
+Snijder EJ(7).
+
+Author information: 
+(1)Department of Medical Microbiology, Leiden University Medical Center 2333 ZA
+Leiden, The Netherlands.
+(2)Architecture et Fonction des Macromolécules Biologiques, Centre National de la
+Recherche Scientifique, Aix-Marseille Université 13288 Marseille, France.
+(3)Institute of Virology and Immunology (IVI) 3350 Bern, Switzerland.
+(4)De partment of Infectious Diseases and Pathobiology, Vetsuisse Faculty,
+University of Bern 3012 Bern, Switzerland.
+(5)European Virus Bioinformatics Center (EVBC), Jena 07743, Germany.
+(6)Architecture et Fonction des Macromolécules Biologiques, Centre National de la
+Recherche Scientifique, Aix-Marseille Université 13288 Marseille, France;
+E.J.Snijder@lumc.nl Etienne.decroly@univ-amu.fr.
+(7)Department of Medical Microbiology, Leiden University Medical Center 2333 ZA
+Leiden, The Netherlands; E.J.Snijder@lumc.nl Etienne.decroly@univ-amu.fr.
+
+As coronaviruses (CoVs) replicate in the host cell cytoplasm, they rely on their 
+own capping machinery to ensure the efficient translation of their messenger RNAs
+(mRNAs), protect them from degradation by cellular 5' exoribonucleases (ExoNs),
+and escape innate immune sensing. The CoV nonstructural protein 14 (nsp14) is a
+bifunctional replicase subunit harboring an N-terminal 3'-to-5' ExoN domain and a
+C-terminal (N7-guanine)-methyltransferase (N7-MTase) domain that is presumably
+involved in viral mRNA capping. Here, we aimed to integrate structural,
+biochemical, and virological data to assess the importance of conserved N7-MTase 
+residues for nsp14's enzymatic activities and virus viability. We revisited the
+crystal structure of severe acute respiratory syndrome (SARS)-CoV nsp14 to
+perform an in silico comparative analysis between betacoronaviruses. We
+identified several residues likely involved in the formation of the N7-MTase
+catalytic pocket, which presents a fold distinct from the Rossmann fold observed 
+in most known MTases. Next, for SARS-CoV and Middle East respiratory syndrome
+CoV, site-directed mutagenesis of selected residues was used to assess their
+importance for in vitro enzymatic activity. Most of the engineered mutations
+abolished N7-MTase activity, while not affecting nsp14-ExoN activity. Upon
+reverse engineering of these mutations into different betacoronavirus genomes, we
+identified two substitutions (R310A and F426A in SARS-CoV nsp14) abrogating virus
+viability and one mutation (H424A) yielding a crippled phenotype across all
+viruses tested. Our results identify the N7-MTase as a critical enzyme for
+betacoronavirus replication and define key residues of its catalytic pocket that 
+can be targeted to design inhibitors with a potential pan-coronaviral activity
+spectrum.
+
+Copyright © 2021 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.2108709118 
+PMID: 34845015 
+
+Conflict of interest statement: The authors declare no competing interest.
+

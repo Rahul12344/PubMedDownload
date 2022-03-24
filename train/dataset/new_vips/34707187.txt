@@ -1,0 +1,49 @@
+
+1. Sci Rep. 2021 Oct 27;11(1):21174. doi: 10.1038/s41598-021-99548-7.
+
+Socioeconomic differences and persistent segregation of Italian territories
+during COVID-19 pandemic.
+
+Bonaccorsi G(#)(1), Pierri F(#)(2), Scotti F(#)(3), Flori A(3), Manaresi F(4),
+Ceri S(2), Pammolli F(5)(6).
+
+Author information: 
+(1)Impact, Department of Management, Economics and Industrial Engineering,
+Politecnico di Milano, Milan, Italy. giovanni.bonaccorsi@polimi.it.
+(2)Department of Electronics, Information and Bioengineering, Politecnico di
+Milano, Milan, Italy.
+(3)Impact, Department of Management, Economics and Industrial Engineering,
+Politecnico di Milano, Milan, Italy.
+(4)Science, Technology and Innovation Directorate, Productivity and Business
+Dynamism Division, OECD, Paris, France.
+(5)Impact, Department of Management, Economics and Industrial Engineering,
+Politecnico di Milano, Milan, Italy. fabio.pammolli@polimi.it.
+(6)SIT, Schaffhausen Institute of Technology, Schaffhausen, Switzerland.
+fabio.pammolli@polimi.it.
+(#)Contributed equally
+
+Lockdowns implemented to address the COVID-19 pandemic have disrupted human
+mobility flows around the globe to an unprecedented extent and with economic
+consequences which are unevenly distributed across territories, firms and
+individuals. Here we study socioeconomic determinants of mobility disruption
+during both the lockdown and the recovery phases in Italy. For this purpose, we
+analyze a massive data set on Italian mobility from February to October 2020 and 
+we combine it with detailed data on pre-existing local socioeconomic features of 
+Italian administrative units. Using a set of unsupervised and supervised learning
+techniques, we reliably show that the least and the most affected areas
+persistently belong to two different clusters. Notably, the former cluster
+features significantly higher income per capita and lower income inequality than 
+the latter. This distinction persists once the lockdown is lifted. The least
+affected areas display a swift (V-shaped) recovery in mobility patterns, while
+poorer, most affected areas experience a much slower (U-shaped) recovery: as of
+October 2020, their mobility was still significantly lower than pre-lockdown
+levels. These results are then detailed and confirmed with a quantile regression 
+analysis. Our findings show that economic segregation has, thus, strengthened
+during the pandemic.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-99548-7 
+PMCID: PMC8551210
+PMID: 34707187  [Indexed for MEDLINE]
+

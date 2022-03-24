@@ -1,0 +1,55 @@
+
+1. mBio. 2021 Nov 2:e0259521. doi: 10.1128/mBio.02595-21. [Epub ahead of print]
+
+DNA Viral Diversity, Abundance, and Functional Potential Vary across Grassland
+Soils with a Range of Historical Moisture Regimes.
+
+Wu R(1), Davison MR(1), Nelson WC(1), Graham EB(1)(2), Fansler SJ(1), Farris
+Y(1), Bell SL(1), Godinez I(1), Mcdermott JE(1)(3), Hofmockel KS(1)(4), Jansson
+JK(1).
+
+Author information: 
+(1)Earth and Biological Sciences Directorate, Pacific Northwest National Lab,
+Richland, Washington, USA.
+(2)School of Biological Sciences, Washington State University, Richland,
+Washington, USA.
+(3)Department of Molecular Microbiology and Immunology, Oregon Health & Science
+University, Portland, Oregon, USA.
+(4)Department of Agronomy, Iowa State University, Ames, Iowa, USA.
+
+Soil viruses are abundant, but the influence of the environment and climate on
+soil viruses remains poorly understood. Here, we addressed this gap by comparing 
+the diversity, abundance, lifestyle, and metabolic potential of DNA viruses in
+three grassland soils with historical differences in average annual
+precipitation, low in eastern Washington (WA), high in Iowa (IA), and
+intermediate in Kansas (KS). Bioinformatics analyses were applied to identify a
+total of 2,631 viral contigs, including 14 complete viral genomes from three deep
+metagenomes (1 terabase [Tb] each) that were sequenced from bulk soil DNA. An
+additional three replicate metagenomes (∼0.5 Tb each) were obtained from each
+location for statistical comparisons. Identified viruses were primarily
+bacteriophages targeting dominant bacterial taxa. Both viral and host diversity
+were higher in soil with lower precipitation. Viral abundance was also
+significantly higher in the arid WA location than in IA and KS. More lysogenic
+markers and fewer clustered regularly interspaced short palindromic repeats
+(CRISPR) spacer hits were found in WA, reflecting more lysogeny in historically
+drier soil. More putative auxiliary metabolic genes (AMGs) were also detected in 
+WA than in the historically wetter locations. The AMGs occurring in 18 pathways
+could potentially contribute to carbon metabolism and energy acquisition in their
+hosts. Structural equation modeling (SEM) suggested that historical precipitation
+influenced viral life cycle and selection of AMGs. The observed and predicted
+relationships between soil viruses and various biotic and abiotic variables have 
+value for predicting viral responses to environmental change. IMPORTANCE Soil
+viruses are abundant but poorly understood. Because soil viruses regulate the
+dynamics of their hosts and potentially key processes in soil ecology, it is
+important to understand them better. Here, we leveraged massive DNA sequencing to
+unearth previously unknown soil viruses. We found that soil viruses differed
+across a historical gradient of precipitation. We compared soil viruses from
+Iowa, which is traditionally wetter, to those from Washington, which is
+traditionally drier, and from Kansas, which is intermediate. This study provides 
+strong evidence that changes in historical precipitation impact not only the
+types of soil viruses but also their functional potential.
+
+DOI: 10.1128/mBio.02595-21 
+PMCID: PMC8567247
+PMID: 34724822 
+

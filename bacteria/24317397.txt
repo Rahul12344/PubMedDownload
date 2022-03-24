@@ -1,0 +1,39 @@
+
+1. J Bacteriol. 2014 Feb;196(4):850-8. doi: 10.1128/JB.00843-13. Epub 2013 Dec 6.
+
+Nonredundant roles for cytochrome c2 and two high-potential iron-sulfur proteins 
+in the photoferrotroph Rhodopseudomonas palustris TIE-1.
+
+Bird LJ(1), Saraiva IH, Park S, Calçada EO, Salgueiro CA, Nitschke W, Louro RO,
+Newman DK.
+
+Author information: 
+(1)Department of Biology, Massachusetts Institute of Technology, Cambridge,
+Massachusetts, USA.
+
+The purple bacterium Rhodopseudomonas palustris TIE-1 expresses multiple small
+high-potential redox proteins during photoautotrophic growth, including two
+high-potential iron-sulfur proteins (HiPIPs) (PioC and Rpal_4085) and a
+cytochrome c2. We evaluated the role of these proteins in TIE-1 through genetic, 
+physiological, and biochemical analyses. Deleting the gene encoding cytochrome c2
+resulted in a loss of photosynthetic ability by TIE-1, indicating that this
+protein cannot be replaced by either HiPIP in cyclic electron flow. PioC was
+previously implicated in photoferrotrophy, an unusual form of photosynthesis in
+which reducing power is provided through ferrous iron oxidation. Using cyclic
+voltammetry (CV), electron paramagnetic resonance (EPR) spectroscopy, and
+flash-induced spectrometry, we show that PioC has a midpoint potential of 450 mV,
+contains all the typical features of a HiPIP, and can reduce the reaction centers
+of membrane suspensions in a light-dependent manner at a much lower rate than
+cytochrome c2. These data support the hypothesis that PioC linearly transfers
+electrons from iron, while cytochrome c2 is required for cyclic electron flow.
+Rpal_4085, despite having spectroscopic characteristics and a reduction potential
+similar to those of PioC, is unable to reduce the reaction center. Rpal_4085 is
+upregulated by the divalent metals Fe(II), Ni(II), and Co(II), suggesting that it
+might play a role in sensing or oxidizing metals in the periplasm. Taken
+together, our results suggest that these three small electron transfer proteins
+perform different functions in the cell.
+
+DOI: 10.1128/JB.00843-13 
+PMCID: PMC3911180
+PMID: 24317397  [Indexed for MEDLINE]
+

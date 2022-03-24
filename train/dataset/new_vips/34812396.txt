@@ -1,0 +1,52 @@
+
+1. IEEE Access. 2021 Jun 3;9:84783-84798. doi: 10.1109/ACCESS.2021.3085682.
+eCollection 2021.
+
+COVID-Scraper: An Open-Source Toolset for Automatically Scraping and Processing
+Global Multi-Scale Spatiotemporal COVID-19 Records.
+
+Lan H(1), Sha D(1)(2), Malarvizhi AS(1)(2), Liu Y(3), Li Y(1)(2), Meister N(4),
+Liu Q(1)(2), Wang Z(1)(2), Yang J(1)(2), Yang CP(1)(2).
+
+Author information: 
+(1)NSF Spatiotemporal Innovation CenterGeorge Mason University Fairfax VA 22030
+USA.
+(2)Department of Geography and Geoinformation ScienceGeorge Mason University
+Fairfax VA 22030 USA.
+(3)Department of Aerospace and Mechanical EngineeringUniversity of Notre Dame
+Notre Dame IN 46556 USA.
+(4)Department of PhysicsHarvard University Cambridge MA 2138 USA.
+
+In 2019, COVID-19 quickly spread across the world, infecting billions of people
+and disrupting the normal lives of citizens in every country. Governments,
+organizations, and research institutions all over the world are dedicating vast
+resources to research effective strategies to fight this rapidly propagating
+virus. With virus testing, most countries publish the number of confirmed cases, 
+dead cases, recovered cases, and locations routinely through various channels and
+forms. This important data source has enabled researchers worldwide to perform
+different COVID-19 scientific studies, such as modeling this virus's spreading
+patterns, developing prevention strategies, and studying the impact of COVID-19
+on other aspects of society. However, one major challenge is that there is no
+standardized, updated, and high-quality data product that covers COVID-19 cases
+data internationally. This is because different countries may publish their data 
+in unique channels, formats, and time intervals, which hinders researchers from
+fetching necessary COVID-19 datasets effectively, especially for fine-scale
+studies. Although existing solutions such as John's Hopkins COVID-19 Dashboard
+and 1point3acres COVID-19 tracker are widely used, it is difficult for users to
+access their original dataset and customize those data to meet specific
+requirements in categories, data structure, and data source selection. To address
+this challenge, we developed a toolset using cloud-based web scraping to extract,
+refine, unify, and store COVID-19 cases data at multiple scales for all available
+countries around the world automatically. The toolset then publishes the data for
+public access in an effective manner, which could offer users a real time
+COVID-19 dynamic dataset with a global view. Two case studies are presented about
+how to utilize the datasets. This toolset can also be easily extended to fulfill 
+other purposes with its open-source nature.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more 
+information, see https://creativecommons.org/licenses/by/4.0/.
+
+DOI: 10.1109/ACCESS.2021.3085682 
+PMCID: PMC8545187
+PMID: 34812396 
+

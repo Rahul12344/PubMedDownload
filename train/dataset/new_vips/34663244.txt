@@ -1,0 +1,53 @@
+
+1. BMC Public Health. 2021 Oct 19;21(1):1802. doi: 10.1186/s12889-021-11838-x.
+
+Gender disparities in access to care for time-sensitive conditions during
+COVID-19 pandemic in Chile.
+
+Pacheco J(1), Crispi F(2), Alfaro T(2), Martínez MS(2), Cuadrado C(3)(4).
+
+Author information: 
+(1)Departamento de Salud Pública, Universidad de Concepción, Víctor Lamas 1290
+Casilla 160-C, 4070386, Concepción, Chile.
+(2)Escuela de Salud Pública, Universidad de Chile, Independencia 939,
+Independencia, 8380453, Santiago de Chile, Chile.
+(3)Escuela de Salud Pública, Universidad de Chile, Independencia 939,
+Independencia, 8380453, Santiago de Chile, Chile. c.cuadrado@york.ac.uk.
+(4)Centre for Health Economics, University of York, York, UK.
+c.cuadrado@york.ac.uk.
+
+BACKGROUND: During the COVID-19 pandemic, reductions in healthcare utilization
+are reported in different contexts. Nevertheless, studies have not explored
+specifically gender disparities in access to healthcare in the context of
+COVID-19.
+METHODS: To evaluate gender disparities in access to medical in Chile we
+conducted an interrupted time series analysis using segmented regression. The
+outcome variable was the number of weekly confirmed cases of a set of oncologic
+and cardiovascular time-sensitive conditions at a national level. The series
+contained data from weeks 1 to 39 for 2017 to 2020. The intervention period
+started at week 12. We selected this period because preventive interventions,
+such as school closures or teleworking, were implemented at this point. We
+estimated the level effect using a dummy variable indicating the intervention
+period and slope effect using a continuous variable from weeks 12 to 39. To test 
+heterogeneity by gender and age group, we conducted a stratified analysis.
+RESULTS: We observed a sizable reduction in access to care with a slowly recovery
+for oncologic (level effect 0.323; 95% CI 0.291-0.359; slope effect 1.022; 95% CI
+1.016-1.028) and cardiovascular diseases (level effect 0.586; 95% CI 0.564-0.609;
+slope effect 1.009; 95% CI 1.007-1.011). Greater reduction occurred in women
+compared to men, particularly marked on myocardial infarction (level effect
+0.595; 95% CI 0.566-0.627 versus 0.532; 95% CI 0.502-0.564) and colorectal cancer
+(level effect 0.295; 95% CI 0.248-0.35 versus 0.19; 95% CI 0.159-0.228). Compared
+to men, a greater absolute reduction was observed in women for oncologic
+diseases, excluding sex-specific cancer, (1352; 95% CI 743-1961) and
+cardiovascular diseases (1268; 95% CI 946-1590).
+CONCLUSION: We confirmed a large drop in new diagnoses for time-sensitive
+conditions during the COVID-19 pandemic in Chile. This reduction was greater for 
+women. Our findings should alert policy-makers about the urgent need to integrate
+a gender perspective into the pandemic response.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12889-021-11838-x 
+PMCID: PMC8523204
+PMID: 34663244  [Indexed for MEDLINE]
+

@@ -1,0 +1,26 @@
+
+1. Viruses. 2021 Oct 30;13(11). pii: 2191. doi: 10.3390/v13112191.
+
+Viral Phrenology.
+
+Wilson DP(1), Roof DA(1).
+
+Author information: 
+(1)Department of Physics, Kalamazoo College, Kalamazoo, MI 49006, USA.
+
+We introduce Viral Phrenology, a new scheme for understanding the genomic
+composition of spherical viruses based on the locations of their structural
+protrusions. We used icosahedral point arrays to classify 135 distinct viral
+capsids collected from over 600 capsids available in the VIPERdb. Using gauge
+points of point arrays, we found 149 unique structural protrusions. We then show 
+how to use the locations of these protrusions to determine the genetic
+composition of the virus. We then show that ssDNA, dsDNA, dsRNA and ssRNA viruses
+use different arrangements for distributing their protrusions. We also found that
+Triangulation number is also partially dependent on the structural protrusions.
+This analysis begins to tie together Baltimore Classification and Triangulation
+number using point arrays.
+
+DOI: 10.3390/v13112191 
+PMCID: PMC8618131
+PMID: 34834999 
+

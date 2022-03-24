@@ -1,0 +1,58 @@
+
+1. bioRxiv. 2021 Nov 17. pii: 2021.11.16.468893. doi: 10.1101/2021.11.16.468893.
+
+BSG/CD147 and ACE2 receptors facilitate SARS-CoV-2 infection of human iPS
+cell-derived kidney podocytes.
+
+Kalejaiye TD, Bhattacharya R, Burt MA, Travieso T, Okafor AE, Mou X, Blasi M,
+Musah S.
+
+Background: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes
+the Coronavirus disease 2019 (COVID-19), which was declared a pandemic by the
+World Health Organization (WHO) in March 2020. The disease has caused more than
+5.1 million deaths worldwide. While cells in the respiratory system are
+frequently the initial target for SARS-CoV-2, clinical studies suggest that
+COVID-19 can become a multi-organ disease in the most severe cases. Still, the
+direct affinity of SARS-CoV-2 for cells in other organs such as the kidneys,
+which are often affected in severe COVID-19, remains poorly understood.
+Method: In this study, we employed a human induced pluripotent stem (iPS)
+cell-derived model to investigate the affinity of SARS-CoV-2 for kidney
+glomerular podocytes. We studied uptake of the live SARS-CoV-2 virus as well as
+pseudotyped viral particles by human iPS cell derived podocytes using qPCR,
+western blot, and immunofluorescence. Global gene expression and qPCR analyses
+revealed that human iPS cell-derived podocytes express many host factor genes
+(including ACE2, BSG/CD147, PLS3, ACTR3, DOCK7, TMPRSS2, CTSL CD209, and CD33)
+associated with SARS-CoV-2 binding and viral processing.
+Result: Infection of podocytes with live SARS-CoV-2 or spike-pseudotyped
+lentiviral particles revealed viral uptake by the cells at low Multiplicity of
+Infection (MOI of 0.01) as confirmed by RNA quantification and immunofluorescence
+studies. Our results also indicate that direct infection of human iPS
+cell-derived podocytes by SARS-CoV-2 virus can cause cell death and podocyte foot
+process retraction, a hallmark of podocytopathies and progressive glomerular
+diseases including collapsing glomerulopathy observed in patients with severe
+COVID-19 disease. Additionally, antibody blocking experiments identified
+BSG/CD147 and ACE2 receptors as key mediators of spike binding activity in human 
+iPS cell-derived podocytes.
+Conclusion: These results show that SARS-CoV-2 can infect kidney glomerular
+podocytes in vitro . These results also show that the uptake of SARS-CoV-2 by
+kidney podocytes occurs via multiple binding interactions and partners, which may
+underlie the high affinity of SARS-CoV-2 for kidney tissues. This stem
+cell-derived model is potentially useful for kidney-specific antiviral drug
+screening and mechanistic studies of COVID-19 organotropism.
+Significant statement: Many patients with COVID19 disease exhibit multiorgan
+complications, suggesting that SARS-CoV-2 infection can extend beyond the
+respiratory system. Acute kidney injury is a common COVID-19 complication
+contributing to increased morbidity and mortality. Still, SARS-Cov-2 affinity for
+specialized kidney cells remain less clear. By leveraging our protocol for stem
+cell differentiation, we show that SARS-CoV-2 can directly infect kidney
+glomerular podocytes by using multiple Spike-binding proteins including ACE2 and 
+BSG/CD147. Our results also indicate that infection by SARS-CoV-2 virus can cause
+podocyte cell death and foot process effacement, a hallmark of podocytopathies
+including collapsing glomerulopathy observed in patients with severe COVID-19
+disease. This stem cell-derived model is potentially useful for kidney-specific
+antiviral drug screening and mechanistic studies of COVID-19 organotropism.
+
+DOI: 10.1101/2021.11.16.468893 
+PMCID: PMC8609894
+PMID: 34816259 
+

@@ -1,0 +1,42 @@
+
+1. J Biol Chem. 2005 Jan 21;280(3):2197-204. Epub 2004 Nov 12.
+
+Bimodal regulation of the human H1 histamine receptor by G protein-coupled
+receptor kinase 2.
+
+Iwata K(1), Luo J, Penn RB, Benovic JL.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Kimmel Cancer Center, Thomas
+Jefferson University, Philadelphia, Pennsylvania 19107, USA.
+
+The H1 histamine receptor (H1HR) is a member of the G protein-coupled receptor
+superfamily and regulates numerous cellular functions through its activation of
+the G(q/11) subfamily of heterotrimeric G proteins. Although the H1HR has been
+shown to undergo desensitization in multiple cell types, the mechanisms
+underlying the regulation of H1HR signaling are poorly defined. To address this
+issue, we examined the effects of wild type and mutant G protein-coupled receptor
+kinases (GRKs) on the phosphorylation and signaling of human H1HR in HEK293
+cells. Overexpression of GRK2 promoted H1HR phosphorylation in intact HEK293
+cells and completely inhibited inositol phosphate production stimulated by H1HR, 
+whereas GRK5 and GRK6 had lesser effects on H1HR phosphorylation and signaling.
+Interestingly, catalytically inactive GRK2 (GRK2-K220R) also significantly
+attenuated H1HR-mediated inositol phosphate production, as did an N-terminal
+fragment of GRK2 previously characterized as a regulator of G protein signaling
+(RGS) protein for Galpha(q/11). Disruption of this RGS function in holo-GRK2 by
+mutation (GRK2-D110A) partially reversed the quenching effect of GRK2, whereas
+deletion of both the kinase activity and RGS function (GRK2-D110A/K220R)
+effectively relieved the inhibition of inositol phosphate generation. To evaluate
+the role of endogenous GRKs on H1HR regulation, we used small interfering RNAs to
+selectively target GRK2 and GRK5, two of the primary GRKs expressed in HEK293
+cells. A GRK2-specific small interfering RNA effectively reduced GRK2 expression 
+and resulted in a significant increase in histamine-promoted calcium flux. In
+contrast, knockdown of GRK5 expression was without effect on H1HR signaling.
+These findings demonstrate that GRK2 is the principal kinase mediating H1
+histamine receptor desensitization in HEK293 cells and suggest that rapid
+termination of H1HR signaling is mediated by both the kinase activity and RGS
+function of GRK2.
+
+DOI: 10.1074/jbc.M408834200 
+PMID: 15542600  [Indexed for MEDLINE]
+

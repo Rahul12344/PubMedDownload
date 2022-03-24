@@ -1,0 +1,32 @@
+
+1. Front Bioinform. 2021 Mar;1. pii: 660936. doi: 10.3389/fbinf.2021.660936. Epub
+2021 Mar 29.
+
+CellPAINT: Turnkey Illustration of Molecular Cell Biology.
+
+Gardner A(1), Autin L(1), Fuentes D(1), Maritan M(1), Barad BA(1), Medina M(1),
+Olson AJ(1), Grotjahn DA(1), Goodsell DS(1)(2).
+
+Author information: 
+(1)Department of Integrative Structural and Computational Biology, The Scripps
+Research Institute, La Jolla, CA, United States.
+(2)Research Collaboratory for Structural Bioinformatics Protein Data Bank,
+Rutgers, The State University of New Jersey, Piscataway, NJ, United States.
+
+CellPAINT is an interactive digital tool that allows non-expert users to create
+illustrations of the molecular structure of cells and viruses. We present a new
+release with several key enhancements, including the ability to generate custom
+ingredients from structure information in the Protein Data Bank, and interaction,
+grouping, and locking functions that streamline the creation of assemblies and
+illustration of large, complex scenes. An example of CellPAINT as a tool for
+hypothesis generation in the interpretation of cryoelectron tomograms is
+presented. CellPAINT is freely available at http://ccsb.scripps.edu/cellpaint.
+
+DOI: 10.3389/fbinf.2021.660936 
+PMCID: PMC8594902
+PMID: 34790910 
+
+Conflict of interest statement: Conflict of Interest: The authors declare that
+the research was conducted in the absence of any commercial or financial
+relationships that could be construed as a potential conflict of interest.
+

@@ -1,0 +1,33 @@
+
+1. Biochemistry. 1996 Dec 17;35(50):16264-9.
+
+Kinetic mechanism of the Escherichia coli UDPMurNAc-tripeptide
+D-alanyl-D-alanine-adding enzyme: use of a glutathione S-transferase fusion.
+
+Anderson MS(1), Eveland SS, Onishi HR, Pompliano DL.
+
+Author information: 
+(1)Department of Enzymology, Merck Research Laboratories, Rahway, New Jersey
+07065, USA. matt_anderson@merck.com
+
+The D-alanyl-D-alanine-adding enzyme encoded by the murF gene catalyzes the
+ATP-dependent formation of
+UDP-N-acetylmuramyl-L-gamma-D-Glu-meso-diaminopimelyl-D-Ala-D-Ala
+(UDP-MurNAc-tripeptide). MurF has been cloned from Escherichia coli and expressed
+as a glutathione S-transferase (GST) fusion using the tac promoter-based pGEX-KT 
+vector. From induced, broken cell preparations, highly active fusion was
+recovered and purified in one step by affinity chromatography. The purified
+fusion protein was strongly inhibited by substrate UDPMurNAc-tripeptide, a
+response unaltered by changes in assay pH or by cleavage from the fusion partner.
+However, this effect was suppressed by the addition of 0.5 M NaCl. Initial
+velocity and dead-end inhibitor studies with the fusion enzyme were most
+consistent with a sequential ordered kinetic mechanism for the forward reaction
+in which ATP binds to free enzyme, followed by tripeptide and D-Ala-D-Ala in
+sequence prior to product release. Reported homologies between the MurF protein
+and the three preceding steps of cytoplasmic murein biosynthesis, MurC, -D, and
+-E, [Ikeda et al. (1990) J. Gen. Appl. Microbiol. 36, 179-187], raise the
+prospect that all of these enzymes will be found to proceed via this mechanism.
+
+DOI: 10.1021/bi961872+ 
+PMID: 8973200  [Indexed for MEDLINE]
+

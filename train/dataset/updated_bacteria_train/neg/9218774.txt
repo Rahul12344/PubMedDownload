@@ -1,0 +1,31 @@
+
+1. Mol Microbiol. 1997 Jun;24(6):1263-73.
+
+ftsW is an essential cell-division gene in Escherichia coli.
+
+Boyle DS(1), Khattar MM, Addinall SG, Lutkenhaus J, Donachie WD.
+
+Author information: 
+(1)Institute of Cell and Molecular Biology, University of Edinburgh, UK.
+
+In the absence of exogenous promoters, plasmid-mediated complementation of the
+temperature-sensitive ftsW201 allele requires the presence of the full coding
+sequence of ftsW plus upstream DNA encompassing the C-terminus of mraY and the
+full coding sequence of murD. We used molecular and genetic techniques to
+introduce an insertional inactivation into the chromosomal copy of ftsW, in the
+presence of the plasmid-borne wild-type ftsW gene under the control of P(BAD). In
+the absence of arabinose, the ftsW-null strain is not viable, and a shift from
+arabinose- to glucose-containing liquid medium resulted in a block in division,
+followed by cell lysis. Immunofluorescence microscopy revealed that in ftsW-null 
+filaments, the FtsZ ring is absent in 50-60% of filaments, whilst between one and
+three Z-rings per filament can be detected in the remainder of the population,
+with the majority of these containing only one Z-ring per filament. We also
+demonstrated that the expression of only ftsWS (the smaller of two ftsW open
+reading frames) from P(BAD) is sufficient for complementation of the ftsW-null
+allele. We conclude that FtsW is an essential cell-division protein in
+Escherichia coli, and that it plays a role in the stabilization of the FtsZ ring 
+during cell division.
+
+DOI: 10.1046/j.1365-2958.1997.4091773.x 
+PMID: 9218774  [Indexed for MEDLINE]
+

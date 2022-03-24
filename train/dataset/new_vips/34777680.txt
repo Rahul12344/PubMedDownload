@@ -1,0 +1,49 @@
+
+1. J Signal Process Syst. 2021 Nov 8:1-13. doi: 10.1007/s11265-021-01714-7. [Epub
+ahead of print]
+
+An Analysis of Image Features Extracted by CNNs to Design Classification Models
+for COVID-19 and Non-COVID-19.
+
+Teodoro AAM(1), Silva DH(1), Saadi M(2), Okey OD(3), Rosa RL(1), Otaibi SA(4),
+Rodríguez DZ(1).
+
+Author information: 
+(1)Department of Computer Science, Federal University of Lavras, Lavras, MG
+Brazil.
+(2)Department of Electrical Engineering, University of Central Punjab, Lahore,
+54000 Pakistan.
+(3)Department of Systems Engineering and Automation, Federal University of
+Lavras, Lavras, MG Brazil.
+(4)Department of Electrical Engineering, College of Engineering, Taif University,
+Taif, 21944 Saudi Arabia.
+
+The SARS-CoV-2 virus causes a respiratory disease in humans, known as COVID-19.
+The confirmatory diagnostic of this disease occurs through the real-time reverse 
+transcription and polymerase chain reaction test (RT-qPCR). However, the period
+of obtaining the results limits the application of the mass test. Thus, chest
+X-ray computed tomography (CT) images are analyzed to help diagnose the disease. 
+However, during an outbreak of a disease that causes respiratory problems,
+radiologists may be overwhelmed with analyzing medical images. In the literature,
+some studies used feature extraction techniques based on CNNs, with
+classification models to identify COVID-19 and non-COVID-19. This work compare
+the performance of applying pre-trained CNNs in conjunction with classification
+methods based on machine learning algorithms. The main objective is to analyze
+the impact of the features extracted by CNNs, in the construction of models to
+classify COVID-19 and non-COVID-19. A SARS-CoV-2 CT data-set is used in
+experimental tests. The CNNs implemented are visual geometry group (VGG-16 and
+VGG-19), inception V3 (IV3), and EfficientNet-B0 (EB0). The classification
+methods were k-nearest neighbor (KNN), support vector machine (SVM), and
+explainable deep neural networks (xDNN). In the experiments, the best results
+were obtained by the EfficientNet model used to extract data and the SVM with an 
+RBF kernel. This approach achieved an average performance of 0.9856 in the
+precision macro, 0.9853 in the sensitivity macro, 0.9853 in the specificity
+macro, and 0.9853 in the F1 score macro.
+
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC,
+part of Springer Nature 2021.
+
+DOI: 10.1007/s11265-021-01714-7 
+PMCID: PMC8572648
+PMID: 34777680 
+

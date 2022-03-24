@@ -1,0 +1,54 @@
+
+1. Front Public Health. 2021 Oct 5;9:700811. doi: 10.3389/fpubh.2021.700811.
+eCollection 2021.
+
+Evaluation of the Strategies to Control COVID-19 Pandemic in Four European
+Countries.
+
+Gianino MM(1), Nurchis MC(2), Politano G(3), Rousset S(1), Damiani G(2)(4).
+
+Author information: 
+(1)Department of Public Health and Paediatrics, Università di Torino, Torino,
+Italy.
+(2)Department of Woman and Child Health and Public Health, Fondazione Policlinico
+Universitario A. Gemelli IRCCS, Roma, Italy.
+(3)Department of Control and Computer Engineering, Politecnico di Torino, Torino,
+Italy.
+(4)Department of Health Sciences and Public Health, Section of Hygiene,
+Universit0 Cattolica del Sacro Cuore, Roma, Italy.
+
+On March 11, 2020, the World Health Organization (WHO) has officially declared
+the novel coronavirus outbreak a pandemic. The national governments deployed a
+series of severe control measures and a set of public health policies in order to
+stop the spread of COVID-19 pandemic. The aim of this study is to investigate the
+correlation between specific interventions and incident cases during the second
+wave in multiple and specific countries. The observational study was based on
+data from the Oxford COVID-19 Government Response Tracker (OxCGRT) source
+retrieved from October 1st, 2020 to January 10, 2021. Thirteen specific
+indicators related to measures adopted were considered. Four European countries
+were taken into account: Italy, German, Spain and UK. A vector autoregression
+(VAR) model and the Granger Causality test were performed to allow for an
+assessment of any possible effect induced by each control measure against the
+overall pandemic growth. Wald test was conducted to compute p-values. No
+correlation between the applied measures and incident cases in the four countries
+was shown by the Granger causality test. Only closings of workplaces (C2) and
+limits on private gatherings showed (C4) a significant correlation with incident 
+cases in UK and restrictions on internal movement between cities/regions in
+Germany. The Granger causality also tested that C2 and C4 forecasted the decrease
+of incident cases after a time lag of 6-30 days in UK and Germany, respectively. 
+Policy makers must analyze the context in which policies are set because of
+effectiveness of interventions can be influenced by local context and,
+especially, by socio-economic and demographic characteristics, and make a proper 
+communication to support the resilience of the population capable of guaranteeing
+adherence to the interventions implemented.
+
+Copyright © 2021 Gianino, Nurchis, Politano, Rousset and Damiani.
+
+DOI: 10.3389/fpubh.2021.700811 
+PMCID: PMC8526533
+PMID: 34692619  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

@@ -1,0 +1,49 @@
+
+1. bmc plant biol. 2015 jul 9;15:175. doi: 10.1186/s12870-015-0565-7.
+
+proteomic analysis artemisia annua--towards elucidating biosynthetic
+pathways antimalarial pro-drug artemisinin.
+
+bryant l(1), flatley b(2), patole c(3), brown gd(4), cramer r(5).
+
+author information: 
+(1)department chemistry, whiteknights, reading, rg6 6ad, united kingdom.
+gk002242@reading.ac.uk.
+(2)department chemistry, whiteknights, reading, rg6 6ad, united kingdom.
+flatley3@gmail.com.
+(3)department chemistry, whiteknights, reading, rg6 6ad, united kingdom.
+chhayapatole@gmail.com.
+(4)department chemistry, whiteknights, reading, rg6 6ad, united kingdom.
+g.d.brown@reading.ac.uk.
+(5)department chemistry, whiteknights, reading, rg6 6ad, united kingdom.
+r.k.cramer@reading.ac.uk.
+
+background: ms-based proteomics applied analysis medicinal
+plant artemisia annua, exploiting recently published contig sequence database
+(graham et al. (2010) science 327, 328-331) genomic proteomic
+sequence databases comparison. a. annua predominant natural source 
+artemisinin, precursor artemisinin-based combination therapies (acts),
+which who-recommended treatment p. falciparum malaria.
+results: comparison various databases containing a. annua sequences
+(ncbinr/viridiplantae, uniprot/viridiplantae, uniprot/a. annua, a. annua
+trichome trinity contig database, contig database another a. annua 
+est database) revealed significant differences respect suitability
+for proteomic analysis, showing organism-specific database has
+undergone extensive curation, leading longer contig sequences, greatly
+increase number true positive protein identifications, reducing 
+number false positives. compared previously published data an
+order-of-magnitude proteins identified trichome-enriched a.
+annua samples, including proteins known involved the
+biosynthesis artemisinin, well highly abundant proteins, which
+suggest additional enzymatic processes occurring within trichomes are
+important biosynthesis artemisinin.
+conclusions: newly gained information allows possibility an
+enzymatic pathway, utilizing peroxidases, less well understood final
+stages artemisinin's biosynthesis, alternative known
+non-enzymatic vitro conversion dihydroartemisinic acid artemisinin. data
+are available via proteomexchange identifier pxd000703.
+
+doi: 10.1186/s12870-015-0565-7 
+pmcid: pmc4496932
+pmid: 26156581  [indexed medline]
+

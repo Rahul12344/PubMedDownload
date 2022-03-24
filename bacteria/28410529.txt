@@ -1,0 +1,49 @@
+
+1. Int Immunopharmacol. 2017 Jun;47:159-165. doi: 10.1016/j.intimp.2017.04.003. Epub
+2017 Apr 12.
+
+IFNγ enhances cytotoxic efficiency of the cytotoxic T lymphocytes against human
+glioma cells.
+
+Shao S(1), Risch E(2), Burner D(3), Lu L(2), Minev B(4), Ma W(5).
+
+Author information: 
+(1)Institute of Microbiology and Immunology, Huzhou University, Huzhou, Zhejiang 
+313000, China.
+(2)Department of Chronic Disease Epidemiology, Yale School of Public Health, Yale
+School of Medicine, Yale Cancer Center, New Haven, CT 06520, USA.
+(3)Moores Cancer Center, University of California San Diego, La Jolla, CA 92093, 
+USA.
+(4)Moores Cancer Center, University of California San Diego, La Jolla, CA 92093, 
+USA; StemImmune Inc., San Diego, CA 92122, USA. Electronic address:
+bminev@ucsd.edu.
+(5)Moores Cancer Center, University of California San Diego, La Jolla, CA 92093, 
+USA; Institute for Cancer Biology and Stem Cell Research, Huzhou University,
+Huzhou, Zhejiang 313000, China. Electronic address: wma@ucsd.edu.
+
+Cytotoxic T lymphocytes (CTLs) are a key player in cancer immunotherapies, and
+MHC class I molecules on the cell surface are crucial for cellular recognition.
+However, the aberrant expression of MHC class I molecules is frequently found in 
+various malignancies. IFNγ has dual functions in cancer progression, and its
+effect on tumor immunity is controversial. To investigate whether IFNγ can
+enhance cytotoxic efficiency of the tumor antigen-specific CTLs, we generated the
+CTLs using modified human dendritic cells as antigen presenting cells, then
+studied the activities of CTLs on human leukocyte antigen (HLA)-A2 positive
+glioma cells treated with, or without IFNγ. The results from both ELISpot and
+cytotoxicity assays demonstrated that the CTLs recognized and eliminated the
+HLA-A2 positive glioma cells treated with IFNγ more effectively when compared to 
+the glioma cells deprived of IFNγ treatment. In addition, in vitro experiments
+showed that the levels of MHC class I molecules were upregulated in all of the
+HLA-A2 positive glioma cells. Using the publicly accessed TCGA data of low-grade 
+glioma, we found significantly positive associations between IFNγ and both MHC
+class I molecules and CD8+ T cell activation score (p<0.0001). Furthermore, we
+found a significantly reduced risk of death in the glioma patients with high T
+cell activation score in comparison to those with low score (p=0.022). These
+findings suggest that a clinical application of IFNγ treatment may have potential
+benefits.
+
+Copyright © 2017. Published by Elsevier B.V.
+
+DOI: 10.1016/j.intimp.2017.04.003 
+PMID: 28410529  [Indexed for MEDLINE]
+

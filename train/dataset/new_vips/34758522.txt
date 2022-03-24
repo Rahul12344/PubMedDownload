@@ -1,0 +1,62 @@
+
+1. Zhonghua Jie He He Hu Xi Za Zhi. 2021 Nov 12;44(11):961-965. doi:
+10.3760/cma.j.cn112147-20210330-00212.
+
+[Epidemiological characteristics of novel coronavirus pneumonia in Shijiazhuang, 
+China].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Sun JW(1), Cui ZF(1), Li FJ(2), Liu MY(1), Gong XW(1), Tian FJ(3), Shi JY(4),
+Yuan YD(1), Zhou JK(5).
+
+Author information: 
+(1)Department of Respiratory and Critical Care Medicine, the Second Hospital of
+Hebei Medical University, Shijiazhuang 050004, China.
+(2)Department of Radiology, Hebei Armed Police Corps Hospital, Shijiazhuang
+050080, China.
+(3)Department of Respiratory Medicine, the Third Hospital of Hebei Medical
+University, Shijiazhuang 050051, China.
+(4)Department of Respiratory Medicine, Shijiazhuang People's Hospital,
+Shijiazhuang 050011, China.
+(5)Shijiazhuang Center for Disease Control and Prevention, Shijiazhuang 050010,
+China.
+
+Objective: To analyze the epidemiological characteristics of an outbreak of novel
+coronavirus pneumonia (COVID-19) in Shijiazhuang, Hebei Province in 2021 and to
+provide scientific basis for developing improved strategies to prevent and
+control the outbreak of COVID-19. Methods: Descriptive analysis of the outbreak
+of COVID-19 in Shijiazhuang, Hebei Province was performed with SPSS 21.0 and
+Excel software. The statistical analysis of the incubation period was performed
+using the rstan package in R4.0.4. Results: As of February 14th 2021, a total of 
+942 local confirmed cases were reported in Hebei Province, 869 cases in
+Shijiazhuang, of which 847 cases were available for case information. This
+outbreak was mainly in rural areas, with the largest number of confirmed cases in
+Xiaoguozhuang village, 249 (29.4%); followed by Nanqiaozhai village, 128 (15.1%);
+and Liujiazuo village, 85 (10.0%). The outbreak lasted from January 2nd, 2021 to 
+February 14th, 2021, and was mainly transmitted among the farmers as well as the 
+students through dining parties, public gatherings and family contacts, showing
+an obvious time and occupation concentration trend. An analysis of 116 local
+confirmed cases in this outbreak with specific exposure time and onset time
+indicated that the median incubation period was 6 [interquartile range(IQR): 3.3,
+10.0] days; whereas another report including 264 local confirmed cases with
+specific exposure time window showed that a median incubation period was 8.5 [95%
+confidence interval (CI): 1.8-18.8] days. Conclusions: This outbreak was mainly
+related to rural areas, and was associated with parties, public gatherings and
+family gatherings. Self-protection and isolation of key areas and populations at 
+risk should be effectively implemented to avoid close contact and other measures 
+to reduce the occurrence of COVID-19 aggregation. Based on the results of the
+incubation period of this outbreak, the isolation period could be recommended to 
+be extended to three weeks.
+
+Publisher: 目的： 分析2021年河北省石家庄市新型冠状病毒肺炎（COVID-19）疫情流行特征，为优化疫情防控策略提供科学依据。 方法：
+采用Excel、SPSS 21.0 软件对河北省石家庄市此次疫情的三间分布进行描述性分析，使用R 4.0.4中rstan 进行潜伏期的统计分析。 结果：
+截止至2021年2月14日，河北省累计报告本土确诊病例942例，石家庄869例（其中847例可获病例资料）。此次暴发主要以农村地区为主，以小果庄村确诊人数最多，为
+249例（29.4%）；其次是南桥寨村，有128例（15.1%）；刘家佐村85例（10.0%）。疫情集中发生在2021年1月2日至2月14日，以农民及学生为主，传
+播形式以聚餐聚会及家庭接触为主，表现为明显的时间、职业集中趋势。分析有具体暴露时间和发病时间的石家庄市本土确诊病例116例，其潜伏期为6（3.3，10.0）d；有
+具体暴露时间窗和发病时间的石家庄市本土确诊病例264例，其中位数为8.5（95%CI 1.8~18.8）d。 结论：
+此次疫情暴发以农村地区为主，与聚会、聚餐及家庭聚集有关，应做好重点地区、重点人群的自我防护隔离，避免密切接触等措施，以减少COVID-19聚集性疫情的发生；根据此
+次疫情潜伏期结果，建议隔离时间应该延长至3周。.
+DOI: 10.3760/cma.j.cn112147-20210330-00212 
+PMID: 34758522  [Indexed for MEDLINE]
+

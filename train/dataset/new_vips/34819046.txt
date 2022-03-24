@@ -1,0 +1,49 @@
+
+1. BMC Gastroenterol. 2021 Nov 24;21(1):443. doi: 10.1186/s12876-021-01988-y.
+
+First report on molecular docking analysis and drug resistance substitutions to
+approved HCV NS5A and NS5B inhibitors amongst Iranian patients.
+
+Hasanshahi Z(1), Hashempour A(2), Ghasabi F(1), Moayedi J(1), Musavi Z(1),
+Dehghani B(1), Sharafi H(3)(4), Joulaei H(1).
+
+Author information: 
+(1)Shiraz HIV/AIDS Research Center, Institute of Health, Shiraz University of
+Medical Sciences, Shiraz, Iran.
+(2)Shiraz HIV/AIDS Research Center, Institute of Health, Shiraz University of
+Medical Sciences, Shiraz, Iran. thashem@sums.ac.ir.
+(3)Baqiyatallah Research Center for Gastroenterology and Liver Diseases,
+Baqiyatallah University of Medical Sciences, Tehran, Iran.
+(4)Middle East Liver Diseases (MELD) Center, Tehran, Iran.
+
+BACKGROUND: NS5A and NS5B proteins of hepatitis C virus (HCV) are the main
+targets of compounds that directly inhibit HCV infections. However, the emergence
+of resistance-associated substitutions (RASs) may cause substantial reductions in
+susceptibility to inhibitors.
+METHODS: Viral load and genotyping were determined in eighty-seven naïve
+HCV-infected patients, and the amplified NS5A and NS5B regions were sequenced by 
+Sanger sequencing. In addition, physicochemical properties, structural features, 
+immune epitopes, and inhibitors-protein interactions of sequences were analyzed
+using several bioinformatics tools.
+RESULTS: Several amino acid residue changes were found in NS5A and NS5B proteins;
+however, we did not find any mutations related to resistance to the treatment in 
+NS5B. Different phosphorylation and few glycosylation sites were assessed.
+Disulfide bonds were identified in both proteins that had a significant effect on
+the function and structure of HCV proteins. Applying reliable software to predict
+B-cell epitopes, 3 and 5 regions were found for NS5A and NS5B, respectively,
+representing a considerable potential to induce the humoral immune system.
+Docking analysis determined amino acids involved in the interaction of inhibitors
+and mentioned proteins may not decrease the drug efficiency.
+CONCLUSIONS: Strong interactions between inhibitors, NS5A and NS5B proteins and
+the lack of efficient drug resistance mutations in the analyzed sequences may
+confirm the remarkable ability of NS5A and NS5B inhibitors to control HCV
+infection amongst Iranian patients. The results of bioinformatics analysis could 
+unveil all features of both proteins, which can be beneficial for further
+investigations on HCV drug resistance and designing novel vaccines.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12876-021-01988-y 
+PMCID: PMC8612383
+PMID: 34819046  [Indexed for MEDLINE]
+

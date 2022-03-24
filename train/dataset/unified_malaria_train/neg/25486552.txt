@@ -1,0 +1,36 @@
+
+1. j microbiol methods. 2015 feb;109:1-8. doi: 10.1016/j.mimet.2014.11.016. epub
+2014 dec 5.
+
+in silico comparative genomics analysis plasmodium falciparum the
+identification putative essential genes therapeutic candidates.
+
+rout s(1), warhurst dc(2), suar m(1), mahapatra rk(3).
+
+author information: 
+(1)school biotechnology, kiit university, bhubaneswar 751024, orissa, india.
+(2)department pathogen molecular biology, london school hygiene and
+tropical medicine, london, united kingdom.
+(3)school biotechnology, kiit university, bhubaneswar 751024, orissa, india.
+electronic address: rmahapatra@kiitbiotech.ac.in.
+
+a sequence computational methods used predicting novel drug targets
+against drug resistant malaria parasite plasmodium falciparum. comparative
+genomics, orthologous protein analysis among malaria parasites and
+protein-protein interaction study provide us new insights determining the
+essential genes novel therapeutic candidates. among predicted list 21 
+essential proteins unique pathways, 11 proteins prioritized as
+anti-malarial drug targets. case study, built homology models two
+uncharacterized proteins using modeller v9.13 software possible templates.
+functional annotation proteins done interpro databases and
+from probis server comparison predicted binding site residues. model
+has subjected silico docking study screened potent lead compounds
+from zinc database dock blaster software using autodock 4. results from
+this study facilitate selection proteins putative inhibitors entry
+into drug design production pipelines.
+
+copyright © 2014 elsevier b.v. rights reserved.
+
+doi: 10.1016/j.mimet.2014.11.016 
+pmid: 25486552  [indexed medline]
+

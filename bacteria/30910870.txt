@@ -1,0 +1,42 @@
+
+1. RNA. 2019 Jun;25(6):685-701. doi: 10.1261/rna.069609.118. Epub 2019 Mar 25.
+
+Molecular mechanism of the RNA helicase DHX37 and its activation by UTP14A in
+ribosome biogenesis.
+
+Boneberg FM(1), Brandmann T(#)(1), Kobel L(#)(1), van den Heuvel J(#)(2),
+Bargsten K(1), Bammert L(2), Kutay U(2), Jinek M(1).
+
+Author information: 
+(1)Department of Biochemistry, University of Zurich, CH-8057 Zurich, Switzerland.
+(2)Department of Biology, Institute of Biochemistry, ETH Zurich, CH-8093 Zurich, 
+Switzerland.
+(#)Contributed equally
+
+Erratum in
+    RNA. 2019 Nov;25(11):1576.
+
+Eukaryotic ribosome biogenesis is a highly orchestrated process involving
+numerous assembly factors including ATP-dependent RNA helicases. The DEAH
+helicase DHX37 (Dhr1 in yeast) is activated by the ribosome biogenesis factor
+UTP14A to facilitate maturation of the small ribosomal subunit. We report the
+crystal structure of DHX37 in complex with single-stranded RNA, revealing a
+canonical DEAH ATPase/helicase architecture complemented by a structurally unique
+carboxy-terminal domain (CTD). Structural comparisons of the nucleotide-free
+DHX37-RNA complex with DEAH helicases bound to RNA and ATP analogs reveal
+conformational changes resulting in a register shift in the bound RNA, suggesting
+a mechanism for ATP-dependent 3'-5' RNA translocation. We further show that a
+conserved sequence motif in UTP14A interacts with and activates DHX37 by
+stimulating its ATPase activity and enhancing RNA binding. In turn, the CTD of
+DHX37 is required, but not sufficient, for interaction with UTP14A in vitro and
+is essential for ribosome biogenesis in vivo. Together, these results shed light 
+on the mechanism of DHX37 and the function of UTP14A in controlling its
+recruitment and activity during ribosome biogenesis.
+
+© 2019 Boneberg et al.; Published by Cold Spring Harbor Laboratory Press for the 
+RNA Society.
+
+DOI: 10.1261/rna.069609.118 
+PMCID: PMC6521606
+PMID: 30910870  [Indexed for MEDLINE]
+

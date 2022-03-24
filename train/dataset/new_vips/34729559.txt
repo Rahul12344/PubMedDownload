@@ -1,0 +1,48 @@
+
+1. bioRxiv. 2021 Oct 22. pii: 2021.10.21.465386. doi: 10.1101/2021.10.21.465386.
+
+Variations in cell-surface ACE2 levels alter direct binding of SARS-CoV-2 Spike
+protein and viral infectivity: Implications for measuring Spike protein
+interactions with animal ACE2 orthologs.
+
+Kazemi S, López-Muñoz AD, Hollý J, Jin L, Yewdell JW, Dolan BP.
+
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the causative
+agent of COVID-19, the most severe pandemic in a century. The virus gains access 
+to host cells when the viral Spike protein (S-protein) binds to the host
+cell-surface receptor angiotensin-converting enzyme 2 (ACE2). Studies have
+attempted to understand SARS-CoV-2 S-protein interaction with vertebrate
+orthologs of ACE2 by expressing ACE2 orthologs in mammalian cells and measuring
+viral infection or S-protein binding. Often these cells only transiently express 
+ACE2 proteins and levels of ACE2 at the cell surface are not quantified. Here, we
+describe a cell-based assay that uses stably transfected cells expressing ACE2
+proteins in a bi-cistronic vector with an easy to quantify reporter protein to
+normalize ACE2 expression. We found that both binding of the S-protein
+receptor-binding domain (RBD) and infection with a SARS-CoV-2 pseudovirus is
+proportional to the amount of human ACE2 expressed at the cell surface, which can
+be inferred by quantifying the level of reporter protein, Thy1.1. We also
+compared different ACE2 orthologs which were expressed in stably transfected
+cells expressing equivalent levels of Thy1.1. When ranked for either viral
+infectivity or RBD binding, mouse ACE2 had a weak to undetectable affinity for
+S-protein while human ACE2 was the highest level detected and feline ACE2 had an 
+intermediate phenotype. The generation of stably transfected cells whose ACE2
+level can be normalized for cross-ortholog comparisons allows us to create a
+reusable cellular library useful for measuring emerging SARS-CoV-2 variant's
+ability to potentially infect different animals.Importance: SARS-CoV-2 is a
+zoonotic virus responsible for the worst global pandemic in a century. An
+understanding of how the virus can infect other vertebrate species is important
+for controlling viral spread and understanding the natural history of the virus. 
+Here we describe a method to generate cells stably expressing equivalent levels
+of different ACE2 orthologs, the receptor for SARS-CoV-2, on the surface of a
+human cell line. We find that both binding of the viral Spike protein receptor
+binding domain (RBD) and infection of cells with a SARS-CoV-2 pseudovirus are
+proportional to ACE2 levels at the cell surface. Adaptation of this method will
+allow for the creation of a library of stable transfected cells expressing
+equivalent levels of different vertebrate ACE2 orthologs which can be repeatedly 
+used for identifying vertebrate species which may be susceptible to infection
+with SARS-CoV-2 and its many variants.
+
+DOI: 10.1101/2021.10.21.465386 
+PMCID: PMC8562541
+PMID: 34729559 
+

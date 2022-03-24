@@ -1,0 +1,42 @@
+
+1. Molecules. 2021 Oct 25;26(21). pii: 6436. doi: 10.3390/molecules26216436.
+
+Engineered Fully Human Single-Chain Monoclonal Antibodies to PIM2 Kinase.
+
+Kaewchim K(1)(2), Glab-Ampai K(2), Mahasongkram K(2), Chulanetra M(2), Seesuay
+W(2), Chaicumpa W(2), Sookrung N(2)(3).
+
+Author information: 
+(1)Graduate Program in Immunology, Department of Immunology, Faculty of Medicine 
+Siriraj Hospital, Mahidol University, Bangkok 10700, Thailand.
+(2)Center of Research Excellence on Therapeutic Proteins and Antibody
+Engineering, Department of Parasitology, Faculty of Medicine Siriraj Hospital,
+Mahidol University, Bangkok 10700, Thailand.
+(3)Biomedical Research Incubator Unit, Department of Research, Faculty of
+Medicine Siriraj Hospital, Mahidol University, Bangkok 10700, Thailand.
+
+Proviral integration site of Moloney virus-2 (PIM2) is overexpressed in multiple 
+human cancer cells and high level is related to poor prognosis; thus, PIM2 kinase
+is a rational target of anti-cancer therapeutics. Several chemical inhibitors
+targeting PIMs/PIM2 or their downstream signaling molecules have been developed
+for treatment of different cancers. However, their off-target toxicity is common 
+in clinical trials, so they could not be advanced to official approval for
+clinical application. Here, we produced human single-chain antibody fragments
+(HuscFvs) to PIM2 by using phage display library, which was constructed in a way 
+that a portion of phages in the library carried HuscFvs against human own
+proteins on their surface with the respective antibody genes in the phage genome.
+Bacterial derived-recombinant PIM2 (rPIM2) was used as an antigenic bait to fish 
+out the rPIM2-bound phages from the library. Three E. coli clones transfected
+with the HuscFv genes derived from the rPIM2-bound phages expressed HuscFvs that 
+bound also to native PIM2 from cancer cells. The HuscFvs presumptively interact
+with the PIM2 at the ATP binding pocket and kinase active loop. They were as
+effective as small chemical drug inhibitor (AZD1208, which is an ATP competitive 
+inhibitor of all PIM isoforms for ex vivo use) in inhibiting PIM kinase activity.
+The HuscFvs should be engineered into a cell-penetrating format and tested
+further towards clinical application as a novel and safe pan-anti-cancer
+therapeutics.
+
+DOI: 10.3390/molecules26216436 
+PMCID: PMC8588357
+PMID: 34770845 
+

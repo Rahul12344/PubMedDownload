@@ -1,0 +1,38 @@
+
+1. Appl Intell (Dordr). 2021 May 10:1-17. doi: 10.1007/s10489-021-02463-7. [Epub
+ahead of print]
+
+Mathematical modelling for decision making of lockdown during COVID-19.
+
+Ghosh A(1), Roy S(1), Mondal H(2), Biswas S(3), Bose R(1).
+
+Author information: 
+(1)Department of Computational Science, Brainware University, Kolkata, India.
+(2)Electronics and Communication Engineering, Dibrugarh University, Dibrugarh,
+Assam India.
+(3)Department of Computer Science and Engineering, Maulana Abul Kalam Azad
+University of Technology, Kolkata, West Bengal India.
+
+Due to the recent worldwide outbreak of COVID-19, there has been an enormous
+change in our lifestyle and it has a severe impact in different fields like
+finance, education, business, travel, tourism, economy, etc., in all the affected
+countries. In this scenario, people must be careful and cautious about the
+symptoms and should act accordingly. Accurate predictions of different factors,
+like the end date of the pandemic, duration of lockdown and spreading trend can
+guide us through the pandemic and precautions can be taken accordingly. Multiple 
+attempts have been made to model the virus transmission, but none of them has
+investigated it at a global level. The novelty of the proposed work lies here. In
+this paper, first, authors have analysed spreading of the said disease using data
+collected from various platforms and then, have presented a predictive
+mathematical model for fifteen countries from first, second and third world for
+probable future projections of this pandemic. The prediction can be used by
+planning commission, healthcare organizations and the government agencies as well
+for creating suitable arrangements against this pandemic.
+
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC,
+part of Springer Nature 2021.
+
+DOI: 10.1007/s10489-021-02463-7 
+PMCID: PMC8109847
+PMID: 34764599 
+

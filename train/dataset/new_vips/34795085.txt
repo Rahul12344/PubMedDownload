@@ -1,0 +1,29 @@
+
+1. Stud Health Technol Inform. 2021 Nov 18;287:78-82. doi: 10.3233/SHTI210818.
+
+Improving the FAIRness of Health Studies in Germany: The German Central Health
+Study Hub COVID-19.
+
+Darms J(1), Henke J(2), Hu X(3), Schmidt CO(2), Golebiewski M(3), Fluck J(1);
+NFDI4Health Task Force COVID-19.
+
+Author information: 
+(1)ZB MED - Information center for Live Sciences, Germany.
+(2)University Medicine of Greifswald, Germany.
+(3)Heidelberg Institute for Theoretical Studies, Germany.
+
+The German Central Health Study Hub COVID-19 is an online service that offers
+bundled access to COVID-19 related studies conducted in Germany. It combines
+metadata and other information of epidemiologic, public health and clinical
+studies into a single data repository for FAIR data access. In addition to study 
+characteristics the system also allows easy access to study documents, as well as
+instruments for data collection. Study metadata and survey instruments are
+decomposed into individual data items and semantically enriched to ease the
+findability. Data from existing clinical trial registries (DRKS,
+clinicaltrails.gov and WHO ICTRP) are merged with epidemiological and public
+health studies manually collected and entered. More than 850 studies are listed
+as of September 2021.
+
+DOI: 10.3233/SHTI210818 
+PMID: 34795085  [Indexed for MEDLINE]
+

@@ -1,0 +1,59 @@
+
+1. J Clin Invest. 2019 Feb 25;129(4):1551-1565. doi: 10.1172/JCI121491. eCollection 
+2019 Feb 25.
+
+T cells genetically engineered to overcome death signaling enhance adoptive
+cancer immunotherapy.
+
+Yamamoto TN(1)(2)(3), Lee PH(1)(2), Vodnala SK(1)(2), Gurusamy D(1)(2), Kishton
+RJ(1)(2), Yu Z(1)(2), Eidizadeh A(1)(2), Eil R(4), Fioravanti J(5), Gattinoni
+L(5), Kochenderfer JN(5), Fry TJ(6), Aksoy BA(7), Hammerbacher JE(7), Cruz AC(8),
+Siegel RM(8), Restifo NP(1)(2)(3), Klebanoff CA(9)(10)(11).
+
+Author information: 
+(1)Center for Cancer Research and.
+(2)Center for Cell-Based Therapy, National Cancer Institute (NCI), NIH, Bethesda,
+Maryland, USA.
+(3)Immunology Graduate Group, University of Pennsylvania, Philadelphia,
+Pennsylvania, USA.
+(4)Memorial Sloan Kettering Cancer Center (MSKCC), New York, New York, USA.
+(5)Experimental Transplantation and Immunology Branch, NCI, NIH, Bethesda,
+Maryland, USA.
+(6)Children's Hospital Colorado, University of Colorado Denver, Aurora, Colorado,
+USA.
+(7)Department of Microbiology and Immunology, Medical University of South
+Carolina, Charleston, South Carolina, USA.
+(8)National Institute of Arthritis and Musculoskeletal and Skin Diseases, NIH,
+Bethesda, Maryland, USA.
+(9)Parker Institute for Cancer Immunotherapy, New York, New York, USA.
+(10)Center for Cell Engineering and Department of Medicine, MSKCC, New York, New 
+York, USA.
+(11)Weill Cornell Medical College, New York, New York, USA.
+
+Comment in
+    J Clin Invest. 2019 Feb 25;129(4):1522-1523.
+
+Across clinical trials, T cell expansion and persistence following adoptive cell 
+transfer (ACT) have correlated with superior patient outcomes. Herein, we
+undertook a pan-cancer analysis to identify actionable ligand-receptor pairs
+capable of compromising T cell durability following ACT. We discovered that
+FASLG, the gene encoding the apoptosis-inducing ligand FasL, is overexpressed
+within the majority of human tumor microenvironments (TMEs). Further, we
+uncovered that Fas, the receptor for FasL, is highly expressed on patient-derived
+T cells used for clinical ACT. We hypothesized that a cognate Fas-FasL
+interaction within the TME might limit both T cell persistence and antitumor
+efficacy. We discovered that genetic engineering of Fas variants impaired in the 
+ability to bind FADD functioned as dominant negative receptors (DNRs), preventing
+FasL-induced apoptosis in Fas-competent T cells. T cells coengineered with a Fas 
+DNR and either a T cell receptor or chimeric antigen receptor exhibited enhanced 
+persistence following ACT, resulting in superior antitumor efficacy against
+established solid and hematologic cancers. Despite increased longevity, Fas
+DNR-engineered T cells did not undergo aberrant expansion or mediate
+autoimmunity. Thus, T cell-intrinsic disruption of Fas signaling through genetic 
+engineering represents a potentially universal strategy to enhance ACT efficacy
+across a broad range of human malignancies.
+
+DOI: 10.1172/JCI121491 
+PMCID: PMC6436880
+PMID: 30694219  [Indexed for MEDLINE]
+

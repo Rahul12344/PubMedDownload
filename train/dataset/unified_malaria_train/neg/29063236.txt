@@ -1,0 +1,66 @@
+
+1. arch gynecol obstet. 2018 jan;297(1):161-183. doi: 10.1007/s00404-017-4562-y.
+epub 2017 oct 23.
+
+identification differentially expressed genes regulated molecular signature
+in breast cancer-associated fibroblasts bioinformatics analysis.
+
+vastrad b(1), vastrad c(2), tengli a(3), iliger s(4).
+
+author information: 
+(1)department pharmaceutics, set's college pharmacy, dharwad, karnataka,
+580002, india. basavarajmv@gmail.com.
+(2)department computer science, karnataka university, dharwad, karnataka,
+580002, india.
+(3)department pharmaceutical chemistry, jss college pharmacy, jagadguru sri
+shivarathreeshwara university mysuru, mysuru, karnataka, 570015, india.
+(4)department pharmaceutics, set's college pharmacy, dharwad, karnataka,
+580002, india.
+
+objective: breast cancer severe risk public health adequately
+convoluted pathogenesis. therefore, description key molecular markers 
+pathways much importance clarifying molecular mechanism breast
+cancer-associated fibroblasts initiation progression. breast
+cancer-associated fibroblasts gene expression dataset downloaded gene
+expression omnibus database.
+methods: total nine samples, including three normal fibroblasts, three
+granulin-stimulated fibroblasts three cancer-associated fibroblasts samples, 
+were used identify differentially expressed genes (degs) normal
+fibroblasts, granulin-stimulated fibroblasts cancer-associated fibroblasts
+samples. gene ontology (go) pathway enrichment analysis performed,
+and protein-protein interaction (ppi) network degs constructed by
+networkanalyst software.
+results: totally, 190 degs identified, including 66 up-regulated 124
+down-regulated genes. go analysis results showed up-regulated degs were
+significantly enriched biological processes (bp), including cell-cell
+signalling negative regulation cell proliferation; molecular function
+(mf), including insulin-like growth factor ii binding insulin-like growth
+factor binding; cellular component (cc), including insulin-like growth factor
+binding protein complex integral component plasma membrane; the
+down-regulated degs significantly enriched bp, including cell adhesion
+and extracellular matrix organization; mf, including n-acetylgalactosamine
+4-sulfate 6-o-sulfotransferase activity calcium ion binding; cc, including
+extracellular space extracellular matrix. wikipathways analysis showed the
+up-regulated degs enriched myometrial relaxation contraction
+pathways. wikipathways, reactome, pid_nci kegg pathway analysis showed the
+down-regulated degs enriched endochondral ossification, tgf beta signalling 
+pathway, integrin cell surface interactions, beta1 integrin cell surface
+interactions, malaria glycosaminoglycan biosynthesis-chondroitin
+sulfate/dermatan sulphate. top 5 up-regulated hub genes, cdkn2a, mme, pbx1,
+igfbp3, tfap2c top 5 down-regulated hub genes vcam1, krt18, tgm2, acta2, 
+and stambp identified ppi network, subnetworks revealed these
+genes involved significant pathways, including myometrial relaxation 
+contraction pathways, integrin cell surface interactions, beta1 integrin cell
+surface interaction. besides, target hsa-mirs degs identified.
+hsa-mir-759, hsa-mir-4446-5p, hsa-mir-219a-1-3p hsa-mir-26a-5p important
+mirnas study.
+conclusions: pinpoint important key genes pathways closely related with
+breast cancer-associated fibroblasts initiation progression series of
+bioinformatics analysis degs. screened genes pathways provided a
+more detailed molecular mechanism underlying breast cancer-associated fibroblasts
+occurrence progression, holding promise acting molecular markers and
+probable therapeutic targets.
+
+doi: 10.1007/s00404-017-4562-y 
+pmid: 29063236  [indexed medline]
+

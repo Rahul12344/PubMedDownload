@@ -1,0 +1,60 @@
+
+1. Mol Ther Oncolytics. 2021 Jan 26;20:352-363. doi: 10.1016/j.omto.2021.01.014.
+eCollection 2021 Mar 26.
+
+HDAC inhibition prevents transgene expression downregulation and loss-of-function
+in T-cell-receptor-transduced T cells.
+
+Moore TV(1), Scurti GM(1), DeJong M(1), Wang SY(2), Dalheim AV(1), Wagner CR(2), 
+Hutchens KA(3), Speiser JJ(3), Godellas CV(1), Fountain C(4), Fleser J(5),
+Moudgil T(6), Thomas M(1), Murray D(1), Curti BD(6), Clark JI(2), Fox BA(6)(7),
+Nishimura MI(1).
+
+Author information: 
+(1)Department of Surgery, Loyola University Chicago, 2160 S. 1st Avenue, Maywood,
+IL 60153, USA.
+(2)Department of Medicine, Loyola University Chicago, 2160 S. 1st Avenue,
+Maywood, IL 60153, USA.
+(3)Department of Pathology, Loyola University Medical Center, 2160 S. 1st Avenue,
+Maywood, IL 60153, USA.
+(4)Providence Cancer Center Clinical Trials-Melanoma and Brain Cancer, 4805
+Northeast Glisan Street, Portland, OR 97213, USA.
+(5)Robert W. Franz Cancer Research Center, Earle A. Chiles Research Institute,
+Portland, OR 97213, USA.
+(6)Laboratory of Molecular and Tumor Immunology, Robert W. Franz Cancer Research 
+Center, Earle A. Chiles Research Institute, Providence Cancer Center, Portland,
+OR 97213, USA.
+(7)Department of Molecular Microbiology and Immunology and Knight Cancer
+Institute, Oregon Health and Science University, Portland, OR 97210, USA.
+
+T cells that are gene-modified with tumor-specific T cell receptors are a
+promising treatment for metastatic melanoma patients. In a clinical trial, we
+treated seven metastatic melanoma patients with autologous T cells transduced to 
+express a tyrosinase-reactive T cell receptor (TCR) (TIL 1383I) and a truncated
+CD34 molecule as a selection marker. We followed transgene expression in the
+TCR-transduced T cells after infusion and observed that both lentiviral- and
+retroviral-transduced T cells lost transgene expression over time, so that by
+4 weeks post-transfer, few T cells expressed either lentiviral or retroviral
+transgenes. Transgene expression was reactivated by stimulation with
+anti-CD3/anti-CD28 beads and cytokines. TCR-transduced T cell lentiviral and
+retroviral transgene expression was also downregulated in vitro when T cells were
+cultured without cytokines. Transduced T cells cultured with interleukin (IL)-15 
+maintained transgene expression. Culturing gene-modified T cells in the presence 
+of histone deacetylase (HDAC) inhibitors maintained transgene expression and
+functional TCR-transduced T cell responses to tumor. These results implicate
+epigenetic processes in the loss of transgene expression in lentiviral- and
+retroviral-transduced T cells.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.omto.2021.01.014 
+PMCID: PMC7878989
+PMID: 33614916 
+
+Conflict of interest statement: T.V.M. G.M.S., M.D., S.Y.W., A.V.D, C.R.W.,
+K.A.H., J.J.S., C.V.G., C.F., J.F., T.M., M.T., D.M., B.D.C. B.A.F., and M.I.N.
+have no conflicts of interest to disclose. J.I.C. is on the speakers’ bureau for 
+Bristol Meyers Squibb (BMS) and Merck; is a consultant for Clinigen; receives
+research support (to institution) from BMS, Prometheus, AVEO, and
+Roche/Genentech; and has a family member employed full time by BMS.
+

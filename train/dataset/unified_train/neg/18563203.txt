@@ -1,0 +1,43 @@
+
+1. plos one. 2008 jun 18;3(6):e2500. doi: 10.1371/journal.pone.0002500.
+
+optimal probe length varies targets high sequence variation:
+implications probe library design resequencing highly variable genes.
+
+haslam nj(1), whiteford ne, weber g, prügel-bennett a, essex jw, neylon c.
+
+author information: 
+(1)school chemistry, university southampton, southhampton, united kingdom. 
+haslam@embl.de
+
+background: sequencing hybridisation effective method obtaining
+large amounts dna sequence information low cost. efficiency sbh
+depends design probe library provide maximum information for
+minimum cost. long probes provide higher probability non-repeated sequences 
+but lead increase number probes required whereas short probes may
+not provide unique sequence information due repeated sequences. have
+investigated effect probe length, use reference sequences, thermal 
+filtering design probe libraries several highly variable target dna
+sequences.
+results: designed overlapping probe libraries range highly variable
+drug target genes based known sequence information develop formal
+terminology describe probe library design. find targets these
+libraries provide good coverage previously unseen target whereas for
+others coverage less 30%. optimal probe length varies as
+short 12 nt large 19 nt depends sequence, variability,
+and stringency thermal filtering. cannot determined inspection 
+of example gene sequence.
+conclusions: optimal probe length optimal number reference sequences
+used design probe library highly target specific highly variable
+sequencing targets. optimum design cannot determined simply inspection 
+of input sequences alignments detailed analysis each
+specific target. highly variable sequences, shorter probes cases 
+provide better information longer probes. probe library design would benefit
+from general purpose tool analysing issues. formal terminology
+developed analysis approaches used describe contribute
+to development tools.
+
+doi: 10.1371/journal.pone.0002500 
+pmcid: pmc2430613
+pmid: 18563203  [indexed medline]
+

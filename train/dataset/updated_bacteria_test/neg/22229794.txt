@@ -1,0 +1,36 @@
+
+1. Biochemistry. 2012 Jan 31;51(4):879-87. doi: 10.1021/bi201768v. Epub 2012 Jan 17.
+
+Essential role of the donor acyl carrier protein in stereoselective chain
+translocation to a fully reducing module of the nanchangmycin polyketide
+synthase.
+
+Guo X(1), Liu T, Deng Z, Cane DE.
+
+Author information: 
+(1)Department of Chemistry, Brown University, Providence, Rhode Island
+02912-9108, United States.
+
+Incubation of recombinant module 2 of the polyether nanchangmycin synthase
+(NANS), carrying an appended thioesterase domain, with the ACP-bound substrate
+(2RS)-2-methyl-3-ketobutyryl-NANS_ACP1 (2-ACP1) and methylmalonyl-CoA in the
+presence of NADPH gave diastereomerically pure
+(2S,4R)-2,4-dimethyl-5-ketohexanoic acid (4a). These results contrast with the
+previously reported weak discrimination by NANS module 2+TE between the
+enantiomers of the corresponding N-acetylcysteamine-conjugated substrate analogue
+(±)-2-methyl-3-ketobutyryl-SNAC (2-SNAC), which resulted in formation of a 5:3
+mixture of 4a and its (2S,4S)-diastereomer 4b. Incubation of NANS module 2+TE
+with 2-ACP1 in the absence of NADPH gave unreduced
+3,5,6-trimethyl-4-hydroxypyrone (3) with a k(cat) of 4.4 ± 0.9 min⁻¹ and a
+k(cat)/K(m) of 67 min⁻¹ mM⁻¹, corresponding to a ∼2300-fold increase compared to 
+the k(cat)/K(m) for the diffusive substrate 2-SNAC. Covalent tethering of the
+2-methyl-3-ketobutyryl thioester substrate to the NANS ACP1 domain derived from
+the natural upstream PKS module of the nanchangmycin synthase significantly
+enhanced both the stereospecificity and the kinetic efficiency of the sequential 
+polyketide chain translocation and condensation reactions catalyzed by the
+ketosynthase domain of NANS module 2.
+
+DOI: 10.1021/bi201768v 
+PMCID: PMC3273620
+PMID: 22229794  [Indexed for MEDLINE]
+

@@ -1,0 +1,55 @@
+
+1. PLoS One. 2021 Nov 18;16(11):e0259712. doi: 10.1371/journal.pone.0259712.
+eCollection 2021.
+
+Nanopore metagenomic sequencing for detection and characterization of SARS-CoV-2 
+in clinical samples.
+
+Gauthier NPG(1), Nelson C(2), Bonsall MB(2), Locher K(3)(4), Charles M(3)(4),
+MacDonald C(3)(4), Krajden M(4)(5), Chorlton SD(4)(6), Manges AR(5)(7).
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of British Columbia,
+Vancouver, British Columbia, Canada.
+(2)Mathematical Ecology Research Group, Department of Zoology, University of
+Oxford, Oxford, United Kingdom.
+(3)Division of Medical Microbiology, Vancouver General Hospital, Vancouver,
+British Columbia, Canada.
+(4)Department of Pathology and Laboratory Medicine, University of British
+Columbia, Vancouver, British Columbia, Canada.
+(5)British Columbia Centre for Disease Control, Vancouver, British Columbia,
+Canada.
+(6)BugSeq Bioinformatics Inc, Vancouver, British Columbia, Canada.
+(7)School of Population and Public Health, University of British Columbia,
+Vancouver, British Columbia, Canada.
+
+OBJECTIVES: The COVID-19 pandemic has underscored the need for rapid novel
+diagnostic strategies. Metagenomic Next-Generation Sequencing (mNGS) may allow
+for the detection of pathogens that can be missed in targeted assays. The goal of
+this study was to assess the performance of nanopore-based Sequence-Independent
+Single Primer Amplification (SISPA) for the detection and characterization of
+SARS-CoV-2.
+METHODS: We performed mNGS on clinical samples and designed a diagnostic
+classifier that corrects for barcode crosstalk between specimens. Phylogenetic
+analysis was performed on genome assemblies.
+RESULTS: Our assay yielded 100% specificity overall and 95.2% sensitivity for
+specimens with a RT-PCR cycle threshold value less than 30. We assembled 10
+complete, and one near-complete genomes from 20 specimens that were classified as
+positive by mNGS. Phylogenetic analysis revealed that 10/11 specimens from
+British Columbia had a closest relative to another British Columbian specimen. We
+found 100% concordance between phylogenetic lineage assignment and Variant of
+Concern (VOC) PCR results. Our assay was able to distinguish between the Alpha
+and Gamma variants, which was not possible with the current standard VOC PCR
+being used in British Columbia.
+CONCLUSIONS: This study supports future work examining the broader feasibility of
+nanopore mNGS as a diagnostic strategy for the detection and characterization of 
+viral pathogens.
+
+DOI: 10.1371/journal.pone.0259712 
+PMCID: PMC8601544
+PMID: 34793508  [Indexed for MEDLINE]
+
+Conflict of interest statement: SDC holds equity in BugSeq Bioinformatics Inc.
+This does not alter our adherence to PLOS ONE policies on sharing data and
+materials.
+

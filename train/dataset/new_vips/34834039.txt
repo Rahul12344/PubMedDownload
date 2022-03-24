@@ -1,0 +1,41 @@
+
+1. Molecules. 2021 Nov 17;26(22). pii: 6947. doi: 10.3390/molecules26226947.
+
+Ultrasensitive Detection of COVID-19 Causative Virus (SARS-CoV-2) Spike Protein
+Using Laser Induced Graphene Field-Effect Transistor.
+
+Cui TR(1)(2), Qiao YC(1)(2), Gao JW(3), Wang CH(3), Zhang Y(3), Han L(3), Yang
+Y(1)(2), Ren TL(1)(2)(4).
+
+Author information: 
+(1)School of Integrated Circuit, Tsinghua University, Beijing 100084, China.
+(2)Beijing National Research Center for Information Science and Technology
+(BNRist), Tsinghua University, Beijing 100084, China.
+(3)Institute of Marine Science and Technology, Shandong University, Qingdao
+266237, China.
+(4)Center for Flexible Electronics Technology, Tsinghua University, Beijing
+100084, China.
+
+COVID-19 is a highly contagious human infectious disease caused by the severe
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and the war with the virus
+is still underway. Since no specific drugs have been made available yet and there
+is an imbalance between supply and demand for vaccines, early diagnosis and
+isolation are essential to control the outbreak. Current nucleic acid testing
+methods require high sample quality and laboratory conditions, which cannot meet 
+flexible applications. Here, we report a laser-induced graphene field-effect
+transistor (LIG-FET) for detecting SARS-CoV-2. The FET was manufactured by
+different reduction degree LIG, with an oyster reef-like porous graphene channel 
+to enrich the binding point between the virus protein and sensing area. After
+immobilizing specific antibodies in the channel, the FET can detect the
+SARS-CoV-2 spike protein in 15 min at a concentration of 1 pg/mL in
+phosphate-buffered saline (PBS) and 1 ng/mL in human serum. In addition, the
+sensor shows great specificity to the spike protein of SARS-CoV-2. Our sensors
+can realize fast production for COVID-19 rapid testing, as each LIG-FET can be
+fabricated by a laser platform in seconds. It is the first time that LIG has
+realized a virus sensing FET without any sample pretreatment or labeling, which
+paves the way for low-cost and rapid detection of COVID-19.
+
+DOI: 10.3390/molecules26226947 
+PMCID: PMC8621829
+PMID: 34834039 
+

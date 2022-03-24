@@ -1,0 +1,45 @@
+
+1. malar j. 2010 jun 9;9:155. doi: 10.1186/1475-2875-9-155.
+
+cerebral malaria: insights host-parasite protein-protein interactions.
+
+rao a(1), kumar mk, joseph t, bulusu g.
+
+author information: 
+(1)life sciences division, tcs innovation labs hyderabad, tata consultancy
+services ltd, 1, software units layout, madhapur, hyderabad-500081, india.
+adityar.rao@tcs.com
+
+background: cerebral malaria form human malaria wherein plasmodium
+falciparum-infected red blood cells adhere blood capillaries brain,
+potentially leading coma death. interactions parasite host
+proteins important understanding pathogenesis deadly form of
+malaria. is, therefore, necessary study available protein-protein
+interactions identify lesser known interactions could throw light key 
+events cerebral malaria.
+methods: sequestration, haemostasis dysfunction, systemic inflammation and
+neuronal damage key processes cerebral malaria. key events identified
+from literature crucial processes. integrated interactome
+was created using available experimental predicted datasets well from
+literature. interactions interactome filtered based gene
+ontology tissue-specific annotations, analysed relevance to
+the key events.
+results: pfemp1 presentation, platelet activation astrocyte dysfunction 
+identified key events influencing disease. 48896 host-parasite along
+with host-parasite, host-host parasite-parasite protein-protein
+interactions obtained disease-specific corpus combined form an
+integrated interactome. filtering interactome resulted five
+host-parasite ppi, six parasite-parasite two host-host ppi. analysis of
+these interactions revealed potential significance apolipoproteins and
+temperature/hsp expression efficient pfemp1 presentation; role msp-1 in
+platelet activation; effect parasite proteins tgf-beta regulation the
+role albumin astrocyte dysfunction.
+conclusions: work links key host-parasite, parasite-parasite host-host
+protein-protein interactions key processes cerebral malaria generates
+hypotheses disease pathogenesis based filtered interaction dataset.
+these hypotheses provide novel significant insights cerebral malaria.
+
+doi: 10.1186/1475-2875-9-155 
+pmcid: pmc2891816
+pmid: 20529383  [indexed medline]
+

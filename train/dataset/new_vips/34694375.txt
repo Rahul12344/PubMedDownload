@@ -1,0 +1,94 @@
+
+1. Clin Infect Dis. 2021 Oct 25. pii: ciab902. doi: 10.1093/cid/ciab902. [Epub ahead
+of print]
+
+Severe dysbiosis and specific Haemophilus and Neisseria signatures as hallmarks
+of the oropharyngeal microbiome in critically ill COVID-19 patients.
+
+de Castilhos J(1)(2), Zamir E(1), Hippchen T(3), Rohrbach R(1), Schmidt S(1),
+Hengler S(1), Schumacher H(1), Neubauer M(4), Kunz S(5), Müller-Esch T(5),
+Hiergeist A(6), Gessner A(6), Khalid D(7), Gaiser R(1), Cullin N(1),
+Papagiannarou SM(1), Beuthien-Baumann B(8), Krämer A(9), Bartenschlager
+R(10)(11), Jäger D(12), Müller M(13), Herth F(13), Duerschmied D(14), Schneider
+J(15), Schmid RM(15), Eberhardt JF(16), Khodamoradi Y(16), Vehreschild
+MJGT(16)(17), Teufel A(18), Ebert MP(18), Hau P(19), Salzberger B(20), Schnitzler
+P(7), Poeck H(5)(21), Elinav E(1)(22), Merle U(3), Stein-Thoeringer CK(1)(12).
+
+Author information: 
+(1)German Cancer Research Center (DKFZ), Research Division Microbiome and Cancer,
+Heidelberg, Germany.
+(2)Vale do Rio dos Sinos University (UNISINOS), Sao Leopoldo, Brazil.
+(3)Department of Gastroenterology and Infectious Diseases, University Clinic
+Heidelberg, Heidelberg, Germany.
+(4)Department of Medicine II, Medical Faculty Mannheim, University of Heidelberg,
+Mannheim, Germany.
+(5)Department of Internal Medicine III, University Clinic Regensburg, Regensburg,
+Germany.
+(6)Institute of Clinical Microbiology and Hygiene, University Clinic Regensburg, 
+Regensburg, Germany.
+(7)Department of Virology, University Clinic Heidelberg, Heidelberg, Germany.
+(8)German Cancer Research Center (DKFZ), Research Division Radiology, Heidelberg,
+Germany.
+(9)German Cancer Research Center (DKFZ), Research Division Molecular
+Hematology/Oncology, Heidelberg, Germany.
+(10)Department of Infectious Diseases, Molecular Virology, Heidelberg University,
+Heidelberg, Germany.
+(11)German Cancer Research Center (DKFZ), Research Division Virus-associated
+Carcinogenesis, Heidelberg.
+(12)National Center for Tumor Diseases (NCT) Heidelberg, Heidelberg, Germany.
+(13)Thoraxklinik and Translational Lung Research Center, Heidelberg University,
+Heidelberg, Germany.
+(14)Department of Internal Medicine III, Medical Center, Faculty of Medicine,
+University of Freiburg, Freiburg, Germany.
+(15)Department of Internal Medicine II, Klinikum rechts der Isar, Technical
+University of Munich, Munich, Germany.
+(16)Department of Internal Medicine, Infectious Diseases, University Hospital
+Frankfurt, Frankfurt, Germany.
+(17)German Center for Infection Research (DZIF), Partner Site Bonn-Cologne,
+Cologne, Germany.
+(18)Department of Medicine II, Section of Hepatology, University Medical Center
+Mannheim, University of Heidelberg, Mannheim, and Center for Preventive Medicine 
+and Digital Health Baden-Württemberg, Medical Faculty Mannheim, Heidelberg
+University, Mannheim, Germany.
+(19)Wilhelm Sander-NeuroOncology Unit and Department of Neurology, University
+Clinic Regensburg, Regensburg, Germany.
+(20)Department of Infectious Disease, University Clinic Regensburg, Regensburg,
+Germany.
+(21)National Center for Tumor Diseases (NCT) WERA.
+(22)Weizmann Institute of Science, Rehovot, Israel.
+
+BACKGROUND: At the entry site of respiratory virus infections, the oropharyngeal 
+microbiome has been proposed as a major hub integrating viral and host immune
+signals. Early studies suggested that infections with Coronavirus 2 (SARS-CoV-2) 
+are associated with changes of the upper and lower airway microbiome, and that
+specific microbial signatures may predict COVID-19 illness. However, the results 
+are not conclusive, as critical illness can drastically alter a patient's
+microbiome through multiple confounders.
+METHODS: To study oropharyngeal microbiome profiles in SARS-CoV-2 infection,
+clinical confounders, and prediction models in COVID-19, we performed a
+multi-center, cross-sectional clinical study analyzing oropharyngeal microbial
+metagenomes in healthy adults, patients with non-SARS-CoV-2 infections, or with
+mild, moderate and severe COVID-19 (n=322 participants).
+RESULTS: In contrast to mild infections, patients admitted to a hospital with
+moderate or severe COVID-19 showed dysbiotic microbial configurations, which were
+significantly pronounced in patients treated with broad-spectrum antibiotics,
+receiving invasive mechanical ventilation, or when sampling was performed during 
+prolonged hospitalization. In contrast, specimens collected early after admission
+allowed us to segregate microbiome features predictive of hospital COVID-19
+mortality utilizing machine learning models. Taxonomic signatures were found to
+perform better than models utilizing clinical variables with Neisseria and
+Haemophilus species abundances as most important features.
+CONCLUSION: In addition to the infection per se, several factors shape the
+oropharyngeal microbiome of severely affected COVID-19 patients and deserve
+consideration in the interpretation of the role of the microbiome in severe
+COVID-19. Nevertheless, we were able to extract microbial features that can help 
+to predict clinical outcomes.
+
+© The Author(s) 2021. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/cid/ciab902 
+PMCID: PMC8586732
+PMID: 34694375 
+

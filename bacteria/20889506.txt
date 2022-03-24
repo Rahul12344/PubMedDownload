@@ -1,0 +1,39 @@
+
+1. J Biol Chem. 2010 Dec 10;285(50):38781-7. doi: 10.1074/jbc.M110.152173. Epub 2010
+Oct 1.
+
+CCR7/CCL21 migration on fibronectin is mediated by phospholipase Cgamma1 and
+ERK1/2 in primary T lymphocytes.
+
+Shannon LA(1), Calloway PA, Welch TP, Vines CM.
+
+Author information: 
+(1)Department of Microbiology, Molecular Genetics, and Immunology, The University
+of Kansas Medical Center, Kansas City, Kansas 66160, USA.
+
+CCR7 binds to its cognate ligand, CCL21, to mediate the migration of circulating 
+naive T lymphocytes to the lymph nodes. T lymphocytes can bind to fibronectin, a 
+constituent of lymph nodes, via their β1 integrins, which is a primary mechanism 
+of T lymphocyte migration; however, the signaling pathways involved are unclear. 
+We report that rapid (within 2 min) and transient phosphorylation of ERK1/2 is
+required for T cell migration on fibronectin in response to CCL21. Conversely,
+prevention of ERK1/2 phosphorylation by inhibition of its kinase, MAPK/MEK,
+prevented T lymphocyte migration. Previous studies have suggested that
+phospholipase Cγ1 (PLCγ1) can mediate phosphorylation of ERK1/2, which is
+required for β1 integrin activation. Paradoxically, we found that inhibition of
+PLCγ1 phosphorylation by the general PLC inhibitor U73122 was associated with a
+delayed and reduced phosphorylation of ERK1/2 and reduced migration of T
+lymphocytes on fibronectin. To further characterize the relationship between
+ERK1/2 and PLCγ1, we reduced PLCγ1 levels by 85% using shRNA and observed a
+reduced phosphorylation of ERK1/2 and a significant loss of CCR7-mediated
+migration of T lymphocytes on fibronectin. In addition, we found that inhibition 
+of ERK1/2 phosphorylation by U0126 resulted in a decreased phosphorylation of
+PLCγ1, suggesting a feedback loop between ERK1/2 and PLCγ1. Overall, these
+results suggest that the CCR7 signaling pathway leading to T lymphocyte migration
+on fibronectin is a β1 integrin-dependent pathway involving transient ERK1/2
+phosphorylation, which is modulated by PLCγ1.
+
+DOI: 10.1074/jbc.M110.152173 
+PMCID: PMC2998076
+PMID: 20889506  [Indexed for MEDLINE]
+

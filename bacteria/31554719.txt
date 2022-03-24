@@ -1,0 +1,55 @@
+
+1. mSphere. 2019 Sep 25;4(5). pii: e00391-19. doi: 10.1128/mSphere.00391-19.
+
+Multiple β-Lactam Resistance Gene-Carrying Plasmid Harbored by Klebsiella
+quasipneumoniae Isolated from Urban Sewage in Japan.
+
+Suzuki Y(1), Ida M(2), Kubota H(2), Ariyoshi T(2), Murakami K(2), Kobayashi M(2),
+Kato R(2), Hirai A(2), Suzuki J(2), Sadamasu K(2).
+
+Author information: 
+(1)Department of Microbiology, Tokyo Metropolitan Institute of Public Health,
+Tokyo, Japan ysuzuki@vmas.kitasato-u.ac.jp.
+(2)Department of Microbiology, Tokyo Metropolitan Institute of Public Health,
+Tokyo, Japan.
+
+The continuous emergence of carbapenemase-producing Enterobacteriaceae (CPE)
+presents a great public health challenge. Mitigation of CPE spread in the
+environment is crucial, particularly from a One Health perspective. Here we
+describe the isolation of CPE strain SNI47 from influent water of a sewage
+treatment plant in Japan. SNI47 was identified as Klebsiella quasipneumoniae
+subsp. quasipneumoniae by phylogenetic analysis and was resistant to β-lactams,
+including carbapenems. Of four plasmids detected from SNI47, the 185,311-bp
+IncA/C2 plasmid (pTMSNI47-1), which carried 10 drug resistance genes, including
+genes for four β-lactamases (bla CTX-M-2, bla DHA-1, bla KHM-1, and bla OXA-10), 
+was transferred to Escherichia coli J53 via conjugation. The MICs of all tested
+β-lactams for the transconjugant were higher than for the recipient. We
+constructed recombinant plasmids, into which each β-lactamase gene was inserted, 
+and used them to transform E. coli DH5α cells, demonstrating that KHM-1 enhanced 
+carbapenem resistance. In addition, these β-lactamases were responsible for a
+wide-spectrum β-lactam resistance acquisition with mutual compensation. KHM-1,
+recognized as a rare type of metallo-β-lactamase, was detected in a transferable 
+plasmid, from a sewage treatment plant, involved in horizontal gene transfer. The
+detection of such plasmids raises a health risk alarm for CPE
+dissemination.IMPORTANCE In our investigation of urban wastewater in Japan,
+carbapenem-resistant Klebsiella quasipneumoniae subsp. quasipneumoniae was
+isolated that carried the pTMSNI47-1 plasmid, which carries four β-lactamase
+genes and has transferability among Enterobacteriaceae pTMSNI47-1 was found to
+encode a rarely reported carbapenemase, KHM-1. Cooperative effects of
+β-lactamases encoded by pTMSNI47-1 appeared to have broad-spectrum resistance to 
+β-lactams. The detection of the KHM-1 gene in urban wastewater suggests that such
+a rare antimicrobial resistance (AMR) gene can be pooled in the environment,
+potentially emerging as an AMR determinant in a pathogen. When the number of
+β-lactamase resistance genes is increased in one plasmid, the transfer of this
+plasmid can confer broad-spectrum resistance to β-lactams, even if the individual
+gene confers narrow-spectrum resistance. The present study adds important
+information about the potential risk of sewage treatment plants as reservoirs and
+environmental suppliers of AMR genes, contributing to the public health from a
+One Health perspective.
+
+Copyright © 2019 Suzuki et al.
+
+DOI: 10.1128/mSphere.00391-19 
+PMCID: PMC6763765
+PMID: 31554719  [Indexed for MEDLINE]
+

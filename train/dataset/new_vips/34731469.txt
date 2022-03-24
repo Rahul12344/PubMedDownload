@@ -1,0 +1,29 @@
+
+1. Methods Mol Biol. 2022;2390:177-190. doi: 10.1007/978-1-0716-1787-8_7.
+
+Network-Driven Drug Discovery.
+
+Wray J(1), Whitmore A(2).
+
+Author information: 
+(1)e-therapeutics plc, Long Hanborough, UK. Jonny.Wray@etherapeutics.co.uk.
+(2)e-therapeutics plc, Long Hanborough, UK.
+
+We describe an approach to early stage drug discovery that explicitly engages
+with the complexities of human biology. The combined computational and
+experimental approach is formulated on a conceptual framework in which network
+biology is used to bridge between individual molecular entities and the cellular 
+phenotype that emerges when those entities interact in a network. Multiple
+aspects of early stage discovery are addressed including the data-driven
+elucidation of biological processes implicated in disease, target identification 
+and validation, phenotypic discovery of active molecules and their mechanism of
+action, and extraction of genetic target support from human population genetics
+data. Validation is described via summary of a number of discovery projects and
+details from a project aimed at COVID-19 disease.
+
+© 2022. The Author(s), under exclusive license to Springer Science+Business
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/978-1-0716-1787-8_7 
+PMID: 34731469  [Indexed for MEDLINE]
+

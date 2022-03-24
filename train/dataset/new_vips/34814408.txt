@@ -1,0 +1,40 @@
+
+1. Zhonghua Liu Xing Bing Xue Za Zhi. 2021 Mar 10;42(3):421-426. doi:
+10.3760/cma.j.cn112338-20201116-01333.
+
+[A comparative study of time series models in predicting COVID-19 cases].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Li ZQ(1), Tao B(1), Zhan M(1), Wu Z(1), Wu J(1), Wang J(1).
+
+Author information: 
+(1)Department of Epidemiology, Center for Global Health, School of Public Health,
+Nanjing Medical University, Nanjing 211166, China.
+
+Objective: To compare the performances of different time series models in
+predicting COVID-19 in different countries. Methods: We collected the daily
+confirmed case numbers of COVID-19 in the USA, India, and Brazil from April 1 to 
+September 30, 2020, and then constructed an autoregressive integrated moving
+average (ARIMA) model and a recurrent neural network (RNN) model, respectively.
+We applied the mean absolute percentage error (MAPE) and root mean square error
+(RMSE) to compare the performances of the two models in predicting the case
+numbers from September 21 to September 30, 2020. Results: For the ARIMA models
+applied in the USA, India, and Brazil, the MAPEs were 13.18%, 9.18%, and 17.30%, 
+respectively, and the RMSEs were 6 542.32, 8 069.50, and 3 954.59, respectively. 
+For the RNN models applied in the USA, India, and Brazil, the MAPEs were 15.27%, 
+7.23% and 26.02%, respectively, and the RMSEs were 6 877.71, 6 457.07, and 5
+950.88, respectively. Conclusions: The performance of the prediction models
+varied with country. The ARIMA model had a better prediction performance for
+COVID-19 in the USA and Brazil, while the RNN model was more suitable in India.
+
+Publisher: 目的： 比较常见时间序列模型应用于新型冠状病毒肺炎（COVID-19）疫情预测的效果。 方法：
+收集2020年4月1日至9月30日美国、印度和巴西3个国家COVID-19每日确诊病例数，分别建立差分自回归移动平均（ARIMA）模型和循环神经网络（RNN）模型
+，使用平均绝对百分比误差（MAPE）和均方根误差（RMSE）等指标，比较不同模型预测9月21-30日确诊病例的表现。 结果：
+应用ARIMA模型预测美国、印度和巴西疫情的MAPE分别为13.18%、9.18%和17.30%，RMSE分别为6 542.32、8 069.50和3
+954.59；应用RNN模型预测美国、印度和巴西疫情的MAPE分别为15.27%、7.23%和26.02%，RMSE分别为6 877.71、6 457.07和5 
+950.88。 结论： ARIMA和
+RNN模型的COVID-19预测效果存在地区差异，ARIMA模型的预测效果在美国和巴西较优，而RNN模型的预测效果在印度较优。.
+DOI: 10.3760/cma.j.cn112338-20201116-01333 
+PMID: 34814408  [Indexed for MEDLINE]
+

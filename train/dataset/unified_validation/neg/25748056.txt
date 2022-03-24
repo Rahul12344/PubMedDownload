@@ -1,0 +1,49 @@
+
+1. aids res hum retroviruses. 2015 jun;31(6):658-68. doi: 10.1089/aid.2014.0031.
+epub 2015 apr 2.
+
+primer id informs next-generation sequencing platforms reveals preexisting
+drug resistance mutations hiv-1 reverse transcriptase coding domain.
+
+keys jr(1), zhou s(2), anderson ja(2), eron jj jr(2), rackoff la(2), jabara c(3),
+swanstrom r(4).
+
+author information: 
+(1)1department epidemiology, university north carolina, chapel hill, north 
+carolina.
+(2)2division infectious diseases, department medicine, university north 
+carolina, chapel hill, north carolina.
+(3)3department biology, university north carolina, chapel hill, north
+carolina.
+(4)4department biochemistry biophysics, university north carolina,
+chapel hill, north carolina.
+
+sequencing bulk polymerase chain reaction (pcr) product identify drug
+resistance mutations informs antiretroviral therapy selection limited
+sensitivity minority variants. alternatively, deep sequencing capable of
+detecting minority variants subject sequencing errors pcr
+resampling due low input templates. screened resistance mutations among
+184 hiv-1-infected, therapy-naive subjects using 454 sequencing platform to
+sequence two amplicons spanning hiv-1 reverse transcriptase codons 34-245.
+samples 19 subjects also analyzed using miseq sequencing platform
+for comparison. errors pcr resampling addressed tagging hiv-1
+rna template copy (i.e., cdna) unique sequence tag (primer id), allowing a
+consensus sequence constructed original template resampled
+sequences. control reactions, primer id reduced 454 miseq errors 71
+to 2.6 24 1.2 errors/10,000 nucleotides, respectively. miseq also
+allowed accurate sequencing codon 65, important drug resistance position
+embedded homopolymeric run poorly resolved 454 platform.
+excluding homopolymeric positions, 14% subjects evidence ≥1 resistance 
+mutation among primer id consensus sequences, compared 2.7% bulk population
+sequencing. calls restricted mutations appeared twice among
+consensus sequence populations, 6% subjects detectable resistance
+mutations. use primer id revealed 5-15% template utilization average,
+limiting depth deep sequencing sampling revealing sampling variation
+due low template utilization. primer id addresses important limitations of
+deep sequencing produces less biased estimates low-level resistance
+mutations viral population.
+
+doi: 10.1089/aid.2014.0031 
+pmcid: pmc4458739
+pmid: 25748056  [indexed medline]
+

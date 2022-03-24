@@ -1,0 +1,45 @@
+
+1. Microbiology (Reading). 2019 Feb;165(2):233-245. doi: 10.1099/mic.0.000747. Epub 
+2018 Dec 13.
+
+Gene ssfg_01967 (miaB) for tRNA modification influences morphogenesis and
+moenomycin biosynthesis in Streptomyces ghanaensis ATCC14672.
+
+Sehin Y(1), Koshla O(1), Dacyuk Y(2), Zhao R(3), Ross R(3), Myronovskyi M(4),
+Limbach PA(3), Luzhetskyy A(4), Walker S(5), Fedorenko V(1), Ostash B(1).
+
+Author information: 
+(1)1​Department of Genetics and Biotechnology, Ivan Franko National University of
+Lviv, Hrushevskoho st. 4, Lviv 79005, Ukraine.
+(2)2​Department of Physics of the Earth, Ivan Franko National University of Lviv,
+Hrushevskoho st. 4, Lviv 79005, Ukraine.
+(3)3​Rieveschl Laboratories for Mass Spectrometry, Department of Chemistry,
+University of Cincinnati, 318 College Dr, 404 Crosley Tower, Cincinnati OH
+45221-0172, USA.
+(4)4​Helmholtz Institute for Pharmaceutical Research Saarland Campus, Building
+C2.3, 66123 Saarbrucken, Germany.
+(5)5​Department of Microbiology and Immunobiology, Harvard Medical School, 4
+Blackfan Circle, Boston, MA 02115, USA.
+
+Streptomyces ghanaensis ATCC14672 is remarkable for its production of
+phosphoglycolipid compounds, moenomycins, which serve as a blueprint for the
+development of a novel class of antibiotics based on inhibition of peptidoglycan 
+glycosyltransferases. Here we employed mariner transposon (Tn) mutagenesis to
+find new regulatory genes essential for moenomycin production. We generated a
+library of 3000 mutants which were screened for altered antibiotic activity. Our 
+focus centred on a single mutant, HIM5, which accumulated lower amounts of
+moenomycin and was impaired in morphogenesis as compared to the parental strain. 
+HIM5 carried the Tn insertion within gene ssfg_01967 for putative tRNA
+(N6-isopentenyl adenosine(37)-C2)-methylthiotransferase, or MiaB, and led to a
+reduced level of thiomethylation at position 37 in the anticodon of S. ghanaensis
+transfer ribonucleic acid (tRNA). It is likely that the mutant phenotype of HIM5 
+stems from the way in which ssfg_01967::Tn influences translation of the rare
+leucine codon UUA in several genes for moenomycin production and life cycle
+progression in S. ghanaensis. This is the first report showing that quantitative 
+changes in tRNA modification status in Streptomyces have physiological
+consequences.
+
+DOI: 10.1099/mic.0.000747 
+PMCID: PMC7003650
+PMID: 30543507  [Indexed for MEDLINE]
+

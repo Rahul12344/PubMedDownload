@@ -1,0 +1,50 @@
+
+1. S Afr J Bot. 2021 Dec 3. doi: 10.1016/j.sajb.2021.11.033. [Epub ahead of print]
+
+Identification of Papain-Like Protease inhibitors of SARS CoV-2 through HTVS,
+Molecular docking, MMGBSA and Molecular dynamics approach.
+
+Jupudi S(1), Rajagopal K(1), Murugesan S(2), Kumar BK(2), Raman K(1), Byran G(1),
+Chennaiah J(1), Muthiah VP(3), Dasan P B(4), Sankaran S(5).
+
+Author information: 
+(1)Department of Pharmaceutical Chemistry, JSS College of Pharmacy, (A
+Constituent college of JSS Academy of higher education & Research- deemed
+University), Ooty 643001, The Nilgiris, Tamilnadu, India.
+(2)Medicinal Chemistry Research Laboratory, Department of Pharmacy, Birla
+Institute of Technology and Science-Pilani, Pilani Campus, Pilani 333031
+Rajasthan India.
+(3)Department of Chemistry, School of Advanced Sciences, Kalasalingam Academy of 
+Research and Education, Krishnankovil 626 126, Tamil Nadu, India.
+(4)Bio Pharma Laboratories Pvt. Limited., Hyderabad 502 325, Telangana, India.
+(5)Amrita School of Pharmacy, Amrita Vishwa Vidyapeetham, Amrita Institute of
+Medical Sciences, AIMS-Ponekkara, Kochi 682041, Kerala, India.
+
+Coronaviruses (CoVs) are a large group of enveloped positive
+sense single-stranded RNA viruses that can cause disease to humans. These are
+zoonotic having potential to cause large-scale outbreaks of infections widely
+causing morbidity and mortality. Papain-Like Proteases (PLpro) is a cysteine
+protease, essential for viral replication and proliferation, as a highly
+conserved enzyme it cleaves peptide linkage between Nsp1, Nsp2, Nsp3, and Nsp4.
+As a valid therapeutic targets it stops viral reproduction and boosts host immune
+response thereby halting further spread of infection. In the purpose of
+identifying inhibitors targeting Papain-Like Proteases (PLpro) we initiated a
+high throughput virtual screening (HTVS) protocol using a SuperNatural Database. 
+The XP docking results revealed that two compounds SN00334175 and SN00162745
+exhibited docking score of -10.58 kcal/mol and -9.93 kcal/mol respectively. The
+Further PRIME MMGB-SA studies revealed Van der Waal energy and hydrophobic energy
+terms as major contributors for total binding free energy. The 100 ns molecular
+dynamics simulation of SN00334175/7JN2 and SN00162745/7JN2 revealed that these
+complexes were stabilized with ligand binding forming interactions with Gly266,
+Asn267, Tyr268, Tyr273, Thr301 and Asp302, Lys157, Leu162, Asp164, Arg166,
+Glu167, Pro248, Tyr264.
+
+© 2021 Published by Elsevier B.V. on behalf of SAAB.
+
+DOI: 10.1016/j.sajb.2021.11.033 
+PMCID: PMC8639443
+PMID: 34876768 
+
+Conflict of interest statement: The Authors Stated That there is no conflict of
+Interest
+

@@ -1,0 +1,45 @@
+
+1. ACS Chem Biol. 2017 Sep 15;12(9):2335-2344. doi: 10.1021/acschembio.7b00389. Epub
+2017 Aug 8.
+
+Structure-Activity Relationships Reveal Key Features of 8-Oxoguanine: A Mismatch 
+Detection by the MutY Glycosylase.
+
+Manlove AH(1), McKibbin PL(1), Doyle EL(1), Majumdar C(1), Hamm ML(2), David
+SS(1).
+
+Author information: 
+(1)Department of Chemistry, University of California at Davis , One Shields
+Avenue, Davis, California 95616, United States.
+(2)Department of Chemistry, University of Richmond , Richmond, Virginia 23173,
+United States.
+
+Base excision repair glycosylases locate and remove damaged bases in DNA with
+remarkable specificity. The MutY glycosylases, unusual for their excision of
+undamaged adenines mispaired to the oxidized base 8-oxoguanine (OG), must
+recognize both bases of the mispair in order to prevent promutagenic activity.
+Moreover, MutY must effectively find OG:A mismatches within the context of highly
+abundant and structurally similar T:A base pairs. Very little is known about the 
+factors that initiate MutY's interaction with the substrate when it first
+encounters an intrahelical OG:A mispair, or about the order of recognition
+checkpoints. Here, we used structure-activity relationships (SAR) to investigate 
+the features that influence the in vitro measured parameters of mismatch affinity
+and adenine base excision efficiency by E. coli MutY. We also evaluated the
+impacts of the same substrate alterations on MutY-mediated repair in a cellular
+context. Our results show that MutY relies strongly on the presence of the OG
+base and recognizes multiple structural features at different stages of
+recognition and catalysis to ensure that only inappropriately mispaired adenines 
+are excised. Notably, some OG modifications resulted in more dramatic reductions 
+in cellular repair than in the in vitro kinetic parameters, indicating their
+importance for initial recognition events needed to locate the mismatch within
+DNA. Indeed, the initial encounter of MutY with its target base pair may rely on 
+specific interactions with the 2-amino group of OG in the major groove, a feature
+that distinguishes OG:A from T:A base pairs. These results furthermore suggest
+that inefficient substrate location in human MutY homologue variants may prove
+predictive for the early onset colorectal cancer phenotype known as
+MUTYH-Associated Polyposis, or MAP.
+
+DOI: 10.1021/acschembio.7b00389 
+PMCID: PMC5603899
+PMID: 28723094  [Indexed for MEDLINE]
+

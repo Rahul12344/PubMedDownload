@@ -1,0 +1,40 @@
+
+1. Cytometry B Clin Cytom. 2006 Jul 15;70(4):302-8.
+
+Kolmogorov-Smirnov statistical test for analysis of ZAP-70 expression in B-CLL,
+compared with quantitative PCR and IgV(H) mutation status.
+
+Van Bockstaele F(1), Janssens A, Piette A, Callewaert F, Pede V, Offner F,
+Verhasselt B, Philippé J.
+
+Author information: 
+(1)Department of Clinical Chemistry, Microbiology and Immunology, Ghent
+University, Ghent, Belgium.
+
+BACKGROUND: ZAP-70 has been proposed as a surrogate marker for immunoglobulin
+heavy-chain variable region (IgV(H)) mutation status, which is known as a
+prognostic marker in B-cell chronic lymphocytic leukemia (CLL). The flow
+cytometric analysis of ZAP-70 suffers from difficulties in standardization and
+interpretation. We applied the Kolmogorov-Smirnov (KS) statistical test to make
+analysis more straightforward.
+METHODS: We examined ZAP-70 expression by flow cytometry in 53 patients with CLL.
+Analysis was performed as initially described by Crespo et al. (New England J Med
+2003; 348:1764-1775) and alternatively by application of the KS statistical test 
+comparing T cells with B cells. Receiver-operating-characteristics (ROC)-curve
+analyses were performed to determine the optimal cut-off values for ZAP-70
+measured by the two approaches. ZAP-70 protein expression was compared with
+ZAP-70 mRNA expression measured by a quantitative PCR (qPCR) and with the IgV(H) 
+mutation status.
+RESULTS: Both flow cytometric analyses correlated well with the molecular
+technique and proved to be of equal value in predicting the IgV(H) mutation
+status. Applying the KS test is reproducible, simple, straightforward, and
+overcomes a number of difficulties encountered in the Crespo-method.
+CONCLUSIONS: The KS statistical test is an essential part of the software
+delivered with modern routine analytical flow cytometers and is well suited for
+analysis of ZAP-70 expression in CLL.
+
+(c) 2006 International Society for Analytical Cytology.
+
+DOI: 10.1002/cyto.b.20122 
+PMID: 16906582  [Indexed for MEDLINE]
+

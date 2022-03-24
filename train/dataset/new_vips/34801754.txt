@@ -1,0 +1,53 @@
+
+1. Infect Genet Evol. 2021 Nov 18;97:105153. doi: 10.1016/j.meegid.2021.105153.
+[Epub ahead of print]
+
+Longitudinal analysis of SARS-CoV-2 spike and RNA-dependent RNA polymerase
+protein sequences reveals the emergence and geographic distribution of diverse
+mutations.
+
+Showers WM(1), Leach SM(2), Kechris K(3), Strong M(2).
+
+Author information: 
+(1)University of Colorado Anschutz Medical Campus, 13001 East 17th Place, Aurora,
+CO, USA; Center for Genes, Environment, and Health, National Jewish Health, Smith
+Building, Room A651, 1400 Jackson Street, Denver, CO, USA. Electronic address:
+william.showers@cuanschutz.edu.
+(2)University of Colorado Anschutz Medical Campus, 13001 East 17th Place, Aurora,
+CO, USA; Center for Genes, Environment, and Health, National Jewish Health, Smith
+Building, Room A651, 1400 Jackson Street, Denver, CO, USA.
+(3)University of Colorado Anschutz Medical Campus, 13001 East 17th Place, Aurora,
+CO, USA.
+
+Amid the ongoing COVID-19 pandemic, it has become increasingly important to
+monitor the mutations that arise in the SARS-CoV-2 virus, to prepare public
+health strategies and guide the further development of vaccines and therapeutics.
+The spike (S) protein and the proteins comprising the RNA-Dependent RNA
+Polymerase (RdRP) are key vaccine and drug targets, respectively, making mutation
+surveillance of these proteins of great importance. Full protein sequences were
+downloaded from the GISAID database, aligned, and the variants identified.
+437,006 unique viral genomes were analyzed. Polymorphisms in the protein sequence
+were investigated and examined longitudinally to identify sequence and strain
+variants appearing between January 5th, 2020 and January 16th, 2021. A structural
+analysis was also performed to investigate mutations in the receptor binding
+domain and the N-terminal domain of the spike protein. Within the spike protein, 
+there were 766 unique mutations observed in the N-terminal domain and 360 in the 
+receptor binding domain. Four residues that directly contact ACE2 were mutated in
+more than 100 sequences, including positions K417, Y453, S494, and N501. Within
+the furin cleavage site of the spike protein, a high degree of conservation was
+observed, but the P681H mutation was observed in 10.47% of sequences analyzed.
+Within the RNA dependent RNA polymerase complex proteins, 327 unique mutations
+were observed in Nsp8, 166 unique mutations were observed in Nsp7, and 1157
+unique mutations were observed in Nsp12. Only 4 sequences analyzed contained
+mutations in the 9 residues that directly interact with the therapeutic
+Remdesivir, suggesting limited mutations in drug interacting residues. The
+identification of new variants emphasizes the need for further study on the
+effects of the mutations and the implications of increased prevalence,
+particularly for vaccine or therapeutic efficacy.
+
+Copyright © 2021 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.meegid.2021.105153 
+PMCID: PMC8600767
+PMID: 34801754 
+

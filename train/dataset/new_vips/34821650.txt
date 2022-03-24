@@ -1,0 +1,36 @@
+
+1. Biosensors (Basel). 2021 Nov 2;11(11). pii: 434. doi: 10.3390/bios11110434.
+
+Emerging Biosensors to Detect Severe Acute Respiratory Syndrome Coronavirus 2
+(SARS-CoV-2): A Review.
+
+Lim WY(1), Lan BL(1), Ramakrishnan N(1).
+
+Author information: 
+(1)Electrical and Computer Systems Engineering, School of Engineering and
+Advanced Engineering Platform, Monash University Malaysia, Bandar Sunway 47500,
+Selangor, Malaysia.
+
+Coronavirus disease (COVID-19) is a global health crisis caused by the severe
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Real-time reverse
+transcriptase-polymerase chain reaction (RT-PCR) is the gold standard test for
+diagnosing COVID-19. Although it is highly accurate, this lab test requires
+highly-trained personnel and the turn-around time is long. Rapid and inexpensive 
+immuno-diagnostic tests (antigen or antibody test) are available, but these point
+of care (POC) tests are not as accurate as the RT-PCR test. Biosensors are
+promising alternatives to these rapid POC tests. Here we review three types of
+recently developed biosensors for SARS-CoV-2 detection: surface plasmon resonance
+(SPR)-based, electrochemical and field-effect transistor (FET)-based biosensors. 
+We explain the sensing principles and discuss the advantages and limitations of
+these sensors. The accuracies of these sensors need to be improved before they
+could be translated into POC devices for commercial use. We suggest potential
+biorecognition elements with highly selective target-analyte binding that could
+be explored to increase the true negative detection rate. To increase the true
+positive detection rate, we suggest two-dimensional materials and nanomaterials
+that could be used to modify the sensor surface to increase the sensitivity of
+the sensor.
+
+DOI: 10.3390/bios11110434 
+PMCID: PMC8615996
+PMID: 34821650  [Indexed for MEDLINE]
+

@@ -1,0 +1,43 @@
+
+1. Antibodies (Basel). 2021 Nov 8;10(4). pii: 45. doi: 10.3390/antib10040045.
+
+Fc-Independent Protection from SARS-CoV-2 Infection by Recombinant Human
+Monoclonal Antibodies.
+
+Noy-Porat T(1), Edri A(2), Alcalay R(1), Makdasi E(1), Gur D(1), Aftalion M(1),
+Evgy Y(1), Beth-Din A(1), Levy Y(1), Epstein E(1), Radinsky O(2), Zauberman A(1),
+Lazar S(1), Yitzhaki S(1), Marcus H(1), Porgador A(2), Rosenfeld R(1), Mazor
+O(1).
+
+Author information: 
+(1)Israel Institute for Biological Research, Ness-Ziona 7404800, Israel.
+(2)The Shraga Segal Department of Microbiology, Immunology, and Genetics, Faculty
+of Health Sciences, Ben-Gurion University of the Negev, Beer Sheva 8410501,
+Israel.
+
+The use of passively-administered neutralizing antibodies is a promising approach
+for the prevention and treatment of SARS-CoV-2 infection. Antibody-mediated
+protection may involve immune system recruitment through Fc-dependent activation 
+of effector cells and the complement system. However, the role of Fc-mediated
+functions in the efficacious in-vivo neutralization of SARS-CoV-2 is not yet
+clear, and it is of high importance to delineate the role this process plays in
+antibody-mediated protection. Toward this aim, we have chosen two highly potent
+SARS-CoV-2 neutralizing human monoclonal antibodies, MD65 and BLN1 that target
+distinct domains of the spike (RBD and NTD, respectively). The Fc of these
+antibodies was engineered to include the triple mutation N297G/S298G/T299A that
+eliminates glycosylation and the binding to FcγR and to the complement system
+activator C1q. As expected, the virus neutralization activity (in-vitro) of the
+engineered antibodies was retained. To study the role of Fc-mediated functions,
+the protective activity of these antibodies was tested against lethal SARS-CoV-2 
+infection of K18-hACE2 transgenic mice, when treatment was initiated either
+before or two days post-exposure. Antibody treatment with both Fc-variants
+similarly rescued the mice from death reduced viral load and prevented signs of
+morbidity. Taken together, this work provides important insight regarding the
+contribution of Fc-effector functions in MD65 and BLN1 antibody-mediated
+protection, which should aid in the future design of effective antibody-based
+therapies.
+
+DOI: 10.3390/antib10040045 
+PMCID: PMC8628512
+PMID: 34842604 
+

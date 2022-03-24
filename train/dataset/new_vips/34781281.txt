@@ -1,0 +1,61 @@
+
+1. Biomed Phys Eng Express. 2021 Nov 15. doi: 10.1088/2057-1976/ac39ab. [Epub ahead 
+of print]
+
+Radiomics outperforms clinical factors in characterizing human papilloma virus
+(HPV) for patients with oropharyngeal squamous cell carcinomas.
+
+Bagher Ebadian H(1), Siddiqui F(2), Ghanem A(2), Zhu S(2), Lu M(3), Movsas B(4), 
+Chetty IJ(5).
+
+Author information: 
+(1)Department of Radiation Oncology , Henry Ford Hospital, 2799 West Grand Blvd.,
+Detroit, Detroit, Michigan, 48202, UNITED STATES.
+(2)Radiation Oncology, Henry Ford Hospital, 2799 West Grand Blvd., Detroit,
+Michigan, 48202, UNITED STATES.
+(3)Henry Ford Hospital, 2799 West Grand Blvd., Detroit, Michigan, 48202, UNITED
+STATES.
+(4)Dept of Radiation Oncology, Henry Ford Hospital, 2799 West Grand Blvd.,
+Detroit, 48202, UNITED STATES.
+(5)Dept of Radiation Oncology, Henry Ford Hospital, 2799 West Grand Blvd,
+Detroit, MI 48202-2689, USA, Detroit, Michigan, 48202, UNITED STATES.
+
+Purpose:To utilize radiomic features extracted from CT images to characterize
+Human Papilloma Virus (HPV) for patients with oropharyngeal cancer squamous cell 
+carcinoma (OPSCC).Methods:One hundred twenty-eight OPSCC patients with known
+HPV-status (60-HPV+ and 68-HPV-, confirmed by immunohistochemistry-P16-protein
+testing) were retrospectively studied. Radiomic features (11 feature-categories) 
+were extracted in 3D from contrast-enhanced (CE)-CT images of gross-tumor-volumes
+using 'in-house' software ('ROdiomiX') developed and validated following the
+image-biomarker-standardization-initiative (IBSI) guidelines. Six clinical
+factors were investigated: Age-at-Diagnosis, Gender, Total-Charlson, Alcohol-Use,
+Smoking-History, and T-Stage. A Least-Absolute-Shrinkage-and-Selection-Operation 
+(Lasso) technique combined with a Generalized-Linear-Model (Lasso-GLM) were
+applied to perform regularization in the radiomic and clinical feature spaces to 
+identify the ranking of optimal feature subsets with most representative
+information for prediction of HPV. Lasso-GLM models/classifiers based on clinical
+factors only, radiomics only, and combined clinical and radiomics
+(ensemble/integrated) were constructed using random-permutation-sampling. Tests
+of significance (One-way ANOVA), average
+Area-Under-Receiver-Operating-Characteristic (AUC), and Positive and Negative
+Predictive values (PPV and NPV) were computed to estimate the
+generalization-error and prediction performance of the classifiers.Results:Five
+clinical factors, including T-stage, smoking status, and age, and 14 radiomic
+features, including tumor morphology, and intensity contrast were found to be
+statistically significant discriminators between HPV positive and negative
+cohorts. Performances for prediction of HPV for the 3 classifiers were:
+Radiomics-Lasso-GLM: AUC/PPV/NPV=0.789/0.755/0.805; Clinical-Lasso-GLM:
+0.676/0.747/0.672, and Integrated/Ensemble-Lasso-GLM: 0.895/0.874/0.844. Results 
+imply that the radiomics-based classifier enabled better characterization and
+performance prediction of HPV relative to clinical factors, and that the
+combination of both radiomics and clinical factors yields even higher accuracy
+characterization and predictive performance.Conclusion:Albeit subject to
+confirmation in a larger cohort, this pilot study presents encouraging results in
+support of the role of radiomic features towards characterization of HPV in
+patients with OPSCC.
+
+© 2021 IOP Publishing Ltd.
+
+DOI: 10.1088/2057-1976/ac39ab 
+PMID: 34781281 
+

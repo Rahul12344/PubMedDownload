@@ -1,0 +1,40 @@
+
+1. Sci Rep. 2021 Oct 26;11(1):21108. doi: 10.1038/s41598-021-00267-w.
+
+Detailed phylogenetic analysis tracks transmission of distinct SARS-COV-2
+variants from China and Europe to West Africa.
+
+Wruck W(1), Adjaye J(2).
+
+Author information: 
+(1)Institute for Stem Cell Research and Regenerative Medicine, Medical Faculty,
+Heinrich Heine University, 40225, Düsseldorf, Germany.
+(2)Institute for Stem Cell Research and Regenerative Medicine, Medical Faculty,
+Heinrich Heine University, 40225, Düsseldorf, Germany.
+james.adjaye@med.uni-duesseldorf.de.
+
+SARS-CoV-2, the virus causing the COVID-19 pandemic emerged in December 2019 in
+China and raised fears it could overwhelm healthcare systems worldwide. Mutations
+of the virus are monitored by the GISAID database from which we downloaded
+sequences from four West African countries Ghana, Gambia, Senegal and Nigeria
+from February 2020 to April 2020. We subjected the sequences to phylogenetic
+analysis employing the nextstrain pipeline. We found country-specific patterns of
+viral variants and supplemented that with data on novel variants from June 2021. 
+Until April 2020, variants carrying the crucial Europe-associated D614G amino
+acid change were predominantly found in Senegal and Gambia, and combinations of
+late variants with and early variants without D614G in Ghana and Nigeria. In June
+2021 all variants carried the D614G amino acid substitution. Senegal and Gambia
+exhibited again variants transmitted from Europe (alpha or delta), Ghana a
+combination of several variants and in Nigeria the original Eta variant. Detailed
+analysis of distinct samples revealed that some might have circulated latently
+and some reflect migration routes. The distinct patterns of variants within the
+West African countries point at their global transmission via air traffic
+predominantly from Europe and only limited transmission between the West African 
+countries.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-00267-w 
+PMCID: PMC8548492
+PMID: 34702899  [Indexed for MEDLINE]
+

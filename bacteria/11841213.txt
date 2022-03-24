@@ -1,0 +1,42 @@
+
+1. Biochemistry. 2002 Feb 19;41(7):2217-26.
+
+Three subunits contribute amino acids to the active site of tetrameric
+adenylosuccinate lyase: Lys268 and Glu275 are required.
+
+Brosius JL(1), Colman RF.
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, University of Delaware, Newark,
+Delaware 19716, USA.
+
+Tetrameric adenylosuccinate lyase (ASL) of Bacillus subtilis catalyzes the
+cleavage of adenylosuccinate to form AMP and fumarate. We previously reported
+that two distinct subunits contribute residues to each active site, including the
+His68 and His89 from one and His141 from a second subunit [Brosius, J. L., and
+Colman, R. F. (2000) Biochemistry 39, 13336-13343]. Glu(275) is 2.8 A from His141
+in the ASL crystal structure, and Lys268 is also in the active site region;
+Glu275 and Lys268 come from a third, distinct subunit. Using site-directed
+mutagenesis, we have replaced Lys268 by Arg, Gln, Glu, and Ala, with specific
+activities of the purified mutant enzymes being 0.055, 0.00069, 0.00028, and 0.0,
+respectively, compared to 1.56 units/mg for wild-type (WT) enzyme. Glu275 was
+substituted by Gln, Asp, Ala, and Arg; none of these homogeneous mutant enzymes
+has detectable activity. Circular dichroism and light scattering reveal that
+neither the secondary structure nor the oligomeric state of the Lys268 mutant
+enzymes has been perturbed. Native gel electrophoresis and circular dichroism
+indicate that the Glu275 mutant enzymes are tetramers, but their conformation is 
+altered slightly. For K268R, the K(m)s for all substrates are similar to WT
+enzyme. Binding studies using [2-3H]-adenylosuccinate reveal that none of the
+Glu275 mutant enzymes, nor inactive K268A, can bind substrate. We propose that
+Lys268 participates in binding substrate and that Glu275 is essential for
+catalysis because of its interaction with His141. Incubation of H89Q with K268Q
+or E275Q leads to restoration of up to 16% WT activity, while incubation of H141Q
+with K268Q or E275Q results in 6% WT activity. These complementation studies
+provide the first functional evidence that a third subunit contributes residues
+to each intersubunit active site of ASL. Thus, adenylosuccinate lyase has four
+active sites per enzyme tetramer, each of which is formed from regions of three
+subunits.
+
+DOI: 10.1021/bi011998t 
+PMID: 11841213  [Indexed for MEDLINE]
+

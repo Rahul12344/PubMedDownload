@@ -1,0 +1,43 @@
+
+1. Appl Intell (Dordr). 2021 Feb 17:1-18. doi: 10.1007/s10489-021-02193-w. [Epub
+ahead of print]
+
+Using artificial intelligence techniques for COVID-19 genome analysis.
+
+Nawaz MS(1), Fournier-Viger P(1), Shojaee A(2), Fujita H(3).
+
+Author information: 
+(1)School of Humanities and Social Sciences, Harbin Institute of Technology
+(Shenzhen), Shenzhen, China.
+(2)Yale University School of Medicine, New Haven, USA.
+(3)Faculty of Software and Information Science, Iwate Prefectural University,
+Iwate, Japan.
+
+The genome of the novel coronavirus (COVID-19) disease was first sequenced in
+January 2020, approximately a month after its emergence in Wuhan, capital of
+Hubei province, China. COVID-19 genome sequencing is critical to understanding
+the virus behavior, its origin, how fast it mutates, and for the development of
+drugs/vaccines and effective preventive strategies. This paper investigates the
+use of artificial intelligence techniques to learn interesting information from
+COVID-19 genome sequences. Sequential pattern mining (SPM) is first applied on a 
+computer-understandable corpus of COVID-19 genome sequences to see if interesting
+hidden patterns can be found, which reveal frequent patterns of nucleotide bases 
+and their relationships with each other. Second, sequence prediction models are
+applied to the corpus to evaluate if nucleotide base(s) can be predicted from
+previous ones. Third, for mutation analysis in genome sequences, an algorithm is 
+designed to find the locations in the genome sequences where the nucleotide bases
+are changed and to calculate the mutation rate. Obtained results suggest that SPM
+and mutation analysis techniques can reveal interesting information and patterns 
+in COVID-19 genome sequences to examine the evolution and variations in COVID-19 
+strains respectively.
+
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC 
+part of Springer Nature 2021.
+
+DOI: 10.1007/s10489-021-02193-w 
+PMCID: PMC7888282
+PMID: 34764587 
+
+Conflict of interest statement: Conflict of InterestsThe authors declare that
+they have no conflict of interest.
+

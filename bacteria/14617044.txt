@@ -1,0 +1,35 @@
+
+1. Tissue Antigens. 2003 Nov;62(5):378-84.
+
+Sensitive quantitative predictions of peptide-MHC binding by a 'Query by
+Committee' artificial neural network approach.
+
+Buus S(1), Lauemøller SL, Worning P, Kesmir C, Frimurer T, Corbet S, Fomsgaard A,
+Hilden J, Holm A, Brunak S.
+
+Author information: 
+(1)Division of Experimental Immunology, Institute of Medical Microbiology and
+Immunology, University of Copenhagen, Denmark. S.Buus@immi.ku.dk
+
+We have generated Artificial Neural Networks (ANN) capable of performing
+sensitive, quantitative predictions of peptide binding to the MHC class I
+molecule, HLA-A*0204. We have shown that such quantitative ANN are superior to
+conventional classification ANN, that have been trained to predict binding vs
+non-binding peptides. Furthermore, quantitative ANN allowed a straightforward
+application of a 'Query by Committee' (QBC) principle whereby particularly
+information-rich peptides could be identified and subsequently tested
+experimentally. Iterative training based on QBC-selected peptides considerably
+increased the sensitivity without compromising the efficiency of the prediction. 
+This suggests a general, rational and unbiased approach to the development of
+high quality predictions of epitopes restricted to this and other HLA molecules. 
+Due to their quantitative nature, such predictions will cover a wide range of
+MHC-binding affinities of immunological interest, and they can be readily
+integrated with predictions of other events involved in generating immunogenic
+epitopes. These predictions have the capacity to perform rapid proteome-wide
+searches for epitopes. Finally, it is an example of an iterative feedback loop
+whereby advanced, computational bioinformatics optimize experimental strategy,
+and vice versa.
+
+DOI: 10.1034/j.1399-0039.2003.00112.x 
+PMID: 14617044  [Indexed for MEDLINE]
+

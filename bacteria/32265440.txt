@@ -1,0 +1,45 @@
+
+1. Nat Commun. 2020 Apr 7;11(1):1727. doi: 10.1038/s41467-020-15455-x.
+
+Gating mechanism of elongating β-ketoacyl-ACP synthases.
+
+Mindrebo JT(#)(1)(2), Patel A(#)(1), Kim WE(1), Davis TD(1), Chen A(1), Bartholow
+TG(1), La Clair JJ(1)(2), McCammon JA(1)(3), Noel JP(4)(5)(6), Burkart MD(7).
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, University of California, San Diego,
+9500 Gilman Drive, La Jolla, CA, 92093-0358, USA.
+(2)Jack H. Skirball Center for Chemical Biology and Proteomics, Salk Institute
+for Biological Studies, La Jolla, CA, 92037, USA.
+(3)Department of Pharmacology, University of California, San Diego, 9500 Gilman
+Drive, La Jolla, CA, 92093, USA.
+(4)Department of Chemistry and Biochemistry, University of California, San Diego,
+9500 Gilman Drive, La Jolla, CA, 92093-0358, USA. noel@salk.edu.
+(5)Jack H. Skirball Center for Chemical Biology and Proteomics, Salk Institute
+for Biological Studies, La Jolla, CA, 92037, USA. noel@salk.edu.
+(6)Howard Hughes Medical Institute, Salk Institute for Biological Studies, La
+Jolla, CA, 92037, USA. noel@salk.edu.
+(7)Department of Chemistry and Biochemistry, University of California, San Diego,
+9500 Gilman Drive, La Jolla, CA, 92093-0358, USA. mburkart@ucsd.edu.
+(#)Contributed equally
+
+Carbon-carbon bond forming reactions are essential transformations in natural
+product biosynthesis. During de novo fatty acid and polyketide biosynthesis,
+β-ketoacyl-acyl carrier protein (ACP) synthases (KS), catalyze this process via a
+decarboxylative Claisen-like condensation reaction. KSs must recognize multiple
+chemically distinct ACPs and choreograph a ping-pong mechanism, often in an
+iterative fashion. Here, we report crystal structures of substrate mimetic
+bearing ACPs in complex with the elongating KSs from Escherichia coli, FabF and
+FabB, in order to better understand the stereochemical features governing
+substrate discrimination by KSs. Complemented by molecular dynamics (MD)
+simulations and mutagenesis studies, these structures reveal conformational
+states accessed during KS catalysis. These data taken together support a gating
+mechanism that regulates acyl-ACP binding and substrate delivery to the KS active
+site. Two active site loops undergo large conformational excursions during this
+dynamic gating mechanism and are likely evolutionarily conserved features in
+elongating KSs.
+
+DOI: 10.1038/s41467-020-15455-x 
+PMCID: PMC7138838
+PMID: 32265440  [Indexed for MEDLINE]
+

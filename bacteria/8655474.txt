@@ -1,0 +1,43 @@
+
+1. J Bacteriol. 1996 Jun;178(11):3015-24.
+
+Cloning, sequencing, and expression of clustered genes encoding
+beta-hydroxybutyryl-coenzyme A (CoA) dehydrogenase, crotonase, and butyryl-CoA
+dehydrogenase from Clostridium acetobutylicum ATCC 824.
+
+Boynton ZL(1), Bennet GN, Rudolph FB.
+
+Author information: 
+(1)Department of Biochemistry and Cell Biology, The Institute of Biosciences and 
+Bioengineering, Rice University, Houston, Texas 77005-1892, USA.
+
+The enzymes beta-hydroxybutyryl-coenzyme A (CoA) dehydrogenase (BHBD), crotonase,
+and butyryl-CoA dehydrogenase (BCD) from Clostridium acetobutylicum are
+responsible for the formation of butyryl-CoA from acetoacetyl-CoA. These enzymes 
+are essential to both acid formation and solvent formation by clostridia.
+Clustered genes encoding BHBD, crotonase, BCD, and putative electron transfer
+flavoprotein alpha and beta subunits have been cloned and sequenced. The
+nucleotide sequence of the crt gene indicates that it encodes crotonase, a
+protein with 261 amino acid residues and a calculated molecular mass of 28.2 kDa;
+the hbd gene encodes BHBD, with 282 residues and a molecular mass of 30.5 kDa.
+Three open reading frames (bcd, etfB, and etfA) are located between crt and hbd. 
+The nucleotide sequence of bcd indicates that it encodes BCD, which consists of
+379 amino acid residues and has high levels of homology with various acyl-CoA
+dehydrogenases. Open reading frames etfB and etfA, located downstream of bcd,
+encode 27.2- and 36.1-kDa proteins, respectively, and show homology with the
+fixAB genes and the alpha and beta subunits of the electron transfer
+flavoprotein. These findings suggest that BCD in clostridia might interact with
+the electron transfer flavoprotein in its redox function. Primer extension
+analysis identified a promoter consensus sequence upstream of the crt gene,
+suggesting that the clustered genes are transcribed as a transcriptional unit and
+form a BCS (butyryl-CoA synthesis) operon. A DNA fragment containing the entire
+BCS operon was subcloned into an Escherichia coli-C. acetobutylicum shuttle
+vector. Enzyme activity assays showed that crotonase and BHBD were highly
+overproduced in cell extracts from E. coli harboring the subclone. In C.
+acetobutylicum harboring the subclone, the activities of the enzymes crotonase,
+BHBD, and BCD were elevated.
+
+DOI: 10.1128/jb.178.11.3015-3024.1996 
+PMCID: PMC178046
+PMID: 8655474  [Indexed for MEDLINE]
+

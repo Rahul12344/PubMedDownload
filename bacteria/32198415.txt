@@ -1,0 +1,48 @@
+
+1. Nat Commun. 2020 Mar 20;11(1):1496. doi: 10.1038/s41467-020-15350-5.
+
+An acid-tolerance response system protecting exponentially growing Escherichia
+coli.
+
+Xu Y(#)(1)(2), Zhao Z(#)(1)(2), Tong W(1)(3), Ding Y(4), Liu B(5), Shi Y(6), Wang
+J(1), Sun S(1)(2), Liu M(1), Wang Y(5), Qi Q(7), Xian M(8), Zhao G(9)(10).
+
+Author information: 
+(1)CAS Key Lab of Biobased Materials, Qingdao Institute of Bioenergy and
+Bioprocess Technology, Chinese Academy of Sciences, 266101, Qingdao, China.
+(2)University of Chinese Academy of Sciences, 100049, Beijing, China.
+(3)Sichuan University of Science and Engineering, 644000, Yibin, Sichuan, China.
+(4)Institute of Oceanology, Chinese Academy of Sciences, 266071, Qingdao, China.
+(5)TEDA Institute of Biological Sciences and Biotechnology, Nankai University,
+TEDA, 300457, Tianjin, China.
+(6)School of Life Sciences, Arizona State University, Tempe, AZ, 85281, USA.
+(7)State Key Laboratory of Microbial Technology, Shandong University, 266237,
+Qingdao, China.
+(8)CAS Key Lab of Biobased Materials, Qingdao Institute of Bioenergy and
+Bioprocess Technology, Chinese Academy of Sciences, 266101, Qingdao, China.
+xianmo@qibebt.ac.cn.
+(9)CAS Key Lab of Biobased Materials, Qingdao Institute of Bioenergy and
+Bioprocess Technology, Chinese Academy of Sciences, 266101, Qingdao, China.
+zhaoguang@qibebt.ac.cn.
+(10)State Key Laboratory of Microbial Technology, Shandong University, 266237,
+Qingdao, China. zhaoguang@qibebt.ac.cn.
+(#)Contributed equally
+
+The ability to grow at moderate acidic conditions (pH 4.0-5.0) is important to
+Escherichia coli colonization of the host's intestine. Several regulatory systems
+are known to control acid resistance in E. coli, enabling the bacteria to survive
+under acidic conditions without growth. Here, we characterize an acid-tolerance
+response (ATR) system and its regulatory circuit, required for E. coli
+exponential growth at pH 4.2. A two-component system CpxRA directly senses
+acidification through protonation of CpxA periplasmic histidine residues, and
+upregulates the fabA and fabB genes, leading to increased production of
+unsaturated fatty acids. Changes in lipid composition decrease membrane fluidity,
+F0F1-ATPase activity, and improve intracellular pH homeostasis. The ATR system is
+important for E. coli survival in the mouse intestine and for production of
+higher level of 3-hydroxypropionate during fermentation. Furthermore, this ATR
+system appears to be conserved in other Gram-negative bacteria.
+
+DOI: 10.1038/s41467-020-15350-5 
+PMCID: PMC7083825
+PMID: 32198415  [Indexed for MEDLINE]
+

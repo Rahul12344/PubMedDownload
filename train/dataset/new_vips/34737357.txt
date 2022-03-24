@@ -1,0 +1,58 @@
+
+1. Cell Res. 2021 Nov 4. doi: 10.1038/s41422-021-00581-y. [Epub ahead of print]
+
+Comparison of viral RNA-host protein interactomes across pathogenic RNA viruses
+informs rapid antiviral drug discovery for SARS-CoV-2.
+
+Zhang S(#)(1), Huang W(#)(1), Ren L(#)(2)(3), Ju X(#)(4), Gong M(#)(4), Rao
+J(#)(2)(3), Sun L(1), Li P(1), Ding Q(5), Wang J(6)(7), Zhang QC(8).
+
+Author information: 
+(1)MOE Key Laboratory of Bioinformatics, Beijing Advanced Innovation Center for
+Structural Biology & Frontier Research Center for Biological Structure, Center
+for Synthetic and Systems Biology, Tsinghua-Peking Joint Center for Life
+Sciences, School of Life Sciences, Tsinghua University, Beijing, China.
+(2)NHC Key Laboratory of Systems Biology of Pathogens and Christophe Mérieux
+Laboratory, Institute of Pathogen Biology, Chinese Academy of Medical Sciences & 
+Peking Union Medical College, Beijing, China.
+(3)Key Laboratory of Respiratory Disease Pathogenomics, Chinese Academy of
+Medical Sciences and Peking Union Medical College, Beijing, China.
+(4)Center for Infectious Disease Research, School of Medicine, Tsinghua
+University, Beijing, China.
+(5)Center for Infectious Disease Research, School of Medicine, Tsinghua
+University, Beijing, China. qding@tsinghua.edu.cn.
+(6)NHC Key Laboratory of Systems Biology of Pathogens and Christophe Mérieux
+Laboratory, Institute of Pathogen Biology, Chinese Academy of Medical Sciences & 
+Peking Union Medical College, Beijing, China. wangjw28@163.com.
+(7)Key Laboratory of Respiratory Disease Pathogenomics, Chinese Academy of
+Medical Sciences and Peking Union Medical College, Beijing, China.
+wangjw28@163.com.
+(8)MOE Key Laboratory of Bioinformatics, Beijing Advanced Innovation Center for
+Structural Biology & Frontier Research Center for Biological Structure, Center
+for Synthetic and Systems Biology, Tsinghua-Peking Joint Center for Life
+Sciences, School of Life Sciences, Tsinghua University, Beijing, China.
+qczhang@tsinghua.edu.cn.
+(#)Contributed equally
+
+In contrast to the extensive research about viral protein-host protein
+interactions that has revealed major insights about how RNA viruses engage with
+host cells during infection, few studies have examined interactions between host 
+factors and viral RNAs (vRNAs). Here, we profiled vRNA-host protein interactomes 
+for three RNA virus pathogens (SARS-CoV-2, Zika, and Ebola viruses) using
+ChIRP-MS. Comparative interactome analyses discovered both common and
+virus-specific host responses and vRNA-associated proteins that variously promote
+or restrict viral infection. In particular, SARS-CoV-2 binds and hijacks the host
+factor IGF2BP1 to stabilize vRNA and augment viral translation. Our
+interactome-informed drug repurposing efforts identified several FDA-approved
+drugs (e.g., Cepharanthine) as broad-spectrum antivirals in cells and hACE2
+transgenic mice. A co-treatment comprising Cepharanthine and Trifluoperazine was 
+highly potent against the newly emerged SARS-CoV-2 B.1.351 variant. Thus, our
+study illustrates the scientific and medical discovery utility of adopting a
+comparative vRNA-host protein interactome perspective.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41422-021-00581-y 
+PMCID: PMC8566969
+PMID: 34737357 
+

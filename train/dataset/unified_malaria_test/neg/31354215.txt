@@ -1,0 +1,46 @@
+
+1. chin j cancer res. 2019 jun;31(3):463-470. doi:
+10.21147/j.issn.1000-9604.2019.03.08.
+
+immune signature profiling identified prognostic factors gastric cancer.
+
+yang w(1)(2), lai z(1), li y(3), mu j(4), yang m(5), xie j(2), xu j(1).
+
+author information: 
+(1)shanxi academy medical sciences, shanxi dayi hospital, taiyuan 030032,
+china.
+(2)department biochemistry molecular biology, shanxi medical university,
+taiyuan 030001, china.
+(3)department oncology, renmin hospital wuhan university, wuhan 430060,
+china.
+(4)laboratory malaria vector research, national institute allergy and
+infectious diseases, national institutes health, rockville 20852, usa.
+(5)shanxi provincial cancer hospital, affiliated cancer hospital shanxi
+medical university, taiyuan 030013, china.
+
+objective: tumor microenvironment, especially host immune system, plays a
+pivotal role tumor initiation progression. profiling immune signature
+within tumor might uncover biomarkers targeted therapies clinical
+outcomes. however, systematic analysis immune-related genes gastric cancer 
+(gc) reported.
+methods: expressions total 718 immune-related genes generated 372
+stomach adenocarcinoma (stad) patients cancer genome atlas (tcga)
+database using rna-sequencing data. integrated bioinformatics analyses were
+performed identify prognostic factors well.
+results: survival analyses revealed 73 genes, significantly associated
+with patient's overall survival (os). taken together clinicopathological
+parameters, established predictive model, containing 10 immune-related
+genes, nrp1, c6, cxcr4, lbp, pnma1, tlr5, itga6, micb, pbk and
+tnfrsf18, powerful efficiency distinguishing satisfactory poor
+survival stad patients. moreover, top 3 ranked prognostic genes, nrp1,
+tgfβ2 mfge8, also significantly associated patient's os an
+independent validation achieved kaplan-meier plotter database.
+conclusions: profiled prognostic immune signature established prognostic
+predictive model gc, could reflect immune disorders within tumor
+microenvironment, also may provide novel predictive therapeutic targets
+for gc patients near future.
+
+doi: 10.21147/j.issn.1000-9604.2019.03.08 
+pmcid: pmc6613504
+pmid: 31354215 
+

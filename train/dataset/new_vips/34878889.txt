@@ -1,0 +1,63 @@
+
+1. J Virol. 2021 Dec 8:JVI0200521. doi: 10.1128/JVI.02005-21. [Epub ahead of print]
+
+Rab1b-GBF1-ARF1 secretory pathway axis is required for Birnavirus replication.
+
+Gimenez MC(1)(2)(3), Frontini-Lopez YR(1), Pocognoni CA(1), Roldán JS(4),
+Samartino CG(5), Uhart M(1), Colombo MI(1), Terebiznik MR(3), Delgui LR(1)(6).
+
+Author information: 
+(1)IHEM, Universidad Nacional de Cuyo, CONICET, Mendoza, Argentina.
+(2)Facultad de Ciencias Veterinarias y Ambientales, Universidad Juan Agustín
+Maza, Mendoza, Argentina.
+(3)Department of Biological Sciences and Department of Cell and System Biology,
+University of Toronto at Scarborough, Canada.
+(4)Instituto de Investigaciones Biotecnológicas "Dr. Rodolfo A. Ugalde" (IIBIO), 
+Universidad Nacional de San Martín (UNSAM), Consejo Nacional de Investigaciones
+Científicas y Técnicas (CONICET), San Martín, Buenos Aires, Argentina.
+(5)Facultad de Ciencias Médicas, Universidad Nacional de Cuyo, Mendoza,
+Argentina.
+(6)Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Cuyo,
+Mendoza, Argentina.
+
+Birnaviruses are members of the Birnaviridae family, responsible for major
+economic losses to poultry and aquaculture. The family is composed of
+non-enveloped viruses with a segmented double-stranded RNA (dsRNA) genome.
+Infectious bursal disease virus (IBDV), the prototypic family member, is the
+etiological agent of Gumboro disease, a highly contagious immunosuppressive
+disease in the poultry industry worldwide. We previously demonstrated that IBDV
+hijacks the endocytic pathway for establishing the viral replication complexes on
+endosomes associated with the Golgi complex (GC). In this work, we report that
+IBDV reorganizes the GC to localize the endosome-associated replication complexes
+without affecting its secretory functionality. Analyzing crucial proteins
+involved in the secretory pathway, we showed the essential requirement of Rab1b
+for viral replication. Rab1b comprises a key regulator of GC transport and we
+demonstrate that transfecting the negative mutant Rab1b N121I or knocking down
+Rab1b expression by RNA interference significantly reduces the yield of
+infectious viral progeny. Furthermore, we showed that the Rab1b downstream
+effector Golgi-specific BFA resistance factor 1 (GBF1), which activates the small
+GTPase ADP-ribosylation factor 1 (ARF1), is required for IBDV replication since
+inhibiting its activity by treatment with brefeldin A (BFA) or Golgicide A (GCA) 
+significantly reduces the yield of infectious viral progeny. Finally, we show
+that ARF1 dominant negative-mutant T31N over-expression hampered the IBDV
+infection. Taken together, these results demonstrate that IBDV requires the
+function of the Rab1b-GBF1-ARF1 axis to promote its replication, making a
+substantial contribution to the field of birnaviruses-host cell interactions.
+IMPORTANCE Birnaviruses are unconventional members of the dsRNA viruses, being
+the lack of a transcriptionally active core the main differential feature. This
+structural trait, among others that resemble the plus single-stranded (+ssRNA)
+viruses features, suggests that birnaviruses might follow a different replication
+program from that conducted by prototypical dsRNA members and have argued the
+hypothesis that birnaviruses could be evolutionary links between +ssRNA and dsRNA
+viruses. Here, we present original data showing the IBDV-induced GC
+reorganization and the crosstalk between IBDV and the Rab1b-GBF1-ARF1 mediated
+intracellular trafficking pathway. The replication of several +ssRNA viruses
+depends on the cellular protein GBF1, but its role in the replication process is 
+not clear. Thus, our findings make a substantial contribution to the field of
+birnaviruses-host cells and provide further evidence supporting the proposed
+evolutionary connection role of birnaviruses, an aspect which we consider
+especially relevant for researchers working in the virology field.
+
+DOI: 10.1128/JVI.02005-21 
+PMID: 34878889 
+

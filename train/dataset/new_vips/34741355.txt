@@ -1,0 +1,47 @@
+
+1. J Dermatol. 2021 Nov 5. doi: 10.1111/1346-8138.16218. [Epub ahead of print]
+
+A novel nomogram based on a retrospective study of 346 patients to predict the
+recurrence risk of condyloma acuminatum after 5-aminolevulinic acid photodynamic 
+therapy.
+
+Zhou S(1), Gu L(1), Shi Z(1), Gu L(1), Zhou B(2), Hua H(1).
+
+Author information: 
+(1)Department of Dermatology, Nantong Third People's Hospital Affiliated to
+Nantong University, Nantong, China.
+(2)Department of Dermatology, The First Affiliated Hospital of Nanjing Medical
+University, Nanjing, China.
+
+Condyloma acuminatum (CA) is a sexually transmitted disease caused by human
+papillomavirus (HPV) often with high recurrence rate after treatment. This study 
+aimed to construct and evaluate a nomogram model containing three clinical
+parameters to predict the recurrence risk of CA after 5-aminolevulinic acid
+photodynamic therapy (ALA-PDT). A predictive model was established based on a
+training cohort of 346 CA patients treated with ALA-PDT between January 2013 and 
+July 2018. A validation cohort of 123 CA patients was recruited from August 2018 
+to December 2019. The least absolute shrinkage and selection operator (LASSO)
+regression model was used to optimize the clinical feature selection. A nomogram 
+predicting the recurrence of CA after ALA-PDT was constructed based on the
+predictors identified by LASSO regression. C-index and area under the curve (AUC)
+values were used to evaluate the discrimination. Calibration was evaluated with a
+calibration curve. The net benefit was performed via decision curve analysis
+(DCA). In the training cohort, 55 (15.89%) patients experienced recurrences after
+ALA-PDT. Predictors selected by LASSO regression were concomitant human
+immunodeficiency virus (HIV) infection [Hazard ratio (HR) = 4.4; 95% confidence
+interval (CI), 2.5-7.9; p < 0.001], skin and mucosa as affected area (HR = 1.7;
+95% CI, 0.9-3.1; p = 0.109), and more than one time of CO2 laser therapy
+(HR = 6.3; 95% CI, 2.8-13.9; p < 0.001). The nomogram showed a good performance
+in predicting recurrence as the C-indexes were 0.843 (95% CI, 0.799-0.887) in the
+training cohort, and 0.831 (95% CI, 0.727-0.934) in the validation cohort. The
+AUCs of the nomogram were 0.85 in training and 0.8 in validation. DCA confirmed
+the nomogram was clinically useful when the intervention was determined at the
+non-adherence possibility threshold of 5%. This nomogram can provide
+individualized prediction for the recurrence risk of CA in patients treated by
+ALA-PDT.
+
+© 2021 Japanese Dermatological Association.
+
+DOI: 10.1111/1346-8138.16218 
+PMID: 34741355 
+

@@ -1,0 +1,52 @@
+
+1. Results Phys. 2021 Dec;31:104917. doi: 10.1016/j.rinp.2021.104917. Epub 2021 Oct 
+23.
+
+Mathematical analysis for the effect of voluntary vaccination on the propagation 
+of Corona virus pandemic.
+
+Ahmad W(1), Abbas M(1), Rafiq M(2), Baleanu D(3)(4)(5).
+
+Author information: 
+(1)Department of Mathematics, GC University, Lahore, Pakistan.
+(2)Department of Mathematics, Faculty of Sciences, University of Central Punjab
+Lahore, Pakistan.
+(3)Department of Mathematics, Cankaya University, Ankara, Turkey.
+(4)Institute of Space Sciences, Magurele, Bucharest, Romania.
+(5)Department of Medical Research, China Medical University Hospital, China
+Medical University, Taichung, Taiwan.
+
+In this manuscript, a new nonlinear model for the rapidly spreading Corona virus 
+disease (COVID-19) is developed. We incorporate an additional class of vaccinated
+humans which ascertains the impact of vaccination strategy for susceptible
+humans. A complete mathematical analysis of this model is conducted to predict
+the dynamics of Corona virus in the population. The analysis proves the
+effectiveness of vaccination strategy employed and helps public health services
+to control or to reduce the burden of corona virus pandemic. We first prove the
+existence and uniqueness and then boundedness and positivity of solutions.
+Threshold parameter for the vaccination model is computed analytically. Stability
+of the proposed model at fixed points is investigated analytically with the help 
+of threshold parameter to examine epidemiological relevance of the pandemic. We
+apply LaSalle's invariance principle from the theory of Lyapunov function to
+prove the global stability of both the equilibria. Two well known numerical
+techniques namely Runge-Kutta method of order 4 (RK4), and the Non-Standard
+Finite Difference (NSFD) method are employed to solve the system of ODE's and to 
+validate our obtained theoretical results. For different coverage levels of
+voluntary vaccination, we explored a complete quantitative analysis of the model.
+To draw our conclusions, the effect of proposed vaccination on threshold
+parameter is studied numerically. It is claimed that Corona virus disease could
+be eradicated faster if a human community selfishly adopts mandatory vaccination 
+measures at various coverage levels with proper awareness. Finally, we have
+executed the joint variability of all classes to understand the effect of
+vaccination strategy on a disease dynamics.
+
+© 2021 Published by Elsevier B.V.
+
+DOI: 10.1016/j.rinp.2021.104917 
+PMCID: PMC8536489
+PMID: 34722138 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

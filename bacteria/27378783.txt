@@ -1,0 +1,42 @@
+
+1. Nucleic Acids Res. 2016 Aug 19;44(14):6830-9. doi: 10.1093/nar/gkw601. Epub 2016 
+Jul 4.
+
+Experimental single-strain mobilomics reveals events that shape pathogen
+emergence.
+
+Schoeniger JS(1), Hudson CM(1), Bent ZW(1), Sinha A(1), Williams KP(2).
+
+Author information: 
+(1)Systems Biology Department, Sandia National Laboratories, Livermore, CA 94551,
+USA.
+(2)Systems Biology Department, Sandia National Laboratories, Livermore, CA 94551,
+USA kpwilli@sandia.gov.
+
+Virulence genes on mobile DNAs such as genomic islands (GIs) and plasmids promote
+bacterial pathogen emergence. Excision is an early step in GI mobilization,
+producing a circular GI and a deletion site in the chromosome; circular forms are
+also known for some bacterial insertion sequences (ISs). The recombinant sequence
+at the junctions of such circles and deletions can be detected sensitively in
+high-throughput sequencing data, using new computational methods that enable
+empirical discovery of mobile DNAs. For the rich mobilome of a hospital
+Klebsiella pneumoniae strain, circularization junctions (CJs) were detected for
+six GIs and seven IS types. Our methods revealed differential biology of multiple
+mobile DNAs, imprecision of integrases and transposases, and differential
+activity among identical IS copies for IS26, ISKpn18 and ISKpn21 Using the
+resistance of circular dsDNA molecules to exonuclease, internally calibrated with
+the native plasmids, showed that not all molecules bearing GI CJs were circular. 
+Transpositions were also detected, revealing replicon preference (ISKpn18 prefers
+a conjugative IncA/C2 plasmid), local action (IS26), regional preferences,
+selection (against capsule synthesis) and IS polarity inversion. Efficient
+discovery and global characterization of numerous mobile elements per experiment 
+improves accounting for the new gene combinations that arise in emerging
+pathogens.
+
+© The Author(s) 2016. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkw601 
+PMCID: PMC5001619
+PMID: 27378783  [Indexed for MEDLINE]
+

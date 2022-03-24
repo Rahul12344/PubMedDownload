@@ -1,0 +1,41 @@
+
+1. J Vis Exp. 2021 Oct 30;(176). doi: 10.3791/62422.
+
+High-throughput Antiviral Assays to Screen for Inhibitors of Zika Virus
+Replication.
+
+Fernandes RS(1), Noske GD(1), Gawriljuk VO(1), de Oliveira KIZ(1), Godoy AS(1),
+Mesquita NCMR(1), Oliva G(2).
+
+Author information: 
+(1)São Carlos Institute of Physics, University of Sao Paulo.
+(2)São Carlos Institute of Physics, University of Sao Paulo; oliva@ifsc.usp.br.
+
+Antiviral drug discovery requires the development of reliable biochemical and
+cellular assays that can be performed in high-throughput screening (HTS) formats.
+The flavivirus non-structural (NS) proteins are thought to co-translationally
+assemble on the endoplasmic reticulum (ER) membranes, forming the replication
+complex (RC). The NS3 and NS5 are the most studied enzymes of the RC and
+constitute the main targets for drug development due to their crucial roles in
+viral genome replication. NS3 protease domain, which requires NS2B as its
+cofactor, is responsible for the cleavage of the immature viral polyprotein into 
+the mature NS proteins, whereas NS5 RdRp domain is responsible for the RNA
+replication. Herein, we describe in detail the protocols used in replicon-based
+screenings and enzymatic assays to test large compound libraries for inhibitors
+of the Zika virus (ZIKV) replication. Replicons are self-replicating subgenomic
+systems expressed in mammalian cells, in which the viral structural genes are
+replaced by a reporter gene. The inhibitory effects of compounds on viral RNA
+replication can be easily evaluated by measuring the reduction in the reporter
+protein activity. The replicon-based screenings were performed using a BHK-21
+ZIKV replicon cell line expressing Renilla luciferase as a reporter gene. To
+characterize the specific targets of identified compounds, we established
+in-vitro fluorescence-based assays for recombinantly expressed NS3 protease and
+NS5 RdRp. The proteolytic activity of the viral protease was measured by using
+the fluorogenic peptide substrate Bz-nKRR-AMC, while the NS5 RdRp elongation
+activity was directly detected by the increase of the fluorescent signal of SYBR 
+Green I during RNA elongation, using the synthetic biotinylated self-priming
+template 3'UTR-U30 (5'-biotin-U30-ACUGGAGAUCGAUCUCCAGU-3').
+
+DOI: 10.3791/62422 
+PMID: 34779427 
+

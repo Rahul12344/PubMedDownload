@@ -1,0 +1,43 @@
+
+1. Biochim Biophys Acta Biomembr. 2017 Dec;1859(12):2420-2434. doi:
+10.1016/j.bbamem.2017.09.016. Epub 2017 Sep 21.
+
+Molecular analysis of human solute carrier SLC26 anion transporter
+disease-causing mutations using 3-dimensional homology modeling.
+
+Rapp C(1), Bai X(1), Reithmeier RAF(2).
+
+Author information: 
+(1)Department of Biochemistry, University of Toronto, Toronto, Ontario M5S 1A8,
+Canada.
+(2)Department of Biochemistry, University of Toronto, Toronto, Ontario M5S 1A8,
+Canada. Electronic address: r.reithmeier@utoronto.ca.
+
+The availability of the first crystal structure of a bacterial member (SLC26Dg)
+of the solute carrier SLC26 family of anion transporters has allowed us to create
+3-dimensional models of all 10 human members (SLC26A1-A11, A10 being a
+pseudogene) of these membrane proteins using the Phyre2 bioinformatic tool. The
+homology modeling predicted that the SLC26 human proteins, like the SLC26Dg
+template, all consist of 14 transmembrane segments (TM) arranged in a 7+7
+inverted topology with the amino-termini of two half-helices (TM3 and 10) facing 
+each other in the centre of the protein to create the anion-binding site, linked 
+to a C-terminal cytosolic sulfate transporter anti-sigma factor antagonist (STAS)
+domain. A plethora of human diseases are associated with mutations in the genes
+encoding human SLC26 transporters, including chondrodysplasias with varying
+severity in SLC26A2 (~50 mutations, 27 point mutations), congenital
+chloride-losing diarrhea in SLC26A3 (~70 mutations, 31 point mutations) and
+Pendred Syndrome or deafness autosomal recessive type 4 in SLC26A4 (~500
+mutations, 203 point mutations). We have localized all of these point mutations
+in the 3-dimensional structures of the respective SLC26A2, A3 and A4 proteins and
+systematically analyzed their effect on protein structure. While most
+disease-causing mutations may cause folding defects resulting in impaired
+trafficking of these membrane glycoproteins from the endoplasmic reticulum to the
+cell surface - as demonstrated in a number of functional expression studies - the
+modeling also revealed that a number of pathogenic mutations are localized to the
+anion-binding site, which may directly affect transport function.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbamem.2017.09.016 
+PMID: 28941661  [Indexed for MEDLINE]
+

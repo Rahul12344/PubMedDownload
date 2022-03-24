@@ -1,0 +1,46 @@
+
+1. Sci Rep. 2017 Sep 13;7(1):11480. doi: 10.1038/s41598-017-11915-5.
+
+Syk-dependent tyrosine phosphorylation of 3BP2 is required for optimal
+FcRγ-mediated phagocytosis and chemokine expression in U937 cells.
+
+Chihara K(1)(2), Kato Y(1)(3), Yoshiki H(1), Takeuchi K(1)(2), Fujieda S(3), Sada
+K(4)(5).
+
+Author information: 
+(1)Department of Genome Science and Microbiology, Faculty of Medical Sciences,
+University of Fukui, 23-3 Matsuoka-Shimoaizuki, Eiheiji, Fukui, 910-1193, Japan.
+(2)Life Science Innovation Center, University of Fukui, 3-9-1 Bunkyo, Fukui,
+Fukui, 910-8507, Japan.
+(3)Department of Otorhinolaryngology Head & Neck Surgery, Faculty of Medical
+Sciences, University of Fukui, 23-3 Matsuoka-Shimoaizuki, Eiheiji, Fukui,
+910-1193, Japan.
+(4)Department of Genome Science and Microbiology, Faculty of Medical Sciences,
+University of Fukui, 23-3 Matsuoka-Shimoaizuki, Eiheiji, Fukui, 910-1193, Japan. 
+ksada@u-fukui.ac.jp.
+(5)Life Science Innovation Center, University of Fukui, 3-9-1 Bunkyo, Fukui,
+Fukui, 910-8507, Japan. ksada@u-fukui.ac.jp.
+
+The adaptor protein c-Abl SH3 domain binding protein-2 (3BP2) is tyrosine
+phosphorylated by Syk in response to cross-linking of antigen receptors, which in
+turn activates various immune responses. Recently, a study using the mouse model 
+of cherubism, a dominant inherited disorder caused by mutations in the gene
+encoding 3BP2, showed that 3BP2 is involved in the regulation of phagocytosis
+mediated by Fc receptor for IgG (FcγR) in macrophages. However, the molecular
+mechanisms underlying 3BP2-mediated regulation of phagocytosis and the
+physiological relevance of 3BP2 tyrosine phosphorylation remains elusive. In this
+study, we established various gene knockout U937 cell lines using the CRISPR/Cas9
+system and found that 3BP2 is rapidly tyrosine phosphorylated by Syk in response 
+to cross-linking of FcγRI. Depletion of 3BP2 caused significant reduction in the 
+Fc receptor γ chain (FcRγ)-mediated phagocytosis in addition to the
+FcγRI-mediated induction of chemokine mRNA for IL-8, CCL3L3 and CCL4L2.
+Syk-dependent tyrosine phosphorylation of 3BP2 was required for overcoming these 
+defects. Finally, we found that the PH and SH2 domains play important roles on
+FcγRI-mediated tyrosine phosphorylation of 3BP2 in HL-60 cells. Taken together,
+these results indicate that Syk-dependent tyrosine phosphorylation of 3BP2 is
+required for optimal FcRγ-mediated phagocytosis and chemokine expression.
+
+DOI: 10.1038/s41598-017-11915-5 
+PMCID: PMC5597638
+PMID: 28904407  [Indexed for MEDLINE]
+

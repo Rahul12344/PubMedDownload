@@ -1,0 +1,58 @@
+
+1. Math Biosci. 2015 Oct;268:22-30. doi: 10.1016/j.mbs.2015.08.002. Epub 2015 Aug 8.
+
+Multi-objective experimental design for (13)C-based metabolic flux analysis.
+
+Bouvin J(1), Cajot S(1), D'Huys PJ(2), Ampofo-Asiama J(3), Anné J(4), Van Impe
+J(5), Geeraerd A(3), Bernaerts K(6).
+
+Author information: 
+(1)Bio- & chemical systems Technology, Reactor Engineering and Safety Section,
+Department of Chemical Engineering, KU Leuven, Celestijnenlaan 200F, 3001 Leuven,
+Belgium.
+(2)Department of Industrial Science and Technology, UC Leuven-Limburg, Agoralaan 
+Building B, 3590 Diepenbeek, Belgium.
+(3)Division of Mechatronics, Biostatistics and Sensors (MeBioS), Department of
+Biosystems, KU Leuven, Willem de Croylaan 42, 3001 Leuven, Belgium.
+(4)Laboratory of Molecular Bacteriology, Department of Microbiology and
+Immunology, KU Leuven, Herestraat 49, 3000 Leuven, Belgium.
+(5)Chemical and Biochemical Process Technology and Control section, Technology
+Campus Ghent, Gebroeders De Smetstraat 1, 9000 Gent, Belgium.
+(6)Bio- & chemical systems Technology, Reactor Engineering and Safety Section,
+Department of Chemical Engineering, KU Leuven, Celestijnenlaan 200F, 3001 Leuven,
+Belgium. Electronic address: kristel.bernaerts@cit.kuleuven.be.
+
+(13)C-based metabolic flux analysis is an excellent technique to resolve fluxes
+in the central carbon metabolism but costs can be significant when using
+specialized tracers. This work presents a framework for cost-effective design of 
+(13)C-tracer experiments, illustrated on two different networks. Linear and
+non-linear optimal input mixtures are computed for networks for Streptomyces
+lividans and a carcinoma cell line. If only glucose tracers are considered as
+labeled substrate for a carcinoma cell line or S. lividans, the best parameter
+estimation accuracy is obtained by mixtures containing high amounts of 1,2-(13)C2
+glucose combined with uniformly labeled glucose. Experimental designs are
+evaluated based on a linear (D-criterion) and non-linear approach (S-criterion). 
+Both approaches generate almost the same input mixture, however, the linear
+approach is favored due to its low computational effort. The high amount of
+1,2-(13)C2 glucose in the optimal designs coincides with a high experimental
+cost, which is further enhanced when labeling is introduced in glutamine and
+aspartate tracers. Multi-objective optimization gives the possibility to assess
+experimental quality and cost at the same time and can reveal excellent
+compromise experiments. For example, the combination of 100% 1,2-(13)C2 glucose
+with 100% position one labeled glutamine and the combination of 100% 1,2-(13)C2
+glucose with 100% uniformly labeled glutamine perform equally well for the
+carcinoma cell line, but the first mixture offers a decrease in cost of $ 120 per
+ml-scale cell culture experiment. We demonstrated the validity of a
+multi-objective linear approach to perform optimal experimental designs for the
+non-linear problem of (13)C-metabolic flux analysis. Tools and a workflow are
+provided to perform multi-objective design. The effortless calculation of the
+D-criterion can be exploited to perform high-throughput screening of possible
+(13)C-tracers, while the illustrated benefit of multi-objective design should
+stimulate its application within the field of (13)C-based metabolic flux
+analysis.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mbs.2015.08.002 
+PMID: 26265092  [Indexed for MEDLINE]
+

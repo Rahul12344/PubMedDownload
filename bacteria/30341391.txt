@@ -1,0 +1,45 @@
+
+1. Sci Rep. 2018 Oct 19;8(1):15509. doi: 10.1038/s41598-018-33647-w.
+
+A cAMP/CRP-controlled mechanism for the incorporation of extracellular
+ADP-glucose in Escherichia coli involving NupC and NupG nucleoside transporters.
+
+Almagro G(1), Viale AM(2), Montero M(1), Muñoz FJ(1), Baroja-Fernández E(1), Mori
+H(3), Pozueta-Romero J(4).
+
+Author information: 
+(1)Instituto de Agrobiotecnología (CSIC, UPNA, Gobierno de Navarra), Iruñako
+etorbidea 123, 31192, Mutiloa, Nafarroa, Spain.
+(2)Instituto de Biología Molecular y Celular de Rosario (IBR, CONICET),
+Departamento de Microbiología, Facultad de Ciencias Bioquímicas y Farmacéuticas, 
+Universidad Nacional de Rosario, Suipacha 521, 2000, Rosario, Argentina.
+(3)Data Science Center, Division of Biological Science, Nara Institute of Science
+and Technology, Ikoma, Nara, 630-0101, Japan.
+(4)Instituto de Agrobiotecnología (CSIC, UPNA, Gobierno de Navarra), Iruñako
+etorbidea 123, 31192, Mutiloa, Nafarroa, Spain. javier.pozueta@csic.es.
+
+ADP-glucose is the precursor of glycogen biosynthesis in bacteria, and a compound
+abundant in the starchy plant organs ingested by many mammals. Here we show that 
+the enteric species Escherichia coli is capable of scavenging exogenous
+ADP-glucose for use as a glycosyl donor in glycogen biosynthesis and feed the
+adenine nucleotide pool. To unravel the molecular mechanisms involved in this
+process, we screened the E. coli single-gene deletion mutants of the Keio
+collection for glycogen content in ADP-glucose-containing culture medium. In
+comparison to wild-type (WT) cells, individual ∆nupC and ∆nupG mutants lacking
+the cAMP/CRP responsive inner-membrane nucleoside transporters NupC and NupG
+displayed reduced glycogen contents and slow ADP-glucose incorporation. In
+concordance, ∆cya and ∆crp mutants accumulated low levels of glycogen and slowly 
+incorporated ADP-glucose. Two-thirds of the glycogen-excess mutants identified
+during screening lacked functions that underlie envelope biogenesis and
+integrity, including the RpoE specific RseA anti-sigma factor. These mutants
+exhibited higher ADP-glucose uptake than WT cells. The incorporation of either
+∆crp, ∆nupG or ∆nupC null alleles sharply reduced the ADP-glucose incorporation
+and glycogen content initially witnessed in ∆rseA cells. Overall, the data showed
+that E. coli incorporates extracellular ADP-glucose through a cAMP/CRP-regulated 
+process involving the NupC and NupG nucleoside transporters that is facilitated
+under envelope stress conditions.
+
+DOI: 10.1038/s41598-018-33647-w 
+PMCID: PMC6195507
+PMID: 30341391  [Indexed for MEDLINE]
+

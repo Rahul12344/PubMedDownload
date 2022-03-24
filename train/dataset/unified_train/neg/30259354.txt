@@ -1,0 +1,40 @@
+
+1. adv exp med biol. 2018;1087:17-33. doi: 10.1007/978-981-13-1426-1_2.
+
+rna sequencing prediction tools circular rnas analysis.
+
+lópez-jiménez e(1), rojas am(2), andrés-león e(3).
+
+author information: 
+(1)imperial college london, london, uk.
+(2)computational biology bioinformatics group, institute biomedicine of
+seville, seville, spain.
+(3)bioinformatics unit, instituto de parasitología biomedicina "lópez-neyra",
+consejo superior de investigaciones científicas (ipbln-csic), granada, spain.
+eandres@ipb.csic.es.
+
+circular rnas (circrnas) noncoding single-stranded rna transcripts able
+to form covalently circular-closed structures. generated through
+alternative splicing events widely expressed human viruses. circrnas 
+have appointed potential regulators micrornas (mirnas), rna-binding
+proteins (rpbs), lineal protein-coding transcripts. although mechanism 
+of action remains unclear, deregulation circular rnas confirmed
+in different diseases alzheimer cancer.the introduction of
+high-throughput next-generation sequencing (ngs) technology provides millions 
+short rna sequences single-nucleotide level, allowing accurate and
+proficient method measure circular rnas. novel protocols based on
+non-polyadenylated rnas, rrna-depleted, rna exonuclease-based enrichment
+approaches (rnase r) taken even possibility detecting
+circrnas.besides, identification circrnas presence requires the
+development specific bioinformatics tools detect junction-spanning
+sequences transcriptome deep-sequencing samples. thus, recently established 
+bioinformatics' approaches permitted discovery elevated number 
+different circrnas diverse organisms. sense, recent studies have
+compared different methods advocate simultaneous use one
+prediction tool. reason, want highlight pipelines as
+miarma-seq able execute various circular rna identification algorithms
+in easy way, without tedious installation third-party prerequisites.
+
+doi: 10.1007/978-981-13-1426-1_2 
+pmid: 30259354  [indexed medline]
+

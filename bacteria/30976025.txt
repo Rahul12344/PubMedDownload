@@ -1,0 +1,46 @@
+
+1. Sci Rep. 2019 Apr 11;9(1):5949. doi: 10.1038/s41598-019-41548-9.
+
+Accurate target identification for Mycobacterium tuberculosis endoribonuclease
+toxins requires expression in their native host.
+
+Cintrón M(1), Zeng JM(2), Barth VC(1), Cruz JW(1), Husson RN(2), Woychik
+NA(3)(4).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Rutgers University, Robert
+Wood Johnson Medical School, Piscataway, NJ, 08854, USA.
+(2)Division of Infectious Diseases, Boston Children's Hospital/Harvard Medical
+School, Boston, MA, 02115, USA.
+(3)Department of Biochemistry and Molecular Biology, Rutgers University, Robert
+Wood Johnson Medical School, Piscataway, NJ, 08854, USA.
+nancy.woychik@rutgers.edu.
+(4)Member, Rutgers Cancer Institute of New Jersey, Piscataway, 08854, USA.
+nancy.woychik@rutgers.edu.
+
+The Mycobacterium tuberculosis genome harbors an unusually high number of
+toxin-antitoxin (TA) systems. These TA systems have been implicated in
+establishing the nonreplicating persistent state of this pathogen during latent
+tuberculosis infection. More than half of the M. tuberculosis TA systems belong
+to the VapBC (virulence associated protein) family. In this work, we first
+identified the RNA targets for the M. tuberculosis VapC-mt11 (VapC11, Rv1561)
+toxin in vitro to learn more about the general function of this family of toxins.
+Recombinant VapC-mt11 cleaved 15 of the 45 M. tuberculosis tRNAs at a single site
+within their anticodon stem loop (ASL) to generate tRNA halves. Cleavage was
+dependent on the presence of a GG consensus sequence immediately before the cut
+site and a structurally intact ASL. However, in striking contrast to the broad
+enzyme activity exhibited in vitro, we used a specialized RNA-seq method to
+demonstrate that tRNA cleavage was highly specific in vivo. Expression of
+VapC-mt11 in M. tuberculosis resulted in cleavage of only two tRNA isoacceptors
+containing the GG consensus sequence, tRNAGln32-CUG and tRNALeu3-CAG. Therefore, 
+our results indicate that although in vitro studies are useful for identification
+of the class of RNA cleaved and consensus sequences required for accurate
+substrate recognition by endoribonuclease toxins, definitive RNA target
+identification requires toxin expression in their native host. The restricted in 
+vivo specificity of VapC-mt11 suggests that it may be enlisted to surgically
+manipulate pathogen physiology in response to stress.
+
+DOI: 10.1038/s41598-019-41548-9 
+PMCID: PMC6459853
+PMID: 30976025  [Indexed for MEDLINE]
+

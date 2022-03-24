@@ -1,0 +1,41 @@
+
+1. Sci Rep. 2021 Oct 21;11(1):20833. doi: 10.1038/s41598-021-00121-z.
+
+Meta-analysis of COVID-19 single-cell studies confirms eight key immune
+responses.
+
+Garg M(#)(1), Li X(#)(2), Moreno P(1), Papatheodorou I(1), Shu Y(3), Brazma A(4),
+Miao Z(5)(6).
+
+Author information: 
+(1)European Molecular Biology Laboratory, European Bioinformatics Institute
+(EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridge, UK.
+(2)School of Public Health (Shenzhen), Sun Yat-Sen University, Guangzhou, China.
+(3)School of Public Health (Shenzhen), Sun Yat-Sen University, Guangzhou, China. 
+shuylong@mail.sysu.edu.cn.
+(4)European Molecular Biology Laboratory, European Bioinformatics Institute
+(EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridge, UK. brazma@ebi.ac.uk.
+(5)European Molecular Biology Laboratory, European Bioinformatics Institute
+(EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridge, UK. zmiao@ebi.ac.uk.
+(6)Translational Research Institute of Brain and Brain-Like Intelligence and
+Department of Anesthesiology, Shanghai Fourth People's Hospital Affiliated to
+Tongji University School of Medicine, Shanghai, 200081, China. zmiao@ebi.ac.uk.
+(#)Contributed equally
+
+Several single-cell RNA sequencing (scRNA-seq) studies analyzing immune response 
+to COVID-19 infection have been recently published. Most of these studies have
+small sample sizes, which limits the conclusions that can be made with high
+confidence. By re-analyzing these data in a standardized manner, we validated 8
+of the 20 published results across multiple datasets. In particular, we found a
+consistent decrease in T-cells with increasing COVID-19 infection severity,
+upregulation of type I Interferon signal pathways, presence of expanded B-cell
+clones in COVID-19 patients but no consistent trend in T-cell clonal expansion.
+Overall, our results show that the conclusions drawn from scRNA-seq data analysis
+of small cohorts of COVID-19 patients need to be treated with some caution.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-00121-z 
+PMCID: PMC8531356
+PMID: 34675242  [Indexed for MEDLINE]
+

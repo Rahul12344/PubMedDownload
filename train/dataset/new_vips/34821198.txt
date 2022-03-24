@@ -1,0 +1,41 @@
+
+1. J Biomol Struct Dyn. 2021 Nov 25:1-10. doi: 10.1080/07391102.2021.2007170. [Epub 
+ahead of print]
+
+In silico screening and covalent binding of phytochemicals of Ocimum sanctum
+against SARS-CoV-2 (COVID 19) main protease.
+
+Mohapatra PK(1), Chopdar KS(2), Dash GC(3), Mohanty AK(4), Raval MK(5).
+
+Author information: 
+(1)Department of Chemistry, C. V. Raman Global University, Bhubaneswar, Odisha,
+India.
+(2)Department of Zoology, Rajendra College, Balangir, Odisha, India.
+(3)Department of Chemistry, APS College, Balangir, Odisha, India.
+(4)AI/ML Centre of Excellence, Department of Computer Science and Information
+Technology, CV Raman Global University, Bhubaneswar, Odisha, India.
+(5)School of Chemistry, Gangadhar Meher University, Sambalpur, Odisha, India.
+
+Coronavirus disease (COVID-19) caused by severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2) has compelled the scientific community to search for
+an effective drug that can cure or a vaccine that can prevent the disease.
+Alternatively, symptomatic treatment and traditional immunity boosters are
+prescribed. Holy Tulsi (Ocimum sanctum) has been known as an ancient remedy for
+cure of common cold and respiratory ailment. Several reports have come on virtual
+screening of phytochemicals including those of Tulsi against various enzymes of
+the virus. We undertook in silico analysis of the ethanol extracted
+phytochemicals of Tulsi as inhibitors of SARS-CoV-2 (2019-nCoV) main protease
+with an approach to look into the possibility of covalent ligand binding with the
+catalytic residue Cys145, which makes the report unique. The results suggest that
+the flavonoids and polyphenolic compounds of Tulsi, have potential to covalently 
+bind to the catalytic residue Cys145 of main protease and irreversibly inhibit
+the viral enzyme. Luteolin-7-O-glucuronide is specially considered for its
+optimum properties, namely, low toxicity (LD50 5000 mg/kg body weight), high
+drug-likeness score (0.71), the active site binding free energy (ΔGbind)
+-19.19 kcal/mol by GBSA method and covalent binding energy -24.23 kcal/mol.
+Further experimental validations are required to establish the theoretical
+findings.Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2021.2007170 
+PMID: 34821198 
+

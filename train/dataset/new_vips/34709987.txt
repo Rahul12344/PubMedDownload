@@ -1,0 +1,36 @@
+
+1. Bioengineered. 2021 Dec;12(2):9189-9215. doi: 10.1080/21655979.2021.1995991.
+
+Nanopore sensors for viral particle quantification: current progress and future
+prospects.
+
+Akhtarian S(1), Miri S(2), Doostmohammadi A(1), Brar SK(2), Rezai P(1).
+
+Author information: 
+(1)Department of Mechanical Engineering, York University, Toronto, ON, Canada.
+(2)Department of Civil Engineering, York University, Toronto, ON, Canada.
+
+Rapid, inexpensive, and laboratory-free diagnostic of viral pathogens is highly
+critical in controlling viral pandemics. In recent years, nanopore-based sensors 
+have been employed to detect, identify, and classify virus particles. By tracing 
+ionic current containing target molecules across nano-scale pores, nanopore
+sensors can recognize the target molecules at the single-molecule level. In the
+case of viruses, they enable discrimination of individual viruses and obtaining
+important information on the physical and chemical properties of viral particles.
+Despite classical benchtop virus detection methods, such as amplification
+techniques (e.g., PCR) or immunological assays (e.g., ELISA), that are mainly
+laboratory-based, expensive and time-consuming, nanopore-based sensing methods
+can enable low-cost and real-time point-of-care (PoC) and point-of-need (PoN)
+monitoring of target viruses. This review discusses the limitations of classical 
+virus detection methods in PoN virus monitoring and then provides a comprehensive
+overview of nanopore sensing technology and its emerging applications in
+quantifying virus particles and classifying virus sub-types. Afterward, it
+discusses the recent progress in the field of nanopore sensing, including
+integrating nanopore sensors with microfabrication technology, microfluidics and 
+artificial intelligence, which have been demonstrated to be promising in
+developing the next generation of low-cost and portable biosensors for the
+sensitive recognition of viruses and emerging pathogens.
+
+DOI: 10.1080/21655979.2021.1995991 
+PMID: 34709987 
+

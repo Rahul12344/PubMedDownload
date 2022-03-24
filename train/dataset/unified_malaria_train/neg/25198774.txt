@@ -1,0 +1,37 @@
+
+1. curr drug targets. 2014;15(12):1089-93.
+
+pfaldb: integrated drug target chemical database plasmodium
+falciparum.
+
+kumar a, agarwal n, pant l, singh jp, ghosh i, subbarao n(1).
+
+author information: 
+(1)school computational integrative sciences, jawaharlal nehru university,
+new delhi - 110067, india. nsrao@mail.jnu.ac.in.
+
+plasmodium falciparum one deadliest protozoan parasite species among
+those cause malaria. uncontrolled use antimalarial drugs resulted 
+evolutionary selection pressure favoring high levels resistance to
+antimalarials; currently p.falciparum shows resistance classes of
+antimalarials. therefore essential identify novel drug targets, and
+design selective anti-malarials overcome resistance. many drug
+targets freely available various public domain resources, single
+comprehensive source data containing easily searchable retrievable
+information currently lacking. facilitate total integration mining 
+of data emerging different drug consortia also prioritize drug
+targets structure-based drug design, open-access, inclusive comprehensive 
+database plasmodium falciparum established. meta data known/modeled
+structures along binding site parameters drug targets included 
+in database. additionally, chemical compounds showing positive inhibitory
+assay plasmodium falciparum known drug targets also been
+provided. database accessible http://pfaldb.jnu.ac.in. database
+provides diverse information regarding structure, sequence, stage specific
+gene expression, pathway, action mechanism, essentiality druggability for
+each drug target, literature assess validation status individual
+drug targets. also includes information individual anti-malarials with
+their activity bioassay.
+
+doi: 10.2174/1389450115666140908114939 
+pmid: 25198774  [indexed medline]
+

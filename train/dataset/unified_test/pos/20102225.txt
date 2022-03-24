@@ -1,0 +1,39 @@
+
+1. biochemistry. 2010 mar 9;49(9):1985-97. doi: 10.1021/bi902065k.
+
+identification bzip interaction partners viral proteins hbz, meq, bzlf1,
+and k-bzip using coiled-coil arrays.
+
+reinke aw(1), grigoryan g, keating ae.
+
+author information: 
+(1)department biology, massachusetts institute technology, cambridge,
+massachusetts 02139, usa.
+
+basic-region leucine-zipper transcription factors (bzips) contain segment rich 
+in basic amino acids bind dna, followed leucine zipper can
+interact leucine zippers form coiled-coil homo- heterodimers.
+several viruses encode proteins containing bzip domains, including four that
+encode bzips lacking significant homology human protein. investigated
+the interaction specificity four viral bzips using coiled-coil arrays
+to assess self-associations well heterointeractions 33 representative 
+human bzips. arrays recapitulated reported viral-human interactions also 
+uncovered new associations. meq hbz interacted multiple human partners
+and unique interaction profiles compared human bzips, whereas k-bzip
+and bzlf1 displayed homospecificity. new interactions detected included hbz 
+mafb, mafg, atf2, cebpg, crebzf meq nfil3. confirmed in
+solution using circular dichroism. hbz heteroassociate mafb mafg 
+the presence mare-site dna, interaction dependent basic
+region hbz. nfil3 meq different yet overlapping dna-binding
+specificities form heterocomplex dna. computational design
+considering affinity meq specificity respect undesired
+bzip-type interactions used generate meq dimerization inhibitor. this
+peptide, anti-meq, bound meq stably specifically, assayed using
+coiled-coil arrays circular dichroism solution. anti-meq also inhibited
+meq binding dna. studies guide investigation function
+of viral human bzip complexes.
+
+doi: 10.1021/bi902065k 
+pmcid: pmc2841013
+pmid: 20102225  [indexed medline]
+

@@ -1,0 +1,58 @@
+
+1. J Virol. 2021 Nov 10:JVI0167821. doi: 10.1128/JVI.01678-21. [Epub ahead of print]
+
+A structurally conserved RNA element within SARS-CoV-2 ORF1a RNA and S mRNA
+regulates translation in response to viral S protein-induced signaling in human
+lung cells.
+
+Basu A(1), Penumutchu S(2), Nguyen K(3), Mbonye U(3), Tolbert BS(2), Karn J(3),
+Komar AA(1), Mazumder B(1).
+
+Author information: 
+(1)Center for Gene Regulation in Health and Disease, Department of Biological,
+Geological and Environmental Sciences, Cleveland State University, Cleveland, OH 
+44115, USA.
+(2)Department of Chemistry.
+(3)Department of Molecular Biology and Microbiology, Case Western Reserve
+University, Cleveland, OH 44106, USA.
+
+The positive-sense, single-stranded RNA genome SARS-CoV-2 harbors functionally
+important cis-acting elements governing critical aspects of viral gene
+expression. However, insights on how these elements sense various signals from
+the host cell and regulate viral protein synthesis are lacking. Here, we
+identified two novel cis-regulatory elements in SARS-CoV-2 ORF1a and S RNAs and
+describe their role in translational control of SARS-CoV-2. These elements are
+sequence-unrelated but form conserved hairpin structures (validated by NMR)
+resembling Gamma Activated Inhibitor of Translation (GAIT) elements that are
+found in a cohort of human mRNAs directing translational suppression in myeloid
+cells in response to IFN-γ. Our studies show that treatment of human lung cells
+with receptor-binding S1 subunit, S protein pseudotyped lentivirus, and S
+protein-containing virus-like particles triggers a signaling pathway involving
+DAP-kinase1 that leads to phosphorylation and release of the ribosomal protein
+L13a from the large ribosomal subunit. Released L13a forms a Virus Activated
+Inhibitor of Translation (VAIT) complex that binds to ORF1a and S VAIT elements, 
+causing translational silencing. Translational silencing requires extracellular S
+protein (and its interaction with host ACE2 receptor), but not its intracellular 
+synthesis. RNA-protein interaction analyses and in vitro translation experiments 
+showed that GAIT and VAIT elements do not compete with each other, highlighting
+differences between the two pathways. Sequence alignments of SARS-CoV-2 genomes
+showed a high level of conservation of VAIT elements, suggesting their functional
+importance. This VAIT-mediated translational control mechanism of SARS-CoV-2 may 
+provide novel targets for small molecule intervention and/or facilitate
+development of more effective mRNA vaccines. Importance Specific RNA elements in 
+the genomes of RNA viruses play important roles in host-virus interaction. For
+SARS-CoV-2, the mechanistic insights on how these RNA elements could sense the
+signals from the host cell are lacking. Here we report a novel relationship
+between the GAIT-like SARS-CoV-2 RNA element (called VAITs) and the signal
+generated from the host cell. We show that for SARS-CoV-2, the interaction of
+spike protein with ACE2 not only serves the purpose for viral entry into the host
+cell, but also transduces signals that culminate into the phosphorylation and the
+release of L13a from the large ribosomal subunit. We also show that this event
+leads to the translational arrest of ORF1a and S mRNAs in a manner dependent on
+the structure of the RNA elements. Translational control of viral mRNA by a
+host-cell generated signal triggered by viral protein is a new paradigm in the
+host-virus relationship.
+
+DOI: 10.1128/JVI.01678-21 
+PMID: 34757848 
+

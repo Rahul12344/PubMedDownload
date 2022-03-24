@@ -1,0 +1,31 @@
+
+1. Analyst. 2021 Nov 22;146(23):7207-7217. doi: 10.1039/d1an01458g.
+
+Localized surface plasmon resonance aptasensor for selective detection of
+SARS-CoV-2 S1 protein.
+
+Lewis T(1), Giroux E(1), Jovic M(2), Martic-Milne S(1).
+
+Author information: 
+(1)Department of Forensic Science, Environmental and Life Sciences Program, Trent
+University, Ontario, Canada, K9L0G2. sanelamartic@trentu.ca.
+(2)Nicoya Lifesciences Inc., Kitchener, Ontario, Canada, N2G2K4.
+
+In this work, we designed and developed a method to detect S1 spike protein of
+SARS-CoV-2. The portable Localized Surface Plasmon Resonance instrument equipped 
+with a two-channel system was combined with the biotin-streptavidin platform on a
+nanogold surface to immobilize biotinylated aptamers. The proposed assay does not
+utilize antibodies or enzyme-based reagents, further simplifying the detection
+method. Using aptamer-protein bioaffinity interactions, the aptasensor
+selectively and specifically detected in real-time S1 spike protein, rather than 
+S2 spike protein, RBD spike protein, or bovine serum albumin. The dynamic range
+and limit of detection of the aptasensor was determined to be 1 nM-100 nM and
+0.26 nM, respectively. Notably, aptasensor detected preferentially S1 protein of 
+SARS-CoV-2 compared to SARS-CoV and detected S1 protein with >95% recovery in
+artificial saliva, and serum albumin, excellent repeatability and shelf-life
+stability. The method may provide a low-cost, rapid, and real-time detection and 
+monitoring of viruses in the general public.
+
+DOI: 10.1039/d1an01458g 
+PMID: 34724009  [Indexed for MEDLINE]
+

@@ -1,0 +1,43 @@
+
+1. Antimicrob Agents Chemother. 2016 Oct 21;60(11):6780-6786. doi:
+10.1128/AAC.01121-16. Print 2016 Nov.
+
+Characterization of Two Multidrug-Resistant IncA/C Plasmids from the 1960s by
+Using the MinION Sequencer Device.
+
+Szabó M(1), Nagy T(1), Wilk T(1), Farkas T(1), Hegyi A(1), Olasz F(1), Kiss J(2).
+
+Author information: 
+(1)Agricultural Biotechnology Institute, National Agricultural Research and
+Innovation Centre, Gödöllő, Hungary.
+(2)Agricultural Biotechnology Institute, National Agricultural Research and
+Innovation Centre, Gödöllő, Hungary kiss.janos@abc.naik.hu.
+
+Two A/C incompatibility group (IncA/C family) plasmids from the 1960s have been
+sequenced and classified into the A/C2 type 1 group. R16a and IP40a contain novel
+antibiotic resistance islands and a complete GIsul2 genomic island not previously
+found in the family. In the 173.1-kb R16a, the 29.9-kb antibiotic resistance
+island (ARI) is located in a unique backbone position not utilized by ARIs.
+ARIR16a consists of Tn1, Tn6020, and Tn6333, harboring the resistance genes
+blaTEM-1D and aphA1b and a mer module, respectively; a truncated Tn5393 copy; and
+a gene cluster with unknown function. Plasmid IP40a is 170.4 kb in size and
+contains a 5.6-kb ARI inserted into the kfrA gene. ARIIP40a carrying blaTEM-1D
+and aphA1b genes is composed of Tn1 with a Tn6023 insertion. Additionally, IP40a 
+harbors single IS2, IS186, and Tn1000 insertions scattered in the backbone; an
+IS150 copy in GIsul2; and a complete Tn6333 carrying a mer module at the position
+of ARIR16a Loss of resistance markers in R16a, IP40a, and R55 was observed during
+stability tests. Every phenotypic change proved to be the result of recombination
+events involving mobile elements. Intramolecular transposition of IS copies that 
+generated IP40a derivatives lacking large parts of the backbone could account for
+the formation of other family members, too. The MinION platform proved to be a
+valuable tool in bacterial genome sequencing since it generates long reads that
+span repetitive elements and facilitates full-length plasmid or chromosome
+assembly. Nanopore technology enables rapid characterization of large,
+low-copy-number plasmids and their rearrangement products.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/AAC.01121-16 
+PMCID: PMC5075086
+PMID: 27600047  [Indexed for MEDLINE]
+

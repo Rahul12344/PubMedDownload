@@ -1,0 +1,34 @@
+
+1. Spat Spatiotemporal Epidemiol. 2021 Nov;39:100461. doi:
+10.1016/j.sste.2021.100461. Epub 2021 Oct 25.
+
+Applying Spatio-temporal Scan Statistics and Spatial Autocorrelation Statistics
+to identify Covid-19 clusters in the world - A Vaccination Strategy?
+
+Morais LRA(1), Gomes GSDS(2).
+
+Author information: 
+(1)Department of Statistics, Federal University of Bahia (UFBA), Salvador,
+Brazil. Electronic address: lucas.rabelo@ufba.br.
+(2)Department of Statistics, Federal University of Bahia (UFBA), Salvador,
+Brazil.
+
+With the whole world being affected by the pandemic, it is a matter of great
+importance that studies about spatial and spatio-temporal aspects of the COVID-19
+(Sars-Cov-2) pandemic should be conducted, therefore the main goal of this paper 
+is to present the Global Moran's I and the Local Moran's I used to evaluate
+spatial association in the number of deaths and infections by COVID-19, and a
+spatio-temporal Poisson scan statistic used to identify emerging or "alive"
+clusters of infections by Sars-Cov-2 in space and time. As of January 2021
+vaccination against COVID-19 already started, since the use of spatial clustering
+methods to identify non-vaccinated populations is not new among studies on
+vaccination coverage strategies, this paper also aims to discuss the
+implementation of spatial and spatio-temporal clustering methods in early
+vaccination.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.sste.2021.100461 
+PMCID: PMC8545727
+PMID: 34774258  [Indexed for MEDLINE]
+

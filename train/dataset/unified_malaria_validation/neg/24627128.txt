@@ -1,0 +1,35 @@
+
+1. j lipid res. 2014 may;55(5):929-38. doi: 10.1194/jlr.m048017. epub 2014 mar 13.
+
+genome profiling sterol synthesis shows convergent evolution parasites 
+guides chemotherapeutic attack.
+
+fügi ma(1), gunasekera k, ochsenreiter t, guan x, wenk mr, mäser p.
+
+author information: 
+(1)swiss tropical public health institute, basel, switzerland.
+
+sterols essential class lipids eukaryotes, serve as
+structural components membranes play important roles signaling
+molecules. sterols also high pharmacological significance:
+cholesterol-lowering drugs blockbusters human health, inhibitors of
+ergosterol biosynthesis widely used antifungals. inhibitors ergosterol 
+synthesis also developed chagas's disease, caused trypanosoma
+cruzi. develop silico pipeline globally evaluate sterol
+metabolism perform comparative genomics. generate library hidden
+markov model-based profiles 42 sterol biosynthetic enzymes, allows
+expressing genomic makeup given species numerical vector.
+hierarchical clustering vectors functionally groups eukaryote proteomes 
+and reveals convergent evolution, particular metabolic reduction obligate
+endoparasites. experimentally explore sterol metabolism testing set of
+sterol biosynthesis inhibitors trypanosomatids, plasmodium falciparum,
+giardia, mammalian cells, quantifying expression levels sterol 
+biosynthetic genes different life stages t. cruzi trypanosoma
+brucei. phenotypic data correlate genomic makeup simvastatin, 
+showed activity trypanosomatids. findings, activity 
+terbinafine giardia, agreement genotypic profile.
+
+doi: 10.1194/jlr.m048017 
+pmcid: pmc3995470
+pmid: 24627128  [indexed medline]
+

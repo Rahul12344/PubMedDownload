@@ -1,0 +1,44 @@
+
+1. J Am Chem Soc. 2021 Nov 17;143(45):19137-19148. doi: 10.1021/jacs.1c08922. Epub
+2021 Nov 5.
+
+Preservation of HIV-1 Gag Helical Bundle Symmetry by Bevirimat Is Central to
+Maturation Inhibition.
+
+Pak AJ(1), Purdy MD(2), Yeager M(2)(3)(4)(5), Voth GA(1).
+
+Author information: 
+(1)Department of Chemistry, Chicago Center for Theoretical Chemistry, Institute
+for Biophysical Dynamics, and James Franck Institute, The University of Chicago, 
+Chicago, Illinois 60637, United States.
+(2)Department of Molecular Physiology and Biological Physics, University of
+Virginia School of Medicine, Charlottesville, Virginia 22908, United States.
+(3)Center for Membrane Biology, University of Virginia School of Medicine,
+Charlottesville, Virginia 22908, United States.
+(4)Cardiovascular Research Center, University of Virginia School of Medicine,
+Charlottesville, Virginia 22908, United States.
+(5)Department of Medicine, Division of Cardiovascular Medicine, University of
+Virginia School of Medicine, Charlottesville, Virginia 22908, United States.
+
+The assembly and maturation of human immunodeficiency virus type 1 (HIV-1)
+require proteolytic cleavage of the Gag polyprotein. The rate-limiting step
+resides at the junction between the capsid protein CA and spacer peptide 1, which
+assembles as a six-helix bundle (6HB). Bevirimat (BVM), the first-in-class
+maturation inhibitor drug, targets the 6HB and impedes proteolytic cleavage, yet 
+the molecular mechanisms of its activity, and relatedly, the escape mechanisms of
+mutant viruses, remain unclear. Here, we employed extensive molecular dynamics
+(MD) simulations and free energy calculations to quantitatively investigate
+molecular structure-activity relationships, comparing wild-type and mutant
+viruses in the presence and absence of BVM and inositol hexakisphosphate (IP6),
+an assembly cofactor. Our analysis shows that the efficacy of BVM is directly
+correlated with preservation of 6-fold symmetry in the 6HB, which exists as an
+ensemble of structural states. We identified two primary escape mechanisms, and
+both lead to loss of symmetry, thereby facilitating helix uncoiling to aid access
+of protease. Our findings also highlight specific interactions that can be
+targeted for improved inhibitor activity and support the use of MD simulations
+for future inhibitor design.
+
+DOI: 10.1021/jacs.1c08922 
+PMCID: PMC8610020 [Available on 2022-11-05]
+PMID: 34739240 
+

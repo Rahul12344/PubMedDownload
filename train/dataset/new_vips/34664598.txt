@@ -1,0 +1,42 @@
+
+1. Lab Chip. 2021 Nov 9;21(22):4477-4486. doi: 10.1039/d1lc00643f.
+
+Virus removal from semen with a pinched flow fractionation microfluidic chip.
+
+Hamacher T(1), Berendsen JTW(1), van Dongen JE(1), van der Hee RM(2), Cornelissen
+JJLM(2), Broekhuijse MLWJ(3)(4), Segerink LI(1).
+
+Author information: 
+(1)BIOS Lab on a Chip Group, MESA+ Institute for Nanotechnology & Technical
+Medical Centre, Max Planck - University of Twente Center for Complex Fluid
+Dynamics, University of Twente, P.O. Box 217, 7500 AE, Enschede, The Netherlands.
+t.hamacher@utwente.nl.
+(2)Department of Molecules & Materials, MESA+ Institute, University of Twente,
+P.O. Box 217, 7500 AE, Enschede, The Netherlands.
+(3)CRV, Wassenaarweg 20, 6843NW, Arnhem, The Netherlands.
+(4)Topigs Norsvin, 227, 5263LT Vught, The Netherlands.
+
+Nowadays pigs are bred with artificial insemination to reduce costs and
+transportation. To prevent the spread of diseases, it is important to test semen 
+samples for viruses. Screening techniques applied are enzyme-linked immunosorbent
+assays and/or polymerase chain reaction, which are labor-intensive and expensive 
+methods. In contrast to the current used screening techniques, it is possible to 
+remove viruses physically from semen. However, existing methods for virus removal
+techniques have a low yield of spermatozoa. Therefore, we have developed a
+microfluidic chip that performs size-based separation of viruses and spermatozoa 
+in boar semen samples, thereby having the potential to reduce the risk of disease
+spreading in the context of artificial insemination in the veterinary industry.
+As the head of a spermatozoon is at least twenty times larger than a virus
+particle, the particle size can be used to achieve separation, resulting in a
+semen sample with lower viral load and of higher quality. To achieve the size
+separation, our microfluidic device is based on pinched-flow fractionation. A
+model virus, cowpea chlorotic mottle virus, was used and spiked to porcine semen 
+samples. With the proposed microfluidic chip and the optimized flow parameters,
+at least 84 ± 4% of the model viruses were removed from the semen. The remaining 
+virus contamination is caused by the model virus adhering to spermatozoa instead 
+of the separation technique. The spermatozoa recovery was 86 ± 6%, which is an
+enormous improvement in yield compared to existing virus removal techniques.
+
+DOI: 10.1039/d1lc00643f 
+PMID: 34664598  [Indexed for MEDLINE]
+

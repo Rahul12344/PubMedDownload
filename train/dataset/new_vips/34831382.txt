@@ -1,0 +1,47 @@
+
+1. Cells. 2021 Nov 13;10(11). pii: 3159. doi: 10.3390/cells10113159.
+
+Identification of Cellular Factors Required for SARS-CoV-2 Replication.
+
+Synowiec A(1), Jedrysik M(1), Branicki W(2), Klajmon A(2), Lei J(3), Owczarek
+K(1), Suo C(3)(4), Szczepanski A(1)(5), Wang J(3), Zhang P(3), Labaj PP(6), Pyrc 
+K(1).
+
+Author information: 
+(1)ViroGenetics-BSL3 Laboratory of Virology, Malopolska Centre of Biotechnology, 
+Jagiellonian University, Gronostajowa 7a, 30-387 Krakow, Poland.
+(2)Human Genome Variation Research Group, Malopolska Centre of Biotechnology,
+Jagiellonian University, Gronostajowa 7a, 30-387 Krakow, Poland.
+(3)Key Laboratory of Public Health Safety, Department of Epidemiology & Ministry 
+of Education, School of Public Health, Fudan University, Shanghai 200032, China.
+(4)Taizhou Institute of Health Sciences, Fudan University, Taizhou 225316, China.
+(5)Microbiology Department, Faculty of Biochemistry, Biophysics and
+Biotechnology, Jagiellonian University, Gronostajowa 7, 30-387 Krakow, Poland.
+(6)Bioinformatics Research Group, Malopolska Centre of Biotechnology,
+Jagiellonian University, Gronostajowa 7a, 30-387 Krakow, Poland.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the recently
+emerged virus responsible for the COVID-19 pandemic. Clinical presentation can
+range from asymptomatic disease and mild respiratory tract infection to severe
+disease with lung injury, multiorgan failure, and death. SARS-CoV-2 is the third 
+animal coronavirus to emerge in humans in the 21st century, and coronaviruses
+appear to possess a unique ability to cross borders between species and infect a 
+wide range of organisms. This is somewhat surprising as, except for the
+requirement of host cell receptors, cell-pathogen interactions are usually
+species-specific. Insights into these host-virus interactions will provide a
+deeper understanding of the process of SARS-CoV-2 infection and provide a means
+for the design and development of antiviral agents. In this study, we describe a 
+complex analysis of SARS-CoV-2 infection using a genome-wide CRISPR-Cas9
+knock-out system in HeLa cells overexpressing entry receptor
+angiotensin-converting enzyme 2 (ACE2). This platform allows for the
+identification of factors required for viral replication. This study was designed
+to include a high number of replicates (48 replicates; 16 biological repeats with
+3 technical replicates each) to prevent data instability, remove sources of bias,
+and allow multifactorial bioinformatic analyses in order to study the resulting
+interaction network. The results obtained provide an interesting insight into the
+replication mechanisms of SARS-CoV-2.
+
+DOI: 10.3390/cells10113159 
+PMCID: PMC8622730
+PMID: 34831382 
+

@@ -1,0 +1,60 @@
+
+1. DNA Repair (Amst). 2015 Jun;30:1-10. doi: 10.1016/j.dnarep.2015.02.021. Epub 2015
+Mar 5.
+
+Differential repair of etheno-DNA adducts by bacterial and human AlkB proteins.
+
+Zdżalik D(1), Domańska A(2), Prorok P(3), Kosicki K(1), van den Born E(4), Falnes
+PØ(4), Rizzo CJ(5), Guengerich FP(6), Tudek B(7).
+
+Author information: 
+(1)Institute of Genetics and Biotechnology, Faculty of Biology, University of
+Warsaw, Warsaw, Poland.
+(2)Institute of Genetics and Biotechnology, Faculty of Biology, University of
+Warsaw, Warsaw, Poland; Institute of Biochemistry and Biophysics, Polish Academy 
+of Sciences, Warsaw, Poland.
+(3)Institute of Biochemistry and Biophysics, Polish Academy of Sciences, Warsaw, 
+Poland.
+(4)Department of Biosciences, University of Oslo, Oslo, Norway.
+(5)Department of Chemistry, Center in Molecular Toxicology, and Vanderbilt Ingram
+Cancer Center, Vanderbilt University, Nashville, TN, USA.
+(6)Department of Biochemistry, Center in Molecular Toxicology, and Vanderbilt
+Ingram Cancer Center, Vanderbilt University School of Medicine, Nashville, TN,
+USA.
+(7)Institute of Genetics and Biotechnology, Faculty of Biology, University of
+Warsaw, Warsaw, Poland; Institute of Biochemistry and Biophysics, Polish Academy 
+of Sciences, Warsaw, Poland. Electronic address: tudek@ibb.waw.pl.
+
+AlkB proteins are evolutionary conserved Fe(II)/2-oxoglutarate-dependent
+dioxygenases, which remove alkyl and highly promutagenic etheno(ɛ)-DNA adducts,
+but their substrate specificity has not been fully determined. We developed a
+novel assay for the repair of ɛ-adducts by AlkB enzymes using
+oligodeoxynucleotides with a single lesion and specific DNA glycosylases and
+AP-endonuclease for identification of the repair products. We compared the repair
+of three ɛ-adducts, 1,N(6)-ethenoadenine (ɛA), 3,N(4)-ethenocytosine (ɛC) and
+1,N(2)-ethenoguanine (1,N(2)-ɛG) by nine bacterial and two human AlkBs,
+representing four different structural groups defined on the basis of conserved
+amino acids in the nucleotide recognition lid, engaged in the enzyme binding to
+the substrate. Two bacterial AlkB proteins, MT-2B (from Mycobacterium
+tuberculosis) and SC-2B (Streptomyces coelicolor) did not repair these lesions in
+either double-stranded (ds) or single-stranded (ss) DNA. Three proteins, RE-2A
+(Rhizobium etli), SA-2B (Streptomyces avermitilis), and XC-2B (Xanthomonas
+campestris) efficiently removed all three lesions from the DNA substrates.
+Interestingly, XC-2B and RE-2A are the first AlkB proteins shown to be
+specialized for ɛ-adducts, since they do not repair methylated bases. Three other
+proteins, EcAlkB (Escherichia coli), SA-1A, and XC-1B removed ɛA and ɛC from ds
+and ssDNA but were inactive toward 1,N(2)-ɛG. SC-1A repaired only ɛA with the
+preference for dsDNA. The human enzyme ALKBH2 repaired all three ɛ-adducts in
+dsDNA, while only ɛA and ɛC in ssDNA and repair was less efficient in ssDNA.
+ALKBH3 repaired only ɛC in ssDNA. Altogether, we have shown for the first time
+that some AlkB proteins, namely ALKBH2, RE-2A, SA-2B and XC-2B can repair
+1,N(2)-ɛG and that ALKBH3 removes only ɛC from ssDNA. Our results also suggest
+that the nucleotide recognition lid is not the sole determinant of the substrate 
+specificity of AlkB proteins.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.dnarep.2015.02.021 
+PMCID: PMC4451939
+PMID: 25797601  [Indexed for MEDLINE]
+

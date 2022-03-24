@@ -1,0 +1,55 @@
+
+1. Int J Nanomedicine. 2019 Apr 8;14:2465-2483. doi: 10.2147/IJN.S195828.
+eCollection 2019.
+
+PEGylated and CD47-conjugated nanoellipsoidal artificial antigen-presenting cells
+minimize phagocytosis and augment anti-tumor T-cell responses.
+
+Song S(1), Jin X(1), Zhang L(1), Zhao C(1), Ding Y(1), Ang Q(1), Khaidav O(1),
+Shen C(1).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Medical School, Southeast
+University, Nanjing, Jiangsu Province 210009, People's Republic of China,
+chuanlaishen@seu.edu.cn.
+
+Purpose: Antigen-presenting cells (APCs) are powerful tools to expand
+antigen-specific T cells ex vivo and in vivo for tumor immunotherapy, but suffer 
+from time-consuming generation and biosafety concerns raised by live cells.
+Alternatively, the cell-free artificial antigen-presenting cells (aAPCs) have
+been rapidly developed. Nanoscale aAPCs are recently proposed owing to their
+superior biodistribution and reduced embolism than conventional cell-sized aAPCs,
+but pose the challenges: easier cellular uptake and smaller contact surface area 
+with T cells than the cell-sized counterparts. This study aimed to fabricate a
+new "stealth" nano-aAPCs with microscale contact surface area to minimize
+cellular uptake and activate antigen-specific T cells by combination uses of
+ellipsoidal stretch, PEGylation, and self-marker CD47-Fc conjugation.
+Methods: The spherical polylactic-co-glycolic acid nanoparticles were fabricated 
+using a double-emulsion method, and then stretched twofold using film-stretching 
+procedure followed by PEGylation and co-coupling with CD47-Fc,
+H-2Kb/TRP2180-188-Ig dimers, and anti-CD28. The resulting PEGylated and
+CD47-conjugated nanoellipsoidal aAPCs (EaAPCPEG/CD47) were co-cultured with
+macrophages or spleen lymphocytes and also infused into melanoma-bearing mice.
+The in vitro and in vivo effects were evaluated and compared with the
+nanospherical aAPCs (SaAPC), nanoellipsoidal aAPCs (EaAPC), or PEGylated
+nanoellipsoidal aAPC (EaAPCPEG).
+Results: EaAPCPEG/CD47 markedly reduced cellular uptake in vitro and in vivo, as 
+compared with EaAPCPEG, EaAPC, SaAPC, and Blank-NPs and expanded naïve
+TRP2180-188-specific CD8+ T cells in the co-cultures with spleen lymphocytes.
+After three infusions, the EaAPCPEG/CD47 showed much stronger effects on
+facilitating TRP2180-188-specific CD8+ T-cell proliferation, local infiltration, 
+and tumor necrosis in the melanoma-bearing mice and on inhibiting tumor growth
+than the control aAPCs.
+Conclusion: The superimposed or synergistic effects of ellipsoidal stretch,
+PEGylation, and CD47-Fc conjugation minimized cellular uptake of nano-aAPCs and
+enhanced their functionality to expand antigen-specific T cells and inhibit tumor
+growth, thus suggesting a more valuable strategy to design "stealth" nanoscale
+aAPCs suitable for tumor active immunotherapy.
+
+DOI: 10.2147/IJN.S195828 
+PMCID: PMC6459144
+PMID: 31040669  [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors report no conflicts of
+interest in this work.
+

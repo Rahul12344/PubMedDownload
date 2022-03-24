@@ -1,0 +1,66 @@
+
+1. Oncogene. 2019 Nov;38(46):7146-7165. doi: 10.1038/s41388-019-0935-y. Epub 2019
+Aug 15.
+
+The nuclear hypoxia-regulated NLUCAT1 long non-coding RNA contributes to an
+aggressive phenotype in lung adenocarcinoma through regulation of oxidative
+stress.
+
+Moreno Leon L(#)(1)(2), Gautier M(#)(1)(2), Allan R(1)(2), Ilié M(2)(3)(4),
+Nottet N(1)(2), Pons N(1)(2), Paquet A(1)(2), Lebrigand K(1)(2), Truchi M(1)(2), 
+Fassy J(1)(2), Magnone V(1)(2), Kinnebrew G(5), Radovich M(5), Cheok MH(6),
+Barbry P(1)(2), Vassaux G(2)(7), Marquette CH(2)(3)(8), Ponzio G(1)(2), Ivan
+M(9), Pottier N(10), Hofman P(2)(3)(4), Mari B(#)(11)(12), Rezzonico
+R(#)(13)(14).
+
+Author information: 
+(1)Université Côte d'Azur, CNRS UMR7275, IPMC, Valbonne, France.
+(2)FHU-OncoAge, Nice, France.
+(3)Université Côte d'Azur, CNRS, INSERM, IRCAN, Nice, France.
+(4)Hospital-Related Biobank (BB-0033-00025), Pasteur Hospital, Nice, France.
+(5)Department of Surgery, Medical and Molecular Genetics, Indiana University
+School of Medicine, Indianapolis, IN, 46202, USA.
+(6)INSERM UMR-S1172, Institute for Cancer Research of Lille, Factors of Leukemia 
+Cell Persistence, Lille, Cedex, France.
+(7)Université Côte d'Azur, INSERM, CNRS UMR7275, IPMC, Valbonne, France.
+(8)Department of Pneumology, CHU-Nice, Nice, France.
+(9)Department of Medicine and Department of Microbiology and Immunology, Indiana 
+University School of Medicine, Indianapolis, IN, 46202, USA.
+(10)EA4483, Faculté de Médecine de Lille, Pole Recherche, Lille, France.
+(11)Université Côte d'Azur, CNRS UMR7275, IPMC, Valbonne, France. mari@unice.fr.
+(12)FHU-OncoAge, Nice, France. mari@unice.fr.
+(13)FHU-OncoAge, Nice, France. rezzonico@ipmc.cnrs.fr.
+(14)Université Côte d'Azur, INSERM, CNRS UMR7275, IPMC, Valbonne, France.
+rezzonico@ipmc.cnrs.fr.
+(#)Contributed equally
+
+Erratum in
+    Oncogene. 2021 Apr;40(14):2621.
+
+Lung cancer is the leading cause of cancer death worldwide, with poor prognosis
+and a high rate of recurrence despite early surgical removal. Hypoxic regions
+within tumors represent sources of aggressiveness and resistance to therapy.
+Although long non-coding RNAs (lncRNAs) are increasingly recognized as major gene
+expression regulators, their regulation and function following hypoxic stress are
+still largely unexplored. Combining profiling studies on early-stage lung
+adenocarcinoma (LUAD) biopsies and on A549 LUAD cell lines cultured in normoxic
+or hypoxic conditions, we identified a subset of lncRNAs that are both correlated
+with the hypoxic status of tumors and regulated by hypoxia in vitro. We focused
+on a new transcript, NLUCAT1, which is strongly upregulated by hypoxia in vitro
+and correlated with hypoxic markers and poor prognosis in LUADs. Full molecular
+characterization showed that NLUCAT1 is a large nuclear transcript composed of
+six exons and mainly regulated by NF-κB and NRF2 transcription factors.
+CRISPR-Cas9-mediated invalidation of NLUCAT1 revealed a decrease in proliferative
+and invasive properties, an increase in oxidative stress and a higher sensitivity
+to cisplatin-induced apoptosis. Transcriptome analysis of NLUCAT1-deficient cells
+showed repressed genes within the antioxidant and/or cisplatin-response networks.
+We demonstrated that the concomitant knockdown of four of these genes products,
+GPX2, GLRX, ALDH3A1, and PDK4, significantly increased ROS-dependent caspase
+activation, thus partially mimicking the consequences of NLUCAT1 inactivation in 
+LUAD cells. Overall, we demonstrate that NLUCAT1 contributes to an aggressive
+phenotype in early-stage hypoxic tumors, suggesting it may represent a new
+potential therapeutic target in LUADs.
+
+DOI: 10.1038/s41388-019-0935-y 
+PMID: 31417181  [Indexed for MEDLINE]
+

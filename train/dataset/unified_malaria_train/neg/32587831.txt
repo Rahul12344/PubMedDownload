@@ -1,0 +1,55 @@
+
+1. front cell infect microbiol. 2020 jun 10;10:270. doi: 10.3389/fcimb.2020.00270.
+ecollection 2020.
+
+generation novel plasmodium falciparum nf135 nf54 lines expressing
+fluorescent reporter proteins control strong constitutive
+promoters.
+
+miyazaki s(1), yang asp(2), geurten fja(1), marin-mogollon c(1), miyazaki y(1),
+imai t(1)(3), kolli sk(1), ramesar j(1), chevalley-maurel s(1), salman am(4), van
+gemert ga(2), van waardenburg ym(2), franke-fayard b(1), hill avs(4), sauerwein
+rw(2)(5), janse cj(1), khan sm(1).
+
+author information: 
+(1)department parasitology, leiden university medical center, leiden,
+netherlands.
+(2)department medical microbiology, radboud center infectious diseases,
+radboud university medical center, nijmegen, netherlands.
+(3)department infectious diseases host defense, gunma university graduate 
+school medicine, maebashi, japan.
+(4)nuffield department medicine, jenner institute, university oxford,
+oxford, united kingdom.
+(5)tropiq health sciences, nijmegen, netherlands.
+
+transgenic reporter lines malaria parasites express fluorescent or
+luminescent proteins valuable tools drug vaccine screening assays 
+well interrogate parasite gene function. different plasmodium falciparum
+(pf ) reporter lines exist, however nearly created african
+nf54/3d7 laboratory strain. describe generation novel reporter
+lines, using crispr/cas9 gene modification, standard pf nf54
+background recently described cambodian p. falciparum nf135.c10 line.
+sporozoites line show effective hepatocyte invasion enhanced
+liver merozoite development compared pf nf54. first generated pf nf54
+reporter parasites analyze two novel promoters constitutive high
+expression mcherry-luciferase gfp blood mosquito stages. the
+promoter sequences selected based available transcriptome data are
+derived two housekeeping genes, i.e., translation initiation factor sui1,
+putative (sui1, pf3d7_1243600) 40s ribosomal protein s30 (40s,
+pf3d7_0219200). generated characterized reporter lines pf
+nf135.c10 line express gfp driven sui1 40s promoters well 
+by previously used ef1α promoter (gfp@ef1α, gfp@sui1, gfp@40s). gfp@40s
+reporter line showed strongest gfp expression liver stages compared 
+other two lines. strength reporter expression 40s promoter
+throughout complete life cycle, including liver stages, makes transgenic
+lines expressing reporters 40s promoter valuable novel tools analyses 
+of p. falciparum.
+
+copyright © 2020 miyazaki, yang, geurten, marin-mogollon, miyazaki, imai, kolli, 
+ramesar, chevalley-maurel, salman, van gemert, van waardenburg, franke-fayard,
+hill, sauerwein, janse khan.
+
+doi: 10.3389/fcimb.2020.00270 
+pmcid: pmc7298075
+pmid: 32587831 
+

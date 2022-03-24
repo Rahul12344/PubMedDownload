@@ -1,0 +1,59 @@
+
+1. Sci Rep. 2021 Nov 12;11(1):22195. doi: 10.1038/s41598-021-01690-9.
+
+Common cardiac medications potently inhibit ACE2 binding to the SARS-CoV-2 Spike,
+and block virus penetration and infectivity in human lung cells.
+
+Caohuy H(#)(1)(2), Eidelman O(#)(1)(2), Chen T(1)(2)(3), Liu S(4), Yang Q(1)(5), 
+Bera A(1)(2), Walton NI(1)(2)(3), Wang TT(4), Pollard HB(6)(7)(8).
+
+Author information: 
+(1)Department of Anatomy, Physiology and Genetics, Uniformed Services University 
+School of Medicine, Uniformed Services University of the Health Sciences,
+Bethesda, MD, 20814, USA.
+(2)Collaborative Health Initiative Research Program (CHIRP), Uniformed Services
+University of the Health Sciences, Bethesda, MD, 20814, USA.
+(3)Consortium for Health and Military Performance (CHAMP), Uniformed Services
+University of the Health Sciences, Bethesda, MD, 20814, USA.
+(4)Laboratory of Vector-Borne Viral Diseases, Division of Viral Products, Center 
+for Biologics Evaluation (CBER), U.S. Food and Drug Administration, Silver
+Spring, MD, 20993, USA.
+(5)Center for the Study of Traumatic Stress (CSTS), Uniformed Services University
+of the Health Sciences, Bethesda, MD, 20814, USA.
+(6)Department of Anatomy, Physiology and Genetics, Uniformed Services University 
+School of Medicine, Uniformed Services University of the Health Sciences,
+Bethesda, MD, 20814, USA. harvey.pollard@usuhs.edu.
+(7)Collaborative Health Initiative Research Program (CHIRP), Uniformed Services
+University of the Health Sciences, Bethesda, MD, 20814, USA.
+harvey.pollard@usuhs.edu.
+(8)Consortium for Health and Military Performance (CHAMP), Uniformed Services
+University of the Health Sciences, Bethesda, MD, 20814, USA.
+harvey.pollard@usuhs.edu.
+(#)Contributed equally
+
+To initiate SARS-CoV-2 infection, the Receptor Binding Domain (RBD) on the viral 
+spike protein must first bind to the host receptor ACE2 protein on pulmonary and 
+other ACE2-expressing cells. We hypothesized that cardiac glycoside drugs might
+block the binding reaction between ACE2 and the Spike (S) protein, and thus block
+viral penetration into target cells. To test this hypothesis we developed a
+biochemical assay for ACE2:Spike binding, and tested cardiac glycosides as
+inhibitors of binding. Here we report that ouabain, digitoxin, and digoxin, as
+well as sugar-free derivatives digitoxigenin and digoxigenin, are high-affinity
+competitive inhibitors of ACE2 binding to the Original [D614] S1 and the α/β/γ
+[D614G] S1 proteins. These drugs also inhibit ACE2 binding to the Original RBD,
+as well as to RBD proteins containing the β [E484K], Mink [Y453F] and α/β/γ
+[N501Y] mutations. As hypothesized, we also found that ouabain, digitoxin and
+digoxin blocked penetration by SARS-CoV-2 Spike-pseudotyped virus into human lung
+cells, and infectivity by native SARS-CoV-2. These data indicate that cardiac
+glycosides may block viral penetration into the target cell by first inhibiting
+ACE2:RBD binding. Clinical concentrations of ouabain and digitoxin are relatively
+safe for short term use for subjects with normal hearts. It has therefore not
+escaped our attention that these common cardiac medications could be deployed
+worldwide as inexpensive repurposed drugs for anti-COVID-19 therapy.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-01690-9 
+PMCID: PMC8589851
+PMID: 34773067  [Indexed for MEDLINE]
+

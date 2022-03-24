@@ -1,0 +1,50 @@
+
+1. Int J Mol Sci. 2021 Oct 14;22(20). pii: 11105. doi: 10.3390/ijms222011105.
+
+Unraveling Protein Interactions between the Temperate Virus Bam35 and Its
+Bacillus Host Using an Integrative Yeast Two Hybrid-High Throughput Sequencing
+Approach.
+
+Lechuga A(1)(2), Lood C(2)(3), Berjón-Otero M(1), Del Prado A(1), Wagemans J(2), 
+van Noort V(3), Lavigne R(2), Salas M(1), Redrejo-Rodríguez M(1)(4).
+
+Author information: 
+(1)Centro de Biología Molecular Severo Ochoa (CSIC-UAM), 28049 Madrid, Spain.
+(2)Laboratory of Gene Technology, Department of Biosystems, KU Leuven, 3001
+Leuven, Belgium.
+(3)Centre of Microbial and Plant Genetics, Laboratory of Computational Systems
+Biology, Department of Microbial and Molecular Systems, KU Leuven, 3001 Leuven,
+Belgium.
+(4)Departamento de Bioquímica, Universidad Autónoma de Madrid (UAM) and Instituto
+de Investigaciones Biomédicas Alberto Sols (CSIC-UAM), 28029 Madrid, Spain.
+
+Bacillus virus Bam35 is the model Betatectivirus and member of the family
+Tectiviridae, which is composed of tailless, icosahedral, and membrane-containing
+bacteriophages. Interest in these viruses has greatly increased in recent years
+as they are thought to be an evolutionary link between diverse groups of
+prokaryotic and eukaryotic viruses. Additionally, betatectiviruses infect
+bacteria of the Bacillus cereus group, which are known for their applications in 
+industry and notorious since it contains many pathogens. Here, we present the
+first protein-protein interactions (PPIs) network for a tectivirus-host system by
+studying the Bam35-Bacillus thuringiensis model using a novel approach that
+integrates the traditional yeast two-hybrid system and high-throughput sequencing
+(Y2H-HTS). We generated and thoroughly analyzed a genomic library of Bam35's host
+B.&nbsp;thuringiensis HER1410 and screened interactions with all the viral
+proteins using different combinations of bait-prey couples. Initial analysis of
+the raw data enabled the identification of over 4000 candidate interactions,
+which were sequentially filtered to produce 182 high-confidence interactions that
+were defined as part of the core virus-host interactome. Overall, host metabolism
+proteins and peptidases were particularly enriched within the detected
+interactions, distinguishing this host-phage system from the other reported
+host-phage PPIs. Our approach also suggested biological roles for several Bam35
+proteins of unknown function, including the membrane structural protein P25,
+which may be a viral hub with a role in host membrane modification during viral
+particle morphogenesis. This work resulted in a better understanding of the
+Bam35-B. thuringiensis interaction at the molecular level and holds great
+potential for the generalization of the Y2H-HTS approach for other virus-host
+models.
+
+DOI: 10.3390/ijms222011105 
+PMCID: PMC8539640
+PMID: 34681765 
+

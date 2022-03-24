@@ -1,0 +1,55 @@
+
+1. Sci Total Environ. 2021 Oct 22:151038. doi: 10.1016/j.scitotenv.2021.151038.
+[Epub ahead of print]
+
+High throughput sequencing based direct detection of SARS-CoV-2 fragments in
+wastewater of Pune, West India.
+
+Dharmadhikari T(1), Rajput V(1), Yadav R(2), Boargaonkar R(3), Patil D(3), Kale
+S(3), Kamble SP(4), Dastager SG(2), Dharne MS(5).
+
+Author information: 
+(1)National Collection of Industrial Microorganisms (NCIM), Biochemical Sciences 
+Division, CSIR-National Chemical Laboratory, Pune 411008, India.
+(2)National Collection of Industrial Microorganisms (NCIM), Biochemical Sciences 
+Division, CSIR-National Chemical Laboratory, Pune 411008, India; Academy of
+Scientific and Innovative Research (AcSIR), Ghaziabad 201002, India.
+(3)Ecosan Services Foundation (ESF), Pune 411030, India.
+(4)Chemical Engineering and Process Development Division, CSIR-National Chemical 
+Laboratory, Pune 411008, India.
+(5)National Collection of Industrial Microorganisms (NCIM), Biochemical Sciences 
+Division, CSIR-National Chemical Laboratory, Pune 411008, India; Academy of
+Scientific and Innovative Research (AcSIR), Ghaziabad 201002, India. Electronic
+address: ms.dharne@ncl.res.in.
+
+Given a large number of SARS-CoV-2 infected individuals, clinical detection has
+proved challenging. The wastewater-based epidemiological paradigm would cover the
+clinically escaped asymptomatic individuals owing to the faecal shedding of the
+virus. We hypothesised using wastewater as a valuable resource for analysing
+SARS-CoV-2 mutations circulating in the wastewater of Pune region (Maharashtra;
+India), one of the most affected during the covid-19 pandemic. We conducted study
+in open wastewater drains from December 2020-March 2021 to assess the presence of
+SARS-CoV-2 nucleic acid and further detect mutations using ARTIC protocol of
+MinION sequencing. The analysis revealed 108 mutations across six samples
+categorised into 39 types of mutations. We report the occurrence of mutations
+associated with Delta variant lineage in March-2021 samples, simultaneously also 
+reported as a Variant of Concern (VoC) responsible for the rapid increase in
+infections. The study also revealed four mutations; S:N801, S:C480R, NSP14:C279F 
+and NSP3:L550del not currently reported from wastewater or clinical data in India
+but reported worldwide. Further, a novel mutation NSP13:G206F mapping to NSP13
+region was observed from wastewater. Notably, S:P1140del mutation was detected in
+December 2020 samples while it was reported in February 2021 from clinical data, 
+indicating the instrumentality of wastewater data in early detection. This is the
+first study in India to demonstrate utility of sequencing in wastewater-based
+epidemiology to identify mutations associated with SARS-CoV-2 virus fragments
+from wastewater as an early warning indicator system.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2021.151038 
+PMCID: PMC8530769
+PMID: 34688738 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no conflicts of interest.
+

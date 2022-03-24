@@ -1,0 +1,47 @@
+
+1. Cell Cycle. 2012 Jan 1;11(1):119-31. doi: 10.4161/cc.11.1.18475. Epub 2012 Jan 1.
+
+The HARE-HTH and associated domains: novel modules in the coordination of
+epigenetic DNA and protein modifications.
+
+Aravind L(1), Iyer LM.
+
+Author information: 
+(1)National Center for Biotechnology Information, National Library of Medicine,
+National Institutes of Health, Bethesda, MD, USA. aravind@ncbi.nlm.nih.gov
+
+Human ASXL proteins, orthologs of Drosophila Additional Sex combs, have been
+implicated in conjunction with TET2 as a major target for mutations and
+translocations leading to a wide range of myeloid leukemias, related
+myelodysplastic conditions (ASXL1 and ASXL2) and the Bohring-Opitz syndrome, a
+developmental disorder (ASXL1). Using sensitive sequence and structure comparison
+methods, we show that most animal ASXL proteins contain a novel N-terminal domain
+that is also found in several other eukaryotic chromatin proteins, diverse
+restriction endonucleases and DNA glycosylases, the RNA polymerase delta subunit 
+of Gram-positive bacteria and certain bacterial proteins that combine features of
+the RNA polymerase α-subunit and sigma factors. This domain adopts the winged
+helix-turn-helix fold and is predicted to bind DNA. Based on its domain
+architectural contexts, we present evidence that this domain might play an
+important role, both in eukaryotes and bacteria, in the recruitment of diverse
+effector activities, including the Polycomb repressive complexes, to DNA,
+depending on the state of epigenetic modifications such as 5-methylcytosine and
+its oxidized derivatives. In other eukaryotic chromatin proteins, this predicted 
+DNA-binding domain is fused to a region with three conserved motifs that are also
+found in diverse eukaryotic chromatin proteins, such as the animal BAZ/WAL
+proteins, plant HB1 and MBD9, yeast Itc1p and Ioc3, RSF1, CECR2 and NURF1. Based 
+on the crystal structure of Ioc3, we establish that these motifs in conjunction
+with the DDT motif constitute a structural determinant that is central to
+nucleosomal repositioning by the ISWI clade of SWI2/SNF2 ATPases. We also show
+that the central domain of the ASXL proteins (ASXH domain) is conserved outside
+of animals in fungi and plants, where it is combined with other domains,
+suggesting that it might be an ancient module mediating interactions between
+chromatin-linked protein complexes and transcription factors via its conserved
+LXLLL motif. We present evidence that the C-terminal PHD finger of ASXL protein
+has certain peculiar structural modifications that might allow it to recognize
+internal modified lysines other than those from the N terminus of histone H3,
+making it the mediator of previously unexpected interactions in chromatin.
+
+DOI: 10.4161/cc.11.1.18475 
+PMCID: PMC3272235
+PMID: 22186017  [Indexed for MEDLINE]
+

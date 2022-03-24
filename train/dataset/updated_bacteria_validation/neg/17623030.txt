@@ -1,0 +1,33 @@
+
+1. FEMS Microbiol Lett. 2007 Sep;274(1):73-82. Epub 2007 Jul 9.
+
+Expression of Mycobacterium tuberculosis Rv1991c using an arabinose-inducible
+promoter demonstrates its role as a toxin.
+
+Carroll P(1), Brown AC, Hartridge AR, Parish T.
+
+Author information: 
+(1)Centre for Infectious Disease, Institute of Cell and Molecular Science, Barts 
+and the London, Queen Mary's School of Medicine and Dentistry, Whitechapel,
+London, UK.
+
+Conditional gene expression systems are useful tools for studying the role of
+essential or toxic gene products in bacterial systems. There is a paucity of such
+systems available for use in the mycobacteria. The utility of the Escherichia
+coli arabinose-inducible system was looked into, since it is tightly controlled
+in response to the presence of arabinose and glucose. It was demonstrated that
+the P(BAD) promoter can be used to express heterologous genes in Mycobacterium
+smegmatis. Expression of a lacZ reporter gene demonstrated that promoter activity
+was inducible in response to the presence of glucose, but only on solid medium.
+This system was utilized to study the functional consequences of expressing one
+member of a putative toxin-antitoxin pair (Rv1991c). Rv1991c has homology with a 
+number of bacterial toxins, including ChpK, MazF and PemK. A potential antitoxin 
+gene has been identified, adjacent to Rv1991c in the genome, which was
+coexpressed with the toxin. Expression of the toxin alone inhibited the growth of
+E. coli, whereas coexpression with the antitoxin did not. Expression of Rv1991c
+also led to a marked reduction of cell viability in M. smegmatis, confirming its 
+role as a potent toxin.
+
+DOI: 10.1111/j.1574-6968.2007.00842.x 
+PMID: 17623030  [Indexed for MEDLINE]
+

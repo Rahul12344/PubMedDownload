@@ -1,0 +1,48 @@
+
+1. Biosens Bioelectron. 2021 Nov 29;198:113837. doi: 10.1016/j.bios.2021.113837.
+[Epub ahead of print]
+
+Electroactive reduced graphene oxide for highly sensitive detection of secretory 
+non-structural 1 protein: A potential diagnostic biomarker for Japanese
+encephalitis virus.
+
+Roberts A(1), Kesarwani V(2), Gupta R(2), Gandhi S(3).
+
+Author information: 
+(1)DBT-National Institute of Animal Biotechnology (NIAB), Hyderabad, 500032,
+Telangana, India; DBT-Regional Centre for Biotechnology (RCB), Faridabad, 121001,
+NCR Delhi, India.
+(2)DBT-National Institute of Animal Biotechnology (NIAB), Hyderabad, 500032,
+Telangana, India.
+(3)DBT-National Institute of Animal Biotechnology (NIAB), Hyderabad, 500032,
+Telangana, India; DBT-Regional Centre for Biotechnology (RCB), Faridabad, 121001,
+NCR Delhi, India. Electronic address: gandhi@niab.org.in.
+
+Fluorine Doped Tin Oxide (FTO) electrode was fabricated with reduced Graphene
+Oxide (rGO) for sensitive detection of Japanese encephalitis virus (JEV)
+non-structural 1 (NS1) protein. Beforehand, in-silico 3D structure, stability,
+and docking of recombinant JEV NS1 antigen (NS1-Ag) and antibody (Ab) was
+evaluated. The recombinant NS1 Ag of 42 kDa was produced in-house by successful
+cloning into pET-28a(+) plasmid and further expressed using BL21 Escherichia coli
+(E. coli) cells. The NS1 Ag was used to raise polyclonal antibodies (Ab) and both
+were characterized via Sodium Dodecyl Sulphate Polyacrylamide Gel Electrophoresis
+(SDS-PAGE), Western Blot, Matrix-Assisted Laser Desorption/Ionization-Time of
+Flight (MALDI-TOF), and Enzyme-Linked Immunosorbent Assay (ELISA). Further
+characterisation of all binding events such as rGO synthesis, and its conjugation
+with NS1 Ab, and NS1 Ag were confirmed through Fourier-Transform Infrared
+Spectroscopy (FTIR), Raman Spectroscopy, Energy Dispersive X-Ray Analysis (EDX), 
+Scanning Electron Microscopy (SEM), Cyclic Voltammetry (CV) and Differential
+Pulse Voltammetry (DPV). The fabricated FTO electrode was optimised for various
+parameters such as pH, response time, temperature, concentration, and scan rate. 
+The detection of JEV NS1 Ag was performed in buffer (LOD- 0.92 fM) as well in
+spiked serum (LOD- 1.3 fM) samples. The JEV NS1 Ab showed negligible
+cross-reactivity with other flaviviral NS1 Ag, provided a rapid response within
+5 s, and remained stable up to 4 weeks. Furthermore, the fabricated immunosensor 
+may be a potential candidate for further miniaturisation for accurate and early
+diagnosis of JEV in clinical samples.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bios.2021.113837 
+PMID: 34864242 
+

@@ -1,0 +1,33 @@
+
+1. bioinformatics. 2014 may 1;30(9):1292-4. doi: 10.1093/bioinformatics/btu005. epub
+2014 jan 17.
+
+estmoi: estimating multiplicity infection using parasite deep sequencing data.
+
+assefa sa(1), preston md, campino s, ocholla h, sutherland cj, clark tg.
+
+author information: 
+(1)london school hygiene tropical medicine, wc1e 7ht, london, uk, wellcome
+trust sanger institute, cb10 1sa, hinxton, uk malawi-liverpool-wellcome trust
+clinical research programme, box 30096 bt3, blantyre, malawia.
+
+individuals living endemic areas generally harbour multiple parasite strains. 
+multiplicity infection (moi) indicator immune status and
+transmission intensity. potentially confounding effect number of
+population genetic analyses, often assume isolates clonal. polymerase
+chain reaction-based approaches estimate moi lack sensitivity. for
+example, human malaria parasite plasmodium falciparum, genotyping the
+merozoite surface protein (msp1/2) genes standard method assessing moi, 
+despite apparent problem underestimation. availability deep
+coverage data massively parallizable sequencing technologies means moi 
+can detected genome wide considering abundance heterozygous
+genotypes. here, present method estimate moi, considers unique
+combinations polymorphisms sequence reads. method implemented
+within estmoi software. applied clinical p.falciparum isolates from
+three continents, find multiple infections common, especially in
+regions high transmission.
+
+doi: 10.1093/bioinformatics/btu005 
+pmcid: pmc3998131
+pmid: 24443379  [indexed medline]
+

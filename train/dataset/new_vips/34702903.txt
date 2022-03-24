@@ -1,0 +1,39 @@
+
+1. Sci Rep. 2021 Oct 26;11(1):21068. doi: 10.1038/s41598-021-00496-z.
+
+Data-driven analysis of amino acid change dynamics timely reveals SARS-CoV-2
+variant emergence.
+
+Bernasconi A(1), Mari L(2), Casagrandi R(2), Ceri S(2).
+
+Author information: 
+(1)Departement of Electronics, Information, and Bioengineering, Politecnico di
+Milano, 20133, Milan, Italy. anna.bernasconi@polimi.it.
+(2)Departement of Electronics, Information, and Bioengineering, Politecnico di
+Milano, 20133, Milan, Italy.
+
+Since its emergence in late 2019, the diffusion of SARS-CoV-2 is associated with 
+the evolution of its viral genome. The co-occurrence of specific amino acid
+changes, collectively named 'virus variant', requires scrutiny (as variants may
+hugely impact the agent's transmission, pathogenesis, or antigenicity); variant
+evolution is studied using phylogenetics. Yet, never has this problem been
+tackled by digging into data with ad hoc analysis techniques. Here we show that
+the emergence of variants can in fact be traced through data-driven methods,
+further capitalizing on the value of large collections of SARS-CoV-2 sequences.
+For all countries with sufficient data, we compute weekly counts of amino acid
+changes, unveil time-varying clusters of changes with similar-rapidly
+growing-dynamics, and then follow their evolution. Our method succeeds in timely 
+associating clusters to variants of interest/concern, provided their change
+composition is well characterized. This allows us to detect variants' emergence, 
+rise, peak, and eventual decline under competitive pressure of another variant.
+Our early warning system, exclusively relying on deposited sequences, shows the
+power of big data in this context, and concurs to calling for the wide spreading 
+of public SARS-CoV-2 genome sequencing for improved surveillance and control of
+the COVID-19 pandemic.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-00496-z 
+PMCID: PMC8548498
+PMID: 34702903  [Indexed for MEDLINE]
+

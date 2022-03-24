@@ -1,0 +1,47 @@
+
+1. Nat Microbiol. 2018 Jan;3(1):17-25. doi: 10.1038/s41564-017-0054-x. Epub 2017 Nov
+6.
+
+Plasmodium UIS3 sequesters host LC3 to avoid elimination by autophagy in
+hepatocytes.
+
+Real E(1), Rodrigues L(1), Cabal GG(1), Enguita FJ(1), Mancio-Silva L(1),
+Mello-Vieira J(1), Beatty W(2), Vera IM(1), Zuzarte-Luís V(1), Figueira TN(1),
+Mair GR(3), Mota MM(4).
+
+Author information: 
+(1)Instituto de Medicina Molecular, Faculdade de Medicina, Universidade de
+Lisboa, Lisboa, Portugal.
+(2)Department of Molecular Microbiology, Center for Infectious Disease Research, 
+Washington University School of Medicine, St Louis, MO, USA.
+(3)Parasitology Department of Infectious Diseases, University of Heidelberg
+Medical School, Heidelberg, Germany.
+(4)Instituto de Medicina Molecular, Faculdade de Medicina, Universidade de
+Lisboa, Lisboa, Portugal. mmota@medicina.ulisboa.pt.
+
+Comment in
+    Autophagy. 2018;14(8):1291-1292.
+
+The causative agent of malaria, Plasmodium, replicates inside a membrane-bound
+parasitophorous vacuole (PV), which shields this intracellular parasite from the 
+cytosol of the host cell 1 . One common threat for intracellular pathogens is the
+homeostatic process of autophagy, through which cells capture unwanted
+intracellular material for lysosomal degradation 2 . During the liver stage of a 
+malaria infection, Plasmodium parasites are targeted by the autophagy machinery
+of the host cell, and the PV membrane (PVM) becomes decorated with several
+autophagy markers, including LC3 (microtubule-associated protein 1 light chain 3)
+3,4 . Here we show that Plasmodium berghei parasites infecting hepatic cells rely
+on the PVM transmembrane protein UIS3 to avoid elimination by host-cell-mediated 
+autophagy. We found that UIS3 binds host LC3 through a non-canonical interaction 
+with a specialized surface on LC3 where host proteins with essential functions
+during autophagy also bind. UIS3 acts as a bona fide autophagy inhibitor by
+competing with host LC3-interacting proteins for LC3 binding. Our work identifies
+UIS3, one of the most promising candidates for a genetically attenuated vaccine
+against malaria 5 , as a unique and potent mediator of autophagy evasion in
+Plasmodium. We propose that the protein-protein interaction between UIS3 and host
+LC3 represents a target for antimalarial drug development.
+
+DOI: 10.1038/s41564-017-0054-x 
+PMCID: PMC5739284
+PMID: 29109477  [Indexed for MEDLINE]
+

@@ -1,0 +1,54 @@
+
+1. PLoS One. 2021 Oct 28;16(10):e0258841. doi: 10.1371/journal.pone.0258841.
+eCollection 2021.
+
+Heart-rate-variability (HRV), predicts outcomes in COVID-19.
+
+Mol MBA(1), Strous MTA(1)(2), van Osch FHM(3), Vogelaar FJ(1), Barten DG(4),
+Farchi M(5), Foudraine NA(2), Gidron Y(6).
+
+Author information: 
+(1)Department of Surgery, VieCuri Medical Centre Venlo, Venlo, The Netherlands.
+(2)Department of Intensive Care, VieCuri Medical Centre Venlo, Venlo, The
+Netherlands.
+(3)Department of Epidemiology, VieCuri Medical Centre Venlo, Venlo, The
+Netherlands.
+(4)Department of Emergency Medicine, VieCuri Medical Centre Venlo, Venlo, The
+Netherlands.
+(5)School of Social Work, Tel-Hai College, Qiryat Shemona, Israël.
+(6)Faculty of Welfare and Health Sciences, University of Haifa, Haifa, Israel.
+
+BACKGROUND: Patients with COVID-19 present with a variety of clinical
+manifestations, ranging from mild or asymptomatic disease to severe illness and
+death. Whilst previous studies have clarified these and several other aspects of 
+COVID-19, one of the ongoing challenges regarding COVID-19 is to determine which 
+patients are at risk of adverse outcomes of COVID-19 infection. It is
+hypothesized that this is the result of insufficient inhibition of the immune
+response, with the vagus nerve being an important neuro-immuno-modulator of
+inflammation. Vagus nerve activity can be non-invasively indexed by
+heart-rate-variability (HRV). Therefore, we aimed to assess the prognostic value 
+of HRV, as a surrogate marker for vagus nerve activity, in predicting mortality
+and intensive care unit (ICU) referral, in patients hospitalized with COVID-19.
+METHODS: A retrospective cohort study including all consecutive patients (n =
+271) diagnosed and hospitalized with COVID-19 between March 2020 and May 2020,
+without a history of cardiac arrhythmias (including atrial and ventricular
+premature contractions), pacemaker, or current bradycardia (heart rate <50 bpm)
+or tachycardia (heart rate >110 bpm). HRV was based on one 10s ECG recorded at
+admission. 3-week survival and ICU referral were examined.
+RESULTS: HRV indexed as standard deviation of normal to normal heartbeat
+intervals (SDNN) predicted survival (H.R. = 0.53 95%CI: 0.31-0.92). This
+protective role was observed only in patients aged 70 years and older, not in
+younger patients. HRV below median value also predicted ICU referral within the
+first week of hospitalization (H.R = 0.51, 95%CI: 0.29-0.90, P = 0.021).
+CONCLUSION: Higher HRV predicts greater chances of survival, especially in
+patients aged 70 years and older with COVID-19, independent of major prognostic
+factors. Low HRV predicts ICU indication and admission in the first week after
+hospitalization.
+
+DOI: 10.1371/journal.pone.0258841 
+PMCID: PMC8553073
+PMID: 34710127  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,51 @@
+
+1. Metab Eng. 2016 Nov;38:19-28. doi: 10.1016/j.ymben.2016.06.002. Epub 2016 Jun 4.
+
+Heterologous biosynthesis and manipulation of alkanes in Escherichia coli.
+
+Cao YX(1), Xiao WH(2), Zhang JL(2), Xie ZX(2), Ding MZ(2), Yuan YJ(3).
+
+Author information: 
+(1)Key Laboratory of Systems Bioengineering (Ministry of Education), Tianjin
+University, Tianjin 300072, PR China; SynBio Research Platform, Collaborative
+Innovation Center of Chemical Science and Engineering (Tianjin), School of
+Chemical Engineering and Technology, Tianjin University, Tianjin 300072, PR
+China. Electronic address: caoyingxiu@163.com.
+(2)Key Laboratory of Systems Bioengineering (Ministry of Education), Tianjin
+University, Tianjin 300072, PR China; SynBio Research Platform, Collaborative
+Innovation Center of Chemical Science and Engineering (Tianjin), School of
+Chemical Engineering and Technology, Tianjin University, Tianjin 300072, PR
+China.
+(3)Key Laboratory of Systems Bioengineering (Ministry of Education), Tianjin
+University, Tianjin 300072, PR China; SynBio Research Platform, Collaborative
+Innovation Center of Chemical Science and Engineering (Tianjin), School of
+Chemical Engineering and Technology, Tianjin University, Tianjin 300072, PR
+China. Electronic address: yjyuan@tju.edu.cn.
+
+Biosynthesis of alkanes in microbial foundries offers a sustainable and green
+supplement to traditional fossil fuels. The dynamic equilibrium of fatty
+aldehydes, key intermediates, played a critical role in microbial alkanes
+production, due to the poor catalytic capability of aldehyde deformylating
+oxygenase (ADO). In our study, exploration of competitive pathway together with
+multi-modular optimization was utilized to improve fatty aldehydes balance and
+consequently enhance alkanes formation in Escherichia coli. Endogenous fatty
+alcohol formation was supposed to be competitive with alkane production, since
+both of the two routes consumed the same intermediate-fatty aldehyde.
+Nevertheless, in our case, alkanes production in E. coli was enhanced from trace 
+amount to 58.8mg/L by the facilitation of moderate fatty alcohol biosynthesis,
+which was validated by deletion of endogenous aldehyde reductase (AHR),
+overexpression of fatty alcohol oxidase (FAO) and consequent transcriptional
+assay of aar, ado and adhP genes. Moreover, alkanes production was further
+improved to 81.8mg/L, 86.6mg/L or 101.7mg/L by manipulation of fatty acid
+biosynthesis, lipids degradation or electron transfer system modules, which
+directly referenced to fatty aldehydes dynamic pools. A titer of 1.31g/L alkanes 
+was achieved in 2.5L fed-batch fermentation, which was the highest reported titer
+in E. coli. Our research has offered a reference for chemical overproduction in
+microbial cell factories facilitated by exploring competitive pathway.
+
+Copyright © 2016 International Metabolic Engineering Society. Published by
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymben.2016.06.002 
+PMID: 27267408  [Indexed for MEDLINE]
+

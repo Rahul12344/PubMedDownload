@@ -1,0 +1,42 @@
+
+1. bmc genomics. 2013 apr 23;14:273. doi: 10.1186/1471-2164-14-273.
+
+six novel chromosome genes anopheles mosquitoes discovered independently 
+sequencing males females.
+
+hall ab(1), qi y, timoshevskiy v, sharakhova mv, sharakhov iv, tu z.
+
+author information: 
+(1)department biochemistry, virginia tech, blacksburg, va, usa.
+
+background: chromosomes responsible initiation male development,
+male fertility, male-related functions diverse species. however, y
+genes rarely characterized outside model species due arduous
+nature studying repeat-rich y.
+results: chromosome quotient (cq) novel approach systematically
+discover chromosome genes. cq method, genomic dna males females
+is sequenced independently aligned candidate reference sequences. the
+female male ratio number alignments reference sequence, a
+parameter called chromosome quotient (cq), used determine whether the
+sequence y-linked. using cq method, successfully identified known y
+sequences homo sapiens drosophila melanogaster. cq method
+facilitated discovery chromosome sequences malaria mosquitoes
+anopheles stephensi an. gambiae. comparisons transcriptome sequence data
+with blastn led discovery six anopheles genes, three each
+species. six genes expressed early embryo. two three an.
+stephensi genes recently acquired autosomes x. although
+an. stephensi an. gambiae belong subgenus, found evidence
+of genes shared species.
+conclusions: cq method reliably identify chromosome sequences using the
+ratio alignments male female sequence data. cq method widely
+applicable species fragmented genome assemblies produced from
+next-generation sequencing data. analysis six genes characterized in
+this study indicates rapid chromosome evolution an. stephensi an.
+gambiae. anopheles genes discovered cq method provide unique markers
+for population phylogenetic analysis, opportunities novel mosquito
+control measures manipulation sexual dimorphism fertility.
+
+doi: 10.1186/1471-2164-14-273 
+pmcid: pmc3660176
+pmid: 23617698  [indexed medline]
+

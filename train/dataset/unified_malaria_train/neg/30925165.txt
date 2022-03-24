@@ -1,0 +1,39 @@
+
+1. plos comput biol. 2019 mar 29;15(3):e1006898. doi: 10.1371/journal.pcbi.1006898. 
+ecollection 2019 mar.
+
+bayes-optimal estimation overlap populations fixed size.
+
+larremore db(1)(2).
+
+author information: 
+(1)department computer science, university colorado boulder, boulder,
+colorado, united states america.
+(2)biofrontiers institute, university colorado boulder, boulder, colorado,
+united states america.
+
+measuring overlap two populations is, principle, straightforward. 
+upon fully sampling populations, number shared objects-species,
+taxonomical units, gene variants, depending context-can directly
+counted. practice, however, fraction population's objects are
+likely sampled due stochastic data collection sequencing techniques. 
+although methods exists quantifying population overlap subsampled
+conditions, bias well documented uncertainty estimates 
+cannot quantified. derive validate method rigorously estimate
+the population overlap incomplete samples total number objects, 
+species, genes population known, special case general
+β-diversity problem particularly relevant ecology genomic
+epidemiology malaria. solving bayesian inference problem, method
+takes account rates subsampling produces unbiased and
+bayes-optimal estimates overlap. addition, provides natural framework 
+for computing uncertainty estimates, used prospectively 
+study planning quantifying tradeoff sampling effort and
+uncertainty.
+
+doi: 10.1371/journal.pcbi.1006898 
+pmcid: pmc6440621
+pmid: 30925165  [indexed medline]
+
+conflict interest statement: author declared competing
+interests exist.
+

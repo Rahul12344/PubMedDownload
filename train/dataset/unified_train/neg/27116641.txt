@@ -1,0 +1,41 @@
+
+1. j phys chem b. 2016 jul 7;120(26):6038-50. doi: 10.1021/acs.jpcb.6b01964. epub
+2016 jun 2.
+
+sequence dependence viral rna encapsidation.
+
+kelly j(1), grosberg ay(2), bruinsma r(1)(3).
+
+author information: 
+(1)department physics astronomy, university california , los angeles,
+california 90095, united states.
+(2)department physics center soft matter research, new york university
+, new york, new york 10003, united states.
+(3)department chemistry biochemistry, university california , los
+angeles, california 90095, united states.
+
+we develop flory mean-field theory viral rna (vrna) molecules extends 
+the current rna folding algorithms include interactions different
+sections secondary structure. theory applied sequence-selective 
+vrna encapsidation. dependence sequence enters single parameter:
+the largest eigenvalue kramers matrix branched polymer obtained 
+coarse graining secondary structure. differences work of
+encapsidation vrna molecules randomized isomers found 
+range 20 kbt, sufficient provide strong bias favor vrna
+encapsidation. method applied packaging competition experiment 
+large vrna molecules compete encapsidation two smaller rna species 
+together nucleotide sequence large molecule. encounter 
+substantial, generic free energy bias, also order 20 kbt, in
+favor encapsidating single large rna molecule. bias mainly the
+consequence fact dividing large vrna molecule involves the
+release stored elastic energy. provides important, nonspecific
+mechanism preferential encapsidation single larger vrna molecules over
+multiple smaller mrna molecules total number nucleotides. the
+result also consistent recent rna packaging competition experiments by
+comas-garcia et al.1 finally, flory method leads result two 
+rna molecules copackaged, expected remain segregated inside the
+capsid.
+
+doi: 10.1021/acs.jpcb.6b01964 
+pmid: 27116641  [indexed medline]
+

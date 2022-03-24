@@ -1,0 +1,77 @@
+
+1. Plant Dis. 2021 Oct 29. doi: 10.1094/PDIS-05-21-1044-PDN. [Epub ahead of print]
+
+First report of Sida leaf curl virus and associated betasatellite in tobacco.
+
+Wang D(1)(2), Zhang X(3), Chen D(4), Ye J(5).
+
+Author information: 
+(1)Institute of Microbiology Chinese Academy of Sciences, 85387, A419, Chaoyang
+District, DaTun road, Beijing, China, 100101.
+(2)1142, Chaoyang District, DaTun road, Beijing, 100101; wangd@im.ac.cn.
+(3)Institute of Microbiology Chinese Academy of Sciences, 85387, Beijing,
+Beijing, China; zhangx@im.ac.cn.
+(4)Haikou Cigar Research Institute,Hainan Provincial Branch of CNTC, Haikou,
+Hainan, China; chendxtob@126.com.
+(5)Institute of Microbiology, Chinese Academy of Sciences, State Key Laboratory
+of Plant Genomics, NO.1 Beichen West Road, Chaoyang District, Beijing, China,
+100101; jianye@im.ac.cn.
+
+Tobacco (Nicotiana tabacum L.) is an economic crop and an important model plant
+for scientific research in the world. Cigar tobacco, a variety of tobacco, has
+been planted for industrial production in China since its introduction into the
+country in 2018 (Wang et al., 2021). In March 2020, symptoms like leaf curling,
+vein thickening and enation were frequently observed in cigar tobacco in several 
+plantation areas of 100 hectares in Danzhou, Hainan Province, China (Fig. 1A). It
+was speculated that a geminivirus was the possible causing agent of the disease
+since the symptoms resembled those caused by geminiviruses besides the presence
+of their insect vectors - whiteflies. Five tobacco leaf samples were collected
+for DNA extraction, and pooled DNA was subjected to viral metagenomics analysis
+with Illumina Sequencing Technology (Illumina) at Tiangen Biotech, Beijing. A
+total of 67,774,552 filtered reads (99.84%) were matched to tobacco genome, and
+the remaining 110,908 reads (0.16%) were analyzed by BLASTn against GenBank virus
+Refseq Database with E-value smaller than 1e-6. Among the virus-matching
+sequencing data obtained, 65 and 2,058 reads were annotated as genomes of sida
+leaf curl virus (SiLCV, reference sequence: NC_007638) and its associated
+betasatellite (SiLCB, reference sequence: NC_007639), accounting for 3% and 95%, 
+respectively. Thirty six reads matched to sweet potato vein clearing virus
+(reference sequence: NC_015228), and 7 reads matched to Emiliania huxleyi virus
+(reference sequence: JF429838). We speculated the causing pathogen of this
+disease might be SiLCV and its associated betasatellite. We next designed primers
+SiLCV-DNA-A-F/SiLCV-DNA-A-R (SiLCV-DNA-A-F: GAATTCTTTTCCTCGTCCAGG; SiLCV-DNA-A-R:
+CGCTTTAAAGACTTGGGCTTT) and SiLCV-β-F/SiLCV-β-R (SiLCV-β-F: ACCGGTGGCGAGCTGGTGTCT;
+SiLCV-β-R: AATATTAGAACGGTGGCGAGC) to amplify the complete genome of SiLCV and its
+associated betasatellite, respectively (Table S1). As expected, all five tobacco 
+DNA samples were PCR-positive for the two sets of primers. Thereafter, the
+amplicons from one sample (Fig. 1B) were fully sequenced by Sanger sequencing at 
+Tiangen Biotech, Beijing. The anticipated SiLCV genome with a length 2,760
+nucleotides (accession no. MW465952) and its associated betasatellite with a
+length of 1,369 nucleotides (accession no. MW465953) exhibited the highest
+sequence identity of 93.5% and 95.6% with that of SiLCV isolate 61 (DQ641706; Ha 
+et al., 2008) and isolate Hn57 (AM050732.1; Guo and Zhou 2006), respectively.
+This SiLCV isolate identified in Hainan province is named as SiLCV-HN, and its
+associated betasatellite is named as SiLCB-HN. Infectious clones of SiLCV-HN and 
+SiLCB-HN were constructed by ligating two complete genomes of each SiLCV-HN and
+SiLCB-HN to a binary expression vector pCAMBIA1300 as previously described (Wang 
+et al. 2019). Next, SiLCV-HN alone or co-infiltrated SiLCV-HN and SiLCB-HN were
+infiltrated into Nicotiana benthamiana. At 5 days post inoculation (5 dpi),
+typical begomovirus symptoms such as severe down-curl on newly emerging leaves
+displayed in SiLCV-HN and SiLCB-HN co-infiltrated N. benthamiana plants.
+Agroinoculation of N. benthamiana plants with SiLCV-HN alone showed severe leaf
+up-curl symptom at 12 dpi (Fig. 1C). Quantitative PCR results showed that the
+virus titer was higher in SiLCV-HN/SiLCB-HN co-infected plants in comparison to
+plants infected with SiLCV-HN individually (Fig. 1D). Typical virus symptoms and 
+SiLCV DNA could also be detected in a wild tobacco species Nicotiana glutinosa
+when agroinfiltration-based infection was done, even though at a low infection
+efficacy (Fig. 1E and 1F). We could not make successful agroinfiltration-based
+infection of SiLCV in cigar tobacco due to unknown reasons. Nevertheless our data
+suggest that SiLCV-HN could infect species from Nicotiana genus and therefore
+poses severe threats to tobacco industry. References: Guo, X. J., & Zhou, X. P., 
+2006. Virus Genes. 10.1007/s11262-006-0066-8. Ha C., et al., 2008, The Journal of
+general virology. 10.1099/vir.0.83236-0. Wang, D., et al., 2019. Molecular
+plant-microbe interactions. 10.1094/MPMI-06-19-0163-FI. Wang, Y. Y., et al.,
+2021. Frontiers in plant science. 10.3389/fpls.2021.618133.
+
+DOI: 10.1094/PDIS-05-21-1044-PDN 
+PMID: 34713725 
+

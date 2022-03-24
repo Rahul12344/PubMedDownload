@@ -1,0 +1,49 @@
+
+1. PeerJ. 2021 Nov 15;9:e12290. doi: 10.7717/peerj.12290. eCollection 2021.
+
+Virus-derived sequences from the transcriptomes of two snail vectors of
+schistosomiasis, Biomphalaria pfeifferi and Bulinus globosus from Kenya.
+
+Liu S(1), Zhang SM(2), Buddenborg SK(3), Loker ES(3), Bonning BC(4).
+
+Author information: 
+(1)Department of Entomology, Iowa State University, Ames, Iowa, United States.
+(2)Center for Evolutionary and Theoretical Immunology, Parasite Division Museum
+of Southwestern Biology, Department of Biology, University of New Mexico,
+Albuquerque, New Mexico, United States.
+(3)Department of Biology, University of New Mexico, Albuquerque, New Mexico,
+United States.
+(4)Entomology & Nematology Department, University of Florida, Gainesville,
+Florida, United States.
+
+Schistosomiasis, which infects more than 230 million people, is vectored by
+freshwater snails. We identified viral sequences in the transcriptomes of
+Biomphalaria pfeifferi (BP) and Bulinus globosus (BuG), two of the world's most
+important schistosomiasis vectors in Africa. Sequences from 26 snails generated
+using Illumina Hi-Seq or 454 sequencing were assembled using Trinity and CAP3 and
+putative virus sequences were identified using a bioinformatics pipeline.
+Phylogenetic analyses were performed using viral RNA-dependent RNA polymerase and
+coat protein sequences to establish relatedness between virus sequences
+identified and those of known viruses. Viral sequences were identified from the
+entire snail holobiont, including symbionts, ingested material and organisms
+passively associated with the snails. Sequences derived from more than 17
+different viruses were found including five near full-length genomes, most of
+which were small RNA viruses with positive sense RNA genomes (i.e., picorna-like 
+viruses) and some of which are likely derived from adherent or ingested diatoms. 
+Based on phylogenetic analysis, five of these viruses (including BPV2 and BuGV2) 
+along with four Biomphalaria glabrata viruses reported previously, cluster with
+known invertebrate viruses and are putative viruses of snails. The presence of
+RNA sequences derived from four of these novel viruses in samples was confirmed. 
+Identification of the genome sequences of candidate snail viruses provides a
+first step toward characterization of additional gastropod viruses, including
+from species of biomedical significance.
+
+© 2021 Liu et al.
+
+DOI: 10.7717/peerj.12290 
+PMCID: PMC8601052
+PMID: 34820163 
+
+Conflict of interest statement: The authors declare that they have no competing
+interests.
+

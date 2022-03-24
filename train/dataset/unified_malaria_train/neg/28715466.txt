@@ -1,0 +1,45 @@
+
+1. plos one. 2017 jul 17;12(7):e0181399. doi: 10.1371/journal.pone.0181399.
+ecollection 2017.
+
+the antenna transcriptome changes mosquito anopheles sinensis, pre- post- 
+blood meal.
+
+chen q(1), pei d(1), li j(1), jing c(1), wu w(1)(2), man y(1).
+
+author information: 
+(1)college science, national university defense technology, changsha,
+hunan, china.
+(2)state key lab nbc protection civilian, research institute chemical
+defense, beijing, china.
+
+antenna main chemosensory organ mosquitoes. characterization the
+transcriptional changes blood meal, especially related to
+chemoreception, may help explain mosquito blood sucking behavior to
+identify novel targets mosquito control. anopheles sinensis asiatic
+mosquito species transmits malaria lymphatic filariasis. however,
+studies chemosensory biology female an. sinensis quite lacking. we
+report transcriptome analysis an. sinensis female antennae pre- post-
+blood meal. created six an. sinensis antenna rna-seq libraries, three from
+females without blood meal three females five hours blood meal. 
+illumina sequencing conducted analyze transcriptome differences
+between two groups. total, sequenced fragments created 21,643 genes,
+1,828 novel. 12,861 genes considered expressed
+(fpkm >1.0) least one two groups, 12,159 genes expressed in
+both groups. 548 genes differentially expressed blood-fed group, with
+331 genes up-regulated 217 genes down-regulated. go enrichment analysis of
+the differentially expressed genes suggested statistically
+over represented go terms among down-regulated genes blood-fed mosquitoes,
+while enriched go terms up-regulated genes occurred mainly in
+metabolic process. chemosensory gene families, subtle distinction in
+the expression levels observed according statistical analysis.
+however, firstly comprehensive identification chemosensory gene
+families an. sinensis antennae help characterize precise function 
+of proteins odor recognition mosquitoes. study provides first 
+global view changes transcript accumulation elicited blood meal in
+an. sinensis female antennae.
+
+doi: 10.1371/journal.pone.0181399 
+pmcid: pmc5513552
+pmid: 28715466  [indexed medline]
+

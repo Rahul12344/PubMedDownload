@@ -1,0 +1,38 @@
+
+1. Mol Microbiol. 2006 Nov;62(3):838-52. Epub 2006 Sep 25.
+
+Loss of Hfq activates the sigmaE-dependent envelope stress response in Salmonella
+enterica.
+
+Figueroa-Bossi N(1), Lemire S, Maloriol D, Balbontín R, Casadesús J, Bossi L.
+
+Author information: 
+(1)Centre de Génétique Moléculaire, CNRS, 91198 Gif-sur-Yvette, France.
+
+Ubiquitous RNA-binding protein Hfq mediates the regulatory activity of many small
+RNAs (sRNAs) in bacteria. To identify potential targets for Hfq-mediated
+regulation in Salmonella, we searched for lacZ translational fusions whose
+activity varied in the presence or absence of Hfq. Fusions downregulated by Hfq
+were more common than fusions showing the opposite response. Surprisingly, in a
+subset of isolates from the major class, the higher activity in the absence of
+Hfq was due to transcriptional activation by the alternative sigma factor RpoE
+(sigmaE). Activation of the sigmaE regulon normally results from envelope stress 
+conditions that elicit proteolytic cleavage of the anti-sigmaE factor RseA. Using
+an epitope tagged variant of RseA, we found that RseA is cleaved at an increased 
+rate in a strain lacking Hfq. This cleavage was dependent on the DegS protease
+and could be completely prevented upon expressing the hfq gene from an inducible 
+promoter. Thus, loss of Hfq function appears to affect envelope biogenesis in a
+way that mimics a stress condition and thereby induces the sigmaE response
+constitutively. In a RseA mutant, activation of the sigmaE response causes
+Hfq-dependent downregulation of outer membrane protein (OMP) genes including
+lamB, ompA, ompC and ompF. For ompA, downregulation results in part from
+sigmaE-dependent accumulation of MicA (SraD), a small RNA recently shown to
+downregulate ompA transcript levels in stationary phase. We show that the micA
+gene is under sigmaE control, and that DegS-mediated sigmaE release is required
+for the accumulation of MicA RNA upon entry into stationary phase. A similar
+mechanism involving additional, still unidentified, sRNAs, might underlie the
+growth phase-dependent regulation of other OMP mRNAs.
+
+DOI: 10.1111/j.1365-2958.2006.05413.x 
+PMID: 16999834  [Indexed for MEDLINE]
+

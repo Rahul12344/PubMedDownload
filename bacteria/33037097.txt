@@ -1,0 +1,42 @@
+
+1. Immunohorizons. 2020 Oct 9;4(10):597-607. doi: 10.4049/immunohorizons.2000041.
+
+A Chimeric Antigen Receptor That Binds to a Conserved Site on MICA.
+
+Cook WJ(1), Choi Y(2), Gacerez A(1), Bailey-Kellogg C(2), Sentman CL(3).
+
+Author information: 
+(1)Center for Synthetic Immunity, Department of Microbiology and Immunology, The 
+Geisel School of Medicine at Dartmouth, Lebanon, NH 03756; and.
+(2)Department of Computer Science, Dartmouth College, Hanover, NH 03755.
+(3)Center for Synthetic Immunity, Department of Microbiology and Immunology, The 
+Geisel School of Medicine at Dartmouth, Lebanon, NH 03756; and
+charles.sentman@dartmouth.edu.
+
+The NKG2D ligand MHC class I chain-related protein A (MICA) is expressed on many 
+varieties of malignant cells but is absent from most normal tissues, and thus
+represents a potential target for chimeric Ag receptor (CAR) T cell-based
+therapeutics. However, there are more than 100 alleles of MICA, so the ability to
+target a conserved site is needed for a therapy to be used in most patients. In
+this study, we describe a fully human anti-MICA CAR created by fusing the
+single-chain fragment variable B2 to the full length DAP10 protein and the
+traditional CD3ζ signaling domain. Human T cells expressing the B2 CAR killed
+MICA-positive tumor cells, produced IFN-γ when in contact with MICA-positive
+tumor cells or plate-bound MICA protein, and inhibited PANC-1 growth in a mouse
+xenograft model. To localize B2's epitope on MICA, we used novel computational
+methods to model potential binding modes and to design mutational variants of
+MICA testing these hypotheses. Flow cytometry using a commercial anti-MICA/MICB
+Ab indicated that the variant proteins were expressed at high levels on
+transduced P815 cell lines. One variant protein (R38S/K40T/K57E) showed reduced
+staining with a B2-IgG1 fusion protein compared with controls and did not induce 
+IFN-γ production by human T cells expressing the B2 CAR. These results show
+antitumor activity of MICA-specific CAR T cells and indicate an essential role
+for a conserved site in the exposed loop involving aa 38-57 of MICA. This study
+describes a novel MICA-specific CAR and discusses its potential use as a cancer
+therapeutic.
+
+Copyright © 2020 The Authors.
+
+DOI: 10.4049/immunohorizons.2000041 
+PMID: 33037097 
+

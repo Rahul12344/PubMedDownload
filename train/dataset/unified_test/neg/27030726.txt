@@ -1,0 +1,40 @@
+
+1. fems microbiol lett. 2016 may;363(10). pii: fnw077. doi: 10.1093/femsle/fnw077.
+epub 2016 mar 29.
+
+computational prospecting great viral unknown.
+
+hurwitz bl(1), u'ren jm(2), youens-clark k(2).
+
+author information: 
+(1)department agricultural biosystems engineering, university arizona, 
+tucson, az 85721, usa bhurwitz@email.arizona.edu.
+(2)department agricultural biosystems engineering, university arizona, 
+tucson, az 85721, usa.
+
+bacteriophages play important role host-driven biological processes by
+controlling bacterial population size, horizontally transferring genes between
+hosts expressing host-derived genes alter host metabolism. metagenomics
+provides genetic basis understanding interplay uncultured
+bacteria, phage environment. particular, viral metagenomes
+(viromes) providing new insight phage-encoded host genes (i.e. auxiliary
+metabolic genes; amgs) reprogram host metabolism infection. yet,
+despite deep sequencing efforts viral communities, majority sequences
+have match known proteins. reference-independent computational techniques, 
+such protein clustering, contig spectra ecological profiling are
+overcoming barriers examine known unknown components of
+viromes. field viral metagenomics progresses, critical assessment 
+tools required majority algorithms developed analyzing
+bacteria. aim paper offer overview current computational 
+methodologies virome analysis provide example of
+reference-independent approaches using human skin viromes. additionally, we
+present methods carefully validate amgs host contamination. despite
+computational challenges, new methods offer novel insights the
+diversity functional roles phages diverse environments.
+
+© fems 2016. rights reserved. permissions, please e-mail:
+journals.permissions@oup.com.
+
+doi: 10.1093/femsle/fnw077 
+pmid: 27030726  [indexed medline]
+

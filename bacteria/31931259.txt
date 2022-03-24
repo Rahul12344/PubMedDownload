@@ -1,0 +1,61 @@
+
+1. Infect Genet Evol. 2020 Jun;80:104189. doi: 10.1016/j.meegid.2020.104189. Epub
+2020 Jan 10.
+
+Bioinformatics analyses of immunogenic T-cell epitopes of LeIF and PpSP15
+proteins from Leishmania major and sand fly saliva used as model antigens for the
+design of a multi-epitope vaccine to control leishmaniasis.
+
+Bordbar A(1), Bagheri KP(2), Ebrahimi S(3), Parvizi P(4).
+
+Author information: 
+(1)Molecular Systematics Laboratory, Parasitology Department, Microbiology
+Research Center, Pasteur Institute of Iran, Tehran, Iran. Electronic address:
+a_bordbar@pasteur.ac.ir.
+(2)Venom and Biotherapeutics Molecules Lab., Biotechnology Dept., Biotechnology
+Research Center, Pasteur Institute of Iran, Tehran, Iran.
+(3)Molecular Systematics Laboratory, Parasitology Department, Microbiology
+Research Center, Pasteur Institute of Iran, Tehran, Iran.
+(4)Molecular Systematics Laboratory, Parasitology Department, Microbiology
+Research Center, Pasteur Institute of Iran, Tehran, Iran. Electronic address:
+parp@pasteur.ac.ir.
+
+Leishmaniasis is caused by protozoan parasites belonging to 20 Leishmania
+species. This infectious disease is transmitted by bites of infected phlebotomine
+sandflies, and is widespread in 97 countries throughout the world. No preventive 
+or effective vaccine has been developed yet. In this study, diverse computational
+methods were integrated to calculate evolutionary divergence, immunogenicity,
+IFN-γ production, epitope conservancy, and population coverage of protein fusion 
+models of LeIF-SP15 namely SaLeish. Immunogenicity of LeIF of Leishmania species 
+and SP15 of sandfly saliva has not been investigated in-silico in fusion form. A 
+complete set of 9-mer MHC class I and 15-mer MHC class II peptides were
+identified with a high affinity for the antigenic epitopes of SaLeish inducing
+specific responses of CD8+ and CD4+ T cells from BALB/c and human. Our preferred 
+approach was determining truncated fragment of SaLeish rather than a whole length
+bearing the capacity to trigger specific immune response. Phylogenetic analysis
+showed that LeIF protein is under balancing selection and is conserved between
+different Leishmania species. Selected SaLeish model contained 19 and 35
+antigenic peptides for MHC class I and II, respectively, with strong binding
+affinity to both highly frequent HLA-I and HLA-II alleles. Analysis of class I
+CTL epitopes showed that promiscuous peptides of KSLKADIRK, MSCIPHCKY, LQAGVIVAV,
+and YQYYGFVAM have greater affinity to interact with HLA-A*01:01, HLA-A*02 (03,
+06), HLA-A*30:02, HLA-B*40:01, and HLA-B*52:01 molecules. Population coverage
+with a range of 78-85% confirmed SaLeish-Model4 as an appropriate vaccine
+candidate among Persian, South Asia, Europe, and North America population. Also, 
+predicted antigenic epitopes of AKPEIRTFSNVLIKY, TRVQDDLRKLQAGVI, and
+VALFSATMPEEVLEL corresponding to MHC class II were found to provide strong
+ability to produce IFNγ toward TH(1)-biased-DTH responses. Findings of the
+current investigation warrant the future experimental assessment of promising
+SaLeish prophylaxis vaccine that is capable to enhance both innate and specific
+cellular immune responses.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.meegid.2020.104189 
+PMID: 31931259 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that the present research was conducted in absence of any commercial or
+financial relationships that could be construed as a potential conflict of
+interest.
+

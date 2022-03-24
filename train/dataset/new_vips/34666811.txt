@@ -1,0 +1,54 @@
+
+1. J Hematol Oncol. 2021 Oct 19;14(1):172. doi: 10.1186/s13045-021-01185-0.
+
+Association between warfarin and COVID-19-related outcomes compared with direct
+oral anticoagulants: population-based cohort study.
+
+OpenSAFELY Collaborative, Wong AYS(1), Tomlinson LA(2), Brown JP(2), Elson W(2), 
+Walker AJ(3), Schultze A(2), Morton CE(3), Evans D(3), Inglesby P(3), MacKenna
+B(3), Bhaskaran K(2), Rentsch CT(2), Powell E(2), Williamson E(2), Croker R(3),
+Bacon S(3), Hulme W(3), Bates C(4), Curtis HJ(3), Mehrkar A(3), Cockburn J(4),
+McDonald HI(2)(5), Mathur R(2), Wing K(2), Forbes H(2), Eggo RM(2), Evans SJW(2),
+Smeeth L(2)(5), Goldacre B(#)(3), Douglas IJ(#)(2).
+
+Author information: 
+(1)Faculty of Epidemiology and Population Health, London School of Hygiene and
+Tropical Medicine, London, UK. Angel.Wong@lshtm.ac.uk.
+(2)Faculty of Epidemiology and Population Health, London School of Hygiene and
+Tropical Medicine, London, UK.
+(3)The DataLab, Nuffield Department of Primary Care Health Sciences, University
+of Oxford, Oxford, UK.
+(4)TPP, TPP House, Horsforth, Leeds, UK.
+(5)NIHR Health Protection Research Unit (HPRU) in Immunisation, London, UK.
+(#)Contributed equally
+
+BACKGROUND: Thromboembolism has been reported as a consequence of severe
+COVID-19. Although warfarin is a commonly used anticoagulant, it acts by
+antagonising vitamin K, which is low in patients with severe COVID-19. To date,
+the clinical evidence on the impact of regular use of warfarin on
+COVID-19-related thromboembolism is lacking.
+METHODS: On behalf of NHS England, we conducted a population-based cohort study
+investigating the association between warfarin and COVID-19 outcomes compared
+with direct oral anticoagulants (DOACs). We used the OpenSAFELY platform to
+analyse primary care data and pseudonymously linked SARS-CoV-2 antigen testing
+data, hospital admissions and death records from England. We used Cox regression 
+to estimate hazard ratios (HRs) for COVID-19-related outcomes comparing warfarin 
+with DOACs in people with non-valvular atrial fibrillation. We also conducted
+negative control outcome analyses (being tested for SARS-CoV-2 and non-COVID-19
+death) to assess the potential impact of confounding.
+RESULTS: A total of 92,339 warfarin users and 280,407 DOAC users were included.
+We observed a lower risk of all outcomes associated with warfarin versus DOACs
+[testing positive for SARS-CoV-2, HR 0.73 (95% CI 0.68-0.79); COVID-19-related
+hospital admission, HR 0.75 (95% CI 0.68-0.83); COVID-19-related deaths, HR 0.74 
+(95% CI 0.66-0.83)]. A lower risk of negative control outcomes associated with
+warfarin versus DOACs was also observed [being tested for SARS-CoV-2, HR 0.80
+(95% CI 0.79-0.81); non-COVID-19 deaths, HR 0.79 (95% CI 0.76-0.83)].
+CONCLUSIONS: Overall, this study shows no evidence of harmful effects of warfarin
+on severe COVID-19 disease.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s13045-021-01185-0 
+PMCID: PMC8525065
+PMID: 34666811  [Indexed for MEDLINE]
+

@@ -1,0 +1,51 @@
+
+1. J Transl Med. 2021 Nov 7;19(1):459. doi: 10.1186/s12967-021-03132-6.
+
+Contextual reprogramming of CAR-T cells for treatment of HER2+ cancers.
+
+Yang Z(1), Li L(1), Turkoz A(1), Chen P(1), Harari-Steinfeld R(1), Bobbin M(1),
+Stefanson O(1), Choi H(1), Pietrobon V(1), Alphson B(1), Goswami A(1), Balan
+V(1), Kearney A(1), Patel D(1), Yang J(1), Inel D(1), Vinod V(2), Cesano A(2),
+Wang B(1), Roh KH(3), Qi LS(4), Marincola FM(5)(6).
+
+Author information: 
+(1)Refuge Biotechnologies Inc., Menlo Park, CA, 94025, USA.
+(2)ESSA Pharma, South San Francisco, CA, 94080, USA.
+(3)Department of Chemical and Materials Engineering, University of Alabama in
+Huntsville, Huntsville, AL, 35899, USA.
+(4)Department of Bioengineering, Department of Chemical and Systems Biology,
+Stanford University, ChEM-H, Stanford, CA, 94305, USA. stanley.qi@stanford.edu.
+(5)Refuge Biotechnologies Inc., Menlo Park, CA, 94025, USA.
+francesco.marincola1@gilead.com.
+(6)Gilead/Kite, Santa Monica, CA, 90404, USA. francesco.marincola1@gilead.com.
+
+BACKGROUND: Adoptive transfer of chimeric antigen receptor (CAR)-engineered T
+cells combined with checkpoint inhibition may prevent T cell exhaustion and
+improve clinical outcomes. However, the approach is limited by cumulative costs
+and toxicities.
+METHODS: To overcome this drawback, we created a CAR-T (RB-340-1) that unites in 
+one product the two modalities: a CRISPR interference-(CRISPRi) circuit prevents 
+programmed cell death protein 1 (PD-1) expression upon antigen-encounter.
+RB-340-1 is engineered to express an anti-human epidermal growth factor receptor 
+2 (HER2) CAR single chain variable fragment (scFv), with CD28 and CD3ζ
+co-stimulatory domains linked to the tobacco etch virus (TEV) protease and a
+single guide RNA (sgRNA) targeting the PD-1 transcription start site (TSS). A
+second constructs includes linker for activation of T cells (LAT) fused to
+nuclease-deactivated spCas9 (dCas9)-Kruppel-associated box (KRAB) via a
+TEV-cleavable sequence (TCS). Upon antigen encounter, the LAT-dCas9-KRAB (LdCK)
+complex is cleaved by TEV allowing targeting of dCas9-KRAB to the PD-1 gene TSS.
+RESULTS: Here, we show that RB-340-1 consistently demonstrated higher production 
+of homeostatic cytokines, enhanced expansion of CAR-T cells in vitro, prolonged
+in vivo persistence and more efficient suppression of HER2+ FaDu oropharyngeal
+cancer growth compared to the respective conventional CAR-T cell product.
+CONCLUSIONS: As the first application of CRISPRi toward a clinically relevant
+product, RB-340-1 with the conditional, non-gene editing and reversible
+suppression promotes CAR-T cells resilience to checkpoint inhibition, and their
+persistence and effectiveness against HER2-expressing cancer xenografts.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12967-021-03132-6 
+PMCID: PMC8573881
+PMID: 34743703 
+

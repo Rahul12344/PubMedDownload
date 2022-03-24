@@ -1,0 +1,35 @@
+
+1. Biochemistry. 1999 Jun 22;38(25):8045-55.
+
+New strategy for the conformational analysis of carbohydrates based on NOE and
+13C NMR coupling constants. Application to the flexible polysaccharide of
+Streptococcus mitis J22.
+
+Martin-Pastor M(1), Bush CA.
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, University of Maryland-Baltimore
+County, Baltimore 21250, USA.
+
+For complex oligosaccharides, which are relatively rigid with modest excursions
+from a single minimum energy conformation, it is straightforward to build
+conformational models from NOE data. Other oligosaccharides are more flexible
+with transitions between distinct minima separated by substantial energy
+barriers. We show that modeling based on scalar coupling data is superior to
+NOE-based modeling for the latter case. Long range 13C-13C and 13C-1H coupling
+constants measured for the heptasaccharide repeating subunit of the cell wall
+polysaccharide from Streptococcus mitis J22 are correlated with individual
+glycosidic dihedral angles, effectively uncoupling the degrees of freedom of the 
+oligosaccharide and allowing a search for combinations of dihedral angles which
+are energetically reasonable, i.e., with no bad van der Waals contacts, and which
+can be combined to satisfy all the measured J values. Allowed values of the
+individual angles can then be combined to search for overall oligosaccharide
+conformations which contribute to the ensemble. We show that while the
+polysaccharide from S. mitis J22 is flexible, requiring multiple conformations,
+most of the flexibility is localized to a few bonds and only a rather small
+number of conformations is required to reproduce the experimental NOE and scalar 
+coupling data.
+
+DOI: 10.1021/bi9904205 
+PMID: 10387049  [Indexed for MEDLINE]
+

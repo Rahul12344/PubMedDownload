@@ -1,0 +1,35 @@
+
+1. Pharmaceuticals (Basel). 2021 Oct 3;14(10). pii: 1019. doi: 10.3390/ph14101019.
+
+Phage Cocktail Development for Bacteriophage Therapy: Toward Improving Spectrum
+of Activity Breadth and Depth.
+
+Abedon ST(1), Danis-Wlodarczyk KM(2), Wozniak DJ(1)(2).
+
+Author information: 
+(1)Department of Microbiology, The Ohio State University, Columbus, OH 43210,
+USA.
+(2)Department of Microbial Infection and Immunity, The Ohio State University,
+Columbus, OH 43210, USA.
+
+Phage therapy is the use of bacterial viruses as antibacterial agents. A primary 
+consideration for commercial development of phages for phage therapy is the
+number of different bacterial strains that are successfully targeted, as this
+defines the breadth of a phage cocktail's spectrum of activity. Alternatively,
+phage cocktails may be used to reduce the potential for bacteria to evolve phage 
+resistance. This, as we consider here, is in part a function of a cocktail's
+'depth' of activity. Improved cocktail depth is achieved through inclusion of at 
+least two phages able to infect a single bacterial strain, especially two phages 
+against which bacterial mutation to cross resistance is relatively rare. Here, we
+consider the breadth of activity of phage cocktails while taking both depth of
+activity and bacterial mutation to cross resistance into account. This is done by
+building on familiar algorithms normally used for determination solely of phage
+cocktail breadth of activity. We show in particular how phage cocktails for phage
+therapy may be rationally designed toward enhancing the number of bacteria
+impacted while also reducing the potential for a subset of those bacteria to
+evolve phage resistance, all as based on previously determined phage properties.
+
+DOI: 10.3390/ph14101019 
+PMCID: PMC8541335
+PMID: 34681243 
+

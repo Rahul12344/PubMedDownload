@@ -1,0 +1,72 @@
+
+1. PLoS Med. 2021 Oct 18;18(10):e1003831. doi: 10.1371/journal.pmed.1003831.
+eCollection 2021 Oct.
+
+Modeling the epidemiological impact of the UNAIDS 2025 targets to end AIDS as a
+public health threat by 2030.
+
+Stover J(1), Glaubius R(1), Teng Y(1), Kelly S(2), Brown T(3), Hallett TB(4),
+Revill P(5), Bärnighausen T(6), Phillips AN(7), Fontaine C(8), Frescura L(8),
+Izazola-Licea JA(8), Semini I(8), Godfrey-Faussett P(8), De Lay PR(9), Benzaken
+AS(10), Ghys PD(8).
+
+Author information: 
+(1)Avenir Health, Glastonbury, Connecticut, United States of America.
+(2)Burnet Institute, Melbourne, Victoria, Australia.
+(3)East-West Center, Honolulu, Hawaii, United States of America.
+(4)MRC Centre for Global Infectious Disease Analysis, Imperial College London,
+London, United Kingdom.
+(5)Centre for Health Economics, University of York, York, United Kingdom.
+(6)Heidelberg Institute of Global Health, Heidelberg University, Heidelberg,
+Germany.
+(7)Institute for Global Health, University College London, London, United
+Kingdom.
+(8)UNAIDS, Geneva, Switzerland.
+(9)Consultant, Washington, DC, United States of America.
+(10)AIDS Health Care Foundation, Los Angeles, California, United States of
+America.
+
+BACKGROUND: UNAIDS has established new program targets for 2025 to achieve the
+goal of eliminating AIDS as a public health threat by 2030. This study reports on
+efforts to use mathematical models to estimate the impact of achieving those
+targets.
+METHODS AND FINDINGS: We simulated the impact of achieving the targets at country
+level using the Goals model, a mathematical simulation model of HIV epidemic
+dynamics that includes the impact of prevention and treatment interventions. For 
+77 high-burden countries, we fit the model to surveillance and survey data for
+1970 to 2020 and then projected the impact of achieving the targets for the
+period 2019 to 2030. Results from these 77 countries were extrapolated to produce
+estimates for 96 others. Goals model results were checked by comparing against
+projections done with the Optima HIV model and the AIDS Epidemic Model (AEM) for 
+selected countries. We included estimates of the impact of societal enablers
+(access to justice and law reform, stigma and discrimination elimination, and
+gender equality) and the impact of Coronavirus Disease 2019 (COVID-19). Results
+show that achieving the 2025 targets would reduce new annual infections by 83%
+(71% to 86% across regions) and AIDS-related deaths by 78% (67% to 81% across
+regions) by 2025 compared to 2010. Lack of progress on societal enablers could
+endanger these achievements and result in as many as 2.6 million (44%) cumulative
+additional new HIV infections and 440,000 (54%) more AIDS-related deaths between 
+2020 and 2030 compared to full achievement of all targets. COVID-19-related
+disruptions could increase new HIV infections and AIDS-related deaths by 10% in
+the next 2 years, but targets could still be achieved by 2025. Study limitations 
+include the reliance on self-reports for most data on behaviors, the use of
+intervention effect sizes from published studies that may overstate intervention 
+impacts outside of controlled study settings, and the use of proxy countries to
+estimate the impact in countries with fewer than 4,000 annual HIV infections.
+CONCLUSIONS: The new targets for 2025 build on the progress made since 2010 and
+represent ambitious short-term goals. Achieving these targets would bring us
+close to the goals of reducing new HIV infections and AIDS-related deaths by 90% 
+between 2010 and 2030. By 2025, global new infections and AIDS deaths would drop 
+to 4.4 and 3.9 per 100,000 population, and the number of people living with HIV
+(PLHIV) would be declining. There would be 32 million people on treatment, and
+they would need continuing support for their lifetime. Incidence for the total
+global population would be below 0.15% everywhere. The number of PLHIV would
+start declining by 2023.
+
+DOI: 10.1371/journal.pmed.1003831 
+PMCID: PMC8559943
+PMID: 34662333  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

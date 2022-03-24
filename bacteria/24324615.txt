@@ -1,0 +1,40 @@
+
+1. PLoS One. 2013 Dec 4;8(12):e80597. doi: 10.1371/journal.pone.0080597. eCollection
+2013.
+
+Simultaneous transcriptional profiling of bacteria and their host cells.
+
+Humphrys MS(1), Creasy T, Sun Y, Shetty AC, Chibucos MC, Drabek EF, Fraser CM,
+Farooq U, Sengamalay N, Ott S, Shou H, Bavoil PM, Mahurkar A, Myers GS.
+
+Author information: 
+(1)Institute for Genome Sciences, University of Maryland School of Medicine,
+Baltimore, Maryland, United States of America.
+
+We developed an RNA-Seq-based method to simultaneously capture prokaryotic and
+eukaryotic expression profiles of cells infected with intracellular bacteria. As 
+proof of principle, this method was applied to Chlamydia trachomatis-infected
+epithelial cell monolayers in vitro, successfully obtaining transcriptomes of
+both C. trachomatis and the host cells at 1 and 24 hours post-infection.
+Chlamydiae are obligate intracellular bacterial pathogens that cause a range of
+mammalian diseases. In humans chlamydiae are responsible for the most common
+sexually transmitted bacterial infections and trachoma (infectious blindness).
+Disease arises by adverse host inflammatory reactions that induce tissue damage &
+scarring. However, little is known about the mechanisms underlying these
+outcomes. Chlamydia are genetically intractable as replication outside of the
+host cell is not yet possible and there are no practical tools for routine
+genetic manipulation, making genome-scale approaches critical. The early
+timeframe of infection is poorly understood and the host transcriptional response
+to chlamydial infection is not well defined. Our simultaneous RNA-Seq method was 
+applied to a simplified in vitro model of chlamydial infection. We discovered a
+possible chlamydial strategy for early iron acquisition, putative immune
+dampening effects of chlamydial infection on the host cell, and present a
+hypothesis for Chlamydia-induced fibrotic scarring through runaway positive
+feedback loops. In general, simultaneous RNA-Seq helps to reveal the complex
+interplay between invading bacterial pathogens and their host mammalian cells and
+is immediately applicable to any bacteria/host cell interaction.
+
+DOI: 10.1371/journal.pone.0080597 
+PMCID: PMC3851178
+PMID: 24324615  [Indexed for MEDLINE]
+

@@ -1,0 +1,48 @@
+
+1. parasit vectors. 2015 jun 12;8:318. doi: 10.1186/s13071-015-0927-x.
+
+vector sequence contamination plasmodium vivax sequence database in
+plasmodb silico correction 26 parasite sequences.
+
+tao zy(1), sui x(2)(3)(4), jun c(5)(6)(7), culleton r(8), fang q(9), xia h(10),
+gao q(11)(12)(13).
+
+author information: 
+(1)department parasitology, bengbu medical college, bengbu, people's republic 
+of china. bengbucity@163.com.
+(2)jiangsu institute parasitic diseases, wuxi, china. uouping7@gmail.com.
+(3)key laboratory parasitic disease control prevention, ministry of
+health, wuxi, china. uouping7@gmail.com.
+(4)jiangsu provincial key laboratory parasite molecular biology, wuxi, china. 
+uouping7@gmail.com.
+(5)jiangsu institute parasitic diseases, wuxi, china. caojuncn@hotmail.com.
+(6)key laboratory parasitic disease control prevention, ministry of
+health, wuxi, china. caojuncn@hotmail.com.
+(7)jiangsu provincial key laboratory parasite molecular biology, wuxi, china. 
+caojuncn@hotmail.com.
+(8)malaria unit, institute tropical medicine, nagasaki university, sakamoto,
+nagasaki, japan. richard.culleton@gmail.com.
+(9)department parasitology, bengbu medical college, bengbu, people's republic 
+of china. fq333@sohu.com.
+(10)department parasitology, bengbu medical college, bengbu, people's republic
+of china. xiahui912@163.com.
+(11)jiangsu institute parasitic diseases, wuxi, china. gaoqi54@hotmail.com.
+(12)key laboratory parasitic disease control prevention, ministry of
+health, wuxi, china. gaoqi54@hotmail.com.
+(13)jiangsu provincial key laboratory parasite molecular biology, wuxi, china.
+gaoqi54@hotmail.com.
+
+we found 47 aa protein sequence occurs 17 times plasmodium vivax
+nucleotide database published plasmodb. coding sequence analysis showed
+multiple restriction enzyme sites within 141 bp nucleotide sequence, a
+his6 tag attached 3' end, suggesting cloning vector origins. sequences
+with vector contamination submitted ncbi, blastn used to
+cross-examine whole-genome shotgun contigs (wgs) four recently deposited p. 
+vivax whole genome sequencing projects. least 26 genes listed the
+plasmodb database incorporate cloning vector sequence their
+predicted provisional protein products.
+
+doi: 10.1186/s13071-015-0927-x 
+pmcid: pmc4464627
+pmid: 26062606  [indexed medline]
+

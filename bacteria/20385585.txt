@@ -1,0 +1,36 @@
+
+1. Nucleic Acids Res. 2010 Aug;38(15):5047-58. doi: 10.1093/nar/gkq239. Epub 2010
+Apr 12.
+
+Constitutive fusion of ubiquitin to PCNA provides DNA damage tolerance
+independent of translesion polymerase activities.
+
+Pastushok L(1), Hanna M, Xiao W.
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Saskatchewan,
+Saskatoon, SK, Canada.
+
+In response to replication-blocking DNA lesions, proliferating cell nuclear
+antigen (PCNA) can be conjugated with a single ubiquitin (Ub) or Lys63-linked Ub 
+chains at the Lys164 residue, leading to two modes of DNA damage tolerance (DDT),
+namely translesion synthesis (TLS) and error-free DDT, respectively. Several
+reports suggest a model whereby monoubiquitylated PCNA recruits TLS polymerases
+through an enhanced physical association. We sought to examine this model in
+Saccharomyces cerevisiae through artificial fusions of Ub to PCNA in vivo. We
+created N- and C- terminal gene fusions of Ub to PCNA-K164R (collectively called 
+PCNA.Ub) and found that both conferred tolerance to DNA damage. The creation of
+viable PCNA.Ub strains lacking endogenous PCNA enabled a thorough analysis of
+roles for PCNA mono-Ub in DDT. As expected, the DNA damage resistance provided by
+PCNA.Ub is not dependent on RAD18 or UBC13. Surprisingly, inactivation of TLS
+polymerases did not abolish PCNA.Ub resistance to DNA damage, nor did PCNA.Ub
+cause elevated spontaneous mutagenesis, which is a defining characteristic of
+REV3-dependent TLS activity. Taken together, our data suggest that either the
+monoubiquitylation of PCNA does not promote TLS activity in all cases or PCNA.Ub 
+reveals a currently undiscovered role for monoubiquitylated PCNA in DNA damage
+tolerance.
+
+DOI: 10.1093/nar/gkq239 
+PMCID: PMC2926605
+PMID: 20385585  [Indexed for MEDLINE]
+

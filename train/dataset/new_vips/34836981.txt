@@ -1,0 +1,45 @@
+
+1. Sci Rep. 2021 Nov 26;11(1):22969. doi: 10.1038/s41598-021-02029-0.
+
+Dual electrochemical sensing of spiked virus and SARS-CoV-2 using natural
+bed-receptor (MV-gal1).
+
+Ghazizadeh E(1)(2), Neshastehriz A(3), Firoozabadi AD(4), Yazdi MK(5),
+Saievar-Iranizad E(6), Einali S(3).
+
+Author information: 
+(1)Department of Medical Biotechnology, School of Medicine, Mashhad University of
+Medical Sciences, Mashhad, Iran. elhamgenetic@yahoo.com.
+(2)Radiation Biology Research Center, Iran University of Medical Sciences (IUMS),
+Tehran, Iran. elhamgenetic@yahoo.com.
+(3)Radiation Biology Research Center, Iran University of Medical Sciences (IUMS),
+Tehran, Iran.
+(4)Yazd Cardiovascular Research Center, Shahid Sadoughi University of Medical
+Sciences, Yazd, Iran.
+(5)Department of Pediatric Hematologist and Oncologist, Bahrami Children
+Hospital, Tehran University of Medical Sciences, 25529, Tehran, Iran.
+(6)Department of Physics, Faculty of Science, University of Tarbiat Modarres,
+Tehran, Iran.
+
+It has been necessary to use methods that can detect the specificity of a virus
+during virus screening. In this study, we use a dual platform to identify any
+spiked virus and specific SARS-CoV-2 antigen, sequentially. We introduce a
+natural bed-receptor surface as Microparticle Vesicle-Galactins1 (MV-gal1) with
+the ability of glycan binding to screen every spiked virus. MV are the native
+vesicles which may have the gal-1 receptor. Gal-1 is the one of lectin receptor
+which can bind to glycan. After dropping the MV-gal1 on the SCPE/GNP, the sensor 
+is turned on due to the increased electrochemical exchange with [Fe(CN)6]-3/-4
+probe. Dropping the viral particles of SARS-CoV-2 cause to turn off the sensor
+with covering the sugar bond (early screening). Then, with the addition of
+Au/Antibody-SARS-CoV-2 on the MV-gal1@SARS-CoV-2 Antigen, the sensor is turned on
+again due to the electrochemical amplifier of AuNP (specific detection).For the
+first time, our sensor has the capacity of screening of any spike virus, and the 
+specific detection of COVID-19 (LOD: 4.57 × 102 copies/mL) by using the natural
+bed-receptor and a specific antibody in the point of care test.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-02029-0 
+PMCID: PMC8626484
+PMID: 34836981 
+

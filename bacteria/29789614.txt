@@ -1,0 +1,34 @@
+
+1. Nat Commun. 2018 May 22;9(1):2008. doi: 10.1038/s41467-018-04417-z.
+
+Augmenting the Calvin-Benson-Bassham cycle by a synthetic malyl-CoA-glycerate
+carbon fixation pathway.
+
+Yu H(1)(2), Li X(2), Duchoud F(2), Chuang DS(2), Liao JC(3).
+
+Author information: 
+(1)UCLA-DOE Institute of Genomics and Proteomics, 420 Westwood Plaza, Los
+Angeles, CA, 90095, USA.
+(2)Department of Chemical and Biomolecular Engineering, University of California,
+Los Angeles, CA, 90095, USA.
+(3)Academia Sinica, 128 Academia Road, Section 2, 115, Taipei, Taiwan.
+liaoj@ucla.edu.
+
+The Calvin-Benson-Bassham (CBB) cycle is presumably evolved for optimal synthesis
+of C3 sugars, but not for the production of C2 metabolite acetyl-CoA. The carbon 
+loss in producing acetyl-CoA from decarboxylation of C3 sugar limits the maximum 
+carbon yield of photosynthesis. Here we design a synthetic malyl-CoA-glycerate
+(MCG) pathway to augment the CBB cycle for efficient acetyl-CoA synthesis. This
+pathway converts a C3 metabolite to two acetyl-CoA by fixation of one additional 
+CO2 equivalent, or assimilates glyoxylate, a photorespiration intermediate, to
+produce acetyl-CoA without net carbon loss. We first functionally demonstrate the
+design of the MCG pathway in vitro and in Escherichia coli. We then implement the
+pathway in a photosynthetic organism Synechococcus elongates PCC7942, and show
+that it increases the intracellular acetyl-CoA pool and enhances bicarbonate
+assimilation by roughly 2-fold. This work provides a strategy to improve carbon
+fixation efficiency in photosynthetic organisms.
+
+DOI: 10.1038/s41467-018-04417-z 
+PMCID: PMC5964204
+PMID: 29789614  [Indexed for MEDLINE]
+

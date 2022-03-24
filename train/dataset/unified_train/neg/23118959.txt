@@ -1,0 +1,39 @@
+
+1. plos one. 2012;7(10):e48236. doi: 10.1371/journal.pone.0048236. epub 2012 oct 30.
+
+microrna prediction using fixed-order markov model based secondary
+structure pattern.
+
+shen w(1), chen m, wei g, li y.
+
+author information: 
+(1)medical research center, southwest hospital, third military medical
+university, chongqing, china.
+
+predicting mirnas arduous task, due diversity precursors 
+complexity enzyme processes. although several prediction approaches have
+reached impressive performances, could achieve full-function
+recognition mature mirna directly candidate hairpins across species. 
+therefore, researchers continue seek powerful model close biological
+recognition mirna structure. report, describe novel mirna
+prediction algorithm, known fommir, using fixed-order markov model based 
+the secondary structural pattern. training dataset containing 809 human
+pre-mirnas 6441 human pseudo-mirna hairpins, model's parameters were
+defined evaluated. results showed fommir reached 91% accuracy the
+human dataset 5-fold cross-validation. moreover, independent test
+datasets, fommir presented outstanding prediction human other
+species including vertebrates, drosophila, worms viruses, even plants, in
+contrast well-known algorithms models. especially, fommir 
+only able distinguish mirna precursors hairpins, also locate 
+the position strand mature mirna. therefore, study provides new
+generation mirna prediction algorithm, successfully realizes a
+full-function recognition mature mirnas directly hairpin
+sequences. presents new understanding biological recognition
+based strongest signal's location detected fommir, might be
+closely associated enzyme cleavage mechanism mirna
+maturation.
+
+doi: 10.1371/journal.pone.0048236 
+pmcid: pmc3484136
+pmid: 23118959  [indexed medline]
+

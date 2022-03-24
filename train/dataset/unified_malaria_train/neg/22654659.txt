@@ -1,0 +1,39 @@
+
+1. plos pathog. 2012;8(5):e1002678. doi: 10.1371/journal.ppat.1002678. epub 2012 may
+24.
+
+comparative genomics reveals two novel rnai factors trypanosoma brucei and
+provides insight core machinery.
+
+barnes rl(1), shi h, kolev ng, tschudi c, ullu e.
+
+author information: 
+(1)department internal medicine, yale university, new haven, connecticut, usa.
+
+the introduction ten years ago rna interference (rnai) tool molecular
+exploration trypanosoma brucei led surge understanding 
+pathogenesis biology human parasite. particular, genome-wide
+rnai screen recently combined next-generation illumina sequencing
+to expose catalogues genes associated loss fitness distinct
+developmental stages. present, technology restricted rnai-positive 
+protozoan parasites, excludes t. cruzi, leishmania major, plasmodium
+falciparum. therefore, elucidating mechanism rnai identifying the
+essential components pathway fundamental improving rnai efficiency 
+in t. brucei transferring rnai tool rnai-deficient pathogens. here
+we used comparative genomics rnai-positive -negative trypanosomatid
+protozoans identify repertoire factors t. brucei. addition the
+previously characterized argonaute 1 (ago1) protein cytoplasmic and
+nuclear dicers, tbdcl1 tbdcl2, respectively, identified rna
+interference factors 4 5 (tbrif4 tbrif5). tbrif4 3'-5' exonuclease
+of dnaq superfamily plays critical role conversion duplex
+sirnas single-stranded form, thus generating tbago1-sirna complex
+required target-specific cleavage. tbrif5 essential cytoplasmic rnai
+and appears act tbdcl1 cofactor. availability core rnai
+machinery t. brucei provides platform gain mechanistic insights this
+ancient eukaryote identify minimal set components required to
+reconstitute rnai rnai-deficient parasites.
+
+doi: 10.1371/journal.ppat.1002678 
+pmcid: pmc3359990
+pmid: 22654659  [indexed medline]
+

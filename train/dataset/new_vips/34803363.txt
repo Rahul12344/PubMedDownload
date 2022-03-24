@@ -1,0 +1,46 @@
+
+1. Phys Fluids (1994). 2021 Nov;33(11):113310. doi: 10.1063/5.0067517. Epub 2021 Nov
+9.
+
+Study of the interactions of sneezing droplets with particulate matter in a
+polluted environment.
+
+Dey P(1), Saha SK(2), Sarkar S(3).
+
+Author information: 
+(1)Department of Mechanical Engineering, National Institute of Technology Goa,
+Ponda, Goa 403401, India.
+(2)Department of Mechanical Engineering, Indian Institute of Technology Bombay,
+Mumbai 400076, India.
+(3)Department of Mechanical Engineering, Jadavpur University, Kolkata 700032,
+India.
+
+We have performed a three-dimensional numerical simulation to determine the
+effect of local atmospheric pollution level on the spreading characteristics of
+the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus through
+ejected droplets during sneezing and coughing in an open space. Utilizing a
+finite volume-based numerical method, we have performed computations for various 
+ranges of droplet diameters and sneezing speeds. The interactions between the
+droplets and the suspended particles are considered by taking both hydrophobic
+and hydrophilic wettability characteristics into account. Our computational
+results show that the virus-containing droplets partially affect aerosols during 
+the path of their transmission. With the progression of time, the droplet
+distribution shows an asymmetric pattern. The maximum dispersion of these
+droplets is found for higher sneezing velocities. The droplets with a diameter of
+50 μm travel a larger distance than the larger diameter droplets. We have found
+that an aerosol with hydrophilic wettability undergoes complete wetting by the
+disease-containing droplets and therefore is conducive to disease propagation.
+The droplet engagement duration with aerosol decreases with increase in the
+sneezing velocity. Our study recommends against using physical exercise centers
+in a closed environment such as gymnasium and indoor games during the COVID
+pandemic, especially in a polluted environment. The results from our work will
+help in deciding proper social distancing guidelines based on the local
+atmospheric pollution level. They may act as a precursor in controlling further
+spread of diseases during this unprecedented situation of the COVID pandemic.
+
+© 2021 Author(s).
+
+DOI: 10.1063/5.0067517 
+PMCID: PMC8597716
+PMID: 34803363 
+

@@ -1,0 +1,47 @@
+
+1. J Biotechnol. 2015 Jan 10;193:108-19. doi: 10.1016/j.jbiotec.2014.10.036. Epub
+2014 Nov 5.
+
+Comparative proteomics analysis of high n-butanol producing metabolically
+engineered Clostridium tyrobutyricum.
+
+Ma C(1), Kojima K(2), Xu N(1), Mobley J(2), Zhou L(2), Yang ST(3), Liu XM(4).
+
+Author information: 
+(1)Department of Chemical and Biological Engineering, The University of Alabama, 
+245 7th Avenue, Tuscaloosa, AL 35401, USA.
+(2)Departments of Medicine and Biomedical Engineering, The University of Alabama 
+at Birmingham, 703 19th Street South and 1530 3rd Avenue South, Birmingham, AL
+35294, USA.
+(3)William G Lowrie Department of Chemical and Biomolecular Engineering, The Ohio
+State University, 140 West 19th Avenue, Columbus, OH 43210, USA. Electronic
+address: yang.15@osu.edu.
+(4)Department of Chemical and Biological Engineering, The University of Alabama, 
+245 7th Avenue, Tuscaloosa, AL 35401, USA. Electronic address: mliu@eng.ua.edu.
+
+The acidogenic Clostridium tyrobutyricum has recently been metabolically
+engineered to produce n-butanol. The objective of this study was to obtain a
+comprehensive understanding as to how butanol production was regulated in C.
+tyrobutyricum to guide the engineering of next-generation strains. We performed a
+comparative proteomics analysis, covering 78.1% of open reading frames and 95% of
+core enzymes, using wild type, ACKKO mutant (Δack) producing 37.30 g/L of
+butyrate and ACKKO-adhE2 mutant (Δack-adhE2) producing 16.68 g/L of butanol. In
+ACKKO-adhE2, the expression of most glycolytic enzymes was decreased, the
+thiolase (thl), acetyl-CoA acetyltransferase (ato), 3-hydroxybutyryl-CoA
+dehydrogenase (hbd) and crotonase (crt) that convert acetyl-CoA to butyryl-CoA
+were increased, and the heterologous bifunctional acetaldehyde/alcohol
+dehydrogenase (adhE2) catalyzing butanol formation was highly expressed. The
+apparent imbalance of energy and redox was observed due to the downregulation of 
+acids production and the addition of butanol synthesis pathway, which also
+resulted in increased expression of chaperone proteins and glycerol-3-phosphate
+dehydrogenase (glpA) and the silence of sporulation transcription factor Spo0A
+(spo0A) as the cellular responses to butanol production. This study revealed the 
+mechanism of carbon redistribution, and limiting factors and rational metabolic
+cell and process engineering strategies to achieve high butanol production in C. 
+tyrobutyricum.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jbiotec.2014.10.036 
+PMID: 25449011  [Indexed for MEDLINE]
+

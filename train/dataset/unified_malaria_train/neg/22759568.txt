@@ -1,0 +1,48 @@
+
+1. proteome sci. 2012 jun 21;10 suppl 1:s10. doi: 10.1186/1477-5956-10-s1-s10.
+
+computational synchronization microarray data application plasmodium
+falciparum.
+
+zhao w(1), dauwels j, niles jc, cao j.
+
+author information: 
+(1)singapore-mit alliance research technology, centre life sciences, 
+28 medical drive, singapore 117456. jdauwels@ntu.edu.sg.
+
+background: microarrays widely used investigate blood stage of
+plasmodium falciparum infection. starting synchronized cells, gene
+expression levels continually measured 48-hour intra-erythrocytic
+cycle (idc). however, cell population gradually loses synchrony the
+experiment. result, microarray measurements blurred. paper, 
+we propose generalized deconvolution approach reconstruct intrinsic
+expression pattern, apply p. falciparum idc microarray data.
+methods: develop statistical model decay synchrony among cells,
+and reconstruct expression pattern statistical inference. the
+proposed method handle microarray measurements noise missing data.
+the original gene expression patterns become apparent reconstructed
+profiles, making easier analyze interpret data. hypothesize that
+reconstructed gene expression patterns represent better temporally resolved
+expression profiles probabilistically modeled match changes in
+expression level idc transitions. particular, identify transcriptionally
+regulated protein kinases putatively involved regulating p. falciparum
+idc.
+results: analyzing publicly available microarray data sets p.
+falciparum idc, protein kinases ranked terms likelihood be
+involved regulating transitions ring, trophozoite schizont
+developmental stages p. falciparum idc. theoretical framework, a
+few protein kinases high probability rankings, could potentially be
+involved regulating developmental transitions.
+conclusions: study proposes new methodology extracting intrinsic
+expression patterns microarray data. applying method p.
+falciparum microarray data, several protein kinases predicted play a
+significant role p. falciparum idc. earlier experiments indeed
+confirmed several kinases involved process. overall,
+these results indicate functional analysis additional
+putative protein kinases may reveal new insights p. falciparum idc
+is regulated.
+
+doi: 10.1186/1477-5956-10-s1-s10 
+pmcid: pmc3380736
+pmid: 22759568 
+

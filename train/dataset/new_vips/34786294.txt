@@ -1,0 +1,43 @@
+
+1. IEEE Access. 2020 Oct 12;8:186821-186839. doi: 10.1109/ACCESS.2020.3030090.
+eCollection 2020.
+
+IoT in the Wake of COVID-19: A Survey on Contributions, Challenges and Evolution.
+
+Ndiaye M(1), Oyewobi SS(2), Abu-Mahfouz AM(2)(3)(4), Hancke GP(5)(4), Kurien
+AM(2), Djouani K(2)(6).
+
+Author information: 
+(1)Department of Electrical EngineeringCopperbelt University Kitwe 10101 Zambia.
+(2)French South African Institute of Technology (FSATI), Tshwane University of
+Technology Pretoria 0001 South Africa.
+(3)Council for Scientific and Industrial Research Pretoria 0083 South Africa.
+(4)Department of ElectricalElectronic and Computer EngineeringUniversity of
+Pretoria Pretoria 0028 South Africa.
+(5)College of Automation and Artificial IntelligenceNanjing University of Posts
+and Telecommunications Nanjing 210023 China.
+(6)LISSI LaboratoryUniversity Paris-Est Creteil (UPEC) 94000 Creteil France.
+
+The novel coronavirus (COVID-19), declared by the World Health Organization (WHO)
+as a global pandemic, has brought with it changes to the general way of life.
+Major sectors of the world industry and economy have been affected and the
+Internet of Things (IoT) management and framework is no exception in this regard.
+This article provides an up to date survey on how a global pandemic such as
+COVID-19 has affected the world of IoT technologies. It looks at the
+contributions that IoT and associated sensor technologies have made towards virus
+tracing, tracking and spread mitigation. The associated challenges of deployment 
+of sensor hardware in the face of a rapidly spreading pandemic have been looked
+into as part of this review article. The effects of a global pandemic on the
+evolution of IoT architectures and management have also been addressed, leading
+to the likely outcomes on future IoT implementations. In general, this article
+provides an insight into the advancement of sensor-based E-health towards the
+management of global pandemics. It also answers the question of how a global
+virus pandemic has shaped the future of IoT networks.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more 
+information, see https://creativecommons.org/licenses/by/4.0/.
+
+DOI: 10.1109/ACCESS.2020.3030090 
+PMCID: PMC8545289
+PMID: 34786294 
+

@@ -1,0 +1,50 @@
+
+1. Molecules. 2021 Oct 13;26(20). pii: 6171. doi: 10.3390/molecules26206171.
+
+Marine Brominated Tyrosine Alkaloids as Promising Inhibitors of SARS-CoV-2.
+
+El-Demerdash A(1)(2), Hassan A(3)(4), Abd El-Aziz TM(5)(6), Stockand JD(6), Arafa
+RK(3)(4).
+
+Author information: 
+(1)Department of Metabolic Biology & Biological Chemistry, The John Innes Center,
+Norwich Research Park, Norwich NR4 7UH, UK.
+(2)Division of Organic Chemistry, Department of Chemistry, Faculty of Science,
+Mansoura University, Mansoura 35516, Egypt.
+(3)Drug Design and Discovery Laboratory, Helmy Institute for Medical Sciences,
+Zewail City of Science and Technology, Giza 12578, Egypt.
+(4)Biomedical Sciences Program, University of Science and Technology, Zewail City
+of Science and Technology, Giza 12578, Egypt.
+(5)Zoology Department, Faculty of Science, Minia University, El-Minia 61519,
+Egypt.
+(6)Department of Cellular and Integrative Physiology, University of Texas Health 
+Science Center at San Antonio, San Antonio, TX 78229, USA.
+
+There have been more than 150 million confirmed cases of SARS-CoV-2 since the
+beginning of the pandemic in 2019. By June 2021, the mortality from such
+infections approached 3.9 million people. Despite the availability of a number of
+vaccines which provide protection against this virus, the evolution of new viral 
+variants, inconsistent availability of the vaccine around the world, and vaccine 
+hesitancy, in some countries, makes it unreasonable to rely on mass vaccination
+alone to combat this pandemic. Consequently, much effort is directed to
+identifying potential antiviral treatments. Marine brominated tyrosine alkaloids 
+are recognized to have antiviral potential. We test here the antiviral capacity
+of fourteen marine brominated tyrosine alkaloids against five different target
+proteins from SARS-CoV-2, including main protease (Mpro) (PDB ID: 6lu7), spike
+glycoprotein (PDB ID: 6VYB), nucleocapsid phosphoprotein (PDB ID: 6VYO), membrane
+glycoprotein (PDB ID: 6M17), and non-structural protein 10 (nsp10) (PDB ID:
+6W4H). These marine alkaloids, particularly the hexabrominated compound,
+fistularin-3, shows promising docking interactions with predicted binding
+affinities (S-score = -7.78, -7.65, -6.39, -6.28, -8.84 Kcal/mol) for the main
+protease (Mpro) (PDB ID: 6lu7), spike glycoprotein (PDB ID: 6VYB), nucleocapsid
+phosphoprotein (PDB ID: 6VYO), membrane glycoprotein (PDB ID: 6M17), and
+non-structural protein 10 (nsp10) (PDB ID: 6W4H), respectively, where it forms
+better interactions with the protein pockets than the native interaction. It also
+shows promising molecular dynamics, pharmacokinetics, and toxicity profiles. As
+such, further exploration of the antiviral properties of fistularin-3 against
+SARS-CoV-2 is merited.
+
+DOI: 10.3390/molecules26206171 
+PMCID: PMC8537272
+PMID: 34684755  [Indexed for MEDLINE]
+

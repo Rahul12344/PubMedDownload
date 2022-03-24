@@ -1,0 +1,44 @@
+
+1. Biochem J. 2020 Aug 28;477(16):2981-2998. doi: 10.1042/BCJ20200435.
+
+Adenylate control in cAMP signaling: implications for adaptation in signalosomes.
+
+Tulsian NK(#)(1)(2), Ghode A(#)(1), Anand GS(1).
+
+Author information: 
+(1)Department of Biological Sciences, National University of Singapore, 14
+Science Drive 4, Singapore 117543, Singapore.
+(2)Department of Biochemistry, National University of Singapore, 28 Medical
+Drive, Singapore 117546, Singapore.
+(#)Contributed equally
+
+In cAMP-Protein Kinase A (PKA) signaling, A-kinase anchoring protein scaffolds
+assemble PKA in close proximity to phosphodiesterases (PDE), kinase-substrates to
+form signaling islands or 'signalosomes'. In its basal state, inactive PKA
+holoenzyme (R2:C2) is activated by binding of cAMP to regulatory (R)-subunits
+leading to dissociation of active catalytic (C)-subunits. PDEs hydrolyze
+cAMP-bound to the R-subunits to generate 5'-AMP for termination and resetting the
+cAMP signaling. Mechanistic basis for cAMP signaling has been derived primarily
+by focusing on the proteins in isolation. Here, we set out to simulate cAMP
+signaling activation-termination cycles in a signalosome-like environment with
+PDEs and PKA subunits in close proximity to each other. Using a combination of
+fluorescence polarization and amide hydrogen exchange mass spectrometry with
+regulatory (RIα), C-subunit (Cα) and PDE8 catalytic domain, we have tracked
+movement of cAMP through activation-termination cycles. cAMP signaling operates
+as a continuum of four phases: (1) Activation and dissociation of PKA into R- and
+C-subunits by cAMP and facilitated by substrate (2) PDE recruitment to R-subunits
+(3) Hydrolysis of cAMP to 5'-AMP (4) Reassociation of C-subunit to
+5'-AMP-bound-RIα in the presence of excess ATP to reset cAMP signaling to form
+the inactive PKA holoenzyme. Our results demonstrate that 5'-AMP is not merely a 
+passive hydrolysis end-product of PDE action. A 'ligand-free' state R subunit
+does not exist in signalosomes as previously assumed. Instead the R-subunit
+toggles between cAMP- or 5'-AMP bound forms. This highlights, for the first time,
+the importance of 5'-AMP in promoting adaptation and uncovers adenylate control
+in cAMP signaling.
+
+© 2020 The Author(s). Published by Portland Press Limited on behalf of the
+Biochemical Society.
+
+DOI: 10.1042/BCJ20200435 
+PMID: 32722762  [Indexed for MEDLINE]
+

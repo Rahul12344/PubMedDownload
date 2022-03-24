@@ -1,0 +1,35 @@
+
+1. Sci Rep. 2019 Mar 27;9(1):5269. doi: 10.1038/s41598-019-41748-3.
+
+Global Gene Networks in 3D4/31 Porcine Alveolar Macrophages Treated with
+Antigenic Epitopes of Actinobacillus pleuropneumoniae ApxIA, IIA, and IVA.
+
+Kim S(1), Oh MW(1), Bin Park W(1), Yoo HS(2).
+
+Author information: 
+(1)Department of Infectious Diseases, College of Veterinary Medicine, Seoul
+National University, Seoul, Republic of Korea.
+(2)Department of Infectious Diseases, College of Veterinary Medicine, Seoul
+National University, Seoul, Republic of Korea. yoohs@snu.ac.kr.
+
+Actinobacillus pleuropneumoniae (App) is the causative agent of porcine
+pleuropneumonia. Although App produces several virulence factors, Apx toxins, the
+primary App virulence factors, have been the focus of numerous studies. However, 
+the host response against the Apx toxins has not been elucidated at the
+transcriptomic level. Therefore, in this study, we examined the response of an
+immortalized porcine alveolar macrophage cell line (IPAM 3D4/31) to four
+antigenic epitopes of the App exotoxins, ApxIA, IIA and IVA. The antigenic
+epitopes of the Apx toxins (ApxIA Ct, ApxIIA Nt, ApxIVA C1 and ApxIV C2) were
+determined by an in-silico antigenicity prediction analysis. Gene expression in
+IPAMs was analyzed by RNA-Seq after treatment with the four proteins for 24 h. A 
+total of 15,269 DEGs were observed to be associated with cellular and metabolic
+processes in the GO category Biological Process and nuclear receptors and
+apoptosis signaling in IPA analyses. These DEGs were also related to M2
+macrophage polarization and apoptosis in IPAMs. These host transcriptional
+analyses present novel global gene networks of the host response to treatment
+with Apx toxins.
+
+DOI: 10.1038/s41598-019-41748-3 
+PMCID: PMC6437162
+PMID: 30918280  [Indexed for MEDLINE]
+

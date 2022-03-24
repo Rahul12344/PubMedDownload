@@ -1,0 +1,51 @@
+
+1. bmc genomics. 2014 jul 29;15:636. doi: 10.1186/1471-2164-15-636.
+
+in depth annotation anopheles gambiae mosquito midgut transcriptome.
+
+padrón a, molina-cruz a(1), quinones m, ribeiro jm, ramphul u, rodrigues j, shen 
+k, haile a, ramirez jl, barillas-mury c.
+
+author information: 
+(1)laboratory malaria vector research, national institute allergy and
+infectious diseases, national institutes health, rockville, md, usa.
+amolina-cruz@niaid.nih.gov.
+
+background: genome sequencing anopheles gambiae completed ten
+years ago accelerated research malaria transmission. however,
+annotation needs refined verified experimentally, predicted
+transcripts identified comparative analysis genomes 
+species. mosquito midgut-the first organ interact plasmodium
+parasites-mounts effective antiplasmodial responses limit parasite survival 
+and disease transmission. high-throughput illumina sequencing midgut
+transcriptome used identify new genes transcripts, contributing the
+refinement an. gambiae genome annotation.
+results: sequenced ~223 million reads an. gambiae midgut cdna libraries
+generated susceptible (g3) refractory (l35) mosquito strains. mosquitoes
+were infected either plasmodium berghei plasmodium falciparum, and
+midguts collected first second plasmodium infection. total, 
+22,889 unique midgut transcript models generated an. gambiae
+strain sequences combined, 76% potentially novel. novel
+transcripts, 49.5% aligned annotated genes appear isoforms or
+pre-mrnas reference transcripts, 50.5% mapped regions between
+annotated genes represent novel intergenic transcripts (nits). predicted
+models validated midgut expression using qrt-pcr microarray
+analysis, novel isoforms confirmed sequencing predicted intron-exon
+boundaries. coding potential analysis revealed 43% total midgut
+transcripts appear long non-coding rna (lncrna), functional annotation 
+of nits showed 68% homology current databases species. 
+reads also analyzed using de novo assembly predicted transcripts
+compared genome mapping-based models. finally, variant analysis g3 and
+l35 midgut transcripts detected 160,742 variants respect an. gambiae 
+pest genome, 74% new variants. intergenic transcripts higher
+frequency variation compared non-intergenic transcripts.
+conclusion: in-depth illumina sequencing assembly an. gambiae
+midgut transcriptome doubled number known transcripts tripled the
+number variants known mosquito species. also revealed existence 
+a large number lncrna opens new possibilities investigating the
+biological function many newly discovered transcripts.
+
+doi: 10.1186/1471-2164-15-636 
+pmcid: pmc4131051
+pmid: 25073905  [indexed medline]
+

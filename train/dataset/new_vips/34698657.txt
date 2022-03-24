@@ -1,0 +1,39 @@
+
+1. J Res Health Sci. 2021 Aug 12;21(3):e00523. doi: 10.34172/jrhs.2021.59.
+
+Trend Analysis and Predictions of Coronavirus Disease 2019 in Ethiopia.
+
+Terefe AN(1), Zewudie SG(2).
+
+Author information: 
+(1)Jimma University, College of Natural Sciences, Department of Statistics,
+Jimma, Oromia, Ethiopia. abiyotnegash@yahoo.com.
+(2)Mizan-Tepi University, College of Natural and Computational Sciences,
+Department of Biology, Tepi, Ethiopia.
+
+BACKGROUND: Coronavirus Disease 2019 (COVID-19) is affecting both lives of
+millions of people and the global economy of the world day by day. This study
+aimed to determine the trend of COVID-19 and its predictions in Ethiopia.
+STUDY DESIGN: This study was conducted based on a time series design.
+METHODS: The required data were collected from the Ethiopian COVID-19 monitoring 
+platform beginning from the onset of the disease in the country until March 28,
+2021. Furthermore, the auto-regressive integrated moving average models were used
+on daily-based time series. The Poisson and Negative Binomial regression were
+also employed to notice the effects of months on the transmission and
+disease-related human deaths.
+RESULTS: The mean daily infection and death of COVID-19 in Ethiopia were
+533.47±466.62 and 7.45±6.72, respectively. The peaks of infection and deaths in
+this country were in March, 2021, and August, 2020. In addition, the trend of
+daily new deaths (P=0.000) and infection (P=0.000) was significantly increasing. 
+It is expected that around 10 million (8.6%) and 138,084.64 (0.12%) Ethiopians
+will be infected and die, respectively.
+CONCLUSION: The disease transmission and deaths vary from day to day and month to
+month. The highest peaks of COVID-19 infection and death were in March 2021 and
+August 2020. For the next end of August 2021, the COVID-19 daily new infection,
+new death, total case, and total death are expected to be increased. If this
+epidemic disease is not controlled, Ethiopia will face a severe shortage of
+hospitals, and the outbreak even becomes worse.
+
+DOI: 10.34172/jrhs.2021.59 
+PMID: 34698657  [Indexed for MEDLINE]
+

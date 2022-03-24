@@ -1,0 +1,52 @@
+
+1. bmc genomics. 2015 apr 23;16:337. doi: 10.1186/s12864-015-1507-3.
+
+long non-coding rna discovery across genus anopheles reveals conserved
+secondary structures within beyond gambiae complex.
+
+jenkins am(1), waterhouse rm(2)(3)(4)(5), muskavitch ma(6)(7).
+
+author information: 
+(1)boston college, chestnut hill, ma, 02467, usa. jenkinad@bc.edu.
+(2)department genetic medicine development, university geneva medical
+school, rue michel-servet 1, 1211, geneva, switzerland.
+robert.waterhouse@gmail.com.
+(3)swiss institute bioinformatics, rue michel-servet 1, 1211, geneva,
+switzerland. robert.waterhouse@gmail.com.
+(4)computer science artificial intelligence laboratory, massachusetts
+institute technology, 32 vassar street, cambridge, ma, 02139, usa.
+robert.waterhouse@gmail.com.
+(5)the broad institute mit harvard, 415 main street, cambridge, ma, 02142,
+usa. robert.waterhouse@gmail.com.
+(6)boston college, chestnut hill, ma, 02467, usa. marc.muskavitch@biogen.com.
+(7)biogen idec, 14 cambridge center, cambridge, ma, 02142, usa.
+marc.muskavitch@biogen.com.
+
+background: long non-coding rnas (lncrnas) defined mrna-like
+transcripts longer 200 nucleotides lack significant protein-coding
+potential, many constitute scaffolds ribonucleoprotein complexes 
+with critical roles epigenetic regulation. various lncrnas been
+implicated modulation chromatin structure, transcriptional and
+post-transcriptional gene regulation, regulation genomic stability in
+mammals, caenorhabditis elegans, drosophila melanogaster. purpose this
+study identify lncrna landscape malaria vector an. gambiae and
+assess evolutionary conservation lncrnas secondary structures
+across anopheles genus.
+results: using deep rna sequencing multiple anopheles gambiae life stages, 
+have identified 2,949 lncrnas 300 previously unannotated putative
+protein-coding genes. lncrnas exhibit differential expression profiles across
+life stages adult genders. find across genus anopheles, lncrnas
+display much lower sequence conservation protein-coding genes. additionally,
+we find lncrna secondary structure highly conserved within gambiae
+complex, diverges rapidly across rest genus anopheles.
+conclusions: study offers one first lncrna secondary structure
+analyses vector insects. description lncrnas an. gambiae offers 
+most comprehensive genome-wide insights date lncrnas vector
+mosquito, defines set potential targets development of
+vector-based interventions may curb human malaria burden in
+disease-endemic countries.
+
+doi: 10.1186/s12864-015-1507-3 
+pmcid: pmc4409983
+pmid: 25903279  [indexed medline]
+

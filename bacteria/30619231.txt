@@ -1,0 +1,63 @@
+
+1. Front Microbiol. 2018 Dec 24;9:3183. doi: 10.3389/fmicb.2018.03183. eCollection
+2018.
+
+Iron Regulation in Clostridioides difficile.
+
+Berges M(1), Michel AM(1), Lassek C(2), Nuss AM(3), Beckstette M(3), Dersch P(3),
+Riedel K(2), Sievers S(2), Becher D(2), Otto A(2), Maaß S(2), Rohde M(4),
+Eckweiler D(1), Borrero-de Acuña JM(5), Jahn M(5), Neumann-Schaal M(6), Jahn
+D(1)(5).
+
+Author information: 
+(1)Braunschweig Integrated Centre of Systems Biology (BRICS), Technische
+Universität Braunschweig, Braunschweig, Germany.
+(2)Center for Functional Genomics of Microbes (CFGM), Institute of Microbiology, 
+University of Greifswald, Greifswald, Germany.
+(3)Department of Molecular Infection Biology, Helmholtz Centre for Infection
+Research (HZI), Braunschweig, Germany.
+(4)Central Facility for Microscopy, Helmholtz Centre for Infection Research
+(HZI), Braunschweig, Germany.
+(5)Institute of Microbiology, Technische Universität Braunschweig, Braunschweig, 
+Germany.
+(6)Leibniz-Institute DSMZ-German Collection of Microorganisms and Cell Cultures, 
+Braunschweig, Germany.
+
+The response to iron limitation of several bacteria is regulated by the ferric
+uptake regulator (Fur). The Fur-regulated transcriptional, translational and
+metabolic networks of the Gram-positive, pathogen Clostridioides difficile were
+investigated by a combined RNA sequencing, proteomic, metabolomic and electron
+microscopy approach. At high iron conditions (15 μM) the C. difficile fur mutant 
+displayed a growth deficiency compared to wild type C. difficile cells. Several
+iron and siderophore transporter genes were induced by Fur during low iron (0.2
+μM) conditions. The major adaptation to low iron conditions was observed for the 
+central energy metabolism. Most ferredoxin-dependent amino acid fermentations
+were significantly down regulated (had, etf, acd, grd, trx, bdc, hbd). The
+substrates of these pathways phenylalanine, leucine, glycine and some
+intermediates (phenylpyruvate, 2-oxo-isocaproate, 3-hydroxy-butyryl-CoA,
+crotonyl-CoA) accumulated, while end products like isocaproate and butyrate were 
+found reduced. Flavodoxin (fldX) formation and riboflavin biosynthesis (rib) were
+enhanced, most likely to replace the missing ferredoxins. Proline reductase
+(prd), the corresponding ion pumping RNF complex (rnf) and the reaction product
+5-aminovalerate were significantly enhanced. An ATP forming ATPase (atpCDGAHFEB) 
+of the F0F1-type was induced while the formation of a ATP-consuming,
+proton-pumping V-type ATPase (atpDBAFCEKI) was decreased. The [Fe-S]
+enzyme-dependent pyruvate formate lyase (pfl), formate dehydrogenase (fdh) and
+hydrogenase (hyd) branch of glucose utilization and glycogen biosynthesis (glg)
+were significantly reduced, leading to an accumulation of glucose and pyruvate.
+The formation of [Fe-S] enzyme carbon monoxide dehydrogenase (coo) was inhibited.
+The fur mutant showed an increased sensitivity to vancomycin and polymyxin B. An 
+intensive remodeling of the cell wall was observed, Polyamine biosynthesis (spe) 
+was induced leading to an accumulation of spermine, spermidine, and putrescine.
+The fur mutant lost most of its flagella and motility. Finally, the CRISPR/Cas
+and a prophage encoding operon were downregulated. Fur binding sites were found
+upstream of around 20 of the regulated genes. Overall, adaptation to low iron
+conditions in C. difficile focused on an increase of iron import, a significant
+replacement of iron requiring metabolic pathways and the restructuring of the
+cell surface for protection during the complex adaptation phase and was only
+partly directly regulated by Fur.
+
+DOI: 10.3389/fmicb.2018.03183 
+PMCID: PMC6311696
+PMID: 30619231 
+

@@ -1,0 +1,44 @@
+
+1. Biochemistry. 2013 Sep 10;52(36):6182-96. doi: 10.1021/bi4000832. Epub 2013 Aug
+27.
+
+Peroxide-shunt substrate-specificity for the Salmonella typhimurium O2-dependent 
+tRNA modifying monooxygenase (MiaE).
+
+Corder AL(1), Subedi BP, Zhang S, Dark AM, Foss FW Jr, Pierce BS.
+
+Author information: 
+(1)Biophysical/Bioinorganic Group and ‡Synthetic Organic Group, Department of
+Chemistry and Biochemistry, College of Science, The University of Texas at
+Arlington , Arlington, Texas 76019, United States.
+
+Post-transcriptional modifications of tRNA are made to structurally diversify
+tRNA. These modifications alter noncovalent interactions within the ribosomal
+machinery, resulting in phenotypic changes related to cell metabolism, growth,
+and virulence. MiaE is a carboxylate bridged, nonheme diiron monooxygenase, which
+catalyzes the O2-dependent hydroxylation of a hypermodified-tRNA nucleoside at
+position 37 (2-methylthio-N(6)-isopentenyl-adenosine(37)-tRNA) [designated
+ms(2)i(6)A37]. In this work, recombinant MiaE was cloned from Salmonella
+typhimurium , purified to homogeneity, and characterized by UV-visible and
+dual-mode X-band EPR spectroscopy for comparison to other nonheme diiron enzymes.
+Additionally, three nucleoside substrate-surrogates (i(6)A, Cl(2)i(6)A, and
+ms(2)i(6)A) and their corresponding hydroxylated products (io(6)A, Cl(2)io(6)A,
+and ms(2)io(6)A) were synthesized to investigate the chemo- and stereospecificity
+of this enzyme. In the absence of the native electron transport chain, the
+peroxide-shunt was utilized to monitor the rate of substrate hydroxylation.
+Remarkably, regardless of the substrate (i(6)A, Cl(2)i(6)A, and ms(2)i(6)A) used 
+in peroxide-shunt assays, hydroxylation of the terminal isopentenyl-C4-position
+was observed with >97% E-stereoselectivity. No other nonspecific hydroxylation
+products were observed in enzymatic assays. Steady-state kinetic experiments also
+demonstrate that the initial rate of MiaE hydroxylation is highly influenced by
+the substituent at the C2-position of the nucleoside base (v0/[E] for ms(2)i(6)A 
+> i(6)A > Cl(2)i(6)A). Indeed, the >3-fold rate enhancement exhibited by MiaE for
+the hydroxylation of the free ms(2)i(6)A nucleoside relative to i(6)A is
+consistent with previous whole cell assays reporting the ms(2)io(6)A and io(6)A
+product distribution within native tRNA-substrates. This observation suggests
+that the nucleoside C2-substituent is a key point of interaction regulating MiaE 
+substrate specificity.
+
+DOI: 10.1021/bi4000832 
+PMID: 23906247  [Indexed for MEDLINE]
+

@@ -1,0 +1,35 @@
+
+1. BMC Microbiol. 2010 Nov 2;10:276. doi: 10.1186/1471-2180-10-276.
+
+The small regulatory RNA molecule MicA is involved in Salmonella enterica serovar
+Typhimurium biofilm formation.
+
+Kint G(1), De Coster D, Marchal K, Vanderleyden J, De Keersmaecker SC.
+
+Author information: 
+(1)Centre of Microbial and Plant Genetics, KU Leuven, Kasteelpark Arenberg 20,
+3001 Leuven, Belgium.
+
+BACKGROUND: LuxS is the synthase enzyme of the quorum sensing signal AI-2. In
+Salmonella Typhimurium, it was previously shown that a luxS deletion mutant is
+impaired in biofilm formation. However, this phenotype could not be complemented 
+by extracellular addition of quorum sensing signal molecules.
+RESULTS: Analysis of additional S. Typhimurium luxS mutants indicated that the
+LuxS enzyme itself is not a prerequisite for a wild type mature biofilm. However,
+in close proximity of the luxS coding sequence, a small RNA molecule, MicA, is
+encoded on the opposite DNA strand. Interference with the MicA expression level
+showed that a balanced MicA level is essential for mature Salmonella biofilm
+formation. Several MicA targets known to date have previously been reported to be
+implicated in biofilm formation in Salmonella or in other bacterial species.
+Additionally, we showed by RT-qPCR analysis that MicA levels are indeed altered
+in some luxS mutants, corresponding to their biofilm formation phenotype.
+CONCLUSIONS: We show that the S. Typhimurium biofilm formation phenotype of a
+luxS mutant in which the complete coding region is deleted, is dependent on the
+sRNA molecule MicA, encoded in the luxS adjacent genomic region, rather than on
+LuxS itself. Future studies are required to fully elucidate the role of MicA in
+Salmonella biofilm formation.
+
+DOI: 10.1186/1471-2180-10-276 
+PMCID: PMC2987988
+PMID: 21044338  [Indexed for MEDLINE]
+

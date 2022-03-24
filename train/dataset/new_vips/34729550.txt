@@ -1,0 +1,45 @@
+
+1. Cell Rep Methods. 2021 Nov 22;1(7):100117. doi: 10.1016/j.crmeth.2021.100117.
+Epub 2021 Oct 28.
+
+Using soft X-ray tomography for rapid whole-cell quantitative imaging of
+SARS-CoV-2-infected cells.
+
+Loconte V(1)(2), Chen JH(1)(2), Cortese M(3), Ekman A(2), Le Gros MA(1)(2),
+Larabell C(1)(2), Bartenschlager R(3)(4)(5), Weinhardt V(1)(6).
+
+Author information: 
+(1)Molecular Biophysics and Integrated Bioimaging Division, Lawrence Berkeley
+National Laboratory, Berkeley, CA, USA.
+(2)Department of Anatomy, University of California, San Francisco, San Francisco,
+CA, USA.
+(3)Department of Infectious Diseases, Molecular Virology Heidelberg University,
+Heidelberg, Germany.
+(4)German Center for Infection Research, Heidelberg Partner Site, Heidelberg,
+Germany.
+(5)Division Virus-Associated Carcinogenesis, German Cancer Research Center
+(DKFZ), Heidelberg, Germany.
+(6)Centre for Organismal Studies, Heidelberg University, Heidelberg, Germany.
+
+High-resolution and rapid imaging of host cell ultrastructure can generate
+insights toward viral disease mechanism, for example for a severe acute
+respiratory syndrome coronavirus-2 (SARS-CoV-2) infection. Here, we employ
+full-rotation soft X-ray tomography (SXT) to examine organelle remodeling induced
+by SARS-CoV-2 at the whole-cell level with high spatial resolution and
+throughput. Most of the current SXT systems suffer from a restricted field of
+view due to use of flat sample supports and artifacts due to missing data. In
+this approach using cylindrical sample holders, a full-rotation tomogram of human
+lung epithelial cells is performed in less than 10 min. We demonstrate the
+potential of SXT imaging by visualizing aggregates of SARS-CoV-2 virions and
+virus-induced intracellular alterations. This rapid whole-cell imaging approach
+allows us to visualize the spatiotemporal changes of cellular organelles upon
+viral infection in a quantitative manner.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.crmeth.2021.100117 
+PMCID: PMC8552653
+PMID: 34729550 
+
+Conflict of interest statement: The authors declare no competing interests.
+

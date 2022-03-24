@@ -1,0 +1,48 @@
+
+1. IEEE Access. 2020 Oct 12;8:188538-188551. doi: 10.1109/ACCESS.2020.3030194.
+eCollection 2020.
+
+COVID-SAFE: An IoT-Based System for Automated Health Monitoring and Surveillance 
+in Post-Pandemic Life.
+
+Vedaei SS(1), Fotovvat A(1), Mohebbian MR(1), Rahman GME(1), Wahid KA(1), Babyn
+P(2), Marateb HR(3), Mansourian M(4), Sami R(5).
+
+Author information: 
+(1)Department of Electrical and Computer EngineeringUniversity of Saskatchewan
+Saskatoon SK S7N 5A9 Canada.
+(2)College of MedicineSaskatchewan Health Authority Saskatoon SK S7K 0M7 Canada.
+(3)Biomedical Engineering DepartmentEngineering FacultyUniversity of Isfahan
+Isfahan 8415683111 Iran.
+(4)Department of Epidemiology and BiostatisticsSchool of HealthIsfahan University
+of Medical Sciences Isfahan 8174673461 Iran.
+(5)Department of Internal MedicineSchool of MedicineIsfahan University of Medical
+Sciences Isfahan 8174673461 Iran.
+
+In the early months of the COVID-19 pandemic with no designated cure or vaccine, 
+the only way to break the infection chain is self-isolation and maintaining the
+physical distancing. In this article, we present a potential application of the
+Internet of Things (IoT) in healthcare and physical distance monitoring for
+pandemic situations. The proposed framework consists of three parts: a
+lightweight and low-cost IoT node, a smartphone application (app), and fog-based 
+Machine Learning (ML) tools for data analysis and diagnosis. The IoT node tracks 
+health parameters, including body temperature, cough rate, respiratory rate, and 
+blood oxygen saturation, then updates the smartphone app to display the user
+health conditions. The app notifies the user to maintain a physical distance of 2
+m (or 6 ft), which is a key factor in controlling virus spread. In addition, a
+Fuzzy Mamdani system (running at the fog server) considers the environmental risk
+and user health conditions to predict the risk of spreading infection in real
+time. The environmental risk conveys from the virtual zone concept and provides
+updated information for different places. Two scenarios are considered for the
+communication between the IoT node and fog server, 4G/5G/WiFi, or LoRa, which can
+be selected based on environmental constraints. The required energy usage and
+bandwidth (BW) are compared for various event scenarios. The COVID-SAFE framework
+can assist in minimizing the coronavirus exposure risk.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more 
+information, see https://creativecommons.org/licenses/by/4.0/.
+
+DOI: 10.1109/ACCESS.2020.3030194 
+PMCID: PMC8545279
+PMID: 34812362 
+

@@ -1,0 +1,42 @@
+
+1. RNA. 2014 Dec;20(12):1944-54. doi: 10.1261/rna.046953.114. Epub 2014 Oct 28.
+
+Structural insights into translational recoding by frameshift suppressor
+tRNASufJ.
+
+Fagan CE(1), Maehigashi T(1), Dunkle JA(1), Miles SJ(1), Dunham CM(2).
+
+Author information: 
+(1)Department of Biochemistry, Emory University School of Medicine, Atlanta,
+Georgia 30322, USA.
+(2)Department of Biochemistry, Emory University School of Medicine, Atlanta,
+Georgia 30322, USA christine.m.dunham@emory.edu.
+
+The three-nucleotide mRNA reading frame is tightly regulated during translation
+to ensure accurate protein expression. Translation errors that lead to aberrant
+protein production can result from the uncoupled movement of the tRNA in either
+the 5' or 3' direction on mRNA. Here, we report the biochemical and structural
+characterization of +1 frameshift suppressor tRNA(SufJ), a tRNA known to decode
+four, instead of three, nucleotides. Frameshift suppressor tRNA(SufJ) contains an
+insertion 5' to its anticodon, expanding the anticodon loop from seven to eight
+nucleotides. Our results indicate that the expansion of the anticodon loop of
+either ASL(SufJ) or tRNA(SufJ) does not affect its affinity for the A site of the
+ribosome. Structural analyses of both ASL(SufJ) and ASL(Thr) bound to the Thermus
+thermophilus 70S ribosome demonstrate both ASLs decode in the zero frame.
+Although the anticodon loop residues 34-37 are superimposable with canonical
+seven-nucleotide ASLs, the single C31.5 insertion between nucleotides 31 and 32
+in ASL(SufJ) imposes a conformational change of the anticodon stem, that
+repositions and tilts the ASL toward the back of the A site. Further modeling
+analyses reveal that this tilting would cause a distortion in full-length A-site 
+tRNA(SufJ) during tRNA selection and possibly impede gripping of the anticodon
+stem by 16S rRNA nucleotides in the P site. Together, these data implicate tRNA
+distortion as a major driver of noncanonical translation events such as
+frameshifting.
+
+© 2014 Fagan et al.; Published by Cold Spring Harbor Laboratory Press for the RNA
+Society.
+
+DOI: 10.1261/rna.046953.114 
+PMCID: PMC4238358
+PMID: 25352689  [Indexed for MEDLINE]
+

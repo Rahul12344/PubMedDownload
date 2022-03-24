@@ -1,0 +1,54 @@
+
+1. Cell Transplant. 2021 Jan-Dec;30:9636897211055042. doi:
+10.1177/09636897211055042.
+
+Identifying Circular RNAs in HepG2 Expressing Genotype IV Swine Hepatitis E Virus
+ORF3 Via Whole Genome Sequencing.
+
+Jiao H(1)(2)(3), Zhao Y(1)(4), Zhou Z(1), Li W(1), Li B(1), Gu G(1), Luo
+Y(1)(2)(3), Shuai X(1)(2)(3), Fan C(5), Wu L(1)(3), Chen J(1)(3), Huang Q(1)(3), 
+Wang F(6), Liu J(1)(2)(3).
+
+Author information: 
+(1)College of Veterinary Medicine, Southwest University, Chongqing, China.
+(2)Immunology Research Center, Medical Research Institute, Southwest University, 
+Chongqing, China.
+(3)Chongqing Veterinary Scientific Engineering Research Center, Southwest
+University, Chongqing, China.
+(4)Institute of Animal Husbandry and Veterinary Medicine of Guizhou Academy of
+Agricultural Science, Guiyang, China.
+(5)Rongchang Animal Epidemic Prevention and Control Center, Chongqing, Rongchang,
+China.
+(6)Hainan Key Lab of Tropical Animal Reproduction and Breeding and Epidemic
+Disease Research, College of Animal Science and Technology, Hainan University,
+Haikou, China.
+
+Swine hepatitis E (SHE) is a new type of zoonotic infectious disease caused by
+swine hepatitis E virus (SHEV). Open reading frame 3 (ORF3) is a key regulatory
+and virulent protein of SHEV. Circular RNAs (circRNAs) are a special kind of
+non-coding RNA molecule, which has a closed ring structure. In this study, to
+identify the circRNA profile in host cells affected by SHEV ORF3, adenovirus
+ADV4-ORF3 mediated the overexpression of ORF3 in HepG2 cells, whole genome
+sequencing was used to investigate the differentially expressed circRNAs, GO and 
+KEGG were performed to enrichment analyze of differentially expressed
+circRNA-hosting gene, and Targetscan and miRanda softwares were used to analyze
+the interaction between circRNA and miRNA. The results showed adenovirus
+successfully mediated the overexpression of ORF3 in HepG2 cells, 1,105
+up-regulation circRNAs and 1,556 down-regulation circRNAs were identified in
+ADV4-ORF3 infection group compared with the control. GO function enrichment
+analysis of differentially expressed circRNAs-hosting genes classified three main
+categories (cellular component, biological process and molecular function). KEGG 
+pathway enrichment analysis scatter plot showed the pathway term of top20. The
+circRNAs with top10 number of BS sites for qRT-PCR validation were selected to
+confirmed, the results indicated that the up-regulated hsa_circ_0001423 and
+hsa_circ_0006404, and down-regulated of hsa_circ_0004833 and hsa_circ_0007444
+were consistent with the sequencing data. Our findings first preliminarily found 
+that ORF3 protein may affect triglyceride activation (GO:0006642) and riboflavin 
+metabolism (ko00740) in HepG2 cells, which provides a scientific basis for
+further elucidating the effect of ORF3 on host lipid metabolism and the mechanism
+of SHEV infection.
+
+DOI: 10.1177/09636897211055042 
+PMCID: PMC8552397
+PMID: 34699255 
+

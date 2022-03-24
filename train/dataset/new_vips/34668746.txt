@@ -1,0 +1,55 @@
+
+1. Microbiol Spectr. 2021 Oct 31;9(2):e0053721. doi: 10.1128/Spectrum.00537-21. Epub
+2021 Oct 20.
+
+Robust Evaluation of Ultraviolet-C Sensitivity for SARS-CoV-2 and Surrogate
+Coronaviruses.
+
+Boegel SJ(1), Gabriel M(2), Sasges M(2), Petri B(2), D'Agostino MR(3), Zhang
+A(3), Ang JC(3), Miller MS(3), Meunier SM(1), Aucoin MG(1).
+
+Author information: 
+(1)Department of Chemical Engineering, University of Waterloogrid.46078.3d,
+Waterloo, Canada.
+(2)Trojan Technologies, London, Canada.
+(3)Michael G. DeGroote Institute for Infectious Disease Research, McMaster
+Immunology Research Centre, Department of Biochemistry and Biomedical Sciences,
+McMaster Universitygrid.25073.33, Hamilton, Ontario, Canada.
+
+UV light, more specifically UV-C light at a wavelength of 254 nm, is often used
+to disinfect surfaces, air, and liquids. In early 2020, at the cusp of the
+COVID-19 pandemic, UV light was identified as an efficient means of eliminating
+coronaviruses; however, the variability in published sensitivity data is evidence
+of the need for experimental rigor to accurately quantify the effectiveness of
+this technique. In the current study, reliable and reproducible UV techniques
+have been adopted, including accurate measurement of light intensity,
+consideration of fluid UV absorbance, and confirmation of uniform dose delivery, 
+including dose verification using an established biological target (T1UV
+bacteriophage) and a resistant recombinant virus (baculovirus). The experimental 
+results establish the UV sensitivity of SARS-CoV-2, HCoV-229E, HCoV-OC43, and
+mouse hepatitis virus (MHV) and highlight the potential for surrogate viruses for
+disinfection studies. All four coronaviruses were found to be easily inactivated 
+by 254 nm irradiation, with UV sensitivities of 1.7, 1.8, 1.7, and 1.2
+mJ/cm2/log10 reduction for SARS-CoV-2, HCoV-229E, HCoV-OC43, and MHV,
+respectively. Similar UV sensitivities for these species demonstrate the capacity
+for HCoV-OC43, HCoV-229E, and MHV to be considered surrogates for SARS-CoV-2 in
+UV-inactivation studies, greatly reducing hazards and simplifying procedures for 
+future experimental studies. IMPORTANCE Disinfection of SARS-CoV-2 is of
+particular importance due to the global COVID-19 pandemic. UV-C irradiation is a 
+compelling disinfection technique because it can be applied to surfaces, air, and
+water and is commonly used in drinking water and wastewater treatment facilities.
+UV inactivation depends on the dose received by an organism, regardless of the
+intensity of the light source or the optical properties of the medium in which it
+is suspended. The 254 nm irradiation sensitivity was accurately determined using 
+benchmark methodology and a collimated beam apparatus for four coronaviruses
+(SARS-CoV-2, HCoV-229E, HCoV-OC43, and MHV), a surrogate indicator organism
+(T1UV), and a resistant recombinant virus (baculovirus vector). Considering the
+light distribution across the sample surface, the attenuation of light intensity 
+with fluid depth, the optical absorbance of the fluid, and the sample uniformity 
+due to mixing enable accurate measurement of the fundamental inactivation
+kinetics and UV sensitivity.
+
+DOI: 10.1128/Spectrum.00537-21 
+PMCID: PMC8528122
+PMID: 34668746  [Indexed for MEDLINE]
+

@@ -1,0 +1,48 @@
+
+1. bmc genomics. 2016 aug 18;17:652. doi: 10.1186/s12864-016-3005-7.
+
+punctuated chromatin states regulate plasmodium falciparum antigenic variation at
+the intron 2 kb upstream regions.
+
+wang c(1), adapa sr(1), gibbons j(1)(2), sutton s(1), jiang rh(3).
+
+author information: 
+(1)department global health (gh) & center drug discovery innovation
+(cddi), college public health, university south florida, tampa, fl, 33612, 
+usa.
+(2)department molecular medicine, university south florida, tampa, fl,
+33612, usa.
+(3)department global health (gh) & center drug discovery innovation
+(cddi), college public health, university south florida, tampa, fl, 33612, 
+usa. jiang2@health.usf.edu.
+
+background: understanding regulation mechanism var gene expression is
+crucial explaining antigenic variation plasmodium falciparum. recent work 
+observed that while var genes produce transcripts, var genes
+exhibit high expression levels. however, global regulation var expression 
+and relationship epigenetic genetic control remains be
+established.
+result: systematically reanalyzed existing genomic data including
+chromatin configurations gene expressions; first time used robust
+statistical methods show intron 2 kb upstream regions each
+endogenous var gene always maintain high chromatin accessibility, high
+potential bind transcription factors (tfs). levels transcripts for
+different var gene family members associated chromatin
+accessibility. given var gene thus shows punctuated chromatin states
+throughout asexual life cycle. demonstrated three independent
+transcript datasets. chromatin accessibility var intron 2 kb upstream 
+regions also positively correlated gc content, suggesting the
+level var genes silencing might encoded intron sequences.
+interestingly, var intron 2 kb upstream regions exhibit higher chromatin
+accessibility genes relatively lower transcription levels,
+suggesting punctuated repressive function regulatory elements.
+conclusion: integrating analyzing epigenomic, genomic transcriptomic
+data, work reveals novel distal element var control. found dynamic
+modulations specific epigenetic marks around var intron distal
+upstream regions involved general var gene expression patterns in
+malarial antigenic variation.
+
+doi: 10.1186/s12864-016-3005-7 
+pmcid: pmc4990864
+pmid: 27538502  [indexed medline]
+

@@ -1,0 +1,50 @@
+
+1. Proc Natl Acad Sci U S A. 2021 Dec 14;118(50). pii: e2114494118. doi:
+10.1073/pnas.2114494118.
+
+Selective packaging of HIV-1 RNA genome is guided by the stability of 5'
+untranslated region polyA stem.
+
+Nikolaitchik OA(1), Liu S(2)(3)(4), Kitzrow JP(2)(3)(4), Liu Y(1), Rawson JMO(1),
+Shakya S(1), Cheng Z(1), Pathak VK(5), Hu WS(6), Musier-Forsyth K(7)(3)(4).
+
+Author information: 
+(1)Viral Recombination Section, HIV Dynamics and Replication Program, National
+Cancer Institute, Frederick, MD 21702.
+(2)Department of Chemistry and Biochemistry, The Ohio State University, Columbus,
+OH 43210.
+(3)Center for Retrovirus Research, The Ohio State University, Columbus, OH 43210.
+(4)Center for RNA Biology, The Ohio State University, Columbus, OH 43210.
+(5)Viral Mutation Section, HIV Dynamics and Replication Program, National Cancer 
+Institute, Frederick, MD 21702.
+(6)Viral Recombination Section, HIV Dynamics and Replication Program, National
+Cancer Institute, Frederick, MD 21702; Wei-Shau.Hu@nih.gov
+musier-forsyth.1@osu.edu.
+(7)Department of Chemistry and Biochemistry, The Ohio State University, Columbus,
+OH 43210; Wei-Shau.Hu@nih.gov musier-forsyth.1@osu.edu.
+
+To generate infectious virus, HIV-1 must package two copies of its full-length
+RNA into particles. HIV-1 transcription initiates from multiple, neighboring
+sites, generating RNA species that only differ by a few nucleotides at the 5'
+end, including those with one (1G) or three (3G) 5' guanosines. Strikingly, 1G
+RNA is preferentially packaged into virions over 3G RNA. We investigated how
+HIV-1 distinguishes between these nearly identical RNAs using in-gel chemical
+probing combined with recently developed computational tools for determining RNA 
+conformational ensembles, as well as cell-based assays to quantify the efficiency
+of RNA packaging into viral particles. We found that 1G and 3G RNAs fold into
+distinct structural ensembles. The 1G RNA, but not the 3G RNA, primarily adopts
+conformations with an intact polyA stem, exposed dimerization initiation site,
+and multiple, unpaired guanosines known to mediate Gag binding. Furthermore, we
+identified mutants that exhibited altered genome selectivity and packaged 3G RNA 
+efficiently. In these mutants, both 1G and 3G RNAs fold into similar
+conformational ensembles, such that they can no longer be distinguished. Our
+findings demonstrate that polyA stem stability guides RNA-packaging selectivity. 
+These studies also uncover the mechanism by which HIV-1 selects its genome for
+packaging: 1G RNA is preferentially packaged because it exposes structural
+elements that promote RNA dimerization and Gag binding.
+
+DOI: 10.1073/pnas.2114494118 
+PMID: 34873042 
+
+Conflict of interest statement: The authors declare no competing interest.
+

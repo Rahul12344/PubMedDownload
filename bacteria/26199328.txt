@@ -1,0 +1,49 @@
+
+1. mBio. 2015 Jul 21;6(4):e00891. doi: 10.1128/mBio.00891-15.
+
+Deciphering the Regulatory Circuitry That Controls Reversible Lysine Acetylation 
+in Salmonella enterica.
+
+Hentchel KL(1), Thao S(2), Intile PJ(2), Escalante-Semerena JC(3).
+
+Author information: 
+(1)Department of Microbiology, University of Georgia, Athens, Georgia, USA.
+(2)Department of Bacteriology, University of Wisconsin, Madison, Wisconsin, USA.
+(3)Department of Microbiology, University of Georgia, Athens, Georgia, USA
+jcescala@uga.edu.
+
+In Salmonella enterica, the reversible lysine acetylation (RLA) system is
+comprised of the protein acetyltransferase (Pat) and sirtuin deacetylase (CobB). 
+RLA controls the activities of many proteins, including the acetyl coenzyme A
+(acetyl-CoA) synthetase (Acs), by modulating the degree of Acs acetylation. We
+report that IolR, a myo-inositol catabolism repressor, activates the expression
+of genes encoding components of the RLA system. In vitro evidence shows that the 
+IolR protein directly regulates pat expression. An iolR mutant strain displayed a
+growth defect in minimal medium containing 10 mM acetate, a condition under which
+RLA function is critical to control Acs activity. Increased levels of Pat, CobB, 
+or Acs activity reversed the growth defect, suggesting the Pat/CobB ratio in an
+iolR strain is altered and that such a change affects the level of acetylated,
+inactive Acs. Results of quantitative reverse transcription-PCR (qRT-PCR)
+analyses of pat, cobB, and acs expression indicated that expression of the genes 
+alluded to in the IolR-deficient strain was reduced 5-, 3-, and 2.6-fold,
+respectively, relative to the levels present in the strain carrying the iolR(+)
+allele. Acs activity in cell-free extracts from an iolR mutant strain was reduced
+~25% relative to that of the iolR(+) strain. Glucose differentially regulated
+expression of pat, cobB, and acs. The catabolite repressor protein (Crp)
+positively regulated expression of pat while having no effect on cobB.IMPORTANCE:
+Reversible lysine acylation is used by cells of all domains of life to modulate
+the function of proteins involved in diverse cellular processes. Work reported
+herein begins to outline the regulatory circuitry that integrates the expression 
+of genes encoding enzymes that control the activity of a central metabolic enzyme
+in C2 metabolism. Genetic analyses revealed effects on reversible lysine
+acylation that greatly impacted the growth behavior of the cell. This work
+provides the first insights into the complexities of the system responsible for
+controlling reversible lysine acylation at the transcriptional level in the
+enteropathogenic bacterium Salmonella enterica.
+
+Copyright © 2015 Hentchel et al.
+
+DOI: 10.1128/mBio.00891-15 
+PMCID: PMC4513076
+PMID: 26199328  [Indexed for MEDLINE]
+

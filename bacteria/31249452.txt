@@ -1,0 +1,52 @@
+
+1. World J Gastroenterol. 2019 Jun 21;25(23):2947-2960. doi:
+10.3748/wjg.v25.i23.2947.
+
+Expression of genes that control core fucosylation in hepatocellular carcinoma:
+Systematic review.
+
+Norton PA(1), Mehta AS(2).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Drexel University College of
+Medicine, Philadelphia, PA 19102, United States. pan29@drexel.edu.
+(2)Department of Cell and Molecular Pharmacology, Medical University of South
+Carolina, Charleston, SC 29425, United States.
+
+BACKGROUND: Changes in N-linked glycosylation have been observed in the
+circulation of individuals with hepatocellular carcinoma. In particular, an
+elevation in the level of core fucosylation has been observed. However, the
+mechanisms through which core fucose is increased are not well understood. We
+hypothesized that a review of the literature and related bioinformatic review
+regarding six genes known to be involved in the attachment of core fucosylation, 
+the synthesis of the fucosylation substrate guanosine diphosphate (GDP)-fucose,
+or the transport of the substrate into the Golgi might offer mechanistic insight 
+into the regulation of core fucose levels.
+AIM: To survey the literature to capture the involvement of genes regulating core
+N-linked fucosylation in hepatocellular carcinoma.
+METHODS: The PubMed biomedical literature database was searched for the
+association of hepatocellular carcinoma and each of the core fucose-related genes
+and their protein products. We also queried The Cancer Genome Atlas Liver
+hepatocellular carcinoma (LIHC) dataset for genetic, epigenetic and gene
+expression changes for the set of six genes using the tools at cBioportal.
+RESULTS: A total of 27 citations involving one or more of the core
+fucosylation-related genes (FPGT, FUK, FUT8, GMDS, SLC35C1, TSTA3) and
+hepatocellular carcinoma were identified. The same set of gene symbols was used
+to query the 371 patients with liver cancer in the LIHC dataset to identify the
+frequency of mRNA over or under expression, as well as non-synonymous mutations, 
+copy number variation and methylation level. Although all six genes trended to
+more samples displaying over expression relative to under-expression, it was
+noted that a number of tumor samples had undergone amplification of the genes of 
+the de novo synthesis pathway, GMDS (27 samples) and TSTA3 (78 samples). In
+contrast, the other four genes had undergone amplification in 2 or fewer samples.
+CONCLUSION: Amplification of genes involved in the de novo pathway for generation
+of GDP-fucose, GMDS and TSTA3, likely contributes to the elevated core fucose
+observed in hepatocellular carcinoma.
+
+DOI: 10.3748/wjg.v25.i23.2947 
+PMCID: PMC6589740
+PMID: 31249452  [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict-of-interest statement: The authors
+declare no conflicts.
+

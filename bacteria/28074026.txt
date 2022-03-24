@@ -1,0 +1,65 @@
+
+1. mBio. 2017 Jan 10;8(1). pii: e02179-16. doi: 10.1128/mBio.02179-16.
+
+Promyelocytic Leukemia Protein (PML) Controls Listeria monocytogenes Infection.
+
+Ribet D(1)(2)(3), Lallemand-Breitenbach V(4)(5), Ferhi O(4)(5), Nahori
+MA(1)(2)(3), Varet H(6)(7), de Thé H(8)(5), Cossart P(9)(2)(3).
+
+Author information: 
+(1)Institut Pasteur, Unité des Interactions Bactéries-Cellules, Paris, France.
+(2)Inserm, U604, Paris, France.
+(3)INRA, USC2020, Paris, France.
+(4)Inserm, CNRS, Université Paris Diderot, Institut Universitaire Hématologie,
+U944/UMR7212, Hôpital St. Louis, Paris, France.
+(5)PSL, Collège de France, Paris, France.
+(6)Institut Pasteur, Plate-forme Transcriptome et Epigenome, Biomics, Centre
+d'Innovation et Recherche Technologique (Citech), Paris, France.
+(7)Institut Pasteur, Hub Bioinformatique et Biostatistique, Centre de
+Bioinformatique, Biostatistique et Biologie Intégrative (C3BI, USR 3756 IP CNRS),
+Paris, France.
+(8)Inserm, CNRS, Université Paris Diderot, Institut Universitaire Hématologie,
+U944/UMR7212, Hôpital St. Louis, Paris, France hugues.dethe@inserm.fr
+pascale.cossart@pasteur.fr.
+(9)Institut Pasteur, Unité des Interactions Bactéries-Cellules, Paris, France
+hugues.dethe@inserm.fr pascale.cossart@pasteur.fr.
+
+The promyelocytic leukemia protein (PML) is the main organizer of
+stress-responsive subnuclear structures called PML nuclear bodies. These
+structures recruit multiple interactors and modulate their abundance or their
+posttranslational modifications, notably by the SUMO ubiquitin-like modifiers.
+The involvement of PML in antiviral responses is well established. In contrast,
+the role of PML in bacterial infection remains poorly characterized. Here, we
+show that PML restricts infection by the pathogenic bacterium Listeria
+monocytogenes but not by Salmonella enterica serovar Typhimurium. During
+infection, PML undergoes oxidation-mediated multimerization, associates with the 
+nuclear matrix, and becomes de-SUMOylated due to the pore-forming activity of the
+Listeria toxin listeriolysin O (LLO). These events trigger an antibacterial
+response that is not observed during in vitro infection by an LLO-defective
+Listeria mutant, but which can be phenocopied by specific induction of PML
+de-SUMOylation. Using transcriptomic and proteomic microarrays, we also
+characterized a network of immunity genes and cytokines, which are regulated by
+PML in response to Listeria infection but independently from the listeriolysin O 
+toxin. Our study thus highlights two mechanistically distinct complementary roles
+of PML in host responses against bacterial infection.IMPORTANCE: The
+promyelocytic leukemia protein (PML) is a eukaryotic protein that can polymerize 
+in discrete nuclear assemblies known as PML nuclear bodies (NBs) and plays
+essential roles in many different cellular processes. Key to its function, PML
+can be posttranslationally modified by SUMO, a ubiquitin-like modifier.
+Identification of the role of PML in antiviral defenses has been deeply
+documented. In contrast, the role of PML in antibacterial defenses remains
+elusive. Here, we identify two mechanistically distinct complementary roles of
+PML in antibacterial responses against pathogens such as Listeria: (i) we show
+that PML regulates the expression of immunity genes in response to bacterial
+infection, and (ii) we unveil the fact that modification of PML SUMOylation by
+bacterial pore-forming toxins is sensed as a danger signal, leading to a
+restriction of bacterial intracellular multiplication. Taken together, our data
+reinforce the concept that intranuclear bodies can dynamically regulate important
+processes, such as defense against invaders.
+
+Copyright © 2017 Ribet et al.
+
+DOI: 10.1128/mBio.02179-16 
+PMCID: PMC5225316
+PMID: 28074026  [Indexed for MEDLINE]
+

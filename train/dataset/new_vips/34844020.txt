@@ -1,0 +1,59 @@
+
+1. Mol Metab. 2021 Nov 26:101405. doi: 10.1016/j.molmet.2021.101405. [Epub ahead of 
+print]
+
+Conditional Gene Targeting Using UCP1-Cre Mice Directly Targets the Central
+Nervous System Beyond Thermogenic Adipose Tissues.
+
+Claflin KE(1), Flippo KH(1), Sullivan AI(1), Naber MC(1), Zhou B(1), Neff TJ(1), 
+Jensen-Cody SO(1), Potthoff MJ(2).
+
+Author information: 
+(1)Department of Neuroscience and Pharmacology, University of Iowa Carver College
+of Medicine, Iowa City, IA, 52242, USA; Fraternal Order of Eagles Diabetes
+Research Center, University of Iowa Carver College of Medicine, Iowa City, IA,
+52242, USA; Iowa Neuroscience Institute, University of Iowa Carver College of
+Medicine, Iowa City, IA, 52242, USA.
+(2)Department of Neuroscience and Pharmacology, University of Iowa Carver College
+of Medicine, Iowa City, IA, 52242, USA; Fraternal Order of Eagles Diabetes
+Research Center, University of Iowa Carver College of Medicine, Iowa City, IA,
+52242, USA; Iowa Neuroscience Institute, University of Iowa Carver College of
+Medicine, Iowa City, IA, 52242, USA; Department of Veterans Affairs Medical
+Center, Iowa City, IA, 52242, USA. Electronic address:
+matthew-potthoff@uiowa.edu.
+
+OBJECTIVE: Uncoupling protein 1 (UCP1) is a mitochondrial protein critical for
+adaptive thermogenesis in adipose tissues, and as such, is typically believed to 
+be restricted to thermogenic adipose tissues. UCP1-Cre transgenic mice are
+utilized in numerous studies to provide "brown adipose-specific" conditional gene
+targeting. Here, we examine the distribution of Cre and UCP1 throughout the body 
+in UCP1-Cre reporter mice.
+METHODS: UCP1-Cre mice crossed to Ai14-tdTomato and Ai9-tdTomato reporter mice
+were used to explore the tissue distribution of Cre recombinase and Ucp1 mRNA in 
+various tissues. UCP1-Cre mice were independently infected with either a
+Cre-dependent PHP.eB-tdTomato virus or a Cre-dependent AAV-tdTomato virus to
+determine if and where UCP1 is actively expressed in the adult central nervous
+system. In situ analysis of deposited single cell RNA sequencing data was used to
+evaluate Ucp1 expression in the hypothalamus.
+RESULTS: As expected, Ucp1 expression was detected in both brown and inguinal
+adipose tissues. Ucp1 expression was also detected in the kidney, adrenal glands,
+thymus and the hypothalamus. Consistent with detectable Ucp1 expression, tdTomato
+expression was also observed in brown adipose tissue, inguinal white adipose
+tissue, kidney, adrenal glands and the hypothalamus of both male and female
+UCP1-Cre;Ai14-tdTomato and UCP1-Cre;Ai9-tdTomato mice by fluorescent imaging and 
+qPCR. Critically, expression of tdTomato, and thus UCP1, within the central
+nervous system was observed in regions of the brain critical for the regulation
+of energy homeostasis, including the ventromedial hypothalamus (VMH).
+CONCLUSIONS: TdTomato expression in UCP1-Cre;tdTomato mice is not restricted to
+thermogenic adipose tissues. TdTomato was also expressed in the kidneys, adrenal 
+glands and throughout the brain, including brain regions and cell types which are
+critical for multiple aspects of central regulation of energy homeostasis.
+Collectively, these data have important implications for the utility of UCP1-Cre 
+mice as genetic tools to investigate gene function specifically in brown adipose 
+tissue.
+
+Published by Elsevier GmbH.
+
+DOI: 10.1016/j.molmet.2021.101405 
+PMID: 34844020 
+

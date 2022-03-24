@@ -1,0 +1,53 @@
+
+1. Infect Dis Poverty. 2021 Oct 24;10(1):128. doi: 10.1186/s40249-021-00912-6.
+
+Prediction of pandemic risk for animal-origin coronavirus using a deep learning
+method.
+
+Kou Z(1), Huang YF(2), Shen A(2), Kosari S(2), Liu XR(3), Qiang XL(2).
+
+Author information: 
+(1)Institute of Computing Science and Technology, Guangzhou University,
+Guangzhou, 510006, China. kouzhengcn@foxmail.com.
+(2)Institute of Computing Science and Technology, Guangzhou University,
+Guangzhou, 510006, China.
+(3)Department of Computer Science, Xiamen University, Xiamen, 361005, China.
+xrliu@xmu.edu.cn.
+
+BACKGROUND: Coronaviruses can be isolated from bats, civets, pangolins, birds and
+other wild animals. As an animal-origin pathogen, coronavirus can cross species
+barrier and cause pandemic in humans. In this study, a deep learning model for
+early prediction of pandemic risk was proposed based on the sequences of viral
+genomes.
+METHODS: A total of 3257 genomes were downloaded from the Coronavirus Genome
+Resource Library. We present a deep learning model of cross-species coronavirus
+infection that combines a bidirectional gated recurrent unit network with a
+one-dimensional convolution. The genome sequence of animal-origin coronavirus was
+directly input to extract features and predict pandemic risk. The best
+performances were explored with the use of pre-trained DNA vector and attention
+mechanism. The area under the receiver operating characteristic curve (AUROC) and
+the area under precision-recall curve (AUPR) were used to evaluate the predictive
+models.
+RESULTS: The six specific models achieved good performances for the corresponding
+virus groups (1 for AUROC and 1 for AUPR). The general model with pre-training
+vector and attention mechanism provided excellent predictions for all virus
+groups (1 for AUROC and 1 for AUPR) while those without pre-training vector or
+attention mechanism had obviously reduction of performance (about 5-25%).
+Re-training experiments showed that the general model has good capabilities of
+transfer learning (average for six groups: 0.968 for AUROC and 0.942 for AUPR)
+and should give reasonable prediction for potential pathogen of next pandemic.
+The artificial negative data with the replacement of the coding region of the
+spike protein were also predicted correctly (100% accuracy). With the application
+of the Python programming language, an easy-to-use tool was created to implements
+our predictor.
+CONCLUSIONS: Robust deep learning model with pre-training vector and attention
+mechanism mastered the features from the whole genomes of animal-origin
+coronaviruses and could predict the risk of cross-species infection for early
+warning of next pandemic.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s40249-021-00912-6 
+PMCID: PMC8542360
+PMID: 34689829  [Indexed for MEDLINE]
+

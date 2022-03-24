@@ -1,0 +1,44 @@
+
+1. EMBO Rep. 2021 Nov 29:e53543. doi: 10.15252/embr.202153543. [Epub ahead of print]
+
+Single-cell transcriptomics identifies Gadd45b as a regulator of
+herpesvirus-reactivating neurons.
+
+Hu HL(1), Srinivas KP(2), Wang S(3), Chao MV(4), Lionnet T(3), Mohr I(2), Wilson 
+AC(2), Depledge DP(5), Huang TT(1).
+
+Author information: 
+(1)Department of Biochemistry & Molecular Pharmacology, New York University
+School of Medicine, New York, NY, USA.
+(2)Department of Microbiology, New York University School of Medicine, New York, 
+NY, USA.
+(3)Department of Cell Biology, Institute for Systems Genetics, New York
+University School of Medicine, New York, NY, USA.
+(4)Departments of Cell Biology, Physiology & Neuroscience, and Psychiatry,
+Skirball Institute of Biomolecular Medicine, New York University School of
+Medicine, New York, NY, USA.
+(5)Department of Medicine, New York University School of Medicine, New York, NY, 
+USA.
+
+Single-cell RNA sequencing (scRNA-seq) is a powerful technique for dissecting the
+complexity of normal and diseased tissues, enabling characterization of cell
+diversity and heterogeneous phenotypic states in unprecedented detail. However,
+this technology has been underutilized for exploring the interactions between the
+host cell and viral pathogens in latently infected cells. Herein, we use
+scRNA-seq and single-molecule sensitivity fluorescent in situ hybridization
+(smFISH) technologies to investigate host single-cell transcriptome changes upon 
+the reactivation of a human neurotropic virus, herpes simplex virus-1 (HSV-1). We
+identify the stress sensor growth arrest and DNA damage-inducible 45 beta
+(Gadd45b) as a critical antiviral host factor that regulates HSV-1 reactivation
+events in a subpopulation of latently infected primary neurons. We show that
+distinct subcellular localization of Gadd45b correlates with the viral late gene 
+expression program, as well as the expression of the viral transcription factor, 
+ICP4. We propose that a hallmark of a "successful" or "aborted" HSV-1
+reactivation state in primary neurons is determined by a unique subcellular
+localization signature of the stress sensor Gadd45b.
+
+© 2021 The Authors.
+
+DOI: 10.15252/embr.202153543 
+PMID: 34842321 
+

@@ -1,0 +1,47 @@
+
+1. Vaccines (Basel). 2021 Nov 5;9(11). pii: 1287. doi: 10.3390/vaccines9111287.
+
+A Novel Double Mosaic Virus-like Particle-Based Vaccine against SARS-CoV-2
+Incorporates Both Receptor Binding Motif (RBM) and Fusion Domain.
+
+Chang X(1)(2), Zeltins A(3), Mohsen MO(1)(2)(4), Gharailoo Z(1)(2), Zha L(5), Liu
+X(1)(2)(5), Walton S(4), Vogel M(1)(2), Bachmann MF(1)(2)(5)(6).
+
+Author information: 
+(1)Department of Rheumatology and Immunology, University Hospital Bern, 3010
+Bern, Switzerland.
+(2)Department of BioMedical Research, University of Bern, 3012 Bern, Switzerland.
+(3)Latvian Biomedical Research & Study Center, Ratsupites 1, LV-1067 Riga,
+Latvia.
+(4)Saiba GmbH, 8808 Pfäffikon, Switzerland.
+(5)International Immunology Centre, Anhui Agricultural University, Hefei 230036, 
+China.
+(6)Jenner Institute, University of Oxford, Oxford OX3 7BN, UK.
+
+COVID-19 has emerged, and has rapidly become a major health problem worldwide,
+causing millions of mortalities. Vaccination against COVID-19 is the most
+efficient way to stop the pandemic. The goal of vaccines is to induce
+neutralizing antibodies against SARS-CoV-2 virus. Here, we present a novel double
+mosaic virus-like particle (VLP) displaying two independent neutralizing
+epitopes, namely the receptor binding motif (RBM) located in S1 and the fusion
+peptide (AA 817-855) located in S2. CuMVTT virus-like particles were used as VLP 
+scaffold and both domains were genetically fused in the middle of CuMVTT
+subunits, which co-assembled into double mosaic particles (CuMVTT-DF). A single
+fusion mosaic particle (CuMVTT-FP) containing the fusion peptide only was used
+for comparison. The vaccines were produced in E. coli, and electron microscopy
+and dynamic light scattering confirmed their integrity and homogeneity. In
+addition, the CuMVTT-DF vaccine was well recognized by ACE2 receptor, indicating 
+that the RBM was in native conformation. Both CuMVTT-FP and CuMVTT-DF vaccines
+induced high levels of high avidity IgG antibodies as well as IgA recognizing
+spike and RBD in the case of CuMVTT-DF. Both vaccine candidates induced
+virus-neutralizing antibodies indicating that the fusion peptide can
+independently induce virus-neutralizing antibodies. In contrast, CuMVTT-DF
+containing both RBM and fusion peptide induced a higher level of neutralizing
+antibodies suggesting that the new double mosaic vaccine candidate CuMVTT-DF
+consisting of two antigens in one VLP maybe an attractive candidate for scale-up 
+in a bacterial fermentation process for clinical development.
+
+DOI: 10.3390/vaccines9111287 
+PMCID: PMC8619050
+PMID: 34835218 
+

@@ -1,0 +1,49 @@
+
+1. PLoS Pathog. 2021 Dec 6;17(12):e1010123. doi: 10.1371/journal.ppat.1010123. [Epub
+ahead of print]
+
+RSK1 SUMOylation is required for KSHV lytic replication.
+
+Liu Z(1)(2), Liu C(1)(2), Wang X(1)(2), Li W(3), Zhou J(2), Dong P(2), Xiao
+MZX(4), Wang C(5), Zhang Y(5), Fu J(6), Zhu F(3), Liang Q(1)(2)(7)(8).
+
+Author information: 
+(1)Research Center of Translational Medicine, Shanghai Children's Hospital,
+Shanghai Jiao Tong University, Shanghai, China.
+(2)Shanghai Institute of Immunology, Department of Immunology and Microbiology,
+Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+(3)Department of Biological Science, Florida State University, Tallahassee,
+Flordia, United States of America.
+(4)Faculty of Medicine, University of Alberta, Edmonton, Alberta, Canada.
+(5)Department of Critical Care Medicine, Shanghai Children's Hospital, Shanghai
+Jiao Tong University, Shanghai, China.
+(6)Department of Statistics, University of California, Riverside, Riverside,
+California, United States of America.
+(7)Key Laboratory of Cell Differentiation and Apoptosis of Chinese Ministry of
+Education, Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+(8)State Key Laboratory of Microbial Metabolism, Shanghai Jiao Tong University,
+Shanghai, China.
+
+RSK1, a downstream kinase of the MAPK pathway, has been shown to regulate
+multiple cellular processes and is essential for lytic replication of a variety
+of viruses, including Kaposi's sarcoma-associated herpesvirus (KSHV). Besides
+phosphorylation, it is not known whether other post-translational modifications
+play an important role in regulating RSK1 function. We demonstrate that RSK1
+undergoes robust SUMOylation during KSHV lytic replication at lysine residues
+K110, K335, and K421. SUMO modification does not alter RSK1 activation and kinase
+activity upon KSHV ORF45 co-expression, but affects RSK1 downstream substrate
+phosphorylation. Compared to wild-type RSK1, the overall phosphorylation level of
+RxRxxS*/T* motif is significantly declined in RSK1K110/335/421R expressing cells.
+Specifically, SUMOylation deficient RSK1 cannot efficiently phosphorylate eIF4B. 
+Sequence analysis showed that eIF4B has one SUMO-interacting motif (SIM) between 
+the amino acid position 166 and 170 (166IRVDV170), which mediates the association
+between eIF4B and RSK1 through SUMO-SIM interaction. These results indicate that 
+SUMOylation regulates the phosphorylation of RSK1 downstream substrates, which is
+required for efficient KSHV lytic replication.
+
+DOI: 10.1371/journal.ppat.1010123 
+PMID: 34871326 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

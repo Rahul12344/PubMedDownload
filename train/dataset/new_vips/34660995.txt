@@ -1,0 +1,48 @@
+
+1. ACS Omega. 2021 Sep 27;6(40):26354-26371. doi: 10.1021/acsomega.1c03558.
+eCollection 2021 Oct 12.
+
+Atomistic Simulations and In Silico Mutational Profiling of Protein Stability and
+Binding in the SARS-CoV-2 Spike Protein Complexes with Nanobodies: Molecular
+Determinants of Mutational Escape Mechanisms.
+
+Verkhivker GM(1)(2), Agajanian S(1), Oztas DY(1), Gupta G(1).
+
+Author information: 
+(1)Keck Center for Science and Engineering, Schmid College of Science and
+Technology, Chapman University, One University Drive, Orange, California 92866,
+United States.
+(2)Department of Biomedical and Pharmaceutical Sciences, Chapman University
+School of Pharmacy, Irvine, California 92618, United States.
+
+Structure-functional studies have recently revealed a spectrum of diverse
+high-affinity nanobodies with efficient neutralizing capacity against SARS-CoV-2 
+virus and resilience against mutational escape. In this study, we combine
+atomistic simulations with the ensemble-based mutational profiling of binding for
+the SARS-CoV-2 S-RBD complexes with a wide range of nanobodies to identify
+dynamic and binding affinity fingerprints and characterize the energetic
+determinants of nanobody-escaping mutations. Using an in silico mutational
+profiling approach for probing the protein stability and binding, we examine
+dynamics and energetics of the SARS-CoV-2 complexes with single nanobodies Nb6
+and Nb20, VHH E, a pair combination VHH E + U, a biparatopic nanobody VHH VE, and
+a combination of the CC12.3 antibody and VHH V/W nanobodies. This study
+characterizes the binding energy hotspots in the SARS-CoV-2 protein and complexes
+with nanobodies providing a quantitative analysis of the effects of circulating
+variants and escaping mutations on binding that is consistent with a broad range 
+of biochemical experiments. The results suggest that mutational escape may be
+controlled through structurally adaptable binding hotspots in the
+receptor-accessible binding epitope that are dynamically coupled to the stability
+centers in the distant binding epitope targeted by VHH U/V/W nanobodies. This
+study offers a plausible mechanism in which through cooperative dynamic changes, 
+nanobody combinations and biparatopic nanobodies can elicit the increased binding
+affinity response and yield resilience to common escape mutants.
+
+© 2021 The Authors. Published by American Chemical Society.
+
+DOI: 10.1021/acsomega.1c03558 
+PMCID: PMC8515575
+PMID: 34660995 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

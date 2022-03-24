@@ -1,0 +1,32 @@
+
+1. Antibiotics (Basel). 2021 Oct 21;10(11). pii: 1282. doi:
+10.3390/antibiotics10111282.
+
+Molecular Modeling the Proteins from the exo-xis Region of Lambda and
+Shigatoxigenic Bacteriophages.
+
+Donaldson LW(1).
+
+Author information: 
+(1)Department of Biology, York University, Toronto, ON M3J 1P3, Canada.
+
+Despite decades of intensive research on bacteriophage lambda, a relatively
+uncharacterized region remains between the exo and xis genes. Collectively,
+exo-xis region genes are expressed during the earliest stages of the lytic
+developmental cycle and are capable of affecting the molecular events associated 
+with the lysogenic-lytic developmental decision. In Shiga toxin-producing E. coli
+(STEC) and enterohemorragic E. coli (EHEC) that are responsible for food- and
+water-borne outbreaks throughout the world, there are distinct differences of
+exo-xis region genes from their counterparts in lambda phage. Together, these
+differences may help EHEC-specific phage and their bacterial hosts adapt to the
+complex environment within the human intestine. Only one exo-xis region protein, 
+Ea8.5, has been solved to date. Here, I have used the AlphaFold and RoseTTAFold
+machine learning algorithms to predict the structures of six exo-xis region
+proteins from lambda and STEC/EHEC phages. Together, the models suggest possible 
+roles for exo-xis region proteins in transcription and the regulation of RNA
+polymerase.
+
+DOI: 10.3390/antibiotics10111282 
+PMCID: PMC8614690
+PMID: 34827220 
+

@@ -1,0 +1,34 @@
+
+1. Cells. 2021 Oct 29;10(11). pii: 2953. doi: 10.3390/cells10112953.
+
+Impacts of p97 on Proteome Changes in Human Cells during Coronaviral Replication.
+
+Cheng KW(1), Li S(1), Wang F(1), Ruiz-Lopez NM(1), Houerbi N(1), Chou TF(1)(2).
+
+Author information: 
+(1)Division of Biology and Biological Engineering, California Institute of
+Technology, Pasadena, CA 91125, USA.
+(2)Proteome Exploration Laboratory, Beckman Institute, California Institute of
+Technology, Pasadena, CA 91125, USA.
+
+Human coronavirus (HCoV) similar to other viruses rely on host cell machinery for
+both replication and to spread. The p97/VCP ATPase is associated with diverse
+pathways that may favor HCoV replication. In this study, we assessed the role of 
+p97 and associated host responses in human lung cell line H1299 after HCoV-229E
+or HCoV-OC43 infection. Inhibition of p97 function by small molecule inhibitors
+shows antiviral activity, particularly at early stages of the virus life cycle,
+during virus uncoating and viral RNA replication. Importantly, p97 activity
+inhibition protects human cells against HCoV-induced cytopathic effects. The p97 
+knockdown also inhibits viral production in infected cells. Unbiased quantitative
+proteomics analyses reveal that HCoV-OC43 infection resulted in proteome changes 
+enriched in cellular senescence and DNA repair during virus replication. Further 
+analysis of protein changes between infected cells with control and p97 shRNA
+identifies cell cycle pathways for both HCoV-229E and HCoV-OC43 infection.
+Together, our data indicate a role for the essential host protein p97 in
+supporting HCoV replication, suggesting that p97 is a therapeutic target to treat
+HCoV infection.
+
+DOI: 10.3390/cells10112953 
+PMCID: PMC8616207
+PMID: 34831176 
+

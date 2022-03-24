@@ -1,0 +1,84 @@
+
+1. lancet infect dis. 2017 feb;17(2):164-173. doi: 10.1016/s1473-3099(16)30409-1.
+epub 2016 nov 3.
+
+genetic markers associated dihydroartemisinin-piperaquine failure in
+plasmodium falciparum malaria cambodia: genotype-phenotype association
+study.
+
+amato r(1), lim p(2), miotto o(3), amaratunga c(4), dek d(5), pearson rd(6),
+almagro-garcia j(6), neal at(4), sreng s(5), suon s(5), drury e(7), jyothi d(7), 
+stalker j(7), kwiatkowski dp(6), fairhurst rm(8).
+
+author information: 
+(1)wellcome trust sanger institute, hinxton, uk; centre genomics global
+health, wellcome trust centre human genetics, oxford, uk. electronic address:
+ra4@sanger.ac.uk.
+(2)national institute allergy infectious diseases, national institutes 
+health, rockville, md, usa; national center parasitology, entomology, and
+malaria control, phnom penh, cambodia.
+(3)wellcome trust sanger institute, hinxton, uk; centre genomics global
+health, wellcome trust centre human genetics, oxford, uk; mahidol-oxford
+tropical medicine research unit, mahidol university, bangkok, thailand.
+(4)national institute allergy infectious diseases, national institutes 
+health, rockville, md, usa.
+(5)national center parasitology, entomology, malaria control, phnom penh,
+cambodia.
+(6)wellcome trust sanger institute, hinxton, uk; centre genomics global
+health, wellcome trust centre human genetics, oxford, uk.
+(7)wellcome trust sanger institute, hinxton, uk.
+(8)national institute allergy infectious diseases, national institutes 
+health, rockville, md, usa. electronic address: rfairhurst@niaid.nih.gov.
+
+comment in
+    lancet infect dis. 2017 feb;17(2):119-121.
+
+background: prevalence artemisinin-resistant plasmodium falciparum
+malaria increases greater mekong subregion, emerging resistance partner
+drugs artemisinin combination therapies seriously threatens global efforts 
+treat eliminate disease. molecular markers predict failure of
+artemisinin combination therapy urgently needed monitor spread of
+partner drug resistance, recommend alternative treatments southeast
+asia beyond.
+methods: genome-wide association study 297 p falciparum isolates from
+cambodia investigate relationship 11 630 exonic single-nucleotide
+polymorphisms (snps) 43 copy number variations (cnvs) in-vitro
+piperaquine 50% inhibitory concentrations (ic50s), tested whether these
+genetic variants markers treatment failure with
+dihydroartemisinin-piperaquine. survival analysis 133 patients
+to determine whether candidate molecular markers predicted parasite recrudescence
+following dihydroartemisinin-piperaquine treatment.
+findings: piperaquine ic50s increased significantly 2011 2013 three
+cambodian provinces (2011 vs 2013 median ic50s: 20·0 nmol/l [iqr 13·7-29·0] vs
+39·2 nmol/l [32·8-48·1] ratanakiri, 19·3 nmol/l [15·1-26·2] vs 66·2 nmol/l
+[49·9-83·0] preah vihear, 19·6 nmol/l [11·9-33·9] vs 81·1 nmol/l
+[61·3-113·1] pursat; p≤10-3; kruskal-wallis test). genome-wide analysis
+of snps identified chromosome 13 region associates raised piperaquine
+ic50s. non-synonymous snp (encoding glu415gly substitution) region,
+within gene encoding exonuclease, associates parasite recrudescence
+following dihydroartemisinin-piperaquine treatment. genome-wide analysis cnvs 
+revealed single copy mdr1 gene chromosome 5 novel
+amplification plasmepsin 2 plasmepsin 3 genes chromosome 14 also
+associate raised piperaquine ic50s. adjusting covariates, both
+exo-e415g plasmepsin 2-3 markers significantly associate (p=3·0 × 10-8 and
+p=1·7 × 10-7, respectively) decreased treatment efficacy (survival rates
+0·38 [95% ci 0·25-0·51] 0·41 [0·28-0·53], respectively).
+interpretation: exo-e415g snp plasmepsin 2-3 amplification markers of
+piperaquine resistance dihydroartemisinin-piperaquine failures cambodia,
+and help monitor spread phenotypes countries the
+greater mekong subregion, elucidate mechanism piperaquine resistance. 
+since plasmepsins involved parasite's haemoglobin-to-haemozoin
+conversion pathway, targeted related antimalarials, plasmepsin 2-3
+amplification probably mediates piperaquine resistance.
+funding: intramural research program us national institute allergy 
+infectious diseases, national institutes health, wellcome trust, bill &
+melinda gates foundation, medical research council, uk department for
+international development.
+
+copyright © 2017 author(s). published elsevier ltd. open access
+article cc license. published elsevier ltd.. rights reserved.
+
+doi: 10.1016/s1473-3099(16)30409-1 
+pmcid: pmc5564489
+pmid: 27818095  [indexed medline]
+

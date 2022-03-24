@@ -1,0 +1,57 @@
+
+1. Microb Cell Fact. 2018 Jan 9;17(1):2. doi: 10.1186/s12934-017-0852-0.
+
+Insights into metabolic osmoadaptation of the ectoines-producer bacterium
+Chromohalobacter salexigens through a high-quality genome scale metabolic model.
+
+Piubeli F(1), Salvador M(1), Argandoña M(1), Nieto JJ(1), Bernal V(2)(3), Pastor 
+JM(2), Cánovas M(2), Vargas C(4).
+
+Author information: 
+(1)Department of Microbiology and Parasitology, Faculty of Pharmacy, University
+of Sevilla, C/Profesor García González 2, 41012, Sevilla, Spain.
+(2)Department of Biochemistry and Molecular Biology B and Immunology, Faculty of 
+Chemistry, Campus Regional de Excelencia Internacional "Campus Mare Nostrum",
+University of Murcia, 30100, Murcia, Spain.
+(3)Centro de Tecnología de Repsol, REPSOL S.A. Calle Agustín de Betancourt, s/n. 
+28935, Móstoles, Madrid, Spain.
+(4)Department of Microbiology and Parasitology, Faculty of Pharmacy, University
+of Sevilla, C/Profesor García González 2, 41012, Sevilla, Spain. cvargas@us.es.
+
+BACKGROUND: The halophilic bacterium Chromohalobacter salexigens is a natural
+producer of ectoines, compatible solutes with current and potential
+biotechnological applications. As production of ectoines is an osmoregulated
+process that draws away TCA intermediates, bacterial metabolism needs to be
+adapted to cope with salinity changes. To explore and use C. salexigens as cell
+factory for ectoine(s) production, a comprehensive knowledge at the systems level
+of its metabolism is essential. For this purpose, the construction of a robust
+and high-quality genome-based metabolic model of C. salexigens was approached.
+RESULTS: We generated and validated a high quality genome-based C. salexigens
+metabolic model (iFP764). This comprised an exhaustive reconstruction process
+based on experimental information, analysis of genome sequence, manual
+re-annotation of metabolic genes, and in-depth refinement. The model included
+three compartments (periplasmic, cytoplasmic and external medium), and two
+salinity-specific biomass compositions, partially based on experimental results
+from C. salexigens. Using previous metabolic data as constraints, the metabolic
+model allowed us to simulate and analyse the metabolic osmoadaptation of C.
+salexigens under conditions for low and high production of ectoines. The iFP764
+model was able to reproduce the major metabolic features of C. salexigens. Flux
+Balance Analysis (FBA) and Monte Carlo Random sampling analysis showed
+salinity-specific essential metabolic genes and different distribution of fluxes 
+and variation in the patterns of correlation of reaction sets belonging to
+central C and N metabolism, in response to salinity. Some of them were related to
+bioenergetics or production of reducing equivalents, and probably related to
+demand for ectoines. Ectoines metabolic reactions were distributed according to
+its correlation in four modules. Interestingly, the four modules were independent
+both at low and high salinity conditions, as they did not correlate to each
+other, and they were not correlated with other subsystems.
+CONCLUSIONS: Our validated model is one of the most complete curated networks of 
+halophilic bacteria. It is a powerful tool to simulate and explore C. salexigens 
+metabolism at low and high salinity conditions, driving to low and high
+production of ectoines. In addition, it can be useful to optimize the metabolism 
+of other halophilic bacteria for metabolite production.
+
+DOI: 10.1186/s12934-017-0852-0 
+PMCID: PMC5759318
+PMID: 29316921  [Indexed for MEDLINE]
+

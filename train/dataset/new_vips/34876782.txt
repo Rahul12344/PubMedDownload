@@ -1,0 +1,27 @@
+
+1. J Air Transp Manag. 2022 Mar;99:102175. doi: 10.1016/j.jairtraman.2021.102175.
+Epub 2021 Dec 3.
+
+SARS-CoV-2 aerosol risk models for the Airplane Seating Assignment Problem.
+
+Pavlik JA(1), Ludden IG(1), Jacobson SH(1).
+
+Author information: 
+(1)Department of Computer Science, University of Illinois at Urbana-Champaign,
+Urbana, IL, United States of America.
+
+Transmission of SARS-CoV-2 between passengers on airplanes is a significant
+concern and reducing the transmission of SARS-CoV-2 or other viruses aboard
+aircraft could save lives. Solving the Airplane Seating Assignment Problem (ASAP)
+produces seating arrangements that minimize transmission risks between passengers
+aboard an aircraft, but the chosen risk model affects the optimal seating
+arrangement. We analyze previous risk models and introduce two new risk models,
+masked and unmasked, based on previous experiments performed aboard real aircraft
+to test aerosol dispersion of SARS-CoV-2 sized particles. We make recommendations
+on when each risk model is applicable and the types of seating arrangements that 
+are optimal for each risk model.
+
+DOI: 10.1016/j.jairtraman.2021.102175 
+PMCID: PMC8639414
+PMID: 34876782 
+

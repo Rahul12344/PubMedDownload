@@ -1,0 +1,34 @@
+
+1. Methods Cell Biol. 2013;117:181-96. doi: 10.1016/B978-0-12-408143-7.00010-4.
+
+Fluorescence correlation spectroscopy and photon-counting histogram analysis of
+receptor-receptor interactions.
+
+Herrick-Davis K(1), Mazurkiewicz JE.
+
+Author information: 
+(1)Center for Neuropharmacology & Neuroscience, Albany Medical College, Albany,
+New York, USA.
+
+Fluorescence correlation spectroscopy (FCS) performed using a laser scanning
+confocal microscope is a technique with single-molecule sensitivity that is
+becoming more accessible to cell biologists. In this chapter, we describe the use
+of FCS for the analysis of diffusion coefficients and receptor-receptor
+interactions in live cells in culture. In particular, we describe a protocol to
+collect fluorescence fluctuation data from fluorescence-tagged receptors as they 
+diffuse into an out of a small laser-illuminated observation volume using a
+commercially available system such as the Zeiss ConfoCor 3 or LSM-780 microscope.
+Autocorrelation analysis of the fluctuations in fluorescence intensity provides
+information about the diffusion time and number of fluorescent molecules in the
+observation volume. A photon-counting histogram can be used to examine the
+relationship between fluorescence intensity and the number of fluorescent
+molecules to estimate the average molecular brightness of the sample. Since
+molecular brightness is directly proportional to the number of fluorescent
+molecules, it can be used to monitor receptor-receptor interactions and to decode
+the number of receptor monomers present in an oligomeric complex.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/B978-0-12-408143-7.00010-4 
+PMID: 24143978  [Indexed for MEDLINE]
+

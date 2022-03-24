@@ -1,0 +1,37 @@
+
+1. J Biol Chem. 2011 Mar 11;286(10):7727-7731. doi: 10.1074/jbc.C111.219022. Epub
+2011 Jan 11.
+
+RtcB is the RNA ligase component of an Escherichia coli RNA repair operon.
+
+Tanaka N(1), Shuman S(2).
+
+Author information: 
+(1)From the Molecular Biology Program, Sloan-Kettering Institute, New York, New
+York 10065.
+(2)From the Molecular Biology Program, Sloan-Kettering Institute, New York, New
+York 10065. Electronic address: s-shuman@ski.mskcc.org.
+
+RNA 2',3'-cyclic phosphate ends play important roles in RNA metabolism as
+substrates for RNA ligases during tRNA restriction-repair and tRNA splicing.
+Diverse bacteria from multiple phyla encode a two-component RNA repair cassette, 
+comprising Pnkp (polynucleotide kinase-phosphatase-ligase) and Hen1 (RNA
+3'-terminal ribose 2'-O-methyltransferase), that heals and then seals broken
+tRNAs with 2',3'-cyclic phosphate and 5'-OH ends. The Pnkp-Hen1 repair operon is 
+absent in the majority of bacterial species, thereby raising the prospect that
+other RNA repair systems might be extant. A candidate component is RNA
+3'-phosphate cyclase, a widely distributed enzyme that transforms RNA
+3'-monophosphate termini into 2',3'-cyclic phosphates but cannot seal the ends it
+produces. Escherichia coli RNA cyclase (RtcA) is encoded in a σ(54)-regulated
+operon with RtcB, a protein of unknown function. Taking a cue from Pnkp-Hen1, we 
+purified E. coli RtcB and tested it for RNA ligase activity. We report that RtcB 
+per se seals broken tRNA-like stem-loop structures with 2',3'-cyclic phosphate
+and 5'-OH ends to form a splice junction with a 2'-OH, 3',5'-phosphodiester. We
+speculate that: (i) RtcB might afford bacteria a means to recover from
+stress-induced RNA damage; and (ii) RtcB homologs might catalyze tRNA repair or
+splicing reactions in archaea and eukarya.
+
+DOI: 10.1074/jbc.C111.219022 
+PMCID: PMC3048659
+PMID: 21224389  [Indexed for MEDLINE]
+

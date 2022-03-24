@@ -1,0 +1,53 @@
+
+1. Emerg Microbes Infect. 2021 Dec;10(1):2151-2168. doi:
+10.1080/22221751.2021.2000891.
+
+Single-cell analysis of arthritogenic alphavirus-infected human synovial
+fibroblasts links low abundance of viral RNA to induction of innate immunity and 
+arthralgia-associated gene expression.
+
+Pott F(1)(2), Postmus D(1)(2), Brown RJP(3), Wyler E(4), Neumann E(5), Landthaler
+M(4)(6), Goffinet C(1)(2).
+
+Author information: 
+(1)Institute of Virology, Charité - Universitätsmedizin Berlin, corporate member 
+of Freie Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany.
+(2)Berlin Institute of Health at Charité, Universitätsmedizin Berlin, Berlin,
+Germany.
+(3)Division of Veterinary Medicine, Paul Ehrlich Institute, Langen, Germany.
+(4)Max-Delbrück-Center for Molecular Medicine in the Helmholtz Association (MDC),
+Berlin Institute for Medical Systems Biology (BIMSB), Berlin, Germany.
+(5)Internal Medicine and Rheumatology, Justus-Liebig-University Giessen, Bad
+Nauheim, Germany.
+(6)IRI Life Sciences, Institut für Biologie, Humboldt Universität zu Berlin,
+Berlin, Germany.
+
+Infection by (re-)emerging RNA arboviruses including Chikungunya virus (CHIKV)
+and Mayaro virus primarily cause acute febrile disease and transient
+polyarthralgia. However, in a significant subset of infected individuals,
+debilitating arthralgia persists for weeks over months up to years. The
+underlying immunopathogenesis of chronification of arthralgia upon primary
+RNA-viral infection remains unclear. Here, we analysed cell-intrinsic responses
+to ex vivo arthritogenic alphaviral infection of primary human synovial
+fibroblasts isolated from knee joints, one the most affected joint types during
+acute and chronic CHIKV disease. Synovial fibroblasts were susceptible and
+permissive to alphaviral infection. Base-line and exogenously added type I
+interferon (IFN) partially and potently restricted infection, respectively.
+RNA-seq revealed a CHIKV infection-induced transcriptional profile that comprised
+upregulation of expression of several hundred IFN-stimulated and
+arthralgia-mediating genes. Single-cell virus-inclusive RNA-seq uncovered a
+fine-tuned switch from induction to repression of cell-intrinsic immune responses
+depending on the abundance of viral RNA in an individual cell. Specifically,
+responses were most pronounced in cells displaying low-to-intermediate amounts of
+viral RNA and absence of virus-encoded, fluorescent reporter protein expression, 
+arguing for efficient counteraction of innate immunity in cells expressing viral 
+antagonists at sufficient quantities. In summary, cell-intrinsic sensing of viral
+RNA that potentially persists or replicates at low levels in synovial fibroblasts
+and other target cell types in vivo may contribute to the chronic arthralgia
+induced by alphaviral infections. Our findings might advance our understanding of
+the immunopathophysiology of long-term pathogenesis of RNA-viral infections.
+
+DOI: 10.1080/22221751.2021.2000891 
+PMCID: PMC8604527
+PMID: 34723780 
+

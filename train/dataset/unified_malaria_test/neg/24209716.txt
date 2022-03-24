@@ -1,0 +1,55 @@
+
+1. bmc syst biol. 2013 nov 9;7:123. doi: 10.1186/1752-0509-7-123.
+
+kinetic modelling phospholipid synthesis plasmodium knowlesi unravels
+crucial steps relative importance multiple pathways.
+
+sen p(1), vial hj, radulescu o.
+
+author information: 
+(1)dynamique des interactions membranaires normales et pathologiques, umr 5235
+cnrs, um1, um2, cp 107, place eugène bataillon, 34095 montpellier cedex 5,
+france. partho.phd@gmail.com.
+
+background: plasmodium causal parasite malaria, infectious disease
+responsible death one million people year.
+glycerophospholipid consequently membrane biosynthesis essential 
+survival parasite targeted new class antimalarial drugs
+developed lab. order understand highly redundant phospholipid
+synthethic pathways eventual mechanism resistance various drugs, an
+organism specific kinetic model metabolic pathways need developed 
+in plasmodium species.
+results: fluxomic data used build quantitative kinetic model of
+glycerophospholipid pathways plasmodium knowlesi. vitro incorporation
+dynamics phospholipids unravels multiple synthetic pathways. detailed
+metabolic network values kinetic parameters (maximum rates and
+michaelis constants) built. order obtain global search the
+parameter space, designed hybrid, discrete continuous, optimization
+method. discrete parameters used sample cone admissible fluxes,
+whereas continuous michaelis maximum rates constants obtained by
+local minimization objective function.the model used predict the
+distribution fluxes within network various metabolic precursors.the
+quantitative analysis used understand eventual links different
+pathways. major source phosphatidylcholine (pc) cdp-choline kennedy
+pathway.in silico knock-out experiments showed comparable importance of
+phosphoethanolamine-n-methyltransferase (pmt) and
+phosphatidylethanolamine-n-methyltransferase (pemt) pc synthesis.the flux
+values indicate that, major part serine derived phosphatidylethanolamine (pe) 
+is formed via serine decarboxylation, whereas major part phosphatidylserine
+(ps) formed base-exchange reactions.sensitivity analysis cdp-choline
+pathway shows carrier-mediated choline entry parasite the
+phosphocholine cytidylyltransferase reaction largest sensitivity
+coefficients pathway, distinguish reaction unique
+rate-limiting step.
+conclusion: provide fully parametrized kinetic model multiple
+phospholipid synthetic pathways p. knowlesi. model used to
+clarify relative importance various reactions metabolic
+pathways. future work extensions modelling strategy serve to
+elucidate regulatory mechanisms governing development plasmodium
+during blood stages, well mechanisms action drugs membrane
+biosynthetic pathways eventual mechanisms resistance.
+
+doi: 10.1186/1752-0509-7-123 
+pmcid: pmc3829661
+pmid: 24209716  [indexed medline]
+

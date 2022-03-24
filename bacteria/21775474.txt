@@ -1,0 +1,39 @@
+
+1. RNA. 2011 Sep;17(9):1678-87. doi: 10.1261/rna.2592411. Epub 2011 Jul 20.
+
+YrdC exhibits properties expected of a subunit for a tRNA threonylcarbamoyl
+transferase.
+
+Harris KA(1), Jones V, Bilbille Y, Swairjo MA, Agris PF.
+
+Author information: 
+(1)Department of Molecular and Structural Biochemistry, North Carolina State
+University, Raleigh, North Carolina 27695-7622, USA.
+
+The post-transcriptional nucleoside modifications of tRNA's anticodon domain form
+the loop structure and dynamics required for effective and accurate recognition
+of synonymous codons. The N(6)-threonylcarbamoyladenosine modification at
+position 37 (t(6)A(37)), 3'-adjacent to the anticodon, of many tRNA species in
+all organisms ensures the accurate recognition of ANN codons by increasing codon 
+affinity, enhancing ribosome binding, and maintaining the reading frame. However,
+biosynthesis of this complex modification is only partially understood. The
+synthesis requires ATP, free threonine, a single carbon source for the carbamoyl,
+and an enzyme yet to be identified. Recently, the universal protein family
+Sua5/YciO/YrdC was associated with t(6)A(37) biosynthesis. To further investigate
+the role of YrdC in t(6)A(37) biosynthesis, the interaction of the Escherichia
+coli YrdC with a heptadecamer anticodon stem and loop of lysine tRNA
+(ASL(Lys)(UUU)) was examined. YrdC bound the unmodified ASL(Lys)(UUU) with high
+affinity compared with the t(6)A(37)-modified ASL(Lys)(UUU) (K(d) = 0.27 ± 0.20
+μM and 1.36 ± 0.39 μM, respectively). YrdC also demonstrated specificity toward
+the unmodified versus modified anticodon pentamer UUUUA and toward threonine and 
+ATP. The protein did not significantly alter the ASL architecture, nor was it
+able to base flip A(37), as determined by NMR, circular dichroism, and
+fluorescence of 2-aminopuine at position 37. Thus, current data support the
+hypothesis that YrdC, with many of the properties of a putative threonylcarbamoyl
+transferase, most likely functions as a component of a heteromultimeric protein
+complex for t(6)A(37) biosynthesis.
+
+DOI: 10.1261/rna.2592411 
+PMCID: PMC3162333
+PMID: 21775474  [Indexed for MEDLINE]
+

@@ -1,0 +1,60 @@
+
+1. PeerJ. 2021 Oct 18;9:e12329. doi: 10.7717/peerj.12329. eCollection 2021.
+
+Changes in the spike and nucleocapsid protein of porcine epidemic diarrhea virus 
+strain in Vietnam-a molecular potential for the vaccine development?
+
+Tran TX(#)(1), Lien NTK(#)(2), Thu HT(1), Duy ND(1), Duong BTT(1), Quyen
+DV(1)(3).
+
+Author information: 
+(1)Dept of Molecular Microbiology, Institute of Biotechnology, Hanoi, Vietnam.
+(2)Functional of Genomics Lab, Institute of Genome Research, Vietnam Academy of
+Science and Technology, Hanoi, Vietnam.
+(3)University of Science and Technology of Ha Noi, Vietnam Academy of Science and
+Technology, Hanoi, Vietnam.
+(#)Contributed equally
+
+Background: Porcine epidemic diarrhea virus (PEDV) is a dangerous virus causing
+large piglet losses. PEDV spread rapidly between pig farms and caused the death
+of up to 90% of infected piglets. Current vaccines are only partially effective
+in providing immunity to suckling due to the rapid dissemination and ongoing
+evolution of PEDV.
+Methods: In this study, the complete genome of a PEDV strain in Vietnam 2018
+(IBT/VN/2018 strain) has been sequenced. The nucleotide sequence of each fragment
+was assembled to build a continuous complete sequence using the DNASTAR program. 
+The complete nucleotide sequences and amino acid sequences of S, N, and ORF3
+genes were aligned and analyzed to detect the mutations.
+Results: The full-length genome was determined with 28,031 nucleotides in length 
+which consisted of the 5'UTR, ORF1ab, S protein, ORF3, E protein, M protein, N
+protein, and 3'UTR region. The phylogenetic analysis showed that the IBT/VN/2018 
+strain was highly virulent belonged to the G2b subgroup along with the Northern
+American and Asian S-INDEL strains. Multiple sequence alignment of deduced amino 
+acids revealed numerous mutations in the S, N, and ORF3 regions including one
+substitution 766P > L766 in the epitope SS6; two in the S0subdomain (135DN136 >
+135SI136 and N144> D144); two in subdomain SHR1 at aa 1009L > M1009 and 1089S >
+L1089; one at aa 1279P > S1279 in subdomain SHR2 of the S protein; two at aa 364N
+> I364 and 378N > S378 in the N protein; four at aa 25L > S25, 70I > V70, 107C > 
+F107, and 168D > N168 in the ORF3 protein. We identified two insertions (at aa
+59NQGV62 and aa 145N) and one deletion (at aa 168DI169) in S protein. Remarkable,
+eight amino acid substitutions (294I > M294, 318A > S318, 335V > I335, 361A >
+T361, 497R > T497, 501SH502 > 501IY502, 506I > T506, 682V > I682, and 777P >
+L777) were found in SA subdomain. Besides, N- and O-glycosylation analysis of S, 
+N, and ORF3 protein reveals three known sites (25G+, 123N+, and 62V+) and three
+novel sites (144D+, 1009M+, and 1279L+) in the IBT/VN/2018 strain compared with
+the vaccine strains. Taken together, the results showed that mutations in the S, 
+N, and ORF3 genes can affect receptor specificity, viral pathogenicity, and the
+ability to evade the host immune system of the IBT/VN/2018 strain. Our results
+highlight the importance of molecular characterization of field strains of PEDV
+for the development of an effective vaccine to control PEDV infections in
+Vietnam.
+
+©2021 Tran et al.
+
+DOI: 10.7717/peerj.12329 
+PMCID: PMC8530102
+PMID: 34721997 
+
+Conflict of interest statement: The authors declare there are no competing
+interests.
+

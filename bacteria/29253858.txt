@@ -1,0 +1,49 @@
+
+1. PLoS One. 2017 Dec 18;12(12):e0185244. doi: 10.1371/journal.pone.0185244.
+eCollection 2017.
+
+A family-based genome-wide association study of chronic rhinosinusitis with nasal
+polyps implicates several genes in the disease pathogenesis.
+
+Bohman A(1), Juodakis J(2), Oscarsson M(3), Bacelis J(2), Bende M(3), Torinsson
+Naluai Å(4).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Uppsala University Hospital, Uppsala,
+Sweden.
+(2)Department of Obstetrics and Gynecology, Institute of Clinical Sciences,
+Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+(3)Department of Otorhinolaryngology, Skaraborg Hospital, Skövde, Sweden.
+(4)Department of Microbiology and Immunology, Institute of Biomedicine,
+Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+
+BACKGROUND: The pathogenesis of chronic rhinosinusitis with nasal polyps is
+largely unknown. Previous studies have given valuable information about genetic
+variants associated with this disease but much is still unexplained. Our goal was
+to identify genetic markers and genes associated with susceptibility to chronic
+rhinosinusitis with nasal polyps using a family-based genome-wide association
+study.
+METHODS: 427 patients (293 males and 134 females) with CRSwNP and 393 controls
+(175 males and 218 females) were recruited from several Swedish hospitals. SNP
+association values were generated using DFAM (implemented in PLINK) and Efficient
+Mixed Model Association eXpedited (EMMAX). Analyses of pathway enrichment, gene
+expression levels and expression quantitative trait loci were then performed in
+turn.
+RESULTS: None of the analysed SNPs reached genome wide significant association of
+5.0 x 10-8. Pathway analyses using our top 1000 markers with the most significant
+association p-values resulted in 138 target genes. A comparison between our
+target genes and gene expression data from the NCBI Gene Expression Omnibus
+database showed significant overlap for 36 of these genes. Comparisons with data 
+from expression quantitative trait loci showed the most skewed allelic
+distributions in cases with chronic rhinosinusitis with nasal polyps compared
+with controls for the genes HLCS, HLA-DRA, BICD2, VSIR and SLC5A1.
+CONCLUSION: Our study indicates that HLCS, HLA-DRA, BICD2, VSIR and SLC5A1 could 
+be involved in the pathogenesis of chronic rhinosinusitis with nasal polyps.
+HLA-DRA has been associated with chronic rhinosinusitis with nasal polyps in
+previous studies and HLCS, BICD2, VSIR and SLC5A1 may be new targets for future
+research.
+
+DOI: 10.1371/journal.pone.0185244 
+PMCID: PMC5734761
+PMID: 29253858  [Indexed for MEDLINE]
+

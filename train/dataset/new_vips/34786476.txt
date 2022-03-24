@@ -1,0 +1,42 @@
+
+1. Mol Ther Oncolytics. 2021 Oct 20;23:330-341. doi: 10.1016/j.omto.2021.10.006.
+eCollection 2021 Dec 17.
+
+Single-cell RNA sequencing reveals a strong connection between Gadd45g
+upregulation and oncolytic HSV infection in tumor tissue.
+
+Ravirala D(1), Pei G(2), Zhao Z(2)(3), Zhang X(1).
+
+Author information: 
+(1)Center for Nuclear Receptors and Cell Signaling, Department of Biology and
+Biochemistry, University of Houston, Houston, TX 77204, USA.
+(2)Center for Precision Health, School of Biomedical Informatics, The University 
+of Texas Health Science Center at Houston, Houston, TX 77030, USA.
+(3)Human Genetics Center, School of Public Health, The University of Texas Health
+Science Center at Houston, Houston, TX 77030, USA.
+
+The oncolytic effect of virotherapy derives from the intrinsic capability of the 
+applied virus in selectively infecting and killing tumor cells. Although
+oncolytic viruses of various constructions have been shown to efficiently infect 
+and kill tumor cells in vitro, the efficiency of these viruses to exert the same 
+effect on tumor cells within tumor tissues in vivo has not been extensively
+investigated. Here we report our studies using single-cell RNA sequencing to
+comprehensively analyze the gene expression profile of tumor tissues following
+herpes simplex virus 2-based oncolytic virotherapy. Our data revealed the extent 
+and cell types within the tumor microenvironment that could be infected by the
+virus. Moreover, we observed changes in the expression of cellular genes,
+including antiviral genes, in response to viral infection. One notable gene found
+to be upregulated significantly in oncolytic virus-infected tumor cells was
+Gadd45g, which is desirable for optimal virus replication. These results not only
+help reveal the precise infection status of the oncolytic virus in vivo but also 
+provide insight that may lead to the development of new strategies to further
+enhance the therapeutic efficacy of oncolytic virotherapy.
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.omto.2021.10.006 
+PMCID: PMC8573104
+PMID: 34786476 
+
+Conflict of interest statement: X.Z. is a co-founder of Tomahawk Oncology.
+

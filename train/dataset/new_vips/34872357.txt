@@ -1,0 +1,51 @@
+
+1. mBio. 2021 Dec 7:e0325421. doi: 10.1128/mbio.03254-21. [Epub ahead of print]
+
+Plasma Membrane Anchoring and Gag:Gag Multimerization on Viral RNA Are Critical
+Properties of HIV-1 Gag Required To Mediate Efficient Genome Packaging.
+
+Duchon A(1), Santos S(1), Chen J(1), Brown M(1), Nikolaitchik OA(1), Tai S(1),
+Chao JA(2), Freed EO(3), Pathak VK(4), Hu WS(1).
+
+Author information: 
+(1)Viral Recombination Section, HIV Dynamics and Replication Program, National
+Cancer Institutegrid.48336.3a, Frederick, Maryland, USA.
+(2)Friedrich Miescher Institute for Biomedical Research, Basel, Switzerland.
+(3)Virus-Cell Interaction Section, National Cancer Institutegrid.48336.3a,
+Frederick, Maryland, USA.
+(4)Viral Mutation Section, HIV Dynamics and Replication Program, National Cancer 
+Institutegrid.48336.3a, Frederick, Maryland, USA.
+
+Human immunodeficiency virus type 1 (HIV-1) Gag selects and packages the HIV RNA 
+genome during virus assembly. However, HIV-1 RNA constitutes only a small
+fraction of the cellular RNA. Although Gag exhibits a slight preference to viral 
+RNA, most of the cytoplasmic Gag proteins are associated with cellular RNAs.
+Thus, it is not understood how HIV-1 achieves highly efficient genome packaging. 
+We hypothesize that besides RNA binding, other properties of Gag are important
+for genome packaging. Many Gag mutants have assembly defects that preclude
+analysis of their effects on genome packaging. To bypass this challenge, we
+established complementation systems that separate the particle-assembling and
+RNA-binding functions of Gag: we used a set of Gag proteins to drive particle
+assembly and an RNA-binding Gag to package HIV-1 RNA. We have developed two types
+of RNA-binding Gag in which packaging is mediated by the authentic nucleocapsid
+(NC) domain or by a nonviral RNA-binding domain. We found that in both cases,
+mutations that affect the multimerization or plasma membrane anchoring properties
+of Gag reduce or abolish RNA packaging. These mutant Gag can coassemble into
+particles but cannot package the RNA genome efficiently. Our findings indicate
+that HIV-1 RNA packaging occurs at the plasma membrane and RNA-binding Gag needs 
+to multimerize on RNA to encapsidate the viral genome. IMPORTANCE To generate
+infectious virions, HIV-1 must package its full-length RNA as the genome during
+particle assembly. HIV-1 Gag:RNA interactions mediate genome packaging, but the
+mechanism remains unclear. Only a minor portion of the cellular RNA is HIV-1 RNA,
+and most of the RNAs associated with cytoplasmic Gag are cellular RNAs. However, 
+>94% of the HIV-1 virions contain viral RNA genome. We posited that, besides RNA 
+binding, other properties of Gag contribute to genome packaging. Using two
+complementation systems, we examined features of Gag that are important for
+genome packaging. We found that the capacities for Gag to multimerize and to
+anchor at the plasma membrane are critical for genome packaging. Our results
+revealed that Gag needs to multimerize on viral RNA at the plasma membrane in
+order to package RNA genome.
+
+DOI: 10.1128/mbio.03254-21 
+PMID: 34872357 
+

@@ -1,0 +1,50 @@
+
+1. Viruses. 2021 Oct 31;13(11). pii: 2196. doi: 10.3390/v13112196.
+
+Mental Health and Substance Use Associated with Hospitalization among People with
+COVID-19: A Population-Based Cohort Study.
+
+Velásquez García HA(1)(2), Wilton J(1), Smolina K(1)(2), Chong M(1), Rasali
+D(1)(2), Otterstatter M(1)(2), Rose C(1)(2), Prystajecky N(1), David S(1),
+Galanis E(1)(2), McKee G(1), Krajden M(1)(3), Janjua NZ(1)(2)(4).
+
+Author information: 
+(1)British Columbia Centre for Disease Control, Vancouver, BC V5Z 4R4, Canada.
+(2)School of Population and Public Health, University of British Columbia,
+Vancouver, BC V6T 1Z3, Canada.
+(3)Department of Pathology and Laboratory Medicine, University of British
+Columbia, Vancouver, BC V6T 1Z7, Canada.
+(4)Centre for Health Evaluation and Outcome Sciences, St. Paul's Hospital,
+Vancouver, BC V6Z 1Y6, Canada.
+
+This study identified factors associated with hospital admission among people
+with laboratory-diagnosed COVID-19 cases in British Columbia. The study used data
+from the BC COVID-19 Cohort, which integrates data on all COVID-19 cases with
+data on hospitalizations, medical visits, emergency room visits, prescription
+drugs, chronic conditions and deaths. The analysis included all
+laboratory-diagnosed COVID-19 cases in British Columbia to 15 January 2021. We
+evaluated factors associated with hospital admission using multivariable Poisson 
+regression analysis with robust error variance. Of the 56,874 COVID-19 cases
+included in the analysis, 2298 were hospitalized. Factors associated with
+increased hospitalization risk were as follows: male sex (adjusted risk ratio
+(aRR) = 1.27; 95% CI = 1.17-1.37), older age (p-trend < 0.0001 across age groups 
+increasing hospitalization risk with increasing age [aRR 30-39 years = 3.06; 95% 
+CI = 2.32-4.03, to aRR 80+ years = 43.68; 95% CI = 33.41-57.10 compared to 20-29 
+years-old]), asthma (aRR = 1.15; 95% CI = 1.04-1.26), cancer (aRR = 1.19; 95% CI 
+= 1.09-1.29), chronic kidney disease (aRR = 1.32; 95% CI = 1.19-1.47), diabetes
+(treated without insulin aRR = 1.13; 95% CI = 1.03-1.25, requiring insulin aRR = 
+5.05; 95% CI = 4.43-5.76), hypertension (aRR = 1.19; 95% CI = 1.08-1.31),
+injection drug use (aRR = 2.51; 95% CI = 2.14-2.95), intellectual and
+developmental disabilities (aRR = 1.67; 95% CI = 1.05-2.66), problematic alcohol 
+use (aRR = 1.63; 95% CI = 1.43-1.85), immunosuppression (aRR = 1.29; 95% CI =
+1.09-1.53), and schizophrenia and psychotic disorders (aRR = 1.49; 95% CI =
+1.23-1.82). In an analysis restricted to women of reproductive age, pregnancy
+(aRR = 2.69; 95% CI = 1.42-5.07) was associated with increased risk of hospital
+admission. Older age, male sex, substance use, intellectual and developmental
+disability, chronic comorbidities, and pregnancy increase the risk of
+COVID-19-related hospitalization.
+
+DOI: 10.3390/v13112196 
+PMCID: PMC8624346
+PMID: 34835002 
+

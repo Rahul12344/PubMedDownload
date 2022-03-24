@@ -1,0 +1,41 @@
+
+1. Nucleic Acids Res. 2021 Nov 29. pii: gkab1160. doi: 10.1093/nar/gkab1160. [Epub
+ahead of print]
+
+The SARS-CoV-2 RNA polymerase is a viral RNA capping enzyme.
+
+Walker AP(1), Fan H(1), Keown JR(2), Knight ML(1), Grimes JM(2)(3), Fodor E(1).
+
+Author information: 
+(1)Sir William Dunn School of Pathology, University of Oxford, South Parks Road, 
+Oxford OX1 3RE, UK.
+(2)Division of Structural Biology, Wellcome Centre for Human Genetics, University
+of Oxford, Oxford OX3 7BN, UK.
+(3)Diamond Light Source Ltd, Harwell Science & Innovation Campus, Didcot OX11
+0DE, UK.
+
+SARS-CoV-2 is a positive-sense RNA virus responsible for the Coronavirus Disease 
+2019 (COVID-19) pandemic, which continues to cause significant morbidity,
+mortality and economic strain. SARS-CoV-2 can cause severe respiratory disease
+and death in humans, highlighting the need for effective antiviral therapies. The
+RNA synthesis machinery of SARS-CoV-2 is an ideal drug target and consists of
+non-structural protein 12 (nsp12), which is directly responsible for RNA
+synthesis, and numerous co-factors involved in RNA proofreading and 5' capping of
+viral RNAs. The formation of the 5' 7-methylguanosine (m7G) cap structure is
+known to require a guanylyltransferase (GTase) as well as a 5' triphosphatase and
+methyltransferases; however, the mechanism of SARS-CoV-2 RNA capping remains
+poorly understood. Here we find that SARS-CoV-2 nsp12 is involved in viral RNA
+capping as a GTase, carrying out the addition of a GTP nucleotide to the 5' end
+of viral RNA via a 5' to 5' triphosphate linkage. We further show that the nsp12 
+NiRAN (nidovirus RdRp-associated nucleotidyltransferase) domain performs this
+reaction, and can be inhibited by remdesivir triphosphate, the active form of the
+antiviral drug remdesivir. These findings improve understanding of coronavirus
+RNA synthesis and highlight a new target for novel or repurposed antiviral drugs 
+against SARS-CoV-2.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkab1160 
+PMID: 34850141 
+

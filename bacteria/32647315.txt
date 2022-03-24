@@ -1,0 +1,38 @@
+
+1. Sci Rep. 2020 Jul 9;10(1):11305. doi: 10.1038/s41598-020-68419-y.
+
+Enzymatic reaction mechanism of cis-aconitate decarboxylase based on the crystal 
+structure of IRG1 from Bacillus subtilis.
+
+Chun HL(1), Lee SY(1), Lee SH(1), Lee CS(2), Park HH(3).
+
+Author information: 
+(1)College of Pharmacy, Chung-Ang University, Seoul, 06974, Republic of Korea.
+(2)College of Pharmacy and Research Institute of Pharmaceutical Science,
+Gyeongsang National University, Jinju, 52828, Republic of Korea.
+(3)College of Pharmacy, Chung-Ang University, Seoul, 06974, Republic of Korea.
+xrayleox@cau.ac.kr.
+
+Itaconate, which is formed by decarboxylation of cis-aconitate-an intermediate
+metabolite in the tricarboxylic acid cycle-has been used as a building block in
+polymer synthesis and is an important chemical in several biomedical and
+industrial applications. Itaconate is an immunometabolite with antibacterial,
+antiviral, immunoregulatory, and tumor-promoting activities. Recent focus has
+been on the role of itaconate in the field of immunology, with immune-responsive 
+gene 1 (IRG1) being identified as the cis-aconitate decarboxylase responsible for
+itaconate production. We solved the structure of IRG1 from Bacillus subtilis
+(bsIRG1) and showed that IRG1 adopts either a closed or an open conformation;
+bsIRG1 was in the open form. A1 and A2 loops around the active site are flexible 
+and can control the formation of the open and closed forms of IRG1. An in silico 
+docking simulation showed that only the open form of IRG1 can accommodate the
+substrate. The most energetically favorable position of cis-aconitate in the
+active site of bsIRG1 involved the localization of C2 and C5 of cis-aconitate
+into the H102 region and H151 region of bsIRG1, respectively. Based on the
+structural study of bsIRG1, compared with IDS epimerase, and in silico docking
+simulation, we proposed two tentative enzymatic reaction mechanisms of IRG1, a
+two-base model and a one-base model.
+
+DOI: 10.1038/s41598-020-68419-y 
+PMCID: PMC7347537
+PMID: 32647315  [Indexed for MEDLINE]
+

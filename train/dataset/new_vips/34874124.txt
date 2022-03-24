@@ -1,0 +1,44 @@
+
+1. J Extracell Vesicles. 2021 Dec;10(14):e12170. doi: 10.1002/jev2.12170.
+
+Millisecond dynamic of SARS-CoV-2 spike and its interaction with ACE2 receptor
+and small extracellular vesicles.
+
+Lim K(1), Nishide G(2), Yoshida T(1)(3), Watanabe-Nakayama T(1), Kobayashi A(4), 
+Hazawa M(1)(4), Hanayama R(1)(3), Ando T(1), Wong RW(1)(4).
+
+Author information: 
+(1)WPI-Nano Life Science Institute, Kanazawa University, Kanazawa, Ishikawa,
+Japan.
+(2)Division of Nano Life Science in the Graduate School of Frontier Science
+Initiative, WISE Program for Nano-Precision Medicine, Science and Technology,
+Kanazawa University, Kanazawa, Ishikawa, Japan.
+(3)Department of Immunology, Kanazawa University Graduate School of Medical
+Sciences, Kanazawa, Ishikawa, Japan.
+(4)Cell-Bionomics Research Unit, Institute for Frontier Science Initiative
+(INFINITI), Kanazawa University, Kanazawa, Ishikawa, Japan.
+
+SARS-CoV-2 spike protein (S) binds to human angiotensin-converting enzyme 2
+(hACE2), allowing virus to dock on cell membrane follow by viral entry. Here, we 
+use high-speed atomic force microscopy (HS-AFM) for real-time visualization of S,
+and its interaction with hACE2 and small extracellular vesicles (sEVs). Results
+show conformational heterogeneity of S, flexibility of S stalk and
+receptor-binding domain (RBD), and pH/temperature-induced conformational change
+of S. S in an S-ACE2 complex appears as an all-RBD up conformation. The complex
+acquires a distinct topology upon acidification. S and S2 subunit demonstrate
+different membrane docking mechanisms on sEVs. S-hACE2 interaction facilitates S 
+to dock on sEVs, implying the feasibility of ACE2-expressing sEVs for viral
+neutralization. In contrary, S2 subunit docks on lipid layer and enters sEV using
+its fusion peptide, mimicking the viral entry scenario. Altogether, our study
+provides a platform that is suitable for real-time visualization of various entry
+inhibitors, neutralizing antibodies, and sEV-based decoy in blocking viral entry.
+Teaser: Comprehensive observation of SARS-CoV-2 spike and its interaction with
+receptor ACE2 and sEV-based decoy in real time using HS-AFM.
+
+© 2021 The Authors. Journal of Extracellular Vesicles published by Wiley
+Periodicals, LLC on behalf of the International Society for Extracellular
+Vesicles.
+
+DOI: 10.1002/jev2.12170 
+PMID: 34874124 
+

@@ -1,0 +1,31 @@
+
+1. J Comput Biol. 2021 Nov;28(11):1130-1141. doi: 10.1089/cmb.2021.0306. Epub 2021
+Oct 25.
+
+Scalable Reconstruction of SARS-CoV-2 Phylogeny with Recurrent Mutations.
+
+Novikov D(1), Knyazev S(1), Grinshpon M(2), Icer P(1), Skums P(1), Zelikovsky
+A(1)(3).
+
+Author information: 
+(1)Department of Computer Science and Georgia State University, Atlanta, Georgia,
+USA.
+(2)Department of Mathematics and Statistics, Georgia State University, Atlanta,
+Georgia, USA.
+(3)World-Class Research Center, "Digital Biodesign and Personalized Healthcare," 
+I.M. Sechenov, First Moscow State Medical University, Moscow, Russia.
+
+This article presents a novel scalable character-based phylogeny algorithm for
+dense viral sequencing data called SPHERE (Scalable PHylogEny with REcurrent
+mutations). The algorithm is based on an evolutionary model where recurrent
+mutations are allowed, but backward mutations are prohibited. The algorithm
+creates rooted character-based phylogeny trees, wherein all leaves and internal
+nodes are labeled by observed taxa. We show that SPHERE phylogeny is more stable 
+than Nextstrain's, and that it accurately infers known transmission links from
+the early pandemic. SPHERE is a fast algorithm that can process >200,000
+sequences in <2 hours, which offers a compact phylogenetic visualization of
+Global Initiative on Sharing All Influenza Data (GISAID).
+
+DOI: 10.1089/cmb.2021.0306 
+PMID: 34698524  [Indexed for MEDLINE]
+

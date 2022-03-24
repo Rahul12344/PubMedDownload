@@ -1,0 +1,39 @@
+
+1. Protein Sci. 2005 Nov;14(11):2849-61.
+
+Solution structure of Archaeglobus fulgidis peptidyl-tRNA hydrolase (Pth2)
+provides evidence for an extensive conserved family of Pth2 enzymes in archea,
+bacteria, and eukaryotes.
+
+Powers R(1), Mirkovic N, Goldsmith-Fischman S, Acton TB, Chiang Y, Huang YJ, Ma
+L, Rajan PK, Cort JR, Kennedy MA, Liu J, Rost B, Honig B, Murray D, Montelione
+GT.
+
+Author information: 
+(1)Department of Chemistry, University of Nebraska-Lincoln, Lincoln, NE 68588,
+USA. rpowers3@unl.edu
+
+The solution structure of protein AF2095 from the thermophilic archaea
+Archaeglobus fulgidis, a 123-residue (13.6-kDa) protein, has been determined by
+NMR methods. The structure of AF2095 is comprised of four alpha-helices and a
+mixed beta-sheet consisting of four parallel and anti-parallel beta-strands,
+where the alpha-helices sandwich the beta-sheet. Sequence and structural
+comparison of AF2095 with proteins from Homo sapiens, Methanocaldococcus
+jannaschii, and Sulfolobus solfataricus reveals that AF2095 is a peptidyl-tRNA
+hydrolase (Pth2). This structural comparison also identifies putative catalytic
+residues and a tRNA interaction region for AF2095. The structure of AF2095 is
+also similar to the structure of protein TA0108 from archaea Thermoplasma
+acidophilum, which is deposited in the Protein Data Bank but not functionally
+annotated. The NMR structure of AF2095 has been further leveraged to obtain
+good-quality structural models for 55 other proteins. Although earlier studies
+have proposed that the Pth2 protein family is restricted to archeal and
+eukaryotic organisms, the similarity of the AF2095 structure to human Pth2, the
+conservation of key active-site residues, and the good quality of the resulting
+homology models demonstrate a large family of homologous Pth2 proteins that are
+conserved in eukaryotic, archaeal, and bacterial organisms, providing novel
+insights in the evolution of the Pth and Pth2 enzyme families.
+
+DOI: 10.1110/ps.051666705 
+PMCID: PMC2253226
+PMID: 16251366  [Indexed for MEDLINE]
+

@@ -1,0 +1,56 @@
+
+1. Biomedicines. 2021 Oct 11;9(10). pii: 1446. doi: 10.3390/biomedicines9101446.
+
+The Persistence of Hepatitis C Virus Infection in Hepatocytes Promotes
+Hepatocellular Carcinoma Progression by Pro-Inflammatory Interluekin-8
+Expression.
+
+Shabangu CS(1)(2), Siphepho PY(3), Li CY(1), Cheng WC(4), Lu MY(1), Huang
+CF(5)(6)(7), Yeh ML(5)(6)(7), Dai CY(5)(6), Huang JF(2)(5)(6), Chuang
+WL(5)(6)(7), Lin ZY(5), Yu ML(2)(5)(6)(7), Wang SC(1)(2)(8)(9).
+
+Author information: 
+(1)Graduate Institute of Medicine, Kaohsiung Medical University, Kaohsiung 80708,
+Taiwan.
+(2)Center for Cancer Research, Center for Liquid Biopsy and Cohort Research,
+Kaohsiung Medical University, Kaohsiung 80708, Taiwan.
+(3)Program in Tropical Medicine, Graduate Institute of Medicine, Kaohsiung
+Medical University, Kaohsiung 80708, Taiwan.
+(4)Research Center for Cancer Biology, Graduate Institute of Biomedical Science, 
+China Medical University, Taichung 406040, Taiwan.
+(5)Hepatobiliary Division, Department of Internal Medicine, Kaohsiung Medical
+University Hospital, Kaohsiung Medical University, Kaohsiung 80708, Taiwan.
+(6)Faculty of Internal Medicine, School of Medicine, College of Medicine,
+Kaohsiung Medical University, Kaohsiung 80708, Taiwan.
+(7)Hepatitis Research Center, Kaohsiung Medical University, Kaohsiung 80708,
+Taiwan.
+(8)Department of Medical Laboratory Science and Biotechnology, Kaohsiung Medical 
+University, Kaohsiung 80708, Taiwan.
+(9)Department of Medical Research, Kaohsiung Medical University Hospital,
+Kaohsiung 80756, Taiwan.
+
+BACKGROUND: A large amount of epidemiological evidence indicates that persistent 
+HCV infection is the main risk factor for HCC. We aimed to study the effects of
+persistent HCV infection on the interaction of the virus and host cell to
+identify cancer gene profiles.
+METHODS: Next-generation sequencing (NGS) was used to identify differentially
+expressed genes between uninfected Huh7.5.1 control cells, short-term HCV
+(S-HCV), early long-term HCV (eL-HCV), and long-term HCV (L-HCV) infections,
+which were analyzed using different dynamic bioinformatics and analytic tools.
+mRNA expression was validated and quantified using q-PCR. One hundred ninety-six 
+serum samples of HCV patients with IFN/RBV treatment were used to study chemokine
+levels.
+RESULTS: S-HCV activates an inflammatory response and drives cell death and
+apoptosis through cell cycle arrest via MAPK signaling. L-HCV promotes cell
+growth and alters cell adhesion and chemokine signaling via CXCL8-mediated-SRC
+regulation. A total of 196 serum samples from the HCV and HCV-HCC cohorts
+demonstrated significantly upregulated pro-inflammatory CXCL8 in non-SVR
+(persistent HCV infection) patients in the HCV-HCC group.
+CONCLUSIONS: Persistent infection with HCV induced pro-inflammatory CXCL8 and the
+oncogene SRC, thereby triggering and promoting hepatocarcinogenesis. CXCL8 may be
+a potential biomarker for monitoring HCV-related HCC progression.
+
+DOI: 10.3390/biomedicines9101446 
+PMCID: PMC8533125
+PMID: 34680563 
+

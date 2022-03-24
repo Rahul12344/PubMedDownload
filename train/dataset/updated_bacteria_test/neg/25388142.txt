@@ -1,0 +1,48 @@
+
+1. Heredity (Edinb). 2015 Mar;114(3):318-26. doi: 10.1038/hdy.2014.104. Epub 2014
+Nov 12.
+
+Potential and limits to unravel the genetic architecture and predict the
+variation of Fusarium head blight resistance in European winter wheat (Triticum
+aestivum L.).
+
+Jiang Y(1), Zhao Y(1), Rodemann B(2), Plieske J(3), Kollers S(4), Korzun V(4),
+Ebmeyer E(4), Argillier O(5), Hinze M(6), Ling J(1), Röder MS(1), Ganal MW(3),
+Mette MF(1), Reif JC(1).
+
+Author information: 
+(1)Department of Cytogenetics and Genome Analysis, Leibniz Institute of Plant
+Genetics and Crop Plant Research (IPK), Gatersleben, Germany.
+(2)Julius Kühn Institute, Braunschweig, Germany.
+(3)TraitGenetics GmbH, Gatersleben, Germany.
+(4)KWS Lochow GmbH, Bergen, Germany.
+(5)Syngenta Seeds S.A.S., Orgerus, France.
+(6)Syngenta Seeds GmbH, Bad Salzuflen, Germany.
+
+Genome-wide mapping approaches in diverse populations are powerful tools to
+unravel the genetic architecture of complex traits. The main goals of our study
+were to investigate the potential and limits to unravel the genetic architecture 
+and to identify the factors determining the accuracy of prediction of the
+genotypic variation of Fusarium head blight (FHB) resistance in wheat (Triticum
+aestivum L.) based on data collected with a diverse panel of 372 European
+varieties. The wheat lines were phenotyped in multi-location field trials for FHB
+resistance and genotyped with 782 simple sequence repeat (SSR) markers, and 9k
+and 90k single-nucleotide polymorphism (SNP) arrays. We applied genome-wide
+association mapping in combination with fivefold cross-validations and observed
+surprisingly high accuracies of prediction for marker-assisted selection based on
+the detected quantitative trait loci (QTLs). Using a random sample of markers not
+selected for marker-trait associations revealed only a slight decrease in
+prediction accuracy compared with marker-based selection exploiting the QTL
+information. The same picture was confirmed in a simulation study, suggesting
+that relatedness is a main driver of the accuracy of prediction in
+marker-assisted selection of FHB resistance. When the accuracy of prediction of
+three genomic selection models was contrasted for the three marker data sets, no 
+significant differences in accuracies among marker platforms and genomic
+selection models were observed. Marker density impacted the accuracy of
+prediction only marginally. Consequently, genomic selection of FHB resistance can
+be implemented most cost-efficiently based on low- to medium-density SNP arrays.
+
+DOI: 10.1038/hdy.2014.104 
+PMCID: PMC4815577
+PMID: 25388142  [Indexed for MEDLINE]
+

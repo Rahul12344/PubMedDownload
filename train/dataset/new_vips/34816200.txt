@@ -1,0 +1,58 @@
+
+1. Front Glob Womens Health. 2021 Apr 13;2:647072. doi: 10.3389/fgwh.2021.647072.
+eCollection 2021.
+
+Laboratory Effects of COVID-19 Infection in Pregnant Women and Their Newborns: A 
+Systematic Review and Meta-Analysis.
+
+Zhang C(1), Chu H(1), Pei YV(2), Zhang J(1).
+
+Author information: 
+(1)Division of Biostatistics, University of Minnesota, Minneapolis, MN, United
+States.
+(2)Department of Emergency Medicine, University of Maryland, Baltimore, MD,
+United States.
+
+Amidst the COVID-19 pandemic, there is a need for further research on its
+manifestation in pregnant women, since they are particularly prone to respiratory
+pathogens, like severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), due
+to physiological changes during pregnancy. Its effects on infants born to mothers
+with COVID-19 are also not well-studied, and more evidence is needed on vertical 
+transmission of the disease from mother to infant and on the transmission of
+IgG/IgM antibodies between mother and infant. We aim to systematically review and
+evaluate the effects of COVID-19 among SARS-CoV-2-positive pregnant women in late
+pregnancy and neonates with SARS-CoV-2-positive pregnant mothers using blood
+assays to find indicators of maternal and neonatal complications. We searched for
+original published articles in Google Scholar, Medline (PubMed), and Embase
+databases to identify articles in the English language from December 2019 to July
+20, 2020. Duplicate entries were searched by their titles, authors, date of
+publication, and Digital Object Identifier. The selected studies were included
+based on patient pregnancy on admission, pregnant mothers with
+laboratory-confirmed COVID-19 virus, maternal/neonatal complications, and blood
+test results. We excluded duplicate studies, articles where full text was not
+available, other languages than English, opinions, and perspectives. The
+meta-analysis using the Generalized Linear Mixed model was conducted using the
+"meta" and "metaprop" packages in R code. Of the 1,642 studies assessed for
+eligibility, 29 studies (375 mothers and neonates) were included. Preterm birth
+rate was 34.2%, and cesarean section rate was 82.7%. Maternal laboratory findings
+found elevated neutrophils (71.4%; 95% CI: 38.5-90.9), elevated CRP (67.7%; 95%: 
+50.6-81.1), and low hemoglobin (57.3%; 95% CI: 26.0-87.8). We found platelet
+count, lactate dehydrogenase, and procalcitonin to be less strongly correlated
+with preterm birth than between high neutrophil counts (P = 0.0007), low
+hemoglobin (P = 0.0188), and risk of preterm birth. There is little evidence for 
+vertical transmission. Elevated procalcitonin levels (23.2%; 95% CI: 8.4-49.8)
+are observed in infants born to mothers with COVID-19, which could indicate risk 
+for neonatal sepsis. These infants may gain passive immunity to COVID-19 through 
+antibody transfer via placenta. These results can guide current obstetrical care 
+during the current SARS-CoV-2 pandemic.
+
+Copyright © 2021 Zhang, Chu, Pei and Zhang.
+
+DOI: 10.3389/fgwh.2021.647072 
+PMCID: PMC8594029
+PMID: 34816200 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

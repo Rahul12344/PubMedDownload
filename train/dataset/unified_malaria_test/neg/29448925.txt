@@ -1,0 +1,51 @@
+
+1. malar j. 2018 feb 15;17(1):80. doi: 10.1186/s12936-018-2203-y.
+
+insecticide resistance evolution mixtures sequences: model-based
+explanation.
+
+south a(1), hastings im(2).
+
+author information: 
+(1)department parasitology, liverpool school tropical medicine, liverpool, 
+l3 5qa, uk. southandy@gmail.com.
+(2)department parasitology, liverpool school tropical medicine, liverpool, 
+l3 5qa, uk.
+
+background: insecticide resistance threatens effective vector control, especially
+for mosquitoes malaria. manage resistance, recommended insecticide use
+strategies include mixtures, sequences rotations. new insecticides 
+developed opportunity develop use strategies limit the
+evolution resistance short term. 2013 review modelling and
+empirical studies resistance points advantages mixtures. however,
+there limited recent, accessible modelling work addressing evolution of
+resistance different operational strategies. opportunity to
+improve level mechanistic understanding within operational community
+of insecticide resistance expected evolve response different 
+strategies. paper provides concise, accessible description flexible
+model evolution insecticide resistance. model used develop 
+mechanistic picture evolution insecticide resistance is
+likely respond potential insecticide use strategies. aim reach an
+audience unlikely read detailed modelling paper. model itself, as
+described here, represents two independent genes coding resistance two
+insecticides. allows representation use insecticides in
+isolation, sequence mixtures.
+results: model used demonstrate evolution resistance under
+different scenarios fits intuitive reasoning selection
+pressure. using insecticide mixture, relative alone, always prompts
+slower evolution resistance insecticide. however, resistance to
+both insecticides considered, resistance thresholds may reached later a
+sequence relative mixture. increasing ability insecticides kill
+susceptible mosquitoes (effectiveness), influence favouring a
+mixture sequence one highly effective insecticide provides more
+protection another mixture.
+conclusions: model offers accessible description process of
+insecticide resistance evolution likely respond insecticide
+use. simple online user-interface allowing exploration also
+provided. tools contribute improved discussion operational 
+decisions insecticide resistance management.
+
+doi: 10.1186/s12936-018-2203-y 
+pmcid: pmc5815191
+pmid: 29448925  [indexed medline]
+

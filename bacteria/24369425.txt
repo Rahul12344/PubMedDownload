@@ -1,0 +1,44 @@
+
+1. Nucleic Acids Res. 2014 Mar;42(5):e37. doi: 10.1093/nar/gkt1339. Epub 2013 Dec
+24.
+
+Improved seamless mutagenesis by recombineering using ccdB for counterselection.
+
+Wang H(1), Bian X, Xia L, Ding X, Müller R, Zhang Y, Fu J, Stewart AF.
+
+Author information: 
+(1)Hunan Provincial Key Laboratory for Microbial Molecular Biology-State Key
+Laboratory Breeding Base of Microbial Molecular Biology, College of Life Science,
+Hunan Normal University, 410081 Changsha, People's Republic of China, Department 
+of Genomics, Dresden University of Technology, BioInnovations-Zentrum, Tatzberg
+47-51, 01307 Dresden, Germany, Shandong University-Helmholtz Joint Institute of
+Biotechnology, State Key Laboratory of Microbial Technology, Shandong University,
+Shanda Nanlu 27, 250100 Jinan, People's Republic of China, Helmholtz Institute
+for Pharmaceutical Research, Helmholtz Centre for Infection Research and
+Department of Pharmaceutical Biotechnology, Saarland University, PO Box 151150,
+66041 Saarbrücken, Germany and Gene Bridges GmbH, Building C2.3, Saarland
+University, 66123 Saarbrücken, Germany.
+
+Recombineering, which is the use of homologous recombination for DNA engineering 
+in Escherichia coli, usually uses antibiotic selection to identify the intended
+recombinant. When combined in a second step with counterselection using a small
+molecule toxin, seamless products can be obtained. Here, we report the advantages
+of a genetic strategy using CcdB as the counterselectable agent. Expression of
+CcdB is toxic to E. coli in the absence of the CcdA antidote so counterselection 
+is initiated by the removal of CcdA expression. CcdB counterselection is robust
+and does not require titrations or experiment-to-experiment optimization. Because
+counterselection strategies necessarily differ according to the copy number of
+the target, we describe two variations. For multi-copy targets, we use two E.
+coli hosts so that counterselection is exerted by the transformation step that is
+needed to separate the recombined and unrecombined plasmids. For single copy
+targets, we put the ccdA gene onto the temperature-sensitive pSC101 Red
+expression plasmid so that counterselection is exerted by the standard
+temperature shift to remove the expression plasmid. To reduce unwanted
+intramolecular recombination, we also combined CcdB counterselection with Redα
+omission. These options improve the use of counterselection in recombineering
+with BACs, plasmids and the E. coli chromosome.
+
+DOI: 10.1093/nar/gkt1339 
+PMCID: PMC3950717
+PMID: 24369425  [Indexed for MEDLINE]
+

@@ -1,0 +1,35 @@
+
+1. bioRxiv. 2021 Nov 22. pii: 2021.11.19.469183. doi: 10.1101/2021.11.19.469183.
+
+Self-assembling short immunostimulatory duplex RNAs with broad spectrum antiviral
+activity.
+
+Si L, Bai H, Oh CY, Zhang T, Hong F, Jiang A, Ye Y, Jordan TX, Logue J, McGrath
+M, Belgur C, Nurani A, Cao W, Prantil-Baun R, Gygi SP, Powers RK, Frieman M,
+tenOever BR, Ingber DE.
+
+The current COVID-19 pandemic highlights the need for broad-spectrum antiviral
+therapeutics. Here we describe a new class of self-assembling immunostimulatory
+short duplex RNAs that potently induce production of type I and type III
+interferon (IFN-I and IFN-III), in a wide range of human cell types. These RNAs
+require a minimum of 20 base pairs, lack any sequence or structural
+characteristics of known immunostimulatory RNAs, and instead require a unique
+conserved sequence motif (sense strand: 5'-C, antisense strand: 3'-GGG) that
+mediates end-to-end dimer self-assembly of these RNAs by Hoogsteen G-G
+base-pairing. The presence of terminal hydroxyl or monophosphate groups, blunt or
+overhanging ends, or terminal RNA or DNA bases did not affect their ability to
+induce IFN. Unlike previously described immunostimulatory siRNAs, their activity 
+is independent of TLR7/8, but requires the RIG-I/IRF3 pathway that induces a more
+restricted antiviral response with a lower proinflammatory signature compared
+with poly(I:C). Immune stimulation mediated by these duplex RNAs results in broad
+spectrum inhibition of infections by many respiratory viruses with pandemic
+potential, including SARS-CoV-2, SARS-CoV, MERS-CoV, and influenza A, as well as 
+the common cold virus HCoV-NL63 in both cell lines and human Lung Chips that
+mimic organ-level lung pathophysiology. These short dsRNAs can be manufactured
+easily, and thus potentially could be harnessed to produce broad-spectrum
+antiviral therapeutics at low cost.
+
+DOI: 10.1101/2021.11.19.469183 
+PMCID: PMC8629196
+PMID: 34845453 
+

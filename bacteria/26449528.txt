@@ -1,0 +1,45 @@
+
+1. Sci Rep. 2015 Oct 9;5:15014. doi: 10.1038/srep15014.
+
+Directed Differentiation of Embryonic Stem Cells Into Cardiomyocytes by Bacterial
+Injection of Defined Transcription Factors.
+
+Bai F(1)(2), Ho Lim C(3), Jia J(1)(2), Santostefano K(3), Simmons C(4), Kasahara 
+H(5), Wu W(1), Terada N(3), Jin S(1)(2).
+
+Author information: 
+(1)State Key Laboratory of Medicinal Chemical Biology and Colleges of Pharmacy
+and Life Sciences, Nankai University, Tianjin, China.
+(2)Department of Molecular Genetics and Microbiology College of Medicine,
+University of Florida, Gainesville, FL 32610.
+(3)Department of Pathology College of Medicine, University of Florida,
+Gainesville, FL 32610.
+(4)Department of Mechanical &Aerospace Engineering College of Engineering,
+University of Florida, Gainesville, FL 32611.
+(5)Department of Physiology and Functional Genomics, University of Florida,
+College of Medicine, Gainesville, Florida, United States of America.
+
+Forced expression of defined transcriptional factors has been well documented as 
+an effective method for cellular reprogramming or directed differentiation.
+However, transgene expression is not amenable for therapeutic application due to 
+potential insertional mutagenesis. Here, we have developed a bacterial type III
+secretion system (T3SS)-based protein delivery tool and shown its application in 
+directing pluripotent stem cell differentiation by a controlled delivery of
+transcription factors relevant to early heart development. By fusing to an
+N-terminal secretion sequence for T3SS-dependent injection, three transcriptional
+factors, namely Gata4, Mef2c, and Tbx5 (abbreviated as GMT), were translocated
+into murine embryonic stem cells (ESCs), where the proteins are effectively
+targeted to the nucleus with an average intracellular half-life of 5.5 hours.
+Exogenous GMT protein injection activated the cardiac program, and multiple
+rounds of GMT protein delivery significantly improved the efficiency of ESC
+differentiation into cardiomyocytes. Combination of T3SS-mediated GMT delivery
+and Activin A treatment showed an additive effect, resulting in on average 60% of
+the ESCs differentiated into cardiomyocytes. ESC derived cardiomyocytes displayed
+spontaneous rhythmic contractile movement as well as normal hormonal responses.
+This work serves as a foundation for the bacterial delivery of multiple
+transcription factors to direct cell fate without jeopardizing genomic integrity.
+
+DOI: 10.1038/srep15014 
+PMCID: PMC4598736
+PMID: 26449528  [Indexed for MEDLINE]
+

@@ -1,0 +1,32 @@
+
+1. math biosci eng. 2012 apr;9(2):369-92. doi: 10.3934/mbe.2012.9.369.
+
+optimal control chikungunya disease: larvae reduction, treatment and
+prevention.
+
+moulay d(1), aziz-alaoui ma, kwon hd.
+
+author information: 
+(1)lmah, universite du havre, le havre cedex, france.
+djamila.moulay@univ-lehavre.fr
+
+since 1980s, worldwide re-emergence vector-borne diseases
+including malaria, dengue, yellow fever or, recently, chikungunya. these
+viruses arthropod-borne viruses (arboviruses) transmitted arthropods like 
+mosquitoes aedes genus. nature arboviruses complex since it
+conjugates human, environmental, biological geographical factors. recent
+researchs suggested, particular reunion island epidemic in
+2006, transmission aedes albopictus (an aedes genus specie) 
+facilitated genetic mutations virus vector capacity adapt to
+non tropical regions. paper formulate optimal control problem,
+based biological observations. three main efforts considered order to
+limit virus transmission. indeed, vaccine specific treatment 
+against chikungunya, main measures limit impact such
+epidemic considered. therefore, look time dependent breeding
+sites destruction, prevention treatment efforts, optimal control
+theory applied. using analytical numerical techniques, shown that
+there exist cost effective control efforts.
+
+doi: 10.3934/mbe.2012.9.369 
+pmid: 22901069  [indexed medline]
+

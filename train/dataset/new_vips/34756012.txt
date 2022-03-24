@@ -1,0 +1,45 @@
+
+1. Acc Chem Res. 2021 Dec 7;54(23):4272-4282. doi: 10.1021/acs.accounts.1c00541.
+Epub 2021 Nov 10.
+
+Therapeutic mRNA Engineering from Head to Tail.
+
+Jia L(1), Qian SB(1).
+
+Author information: 
+(1)Division of Nutritional Sciences, Cornell University, Ithaca, New York 14853, 
+United States.
+
+ConspectusSynthetic messenger RNA (mRNA), once delivered into cells, can be
+readily translated into proteins by ribosomes, which do not distinguish exogenous
+mRNAs from endogenous transcripts. Until recently, the intrinsic instability and 
+immunostimulatory property of exogenous RNAs largely hindered the therapeutic
+application of synthetic mRNAs. Thanks to major technological innovations, such
+as introduction of chemically modified nucleosides, synthetic mRNAs have become
+programmable therapeutic reagents. Compared to DNA or protein-based therapeutic
+reagents, synthetic mRNAs bear several advantages: flexible design, easy
+optimization, low-cost preparation, and scalable synthesis. Therapeutic mRNAs are
+commonly designed to encode specific antigens to elicit organismal immune
+response to pathogens like viruses, express functional proteins to replace
+defective ones inside cells, or introduce novel enzymes to achieve unique
+functions like genome editing. Recent years have witnessed stunning progress on
+the development of mRNA vaccines against SARS-Cov2. This success is built upon
+our fundamental understanding of mRNA metabolism and translational control, a
+knowledge accumulated during the past several decades. Given the astronomical
+number of sequence combinations of four nucleotides, sequence-dependent control
+of mRNA translation remains incompletely understood. Rational design of synthetic
+mRNAs with robust translation and optimal stability remains challenging.
+Massively paralleled reporter assay (MPRA) has been proven to be powerful in
+identifying sequence elements in controlling mRNA translatability and stability. 
+Indeed, a completely randomized sequence in 5' untranslated region (5'UTR) drives
+a wide range of translational outputs. In this Account, we will discuss general
+principles of mRNA translation in eukaryotic cells and elucidate the role of
+coding and noncoding regions in the translational regulation. From the
+therapeutic perspective, we will highlight the unique features of 5' cap, 5'UTR, 
+coding region (CDS), stop codon, 3'UTR, and poly(A) tail. By focusing on the
+design strategies in mRNA engineering, we hope this Account will contribute to
+the rational design of synthetic mRNAs with broad therapeutic potential.
+
+DOI: 10.1021/acs.accounts.1c00541 
+PMID: 34756012 
+

@@ -1,0 +1,48 @@
+
+1. bioRxiv. 2021 Nov 15. pii: 2021.11.12.468428. doi: 10.1101/2021.11.12.468428.
+
+#COVIDisAirborne: AI-Enabled Multiscale Computational Microscopy of Delta
+SARS-CoV-2 in a Respiratory Aerosol.
+
+Dommer A, Casalino L, Kearns F, Rosenfeld M, Wauer N, Ahn SH, Russo J, Oliveira
+S, Morris C, Bogetti A, Trifan A, Brace A, Sztain T, Clyde A, Ma H, Chennubhotla 
+C, Lee H, Turilli M, Khalid S, Tamayo-Mendoza T, Welborn M, Christensen A, Smith 
+DGA, Qiao Z, Sirumalla SK, O'Connor M, Manby F, Anandkumar A, Hardy D, Phillips
+J, Stern A, Romero J, Clark D, Dorrell M, Maiden T, Huang L, McCalpin J, Woods C,
+Gray A, Williams M, Barker B, Rajapaksha H, Pitts R, Gibbs T, Stone J, Zuckerman 
+D, Mulholland A, Miller T, Jha S, Ramanathan A, Chong L, Amaro R.
+
+We seek to completely revise current models of airborne transmission of
+respiratory viruses by providing never-before-seen atomic-level views of the
+SARS-CoV-2 virus within a respiratory aerosol. Our work dramatically extends the 
+capabilities of multiscale computational microscopy to address the significant
+gaps that exist in current experimental methods, which are limited in their
+ability to interrogate aerosols at the atomic/molecular level and thus ob-scure
+our understanding of airborne transmission. We demonstrate how our integrated
+data-driven platform provides a new way of exploring the composition, structure, 
+and dynamics of aerosols and aerosolized viruses, while driving simulation method
+development along several important axes. We present a series of initial
+scientific discoveries for the SARS-CoV-2 Delta variant, noting that the full
+scientific impact of this work has yet to be realized.ACM Reference Format:
+Abigail Dommer 1† , Lorenzo Casalino 1† , Fiona Kearns 1† , Mia Rosenfeld 1 ,
+Nicholas Wauer 1 , Surl-Hee Ahn 1 , John Russo, 2 Sofia Oliveira 3 , Clare Morris
+1 , AnthonyBogetti 4 , AndaTrifan 5,6 , Alexander Brace 5,7 , TerraSztain 1,8 ,
+Austin Clyde 5,7 , Heng Ma 5 , Chakra Chennubhotla 4 , Hyungro Lee 9 , Matteo
+Turilli 9 , Syma Khalid 10 , Teresa Tamayo-Mendoza 11 , Matthew Welborn 11 ,
+Anders Christensen 11 , Daniel G. A. Smith 11 , Zhuoran Qiao 12 , Sai Krishna
+Sirumalla 11 , Michael O'Connor 11 , Frederick Manby 11 , Anima Anandkumar 12,13 
+, David Hardy 6 , James Phillips 6 , Abraham Stern 13 , Josh Romero 13 , David
+Clark 13 , Mitchell Dorrell 14 , Tom Maiden 14 , Lei Huang 15 , John McCalpin 15 
+, Christo- pherWoods 3 , Alan Gray 13 , MattWilliams 3 , Bryan Barker 16 ,
+HarindaRajapaksha 16 , Richard Pitts 16 , Tom Gibbs 13 , John Stone 6 , Daniel
+Zuckerman 2 *, Adrian Mulholland 3 *, Thomas MillerIII 11,12 *, ShantenuJha 9 *, 
+Arvind Ramanathan 5 *, Lillian Chong 4 *, Rommie Amaro 1 *. 2021.
+#COVIDisAirborne: AI-Enabled Multiscale Computational Microscopy
+ofDeltaSARS-CoV-2 in a Respiratory Aerosol. In Supercomputing '21: International 
+Conference for High Perfor-mance Computing, Networking, Storage, and Analysis .
+ACM, New York, NY, USA, 14 pages. https://doi.org/finalDOI.
+
+DOI: 10.1101/2021.11.12.468428 
+PMCID: PMC8609898
+PMID: 34816263 
+

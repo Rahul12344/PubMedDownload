@@ -1,0 +1,46 @@
+
+1. Med Decis Making. 2021 Nov 5:272989X211053563. doi: 10.1177/0272989X211053563.
+[Epub ahead of print]
+
+A Game Theoretic Analysis of Competition Between Vaccine and Drug Companies
+during Disease Contraction and Recovery.
+
+Hausken K(1), Ncube M(2).
+
+Author information: 
+(1)Faculty of Science and Technology, University of Stavanger, Stavanger, Norway.
+(2)Said Business School, University of Oxford, Oxford, UK.
+
+BACKGROUND: Infectious diseases such as COVID-19 and HIV/AIDS are behaviorally
+challenging for persons, vaccine and drug companies, and donors.
+METHODS: In 3 linked games in which a disease may or may not be contracted, N
+persons choose risky or safe behavior (game 1). Two vaccine companies (game 2)
+and 2 drug companies (game 3) choose whether to develop vaccines and drugs. Each 
+person chooses whether to buy 1 vaccine (if no disease contraction) or 1 drug (if
+disease contraction). A donor subsidizes vaccine and drug developments and
+purchases. Nature probabilistically chooses disease contraction, recovery versus 
+death with and without each drug, and whether vaccines and drugs are developed
+successfully. COVID-19 data are used for parameter estimation.
+RESULTS: Each person chooses risky behavior if its utility outweighs safe
+behavior, accounting for nature's probability of disease contraction which
+depends on how many are vaccinated. Each person buys a vaccine or drug if the
+companies produce them and if their utilities (accounting for side effects and
+virus mutation) outweigh the costs, which may be subsidized by a sponsor.
+DISCUSSION: Drug purchases depend on nature's recovery probability exceeding the 
+probability in the absence of a drug. Each company develops and produces a
+vaccine or drug if nature's probability of successful development is high, if
+sufficiently many persons buy the vaccine or drug at a sales price that
+sufficiently exceeds the production price, and if the donor sponsors.
+CONCLUSION: Accounting for all players' interlinked decisions allowing 14
+outcomes, which is challenging without a game theoretic analysis, the donor
+maximizes all persons' expected utilities at the societal level to adjust how
+persons' purchases and the companies' development and production are subsidized.
+HIGHLIGHTS: A game theoretic approach can help explain the production decisions
+of vaccine and drug companies, and the decisions of persons and a donor, impacted
+by Nature.In 3 linked games, N persons choose risky behavior if its utility
+outweighs safe behavior.Vaccine and drug companies develop vaccines and drugs
+sponsored by a donor if profitable, allowing 14 outcomes.
+
+DOI: 10.1177/0272989X211053563 
+PMID: 34738510 
+

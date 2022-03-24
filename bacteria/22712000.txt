@@ -1,0 +1,44 @@
+
+1. Int J Mass Spectrom. 2012 Apr 15;316-318:100-107.
+
+Evaluation of ion activation strategies and mechanisms for the gas-phase
+fragmentation of sulfoquinovosyldiacylglycerol lipids from Rhodobacter
+sphaeroides.
+
+Zhang X(1), Fhaner CJ, Ferguson-Miller SM, Reid GE.
+
+Author information: 
+(1)Department of Chemistry, Michigan State University, East Lansing, MI 48824.
+
+Sulfoquinovosyldiacylglycerol (SQDG) lipids, found in plants and photosynthetic
+bacteria, can substitute for phospholipids under phosphate limiting conditions.
+Here, various low-energy ion activation strategies have been evaluated for the
+identification and characterization of deprotonated SQDG lipids from a crude
+membrane lipid extract of Rhodobacter sphaeroides, using collision- induced
+dissociation - tandem mass spectrometry (CID-MS/MS) in either a triple quadrupole
+mass spectrometer or in a hybrid quadrupole ion trap-multipole mass spectrometer 
+coupled with high resolution / accurate mass analysis capabilities. In the triple
+quadrupole instrument, using energy resolved CID-MS/MS experiments, the SQDG head
+group specific product ion at m/z 225 (C(6)H(9)O(7)S(-)), rather than m/z 81
+(SO(3)H(-)), was determined to provide the greatest sensitivity for SQDG lipid
+detection, and is therefore the preferred `fingerprint' ion for the
+identification of this lipid class from within complex lipid mixtures when using 
+precursor ion scan mode MS/MS experiments. A comparison of conventional ion trap 
+CID-MS/MS and -MS(n), with `low Q' CID-MS/MS, pulsed Q dissociation (PQD)-MS/MS
+and higher energy collision induced dissociation (HCD)-MS/MS performed in an LTQ 
+Orbitrap Velos mass spectrometer, revealed that HCD-MS/MS coupled with high
+resolution/accurate mass analysis represents the most sensitive, and perhaps most
+importantly the most specific strategy, for ion trap based identification and
+characterization of SQDG lipids, due to the ability to readily distinguish the
+SQDG head group specific product ion at m/z 225.0069 from other products that may
+be present at the same nominal m/z value. Finally, the mechanisms responsible for
+formation of each of the major product ions observed by low-energy CID-MS/MS of
+deprotonated SQDG lipids were elucidated using uniform H/D exchange, HCD-MS/MS
+and high resolution mass analysis. Formation of the m/z 225 `fingerprint' ion
+occurs via a charge-remote cis-elimination reaction, likely involving transfer of
+a hydrogen from the hydroxyl group located on the C2 position of the sugar ring.
+
+DOI: 10.1016/j.ijms.2012.01.011 
+PMCID: PMC3375827
+PMID: 22712000 
+

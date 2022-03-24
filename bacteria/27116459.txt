@@ -1,0 +1,54 @@
+
+1. PLoS One. 2016 Apr 26;11(4):e0154043. doi: 10.1371/journal.pone.0154043.
+eCollection 2016.
+
+Metabolomics Revealed an Association of Metabolite Changes and Defective Growth
+in Methylobacterium extorquens AM1 Overexpressing ecm during Growth on Methanol.
+
+Cui J(1), Good NM(2), Hu B(3), Yang J(1), Wang Q(4), Sadilek M(5), Yang S(1)(6).
+
+Author information: 
+(1)School of Life Science, Qingdao Agricultural University, Shandong Province Key
+Laboratory of Applied Mycology, and Qingdao International Center on Microbes
+Utilizing Biogas, Qingdao, Shandong Province, China.
+(2)Department of Microbiology, University of Washington, Seattle, Washington,
+United States of America.
+(3)Kemin Industries, KI Research & Development, Des Moines, Iowa, United States
+of America.
+(4)Central Laboratory, Qingdao Agricultural University, Qingdao, Shandong
+Province, China.
+(5)Department of Chemistry, University of Washington, Seattle, Washington, United
+States of America.
+(6)Key Laboratory of Systems Bioengineering, Ministry of Education, Tianjin
+University, Tianjin, China.
+
+Methylobacterium extorquens AM1 is a facultative methylotroph capable of growth
+on both single-carbon and multi-carbon compounds. The ethylmalonyl-CoA (EMC)
+pathway is one of the central assimilatory pathways in M. extorquens during
+growth on C1 and C2 substrates. Previous studies had shown that ethylmalonyl-CoA 
+mutase functioned as a control point during the transition from growth on
+succinate to growth on ethylamine. In this study we overexpressed ecm, phaA,
+mcmAB and found that upregulating ecm by expressing it from the strong
+constitutive mxaF promoter caused a 27% decrease in growth rate on methanol
+compared to the strain with an empty vector. Targeted metabolomics demonstrated
+that most of the central intermediates in the ecm over-expressing strain did not 
+change significantly compared to the control strain; However,
+poly-β-hydroxybutyrate (PHB) was 4.5-fold lower and 3-hydroxybutyryl-CoA was
+1.6-fold higher. Moreover, glyoxylate, a toxic and highly regulated essential
+intermediate, was determined to be 2.6-fold higher when ecm was overexpressed.
+These results demonstrated that overexpressing ecm can manipulate carbon flux
+through the EMC pathway and divert it from the carbon and energy storage product 
+PHB, leading to an accumulation of glyoxylate. Furthermore, untargeted
+metabolomics discovered two unusual metabolites, alanine
+(Ala)-meso-diaminopimelic acid (mDAP) and Ala-mDAP-Ala, each over 45-fold higher 
+in the ecm over-expressing strain. These two peptides were also found to be
+highly produced in a dose-dependent manner when glyoxylate was added to the
+control strain. Overall, this work has explained a direct association of ecm
+overexpression with glyoxylate accumulation up to a toxic level, which inhibits
+cell growth on methanol. This research provides useful insight for manipulating
+the EMC pathway for efficiently producing high-value chemicals in M. extorquens.
+
+DOI: 10.1371/journal.pone.0154043 
+PMCID: PMC4846091
+PMID: 27116459  [Indexed for MEDLINE]
+

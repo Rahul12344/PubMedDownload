@@ -1,0 +1,44 @@
+
+1. FEBS J. 2016 Dec;283(24):4474-4490. doi: 10.1111/febs.13952. Epub 2016 Nov 29.
+
+Functional characterization of Bacillus thuringiensis Cry toxin receptors
+explains resistance in insects.
+
+Tanaka S(1), Endo H(1), Adegawa S(1), Kikuta S(1), Sato R(1).
+
+Author information: 
+(1)Graduate School of Bio-Applications and Systems Engineering, Tokyo University 
+of Agriculture and Technology, Japan.
+
+Comment in
+    FEBS J. 2016 Dec;283(24):4458-4461.
+
+Bacillus thuringiensis produces Cry toxins, which are used as insecticides in
+sprays and in transgenic crops. However, little is known about the function of
+Cry toxin receptors and the mechanisms that determine their binding specificity
+and activity. In this study, the cRNAs of Bombyx mori ABC transporter C2
+(BmABCC2), the toxin-binding region of cadherin-like receptor (BtR175-TBR), or
+aminopeptidase N1 (BmAPN1) were injected into Xenopus oocytes, and the
+Cry1Aa-dependent cation-selective pore formation activities of these receptors
+were analyzed using a two-electrode voltage clamp. Cation current passing through
+the pores was detected within 25 s, and increased in a linear fashion in
+BmABCC2-expressing oocytes treated with 88 nm Cry1Aa. This result suggested that 
+Cry1Aa continuously made stable pores with the help of BmABCC2. In contrast, no
+cation current was observed until 60 min after incubation with 500 nm Cry1Aa in
+BtR175TBR-expressing oocytes even though oligomerization of Cry1Aa progressed.
+This result indicated that in the presence of BtR175-TBR most of the oligomerized
+toxin could not enter the cell membrane. However, oocytes that simultaneously
+expressed both receptors demonstrated that BtR175-TBR exerted a synergistic
+effect with BmABCC2 on pore formation in the presence of 22 nm Cry1Aa. These
+results confirm that the main reason for moderate-level resistance in insects
+lacking the cadherin-like receptor but expressing ABCC2 is the absence of a
+similar synergistic promotion of toxin oligomerization. Similar to results from
+our previous report evaluating ectopic expression in the Sf9/Baculovirus system, 
+BmAPN1 could not by itself cause Cry1A-related pore formation, despite the fact
+that BmAPN1 gathered toxin on the oocytes as well as BmABCC2 did.
+
+© 2016 Federation of European Biochemical Societies.
+
+DOI: 10.1111/febs.13952 
+PMID: 27813251  [Indexed for MEDLINE]
+

@@ -1,0 +1,39 @@
+
+1. Sci Rep. 2021 Nov 5;11(1):21735. doi: 10.1038/s41598-021-01081-0.
+
+Molecular strategies for antibody binding and escape of SARS-CoV-2 and its
+mutations.
+
+Hendy M(1), Kaufman S(1), Ponga M(2).
+
+Author information: 
+(1)Department of Mechanical Engineering, University of British Columbia,
+2054-6250 Applied Science Lane, Vancouver, V6T 1Z4, BC, Canada.
+(2)Department of Mechanical Engineering, University of British Columbia,
+2054-6250 Applied Science Lane, Vancouver, V6T 1Z4, BC, Canada.
+mponga@mech.ubc.ca.
+
+The COVID19 pandemic, caused by SARS-CoV-2, has infected more than 200 million
+people worldwide. Due to the rapid spreading of SARS-CoV-2 and its impact, it is 
+paramount to find effective treatments against it. Human neutralizing antibodies 
+are an effective method to fight viral infection. However, the recent discovery
+of new strains that substantially change the S-protein sequence has raised
+concern about vaccines and antibodies' effectiveness. Here, using molecular
+simulations, we investigated the binding mechanisms between the S-protein and
+several antibodies. Multiple mutations were included to understand the strategies
+for antibody escape in new variants. We found that the combination of mutations
+K417N, E484K, L452R, and T478K produced higher binding energy to ACE2 than the
+wild type, suggesting higher efficiency to enter host cells. The mutations'
+effect depends on the antibody class. While Class I enhances the binding avidity 
+in the presence of N501Y mutation, class II antibodies showed a sharp decline in 
+the binding affinity. Our simulations suggest that Class I antibodies will remain
+effective against the new strains. In contrast, Class II antibodies will have
+less affinity to the S-protein, potentially affecting these antibodies'
+efficiency.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-01081-0 
+PMCID: PMC8571385
+PMID: 34741079  [Indexed for MEDLINE]
+

@@ -1,0 +1,33 @@
+
+1. RNA. 2007 Jun;13(6):817-23. Epub 2007 Apr 6.
+
+Structures of tRNAs with an expanded anticodon loop in the decoding center of the
+30S ribosomal subunit.
+
+Dunham CM(1), Selmer M, Phelps SS, Kelley AC, Suzuki T, Joseph S, Ramakrishnan V.
+
+Author information: 
+(1)MRC-Laboratory of Molecular Biology, Cambridge CB2 2QH, United Kingdom.
+
+During translation, some +1 frameshift mRNA sites are decoded by frameshift
+suppressor tRNAs that contain an extra base in their anticodon loops. Similarly
+engineered tRNAs have been used to insert nonnatural amino acids into proteins.
+Here, we report crystal structures of two anticodon stem-loops (ASLs) from tRNAs 
+known to facilitate +1 frameshifting bound to the 30S ribosomal subunit with
+their cognate mRNAs. ASL(CCCG) and ASL(ACCC) (5'-3' nomenclature) form
+unpredicted anticodon-codon interactions where the anticodon base 34 at the
+wobble position contacts either the fourth codon base or the third and fourth
+codon bases. In addition, we report the structure of ASL(ACGA) bound to the 30S
+ribosomal subunit with its cognate mRNA. The tRNA containing this ASL was
+previously shown to be unable to facilitate +1 frameshifting in competition with 
+normal tRNAs (Hohsaka et al. 2001), and interestingly, it displays a normal
+anticodon-codon interaction. These structures show that the expanded anticodon
+loop of +1 frameshift promoting tRNAs are flexible enough to adopt conformations 
+that allow three bases of the anticodon to span four bases of the mRNA. Therefore
+it appears that normal triplet pairing is not an absolute constraint of the
+decoding center.
+
+DOI: 10.1261/rna.367307 
+PMCID: PMC1869038
+PMID: 17416634  [Indexed for MEDLINE]
+

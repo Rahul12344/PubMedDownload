@@ -1,0 +1,47 @@
+
+1. PLoS One. 2019 Sep 6;14(9):e0221694. doi: 10.1371/journal.pone.0221694.
+eCollection 2019.
+
+Capability for arsenic mobilization in groundwater is distributed across broad
+phylogenetic lineages.
+
+Danczak RE(1), Johnston MD(2), Kenah C(3), Slattery M(3), Wilkins MJ(4).
+
+Author information: 
+(1)Department of Microbiology, Ohio State University, Columbus, OH, United States
+of America.
+(2)School of Earth Sciences, Ohio State University, Columbus, OH, United States
+of America.
+(3)Ohio Environmental Protection Agency, Columbus, OH, United States of America.
+(4)Department of Soil and Crop Sciences, Colorado State University, Fort Collins,
+CO, United States of America.
+
+Despite the importance of microbial activity in mobilizing arsenic in groundwater
+aquifers, the phylogenetic distribution of contributing microbial metabolisms is 
+understudied. Groundwater samples from Ohio aquifers were analyzed using
+metagenomic sequencing to identify functional potential that could drive arsenic 
+cycling, and revealed mechanisms for direct (i.e., Ars system) and indirect
+(i.e., iron reduction) arsenic mobilization in all samples, despite differing
+geochemical conditions. Analyses of 194 metagenome-assembled genomes (MAGs)
+revealed widespread functionality related to arsenic mobilization throughout the 
+bacterial tree of life. While arsB and arsC genes (components of an arsenic
+resistance system) were found in diverse lineages with no apparent phylogenetic
+bias, putative aioA genes (aerobic arsenite oxidase) were predominantly
+identified in Methylocystaceae MAGs. Both previously described and undescribed
+respiratory arsenate reduction potential via arrA was detected in
+Betaproteobacteria, Deltaproteobacteria, and Nitrospirae MAGs, whereas sulfate
+reduction potential was primarily limited to members of the Deltaproteobacteria
+and Nitrospirae. Lastly, iron reduction potential was detected in the
+Ignavibacteria, Deltaproteobacteria, and Nitrospirae. These results expand the
+phylogenetic distribution of taxa that may play roles in arsenic mobilization in 
+subsurface systems. Specifically, the Nitrospirae are a much more functionally
+diverse group than previously assumed and may play key biogeochemical roles in
+arsenic-contaminated ecosystems.
+
+DOI: 10.1371/journal.pone.0221694 
+PMCID: PMC6730927
+PMID: 31490939  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

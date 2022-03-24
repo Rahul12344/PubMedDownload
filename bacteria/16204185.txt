@@ -1,0 +1,34 @@
+
+1. Genes Dev. 2005 Oct 1;19(19):2355-66.
+
+Hfq-dependent regulation of OmpA synthesis is mediated by an antisense RNA.
+
+Udekwu KI(1), Darfeuille F, Vogel J, Reimegård J, Holmqvist E, Wagner EG.
+
+Author information: 
+(1)Department of Cell and Molecular Biology, Uppsala University, S-75124 Uppsala,
+Sweden.
+
+This paper shows that the small RNA MicA (previously SraD) is an antisense
+regulator of ompA in Escherichia coli. MicA accumulates upon entry into
+stationary phase and down-regulates the level of ompA mRNA. Regulation of ompA
+(outer membrane protein A), previously attributed to Hfq/mRNA binding, is lost
+upon deletion of the micA gene, whereas overexpression of MicA inhibits the
+synthesis of OmpA. In vitro, MicA binds to the ompA mRNA leader. Enzymatic and
+chemical probing was used to map the structures of MicA, the ompA mRNA leader,
+and the complex formed upon binding. MicA binding generates a footprint across
+the ompA Shine-Dalgarno sequence, consistent with a 12 + 4 base-pair interaction,
+which is additionally supported by the effect of mutations in vivo and by
+bioinformatics analysis of enterobacterial micA/ompA homolog sequences. MicA is
+conserved in many enterobacteria, as is its ompA target site. In vitro
+toeprinting confirmed that binding of MicA specifically interferes with ribosome 
+binding. We propose that MicA, when present at high levels, blocks ribosome
+binding at the ompA translation start site, which-in line with previous
+work-secondarily facilitates RNase E cleavage and subsequent mRNA decay. MicA
+requires the presence of the Hfq protein, although the mechanistic basis for this
+remains unclear.
+
+DOI: 10.1101/gad.354405 
+PMCID: PMC1240044
+PMID: 16204185  [Indexed for MEDLINE]
+

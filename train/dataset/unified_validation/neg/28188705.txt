@@ -1,0 +1,46 @@
+
+1. biotechnol prog. 2017 jul;33(4):954-965. doi: 10.1002/btpr.2442. epub 2017 mar
+17.
+
+design, construction, optimization novel, modular, scalable
+incubation chamber continuous viral inactivation.
+
+orozco r(1), godfrey s(1), coffman j(2), amarikwa l(3), parker s(3), hernandez
+l(3), wachuku c(3), mai b(3), song b(3), hoskatti s(3), asong j(3), shamlou p(3),
+bardliving c(3), fiadeiro m(4).
+
+author information: 
+(1)boehringer ingelheim, process science department, fremont, ca, 94555.
+(2)boehringer ingelheim, global innovation technology department, fremont,
+ca, 94555.
+(3)keck graduate institute, amgen bioprocessing center, claremont, ca, 91711.
+(4)pfizer, bioprocess r&d, andover, ma, 01810.
+
+we designed, built 3d printed, screened tubular reactors minimize
+axial dispersion serve incubation chambers continuous virus
+inactivation biological products. empirical residence time distribution data
+were used derive tubular design's volume equivalent theoretical
+plate (vetp) values various process flow rates. one design, jig box
+(jib), yielded lowest vetp, indicating optimal radial mixing minimal
+axial dispersion. minimum residence time (mrt) approach employed, the
+mrt minimum time product spends tubular reactor. this
+incubation time typically 60 minutes batch process. provide
+recommendations combinations flow rates device dimensions for
+operation jib connected series meet 60-min mrt. results
+show wide range flow rates corresponding volumes, takes
+75 ± 3 min 99% product exit reactor meeting 60-min
+mrt criterion fulfilling constraint keeping differential pressure
+drop 5 psi. conditions, vetp increases slightly 3 5
+ml though number theoretical plates stays constant 1326 ± 88. 
+also demonstrated final design volume 6% ± 1% larger the
+ideal plug flow volume. using device would enable continuous viral
+inactivation truly continuous process effluent batch
+chromatography column. viral inactivation studies would required validate
+such design. © 2017 american institute chemical engineers biotechnol. prog.,
+33:954-965, 2017.
+
+© 2017 american institute chemical engineers.
+
+doi: 10.1002/btpr.2442 
+pmid: 28188705  [indexed medline]
+

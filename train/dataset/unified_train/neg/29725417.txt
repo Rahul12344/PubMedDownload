@@ -1,0 +1,44 @@
+
+1. oncol lett. 2018 may;15(5):6815-6824. doi: 10.3892/ol.2018.8221. epub 2018 mar 9.
+
+identification functional analysis core gene module associated with
+hepatitis c virus-induced human hepatocellular carcinoma progression.
+
+bai g(1), zheng w(1), w(1).
+
+author information: 
+(1)institute genetic engineering, southern medical university, guangzhou,
+guangdong 510515, p.r. china.
+
+hepatitis c virus (hcv)-induced human hepatocellular carcinoma (hcc) progression 
+may due complex multi-step processes. developmental mechanism of
+these processes worth investigating prevention, diagnosis therapy 
+of hcc. aim present study investigate molecular mechanism
+underlying progression hcv-induced hepatocarcinogenesis. first, the
+dynamic gene module, consisting key genes associated progression 
+the normal stage hcc, identified using weighted gene co-expression
+network analysis tool r language. defining genes module as
+seeds, change co-expression differentially expressed gene sets two
+consecutive stages pathological progression examined. finally, interaction
+pairs hcv viral proteins directly targeted proteins the
+identified module extracted literature comprehensive
+interaction dataset yeast two-hybrid experiments. combining the
+interactions hcv targets, protein-protein interactions in
+the search tool retrieval interacting genes database (string), the
+hcv-key genes interaction network constructed visualized using cytoscape 
+software 3.2. result, module containing 44 key genes identified 
+associated hcc progression, due dynamic features functions of
+those genes module. several important differentially co-expressed gene
+pairs identified non-hcc hcc stages. key genes, cyclin
+dependent kinase 1 (cdk1), ndc80, cyclin a2 (ccna2) rac gtpase activating
+protein 1 (racgap1) shown targeted hcv nonstructural proteins
+ns5a, ns3 ns5b, respectively. four genes perform intermediary role
+between hcv viral proteins dysfunctional module hcv key genes 
+interaction network. findings provided valuable information for
+understanding mechanism hcv-induced hcc progression seeking drug
+targets therapy prevention hcc.
+
+doi: 10.3892/ol.2018.8221 
+pmcid: pmc5920388
+pmid: 29725417 
+

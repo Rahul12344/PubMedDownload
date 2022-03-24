@@ -1,0 +1,50 @@
+
+1. Mol Pharm. 2017 Dec 4;14(12):4597-4605. doi: 10.1021/acs.molpharmaceut.7b00719.
+Epub 2017 Nov 13.
+
+Insights on the Mechanism of Action of INH-C10 as an Antitubercular Prodrug.
+
+Vila-Viçosa D(1), Victor BL(1), Ramos J(2), Machado D(2), Viveiros M(2), Switala 
+J(3), Loewen PC(3), Leitão R(1)(4), Martins F(1), Machuqueiro M(1).
+
+Author information: 
+(1)Centro de Química e Bioquímica, Departamento de Química e Bioquímica,
+Faculdade de Ciências, Universidade de Lisboa , 1749-016 Lisboa, Portugal.
+(2)Unidade de Microbiologia Médica, Instituto de Higiene e Medicina Tropical,
+Universidade Nova de Lisboa , 1349-008 Lisboa, Portugal.
+(3)Department of Microbiology, University of Manitoba , Winnipeg, Manitoba R3T
+2N2, Canada.
+(4)Área Departamental de Engenharia Química, Instituto Superior de Engenharia de 
+Lisboa, Instituto Politécnico de Lisboa , R. Conselheiro Emídio Navarro, 1,
+1959-007, Lisboa, Portugal.
+
+Tuberculosis remains one of the top causes of death worldwide, and combating its 
+spread has been severely complicated by the emergence of drug-resistance
+mutations, highlighting the need for more effective drugs. Despite the resistance
+to isoniazid (INH) arising from mutations in the katG gene encoding the
+catalase-peroxidase KatG, most notably the S315T mutation, this compound is still
+one of the most powerful first-line antitubercular drugs, suggesting further
+pursuit of the development of tailored INH derivatives. The N'-acylated INH
+derivative with a long alkyl chain (INH-C10) has been shown to be more effective 
+than INH against the S315T variant of Mycobacterium tuberculosis, but the
+molecular details of this activity enhancement are still unknown. In this work,
+we show that INH N'-acylation significantly reduces the rate of production of
+both isonicotinoyl radical and isonicotinyl-NAD by wild type KatG, but not by the
+S315T variant of KatG mirroring the in vivo effectiveness of the compound.
+Restrained and unrestrained MD simulations of INH and its derivatives at the
+water/membrane interface were performed and showed a higher preference of INH-C10
+for the lipidic phase combined with a significantly higher membrane permeability 
+rate (27.9 cm s-1), compared with INH-C2 or INH (3.8 and 1.3 cm s-1,
+respectively). Thus, we propose that INH-C10 is able to exhibit better minimum
+inhibitory concentration (MIC) values against certain variants because of its
+better ability to permeate through the lipid membrane, enhancing its availability
+inside the cell. MIC values of INH and INH-C10 against two additional KatG
+mutations (S315N and D735A) revealed that some KatG variants are able to process 
+INH faster than INH-C10 into an effective antitubercular form (wt and S315N),
+while others show similar reaction rates (S315T and D735A). Altogether, our
+results highlight the potential of increased INH lipophilicity for treating
+INH-resistant strains.
+
+DOI: 10.1021/acs.molpharmaceut.7b00719 
+PMID: 29091448  [Indexed for MEDLINE]
+

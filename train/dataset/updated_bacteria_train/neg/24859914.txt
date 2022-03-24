@@ -1,0 +1,36 @@
+
+1. Arch Microbiol. 2014 Aug;196(8):575-88. doi: 10.1007/s00203-014-0996-9. Epub 2014
+May 24.
+
+Mutational analysis of the (p)ppGpp synthetase activity of the Rel enzyme of
+Mycobacterium tuberculosis.
+
+Bag S(1), Das B, Dasgupta S, Bhadra RK.
+
+Author information: 
+(1)Infectious Diseases and Immunology Division, CSIR-Indian Institute of Chemical
+Biology, 4 Raja S. C. Mullick Road, Jadavpur, Kolkata, 700 032, India.
+
+Rel(Mtb), a GTP pyrophosphokinase encoded by the Mycobacterium tuberculosis (Mtb)
+genome, catalyzes synthesis of (p)ppGpp from ATP and GDP(GTP) and its hydrolysis 
+to GDP(GTP) and pyrophosphate to mediate stringent response, which helps bacteria
+to survive during nutrient limitation. Like other members of Rel_Spo homologs,
+Rel(Mtb) has four distinct domains: HD, Rel_Spo (RSD), TGS and ACT. The
+N-terminal HD and RSD are responsible for (p)ppGpp hydrolysis and synthesis,
+respectively. In this study, we have dissected the rel(Mtb) gene function and
+determined the minimal region essential for (p)ppGpp synthetic activity. The
+Rel(Mtb) and its truncated derivatives were expressed from an arabinose inducible
+promoter (P(BAD)), and in vivo functional analyses were done in a (p)ppGpp null
+Escherichia coli strain. Our results indicate that only 243 amino acids (188-430 
+residues) containing fragment are sufficient for Rel(Mtb) (p)ppGpp synthetic
+activity. The results were further confirmed by in vitro assays using purified
+proteins. We further characterized the RSD of Rel(Mtb) by substituting several
+conserved amino acids with structurally related residues and identified six such 
+residues, which appeared to be critical for maintaining its catalytic activity.
+Furthermore, we have also extended our analysis to an RSD encoding gene rv1366 of
+Mtb, and experimental results indicated that the encoded protein Rv1366 is unable
+to synthesize (p)ppGpp.
+
+DOI: 10.1007/s00203-014-0996-9 
+PMID: 24859914  [Indexed for MEDLINE]
+

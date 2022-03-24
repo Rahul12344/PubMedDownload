@@ -1,0 +1,44 @@
+
+1. Exp Cell Res. 2021 Dec 1;409(1):112893. doi: 10.1016/j.yexcr.2021.112893. Epub
+2021 Oct 22.
+
+Role of karyopherin nuclear transport receptors in nuclear transport by nuclear
+trafficking peptide.
+
+Teratake Y(1), Kimura Y(2), Ishizaka Y(3).
+
+Author information: 
+(1)Department of Intractable Diseases, Research Institute, National Center for
+Global Health and Medicine, 1-21-1 Toyama, Shinjuku-ku, Tokyo, 162-8655, Japan.
+(2)Advanced Medical Research Center, Yokohama City University, 3-9 Fukuura,
+Knazawa-ku, Yokohama, Kanagawa, 236-0004, Japan.
+(3)Department of Intractable Diseases, Research Institute, National Center for
+Global Health and Medicine, 1-21-1 Toyama, Shinjuku-ku, Tokyo, 162-8655, Japan.
+Electronic address: zakay@ri.ncgm.go.jp.
+
+Nuclear trafficking peptide (NTP), a cell-penetrating peptide (CPP) composed of
+10 amino acids (aa) (RIFIHFRIGC), has potent nuclear trafficking activity.
+Recently, we established a protein-based cell engineering system by using NTP,
+but it remained elusive how NTP functions as a CPP with nuclear orientation. In
+the present study, we identified importin subunit β1 (IMB1) and transportin 1
+(TNPO1) as cellular proteins underlying the activity of NTP. These karyopherin
+nuclear transport receptors were identified as candidate molecules by liquid
+chromatography/mass spectrometry analysis, and downregulation of each protein by 
+small interfering RNA significantly reduced NTP activity (P < 0.01). Biochemical 
+analyses revealed that NTP bound directly to both molecules, and the forced
+expression of an IMB1 fragment (296-516 aa) or TNPO1 fragment (1-297 aa), which
+both contain binding sites to NTP, reduced nuclear NTP-green fluorescent protein 
+(GFP) levels when it was added to cell culture medium. NTP is derived from viral 
+protein R (Vpr) of human immunodeficiency virus-1, and Vpr enters the nucleus and
+exerts pleiotropic functions. Notably, Vpr bound directly to IMB1 and TNPO1, and 
+its function was significantly impaired by the forced expression of the
+296-516-aa fragment of IMB1 and 1-297-aa fragment of TNPO1. Interestingly, NTP
+completely blocked the physical association of Vpr with IMB1 and TNPO1. Although 
+the nuclear localization mechanism of Vpr remains unknown, our data suggest that 
+NTP functions as a novel nuclear localization signal of Vpr.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.yexcr.2021.112893 
+PMID: 34695436 
+

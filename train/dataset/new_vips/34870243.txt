@@ -1,0 +1,30 @@
+
+1. STAR Protoc. 2021 Nov 27:101045. doi: 10.1016/j.xpro.2021.101045. [Epub ahead of 
+print]
+
+Protocol for global proteome, virome, and metaproteome profiling of respiratory
+specimen (VTM) in COVID-19 patient by LC-MS/MS-based analysis.
+
+Tripathi G(1), Sharma N(1), Bindal V(1), Yadav M(1), Mathew B(1), Sharma S(1),
+Gupta E(2), Singh J(1), Sarin SK(3).
+
+Author information: 
+(1)Department of Molecular and Cellular Medicine, Institute of Liver and Biliary 
+Sciences, New Delhi.
+(2)Department of Virology, Institute of Liver and Biliary Sciences, New Delhi.
+(3)Department of Hepatology, Institute of Liver and Biliary Sciences, New Delhi.
+
+In this protocol, we describe global proteome profiling for the respiratory
+specimen of COVID-19 patients, Patients suspected with COVID-19, and H1N1
+patients. In this protocol, details for identifying host, viral or bacterial
+proteome (Meta-proteome) are provided. Major steps of the protocol include virus 
+inactivation, protein quantification and digestion, desalting of peptides,
+high-resolution mass spectrometry (HRMS) based analysis, and downstream
+bioinformatics analysis.
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.xpro.2021.101045 
+PMCID: PMC8626227
+PMID: 34870243 
+

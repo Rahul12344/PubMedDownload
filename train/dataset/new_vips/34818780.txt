@@ -1,0 +1,171 @@
+
+1. Sci Total Environ. 2022 Jan 20;805:149877. doi: 10.1016/j.scitotenv.2021.149877. 
+Epub 2021 Aug 25.
+
+Minimizing errors in RT-PCR detection and quantification of SARS-CoV-2 RNA for
+wastewater surveillance.
+
+Ahmed W(1), Simpson SL(2), Bertsch PM(3), Bibby K(4), Bivins A(4), Blackall
+LL(5), Bofill-Mas S(6), Bosch A(7), Brandão J(8), Choi PM(9), Ciesielski M(10),
+Donner E(11), D'Souza N(12), Farnleitner AH(13), Gerrity D(14), Gonzalez R(15),
+Griffith JF(16), Gyawali P(17), Haas CN(18), Hamilton KA(19), Hapuarachchi
+HC(20), Harwood VJ(21), Haque R(22), Jackson G(23), Khan SJ(24), Khan W(25),
+Kitajima M(26), Korajkic A(27), La Rosa G(28), Layton BA(29), Lipp E(30),
+McLellan SL(31), McMinn B(27), Medema G(32), Metcalfe S(3), Meijer WG(33),
+Mueller JF(34), Murphy H(35), Naughton CC(36), Noble RT(10), Payyappat S(37),
+Petterson S(38), Pitkänen T(39), Rajal VB(40), Reyneke B(25), Roman FA Jr(36),
+Rose JB(12), Rusiñol M(41), Sadowsky MJ(42), Sala-Comorera L(33), Setoh YX(20),
+Sherchan SP(43), Sirikanchana K(44), Smith W(3), Steele JA(16), Sabburg R(45),
+Symonds EM(46), Thai P(34), Thomas KV(34), Tynan J(34), Toze S(3), Thompson
+J(47), Whiteley AS(48), Wong JCC(20), Sano D(49), Wuertz S(50), Xagoraraki I(51),
+Zhang Q(42), Zimmer-Faust AG(16), Shanks OC(27).
+
+Author information: 
+(1)CSIRO Land and Water, Ecosciences Precinct, 41 Boggo Road, QLD 4102,
+Australia. Electronic address: Warish.Ahmed@csiro.au.
+(2)CSIRO Land and Water, Lucas Heights, NSW 2234, Australia.
+(3)CSIRO Land and Water, Ecosciences Precinct, 41 Boggo Road, QLD 4102,
+Australia.
+(4)Department of Civil & Environmental Engineering & Earth Science, University of
+Notre Dame, 156 Fitzpatrick Hall, Notre Dame, IN 46556, USA.
+(5)School of BioSciences, The University of Melbourne, Melbourne, VIC, Australia.
+(6)Laboratory of Virus Contaminants of Water and Food, Department of Genetics,
+Microbiology and Statistics, Faculty of Biology, University of Barcelona, 08028
+Barcelona, Spain.
+(7)Enteric Virus Laboratory, Department of Genetics, Microbiology and Statistics,
+University of Barcelona, Avda. Diagonal 643, 08028 Barcelona, Spain.
+(8)Department of Environmental Health, National Institute of Health Dr. Ricardo
+Jorge, Lisboa, Portugal.
+(9)Water Unit, Health Protection Branch, Prevention Division, Queensland Health, 
+QLD, Australia; The University of Queensland, Queensland Alliance for
+Environmental Health Sciences, QLD, Australia.
+(10)University of North Carolina at Chapel Hill, Institute of Marine Sciences,
+Morehead City, NC, United States.
+(11)Future Industries Institute, University of South Australia, University
+Boulevard, Mawson Lakes, SA 5095, Australia.
+(12)Department of Fisheries and Wildlife, Michigan State University, E. Lansing, 
+MI, USA.
+(13)Institute of Chemical, Environmental & Bioscience Engineering, Research Group
+Environmental Microbiology and Molecular Diagnostic, 166/5/3, Technische
+Universität Wien, Vienna, Austria; Research Division Water Quality and Health,
+Department Pharmacology, Physiology and Microbiology, Karl Landsteiner University
+of Health Sciences, Dr. Karl-Dorrek-Straβe 30, 3500 Krems an der Donau, Austria.
+(14)Southern Nevada Water Authority, P.O. Box 99954, Las Vegas, NV 89193, USA.
+(15)Hampton Roads Sanitation District, 1434 Air Rail Avenue, Virginia Beach, VA
+23455, USA.
+(16)Southern California Coastal Water Research Project, Costa Mesa, CA 92626,
+USA.
+(17)Institute of Environmental Science and Research Ltd (ESR), Porirua 5240, New 
+Zealand.
+(18)Drexel University, Philadelphia, PA, USA.
+(19)School of Sustainable Engineering and the Built Environment and The Biodesign
+Institute Center for Environmental Health Engineering, Arizona State University, 
+Tempe, AZ 85287, USA.
+(20)Environmental Health Institute, National Environment Agency, Singapore.
+(21)Department of Integrative Biology, University of South Florida, Tampa, FL,
+USA.
+(22)Environmental Interventions Unit, Icddr,b, 68 Shaheed Tajuddin Ahmed Sarani, 
+Mohakhali, Dhaka 1212, Bangladesh.
+(23)Water Unit, Health Protection Branch, Prevention Division, Queensland Health,
+QLD, Australia.
+(24)Water Research Centre, School of Civil and Environmental Engineering,
+University of New South Wales, NSW 2052, Australia.
+(25)Department of Microbiology, Faculty of Science, Stellenbosch University,
+Private Bag X1, Stellenbosch 7602, South Africa.
+(26)Division of Environmental Engineering, Faculty of Engineering, Hokkaido
+University, North 13 West 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan.
+(27)United States Environmental Protection Agency, Office of Research and
+Development, 26W Martin Luther King Jr. Drive, Cincinnati, OH 45268, USA.
+(28)Department of Environment and Health, Istituto Superiore di Sanità, Rome,
+Italy.
+(29)Department of Research & Innovation, Clean Water Services, Hillsboro, OR,
+USA.
+(30)Environmental Health Sciences Department, University of Georgia, Athens, GA
+30602, USA.
+(31)School of Freshwater Sciences, University of Wisconsin-Milwaukee, WI, USA.
+(32)KWR Water Research Institute, Groningenhaven 7, 3433 PE Nieuwegein, the
+Netherlands.
+(33)UCD School of Biomolecular and Biomedical Science, University College Dublin,
+Dublin, Ireland.
+(34)The University of Queensland, Queensland Alliance for Environmental Health
+Sciences, QLD, Australia.
+(35)Department of Pathobiology, Ontario Veterinary College, University of Guelph,
+Guelph, ON, Canada.
+(36)University of California Merced, Department of Civil and Environmental
+Engineering, 5200 N. Lake Rd., Merced, CA 95343, USA.
+(37)Sydney Water, 1 Smith Street, Parramatta, NSW 2150, Australia.
+(38)Water and Health Pty Ltd., 13 Lord St, North Sydney, NSW 2060, Australia;
+School of Medicine, Griffith University, Parklands Drive, Gold Coast, Australia.
+(39)Finnish Institute for Health and Welfare, Expert Microbiology Unit, P.O. Box 
+95, FI-70701 Kuopio, Finland; University of Helsinki, Faculty of Veterinary
+Medicine, Department of Food Hygiene and Environmental Health, P.O. Box 66,
+FI-00014, Finland.
+(40)Facultad de Ingeniería and Instituto de Investigaciones para la Industria
+Química (INIQUI) - CONICET and Universidad Nacional de Salta, Av. Bolivia 5150,
+Salta, Argentina.
+(41)Institute of Environmental Assessment & Water Research (IDAEA), CSIC,
+Barcelona, Spain.
+(42)Biotechnology Institute and Department of Soil, Water, and Climate,
+University of Minnesota, St. Paul, MN, USA.
+(43)Department of Environmental Health Sciences, Tulane University, 1440 Canal
+Street, New Orleans, LA 70112, USA.
+(44)Research Laboratory of Biotechnology, Chulabhorn Research Institute, 54
+Kampangpetch 6 Road, Laksi, Bangkok 10210, Thailand.
+(45)CSIRO Agriculture and Food, Bioscience Precinct, St Lucia, QLD 4067,
+Australia.
+(46)College of Marine Science, University of South Florida, St. Petersburg, FL,
+USA.
+(47)Asian School of the Environment, Nanyang Technological University, Singapore 
+639798, Singapore; Singapore Centre for Environmental Life Sciences Engineering
+(SCELSE) Singapore 637551.
+(48)CSIRO Land and Water, Floreat, WA 6012, Australia.
+(49)Department of Civil and Environmental Engineering, Graduate School of
+Engineering, Tohoku University, Aoba 6-6-06, Aramaki, Aoba-Ku, Sendai, Miyagi
+980-8597, Japan.
+(50)Singapore Centre for Environmental Life Sciences Engineering (SCELSE)
+Singapore 637551; School of Civil and Environmental Engineering, Nanyang
+Technological University, Singapore 639798.
+(51)Department of Civil and Environmental Engineering, Michigan State University,
+East Lansing, MI 48824, USA.
+
+Wastewater surveillance for pathogens using reverse transcription-polymerase
+chain reaction (RT-PCR) is an effective and resource-efficient tool for gathering
+community-level public health information, including the incidence of coronavirus
+disease-19 (COVID-19). Surveillance of Severe Acute Respiratory Syndrome
+Coronavirus-2 (SARS-CoV-2) in wastewater can potentially provide an early warning
+signal of COVID-19 infections in a community. The capacity of the world's
+environmental microbiology and virology laboratories for SARS-CoV-2 RNA
+characterization in wastewater is increasing rapidly. However, there are no
+standardized protocols or harmonized quality assurance and quality control
+(QA/QC) procedures for SARS-CoV-2 wastewater surveillance. This paper is a
+technical review of factors that can cause false-positive and false-negative
+errors in the surveillance of SARS-CoV-2 RNA in wastewater, culminating in
+recommended strategies that can be implemented to identify and mitigate some of
+these errors. Recommendations include stringent QA/QC measures, representative
+sampling approaches, effective virus concentration and efficient RNA extraction, 
+PCR inhibition assessment, inclusion of sample processing controls, and
+considerations for RT-PCR assay selection and data interpretation. Clear data
+interpretation guidelines (e.g., determination of positive and negative samples) 
+are critical, particularly when the incidence of SARS-CoV-2 in wastewater is low.
+Corrective and confirmatory actions must be in place for inconclusive results or 
+results diverging from current trends (e.g., initial onset or reemergence of
+COVID-19 in a community). It is also prudent to perform interlaboratory
+comparisons to ensure results' reliability and interpretability for prospective
+and retrospective analyses. The strategies that are recommended in this review
+aim to improve SARS-CoV-2 characterization and detection for wastewater
+surveillance applications. A silver lining of the COVID-19 pandemic is that the
+efficacy of wastewater surveillance continues to be demonstrated during this
+global crisis. In the future, wastewater should also play an important role in
+the surveillance of a range of other communicable diseases.
+
+Crown Copyright © 2021. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.scitotenv.2021.149877 
+PMCID: PMC8386095
+PMID: 34818780  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

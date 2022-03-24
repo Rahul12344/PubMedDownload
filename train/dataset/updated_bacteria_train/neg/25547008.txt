@@ -1,0 +1,56 @@
+
+1. Microb Cell Fact. 2014 Dec 30;13:179. doi: 10.1186/s12934-014-0179-z.
+
+An engineered autotransporter-based surface expression vector enables efficient
+display of Affibody molecules on OmpT-negative E. coli as well as
+protease-mediated secretion in OmpT-positive strains.
+
+Fleetwood F(1), Andersson KG(2), Ståhl S(3), Löfblom J(4).
+
+Author information: 
+(1)Division of Protein technology, School of Biotechnology, KTH Royal Institute
+of Technology, Stockholm, Sweden. filippaf@kth.se.
+(2)Division of Protein technology, School of Biotechnology, KTH Royal Institute
+of Technology, Stockholm, Sweden. ken2@kth.se.
+(3)Division of Protein technology, School of Biotechnology, KTH Royal Institute
+of Technology, Stockholm, Sweden. stefans@biotech.kth.se.
+(4)Division of Protein technology, School of Biotechnology, KTH Royal Institute
+of Technology, Stockholm, Sweden. lofblom@kth.se.
+
+BACKGROUND: Cell display technologies (e.g. bacterial display) are attractive in 
+directed evolution as they provide the option to use flow-cytometric cell sorting
+for selection from combinatorial libraries. The aim of this study was to engineer
+and investigate an expression vector system with dual functionalities: i)
+recombinant display of Affibody libraries on Escherichia coli for directed
+evolution and ii) small scale secreted production of candidate affinity proteins,
+allowing initial downstream characterizations prior to subcloning.
+Autotransporters form a class of surface proteins in Gram-negative bacteria that 
+have potential for efficient translocation and tethering of recombinant passenger
+proteins to the outer membrane. We engineered a bacterial display vector based on
+the E. coli AIDA-I autotransporter for anchoring to the bacterial surface.
+Potential advantages of employing autotransporters combined with E. coli as host 
+include: high surface expression level, high transformation frequency,
+alternative promoter systems available, efficient translocation to the outer
+membrane and tolerance for large multi-domain passenger proteins.
+RESULTS: The new vector was designed to comprise an expression cassette encoding 
+for an Affibody molecule, three albumin binding domains for monitoring of surface
+expression levels, an Outer membrane Protease T (OmpT) recognition site for
+potential protease-mediated secretion of displayed affinity proteins and a
+histidine-tag for purification. A panel of vectors with different promoters were 
+generated and evaluated, and suitable cultivation conditions were investigated.
+The results demonstrated a high surface expression level of the different
+evaluated Affibody molecules, high correlation between target binding and surface
+expression level, high signal-to-background ratio, efficient secretion and
+purification of binders in OmpT-positive hosts as well as tight regulation of
+surface expression for the titratable promoters. Importantly, a mock selection
+using FACS from a 1:100,000 background yielded around 20,000-fold enrichment in a
+single round and high viability of the isolated bacteria after sorting.
+CONCLUSIONS: The new expression vectors are promising for combinatorial
+engineering of Affibody molecules and the strategy for small-scale production of 
+soluble recombinant proteins has the potential to increase throughput of the
+entire discovery process.
+
+DOI: 10.1186/s12934-014-0179-z 
+PMCID: PMC4304625
+PMID: 25547008  [Indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+1. Int J Therm Sci. 2022 Feb;172:107371. doi: 10.1016/j.ijthermalsci.2021.107371.
+Epub 2021 Nov 11.
+
+A control strategy for cabin temperature of electric vehicle considering health
+ventilation for lowering virus infection.
+
+Liu Z(1), Xie Y(1), Hu X(1), Shi B(2), Lin X(3).
+
+Author information: 
+(1)College of Mechanical and Vehicle Engineering, Chongqing University,
+Chongqing, 400044, China.
+(2)Chongqing University Cancer Hospital, School of Medicine, Chongqing
+University, Chongqing, 404000, China.
+(3)Department of Automotive and Mechatronics Engineering, Ontario Tech
+University, Oshawa, Ontario L1G 0C5, Canada.
+
+A cooperative control strategy is proposed for the air conditioning (AC) system
+and ventilation system to reduce the risk of COVID-19 infection and save the
+energy of the AC system. This strategy integrates the dynamic model of the
+AC-cabin system, infection risk assessment, model predictive control (MPC) of the
+thermal environment inside the cabin, and ventilation control that considers
+passengers' sneezing. Unlike other existing AC system models, the thermal-health 
+model established can describe not only the system performance but also the virus
+concentration and risk of COVID-19 infection using the Wells-Riley assessment
+model. Experiments are conducted to verify the prediction accuracy of the
+AC-cabin model. The results prove that the proposed model can accurately predict 
+the evolution of cabin temperature under different cases. The cooperative control
+strategy of the AC system integrates the MPC-based refrigeration algorithm for
+the cabin temperature and intermittent ventilation strategy to reduce the risk of
+COVID-19 infection. This strategy well balances the control accuracy, energy
+consumption of the AC system, and the risk of COVID-19 infection, and greatly
+reduces the infection risk at the expense of a little rise in the energy
+consumption.
+
+© 2021 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.ijthermalsci.2021.107371 
+PMCID: PMC8582288
+PMID: 34785972 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

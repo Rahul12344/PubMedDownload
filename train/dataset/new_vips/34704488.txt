@@ -1,0 +1,42 @@
+
+1. J Prim Care Community Health. 2021 Jan-Dec;12:21501327211054281. doi:
+10.1177/21501327211054281.
+
+Early Determinants of Length of Hospital Stay: A Case Control Survival Analysis
+among COVID-19 Patients admitted in a Tertiary Healthcare Facility of East India.
+
+Agarwal N(1), Biswas B(2), Singh C(2), Nair R(2), Mounica G(2), H H(2), Jha
+AR(2), Das KM(2).
+
+Author information: 
+(1)All India Institute of Medical Sciences, Bibinagar, Telangana, India.
+(2)All India Institute of Medical Sciences, Patna, Bihar, India.
+
+BACKGROUND: Length of hospital stay (LOS) for a disease is a vital estimate for
+healthcare logistics planning. The study aimed to illustrate the effect of
+factors elicited on arrival on LOS of the COVID-19 patients.
+MATERIALS AND METHODS: It was a retrospective, record based, unmatched, case
+control study using hospital records of 334 COVID-19 patients admitted in an East
+Indian tertiary healthcare facility during May to October 2020. Discharge from
+the hospital (cases/survivors) was considered as an event while death
+(control/non-survivors) as right censoring in the case-control survival analysis 
+using cox proportional hazard model.
+RESULTS: Overall, we found the median LOS for the survivors to be 8 days
+[interquartile range (IQR): 7-10 days] while the same for the non-survivors was
+6 days [IQR: 2-11 days]. In the multivariable cox-proportional hazard model;
+travel distance (>16 km) [adjusted hazard ratio (aHR): 0.69, 95% CI:
+(0.50-0.95)], mode of transport to the hospital (ambulance) [aHR: 0.62, 95% CI:
+(0.45-0.85)], breathlessness (yes) [aHR: 0.56, 95% CI: (0.40-0.77)], number of
+co-morbidities (1-2) [aHR: 0.66, 95% CI: (0.47-0.93)] (≥3) [aHR: 0.16, 95% CI:
+(0.04-0.65)], COPD/asthma (yes) [ [aHR: 0.11, 95% CI: (0.01-0.79)], DBP (<60/≥90)
+[aHR: 0.55, 95% CI: (0.35-0.86)] and qSOFA score (≥2) [aHR: 0.33, 95% CI:
+(0.12-0.92)] were the significant attributes affecting LOS of the COVID-19
+patients.
+CONCLUSION: Factors elicited on arrival were found to be significantly associated
+with LOS. A scoring system inculcating these factors may be developed to predict 
+LOS of the COVID-19 patients.
+
+DOI: 10.1177/21501327211054281 
+PMCID: PMC8554553
+PMID: 34704488  [Indexed for MEDLINE]
+

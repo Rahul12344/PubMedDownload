@@ -1,0 +1,84 @@
+
+1. Cancer Epidemiol. 2016 Dec;45:47-57. doi: 10.1016/j.canep.2016.09.007. Epub 2016 
+Oct 1.
+
+MicroRNA-related polymorphisms and non-Hodgkin lymphoma susceptibility in the
+Multicenter AIDS Cohort Study.
+
+Peckham-Gregory EC(1), Thapa DR(2), Martinson J(3), Duggal P(4), Penugonda S(5), 
+Bream JH(6), Chang PY(7), Dandekar S(8), Chang SC(7), Detels R(7), Martínez-Maza 
+O(9), Zhang ZF(7), Hussain SK(10).
+
+Author information: 
+(1)Department of Epidemiology, Fielding School of Public Health, University of
+California, Los Angeles (UCLA), Box 951772, 71-267 CHS, Los Angeles, CA
+90095-1772, USA. Electronic address: Erin.Peckham@bcm.edu.
+(2)Departments of Obstetrics and Gynecology, and Microbiology, Immunology, and
+Molecular Genetics, David Geffen School of Medicine, UCLA, Box 951740, 153 BSRB, 
+Los Angeles, CA 90095-1740, USA.
+(3)Department of Infectious Disease and Microbiology, Graduate School of Public
+Health, University of Pittsburgh, 403 Parran Hall, 130 DeSoto Street, Pittsburgh,
+PA 15261, USA.
+(4)Department of Epidemiology, Bloomberg School of Public Health, Johns Hopkins
+University, 615 North Wolfe Street, Room E6539, Baltimore, MD 21205, USA.
+(5)Division of Infectious Diseases, Feinberg School of Medicine, Northwestern
+University, 645 North Michigan Avenue, Suite 900, Chicago, IL 60611, USA.
+(6)Department of Molecular Microbiology and Immunology, Bloomberg School of
+Public Health, Johns Hopkins University, 615 North Wolfe Street, Room E5624,
+Baltimore, MD 21205, USA.
+(7)Department of Epidemiology, Fielding School of Public Health, University of
+California, Los Angeles (UCLA), Box 951772, 71-267 CHS, Los Angeles, CA
+90095-1772, USA.
+(8)The UCLA Genotyping and Sequencing Core, Department of Human Genetics, David
+Geffen School of Medicine, UCLA, CHS 36-125, 650 Charles E Young Drive South, Los
+Angeles, CA 90095, USA.
+(9)Department of Epidemiology, Fielding School of Public Health, University of
+California, Los Angeles (UCLA), Box 951772, 71-267 CHS, Los Angeles, CA
+90095-1772, USA; Departments of Obstetrics and Gynecology, and Microbiology,
+Immunology, and Molecular Genetics, David Geffen School of Medicine, UCLA, Box
+951740, 153 BSRB, Los Angeles, CA 90095-1740, USA; Jonsson Comprehensive Cancer
+Center, UCLA, Box 951740, 153 BSRB, Los Angeles, CA 90095-1740, USA; UCLA AIDS
+Institute, UCLA, Box 951740, 153 BSRB, Los Angeles, CA 90095-1740, USA.
+(10)Department of Epidemiology, Fielding School of Public Health, University of
+California, Los Angeles (UCLA), Box 951772, 71-267 CHS, Los Angeles, CA
+90095-1772, USA; Department of Medicine and Samuel Oschin Comprehensive Cancer
+Center, Cedars-Sinai Medical Center, 8700 Beverly Blvd, West Hollywood, CA 90048,
+USA.
+
+BACKGROUND: MicroRNAs, small non-coding RNAs involved in gene regulation, are
+implicated in lymphomagenesis. We evaluated whether genetic variations in
+microRNA coding regions, binding sites, or biogenesis genes (collectively
+referred to as miRNA-SNPs) were associated with risk of AIDS-associated
+non-Hodgkin lymphoma (AIDS-NHL), and serum levels of four lymphoma-related
+microRNAs.
+METHODS: Twenty-five miRNA-SNPs were genotyped in 180 AIDS-NHL cases and 529
+HIV-infected matched controls from the Multicenter AIDS Cohort Study (MACS), and 
+real-time polymerase chain reaction was used to quantify serum microRNA levels.
+Adjusted odds ratios (ORs) estimated using conditional logistic regression
+evaluated associations between miRNA-SNPs and AIDS-NHL risk. A semi-Bayes
+shrinkage approach was employed to reduce likelihood of false-positive
+associations. Adjusted mean ratios (MR) calculated using linear regression
+assessed associations between miRNA-SNPs and serum microRNA levels.
+RESULTS: DDX20 rs197412, a non-synonymous miRNA biogenesis gene SNP, was
+associated with AIDS-NHL risk (OR=1.34 per minor allele; 95% CI: 1.02-1.75), and 
+higher miRNA-222 serum levels nearing statistical significance (MR=1.21 per minor
+allele; 95% CI: 0.98-1.49). MiRNA-196a2 rs11614913 was associated with decreased 
+central nervous system (CNS) AIDS-NHL (CT vs. CC OR=0.52; 95% CI: 0.27-0.99). The
+minor allele of HIF1A rs2057482, which creates a miRNA-196a2 binding site, was
+associated with systemic AIDS-NHL risk (OR=1.73 per minor allele; 95% CI:
+1.12-2.67), and decreased CNS AIDS-NHL risk (OR=0.49 per minor allele; 95% CI:
+0.25-0.94).
+CONCLUSIONS: This study suggests that a few miRNA-SNPs are associated with
+AIDS-NHL risk and may modulate miRNA expression. These results support a role for
+miRNA in AIDS-NHL and may highlight pathways to be targeted for risk
+stratification or therapeutics.
+
+Copyright Â© 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.canep.2016.09.007 
+PMCID: PMC5127653
+PMID: 27701053  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+Declaration of Interest: ‘Conflicts of interest: none’.
+

@@ -1,0 +1,44 @@
+
+1. Heliyon. 2021 Oct;7(10):e08207. doi: 10.1016/j.heliyon.2021.e08207. Epub 2021 Oct
+20.
+
+Modeling viral dynamics in SARS-CoV-2 infection based on differential equations
+and numerical analysis.
+
+Odaka M(1)(2), Inoue K(2)(1).
+
+Author information: 
+(1)Department of Informatics, The Graduate University for Advanced Studies,
+SOKENDAI, 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo, 101-8430, Japan.
+(2)Principles of Informatics Research Division, National Institute of
+Informatics, 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo, 101-8430, Japan.
+
+Computational modeling and simulation of viral dynamics would explain the
+pathogenesis for any virus. Such computational attempts have been successfully
+made to predict and control HIV-1 or hepatitis B virus. However, the dynamics for
+SARS-CoV-2 has not been adequately investigated. The purpose of this research is 
+to propose different SARS-CoV-2 dynamics models based on differential equations
+and numerical analysis towards distilling the models to explain the mechanism of 
+SARS-CoV-2 pathogenesis. The proposed four models formalize the dynamical system 
+of SARS-CoV-2 infection, which consists of host cells and viral particles. These 
+models undergo numerical analysis, including sensitivity analysis and stability
+analysis. Based on the sensitivity indices of the four models' parameters, the
+four models are simplified into two models. In advance of the following
+calibration experiments, the eigenvalues of the Jacobian matrices of these two
+models are calculated, thereby guaranteeing that any solutions are stable. Then, 
+the calibration experiments fit the simulated data sequences of the two models to
+two observed data sequences, SARS-CoV-2 viral load in mild cases and that in
+severe cases. Comparing the estimated parameters in mild cases and severe cases
+indicates that cell-to-cell transmission would significantly correlate to the
+COVID-19 severity. These experiments for modeling and simulation provide
+plausible computational models for the SARS-CoV-2 dynamics, leading to further
+investigation for identifying the essential factors in severe cases.
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.heliyon.2021.e08207 
+PMCID: PMC8527106
+PMID: 34693064 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

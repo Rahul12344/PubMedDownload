@@ -1,0 +1,61 @@
+
+1. plos one. 2019 jan 30;14(1):e0210586. doi: 10.1371/journal.pone.0210586.
+ecollection 2019.
+
+contrasting patterns gene expression indicate differing pyrethroid resistance 
+mechanisms across range new world malaria vector anopheles albimanus.
+
+mackenzie-impoinvil l(1), weedall gd(2)(3), lol jc(4), pinto j(5), vizcaino l(1),
+dzuris n(1), riveron j(2)(6), padilla n(4), wondji c(2)(6), lenhart a(1).
+
+author information: 
+(1)entomology branch, division parasitic diseases malaria, center for
+global health, centers disease control prevention, atlanta, georgia,
+united states america.
+(2)vector biology department, liverpool school tropical medicine, liverpool,
+united kingdom.
+(3)school natural sciences psychology, liverpool john moores university,
+liverpool, united kingdom.
+(4)centro de estudios en salud, universidad del valle de guatemala, guatemala.
+(5)instituto nacional de salud lima, lima, peru.
+(6)centre research infectious diseases (crid), yaoundé, cameroon.
+
+decades unmanaged insecticide use routine exposure agrochemicals have
+left many populations malaria vectors americas resistant multiple
+classes insecticides, including pyrethroids. molecular basis pyrethroid
+resistance relatively uncharacterised american malaria vectors, preventing 
+the design suitable resistance management strategies. using whole
+transcriptome sequencing, characterized mechanisms pyrethroid
+resistance anopheles albimanus peru guatemala. an. albimanus were
+phenotyped either deltamethrin alpha-cypermethrin resistant. rna 1)
+resistant, 2) unexposed, 3) susceptible laboratory strain an. albimanus 
+was sequenced analyzed using rna-seq. expression profiles three groups
+were compared based current annotation an. albimanus reference
+genome. several candidate genes associated pyrethroid resistance other
+malaria vectors found overexpressed resistant an. albimanus. in
+addition, gene ontology terms related serine-type endopeptidase activity,
+extracellular activity chitin metabolic process also commonly
+overexpressed field caught resistant unexposed samples peru 
+and guatemala compared susceptible strain. cytochrome p450 cyp9k1
+was overexpressed 14x deltamethrin 8x alpha-cypermethrin-resistant
+samples peru 2x deltamethrin-resistant samples guatemala,
+relative susceptible laboratory strain. cyp6p5 overexpressed 68x in
+deltamethrin-resistant samples peru deltamethrin-resistant
+samples guatemala. comparing overexpressed genes between
+deltamethrin-resistant alpha-cypermethrin-resistant samples peru, a
+single p450 gene, cyp4c26, overexpressed 9.8x (p<0.05) in
+alpha-cypermethrin-resistant samples. peruvian deltamethrin-resistant samples,
+the knockdown resistance mutation (kdr) variant alleles position 1014 were
+rare, approximately 5% frequency, alpha-cypermethrin-resistant
+samples, frequency alleles approximately 15-30%. functional
+validation candidate genes kdr mutation resistance marker for
+alpha-cypermethrin confirm role mechanisms conferring
+pyrethroid resistance.
+
+doi: 10.1371/journal.pone.0210586 
+pmcid: pmc6353143
+pmid: 30699158  [indexed medline]
+
+conflict interest statement: authors declared competing
+interests exist.
+

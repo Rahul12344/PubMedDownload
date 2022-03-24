@@ -1,0 +1,42 @@
+
+1. J Biol Chem. 2013 Jul 5;288(27):19715-25. doi: 10.1074/jbc.M112.449652. Epub 2013
+May 17.
+
+Phosphorylation of minichromosome maintenance protein 7 (MCM7) by
+cyclin/cyclin-dependent kinase affects its function in cell cycle regulation.
+
+Wei Q(1), Li J, Liu T, Tong X, Ye X.
+
+Author information: 
+(1)Chinese Academy of Sciences Key Laboratory of Pathogenic Microbiology and
+Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing
+100101, China.
+
+MCM7 is one of the subunits of the MCM2-7 complex that plays a critical role in
+DNA replication initiation and cell proliferation of eukaryotic cells. After
+forming the pre-replication complex (pre-RC) with other components, the MCM2-7
+complex is activated by DDK/cyclin-dependent kinase to initiate DNA replication. 
+Each subunit of the MCM2-7 complex functions differently under regulation of
+various kinases on the specific site, which needs to be investigated in detail.
+In this study, we demonstrated that MCM7 is a substrate of cyclin E/Cdk2 and can 
+be phosphorylated on Ser-121. We found that the distribution of MCM7-S121A is
+different from wild-type MCM7 and that the MCM7-S121A mutant is much less
+efficient to form a pre-RC complex with MCM3/MCM5/cdc45 compared with wild-type
+MCM7. By using the Tet-On inducible HeLa cell line, we revealed that
+overexpression of wild-type MCM7 but not MCM7-S121A can block S phase entry,
+suggesting that an excess of the pre-RC complex may activate the cell cycle
+checkpoint. Further analysis indicates that the Chk1 pathway is activated in
+MCM7-overexpressed cells in a p53-dependent manner. We performed experiments with
+the human normal cell line HL-7702 and also observed that overexpression of MCM7 
+can cause S phase block through checkpoint activation. In addition, we found that
+MCM7 could also be phosphorylated by cyclin B/Cdk1 on Ser-121 both in vitro and
+in vivo. Furthermore, overexpression of MCM7-S121A causes an obvious M phase exit
+delay, which suggests that phosphorylation of MCM7 on Ser-121 in M phase is very 
+important for a proper mitotic exit. These data suggest that the phosphorylation 
+of MCM7 on Ser-121 by cyclin/Cdks is involved in preventing DNA rereplication as 
+well as in regulation of the mitotic exit.
+
+DOI: 10.1074/jbc.M112.449652 
+PMCID: PMC3707676
+PMID: 23720738  [Indexed for MEDLINE]
+

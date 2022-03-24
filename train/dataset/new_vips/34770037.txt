@@ -1,0 +1,46 @@
+
+1. Int J Environ Res Public Health. 2021 Nov 2;18(21). pii: 11523. doi:
+10.3390/ijerph182111523.
+
+The Impact of Large Mobile Air Purifiers on Aerosol Concentration in Classrooms
+and the Reduction of Airborne Transmission of SARS-CoV-2.
+
+Duill FF(1), Schulz F(1), Jain A(2), Krieger L(1), van Wachem B(2), Beyrau F(1).
+
+Author information: 
+(1)Institute of Fluid Dynamics and Thermodynamics, Otto von Guericke University
+Magdeburg, 39106 Magdeburg, Germany.
+(2)Institute of Process Engineering, Otto von Guericke University Magdeburg,
+39106 Magdeburg, Germany.
+
+In the wake of the COVID-19 pandemic, an increased risk of infection by
+virus-containing aerosols indoors is assumed. Especially in schools, the duration
+of stay is long and the number of people in the rooms is large, increasing the
+risk of infection. This problem particularly affects schools without
+pre-installed ventilation systems that are equipped with filters and/or operate
+with fresh air. Here, the aerosol concentration is reduced by natural
+ventilation. In this context, we are investigating the effect of large mobile air
+purifiers (AP) with HEPA filters on particle concentration and their suitability 
+for classroom use in a primary school in Germany. The three tested APs differ
+significantly in their air outlet characteristics. Measurements of the number of 
+particles, the particle size distribution, and the CO2 concentration were carried
+out in the classroom with students (April/May 2021) and with an aerosol generator
+without students. In this regard, the use of APs leads to a substantial reduction
+of aerosol particles in the considered particle size range of 0.178-17.78 µm. At 
+the same time, the three APs are found to have differences in their particle
+decay rate, noise level, and flow velocity. In addition to the measurements, the 
+effect of various influencing parameters on the potential inhaled particle dose
+was investigated using a calculation model. The parameters considered include the
+duration of stay, particle concentration in exhaled air, respiratory flow rate,
+virus lifetime, ventilation interval, ventilation efficiency, AP volumetric flow,
+as well as room size. Based on the resulting effect diagrams, significant
+recommendations can be derived for reducing the risk of infection from
+virus-laden aerosols. Finally, the measurements were compared to computational
+fluid dynamics (CFD) modeling, as such tools can aid the optimal placement and
+configuration of APs and can be used to study the effect of the spread of
+aerosols from a source in the classroom.
+
+DOI: 10.3390/ijerph182111523 
+PMCID: PMC8583054
+PMID: 34770037  [Indexed for MEDLINE]
+

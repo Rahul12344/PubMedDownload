@@ -1,0 +1,42 @@
+
+1. ACS Infect Dis. 2021 Dec 2. doi: 10.1021/acsinfecdis.1c00433. [Epub ahead of
+print]
+
+Structure and Mutations of SARS-CoV-2 Spike Protein: A Focused Overview.
+
+Mehra R(1), Kepp KP(2).
+
+Author information: 
+(1)Department of Chemistry, Indian Institute of Technology Bhilai, Sejbahar,
+Raipur 492015, Chhattisgarh, India.
+(2)DTU Chemistry, Technical University of Denmark, Building 206, 2800 Kongens
+Lyngby, Denmark.
+
+The spike protein (S-protein) of SARS-CoV-2, the protein that enables the virus
+to infect human cells, is the basis for many vaccines and a hotspot of concerning
+virus evolution. Here, we discuss the outstanding progress in structural
+characterization of the S-protein and how these structures facilitate analysis of
+virus function and evolution. We emphasize the differences in reported structures
+and that analysis of structure-function relationships is sensitive to the
+structure used. We show that the average residue solvent exposure in nearly
+complete structures is a good descriptor of open vs closed conformation states.
+Because of structural heterogeneity of functionally important surface-exposed
+residues, we recommend using averages of a group of high-quality protein
+structures rather than a single structure before reaching conclusions on specific
+structure-function relationships. To illustrate these points, we analyze some
+significant chemical tendencies of prominent S-protein mutations in the context
+of the available structures. In the discussion of new variants, we emphasize the 
+selectivity of binding to ACE2 vs prominent antibodies rather than simply the
+antibody escape or ACE2 affinity separately. We note that larger chemical
+changes, in particular increased electrostatic charge or side-chain volume of
+exposed surface residues, are recurring in mutations of concern, plausibly
+related to adaptation to the negative surface potential of human ACE2. We also
+find indications that the fixated mutations of the S-protein in the main variants
+are less destabilizing than would be expected on average, possibly pointing
+toward a selection pressure on the S-protein. The richness of available
+structures for all of these situations provides an enormously valuable basis for 
+future research into these structure-function relationships.
+
+DOI: 10.1021/acsinfecdis.1c00433 
+PMID: 34856799 
+

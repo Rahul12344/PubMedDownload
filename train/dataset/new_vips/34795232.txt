@@ -1,0 +1,39 @@
+
+1. Nat Commun. 2021 Nov 18;12(1):6728. doi: 10.1038/s41467-021-26944-y.
+
+Jumper enables discontinuous transcript assembly in coronaviruses.
+
+Sashittal P(1), Zhang C(2), Peng J(1)(3), El-Kebir M(4).
+
+Author information: 
+(1)Department of Computer Science, University of Illinois at Urbana-Champaign,
+Urbana, IL, 61801, USA.
+(2)Department of Electrical and Computer Engineering, University of Illinois at
+Urbana-Champaign, Urbana, IL, 61801, USA.
+(3)College of Medicine, University of ILlinois at Urbana-Champaign, Urbana, IL,
+61801, USA.
+(4)Department of Computer Science, University of Illinois at Urbana-Champaign,
+Urbana, IL, 61801, USA. melkebir@illinois.edu.
+
+Genes in SARS-CoV-2 and other viruses in the order of Nidovirales are expressed
+by a process of discontinuous transcription which is distinct from alternative
+splicing in eukaryotes and is mediated by the viral RNA-dependent RNA polymerase.
+Here, we introduce the DISCONTINUOUS TRANSCRIPT ASSEMBLYproblem of finding
+transcripts and their abundances given an alignment of paired-end short reads
+under a maximum likelihood model that accounts for varying transcript lengths. We
+show, using simulations, that our method, JUMPER, outperforms existing methods
+for classical transcript assembly. On short-read data of SARS-CoV-1, SARS-CoV-2
+and MERS-CoV samples, we find that JUMPER not only identifies canonical
+transcripts that are part of the reference transcriptome, but also predicts
+expression of non-canonical transcripts that are supported by subsequent
+orthogonal analyses. Moreover, application of JUMPER on samples with and without 
+treatment reveals viral drug response at the transcript level. As such,
+JUMPER enables detailed analyses of Nidovirales transcriptomes under varying
+conditions.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-26944-y 
+PMCID: PMC8602663
+PMID: 34795232 
+

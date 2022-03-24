@@ -1,0 +1,41 @@
+
+1. Nucleic Acids Res. 2019 Apr 8;47(6):3058-3071. doi: 10.1093/nar/gkz045.
+
+Single molecule glycosylase studies with engineered 8-oxoguanine DNA damage sites
+show functional defects of a MUTYH polyposis variant.
+
+Nelson SR(1), Kathe SD(2), Hilzinger TS(2), Averill AM(2), Warshaw DM(1), Wallace
+SS(2), Lee AJ(2).
+
+Author information: 
+(1)Department of Molecular Physiology and Biophysics, Robert Larner College of
+Medicine, University of Vermont, Burlington, VT 05405, USA.
+(2)Department of Microbiology and Molecular Genetics, Robert Larner College of
+Medicine and College of Agriculture and Life Sciences, University of Vermont,
+Burlington, VT 05405, USA.
+
+Proper repair of oxidatively damaged DNA bases is essential to maintain genome
+stability. 8-Oxoguanine (7,8-dihydro-8-oxoguanine, 8-oxoG) is a dangerous DNA
+lesion because it can mispair with adenine (A) during replication resulting in
+guanine to thymine transversion mutations. MUTYH DNA glycosylase is responsible
+for recognizing and removing the adenine from 8-oxoG:adenine (8-oxoG:A) sites.
+Biallelic mutations in the MUTYH gene predispose individuals to MUTYH-associated 
+polyposis (MAP), and the most commonly observed mutation in some MAP populations 
+is Y165C. Tyr165 is a 'wedge' residue that intercalates into the DNA duplex in
+the lesion bound state. Here, we utilize single molecule fluorescence microscopy 
+to visualize the real-time search behavior of Escherichia coli and Mus musculus
+MUTYH WT and wedge variant orthologs on DNA tightropes that contain 8-oxoG:A,
+8-oxoG:cytosine, or apurinic product analog sites. We observe that MUTYH WT is
+able to efficiently find 8-oxoG:A damage and form highly stable bound complexes. 
+In contrast, MUTYH Y150C shows decreased binding lifetimes on undamaged DNA and
+fails to form a stable lesion recognition complex at damage sites. These findings
+suggest that MUTYH does not rely upon the wedge residue for damage site
+recognition, but this residue stabilizes the lesion recognition complex.
+
+© The Author(s) 2019. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkz045 
+PMCID: PMC6451117
+PMID: 30698731  [Indexed for MEDLINE]
+

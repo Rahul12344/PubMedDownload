@@ -1,0 +1,80 @@
+
+1. Mol Genet Metab. 2014 Mar;111(3):331-341. doi: 10.1016/j.ymgme.2013.12.011. Epub 
+2013 Dec 27.
+
+In vivo metabolic flux profiling with stable isotopes discriminates sites and
+quantifies effects of mitochondrial dysfunction in C. elegans.
+
+Vergano SS(#)(1)(2)(3), Rao M(#)(1), McCormack S(#)(4), Ostrovsky J(1), Clarke
+C(1)(2), Preston J(1), Bennett MJ(5), Yudkoff M(2), Xiao R(6), Falk MJ(1)(2).
+
+Author information: 
+(1)Division of Human Genetics, The Children's Hospital of Philadelphia, and
+University of Pennsylvania Perelman School of Medicine, Philadelphia, PA 19104,
+USA.
+(2)Division of Metabolic Disease, The Children's Hospital of Philadelphia and
+University of Pennsylvania Perelman School of Medicine, Philadelphia, PA 19104,
+USA.
+(3)Children's Hospital of The King's Daughters, Division of Medical Genetics and 
+Metabolism, Norfolk, VA, USA.
+(4)Division of Endocrinology, Department of Pediatrics, The Children's Hospital
+of Philadelphia and University of Pennsylvania Perelman School of Medicine,
+Philadelphia, PA 19104, USA.
+(5)Department of Pathology & Laboratory Medicine, The Children's Hospital of
+Philadelphia and University of Pennsylvania Perelman School of Medicine,
+Philadelphia, PA 19104, USA.
+(6)Department of Biostatistics and Epidemiology, University of Pennsylvania
+Perelman School of Medicine, Philadelphia, PA 19104, USA.
+(#)Contributed equally
+
+Mitochondrial respiratory chain (RC) disease diagnosis is complicated both by an 
+absence of biomarkers that sufficiently divulge all cases and limited capacity to
+quantify adverse effects across intermediary metabolism. We applied high
+performance liquid chromatography (HPLC) and mass spectrometry (MS) studies of
+stable-isotope based precursor-product relationships in the nematode, C. elegans,
+to interrogate in vivo differences in metabolic flux among distinct genetic
+models of primary RC defects and closely related metabolic disorders.METHODS: C. 
+elegans strains studied harbor single nuclear gene defects in complex I, II, or
+III RC subunits (gas-1, mev-1, isp-1); enzymes involved in coenzyme Q
+biosynthesis (clk-1), the tricarboxylic acid cycle (TCA, idh-1), or pyruvate
+metabolism (pdha-1); and central nodes of the nutrient-sensing signaling network 
+that involve insulin response (daf-2) or the sirtuin homologue (sir-2.1).
+Synchronous populations of 2000 early larval stage worms were fed standard
+Escherichia coli on nematode growth media plates containing 1,6-(13)C2-glucose
+throughout their developmental period, with samples extracted on the first day of
+adult life in 4% perchloric acid with an internal standard. Quantitation of whole
+animal free amino acid concentrations and isotopic incorporation into amino and
+organic acids throughout development was performed in all strains by HPLC and
+isotope ratio MS, respectively. GC/MS analysis was also performed to quantify
+absolute isotopic incorporation in all molecular species of key TCA cycle
+intermediates in gas-1 and N2 adult worms.
+RESULTS: Genetic mutations within different metabolic pathways displayed distinct
+metabolic profiles. RC complex I (gas-1) and III (isp-1) subunit mutants,
+together with the coenzyme Q biosynthetic mutant (clk-1), shared a similar amino 
+acid profile of elevated alanine and decreased glutamate. The metabolic signature
+of the complex II mutant (mev-1) was distinct from that of the other RC mutants
+but resembled that of the TCA cycle mutant (idh-1) and both signaling mutants
+(daf-2 and sir-2.1). All branched chain amino acid levels were significantly
+increased in the complex I and III mutants but decreased in the PDH mutant
+(pdha-1). The RC complex I, coenzyme Q, TCA cycle, and PDH mutants shared
+significantly increased relative enrichment of lactate+1 and absolute
+concentration of alanine+1, while glutamate+1 enrichment was significantly
+decreased uniquely in the RC mutants. Relative intermediary flux analyses were
+suggestive of proximal TCA cycle disruption in idh-1, completely reduced TCA
+cycle flux in sir-2.1, and apparent distal TCA cycle alteration in daf-2. GC/MS
+analysis with universally-labeled (13)C-glucose in adult worms further showed
+significantly increased isotopic enrichment in lactate, citrate, and malate
+species in the complex I (gas-1) mutant.
+CONCLUSIONS: Stable isotopic/mass spectrometric analysis can sensitively
+discriminate primary RC dysfunction from genetic deficiencies affecting either
+the TCA cycle or pyruvate metabolism. These data are further suggestive that
+metabolic flux analysis using stable isotopes may offer a robust means to
+discriminate and quantify the secondary effects of primary RC dysfunction across 
+intermediary metabolism.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymgme.2013.12.011 
+PMCID: PMC3947636
+PMID: 24445252  [Indexed for MEDLINE]
+

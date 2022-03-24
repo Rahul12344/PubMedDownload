@@ -1,0 +1,47 @@
+
+1. Cell Death Dis. 2016 Oct 13;7(10):e2406. doi: 10.1038/cddis.2016.315.
+
+DDX3 DEAD-box RNA helicase plays a central role in mitochondrial protein quality 
+control in Leishmania.
+
+Padmanabhan PK(1), Zghidi-Abouzid O(1), Samant M(2), Dumas C(1), Aguiar BG(1),
+Estaquier J(1)(3), Papadopoulou B(1).
+
+Author information: 
+(1)Research Center in Infectious Diseases, CHU de Quebec Research
+Center-University Laval and Department of Microbiology, Infectious Disease and
+Immunology, Faculty of Medicine, University Laval, Quebec, QC, Canada.
+(2)Department of Zoology, Kumaun University, Almora, Uttarakhand, India.
+(3)CNRS FR3636, Université Paris Descartes, Paris, France.
+
+DDX3 is a highly conserved member of ATP-dependent DEAD-box RNA helicases with
+multiple functions in RNA metabolism and cellular signaling. Here, we describe a 
+novel function for DDX3 in regulating the mitochondrial stress response in the
+parasitic protozoan Leishmania. We show that genetic inactivation of DDX3 leads
+to the accumulation of mitochondrial reactive oxygen species (ROS) associated
+with a defect in hydrogen peroxide detoxification. Upon stress, ROS production is
+greatly enhanced, causing mitochondrial membrane potential loss, mitochondrial
+fragmentation, and cell death. Importantly, this phenotype is exacerbated upon
+oxidative stress in parasites forced to use the mitochondrial oxidative
+respiratory machinery. Furthermore, we show that in the absence of DDX3, levels
+of major components of the unfolded protein response as well as of
+polyubiquitinated proteins increase in the parasite, particularly in the
+mitochondrion, as an indicator of mitochondrial protein damage. Consistent with
+these findings, immunoprecipitation and mass-spectrometry studies revealed
+potential interactions of DDX3 with key components of the cellular stress
+response, particularly the antioxidant response, the unfolded protein response,
+and the AAA-ATPase p97/VCP/Cdc48, which is essential in mitochondrial protein
+quality control by driving proteosomal degradation of polyubiquitinated proteins.
+Complementation studies using DDX3 deletion mutants lacking conserved motifs
+within the helicase core support that binding of DDX3 to ATP is essential for
+DDX3's function in mitochondrial proteostasis. As a result of the inability of
+DDX3-depleted Leishmania to recover from ROS damage and to survive various
+stresses in the host macrophage, parasite intracellular development was impaired.
+Collectively, these observations support a central role for the Leishmania DDX3
+homolog in preventing ROS-mediated damage and in maintaining mitochondrial
+protein quality control.
+
+DOI: 10.1038/cddis.2016.315 
+PMCID: PMC5133982
+PMID: 27735940  [Indexed for MEDLINE]
+

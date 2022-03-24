@@ -1,0 +1,54 @@
+
+1. Int J Infect Dis. 2021 Nov 7;114:112-114. doi: 10.1016/j.ijid.2021.11.006. [Epub 
+ahead of print]
+
+SARS-CoV-2 variants with T135I nucleocapsid mutations may affect antigen test
+performance.
+
+Jian MJ(1), Chung HY(1), Chang CK(1), Lin JC(2), Yeh KM(2), Chen CW(3), Lin
+DY(2), Chang FY(2), Hung KS(4), Perng CL(1), Shang HS(5).
+
+Author information: 
+(1)Division of Clinical Pathology, Department of Pathology, Tri-Service General
+Hospital, National Defense Medical Center, Taipei, Taiwan, ROC.
+(2)Division of Infectious Diseases and Tropical Medicine, Department of Medicine,
+Tri-Service General Hospital, National Defense Medical Center, Taipei, Taiwan,
+ROC.
+(3)Division of Pulmonary and Critical Care Medicine, Department of Medicine,
+Tri-Service General Hospital, National Defense Medical Center, Taipei, Taiwan,
+ROC.
+(4)Center for Precision Medicine and Genomics, Tri-Service General Hospital,
+National Defense Medical Center, Taipei, Taiwan, ROC.
+(5)Division of Clinical Pathology, Department of Pathology, Tri-Service General
+Hospital, National Defense Medical Center, Taipei, Taiwan, ROC. Electronic
+address: iamkeith001@gmail.com.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused a
+pandemic. Diagnostic testing for SARS-CoV-2 has continuously been challenged due 
+to several variants with diverse spike (S) and nucleocapsid (N) protein mutations
+[]. SARS-CoV-2 variant proliferation potentially affects N protein-targeted rapid
+antigen testing. In this study, rapid antigen and reverse transcription PCR
+(RT-PCR) tests were performed simultaneously in patients with suspected
+coronavirus disease 2019 (COVID-19). Direct whole genome sequencing was performed
+to determine the N protein variations, and the viral assemblies were uploaded to 
+GISAID. The genomes were then compared with those of global virus strains from
+GISAID. These isolates belonged to the B.1.1.7 variant, exhibiting several amino 
+acid substitutions, including D3L, R203K, G204R, and S235F N protein mutations.
+The T135I mutation was also identified in one variant case in which the rapid
+antigen test and RT-PCR test were discordantly negative and positive,
+respectively. These findings suggest that the variants undetected by the Panbio
+COVID-19 rapid antigen test may be due to the T135I mutation in the N protein,
+posing a potential diagnostic risk for commercially available antigen tests.
+Hence, we recommend concomitant paired rapid antigen tests and molecular
+diagnostic methods to detect SARS-CoV-2. False-negative results could be rapidly 
+corrected using confirmatory RT-PCR results to prevent future COVID-19 outbreaks.
+
+Copyright © 2021 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ijid.2021.11.006 
+PMCID: PMC8572148
+PMID: 34758391 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare no conflicts of interest.
+

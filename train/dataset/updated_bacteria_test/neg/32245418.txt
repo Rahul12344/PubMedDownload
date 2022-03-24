@@ -1,0 +1,60 @@
+
+1. BMC Genomics. 2020 Apr 3;21(1):279. doi: 10.1186/s12864-020-6683-0.
+
+Re-annotation of the Theileria parva genome refines 53% of the proteome and
+uncovers essential components of N-glycosylation, a conserved pathway in many
+organisms.
+
+Tretina K(1), Pelle R(2), Orvis J(1), Gotia HT(1), Ifeonu OO(1), Kumari P(1),
+Palmateer NC(1), Iqbal SBA(1), Fry LM(3)(4), Nene VM(5), Daubenberger CA(6)(7),
+Bishop RP(4), Silva JC(8)(9).
+
+Author information: 
+(1)Institute for Genome Sciences, University of Maryland School of Medicine,
+Baltimore, MD, 21201, USA.
+(2)Biosciences Eastern and Central Africa, International Livestock Research
+Institute, Nairobi, Kenya.
+(3)Animal Disease Research Unit, Agricultural Research Service, USDA, Pullman,
+WA, 99164, USA.
+(4)Department of Veterinary Microbiology & Pathology, Washington State
+University, Pullman, WA, 99164, USA.
+(5)International Livestock Research Institute, Nairobi, Kenya.
+(6)Swiss Tropical and Public Health Institute, Basel, Switzerland.
+(7)University of Basel, Basel, Switzerland.
+(8)Institute for Genome Sciences, University of Maryland School of Medicine,
+Baltimore, MD, 21201, USA. jcsilva@som.umaryland.edu.
+(9)Department of Microbiology and Immunology, University of Maryland School of
+Medicine, Baltimore, MD, 21201, USA. jcsilva@som.umaryland.edu.
+
+BACKGROUND: The apicomplexan parasite Theileria parva causes a livestock disease 
+called East coast fever (ECF), with millions of animals at risk in sub-Saharan
+East and Southern Africa, the geographic distribution of T. parva. Over a million
+bovines die each year of ECF, with a tremendous economic burden to pastoralists
+in endemic countries. Comprehensive, accurate parasite genome annotation can
+facilitate the discovery of novel chemotherapeutic targets for disease treatment,
+as well as elucidate the biology of the parasite. However, genome annotation
+remains a significant challenge because of limitations in the quality and
+quantity of the data being used to inform the location and function of
+protein-coding genes and, when RNA data are used, the underlying biological
+complexity of the processes involved in gene expression. Here, we apply our
+recently published RNAseq dataset derived from the schizont life-cycle stage of
+T. parva to update structural and functional gene annotations across the entire
+nuclear genome.
+RESULTS: The re-annotation effort lead to evidence-supported updates in over half
+of all protein-coding sequence (CDS) predictions, including exon changes, gene
+merges and gene splitting, an increase in average CDS length of approximately 50 
+base pairs, and the identification of 128 new genes. Among the new genes
+identified were those involved in N-glycosylation, a process previously thought
+not to exist in this organism and a potentially new chemotherapeutic target
+pathway for treating ECF. Alternatively-spliced genes were identified, and
+antisense and multi-gene family transcription were extensively characterized.
+CONCLUSIONS: The process of re-annotation led to novel insights into the
+organization and expression profiles of protein-coding sequences in this
+parasite, and uncovered a minimal N-glycosylation pathway that changes our
+current understanding of the evolution of this post-translational modification in
+apicomplexan parasites.
+
+DOI: 10.1186/s12864-020-6683-0 
+PMCID: PMC7126163
+PMID: 32245418  [Indexed for MEDLINE]
+

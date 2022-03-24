@@ -1,0 +1,63 @@
+
+1. nucleic acids res. 2016 mar 18;44(5):e41. doi: 10.1093/nar/gkv1131. epub 2015 nov
+17.
+
+an ultra-dense library resource rapid deconvolution mutations cause
+phenotypes escherichia coli.
+
+nehring rb(1), gu f(2), lin hy(1), gibson jl(1), blythe mj(3), wilson r(3), bravo
+núñez ma(4), hastings pj(5), louis ej(3), frisch rl(1), hu jc(6), rosenberg
+sm(7).
+
+author information: 
+(1)department molecular human genetics, baylor college medicine,
+houston, tx 77030, usa department biochemistry molecular biology, baylor
+college medicine, houston, tx 77030, usa department molecular virology 
+microbiology, baylor college medicine, houston, tx 77030, usa dan l.
+duncan cancer center, baylor college medicine, houston, tx 77030, usa.
+(2)department molecular human genetics, baylor college medicine,
+houston, tx 77030, usa.
+(3)deep seq. centre genetics genomics, queens medical centre, university 
+of nottingham, nottingham ng7 2uh, uk.
+(4)department molecular human genetics, baylor college medicine,
+houston, tx 77030, usa department biochemistry molecular biology, baylor
+college medicine, houston, tx 77030, usa department molecular virology 
+microbiology, baylor college medicine, houston, tx 77030, usa dan l.
+duncan cancer center, baylor college medicine, houston, tx 77030, usa
+undergraduate program genomic sciences, national autonomous university of
+mexico, 62210 cuernavaca, mexico.
+(5)department molecular human genetics, baylor college medicine,
+houston, tx 77030, usa dan l. duncan cancer center, baylor college of
+medicine, houston, tx 77030, usa.
+(6)department biochemistry biophysics, texas a&m university texas
+agrilife research, college station, tx 77843, usa.
+(7)department molecular human genetics, baylor college medicine,
+houston, tx 77030, usa department biochemistry molecular biology, baylor
+college medicine, houston, tx 77030, usa department molecular virology 
+microbiology, baylor college medicine, houston, tx 77030, usa dan l.
+duncan cancer center, baylor college medicine, houston, tx 77030, usa
+smr@bcm.edu.
+
+with wide availability whole-genome sequencing (wgs), genetic mapping 
+become rate-limiting step, inhibiting unbiased forward genetics even the
+most tractable model organisms. introduce rapid deconvolution resource and
+method untagged causative mutations mutagenesis, screens, wgs in
+escherichia coli. created deconvoluter-ordered libraries selectable
+insertions every 50 kb e. coli genome. deconvoluter method uses 
+for replacement untagged mutations genome using phage-p1-based
+gene-replacement strategy. validate deconvoluter resource deconvolution
+of 17 17 phenotype-altering mutations screen of
+n-ethyl-n-nitrosourea-induced mutants. deconvoluter resource permits rapid
+unbiased screens gene/function identification enable exploration 
+functions essential genes undiscovered genes/sites/alleles represented
+in existing deletion collections. resource unbiased forward-genetic
+screens mapping-by-sequencing ('forward genomics') demonstrates strategy
+that could similarly enable rapid screens many microbes.
+
+© author(s) 2015. published oxford university press behalf nucleic
+acids research.
+
+doi: 10.1093/nar/gkv1131 
+pmcid: pmc4797258
+pmid: 26578563  [indexed medline]
+

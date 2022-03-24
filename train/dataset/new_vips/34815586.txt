@@ -1,0 +1,51 @@
+
+1. J Mol Struct. 2021 Nov 19:131920. doi: 10.1016/j.molstruc.2021.131920. [Epub
+ahead of print]
+
+Re-Purposing of Hepatitis C Virus FDA Approved Direct Acting Antivirals as
+Potential SARS-CoV-2 Protease Inhibitors.
+
+Uddin R(1), Jalal K(2), Khan K(1), Ul-Haq Z(1).
+
+Author information: 
+(1)Dr. Panjwani Center for Molecular Medicine and Drug Research, International
+Center for Chemical and Biological Sciences, University of Karachi, Pakistan.
+(2)H.E.J. Research Institute of Chemistry, International Center for Chemical and 
+Biological Sciences, University of Karachi, Pakistan.
+
+A new coronavirus strain called as SARS-CoV-2 has emerged from Wuhan, China in
+late 2019 and it caused a worldwide pandemic in a few months. After the Second
+World War, it is the biggest calamity observed as there is no specific US Food
+and Drugs Administration (USFDA) approved drug or vaccine available globally for 
+the treatment. Several clinical trials are ongoing for therapeutic alternatives, 
+however with little success rate. Considering that the time is crucial, the drug 
+repurposing and data obtained from in silico models are one of the most important
+approaches to identify possible lead inhibitors against SARS-CoV-2. More
+recently, the Direct Acting Antivirals (DAAs) are emerged as the most promising
+drugs to control viral infection. The Main Protease (Mpro), a key enzyme in the
+SARS-CoV-2 replication cycle, is found close homolog to the Hepatitis C Virus
+(HCV) protease and could be susceptible of blocking its activity by DAAs. In the 
+current study, the DAAs were investigated as antivirals using structure based
+computational approach against Mpro of SARS-CoV-2 to propose them as new
+therapeutics. In total, 20 DAAs of HCV, including a reference compound O6K were
+docked against Mpro. The docked structures were examined and resulted in the
+identification of six highly promising DAAs i.e. beclabuvir, elbasvir,
+paritaprevir, grazoprevir, simeprevir, and asunapevir exhibiting high theoretical
+binding affinity to Mpro from SARS-CoV-2 in comparison to other DAAs.
+Furthermore, the post docking analysis revealed that Cys145, Glu166, His163,
+Thr26, His41, and Met165 played potential role for the binding of these DAAs
+inside binding site of Mpro. Furthermore, the correlation between binding
+energies were found in accord with the results from the reported IC50s for some
+DAAs. Overall, the current study provides insight to combat COVID-19 using
+FDA-approved DAAs as repurposed drugs.
+
+© 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.molstruc.2021.131920 
+PMCID: PMC8602124
+PMID: 34815586 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

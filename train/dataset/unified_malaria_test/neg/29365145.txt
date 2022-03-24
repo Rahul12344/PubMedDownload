@@ -1,0 +1,44 @@
+
+1. genome biol evol. 2018 feb 1;10(2):553-561. doi: 10.1093/gbe/evy017.
+
+phylochromomap, tool mapping phylogenomic history along chromosomes,
+reveals dynamic nature karyotype evolution plasmodium falciparum.
+
+cerón-romero ma(1)(2), nwaka e(1), owoade z(1), katz la(1)(2).
+
+author information: 
+(1)department biological sciences, smith college, northampton, massachusetts.
+(2)program organismic evolutionary biology, university massachusetts
+amherst.
+
+the genome plasmodium falciparum, causative agent malaria africa,
+has extensively studied since first fully sequenced 2002. however,
+many open questions remain, including understanding chromosomal context of
+molecular evolutionary changes (e.g., relationship chromosome map and
+phylogenetic conservation, patterns gene duplication, patterns of
+selection). here, present phylochromomap, method generates a
+phylogenomic map chromosomes custom-built bioinformatics pipeline.
+using p. falciparum 3d7 model, analyze 2,116 genes homologs to
+941 diverse eukaryotic, bacterial archaeal lineages. estimate level of
+conservation along chromosomes based conservation across clades, identify 
+"young" regions (i.e., recent fast evolving genes) are
+enriched subtelomeric regions compared internal regions. also
+demonstrate patterns molecular evolution paralogous genes differ
+significantly depending location younger paralogs tend found in
+subtelomeric regions whereas older paralogs enriched internal regions.
+combining observations analyses synteny, demonstrate that
+subtelomeric regions actively shuffled among chromosome ends, is
+consistent hypothesis regions prone ectopic
+recombination. also assess patterns selection comparing dn/ds ratios 
+gene family members subtelomeric versus internal regions, include the
+important antigenic gene family var. analyses illustrate highly dynamic
+nature karyotype p. falciparum, provide method exploring
+genome dynamics lineages.
+
+© author(s) 2018. published oxford university press behalf the
+society molecular biology evolution.
+
+doi: 10.1093/gbe/evy017 
+pmcid: pmc5800058
+pmid: 29365145  [indexed medline]
+

@@ -1,0 +1,48 @@
+
+1. Leukemia. 2021 Mar 29. doi: 10.1038/s41375-021-01224-2. [Epub ahead of print]
+
+Downregulation of MTSS1 in acute myeloid leukemia is associated with a poor
+prognosis, chemotherapy resistance, and disease aggressiveness.
+
+Grandits AM(1)(2), Nguyen CH(1)(2), Schlerka A(1)(2), Hackl H(3), Sill H(4),
+Etzler J(1)(2), Heyes E(5), Stoiber D(6), Grebien F(5), Heller G(#)(1)(2), Wieser
+R(#)(7)(8).
+
+Author information: 
+(1)Division of Oncology, Department of Medicine I, Medical University of Vienna, 
+Vienna, Austria.
+(2)Comprehensive Cancer Center, Vienna, Austria.
+(3)Institute of Bioinformatics, Biocenter, Medical University of Innsbruck,
+Innsbruck, Austria.
+(4)Division of Hematology, Medical University of Graz, Graz, Austria.
+(5)Institute for Medical Biochemistry, University of Veterinary Medicine, Vienna,
+Austria.
+(6)Division of Pharmacology, Department of Pharmacology, Physiology and
+Microbiology, Karl Landsteiner University of Health Sciences, Krems, Austria.
+(7)Division of Oncology, Department of Medicine I, Medical University of Vienna, 
+Vienna, Austria. rotraud.wieser@meduniwien.ac.at.
+(8)Comprehensive Cancer Center, Vienna, Austria. rotraud.wieser@meduniwien.ac.at.
+(#)Contributed equally
+
+Despite recent approval of targeted drugs for acute myeloid leukemia (AML)
+therapy, chemotherapy with cytosine arabinoside and anthracyclines remains an
+important pillar of treatment. Both primary and secondary resistance are frequent
+and associated with poor survival, yet the underlying molecular mechanisms are
+incompletely understood. In previous work, we identified genes deregulated
+between diagnosis and relapse of AML, corresponding to therapy naïve and
+resistant states, respectively. Among them was MTSS1, whose downregulation is
+known to enhance aggressiveness of solid tumors. Here we show that low MTSS1
+expression at diagnosis was associated with a poor prognosis in AML. MTSS1
+expression was regulated by promoter methylation, and reduced by cytosine
+arabinoside and the anthracycline daunorubicin. Experimental downregulation of
+MTSS1 affected the expression of numerous genes. It induced the DNA damage
+response kinase WEE1, and rendered human AML cell lines more resistant to
+cytosine arabinoside, daunorubicin, and other anti-cancer drugs. Mtss1 knockdown 
+in murine MLL-AF9-driven AML substantially decreased disease latency, and
+increased leukemic burden and ex vivo chemotherapy resistance. In summary, low
+MTSS1 expression represents a novel factor contributing to disease
+aggressiveness, therapy resistance, and poor outcome in AML.
+
+DOI: 10.1038/s41375-021-01224-2 
+PMID: 33782537 
+

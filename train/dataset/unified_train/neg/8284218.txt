@@ -1,0 +1,50 @@
+
+1. nucleic acids res. 1993 dec 11;21(24):5705-11.
+
+an unstructured mrna region 5' hairpin represent important elements 
+e. coli translation initiation signal determined using bacteriophage t7
+gene 1 translation start site.
+
+helke a(1), geisen rm, vollmer m, sprengart ml, fuchs e.
+
+author information: 
+(1)university heidelberg, germany.
+
+gene 1 bacteriophage t7 early region--the rna polymerase gene--is very
+actively translated infectious cycle phage. 29 base pair
+fragment ribosome binding site containing initiation triplet, the
+shine-dalgarno sequence (s-d), 10 nucleotides (nt) upstream 6 nt downstream
+of central elements cloned vector control expression of
+the mouse dihydrofolate reductase gene (dhfr). although essential parts of
+this translation initiation region (tir) present, fragment showed 
+only low activity. computer analysis revealed potentially inhibitory
+hairpin binding s-d sequence stem base paired vector-derived
+upstream sequences. mutational alterations demonstrated hairpin not
+responsible low activity. however, addition 21 nt t7 gene 1
+upstream sequence 29 base pair fragment capable increasing the
+translational efficiency one order magnitude. computer analysis this
+sequence, including nucleotide shuffling, revealed contains highly
+unstructured region lacking mrna secondary structures hairpin its
+5' end, formed solely t7 sequences. much difference in
+activity whether mrna included lacked vector-derived sequences upstream of
+the hairpin. highly unstructured mrna regions found very
+efficiently expressed t7 genes without obvious sequence homologies. delta
+g values regions higher, i.e. potential secondary structural
+elements fewer, tir genes e. coli. likely due the
+fact t7 lytic phage relying successful infection much
+stronger signals cell cannot afford indispensable balanced
+equilibria interdependent biochemical processes. 5' ends of
+efficient t7 gene mrna formed action rnase iii generally start
+with unstructured region. efficiently expressed t7 genes within a
+polycistronic mrna, however, always contain hairpin preceding structure
+free sequence. suggest formation 5' hairpin releasing
+enough energy keep unstructured regions free secondary rna structures
+for sufficient time give ribosomes factors good chance binding to
+the tir. addition, sequences downstream start codon give rise
+to additional increase efficiency tir almost two orders of
+magnitude.
+
+doi: 10.1093/nar/21.24.5705 
+pmcid: pmc310538
+pmid: 8284218  [indexed medline]
+

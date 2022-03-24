@@ -1,0 +1,61 @@
+
+1. ACS Pharmacol Transl Sci. 2021 Sep 10;4(5):1628-1638. doi:
+10.1021/acsptsci.1c00159. eCollection 2021 Oct 8.
+
+Development of Murine Leukemia Virus Integrase-Derived Peptides That Bind Brd4
+Extra-Terminal Domain as Candidates for Suppression of Acute Myeloid Leukemia.
+
+Xing E(1), Surendranathan N(2), Kong X(3), Cyberski N(2), Garcia JD(4), Cheng
+X(3), Sharma A(5), Li PK(3), Larue RC(6).
+
+Author information: 
+(1)Division of Medicinal Chemistry and Pharmacognosy, The Ohio State University, 
+Columbus, Ohio 43210, United States.
+(2)Division of Pharmaceutics and Pharmacology, College of Pharmacy, The Ohio
+State University, Columbus, Ohio 43210, United States.
+(3)Division of Medicinal Chemistry and Pharmacognosy, College of Pharmacy, The
+Ohio State University, Columbus, Ohio 43210, United States.
+(4)Department of Veterinary Biosciences, College of Veterinary Medicine, The Ohio
+State University, Columbus, Ohio 43210, United States.
+(5)Department of Veterinary Biosciences, College of Veterinary Medicine, and
+Department of Microbial Infection & Immunity, College of Medicine, The Ohio State
+University, Columbus, Ohio 43210, United States.
+(6)Department of Cancer Biology and Genetics, College of Medicine, and Division
+of Pharmaceutics and Pharmacology, College of Pharmacy, The Ohio State
+University, Columbus, Ohio 43210, United States.
+
+The bromodomain and extra-terminal (BET) domain family of proteins, which include
+its prototypical member Brd4, is implicated in a variety of cancers and viral
+infections due to their interaction with cellular and viral proteins. BET
+proteins contain two bromodomains, a common protein motif that selectively binds 
+acetylated lysine on histones. However, they are structurally distinct from other
+bromodomain-containing proteins because they encode a unique C-terminal
+extra-terminal (ET) domain that is important for the protein-protein interactions
+including jumonji C-domain-containing protein 6 (JMJD6) and histone-lysine
+N-methyltransferase NSD3 (NSD3). Brd4 functions primarily during transcription as
+a passive scaffold linking cellular and viral proteins to chromatin. The rapid
+development of clinical inhibitors targeting Brd4 highlights the importance of
+this protein as an anticancer target. Current therapeutic approaches focus on the
+development of small molecule acetylated lysine mimics of histone marks that
+block the ability of the bromodomains to bind their chromatin marks. Thus far,
+bromodomain-targeted agents have shown dose-limiting toxicities due to off-target
+effects on other bromodomain-containing proteins. Here, we exploited a viral-host
+protein interaction interface to design peptides for the disruption of BET
+protein function. A murine leukemia virus (MLV) integrase-derived peptide (ET
+binding motif, EBM) and its shorter minimal binding motif (pentapeptide LKIRL)
+were sufficient to directly bind the Brd4 ET domain and reduce cellular
+proliferation of an acute myeloid leukemia cell line. Using computational and
+biochemical approaches, we identified the minimal essential contacts between EBM 
+and LKIRL peptides and the Brd4 ET domain. Our findings provide a structural
+foundation for inhibiting BET/Brd4-mediated cancers by targeting the ET domain
+with small peptide-based inhibitors.
+
+© 2021 American Chemical Society.
+
+DOI: 10.1021/acsptsci.1c00159 
+PMCID: PMC8506603 [Available on 2022-09-10]
+PMID: 34661079 
+
+Conflict of interest statement: The authors declare no competing financial
+interest.
+

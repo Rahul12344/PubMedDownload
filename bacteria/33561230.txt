@@ -1,0 +1,50 @@
+
+1. G3 (Bethesda). 2021 Jan 18;11(1). pii: jkaa024. doi: 10.1093/g3journal/jkaa024.
+
+In vivo transcriptome analysis provides insights into host-dependent expression
+of virulence factors by Yersinia entomophaga MH96, during infection of Galleria
+mellonella.
+
+Paulson AR(1)(2)(3), O'Callaghan M(1), Zhang XX(4), Rainey PB(2)(5)(6), Hurst
+MRH(1).
+
+Author information: 
+(1)Forage Science, AgResearch Ltd., Lincoln 8140, New Zealand.
+(2)New Zealand Institute for Advanced Study, Massey University, Auckland 0745,
+New Zealand.
+(3)Department of Biology, Queen's University, Kingston, ON K7L 3N6, Canada.
+(4)School of Natural and Computational Sciences, Massey University, Auckland
+0745, New Zealand.
+(5)Laboratoire de Génétique de l'Evolution CBI, ESPCI Paris, Université PSL,
+CNRS, Paris 75005, France.
+(6)Department of Microbial Population Biology, Max Planck Institute for
+Evolutionary Biology, Plön 24306, Germany.
+
+The function of microbes can be inferred from knowledge of genes specifically
+expressed in natural environments. Here, we report the in vivo transcriptome of
+the entomopathogenic bacterium Yersinia entomophaga MH96, captured during
+initial, septicemic, and pre-cadaveric stages of intrahemocoelic infection in
+Galleria mellonella. A total of 1285 genes were significantly upregulated by MH96
+during infection; 829 genes responded to in vivo conditions during at least one
+stage of infection, 289 responded during two stages of infection, and 167
+transcripts responded throughout all three stages of infection compared to in
+vitro conditions at equivalent cell densities. Genes upregulated during the
+earliest infection stage included components of the insecticidal toxin complex
+Yen-TC (chi1, chi2, and yenC1), genes for rearrangement hotspot element
+containing protein yenC3, cytolethal distending toxin cdtAB, and vegetative
+insecticidal toxin vip2. Genes more highly expressed throughout the infection
+cycle included the putative heat-stable enterotoxin yenT and three adhesins
+(usher-chaperone fimbria, filamentous hemagglutinin, and an AidA-like secreted
+adhesin). Clustering and functional enrichment of gene expression data also
+revealed expression of genes encoding type III and VI secretion system-associated
+effectors. Together these data provide insight into the pathobiology of MH96 and 
+serve as an important resource supporting efforts to identify novel insecticidal 
+agents.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of Genetics 
+Society of America.
+
+DOI: 10.1093/g3journal/jkaa024 
+PMCID: PMC7849909
+PMID: 33561230 
+

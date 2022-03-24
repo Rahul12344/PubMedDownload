@@ -1,0 +1,54 @@
+
+1. Retrovirology. 2021 Oct 28;18(1):33. doi: 10.1186/s12977-021-00576-y.
+
+Residues T48 and A49 in HIV-1 NL4-3 Nef are responsible for the counteraction of 
+autophagy initiation, which prevents the ubiquitin-dependent degradation of Gag
+through autophagosomes.
+
+Castro-Gonzalez S(1), Chen Y(2), Benjamin J(2), Shi Y(2), Serra-Moreno R(3).
+
+Author information: 
+(1)Department of Chemistry, Umeå University, Umeå, Sweden.
+(2)Microbiology and Immunology, University of Rochester Medical Center,
+Rochester, NY, USA.
+(3)Microbiology and Immunology, University of Rochester Medical Center,
+Rochester, NY, USA. ruth_serra-moreno@urmc.rochester.edu.
+
+BACKGROUND: Autophagy plays an important role as a cellular defense mechanism
+against intracellular pathogens, like viruses. Specifically, autophagy
+orchestrates the recruitment of specialized cargo, including viral components
+needed for replication, for lysosomal degradation. In addition to this primary
+role, the cleavage of viral structures facilitates their association with pattern
+recognition receptors and MHC-I/II complexes, which assists in the modulation of 
+innate and adaptive immune responses against these pathogens. Importantly,
+whereas autophagy restricts the replicative capacity of human immunodeficiency
+virus type 1 (HIV-1), this virus has evolved the gene nef to circumvent this
+process through the inhibition of early and late stages of the autophagy cascade.
+Despite recent advances, many details of the mutual antagonism between HIV-1 and 
+autophagy still remain unknown. Here, we uncover the genetic determinants that
+drive the autophagy-mediated restriction of HIV-1 as well as the counteraction
+imposed by Nef. Additionally, we also examine the implications of autophagy
+antagonism in HIV-1 infectivity.
+RESULTS: We found that sustained activation of autophagy potently inhibits HIV-1 
+replication through the degradation of HIV-1 Gag, and that this effect is more
+prominent for nef-deficient viruses. Gag re-localizes to autophagosomes where it 
+interacts with the autophagosome markers LC3 and SQSTM1. Importantly,
+autophagy-mediated recognition and recruitment of Gag requires the myristoylation
+and ubiquitination of this virus protein, two post-translational modifications
+that are essential for Gag's central role in virion assembly and budding. We also
+identified residues T48 and A49 in HIV-1 NL4-3 Nef as responsible for impairing
+the early stages of autophagy. Finally, a survey of pandemic HIV-1
+transmitted/founder viruses revealed that these isolates are highly resistant to 
+autophagy restriction.
+CONCLUSIONS: This study provides evidence that autophagy antagonism is important 
+for virus replication and suggests that the ability of Nef to counteract
+autophagy may have played an important role in mucosal transmission. Hence,
+disabling Nef in combination with the pharmacological manipulation of autophagy
+represents a promising strategy to prevent HIV spread.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12977-021-00576-y 
+PMCID: PMC8555152
+PMID: 34711257 
+

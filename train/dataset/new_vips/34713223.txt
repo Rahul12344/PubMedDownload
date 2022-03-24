@@ -1,0 +1,51 @@
+
+1. Front Genome Ed. 2020 Dec 22;2:594984. doi: 10.3389/fgeed.2020.594984.
+eCollection 2020.
+
+CRISPR Technology for Ocular Angiogenesis.
+
+Chung SH(1), Sin TN(1), Ngo T(1), Yiu G(1).
+
+Author information: 
+(1)Department of Ophthalmology and Vision Science, University of California,
+Davis, Sacramento, CA, United States.
+
+Among genome engineering tools, Clustered Regularly Interspaced Short Palindromic
+Repeats (CRISPR)-based approaches have been widely adopted for translational
+studies due to their robustness, precision, and ease of use. When delivered to
+diseased tissues with a viral vector such as adeno-associated virus, direct
+genome editing can be efficiently achieved in vivo to treat different ophthalmic 
+conditions. While CRISPR has been actively explored as a strategy for treating
+inherited retinal diseases, with the first human trial recently initiated, its
+applications for complex, multifactorial conditions such as ocular angiogenesis
+has been relatively limited. Currently, neovascular retinal diseases such as
+retinopathy of prematurity, proliferative diabetic retinopathy, and neovascular
+age-related macular degeneration, which together constitute the majority of
+blindness in developed countries, are managed with frequent and costly injections
+of anti-vascular endothelial growth factor (anti-VEGF) agents that are
+short-lived and burdensome for patients. By contrast, CRISPR technology has the
+potential to suppress angiogenesis permanently, with the added benefit of
+targeting intracellular signals or regulatory elements, cell-specific delivery,
+and multiplexing to disrupt different pro-angiogenic factors simultaneously.
+However, the prospect of permanently suppressing physiologic pathways, the
+unpredictability of gene editing efficacy, and concerns for off-target effects
+have limited enthusiasm for these approaches. Here, we review the evolution of
+gene therapy and advances in adapting CRISPR platforms to suppress retinal
+angiogenesis. We discuss different Cas9 orthologs, delivery strategies, and
+different genomic targets including VEGF, VEGF receptor, and HIF-1α, as well as
+the advantages and disadvantages of genome editing vs. conventional gene
+therapies for multifactorial disease processes as compared to inherited monogenic
+retinal disorders. Lastly, we describe barriers that must be overcome to enable
+effective adoption of CRISPR-based strategies for the management of ocular
+angiogenesis.
+
+Copyright © 2020 Chung, Sin, Ngo and Yiu.
+
+DOI: 10.3389/fgeed.2020.594984 
+PMCID: PMC8525361
+PMID: 34713223 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

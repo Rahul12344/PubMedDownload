@@ -1,0 +1,42 @@
+
+1. Microb Cell Fact. 2011 Sep 14;10:72. doi: 10.1186/1475-2859-10-72.
+
+Optimisation of surface expression using the AIDA autotransporter.
+
+Gustavsson M(1), Bäcklund E, Larsson G.
+
+Author information: 
+(1)Division of Bioprocess Technology, Royal Institute of Technology, Stockholm,
+Sweden.
+
+BACKGROUND: Bacterial surface display is of interest in many applications,
+including live vaccine development, screening of protein libraries and the
+development of whole cell biocatalysts. The goal of this work was to understand
+which parameters result in production of large quantities of cells that at the
+same time express desired levels of the chosen protein on the cell surface. For
+this purpose, staphylococcal protein Z was expressed using the AIDA
+autotransporter in Escherichia coli.
+RESULTS: The use of an OmpT-negative E. coli mutant resulted in successful
+expression of the protein on the surface, while a clear degradation pattern was
+found in the wild type. The expression in the mutant resulted also in a more
+narrow distribution of the surface-anchored protein within the population. Medium
+optimisation showed that minimal medium with glucose gave more than four times as
+high expression as LB-medium. Glucose limited fed-batch was used to increase the 
+cell productivity and the highest protein levels were found at the highest feed
+rates. A maintained high surface expression up to cell dry weights of 18 g l-1
+could also be achieved by repeated glucose additions in batch cultivation where
+production was eventually reduced by low oxygen levels. In spite of this, the
+distribution in the bacterial population of the surface protein was narrower
+using the batch technique.
+CONCLUSIONS: A number of parameters in recombinant protein production were seen
+to influence the surface expression of the model protein with respect both to the
+productivity and to the display on the individual cell. The choice of medium and 
+the cell design to remove proteolytic cleavage were however the most important.
+Both fed-batch and batch processing can be successfully used, but prolonged batch
+processing is probably only possible if the chosen strain has a low acetic acid
+production.
+
+DOI: 10.1186/1475-2859-10-72 
+PMCID: PMC3192670
+PMID: 21917130  [Indexed for MEDLINE]
+

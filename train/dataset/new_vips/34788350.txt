@@ -1,0 +1,36 @@
+
+1. PLoS Pathog. 2021 Nov 17;17(11):e1010070. doi: 10.1371/journal.ppat.1010070.
+eCollection 2021 Nov.
+
+SAFA initiates innate immunity against cytoplasmic RNA virus SFTSV infection.
+
+Liu BY(1), Yu XJ(1), Zhou CM(1).
+
+Author information: 
+(1)State Key Laboratory of Virology, School of Public Health, Wuhan University,
+Wuhan, P.R. China.
+
+Nuclear scaffold attachment factor A (SAFA) is a novel RNA sensor involved in
+sensing viral RNA in the nucleus and mediating antiviral immunity. Severe fever
+with thrombocytopenia syndrome virus (SFTSV) is a bunyavirus that causes SFTS
+with a high fatality rate of up to 30%. It remains elusive whether and how
+cytoplasmic SFTSV can be sensed by the RNA sensor SAFA. Here, we demonstrated
+that SAFA was able to detect SFTSV infection and mediate antiviral interferon and
+inflammatory responses. Transcription and expression levels of SAFA were
+strikingly upregulated under SFTSV infection. SAFA was retained in the cytoplasm 
+by interaction with SFTSV nucleocapsid protein (NP). Importantly, SFTSV genomic
+RNA was recognized by cytoplasmic SAFA, which recruited and promoted activation
+of the STING-TBK1 signaling axis against SFTSV infection. Of note, the nuclear
+localization signal (NLS) domain of SAFA was important for interaction with SFTSV
+NP and recognition of SFTSV RNA in the cytoplasm. In conclusion, our study
+reveals a novel antiviral mechanism in which SAFA functions as a novel
+cytoplasmic RNA sensor that directly recognizes RNA virus SFTSV and mediates an
+antiviral response.
+
+DOI: 10.1371/journal.ppat.1010070 
+PMCID: PMC8598041
+PMID: 34788350 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

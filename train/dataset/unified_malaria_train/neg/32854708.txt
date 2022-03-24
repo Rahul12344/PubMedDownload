@@ -1,0 +1,55 @@
+
+1. malar j. 2020 aug 27;19(1):307. doi: 10.1186/s12936-020-03381-8.
+
+evaluating predictive performance malaria antibodies fcgr3b gene
+polymorphisms plasmodium falciparum infection outcome: prospective cohort
+study.
+
+dwomoh d(1), adu b(2), dodoo d(2), theisen m(3)(4)(5), iddi s(6), gerds ta(7).
+
+author information: 
+(1)department biostatistics, school public health, university ghana,
+accra, ghana. duahdwomoh@yahoo.com.
+(2)department immunology, noguchi memorial institute medical research,
+college health sciences, university ghana, accra, ghana.
+(3)department congenital disorders, statens serum institut, copenhagen,
+denmark.
+(4)centre medical parasitology department international health,
+immunology microbiology, university copenhagen, copenhagen, denmark.
+(5)department infectious diseases, copenhagen university hospital,
+rigshospitalet, copenhagen, denmark.
+(6)department statistics actuarial sciences, university ghana, accra,
+ghana.
+(7)section biostatistics, department public health, university of
+copenhagen, copenhagen, denmark.
+
+background: malaria antigen-specific antibodies polymorphisms host
+receptors involved antibody functionality associated different 
+outcomes plasmodium falciparum infections. thus, identify key prospective
+malaria antigens vaccine development, need evaluate the
+associations malaria antibodies antibody dependent host factors 
+more rigorous statistical methods. study, different statistical models
+were used evaluate predictive performance malaria-specific antibodies
+and host gene polymorphisms p. falciparum infection longitudinal cohort
+study involving ghanaian children.
+methods: models different functional forms built using known predictors
+(age, sickle cell status, blood group status, parasite density, mosquito bed 
+net use) malaria antigen-specific immunoglobulin (ig) g igg subclasses
+and fcgr3b polymorphisms shown mediate antibody-dependent cellular functions. 
+malaria antigens studied merozoite surface proteins (msp-1 msp-3),
+glutamate rich protein (glurp)-r0, r2, apical membrane antigen (ama-1).
+the models evaluated visualization assessment differences
+between area receiver operating characteristic curve brier
+score estimated suitable internal cross-validation designs.
+results: study found fcgr3b-c.233c>a genotype igg ama1 
+were relatively better compared antibodies fcgr3b genotypes
+studied classifying predicting malaria risk among children.
+conclusions: data supports p. falciparum, ama1 important malaria
+vaccine antigen, fcgr3b-c.233c>a additive dominant models 
+inheritance could important modifier effect malaria protective
+antibodies.
+
+doi: 10.1186/s12936-020-03381-8 
+pmcid: pmc7450914
+pmid: 32854708 
+

@@ -1,0 +1,51 @@
+
+1. Plant Physiol. 2019 Feb;179(2):761-769. doi: 10.1104/pp.18.01357. Epub 2018 Dec
+14.
+
+Genome-Scale Fluxome of Synechococcus elongatus UTEX 2973 Using Transient
+13C-Labeling Data.
+
+Hendry JI(1), Gopalakrishnan S(1), Ungerer J(2), Pakrasi HB(2), Tang YJ(3),
+Maranas CD(4).
+
+Author information: 
+(1)Department of Chemical Engineering, Pennsylvania State University, University 
+Park, Pennsylvania 16802.
+(2)Department of Biology, Washington University, St. Louis, Missouri 63130.
+(3)Department of Energy, Environment, and Chemical Engineering, Washington
+University, St. Louis, Missouri 63130.
+(4)Department of Chemical Engineering, Pennsylvania State University, University 
+Park, Pennsylvania 16802 costas@psu.edu.
+
+Synechococcus elongatus UTEX 2973 (Synechococcus 2973) has the shortest reported 
+doubling time (2.1 h) among cyanobacteria, making it a promising platform for the
+solar-based production of biochemicals. In this meta-analysis, its intracellular 
+flux distribution was recomputed using genome-scale isotopic nonstationary
+13C-metabolic flux analysis given the labeling dynamics of 13 metabolites
+reported in an earlier study. To achieve this, a genome-scale mapping model,
+namely imSyu593, was constructed using the imSyn617 mapping model for
+Synechocystis sp. PCC 6803 (Synechocystis 6803) as the starting point
+encompassing 593 reactions. The flux elucidation revealed nearly complete
+conversion (greater than 96%) of the assimilated carbon into biomass in
+Synechococcus 2973. In contrast, Synechocystis 6803 achieves complete conversion 
+of only 86% of the assimilated carbon. This high biomass yield was enabled by the
+reincorporation of the fixed carbons lost in anabolic and photorespiratory
+pathways in conjunction with flux rerouting through a nondecarboxylating reaction
+such as phosphoketolase. This reincorporation of lost CO2 sustains a higher flux 
+through the photorespiratory C2 cycle that fully meets the glycine and serine
+demands for growth. In accordance with the high carbon efficiency drive,
+acetyl-coenzyme A was entirely produced using the carbon-efficient
+phosphoketolase pathway. Comparison of the Synechococcus 2973 flux map with that 
+of Synechocystis 6803 revealed differences in the use of Calvin cycle and
+photorespiratory pathway reactions. The two species used different reactions for 
+the synthesis of metabolites such as fructose-6-phosphate, glycine,
+sedoheptulose-7-phosphate, and Ser. These findings allude to a highly
+carbon-efficient metabolism alongside the fast carbon uptake rate in
+Synechococcus 2973, which explains its faster growth rate.
+
+© 2019 American Society of Plant Biologists. All Rights Reserved.
+
+DOI: 10.1104/pp.18.01357 
+PMCID: PMC6367904
+PMID: 30552197  [Indexed for MEDLINE]
+

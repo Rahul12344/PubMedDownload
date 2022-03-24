@@ -1,0 +1,74 @@
+
+1. Gastroenterology. 2015 Nov;149(6):1415-24. doi: 10.1053/j.gastro.2015.07.006.
+Epub 2015 Jul 17.
+
+Exome sequencing analysis reveals variants in primary immunodeficiency genes in
+patients with very early onset inflammatory bowel disease.
+
+Kelsen JR(1), Dawany N(2), Moran CJ(3), Petersen BS(4), Sarmady M(2), Sasson
+A(2), Pauly-Hubbard H(5), Martinez A(5), Maurer K(6), Soong J(7), Rappaport E(8),
+Franke A(4), Keller A(9), Winter HS(3), Mamula P(5), Piccoli D(5), Artis D(7),
+Sonnenberg GF(7), Daly M(10), Sullivan KE(6), Baldassano RN(5), Devoto M(11).
+
+Author information: 
+(1)Division of Gastroenterology, Hepatology, and Nutrition, The Children's
+Hospital of Philadelphia. Electronic address: Kelsen@email.chop.edu.
+(2)Department of Biomedical Health Informatics, The Children's Hospital of
+Philadelphia.
+(3)Division of Pediatric Gastroenterology, Hepatology, and Nutrition,
+Massachusetts General Hospital for Children.
+(4)Institute of Clinical Molecular Biology, Christian-Albrechts-University of
+Kiel, Germany.
+(5)Division of Gastroenterology, Hepatology, and Nutrition, The Children's
+Hospital of Philadelphia.
+(6)Division of Immunology and Allergy, The Children's Hospital of Philadelphia.
+(7)Joan and Sanford I. Weill Department of Medicine, Division of Gastroenterology
+and Hepatology, Department of Microbiology and Immunology, and The Jill Robert's 
+Institute for Research in Inflammatory Bowel Disease, Weill Cornell Medical
+College, New York, New York.
+(8)Nucleic Acid/Polymerase Chain Reaction Core, The Children's Hospital of
+Philadelphia.
+(9)Department of Clinical Bioinformatics, Saarland University, Germany.
+(10)Analytic and Translational Unit Center for Human Genetic Research Department 
+of Medicine, Massachusetts General Hospital; The Broad Institute of MIT and
+Harvard.
+(11)Division of Human Genetics, The Children's Hospital of Philadelphia;
+Department of Pediatrics, Department of Biostatistics and Epidemiology, Perelman 
+School of Medicine, University of Pennsylvania; Department of Molecular Medicine,
+University Sapienza, Rome, Italy.
+
+BACKGROUND & AIMS: Very early onset inflammatory bowel disease (VEO-IBD), IBD
+diagnosed at 5 years of age or younger, frequently presents with a different and 
+more severe phenotype than older-onset IBD. We investigated whether patients with
+VEO-IBD carry rare or novel variants in genes associated with immunodeficiencies 
+that might contribute to disease development.
+METHODS: Patients with VEO-IBD and parents (when available) were recruited from
+the Children's Hospital of Philadelphia from March 2013 through July 2014. We
+analyzed DNA from 125 patients with VEO-IBD (age, 3 wk to 4 y) and 19 parents, 4 
+of whom also had IBD. Exome capture was performed by Agilent SureSelect V4, and
+sequencing was performed using the Illumina HiSeq platform. Alignment to human
+genome GRCh37 was achieved followed by postprocessing and variant calling. After 
+functional annotation, candidate variants were analyzed for change in protein
+function, minor allele frequency less than 0.1%, and scaled combined
+annotation-dependent depletion scores of 10 or less. We focused on genes
+associated with primary immunodeficiencies and related pathways. An additional
+210 exome samples from patients with pediatric IBD (n = 45) or adult-onset
+Crohn's disease (n = 20) and healthy individuals (controls, n = 145) were
+obtained from the University of Kiel, Germany, and used as control groups.
+RESULTS: Four hundred genes and regions associated with primary immunodeficiency,
+covering approximately 6500 coding exons totaling more than 1 Mbp of coding
+sequence, were selected from the whole-exome data. Our analysis showed novel and 
+rare variants within these genes that could contribute to the development of
+VEO-IBD, including rare heterozygous missense variants in IL10RA and previously
+unidentified variants in MSH5 and CD19.
+CONCLUSIONS: In an exome sequence analysis of patients with VEO-IBD and their
+parents, we identified variants in genes that regulate B- and T-cell functions
+and could contribute to pathogenesis. Our analysis could lead to the
+identification of previously unidentified IBD-associated variants.
+
+Copyright © 2015 AGA Institute. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.gastro.2015.07.006 
+PMCID: PMC4853027
+PMID: 26193622  [Indexed for MEDLINE]
+

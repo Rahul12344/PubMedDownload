@@ -1,0 +1,50 @@
+
+1. mBio. 2021 Nov 16:e0298421. doi: 10.1128/mBio.02984-21. [Epub ahead of print]
+
+A Previously Undiscovered Circular RNA, circTNFAIP3, and Its Role in Coronavirus 
+Replication.
+
+Du L(1)(2), Wang X(2), Liu J(1), Li J(2), Wang S(2), Lei J(1), Zhou J(2)(3), Gu
+J(2).
+
+Author information: 
+(1)Institute of Immunology, College of Veterinary Medicine, Nanjing Agricultural 
+University, Nanjing, China.
+(2)MOA Key Laboratory of Animal Virology, Zhejiang Universitygrid.13402.34 Center
+for Veterinary Sciences, Hangzhou, China.
+(3)Collaborative Innovation Center and State Key laboratory for Diagnosis and
+Treatment of Infectious Diseases, The First Affiliated Hospital, Zhejiang
+Universitygrid.13402.34, Hangzhou, China.
+
+Circular RNAs (circRNAs) are a newly discovered class of noncoding RNAs (ncRNAs) 
+present in various tissues and cells. However, the functions of most circRNAs
+have not been verified experimentally. Here, using deltacoronavirus as a model,
+differentially expressed circRNAs in cells with or without deltacoronavirus
+infection were analyzed by RNA sequencing to characterize the cellular responses 
+to RNA virus infection. More than 57,000 circRNA candidates were detected, and
+seven significantly dysregulated circRNAs were quantitated by real-time reverse
+transcription-PCR. We discovered a previously unidentified circRNA derived from
+the TNFAIP3 gene, named circTNFAIP3, which is distributed and expressed widely in
+various tissues. RNA viruses, including deltacoronaviruses, rather than DNA
+viruses tend to activate the expression of endogenous circTNFAIP3. Overexpression
+of circTNFAIP3 promoted deltacoronavirus replication by reducing the apoptosis,
+while silencing of circTNFAIP3 inhibited deltacoronavirus replication by
+enhancing the apoptosis. In summary, our work provides useful circRNA-related
+information to facilitate investigation of the underlying mechanism of
+deltacoronavirus infection and identifies a novel circTNFAIP3 that promotes
+deltacoronavirus replication via regulating apoptosis. IMPORTANCE CircRNAs, a new
+class of ncRNAs, play important roles in cell growth, neural development,
+carcinogenesis, and anticarcinogenesis. Porcine deltacoronavirus is an emerging
+enteropathogenic coronavirus that causes diarrhea, but the role of host circRNAs 
+in regulating its infection is unknown. Here, we performed expression profiling
+of circRNAs in mock- and deltacoronavirus- infected cells and identified the
+novel differentially expressed circular RNA circTNFAIP3. We demonstrate that
+circTNFAIP3 promotes deltacoronavirus replication by inhibiting apoptosis. Our
+findings first illustrate that circRNA can act as an apoptosis negative regulator
+during RNA virus infection and help to explore the underlying mechanism of
+deltacoronavirus infection.
+
+DOI: 10.1128/mBio.02984-21 
+PMCID: PMC8593679
+PMID: 34781747 
+

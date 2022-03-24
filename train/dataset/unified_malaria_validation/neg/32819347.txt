@@ -1,0 +1,52 @@
+
+1. bmc med inform decis mak. 2020 aug 20;20(suppl 5):141. doi:
+10.1186/s12911-020-01150-w.
+
+using autoencoders weight initialization method deep neural networks 
+disease detection.
+
+ferreira mf(1)(2), camacho r(1)(2), teixeira lf(1)(2).
+
+author information: 
+(1)faculty engineering, university porto, rua dr. roberto frias, s/n,
+porto, 4200-465, portugal.
+(2)inesc tec - institute systems computer engineering, technology and
+science, porto, portugal.
+
+background: today, cancer still one prevalent and
+high-mortality diseases, summing 9 million deaths 2018. has
+motivated researchers study application machine learning-based
+solutions cancer detection accelerate diagnosis help its
+prevention. among several approaches, one automatically classify tumor
+samples gene expression analysis.
+methods: work, aim distinguish five different types cancer
+through rna-seq datasets: thyroid, skin, stomach, breast, lung. so, 
+have adopted previously described methodology, compare the
+performance 3 different autoencoders (aes) used deep neural network
+weight initialization technique. experiments consist assessing two
+different approaches training classification model - fixing weights 
+after pre-training aes, allowing fine-tuning entire network - and
+two different strategies embedding aes classification network,
+namely importing encoding layers, inserting complete ae. we
+then study varying number layers first strategy, aes latent
+vector dimension, imputation technique data preprocessing step
+impacts network's overall classification performance. finally, goal 
+of assessing well pipeline generalize, apply same
+methodology two additional datasets include features extracted from
+images malaria thin blood smears, breast masses cell nuclei. also
+discard possibility overfitting using held-out test sets images 
+datasets.
+results: methodology attained good overall results rna-seq image
+extracted data. outperformed established baseline considered
+datasets, achieving average f1 score 99.03, 89.95, 98.84 mcc 
+0.99, 0.84, 0.98, rna-seq (when detecting thyroid cancer), the
+malaria, wisconsin breast cancer data, respectively.
+conclusions: observed approach fine-tuning weights top 
+layers imported ae reached higher results, presented
+experiences, considered datasets. outperformed previous
+reported results comparing established baselines.
+
+doi: 10.1186/s12911-020-01150-w 
+pmcid: pmc7439655
+pmid: 32819347 
+

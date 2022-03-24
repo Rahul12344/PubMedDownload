@@ -1,0 +1,54 @@
+
+1. BMC Biol. 2019 May 30;17(1):45. doi: 10.1186/s12915-019-0661-5.
+
+A global survey of arsenic-related genes in soil microbiomes.
+
+Dunivin TK(1)(2), Yeh SY(3), Shade A(4)(5)(6)(7).
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, Michigan State University, 
+East Lansing, MI, 48824, USA.
+(2)Environmental and Integrative Toxicological Sciences Doctoral Program,
+Michigan State University, East Lansing, MI, 48824, USA.
+(3)Institute for Cyber-Enabled Research, Michigan State University, East Lansing,
+MI, 48824, USA.
+(4)Department of Microbiology and Molecular Genetics, Michigan State University, 
+East Lansing, MI, 48824, USA. shadeash@msu.edu.
+(5)Program in Ecology, Evolutionary Biology and Behavior, Michigan State
+University, East Lansing, MI, 48824, USA. shadeash@msu.edu.
+(6)Department of Plant, Soil, and Microbial Sciences, Michigan State University, 
+East Lansing, MI, 48824, USA. shadeash@msu.edu.
+(7)Plant Resilience Institute, Michigan State University, East Lansing, MI,
+48834, USA. shadeash@msu.edu.
+
+BACKGROUND: Environmental resistomes include transferable microbial genes. One
+important resistome component is resistance to arsenic, a ubiquitous and toxic
+metalloid that can have negative and chronic consequences for human and animal
+health. The distribution of arsenic resistance and metabolism genes in the
+environment is not well understood. However, microbial communities and their
+resistomes mediate key transformations of arsenic that are expected to impact
+both biogeochemistry and local toxicity.
+RESULTS: We examined the phylogenetic diversity, genomic location (chromosome or 
+plasmid), and biogeography of arsenic resistance and metabolism genes in 922 soil
+genomes and 38 metagenomes. To do so, we developed a bioinformatic toolkit that
+includes BLAST databases, hidden Markov models and resources for gene-targeted
+assembly of nine arsenic resistance and metabolism genes: acr3, aioA, arsB, arsC 
+(grx), arsC (trx), arsD, arsM, arrA, and arxA. Though arsenic-related genes were 
+common, they were not universally detected, contradicting the common conjecture
+that all organisms have them. From major clades of arsenic-related genes, we
+inferred their potential for horizontal and vertical transfer. Different types
+and proportions of genes were detected across soils, suggesting microbial
+community composition will, in part, determine local arsenic toxicity and
+biogeochemistry. While arsenic-related genes were globally distributed,
+particular sequence variants were highly endemic (e.g., acr3), suggesting
+dispersal limitation. The gene encoding arsenic methylase arsM was unexpectedly
+abundant in soil metagenomes (median 48%), suggesting that it plays a prominent
+role in global arsenic biogeochemistry.
+CONCLUSIONS: Our analysis advances understanding of arsenic resistance,
+metabolism, and biogeochemistry, and our approach provides a roadmap for the
+ecological investigation of environmental resistomes.
+
+DOI: 10.1186/s12915-019-0661-5 
+PMCID: PMC6543643
+PMID: 31146755  [Indexed for MEDLINE]
+

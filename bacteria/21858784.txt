@@ -1,0 +1,34 @@
+
+1. Biopolymers. 2012 Mar;97(3):145-54. doi: 10.1002/bip.21710. Epub 2011 Aug 19.
+
+Transient hydrogen bonding in uniformly ¹³C,¹⁵N-labeled carbohydrates in water.
+
+Norris SE(1), Landström J, Weintraub A, Bull TE, Widmalm G, Freedberg DI.
+
+Author information: 
+(1)Laboratory of Bacterial Polysaccharides, Center for Biologics Evaluation and
+Research, FDA, Rockville, MD 20852-1448, USA.
+
+We report NMR studies of transient hydrogen bonding in a polysaccharide (PS)
+dissolved in water without cosolvent at ambient temperature. The PS portion of
+the Escherichia coli O142 lipopolysaccharide is comprised of repeating
+pentasaccharide units of GalNAc (N-acetyl galactosamine), GlcNAc (N-acetyl
+glucosamine), and rhamnose in a 3:1:1 ratio, respectively. A 105-ns molecular
+dynamics (MD) simulation on one pentasaccharide repeat unit predicts transient
+inter-residue hydrogen bonds from the GalNAc NH groups in the PS. To investigate 
+these predictions experimentally, the PS was uniformly ¹³C,¹⁵N enriched and the
+NH, carbonyl, C2, C4, and methyl resonances of the GalNAc and GlcNAc residues
+assigned using through-bond triple-resonance NMR experiments. Temperature
+dependence of amide NH chemical shifts and one-bond NH J couplings support that
+NH groups on two of the GalNAc residues are donors in transient hydrogen bonds.
+The remaining GalNAc and GlcNAc NHs do not appear to be donors from either
+temperature-dependent chemical shifts or one-bond NH J couplings. These results
+substantiate the presence of weak or partial hydrogen bonds in carbohydrates, and
+that MD simulations of repeating units in PSs provide insight into overall PS
+structure and dynamics.
+
+Copyright © 2011 Wiley Periodicals, Inc.
+
+DOI: 10.1002/bip.21710 
+PMID: 21858784  [Indexed for MEDLINE]
+

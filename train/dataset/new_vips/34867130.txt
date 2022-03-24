@@ -1,0 +1,46 @@
+
+1. Int J Pept Res Ther. 2022;28(1):7. doi: 10.1007/s10989-021-10324-7. Epub 2021 Dec
+1.
+
+ACE2 Peptide Fragment Interaction with Different S1 Protein Sites.
+
+Kuznetsov A(1), Arukuusk P(2), Härk H(2), Juronen E(3), Ustav M(2)(3), Langel
+Ü(2)(4), Järv J(1).
+
+Author information: 
+(1)Institute of Chemistry, University of Tartu, Tartu, Estonia.
+(2)Institute of Technology, University of Tartu, Tartu, Estonia.
+(3)Icosagen Cell Factory OÜ, Tartu, Estonia.
+(4)Department of Biochemistry and Biophysics, Stockholm University, Stockholm,
+Sweden.
+
+We study the effect of the peptide QAKTFLDKFNHEAEDLFYQ on the kinetics of the
+SARS-CoV-2 spike protein S1 binding to angiotensin-converting enzyme 2 (ACE2),
+with the aim to characterize the interaction mechanism of the SARS-CoV2 virus
+with its host cell. This peptide corresponds to the sequence 24-42 of the ACE2 α1
+domain, which marks the binding site for the S1 protein. The kinetics of S1-ACE2 
+complex formation was measured in the presence of various concentrations of the
+peptide using bio-layer interferometry. Formation of the S1-ACE2 complex was
+inhibited by the peptide in cases where it was preincubated with S1 protein
+before the binding experiment. The kinetic analysis of S1-ACE2 complex
+dissociation revealed that preincubation stabilized this complex, and this effect
+was dependent on the peptide concentration as well as the preincubation time. The
+results point to the formation of the ternary complex of S1 with ACE2 and the
+peptide. This is possible in the presence of another binding site for the S1
+protein beside the receptor-binding domain for ACE2, which binds the peptide
+QAKTFLDKFNHEAEDLFYQ. Therefore, we conducted computational mapping of the S1
+protein surface, revealing two additional binding sites located at some distance 
+from the main receptor-binding domain on S1. We suggest the possibility to
+predict and test the short protein derived peptides for development of novel
+strategies in inhibiting virus infections.Supplementary Information: The online
+version contains supplementary material available at 10.1007/s10989-021-10324-7.
+
+© The Author(s), under exclusive licence to Springer Nature B.V. 2021.
+
+DOI: 10.1007/s10989-021-10324-7 
+PMCID: PMC8634746
+PMID: 34867130 
+
+Conflict of interest statement: Conflict of interestThe authors declare no
+competing interests.
+

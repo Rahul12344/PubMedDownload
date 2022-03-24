@@ -1,0 +1,53 @@
+
+1. parasit vectors. 2017 dec 2;10(1):595. doi: 10.1186/s13071-017-2539-0.
+
+tagging endogenous genes plasmodium falciparum using crispr/cas9.
+
+kuang d(1), qiao j(2)(3), li z(4), wang w(4), xia h(2)(3), jiang l(4), dai j(5), 
+fang q(6)(7), dai x(8).
+
+author information: 
+(1)institute medical biology, chinese academy medical science peking
+union medical college, kunming, yunnan, 650118, china.
+(2)department microbiology parasitology, chinese academy medical
+science peking union medical college, kunming, yunnan, 650118, china.
+(3)anhui key laboratory infection immunity bengbu medical college,
+bengbu, 233030, china.
+(4)institut pasteur shanghai, chinese academy sciences, shanghai, 200031,
+china.
+(5)institute medical biology, chinese academy medical science peking
+union medical college, kunming, yunnan, 650118, china. djj@imbcams.com.cn.
+(6)department microbiology parasitology, chinese academy medical
+science peking union medical college, kunming, yunnan, 650118, china.
+fq333@sohu.com.
+(7)anhui key laboratory infection immunity bengbu medical college,
+bengbu, 233030, china. fq333@sohu.com.
+(8)institut pasteur shanghai, chinese academy sciences, shanghai, 200031,
+china. xydai@ips.ac.cn.
+
+background: plasmodium falciparum deadliest malaria parasite. currently,
+there seldom commercial antibodies p. falciparum proteins, which
+greatly limits study plasmodium. crispr/cas9 efficient genome
+editing method, employed various organisms. however, use of
+this technique p. falciparum still limited gene knockout, site-specific 
+mutation generation green fluorescent protein (gfp) reporter line with
+disruption inserted sites.
+results: adapted crispr/cas9 system add commercial tag sequences
+to endogenous genes p. falciparum. add ha ha-ty1 tags ck2β1, ck2α and
+stk, pl6cs-hdhfr-ck2β1/ck2α/stk constructed, contained sequences of
+tags, specific homologous arms, sgrna. p. falciparum 3d7 strain was
+subsequently transfected puf1-bsd-cas9 pl6cs-hdhfr-ck2β1/ck2α/stk
+plasmids via electroporation. that, bsd wr99210 drugs added the
+culture screen parasites containing plasmids. twenty days after
+electroporation, live parasites appeared collected check tagging 
+by pcr, dna sequencing, western blotting immuno-fluorescence assays. the
+results showed tags successfully integrated c-terminus 
+these three proteins.
+conclusions: improved method integrate tags plasmodium
+falciparum genes using crispr/cas9 method, lays foundation for
+further study plasmodium falciparum molecular level.
+
+doi: 10.1186/s13071-017-2539-0 
+pmcid: pmc5712073
+pmid: 29197418  [indexed medline]
+

@@ -1,0 +1,76 @@
+
+1. BMC Med. 2021 Nov 30;19(1):290. doi: 10.1186/s12916-021-02168-1.
+
+Nutritional risk factors for SARS-CoV-2 infection: a prospective study within the
+NutriNet-Santé cohort.
+
+Deschasaux-Tanguy M(#)(1), Srour B(#)(2), Bourhis L(1), Arnault N(1),
+Druesne-Pecollo N(1), Esseddik Y(1), de Edelenyi FS(1), Allègre J(1), Allès B(1),
+Andreeva VA(1), Baudry J(1), Fezeu LK(1), Galan P(1), Julia C(1), Kesse-Guyot
+E(1), Péneau S(1), Hercberg S(1), Bajos N(3), Severi G(4)(5), Zins M(6)(7), de
+Lamballerie X(8), Carrat F(9)(10), Touvier M(1); SAPRIS-SERO study group.
+
+Collaborators: Carrat F, Ancel PY, Bajos N, Charles MA, Severi G, Touvier M, Zins
+M, Kab S, Renuy A, Le-Got S, Ribet C, Wiernik E, Goldberg M, Zins M, Artaud F,
+Gerbouin-Rérolle P, Enguix M, Laplanche C, Gomes-Rima R, Hoang L, Correia E,
+Barry AA, Senina N, Severi G, de Edelenyi FS, Allègre J, Druesne-Pecollo N,
+Esseddik Y, Hercberg S, Touvier M, Charles MA, Ancel PY, Benhammou V, Ritmi A,
+Marchand L, Zaros C, Lordmi E, Candea A, de Visme S, Simeon T, Thierry X, Geay B,
+Dufourg MN, Milcent K, Lusivika-Nzinga C, Pannetier G, Lapidus N, Goderel I,
+Dorival C, Nicol J, Carrat F, Lai C, Esperou H, Couffin-Cadiergues S, Gagliolo
+JM, Blanché H, Sébaoun JM, Beaudoin JC, Gressin L, Morel V, Ouili O, Deleuze JF, 
+Priet S, Villarroel PMS, Fourié T, Ali SM, Amroun A, Seston M, Ayhan N, Pastorino
+B, de Lamballerie X.
+
+Author information: 
+(1)Sorbonne Paris Nord University, Inserm U1153, Inrae U1125, Cnam, Nutritional
+Epidemiology Research Team (EREN), Epidemiology and Statistics Research Center - 
+University of Paris (CRESS), Bobigny, France.
+(2)Sorbonne Paris Nord University, Inserm U1153, Inrae U1125, Cnam, Nutritional
+Epidemiology Research Team (EREN), Epidemiology and Statistics Research Center - 
+University of Paris (CRESS), Bobigny, France. b.srour@eren.smbh.univ-paris13.fr.
+(3)IRIS, UMR CNRS 8156, EHESS, Inserm U997, Aubervilliers, France.
+(4)Paris-Saclay University, UVSQ, Inserm, Gustave Roussy, "Exposome and Heredity"
+team, CESP UMR1018, Villejuif, France.
+(5)Department of Statistics, Computer Science and Applications "G. Parenti",
+University of Florence, Florence, Italy.
+(6)Paris University, Paris, France.
+(7)Inserm UMS 11, Paris Saclay University, Villejuif, France.
+(8)Unité des Virus Emergents (UVE), Aix Marseille Univ, IRD 190, INSERM 1207, IHU
+Méditerranée Infection, Marseille, France.
+(9)Sorbonne Université, Inserm, Institut Pierre-Louis d'Epidémiologie et de Santé
+Publique, Paris, France.
+(10)Département de Santé Publique, APHP, Sorbonne Université, Paris, France.
+(#)Contributed equally
+
+BACKGROUND: Nutritional factors are essential for the functioning of the immune
+system and could therefore play a role in COVID-19 but evidence is needed. Our
+objective was to study the associations between diet and the risk of SARS-CoV-2
+infection in a large population-based sample.
+METHODS: Our analyses were conducted in the French prospective NutriNet-Santé
+cohort study (2009-2020). Seroprevalence of anti-SARS-CoV-2 antibodies was
+assessed by ELISA on dried blood spots. Dietary intakes were derived from
+repeated 24 h dietary records (at least 6) in the two years preceding the start
+of the COVID-19 pandemic in France (February 2020). Multi-adjusted logistic
+regression models were computed.
+RESULTS: A total of 7766 adults (70.3% women, mean age: 60.3 years) were
+included, among which 311 were positive for anti-SARS-CoV-2 antibodies. Dietary
+intakes of vitamin C (OR for 1 SD=0.86 (0.75-0.98), P=0.02), vitamin B9 (OR=0.84 
+(0.72-0.98), P=0.02), vitamin K (OR=0.86 (0.74-0.99), P=0.04), fibers (OR=0.84
+(0.72-0.98), P=0.02), and fruit and vegetables (OR=0.85 (0.74-0.97), P=0.02) were
+associated to a decreased probability of SARS-CoV-2 infection while dietary
+intakes of calcium (OR=1.16 (1.01-1.35), P=0.04) and dairy products (OR=1.19
+(1.06-1.33), P=0.002) associated to increased odds. No association was detected
+with other food groups or nutrients or with the overall diet quality.
+CONCLUSIONS: Higher dietary intakes of fruit and vegetables and, consistently, of
+vitamin C, folate, vitamin K and fibers were associated with a lower
+susceptibility to SARS-CoV-2 infection. Beyond its established role in the
+prevention of non-communicable diseases, diet could therefore also contribute to 
+prevent some infectious diseases such as COVID-19.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12916-021-02168-1 
+PMCID: PMC8629697
+PMID: 34844606 
+

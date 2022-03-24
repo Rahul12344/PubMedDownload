@@ -1,0 +1,57 @@
+
+1. Nat Commun. 2021 Nov 23;12(1):6802. doi: 10.1038/s41467-021-27096-9.
+
+Adaptation, spread and transmission of SARS-CoV-2 in farmed minks and associated 
+humans in the Netherlands.
+
+Lu L(#)(1), Sikkema RS(#)(2), Velkers FC(3), Nieuwenhuijse DF(2), Fischer EAJ(3),
+Meijer PA(3), Bouwmeester-Vincken N(4), Rietveld A(5), Wegdam-Blans MCA(6),
+Tolsma P(7), Koppelman M(8), Smit LAM(9), Hakze-van der Honing RW(10), van der
+Poel WHM(10), van der Spek AN(11), Spierenburg MAH(11), Molenaar RJ(12), Rond
+J(12), Augustijn M(12), Woolhouse M(1), Stegeman JA(3), Lycett S(#)(13), Oude
+Munnink BB(#)(2), Koopmans MPG(#)(14).
+
+Author information: 
+(1)Usher Institute, University of Edinburgh, Edinburgh, UK.
+(2)Erasmus MC, Department of Viroscience, WHO Collaborating Centre, Rotterdam,
+the Netherlands.
+(3)Department Population Health Sciences, Faculty of Veterinary Medicine, Utrecht
+University, Utrecht, the Netherlands.
+(4)Municipal Health Service GGD Limburg-Noord, Venlo, the Netherlands.
+(5)Municipal Health Service GGD Hart voor Brabant, Tilburg, the Netherlands.
+(6)Stichting PAMM, Veldhoven, the Netherlands.
+(7)Municipal Health Service GGD Brabant-Zuidoost, Eindhoven, the Netherlands.
+(8)Sanquin Blood Supply Foundation, Amsterdam, the Netherlands.
+(9)Institute for Risk Assessment Sciences (IRAS), Utrecht University, Utrecht,
+the Netherlands.
+(10)Wageningen Bioveterinary Research, Lelystad, the Netherlands.
+(11)Netherlands Food and Consumer Product Safety Authority (NVWA), Utrecht, the
+Netherlands.
+(12)GD Animal Health, Deventer, the Netherlands.
+(13)Roslin Institute, University of Edinburgh, Edinburgh, UK.
+(14)Erasmus MC, Department of Viroscience, WHO Collaborating Centre, Rotterdam,
+the Netherlands. m.koopmans@erasmusmc.nl.
+(#)Contributed equally
+
+In the first wave of the COVID-19 pandemic (April 2020), SARS-CoV-2 was detected 
+in farmed minks and genomic sequencing was performed on mink farms and farm
+personnel. Here, we describe the outbreak and use sequence data with Bayesian
+phylodynamic methods to explore SARS-CoV-2 transmission in minks and humans on
+farms. High number of farm infections (68/126) in minks and farm workers (>50% of
+farms) were detected, with limited community spread. Three of five initial
+introductions of SARS-CoV-2 led to subsequent spread between mink farms until
+November 2020. Viruses belonging to the largest cluster acquired an amino acid
+substitution in the receptor binding domain of the Spike protein (position 486), 
+evolved faster and spread longer and more widely. Movement of people and distance
+between farms were statistically significant predictors of virus dispersal
+between farms. Our study provides novel insights into SARS-CoV-2 transmission
+between mink farms and highlights the importance of combining genetic information
+with epidemiological information when investigating outbreaks at the animal-human
+interface.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-27096-9 
+PMCID: PMC8611045
+PMID: 34815406 
+

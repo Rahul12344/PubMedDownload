@@ -1,0 +1,56 @@
+
+1. J Bacteriol. 2016 Mar 31;198(8):1196-206. doi: 10.1128/JB.01027-15. Print 2016
+Apr.
+
+Mutation of the murC and murB Genes Impairs Heterocyst Differentiation in
+Anabaena sp. Strain PCC 7120.
+
+Videau P(1), Rivers OS(1), Ushijima B(1), Oshiro RT(1), Kim MJ(1), Philmus B(2), 
+Cozy LM(3).
+
+Author information: 
+(1)Department of Microbiology, University of Hawaii, Honolulu, Hawaii, USA.
+(2)Department of Pharmaceutical Sciences, College of Pharmacy, Oregon State
+University, Corvallis, Oregon, USA.
+(3)Department of Biology, Illinois Wesleyan University, Bloomington, Illinois,
+USA lcozy@iwu.edu.
+
+To stabilize cellular integrity in the face of environmental perturbations, most 
+bacteria, including cyanobacteria, synthesize and maintain a strong, flexible,
+three-dimensional peptidoglycan lattice. Anabaena sp. strain PCC 7120 is a
+filamentous cyanobacterium capable of differentiating morphologically distinct
+nitrogen-fixing heterocyst cells in a periodic pattern. While heterocyst
+development has been shown to require proper peptidoglycan remodeling, the role
+of peptidoglycan synthesis has remained unclear. Here we report the
+identification of two peptidoglycan synthesis genes, murC (alr5065) and murB
+(alr5066), as required for heterocyst development. The murC and murB genes are
+predicted to encode a UDP-N-acetylmuramate:L-alanine ligase and a
+UDP-N-acetylenolpyruvoylglucosamine reductase, respectively, and we confirm
+enzymatic function through complementation of Escherichia coli strains deficient 
+for these enzymes. Cells depleted of either murC or murB expression failed to
+differentiate heterocysts under normally inducing conditions and displayed
+decreased filament integrity. To identify the stage(s) of development affected by
+murC or murB depletion, the spatial distribution of expression of the patterning 
+marker gene, patS, was examined. Whereas murB depletion did not affect the
+pattern of patS expression, murC depletion led to aberrant expression of patS in 
+all cells of the filament. Finally, expression of gfp controlled by the region of
+DNA immediately upstream of murC was enriched in differentiating cells and was
+repressed by the transcription factor NtcA. Collectively, the data in this work
+provide evidence for a direct link between peptidoglycan synthesis and the
+maintenance of a biological pattern in a multicellular organism.IMPORTANCE:
+Multicellular organisms that differentiate specialized cells must regulate
+morphological changes such that both cellular integrity and the dissemination of 
+developmental signals are preserved. Here we show that the multicellular
+bacterium Anabaena, which differentiates a periodic pattern of specialized
+heterocyst cells, requires peptidoglycan synthesis by the murine ligase genes
+murC (alr5065) and murB (alr5066) for maintenance of patterned gene expression,
+filament integrity, and overall development. This work highlights the significant
+influence that intracellular structure and intercellular connections can have on 
+the execution of a developmental program.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JB.01027-15 
+PMCID: PMC4859589
+PMID: 26811320  [Indexed for MEDLINE]
+

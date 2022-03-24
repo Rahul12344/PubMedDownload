@@ -1,0 +1,46 @@
+
+1. sci rep. 2019 dec 2;9(1):18124. doi: 10.1038/s41598-019-54083-4.
+
+peripheral blood mononuclear cell transcriptomes reveal over-representation of
+down-regulated genes associated immunity hiv-exposed uninfected infants.
+
+musimbi zd(1), rono mk(2)(3), otieno jr(4), kibinge n(4), ochola-oyier li(4)(5), 
+de villiers ep(4)(6), nduati ew(4)(5).
+
+author information: 
+(1)center biotechnology bioinformatics, chiromo campus, university of
+nairobi, nairobi, kenya. zanetakidiavai@gmail.com.
+(2)kemri-wellcome trust research programme, kilifi, kenya.
+mrono@kemri-wellcome.org.
+(3)pwani university biotechnology research centre, pwani university, kilifi,
+kenya. mrono@kemri-wellcome.org.
+(4)kemri-wellcome trust research programme, kilifi, kenya.
+(5)pwani university biotechnology research centre, pwani university, kilifi,
+kenya.
+(6)centre tropical medicine global health, university oxford, oxford, 
+uk.
+
+hiv-exposed uninfected (heu) infants disproportionately higher risk of
+morbidity mortality, compared hiv-unexposed uninfected (huu) infants.
+here, used transcriptional profiling peripheral blood mononuclear cells 
+determine immunological signatures utero hiv exposure. identified 262
+differentially expressed genes (degs) heu compared huu infants. weighted
+gene co-expression network analysis (wgcna) identified six modules had
+significant associations clinical traits. functional enrichment analysis 
+both degs six significantly associated modules revealed enrichment 
+g-protein coupled receptors immune system, specifically affecting
+neutrophil function antibacterial responses. additionally, malaria
+pathogenicity genes (thrombospondin 1-(thbs 1), interleukin 6 (il6), arginine
+decarboxylase 2 (adc2)) down-regulated. interest, down-regulated
+immunity genes positively correlated expression epigenetic factors
+of histone family high-mobility group protein b2 (hmgb2), suggesting
+their role dysregulation heu transcriptional landscape. overall, we
+show genes primarily associated neutrophil mediated immunity were
+repressed heu infants. results suggest could a
+contributing factor increased susceptibility bacterial infections
+associated higher morbidity mortality commonly reported heu infants.
+
+doi: 10.1038/s41598-019-54083-4 
+pmcid: pmc6889308
+pmid: 31792230 
+

@@ -1,0 +1,63 @@
+
+1. sci rep. 2018 jan 11;8(1):410. doi: 10.1038/s41598-017-18840-7.
+
+probabilistic data integration identifies reliable gametocyte-specific proteins
+and transcripts malaria parasites.
+
+meerstein-kessel l(1)(2), van der lee r(1)(3), stone w(2)(4), lanke k(2), baker
+da(5), alano p(6), silvestrini f(6), janse cj(7), khan sm(7), van de vegte-bolmer
+m(2), graumans w(2), siebelink-stoter r(2), kooij twa(2), marti m(8), drakeley
+c(4), campo jj(9), van dam tjp(1)(10), sauerwein r(2), bousema t(2), huynen
+ma(11).
+
+author information: 
+(1)centre molecular biomolecular informatics, radboud institute for
+molecular life sciences, radboud university medical center, nijmegen, the
+netherlands.
+(2)department medical microbiology, radboud university medical center,
+nijmegen, netherlands.
+(3)centre molecular medicine therapeutics, department medical
+genetics, bc children's hospital research institute, university british
+columbia, vancouver, bc, canada.
+(4)department immunology infection, faculty infectious tropical
+diseases, london school hygiene & tropical medicine, london, united kingdom.
+(5)department pathogen molecular biology, faculty infectious tropical
+diseases, london school hygiene & tropical medicine, london, united kingdom.
+(6)dipartimento malattie infettive, istituto superiore di sanità, rome, italy.
+(7)department parasitology, leiden university medical center, leiden, the
+netherlands.
+(8)wellcome trust center molecular parasitology, institute infection,
+immunity inflammation, college medical veterinary & life sciences,
+university glasgow, glasgow, scotland, united kingdom.
+(9)antigen discovery inc., irvine, california, usa.
+(10)theoretical biology bioinformatics, department biology, utrecht
+university, utrecht, netherlands.
+(11)centre molecular biomolecular informatics, radboud institute for
+molecular life sciences, radboud university medical center, nijmegen, the
+netherlands. martijn.huijnen@radboudumc.nl.
+
+plasmodium gametocytes sexual forms malaria parasite essential for
+transmission mosquitoes. better understand gametocytes differ from
+asexual blood-stage parasites, performed systematic analysis available
+'omics data p. falciparum plasmodium species. 18 transcriptomic and
+proteomic data sets evaluated presence curated "gold standards"
+of 41 gametocyte-specific versus 46 non-gametocyte genes integrated using
+bayesian probabilities, resulting gametocyte-specificity scores p.
+falciparum genes. illustrate utility gametocyte score, explored 
+newly predicted gametocyte-specific genes potential biomarkers gametocyte
+carriage exposure. analyzed humoral immune response field samples
+against 30 novel gametocyte-specific antigens found five antigens be
+differentially recognized gametocyte carriers compared malaria-infected 
+individuals without detectable gametocytes. also validated the
+gametocyte-specificity 15 identified gametocyte transcripts culture
+material samples naturally infected individuals, resulting eight
+transcripts >1000-fold higher expressed gametocytes compared to
+asexual parasites whose transcript abundance allowed gametocyte detection 
+naturally infected individuals. integrated genome-wide gametocyte-specificity
+scores provide comprehensive resource identify targets monitor p.
+falciparum gametocytemia.
+
+doi: 10.1038/s41598-017-18840-7 
+pmcid: pmc5765010
+pmid: 29323249  [indexed medline]
+

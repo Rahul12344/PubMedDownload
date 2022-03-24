@@ -1,0 +1,49 @@
+
+1. Pharmacol Res. 2021 Nov 16;175:105982. doi: 10.1016/j.phrs.2021.105982. [Epub
+ahead of print]
+
+DNA aptamers masking angiotensin converting enzyme 2 as an innovative way to
+treat SARS-CoV-2 pandemic.
+
+Villa A(1), Brunialti E(1), Dellavedova J(1), Meda C(1), Rebecchi M(1), Conti
+M(2), Donnici L(2), De Francesco R(3), Reggiani A(4), Lionetti V(5), Ciana P(6).
+
+Author information: 
+(1)Department of Health Sciences, University of Milan, Milan 20146, Italy.
+(2)INGM - Istituto Nazionale Genetica Molecolare "Romeo ed Enrica Invernizzi",
+Milan 20122, Italy.
+(3)INGM - Istituto Nazionale Genetica Molecolare "Romeo ed Enrica Invernizzi",
+Milan 20122, Italy; Department of Pharmacological and Biomolecular Sciences,
+University of Milan, Milan 20133, Italy.
+(4)D3 Validation Research Line, Italian Institute of Technology, Genoa 16163,
+Italy.
+(5)Institute of Life Sciences, Scuola Superiore Sant'Anna, Pisa 56127, Italy.
+(6)D3 Validation Research Line, Italian Institute of Technology, Genoa 16163,
+Italy. Electronic address: paolo.ciana@unimi.it.
+
+All the different coronavirus SARS-CoV-2 variants isolated so far share the same 
+mechanism of infection mediated by the interaction of their spike (S)
+glycoprotein with specific residues on their cellular receptor: the angiotensin
+converting enzyme 2 (ACE2). Therefore, the steric hindrance on this cellular
+receptor created by a bulk macromolecule may represent an effective strategy for 
+the prevention of the viral spreading and the onset of severe forms of Corona
+Virus disease 19 (COVID-19). Here, we applied a systematic evolution of ligands
+by exponential enrichment (SELEX) procedure to identify two single strand DNA
+molecules (aptamers) binding specifically to the region surrounding the K353, the
+key residue in human ACE2 interacting with the N501 amino acid of the SARS-CoV-2 
+S. 3D docking in silico experiments and biochemical assays demonstrated that
+these aptamers bind to this region, efficiently prevent the SARS-CoV-2 S/human
+ACE2 interaction and the viral infection in the nanomolar range, regardless of
+the viral variant, thus suggesting the possible clinical development of these
+aptamers as SARS-CoV-2 infection inhibitors. Our approach brings a significant
+innovation to the therapeutic paradigm of the SARS-CoV-2 pandemic by protecting
+the target cell instead of focusing on the virus; this is particularly attractive
+in light of the increasing number of viral mutants that may potentially escape
+the currently developed immune-mediated neutralization strategies.
+
+Copyright © 2021 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.phrs.2021.105982 
+PMCID: PMC8594078
+PMID: 34798263 
+

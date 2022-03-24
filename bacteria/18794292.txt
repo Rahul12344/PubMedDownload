@@ -1,0 +1,50 @@
+
+1. Infect Immun. 2008 Nov;76(11):5072-81. doi: 10.1128/IAI.00677-08. Epub 2008 Sep
+15.
+
+CadA negatively regulates Escherichia coli O157:H7 adherence and intestinal
+colonization.
+
+Vazquez-Juarez RC(1), Kuriakose JA, Rasko DA, Ritchie JM, Kendall MM, Slater TM, 
+Sinha M, Luxon BA, Popov VL, Waldor MK, Sperandio V, Torres AG.
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Texas Medical Branch,
+Galveston, TX 77555-1070, USA.
+
+Adherence of pathogenic Escherichia coli strains to intestinal epithelia is
+essential for infection. For enterohemorrhagic E. coli (EHEC) serotype O157:H7,
+we have previously demonstrated that multiple factors govern this pathogen's
+adherence to HeLa cells (A. G. Torres and J. B. Kaper, Infect. Immun.
+71:4985-4995, 2003). One of these factors is CadA, a lysine decarboxylase, and
+this protein has been proposed to negatively regulate virulence in several
+enteric pathogens. In the case of EHEC strains, CadA modulates expression of the 
+intimin, an outer membrane adhesin involved in pathogenesis. Here, we inactivated
+cadA in O157:H7 strain 86-24 to investigate the role of this gene in EHEC
+adhesion to tissue-cultured monolayers, global gene expression patterns, and
+colonization of the infant rabbit intestine. The cadA mutant did not possess
+lysine decarboxylation activity and was hyperadherent to tissue-cultured cells.
+Adherence of the cadA mutant was nearly twofold greater than that of the wild
+type, and the adherence phenotype was independent of pH, lysine, or cadaverine in
+the media. Additionally, complementation of the cadA defect reduced adherence
+back to wild-type levels, and it was found that the mutation affected the
+expression of the intimin protein. Disruption of the eae gene (intimin-encoding
+gene) in the cadA mutant significantly reduced its adherence to tissue-cultured
+cells. However, adherence of the cadA eae double mutant was greater than that of 
+an 86-24 eae mutant, suggesting that the enhanced adherence of the cadA mutant is
+not entirely attributable to enhanced expression of intimin in this background.
+Gene array analysis revealed that the cadA mutation significantly altered EHEC
+gene expression patterns; expression of 1,332 genes was downregulated and that of
+132 genes was upregulated in the mutant compared to the wild-type strain.
+Interestingly, the gene expression variation shows an EHEC-biased gene alteration
+including intergenic regions. Two putative adhesins, flagella and F9 fimbria,
+were upregulated in the cadA mutant, suggestive of their association with
+adherence in the absence of the Cad regulatory mechanism. In the infant rabbit
+model, the cadA mutant outcompeted the wild-type strain in the ileum but not in
+the cecum or mid-colon, raising the possibility that CadA negatively regulates
+EHEC pathogenicity in a tissue-specific fashion.
+
+DOI: 10.1128/IAI.00677-08 
+PMCID: PMC2573373
+PMID: 18794292  [Indexed for MEDLINE]
+

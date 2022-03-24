@@ -1,0 +1,54 @@
+
+1. biomed res int. 2020 aug 3;2020:2159460. doi: 10.1155/2020/2159460. ecollection
+2020.
+
+potential molecular mechanism nppb gene postischemic heart failure with
+and without t2dm.
+
+guan yz(1), yin rx(1)(2)(3), deng gx(1), zheng pf(1), liu cx(1), wei bl(1).
+
+author information: 
+(1)department cardiology, institute cardiovascular diseases, first
+affiliated hospital, guangxi medical university, nanning, 530021 guangxi, china.
+(2)guangxi key laboratory base precision medicine cardio-cerebrovascular
+disease control prevention, nanning, 530021 guangxi, china.
+(3)guangxi clinical research center cardio-cerebrovascular diseases, nanning,
+530021 guangxi, china.
+
+background: study aimed investigating natriuretic peptide b (nppb)
+coexpression genes pathways involved heart failure (hf) among
+patients without type 2 diabetes mellitus (t2dm).
+methods: microarray dataset gse26887, containing 19 postischemic hf patients'
+peripheral blood samples (7 t2dm 12 without t2dm), examined to
+detect genes coexpressed nppb using corr.test function r
+packet. furthermore, using online analytical tools, determined kyoto
+encyclopedia genes genomes (kegg) pathway enrichment analysis, gene
+ontology (go) annotation, protein-protein interaction (ppi) network the
+coexpression genes. modules hub genes ppi network then
+identified using cytoscape software.
+results: patients t2dm, total 41 biological processes (bp), 20
+cellular components (cc), 13 molecular functions (mf), 41 pathways were
+identified. furthermore, total 61 bps, 16 ccs, 13 mfs, 22 pathways in
+patients without t2dm identified. groups patients, 17 bps, 10
+ccs, 6 mfs, 13 pathways enriched. also identified 173 intersectional 
+coexpression genes (63 positively, 106 negatively, 4 differently coexpressed 
+in patients without t2dm, respectively) types patients, which
+were enriched 16 bps, 8 ccs, 3 mfs, 8 kegg pathways. moreover, ppi
+network (containing 237 edges 170 nodes) top module significantly
+enriched 4 bps (tricarboxylic acid metabolic process, citrate metabolic
+process, tricarboxylic acid cycle, aerobic respiration) 3 pathways
+(citrate cycle, malaria parasite metabolic pathway, age-rage signaling
+pathway diabetic complications) constructed. decr1, bgn, timp1, vcan, 
+ctcf top hub genes.
+conclusions: findings may elucidate functions roles nppb gene 
+in patients postischemic hf facilitate hf management.
+
+copyright © 2020 yao-zong guan et al.
+
+doi: 10.1155/2020/2159460 
+pmcid: pmc7424400
+pmid: 32802835 
+
+conflict interest statement: authors declare competing
+interests.
+

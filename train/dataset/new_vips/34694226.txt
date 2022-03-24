@@ -1,0 +1,51 @@
+
+1. Elife. 2021 Oct 25;10. pii: e69314. doi: 10.7554/eLife.69314.
+
+Effect of SARS-CoV-2 proteins on vascular permeability.
+
+Rauti R(#)(1), Shahoha M(#)(2)(3), Leichtmann-Bardoogo Y(#)(1), Nasser R(4), Paz 
+E(2)(3), Tamir R(1), Miller V(1), Babich T(1)(2), Shaked K(1)(2), Ehrlich A(5),
+Ioannidis K(5), Nahmias Y(5), Sharan R(4), Ashery U(2)(3)(6), Maoz BM(1)(3)(6).
+
+Author information: 
+(1)Department of Biomedical Engineering, Tel Aviv University, Tel Aviv, Israel.
+(2)School of Neurobiology, Biochemistry and Biophysics, The George S. Wise
+Faculty of Life Sciences, Tel Aviv University, Tel Aviv, Israel.
+(3)Sagol School of Neuroscience, Tel Aviv University, Tel Aviv, Israel.
+(4)Blavatnik School of Computer Science, Tel Aviv University, Tel Aviv, Israel.
+(5)Grass Center for Bioengineering, The Hebrew University of Jerusalem,
+Jerusalem, Israel.
+(6)The Center for Nanoscience and Nanotechnology, Tel Aviv University, Tel Aviv, 
+Israel.
+(#)Contributed equally
+
+Severe acute respiratory syndrome (SARS)-CoV-2 infection leads to severe disease 
+associated with cytokine storm, vascular dysfunction, coagulation, and
+progressive lung damage. It affects several vital organs, seemingly through a
+pathological effect on endothelial cells. The SARS-CoV-2 genome encodes 29
+proteins, whose contribution to the disease manifestations, and especially
+endothelial complications, is unknown. We cloned and expressed 26 of these
+proteins in human cells and characterized the endothelial response to
+overexpression of each, individually. Whereas most proteins induced significant
+changes in endothelial permeability, nsp2, nsp5_c145a (catalytic dead mutant of
+nsp5), and nsp7 also reduced CD31, and increased von Willebrand factor expression
+and IL-6, suggesting endothelial dysfunction. Using propagation-based analysis of
+a protein-protein interaction (PPI) network, we predicted the endothelial
+proteins affected by the viral proteins that potentially mediate these effects.
+We further applied our PPI model to identify the role of each SARS-CoV-2 protein 
+in other tissues affected by coronavirus disease (COVID-19). While validating the
+PPI network model, we found that the tight junction (TJ) proteins cadherin-5,
+ZO-1, and β-catenin are affected by nsp2, nsp5_c145a, and nsp7 consistent with
+the model prediction. Overall, this work identifies the SARS-CoV-2 proteins that 
+might be most detrimental in terms of endothelial dysfunction, thereby shedding
+light on vascular aspects of COVID-19.
+
+© 2021, Rauti et al.
+
+DOI: 10.7554/eLife.69314 
+PMCID: PMC8545399
+PMID: 34694226  [Indexed for MEDLINE]
+
+Conflict of interest statement: RR, MS, YL, RN, EP, RT, VM, TB, KS, AE, KI, YN,
+RS, UA, BM No competing interests declared
+

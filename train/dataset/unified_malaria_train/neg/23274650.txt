@@ -1,0 +1,47 @@
+
+1. gene. 2013 apr 10;518(1):7-16. doi: 10.1016/j.gene.2012.11.092. epub 2012 dec 26.
+
+co-expression network protein-protein interaction transcription
+regulation malaria parasite plasmodium falciparum.
+
+yu fd(1), yang sy, li yy, hu w.
+
+author information: 
+(1)school life sciences, fudan university, 220 handan road, shanghai 200433,
+pr china. fudongyu@gmail.com
+
+background: malaria continues one severe global infectious
+diseases, major threat human health economic development.
+network-based biological analysis promising approach uncover key genes
+and biological processes network viewpoint, could recognized 
+from individual gene-based signatures.
+results: integrated gene co-expression profile protein-protein
+interaction transcriptional regulation information construct a
+comprehensive gene co-expression network plasmodium falciparum. based 
+network, identified 10 core modules using ice (iterative clique
+enumeration) algorithm, essential malaria parasite development 
+intraerythrocytic developmental cycle (idc) stages. module, genes
+were highly correlated probably due co-regulation formation protein
+complex. genes recognized differentially coexpressed
+among three close-by idc stages. gene prpf8 (pfd0265w) encoding pre-mrna
+processing splicing factor 8 product identified dcgs (differentially
+co-expressed genes) among idc stages, although gene function seldom
+reported previous researches. integrating species-specific gene prediction
+and differential co-expression gene detection, found modules could
+perform species-specific functions according genes modules
+were species-specific genes, like module 10. furthermore, order reveal 
+the underlying mechanisms erythrocyte invasion p. falciparum, steiner
+tree algorithm employed identify invasion subnetwork gene
+co-expression network. subnetwork-based analysis indicated some
+important plasmodium parasite specific genes could corporate 
+be co-regulated parasite invasion process, including a
+head-to-head gene pair pfrh2a (pf13_0198) pfrh2b (mal13p1.176).
+conclusions: study based gene co-expression network could shed new
+insights mechanisms pathogenesis, even virulence p. falciparum
+development.
+
+crown copyright © 2012. published elsevier b.v. rights reserved.
+
+doi: 10.1016/j.gene.2012.11.092 
+pmid: 23274650  [indexed medline]
+

@@ -1,0 +1,43 @@
+
+1. Entropy (Basel). 2021 Nov 14;23(11). pii: 1512. doi: 10.3390/e23111512.
+
+Understanding the Impact of Walkability, Population Density, and Population Size 
+on COVID-19 Spread: A Pilot Study of the Early Contagion in the United States.
+
+Lima FT(1)(2), Brown NC(3), Duarte JP(1).
+
+Author information: 
+(1)Stuckeman Center for Design Computing, The Pennsylvania State University,
+University Park, State College, PA 16802, USA.
+(2)Faculty of Architecture and Urbanism, Universidade Federal de Juiz de Fora,
+Juiz de Fora, MG 36036-900, Brazil.
+(3)Department of Architectural Engineering, The Pennsylvania State University,
+University Park, State College, PA 16802, USA.
+
+The novel coronavirus disease 2019 (COVID-19) pandemic is an unprecedented global
+event that has been challenging governments, health systems, and communities
+worldwide. Available data from the first months indicated varying patterns of the
+spread of COVID-19 within American cities, when the spread was faster in
+high-density and walkable cities such as New York than in low-density and
+car-oriented cities such as Los Angeles. Subsequent containment efforts,
+underlying population characteristics, variants, and other factors likely
+affected the spread significantly. However, this work investigates the hypothesis
+that urban configuration and associated spatial use patterns directly impact how 
+the disease spreads and infects a population. It follows work that has shown how 
+the spatial configuration of urban spaces impacts the social behavior of people
+moving through those spaces. It addresses the first 60 days of contagion (before 
+containment measures were widely adopted and had time to affect spread) in 93
+urban counties in the United States, considering population size, population
+density, walkability, here evaluated through walkscore, an indicator that
+measures the density of amenities, and, therefore, opportunities for population
+mixing, and the number of confirmed cases and deaths. Our findings indicate
+correlations between walkability, population density, and COVID-19 spreading
+patterns but no clear correlation between population size and the number of cases
+or deaths per 100 k habitants. Although virus spread beyond these initial cases
+may provide additional data for analysis, this study is an initial step in
+understanding the relationship between COVID-19 and urban configuration.
+
+DOI: 10.3390/e23111512 
+PMCID: PMC8619267
+PMID: 34828210 
+

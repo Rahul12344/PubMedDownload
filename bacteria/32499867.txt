@@ -1,0 +1,47 @@
+
+1. Oncotarget. 2020 May 19;11(20):1799-1815. doi: 10.18632/oncotarget.27546.
+eCollection 2020 May 19.
+
+Entinostat augments NK cell functions via epigenetic upregulation of
+IFIT1-STING-STAT4 pathway.
+
+Idso JM(1), Lao S(1), Schloemer NJ(1)(2), Knipstein J(2), Burns R(3), Thakar
+MS(1)(2)(4), Malarkannan S(1)(2)(5)(6)(4).
+
+Author information: 
+(1)Laboratory of Molecular Immunology and Immunotherapy, Blood Research
+Institute, Versiti, Milwaukee, WI, USA.
+(2)Division of Pediatric Hematology-Oncology-BMT, Department of Pediatrics,
+Medical College of Wisconsin, Milwaukee, WI, USA.
+(3)Bioinformatics Core, Blood Research Institute, Versiti, Milwaukee, WI, USA.
+(4)Co-senior authors.
+(5)Divson of Hematology-Oncology, Department of Medicine, Medical College of
+Wisconsin, Milwaukee, WI, USA.
+(6)Department of Microbiology and Immunology, Medical College of Wisconsin,
+Milwaukee, WI, USA.
+
+Histone deacetylase inhibitors (HDACi) are an emerging cancer therapy; however,
+their effect on natural killer (NK) cell-mediated anti-tumor responses remain
+unknown. Here, we evaluated the impact of a benzamide HDACi, entinostat, on human
+primary NK cells as well as tumor cell lines. Entinostat significantly
+upregulated the expression of NKG2D, an essential NK cell activating receptor.
+Independently, entinostat augmented the expression of ULBP1, HLA, and MICA/B on
+both rhabdomyosarcoma and Ewing sarcoma cell lines. Additionally, entinostat
+increased both cytotoxicity and IFN-γ production in human NK cells following
+coculture with these tumor cells. Mechanistically, entinostat treatment resulted 
+in increased chromatin accessibility to the promoter region for
+interferon-induced protein with tetratricopeptide repeats 1 (IFIT1) gene and
+thereby increasing the transcript and protein levels of IFIT1 that augmented the 
+IFIT1-mediated IRF1, STAT4, and STING pathways. Corresponding transcriptome
+analysis revealed enrichment of IRF1 and STAT4 and gene sets responsible for NK
+cell-mediated IFN-γ production and cytotoxicity, respectively. Our results show a
+novel mechanism by which entinostat initiates an IFIT1-STING-mediated
+potentiation of STAT4 via IRF1 to augment NK cell-mediated anti-tumor responses.
+
+DOI: 10.18632/oncotarget.27546 
+PMCID: PMC7244011
+PMID: 32499867 
+
+Conflict of interest statement: CONFLICTS OF INTEREST The authors have no
+conflicts of interest to disclose.
+

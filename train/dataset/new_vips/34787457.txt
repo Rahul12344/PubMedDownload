@@ -1,0 +1,61 @@
+
+1. J Virol. 2021 Nov 17:JVI0082621. doi: 10.1128/JVI.00826-21. [Epub ahead of print]
+
+Ex Vivo and In Vivo CD46 Receptor Utilization by Species D Human Adenovirus
+Serotype 26 (HAdV26).
+
+Hemsath JR(1), Liaci AM(2)(3), Rubin JD(4), Parrett BJ(4), Lu SC(4), Nguyen
+TV(5), Turner MA(4), Chen CY(5), Cupelli K(2), Reddy VS(6), Stehle T(2),
+Liszewski MK(7), Atkinson JP(7), Barry MA(5)(8)(9).
+
+Author information: 
+(1)Graduate Research Employee Program (GREP), Mayo Clinic, Rochester, Minnesota, 
+USA.
+(2)Interfaculty Institute of Biochemistry, University of Tübingen, Tübingen,
+Germany.
+(3)Structural Biochemistry, Bijvoet Centre for Biomolecular Research, Utrecht
+University, Utrecht, The Netherlands.
+(4)Virology and Gene Therapy Graduate Program, Mayo Clinic, Rochester, Minnesota,
+USA.
+(5)Division of Infectious Diseases, Department of Medicine, Mayo Clinic,
+Rochester, Minnesota, USA.
+(6)Department of Integrative Structural and Molecular Biology, The Scripps
+Research Institute, La Jolla, California, USA.
+(7)Division of Rheumatology, Department of Medicine, Washington University School
+of Medicine, St. Louis, Missouri, USA.
+(8)Department of Immunology, Mayo Clinic, Rochester, Minnesota, USA.
+(9)Department of Molecular Medicine, Mayo Clinic, Rochester, Minnesota, USA.
+
+Human adenovirus serotype 26 (Ad26) is used as a gene-based vaccine against
+SARS-CoV-2 and HIV-1. Yet, its primary receptor portfolio remains controversial, 
+potentially including sialic acid, CAR, integrins, and CD46. We and others have
+shown that Ad26 can use CD46, but these observations were questioned by the
+inability to co-crystallize Ad26 fiber with CD46. Recent work demonstrated that
+Ad26 binds CD46 with its hexon protein rather than its fiber. We examined the
+functional consequences of Ad26 for infection in vitro and in vivo. Ectopic
+expression of human CD46 on Chinese hamster ovary cells increased Ad26 infection 
+significantly. Deletion of the complement control protein domains CCP1 or CCP2 or
+the serine-threonine-proline (STP) region of CD46 reduced infection. Comparing
+wild type and sialic acid-deficient CHO cells, we show that the usage of CD46 is 
+independent of its sialylation status. Ad26 transduction was increased in CD46
+transgenic mice after intramuscular (IM) injection, but not after intranasal (IN)
+administration. Ad26 transduction was 10-fold lower than Ad5 after intratumoral
+(IT) injection of CD46-expressing tumors. Ad26 transduction of liver was
+1000-fold lower than Ad5 after intravenous (IV) injection. These data demonstrate
+the use of CD46 by Ad26 under certain situations, but also show that the receptor
+has little consequence by other routes of administration. Finally, IV injection
+of high doses of Ad26 into CD46 mice induced release of liver enzymes in the
+bloodstream and reduced white blood cell counts, but did not induce
+thrombocytopenia. This suggests that Ad26 virions do not induce direct clotting
+side effects seen during COVID-19 vaccination with this serotype of adenovirus.
+IMPORTANCE Human species D Ad26 is being pursued as a low seroprevalence vector
+for oncolytic virotherapy and gene-based vaccination against HIV-1 and
+SARS-CoV-2. However, there is debate in the literature about its tropism and
+receptor utilization, which directly influence its efficiency for certain
+applications. This work was aimed at determining which receptor(s) this virus
+uses for infection, and its role in virus biology, vaccine efficacy, and
+importantly, in vaccine safety.
+
+DOI: 10.1128/JVI.00826-21 
+PMID: 34787457 
+

@@ -1,0 +1,64 @@
+
+1. J Dairy Sci. 2019 May;102(5):4249-4263. doi: 10.3168/jds.2018-15906. Epub 2019
+Mar 7.
+
+Candidate genes associated with the heritable humoral response to Mycobacterium
+avium ssp. paratuberculosis in dairy cows have factors in common with
+gastrointestinal diseases in humans.
+
+McGovern SP(1), Purfield DC(2), Ring SC(3), Carthy TR(2), Graham DA(4), Berry
+DP(5).
+
+Author information: 
+(1)Department of Microbiology, University College Cork, Coláiste na hOllscoile
+Corcaigh, College Road, Cork City, Co. Cork, Ireland T12 CY82.
+(2)Teagasc, Animal & Grassland Research and Innovation Centre, Moorepark, Fermoy,
+Co. Cork, Ireland P61 C996.
+(3)Irish Cattle Breeding Federation, Highfield House, Shinagh, Bandon, Co. Cork, 
+Ireland P72 X050.
+(4)Animal Health Ireland, 4-5 The Archways, Carrick-on-Shannon, Co. Leitrim,
+Ireland N41 WN27.
+(5)Teagasc, Animal & Grassland Research and Innovation Centre, Moorepark, Fermoy,
+Co. Cork, Ireland P61 C996. Electronic address: Donagh.Berry@teagasc.ie.
+
+Infection of cattle with bovine paratuberculosis (i.e., Johne's disease) is
+caused by Mycobacterium avium ssp. paratuberculosis (MAP) and results in a
+chronic incurable gastroenteritis. This disease, which has economic ramifications
+for the cattle industry, is increasing in detected prevalence globally;
+subclinically infected animals can silently shed the bacterium into the
+environment for years, exposing contemporaries and hampering disease-control
+programs. The objective of the present study was to first quantify the genetic
+parameters for humoral response to MAP in dairy cattle. This was followed by a
+genome-based association analysis and subsequent downstream bioinformatic
+analyses from imputed whole genome sequence SNP data. After edits, ELISA test
+records were available on 136,767 cows; analyses were also undertaken on a subset
+of 33,818 of these animals from herds with at least 5 MAP ELISA-positive cows,
+with at least 1 of those positive cows being homebred. Variance components were
+estimated using univariate animal and sire linear mixed models. The heritability 
+calculated from the animal model for humoral response to MAP using alternative
+phenotype definitions varied from 0.02 (standard error = 0.003) to 0.05 (standard
+error = 0.008). The genome-based associations were undertaken within a mixed
+model framework using weighted deregressed estimated breeding values as a
+dependent variable on 1,883 phenotyped animals that were ≥87.5%
+Holstein-Friesian. Putative susceptibility quantitative trait loci (QTL) were
+identified on Bos taurus autosome 1, 3, 5, 6, 8, 9, 10, 11, 13, 14, 18, 21, 23,
+25, 26, 27, and 29; mapping the most significant SNP to genes within and
+overlapping these QTL revealed that the most significant associations were with
+the 10 functional candidate genes KALRN, ZBTB20, LPP, SLA2, FI3A1, LRCH3, DNAJC6,
+ZDHHC14, SNX1, and HAS2. Pathway analysis failed to reveal significantly enriched
+biological pathways, when both bovine-specific pathway data and human ortholog
+data were taken into account. The existence of genetic variation for MAP
+susceptibility in a large data set of dairy cows signifies the potential of
+breeding programs for reducing MAP susceptibility. Furthermore, the
+identification of susceptible QTL facilitates greater biological understanding of
+bovine paratuberculosis and potential therapeutic targets for future
+investigation. The novel molecular similarities identified between bovine
+paratuberculosis and human inflammatory bowel disease suggest potential for human
+therapeutic interventions to be translated to veterinary medicine and vice versa.
+
+Copyright © 2019 American Dairy Science Association. Published by Elsevier Inc.
+All rights reserved.
+
+DOI: 10.3168/jds.2018-15906 
+PMID: 30852025  [Indexed for MEDLINE]
+

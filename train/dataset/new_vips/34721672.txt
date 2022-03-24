@@ -1,0 +1,68 @@
+
+1. Ther Adv Med Oncol. 2021 Oct 26;13:17588359211052417. doi:
+10.1177/17588359211052417. eCollection 2021.
+
+Development of a risk classification system combining TN-categories and
+circulating EBV DNA for non-metastatic NPC in 10,149 endemic cases.
+
+Chen FP(1), Lin L(1), Liang JH(2), Tan SH(3), Ong EHW(4), Luo YS(1), Huang L(4), 
+Sim AYL(4), Wang HT(4), Gao TS(2), Deng B(2), Zhou GQ(1), Kou J(1), Chua MLK(5), 
+Sun Y(6).
+
+Author information: 
+(1)Department of Radiation Oncology, Sun Yat-Sen University Cancer Center,
+Guangzhou, China.
+(2)Department of Radiation Oncology, Wuzhou Red Cross Hospital, Wuzhou, China.
+(3)Division of Clinical Trials and Epidemiological Sciences, National Cancer
+Centre Singapore, Singapore.
+(4)Division of Radiation Oncology, National Cancer Centre Singapore, Singapore.
+(5)Division of Radiation Oncology, Department of Head and Neck and Thoracic
+Cancers, National Cancer Centre Singapore, 11 Hospital Crescent, Singapore
+169610.
+(6)Department of Radiation Oncology, Sun Yat-Sen University Cancer Center, No.
+651 Dongfeng Eastern Road, Guangzhou 510060, Guangdong, China.
+
+Background: The objective of this study was to construct a risk classification
+system integrating cell-free Epstein-Barr virus (cfEBV) DNA with T- and N-
+categories for better prognostication in nasopharyngeal carcinoma (NPC).
+Methods: Clinical records of 10,149 biopsy-proven, non-metastatic NPC were
+identified from two cancer centers; this comprised a training (N = 9,259) and two
+validation cohorts (N = 890; including one randomized controlled phase 3 trial
+cohort). Adjusted hazard ratio (AHR) method using a two-tiered stratification by 
+cfEBV DNA and TN-categories was applied to generate the risk model. Primary
+clinical endpoint was overall survival (OS). Performances of the models were
+compared against American Joint Committee on Cancer/Union for International
+Cancer Control (AJCC/UICC) 8th edition TNM-stage classification and two published
+recursive partitioning analysis (RPA) models, and were validated in the
+validation cohorts.
+Results: We chose a cfEBV DNA cutoff of ⩾2,000 copies for optimal risk
+discretization of OS, disease-free survival (DFS) and distant metastasis-free
+survival (DMFS) in the training cohort. AHR modeling method divided NPC into six 
+risk groups with significantly disparate survival (p  < 0.001 for all): AHR1,
+T1N0; AHR2A, T1N1/T2-3N0 cfEBV DNA  < 2,000 (EBVlow); AHR2B, T1N1/T2-3N0 cfEBV
+DNA ⩾ 2,000 (EBVhigh) and T1-2N2/T2-3N1 EBVlow; AHR3, T1-2N2/T2-3N1 EBVhigh and
+T3N2/T4N0 EBVlow; AHR4, T3N2/T4 N0-1 EBVhigh and T1-3N3/T4N1-3 EBVlow; AHR5,
+T1-3N3/T4 N2-3 EBVhigh. Our AHR model outperformed the published RPA models and
+TNM stage with better hazard consistency (1.35 versus 3.98-12.67), hazard
+discrimination (5.29 versus 6.69-13.35), explained variation (0.248 versus
+0.164-0.225), balance (0.385 versus 0.438-0.749) and C-index (0.707 versus
+0.662-0.700). In addition, our AHR model was superior to the TNM stage for risk
+stratification of OS in two validation cohorts (p  < 0.001 for both).
+Conclusion: Herein, we developed and validated a risk classification system that 
+combines the AJCC/UICC 8th edition TN-stage classification and cfEBV DNA for
+non-metastatic NPC. Our new clinicomolecular model provides improved OS
+prediction over the current staging system.
+
+© The Author(s), 2021.
+
+DOI: 10.1177/17588359211052417 
+PMCID: PMC8554575
+PMID: 34721672 
+
+Conflict of interest statement: Conflict of interest statement: The authors
+declared no potential conflicts of interest with respect to the research,
+authorship, and/or publication of this article. The authenticity of this article 
+has been validated by uploading the key raw data onto the Research Data Deposit
+public platform (www.researchdata.org.cn), with the approval number as
+RDDA2020001517.
+

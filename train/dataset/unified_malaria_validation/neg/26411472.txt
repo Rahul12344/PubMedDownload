@@ -1,0 +1,47 @@
+
+1. brief bioinform. 2016 jul;17(4):576-92. doi: 10.1093/bib/bbv078. epub 2015 sep
+26.
+
+big-data-based edge biomarkers: study dynamical drug sensitivity and
+resistance individuals.
+
+zeng t, zhang w, yu x, liu x, li m, chen l.
+
+big-data-based edge biomarker new concept characterize disease features
+based biomedical big data dynamical network manner, also
+provides alternative strategies indicate disease status single samples.
+this article gives comprehensive review big-data-based edge biomarkers for
+complex diseases individual patient, defined biomarkers based 
+on network information high-dimensional data. specifically, firstly
+introduce sources structures biomedical big data accessible public 
+for edge biomarker disease study. show biomedical big data are
+typically 'small-sample size high-dimension space', i.e. small samples but
+with high dimensions features (e.g. omics data) individual, in
+contrast traditional big data many fields characterized as
+'large-sample size low-dimension space', i.e. big samples low
+dimensions features. then, demonstrate concept, model algorithm for
+edge biomarkers big-data-based edge biomarkers. dissimilar to
+conventional biomarkers, edge biomarkers, e.g. module biomarkers module
+network rewiring-analysis, able predict disease state learning
+differential associations molecules rather differential expressions 
+of molecules disease progression treatment individual patients. in
+particular, contrast using information common molecules edges
+(i.e.molecule-pairs) across population traditional biomarkers including
+network edge biomarkers, big-data-based edge biomarkers specific each
+individual thus accurately evaluate disease state considering 
+individual heterogeneity. therefore, measurement big data a
+high-dimensional space required learning process also in
+the diagnosing predicting process tested individual. finally, we
+provide case study analyzing temporal expression data malaria
+vaccine trial big-data-based edge biomarkers module network
+rewiring-analysis. illustrative results show identified module
+biomarkers accurately distinguish vaccines without protection and
+outperformed previous reported gene signatures terms effectiveness and
+efficiency.
+
+© author 2015. published oxford university press. permissions, please 
+email: journals.permissions@oup.com.
+
+doi: 10.1093/bib/bbv078 
+pmid: 26411472  [indexed medline]
+

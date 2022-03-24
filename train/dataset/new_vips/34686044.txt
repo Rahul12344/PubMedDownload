@@ -1,0 +1,39 @@
+
+1. J Chem Phys. 2021 Oct 21;155(15):154303. doi: 10.1063/5.0065163.
+
+Structure of benzothiadiazine at zwitterionic phospholipid cell membranes.
+
+Hu Z(1), Martí J(1), Lu H(2).
+
+Author information: 
+(1)Department of Physics, Technical University of Catalonia-Barcelona Tech,
+B5-209 Northern Campus UPC, 08034 Barcelona, Catalonia, Spain.
+(2)School of Pharmacy, Shanghai Jiao Tong University, 800 Dongchuan Road,
+Shanghai 200240, China.
+
+The use of drugs derived from benzothiadiazine, which is a bicyclic heterocyclic 
+benzene derivative, has become a widespread treatment for diseases such as
+hypertension (treated with diuretics such as bendroflumethiazide or
+chlorothiazide), low blood sugar (treated with non-diuretic diazoxide), or the
+human immunodeficiency virus, among others. In this work, we have investigated
+the interactions of benzothiadiazine with the basic components of cell membranes 
+and solvents, such as phospholipids, cholesterol, ions, and water. The analysis
+of the mutual microscopic interactions is of central importance to elucidate the 
+local structure of benzothiadiazine as well as the mechanisms responsible for the
+access of benzothiadiazine to the interior of the cell. We have performed
+molecular dynamics simulations of benzothiadiazine embedded in three different
+model zwitterionic bilayer membranes made by dimyristoylphosphatidylcholine,
+dioleoylphosphatidylcholine, 1,2-dioleoyl-sn-glycero-3-phosphoserine, and
+cholesterol inside aqueous sodium-chloride solution in order to systematically
+examine microscopic interactions of benzothiadiazine with the cell membrane at
+liquid-crystalline phase conditions. From data obtained through radial
+distribution functions, hydrogen-bonding lengths, and potentials of mean force
+based on reversible work calculations, we have observed that benzothiadiazine has
+a strong affinity to stay at the cell membrane interface although it can be fully
+solvated by water in short periods of time. Furthermore, benzothiadiazine is able
+to bind lipids and cholesterol chains by means of single and double
+hydrogen-bonds of different characteristic lengths.
+
+DOI: 10.1063/5.0065163 
+PMID: 34686044 
+

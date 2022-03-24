@@ -1,0 +1,51 @@
+
+1. dna res. 2016 aug;23(4):339-51. doi: 10.1093/dnares/dsw022. epub 2016 jun 26.
+
+complete telomere-to-telomere de novo assembly plasmodium falciparum
+genome long-read (>11 kb), single molecule, real-time sequencing.
+
+vembar ss(1), seetin m(2), lambert c(2), nattestad m(3), schatz mc(4), baybayan
+p(2), scherf a(5), smith ml(6).
+
+author information: 
+(1)unité biologie des interactions hôte-parasite, département de parasites et
+insectes vecteurs, institut pasteur, paris 75015, france cnrs, erl 9195, paris
+75015, france inserm, unit u1201, paris 75015, france
+shruthi-sridhar.vembar@pasteur.fr mlaird@pacificbiosciences.com.
+(2)pacific biosciences, menlo park, ca, usa.
+(3)cold spring harbor laboratory, cold spring harbor, ny, usa.
+(4)cold spring harbor laboratory, cold spring harbor, ny, usa department of
+computer science, johns hopkins university, baltimore, md, usa.
+(5)unité biologie des interactions hôte-parasite, département de parasites et
+insectes vecteurs, institut pasteur, paris 75015, france cnrs, erl 9195, paris
+75015, france inserm, unit u1201, paris 75015, france.
+(6)pacific biosciences, menlo park, ca, usa shruthi-sridhar.vembar@pasteur.fr
+mlaird@pacificbiosciences.com.
+
+the application next-generation sequencing estimate genetic diversity of
+plasmodium falciparum, lethal malaria parasite, proved challenging
+due skewed at-richness [∼80.6% (a + t)] genome lack of
+technology assemble highly polymorphic subtelomeric regions contain
+clonally variant, multigene virulence families (ex: var rifin). address
+this, performed amplification-free, single molecule, real-time sequencing of
+p. falciparum genomic dna generated reads average length 12 kb, 50%
+of reads 15.5 50 kb length. next, using hierarchical
+genome assembly process, assembled p. falciparum genome de novo and
+successfully compiled 14 nuclear chromosomes telomere-to-telomere. also
+accurately resolved centromeres [∼90-99% (a + t)] subtelomeric regions and
+identified large insertions duplications add extra var rifin genes
+to genome, along smaller structural variants homopolymer tract
+expansions. overall, show amplification-free, long-read sequencing
+combined de novo assembly overcomes major challenges inherent studying
+the p. falciparum genome. indeed, technology may identify the
+polymorphic repetitive subtelomeric sequences parasite populations from
+endemic areas may also evaluate structural variation linked virulence,
+drug resistance disease transmission.
+
+© author 2016. published oxford university press behalf kazusa dna
+research institute.
+
+doi: 10.1093/dnares/dsw022 
+pmcid: pmc4991835
+pmid: 27345719  [indexed medline]
+

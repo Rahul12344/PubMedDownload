@@ -1,0 +1,51 @@
+
+1. China CDC Wkly. 2021 Nov 12;3(46):967-972. doi: 10.46234/ccdcw2021.235.
+
+Machine Learning Approach Effectively Predicts Binding Between SARS-CoV-2 Spike
+and ACE2 Across Mammalian Species - Worldwide, 2021.
+
+Ma Y(1), Hu Y(1)(2), Xia B(1), Du P(1), Wu L(1), Liang M(3), Chen Q(1)(4), Yan
+H(5), Gao GF(1), Wang Q(1), Wang J(1).
+
+Author information: 
+(1)CAS Key Laboratory of Pathogen Microbiology and Immunology, Institute of
+Microbiology, Chinese Academy of Sciences, Beijing, China.
+(2)School of Life Sciences, Division of Life Sciences and Medicine, University of
+Science and Technology of China, Hefei, Anhui, China.
+(3)State Key Laboratory for Molecular Virology and Genetic Engineering, National 
+Institute for Viral Disease Control and Prevention, Chinese Center for Disease
+Control and Prevention, Beijing, China.
+(4)Institute of Physical Science and Information, Anhui University, Hefei, Anhui,
+China.
+(5)State Key Laboratory of Virology, Modern Virology Research Center, College of 
+Life Sciences, Wuhan University, Wuhan, Hubei, China.
+
+Introduction: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a
+recently emergent coronavirus of natural origin and caused the coronavirus
+disease (COVID-19) pandemic. The study of its natural origin and host range is of
+particular importance for source tracing, monitoring of this virus, and
+prevention of recurrent infections. One major approach is to test the binding
+ability of the viral receptor gene ACE2 from various hosts to SARS-CoV-2 spike
+protein, but it is time-consuming and labor-intensive to cover a large collection
+of species.
+Methods: In this paper, we applied state-of-the-art machine learning approaches
+and created a pipeline reaching >87% accuracy in predicting binding between
+different ACE2 and SARS-CoV-2 spike.
+Results: We further validated our prediction pipeline using 2 independent test
+sets involving >50 bat species and achieved >78% accuracy. A large-scale
+screening of 204 mammal species revealed 144 species (or 61%) were susceptible to
+SARS-CoV-2 infections, highlighting the importance of intensive monitoring and
+studies in mammalian species.
+Discussion: In short, our study employed machine learning models to create an
+important tool for predicting potential hosts of SARS-CoV-2 and achieved the
+highest precision to our knowledge in experimental validation. This study also
+predicted that a wide range of mammals were capable of being infected by
+SARS-CoV-2.
+
+Copyright and License information: Editorial Office of CCDCW, Chinese Center for 
+Disease Control and Prevention 2021.
+
+DOI: 10.46234/ccdcw2021.235 
+PMCID: PMC8598542
+PMID: 34804629 
+

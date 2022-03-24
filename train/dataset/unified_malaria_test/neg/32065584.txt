@@ -1,0 +1,80 @@
+
+1. elife. 2020 feb 17;9. pii: e54129. doi: 10.7554/elife.54129.
+
+a single-parasite transcriptional atlas toxoplasma gondii reveals novel
+control antigen expression.
+
+xue y(1), theisen tc(2), rastogi s(2), ferrel a(2), quake sr(1)(3)(4), boothroyd 
+jc(2).
+
+author information: 
+(1)department bioengineering, stanford university, stanford, united states.
+(2)department microbiology immunology, stanford university school of
+medicine, stanford, united states.
+(3)department applied physics, stanford university, stanford, united states.
+(4)chan zuckerberg biohub, san francisco, united states.
+
+toxoplasma gondii, protozoan parasite, undergoes complex poorly
+understood developmental process critical establishing chronic
+infection intermediate hosts. here, applied single-cell rna-sequencing 
+(scrna-seq) >5,400 toxoplasma tachyzoite bradyzoite stages using
+three widely studied strains construct comprehensive atlas cell-cycle and
+asexual development, revealing hidden states transcriptional factors
+associated developmental stage. analysis sag1-related sequence (srs)
+antigenic repertoire reveals highly heterogeneous, sporadic expression pattern 
+unexplained measurement noise, cell cycle, asexual development.
+furthermore, identified ap2ix-1 transcription factor controls the
+switching ubiquitous sag1 rare surface antigens previously
+observed tachyzoites. addition, comparative analysis toxoplasma and
+plasmodium scrna-seq results reveals concerted expression gene sets, despite
+fundamental differences cell division. lastly, built interactive
+data-browser visualization atlas resource.
+
+plain-language-summary: toxoplasma gondii single-celled parasite can
+infect warm-blooded animals, reproduces sexually domestic and
+wild cats. distantly related malaria agent, currently infects a
+quarter world’s human population. although benign cases, the
+condition still dangerous foetuses people whose immune system is
+compromised. human body, toxoplasma cells infiltrate muscle nerve
+cells; undergoes complex transformation helps parasites to
+stop dividing quickly instead hide immune system dormant state.
+it still unclear transition unfolds, particular genes
+are switched given time. understand transformation,
+scientists often measure genes active across group parasites.
+however, approach gives ‘average’ picture allow each
+parasite profiled, missing diversity may exist between
+individuals. one area particular interest, example, set genes
+called sag1-related sequences. code ‘molecular overcoat’ the
+parasite, array proteins sit surface toxoplasma cells. 
+than 120 sag1-related genes exist genome toxoplasma parasite,
+creating whole wardrobe proteins potentially hide parasites from
+the immune system. here, xue et al. harnessed technique called single-cell rna 
+sequencing, allowed screen genes active 5,400
+individual toxoplasma parasites different strains. analysis included
+both rapidly dividing form parasite (present initial stage of
+an infection), slowly dividing form found people carry toxoplasma 
+without symptoms. resulting ‘atlas’ contains previously hidden
+information genes used stage parasite development: this
+included unexpected similarities toxoplasma malaria agent, as
+well subtle differences two toxoplasma strains. atlas also 
+sheds light individual parasites turns sag1-related sequences. it
+reveals surprising diversity composition protein coats sported by
+toxoplasma cells developmental stage, strategy may help to
+thwart immune system. one individual parasite particular unusual
+combination coat proteins found fast slow-dividing
+human forms. parasite grown human cells, yet closer analysis
+revealed activated several genes (including ones encoding protein
+coat) normally ‘on’ parasites going sexual
+reproduction domestic wild cats. new data atlas helps understand
+how toxoplasma transmitted grow within humans, could aid the
+development treatments. ultimately, better knowledge parasites
+could also bring new information agent causes malaria.
+© 2020, xue et al.
+
+doi: 10.7554/elife.54129 
+pmcid: pmc7180058
+pmid: 32065584 
+
+conflict interest statement: yx, tt, sr, af, sq, jb competing interests
+declared
+

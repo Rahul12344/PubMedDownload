@@ -1,0 +1,51 @@
+
+1. J Med Virol. 2021 Nov 12. doi: 10.1002/jmv.27450. [Epub ahead of print]
+
+Clinical features and independent predictors for recurrence of positive
+SARS-CoV-2 RNA: A propensity score-matched analysis.
+
+Liu K(1), Yang X(1), Feng C(2), Chen M(3), Zhang C(1), Wang Y(4).
+
+Author information: 
+(1)Department of Respiratory Medicine, Hospital of Chengdu University of
+Traditional Chinese Medicine, Chengdu, Sichuan, China.
+(2)Ministry of Law, The Public and Health Clinic Centre of Chengdu, Chengdu,
+Sichuan, China.
+(3)Department of Respiratory Medicine, Chengdu Fifth People's Hospital, Chengdu, 
+Sichuan, China.
+(4)National Key Laboratory of Traditional Chinese Medicine for the Prevention and
+Treatment of Infectious Diseases, The Public and Health Clinic Centre of Chengdu,
+Chengdu, Sichuan, China.
+
+Patients with COVID-19 may be recurrence positive for severe acute respiratory
+syndrome coronavirus 2 (SARS-CoV-2) RNA after being cured and discharged from the
+hospital. The aim of this study was to explore independent influencing factors as
+markers for predicting positive SARS-CoV-2 RNA recurrence. The study included 601
+COVID-19 patients who were cured and discharged from the Public and Health Clinic
+Centre of Chengdu from January 2020 to March 2021, and the recurrence positive of
+patients within 6 weeks after SARS-CoV-2 RNA turned negative was followed up. We 
+used propensity score matching to eliminate the influence of confounding factors,
+and multivariate Logistic regression analysis was used to determine the
+independent influencing factors for positive SARS-CoV-2 RNA recurrence.
+Multivariate Logistic regression showed that the elevated serum potassium (odds
+ratio [OR] = 6.537, 95% confidence interval [CI]: 1.864-22.931, p = 0.003),
+elevated blood chlorine (OR = 1.169, 95% CI: 1.032-1.324, p = 0.014) and elevated
+CD3+ CD4+ count (OR = 1.003, 95% CI: 1.001-1.004, p < 0.001) were identified as
+independent risk factors for positive SARS-CoV-2 RNA recurrence (p < 0.05). The
+difference in virus shedding duration (OR = 1.049, 95% CI: 1.000-1.100, p = 0.05)
+was borderline statistically significant. For sensitivity analysis, we included
+virus shedding duration as a categorical variable in the model again and found
+that the OR value related to recurrence positively increased with delayed virus
+shedding duration, and the trend test showed a statistical difference (P
+trend = 0.03). Meanwhile, shortening of activated partial prothrombinase time
+(OR = 0.908, 95% CI: 0.824-1.000, p = 0.049) was identified as an independent
+protection factor for SARS-CoV-2 RNA recurrence positive. We have identified
+independent factors that affect the recurrence of SARS-CoV-2 RNA positive. It is 
+recommended that doctors pay attention to these indicators when first admitted to
+the hospital.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/jmv.27450 
+PMID: 34766661 
+

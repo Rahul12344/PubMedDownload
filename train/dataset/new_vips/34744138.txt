@@ -1,0 +1,29 @@
+
+1. Igaku Butsuri. 2021;41(3):82-86. doi: 10.11323/jjmp.41.3_82.
+
+[Forefront of AI Applications for COVID-19 Imaging Diagnosis].
+
+[Article in Japanese]
+
+Arimura H(1), Iwasaki T(1)(2).
+
+Author information: 
+(1)Kyushu University.
+(2)The University of Tokyo Hospital.
+
+The intra- and inter-observer variability in diagnosis of thoracic CT images may 
+affect the diagnosis of COVID-19. Therefore, several studies have been reported
+to develop artificial intelligence (AI) approaches using deep learning (DL) and
+radiomics technologies. The difference between them is automatic feature
+extraction (DL) and hand-crafted one (radiomics). The advantages of the AI-based 
+imaging approaches for the COVID-19 are fast throughput, non-invasion,
+quantification, and integration of PCR results, CT findings, and clinical
+information. To the best of my knowledge, three types of the AI approaches have
+been studied: detection, severity differentiation, and prognosis prediction of
+COVID-19. AI technologies on assessment of severity/prediction of prognosis for
+COVID-19 may be more crucial than detection of COVID-19 pneumonia after COVID-19 
+becomes one of common diseases.
+
+DOI: 10.11323/jjmp.41.3_82 
+PMID: 34744138  [Indexed for MEDLINE]
+

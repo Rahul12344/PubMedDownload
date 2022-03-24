@@ -1,0 +1,50 @@
+
+1. Evid Based Complement Alternat Med. 2021 Nov 3;2021:1009551. doi:
+10.1155/2021/1009551. eCollection 2021.
+
+Network Pharmacology-Based Systematic Analysis of Molecular Mechanisms of
+Geranium wilfordii Maxim for HSV-2 Infection.
+
+Zhang H(1), Gao MH(1), Chen Y(1), Liu T(1).
+
+Author information: 
+(1)Department of Integrated Traditional Chinese and Western Medicine, Nanjing
+University of Chinese Medicine, Nanjing 210000, China.
+
+Background: Being a traditional Chinese medicine, Geranium wilfordii Maxim (GWM) 
+is used for the treatment of various infectious diseases, and its main active
+ingredients are the polyphenolic substances such as polyphenols quercetin,
+corilagin, and geraniin. Previous studies have demonstrated the anti-HSV-1 viral 
+activity of these three main ingredients. Through employing a network
+pharmacological method, the authors of the present research intend to probe the
+mechanism of GWM for the therapeutic treatment of HSV-2 infection.
+Methods: The bioactive substances and related targets of GWM were obtained from
+the TCMSP database. Gene expression discrepancy for HSV-2 infection was obtained 
+from dataset GSE18527. Crossover genes between disease target genes and GWM
+target genes were gained via Circos package. Distinctively displayed genes (DDGs)
+during HSV-2 infection were uploaded to the Metascape database with GWM target
+genes for further analysis. The tissue-specific distribution of the genes was
+obtained by uploading the genes to the PaGenBase database.
+Ingredient-gene-pathway (IGP) networks were constructed using Cytoscape software.
+Molecular docking investigations were carried out utilizing AutoDock Vina
+software.
+Results: Nine actively involved components were retrieved from the TCMSP
+database. After taking the intersection among 153 drug target genes and 83 DDGs, 
+7 crossover genes were screened. Gene enrichment analysis showed that GWM
+treatment of HSV-2 infection mainly involves cytokine signaling in the immune
+system, response to virus, epithelial cell differentiation, and type II
+interferon signaling (IFNG). One hub, three core objectives, and two critical
+paths were filtered out from the built network. Geraniin showed strong binding
+activity with HSV-2 gD protein and STING protein in molecular docking.
+Conclusions: This network pharmacological study provides a fundamental molecular 
+mechanistic exploration of GWM for the treatment of HSV-2 infection.
+
+Copyright © 2021 Hao Zhang et al.
+
+DOI: 10.1155/2021/1009551 
+PMCID: PMC8580655
+PMID: 34777530 
+
+Conflict of interest statement: The authors report that there are no conflicts of
+interest in this work.
+

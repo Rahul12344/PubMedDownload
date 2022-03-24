@@ -1,0 +1,59 @@
+
+1. int j parasitol drugs drug resist. 2017 aug;7(2):138-146. doi:
+10.1016/j.ijpddr.2017.03.004. epub 2017 mar 22.
+
+using genome-scale metabolic network model elucidate mechanism of
+chloroquine action plasmodium falciparum.
+
+tewari sg(1), prigge st(2), reifman j(3), wallqvist a(4).
+
+author information: 
+(1)department defense biotechnology high performance computing software
+applications institute, telemedicine advanced technology research center, us 
+army medical research materiel command, ft. detrick, md 21702, usa.
+electronic address: stewari@bhsai.org.
+(2)department molecular microbiology immunology, johns hopkins university,
+baltimore, md 21205, usa. electronic address: sprigge2@jhu.edu.
+(3)department defense biotechnology high performance computing software
+applications institute, telemedicine advanced technology research center, us 
+army medical research materiel command, ft. detrick, md 21702, usa.
+electronic address: jaques.reifman.civ@mail.mil.
+(4)department defense biotechnology high performance computing software
+applications institute, telemedicine advanced technology research center, us 
+army medical research materiel command, ft. detrick, md 21702, usa.
+electronic address: sven.a.wallqvist.civ@mail.mil.
+
+chloroquine, long default first-line treatment malaria, now
+abandoned large parts world widespread drug-resistance in
+plasmodium falciparum. spite importance cost-effective and
+efficient drug, coherent understanding cellular mechanisms affected by
+chloroquine influence fitness survival parasite
+remains elusive. here, used systems biology approach integrate
+genome-scale transcriptomics map effects chloroquine, identify
+targeted metabolic pathways, translate findings mechanistic
+insights. specifically, first developed method integrates
+transcriptomic metabolomic data, independently validated a
+recently published set data krebs-cycle mutants p. falciparum. 
+then used method calculate effect chloroquine treatment the
+metabolic flux profiles p. falciparum intraerythrocytic
+developmental cycle. model predicted dose-dependent inhibition dna
+replication, agreement earlier experimental results both
+drug-sensitive drug-resistant p. falciparum strains. simulations also
+corroborated experimental findings suggest differences chloroquine
+sensitivity ring- schizont-stage p. falciparum. analysis also
+suggests metabolic fluxes govern reduced thioredoxin and
+phosphoenolpyruvate synthesis significantly decreased pivotal to
+chloroquine-based inhibition p. falciparum dna replication. consequences
+of impaired phosphoenolpyruvate synthesis redox metabolism reduced carbon
+fixation increased oxidative stress, respectively, eventually
+facilitate killing parasite. analysis suggests combination of
+chloroquine (or analogue) another drug, inhibits carbon fixation
+and/or increases oxidative stress, increase clearance p. falciparum
+from host system.
+
+copyright © 2017 authors. published elsevier ltd.. rights reserved.
+
+doi: 10.1016/j.ijpddr.2017.03.004 
+pmcid: pmc5376308
+pmid: 28355531  [indexed medline]
+

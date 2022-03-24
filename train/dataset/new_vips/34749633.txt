@@ -1,0 +1,86 @@
+
+1. BMC Bioinformatics. 2021 Nov 8;22(Suppl 15):544. doi: 10.1186/s12859-021-04401-3.
+
+Laniakea@ReCaS: exploring the potential of customisable Galaxy on-demand
+instances as a cloud-based service.
+
+Tangaro MA(#)(1)(2), Mandreoli P(#)(1)(3), Chiara M(1)(3), Donvito G(2),
+Antonacci M(2), Parisi A(4), Bianco A(4), Romano A(5), Bianchi DM(5), Cangelosi
+D(6), Uva P(6)(7), Molineris I(8), Nosi V(9), Calogero RA(10), Alessandri L(10), 
+Pedrini E(11), Mordenti M(11), Bonetti E(11)(12), Sangiorgi L(11), Pesole
+G(13)(14), Zambelli F(15)(16).
+
+Author information: 
+(1)Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies,
+National Research Council (CNR), Via Giovanni Amendola 122/O, 70126, Bari, Italy.
+(2)National Institute for Nuclear Physics (INFN), Section of Bari, Via Orabona 4,
+70126, Bari, Italy.
+(3)Department of Biosciences, University of Milan, Via Celoria 26, 20133, Milano,
+Italy.
+(4)Istituto Zooprofilattico Sperimentale Della Puglia e Della Basilicata, Via
+Manfredonia 20, 71121, Foggia, Italy.
+(5)National Reference Laboratory for Coagulase-Positive Staphylococci Including
+Staphylococcus Aureus, Istituto Zooprofilattico Sperimentale del Piemonte,
+Liguria e Valle d'Aosta, Via Bologna 148, 10154, Turin, Italy.
+(6)Clinical Bioinformatics Unit, Scientific Direction, IRCCS Istituto Giannina
+Gaslini, Via Gerolamo Gaslini 5, 16147, Genova, Italy.
+(7)Italian Institute of Technology, Via Morego 30, 16163, Genova, Italy.
+(8)Department of Life Science and System Biology, University of Turin, Via
+Accademia Albertina, 13-1023, Turin, Italy.
+(9)Department of Computer Science, University of Turin, Via Pessinetto 12, 10049,
+Turin, Italy.
+(10)Department of Molecular Biotechnology and Health Sciences, Via Nizza 52,
+10126, Turin, Italy.
+(11)Department of Rare Skeletal Disorders, IRCCS Istituto Ortopedico Rizzoli, Via
+di Barbiano 1/10, 40136, Bologna, Italy.
+(12)Department of Experimental Oncology, European Institute of Oncology, Via
+Adamello 16, 20139, Milan, Italy.
+(13)Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies,
+National Research Council (CNR), Via Giovanni Amendola 122/O, 70126, Bari, Italy.
+graziano.pesole@uniba.it.
+(14)Department of Biosciences, Biotechnologies and Biopharmaceutics, University
+of Bari, Via Orabona 4, 70126, Bari, Italy. graziano.pesole@uniba.it.
+(15)Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies,
+National Research Council (CNR), Via Giovanni Amendola 122/O, 70126, Bari, Italy.
+federico.zambelli@unimi.it.
+(16)Department of Biosciences, University of Milan, Via Celoria 26, 20133,
+Milano, Italy. federico.zambelli@unimi.it.
+(#)Contributed equally
+
+BACKGROUND: Improving the availability and usability of data and analytical tools
+is a critical precondition for further advancing modern biological and biomedical
+research. For instance, one of the many ramifications of the COVID-19 global
+pandemic has been to make even more evident the importance of having
+bioinformatics tools and data readily actionable by researchers through
+convenient access points and supported by adequate IT infrastructures. One of the
+most successful efforts in improving the availability and usability of
+bioinformatics tools and data is represented by the Galaxy workflow manager and
+its thriving community. In 2020 we introduced Laniakea, a software platform
+conceived to streamline the configuration and deployment of "on-demand" Galaxy
+instances over the cloud. By facilitating the set-up and configuration of Galaxy 
+web servers, Laniakea provides researchers with a powerful and highly
+customisable platform for executing complex bioinformatics analyses. The system
+can be accessed through a dedicated and user-friendly web interface that allows
+the Galaxy web server's initial configuration and deployment.
+RESULTS: "Laniakea@ReCaS", the first instance of a Laniakea-based service, is
+managed by ELIXIR-IT and was officially launched in February 2020, after about
+one year of development and testing that involved several users. Researchers can 
+request access to Laniakea@ReCaS through an open-ended call for use-cases. Ten
+project proposals have been accepted since then, totalling 18 Galaxy on-demand
+virtual servers that employ ~ 100 CPUs, ~ 250 GB of RAM and ~ 5 TB of storage and
+serve several different communities and purposes. Herein, we present eight use
+cases demonstrating the versatility of the platform.
+CONCLUSIONS: During this first year of activity, the Laniakea-based service
+emerged as a flexible platform that facilitated the rapid development of
+bioinformatics tools, the efficient delivery of training activities, and the
+provision of public bioinformatics services in different settings, including food
+safety and clinical research. Laniakea@ReCaS provides a proof of concept of how
+enabling access to appropriate, reliable IT resources and ready-to-use
+bioinformatics tools can considerably streamline researchers' work.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12859-021-04401-3 
+PMCID: PMC8574934
+PMID: 34749633  [Indexed for MEDLINE]
+

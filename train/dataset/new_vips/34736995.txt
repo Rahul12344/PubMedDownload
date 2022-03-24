@@ -1,0 +1,80 @@
+
+1. Antiviral Res. 2021 Dec;196:105195. doi: 10.1016/j.antiviral.2021.105195. Epub
+2021 Nov 1.
+
+Determination of infectious hepatitis B virus particles by an end-point dilution 
+assay identifies a novel class of inhibitors.
+
+Jo E(1), Kim H(2), König A(3), Yang J(4), Yoon SK(5), Windisch MP(6).
+
+Author information: 
+(1)Applied Molecular Virology Laboratory, Discovery Biology Division, Institut
+Pasteur Korea, 696 Sampyeong-dong, Bundang-gu, Seongnam-si, Gyeonggi-do, South
+Korea. Electronic address: eunji.jo@ip-korea.org.
+(2)Applied Molecular Virology Laboratory, Discovery Biology Division, Institut
+Pasteur Korea, 696 Sampyeong-dong, Bundang-gu, Seongnam-si, Gyeonggi-do, South
+Korea; Division of Bio-Medical Science and Technology, University of Science and 
+Technology, 217, Gajeong-ro, Yuseong-gu, Daejeon, South Korea. Electronic
+address: hyun.kim@ip-korea.org.
+(3)Applied Molecular Virology Laboratory, Discovery Biology Division, Institut
+Pasteur Korea, 696 Sampyeong-dong, Bundang-gu, Seongnam-si, Gyeonggi-do, South
+Korea. Electronic address: alexander.koenig@ip-korea.org.
+(4)Applied Molecular Virology Laboratory, Discovery Biology Division, Institut
+Pasteur Korea, 696 Sampyeong-dong, Bundang-gu, Seongnam-si, Gyeonggi-do, South
+Korea. Electronic address: Jaewon.yang@ip-korea.org.
+(5)Division of Gastroenterology and Hepatology, Department of Internal Medicine, 
+College of Medicine, Seoul St. Mary's Hospital, The Catholic University of Korea,
+Seoul, South Korea; Catholic University Liver Research Center, The Catholic
+University of Korea, Seoul, South Korea. Electronic address:
+yoonsk@catholic.ac.kr.
+(6)Applied Molecular Virology Laboratory, Discovery Biology Division, Institut
+Pasteur Korea, 696 Sampyeong-dong, Bundang-gu, Seongnam-si, Gyeonggi-do, South
+Korea; Division of Bio-Medical Science and Technology, University of Science and 
+Technology, 217, Gajeong-ro, Yuseong-gu, Daejeon, South Korea. Electronic
+address: marc.windisch@ip-korea.org.
+
+The quantification of infectious virus particles is fundamental to perform in
+vitro virology studies. To determine the number of hepatitis B virus (HBV)
+genome-containing particles in vitro, the genome equivalents (GEq) are measured
+using quantitative PCR (qPCR). However, in addition to infectious virions, HBV
+DNA-containing, non-infectious HBV particles are also produced in vitro, which
+can lead to an over-estimation of the number of infectious HBV particles when
+analyzed by qPCR. Here, we establish an end-point dilution assay that can
+precisely determine the number of infectious HBV particles. The cell-based HBV
+infection assay uses a 384-well plate format and enables the calculation of the
+50% tissue culture infective dose (TCID50) in a semi-automated manner. Cell
+culture-derived HBV (HBVcc), produced by either stable HBV-replicating cells
+(HepAD38) or HBV-infected HepG2-NTCP cells, as well as patient-derived HBV sera
+were serially diluted and used to infect naïve target cells. Applying the
+end-point dilution assay, we infected HepG2-NTCP cells with PEG precipitated HBV 
+derived from HepAD38-and HepG2-NTCPsec+ cell supernatants, calculated the
+TCID50/mL, converted to plaque-forming units (PFUs), and generated the specific
+infectivity (ratio of PFU/GEq). As a result, a TCID50/mL of 7.22 × 106 and
+2.16 × 106, and the specific infectivity of 1/13,816 and 1/8798 were calculated
+for HepAD38 and HepG2-NTCPsec+ cell supernatants, respectively. The specific
+infectivity further increased by approximately 2-fold after removal of
+non-infectious "naked" particles by immunoprecipitation. Purification of
+HepAD38 cell supernatants by heparin columns increased the TCID50/mL and specific
+infectivity by 18- and 15-fold, respectively. Interestingly, non-purified
+patient-derived HBV sera from two individuals had a specific infectivity of 1/88 
+and 1/3609. After converting TCID50 to multiplicity of infection (MOI) values, we
+inoculated HepG2-NTCP cells with HBVcc based on GEq or MOI values and
+demonstrated that MOI-based infection leads to more reproducible infection rates.
+Furthermore, the assay was validated using serially diluted lamivudine, an HBV
+replication inhibitor, inhibiting HBV DNA secretion and infectious viral progeny 
+by approx. 56- and 470-fold, respectively. Interestingly, we identified
+dexmedetomidine (DMM), an alpha-2 adrenergic agonist, inhibiting the secretion of
+infectious viral progeny by approx. 6-fold, without interfering in the secretion 
+of HBV DNA. Taken together, we developed an assay that is suitable for the
+standard quantification of infectious HBV particles. We identified DMM as a novel
+inhibitor that exclusively interferes with the secretion of infectious HBV
+particles without affecting the secretion of HBV genomes. This end-point dilution
+assay enables the precise determination of the number of infectious HBV
+particles, assessment of the specific infectivity and stability of HBV particles,
+and identification of novel classes of HBV inhibitors.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.antiviral.2021.105195 
+PMID: 34736995 
+

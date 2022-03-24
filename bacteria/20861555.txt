@@ -1,0 +1,35 @@
+
+1. Water Sci Technol. 2010;62(6):1393-400. doi: 10.2166/wst.2010.349.
+
+Sensitivity analysis of an urban stormwater microorganism model.
+
+McCarthy DT(1), Deletic A, Mitchell VG, Diaper C.
+
+Author information: 
+(1)Department of Civil Engineering & Centre for Water Sensitive Cities, Monash
+University, Wellington Rd, Clayton Vic 3800, Australia.
+david.mccarthy@eng.monash.edu.au
+
+This paper presents the sensitivity analysis of a newly developed model which
+predicts microorganism concentrations in urban stormwater (MOPUS--MicroOrganism
+Prediction in Urban Stormwater). The analysis used Escherichia coli data
+collected from four urban catchments in Melbourne, Australia. The MICA program
+(Model Independent Markov Chain Monte Carlo Analysis), used to conduct this
+analysis, applies a carefully constructed Markov Chain Monte Carlo procedure,
+based on the Metropolis-Hastings algorithm, to explore the model's posterior
+parameter distribution. It was determined that the majority of parameters in the 
+MOPUS model were well defined, with the data from the MCMC procedure indicating
+that the parameters were largely independent. However, a sporadic correlation
+found between two parameters indicates that some improvements may be possible in 
+the MOPUS model. This paper identifies the parameters which are the most
+important during model calibration; it was shown, for example, that parameters
+associated with the deposition of microorganisms in the catchment were more
+influential than those related to microorganism survival processes. These
+findings will help users calibrate the MOPUS model, and will help the model
+developer to improve the model, with efforts currently being made to reduce the
+number of model parameters, whilst also reducing the slight interaction
+identified.
+
+DOI: 10.2166/wst.2010.349 
+PMID: 20861555  [Indexed for MEDLINE]
+

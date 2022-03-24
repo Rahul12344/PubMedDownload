@@ -1,0 +1,59 @@
+
+1. J Biomed Res. 2021 Nov 6;35(6):459-473. doi: 10.7555/JBR.35.20210111.
+
+Target specificity of selective bioactive compounds in blocking α-dystroglycan
+receptor to suppress Lassa virus infection: an in silico approach.
+
+Arefin A(1), Ismail Ema T(2), Islam T(1), Hossen S(3), Islam T(4), Al Azad S(5), 
+Uddin Badal N(6), Islam A(7), Biswas P(7), Alam NU(3), Islam E(8), Anjum M(7),
+Masud A(2), Kamran S(9), Rahman A(10), Kumar Paul P(11).
+
+Author information: 
+(1)Wolfson Institute for Biomedical Research, Division of Medicine, University
+College London, London WC1E6AE, UK.
+(2)Department of Biochemistry and Microbiology, North South University, Dhaka
+1229, Bangladesh.
+(3)Faculty of Life Sciences and Medicine, Zhejiang Sci-Tech University, Hangzhou,
+Zhejiang 310018, China.
+(4)Faculty of Pharmacy, International Islamic University Malaysia, Kuantan,
+Pahang 25200, Malaysia.
+(5)School of Biotechnology, Jiangnan University, Wuxi, Jiangsu 214122, China.
+(6)Department of Biomedical Technology, Tampere University, Tampere 33014,
+Finland.
+(7)Department of Genetic Engineering and Biotechnology, Jashore University of
+Science and Technology, Jashore 7408, Bangladesh.
+(8)Department of Genetic Engineering and Biotechnology, University of Chittagong,
+Chittagong 4331, Bangladesh.
+(9)Applied Statistics and Data Science, Jahangirnagar University, Dhaka 1342,
+Bangladesh.
+(10)Department of Mathematics and Natural Sciences, Brac University, Dhaka 1212, 
+Bangladesh.
+(11)Department of Electrical and Electronic Engineering, United International
+University, Dhaka 1212, Bangladesh.
+
+Lassa hemorrhagic fever, caused by Lassa mammarenavirus (LASV) infection,
+accumulates up to 5000 deaths every year. Currently, there is no vaccine
+available to combat this disease. In this study, a library of 200 bioactive
+compounds was virtually screened to study their drug-likeness with the capacity
+to block the α-dystroglycan (α-DG) receptor and prevent LASV influx. Following
+rigorous absorption, distribution, metabolism, and excretion (ADME) and
+quantitative structure-activity relationship (QSAR) profiling, molecular docking 
+was conducted with the top ligands against the α-DG receptor. The compounds
+chrysin, reticuline, and 3-caffeoylshikimic acid emerged as the top three ligands
+in terms of binding affinity. Post-docking analysis revealed that interactions
+with Arg76, Asn224, Ser259, and Lys302 amino acid residues of the receptor
+protein were important for the optimum binding affinity of ligands. Molecular
+dynamics simulation was performed comprehensively to study the stability of the
+protein-ligand complexes. In-depth assessment of root-mean-square deviation
+(RMSD), root mean square fluctuation (RMSF), polar surface area (PSA), B-Factor, 
+radius of gyration (Rg), solvent accessible surface area (SASA), and molecular
+surface area (MolSA) values of the protein-ligand complexes affirmed that the
+candidates with the best binding affinity formed the most stable protein-ligand
+complexes. To authenticate the potentialities of the ligands as target-specific
+drugs, an in vivo study is underway in real time as the continuation of the
+research.
+
+DOI: 10.7555/JBR.35.20210111 
+PMCID: PMC8637655
+PMID: 34857680 
+

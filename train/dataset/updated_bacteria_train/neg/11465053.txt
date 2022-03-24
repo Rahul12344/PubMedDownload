@@ -1,0 +1,26 @@
+
+1. Brief Bioinform. 2000 Nov;1(4):357-71.
+
+Comparative analysis of regulatory patterns in bacterial genomes.
+
+Gelfand MS(1), Novichkov PS, Novichkova ES, Mironov AA.
+
+Author information: 
+(1)State Scientific Center, GosNIIGenetika, Moscow, Russia. misha@imb.im.ac.ru
+
+Recognition of transcription regulatory sites in bacterial genomes is a
+notoriously difficult problem. There are no algorithms capable of making reliable
+predictions even for well-studied sites such as the CRP (cyclic AMP receptor
+protein) box. However, availability of complete bacterial genomes makes it
+possible to make reliable predictions with bad rules. This comparative approach
+is based on the assumption that sets of co-regulated genes are conserved in
+related bacteria. Thus true sites occur upstream of orthologous genes, whereas
+false candidates are scattered at random. This means not only that knowledge
+about regulation in well-studied genomes can be transferred to newly sequenced
+ones, but also that new members of regulons can be found. This paper reviews
+several recent studies. In particular, a detailed analysis of catabolite
+repression in gamma-purple bacteria is presented.
+
+DOI: 10.1093/bib/1.4.357 
+PMID: 11465053  [Indexed for MEDLINE]
+

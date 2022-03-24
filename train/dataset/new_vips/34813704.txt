@@ -1,0 +1,43 @@
+
+1. Anal Chem. 2021 Dec 7;93(48):16068-16075. doi: 10.1021/acs.analchem.1c03740. Epub
+2021 Nov 23.
+
+Extending Native Top-Down Electron Capture Dissociation to MDa Immunoglobulin
+Complexes Provides Useful Sequence Tags Covering Their Critical Variable
+Complementarity-Determining Regions.
+
+Greisch JF(1)(2), den Boer MA(1)(2), Lai SH(1)(2), Gallagher K(1)(2), Bondt
+A(1)(2), Commandeur J(3), Heck AJR(1)(2).
+
+Author information: 
+(1)Biomolecular Mass Spectrometry and Proteomics, Bijvoet Center for Biomolecular
+Research and Utrecht Institute of Pharmaceutical Sciences, Utrecht University,
+Padualaan 8, 3584 CH Utrecht, The Netherlands.
+(2)Netherlands Proteomics Center, Padualaan 8, 3584 CH Utrecht, The Netherlands.
+(3)MSVision, Televisieweg 40, 1322 AM Almere, The Netherlands.
+
+Native top-down mass spectrometry (MS) is gaining traction for the analysis and
+sequencing of intact proteins and protein assemblies, giving access to their mass
+and composition, as well as sequence information useful for identification.
+Herein, we extend and apply native top-down MS, using electron capture
+dissociation, to two submillion Da IgM- and IgG-based oligomeric immunoglobulins.
+Despite structural similarities, these two systems are quite different. The ∼895 
+kDa noncovalent IgG hexamer consists of six IgG subunits hexamerizing in solution
+due to three specifically engineered mutations in the Fc region, whereas the ∼935
+kDa IgM oligomer results from the covalent assembly of one joining (J) chain and 
+5 IgM subunits into an asymmetric "pentamer" stabilized by interchain disulfide
+bridges. Notwithstanding their size, structural differences, and complexity, we
+observe that their top-down electron capture dissociation spectra are quite
+similar and straightforward to interpret, specifically providing informative
+sequence tags covering the highly variable CDR3s and FR4s of the Ig subunits they
+contain. Moreover, we show that the electron capture dissociation fragmentation
+spectra of immunoglobulin oligomers are essentially identical to those obtained
+for their respective monomers. Demonstrated for recombinantly produced systems,
+the approach described here opens up new prospects for the characterization and
+identification of IgMs circulating in plasma, which is important since IgMs play 
+a critical role in the early immune response to pathogens such as viruses and
+bacteria.
+
+DOI: 10.1021/acs.analchem.1c03740 
+PMID: 34813704 
+

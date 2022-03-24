@@ -1,0 +1,59 @@
+
+1. nature. 2017 nov 2;551(7678):95-99. doi: 10.1038/nature24280. epub 2017 sep 25.
+
+single-cell rna sequencing reveals signature sexual commitment malaria
+parasites.
+
+poran a(1)(2)(3), nötzel c(4)(5), aly o(1)(2), mencia-trinchant n(6), harris
+ct(5)(7), guzman ml(6), hassane dc(1)(6), elemento o(1)(2), kafsack bfc(5).
+
+author information: 
+(1)institute computational biomedicine, department physiology and
+biophysics, weill cornell medicine, new york, new york 10065, usa.
+(2)caryl israel englander institute precision medicine, weill cornell
+medicine, new york, new york 10065, usa.
+(3)physiology, biophysics systems biology graduate program, weill cornell
+medicine, new york, new york 10065, usa.
+(4)biochemistry, cell & molecular biology graduate program, weill cornell
+medicine, new york, new york 10065, usa.
+(5)department microbiology & immunology, weill cornell medicine, new york, new
+york, usa.
+(6)division hematology & medical oncology, department medicine, weill
+cornell medicine, new york, new york 10065, usa.
+(7)immunology microbial pathogenesis graduate program, weill cornell
+medicine, new york, new york 10065, usa.
+
+pathogens balance transmission persistence. plasmodium
+falciparum, widespread virulent malaria parasite, persistence within
+its human host requires continuous asexual replication within red blood cells,
+while mosquito-borne transmission depends intra-erythrocytic
+differentiation non-replicating sexual stages called gametocytes. commitment
+to either fate determined preceding cell cycle begins with
+invasion single, asexually committed merozoite ends, 48 hours later,
+with schizont releasing newly formed merozoites, committed either
+continued asexual replication differentiation gametocytes. sexual
+commitment requires transcriptional activation ap2-g (pf3d7_1222600), 
+master regulator sexual development, epigenetically silenced state
+during asexual replication. ap2-g expression 'commitment cycle'
+prepares gene expression nascent merozoites initiate sexual development
+through hitherto unknown mechanism. maintain persistent infection, the
+expression ap2-g limited sub-population parasites (1-30%, depending
+on genetic background growth conditions). sexually committed schizonts
+comprise sub-population morphologically indistinguishable from
+their asexually committed counterparts, defining characteristic gene
+expression difficult using traditional, bulk transcriptome profiling.
+here use highly parallel, single-cell rna sequencing malaria cultures
+undergoing sexual commitment determine transcriptional changes induced 
+ap2-g within sub-population. analysing 18,000 single parasite
+transcriptomes conditional ap2-g knockdown line nf54 wild-type
+parasites multiple stages development, show sexually committed,
+ap2-g+ mature schizonts specifically upregulate additional regulators gene
+expression, including ap2 transcription factors, histone-modifying enzymes,
+and regulators nucleosome positioning. epigenetic regulators may act 
+facilitate expression and/or repression genes necessary the
+initiation gametocyte development subsequent cell cycle.
+
+doi: 10.1038/nature24280 
+pmcid: pmc6055935
+pmid: 29094698  [indexed medline]
+

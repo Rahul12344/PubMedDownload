@@ -1,0 +1,82 @@
+
+1. Mol Hum Reprod. 2016 Dec;22(12):898-912. Epub 2016 Sep 8.
+
+Identification of genes differentially expressed in menstrual breakdown and
+repair.
+
+Paiva P(1), Lockhart MG(2), Girling JE(2), Olshansky M(3)(4), Woodrow N(5),
+Marino JL(2), Hickey M(2), Rogers PA(2).
+
+Author information: 
+(1)Department of Obstetrics and Gynaecology, The University of Melbourne,
+Gynaecology Research Centre, Royal Women's Hospital, Cnr Flemington Rd and
+Grattan St, Parkville, VIC 3052, Australia ppaiva@unimelb.edu.au.
+(2)Department of Obstetrics and Gynaecology, The University of Melbourne,
+Gynaecology Research Centre, Royal Women's Hospital, Cnr Flemington Rd and
+Grattan St, Parkville, VIC 3052, Australia.
+(3)Bioinformatics Division, Walter and Eliza Hall Institute, 1G Royal Parade,
+Parkville, VIC 3052, Australia.
+(4)Department of Microbiology, Monash University, Wellington Road and Blackburn
+Road, Clayton, VIC 3800, Australia.
+(5)Pauline Gandel Imaging Centre, Royal Women's Hospital, 20 Flemington Road,
+Parkville, VIC 3052, Australia.
+
+STUDY QUESTION: Does the changing molecular profile of the endometrium during
+menstruation correlate with the histological profile of menstruation.
+SUMMARY ANSWER: We identified several genes not previously associated with
+menstruation; on Day 2 of menstruation (early-menstruation), processes related to
+inflammation are predominantly up-regulated and on Day 4 (late-menstruation), the
+endometrium is predominantly repairing and regenerating.
+WHAT IS KNOWN ALREADY: Menstruation is induced by progesterone withdrawal at the 
+end of the menstrual cycle and involves endometrial tissue breakdown,
+regeneration and repair. Perturbations in the regulation of menstruation may
+result in menstrual disorders including abnormal uterine bleeding.
+STUDY DESIGN, SIZE DURATION: Endometrial samples were collected by Pipelle biopsy
+on Days 2 (n = 9), 3 (n = 9) or 4 (n = 6) of menstruation.
+PARTICIPANTS/MATERIALS, SETTING, METHODS: RNA was extracted from endometrial
+biopsies and analysed by genome wide expression Illumina Sentrix Human HT12
+arrays. Data were analysed using 'Remove Unwanted Variation-inverse (RUV-inv)'.
+Ingenuity pathway analysis (IPA) and the Database for Annotation, Visualization
+and Integrated Discovery (DAVID) v6.7 were used to identify canonical pathways,
+upstream regulators and functional gene clusters enriched between Days 2, 3 and 4
+of menstruation. Selected individual genes were validated by quantitative PCR.
+MAIN RESULTS AND THE ROLE OF CHANCE: Overall, 1753 genes were differentially
+expressed in one or more comparisons. Significant canonical pathways, gene
+clusters and upstream regulators enriched during menstrual bleeding included
+those associated with immune cell trafficking, inflammation, cell cycle
+regulation, extracellular remodelling and the complement and coagulation cascade.
+We provide the first evidence for a role for glutathione-mediated detoxification 
+(glutathione-S-transferase mu 1 and 2; GSTM1 and GSTM2) during menstruation. The 
+largest number of differentially expressed genes was between Days 2 and 4 of
+menstruation (n = 1176). We identified several genes not previously associated
+with menstruation including lipopolysaccharide binding protein, serpin peptidase 
+inhibitor, clade B (ovalbumin), member 3 (SERPINB3) and -4 (SERPINB4),
+interleukin-17C (IL17C), V-set domain containing T-cell activation inhibitor 1
+(VTCN1), proliferating cell nuclear antigen factor (KIAA0101/PAF), trefoil factor
+3 (TFF3), laminin alpha 2 (LAMA2) and serine peptidase inhibitor, Kazal type 1
+(SPINK1). Genes related to inflammatory processes were up-regulated on Day 2
+(early-menstruation), and those associated with endometrial repair and
+regeneration were up-regulated on Day 4 (late-menstruation).
+LIMITATIONS, REASONS FOR CAUTION: Participants presented with a variety of
+endometrial pathologies related to bleeding status and other menstrual
+characteristics. These variations may also have influenced the menstrual process.
+WIDER IMPLICATIONS OF THE FINDINGS: The temporal molecular profile of
+menstruation presented in this study identifies a number of genes not previously 
+associated with the menstrual process. Our findings provide valuable insight into
+the menstrual process and may present novel targets for therapeutic intervention 
+in cases of endometrial dysfunction.
+LARGE SCALE DATA: All microarray data have been deposited in the public data
+repository Gene Expression Omnibus (GSE86003).
+STUDY FUNDING AND COMPETING INTERESTS: Funding for this work was provided by a
+National Health and Medical Research Council of Australia (NHMRC) Project Grant
+APP1008553 to M.H., P.R. and J.G. M.H. is supported by an NHMRC Practitioner
+Fellowship. P.P. is supported by a NHMRC Early Career Fellowship. The authors
+have no conflict of interest to declare.
+
+© The Author 2016. Published by Oxford University Press on behalf of the European
+Society of Human Reproduction and Embryology. All rights reserved. For
+Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/molehr/gaw060 
+PMID: 27609758  [Indexed for MEDLINE]
+

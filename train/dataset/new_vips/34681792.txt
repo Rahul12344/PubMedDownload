@@ -1,0 +1,44 @@
+
+1. Int J Mol Sci. 2021 Oct 15;22(20). pii: 11133. doi: 10.3390/ijms222011133.
+
+CsCDPK6, a CsSAMS1-Interacting Protein, Affects Polyamine/Ethylene Biosynthesis
+in Cucumber and Enhances Salt Tolerance by Overexpression in Tobacco.
+
+Zhu H(1), He M(2), Jahan MS(1), Wu J(1), Gu Q(3), Shu S(1), Sun J(1), Guo S(1).
+
+Author information: 
+(1)College of Horticulture, Nanjing Agricultural University, Nanjing 210095,
+China.
+(2)Institute of China Agricultural University Press, China Agricultural
+University, Beijing 100094, China.
+(3)Zhengzhou Fruit Research Institute, Chinese Academy of Agricultural Sciences, 
+Zhengzhou 450009, China.
+
+S-adenosylmethionine synthetase (SAMS) plays a crucial role in regulating stress 
+responses. In a recent study, we found that overexpression of the cucumber gene
+CsSAMS1 in tobacco can affect the production of polyamines and ethylene, as well 
+as enhancing the salt stress tolerance of tobacco, but the exact underlying
+mechanisms are elusive. The calcium-dependent protein kinase (CDPK) family is
+ubiquitous in plants and performs different biological functions in plant
+development and response to abiotic stress. We used a yeast two-hybrid system to 
+detect whether the protein CDPK6 could interact with SAMS1 and verified their
+interaction by bimolecular fluorescence complementation (BiFC) and
+co-immunoprecipitation (Co-IP) assays. To further explore the function of
+cucumber CDPK6, we isolated and characterized CsCDPK6 in cucumber. CsCDPK6 is a
+membrane protein that is highly expressed under various abiotic stresses,
+including salt stress. It was also observed that ectopic overexpression of
+CsCDPK6 in tobacco enhanced salt tolerance. Under salt stress,
+CsCDPK6-overexpressing lines enhanced the survival rate and reduced stomatal
+apertures in comparison to wild-type (WT) lines, as well as lowering
+malondialdehyde (MDA) and hydrogen peroxide (H2O2) contents and causing less
+relative electrolyte leakage. Moreover, repression of CsCDPK6 expression by
+virus-induced gene silencing (VIGS) in cucumber seedling cotyledons under salt
+stress increased ethylene production and promoted the transformation from
+putrescine (Put) to spermidine (Spd) and spermine (Spm). These findings shed
+light on the interaction of CsSAMS1 and CsCDPK6, which functions positively to
+regulate salt stress in plants.
+
+DOI: 10.3390/ijms222011133 
+PMCID: PMC8538082
+PMID: 34681792 
+

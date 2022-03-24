@@ -1,0 +1,48 @@
+
+1. bmc syst biol. 2014;8 suppl 2:s4. doi: 10.1186/1752-0509-8-s2-s4. epub 2014 mar
+13.
+
+integrative omics analysis. study based plasmodium falciparum mrna and
+protein data.
+
+tomescu oa, mattanovich d, thallinger gg.
+
+background: technological improvements shifted focus data
+generation data analysis. availability large amounts data from
+transcriptomics, protemics metabolomics experiments raise new questions
+concerning suitable integrative analysis methods. compare three integrative
+analysis techniques (co-inertia analysis, generalized singular value
+decomposition integrative biclustering) applying gene protein 
+abundance data six life cycle stages plasmodium falciparum.
+co-inertia analysis analysis method used visualize explore gene 
+protein data. generalized singular value decomposition shown its
+potential analysis two transcriptome data sets. integrative
+biclustering applies biclustering gene protein data.
+results: using cia, visualize six life cycle stages plasmodium
+falciparum, well go terms 2d plane interpret spatial
+configuration. gsvd, decompose transcriptomic proteomic data sets
+into matrices biologically meaningful interpretations explore the
+processes captured data sets. ibc identifies groups genes, proteins, go
+terms life cycle stages plasmodium falciparum. show method-specific
+results well network view life cycle stages based results
+common three methods. additionally, combining results three 
+methods, create three-fold validated network life cycle stage specific go
+terms: sporozoites associated transcription transport; merozoites
+with entry host cell well biosynthetic metabolic processes; rings 
+with oxidation-reduction processes; trophozoites glycolysis energy
+production; schizonts antigenic variation immune response; gametocyctes 
+with dna packaging mitochondrial transport. furthermore, network
+connectivity underlines separation intraerythrocytic cycle the
+gametocyte sporozoite stages.
+conclusion: using integrative analysis techniques, integrate knowledge
+from different levels obtain wider view system study. the
+overlap method-specific common results considerable, even the
+basic mathematical assumptions different. three-fold validated
+network life cycle stage characteristics plasmodium falciparum could
+identify large amount known associations literature one
+study.
+
+doi: 10.1186/1752-0509-8-s2-s4 
+pmcid: pmc4101701
+pmid: 25033389  [indexed medline]
+

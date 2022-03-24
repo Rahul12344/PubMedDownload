@@ -1,0 +1,50 @@
+
+1. immunogenetics. 2017 may;69(5):325-339. doi: 10.1007/s00251-017-0977-7. epub 2017
+mar 25.
+
+improved full-length killer cell immunoglobulin-like receptor transcript
+discovery mauritian cynomolgus macaques.
+
+prall tm(1), graham me(2), karl ja(2), wiseman rw(1)(2), ericsen aj(1),
+raveendran m(3), alan harris r(3), muzny dm(3), gibbs ra(3), rogers j(3)(4),
+o'connor dh(5)(6).
+
+author information: 
+(1)wisconsin national primate research center, university wisconsin, madison, 
+wi, 53711, usa.
+(2)department pathology laboratory medicine, university wisconsin,
+madison, wi, 53711, usa.
+(3)human genome sequencing center, baylor college medicine, houston, tx,
+77030, usa.
+(4)department molecular human genetics, baylor college medicine,
+houston, tx, 77030, usa.
+(5)wisconsin national primate research center, university wisconsin, madison, 
+wi, 53711, usa. doconnor@primate.wisc.edu.
+(6)department pathology laboratory medicine, university wisconsin,
+madison, wi, 53711, usa. doconnor@primate.wisc.edu.
+
+killer cell immunoglobulin-like receptors (kirs) modulate disease progression 
+pathogens including hiv, malaria, hepatitis c. cynomolgus rhesus macaques
+are widely used nonhuman primate models study human pathogens, so,
+considerable effort put characterizing kir genetics. however,
+previous studies relied cdna cloning sanger sequencing lack 
+throughput current sequencing platforms. study, present high
+throughput, full-length allele discovery method utilizing pacific biosciences
+circular consensus sequencing (ccs). also describe new approach macaque
+exome sequencing (mes) development rhexome1.0, adapted target
+capture reagent includes macaque-specific capture probe sets. using
+sequence reads generated whole genome sequencing (wgs) mes inform
+primer design, able increase sensitivity kir allele discovery. 
+we demonstrate increased sensitivity defining nine novel alleles within a
+cohort mauritian cynomolgus macaques (mcm), geographically isolated
+population restricted kir genetics thought completely
+characterized. finally, describe approach genotyping kirs directly 
+sequence reads generated using wgs/mes reads. findings presented expand 
+our understanding kir genetics mcm associating new genes eight 
+kir haplotypes demonstrating existence least one kir3ds gene
+associated every haplotype.
+
+doi: 10.1007/s00251-017-0977-7 
+pmcid: pmc5856007
+pmid: 28343239  [indexed medline]
+

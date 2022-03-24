@@ -1,0 +1,40 @@
+
+1. PLoS Pathog. 2006 May;2(5):e45. Epub 2006 May 19.
+
+Recruitment of BAD by the Chlamydia trachomatis vacuole correlates with host-cell
+survival.
+
+Verbeke P(1), Welter-Stahl L, Ying S, Hansen J, Häcker G, Darville T, Ojcius DM.
+
+Author information: 
+(1)Institut Jacques Monod, Université Paris-Denis Diderot, Paris, France.
+
+Chlamydiae replicate intracellularly in a vacuole called an inclusion.
+Chlamydial-infected host cells are protected from mitochondrion-dependent
+apoptosis, partly due to degradation of BH3-only proteins. The host-cell adapter 
+protein 14-3-3beta can interact with host-cell apoptotic signaling pathways in a 
+phosphorylation-dependent manner. In Chlamydia trachomatis-infected cells,
+14-3-3beta co-localizes to the inclusion via direct interaction with a C.
+trachomatis-encoded inclusion membrane protein. We therefore explored the
+possibility that the phosphatidylinositol-3 kinase (PI3K) pathway may contribute 
+to resistance of infected cells to apoptosis. We found that inhibition of PI3K
+renders C. trachomatis-infected cells sensitive to staurosporine-induced
+apoptosis, which is accompanied by mitochondrial cytochrome c release. 14-3-3beta
+does not associate with the Chlamydia pneumoniae inclusion, and inhibition of
+PI3K does not affect protection against apoptosis of C. pneumoniae-infected
+cells. In C. trachomatis-infected cells, the PI3K pathway activates AKT/protein
+kinase B, which leads to maintenance of the pro-apoptotic protein BAD in a
+phosphorylated state. Phosphorylated BAD is sequestered via 14-3-3beta to the
+inclusion, but it is released when PI3K is inhibited. Depletion of AKT through
+short-interfering RNA reverses the resistance to apoptosis of C.
+trachomatis-infected cells. BAD phosphorylation is not maintained and it is not
+recruited to the inclusion of Chlamydia muridarum, which protects poorly against 
+apoptosis. Thus, sequestration of BAD away from mitochondria provides C.
+trachomatis with a mechanism to protect the host cell from apoptosis via the
+interaction of a C. trachomatis-encoded inclusion protein with a host-cell
+phosphoserine-binding protein.
+
+DOI: 10.1371/journal.ppat.0020045 
+PMCID: PMC1463014
+PMID: 16710454  [Indexed for MEDLINE]
+

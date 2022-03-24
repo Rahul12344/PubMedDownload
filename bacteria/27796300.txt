@@ -1,0 +1,46 @@
+
+1. Nat Commun. 2016 Oct 31;7:12849. doi: 10.1038/ncomms12849.
+
+PARP9 and PARP14 cross-regulate macrophage activation via STAT1 ADP-ribosylation.
+
+Iwata H(1), Goettsch C(1), Sharma A(2)(3), Ricchiuto P(1), Goh WW(1), Halu
+A(1)(2), Yamada I(1), Yoshida H(1), Hara T(1), Wei M(4), Inoue N(1), Fukuda D(1),
+Mojcher A(1), Mattson PC(1), Barabási AL(2)(3), Boothby M(4), Aikawa E(1)(5),
+Singh SA(1), Aikawa M(1)(2)(5).
+
+Author information: 
+(1)Center for Interdisciplinary Cardiovascular Sciences, Cardiovascular Division,
+Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts
+02115, USA.
+(2)Channing Division of Network Medicine, Brigham and Women's Hospital, Harvard
+Medical School, Boston, Massachusetts 02115, USA.
+(3)Department of Physics, Center for Complex Network Research, Northeastern
+University, Boston, Massachusetts 02115, USA.
+(4)Department of Microbiology and Immunology, Vanderbilt University School of
+Medicine, Nashville, Tennessee 37232, USA.
+(5)Center for Excellence in Vascular Biology, Cardiovascular Division, Brigham
+and Women's Hospital, Harvard Medical School, Boston, Massachusetts 02115, USA.
+
+Comment in
+    Nat Commun. 2018 Jun 1;9(1):2144.
+
+Despite the global impact of macrophage activation in vascular disease, the
+underlying mechanisms remain obscure. Here we show, with global proteomic
+analysis of macrophage cell lines treated with either IFNγ or IL-4, that PARP9
+and PARP14 regulate macrophage activation. In primary macrophages, PARP9 and
+PARP14 have opposing roles in macrophage activation. PARP14 silencing induces
+pro-inflammatory genes and STAT1 phosphorylation in M(IFNγ) cells, whereas it
+suppresses anti-inflammatory gene expression and STAT6 phosphorylation in M(IL-4)
+cells. PARP9 silencing suppresses pro-inflammatory genes and STAT1
+phosphorylation in M(IFNγ) cells. PARP14 induces ADP-ribosylation of STAT1, which
+is suppressed by PARP9. Mutations at these ADP-ribosylation sites lead to
+increased phosphorylation. Network analysis links PARP9-PARP14 with human
+coronary artery disease. PARP14 deficiency in haematopoietic cells accelerates
+the development and inflammatory burden of acute and chronic arterial lesions in 
+mice. These findings suggest that PARP9 and PARP14 cross-regulate macrophage
+activation.
+
+DOI: 10.1038/ncomms12849 
+PMCID: PMC5095532
+PMID: 27796300  [Indexed for MEDLINE]
+

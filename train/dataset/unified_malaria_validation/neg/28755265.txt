@@ -1,0 +1,36 @@
+
+1. parasitol res. 2017 sep;116(9):2539-2559. doi: 10.1007/s00436-017-5563-2. epub
+2017 jul 28.
+
+an silico strategy identification novel drug targets plasmodium
+falciparum.
+
+rout s(1), patra np(1), mahapatra rk(2).
+
+author information: 
+(1)school biotechnology, kiit university, bhubaneswar, orissa, 751024, india.
+(2)school biotechnology, kiit university, bhubaneswar, orissa, 751024, india. 
+rmahapatra@kiitbiotech.ac.in.
+
+the apicomplexan parasite plasmodium falciparum responsible global malaria
+burden. reported resistance artemisinin chemotherapy, an
+urgent need maintain early phase drug discovery identify novel drug
+targets successful eradication pathogen host. previous
+work comparative genomics study identification putative essential genes
+and therapeutic candidates p. falciparum, predicted 11 proteins as
+anti-malarial drug targets plasmodb database. paper, made an
+attempt identification novel drug targets p. falciparum genome using 
+sequence computational methods malaria parasite metabolic pathway
+database. study reported identification 71 proteins potential drug 
+targets anti-malarial interventions. furthermore, homology modeling and
+molecular dynamic simulation study one potential drug targets,
+aminodeoxychorismate lyase, carried predict 3d structure the
+protein. structure ligand-based drug designing reported mmv019742 from
+pathogen box tcams-141515 gsk-tcams library potential hits. the
+reliability binding mode inhibitors confirmed gromacs a
+simulation time 20 ns water environment. helpful for
+experimental validation small-molecule inhibitor.
+
+doi: 10.1007/s00436-017-5563-2 
+pmid: 28755265  [indexed medline]
+

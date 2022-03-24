@@ -1,0 +1,42 @@
+
+1. Oncotarget. 2015 Sep 8;6(26):22890-904.
+
+Deletion of the BMP receptor BMPR1a impairs mammary tumor formation and
+metastasis.
+
+Pickup MW(1), Hover LD(2), Guo Y(3)(4), Gorska AE(4), Chytil A(4), Novitskiy
+SV(4), Moses HL(4), Owens P(4).
+
+Author information: 
+(1)Department of Surgery and Center for Bioengineering and Tissue Regeneration,
+University of California at San Francisco, San Francisco, CA, USA.
+(2)Department of Pathology, Microbiology and Immunology, Vanderbilt University
+Medical Center, Nashville, TN, USA.
+(3)Vanderbilt Ingram Cancer Center, Center for Quantitative Sciences, Nashville, 
+TN, USA.
+(4)Department of Cancer Biology, Vanderbilt Ingram Cancer Center, Vanderbilt
+University, Nashville, TN, USA.
+
+Bone Morphogenetic Proteins (BMPs) are secreted cytokines/growth factors
+belonging to the Transforming Growth Factor β (TGFβ) family. BMP ligands have
+been shown to be overexpressed in human breast cancers. Normal and cancerous
+breast tissue display active BMP signaling as indicated by phosphorylated Smads
+1, 5 and 9. We combined mice expressing the MMTV.PyMT oncogene with mice having
+conditional knockout (cKO) of BMP receptor type 1a (BMPR1a) using whey acidic
+protein (WAP)-Cre and found this deletion resulted in delayed tumor onset and
+significantly extended survival. Immunofluorescence staining revealed that cKO
+tumors co-expressed Keratin 5 and mesenchymal cell markers such as Vimentin. This
+indicates that epithelial-to-mesenchymal (EMT)-like transitions occurred in cKO
+tumors. We performed microarray analysis on these tumors and found changes that
+support EMT-like changes. We established primary tumor cell lines and found that 
+BMPR1a cKO had slower growth in vitro and in vivo upon implantation. cKO tumor
+cells had reduced migration in vitro. We analyzed human databases from TCGA and
+survival data from microarrays to confirm BMPR1a tumor promoting functions, and
+found that high BMPR1a gene expression correlates with decreased survival
+regardless of molecular breast cancer subtype. In conclusion, the data indicate
+that BMP signaling through BMPR1a functions as a tumor promoter.
+
+DOI: 10.18632/oncotarget.4413 
+PMCID: PMC4673207
+PMID: 26274893  [Indexed for MEDLINE]
+

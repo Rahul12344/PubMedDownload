@@ -1,0 +1,49 @@
+
+1. Appl Microbiol Biotechnol. 2016 Sep;100(17):7549-63. doi:
+10.1007/s00253-016-7530-8. Epub 2016 Apr 22.
+
+Characterization and mutagenesis of two novel iron-sulphur cluster pentonate
+dehydratases.
+
+Andberg M(1), Aro-Kärkkäinen N(2), Carlson P(2), Oja M(2), Bozonnet S(3)(4)(5),
+Toivari M(2), Hakulinen N(6), O'Donohue M(3)(4)(5), Penttilä M(2), Koivula A(2).
+
+Author information: 
+(1)VTT Technical Research Centre of Finland Ltd., P.O. Box 1000, VTT, FI-02044,
+Espoo, Finland. martina.andberg@vtt.fi.
+(2)VTT Technical Research Centre of Finland Ltd., P.O. Box 1000, VTT, FI-02044,
+Espoo, Finland.
+(3)INSA, UPS, INP; LISBP, Université de Toulouse, 135 Avenue de Rangueil,
+F-31077, Toulouse, France.
+(4)INRA, UMR792, Ingénierie des Systèmes Biologiques et des Procédés, F-31400,
+Toulouse, France.
+(5)CNRS, UMR5504, F-31400, Toulouse, France.
+(6)Department of Chemistry, University of Eastern Finland, PO Box 111, FI-80101, 
+Joensuu, Finland.
+
+We describe here the identification and characterization of two novel enzymes
+belonging to the IlvD/EDD protein family, the D-xylonate dehydratase from
+Caulobacter crescentus, Cc XyDHT, (EC 4.2.1.82), and the L-arabonate dehydratase 
+from Rhizobium leguminosarum bv. trifolii, Rl ArDHT (EC 4.2.1.25), that produce
+the corresponding 2-keto-3-deoxy-sugar acids. There is only a very limited amount
+of characterization data available on pentonate dehydratases, even though the
+enzymes from these oxidative pathways have potential applications with plant
+biomass pentose sugars. The two bacterial enzymes share 41 % amino acid sequence 
+identity and were expressed and purified from Escherichia coli as homotetrameric 
+proteins. Both dehydratases were shown to accept pentonate and hexonate sugar
+acids as their substrates and require Mg(2+) for their activity. Cc XyDHT
+displayed the highest activity on D-xylonate and D-gluconate, while Rl ArDHT
+functioned best on D-fuconate, L-arabonate and D-galactonate. The configuration
+of the OH groups at C2 and C3 position of the sugar acid were shown to be
+critical, and the C4 configuration also contributed substantially to the
+substrate recognition. The two enzymes were also shown to contain an iron-sulphur
+[Fe-S] cluster. Our phylogenetic analysis and mutagenesis studies demonstrated
+that the three conserved cysteine residues in the aldonic acid dehydratase group 
+of IlvD/EDD family members, those of C60, C128 and C201 in Cc XyDHT, and of C59, 
+C127 and C200 in Rl ArDHT, are needed for coordination of the [Fe-S] cluster. The
+iron-sulphur cluster was shown to be crucial for the catalytic activity (kcat)
+but not for the substrate binding (Km) of the two pentonate dehydratases.
+
+DOI: 10.1007/s00253-016-7530-8 
+PMID: 27102126  [Indexed for MEDLINE]
+

@@ -1,0 +1,46 @@
+
+1. plos one. 2014 jul 9;9(7):e101601. doi: 10.1371/journal.pone.0101601. ecollection
+2014.
+
+a population genetic model initial spread partially resistant malaria 
+parasites anti-malarial combination therapy weak intrahost competition.
+
+kim y(1), escalante aa(2), schneider ka(3).
+
+author information: 
+(1)department life science division ecoscience, ewha womans university,
+seoul, south korea.
+(2)school life sciences center evolutionary medicine informatics
+at biodesign institute, arizona state university, tempe, arizona, united
+states america.
+(3)department mathematics, university applied sciences, mittweida, germany.
+
+to develop public-health policies extend lifespan affordable
+anti-malarial drugs effective treatment options, necessary understand
+the evolutionary processes leading origin spread mutations
+conferring drug resistance malarial parasites. built population-genetic
+model emergence resistance combination drug therapy.
+reproductive cycles parasites specified absolute fitness
+determined clinical parameters, thus coupling evolutionary-genetic with
+population-dynamic processes. initial mutations confer partial
+drug-resistance. therefore, mutant parasites rarely survive combination therapy
+and within-host competition weak among parasites. model focuses on
+the early phase unsuccessful recurrent mutations. ends rare
+event mutants enriching infected individual successful
+spread resistance entire population initiated. computer
+simulations, waiting time establishment resistant parasites is
+analysed. resistance spreads quickly following first appearance host
+infected predominantly mutant parasites. occurs either rare
+transmission resistant parasite uninfected host rare
+failure drugs removing "transient" mutant alleles. emergence of
+resistance delayed lower mutation rate, earlier treatment, higher
+metabolic cost resistance, longer duration high drug dose, higher drug 
+efficacy causing stronger reduction sensitive resistant parasites'
+fitnesses. overall, contrary studies' proposition, current model
+based absolute fitness suggests aggressive drug treatment delays the
+emergence drug resistance.
+
+doi: 10.1371/journal.pone.0101601 
+pmcid: pmc4090191
+pmid: 25007207  [indexed medline]
+

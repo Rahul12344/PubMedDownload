@@ -1,0 +1,92 @@
+
+1. Lancet Respir Med. 2021 Nov 30. pii: S2213-2600(21)00491-4. doi:
+10.1016/S2213-2600(21)00491-4. [Epub ahead of print]
+
+Risk of COVID-19 hospital admission among children aged 5-17 years with asthma in
+Scotland: a national incident cohort study.
+
+Shi T(1), Pan J(2), Katikireddi SV(3), McCowan C(4), Kerr S(1), Agrawal U(4),
+Shah SA(1), Simpson CR(5), Ritchie LD(6), Robertson C(7), Sheikh A(8); Public
+Health Scotland and the EAVE II Collaborators.
+
+Author information: 
+(1)Usher Institute, Edinburgh Medical School, University of Edinburgh, Edinburgh,
+UK.
+(2)Department of Mathematics and Statistics, University of Strathclyde, Glasgow, 
+UK.
+(3)MRC/CSO Social and Public Health Sciences Unit, University of Glasgow,
+Glasgow, UK.
+(4)School of Medicine, University of St Andrews, St Andrews, UK.
+(5)Usher Institute, Edinburgh Medical School, University of Edinburgh, Edinburgh,
+UK; School of Health, Wellington Faculty of Health, Victoria University of
+Wellington, Wellington, New Zealand.
+(6)School of Medicine and Dentistry, University of Aberdeen, Aberdeen, UK.
+(7)Department of Mathematics and Statistics, University of Strathclyde, Glasgow, 
+UK; Public Health Scotland, Glasgow, UK.
+(8)Usher Institute, Edinburgh Medical School, University of Edinburgh, Edinburgh,
+UK; Asthma UK Centre for Applied Research, Usher Institute, University of
+Edinburgh, Edinburgh, UK. Electronic address: aziz.sheikh@ed.ac.uk.
+
+BACKGROUND: There is an urgent need to inform policy deliberations about whether 
+children with asthma should be vaccinated against SARS-CoV-2 and, if so, which
+subset of children with asthma should be prioritised. We were asked by the UK's
+Joint Commission on Vaccination and Immunisation to undertake an urgent analysis 
+to identify which children with asthma were at increased risk of serious COVID-19
+outcomes.
+METHODS: This national incident cohort study was done in all children in Scotland
+aged 5-17 years who were included in the linked dataset of Early Pandemic
+Evaluation and Enhanced Surveillance of COVID-19 (EAVE II). We used data from
+EAVE II to investigate the risk of COVID-19 hospitalisation among children with
+markers of uncontrolled asthma defined by either previous asthma hospital
+admission or oral corticosteroid prescription in the previous 2 years. A Cox
+proportional hazard model was used to derive hazard ratios (HRs) and 95% CIs for 
+the association between asthma and COVID-19 hospital admission, stratified by
+markers of asthma control (previous asthma hospital admission and number of
+previous prescriptions for oral corticosteroids within 2 years of the study start
+date). Analyses were adjusted for age, sex, socioeconomic status, comorbidity,
+and previous hospital admission.
+FINDINGS: Between March 1, 2020, and July 27, 2021, 752 867 children were
+included in the EAVE II dataset, 63 463 (8·4%) of whom had
+clinician-diagnosed-and-recorded asthma. Of these, 4339 (6·8%) had RT-PCR
+confirmed SARS-CoV-2 infection. In those with confirmed infection, 67 (1·5%) were
+admitted to hospital with COVID-19. Among the 689 404 children without asthma,
+40 231 (5·8%) had confirmed SARS-CoV-2 infections, of whom 382 (0·9%) were
+admitted to hospital with COVID-19. The rate of COVID-19 hospital admission was
+higher in children with poorly controlled asthma than in those with well
+controlled asthma or without asthma. When using previous hospital admission for
+asthma as the marker of uncontrolled asthma, the adjusted HR was 6·40 (95% CI
+3·27-12·53) for those with poorly controlled asthma and 1·36 (1·02-1·80) for
+those with well controlled asthma, compared with those with no asthma. When using
+oral corticosteroid prescriptions as the marker of uncontrolled asthma, the
+adjusted HR was 3·38 (1·84-6·21) for those with three or more prescribed courses 
+of corticosteroids, 3·53 (1·87-6·67) for those with two prescribed courses of
+corticosteroids, 1·52 (0·90-2·57) for those with one prescribed course of
+corticosteroids, and 1·34 (0·98-1·82) for those with no prescribed course,
+compared with those with no asthma.
+INTERPRETATION: School-aged children with asthma with previous recent hospital
+admission or two or more courses of oral corticosteroids are at markedly
+increased risk of COVID-19 hospital admission and should be considered a priority
+for vaccinations. This would translate into 9124 children across Scotland and an 
+estimated 109 448 children across the UK.
+FUNDING: UK Research and Innovation (Medical Research Council), Research and
+Innovation Industrial Strategy Challenge Fund, Health Data Research UK, and
+Scottish Government.
+
+Copyright © 2021 The Author(s). Published by Elsevier Ltd. This is an Open Access
+article under the CC BY 4.0 license. Published by Elsevier Ltd.. All rights
+reserved.
+
+DOI: 10.1016/S2213-2600(21)00491-4 
+PMCID: PMC8631918
+PMID: 34861180 
+
+Conflict of interest statement: Declaration of interests AS and CR are members of
+the Scottish Government's Chief Medical Officer's COVID-19 Advisory Group. AS and
+CR are members of the New and Emerging Respiratory Virus Threats Advisory Group
+risk stratification subgroup. CR is a member of the Scientific Pandemic Influenza
+Group on Modelling. AS is a member of AstraZeneca's Thrombotic Thrombocytopenic
+Advisory Group and the Scottish Government's Standing Committee on Pandemics. SVK
+is co-chair of the Scottish Government's Expert Reference Group on Ethnicity and 
+COVID-19. All roles are unremunerated. All other authors declare no competing
+interests.
+

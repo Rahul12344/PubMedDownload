@@ -1,0 +1,56 @@
+
+1. Mol Ther. 2021 Oct 23. pii: S1525-0016(21)00530-X. doi:
+10.1016/j.ymthe.2021.10.023. [Epub ahead of print]
+
+AAV5 delivery of CRISPR-Cas9 supports effective genome editing in mouse lung
+airway.
+
+Liang SQ(1), Walkey CJ(2), Martinez AE(2), Su Q(3), Dickinson ME(2), Wang D(4),
+Lagor WR(2), Heaney JD(5), Gao G(6), Xue W(7).
+
+Author information: 
+(1)RNA Therapeutics Institute, University of Massachusetts Medical School,
+Worcester, MA 01605, USA.
+(2)Department of Molecular Physiology and Biophysics, Baylor College of Medicine,
+Houston, TX 77030, USA.
+(3)Viral Vector Core, University of Massachusetts Medical School, Worcester, MA
+01605, USA.
+(4)Horae Gene Therapy Center and Department of Microbiology and Physiological
+Systems, University of Massachusetts Medical School, Worcester, MA 01605, USA; Li
+Weibo Institute for Rare Diseases Research, University of Massachusetts Medical
+School, Worcester, MA 01605, USA.
+(5)Department of Molecular and Human Genetics, Baylor College of Medicine,
+Houston, TX 77030, USA.
+(6)Horae Gene Therapy Center and Department of Microbiology and Physiological
+Systems, University of Massachusetts Medical School, Worcester, MA 01605, USA; Li
+Weibo Institute for Rare Diseases Research, University of Massachusetts Medical
+School, Worcester, MA 01605, USA. Electronic address: Guangping.Gao@umassmed.edu.
+(7)RNA Therapeutics Institute, University of Massachusetts Medical School,
+Worcester, MA 01605, USA; Li Weibo Institute for Rare Diseases Research,
+University of Massachusetts Medical School, Worcester, MA 01605, USA. Electronic 
+address: wen.xue@umassmed.edu.
+
+Genome editing in the lung has the potential to provide long-term expression of
+therapeutic protein to treat lung genetic diseases. Yet efficient delivery of
+CRISPR to the lung remains a challenge. The NIH Somatic Cell Genome Editing
+(SCGE) Consortium is developing safe and effective methods for genome editing in 
+disease tissues. Methods developed by consortium members are independently
+validated by the SCGE small animal testing center to establish rigor and
+reproducibility. We have developed and validated a dual adeno-associated virus
+(AAV) CRISPR platform that supports effective editing of a lox-stop-lox-Tomato
+reporter in mouse lung airway. After intratracheal injection of the AAV serotype 
+5 (AAV5)-packaged S. pyogenes Cas9 (SpCas9) and single guide RNAs (sgRNAs), we
+observed ∼19%-26% Tomato-positive cells in both large and small airways,
+including club and ciliated epithelial cell types. This highly effective AAV
+delivery platform will facilitate the study of therapeutic genome editing in the 
+lung and other tissue types.
+
+Copyright © 2021 The American Society of Gene and Cell Therapy. Published by
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymthe.2021.10.023 
+PMID: 34695545 
+
+Conflict of interest statement: Declaration of interests The authors declare no
+competing interests.
+

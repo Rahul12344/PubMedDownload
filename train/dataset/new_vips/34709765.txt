@@ -1,0 +1,63 @@
+
+1. Clin Transl Med. 2021 Oct;11(10):e541. doi: 10.1002/ctm2.541.
+
+Combined rs-fMRI study on brain functional imaging and mechanism of RAGE-DAMPs of
+depression: Evidence from MDD patients to chronic stress-induced depression
+models in cynomolgus monkeys and mice.
+
+Yan W(1)(2), Xie L(1), Bi Y(3), Zeng T(1), Zhao D(1), Lai Y(1), Gao T(4), Sun
+X(1), Shi Y(5), Dong Z(6), Wen G(7), Gao L(1)(8), Lv Z(1).
+
+Author information: 
+(1)School of Traditional Chinese Medicine, Southern Medical University,
+Guangzhou, Guangdong, China.
+(2)The First Affiliated Hospital of Guangzhou University of Chinese Medicine,
+Guangzhou, Guangdong, China.
+(3)College of Integrated Traditional Chinese and Western Medicine, Jining Medical
+University, Jining, Shandong, China.
+(4)Department of General practice, The First Affiliated Hospital/School of
+Clinical Medicine of Guangdong Pharmaceutical University, Guangzhou, Guangdong,
+China.
+(5)School of Fundamental Medical Science, Guangzhou University of Chinese
+Medicine, Guangzhou, Guangdong, China.
+(6)School of Nursing, Guangzhou University of Chinese Medicine, Guangzhou,
+Guangdong, China.
+(7)Department of Medical Imaging, Nanfang Hospital, Southern Medical University, 
+Guangzhou, Guangdong, China.
+(8)Zhujiang Hospital, Southern Medical University, Guangzhou, Guangdong, China.
+
+More and more evidence show that major depressive disorder (MDD) is closely
+related to inflammation caused by chronic stress, which seriously affects human
+physical and mental health. However, the inflammatory mechanism of depression and
+its effect on brain function have not been clarified. Based on resting-state
+functional magnetic resonance imaging (rs-fMRI), we investigated change of brain 
+functional imaging and the inflammatory mechanism of damage-related molecular
+patterns (DAMPs)-receptor of advanced glycation protein end product (RAGE) in MDD
+patients and depressive-like cynomolgus monkeys and mice models induced by
+chronic stress. The regional homogeneity (ReHo) and functional connectivity (FC) 
+were analyzed using MATLAB and SPM12 software. We detected the expression of
+DAMPs-RAGE pathway-related proteins and mRNA in MDD peripheral blood and in serum
+and brain tissue of cynomolgus monkeys and mice. Meanwhile, RAGE gene knockout
+mice, RAGE inhibitor, and overexpression of AVV9RAGE adeno-associated virus were 
+used to verify that RAGE is a reliable potential biomarker of depression. The
+results showed that the ReHo value of prefrontal cortex (PFC) in MDD patients and
+depressive-like cynomolgus monkeys was decreased. Then, the PFC was used as a
+seed point, the FC of ipsilateral and contralateral PFC were weakened in
+depressive-like mice. At the same time, qPCR showed that RAGE and HMGB1 mRNA were
+upregulated and S100β mRNA was downregulated. The expression of RAGE-related
+inflammatory protein in PFC of depressive-like monkeys and mice were consistent
+with that in peripheral blood of MDD patients. Moreover, the results were
+confirmed in RAGE-/- mice, injection of FPS-ZM1, and overexpression of AAV9RAGE
+in mice. To sum up, our findings enhance the evidence that chronic
+stress-PFC-RAGE are associated with depression. These results attempt to
+establish the links between brain functional imaging, and molecular targets among
+different species will help to reveal the pathophysiological mechanism of
+depression from multiple perspectives.
+
+© 2021 The Authors. Clinical and Translational Medicine published by John Wiley &
+Sons Australia, Ltd on behalf of Shanghai Institute of Clinical Bioinformatics.
+
+DOI: 10.1002/ctm2.541 
+PMCID: PMC8506644
+PMID: 34709765 
+

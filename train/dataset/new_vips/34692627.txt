@@ -1,0 +1,51 @@
+
+1. Front Public Health. 2021 Oct 7;9:741030. doi: 10.3389/fpubh.2021.741030.
+eCollection 2021.
+
+A Novel Matrix Profile-Guided Attention LSTM Model for Forecasting COVID-19 Cases
+in USA.
+
+Liu Q(1)(2)(3), Fung DLX(2), Lac L(3), Hu P(1)(2).
+
+Author information: 
+(1)Department of Biochemistry and Medical Genetics, University of Manitoba,
+Winnipeg, MB, Canada.
+(2)Department of Computer Science, University of Manitoba, Winnipeg, MB, Canada.
+(3)Department of Statistics, University of Manitoba, Winnipeg, MB, Canada.
+
+Background: The outbreak of the novel coronavirus disease 2019 (COVID-19) has
+been raging around the world for more than 1 year. Analysis of previous COVID-19 
+data is useful to explore its epidemic patterns. Utilizing data mining and
+machine learning methods for COVID-19 forecasting might provide a better insight 
+into the trends of COVID-19 cases. This study aims to model the COVID-19 cases
+and perform forecasting of three important indicators of COVID-19 in the United
+States of America (USA), which are the adjusted percentage of daily admitted
+hospitalized COVID-19 cases (hospital admission), the number of daily confirmed
+COVID-19 cases (confirmed cases), and the number of daily death cases caused by
+COVID-19 (death cases). Materials and Methods: The actual COVID-19 data from
+March 1, 2020 to August 5, 2021 were obtained from Carnegie Mellon University
+Delphi Research Group. A novel forecasting algorithm was proposed to model and
+predict the three indicators. This algorithm is a hybrid of an unsupervised time 
+series anomaly detection technique called matrix profile and an attention-based
+long short-term memory (LSTM) model. Several classic statistical models and the
+baseline recurrent neural network (RNN) models were used as the baseline models. 
+All models were evaluated using a repeated holdout training and test strategy.
+Results: The proposed matrix profile-assisted attention-based LSTM model
+performed the best among all the compared models, which has the root mean square 
+error (RMSE) = 1.23, 31612.81, 467.17, mean absolute error (MAE) = 0.95,
+26259.55, 364.02, and mean absolute percentage error (MAPE) = 0.25, 1.06, 0.55,
+for hospital admission, confirmed cases, and death cases, respectively.
+Conclusion: The proposed model is more powerful in forecasting COVID-19 cases. It
+can potentially aid policymakers in making prevention plans and guide health care
+managers to allocate health care resources reasonably.
+
+Copyright © 2021 Liu, Fung, Lac and Hu.
+
+DOI: 10.3389/fpubh.2021.741030 
+PMCID: PMC8529122
+PMID: 34692627  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

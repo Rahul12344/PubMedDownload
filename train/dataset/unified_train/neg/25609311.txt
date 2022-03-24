@@ -1,0 +1,76 @@
+
+1. bmc genomics. 2015 jan 22;16:12. doi: 10.1186/s12864-015-1212-2.
+
+integrated transcriptome catalogue organ-specific profiling gene
+expression fertile garlic (allium sativum l.).
+
+kamenetsky r(1), faigenboim a(2), shemesh mayer e(3)(4), ben michael t(5)(6),
+gershberg c(7), kimhi s(8), esquira i(9), rohkin shalom s(10)(11), eshel d(12),
+rabinowitch hd(13), sherman a(14).
+
+author information: 
+(1)institute plant sciences, aro, volcani center, bet dagan, israel.
+vhrkamen@volcani.agri.gov.il.
+(2)institute plant sciences, aro, volcani center, bet dagan, israel.
+adif@volcani.agri.gov.il.
+(3)institute plant sciences, aro, volcani center, bet dagan, israel.
+einat.shemesh@mail.huji.ac.il.
+(4)robert h. smith faculty agricultural, food, environmental quality
+sciences, hebrew university jerusalem, jerusalem, israel.
+einat.shemesh@mail.huji.ac.il.
+(5)institute plant sciences, aro, volcani center, bet dagan, israel.
+tomerbetmem@gmail.com.
+(6)robert h. smith faculty agricultural, food, environmental quality
+sciences, hebrew university jerusalem, jerusalem, israel.
+tomerbetmem@gmail.com.
+(7)institute plant sciences, aro, volcani center, bet dagan, israel.
+chen.bernath@gmail.com.
+(8)institute plant sciences, aro, volcani center, bet dagan, israel.
+sagiekimhi@gmail.com.
+(9)classeed ltd., gibraltar, british. esquirai@gmail.com.
+(10)institute plant sciences, aro, volcani center, bet dagan, israel.
+saritr@volcani.agri.gov.il.
+(11)institute postharvest food sciences, aro, volcani center, bet 
+dagan, israel. saritr@volcani.agri.gov.il.
+(12)institute postharvest food sciences, aro, volcani center, bet 
+dagan, israel. dani@agri.gov.il.
+(13)robert h. smith faculty agricultural, food, environmental quality
+sciences, hebrew university jerusalem, jerusalem, israel.
+haim.rabinowitch@mail.huji.ac.il.
+(14)institute plant sciences, aro, volcani center, bet dagan, israel.
+asherman@volcani.agri.gov.il.
+
+background: garlic cultivated consumed worldwide popular condiment
+and green vegetable medicinal neutraceutical properties. garlic
+cultivars produce seeds, therefore, plant the
+subject either classical breeding genetic studies. however, recent
+achievements fertility restoration number genotypes led to
+flowering seed production, thus enabling genetic studies breeding in
+garlic.
+results: transcriptome catalogue fertile garlic produced from
+multiplexed gene libraries, using rna collected various plant organs,
+including inflorescences flowers. 32 million 250-bp paired-end reads
+were assembled extensive transcriptome 240,000 contigs. abundant
+transcriptome assembled separately 102,000 highly expressed contigs was
+annotated analyzed gene ontology metabolic pathways. organ-specific
+analysis showed significant variation gene expression plant organs,
+with highest number specific reads inflorescences flowers. analysis
+of enriched biological processes molecular functions revealed
+characteristic patterns stress response, flower development and
+photosynthetic activity. orthologues key flowering genes differentially
+expressed, reproductive tissues, also leaves bulbs,
+suggesting role flower-signal transduction bulbing process. more
+than 100 variants isoforms enzymes involved organosulfur metabolism
+were differentially expressed organ-specific patterns. addition to
+plant genes, viral rna least four garlic viruses detected, mostly in
+the roots cloves, whereas 1-4% reads found foliage
+leaves.
+conclusions: de novo transcriptome fertile garlic represents new
+resource research breeding important crop, well the
+development effective molecular markers useful traits, including fertility
+and seed production, resistance pests neutraceutical characteristics.
+
+doi: 10.1186/s12864-015-1212-2 
+pmcid: pmc4307630
+pmid: 25609311  [indexed medline]
+

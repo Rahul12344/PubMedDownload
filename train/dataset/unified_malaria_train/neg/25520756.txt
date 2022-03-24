@@ -1,0 +1,58 @@
+
+1. genome med. 2014 nov 29;6(11):110. doi: 10.1186/s13073-014-0110-6. ecollection
+2014.
+
+plasmodium falciparum gene expression measured directly tissue human 
+infection.
+
+van tyne d(1), tan y(2), daily jp(3), kamiza s(4), seydel k(5), taylor t(5),
+mesirov jp(6), wirth df(7), milner da jr(8).
+
+author information: 
+(1)department immunology infectious diseases, harvard school public
+health, boston, usa.
+(2)broad institute, cambridge, usa ; graduate program bioinformatics,
+boston university, boston, usa.
+(3)albert einstein college medicine, bronx, ny usa.
+(4)university malawi college medicine, blantyre, malawi.
+(5)michigan state university, college osteopathic medicine, east lansing, mi
+usa ; blantyre malaria project, blantyre, malawi.
+(6)broad institute, cambridge, usa.
+(7)department immunology infectious diseases, harvard school public
+health, boston, usa ; broad institute, cambridge, usa.
+(8)department immunology infectious diseases, harvard school public
+health, boston, usa ; broad institute, cambridge, usa ; university of
+malawi college medicine, blantyre, malawi ; blantyre malaria project,
+blantyre, malawi ; brigham women's hospital, boston, usa.
+
+background: latter half natural 48-h intraerythrocytic life
+cycle human plasmodium falciparum infection, parasites sequester deep in
+endothelium tissues, away spleen inaccessible peripheral
+blood. late-stage parasites may cause tissue damage likely contribute
+to clinical disease, complete understanding biology is
+needed. life cycle stages easily sampled due deep tissue
+sequestration, measuring vivo gene expression parasites trophozoite 
+and schizont stages challenge.
+methods: developed custom ncounter® gene expression platform used this
+platform measure malaria parasite gene expression profiles vitro in
+vivo. also used imputation generate global transcriptional profiles and
+assessed differential gene expression parasites growing vitro and
+those recovered malaria-infected patient tissues collected autopsy.
+results: demonstrate, first time, global transcriptional expression
+profiles vivo malaria parasites sequestered human tissues. found
+that parasite physiology correlated vitro data existing
+life cycle data set, parasites sequestered tissues show expected
+schizont-like transcriptional profile, conserved across tissues the
+same patient. imputation based 60 landmark genes generated global
+transcriptional profiles highly correlated genome-wide expression 
+patterns samples measured microarray. finally, differential
+expression revealed limited set vivo upregulated transcripts, may
+indicate unique parasite genes involved human clinical infections.
+conclusions: study highlights utility custom ncounter® p. falciparum
+probe set, validation imputation within plasmodium species, documentation 
+of vivo schizont-stage expression patterns human tissues.
+
+doi: 10.1186/s13073-014-0110-6 
+pmcid: pmc4269068
+pmid: 25520756 
+

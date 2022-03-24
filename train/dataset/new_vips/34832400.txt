@@ -1,0 +1,40 @@
+
+1. Materials (Basel). 2021 Nov 18;14(22). pii: 6999. doi: 10.3390/ma14226999.
+
+UVC LED and Conducting Yarn-Based Heater for a Smart Germicidal Face Mask to
+Protect against Airborne Viruses.
+
+Pattanaik P(1), Holderbaum W(2), Khandual A(3), Tripathy HP(1).
+
+Author information: 
+(1)Semiconductor Research Laboratory, Faculty of Engineering and Technology
+(ITER), Siksha 'O' Anusandhan Deemed to be University, Bhubaneswar 751030, India.
+(2)School of Biological Science, Biomedical Engineering, University of Reading,
+Reading RG6 6AH, UK.
+(3)Department of Textile Engineering, College of Engineering and Technology,
+BPUT, Bhubaneswar 751030, India.
+
+"Wear a mask. Save lives" is the slogan of WHO and all the government agencies
+over the world to the public. One of the most adopted prevention measures that
+can limit the spread of the airborne virus in the form of respiratory viral
+diseases, including the new strain of COVID-19, is wearing a proper mask. If the 
+mask surface is heated to 65 to 70 °C, it could help potentially diminish any
+viruses or bacteria accumulated. The FAR-Ultraviolet -C (FAR-UV-C) dose for the
+influenza limit to 254 nm light is ~3 mJ/cm2/hour exposure is not harmful to the 
+human skin and eyes. Here, we propose an intelligent mask served by FAR-UV-C and 
+conducting a yarn-based heater that could potentially be activated in a
+controlled manner to kill the virus. The effective irradiation intensity for skin
+application would be under 0.1 µW/cm2. The exposure risk of UV-C is technically
+prevented by fabricating multi-layered fabrics with multiple functionalities.
+Along with experimental validation on bacterial filtration efficiency (BFE),
+tinker cad simulation for circuit design, and comsol multiphysics for temperature
+profile study, we probed Moisture Management Test (MMT) in addition with
+cytotoxicity risk by MTT Assay for survivability to ensure safer application
+potential. This novel proposed design with the germicidal combination of heating 
+and FAR-UV-C models, described here, is promising in retaliating and combating
+any airborne viruses.
+
+DOI: 10.3390/ma14226999 
+PMCID: PMC8620325
+PMID: 34832400 
+

@@ -1,0 +1,50 @@
+
+1. Comput Intell Neurosci. 2021 Nov 1;2021:2158184. doi: 10.1155/2021/2158184.
+eCollection 2021.
+
+Deep Learning-Based Methods for Sentiment Analysis on Nepali COVID-19-Related
+Tweets.
+
+Sitaula C(1)(2), Basnet A(3), Mainali A(4), Shahi TB(2)(5).
+
+Author information: 
+(1)Department of Electrical and Computer Systems Engineering, Monash University, 
+VIC, Clayton, 3800, Australia.
+(2)Central Department of Computer Science and Information Technology, Tribhuvan
+University, Kathmandu 44600, Nepal.
+(3)Kist College, Kathmandu, Nepal.
+(4)Aryan School of Engineering, Kathmandu, Nepal.
+(5)School of Engineering and Technology, Central Queensland University,
+Rockhampton, QLD 4701, Australia.
+
+COVID-19 has claimed several human lives to this date. People are dying not only 
+because of physical infection of the virus but also because of mental illness,
+which is linked to people's sentiments and psychologies. People's written
+texts/posts scattered on the web could help understand their psychology and the
+state they are in during this pandemic. In this paper, we analyze people's
+sentiment based on the classification of tweets collected from the social media
+platform, Twitter, in Nepal. For this, we, first, propose to use three different 
+feature extraction methods-fastText-based (ft), domain-specific (ds), and
+domain-agnostic (da)-for the representation of tweets. Among these three methods,
+two methods ("ds" and "da") are the novel methods used in this study. Second, we 
+propose three different convolution neural networks (CNNs) to implement the
+proposed features. Last, we ensemble such three CNNs models using ensemble CNN,
+which works in an end-to-end manner, to achieve the end results. For the
+evaluation of the proposed feature extraction methods and CNN models, we prepare 
+a Nepali Twitter sentiment dataset, called NepCOV19Tweets, with 3 classes
+(positive, neutral, and negative). The experimental results on such dataset show 
+that our proposed feature extraction methods possess the discriminating
+characteristics for the sentiment classification. Moreover, the proposed CNN
+models impart robust and stable performance on the proposed features. Also, our
+dataset can be used as a benchmark to study the COVID-19-related sentiment
+analysis in the Nepali language.
+
+Copyright © 2021 C. Sitaula et al.
+
+DOI: 10.1155/2021/2158184 
+PMCID: PMC8561567
+PMID: 34737773  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there are no conflicts
+of interest.
+

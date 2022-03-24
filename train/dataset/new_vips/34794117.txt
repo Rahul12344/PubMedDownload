@@ -1,0 +1,60 @@
+
+1. JMIR Public Health Surveill. 2021 Nov 16. doi: 10.2196/22113. [Epub ahead of
+print]
+
+COVID-19 digital contact tracing: a cross-sectional survey on drivers of nonuse, 
+use discontinuation and acceptance of app options.
+
+Walrave M(1), Waeterloos C(2), Ponnet K(2).
+
+Author information: 
+(1)Research Group MIOS and GOVTRUST Centre of Excellence, Department of
+Communication Studies, Faculty of Social Sciences, University of Antwerp,
+Sint-Jacobstraat 2, Antwerp, BE.
+(2)Research Group IMEC-MICT, Department of Communication Sciences, Faculty of
+Political and Social Sciences, Ghent University, Ghent, BE.
+
+BACKGROUND: In several countries, contact tracing apps (CTAs) have been
+introduced to warn users if they have had high-risk contacts that could expose
+them to SARS-CoV-2 and therefore could develop COVID-19 or further transmit the
+virus. For CTAs to be effective, sufficient critical mass of users is needed.
+Until now, adoption of these apps in several countries has been limited,
+resulting in questions on which factors refrain app uptake or stimulate app use
+discontinuation.
+OBJECTIVE: This study investigates individuals' reasons for not using or stop
+using a CTA, more particularly the app Coronalert. Users' and nonusers' attitudes
+towards the app's potential impact was assessed in Belgium. To further stimulate 
+interest and potential use of a CTA, the study also investigated population's
+interest for new functionalities.
+METHODS: An online survey was administered in Belgium, to a sample of 1,850
+respondents aged 18 to 64. Data were collected between 30 October and 2 November 
+2020. Sociodemographic differences were assessed between users and nonusers. Both
+groups' attitude towards CTAs potential impact and their acceptance of new app
+functionalities were analysed.
+RESULTS: Our data show that 64.9% (1201/1850) of our respondents were nonusers of
+the CTA under study (individuals who did not install the app, downloaded the app 
+but did not activate is, uninstalled the app). While we did not find any
+sociodemographic differences between users and nonusers, attitudes towards the
+app and its functionalities seemed to differ. The main reasons for not
+downloading and using the app are a perceived lack of advantages (31.1%,
+308/991), worries about privacy (29.3%, 290/991) and, to a lesser extent, not
+having a smartphone (18.5%, 183/991). Users of a CTA agree more on the potential 
+of such apps to mitigate the consequences of the pandemic. Overall, nonusers find
+the possibility of extending the CTA with future functionalities less acceptable 
+than current users. However, also among users, acceptability tends to differ.
+Among users, functionalities relating to access and control, such as digital
+certificates or 'green cards' for events, were less accepted (55.2%, 358/649)
+than functionalities focusing on informing citizens about the spread of the virus
+(69.8%, 453/649) or making an appointment to get tested (80.9%, 525/649).
+CONCLUSIONS: Our results show that current users are more convinced of the CTA's 
+utility and more inclined to accept new app features then nonusers. Moreover,
+nonusers have more CTA related privacy concerns. Therefore, to further stimulate 
+app adoption and use its potential advantages and privacy-preserving mechanisms, 
+need to be stressed. Building further knowledge on forms of resistance among
+nonusers is important to respond to these barriers through the app's further
+development, related policy, and communication campaigns.
+CLINICALTRIAL:
+
+DOI: 10.2196/22113 
+PMID: 34794117 
+

@@ -1,0 +1,80 @@
+
+1. Transl Psychiatry. 2021 Nov 11;11(1):573. doi: 10.1038/s41398-021-01696-x.
+
+Multiple time measurements of multidimensional psychiatric states from
+immediately before the COVID-19 pandemic to one year later: a longitudinal online
+survey of the Japanese population.
+
+Oka T(1)(2), Kubo T(3), Kobayashi N(4), Nakai F(5)(6), Miyake Y(7), Hamamura
+T(8)(9), Honjo M(8), Toda H(10), Boku S(2), Kanazawa T(11)(12), Nagamine M(13),
+Cortese A(1), Takebayashi M(2), Kawato M(1), Chiba T(14)(15)(16).
+
+Author information: 
+(1)The Department of Decoded Neurofeedback, Computational Neuroscience
+Laboratories, Advanced Telecommunications Research Institute International,
+Kyoto, Japan.
+(2)Department of Neuropsychiatry, Faculty of Life Sciences, Kumamoto University, 
+Kumamoto, Japan.
+(3)The Department of Brain robot interface, Computational Neuroscience
+Laboratories, Advanced Telecommunications Research Institute International,
+Kyoto, Japan.
+(4)Collaborative AI Laboratory, KDDI Research, Inc., Fujimino, Japan.
+(5)The Department of Computational Brain Imaging, Computational Neuroscience
+Laboratories, Advanced Telecommunications Research Institute International,
+Kyoto, Japan.
+(6)Mathematical Informatics Laboratory, Nara Institute of Science and Technology 
+(NAIST), Kyoto, Japan.
+(7)Technology Affairs Department, Technology Strategy Division, KDDI CORPORATION,
+Tokyo, Japan.
+(8)Healthcare Medical Group, Future Design Division 2, KDDI Research Atelier,
+KDDI Research, Inc., Fujimino, Japan.
+(9)Japan Society for the Promotion of Science, Tokyo, Japan.
+(10)The Department of Psychiatry, National Defense Medical College, Tokorozawa,
+Japan.
+(11)The Department of Neuropsychiatry, Osaka Medical and Pharmaceutical
+University, Osaka, Japan.
+(12)The Florey Institute of Neuroscience and Mental Health, Parkville, VIC,
+Australia.
+(13)Division of Behavioral Science, National Defense Medical College Research
+Institute, Tokorozawa, Japan.
+(14)The Department of Decoded Neurofeedback, Computational Neuroscience
+Laboratories, Advanced Telecommunications Research Institute International,
+Kyoto, Japan. t.chiba0906@gmail.com.
+(15)The Department of Psychiatry, Kobe University Graduate School of Medicine,
+Kobe, Japan. t.chiba0906@gmail.com.
+(16)The Department of Psychiatry, Self-Defense Forces Hanshin Hospital,
+Kawanishi, Japan. t.chiba0906@gmail.com.
+
+The coronavirus disease 2019 (COVID-19) pandemic has profoundly affected the
+mental health of both infected and uninfected people. Although most psychiatric
+disorders have highly overlapping genetic and pathogenic backgrounds, most
+studies investigating the impact of the pandemic have examined only single
+psychiatric disorders. It is necessary to examine longitudinal trajectories of
+factors that modulate psychiatric states across multiple dimensions. About 2274
+Japanese citizens participated in online surveys presented in December 2019
+(before the pandemic), August 2020, Dec 2020, and April 2021. These surveys
+included nine questionnaires on psychiatric symptoms, such as depression and
+anxiety. Multidimensional psychiatric time-series data were then decomposed into 
+four principal components. We used generalized linear models to identify
+modulating factors for the effects of the pandemic on these components. The four 
+principal components can be interpreted as a general psychiatric burden, social
+withdrawal, alcohol-related problems, and depression/anxiety. Principal
+components associated with general psychiatric burden and depression/anxiety
+peaked during the initial phase of the pandemic. They were further exacerbated by
+the economic burden the pandemic imposed. In contrast, principal components
+associated with social withdrawal showed a delayed peak, with human relationships
+as an important risk modulating factor. In addition, being female was a risk
+factor shared across all components. Our results show that COVID-19 has imposed a
+large and varied burden on the Japanese population since the commencement of the 
+pandemic. Although components related to the general psychiatric burden remained 
+elevated, peak intensities differed between components related to
+depression/anxiety and those related to social withdrawal. These results
+underline the importance of using flexible monitoring and mitigation strategies
+for mental problems, according to the phase of the pandemic.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41398-021-01696-x 
+PMCID: PMC8581018
+PMID: 34759293  [Indexed for MEDLINE]
+

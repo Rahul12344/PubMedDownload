@@ -1,0 +1,71 @@
+
+1. Clin Epidemiol. 2021 Oct 14;13:935-940. doi: 10.2147/CLEP.S311977. eCollection
+2021.
+
+Recalibrating SARS-CoV-2 Antigen Rapid Lateral Flow Test Relative Sensitivity
+from Validation Studies to Absolute Sensitivity for Indicating Individuals
+Shedding Transmissible Virus.
+
+Petersen I(1), Crozier A(2), Buchan I(3), Mina MJ(4)(5), Bartlett JW(6).
+
+Author information: 
+(1)Department of Primary Care & Population Health, University College London,
+London, UK.
+(2)Division of Biosciences, University College London, London, UK.
+(3)Institute of Population Health, University of Liverpool, Liverpool, UK.
+(4)Department of Epidemiology, Department of Immunology and Infectious Diseases, 
+Harvard T.H. Chan School of Public Health, Boston, MA, USA.
+(5)Department of Pathology, Clinical Microbiology, Brigham and Women's Hospital, 
+Harvard Medical School, Boston, MA, USA.
+(6)Department of Mathematical Sciences, University of Bath, Bath, UK.
+
+Testing for SARS-CoV-2 internationally has focused on COVID-19 diagnosis among
+symptomatic individuals using reverse transcriptase polymerase chain reaction
+(PCR) tests. Recently, however, SARS-CoV-2 antigen rapid lateral flow tests (LFT)
+have been rolled out in several countries for testing asymptomatic individuals in
+public health programmes. Validation studies for LFT have been largely
+cross-sectional, reporting sensitivity, specificity and predictive values of LFT 
+relative to PCR. However, because PCR detects genetic material left behind for a 
+long period when the individual is no longer infectious, these statistics can
+under-represent the sensitivity of LFT for detecting infectious individuals,
+especially when sampling asymptomatic populations. LFTs (intended to detect
+individuals shedding SARS-CoV-2 antigens) validated against PCR (intended to
+diagnose infection) are not reporting against a gold standard of equivalent
+measurements. Instead, these validation studies have reported relative
+performance statistics that need recalibrating to the purpose for which LFT is
+being used. We present an approach to this recalibration. We derive a formula for
+recalibrating relative performance statistics from LFT vs PCR validation studies 
+to give likely absolute sensitivity of LFT for detecting individuals who are
+shedding shedding SARS-CoV-2 antigens. We contrast widely reported apparent
+sensitivities of LFT with recalibrated absolute sensitivity for detecting
+individuals shedding SARS-CoV-2 antigens. After accounting for within-individual 
+viral kinetics and epidemic dynamics within asymptomatic populations we show that
+a highly performant test for SARS-CoV-2 antigen should show LFT-to-PCR relative
+sensitivity of less than 50% in conventional validation studies, which after
+re-calibration would be an absolute sensitivity of more than 80%. Further studies
+are needed to ascertain the absolute sensitivity of LFT as a test of
+infectiousness in COVID-19 responses. These studies should include longitudinal
+series of LFT and PCR, ideally in cohorts sampled from both contacts of cases and
+the general population.
+
+© 2021 Petersen et al.
+
+DOI: 10.2147/CLEP.S311977 
+PMCID: PMC8527245
+PMID: 34703318 
+
+Conflict of interest statement: Professor Iain Buchan reports grants as the
+senior investigator from NIHR, during the conduct of the study; receives personal
+fees as the Chief Data Scientist Advisor from AstraZeneca, outside the submitted 
+work. In addition, Professor Buchan also reports that Innova Medical Group gave a
+gift to the Pandemic Institute in Liverpool, which is chaired by Liverpool City
+Council and involves the University of Liverpool. It has not funded any of his
+work to date, which was supported only by Department of Health & Social Care and 
+NIHR for studies into lateral flow SARS-CoV-2 rapid antigen testing. Dr Michael J
+Mina reports personal fees from Detect, during the conduct of the study. Dr
+Jonathan W Bartlett reports personal fees from Bayer for consultancy on
+statistical methods for clinical trials and consultancy to University of Bath on 
+statistical methods for clinical trials for Bayer, AstraZeneca, Novartis, and
+Roche, outside the submitted work. The authors report no other conflicts of
+interest in this work.
+

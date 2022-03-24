@@ -1,0 +1,39 @@
+
+1. database (oxford). 2019 jan 1;2019. doi: 10.1093/database/bay134.
+
+the integrated national neuroaids tissue consortium database: rich platform for
+neurohiv research.
+
+heithoff aj(1), totusek sa(1), le d(2), barwick l(3), gensler g(3), franklin
+dr(4), dye ac(1), pandey s(2), sherman s(3), guda c(2)(5), fox hs(1).
+
+author information: 
+(1)department pharmacology experimental neuroscience, college medicine,
+university nebraska medical center, omaha, ne, usa.
+(2)bioinformatics systems biology core, university nebraska medical
+center, omaha, ne, usa.
+(3)emmes corporation, rockville, md, usa.
+(4)department medicine, university california, san diego, la jolla, ca,
+usa.
+(5)department genetics, cell biology anatomy, university nebraska
+medical center, omaha, ne, usa.
+
+herein present major updates national neuroaids tissue consortium
+(nntc) database. nntc's ongoing multisite clinical research study was
+established facilitate access ante-mortem post-mortem data, tissues and
+biofluids neurohuman immunodeficiency virus (hiv) research community.
+recently, nntc expanded include data central nervous system
+hiv antiretroviral therapy effects research (charter) study. data and
+biospecimens charter nntc cohorts available qualified researchers
+upon request. data generated requestors using nntc biospecimens tissues
+are returned nntc upon conclusion requestors' work, this
+external, experimental data annotated curated publically
+accessible nntc database, thereby extending utility case. flexible 
+and extensible database ontology allows integration disparate data sets,
+including external experimental data, clinical neuropsychological and
+neuromedical testing data, tissue pathology neuroimaging data.
+
+doi: 10.1093/database/bay134 
+pmcid: pmc6323298
+pmid: 30624650  [indexed medline]
+

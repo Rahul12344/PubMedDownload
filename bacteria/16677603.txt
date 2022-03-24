@@ -1,0 +1,29 @@
+
+1. Biochem Biophys Res Commun. 2006 Jun 23;345(1):99-105. Epub 2006 Apr 25.
+
+Generation of variable and fixed length siRNA from a novel siRNA expression
+vector.
+
+Du C(1), Ge B, Feng X, Chan WC, McKeithan TW.
+
+Author information: 
+(1)Department of Pathology and Microbiology, University of Nebraska Medical
+Center, Omaha, NE 68198, USA. cdu@unmc.edu
+
+Small interfering RNA (siRNA) expression vectors using a Pol III promoter fall
+into two categories, vectors with a single Pol III promoter that express small
+hairpin RNA (shRNA) and vectors with two head-to-head (convergent) Pol III
+promoters that express siRNA. There are technical difficulties in preparing
+convergent siRNA vectors from cDNA. Here, we report construction of a novel
+convergent siRNA expression vector, pTHUB. Two XcmI sites were inserted between
+opposing Pol III promoters. After linearization with XcmI, pTHUB has a single 3' 
+A overhang at each end that allows direct cloning of partially DNase I digested
+cDNA fragments (20-30 bp) tailed with ddT. A derivative method for generating 19 
+bp siRNA in pTHUB is also described. The suppression efficiency of the pTHUB
+vector is comparable to those of conventional shRNA vectors. We have made a siRNA
+library from a single cDNA. The same approach can be used to construct
+whole-genome siRNA libraries from cellular cDNA.
+
+DOI: 10.1016/j.bbrc.2006.04.061 
+PMID: 16677603  [Indexed for MEDLINE]
+

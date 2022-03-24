@@ -1,0 +1,55 @@
+
+1. j vis exp. 2011 jun 17;(52). pii: 2599. doi: 10.3791/2599.
+
+neuromodulation mitochondrial transport: live imaging hippocampal neurons 
+over long durations.
+
+edelman db(1), owens gc, chen s.
+
+author information: 
+(1)department experimental neurobiology, neurosciences institute.
+david_edelman@nsi.edu
+
+to understand relationship mitochondrial transport neuronal
+function, critical observe mitochondrial behavior live cultured
+neurons extended durations(1-3). possible use of
+vital dyes fluorescent proteins cytoskeletal components,
+organelles, structures living cells labeled then
+visualized via dynamic fluorescence microscopy. example, embryonic chicken
+sympathetic neurons, mitochondrial movement characterized using vital dye
+rhodamine 123(4). another study, mitochondria visualized rat forebrain
+neurons transfection mitochondrially targeted eyfp(5). however, imaging 
+primary neurons minutes, hours, even days presents number issues.
+foremost among are: 1) maintenance culture conditions as
+temperature, humidity, ph long imaging sessions; 2) strong, stable
+fluorescent signal assure quality acquired images accurate
+measurement signal intensity image analysis; 3) limiting exposure
+times image acquisition minimize photobleaching avoid
+phototoxicity. here, describe protocol permits observation,
+visualization, analysis mitochondrial movement cultured hippocampal
+neurons high temporal resolution optimal life support conditions. 
+we constructed affordable stage-top incubator provides good
+temperature regulation atmospheric gas flow, also limits degree of
+media evaporation, assuring stable ph osmolarity. incubator is
+connected, via inlet outlet hoses, standard tissue culture incubator,
+which provides constant humidity levels atmosphere 5-10% co(2;)/air.
+this design offers cost-effective alternative significantly expensive
+microscope incubators necessarily assure viability cells over
+many hours even days. visualize mitochondria, infect cells a
+lentivirus encoding red fluorescent protein targeted the
+mitochondrion. assures strong persistent signal, which, conjunction
+with use stable xenon light source, allows us limit exposure times
+during image acquisition precludes photobleaching phototoxicity. 
+two injection ports top stage-top incubator allow acute
+administration neurotransmitters reagents intended modulate
+mitochondrial movement. sum, lentivirus-mediated expression an
+organelle-targeted red fluorescent protein combination stage-top
+incubator, conventional inverted fluorescence microscope, ccd camera, xenon
+light source allow us acquire time-lapse images mitochondrial transport 
+living neurons longer durations possible studies deploying
+conventional vital dyes off-the-shelf life support systems.
+
+doi: 10.3791/2599 
+pmcid: pmc3197030
+pmid: 21712797  [indexed medline]
+

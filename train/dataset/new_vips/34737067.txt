@@ -1,0 +1,73 @@
+
+1. Mol Ther. 2021 Nov 2. pii: S1525-0016(21)00570-0. doi:
+10.1016/j.ymthe.2021.10.026. [Epub ahead of print]
+
+Disruption of HIV-1 co-receptors CCR5 and CXCR4in primary human T cells and
+hematopoietic stemand progenitor cells using base editing.
+
+Knipping F(1), Newby GA(2), Eide CR(1), McElroy AN(1), Nielsen SC(1), Smith K(1),
+Fang Y(3), Cornu TI(4), Costa C(5), Gutierrez-Guerrero A(5), Bingea SP(1), Feser 
+CJ(1), Steinbeck B(1), Hippen KL(1), Blazar BR(1), McCaffrey A(6), Mussolino
+C(4), Verhoeyen E(7), Tolar J(1), Liu DR(2), Osborn MJ(8).
+
+Author information: 
+(1)Medical School, Department of Pediatrics, Division of Blood and Marrow
+Transplant & Cellular Therapy, University of Minnesota, Minneapolis, MN 55455,
+USA.
+(2)Merkin Institute of Transformative Technologies in Healthcare, Broad Institute
+of Harvard and MIT, Cambridge, MA 02142, USA; Department of Chemistry and
+Chemical Biology, Harvard University, Cambridge, MA 02138, USA; Howard Hughes
+Medical Institute, Harvard University, Cambridge, MA 02138, USA.
+(3)Institute for Transfusion Medicine and Gene Therapy, Medical Center,
+University of Freiburg, Freiburg 79106, Germany; Center for Chronic
+Immunodeficiency, Medical Center, University of Freiburg, Freiburg 79106,
+Germany; MD Program, Faculty of Medicine, University of Freiburg, Freiburg 79106,
+Germany.
+(4)Institute for Transfusion Medicine and Gene Therapy, Medical Center,
+University of Freiburg, Freiburg 79106, Germany; Center for Chronic
+Immunodeficiency, Medical Center, University of Freiburg, Freiburg 79106,
+Germany; Faculty of Medicine, University of Freiburg 79106, Germany.
+(5)CIRI - International Center for Infectiology Research, Inserm, U1111,
+Université Claude Bernard Lyon 1, CNRS, UMR5308, Ecole Normale Supérieure de
+Lyon, Université Lyon, F-69007 Lyon, France.
+(6)TriLink BioTechnologies, San Diego, CA 92121, USA.
+(7)CIRI - International Center for Infectiology Research, Inserm, U1111,
+Université Claude Bernard Lyon 1, CNRS, UMR5308, Ecole Normale Supérieure de
+Lyon, Université Lyon, F-69007 Lyon, France; Université Côte d'Azur, INSERM, C3M,
+06204 Nice, France.
+(8)Medical School, Department of Pediatrics, Division of Blood and Marrow
+Transplant & Cellular Therapy, University of Minnesota, Minneapolis, MN 55455,
+USA. Electronic address: osbor026@umn.edu.
+
+Disruption of CCR5 or CXCR4, the main human immunodeficiency virus type 1 (HIV-1)
+co-receptors, has been shown to protect primary human CD4+ T cells from HIV-1
+infection. Base editing can install targeted point mutations in cellular genomes,
+and can thus efficiently inactivate genes by introducing stop codons or
+eliminating start codons without double-stranded DNA break formation. Here, we
+applied base editors for individual and simultaneous disruption of both
+co-receptors in primary human CD4+ T cells. Using cytosine base editors we
+observed premature stop codon introduction in up to 89% of sequenced CCR5 or
+CXCR4 alleles. Using adenine base editors we eliminated the start codon in CCR5
+in up to 95% of primary human CD4+ T cell and up to 88% of CD34+ hematopoietic
+stem and progenitor cell target alleles. Genome-wide specificity analysis
+revealed low numbers of off-target mutations that were introduced by base
+editing, located predominantly in intergenic or intronic regions. We show that
+our editing strategies prevent transduction with CCR5-tropic and CXCR4-tropic
+viral vectors in up to 79% and 88% of human CD4+ T cells, respectively. The
+engineered T cells maintained functionality and overall our results demonstrate
+the effectiveness of base-editing strategies for efficient and specific ablation 
+of HIV co-receptors in clinically relevant cell types.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymthe.2021.10.026 
+PMID: 34737067 
+
+Conflict of interest statement: Declaration of interests D.R.L. is a consultant
+and equity owner of Beam Therapeutics, Prime Medicine, and Pairwise Plants,
+companies that use genome editing. D.R.L. and G.A.N. have filed patent
+applications relating to the use of genome editors. T.I.C. has sponsored research
+collaboration with Cellectis and Miltenyi Biotec. The remaining authors declare
+no competing interests. A.M. is a scientific advisory board member at mCureX
+Therapeutics, Inc., an mRNA company and a consultant for TriLink BioTechnologies.
+

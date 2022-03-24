@@ -1,0 +1,46 @@
+
+1. Int J Mol Sci. 2021 Nov 7;22(21). pii: 12052. doi: 10.3390/ijms222112052.
+
+A Quadruplex qPCR for Detection and Differentiation of Classic and Natural
+Recombinant Myxoma Virus Strains of Leporids.
+
+Abade Dos Santos FA(1)(2)(3), Carvalho CL(2), Parra F(3), Dalton KP(3), Peleteiro
+MC(1), Duarte MD(1)(2).
+
+Author information: 
+(1)Centro de Investigação Interdisciplinar em Sanidade Animal (CIISA), Faculdade 
+de Medicina Veterinária, Universidade de Lisboa, Avenida da Universidade Técnica,
+1300-477 Lisboa, Portugal.
+(2)Instituto Nacional de Investigação Agrária e Veterinária (INIAV, I.P.), Av. da
+República, Quinta do Marquês, 2780-157 Oeiras, Portugal.
+(3)Instituto Universitario de Biotecnología de Asturias (IUBA), Departamento de
+Bioquímica y Biología Molecular, Universidad de Oviedo, 33003 Oviedo, Spain.
+
+A natural recombinant myxoma virus (referred to as ha-MYXV or MYXV-Tol08/18)
+emerged in the Iberian hare (Lepus granatensis) and the European rabbit
+(Oryctolagus cuniculus) in late 2018 and mid-2020, respectively. This new virus
+is genetically distinct from classic myxoma virus (MYXV) strains that caused
+myxomatosis in rabbits until then, by acquiring an additional 2.8 Kbp insert
+within the m009L gene that disrupted it into ORFs m009L-a and m009L-b. To
+distinguish ha-MYXV from classic MYXV strains, we developed a robust qPCR
+multiplex technique that combines the amplification of the m000.5L/R duplicated
+gene, conserved in all myxoma virus strains including ha-MYXV, with the
+amplification of two other genes targeted by the real-time PCR systems designed
+during this study, specific either for classic MYXV or ha-MYXV strains. The first
+system targets the boundaries between ORFs m009L-a and m009L-b, only contiguous
+in classic strains, while the second amplifies a fragment within gene m060L, only
+present in recombinant MYXV strains. All amplification reactions were validated
+and normalized by a fourth PCR system directed to a housekeeping gene (18S rRNA) 
+conserved in eukaryotic organisms, including hares and rabbits. The multiplex PCR
+(mPCR) technique described here was optimized for Taqman® and Evagreen® systems
+allowing the detection of as few as nine copies of viral DNA in the sample with
+an efficiency > 93%. This real-time multiplex is the first fast method available 
+for the differential diagnosis between classic and recombinant MYXV strains, also
+allowing the detection of co-infections. The system proves to be an essential and
+effective tool for monitoring the geographical spread of ha-MYXV in the hare and 
+wild rabbit populations, supporting the management of both species in the field.
+
+DOI: 10.3390/ijms222112052 
+PMCID: PMC8584577
+PMID: 34769480 
+

@@ -1,0 +1,47 @@
+
+1. Biochemistry. 2012 Nov 6;51(44):8743-54. doi: 10.1021/bi301114x. Epub 2012 Oct
+29.
+
+Substrate-mediated oxygen activation by homoprotocatechuate 2,3-dioxygenase:
+intermediates formed by a tyrosine 257 variant.
+
+Mbughuni MM(1), Meier KK, Münck E, Lipscomb JD.
+
+Author information: 
+(1)Department of Biochemistry, Molecular Biology and Biophysics and Center for
+Metals in Biocatalysis, University of Minnesota, Minneapolis, Minnesota 55455,
+United States.
+
+Homoprotocatechuate (HPCA; 3,4-dihydroxyphenylacetate or 4-carboxymethyl
+catechol) and O(2) bind in adjacent ligand sites of the active site Fe(II) of
+homoprotocatechuate 2,3-dioxygenase (FeHPCD). We have proposed that electron
+transfer from the chelated aromatic substrate through the Fe(II) to O(2) gives
+both substrates radical character. This would promote reaction between the
+substrates to form an alkylperoxo intermediate as the first step in aromatic ring
+cleavage. Several active site amino acids are thought to promote these reactions 
+through acid/base chemistry, hydrogen bonding, and electrostatic interactions.
+Here the role of Tyr257 is explored by using the Tyr257Phe (Y257F) variant, which
+decreases k(cat) by about 75%. The crystal structure of the FeHPCD-HPCA complex
+has shown that Tyr257 hydrogen bonds to the deprotonated C2-hydroxyl of HPCA.
+Stopped-flow studies show that at least two reaction intermediates, termed
+Y257F(Int1)(HPCA) and Y257F(Int2)(HPCA), accumulate during the Y257F-HPCA + O(2) 
+reaction prior to formation of the ring-cleaved product. Y257F(Int1)(HPCA) is
+colorless and is formed as O(2) binds reversibly to the HPCA−enzyme complex.
+Y257F(Int2)(HPCA) forms spontaneously from Y257F(Int1)(HPCA) and displays a
+chromophore at 425 nm (ε(425) = 10 500 M(−1) cm(−1)). Mössbauer spectra of the
+intermediates trapped by rapid freeze quench show that both intermediates contain
+Fe(II). The lack of a chromophore characteristic of a quinone or semiquinone form
+of HPCA, the presence of Fe(II), and the low O(2) affinity suggest that
+Y257F(Int1)(HPCA) is an HPCA-Fe(II)-O(2) complex with little electron
+delocalization onto the O(2). In contrast, the intense spectrum of
+Y257F(Int2)(HPCA) suggests the intermediate is most likely an HPCA
+quinone-Fe(II)-(hydro)peroxo species. Steady-state and transient kinetic analyses
+show that steps of the catalytic cycle are slowed by as much as 100-fold by the
+mutation. These effects can be rationalized by a failure of Y257F to facilitate
+the observed distortion of the bound HPCA that is proposed to promote transfer of
+one electron to O(2).
+
+DOI: 10.1021/bi301114x 
+PMCID: PMC3513391
+PMID: 23066705  [Indexed for MEDLINE]
+

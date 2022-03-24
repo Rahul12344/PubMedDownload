@@ -1,0 +1,61 @@
+
+1. plos one. 2015 sep 30;10(9):e0137993. doi: 10.1371/journal.pone.0137993.
+ecollection 2015.
+
+agent-based model forecasts aging population people inject drugs in
+metropolitan chicago changing prevalence hepatitis c infections.
+
+gutfraind a(1), boodram b(2), prachand n(3), hailegiorgis a(4), dahari h(5),
+major me(6).
+
+author information: 
+(1)division epidemiology biostatistics, school public health,
+university illinois chicago, chicago, illinois, united states america;
+the program experimental & theoretical modeling, department medicine,
+loyola university medical center, maywood, illinois, united states america;
+center biologics evaluation research, food drug administration,
+silver spring, maryland, united states america.
+(2)division epidemiology biostatistics, school public health,
+university illinois chicago, chicago, illinois, united states america.
+(3)sti/hiv surveillance, chicago department public health, chicago, illinois, 
+united states america.
+(4)department computational social science, george mason university, fairfax, 
+virginia, united states america.
+(5)the program experimental & theoretical modeling, department medicine,
+loyola university medical center, maywood, illinois, united states america;
+theoretical division, los alamos national laboratory, los alamos, new mexico,
+united states america.
+(6)center biologics evaluation research, food drug administration,
+silver spring, maryland, united states america.
+
+people inject drugs (pwid) high risk blood-borne pathogens
+transmitted sharing contaminated injection equipment, particularly 
+hepatitis c virus (hcv). hcv prevalence influenced complex interplay of
+drug-use behaviors, social networks, geography, well availability
+of interventions, needle exchange programs. adequately address this
+complexity hcv epidemic forecasting, developed computational model, 
+the agent-based pathogen kinetics model (apk). apk simulates pwid population 
+in metropolitan chicago, including social interactions result hcv
+infection. used multiple empirical data sources chicago pwid build a
+spatial distribution silico pwid population modeled networks among
+the pwid considering geography city suburbs. apk was
+validated 2012 empirical data (the latest available) shown agree
+with network epidemiological surveys within 1%. period 2010-2020, 
+apk forecasts decline hcv prevalence 0.8% per year 44(± 2)% 36(± 
+5)%, although sub-populations would continue relatively high
+prevalence, including non-hispanic blacks, 48(± 5)%. rate decline 
+lowest non-hispanic whites find, reversal historical trends,
+that incidence among non-hispanic whites would exceed incidence among
+non-hispanic blacks (0.66 per 100 per years vs 0.17 per 100 person years). apk
+also forecasts increase pwid mean age 35(± 1) 40(± 2) a
+corresponding increase 59(± 2)% 80(± 6)% proportion the
+population >30 years old. studies highlight importance analyzing
+subpopulations disease predictions, utility computer simulation for
+analyzing demographic health trends among pwid serve tool for
+guiding intervention prevention strategies chicago, major
+cities.
+
+doi: 10.1371/journal.pone.0137993 
+pmcid: pmc4589282
+pmid: 26421722  [indexed medline]
+

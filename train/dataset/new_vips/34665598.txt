@@ -1,0 +1,48 @@
+
+1. Environ Sci Technol. 2021 Nov 2;55(21):14480-14493. doi: 10.1021/acs.est.1c03977.
+Epub 2021 Oct 19.
+
+Systematic Review and Meta-Analysis of the Persistence of Enveloped Viruses in
+Environmental Waters and Wastewater in the Absence of Disinfectants.
+
+Silverman AI(1), Boehm AB(2).
+
+Author information: 
+(1)Department of Civil and Urban Engineering, New York University Tandon School
+of Engineering, Brooklyn, New York 11201, United States.
+(2)Department of Civil and Environmental Engineering, Stanford University,
+Stanford, California 94305, United States.
+
+Enveloped viruses are characterized by a lipid-containing envelope that
+encapsulates the virion, and they have been the cause of major outbreaks and
+pandemics. Some enveloped viruses are excreted in feces and other bodily fluids
+of infected people and animals, raising the question of their fate in the aquatic
+environment. Consequently, we conducted a systematic review and meta-analysis of 
+the decay rate constants (k) of enveloped viruses from 12 families (i.e.,
+Coronaviridae, Cystoviridae (specifically Phi6), Filoviridae, Hepadnaviridae,
+Herpesviridae, Orthomyxoviridae, Paramyxoviridae, Pneumoviridae, Poxviridae,
+Retroviridae, Rhabdoviridae, Togaviridae) in environmental waters and wastewater 
+to evaluate their decay kinetics and identify the environmental and virus
+characteristics that influence k. A total of 812 k that met inclusion criteria
+were identified in the literature, with the number of k for each family ranging
+from 0 to 560, and the virus family averaged values of k ranging from 0.11 d-1
+and 1.85 d-1. Virus type (i.e., genus, species, subspecies, or subtype), method
+of virus enumeration (i.e., culture-based or (RT-)QPCR), and experimental water
+matrix type, temperature and sterility were found to have significant effects on 
+k. Additionally, enveloped viruses were found to have statistically significantly
+greater k than nonenveloped viruses. Multiple linear regression models that allow
+prediction of log10k as a function of virus type, enumeration method, water
+temperature, and water type are provided for six virus families that had
+sufficient data available for model fitting (i.e., Coronaviridae, Phi6,
+Herpesviridae, Orthomyxoviridae, Rhabdoviridae, Togaviridae). Compiled log10k and
+multiple regression models can be used to inform management of human and animal
+waste, operation of water and wastewater facilities, and exposure risks to
+treatment plant workers and communities living in regions that lack treatment
+facilities. Given limited data available for some enveloped virus families with a
+potential water-related transmission route, there is need for additional data
+collection to aid academic researchers, public health agencies, and water and
+wastewater professionals involved in outbreak response.
+
+DOI: 10.1021/acs.est.1c03977 
+PMID: 34665598  [Indexed for MEDLINE]
+

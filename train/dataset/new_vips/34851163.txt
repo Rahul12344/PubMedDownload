@@ -1,0 +1,63 @@
+
+1. Microbiol Spectr. 2021 Dec 1:e0056021. doi: 10.1128/Spectrum.00560-21. [Epub
+ahead of print]
+
+Correlation of the Commercial Anti-SARS-CoV-2 Receptor Binding Domain Antibody
+Test with the Chemiluminescent Reduction Neutralizing Test and Possible Detection
+of Antibodies to Emerging Variants.
+
+Morinaga Y(1), Tani H(1)(2), Terasaki Y(3), Nomura S(3), Kawasuji H(4), Shimada
+T(1)(2), Igarashi E(2), Saga Y(1)(2), Yoshida Y(1), Yasukochi R(4), Kaneda M(4), 
+Murai Y(4), Ueno A(4), Miyajima Y(4), Fukui Y(4), Nagaoka K(4), Ono C(5)(6),
+Matsuura Y(5)(6), Fujimura T(3), Ishida Y(3), Oishi K(7), Yamamoto Y(4).
+
+Author information: 
+(1)Department of Microbiology, Toyama University Graduate School of Medicine and 
+Pharmaceutical Sciences, Toyama, Japan.
+(2)Department of Virology, Toyama Institute of Healthgrid.417376.0, Toyama,
+Japan.
+(3)Toyama City Hospitalgrid.417233.0, Toyama, Japan.
+(4)Department of Clinical Infectious Diseases, Toyama University Graduate School 
+of Medicine and Pharmaceutical Sciences, Toyama, Japan.
+(5)Laboratory of Virus Control, Center for Infectious Disease Education and
+Research (CiDER), Osaka Universitygrid.136593.b, Osaka, Japan.
+(6)Laboratory of Virus Control, Research Institute for Microbial Diseases (RIMD),
+Osaka Universitygrid.136593.b, Osaka, Japan.
+(7)Toyama Institute of Healthgrid.417376.0, Toyama, Japan.
+
+Serological tests are beneficial for recognizing the immune response against
+severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2). To identify
+protective immunity, optimization of the chemiluminescent reduction neutralizing 
+test (CRNT) is critical. Whether commercial antibody tests have comparable
+accuracy is unknown. Serum samples were obtained from COVID-19 patients (n = 74),
+SARS-CoV-2 PCR-negative (n = 179), and suspected healthy individuals (n = 229)
+before SARS-CoV-2 variants had been detected locally. The convalescent phase was 
+defined as the period after day 10 from disease onset or the episode of close
+contact. The CRNT using pseudotyped viruses displaying the wild-type (WT) spike
+protein and a commercial anti-receptor-binding domain (RBD) antibody test were
+assayed. Serology for the B.1.1.7 and B.1.351 variants was also assayed. Both
+tests concurred for symptomatic COVID-19 patients in the convalescent phase. They
+clearly differentiated between patients and suspected healthy individuals
+(sensitivity: 95.8% and 100%, respectively; specificity: 99.1% and 100%,
+respectively). Anti-RBD antibody test results correlated with neutralizing titers
+(r = 0.31, 95% confidence interval [CI] 0.22-0.38). Compared with the WT, lower
+CRNT values were observed for the variants. Of the samples with ≥100 U/mL by the 
+anti-RBD antibody test, 77.8% and 88.9% showed ≥50% neutralization against the
+B.1.1.7 and the B.1.351 variants, respectively. Exceeding 100 U/mL in the
+anti-RBD antibody test was associated with neutralization of variants (P < 0.01).
+The CRNT and commercial anti-RBD antibody test effectively classified
+convalescent COVID-19 patients. Strong positive results with the anti-RBD
+antibody test can reflect neutralizing activity against emerging variants.
+IMPORTANCE This study provides a diagnostic evidence of test validity, which can 
+lead to vaccine efficacy and proof of recovery after COVID-19. It is not easy to 
+know neutralization against SARS-CoV-2 in the clinical laboratory because of
+technical and biohazard issues. The correlation of the quantitative
+anti-receptor-binding domain antibody test, which is widely available, with
+neutralizing test indicates that we can know indirectly the state of acquisition 
+of functional immunity against wild and variant-type viruses in the clinical
+laboratory.
+
+DOI: 10.1128/Spectrum.00560-21 
+PMCID: PMC8635131
+PMID: 34851163 
+

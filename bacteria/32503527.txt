@@ -1,0 +1,60 @@
+
+1. BMC Med Genet. 2020 Jun 5;21(1):125. doi: 10.1186/s12881-020-01059-1.
+
+Identifying genetic variants and pathways associated with extreme levels of fetal
+hemoglobin in sickle cell disease in Tanzania.
+
+Nkya S(1)(2), Mwita L(3), Mgaya J(3), Kumburu H(4), van Zwetselaar M(4), Menzel
+S(5), Mazandu GK(6)(7)(8), Sangeda R(3)(9), Chimusa E(10), Makani J(3).
+
+Author information: 
+(1)Department of Biological Sciences, Dar es Salaam University College of
+Education, Dar es Salaam, Tanzania. snkyamtatiro@gmail.com.
+(2)Sickle Cell Program, Department of Hematology and Blood Transfusion, Muhimbili
+University of Health and Allied Sciences, Dar es Salaam, Tanzania.
+snkyamtatiro@gmail.com.
+(3)Sickle Cell Program, Department of Hematology and Blood Transfusion, Muhimbili
+University of Health and Allied Sciences, Dar es Salaam, Tanzania.
+(4)Department of Biotechnology Laboratory, Kilimanjaro Clinical Research
+Institute, Kilimanjaro, Tanzania.
+(5)Department of Molecular Hematology, King's College of London, London, UK.
+(6)Department of Pathology, Division of Human Genetics, University of Cape Town, 
+IDM, Cape Town, South Africa. gmazandu@gmail.com.
+(7)Department of Integrative Biomedical Sciences, Computational Biology Division,
+University of Cape Town, Observatory, 7925, South Africa. gmazandu@gmail.com.
+(8)African Institute for Mathematical Sciences, Muizenberg, Cape Town, 7945,
+South Africa. gmazandu@gmail.com.
+(9)Department of Pharmaceutical Microbiology, Muhimbili University of Health and 
+Allied Sciences, Dar es Salaam, Tanzania.
+(10)Department of Pathology, Division of Human Genetics, University of Cape Town,
+IDM, Cape Town, South Africa.
+
+BACKGROUND: Sickle cell disease (SCD) is a blood disorder caused by a point
+mutation on the beta globin gene resulting in the synthesis of abnormal
+hemoglobin. Fetal hemoglobin (HbF) reduces disease severity, but the levels vary 
+from one individual to another. Most research has focused on common genetic
+variants which differ across populations and hence do not fully account for HbF
+variation.
+METHODS: We investigated rare and common genetic variants that influence HbF
+levels in 14 SCD patients to elucidate variants and pathways in SCD patients with
+extreme HbF levels (≥7.7% for high HbF) and (≤2.5% for low HbF) in Tanzania. We
+performed targeted next generation sequencing (Illumina_Miseq) covering exonic
+and other significant fetal hemoglobin-associated loci, including BCL11A, MYB,
+HOXA9, HBB, HBG1, HBG2, CHD4, KLF1, MBD3, ZBTB7A and PGLYRP1.
+RESULTS: Results revealed a range of genetic variants, including bi-allelic and
+multi-allelic SNPs, frameshift insertions and deletions, some of which have
+functional importance. Notably, there were significantly more deletions in
+individuals with high HbF levels (11% vs 0.9%). We identified frameshift
+deletions in individuals with high HbF levels and frameshift insertions in
+individuals with low HbF. CHD4 and MBD3 genes, interacting in the same
+sub-network, were identified to have a significant number of pathogenic or
+non-synonymous mutations in individuals with low HbF levels, suggesting an
+important role of epigenetic pathways in the regulation of HbF synthesis.
+CONCLUSIONS: This study provides new insights in selecting essential variants and
+identifying potential biological pathways associated with extreme HbF levels in
+SCD interrogating multiple genomic variants associated with HbF in SCD.
+
+DOI: 10.1186/s12881-020-01059-1 
+PMCID: PMC7275552
+PMID: 32503527  [Indexed for MEDLINE]
+

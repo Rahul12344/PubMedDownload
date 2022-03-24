@@ -1,0 +1,56 @@
+
+1. Wirel Pers Commun. 2021 Nov 29:1-16. doi: 10.1007/s11277-021-09438-4. [Epub ahead
+of print]
+
+Contactless Body Temperature Monitoring of In-Patient Department (IPD) Using
+2.4 GHz Microwave Frequency via the Internet of Things (IoT) Network.
+
+Boonsong W(1), Senajit N(1), Prasongchan P(1).
+
+Author information: 
+(1)Department of Electrical Education, Faculty of Industrial Education and
+Technology, Rajamangala University of Technology Srivijaya, Songkhla, 90000
+Thailand.
+
+Since the COVID-19 situation keeps going on started from 2019. Many solutions are
+to against the spreading of coronavirus disease. The nurses have died, and other 
+medical workers are in critical condition from operating in the hospital. It is a
+deadly virus that kills many humans; Thailand's solutions have urged the public
+to be confident about the Government's handling of the 2019-novel Coronavirus. At
+the same time, everyone has to embrace the new normal lifestyle and social
+distancing while patiently waiting for scientists and doctors to discover
+vaccines and treatments to defeat COVID-19. This work proposes an innovation of
+wireless body temperature that instead of the used manual by medical workers in
+the hospital of "the contactless body temperature monitoring (CBTM) of the
+in-patient department (IPD)." The proposed CBTM implementation applied artificial
+intelligence and Internet of Things (IoT) technologies. The specified infrared
+body temperature on the MLX90614 DCI used for the medical field was selected to
+embed the IoT-CBTM for IPD using the IoT platform. The MLX90614 is an accurate
+sensor that matches to use for medical promotion. The detected information data
+from IPD will be sent to the host computer and stored in the cloud internet
+service at a microwave band frequency of 2.5/5.0 GHz. This paper presents the
+accuracy test of the IoT-CBTM prototype calibrated with the manual body
+temperature verifying device under Thai Industrial Institute to close with the
+accuracy standard requirement. The experiments were repeated many times until
+raise up over 70% to get more reliability accuracy. The findings indicated that
+the proposed prototype achieved a reliability calibration of 74.7%. The actual
+use of IoT-CBTM is convenient to the nurse, doctor, and medical workers to
+collect body temperature data into the host computer, and they can monitor this
+information at all times in the working room, which is far away from the COVID-19
+patients. Therefore, this novel innovation was achieved because it took to try
+out at a local health-promoting hospital in Songkhla Province, Thailand, which
+the IoT-CBTM system was satisfied by the medical staff because it can safe their 
+time, and genuinely reaching the new norm on medical distancing real-time
+monitoring.
+
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC,
+part of Springer Nature 2021.
+
+DOI: 10.1007/s11277-021-09438-4 
+PMCID: PMC8628136
+PMID: 34866803 
+
+Conflict of interest statement: Conflict of interestThe authors declare that we
+have no known competing financial interests or personal relationships that could 
+have appeared to influence the work reported in this paper.
+

@@ -1,0 +1,85 @@
+
+1. J Korean Med Sci. 2021 Oct 25;36(41):e291. doi: 10.3346/jkms.2021.36.e291.
+
+Non-alcoholic Fatty Liver Disease and COVID-19 Susceptibility and Outcomes: a
+Korean Nationwide Cohort.
+
+Yoo HW(#)(1), Jin HY(#)(2), Yon DK(#)(3), Effenberger M(4), Shin YH(5), Kim
+SY(6), Yang JM(7), Kim MS(8)(9), Koyanagi A(10)(11), Jacob L(11)(12)(13), Smith
+L(14), Yoo IK(15), Shin JI(16), Lee SW(17).
+
+Author information: 
+(1)Division of Gastroenterology and Hepatology, Soonchunhyang University Bucheon 
+Hospital, Soonchunhyang University College of Medicine, Bucheon, Korea.
+(2)Department of Data Science, Sejong University College of Software Convergence,
+Seoul, Korea.
+(3)Department of Pediatrics, Seoul National University Hospital, Seoul National
+University College of Medicine, Seoul, Korea. yonkkang@gmail.com.
+(4)Department of Internal Medicine I, Gastroenterology, Hepatology, Endocrinology
+and Metabolism, Medical University of Innsbruck, Innsbruck, Austria.
+(5)Department of Pediatrics, CHA Gangnam Medical Center, CHA University School of
+Medicine, Seoul, Korea.
+(6)Department of Otorhinolaryngology-Head & Neck Surgery, CHA Bundang Medical
+Center, CHA University School of Medicine, Seongnam, Korea.
+(7)Department of Ophthalmology, Asan Medical Center, University of Ulsan College 
+of Medicine, Seoul, Korea.
+(8)Genomics and Digital Health, Samsung Advanced Institute for Health Sciences
+and Technology (SAIHST), Sungkyunkwan University, Seoul, Korea.
+(9)Korea University College of Medicine, Seoul, Korea.
+(10)Catalan Institution for Research and Advanced Studies (ICREA), Pg. Lluis
+Companys, Barcelona, Spain.
+(11)Research and Development Unit, Parc Sanitari Sant Joan de Déu, CIBERSAM,
+Barcelona, Spain.
+(12)Centro de Investigación Biomédica en Red de Salud Mental (CIBERSAM), Madrid, 
+Spain.
+(13)Faculty of Medicine, University of Versailles Saint-Quentin-en-Yvelines,
+Montigny-le-Bretonneux, France.
+(14)The Cambridge Centre for Sport and Exercise Sciences, Anglia Ruskin
+University, Cambridge, UK.
+(15)Department of Gastroenterology, CHA Bundang Medical Center, CHA University
+School of Medicine, Seongnam, Korea.
+(16)Department of Pediatrics, Yonsei University College of Medicine, Seoul,
+Korea. shinji@yuhs.ac.
+(17)Department of Data Science, Sejong University College of Software
+Convergence, Seoul, Korea. swlsejong@sejong.ac.kr.
+(#)Contributed equally
+
+BACKGROUND: Evidence for the association between underlying non-alcoholic fatty
+liver disease (NAFLD), the risk of testing severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2) positive, and the clinical consequences of coronavirus
+disease 2019 (COVID-19) is controversial and scarce. We aimed to investigate the 
+association between the presence of NAFLD and the risk of SARS-CoV-2 infectivity 
+and COVID-19-related outcomes.
+METHODS: We used the population-based, nationwide cohort in South Korea linked
+with the general health examination records between January 1, 2018 and July 30, 
+2020. Data for 212,768 adults older than 20 years who underwent SARS-CoV-2
+testing from January 1 to May 30, 2020, were obtained. The presence of NAFLDs was
+defined using three definitions, namely hepatic steatosis index (HSI), fatty
+liver index (FLI), and claims-based definition. The outcomes were SARS-CoV-2 test
+positive, COVID-19 severe illness, and related death.
+RESULTS: Among 74,244 adults who completed the general health examination, there 
+were 2,251 (3.0%) who were SARS-CoV-2 positive, 438 (0.6%) with severe COVID-19
+illness, and 45 (0.06%) COVID-19-related deaths. After exposure-driven propensity
+score matching, patients with pre-existing HSI-NAFLD, FLI-NAFLD, or claims-based 
+NAFLD had an 11-23% increased risk of SARS-CoV-2 infection (HSI-NAFLD 95%
+confidence interval [CI], 1-28%; FLI-NAFLD 95% CI, 2-27%; and claims-based NAFLD 
+95% CI, 2-31%) and a 35-41% increased risk of severe COVID-19 illness (HSI-NAFLD 
+95% CI, 8-83%; FLI-NAFLD 95% CI, 5-71%; and claims-based NAFLD 95% CI, 1-92%).
+These associations are more evident as liver fibrosis advanced (based on the BARD
+scoring system). Similar patterns were observed in several sensitivity analyses
+including the full-unmatched cohort.
+CONCLUSION: Patients with pre-existing NAFLDs have a higher likelihood of testing
+SARS-CoV-2 positive and severe COVID-19 illness; this association was more
+evident in patients with NAFLD with advanced fibrosis. Our results suggest that
+extra attention should be given to the management of patients with NAFLD during
+the COVID-19 pandemic.
+
+© 2021 The Korean Academy of Medical Sciences.
+
+DOI: 10.3346/jkms.2021.36.e291 
+PMCID: PMC8546310
+PMID: 34697932  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no potential conflicts of
+interest to disclose.
+

@@ -1,0 +1,54 @@
+
+1. Front Synaptic Neurosci. 2021 Oct 4;13:754786. doi: 10.3389/fnsyn.2021.754786.
+eCollection 2021.
+
+Somatostatin Neurons in the Mouse Pontine Nucleus Activate GABAA Receptor
+Mediated Synaptic Currents in Locus Coeruleus Neurons.
+
+Garcia DuBar S(1), Cosio D(1), Korthas H(2), Van Batavia JP(3), Zderic SA(3),
+Sahibzada N(1)(2), Valentino RJ(4), Vicini S(1)(2).
+
+Author information: 
+(1)Department of Pharmacology and Physiology, Georgetown University Medical
+Center, Washington, DC, United States.
+(2)Interdisciplinary Program in Neuroscience, Georgetown University Medical
+Center, Washington, DC, United States.
+(3)Division of Urology, The Children's Hospital of Philadelphia, Philadelphia,
+PA, United States.
+(4)Department of Anesthesiology and Critical Care, The Children's Hospital of
+Philadelphia, Philadelphia, PA, United States.
+
+The pontine nuclei comprising the locus coeruleus (LC) and Barrington's nucleus
+(BRN) amongst others form the neural circuitry(s) that coordinates arousal and
+voiding behaviors. However, little is known about the synaptic connectivity of
+neurons within or across these nuclei. These include corticotropin-releasing
+factor (CRF+) expressing neurons in the BRN that control bladder contraction and 
+somatostatin expressing (SST+) neurons whose role in this region has not been
+discerned. To determine the synaptic connectivity of these neurons, we employed
+optogenetic stimulation with recordings from BRN and LC neurons in brain stem
+slices of channelrhodopsin-2 expressing SST or CRF neurons. Optogenetic
+stimulation of CRF+ BRN neurons of Crf Cre ;chr2-yfp mice had little effect on
+either CRF+ BRN neurons, CRF- BRN neurons, or LC neurons. In contrast, in Sst Cre
+;chr2-yfp mice light-activated inhibitory postsynaptic currents (IPSCs) were
+reliably observed in a majority of LC but not BRN neurons. The GABAA receptor
+antagonist, bicuculline, completely abolished the light-induced IPSCs. To
+ascertain if these neurons were part of the neural circuitry that controls the
+bladder, the trans-synaptic tracer, pseudorabies virus (PRV) was injected into
+the bladder wall of Crf Cre ;tdTomato or Sst Cre ;tdTomato mice. At 68-72 h
+post-viral infection, PRV labeled neurons were present only in the BRN, being
+preponderant in CRF+ neurons with few SST+ BRN neurons labeled from the bladder. 
+At 76 and 96 h post-virus injection, increased labeling was observed in both BRN 
+and LC neurons. Our results suggest SST+ neurons rather than CRF+ neurons in BRN 
+can regulate the activity of LC neurons.
+
+Copyright © 2021 Garcia DuBar, Cosio, Korthas, Van Batavia, Zderic, Sahibzada,
+Valentino and Vicini.
+
+DOI: 10.3389/fnsyn.2021.754786 
+PMCID: PMC8524133
+PMID: 34675794 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

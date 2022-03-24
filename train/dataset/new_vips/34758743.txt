@@ -1,0 +1,63 @@
+
+1. BMC Bioinformatics. 2021 Nov 10;22(1):546. doi: 10.1186/s12859-021-04465-1.
+
+Employing phylogenetic tree shape statistics to resolve the underlying host
+population structure.
+
+Kayondo HW(1)(2), Ssekagiri A(3)(4), Nabakooza G(4)(5)(6), Bbosa N(7), Ssemwanga 
+D(3)(7), Kaleebu P(3)(7), Mwalili S(8), Mango JM(9), Leigh Brown AJ(10), Saenz
+RA(11), Galiwango R(6), Kitayimbwa JM(6).
+
+Author information: 
+(1)Institute of Basic Sciences, Technology and Innovation (PAUSTI), Pan African
+University, Nairobi, Kenya. whkayondo@gmail.com.
+(2)Department of Mathematics, Makerere University, Kampala, Uganda.
+whkayondo@gmail.com.
+(3)Uganda Virus Research Institute (UVRI), Entebbe, Uganda.
+(4)Department of Immunology and Molecular Biology, Makerere University, Kampala, 
+Uganda.
+(5)UVRI Centre of Excellence in Infection and Immunity Research and Training
+(MUII-Plus), Makerere University, Entebbe, Uganda.
+(6)Centre for Computational Biology, Uganda Christian University, Mukono, Uganda.
+(7)Medical Research Council (MRC)/Uganda Virus Research Institute (UVRI) and
+London School of Hygiene and Tropical Medicine (LSHTM) Uganda Research Unit,
+Entebbe, Uganda.
+(8)Department of Statistics and Actuarial Sciences, Jomo Kenyatta University of
+Agriculture and Technology, Nairobi, Kenya.
+(9)Department of Mathematics, Makerere University, Kampala, Uganda.
+(10)Institute of Evolutionary Biology, University of Edinburg, Edinburg, UK.
+(11)Facultad de Ciencias, Universidad de Colima, Colima, Mexico.
+
+BACKGROUND: Host population structure is a key determinant of pathogen and
+infectious disease transmission patterns. Pathogen phylogenetic trees are useful 
+tools to reveal the population structure underlying an epidemic. Determining
+whether a population is structured or not is useful in informing the type of
+phylogenetic methods to be used in a given study. We employ tree statistics
+derived from phylogenetic trees and machine learning classification techniques to
+reveal an underlying population structure.
+RESULTS: In this paper, we simulate phylogenetic trees from both structured and
+non-structured host populations. We compute eight statistics for the simulated
+trees, which are: the number of cherries; Sackin, Colless and total cophenetic
+indices; ladder length; maximum depth; maximum width, and width-to-depth ratio.
+Based on the estimated tree statistics, we classify the simulated trees as from
+either a non-structured or a structured population using the decision tree (DT), 
+K-nearest neighbor (KNN) and support vector machine (SVM). We incorporate the
+basic reproductive number ([Formula: see text]) in our tree simulation procedure.
+Sensitivity analysis is done to investigate whether the classifiers are robust to
+different choice of model parameters and to size of trees. Cross-validated
+results for area under the curve (AUC) for receiver operating characteristic
+(ROC) curves yield mean values of over 0.9 for most of the classification models.
+CONCLUSIONS: Our classification procedure distinguishes well between trees from
+structured and non-structured populations using the classifiers, the two-sample
+Kolmogorov-Smirnov, Cucconi and Podgor-Gastwirth tests and the box plots. SVM
+models were more robust to changes in model parameters and tree size compared to 
+KNN and DT classifiers. Our classification procedure was applied to real -world
+data and the structured population was revealed with high accuracy of [Formula:
+see text] using SVM-polynomial classifier.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12859-021-04465-1 
+PMCID: PMC8579572
+PMID: 34758743  [Indexed for MEDLINE]
+

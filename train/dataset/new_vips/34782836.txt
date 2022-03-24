@@ -1,0 +1,51 @@
+
+1. Comput Intell Neurosci. 2021 Nov 13;2021:8640794. doi: 10.1155/2021/8640794.
+eCollection 2021.
+
+Modelling the COVID-19 Mortality Rate with a New Versatile Modification of the
+Log-Logistic Distribution.
+
+Muse AH(1), Tolba AH(2), Fayad E(3), Abu Ali OA(4), Nagy M(5)(6), Yusuf M(7).
+
+Author information: 
+(1)Department of Mathematics (Statistics Option) Programme, Pan African
+University, Institute of Basic Science, Technology and Innovation (PAUSTI),
+Nairobi 6200-00200, Kenya.
+(2)Department of Mathematics, Faculty of Science, Mansoura University, Mansoura
+35516, Egypt.
+(3)Department of Biotechnology, College of Science, Taif University, P.O. Box
+11099, Taif 21944, Saudi Arabia.
+(4)Department of Chemistry, College of Science, Taif University, P.O. Box 11099, 
+Taif 21944, Saudi Arabia.
+(5)Department of Statistics and Operation Research, Faculty of Science, King Saud
+University, Riyadh, Saudi Arabia.
+(6)Department of Mathematics, Faculty of Science, Fayoum University, Fayoum,
+Egypt.
+(7)Department of Mathematics, Faculty of Science, Helwan University, Cairo,
+Egypt.
+
+The goal of this paper is to develop an optimal statistical model to analyze
+COVID-19 data in order to model and analyze the COVID-19 mortality rates in
+Somalia. Combining the log-logistic distribution and the tangent function yields 
+the flexible extension log-logistic tangent (LLT) distribution, a new
+two-parameter distribution. This new distribution has a number of excellent
+statistical and mathematical properties, including a simple failure rate
+function, reliability function, and cumulative distribution function. Maximum
+likelihood estimation (MLE) is used to estimate the unknown parameters of the
+proposed distribution. A numerical and visual result of the Monte Carlo
+simulation is obtained to evaluate the use of the MLE method. In addition, the
+LLT model is compared to the well-known two-parameter, three-parameter, and
+four-parameter competitors. Gompertz, log-logistic, kappa, exponentiated
+log-logistic, Marshall-Olkin log-logistic, Kumaraswamy log-logistic, and beta
+log-logistic are among the competing models. Different goodness-of-fit measures
+are used to determine whether the LLT distribution is more useful than the
+competing models in COVID-19 data of mortality rate analysis.
+
+Copyright © 2021 Abdisalam Hassan Muse et al.
+
+DOI: 10.1155/2021/8640794 
+PMCID: PMC8590594
+PMID: 34782836  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+

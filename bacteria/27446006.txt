@@ -1,0 +1,56 @@
+
+1. Front Microbiol. 2016 Jun 21;7:964. doi: 10.3389/fmicb.2016.00964. eCollection
+2016.
+
+Single-cell Sequencing of Thiomargarita Reveals Genomic Flexibility for
+Adaptation to Dynamic Redox Conditions.
+
+Winkel M(1), Salman-Carvalho V(2), Woyke T(3), Richter M(4), Schulz-Vogt HN(5),
+Flood BE(6), Bailey JV(6), Mußmann M(7).
+
+Author information: 
+(1)Molecular Ecology Group, Department of Molecular Ecology, Max Planck Institute
+for Marine MicrobiologyBremen, Germany; Section Geomicrobiology, GFZ German
+Research Centre for Geoscience, Helmholtz Centre PotsdamPotsdam, Germany.
+(2)HGF MPG Joint Research Group for Deep-sea Ecology and Technology, Max Planck
+Institute for Marine Microbiology Bremen, Germany.
+(3)Department of Energy Joint Genome Institute, Walnut Creek CA, USA.
+(4)Microbial Genomics and Bioinformatics Group, Department of Molecular Ecology, 
+Max Planck Institute for Marine Microbiology Bremen, Germany.
+(5)Leibniz-Institut für Ostseeforschung Warnemünde Rostock, Germany.
+(6)Department of Earth Sciences, University of Minnesota, Minneapolis MN, USA.
+(7)Molecular Ecology Group, Department of Molecular Ecology, Max Planck Institute
+for Marine Microbiology Bremen, Germany.
+
+Large, colorless sulfur-oxidizing bacteria (LSB) of the family Beggiatoaceae form
+thick mats at sulfidic sediment surfaces, where they efficiently detoxify sulfide
+before it enters the water column. The genus Thiomargarita harbors the largest
+known free-living bacteria with cell sizes of up to 750 μm in diameter. In
+addition to their ability to oxidize reduced sulfur compounds, some Thiomargarita
+spp. are known to store large amounts of nitrate, phosphate and elemental sulfur 
+internally. To date little is known about their energy yielding metabolic
+pathways, and how these pathways compare to other Beggiatoaceae. Here, we present
+a draft single-cell genome of a chain-forming "Candidatus Thiomargarita nelsonii 
+Thio36", and conduct a comparative analysis to five draft and one full genome of 
+other members of the Beggiatoaceae. "Ca. T. nelsonii Thio36" is able to respire
+nitrate to both ammonium and dinitrogen, which allows them to flexibly respond to
+environmental changes. Genes for sulfur oxidation and inorganic carbon fixation
+confirmed that "Ca. T. nelsonii Thio36" can function as a chemolithoautotroph.
+Carbon can be fixed via the Calvin-Benson-Bassham cycle, which is common among
+the Beggiatoaceae. In addition we found key genes of the reductive tricarboxylic 
+acid cycle that point toward an alternative CO2 fixation pathway. Surprisingly,
+"Ca. T. nelsonii Thio36" also encodes key genes of the C2-cycle that convert
+2-phosphoglycolate to 3-phosphoglycerate during photorespiration in higher plants
+and cyanobacteria. Moreover, we identified a novel trait of a flavin-based energy
+bifurcation pathway coupled to a Na(+)-translocating membrane complex (Rnf). The 
+coupling of these pathways may be key to surviving long periods of anoxia. As
+other Beggiatoaceae "Ca. T. nelsonii Thio36" encodes many genes similar to those 
+of (filamentous) cyanobacteria. In summary, the genome of "Ca. T. nelsonii
+Thio36" provides additional insight into the ecology of giant sulfur-oxidizing
+bacteria, and reveals unique genomic features for the Thiomargarita lineage
+within the Beggiatoaceae.
+
+DOI: 10.3389/fmicb.2016.00964 
+PMCID: PMC4914600
+PMID: 27446006 
+

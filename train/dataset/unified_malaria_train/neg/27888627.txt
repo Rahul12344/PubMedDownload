@@ -1,0 +1,41 @@
+
+1. oncotarget. 2016 dec 27;7(52):87194-87205. doi: 10.18632/oncotarget.13554.
+
+identification differentially expressed genes development of
+osteosarcoma using rna-seq.
+
+yang y(1), zhang y(1), qu x(1), xia j(1), li d(1), li x(1), wang y(1), z(1),
+li s(1), zhou y(1), xie l(1), yang z(1).
+
+author information: 
+(1)bone soft tissue tumors research center yunnan province, department 
+orthopaedics, third affiliated hospital kunming medical university (tumor 
+hospital yunnan province), kunming, yunnan 650118, china.
+
+objective: osteosarcoma (os) malignant bone tumor high morbidity in
+young adults adolescents. study aimed discover potential early
+diagnosis biomarkers os.
+results: total, 111 differentially expressed genes (degs) identified in
+primary os compared normal controls 235 degs identified in
+metastatic os compared primary os. aurkb ppp2r2b significantly 
+up-regulated down-regulated hub proteins, respectively, ppi
+protein-protein network (ppi) network primary os. isg15 btrc the
+significantly up-regulated down-regulated hub proteins, respectively, 
+network metastatic os. degs metastatic os compared primary os were
+significantly enriched arachidonic acid metabolism, malaria, chemokine
+signaling pathways. finally, employed quantitative real-time polymerase chain 
+reaction (qrt-pcr) validate expression levels candidate degs the
+results indicated bioinformatics approach acceptable.
+materials methods: mrna expression profiling 20 subjects obtained 
+through high-throughput rna-sequencing. degs identified primary os
+and normal control, primary os metastatic os, respectively.
+functional annotation ppi networks used obtain insights the
+functions degs. qrt-pcr performed detect expression levels of
+dysregulated genes os.
+conclusions: work might provide groundwork exploration of
+tumorigenesis metastasis mechanisms os.
+
+doi: 10.18632/oncotarget.13554 
+pmcid: pmc5349981
+pmid: 27888627  [indexed medline]
+

@@ -1,0 +1,63 @@
+
+1. Int J Mol Sci. 2021 Nov 5;22(21). pii: 11986. doi: 10.3390/ijms222111986.
+
+Establishment of Human-Induced Pluripotent Stem Cell-Derived Neurons-A Promising 
+In Vitro Model for a Molecular Study of Rabies Virus and Host Interaction.
+
+Chailangkarn T(1), Tanwattana N(2), Jaemthaworn T(3), Sriswasdi S(3)(4), Wanasen 
+N(1), Tangphatsornruang S(5), Leetanasaksakul K(6), Jantraphakorn Y(1), Nawae
+W(5), Chankeeree P(7), Lekcharoensuk P(7)(8), Lumlertdacha B(9), Kaewborisuth
+C(1).
+
+Author information: 
+(1)Virology and Cell Technology Research Team, National Center for Genetic
+Engineering and Biotechnology (BIOTEC), National Science and Technology
+Development Agency (NSTDA), Pathum Thani 12120, Thailand.
+(2)Interdisciplinary Program in Genetic Engineering and Bioinformatics, Graduate 
+School, Kasetsart University, Bangkok 10900, Thailand.
+(3)Computational Molecular Biology Group, Chulalongkorn University, Pathum Wan,
+Bangkok 10330, Thailand.
+(4)Research Affairs, Faculty of Medicine, Chulalongkorn University, Pathum Wan,
+Bangkok 10330, Thailand.
+(5)National Omics Center, National Science and Technology Development Agency
+(NSTDA), Pathum Thani 12120, Thailand.
+(6)Functional Proteomics Technology, Functional Ingredients and Food Innovation
+Research Group, National Center for Genetic Engineering and Biotechnology
+(BIOTEC), National Science and Technology Development Agency (NSTDA), Pathum
+Thani 12120, Thailand.
+(7)Department of Microbiology and Immunology, Faculty of Veterinary Medicine,
+Kasetsart University, Bangkok 10900, Thailand.
+(8)Center for Advance Studies in Agriculture and Food, KU Institute Studies,
+Kasetsart University, Bangkok 10900, Thailand.
+(9)Queen Saovabha Memorial Institute, Thai Red Cross Society, WHO Collaborating
+Center for Research and Training Prophylaxis on Rabies, 1871 Rama 4 Road,
+Pathumwan, Bangkok 10330, Thailand.
+
+Rabies is a deadly viral disease caused by the rabies virus (RABV), transmitted
+through a bite of an infected host, resulting in irreversible neurological
+symptoms and a 100% fatality rate in humans. Despite many aspects describing
+rabies neuropathogenesis, numerous hypotheses remain unanswered and concealed.
+Observations obtained from infected primary neurons or mouse brain samples are
+more relevant to human clinical rabies than permissive cell lines; however,
+limitations regarding the ethical issue and sample accessibility become a hurdle 
+for discovering new insights into virus-host interplays. To better understand
+RABV pathogenesis in humans, we generated human-induced pluripotent stem cell
+(hiPSC)-derived neurons to offer the opportunity for an inimitable study of RABV 
+infection at a molecular level in a pathologically relevant cell type. This study
+describes the characteristics and detailed proteomic changes of hiPSC-derived
+neurons in response to RABV infection using LC-MS/MS quantitative analysis. Gene 
+ontology (GO) enrichment of differentially expressed proteins (DEPs) reveals
+temporal changes of proteins related to metabolic process, immune response,
+neurotransmitter transport/synaptic vesicle cycle, cytoskeleton organization, and
+cell stress response, demonstrating fundamental underlying mechanisms of
+neuropathogenesis in a time-course dependence. Lastly, we highlighted plausible
+functions of heat shock cognate protein 70 (HSC70 or HSPA8) that might play a
+pivotal role in regulating RABV replication and pathogenesis. Our findings
+acquired from this hiPSC-derived neuron platform help to define novel cellular
+mechanisms during RABV infection, which could be applicable to further studies to
+widen views of RABV-host interaction.
+
+DOI: 10.3390/ijms222111986 
+PMCID: PMC8584829
+PMID: 34769416 
+

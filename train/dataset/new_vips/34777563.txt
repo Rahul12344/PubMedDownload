@@ -1,0 +1,47 @@
+
+1. Comput Math Methods Med. 2021 Oct 16;2021:5384481. doi: 10.1155/2021/5384481.
+eCollection 2021.
+
+Mathematical Modelling of COVID-19 Transmission in Kenya: A Model with
+Reinfection Transmission Mechanism.
+
+Wangari IM(1)(2), Sewe S(2), Kimathi G(2), Wainaina M(2), Kitetu V(2), Kaluki
+W(2).
+
+Author information: 
+(1)Bomet University College, School of Pure and Applied Sciences, Department of
+Mathematics and Computer Science, P.O. Box 701 20400, Bomet, Kenya.
+(2)The Catholic University of Eastern Africa (CUEA), Department of Mathematics
+and Actuarial Science, I Langata Main Campus I Bogani East Rd, Off Magadi Rd,
+P.O. Box 62157-00200 Nairobi, Kenya.
+
+In this study we propose a Coronavirus Disease 2019 (COVID-19) mathematical model
+that stratifies infectious subpopulations into: infectious asymptomatic
+individuals, symptomatic infectious individuals who manifest mild symptoms and
+symptomatic individuals with severe symptoms. In light of the recent revelation
+that reinfection by COVID-19 is possible, the proposed model attempt to
+investigate how reinfection with COVID-19 will alter the future dynamics of the
+recent unfolding pandemic. Fitting the mathematical model on the Kenya COVID-19
+dataset, model parameter values were obtained and used to conduct numerical
+simulations. Numerical results suggest that reinfection of recovered individuals 
+who have lost their protective immunity will create a large pool of asymptomatic 
+infectious individuals which will ultimately increase symptomatic individuals
+with mild symptoms and symptomatic individuals with severe symptoms (critically
+ill) needing urgent medical attention. The model suggests that reinfection with
+COVID-19 will lead to an increase in cumulative reported deaths. Comparison of
+the impact of non pharmaceutical interventions on curbing COVID19 proliferation
+suggests that wearing face masks profoundly reduce COVID-19 prevalence than
+maintaining social/physical distance. Further, numerical findings reveal that
+increasing detection rate of asymptomatic cases via contact tracing, testing and 
+isolating them can drastically reduce COVID-19 surge, in particular individuals
+who are critically ill and require admission into intensive care.
+
+Copyright © 2021 Isaac Mwangi Wangari et al.
+
+DOI: 10.1155/2021/5384481 
+PMCID: PMC8578696
+PMID: 34777563  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there are no conflicts
+of interest regarding the publication of this paper.
+

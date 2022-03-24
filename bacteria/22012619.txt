@@ -1,0 +1,42 @@
+
+1. Genes Dev. 2011 Oct 15;25(20):2158-72. doi: 10.1101/gad.16962311.
+
+The Cyclin K/Cdk12 complex maintains genomic stability via regulation of
+expression of DNA damage response genes.
+
+Blazek D(1), Kohoutek J, Bartholomeeusen K, Johansen E, Hulinkova P, Luo Z,
+Cimermancic P, Ule J, Peterlin BM.
+
+Author information: 
+(1)Department of Medicine, Microbiology, and Immunology, Rosalind Russell Medical
+Research Center, University of California at San Francisco (UCSF), USA.
+dblazek@med.muni.cz
+
+Comment in
+    Cell Cycle. 2012 Mar 15;11(6):1049-50.
+
+Various cyclin-dependent kinase (Cdk) complexes have been implicated in the
+regulation of transcription. In this study, we identified a 70-kDa Cyclin K
+(CycK) that binds Cdk12 and Cdk13 to form two different complexes (CycK/Cdk12 or 
+CycK/Cdk13) in human cells. The CycK/Cdk12 complex regulates phosphorylation of
+Ser2 in the C-terminal domain of RNA polymerase II and expression of a small
+subset of human genes, as revealed in expression microarrays. Depletion of
+CycK/Cdk12 results in decreased expression of predominantly long genes with high 
+numbers of exons. The most prominent group of down-regulated genes are the DNA
+damage response genes, including the critical regulators of genomic stability:
+BRCA1 (breast and ovarian cancer type 1 susceptibility protein 1), ATR (ataxia
+telangiectasia and Rad3-related), FANCI, and FANCD2. We show that CycK/Cdk12,
+rather than CycK/Cdk13, is necessary for their expression. Nuclear run-on assays 
+and chromatin immunoprecipitations with RNA polymerase II on the BRCA1 and FANCI 
+genes suggest a transcriptional defect in the absence of CycK/Cdk12. Consistent
+with these findings, cells without CycK/Cdk12 induce spontaneous DNA damage and
+are sensitive to a variety of DNA damage agents. We conclude that through
+regulation of expression of DNA damage response genes, CycK/Cdk12 protects cells 
+from genomic instability. The essential role of CycK for organisms in vivo is
+further supported by the result that genetic inactivation of CycK in mice causes 
+early embryonic lethality.
+
+DOI: 10.1101/gad.16962311 
+PMCID: PMC3205586
+PMID: 22012619  [Indexed for MEDLINE]
+

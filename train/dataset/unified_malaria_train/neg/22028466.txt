@@ -1,0 +1,33 @@
+
+1. sci signal. 2011 oct 25;4(196):pl1. doi: 10.1126/scisignal.2001935.
+
+anat: tool constructing analyzing functional protein networks.
+
+yosef n(1), zalckvar e, rubinstein ad, homilius m, atias n, vardi l, berman i,
+zur h, kimchi a, ruppin e, sharan r.
+
+author information: 
+(1)broad institute mit harvard, 7 cambridge center, cambridge, 02142,
+usa.
+
+genome-scale screening studies gradually accumulating wealth data the
+putative involvement hundreds genes various cellular responses or
+functions. fundamental challenge chart molecular pathways that
+underlie systems. anat interactive software tool, implemented a
+cytoscape plug-in, elucidating functional networks proteins. it
+encompasses number network inference algorithms provides access to
+networks physical associations several organisms. contrast existing
+software tools, anat used infer subnetworks connect hundreds of
+proteins given set "anchor" proteins, fundamental step
+in reconstructing cellular subnetworks. interactive component anat
+provides array tools evaluating exploring resulting subnetwork 
+models iteratively refining them. demonstrate utility anat by
+studying crosstalk autophagic apoptotic cell death modules in
+humans, using network physical interactions. relative published software 
+tools, anat accurate provides features comprehensive network
+analysis. latest version software available at
+http://www.cs.tau.ac.il/~bnet/anat_si.
+
+doi: 10.1126/scisignal.2001935 
+pmid: 22028466  [indexed medline]
+

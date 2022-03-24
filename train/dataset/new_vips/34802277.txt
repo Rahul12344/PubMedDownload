@@ -1,0 +1,49 @@
+
+1. Philos Trans A Math Phys Eng Sci. 2022 Jan 10;380(2214):20210124. doi:
+10.1098/rsta.2021.0124. Epub 2021 Nov 22.
+
+A global assessment of the impact of school closure in reducing COVID-19 spread.
+
+Wu JT(1)(2), Mei S(3), Luo S(4)(5), Leung K(1)(2), Liu D(1)(2), Lv Q(3), Liu
+J(6), Li Y(3), Prem K(7), Jit M(1)(2)(7), Weng J(4)(5), Feng T(3), Zheng X(4)(5),
+Leung GM(1)(2).
+
+Author information: 
+(1)WHO Collaborating Centre for Infectious Disease Epidemiology and Control,
+School of Public Health, LKS Faculty of Medicine, The University of Hong Kong,
+Hong Kong SAR, People's Republic of China.
+(2)Laboratory of Data Discovery for Health (D24H), Hong Kong Science Park, New
+Territories, Hong Kong SAR, People's Republic of China.
+(3)Department of Communicable Diseases Control and Prevention, Shenzhen Center
+for Disease Control and Prevention, Shenzhen 518055, People's Republic of China.
+(4)The First Affiliated Hospital of USTC, Division of Life Science and Medicine, 
+University of Science and Technology of China, Hefei, People's Republic of China.
+(5)Clinical Research Hospital (Hefei) of Chinese Academy of Science, Hefei,
+People's Republic of China.
+(6)Anqing Hospital Affiliated to Anhui Medical University (Anqing Municipal
+Hospital), Anqing, People's Republic of China.
+(7)Centre for Mathematical Modelling of Infectious Diseases, Department of
+Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine, 
+London, UK.
+
+Prolonged school closure has been adopted worldwide to control COVID-19. Indeed, 
+UN Educational, Scientific and Cultural Organization figures show that two-thirds
+of an academic year was lost on average worldwide due to COVID-19 school
+closures. Such pre-emptive implementation was predicated on the premise that
+school children are a core group for COVID-19 transmission. Using surveillance
+data from the Chinese cities of Shenzhen and Anqing together, we inferred that
+compared with the elderly aged 60 and over, children aged 18 and under and adults
+aged 19-59 were 75% and 32% less susceptible to infection, respectively. Using
+transmission models parametrized with synthetic contact matrices for 177
+jurisdictions around the world, we showed that the lower susceptibility of school
+children substantially limited the effectiveness of school closure in reducing
+COVID-19 transmissibility. Our results, together with recent findings that
+clinical severity of COVID-19 in children is lower, suggest that school closure
+may not be ideal as a sustained, primary intervention for controlling COVID-19.
+This article is part of the theme issue 'Data science approach to infectious
+disease surveillance'.
+
+DOI: 10.1098/rsta.2021.0124 
+PMCID: PMC8607143
+PMID: 34802277  [Indexed for MEDLINE]
+

@@ -1,0 +1,106 @@
+
+1. Avian Dis. 2021 Sep;65(3):483-492. doi: 10.1637/aviandiseases-D-20-00137.
+
+Using the California Waterfowl Tracker to Assess Proximity of Waterfowl to
+Commercial Poultry in the Central Valley of California.
+
+Acosta S(1), Kelman T(1), Feirer S(2), Matchett E(3), Smolinsky J(4), Pitesky
+M(5), Buler J(6).
+
+Author information: 
+(1)Department of Population Health and Reproduction, School of Veterinary
+Medicine, University of California, Davis, Davis, CA 95616.
+(2)Hopland Research and Extension Center, UC-Agriculture and Natural Resources,
+Hopland, CA 95449.
+(3)Dixon Field Station, Western Ecological Research Center, U.S. Geological
+Survey, Dixon, CA 95620.
+(4)Department of Entomology and Wildlife Ecology, University of Delaware, Newark,
+DE 19716.
+(5)Department of Population Health and Reproduction, School of Veterinary
+Medicine, University of California, Davis, Davis, CA 95616,
+mepitesky@ucdavis.edu.
+(6)Department of Entomology and Wildlife Ecology, University of Delaware, Newark,
+DE 19716, jbuler@udel.edu.
+
+Migratory waterfowl are the primary reservoir of avian influenza viruses (AIV),
+which can be spread to commercial poultry. Surveillance efforts that track the
+location and abundance of wild waterfowl and link those data to inform
+assessments of risk and sampling for AIV currently do not exist. To assist
+surveillance and minimize poultry exposure to AIV, here we explored the utility
+of Remotely Sensed Moderate Resolution Imaging Spectroradiometer (MODIS)
+satellite imagery in combination with land-based climate measurements (e.g.,
+temperature and precipitation) to predict waterfowl location and abundance in
+near real-time in the California Central Valley (CCV), where both wild waterfowl 
+and domestic poultry are densely located. Specifically, remotely collected MODIS 
+and climate data were integrated into a previously developed boosted regression
+tree (BRT) model to predict and visualize waterfowl distributions across the CCV.
+Daily model-based predictions are publicly available during the winter as part of
+the dynamic California Waterfowl Tracker (CWT) web app hosted on the University
+of California's Cooperative Extension webpage. In this study, we analyzed 52 days
+of model predictions and produced daily spatiotemporal maps of waterfowl
+concentrations near the 605 commercial poultry farms in the CCV during January
+and February of 2019. Exposure of each poultry farm to waterfowl during each day 
+was classified as high, medium, low, or none, depending on the density of
+waterfowl within 4 km of a farm. Results indicated that farms were at
+substantially greater risk of exposure in January, when CCV waterfowl populations
+peak, than in February. For example, during January, 33% (199/605) of the farms
+were exposed for ≥1 day to high waterfowl density vs. 19% (115/605) of the farms 
+in February. In addition to demonstrating the overall variability of waterfowl
+location and density, these data demonstrate how remote sensing can be used to
+better triage AIV surveillance and biosecurity efforts via the utilization of a
+functional web app-based tool. The ability to leverage remote sensing is an
+integral advancement toward improving AIV surveillance in waterfowl in close
+proximity to commercial poultry. Expansion of these types of remote sensing
+methods, linked to a user-friendly web tool, could be further developed across
+the continental United States. The BRT model incorporated into the CWT reflects a
+first attempt to give an accurate representation of waterfowl distribution and
+density relative to commercial poultry.
+
+Publisher: Las aves acuáticas migratorias son el principal reservorio de los
+virus de la influenza aviar (con las siglas en inglés AIV), que pueden
+transmitirse a la avicultura comercial. Actualmente no existen esfuerzos de
+vigilancia que rastrean la ubicación y densidad de poblaciones de aves acuáticas 
+silvestres y que vinculen esos datos para informar evaluaciones de riesgo y
+muestreo para influenza aviar. Para ayudar a la vigilancia y minimizar la
+exposición de la avicultura comercial a influenza aviar se exploró la utilidad de
+las imágenes satelitales por espectrorradiómetro de imágenes con resolución
+moderada (con las siglas en inglés MODIS) y de detección remota en combinación
+con mediciones climáticas terrestres (por ejemplo, temperatura y precipitación)
+para predecir la ubicación y densidad de aves acuáticas prácticamente en tiempo
+real en el Valle Central de California (CCV), donde tanto las aves acuáticas
+silvestres como las aves domésticas están densamente ubicadas. Específicamente,
+los datos MODIS y climáticos recopilados de forma remota se integraron en un
+modelo de árbol de regresión reforzado (BRT) desarrollado previamente para
+predecir y visualizar la distribución de las aves acuáticas en el Valle Central
+de California. Las predicciones diarias basadas en modelos están disponibles
+públicamente durante el invierno como parte de la aplicación dinámica en el del
+rastreador de aves acuáticas de California (California Waterfowl Tracker, CWT)
+ubicada en la página de internet de Extensión Cooperativa de la Universidad de
+California. En este estudio, se analizaron 52 días de predicciones del modelo y
+se produjeron mapas espaciotemporales diarios con densidades de aves acuáticas
+cerca de las 605 granjas avícolas comerciales en el Valle Central de California
+durante enero y febrero de 2019. La exposición de cada granja avícola a las aves 
+acuáticas durante cada día se clasificó como alta, media, baja o nula,
+dependiendo de la densidad de aves acuáticas dentro de los cuatro kilómetros de
+una granja. Los resultados indicaron que las granjas tenían un riesgo
+sustancialmente mayor de exposición en enero, cuando las poblaciones de aves
+acuáticas en el Valle Central de California alcanzan su punto máximo, en
+comparación con febrero. Por ejemplo, durante enero, el 33% (199/605) de las
+granjas estuvieron expuestas durante más de un día a una alta densidad de aves
+acuáticas frente a un 19% (115/605) de las granjas en febrero. Además de
+demostrar la variabilidad general de la ubicación y densidad de las aves
+acuáticas, estos datos demuestran cómo se puede utilizar la teledetección para
+clasificar mejor los esfuerzos de bioseguridad y vigilancia para la influenza
+aviar mediante la utilización de una herramienta funcional basada en una
+aplicación en el internet. La capacidad de aprovechar la teledetección es un
+avance integral hacia la mejora de la vigilancia para influenza aviar en aves
+acuáticas en las proximidades de la avicultura comercial. La expansión de estos
+tipos de métodos de teledetección, vinculados a una herramienta en el internet
+que es fácil de usar, podría desarrollarse aún más en los Estados Unidos
+continentales. El modelo de árbol de regresión reforzado incorporado en el
+sistema de rastreo de aves acuáticas de California refleja un primer intento de
+brindar una representación precisa de la distribución y densidad de las aves
+acuáticas en relación con las aves comerciales.
+DOI: 10.1637/aviandiseases-D-20-00137 
+PMID: 34699147 
+

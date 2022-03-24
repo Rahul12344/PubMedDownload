@@ -1,0 +1,59 @@
+
+1. Diagn Interv Imaging. 2021 Nov;102(11):691-695. doi: 10.1016/j.diii.2021.10.001. 
+Epub 2021 Oct 19.
+
+Deep learning for lung disease segmentation on CT: Which reconstruction kernel
+should be used?
+
+Hoang-Thi TN(1), Vakalopoulou M(2), Christodoulidis S(2), Paragios N(3), Revel
+MP(1), Chassagnon G(4).
+
+Author information: 
+(1)Université de Paris, Faculté de Médecine, 75006 Paris, France; Department of
+Radiology, Hôpital Cochin, AP-HP.centre, 75014 Paris, France.
+(2)Université Paris-Saclay, CentraleSupélec, Mathématiques et Informatique pour
+la Complexité et les Systèmes, 3 91190 Gif-sur-Yvette, France.
+(3)Université Paris-Saclay, CentraleSupélec, Mathématiques et Informatique pour
+la Complexité et les Systèmes, 3 91190 Gif-sur-Yvette, France; TheraPanacea,
+75014 Paris, France.
+(4)Université de Paris, Faculté de Médecine, 75006 Paris, France; Department of
+Radiology, Hôpital Cochin, AP-HP.centre, 75014 Paris, France. Electronic address:
+guillaume.chassagnon@aphp.fr.
+
+PURPOSE: The purpose of this study was to determine whether a single
+reconstruction kernel or both high and low frequency kernels should be used for
+training deep learning models for the segmentation of diffuse lung disease on
+chest computed tomography (CT).
+MATERIALS AND METHODS: Two annotated datasets of COVID-19 pneumonia (323,960
+slices) and interstitial lung disease (ILD) (4,284 slices) were used. Annotated
+CT images were used to train a U-Net architecture to segment disease. All CT
+slices were reconstructed using both a lung kernel (LK) and a mediastinal kernel 
+(MK). Three different trainings, resulting in three different models were
+compared for each disease: training on LK only, MK only or LK+MK images. Dice
+similarity scores (DSC) were compared using the Wilcoxon signed-rank test.
+RESULTS: Models only trained on LK images performed better on LK images than on
+MK images (median DSC = 0.62 [interquartile range (IQR): 0.54, 0.69] vs. 0.60
+[IQR: 0.50, 0.70], P < 0.001 for COVID-19 and median DSC = 0.62 [IQR: 0.56, 0.69]
+vs. 0.50 [IQR 0.43, 0.57], P < 0.001 for ILD). Similarly, models only trained on 
+MK images performed better on MK images (median DSC = 0.62 [IQR: 0.53, 0.68] vs. 
+0.54 [IQR: 0.47, 0.63], P < 0.001 for COVID-19 and 0.69 [IQR: 0.61, 0.73] vs.
+0.63 [IQR: 0.53, 0.70], P < 0.001 for ILD). Models trained on both kernels
+performed better or similarly than those trained on only one kernel. For
+COVID-19, median DSC was 0.67 (IQR: =0.59, 0.73) when applied on LK images and
+0.67 (IQR: 0.60, 0.74) when applied on MK images (P < 0.001 for both). For ILD,
+median DSC was 0.69 (IQR: 0.63, 0.73) when applied on LK images (P = 0.006) and
+0.68 (IQR: 0.62, 0.72) when applied on MK images (P > 0.99).
+CONCLUSION: Reconstruction kernels impact the performance of deep learning-based 
+models for lung disease segmentation. Training on both LK and MK images improves 
+the performance.
+
+Copyright © 2021 Société française de radiologie. Published by Elsevier Masson
+SAS. All rights reserved.
+
+DOI: 10.1016/j.diii.2021.10.001 
+PMID: 34686464  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+have no conflict of interest in relation to this study and no relationships with 
+any industry related to this work.
+

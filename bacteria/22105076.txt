@@ -1,0 +1,45 @@
+
+1. J Biol Chem. 2012 Jan 2;287(1):757-766. doi: 10.1074/jbc.M111.305219. Epub 2011
+Nov 21.
+
+The ethylmalonyl-CoA pathway is used in place of the glyoxylate cycle by
+Methylobacterium extorquens AM1 during growth on acetate.
+
+Schneider K(1), Peyraud R(1), Kiefer P(1), Christen P(1), Delmotte N(1), Massou
+S(2), Portais JC(2), Vorholt JA(3).
+
+Author information: 
+(1)Institute of Microbiology, ETH Zurich, 8093 Zurich, Switzerland.
+(2)Université de Toulouse, Institut National des Sciences Appliquées, Université 
+Paul Sabatier, Institut National Polytechnique de Toulouse, Laboratoire
+D'Ingénierie des Systèmes Biologiques et des Procédés, F-31077 Toulouse, France; 
+INRA, UMR792, Ingénierie des Systèmes Biologiques et des Procédés, F-31400
+Toulouse, France; CNRS, UMR5504, F-31400 Toulouse, France.
+(3)Institute of Microbiology, ETH Zurich, 8093 Zurich, Switzerland. Electronic
+address: vorholt@micro.biol.ethz.ch.
+
+Acetyl-CoA assimilation was extensively studied in organisms harboring the
+glyoxylate cycle. In this study, we analyzed the metabolism of the facultative
+methylotroph Methylobacterium extorquens AM1, which lacks isocitrate lyase, the
+key enzyme in the glyoxylate cycle, during growth on acetate. MS/MS-based
+proteomic analysis revealed that the protein repertoire of M. extorquens AM1
+grown on acetate is similar to that of cells grown on methanol and includes
+enzymes of the ethylmalonyl-CoA (EMC) pathway that were recently shown to operate
+during growth on methanol. Dynamic 13C labeling experiments indicate the presence
+of distinct entry points for acetate: the EMC pathway and the TCA cycle. 13C
+steady-state metabolic flux analysis showed that oxidation of acetyl-CoA occurs
+predominantly via the TCA cycle and that assimilation occurs via the EMC pathway.
+Furthermore, acetyl-CoA condenses with the EMC pathway product glyoxylate,
+resulting in malate formation. The latter, also formed by the TCA cycle, is
+converted to phosphoglycerate by a reaction sequence that is reversed with
+respect to the serine cycle. Thus, the results obtained in this study reveal the 
+utilization of common pathways during the growth of M. extorquens AM1 on C1 and
+C2 compounds, but with a major redirection of flux within the central metabolism.
+Furthermore, our results indicate that the metabolic flux distribution is highly 
+complex in this model methylotroph during growth on acetate and is fundamentally 
+different from organisms using the glyoxylate cycle.
+
+DOI: 10.1074/jbc.M111.305219 
+PMCID: PMC3249130
+PMID: 22105076  [Indexed for MEDLINE]
+

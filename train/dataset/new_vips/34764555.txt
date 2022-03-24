@@ -1,0 +1,40 @@
+
+1. Appl Intell (Dordr). 2020 Oct 23:1-11. doi: 10.1007/s10489-020-01942-7. [Epub
+ahead of print]
+
+Forecasting COVID-19 outbreak progression using hybrid polynomial-Bayesian ridge 
+regression model.
+
+Saqib M(1).
+
+Author information: 
+(1)Mathematic and Computing Department, Indian Institute of Technology (Indian
+School of Mines), Dhanbad, Jharkhand India.
+
+In 2020, Coronavirus Disease 2019 (COVID-19), caused by the SARS-CoV-2 (Severe
+Acute Respiratory Syndrome Corona Virus 2) Coronavirus, unforeseen pandemic put
+humanity at big risk and health professionals are facing several kinds of problem
+due to rapid growth of confirmed cases. That is why some prediction methods are
+required to estimate the magnitude of infected cases and masses of studies on
+distinct methods of forecasting are represented so far. In this study, we
+proposed a hybrid machine learning model that is not only predicted with good
+accuracy but also takes care of uncertainty of predictions. The model is
+formulated using Bayesian Ridge Regression hybridized with an n-degree Polynomial
+and uses probabilistic distribution to estimate the value of the dependent
+variable instead of using traditional methods. This is a completely mathematical 
+model in which we have successfully incorporated with prior knowledge and
+posterior distribution enables us to incorporate more upcoming data without
+storing previous data. Also, L2 (Ridge) Regularization is used to overcome the
+problem of overfitting. To justify our results, we have presented case studies of
+three countries, -the United States, Italy, and Spain. In each of the cases, we
+fitted the model and estimate the number of possible causes for the upcoming
+weeks. Our forecast in this study is based on the public datasets provided by
+John Hopkins University available until 11th May 2020. We are concluding with
+further evolution and scope of the proposed model.
+
+© Springer Science+Business Media, LLC, part of Springer Nature 2020.
+
+DOI: 10.1007/s10489-020-01942-7 
+PMCID: PMC7581693
+PMID: 34764555 
+

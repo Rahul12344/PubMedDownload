@@ -1,0 +1,46 @@
+
+1. mol syst biol. 2020 aug;16(8):e9569. doi: 10.15252/msb.20209569.
+
+exploring virulence gene interactome crispr/dcas9 human malaria
+parasite.
+
+bryant jm(1)(2)(3), baumgarten s(1)(2)(3), dingli f(4), loew d(4), sinha a(5)(6),
+claës a(1)(2)(3), preiser pr(5)(6), dedon pc(6)(7), scherf a(1)(2)(3).
+
+author information: 
+(1)biology host-parasite interactions unit, institut pasteur, paris, france.
+(2)inserm u1201, paris, france.
+(3)cnrs erl9195, paris, france.
+(4)institut curie, psl research university, centre de recherche, mass
+spectrometry proteomics facility, paris, france.
+(5)school biological sciences, nanyang technological university, singapore,
+singapore.
+(6)antimicrobial resistance interdisciplinary research group, singapore-mit
+alliance research technology, singapore, singapore.
+(7)department biological engineering, massachusetts institute technology,
+cambridge, ma, usa.
+
+mutually exclusive expression var multigene family key immune
+evasion pathogenesis plasmodium falciparum, factors been
+shown play direct role. adapted crispr-based proteomics approach to
+identify novel factors associated var genes natural chromatin
+context. catalytically inactive cas9 ("dcas9") targeted var gene
+regulatory elements, immunoprecipitated, analyzed mass spectrometry.
+known novel factors enriched including structural proteins, dna
+helicases, chromatin remodelers. functional characterization pfiswi, an
+evolutionarily divergent putative chromatin remodeler enriched var gene
+promoter, revealed role transcriptional activation. proteomics pfiswi
+identified several proteins enriched var gene promoter acetyl-coa 
+synthetase, putative morc protein, apiap2 transcription factor. these
+findings validate crispr/dcas9 proteomics method define new var
+gene-associated chromatin complex. study establishes tool targeted
+chromatin purification unaltered genomic loci identifies novel
+chromatin-associated factors potentially involved transcriptional control
+and/or chromatin organization virulence genes human malaria parasite.
+
+© 2020 authors. published terms cc 4.0 license.
+
+doi: 10.15252/msb.20209569 
+pmcid: pmc7440042
+pmid: 32816370 
+

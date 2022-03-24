@@ -1,0 +1,52 @@
+
+1. nucleic acids res. 2017 jan 4;45(d1):d466-d474. doi: 10.1093/nar/gkw857. epub
+2016 sep 26.
+
+influenza research database: integrated bioinformatics resource influenza 
+virus research.
+
+zhang y(1), aevermann bd(1), anderson tk(2), burke df(3), dauphin g(4), gu z(5), 
+he s(5), kumar s(5), larsen cn(6), lee aj(1), li x(5), macken c(7), mahaffey
+c(5), pickett be(1), reardon b(1), smith t(5), stewart l(1), suloway c(5), sun
+g(6), tong l(5), vincent al(2), walters b(5), zaremba s(5), zhao h(5), zhou l(5),
+zmasek c(1), klem eb(5), scheuermann rh(8)(9)(10).
+
+author information: 
+(1)j. craig venter institute, la jolla, ca 92037, usa.
+(2)virus prion research unit, national animal disease center, usda-ars, ames,
+ia 50010, usa.
+(3)department zoology, university cambridge, cambridge, cb2 3ej, uk.
+(4)animal health service, food agriculture organization united
+nations, rome 00153, italy.
+(5)northrop grumman health solutions, rockville, md 20850, usa.
+(6)vecna technologies, greenbelt, md 20770, usa.
+(7)bioinformatics institute, university auckland, auckland 1010, new zealand.
+(8)j. craig venter institute, la jolla, ca 92037, usa rscheuermann@jcvi.org.
+(9)department pathology, university california, san diego, ca 92093, usa.
+(10)division vaccine discovery, la jolla institute allergy immunology,
+la jolla, ca 92037, usa.
+
+the influenza research database (ird) u.s. national institute allergy and
+infectious diseases (niaid)-sponsored bioinformatics resource center dedicated to
+providing bioinformatics support influenza virus research. ird facilitates
+the research development vaccines, diagnostics therapeutics against
+influenza virus providing comprehensive collection influenza-related data
+integrated various sources, growing suite analysis visualization
+tools data mining hypothesis generation, personal workbench spaces for
+data storage sharing, active user community support. here, describe
+the recent improvements ird including use cloud high performance
+computing resources, analysis visualization user-provided sequence data
+with associated metadata, predictions novel variant proteins, annotations of
+phenotype-associated sequence markers predicted phenotypic effects,
+hemagglutinin (ha) clade classifications, automated tool ha subtype
+numbering conversion, linkouts disease event data addition host
+factor antiviral drug components. data tools freely available
+without restriction ird website https://www.fludb.org.
+
+© author(s) 2016. published oxford university press behalf nucleic
+acids research.
+
+doi: 10.1093/nar/gkw857 
+pmcid: pmc5210613
+pmid: 27679478  [indexed medline]
+

@@ -1,0 +1,46 @@
+
+1. Biochemistry. 2015 Apr 14;54(14):2372-84. doi: 10.1021/acs.biochem.5b00013. Epub 
+2015 Apr 2.
+
+Conversion of aminodeoxychorismate synthase into anthranilate synthase with Janus
+mutations: mechanism of pyruvate elimination catalyzed by chorismate enzymes.
+
+Culbertson JE(1), Chung Dh(1), Ziebart KT(2), Espiritu E(3), Toney MD(1).
+
+Author information: 
+(1)†Department of Chemistry, University of California, Davis, Davis, California
+95616, United States.
+(2)‡Department of Chemistry, Oregon State University, Corvallis, Oregon
+97331-4003, United States.
+(3)§Department of Chemistry and Biochemistry, Arizona State University, Tempe,
+Arizona 85287, United States.
+
+The central importance of chorismate enzymes in bacteria, fungi, parasites, and
+plants combined with their absence in mammals makes them attractive targets for
+antimicrobials and herbicides. Two of these enzymes, anthranilate synthase (AS)
+and aminodeoxychorismate synthase (ADCS), are structurally and mechanistically
+similar. The first catalytic step, amination at C2, is common between them, but
+AS additionally catalyzes pyruvate elimination, aromatizing the aminated
+intermediate to anthranilate. Despite prior attempts, the conversion of a
+pyruvate elimination-deficient enzyme into an elimination-proficient one has not 
+been reported. Janus, a bioinformatics method for predicting mutations required
+to functionally interconvert homologous enzymes, was employed to predict
+mutations to convert ADCS into AS. A genetic selection on a library of
+Janus-predicted mutations was performed. Complementation of an AS-deficient
+strain of Escherichia coli grown on minimal medium led to several ADCS mutants
+that allow growth in 6 days compared to 2 days for wild-type AS. The purified
+mutant enzymes catalyze the conversion of chorismate to anthranilate at rates
+that are ∼50% of the rate of wild-type ADCS-catalyzed conversion of chorismate to
+aminodeoxychorismate. The residues mutated do not contact the substrate.
+Molecular dynamics studies suggest that pyruvate elimination is controlled by the
+conformation of the C2-aminated intermediate. Enzymes that catalyze elimination
+favor the equatorial conformation, which presents the C2-H to a conserved active 
+site lysine (Lys424) for deprotonation and maximizes stereoelectronic activation.
+Acid/base catalysis of pyruvate elimination was confirmed in AS and salicylate
+synthase by showing incorporation of a solvent-derived proton into the pyruvate
+methyl group and by solvent kinetic isotope effects on pyruvate elimination
+catalyzed by AS.
+
+DOI: 10.1021/acs.biochem.5b00013 
+PMID: 25710100  [Indexed for MEDLINE]
+

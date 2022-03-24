@@ -1,0 +1,62 @@
+
+1. Mol Ther Methods Clin Dev. 2015 Apr 29;2:15015. doi: 10.1038/mtm.2015.15.
+eCollection 2015.
+
+Coherence analysis discriminates between retroviral integration patterns in
+CD34(+) cells transduced under differing clinical trial conditions.
+
+Hallwirth CV(1), Garg G(2), Peters TJ(3), Kramer BA(4), Malani NV(5), Hyman J(4),
+Ruan X(6), Ginn SL(7), Hetherington NA(1), Veeravalli L(6), Shahab A(6),
+Ranganathan S(8), Wei CL(6), Liddle C(9), Thrasher AJ(10), Bushman FD(5), Buckley
+MJ(3), Alexander IE(11).
+
+Author information: 
+(1)Gene Therapy Research Unit, Children's Medical Research Institute and The
+Children's Hospital at Westmead , Westmead, Australia.
+(2)Gene Therapy Research Unit, Children's Medical Research Institute and The
+Children's Hospital at Westmead , Westmead, Australia ; Department of Chemistry
+and Biomolecular Sciences, Macquarie University , Macquarie Park, Australia.
+(3)CSIRO Digital Productivity Flagship , North Ryde, Australia.
+(4)Children's Cancer Research Unit, The Children's Hospital at Westmead ,
+Westmead, Australia.
+(5)University of Pennsylvania School of Medicine, Department of Microbiology ,
+Philadelphia, Pennsylvania, USA.
+(6)Genome Institute of Singapore, Agency for Science, Technology and Research ,
+Genome, Singapore.
+(7)Gene Therapy Research Unit, Children's Medical Research Institute and The
+Children's Hospital at Westmead , Westmead, Australia ; Sydney Medical School,
+The University of Sydney , Sydney, Australia.
+(8)Department of Chemistry and Biomolecular Sciences, Macquarie University ,
+Macquarie Park, Australia.
+(9)Storr Liver Centre, Westmead Millennium Institute, Sydney Medical School, The 
+University of Sydney , Sydney, Australia.
+(10)Molecular Immunology Unit, Institute of Child Health, University College
+London , London, UK.
+(11)Gene Therapy Research Unit, Children's Medical Research Institute and The
+Children's Hospital at Westmead , Westmead, Australia ; The University of Sydney,
+Discipline of Paediatrics and Child Health , Westmead, Australia.
+
+Unequivocal demonstration of the therapeutic utility of γ-retroviral vectors for 
+gene therapy applications targeting the hematopoietic system was accompanied by
+instances of insertional mutagenesis. These events stimulated the ongoing
+development of putatively safer integrating vector systems and analysis methods
+to characterize and compare integration site (IS) biosafety profiles. Continuing 
+advances in next-generation sequencing technologies are driving the generation of
+ever-more complex IS datasets. Available bioinformatic tools to compare such
+datasets focus on the association of integration sites (ISs) with selected
+genomic and epigenetic features, and the choice of these features determines the 
+ability to discriminate between datasets. We describe the scalable application of
+point-process coherence analysis (CA) to compare patterns produced by vector ISs 
+across genomic intervals, uncoupled from association with genomic features. To
+explore the utility of CA in the context of an unresolved question, we asked
+whether the differing transduction conditions used in the initial Paris and
+London SCID-X1 gene therapy trials result in divergent genome-wide integration
+profiles. We tested a transduction carried out under each condition, and showed
+that CA could indeed resolve differences in IS distributions. Existence of these 
+differences was confirmed by the application of established methods to compare
+integration datasets.
+
+DOI: 10.1038/mtm.2015.15 
+PMCID: PMC4445430
+PMID: 26029726 
+

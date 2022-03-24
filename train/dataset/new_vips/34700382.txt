@@ -1,0 +1,54 @@
+
+1. mBio. 2021 Oct 26;12(5):e0268721. doi: 10.1128/mBio.02687-21. Epub 2021 Oct 26.
+
+Temporal-Geographical Dispersion of SARS-CoV-2 Spike Glycoprotein Variant
+Lineages and Their Functional Prediction Using in Silico Approach.
+
+Boon SS(1), Xia C(1), Wang MH(2), Yip KL(1), Luk HY(1), Li S(1), Ng RWY(1), Lai
+CKC(1), Chan PKS(1)(3), Chen Z(1).
+
+Author information: 
+(1)Department of Microbiology, Faculty of Medicine, The Chinese University of
+Hong Konggrid.10784.3a, Hong Kong Special Administrative Region, China.
+(2)Jockey Club School of Public Health and Primary Care, Faculty of Medicine, The
+Chinese University of Hong Konggrid.10784.3a, Hong Kong Special Administrative
+Region, China.
+(3)Stanley Ho Centre for Emerging Infectious Diseases, Faculty of Medicine, The
+Chinese University of Hong Konggrid.10784.3a, Hong Kong Special Administrative
+Region, China.
+
+SARS-CoV-2 is a positive-sense single-stranded RNA virus with emerging mutations,
+especially on the Spike glycoprotein (S protein). To delineate the genomic
+diversity in association with geographic dispersion of SARS-CoV-2 variant
+lineages, we collected 939,591 complete S protein sequences deposited in the
+Global Initiative on Sharing All Influenza Data (GISAID) from December 2019 to
+April 2021. An exponential emergence of S protein variants was observed since
+October 2020 when the four major variants of concern (VOCs), namely, alpha (α)
+(B.1.1.7), beta (β) (B.1.351), gamma (γ) (P.1), and delta (δ) (B.1.617), started 
+to circulate in various communities. We found that residues 452, 477, 484, and
+501, the 4 key amino acids located in the hACE2 binding domain of S protein, were
+under positive selection. Through in silico protein structure prediction and
+immunoinformatics tools, we discovered D614G is the key determinant to S protein 
+conformational change, while variations of N439K, T478I, E484K, and N501Y in
+S1-RBD also had an impact on S protein binding affinity to hACE2 and
+antigenicity. Finally, we predicted that the yet-to-be-identified hypothetical
+N439S, T478S, and N501K mutations could confer an even greater binding affinity
+to hACE2 and evade host immune surveillance more efficiently than the respective 
+native variants. This study documented the evolution of SARS-CoV-2 S protein over
+the first 16 months of the pandemic and identified several key amino acid changes
+that are predicted to confer a substantial impact on transmission and
+immunological recognition. These findings convey crucial information to
+sequence-based surveillance programs and the design of next-generation vaccines. 
+IMPORTANCE Our study showed the global distribution of SARS-CoV-2 S protein
+variants from January 2020 to the end of April 2021. We highlighted the key amino
+acids of S protein subjected to positive selection. Using computer-aided
+approaches, we predicted the impact of the amino acid variations in S protein on 
+viral infectivity and antigenicity. We also predicted the potential amino acid
+mutations that could arise in favor of SARS-CoV-2 virulence. These findings are
+vital for vaccine designing and anti-SARS-CoV-2 drug discovery in an effort to
+combat COVID-19.
+
+DOI: 10.1128/mBio.02687-21 
+PMCID: PMC8546546
+PMID: 34700382  [Indexed for MEDLINE]
+

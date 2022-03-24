@@ -1,0 +1,45 @@
+
+1. Viruses. 2021 Oct 8;13(10). pii: 2031. doi: 10.3390/v13102031.
+
+RNA-Seq Analysis of Influenza A Virus-Induced Transcriptional Changes in Mice
+Lung and Its Possible Implications for the Virus Pathogenicity in Mice.
+
+Ma T(1), Nagy A(2), Xu G(3), Xin L(3), Bao D(1), Lu C(1), Niu S(1), Wu Z(1), Ren 
+C(1), Zhang T(1), Yang J(1), Teng Q(1), Li X(1), Li Z(1), Liu Q(1).
+
+Author information: 
+(1)Shanghai Veterinary Research Institute, Chinese Academy of Agricultural
+Sciences, Shanghai 200241, China.
+(2)Department of Virology, Faculty of Veterinary Medicine, Zagazig University,
+Zagazig 44511, Egypt.
+(3)China Institute of Veterinary Drug Control, Beijing 100081, China.
+
+The influenza A virus (IAV) is an important cause of respiratory disease
+worldwide. It is well known that alveolar epithelial cells are the target cells
+for the IAV, but there is relatively limited knowledge regarding the role of
+macrophages during IAV infection. Here, we aimed to analyze transcriptome
+differences in mouse lungs and macrophage (RAW264.7) cell lines infected with
+either A/California/04/2009 H1N1 (CA09) or A/chicken/SD/56/2015 H9N2 (SD56) using
+deep sequencing. The uniquely differentially expressed genes (UDEGs) were
+analyzed with the Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes 
+(KEGG) databases; the results showed that the lungs infected with the two
+different viruses had different enrichments of pathways and terms. Interestingly,
+CA09 virus infection in mice was mostly involved with genes related to the
+extracellular matrix (ECM), while the most significant differences after SD56
+infection in mice were in immune-related genes. Gene set enrichment analysis
+(GSEA) of RAW264.7 cells revealed that regulation of the cell cycle was of great 
+significance after CA09 infection, whereas the regulation of the immune response 
+was most enriched after SD56 infection, which was consistent with analysis
+results in the lung. Similar results were obtained from weighted gene
+co-expression network analysis (WGCNA), where cell cycle regulation was
+extensively activated in RAW264.7 macrophages infected with the CA09 virus.
+Disorder of the cell cycle is likely to affect their normal immune regulation,
+which may be an important factor leading to their different prognoses. These
+results provide insight into the mechanism of the CA09 virus that caused a
+pandemic and explain the different reactivities of monocytes/macrophages infected
+by H9N2 and H1N1 IAV subtypes.
+
+DOI: 10.3390/v13102031 
+PMCID: PMC8538690
+PMID: 34696461 
+

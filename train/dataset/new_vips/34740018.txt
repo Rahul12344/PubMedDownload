@@ -1,0 +1,44 @@
+
+1. Tuberculosis (Edinb). 2021 Dec;131:102139. doi: 10.1016/j.tube.2021.102139. Epub 
+2021 Oct 25.
+
+Identification of immune-related genes and susceptible population of pulmonary
+tuberculosis by constructing TF-miRNA-mRNA regulatory network.
+
+Song Q(1), Bian Q(2), Liang T(3), Zhang Y(1), Zhang K(4).
+
+Author information: 
+(1)Department of Prevention and Health Care, Guangyuan Mental Health Center,
+Guangyuan, 628000, China.
+(2)Department of Clinical Laboratory, Guangyuan Central Hospital, Guangyuan,
+628000, China.
+(3)Department of Hospital-Acquired Infection Control, Guangyuan Central Hospital,
+Guangyuan, 628000, China.
+(4)Faculty of Public Health, Shanghai Jiao Tong University School of Medicine,
+Shanghai, 200000, China. Electronic address: zhangk19@sjtu.edu.cn.
+
+We aimed to explore the potential biomarkers and susceptible population for early
+diagnosis and treatment of tuberculosis (TB). Ten hub differentially expressed
+TB-related genes (DETRGs) from GSE83456 dataset were screened with the "limma"
+package and the GeneCards database. Unsupervised clustering was utilized to
+identify susceptible population among TB patients based on 10 hub DETRGs.
+TRANSFAC, MirTarbase, miRanda and TargetScan was used to predict microRNAs and
+transcription factors (TFs) and construct TF-miRNA-mRNA regulatory network. The
+results showed that a total of 266 DEGs were identified. Functional analysis
+mainly enriched in interferon pathway, cytokine and receptor interaction and host
+defense response to virus, while the four-module genes screened were closely
+related to interferon-γ signal transduction pathway as well. Based on 10 DETRGs, 
+TB patients were divided into two clusters with significant differences in
+neutrophil function and 16 hub miRNAs and 10 hub TFs were predicted. Finally,
+NFATc1- (miR145) - STAT1 regulatory pathway was identified as the critical
+regulatory pathway, which mediates cytokine receptor binding, interleukin-1
+receptor binding and TNF signaling pathway. Hence, we concluded that
+immunoheterogeneity exists among TB patients and NFATC1-(miR145)-STAT1 regulatory
+pathway might be associated with tuberculosis infection, which may be valuable
+targets for prevention and treatment of tuberculosis.
+
+Copyright © 2021. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.tube.2021.102139 
+PMID: 34740018 
+

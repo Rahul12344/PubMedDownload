@@ -1,0 +1,46 @@
+
+1. Turk J Biol. 2021 Aug 30;45(4):459-468. doi: 10.3906/biy-2106-61. eCollection
+2021.
+
+Binary-QSAR guided virtual screening of FDA approved drugs and compounds in
+clinical investigation against SARS-CoV-2 main protease.
+
+Oktay L(1), Erdemoğlu E(1)(2), Tolu İ(1), Yumak Y(1)(3), Özcan A(1)(4), Acar
+E(1)(4), Büyükkiliç Ş(1)(5), Olkan A(1)(6), Durdaği S(1).
+
+Author information: 
+(1)Computational Biology and Molecular Simulations Laboratory, Department of
+Biophysics, School of Medicine, Bahçeşehir University, İstanbul Turkey.
+(2)School of Medicine, Mersin University, Mersin Turkey.
+(3)Faculty of Science and Letters, Tokat Gaziosmanpaşa University, Tokat Turkey.
+(4)Faculty of Medicine, İstanbul Medeniyet University, İstanbul Turkey.
+(5)Faculty of Science, Necmettin Erbakan University, Konya Turkey.
+(6)School of Medicine, Bahçeşehir University, İstanbul Turkey.
+
+With the emergence of the new SARS-CoV-2 virus, drug repurposing studies have
+gained substantial importance. Combined with the efficacy of recent improvements 
+in ligand- and target-based virtual screening approaches, virtual screening has
+become faster and more productive than ever. In the current study, an FDA library
+of approved drugs and compounds under clinical investigation were screened for
+their antiviral activity using the antiviral therapeutic activity binary QSAR
+model of the MetaCore/MetaDrug platform. Among 6733-compound collection, we found
+370 compounds with a normalized therapeutic activity value greater than a cutoff 
+of 0.75. Only these selected compounds were used for molecular docking studies
+against the SARS-CoV-2 main protease (Mpro). After initial short (10 ns)
+molecular dynamics (MD) simulations with the top-50 docking scored compounds and 
+following molecular mechanics generalized born surface area (MM/GBSA)
+calculations, top-10 compounds were subjected to longer (100 ns) MD simulations
+and end-point MM/GBSA estimations. Our virtual screening protocol yielded
+Cefuroxime pivoxetil, an ester prodrug of second-generation cephalosporin
+antibiotic Cefuroxime, as being a considerable molecule for drug repurposing
+against the SARS-CoV-2 Mpro.
+
+Copyright © 2021 The Author(s).
+
+DOI: 10.3906/biy-2106-61 
+PMCID: PMC8573836
+PMID: 34803447 
+
+Conflict of interest statement: CONFLICT OF INTEREST: The authors declare that
+there is not any conflict of interest.
+

@@ -1,0 +1,62 @@
+
+1. Virol J. 2021 Nov 20;18(1):227. doi: 10.1186/s12985-021-01689-8.
+
+Development of a real-time RT-PCR assay for the detection of pan-human
+parechoviruses.
+
+Lu H(1), Xiao J(1), Zhang K(1), Han Z(1), Song Y(1), Wang D(1), Ji T(1), Yan
+D(1), Zhu S(1), Xu W(1)(2), Zhang Y(3)(4).
+
+Author information: 
+(1)WHO WPRO Regional Polio Reference Laboratory and National Health Commission
+Key Laboratory of Biosafety, National Health Commission Key Laboratory of Medical
+Virology, National Institute for Viral Disease Control and Prevention, Chinese
+Center for Disease Control and Prevention, Beijing, People's Republic of China.
+(2)Center for Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, 430071,
+People's Republic of China.
+(3)WHO WPRO Regional Polio Reference Laboratory and National Health Commission
+Key Laboratory of Biosafety, National Health Commission Key Laboratory of Medical
+Virology, National Institute for Viral Disease Control and Prevention, Chinese
+Center for Disease Control and Prevention, Beijing, People's Republic of China.
+yongzhang75@sina.com.
+(4)Center for Biosafety Mega-Science, Chinese Academy of Sciences, Wuhan, 430071,
+People's Republic of China. yongzhang75@sina.com.
+
+BACKGROUND: Parechoviruses (PeV-As), which constitute a new genus within the
+family Picornaviridae, have been associated with numerous localized outbreaks of 
+serious diseases, such as coryza, pneumonia, maculopapular exanthem, and
+conjunctivitis. However, to the best of our knowledge, only a few laboratories
+worldwide conduct tests for the identification of this group of viruses.
+Therefore, in this study, we aimed to develop and validate a real-time RT-PCR
+assay for the identification of PeV-As.
+METHODS: To design and validate a real-time PCR primer-probe targeting the 5'-UTR
+region of PeV-As, the 5'-UTR sequences of PeV-As available in GenBank were
+aligned using the MUSCLE algorithm in MEGA v7.0. Thereafter, the highly conserved
+5'-UTR region was selected, and its primer-probe sequence was designed using
+Primer Premier v5.0. This primer-probe sequence was then evaluated for
+specificity, sensitivity, and repeatability, and for its validation, it was
+tested using fecal samples from 728 healthy children living in Beijing (China).
+RESULTS: The PeV-A real-time RT-PCR assay detected only the RNA-positive
+standards of PeV-A genotypes (1-8, 14, 17, and 18), whereas 72 serotypes of
+non-PeV-A EV viruses were undetected. In addition, the VP1 region of these 11
+PeV-A genotypes that tested positive were amplified using the primers designed in
+this study. Typing results indicated that eight, one, and two strains of the 11
+were PeV-A1, PeV-A4, and PeV-A6, respectively. We also determined and presented
+the genetic characterization and phylogenetic analyses results corresponding to
+these 11 VP1 region sequences. Furthermore, real-time RT-PCR assay showed good
+sensitivity with LOD of 102 copies/μL. Positive results in eight parallel
+experiments at each concentration gradient from 107 copies/μL to 102 copies/μL,
+indicating good repeatability.
+CONCLUSION: Our findings suggested that the real-time RT-PCR assay developed in
+this study can be applied for routine PeV-A identification. We detected PeV-A1, 4
+and 6 genotypes in the 728 faecal samples using this method. Additionally, we
+believe that our results will serve as a foundation for further studies on PeV-As
+and facilitate the expansion of the gene sequence information available in
+GenBank.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12985-021-01689-8 
+PMCID: PMC8606063
+PMID: 34801047 
+

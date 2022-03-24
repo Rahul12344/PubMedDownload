@@ -1,0 +1,40 @@
+
+1. Viruses. 2021 Oct 21;13(11). pii: 2122. doi: 10.3390/v13112122.
+
+Metagenomic Identification of Viral Sequences in Laboratory Reagents.
+
+Porter AF(1), Cobbin J(2)(3), Li CX(4), Eden JS(2)(3)(5), Holmes EC(2)(3).
+
+Author information: 
+(1)The Peter Doherty Institute of Immunity and Infection, Department of
+Microbiology and Immunity, University of Melbourne, Melbourne, VIC 3000,
+Australia.
+(2)Sydney Institute for Infectious Diseases, School of Life and Environmental
+Sciences, The University of Sydney, Sydney, NSW 2006, Australia.
+(3)Sydney Institute for Infectious Diseases, School of Medical Sciences, The
+University of Sydney, Sydney, NSW 2006, Australia.
+(4)Key Laboratory of Etiology and Epidemiology of Emerging Infectious Diseases in
+Universities of Shandong, Shandong First Medical University & Shandong Academy of
+Medical Sciences, Taian 271000, China.
+(5)Centre for Virus Research, Westmead Institute for Medical Research, Westmead, 
+NSW 2145, Australia.
+
+Metagenomic next-generation sequencing has transformed the discovery and
+diagnosis of infectious disease, with the power to characterise the complete
+'infectome' (bacteria, viruses, fungi, parasites) of an individual host organism.
+However, the identification of novel pathogens has been complicated by widespread
+microbial contamination in commonly used laboratory reagents. Using total RNA
+sequencing ("metatranscriptomics") we documented the presence of contaminant
+viral sequences in multiple 'blank' negative control sequencing libraries that
+comprise a sterile water and reagent mix. Accordingly, we identified 14 viral
+sequences in 7 negative control sequencing libraries. As in previous studies,
+several circular replication-associated protein encoding (CRESS) DNA virus-like
+sequences were recovered in the blank control libraries, as well as contaminating
+sequences from the Totiviridae, Tombusviridae and Lentiviridae families of RNA
+virus. These data suggest that viral contamination of common laboratory reagents 
+is likely commonplace and can comprise a wide variety of viruses.
+
+DOI: 10.3390/v13112122 
+PMCID: PMC8625350
+PMID: 34834931 
+

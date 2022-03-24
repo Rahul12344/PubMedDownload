@@ -1,0 +1,61 @@
+
+1. Sci Rep. 2017 Apr 25;7(1):1131. doi: 10.1038/s41598-017-01258-6.
+
+Phosphorylation of the mitochondrial autophagy receptor Nix enhances its
+interaction with LC3 proteins.
+
+Rogov VV(1), Suzuki H(2)(3), Marinković M(4), Lang V(5), Kato R(3), Kawasaki
+M(3), Buljubašić M(4), Šprung M(6), Rogova N(1), Wakatsuki S(7), Hamacher-Brady
+A(5)(8), Dötsch V(9), Dikic I(4)(10), Brady NR(8)(11)(12), Novak I(13).
+
+Author information: 
+(1)Institute of Biophysical Chemistry and Center for Biomolecular Magnetic
+Resonance, Goethe University, D-60438, Frankfurt, Germany.
+(2)Biomolecular Interaction Centre, School of Biological Sciences, University of 
+Canterbury, Christchurch, 8020, New Zealand.
+(3)Structural Biology Research Center, Photon Factory, Institute of Materials
+Structure Science, High Energy Accelerator Research Organization (KEK), Tsukuba, 
+Ibaraki, 305-0801, Japan.
+(4)School of Medicine, University of Split, Šoltanska 2, HR-21000, Split,
+Croatia.
+(5)Lysosomal Systems Biology, German Cancer Research Center (DKFZ), Bioquant, Im 
+Neuenheimer Feld 267, D-69120, Heidelberg, Germany.
+(6)Faculty of Science, University of Split, Ruđera Boškovića 33, HR-21000, Split,
+Croatia.
+(7)Structural Biology (School of Medicine), Beckman Center B105, 279 Campus
+Drive, Stanford, CA, 94305-5126, USA.
+(8)W. Harry Feinstone Department of Molecular Microbiology & Immunology, Johns
+Hopkins University Bloomberg School of Public Health, Baltimore, MD, USA.
+(9)Institute of Biophysical Chemistry and Center for Biomolecular Magnetic
+Resonance, Goethe University, D-60438, Frankfurt, Germany.
+vdoetsch@em.uni-frankfurt.de.
+(10)Institute of Biochemistry II, Goethe University Medical School and Buchmann
+Institute for Molecular Life Sciences, D-60590, Frankfurt, Germany.
+(11)Systems Biology of Cell Death Mechanisms, German Cancer Research Center
+(DKFZ), Heidelberg University Hospital; Bioquant, Im Neuenheimer Feld 267,
+D-69120, Heidelberg, Germany.
+(12)Department of Surgery, Heidelberg University Hospital; Bioquant, Im
+Neuenheimer Feld 267, D-69120, Heidelberg, Germany.
+(13)School of Medicine, University of Split, Šoltanska 2, HR-21000, Split,
+Croatia. ivana.novak@mefst.hr.
+
+The mitophagy receptor Nix interacts with LC3/GABARAP proteins, targeting
+mitochondria into autophagosomes for degradation. Here we present evidence for
+phosphorylation-driven regulation of the Nix:LC3B interaction. Isothermal
+titration calorimetry and NMR indicate a ~100 fold enhanced affinity of the
+serine 34/35-phosphorylated Nix LC3-interacting region (LIR) to LC3B and
+formation of a very rigid complex compared to the non-phosphorylated sequence.
+Moreover, the crystal structure of LC3B in complex with the Nix LIR peptide
+containing glutamic acids as phosphomimetic residues and NMR experiments revealed
+that LIR phosphorylation stabilizes the Nix:LC3B complex via formation of two
+additional hydrogen bonds between phosphorylated serines of Nix LIR and Arg11,
+Lys49 and Lys51 in LC3B. Substitution of Lys51 to Ala in LC3B abrogates binding
+of a phosphomimetic Nix mutant. Functionally, serine 34/35 phosphorylation
+enhances autophagosome recruitment to mitochondria in HeLa cells. Together, this 
+study provides cellular, biochemical and biophysical evidence that
+phosphorylation of the LIR domain of Nix enhances mitophagy receptor engagement.
+
+DOI: 10.1038/s41598-017-01258-6 
+PMCID: PMC5430633
+PMID: 28442745  [Indexed for MEDLINE]
+

@@ -1,0 +1,40 @@
+
+1. RNA. 2017 May;23(5):721-734. doi: 10.1261/rna.060178.116. Epub 2017 Feb 24.
+
+Competitive folding of RNA structures at a termination-antitermination site.
+
+Ait-Bara S(1)(2)(3), Clerté C(1)(2)(3), Declerck N(1)(2)(3)(4), Margeat
+E(1)(2)(3).
+
+Author information: 
+(1)CNRS UMR5048, Centre de Biochimie Structurale, 34090 Montpellier, France.
+(2)INSERM U1054, 34090 Montpellier, France.
+(3)Université de Montpellier, 34090 Montpellier, France.
+(4)INRA, departement MICA, 78352 Jouy-en-Josas, France.
+
+Antitermination is a regulatory process based on the competitive folding of
+terminator-antiterminator structures that can form in the leader region of
+nascent transcripts. In the case of the Bacillus subtilis licS gene involved in
+β-glucosides utilization, the binding of the antitermination protein LicT to a
+short RNA hairpin (RAT) prevents the formation of an overlapping terminator and
+thereby allows transcription to proceed. Here, we monitored in vitro the
+competition between termination and antitermination by combining bulk and
+single-molecule fluorescence-based assays using labeled RNA oligonucleotide
+constructs of increasing length that mimic the progressive transcription of the
+terminator invading the antiterminator hairpin. Although high affinity binding is
+abolished as soon as the antiterminator basal stem is disrupted by the invading
+terminator, LicT can still bind and promote closing of the partially unfolded RAT
+hairpin. However, binding no longer occurs once the antiterminator structure has 
+been disrupted by the full-length terminator. Based on these findings, we propose
+a kinetic competition model for the sequential events taking place at the
+termination-antitermination site, where LicT needs to capture its RAT target
+before completion of the terminator to remain tightly bound during RNAP pausing, 
+before finally dissociating irreversibly from the elongated licS transcript.
+
+© 2017 Ait-Bara et al.; Published by Cold Spring Harbor Laboratory Press for the 
+RNA Society.
+
+DOI: 10.1261/rna.060178.116 
+PMCID: PMC5393181
+PMID: 28235843  [Indexed for MEDLINE]
+

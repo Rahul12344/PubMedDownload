@@ -1,0 +1,47 @@
+
+1. Molecules. 2021 Oct 9;26(20). pii: 6090. doi: 10.3390/molecules26206090.
+
+Glycyrrhizic Acid Inhibits SARS-CoV-2 Infection by Blocking Spike
+Protein-Mediated Cell Attachment.
+
+Li J(1)(2)(3), Xu D(1)(2)(4), Wang L(1)(2)(5), Zhang M(1)(2)(4), Zhang G(6), Li
+E(1)(2)(7), He S(1)(2)(4).
+
+Author information: 
+(1)State Key Laboratory of Pharmaceutical Biotechnology, Medical School, Nanjing 
+University, Nanjing 210093, China.
+(2)Jiangsu Key Laboratory of Molecular Medicine, Medical School, Nanjing
+University, Nanjing 210093, China.
+(3)Jiangsu Topcel Biological Technology Co., Ltd., Nanjing 210093, China.
+(4)Yancheng Medical Research Centre, Medical School, Nanjing University, Yancheng
+224000, China.
+(5)Institute of Medical Virology, Nanjing Drum Tower Hospital, Medical School,
+Nanjing University, Nanjing 210093, China.
+(6)State Key Laboratory for Chemistry and Molecular Engineering of Medicinal
+Resources, School of Chemistry and Pharmaceutical Sciences, Guangxi Normal
+University, Guilin 541006, China.
+(7)Shenzhen Institute of Nanjing University, Shenzhen 518000, China.
+
+Glycyrrhizic acid (GA), also known as glycyrrhizin, is a triterpene glycoside
+isolated from plants of Glycyrrhiza species (licorice). GA possesses a wide range
+of pharmacological and antiviral activities against enveloped viruses including
+severe acute respiratory syndrome (SARS) virus. Since the S protein (S) mediates 
+SARS coronavirus 2 (SARS-CoV-2) cell attachment and cell entry, we assayed the GA
+effect on SARS-CoV-2 infection using an S protein-pseudotyped lentivirus
+(Lenti-S). GA treatment dose-dependently blocked Lenti-S infection. We showed
+that incubation of Lenti-S virus, but not the host cells with GA prior to the
+infection, reduced Lenti-S infection, indicating that GA targeted the virus for
+infection. Surface plasmon resonance measurement showed that GA interacted with a
+recombinant S protein and blocked S protein binding to host cells. Autodocking
+analysis revealed that the S protein has several GA-binding pockets including one
+at the interaction interface to the receptor angiotensin-converting enzyme 2
+(ACE2) and another at the inner side of the receptor-binding domain (RBD) which
+might impact the close-to-open conformation change of the S protein required for 
+ACE2 interaction. In addition to identifying GA antiviral activity against
+SARS-CoV-2, the study linked GA antiviral activity to its effect on virus cell
+binding.
+
+DOI: 10.3390/molecules26206090 
+PMCID: PMC8539771
+PMID: 34684671  [Indexed for MEDLINE]
+

@@ -1,0 +1,93 @@
+
+1. proc natl acad sci u a. 2016 apr 12;113(15):e2114-23. doi:
+10.1073/pnas.1525164113. epub 2016 mar 29.
+
+radical remodeling chromosome recent radiation malaria
+mosquitoes.
+
+hall ab(1), papathanos pa(2), sharma a(3), cheng c(4), akbari os(5), assour l(6),
+bergman nh(7), cagnetti a(8), crisanti a(2), dottorini t(9), fiorentini e(9),
+galizi r(9), hnath j(7), jiang x(1), koren s(10), nolan t(9), radune d(7),
+sharakhova mv(11), steele a(6), timoshevskiy va(3), windbichler n(9), zhang
+s(12), hahn mw(13), phillippy am(10), emrich sj(14), sharakhov iv(15), tu zj(16),
+besansky nj(17).
+
+author information: 
+(1)the interdisciplinary phd program genetics, bioinformatics, and
+computational biology, virginia polytechnic institute state university,
+blacksburg, va 24061;
+(2)section genomics genetics, department experimental medicine,
+university perugia, 06132 perugia, italy; department life sciences,
+imperial college london, london sw7 2az, united kingdom;
+(3)department entomology, virginia polytechnic institute state university,
+blacksburg, va 24061;
+(4)eck institute global health, university notre dame, notre dame, in
+46556; department biological sciences, university notre dame, notre dame,
+in 46556;
+(5)department entomology, riverside center disease vector research,
+institute integrative genome biology, university california, riverside, ca
+92521;
+(6)department computer science engineering, university notre dame,
+notre dame, 46556;
+(7)national biodefense analysis countermeasures center, frederick, md 21702;
+(8)section genomics genetics, department experimental medicine,
+university perugia, 06132 perugia, italy;
+(9)department life sciences, imperial college london, london sw7 2az, united
+kingdom;
+(10)genome informatics section, computational statistical genomics branch,
+national human genome research institute, national institutes health,
+bethesda, md 20892;
+(11)department entomology, virginia polytechnic institute state
+university, blacksburg, va 24061; laboratory evolutionary cytogenetics, tomsk 
+state university, tomsk 634050, russia;
+(12)school informatics computing, indiana university, bloomington, in
+47405;
+(13)school informatics computing, indiana university, bloomington, in
+47405; department biology, indiana university, bloomington, 47405;
+(14)eck institute global health, university notre dame, notre dame, in
+46556; department computer science engineering, university notre dame, 
+notre dame, 46556;
+(15)the interdisciplinary phd program genetics, bioinformatics, and
+computational biology, virginia polytechnic institute state university,
+blacksburg, va 24061; department entomology, virginia polytechnic institute
+and state university, blacksburg, va 24061; laboratory evolutionary
+cytogenetics, tomsk state university, tomsk 634050, russia; igor@vt.edu
+jaketu@vt.edu nbesansk@nd.edu.
+(16)the interdisciplinary phd program genetics, bioinformatics, and
+computational biology, virginia polytechnic institute state university,
+blacksburg, va 24061; department biochemistry, virginia polytechnic institute 
+and state university, blacksburg, va 24061 igor@vt.edu jaketu@vt.edu
+nbesansk@nd.edu.
+(17)eck institute global health, university notre dame, notre dame, in
+46556; department biological sciences, university notre dame, notre dame,
+in 46556; igor@vt.edu jaketu@vt.edu nbesansk@nd.edu.
+
+comment in
+    trends parasitol. 2016 aug;32(8):585-7.
+
+y chromosomes control essential male functions many species, including sex
+determination fertility. however, obstacles posed repeat-rich
+heterochromatin, knowledge chromosome sequences limited handful of
+model organisms, constraining understanding biology across tree of
+life. here, leverage long single-molecule sequencing determine content 
+and structure nonrecombining chromosome primary african malaria
+mosquito, anopheles gambiae find an. gambiae consists almost
+entirely massively amplified, tandemly arrayed repeats, which
+can recombine similar repeats x chromosome. sex-specific genome
+resequencing recent species radiation, an. gambiae complex, revealed
+rapid sequence turnover within an. gambiae among species. exploiting 52
+sex-specific an. gambiae rna-seq datasets representing developmental stages, 
+we identified small repertoire y-linked genes lack x gametologs are
+not y-linked species except an. gambiae, notable exception 
+of yg2, candidate male-determining gene. yg2 gene conserved and
+exclusive species examined, yet sequence similarity yg2 not
+detectable genome distant mosquito relative, suggesting rapid
+evolution chromosome genes highly dynamic genus malaria vectors. 
+the extensive characterization an. gambiae provides long-awaited
+foundation studying male mosquito biology, inform novel mosquito
+control strategies based manipulation chromosomes.
+
+doi: 10.1073/pnas.1525164113 
+pmcid: pmc4839409
+pmid: 27035980  [indexed medline]
+

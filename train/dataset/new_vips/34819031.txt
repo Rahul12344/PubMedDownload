@@ -1,0 +1,55 @@
+
+1. BMC Genomics. 2021 Nov 24;22(1):849. doi: 10.1186/s12864-021-08067-2.
+
+Benchmarking different approaches for Norovirus genome assembly in metagenome
+samples.
+
+Fuentes-Trillo A(1), Monzó C(1), Manzano I(1), Santiso-Bellón C(2), Andrade
+JDSR(3), Gozalbo-Rovira R(2), García-García AB(4)(5), Rodríguez-Díaz J(#)(2),
+Chaves FJ(#)(1)(6)(7).
+
+Author information: 
+(1)Unit of Genomics and Diabetes. Research Foundation of Valencia University
+Clinical Hospital- INCLIVA, Valencia, Spain.
+(2)Department of Microbiology, School of Medicine, University of Valencia,
+Valencia, Spain.
+(3)Laboratory of Comparative and Environmental Virology, Oswaldo Cruz Institute, 
+Rio de Janeiro, Brazil.
+(4)Unit of Genomics and Diabetes. Research Foundation of Valencia University
+Clinical Hospital- INCLIVA, Valencia, Spain. a.barbara.garcia@ext.uv.es.
+(5)Spanish Biomedical Research Network in Diabetes and Associated Metabolic
+Disorders (CIBERDEM), Madrid, Spain. a.barbara.garcia@ext.uv.es.
+(6)Spanish Biomedical Research Network in Diabetes and Associated Metabolic
+Disorders (CIBERDEM), Madrid, Spain.
+(7)Sequencing Multiplex S.L., Valencia, Spain.
+(#)Contributed equally
+
+BACKGROUND: Genome assembly of viruses with high mutation rates, such as
+Norovirus and other RNA viruses, or from metagenome samples, poses a challenge
+for the scientific community due to the coexistence of several viral quasispecies
+and strains. Furthermore, there is no standard method for obtaining whole-genome 
+sequences in non-related patients. After polyA RNA isolation and sequencing in
+eight patients with acute gastroenteritis, we evaluated two de Bruijn graph
+assemblers (SPAdes and MEGAHIT), combined with four different and common
+pre-assembly strategies, and compared those yielding whole genome Norovirus
+contigs.
+RESULTS: Reference-genome guided strategies with both host and target virus did
+not present any advantages compared to the assembly of non-filtered data in the
+case of SPAdes, and in the case of MEGAHIT, only host genome filtering presented 
+improvements. MEGAHIT performed better than SPAdes in most samples, reaching
+complete genome sequences in most of them for all the strategies employed. Read
+binning with CD-HIT improved assembly when paired with different analysis
+strategies, and more notably in the case of SPAdes.
+CONCLUSIONS: Not all metagenome assemblies are equal and the choice in the
+workflow depends on the species studied and the prior steps to analysis. We may
+need different approaches even for samples treated equally due to the presence of
+high intra host variability. We tested and compared different workflows for the
+accurate assembly of Norovirus genomes and established their assembly capacities 
+for this purpose.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12864-021-08067-2 
+PMCID: PMC8611953
+PMID: 34819031  [Indexed for MEDLINE]
+

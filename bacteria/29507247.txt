@@ -1,0 +1,58 @@
+
+1. Proc Natl Acad Sci U S A. 2018 Mar 20;115(12):E2819-E2828. doi:
+10.1073/pnas.1720140115. Epub 2018 Mar 5.
+
+Structure-based discovery of glycomimetic FmlH ligands as inhibitors of bacterial
+adhesion during urinary tract infection.
+
+Kalas V(1)(2)(3), Hibbing ME(1)(2), Maddirala AR(3), Chugani R(3), Pinkner
+JS(1)(2), Mydock-McGrane LK(3), Conover MS(1)(2), Janetka JW(4)(3), Hultgren
+SJ(4)(2).
+
+Author information: 
+(1)Center for Women's Infectious Disease Research, Washington University School
+of Medicine, St. Louis, MO 63110.
+(2)Department of Molecular Microbiology, Washington University School of
+Medicine, St. Louis, MO 63110.
+(3)Department of Biochemistry and Molecular Biophysics, Washington University
+School of Medicine, St. Louis, MO 63110.
+(4)Center for Women's Infectious Disease Research, Washington University School
+of Medicine, St. Louis, MO 63110; janetkaj@wustl.edu hultgren@wustl.edu.
+
+Treatment of bacterial infections is becoming a serious clinical challenge due to
+the global dissemination of multidrug antibiotic resistance, necessitating the
+search for alternative treatments to disarm the virulence mechanisms underlying
+these infections. Uropathogenic Escherichia coli (UPEC) employs multiple
+chaperone-usher pathway pili tipped with adhesins with diverse receptor
+specificities to colonize various host tissues and habitats. For example, UPEC F9
+pili specifically bind galactose or N-acetylgalactosamine epitopes on the kidney 
+and inflamed bladder. Using X-ray structure-guided methods, virtual screening,
+and multiplex ELISA arrays, we rationally designed aryl galactosides and
+N-acetylgalactosaminosides that inhibit the F9 pilus adhesin FmlH. The lead
+compound, 29β-NAc, is a biphenyl N-acetyl-β-galactosaminoside with a Ki of ∼90
+nM, representing a major advancement in potency relative to the
+characteristically weak nature of most carbohydrate-lectin interactions. 29β-NAc 
+binds tightly to FmlH by engaging the residues Y46 through edge-to-face
+π-stacking with its A-phenyl ring, R142 in a salt-bridge interaction with its
+carboxylate group, and K132 through water-mediated hydrogen bonding with its
+N-acetyl group. Administration of 29β-NAc in a mouse urinary tract infection
+(UTI) model significantly reduced bladder and kidney bacterial burdens, and
+coadministration of 29β-NAc and mannoside 4Z269, which targets the type 1 pilus
+adhesin FimH, resulted in greater elimination of bacteria from the urinary tract 
+than either compound alone. Moreover, FmlH specifically binds healthy human
+kidney tissue in a 29β-NAc-inhibitable manner, suggesting a key role for F9 pili 
+in human kidney colonization. Thus, these glycoside antagonists of FmlH represent
+a rational antivirulence strategy for UPEC-mediated UTI treatment.
+
+Copyright © 2018 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.1720140115 
+PMCID: PMC5866590
+PMID: 29507247  [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement: J.W.J. and S.J.H.
+are inventors on US patent US8937167 B2, which covers the use of mannoside-based 
+FimH ligand antagonists for the treatment of disease. J.W.J., M.E.H., and S.J.H. 
+have ownership interests in Fimbrion Therapeutics and may benefit if the company 
+is successful in marketing mannosides.
+

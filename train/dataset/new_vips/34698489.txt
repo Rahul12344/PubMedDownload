@@ -1,0 +1,40 @@
+
+1. Anal Chem. 2021 Nov 9;93(44):14685-14693. doi: 10.1021/acs.analchem.1c02889. Epub
+2021 Oct 26.
+
+Antibody-Free Rapid Detection of SARS-CoV-2 Proteins Using Corona Phase Molecular
+Recognition to Accelerate Development Time.
+
+Cho SY(1), Jin X(1), Gong X(1), Yang S(1), Cui J(1), Strano MS(1).
+
+Author information: 
+(1)Department of Chemical Engineering, Massachusetts Institute of Technology,
+Cambridge, Massachusetts 02139, United States.
+
+To develop better analytical approaches for future global pandemics, it is widely
+recognized that sensing materials are necessary that enable molecular recognition
+and sensor assay development on a much faster scale than currently possible.
+Previously developed severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+point-of-care devices are based on the specific molecular recognition using
+subunit protein antibodies and protein receptors that selectively capture the
+viral proteins. However, these necessarily involve complex and lengthy
+development and processing times and are notoriously prone to a loss of
+biological activity upon sensor immobilization and device interfacing,
+potentially limiting their use in applications at scale. Here, we report a
+synthetic strategy for nanoparticle corona interfaces that enables the molecular 
+recognition of SARS-CoV-2 proteins without any antibody and receptor design. Our 
+nanosensor constructs consist of poly(ethylene glycol) (PEG)─phospholipid
+heteropolymers adsorbed onto near-infrared (nIR) fluorescent single-walled carbon
+nanotubes (SWCNTs) that recognize the nucleocapsid (N) and spike (S) protein of
+SARS-CoV-2 using unique three-dimensional (3D) nanosensor interfaces. This
+results in rapid and label-free nIR fluorescence detection. This antibody-free
+nanosensor shows up to 50% sensor responses within 5 min of viral protein
+injections with limit of detection (LOD) values of 48 fM and 350 pM for N and S
+proteins, respectively. Finally, we demonstrate instrumentation based on a
+fiber-optic platform that interfaces the advantages of antibody-free molecular
+recognition and biofluid compatibility in human saliva conditions.
+
+DOI: 10.1021/acs.analchem.1c02889 
+PMCID: PMC8565189
+PMID: 34698489  [Indexed for MEDLINE]
+

@@ -1,0 +1,50 @@
+
+1. bmc genomics. 2014 feb 22;15:150. doi: 10.1186/1471-2164-15-150.
+
+strand-specific rna-seq reveals widespread developmentally regulated
+transcription natural antisense transcripts plasmodium falciparum.
+
+siegel tn(1), hon cc, zhang q, lopez-rubio jj, scheidig-benatar c, martins rm,
+sismeiro o, coppée jy, scherf a.
+
+author information: 
+(1)biology host-parasite interactions unit, institut pasteur, paris, france.
+nicolai.siegel@uni-wuerzburg.de.
+
+background: advances high-throughput sequencing led discovery of
+widespread transcription natural antisense transcripts (nats) large
+number organisms, transcripts shown play important
+roles regulation gene expression. likewise, existence nats has
+been observed plasmodium understanding towards genome-wide
+distribution remains incomplete due limited depth uncertainties the
+level strand specificity previous datasets.
+results: gain insights genome-wide distribution nats p.
+falciparum, performed rna-ligation based strand-specific rna sequencing at
+unprecedented depth. data indicate 78.3% genome transcribed
+during blood-stage development. moreover, analysis reveals significant levels
+of antisense transcription least 24% protein-coding genes that
+while expression levels nats change intraerythrocytic developmental
+cycle (idc), correlate corresponding mrna levels.
+interestingly, antisense transcription evenly distributed across coding
+regions (cdss) strongly clustered towards 3'-end cdss. furthermore,
+for significant subset nats, transcript levels correlate mrna levels of
+neighboring genes.finally, able identify polyadenylation sites
+(pass) subset nats, demonstrating least nats are
+polyadenylated. also mapped pass 3443 coding genes, yielding average
+3' untranslated region length 523 bp.
+conclusions: strand-specific analysis p. falciparum transcriptome
+expands strengthens existing body evidence antisense
+transcription substantial phenomenon p. falciparum. subset of
+neighboring genes find sense antisense transcript levels are
+intricately linked nats appear regulated independently mrna 
+transcription. deep strand-specific dataset provide valuable resource 
+for precise determination expression levels separates sense from
+antisense transcript levels, find often significantly differ. in
+addition, extensive novel data 3' utr length allow others perform 
+searches regulatory motifs utrs help understand post-translational
+regulation p. falciparum.
+
+doi: 10.1186/1471-2164-15-150 
+pmcid: pmc4007998
+pmid: 24559473  [indexed medline]
+

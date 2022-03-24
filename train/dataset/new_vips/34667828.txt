@@ -1,0 +1,48 @@
+
+1. Model Earth Syst Environ. 2021 Oct 15:1-9. doi: 10.1007/s40808-021-01312-3. [Epub
+ahead of print]
+
+Forecasting the action of CAR-T cells against SARS-corona virus-II infection with
+branching process.
+
+Al-Utaibi KA(1), Nutini A(2), Sohail A(3), Arif R(3), Tunc S(4), Sait SM(5).
+
+Author information: 
+(1)Computer Science and Software Engineering Department, University of Ha'il,
+Ha'il, Saudi Arabia.
+(2)Centro Studi Attività Motorie, Department of Biology and Biomechanics, 94 via 
+di Tiglio, loc. Arancio, 55100 Lucca, Italy.
+(3)Department of Mathematics, Comsats University Islamabad, Lahore, 54000
+Pakistan.
+(4)Physiotherapy Programme, Vocational School of Sciences, Medipol University,
+Unkapanı, Atatürk Bulvarı, No: 27, Halic Campus, Fatih, 34083 Istanbul, Turkey.
+(5)Center for Communications and IT Research, Research Institute, King Fahd
+University of Petroleum & Minerals, Dhahran, 31261 Saudi Arabia.
+
+The CAR-T cells are the genetically engineered T cells, designed to work
+specifically for the virus antigens (or other antigens, such as tumour specific
+antigens). The CAR-T cells work as the living drug and thus provides an adoptive 
+immunotherapy strategy. The novel corona virus treatment and control designs are 
+still under clinical trials. One of such techniques is the injection of CAR-T
+cells to fight against the COVID-19 infection. In this manuscript, the hypothesis
+is based on the CAR-T cells, that are suitably engineered towards SARS-2 viral
+antigen, by the N protein. The N protein binds to the SARS-2 viral RNA and is
+found in abundance in this virus, thus for the engineered cell research, this
+protein sequence is chosen as a potential target. The use of the sub-population
+of T-reg cells is also outlined. Mathematical modeling of such complex line of
+action can help to understand the dynamics. The modeling approach is inspired
+from the probabilistic rules, including the branching process, the Moran process 
+and kinetic models. The Moran processes are well recognized in the fields of
+artificial intelligence and data science. The model depicts the infectious axis
+"virus-CAR-T cells-memory cells". The theoretical analysis provides a positive
+therapeutic action; the delay in viral production may have a significant impact
+on the early stages of infection. Although it is necessary to carefully evaluate 
+the possible side effects of therapy. This work introduces the possibility of
+hypothesizing an antiviral use by CAR-T cells.
+
+© The Author(s), under exclusive licence to Springer Nature Switzerland AG 2021.
+
+DOI: 10.1007/s40808-021-01312-3 
+PMCID: PMC8516624
+PMID: 34667828 
+

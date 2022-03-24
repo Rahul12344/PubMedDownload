@@ -1,0 +1,40 @@
+
+1. J Bacteriol. 2001 Feb;183(3):1038-46.
+
+Connection between poly-beta-hydroxybutyrate biosynthesis and growth on C(1) and 
+C(2) compounds in the methylotroph Methylobacterium extorquens AM1.
+
+Korotkova N(1), Lidstrom ME.
+
+Author information: 
+(1)Department of Chemical Engineering, University of Washington, Seattle,
+Washington 98195-1750, USA.
+
+Several DNA regions containing genes involved in poly-beta-hydroxybutyrate (PHB) 
+biosynthesis and degradation and also in fatty acid degradation were identified
+from genomic sequence data and have been characterized in the serine cycle
+facultative methylotroph Methylobacterium extorquens AM1. Genes involved in PHB
+biosynthesis include those encoding beta-ketothiolase (phaA), NADPH-linked
+acetoacetyl coenzyme A (acetyl-CoA) reductase (phaB), and PHB synthase (phaC).
+phaA and phaB are closely linked on the chromosome together with a third gene
+with identity to a regulator of PHB granule-associated protein, referred to as
+orf3. phaC was unlinked to phaA and phaB. Genes involved in PHB degradation
+include two unlinked genes predicted to encode intracellular PHB depolymerases
+(depA and depB). These genes show a high level of identity with each other at
+both DNA and amino acid levels. In addition, a gene encoding beta-hydroxybutyrate
+dehydrogenase (hbd) was identified. Insertion mutations were introduced into
+depA, depB, phaA, phaB, phaC, and hbd and also in a gene predicted to encode
+crotonase (croA), which is involved in fatty acid degradation, to investigate
+their role in PHB cycling. Mutants in depA, depB, hbd, and croA all produced
+normal levels of PHB, and the only growth phenotype observed was the inability of
+the hbd mutant to grow on beta-hydroxybutyrate. However, the phaA, phaB, and phaC
+mutants all showed defects in PHB synthesis. Surprisingly, these mutants also
+showed defects in growth on C(1) and C(2) compounds and, for phaB, these defects 
+were rescued by glyoxylate supplementation. These results suggest that
+beta-hydroxybutyryl-CoA is an intermediate in the unknown pathway that converts
+acetyl-CoA to glyoxylate in methylotrophs and Streptomyces spp.
+
+DOI: 10.1128/JB.183.3.1038-1046.2001 
+PMCID: PMC94972
+PMID: 11208803  [Indexed for MEDLINE]
+

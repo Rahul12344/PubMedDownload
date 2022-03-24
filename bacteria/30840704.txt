@@ -1,0 +1,64 @@
+
+1. PLoS One. 2019 Mar 6;14(3):e0213383. doi: 10.1371/journal.pone.0213383.
+eCollection 2019.
+
+PDIP38/PolDIP2 controls the DNA damage tolerance pathways by increasing the
+relative usage of translesion DNA synthesis over template switching.
+
+Tsuda M(1)(2), Ogawa S(1), Ooka M(3), Kobayashi K(3), Hirota K(3), Wakasugi M(4),
+Matsunaga T(4), Sakuma T(2), Yamamoto T(2), Chikuma S(5), Sasanuma H(1),
+Debatisse M(6), Doherty AJ(7), Fuchs RP(8)(9)(10)(11), Takeda S(1).
+
+Author information: 
+(1)Department of Radiation Genetics, Graduate School of Medicine, Kyoto
+University, Kyoto, Japan.
+(2)Department of Mathematical and Life Sciences, Graduate School of Science,
+Hiroshima University, Hiroshima, Japan.
+(3)Department of Chemistry, Graduate School of Science, Tokyo Metropolitan
+University, Hachioji-shi, Tokyo, Japan.
+(4)Faculty of Pharmacy, Institute of Medical, Pharmaceutical and Health Sciences,
+Kanazawa University, Kanazawa, Japan.
+(5)Department of Microbiology and Immunology, Keio University School of Medicine,
+Tokyo, Japan.
+(6)Institut Curie UMR 3244, Universite Pierre et Marie Curie (Paris 06), CNRS
+Paris, France.
+(7)Genome Damage and Stability Centre, School of Life Sciences, University of
+Sussex, Brighton, United Kingdom.
+(8)DNA Damage Tolerance CNRS, UMR7258, Marseille, France.
+(9)Institut Paoli-Calmettes, Marseille, France.
+(10)Aix-Marseille University, UM 105, Marseille, France.
+(11)Inserm, U1068, CRCM, Marseille, France.
+
+Replicative DNA polymerases are frequently stalled at damaged template strands.
+Stalled replication forks are restored by the DNA damage tolerance (DDT)
+pathways, error-prone translesion DNA synthesis (TLS) to cope with excessive DNA 
+damage, and error-free template switching (TS) by homologous DNA recombination.
+PDIP38 (Pol-delta interacting protein of 38 kDa), also called Pol δ-interacting
+protein 2 (PolDIP2), physically associates with TLS DNA polymerases, polymerase η
+(Polη), Polλ, and PrimPol, and activates them in vitro. It remains unclear
+whether PDIP38 promotes TLS in vivo, since no method allows for measuring
+individual TLS events in mammalian cells. We disrupted the PDIP38 gene,
+generating PDIP38-/- cells from the chicken DT40 and human TK6 B cell lines.
+These PDIP38-/- cells did not show a significant sensitivity to either UV or
+H2O2, a phenotype not seen in any TLS-polymerase-deficient DT40 or TK6 mutants.
+DT40 provides a unique opportunity of examining individual TLS and TS events by
+the nucleotide sequence analysis of the immunoglobulin variable (Ig V) gene as
+the cells continuously diversify Ig V by TLS (non-templated Ig V hypermutation)
+and TS (Ig gene conversion) during in vitro culture. PDIP38-/- cells showed a
+shift in Ig V diversification from TLS to TS. We measured the relative usage of
+TLS and TS in TK6 cells at a chemically synthesized UV damage (CPD) integrated
+into genomic DNA. The loss of PDIP38 also caused an increase in the relative
+usage of TS. The number of UV-induced sister chromatid exchanges, TS events
+associated with crossover, was increased a few times in PDIP38-/- human and
+chicken cells. Collectively, the loss of PDIP38 consistently causes a shift in
+DDT from TLS to TS without enhancing cellular sensitivity to DNA damage. We
+propose that PDIP38 controls the relative usage of TLS and TS increasing usage of
+TLS without changing the overall capability of DDT.
+
+DOI: 10.1371/journal.pone.0213383 
+PMCID: PMC6402704
+PMID: 30840704  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

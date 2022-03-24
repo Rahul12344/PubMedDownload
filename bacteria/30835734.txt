@@ -1,0 +1,59 @@
+
+1. PLoS Negl Trop Dis. 2019 Mar 5;13(3):e0006704. doi: 10.1371/journal.pntd.0006704.
+eCollection 2019 Mar.
+
+The unique tropism of Mycobacterium leprae to the nasal epithelial cells can be
+explained by the mammalian cell entry protein 1A.
+
+Fadlitha VB(1), Yamamoto F(1), Idris I(2), Dahlan H(2), Sato N(3)(4), Aftitah
+VB(5), Febriyanda A(2), Fujimura T(1)(4), Takimoto H(6).
+
+Author information: 
+(1)Department of Dermatology, Kitasato University Graduate School of Medical
+Science, Sagamihara, Kanagawa, Japan.
+(2)Hasanuddin University Medical Research Centre, Makassar, South Sulawesi,
+Indonesia.
+(3)Department of Dermatology, Toshiba Rinkan Hospital, Sagamihara, Kanagawa,
+Japan.
+(4)Department of Dermatology, Kitasato University School of Medicine, Sagamihara,
+Kanagawa, Japan.
+(5)Department of Cellular Immunology, Kitasato University Graduate School of
+Medical Science, Sagamihara, Kanagawa, Japan.
+(6)Department of Bioscience, Kitasato University School of Science, Sagamihara,
+Kanagawa, Japan.
+
+Leprosy is a chronic infection where the skin and peripheral nervous system is
+invaded by Mycobacterium leprae. The infection mechanism remains unknown in part 
+because culture methods have not been established yet for M. leprae. Mce1A
+protein (442 aa) is coded by mce1A (1326 bp) of M. leprae. The Mce1A homolog in
+Mycobacterium tuberculosis is known to be associated with M. tuberculosis
+epithelial cell entry, and survival and multiplication within macrophages.
+Studies using recombinant proteins have indicated that Mce1A of M. leprae is also
+associated with epithelial cell entry. This study is aimed at identifying
+particular sequences within Mce1A associated with M. leprae epithelial cell
+entry. Recombinant proteins having N-terminus and C-terminus truncations of the
+Mce1A region of M. leprae were created in Escherichia coli. Entry activity of
+latex beads, coated with these truncated proteins (r-lep37 kDa and r-lep27 kDa), 
+into HeLa cells was observed by electron microscopy. The entry activity was
+preserved even when 315 bp (105 aa) and 922 bp (308 aa) was truncated from the
+N-terminus and C-terminus, respectively. This 316-921 bp region was divided into 
+three sub-regions: 316-531 bp (InvX), 532-753 bp (InvY), and 754-921 bp (InvZ).
+Each sub-region was cloned into an AIDA vector and expressed on the surface of E.
+coli. Entry of these E. coli into monolayer-cultured HeLa and RPMI2650 cells was 
+observed by electron microscopy. Only E. coli harboring the InvX sub-region
+exhibited cell entry. InvX was further divided into 4 domains, InvXa-InvXd,
+containing sequences 1-24 aa, 25-46 aa, 47-57 aa, and 58-72 aa, respectively.
+Recombinant E. coli, expressing each of InvXa-InvXd on the surface, were treated 
+with antibodies against these domains, then added to monolayer cultured RPMI
+cells. The effectiveness of these antibodies in preventing cell entry was studied
+by colony counting. Entry activity was suppressed by antibodies against InvXa,
+InvXb, and InvXd. This suggests that these three InvX domains of Mce1A are
+important for M. leprae invasion into nasal epithelial cells.
+
+DOI: 10.1371/journal.pntd.0006704 
+PMCID: PMC6420055
+PMID: 30835734  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

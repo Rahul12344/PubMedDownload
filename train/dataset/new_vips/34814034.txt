@@ -1,0 +1,47 @@
+
+1. Biosens Bioelectron. 2022 Feb 1;197:113803. doi: 10.1016/j.bios.2021.113803. Epub
+2021 Nov 17.
+
+Real-time ultra-sensitive detection of SARS-CoV-2 by quasi-freestanding epitaxial
+graphene-based biosensor.
+
+Kim S(1), Ryu H(2), Tai S(3), Pedowitz M(4), Rzasa JR(5), Pennachio DJ(6), Hajzus
+JR(6), Milton DK(3), Myers-Ward R(6), Daniels KM(4).
+
+Author information: 
+(1)Department of Electrical and Computer Engineering, University of Maryland,
+College Park, MD, 20742, USA; Institute for Research in Electronics and Applied
+Physics, University of Maryland, College Park, MD, 20742, USA. Electronic
+address: soaramk@umd.edu.
+(2)Vaccine and Infectious Diseases Division, Fred Hutchinson Cancer Research
+Center, Seattle, WA, 98109, USA.
+(3)Maryland Institute for Applied Environmental Health, University of Maryland
+School of Public Health, College Park, MD, 20742, USA.
+(4)Department of Electrical and Computer Engineering, University of Maryland,
+College Park, MD, 20742, USA; Institute for Research in Electronics and Applied
+Physics, University of Maryland, College Park, MD, 20742, USA.
+(5)Fischell Department of Bioengineering, University of Maryland, College Park,
+MD, 20742, USA.
+(6)US Naval Research Laboratory, Washington, DC, 23075, USA.
+
+We report the rapid detection of SARS-CoV-2 in infected patients (mid-turbinate
+swabs and exhaled breath aerosol samples) in concentrations as low as 60
+copies/mL of the virus in seconds by electrical transduction of the SARS-CoV-2 S1
+spike protein antigen via SARS-CoV-2 S1 spike protein antibodies immobilized on
+bilayer quasi-freestanding epitaxial graphene without gate or signal
+amplification. The sensor demonstrates the spike protein antigen detection in a
+concentration as low as 1 ag/mL. The heterostructure of the SARS-CoV-2
+antibody/graphene-based sensor is developed through a simple and low-cost
+fabrication technique. Furthermore, sensors integrated into a portable testing
+unit distinguished B.1.1.7 variant positive samples from infected patients
+(mid-turbinate swabs and saliva samples, 4000-8000 copies/mL) with a response
+time of as fast as 0.6 s. The sensor is reusable, allowing for reimmobilization
+of the crosslinker and antibodies on the biosensor after desorption of biomarkers
+by NaCl solution or heat treatment above 40 °C.
+
+Copyright © 2021 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bios.2021.113803 
+PMCID: PMC8595974
+PMID: 34814034 
+

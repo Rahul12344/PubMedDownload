@@ -1,0 +1,42 @@
+
+1. plos pathog. 2012;8(4):e1002627. doi: 10.1371/journal.ppat.1002627. epub 2012 apr
+5.
+
+small-molecule inhibitors dengue-virus entry.
+
+schmidt ag(1), lee k, yang pl, harrison sc.
+
+author information: 
+(1)jack eileen connors laboratory structural biology, department of
+biological chemistry molecular pharmacology, harvard medical school, boston, 
+massachusetts, united states america.
+
+erratum in
+    plos pathog. 2019 jan 31;15(1):e1007553.
+
+flavivirus envelope protein (e) mediates membrane fusion viral entry from
+endosomes. low-ph induced, dimer-to-trimer rearrangement reconfiguration of
+the membrane-proximal "stem" e ectodomain draw together viral and
+cellular membranes. found stem-derived peptides dengue virus (dv) bind
+stem-less e trimer mimic stem-reconfiguration step fusion pathway.
+we adapted experiment high-throughput screen small molecules that
+block peptide binding thus may inhibit viral entry. compound identified 
+this screen, 1662g07, number analogs reversibly inhibit dv
+infectivity. binding prefusion, dimeric e virion
+surface, adsorption cell. also block viral fusion with
+liposomes. structure-activity relationship studies led analogs with
+submicromolar ic₉₀s dv2, certain analogs active dv
+serotypes 1,2, 4. compounds inhibit closely related kunjin
+virus. propose bind previously identified, e-protein pocket,
+exposed virion surface although pocket closed the
+postfusion trimer, mouth fully accessible. examination e-trimer
+coordinates (pdb 1ok8) shows conformational fluctuations around hinge
+could open pocket without dissociating trimer otherwise generating
+molecular collisions. propose compounds 1662g07 trap se
+trimer "pocket-open" state, lost affinity stem peptide and
+cannot support final "zipping up" stem.
+
+doi: 10.1371/journal.ppat.1002627 
+pmcid: pmc3320583
+pmid: 22496653  [indexed medline]
+

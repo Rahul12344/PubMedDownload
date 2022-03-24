@@ -1,0 +1,38 @@
+
+1. J Biomol Struct Dyn. 2012;30(4):488-502. doi: 10.1080/07391102.2012.682213. Epub 
+2012 Jun 12.
+
+Substitution of asparagine 76 by a tyrosine residue induces domain swapping in
+Helicobacter pylori phosphopantetheine adenylyltransferase.
+
+Cheng CS(1), Chen WT, Chen YW, Chen CH, Luo YC, Lyu PC, Yin HS.
+
+Author information: 
+(1)Institute of Bioinformatics and Structural Biology, and College of Life
+Sciences, National Tsing Hua University, Hsinchu, 300, Taiwan.
+
+Phosphopantetheine adenylyltransferase (PPAT) catalyses the penultimate step in
+coenzyme A biosynthesis in bacteria and is therefore a candidate target for
+antibacterial drug development. We randomly mutated the residues in the
+Helicobacter pylori PPAT sequence to identify those that govern protein folding
+and ligand binding, and we describe the crystal structure of one of these mutants
+(I4V/N76Y) that contains the mutations I4 → V and N76 → Y. Unlike other PPATs,
+which are homohexamers, I4V/N76Y is a domain-swapped homotetramer. The protomer
+structure of this mutant is an open conformation in which the 65 C-terminal
+residues are intertwined with those of a neighbouring protomer. Despite
+structural differences between wild-type PPAT and IV4/N76Y, they had similar
+ligand-binding properties. ATP binding to these two proteins was enthalpically
+driven, whereas that for Escherichia coli PPAT is entropically driven. The
+structural packing of the subunits may affect the thermal denaturation of
+wild-type PPAT and I4V/N76Y. Mutations in hinge regions often induce domain
+swapping, i.e. the spatial exchange of portions of adjacent protomers, but
+residues 4 and 76 of H. pylori PPAT are not located in or near to the hinge
+region. However, one or both of these residues is responsible for the large
+conformational change in the C-terminal region of each protomer. To identify the 
+residue(s) responsible, we constructed the single-site mutant, N76Y, and found a 
+large displacement of α-helix 4, which indicated that its flexibility allowed the
+domain swap to occur.
+
+DOI: 10.1080/07391102.2012.682213 
+PMID: 22694317  [Indexed for MEDLINE]
+

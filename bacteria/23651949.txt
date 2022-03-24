@@ -1,0 +1,36 @@
+
+1. J Biotechnol. 2013 Jun 20;166(1-2):25-33. doi: 10.1016/j.jbiotec.2013.04.013.
+Epub 2013 May 4.
+
+Engineering Clostridium acetobutylicum for alcohol production.
+
+Hou X(1), Peng W, Xiong L, Huang C, Chen X, Chen X, Zhang W.
+
+Author information: 
+(1)The Key Laboratory of Industrial Biotechnology, Ministry of Education, School 
+of Biotechnology, JiangNan University, 1800# Lihu Road, Wuxi, JiangSu Province
+214122, People's Republic of China. houxiaohu828@163.com
+
+While Clostridium acetobutylicum has been used for large-scale butanol production
+(ABE fermentation), its by-product acetone cannot be used as a biofuel. In this
+study, C. acetobutylicum was engineered for alcohol titers (butanol plus
+ethanol). The adc gene was inactivated to eliminate acetone production, and
+glutathione biosynthetic capability was introduced into C. acetobutylicum to
+improve the strain's robustness by expressing Escherichia coli's gshAB genes in
+the adc locus. Acetone production was reduced from 2.64±0.22 g/L to 0.15±0.08 g/L
+in the engineered strain 824adc::gsh, whereas butanol production was increased
+from 5.17±0.26 g/L to 8.27±0.27 g/L. To further improve the alcohol titers, the
+metabolic flux in the alcohol biosynthesis pathways was enhanced. Overlapping PCR
+was used to generate expression cassette EC, which expresses the hbd, thl, crt,
+and bcd genes, and the Sol operon was amplified to express the adhE and ctfAB
+genes. Butanol and alcohol production reached 14.86±0.26 g/L and 18.11±0.66 g/L, 
+respectively, in 824adc::gsh Sol-EC. Furthermore, the butanol and alcohol yields 
+were 0.336 g/g and 0.409 g/g, respectively, in 824adc::gsh Sol-EC. This study
+provided a combined strategy for enhancing alcohol production in C.
+acetobutylicum.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jbiotec.2013.04.013 
+PMID: 23651949  [Indexed for MEDLINE]
+

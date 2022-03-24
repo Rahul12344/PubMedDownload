@@ -1,0 +1,80 @@
+
+1. Tuberculosis (Edinb). 2015 Mar;95(2):142-8. doi: 10.1016/j.tube.2014.12.003. Epub
+2014 Dec 19.
+
+Increasing the structural coverage of tuberculosis drug targets.
+
+Baugh L(1), Phan I(1), Begley DW(2), Clifton MC(2), Armour B(2), Dranow DM(2),
+Taylor BM(2), Muruthi MM(2), Abendroth J(2), Fairman JW(3), Fox D 3rd(3),
+Dieterich SH(3), Staker BL(1), Gardberg AS(4), Choi R(5), Hewitt SN(5), Napuli
+AJ(5), Myers J(5), Barrett LK(5), Zhang Y(1), Ferrell M(1), Mundt E(1), Thompkins
+K(1), Tran N(1), Lyons-Abbott S(1), Abramov A(1), Sekar A(1), Serbzhinskiy D(1), 
+Lorimer D(2), Buchko GW(6), Stacy R(1), Stewart LJ(7), Edwards TE(2), Van Voorhis
+WC(8), Myler PJ(9).
+
+Author information: 
+(1)Seattle Structural Genomics Center for Infectious Disease, United States;
+Seattle Biomedical Research Institute, 307 Westlake Ave N, Suite 500, Seattle, WA
+98109, United States.
+(2)Seattle Structural Genomics Center for Infectious Disease, United States;
+Beryllium, 7869 NE Day Road West, Bainbridge Island, WA 98110, United States.
+(3)Beryllium, 7869 NE Day Road West, Bainbridge Island, WA 98110, United States.
+(4)Seattle Structural Genomics Center for Infectious Disease, United States;
+Beryllium, 7869 NE Day Road West, Bainbridge Island, WA 98110, United States; EMD
+Serono Research & Development Institute, Inc., 45A Middlesex Turnpike, Billerica,
+MA 01821, United States.
+(5)Seattle Structural Genomics Center for Infectious Disease, United States;
+Department of Medicine, Division of Allergy and Infectious Disease, University of
+Washington, 750 Republican Street, E-701, Box 358061, Seattle, WA 98109, United
+States.
+(6)Seattle Structural Genomics Center for Infectious Disease, United States;
+Biological Sciences Division, Pacific Northwest National Laboratory, Richland, WA
+99352, United States.
+(7)Seattle Structural Genomics Center for Infectious Disease, United States;
+Beryllium, 7869 NE Day Road West, Bainbridge Island, WA 98110, United States;
+Institute for Protein Design, University of Washington, Box 357350, Seattle, WA
+98195, United States.
+(8)Seattle Structural Genomics Center for Infectious Disease, United States;
+Department of Medicine, Division of Allergy and Infectious Disease, University of
+Washington, 750 Republican Street, E-701, Box 358061, Seattle, WA 98109, United
+States; Department of Global Health, University of Washington, Box 359931,
+Seattle, WA, 98195, United States; Department of Microbiology, University of
+Washington, Box 357735, Seattle, WA 98195, United States.
+(9)Seattle Structural Genomics Center for Infectious Disease, United States;
+Seattle Biomedical Research Institute, 307 Westlake Ave N, Suite 500, Seattle, WA
+98109, United States; Department of Global Health, University of Washington, Box 
+359931, Seattle, WA, 98195, United States; Department of Biomedical Informatics
+and Medical Education, University of Washington, Box 358047, Seattle, WA 98195,
+United States. Electronic address: peter.myler@seattlebiomed.org.
+
+High-resolution three-dimensional structures of essential Mycobacterium
+tuberculosis (Mtb) proteins provide templates for TB drug design, but are
+available for only a small fraction of the Mtb proteome. Here we evaluate an
+intra-genus "homolog-rescue" strategy to increase the structural information
+available for TB drug discovery by using mycobacterial homologs with conserved
+active sites. Of 179 potential TB drug targets selected for x-ray structure
+determination, only 16 yielded a crystal structure. By adding 1675 homologs from 
+nine other mycobacterial species to the pipeline, structures representing an
+additional 52 otherwise intractable targets were solved. To determine whether
+these homolog structures would be useful surrogates in TB drug design, we
+compared the active sites of 106 pairs of Mtb and non-TB mycobacterial (NTM)
+enzyme homologs with experimentally determined structures, using three metrics of
+active site similarity, including superposition of continuous pharmacophoric
+property distributions. Pair-wise structural comparisons revealed that 19/22
+pairs with >55% overall sequence identity had active site Cα RMSD <1 Å, >85% side
+chain identity, and ≥80% PSAPF (similarity based on pharmacophoric properties)
+indicating highly conserved active site shape and chemistry. Applying these
+results to the 52 NTM structures described above, 41 shared >55% sequence
+identity with the Mtb target, thus increasing the effective structural coverage
+of the 179 Mtb targets over three-fold (from 9% to 32%). The utility of these
+structures in TB drug design can be tested by designing inhibitors using the
+homolog structure and assaying the cognate Mtb enzyme; a promising test case, Mtb
+cytidylate kinase, is described. The homolog-rescue strategy evaluated here for
+TB is also generalizable to drug targets for other diseases.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tube.2014.12.003 
+PMCID: PMC4361283
+PMID: 25613812  [Indexed for MEDLINE]
+

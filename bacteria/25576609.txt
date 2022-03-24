@@ -1,0 +1,57 @@
+
+1. Appl Environ Microbiol. 2015 Mar;81(6):2032-41. doi: 10.1128/AEM.03691-14. Epub
+2015 Jan 9.
+
+Genetic determinants of reutericyclin biosynthesis in Lactobacillus reuteri.
+
+Lin XB(1), Lohans CT(2), Duar R(3), Zheng J(4), Vederas JC(2), Walter J(5),
+Gänzle M(6).
+
+Author information: 
+(1)Department of Agricultural, Food, and Nutritional Science, University of
+Alberta, Edmonton, Alberta, Canada.
+(2)Department of Chemistry, University of Alberta, Edmonton, Alberta, Canada.
+(3)Department of Agricultural, Food, and Nutritional Science, University of
+Alberta, Edmonton, Alberta, Canada Department of Food Science and Technology,
+University of Nebraska, Lincoln, Nebraska, USA.
+(4)State Key Lab of Agricultural Microbiology, Huazhong Agricultural University, 
+Wuhan, People's Republic of China.
+(5)Department of Agricultural, Food, and Nutritional Science, University of
+Alberta, Edmonton, Alberta, Canada Department of Biological Sciences, University 
+of Alberta, Edmonton, Alberta, Canada Department of Food Science and Technology, 
+University of Nebraska, Lincoln, Nebraska, USA.
+(6)Department of Agricultural, Food, and Nutritional Science, University of
+Alberta, Edmonton, Alberta, Canada School of Food and Pharmaceutical Engineering,
+Hubei University of Technology, Wuhan, People's Republic of China
+mgaenzle@ualberta.ca.
+
+Reutericyclin is a unique antimicrobial tetramic acid produced by some strains of
+Lactobacillus reuteri. This study aimed to identify the genetic determinants of
+reutericyclin biosynthesis. Comparisons of the genomes of reutericyclin-producing
+L. reuteri strains with those of non-reutericyclin-producing strains identified a
+genomic island of 14 open reading frames (ORFs) including genes coding for a
+nonribosomal peptide synthetase (NRPS), a polyketide synthase (PKS), homologues
+of PhlA, PhlB, and PhlC, and putative transport and regulatory proteins. The
+protein encoded by rtcN is composed of a condensation domain, an adenylation
+domain likely specific for d-leucine, and a thiolation domain. rtcK codes for a
+PKS that is composed of a ketosynthase domain, an acyl-carrier protein domain,
+and a thioesterase domain. The products of rtcA, rtcB, and rtcC are homologous to
+the diacetylphloroglucinol-biosynthetic proteins PhlABC and may acetylate the
+tetramic acid moiety produced by RtcN and RtcK, forming reutericyclin. Deletion
+of rtcN or rtcABC in L. reuteri TMW1.656 abrogated reutericyclin production but
+did not affect resistance to reutericyclin. Genes coding for transport and
+regulatory proteins could be deleted only in the reutericyclin-negative L.
+reuteri strain TMW1.656ΔrtcN, and these deletions eliminated reutericyclin
+resistance. The genomic analyses suggest that the reutericyclin genomic island
+was horizontally acquired from an unknown source during a unique event. The
+combination of PhlABC homologues with both an NRPS and a PKS has also been
+identified in the lactic acid bacteria Streptococcus mutans and Lactobacillus
+plantarum, suggesting that the genes in these organisms and those in L. reuteri
+share an evolutionary origin.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/AEM.03691-14 
+PMCID: PMC4345372
+PMID: 25576609  [Indexed for MEDLINE]
+

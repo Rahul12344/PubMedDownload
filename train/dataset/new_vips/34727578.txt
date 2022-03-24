@@ -1,0 +1,48 @@
+
+1. Eur J Immunol. 2021 Nov 2. doi: 10.1002/eji.202149331. [Epub ahead of print]
+
+Profiling the specificity of clonally expanded plasma cells during chronic viral 
+infection by single-cell analysis.
+
+Neumeier D(1), Pedrioli A(2), Genovese A(2), Sandu I(2), Ehling R(1), Hong KL(1),
+Papadopoulou C(1), Agrafiotis A(1)(2), Kuhn R(1), Shlesinger D(2), Robbiani D(1),
+Han J(1), Hauri L(1), Csepregi L(1), Greiff V(3), Merkler D(4)(5), Reddy ST(1),
+Oxenius A(2), Yermanos A(1)(2)(4).
+
+Author information: 
+(1)Department of Biosystems Science and Engineering, ETH Zurich, Basel,
+Switzerland.
+(2)Institute of Microbiology, ETH Zurich, Zurich, Switzerland.
+(3)Department of Immunology, University of Oslo, Oslo, Norway.
+(4)Department of Pathology and Immunology, University of Geneva, Geneva,
+Switzerland.
+(5)Division of Clinical Pathology, Geneva University Hospital, Geneva,
+Switzerland.
+
+Plasma cells and their secreted antibodies play a central role in the long-term
+protection against chronic viral infection. However, due to experimental
+limitations, a comprehensive description of linked genotypic, phenotypic, and
+antibody repertoire features of plasma cells (gene expression, clonal frequency, 
+virus specificity, and affinity) has been challenging to obtain. To address this,
+we performed single-cell transcriptome and antibody repertoire sequencing of the 
+murine BM plasma cell population following chronic lymphocytic choriomeningitis
+virus infection. Our single-cell sequencing approach recovered full-length and
+paired heavy- and light-chain sequence information for thousands of plasma cells 
+and enabled us to perform recombinant antibody expression and specificity
+screening. Antibody repertoire analysis revealed that, relative to protein
+immunization, chronic infection led to increased levels of clonal expansion,
+class-switching, and somatic variants. Furthermore, antibodies from the highly
+expanded and class-switched (IgG) plasma cells were found to be specific for
+multiple viral antigens and a subset of clones exhibited cross-reactivity to
+nonviral and autoantigens. Integrating single-cell transcriptome data with
+antibody specificity suggested that plasma cell transcriptional phenotype was
+correlated to viral antigen specificity. Our findings demonstrate that chronic
+viral infection can induce and sustain plasma cell clonal expansion, combined
+with significant somatic hypermutation, and can generate cross-reactive
+antibodies.
+
+© 2021 The Authors. European Journal of Immunology published by Wiley-VCH GmbH.
+
+DOI: 10.1002/eji.202149331 
+PMID: 34727578 
+

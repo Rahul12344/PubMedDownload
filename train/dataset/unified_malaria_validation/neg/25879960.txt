@@ -1,0 +1,51 @@
+
+1. bmc genomics. 2015 apr 10;16:278. doi: 10.1186/s12864-015-1436-1.
+
+endogenous sirnas pirnas derived transposable elements genes 
+malaria vector mosquito anopheles gambiae.
+
+biryukova i(1), ye t(2).
+
+author information: 
+(1)department vector biology, max planck institute infection biology
+(mpiib), berlin, 10117, germany. inbiryukova@gmail.com.
+(2)microarrays deep sequencing platform, institut de génétique et de biologie
+moléculaire et cellulaire (igbmc), illkirch, cedex 67404, france. yetao@igbmc.fr.
+
+background: sirna pirna pathways shown insects be
+essential regulation gene expression defence exogenous and
+endogenous genetic elements (viruses transposable elements). vast
+majority endogenous small rnas produced sirna pirna pathways
+originate repetitive transposable elements (te). d. melanogaster,
+te-derived endogenous sirnas pirnas involved genome surveillance and
+maintenance genome integrity. medically relevant malaria mosquito
+anopheles gambiae tes constitute 12-16% genome size. genetic variations
+induced te activities known shape genome landscape alter the
+fitness an. gambiae.
+results: here, using bioinformatics approaches analyzed small rna data
+sets 6 libraries formally reported previous study examined the
+expression mixed germline/somatic sirnas pirnas produced adult an. 
+gambiae females. characterized large population te-derived endogenous
+sirnas pirnas, constitutes 56-60% total sirna pirna reads in
+the analysed libraries. moreover, identified number protein coding genes 
+producing gene-specific sirnas pirnas generally expressed much
+lower levels te-associated small rnas. detailed sequence analysis
+revealed an. gambiae pirnas produced "ping-pong" dependent
+(te-associated pirnas) independent mechanisms (genic pirnas). similarly d.
+melanogaster, 90% detected pirnas produced from
+te-associated clusters an. gambiae. also found biotic stress blood 
+feeding infection plasmodium parasite, etiological agent malaria,
+modulated expression levels endogenous sirnas pirnas an.
+gambiae.
+conclusions: identified large diverse set endogenously derived
+sirnas pirnas share common distinct aspects small rna expression 
+across insect species, inferred impact te gene activity an.
+gambiae. te-specific small rnas produced sirna pirna pathways
+represent important aspect genome stability genetic variation, which
+might strong impact evolution genome vector competence
+in malaria mosquitoes.
+
+doi: 10.1186/s12864-015-1436-1 
+pmcid: pmc4423592
+pmid: 25879960  [indexed medline]
+

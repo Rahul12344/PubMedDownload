@@ -1,0 +1,31 @@
+
+1. J Microbiol Methods. 2014 Sep;104:59-60. doi: 10.1016/j.mimet.2014.06.012. Epub
+2014 Jun 27.
+
+Improved performance of the PacBio SMRT technology for 16S rDNA sequencing.
+
+Mosher JJ(1), Bowman B(2), Bernberg EL(3), Shevchenko O(3), Kan J(1), Korlach
+J(2), Kaplan LA(4).
+
+Author information: 
+(1)Stroud Water Research Center, Avondale, PA 19311, United States.
+(2)Pacific Biosciences, Menlo Park, CA 94025, United States.
+(3)Delaware Biotechnology Institute, University of Delaware, Newark, DE 19711,
+United States.
+(4)Stroud Water Research Center, Avondale, PA 19311, United States. Electronic
+address: lakaplan@stroudcenter.org.
+
+Improved sequencing accuracy was obtained with 16S amplicons from environmental
+samples and a known pure culture when upgraded Pacific Biosciences (PacBio)
+hardware and enzymes were used for the single molecule, real-time (SMRT)
+sequencing platform. The new PacBio RS II system with P4/C2 chemistry, when used 
+with previously constructed libraries (Mosher et al., 2013) surpassed the
+accuracy of Roche/454 pyrosequencing platform. With accurate read lengths of
+>1400 base pairs, the PacBio system opens up the possibility of identifying
+microorganisms to the species level in environmental samples.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.mimet.2014.06.012 
+PMID: 24978594  [Indexed for MEDLINE]
+

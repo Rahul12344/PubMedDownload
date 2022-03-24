@@ -1,0 +1,47 @@
+
+1. PLoS Genet. 2011 Feb 3;7(2):e1001287. doi: 10.1371/journal.pgen.1001287.
+
+Whole-genome comparison reveals novel genetic elements that characterize the
+genome of industrial strains of Saccharomyces cerevisiae.
+
+Borneman AR(1), Desany BA, Riches D, Affourtit JP, Forgan AH, Pretorius IS,
+Egholm M, Chambers PJ.
+
+Author information: 
+(1)The Australian Wine Research Institute, Adelaide, Australia.
+anthony.borneman@awri.com.au
+
+Human intervention has subjected the yeast Saccharomyces cerevisiae to multiple
+rounds of independent domestication and thousands of generations of artificial
+selection. As a result, this species comprises a genetically diverse collection
+of natural isolates as well as domesticated strains that are used in specific
+industrial applications. However the scope of genetic diversity that was captured
+during the domesticated evolution of the industrial representatives of this
+important organism remains to be determined. To begin to address this, we have
+produced whole-genome assemblies of six commercial strains of S. cerevisiae (four
+wine and two brewing strains). These represent the first genome assemblies
+produced from S. cerevisiae strains in their industrially-used forms and the
+first high-quality assemblies for S. cerevisiae strains used in brewing. By
+comparing these sequences to six existing high-coverage S. cerevisiae genome
+assemblies, clear signatures were found that defined each industrial class of
+yeast. This genetic variation was comprised of both single nucleotide
+polymorphisms and large-scale insertions and deletions, with the latter often
+being associated with ORF heterogeneity between strains. This included the
+discovery of more than twenty probable genes that had not been identified
+previously in the S. cerevisiae genome. Comparison of this large number of S.
+cerevisiae strains also enabled the characterization of a cluster of five ORFs
+that have integrated into the genomes of the wine and bioethanol strains on
+multiple occasions and at diverse genomic locations via what appears to involve
+the resolution of a circular DNA intermediate. This work suggests that, despite
+the scrutiny that has been directed at the yeast genome, there remains a
+significant reservoir of ORFs and novel modes of genetic transmission that may
+have significant phenotypic impact in this important model and industrial
+species.
+
+DOI: 10.1371/journal.pgen.1001287 
+PMCID: PMC3033381
+PMID: 21304888  [Indexed for MEDLINE]
+
+Conflict of interest statement: BAD, DR, JPA, and ME were employees of 454 Life
+Sciences, A Roche Company, at the time this work was performed.
+

@@ -1,0 +1,33 @@
+
+1. Appl Microbiol Biotechnol. 2014 May;98(10):4557-70. doi:
+10.1007/s00253-014-5523-z. Epub 2014 Jan 29.
+
+Iterative marker excision system.
+
+Myronovskyi M(1), Rosenkränzer B, Luzhetskyy A.
+
+Author information: 
+(1)Helmholtz Institute for Pharmaceutical Research, Saarland Campus, Building
+C2.3, 66123, Saarbrücken, Germany.
+
+The deletions of large genomic DNA fragments and consecutive gene knockouts are
+prerequisites for the generation of organisms with improved properties. One of
+the key issues in this context is the removal of antibiotic resistance markers
+from engineered organisms without leaving an active recombinase recognition site.
+Here, we report the establishment of an iterative marker excision system (IMES)
+that solves this problem. Based on the phiC31 integrase and its mutant att sites,
+IMES can be used for highly effective deletion of DNA fragments between inversely
+oriented B-CC and P-GG sites. The B-CC and P-GG sites are derived from attB and
+attP by substitution of the central core TT dinucleotide with CC and GG,
+respectively. An unnatural RR site that resides in the chromosome following
+deletion is the joining product of the right shoulders of B-CC and P-GG. We show 
+that the RR sites do not recombine with each other as well as the RR site
+recombines with B-CC. The recombination efficiencies between RR and P-GG or RR
+and LL are only 0.1 % and 1 %, respectively. Thus, IMES can be used for multistep
+genomic engineering without risking unwanted DNA recombination. The fabrication
+of multi-purpose antibiotic cassettes and examples of the utilisation of IMES are
+described.
+
+DOI: 10.1007/s00253-014-5523-z 
+PMID: 24473925  [Indexed for MEDLINE]
+

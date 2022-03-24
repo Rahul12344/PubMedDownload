@@ -1,0 +1,33 @@
+
+1. j phys chem b. 2009 mar 19;113(11):3370-8. doi: 10.1021/jp8089352.
+
+three-dimensional simulation nanoindentation response viral capsids. shape 
+and size effects.
+
+ahadi a(1), colomo j, evilevitch a.
+
+author information: 
+(1)department mechanical engineering, division mechanics, lund university, 
+lund, sweden.
+
+the nanoindentation response empty viral capsids modeled using
+three-dimensional finite element analysis. simulation two different
+geometries, spherical icosahedral, performed using finite element code
+abaqus. capsids modeled nonlinear hookean elastic, small 
+large deformation analysis performed. young's modulus determined by
+calibrating force-indentation curve data atomic force microscopy
+(afm) experiments. force-indentation curves three different viral capsids are
+directly compared experimental data. predictions made two additional
+viral capsids. results simulation showed good agreement afm
+data. paper demonstrates entire range virus sizes (or
+foppl-von karman numbers) spherical icosahedral models yield different force 
+responses. particular, shown capsids dominantly spherical
+shape (for low foppl-von karman numbers) exhibit nearly linear relationship
+between force indentation, experimentally observed the
+viral shell studies far. however, predict capsids significant
+faceting (for large foppl-von karman numbers) thus pronounced
+icosahedral shape exhibit rather nonlinear deformation behavior.
+
+doi: 10.1021/jp8089352 
+pmid: 19243104  [indexed medline]
+

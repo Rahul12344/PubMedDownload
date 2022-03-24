@@ -1,0 +1,47 @@
+
+1. Biochem Biophys Res Commun. 2020 May 14;525(4):948-953. doi:
+10.1016/j.bbrc.2020.03.012. Epub 2020 Mar 12.
+
+SulA is able to block cell division in Escherichia coli by a mechanism different 
+from sequestration.
+
+Vedyaykin A(1), Rumyantseva N(2), Khodorkovskii M(3), Vishnyakov I(4).
+
+Author information: 
+(1)Peter the Great St.Petersburg Polytechnic University, Polytechnicheskaya 29,
+Saint-Petersburg, 195251, Russia; Institute of Cytology, Russian Academy of
+Sciences, Tikhoretsky ave. 4, Saint Petersburg, 194064, Russia. Electronic
+address: misterkotlin@gmail.com.
+(2)Peter the Great St.Petersburg Polytechnic University, Polytechnicheskaya 29,
+Saint-Petersburg, 195251, Russia. Electronic address: rumyanatasha@yandex.ru.
+(3)Peter the Great St.Petersburg Polytechnic University, Polytechnicheskaya 29,
+Saint-Petersburg, 195251, Russia. Electronic address: khodorkovskii@gmail.com.
+(4)Institute of Cytology, Russian Academy of Sciences, Tikhoretsky ave. 4, Saint 
+Petersburg, 194064, Russia. Electronic address: innvish@gmail.com.
+
+The SOS response is considered to be an extremely important feature of bacterial 
+cells. It helps them to survive bad times, including helping to develop
+resistance to antibiotics. The SOS response blocks the cell division. For
+Escherichia coli it is well known that the SulA protein directly interacts with
+FtsZ - a key division protein. Now it is believed that fission blocking is based 
+on FtsZ sequestration by the SulA protein, which leads to decrease in effective
+concentration of FtsZ in the cell below a critical value, which in vitro leads to
+dismantling of FtsZ polymers. In this work, we demonstrate that in order to block
+the division of E. coli, it is sufficient to have a relatively small amount of
+SulA in the cell. Moreover, the analysis of structures formed by FtsZ in E. coli 
+cells under the conditions of SulA protein expression or the SOS response showed 
+that there is no complete disassembly of FtsZ polymers, although Z-rings indeed
+are not formed. The results of the work indicate that the well-known
+sequestration mechanism is not comprehensive to explain blocking of the division 
+process by SulA in vivo.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2020.03.012 
+PMID: 32173527  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

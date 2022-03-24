@@ -1,0 +1,40 @@
+
+1. Sci Rep. 2015 Nov 30;5:17409. doi: 10.1038/srep17409.
+
+Transcriptome analysis of human OXR1 depleted cells reveals its role in
+regulating the p53 signaling pathway.
+
+Yang M(1)(2), Lin X(2)(3), Rowe A(2), Rognes T(1)(4), Eide L(2), Bjørås
+M(1)(2)(5).
+
+Author information: 
+(1)Department of Microbiology, Oslo University Hospital and University of Oslo,
+Norway.
+(2)Department of Medical Biochemistry, Oslo University Hospital and University of
+Oslo, Norway.
+(3)Key Laboratory of Carcinogenesis and Translational Research (Ministry of
+Education), Department of Breast Oncology, Peking University Cancer Hospital and 
+Institute, Beijing, P.R. China.
+(4)Department of Informatics, University of Oslo, Norway.
+(5)Department of Cancer Research and Molecular Medicine, Norwegian University of 
+Science and Technology, Trondheim, Norway.
+
+The oxidation resistance gene 1 (OXR1) is crucial for protecting against
+oxidative stress; however, its molecular function is unknown. We employed RNA
+sequencing to examine the role of human OXR1 for genome wide transcription
+regulation. In total, in non-treated and hydrogen peroxide exposed HeLa cells,
+OXR1 depletion resulted in down-regulation of 554 genes and up-regulation of 253 
+genes. These differentially expressed genes include transcription factors (i.e.
+HIF1A, SP6, E2F8 and TCF3), antioxidant genes (PRDX4, PTGS1 and CYGB) and
+numerous genes of the p53 signaling pathway involved in cell-cycle arrest (i.e.
+cyclin D, CDK6 and RPRM) and apoptosis (i.e. CytC and CASP9). We demonstrated
+that OXR1 depleted cells undergo cell cycle arrest in G2/M phase during oxidative
+stress and increase protein expression of the apoptosis initiator protease CASP9.
+In summary, OXR1 may act as a sensor of cellular oxidative stress to regulate the
+transcriptional networks required to detoxify reactive oxygen species and
+modulate cell cycle and apoptosis.
+
+DOI: 10.1038/srep17409 
+PMCID: PMC4663793
+PMID: 26616534  [Indexed for MEDLINE]
+

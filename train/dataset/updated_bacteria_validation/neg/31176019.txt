@@ -1,0 +1,53 @@
+
+1. Cell Signal. 2019 Oct;62:109340. doi: 10.1016/j.cellsig.2019.06.005. Epub 2019
+Jun 5.
+
+PICOT (GLRX3) is a positive regulator of stress-induced DNA-damage response.
+
+Pandya P(1), Braiman A(1), Isakov N(2).
+
+Author information: 
+(1)The Shraga Segal Department of Microbiology, Immunology and Genetics, Faculty 
+of Health Sciences and the Cancer Research Center, Ben Gurion University of the
+Negev, P.O.B. 653, Beer Sheva 84105, Israel.
+(2)The Shraga Segal Department of Microbiology, Immunology and Genetics, Faculty 
+of Health Sciences and the Cancer Research Center, Ben Gurion University of the
+Negev, P.O.B. 653, Beer Sheva 84105, Israel.. Electronic address: noah@bgu.ac.il.
+
+Protein kinase C (PKC)-interacting cousin of thioredoxin (PICOT; also termed
+glutaredoxin 3 (Glrx3)) is a ubiquitously expressed protein that possesses an
+N-terminal monothiol thioredoxin (Trx) domain and two C-terminal tandem copies of
+a monothiol Glrx domain. It has an overall highly conserved amino acid sequence
+and is encoded by a unique gene, both in humans and mice, without having other
+functional gene homologs in the entire genome. Despite being discovered almost
+two decades ago, the biological function of PICOT remains largely ill-defined and
+its ramifications are underestimated considering the fact that PICOT-deficiency
+in mice results in embryonic lethality. Since classical Glrxs are important
+regulators of the cellular redox homeostasis, we tested whether PICOT participate
+in the stress-induced DNA-damage response, focusing on nuclear proteins that
+function as integral components of the DNA repair machinery. Using wild type
+versus PICOT-deficient (PICOT-KD) Jurkat T cells we found that the anti-oxidant
+mechanism in PICOT-deficient cells is impaired, and that these cells respond to
+genotoxic drugs, such as etoposide and camptothecin, by increased caspase-3
+activity, a reduced survival and a slower and diminished phosphorylation of the
+histone protein, H2AX. Nevertheless, the effect of PICOT on the drug-induced
+phosphorylation of H2AX was independent of the cellular levels of reactive oxygen
+species. PICOT-deficient cells also demonstrated reduced and slower γH2AX foci
+formation in response to radiation. Furthermore, immunofluorescence staining
+using PICOT- and γH2AX-specific Abs followed by confocal microscopy demonstrated 
+partial localization of PICOT at the γH2AX-containing foci at the site of the DNA
+double strand breaks. In addition, PICOT knockdown resulted in inhibition of
+phosphorylation of ATR, Chk1 and Chk2 kinases, which play an essential role in
+the DNA-damage response and serve as upstream regulators of γH2AX. The present
+data suggest that PICOT protects cells from DNA damage-inducing agents by
+operating as an upstream positive regulator of ATR-dependent signaling pathways. 
+By promoting the activity of ATR, PICOT indirectly regulates the phosphorylation 
+and activation of Chk1, Chk2, and γH2AX, which are critical components of the DNA
+damage repair mechanism and thereby attenuate the stress- and replication-induced
+genome instability.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cellsig.2019.06.005 
+PMID: 31176019  [Indexed for MEDLINE]
+

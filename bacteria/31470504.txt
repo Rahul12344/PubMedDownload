@@ -1,0 +1,42 @@
+
+1. Molecules. 2019 Aug 29;24(17). pii: E3137. doi: 10.3390/molecules24173137.
+
+Prediction of Structure and Molecular Interaction with DNA of BvrR, a
+Virulence-Associated Regulatory Protein of Brucella.
+
+Ramírez-González EA(1), Moreno-Lafont MC(1), Méndez-Tenorio A(2), Cancino-Díaz
+ME(1), Estrada-García I(1), López-Santiago R(3).
+
+Author information: 
+(1)Departamento de Inmunología, Escuela Nacional de Ciencias Biológicas,
+Instituto Politécnico Nacional, Ciudad de México 11340, Mexico.
+(2)Laboratorio de Biotecnología y Bioinformática Genómica, Escuela Nacional de
+Ciencias Biológicas, Instituto Politécnico Nacional, Ciudad de México 11340,
+Mexico.
+(3)Departamento de Inmunología, Escuela Nacional de Ciencias Biológicas,
+Instituto Politécnico Nacional, Ciudad de México 11340, Mexico.
+rlopezsantiago@hotmail.com.
+
+Brucellosis, also known as "undulant fever" is a zoonotic disease caused by
+Brucella, which is a facultative intracellular bacterium. Despite efforts to
+eradicate this disease, infection in uncontrolled domestic animals persists in
+several countries and therefore transmission to humans is common. Brucella
+evasion of the innate immune system depends on its ability to evade the
+mechanisms of intracellular death in phagocytic cells. The BvrR-BvrS
+two-component system allows the bacterium to detect adverse conditions in the
+environment. The BvrS protein has been associated with genes of virulence
+factors, metabolism, and membrane transport. In this study, we predicted the DNA 
+sequence recognized by BvrR with Gibbs Recursive Sampling and identified the
+three-dimensional structure of BvrR using I-TASSER suite, and the interaction
+mechanism between BvrR and DNA with Protein-DNA docking and molecular dynamics
+(MD) simulation. Based on the Gibbs recursive Sampling analysis, we found the
+motif AAHTGC (H represents A, C, and T nucleotides) as a possible sequence
+recognized by BvrR. The docking and EMD simulation results showed that C-terminal
+effector domain of BvrR protein is likely to interact with AAHTGC sequence. In
+conclusion, we predicted the structure, recognition motif, and interaction of
+BvrR with DNA.
+
+DOI: 10.3390/molecules24173137 
+PMCID: PMC6749498
+PMID: 31470504  [Indexed for MEDLINE]
+

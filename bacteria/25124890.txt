@@ -1,0 +1,62 @@
+
+1. Biol Res Nurs. 2015 May;17(3):248-56. doi: 10.1177/1099800414546492. Epub 2014
+Aug 14.
+
+A genomic profile of the immune response to stroke with implications for stroke
+recovery.
+
+Barr TL(1), VanGilder R(2), Rellick S(3), Brooks SD(4), Doll DN(4), Lucke-Wold
+AN(5), Chen D(6), Denvir J(7), Warach S(8), Singleton A(9), Matarin M(10).
+
+Author information: 
+(1)Morgantown Department, School of Nursing, West Virginia University,
+Morgantown, WV, USA Center for Basic and Translational Stroke Research, School of
+Medicine, West Virginia University, Morgantown, WV, USA tlbarr@hsc.wvu.edu.
+(2)Morgantown Department, School of Nursing, West Virginia University,
+Morgantown, WV, USA Center for Basic and Translational Stroke Research, School of
+Medicine, West Virginia University, Morgantown, WV, USA.
+(3)Center for Basic and Translational Stroke Research, School of Medicine, West
+Virginia University, Morgantown, WV, USA.
+(4)Center for Neuroscience, West Virginia University School of Medicine,
+Morgantown, WV, USA.
+(5)West Virginia University School of Nursing, Morgantown, WV, USA.
+(6)Division of Preventive Medicine, University of Alabama at Birmingham,
+Birmingham, AL, USA.
+(7)Department of Biochemistry and Microbiology, Marshall University, Huntington, 
+WV, USA.
+(8)Seton/University of Texas Clinical Research Institute, Austin, TX, USA.
+(9)Laboratory of Neurogenetics, National Institute on Aging, Bethesda, MD, USA.
+(10)Laboratory of Neurogenetics, National Institute on Aging, Bethesda, MD, USA
+Department of Molecular Neuroscience, University College London, London, UK
+Department of Clinical and Experimental Epilepsy, University College London,
+London, UK.
+
+OBJECTIVES: The objectives of this study were to determine the change in gene
+expression between two time points following stroke and to identify biomarkers of
+stroke recovery through gene expression profiling and pathway analysis.
+METHODS: Peripheral blood was collected from 34 ischemic stroke patients
+(confirmed by magnetic resonance imaging) ≥18 years of age, within 24 hr of
+symptom onset and 24-48 hr later, and from healthy controls. The Modified Rankin 
+Scale (MRS) was used to determine 30-day recovery. Total RNA was extracted from
+whole blood in Paxgene RNA tubes, amplified, and hybridized to Illumina
+HumanRef-8v2 bead chips. Gene expression was compared in a univariate manner
+between stroke patients at both time points and good versus bad outcome using
+t-test in GeneSpring. Inflation of Type 1 error was corrected by false discovery 
+rate (FDR), and Ingenuity Systems Pathway analysis (IPA) was performed. A
+secondary validation cohort was recruited from a local hospital.
+RESULTS: Three genes were significantly downregulated over time (LY96, IL8, and
+SDPR; FDR corrected p < .05). This finding was confirmed in a validation cohort
+of stroke patients (n = 8). IPA revealed cytotoxic T-lymphocyte antigen 4 (CTLA4)
+signaling was the most significant pathway present in the peripheral whole blood 
+of stroke patients 24-48 hr after onset. When controlling for age and National
+Institutes of Health Stroke Scale score, high baseline expression of TLR2 and
+TLR4 significantly predicted worse scores on the MRS.
+CONCLUSION: CTLA4 signaling is a novel pathway for the study of stroke-induced
+immune suppression. Markers of immune dysfunction early after stroke may prove
+useful for identifying patients with increased risk of poor recovery.
+
+© The Author(s) 2014.
+
+DOI: 10.1177/1099800414546492 
+PMID: 25124890  [Indexed for MEDLINE]
+

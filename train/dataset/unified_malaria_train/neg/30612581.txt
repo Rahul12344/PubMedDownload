@@ -1,0 +1,54 @@
+
+1. parasit vectors. 2019 jan 6;12(1):9. doi: 10.1186/s13071-018-3253-2.
+
+rapid multiplex gene expression assays monitoring metabolic resistance the
+major malaria vector anopheles gambiae.
+
+mavridis k(1), wipf n(2)(3), medves s(4), erquiaga i(4), müller p(2)(3), vontas
+j(5)(6).
+
+author information: 
+(1)institute molecular biology biotechnology, foundation research 
+technology-hellas, 70013, heraklion, greece. konstantinos_mavridis@imbb.forth.gr.
+(2)department epidemiology public health, swiss tropical public health
+institute, socinstrasse 57, p.o. box, ch-4002, basel, switzerland.
+(3)university basel, petersplatz 1, p.o. box, ch-4001, basel, switzerland.
+(4)fast track diagnostics, siemens healthineers company, esch-sur-alzette,
+4354, luxembourg.
+(5)institute molecular biology biotechnology, foundation research 
+technology-hellas, 70013, heraklion, greece. vontas@imbb.forth.gr.
+(6)pesticide science laboratory, department crop science, agricultural
+university athens, 11855, athens, greece. vontas@imbb.forth.gr.
+
+background: metabolic resistance major malaria vector anopheles gambiae
+(s.l.) insecticides operationally significant, particularly combination 
+with target site resistance. however, detection metabolic resistance not
+trivial relies laborious bioassays, unspecific biochemical methods, or
+sophisticated expensive molecular approaches using transcriptomics.
+methods: rapid one-step multiplex taqman-probe based rt-qpcr assays were
+developed optimised measure expression levels genes associated with
+metabolic insecticide resistance an. gambiae (s.l.). primers probes were
+designed target mrna cytochrome p450-dependent monooxygenases cyp6p3,
+cyp6m2, cyp9k1, cyp6p4 cyp6z1, glutathione-s-transferase gste2. the
+novel assays validated versus gold standard methods range of
+phenotyped mosquito specimens. assays also tested directly lysates of
+rnalater®-preserved mosquitoes without rna extraction step.
+results: novel assays efficient (reaction efficiencies = 95-109%),
+sensitive (covering > 10.0 ct range r2 values > 0.99), specific (taqman
+chemistry), reproducible (%cv = 4.46-12.07%), well readily expandable to
+capture additional loci evolve cover additional species. assays
+were successfully validated terms expression levels standard
+two-step singleplex qpcr assays (overall % difference = -17.6%, 95% ci =
+-38.7-3.43%) microarrays, using laboratory strains field-caught samples. 
+the assays also applied directly lysates mosquito specimens, without
+rna extraction dnase treatment.
+conclusions: novel multiplex assays monitoring levels major
+detoxification genes metabolic resistance an. gambiae (s.l.) simple to
+perform, robust rapid. may complement current diagnostic assays to
+provide evidence-based operationally relevant information insecticide
+resistance management.
+
+doi: 10.1186/s13071-018-3253-2 
+pmcid: pmc6322220
+pmid: 30612581  [indexed medline]
+

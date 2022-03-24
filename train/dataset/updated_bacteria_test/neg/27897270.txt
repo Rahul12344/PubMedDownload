@@ -1,0 +1,43 @@
+
+1. Nat Commun. 2016 Nov 29;7:13296. doi: 10.1038/ncomms13296.
+
+TruePrime is a novel method for whole-genome amplification from single cells
+based on TthPrimPol.
+
+Picher ÁJ(1), Budeus B(2), Wafzig O(2), Krüger C(2), García-Gómez S(3),
+Martínez-Jiménez MI(3), Díaz-Talavera A(3), Weber D(2), Blanco L(3), Schneider
+A(2).
+
+Author information: 
+(1)SYGNIS Biotech S.L.U., Parque Científico de Madrid, Cantoblanco, Madrid 28049,
+Spain.
+(2)SYGNIS Bioscience GmbH, Waldhofer Strasse 104, Heidelberg 69123, Germany.
+(3)Centro de Biología Molecular Severo Ochoa (CSIC-UAM), Cantoblanco, Madrid
+28049, Spain.
+
+Sequencing of a single-cell genome requires DNA amplification, a process prone to
+introducing bias and errors into the amplified genome. Here we introduce a novel 
+multiple displacement amplification (MDA) method based on the unique DNA primase 
+features of Thermus thermophilus (Tth) PrimPol. TthPrimPol displays a potent
+primase activity preferring dNTPs as substrates unlike conventional primases. A
+combination of TthPrimPol's unique ability to synthesize DNA primers with the
+highly processive Phi29 DNA polymerase (Φ29DNApol) enables near-complete whole
+genome amplification from single cells. This novel method demonstrates superior
+breadth and evenness of genome coverage, high reproducibility, excellent
+single-nucleotide variant (SNV) detection rates with low allelic dropout (ADO)
+and low chimera formation as exemplified by sequencing HEK293 cells. Moreover,
+copy number variant (CNV) calling yields superior results compared with random
+primer-based MDA methods. The advantages of this method, which we named
+TruePrime, promise to facilitate and improve single-cell genomic analysis.
+
+DOI: 10.1038/ncomms13296 
+PMCID: PMC5141293
+PMID: 27897270  [Indexed for MEDLINE]
+
+Conflict of interest statement: A.J.P. and L.B. are inventors on patent
+applications incorporating part of the reported findings. A.J.P., B.B., D.W.,
+O.W., A.S. and C.K. are or were employees of SYGNIS Biotech SLU/SYGNIS Bioscience
+GmbH & Co KG. L.B. owns shares of SYGNIS A.G. and is a paid advisor to the
+company. TruePrime is a commercial product line available through SYGNIS or its
+distributors. The remaining authors declare no competing financial interests.
+

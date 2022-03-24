@@ -1,0 +1,50 @@
+
+1. J Phys Chem B. 2017 Mar 23;121(11):2407-2419. doi: 10.1021/acs.jpcb.6b11623. Epub
+2017 Mar 10.
+
+Chimeric Autofluorescent Proteins as Photophysical Model System for Multicolor
+Bimolecular Fluorescence Complementation.
+
+Peter S(1), Oven-Krockhaus SZ(1), Veerabagu M(1), Rodado VM(1), Berendzen KW(1), 
+Meixner AJ(2), Harter K(1), Schleifenbaum FE(1)(3).
+
+Author information: 
+(1)Center for Plant Molecular Biology, Plant Physiology, University of Tübingen ,
+Auf der Morgenstelle 32, 72076 Tübingen, Germany.
+(2)Institute for Physical and Theoretical Chemistry , Auf der Morgenstelle 18,
+72076 Tübingen, Germany.
+(3)Berthold Technologies GmbH & Co. KG , Calmbacherstr. 22, 75323 Bad Wildbad,
+Germany.
+
+The yellow fluorescent protein (YFP) is frequently used in a protein
+complementation assay called bimolecular fluorescence complementation (BiFC), and
+is employed to visualize protein-protein interactions. In this analysis, two
+different, nonfluorescent fragments of YFP are genetically attached to proteins
+of interest. Upon interaction of these proteins, the YFP fragments are brought
+into proximity close enough to reconstitute their original structure, enabling
+fluorescence. BiFC allows for a straightforward readout of protein-protein
+interactions and furthermore facilitates their functional investigation by in
+vivo imaging. Furthermore, it has been observed that the available color range in
+BiFC can be extended upon complementing fragments of different proteins that are,
+like YFP, derived from the Aequorea victoria green fluorescent protein, thereby
+allowing for a multiplexed investigation of protein-protein interactions. Some
+spectral characteristics of "multicolor" BiFC (mcBiFC) complexes have been
+reported before; however, no in-depth analysis has been performed yet. Therefore,
+little is known about the photophysical characteristics of these mcBiFC complexes
+because a proper characterization essentially relies on in vitro data. This is
+particularly difficult for fragments of autofluorescent proteins (AFPs) because
+they show a very strong tendency to form supramolecular aggregates which
+precipitate ex vivo. In this study, this intrinsic difficulty is overcome by
+directly fusing the coding DNA of different AFP fragments. Translation of the
+genetic sequence in Escherichia coli leads to fully functional, highly soluble
+fluorescent proteins with distinct properties. On the basis of their
+construction, they are designated chimeric AFPs, or BiFC chimeras, here.
+Comparison of their spectral characteristics with experimental in vivo BiFC data 
+confirmed the utility of the chimeric proteins as a BiFC model system. In this
+study, nine different chimeras were thoroughly analyzed at both the ensemble and 
+the single-molecular level. The data indicates that mutations believed to be
+photophysically silent significantly alter the properties of AFPs.
+
+DOI: 10.1021/acs.jpcb.6b11623 
+PMID: 28240906  [Indexed for MEDLINE]
+

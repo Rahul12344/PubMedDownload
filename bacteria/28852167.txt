@@ -1,0 +1,45 @@
+
+1. Sci Rep. 2017 Aug 29;7(1):9784. doi: 10.1038/s41598-017-10316-y.
+
+Identification of butenolide regulatory system controlling secondary metabolism
+in Streptomyces albus J1074.
+
+Ahmed Y(1), Rebets Y(1)(2), Tokovenko B(1)(3), Brötz E(1)(4), Luzhetskyy A(5)(6).
+
+Author information: 
+(1)Helmholtz-Institute for Pharmaceutical Research Saarland, Actinobacteria
+Metabolic Engineering Group, Building E8.1, 66123, Saarbrücken, Germany.
+(2)Universität des Saarlandes, Pharmazeutische Biotechnologie, Building C2.3,
+66123, Saarbrücken, Germany.
+(3)BASF SE, GBW/H -67056, Ludwigshafen am Rhein, Germany.
+(4)Weilburger Coatings GmbH, Ahäuser Weg 12-22, 35781, Weilburg/Lahn, Germany.
+(5)Helmholtz-Institute for Pharmaceutical Research Saarland, Actinobacteria
+Metabolic Engineering Group, Building E8.1, 66123, Saarbrücken, Germany.
+a.luzhetskyy@mx.uni-saarland.de.
+(6)Universität des Saarlandes, Pharmazeutische Biotechnologie, Building C2.3,
+66123, Saarbrücken, Germany. a.luzhetskyy@mx.uni-saarland.de.
+
+A large majority of genome-encrypted chemical diversity in actinobacteria remains
+to be discovered, which is related to the low level of secondary metabolism genes
+expression. Here, we report the application of a reporter-guided screening
+strategy to activate cryptic polycyclic tetramate macrolactam gene clusters in
+Streptomyces albus J1074. The analysis of the S. albus transcriptome revealed an 
+overall low level of secondary metabolism genes transcription. Combined with
+transposon mutagenesis, reporter-guided screening resulted in the selection of
+two S. albus strains with altered secondary metabolites production. Transposon
+insertion in the most prominent strain, S. albus ATGSal2P2::TN14, was mapped to
+the XNR_3174 gene encoding an unclassified transcriptional regulator. The mutant 
+strain was found to produce the avenolide-like compound butenolide 4. The
+deletion of the gene encoding a putative acyl-CoA oxidase, an orthologue of the
+Streptomyces avermitilis avenolide biosynthesis enzyme, in the S. albus XNR_3174 
+mutant caused silencing of secondary metabolism. The homologues of XNR_3174 and
+the butenolide biosynthesis genes were found in the genomes of multiple
+Streptomyces species. This result leads us to believe that the discovered
+regulatory elements comprise a new condition-dependent system that controls
+secondary metabolism in actinobacteria and can be manipulated to activate cryptic
+biosynthetic pathways.
+
+DOI: 10.1038/s41598-017-10316-y 
+PMCID: PMC5575351
+PMID: 28852167  [Indexed for MEDLINE]
+

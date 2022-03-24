@@ -1,0 +1,71 @@
+
+1. mBio. 2019 Oct 1;10(5). pii: e02248-19. doi: 10.1128/mBio.02248-19.
+
+Complex Multilevel Control of Hemolysin Production by Uropathogenic Escherichia
+coli.
+
+Nhu NTK(1)(2), Phan MD(1)(2), Forde BM(1)(2)(3), Murthy AMV(2)(4), Peters
+KM(1)(2), Day CJ(5), Poole J(5), Kidd TJ(1)(2), Welch RA(6), Jennings MP(5),
+Ulett GC(7), Sweet MJ(2)(4), Beatson SA(1)(2)(3), Schembri MA(8)(2).
+
+Author information: 
+(1)School of Chemistry and Molecular Biosciences, The University of Queensland,
+Brisbane, Queensland, Australia.
+(2)Australian Infectious Diseases Research Centre, The University of Queensland, 
+Brisbane, Queensland, Australia.
+(3)Australian Centre for Ecogenomics, The University of Queensland, Brisbane,
+Queensland, Australia.
+(4)Institute for Molecular Bioscience (IMB) and IMB Centre for Inflammation and
+Disease Research, The University of Queensland, Brisbane, Queensland, Australia.
+(5)Institute for Glycomics, Griffith University Gold Coast Campus, Gold Coast,
+Queensland, Australia.
+(6)Department of Medical Microbiology and Immunology, School of Medicine and
+Public Health, University of Wisconsin, Madison, Wisconsin, USA.
+(7)School of Medical Sciences, and Menzies Health Institute Queensland, Griffith 
+University, Southport, Australia.
+(8)School of Chemistry and Molecular Biosciences, The University of Queensland,
+Brisbane, Queensland, Australia m.schembri@uq.edu.au.
+
+Uropathogenic Escherichia coli (UPEC) is the major cause of urinary tract
+infections. Nearly half of all UPEC strains secrete hemolysin, a cytotoxic
+pore-forming toxin. Here, we show that the prevalence of the hemolysin toxin gene
+(hlyA) is highly variable among the most common 83 E. coli sequence types (STs)
+represented on the EnteroBase genome database. To explore this diversity in the
+context of a defined monophyletic lineage, we contextualized sequence variation
+of the hlyCABD operon within the genealogy of the globally disseminated
+multidrug-resistant ST131 clone. We show that sequence changes in hlyCABD and its
+newly defined 1.616-kb-long leader sequence correspond to phylogenetic
+designation, and that ST131 strains with the strongest hemolytic activity belong 
+to the most extensive multidrug-resistant sublineage (clade C2). To define the
+set of genes involved in hemolysin production, the clade C2 strain S65EC was
+completely sequenced and subjected to a genome-wide screen by combining saturated
+transposon mutagenesis and transposon-directed insertion site sequencing with the
+capacity to lyse red blood cells. Using this approach, and subsequent targeted
+mutagenesis and complementation, 13 genes were confirmed to be specifically
+required for production of active hemolysin. New hemolysin-controlling elements
+included discrete sets of genes involved in lipopolysaccharide (LPS) inner core
+biosynthesis (waaC, waaF, waaG, and rfaE) and cytoplasmic chaperone activity
+(dnaK and dnaJ), and we show these are required for hemolysin secretion. Overall,
+this work provides a unique description of hemolysin sequence diversity in a
+single clonal lineage and describes a complex multilevel system of regulatory
+control for this important toxin.IMPORTANCE Uropathogenic E. coli (UPEC) is the
+major cause of urinary tract infections and a frequent cause of sepsis. Nearly
+half of all UPEC strains produce the potent cytotoxin hemolysin, and its
+expression is associated with enhanced virulence. In this study, we explored
+hemolysin variation within the globally dominant UPEC ST131 clone, finding that
+strains from the ST131 sublineage with the greatest multidrug resistance also
+possess the strongest hemolytic activity. We also employed an innovative forward 
+genetic screen to define the set of genes required for hemolysin production.
+Using this approach, and subsequent targeted mutagenesis and complementation, we 
+identified new hemolysin-controlling elements involved in LPS inner core
+biosynthesis and cytoplasmic chaperone activity, and we show that mechanistically
+they are required for hemolysin secretion. These original discoveries
+substantially enhance our understanding of hemolysin regulation, secretion and
+function.
+
+Copyright © 2019 Nhu et al.
+
+DOI: 10.1128/mBio.02248-19 
+PMCID: PMC6775461
+PMID: 31575773  [Indexed for MEDLINE]
+

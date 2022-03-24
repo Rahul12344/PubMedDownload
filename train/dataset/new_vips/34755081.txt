@@ -1,0 +1,43 @@
+
+1. iScience. 2021 Oct 1;24(10):103087. doi: 10.1016/j.isci.2021.103087. eCollection 
+2021 Oct 22.
+
+Three-dimensional morphodynamic simulations of macropinocytic cups.
+
+Saito N(1), Sawai S(2)(3)(4).
+
+Author information: 
+(1)Exploratory Research Center on Life and Living Systems, National Institutes of
+Natural Sciences, 5-1 Higashiyama, Myodaiji-cho, Okazaki, Aichi 444-8787, Japan.
+(2)Department of Basic Science, University of Tokyo, Meguro-ku, Tokyo 153-8902,
+Japan.
+(3)Research Center for Complex Systems Biology, Graduate School of Arts and
+Sciences, University of Tokyo, Meguro-ku, Tokyo 153-8902, Japan.
+(4)Department of Biological Sciences, Graduate School of Science, University of
+Tokyo, Bunkyo-ku, Tokyo 113-0033, Japan.
+
+Macropinocytosis refers to the non-specific uptake of extracellular fluid, which 
+plays ubiquitous roles in cell growth, immune surveillance, and virus entry.
+Despite its widespread occurrence, it remains unclear how its initial cup-shaped 
+plasma membrane extensions form without any external solid support, as opposed to
+the process of particle uptake during phagocytosis. Here, by developing a
+computational framework that describes the coupling between the bistable
+reaction-diffusion processes of active signaling patches and membrane
+deformation, we demonstrated that the protrusive force localized to the edge of
+the patches can give rise to a self-enclosing cup structure, without further
+assumptions of local bending or contraction. Efficient uptake requires a balance 
+among the patch size, magnitude of protrusive force, and cortical tension.
+Furthermore, our model exhibits cyclic cup formation, coexistence of multiple
+cups, and cup-splitting, indicating that these complex morphologies self-organize
+via a common mutually-dependent process of reaction-diffusion and membrane
+deformation.
+
+© 2021 The Authors.
+
+DOI: 10.1016/j.isci.2021.103087 
+PMCID: PMC8560551
+PMID: 34755081 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

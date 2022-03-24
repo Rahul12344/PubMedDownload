@@ -1,0 +1,55 @@
+
+1. front immunol. 2019 sep 12;10:2150. doi: 10.3389/fimmu.2019.02150. ecollection
+2019.
+
+application modeling approaches explore vaccine adjuvant mode-of-action.
+
+buckley pr(1)(2), alden k(2), coccia m(3), chalon a(3), collignon c(3), temmerman
+st(3), didierlaurent am(3), van der r(3), timmis j(2)(4), andersen ca(3),
+coles mc(1).
+
+author information: 
+(1)kennedy institute rheumatology, university oxford, oxford, united
+kingdom.
+(2)department electronic engineering, university york, york, united
+kingdom.
+(3)gsk, rixensart, belgium.
+(4)faculty technology, university sunderland, sunderland, united kingdom.
+
+erratum in
+    front immunol. 2019 dec 02;10:2905.
+
+novel adjuvant technologies key role development next-generation
+vaccines, due capacity modulate duration, strength quality of
+the immune response. as01 adjuvant used malaria vaccine rts,s/as01 
+and licensed herpes-zoster vaccine (shingrix) vaccine proven
+its ability generate protective responses robust humoral t-cell 
+responses. many years, animal models provided insights adjuvant
+mode-of-action (moa), generally investigating individual genes or
+proteins. furthermore, modeling simulation techniques utilized to
+integrate variety different data types; ranging serum biomarkers to
+large scale "omics" datasets. perspective present framework to
+create holistic integration pre-clinical datasets immunological
+literature order develop evidence-based hypothesis as01 adjuvant moa,
+creating unified view multiple experiments. furthermore, highlight how
+holistic systems-knowledge serve basis construction models
+and simulations supporting exploration key questions surrounding adjuvant moa.
+using systems-biology-graphical-notation, tool graphical representation
+of biological processes, captured high-level cellular behaviors and
+interactions, cytokine dynamics early immune response, are
+substantiated series diagrams detailing cellular dynamics. through
+explicitly describing as01 moa built consensus understanding across 
+multiple experiments, present framework integrate modeling
+approaches exploring adjuvant moa, order guide experimental design,
+interpret results inform rational design vaccines.
+
+copyright © 2019 buckley, alden, coccia, chalon, collignon, temmerman,
+didierlaurent, van der most, timmis, andersen coles.
+
+doi: 10.3389/fimmu.2019.02150 
+pmcid: pmc6751289
+pmid: 31572370 
+
+conflict interest statement: ca, rm, ad, mc, st report ownership gsk
+shares and/or restricted gsk shares.
+

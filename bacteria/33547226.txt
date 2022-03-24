@@ -1,0 +1,56 @@
+
+1. Cancer Immunol Res. 2021 Feb 5. doi: 10.1158/2326-6066.CIR-20-0451. [Epub ahead
+of print]
+
+Modifications to the Framework Regions Eliminate Chimeric Antigen Receptor Tonic 
+Signaling.
+
+Landoni E(1), Fucá G(1), Wang J(2), Chirasani VR(2), Yao Z(3)(4), Dukhovlinova
+E(1), Ferrone S(5), Savoldo B(1)(6), Hong LK(1), Shou P(1), Musio S(7), Padelli
+F(8), Finocchiaro G(7), Droste M(9), Kuhlman B(1)(3), Shamshiev A(9), Pellegatta 
+S(7), Dokholyan NV(2), Dotti G(10)(11).
+
+Author information: 
+(1)Lineberger Comprehensive Cancer Center, University of North Carolina at Chapel
+Hill, Chapel Hill, North Carolina.
+(2)Departments of Pharmacology and Biochemistry and Molecular Biology,
+Pennsylvania State University College of Medicine, Hershey, Pennsylvania.
+(3)Department of Biochemistry and Biophysics, University of North Carolina at
+Chapel Hill, Chapel Hill, North Carolina.
+(4)Department of Pharmacology, University of North Carolina at Chapel Hill,
+Chapel Hill, North Carolina.
+(5)Department of Surgery, Massachusetts General Hospital, Harvard Medical School,
+Boston, Massachusetts.
+(6)Department of Pediatrics, University of North Carolina at Chapel Hill, Chapel 
+Hill, North Carolina.
+(7)Laboratory of Immunotherapy of Brain Tumors, Unit of Molecular Neuro-Oncology,
+Fondazione IRCCS Istituto Neurologico Carlo Besta, Milan, Italy.
+(8)Experimental Imaging and Neuro-Radiology, Fondazione IRCCS Istituto
+Neurologico Carlo Besta, Milan, Italy.
+(9)Cell Medica Switzerland AG, Zurich-Schlieren, Switzerland.
+(10)Lineberger Comprehensive Cancer Center, University of North Carolina at
+Chapel Hill, Chapel Hill, North Carolina. gdotti@med.unc.edu.
+(11)Department of Microbiology and Immunology, University of North Carolina at
+Chapel Hill, Chapel Hill, North Carolina.
+
+Chimeric antigen receptor (CAR) tonic signaling, defined as spontaneous
+activation and release of proinflammatory cytokines by CAR-T cells, is considered
+a negative attribute because it leads to impaired antitumor effects. Here, we
+report that CAR tonic signaling is caused by the intrinsic instability of the mAb
+single-chain variable fragment (scFv) to promote self-aggregation and signaling
+via the CD3ζ chain incorporated into the CAR construct. This phenomenon was
+detected in a CAR encoding either CD28 or 4-1BB costimulatory endodomains.
+Instability of the scFv was caused by specific amino acids within the framework
+regions (FWR) that can be identified by computational modeling. Substitutions of 
+the amino acids causing instability, or humanization of the FWRs, corrected tonic
+signaling of the CAR, without modifying antigen specificity, and enhanced the
+antitumor effects of CAR-T cells. Overall, we demonstrated that tonic signaling
+of CAR-T cells is determined by the molecular instability of the scFv and that
+computational analyses of the scFv can be implemented to correct the scFv
+instability in CAR-T cells with either CD28 or 4-1BB costimulation.
+
+©2021 American Association for Cancer Research.
+
+DOI: 10.1158/2326-6066.CIR-20-0451 
+PMID: 33547226 
+

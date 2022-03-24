@@ -1,0 +1,43 @@
+
+1. Mater Today Proc. 2021 Nov 9. doi: 10.1016/j.matpr.2021.11.013. [Epub ahead of
+print]
+
+Computational fluid dynamics-based disease transmission modeling of SARS-CoV-2
+intensive care unit.
+
+Prajapati S(1), Mehta N(2), Chharia A(3)(4), Upadhyay Y(5).
+
+Author information: 
+(1)Department of Mechanical Engineering, National Institute of Technology,
+Agartala, TR, 799046, India.
+(2)Mechanical Engineering Department, Sardar Vallabhbhai National Institute of
+Technology, Surat, GJ, 395007, India.
+(3)Mechanical Engineering Department, Thapar Institute of Engineering and
+Technology, Patiala, PB, 147004, India.
+(4)Computer Science and Engineering Department, Thapar Institute of Engineering
+and Technology, Patiala, PB, 147004, India.
+(5)Department of Mechanical Engineering, Zakir Husain College of Engineering &
+Technology, AMU, India.
+
+Covid-19 has become one of the most severe diseases causing the acute respiratory
+problems that has even killed millions of people worldwide. It was declared as
+the ongoing pandemic by the World Health Organization. It is an infectious virus 
+which can be transmitted by sneezing, coughing and exhalation of air by any
+infected person. There are certain places where there are very high chances of
+rooms becoming contaminated like hospital rooms. In this context, we studied the 
+transmission of covid-19 particles in an ICU room. In this paper, we have
+considered the combined effect of both of air-conditioning (AC) and a ceiling fan
+in the room. The infected person can transmit the disease when under influence of
+fan and AC, the work highlights the flow of aerosol particles considering the
+combined effect as well as the individual effects of fan and AC. The results also
+emphasized that the aerosol particles flow have a promising application in
+sanitizing the room.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved. Selection and peer-review
+under responsibility of the scientific committee of the 3rd International
+Conference on Contemporary Advances in Mechanical Engineering.
+
+DOI: 10.1016/j.matpr.2021.11.013 
+PMCID: PMC8577579
+PMID: 34778006 
+

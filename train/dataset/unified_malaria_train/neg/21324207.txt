@@ -1,0 +1,40 @@
+
+1. bmc genomics. 2011 feb 17;12:116. doi: 10.1186/1471-2164-12-116.
+
+high-throughput 454 resequencing allele discovery recombination mapping
+in plasmodium falciparum.
+
+samarakoon u(1), regier a, tan a, desany ba, collins b, tan jc, emrich sj, ferdig
+mt.
+
+author information: 
+(1)department biological sciences, eck institute global health, university
+of notre dame, notre dame, 46556, usa.
+
+background: knowledge origins, distribution, inheritance variation 
+in malaria parasite (plasmodium falciparum) genome crucial for
+understanding evolution; however 81% (a+t) genome poses challenges to
+high-throughput sequencing technologies. explore viability roche
+454 genome sequencer flx (gs flx) high throughput sequencing technology 
+whole genome sequencing fine-resolution characterization genetic exchange 
+in malaria parasites.
+results: present scheme survey recombination haploid stage genomes
+of two sibling parasite clones, using whole genome pyrosequencing includes a
+sliding window approach predict recombination breakpoints. whole genome
+shotgun (wgs) sequencing generated approximately 2 million reads, average
+read length approximately 300 bp. de novo assembly using combination wgs 
+and 3 kb paired end libraries resulted contigs ≤ 34 kb. 8,000 the
+24,599 snp markers identified parents genotyped progeny,
+resulting marker density approximately 1 marker/3.3 kb allowing for
+the detection previously unrecognized crossovers (cos) many non crossover 
+(nco) gene conversions throughout genome.
+conclusions: sequencing 23 mb genomes two haploid progeny clones
+derived genetic cross 30× coverage, captured high
+resolution information cos, ncos genetic variation within progeny
+genomes. study first resequence progeny clones examine fine
+structure cos ncos malaria parasites.
+
+doi: 10.1186/1471-2164-12-116 
+pmcid: pmc3055840
+pmid: 21324207  [indexed medline]
+

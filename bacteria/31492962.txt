@@ -1,0 +1,45 @@
+
+1. ISME J. 2020 Jan;14(1):53-66. doi: 10.1038/s41396-019-0502-0. Epub 2019 Sep 6.
+
+Metagenomic and chemical characterization of soil cobalamin production.
+
+Lu X(1)(2), Heal KR(3), Ingalls AE(4), Doxey AC(5), Neufeld JD(6).
+
+Author information: 
+(1)Department of Biology, University of Waterloo, Waterloo, ON, Canada.
+(2)Department of Civil and Environmental Engineering, Massachusetts Institute of 
+Technology, Cambridge, MA, USA.
+(3)School of Oceanography, University of Washington, Seattle, WA, USA.
+(4)School of Oceanography, University of Washington, Seattle, WA, USA.
+aingalls@uw.edu.
+(5)Department of Biology, University of Waterloo, Waterloo, ON, Canada.
+acdoxey@uwaterloo.ca.
+(6)Department of Biology, University of Waterloo, Waterloo, ON, Canada.
+jneufeld@uwaterloo.ca.
+
+Cobalamin (vitamin B12) is an essential enzyme cofactor for most branches of
+life. Despite the potential importance of this cofactor for soil microbial
+communities, the producers and consumers of cobalamin in terrestrial environments
+are still unknown. Here we provide the first metagenome-based assessment of soil 
+cobalamin-producing bacteria and archaea, quantifying and classifying genes
+encoding proteins for cobalamin biosynthesis, transport, remodeling, and
+dependency in 155 soil metagenomes with profile hidden Markov models. We also
+measured several forms of cobalamin (CN-, Me-, OH-, Ado-B12) and the cobalamin
+lower ligand (5,6-dimethylbenzimidazole; DMB) in 40 diverse soil samples.
+Metagenomic analysis revealed that less than 10% of soil bacteria and archaea
+encode the genetic potential for de novo synthesis of this important enzyme
+cofactor. Predominant soil cobalamin producers were associated with the
+Proteobacteria, Actinobacteria, Firmicutes, Nitrospirae, and Thaumarchaeota. In
+contrast, a much larger proportion of abundant soil genera lacked cobalamin
+synthesis genes and instead were associated with gene sequences encoding
+cobalamin transport and cobalamin-dependent enzymes. The enrichment of DMB and
+corresponding DMB synthesis genes, relative to corrin ring synthesis genes,
+suggests an important role for cobalamin remodelers in terrestrial habitats.
+Together, our results indicate that microbial cobalamin production and repair
+serve as keystone functions that are significantly correlated with microbial
+community size, diversity, and biogeochemistry of terrestrial ecosystems.
+
+DOI: 10.1038/s41396-019-0502-0 
+PMCID: PMC6908642
+PMID: 31492962  [Indexed for MEDLINE]
+

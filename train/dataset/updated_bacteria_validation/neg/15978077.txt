@@ -1,0 +1,36 @@
+
+1. Mol Microbiol. 2005 Jul;57(2):452-67.
+
+Direct binding of the quorum sensing regulator CepR of Burkholderia cenocepacia
+to two target promoters in vitro.
+
+Weingart CL(1), White CE, Liu S, Chai Y, Cho H, Tsai CS, Wei Y, Delay NR,
+Gronquist MR, Eberhard A, Winans SC.
+
+Author information: 
+(1)Department of Biology, Denison University, Granville, OH 43023, USA.
+weingartc@denison.edu
+
+Burkholderia cenocepacia is an opportunistic human pathogen that can aggressively
+colonize the cystic fibrosis lung. This organism has a LuxR/LuxI-type quorum
+sensing system that enables cell-cell communication via exchange of acyl
+homoserine lactones (AHLs). The CepR and CepI proteins constitute a global
+regulatory system, controlling expression of at least 40 genes, including those
+controlling swarming motility and biofilm formation. In this study, we isolated
+seven lacZ fusions in a clinical isolate of B. cenocepacia that are inducible by 
+octanoyl-HSL. Induction of all of these genes requires CepR. The cepI promoter
+was tested for induction by a set of 33 synthetic autoinducers and analogues, and
+was most strongly induced by long-chain AHLs lacking 3-oxo substitutions.
+Expression of this promoter was inhibited by high concentrations of three
+different autoinducers, each having six-carbon acyl chains. When CepR protein was
+overproduced in Escherichia coli, it accumulated in a soluble form in the
+presence of octanoyl-HSL, but accumulated only as insoluble inclusion bodies in
+its absence. Purified CepR-OHL complexes bound to specific DNA sequences at the
+cepI and aidA promoters with high specificity. These binding sites included a
+16-nucleotide imperfect dyad symmetry. Both CepR binding sites are centred
+approximately 44 nucleotides upstream of the respective transcription start
+sites.
+
+DOI: 10.1111/j.1365-2958.2005.04656.x 
+PMID: 15978077  [Indexed for MEDLINE]
+

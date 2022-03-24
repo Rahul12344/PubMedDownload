@@ -1,0 +1,41 @@
+
+1. ACS Synth Biol. 2018 Jan 19;7(1):86-97. doi: 10.1021/acssynbio.7b00229. Epub 2017
+Dec 21.
+
+Replacing the Ethylmalonyl-CoA Pathway with the Glyoxylate Shunt Provides
+Metabolic Flexibility in the Central Carbon Metabolism of Methylobacterium
+extorquens AM1.
+
+Schada von Borzyskowski L(1), Sonntag F(2), Pöschel L(2), Vorholt JA(3), Schrader
+J(2), Erb TJ(1)(4), Buchhaupt M(2).
+
+Author information: 
+(1)Max-Planck-Institute for Terrestrial Microbiology , Karl-von-Frisch-Str. 10,
+35043 Marburg, Germany.
+(2)DECHEMA Research Institute , Theodor-Heuss-Allee 25, 60486 Frankfurt am Main, 
+Germany.
+(3)Institute of Microbiology, ETH Zurich , Vladimir-Prelog-Weg 4, 8093 Zurich,
+Switzerland.
+(4)Center for Synthetic Microbiology, SYNMIKRO , 35043 Marburg, Germany.
+
+The ethylmalonyl-CoA pathway (EMCP) is an anaplerotic reaction sequence in the
+central carbon metabolism of numerous Proteo- and Actinobacteria. The pathway
+features several CoA-bound mono- and dicarboxylic acids that are of interest as
+platform chemicals for the chemical industry. The EMCP, however, is essential for
+growth on C1 and C2 carbon substrates and therefore cannot be simply interrupted 
+to drain these intermediates. In this study, we aimed at reengineering central
+carbon metabolism of the Alphaproteobacterium Methylobacterium extorquens AM1 for
+the specific production of EMCP derivatives in the supernatant. Establishing a
+heterologous glyoxylate shunt in M. extorquens AM1 restored wild type-like growth
+in several EMCP knockout strains on defined minimal medium with acetate as carbon
+source. We further engineered one of these strains that carried a deletion of the
+gene encoding crotonyl-CoA carboxylase/reductase to demonstrate in a
+proof-of-concept the specific production of crotonic acid in the supernatant on a
+defined minimal medium. Our experiments demonstrate that it is in principle
+possible to further exploit the EMCP by establishing an alternative central
+carbon metabolic pathway in M. extorquens AM1, opening many possibilities for the
+biotechnological production of EMCP-derived compounds in future.
+
+DOI: 10.1021/acssynbio.7b00229 
+PMID: 29216425  [Indexed for MEDLINE]
+

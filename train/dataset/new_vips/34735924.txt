@@ -1,0 +1,67 @@
+
+1. Immunobiology. 2021 Nov;226(6):152150. doi: 10.1016/j.imbio.2021.152150. Epub
+2021 Oct 25.
+
+Genomic and epigenomic adaptation in SP-R210 (Myo18A) isoform-deficient
+macrophages.
+
+Yau E(1), Chen Y(2), Song C(3), Webb J(4), Carillo M(4), Kawasawa YI(5), Tang
+Z(6), Takahashi Y(6), Umstead TM(4), Dovat S(6), Chroneos ZC(7).
+
+Author information: 
+(1)Department of Pediatrics and Microbiology and Immunology, Pulmonary Immunology
+and Physiology Laboratory, Pennsylvania State University College of Medicine, PA,
+USA. Electronic address: eyau@pennstatehealth.psu.edu.
+(2)Department of Pediatrics and Microbiology and Immunology, Pulmonary Immunology
+and Physiology Laboratory, Pennsylvania State University College of Medicine, PA,
+USA; Department of Pediatrics, Union Hospital, Tongji Medical College, Huazhong
+University of Science and Technology, Wuhan, China.
+(3)Department of Pediatrics, Division of Pediatric Hematology and Oncology,
+Pennsylvania State University College of Medicine, PA, USA; Department of
+Internal Medicine, Ohio State University College of Medicine, Columbus, OH, USA.
+(4)Department of Pediatrics and Microbiology and Immunology, Pulmonary Immunology
+and Physiology Laboratory, Pennsylvania State University College of Medicine, PA,
+USA.
+(5)Department of Pharmacology and Biochemistry and Molecular Biology, Institute
+for Personalized Medicine, Pennsylvania State University College of Medicine, PA,
+USA.
+(6)Department of Pediatrics, Union Hospital, Tongji Medical College, Huazhong
+University of Science and Technology, Wuhan, China.
+(7)Department of Pediatrics and Microbiology and Immunology, Pulmonary Immunology
+and Physiology Laboratory, Pennsylvania State University College of Medicine, PA,
+USA. Electronic address: zchroneos@pennstatehealth.psu.edu.
+
+Macrophages play an important role in maintaining tissue homeostasis, from
+regulating the inflammatory response to pathogens to resolving inflammation and
+aiding tissue repair. The surfactant protein A (SP-A) receptor SP-R210 (MYO18A)
+has been shown to affect basal and inflammatory macrophage states. Specifically, 
+disruption of the longer splice isoform SP-R210L/MYO18Aα renders macrophages
+hyper-inflammatory, although the mechanism by which this occurs is not well
+understood. We asked whether disruption of the L isoform led to the
+hyper-inflammatory state via alteration of global genomic responses. RNA
+sequencing analysis of L isoform-deficient macrophages (SP-R210L(DN)) revealed
+basal and influenza-induced upregulation of genes associated with inflammatory
+pathways, such as TLR, RIG-I, NOD, and cytoplasmic DNA signaling, whereas
+knockout of both SP-R210 isoforms (L and S) only resulted in increased RIG-I and 
+NOD signaling. Chromatin immunoprecipitation sequencing (ChIP-seq) analysis
+showed increased genome-wide deposition of the pioneer transcription factor PU.1 
+in SP-R210L(DN) cells, with increased representation around genes relevant to
+inflammatory pathways. Additional ChIP-seq analysis of histone H3 methylation
+marks showed decreases in both repressive H3K9me3 and H3K27me3 marks with a
+commensurate increase in transcriptionally active (H3K4me3) histone marks in the 
+L isoform deficient macrophages. Influenza A virus (IAV) infection, known to
+stimulate a wide array of anti-viral responses, caused a differential
+redistribution of PU.1 binding between proximal promoter and distal sites and
+decoupling from Toll-like receptor regulated gene promoters in SP-R210L(DN)
+cells. These finding suggest that the inflammatory differences seen in
+SP-R210L-deficient macrophages are a result of transcriptional differences that
+are mediated by epigenetic changes brought about by differential expression of
+the SP-R210 isoforms. This provides an avenue to explore how the signaling
+pathways downstream of the receptor and the ligands can modulate the macrophage
+inflammatory response.
+
+Copyright © 2021 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.imbio.2021.152150 
+PMID: 34735924 
+

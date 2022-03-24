@@ -1,0 +1,46 @@
+
+1. J Theor Biol. 2020 Feb 7;486:110095. doi: 10.1016/j.jtbi.2019.110095. Epub 2019
+Nov 26.
+
+Co-evolution as an important component explaining microbial predator-prey
+interaction.
+
+Kaitala V(1), Hiltunen T(2), Becks L(3), Scheuerl T(4).
+
+Author information: 
+(1)Organismal and Evolutionary Biology Research Programme, University of
+Helsinki, Helsinki, Finland. Electronic address: veijo.kaitala@helsinki.fi.
+(2)Department of Food and Environmental Sciences / Microbiology and
+Biotechnology, University of Helsinki, P.O. Box 56, 00014, Finland; Department of
+Biology, University of Turku, Turku, Finland. Electronic address:
+teppo.hiltunen@helsinki.fi.
+(3)Limnology - Aquatic Ecology and Evolution, Limnological Institute, University 
+of Konstanz, Konstanz, Germany. Electronic address: lutz.becks@uni-konstanz.de.
+(4)Amerang Str. 8, 83435 Bad Reichenhall, Germany.
+
+Predator-prey relationships belong to the most important and well-studied
+ecological interactions in nature. Understanding the underlying mechanisms is
+important to predict community dynamics and to estimate coexistence probability. 
+Historically, evolution has been considered to be too slow to affect such
+ecological interactions. However, evolution can occur within ecological time
+scales, potentially affecting predator-prey communities. In an antagonistic
+pair-wise relationship the prey might evolve to minimize the effect caused by the
+predator (e.g. mortality), while the predator might evolve to maximize the effect
+(e.g. food intake). Evolution of one of the species or even co-evolution of both 
+species in predator-prey relationships is often difficult to estimate from
+population dynamics without measuring of trait changes in predator and/or prey
+population. Particularly in microbial systems, where microorganisms evolve
+quickly, determining whether co-evolution occurs in predator-prey systems is
+challenging. We simulate observational data using quantitative trait evolution
+models and show that the interaction between bacteria and ciliates can be best
+explained as a co-evolutionary process, where both the prey and predator evolve. 
+Evolution by prey alone explains the data less well, whereas the models with
+predator evolution alone or no evolution are both failing. We conclude that that 
+ecology and evolution both interact in shaping community dynamics in microcosms. 
+Ignoring the contribution of evolution might lead to incorrect conclusions.
+
+Copyright © 2019. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jtbi.2019.110095 
+PMID: 31783060 
+

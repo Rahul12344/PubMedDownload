@@ -1,0 +1,39 @@
+
+1. Front Digit Health. 2021 May 28;3:655745. doi: 10.3389/fdgth.2021.655745.
+eCollection 2021.
+
+Estimating Exposure Risk to Guide Behaviour During the SARS-COV2 Pandemic.
+
+Smyth B(1).
+
+Author information: 
+(1)Insight SFI Research Centre for Data Analytics, University College Dublin,
+Dublin, Ireland.
+
+The end of 2020 and the beginning of 2021 was a challenging time for many
+countries in Europe, as the combination of colder weather, holiday celebrations, 
+and the emergence of more transmissible virus variants conspired to create a
+perfect storm for virus transmission across the continent. At the same time
+lockdowns appeared to be less effective than they were earlier in the pandemic.
+In this paper we argue that one contributing factor is that existing ways of
+communicating risk-case numbers, test positivity rates, hospitalisations etc.-are
+difficult for individuals to translate into a level of personal risk, thereby
+limiting the ability of individuals to properly calibrate their own behaviour. We
+propose an new more direct measure of personal risk, exposure risk, to estimate
+the likelihood that an individual will come into contact with an infected person,
+and we argue that it can play an important role, alongside more conventional
+statistics, to help translate complex epidemiological data into a simple measure 
+to guide pandemic behaviour. We describe how exposure risk can be calculated
+using existing data and infection prediction models, and use it to evaluate and
+compare the exposure risk associated with 39 European countries.
+
+Copyright © 2021 Smyth.
+
+DOI: 10.3389/fdgth.2021.655745 
+PMCID: PMC8521974
+PMID: 34713129 
+
+Conflict of interest statement: The author declares that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

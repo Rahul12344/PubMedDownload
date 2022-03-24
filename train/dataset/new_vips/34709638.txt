@@ -1,0 +1,48 @@
+
+1. Methods Mol Biol. 2022;2409:99-117. doi: 10.1007/978-1-0716-1879-0_8.
+
+Dengue Virus Capsid-Protein Dynamics in Live Infected Cells Studied by Pair
+Correlation Analysis.
+
+Gabriel MV(1), Sallaberry I(1), Costa Navarro GS(2), Gratton E(3), Gamarnik
+AV(2), Estrada LC(4).
+
+Author information: 
+(1)Departamento de Física, Facultad de Ciencias Exactas y Naturales, Universidad 
+de Buenos Aires and IFIBA-National Research Council for Science and Technology
+(CONICET), Buenos Aires, Argentina.
+(2)Fundación Instituto Leloir-National Research Council for Science and
+Technology (CONICET), Buenos Aires, Argentina.
+(3)Laboratory for Fluorescence Dynamics, University of California Irvine, Irvine,
+CA, USA.
+(4)Departamento de Física, Facultad de Ciencias Exactas y Naturales, Universidad 
+de Buenos Aires and IFIBA-National Research Council for Science and Technology
+(CONICET), Buenos Aires, Argentina. lestrada@df.uba.ar.
+
+It has become increasingly evident that unveiling the mechanisms of virus entry, 
+assembly, and virion release is fundamental for identifying means for preventing 
+viral spread and controlling viral disease. Due to virus mobility and structural 
+and/or functional heterogeneity among viral particles, high spatiotemporal
+resolution single-virus/single-particle techniques are required to capture the
+behavior of viral particles inside infected cells.In this chapter, we present
+fluorescence imaging analysis methods for studying the mobility of fluorescently 
+labeled dengue virus (DENV) proteins in live infected cells. Some of the most
+recent Fluorescence Fluctuation Spectroscopy (FFS) methods will be presented and,
+in particular, the pair Correlation Functions (pCF) approach will be discussed.
+The pCF method does not require individual molecule isolation, as in a
+particle-tracking experiment, to capture single viral protein behavior. In this
+regard, image acquisition is followed by the spatiotemporal cross-correlation
+function at increasing time delays, yielding a quantitative view of
+single-particle mobility in intact live infected cells.We provide a general
+overview and a practical guidance for the implementation of advanced FFS
+techniques, and the pair Correlation Functions analysis, as quantitative tools to
+reveal insights into previously unreported DENV mechanisms. We expect this
+protocol report will serve as an incentive for further applying correlation
+imaging studies in virology research.
+
+© 2022. The Author(s), under exclusive license to Springer Science+Business
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/978-1-0716-1879-0_8 
+PMID: 34709638 
+

@@ -1,0 +1,49 @@
+
+1. crispr j. 2018 feb 1;1(1):88-98. doi: 10.1089/crispr.2017.0012.
+
+redkmer: assembly-free pipeline identification abundant and
+specific x-chromosome target sequences x-shredding crispr endonucleases.
+
+papathanos pa(1), windbichler n(2).
+
+author information: 
+(1)department experimental medicine, section genomics genetics,
+university perugia, perugia, italy.
+(2)department life sciences, imperial college london, sir alexander fleming
+building, south kensington campus, london, united kingdom.
+
+crispr-based synthetic sex ratio distorters, operate shredding the
+x-chromosome male meiosis, promising tools area-wide control
+of harmful insect pest disease vector species. x-shredders proposed 
+as tools suppress insect populations biasing sex ratio wild
+population toward males, thus reducing natural reproductive potential.
+however, build synthetic x-shredders based crispr, selection grna
+targets, form high-copy sequence repeats x chromosome given
+species, difficult, since repeats accurately resolved genome
+assemblies cannot assigned chromosomes confidence. have
+therefore developed redkmer computational pipeline, designed identify
+short highly abundant sequence elements occurring uniquely x
+chromosome. redkmer designed use input minimally processed whole genome
+sequence data males females. tested redkmer short- long-read
+whole genome sequence data anopheles gambiae, major vector human
+malaria, x-shredding paradigm originally developed. redkmer
+established long reads chromosomal proxies excellent correlation the
+genome assembly used rank x-candidate kmers level of
+x-specificity abundance. among these, high-confidence set 25-mers was
+identified, many belonging previously known x-chromosome repeats anopheles 
+gambiae, including ribosomal gene array selfish elements harbored
+within it. data control strain, repeats shared the
+y chromosome, confirmed elimination kmers filtering. finally,
+we show redkmer output linked directly grna selection and
+off-target prediction. addition, output redkmer, including the
+prediction chromosomal origin single-molecule long reads chromosome
+specific kmers, could also used characterization biologically
+relevant sex chromosome sequences, task frequently hampered the
+repetitiveness sex chromosome sequence content.
+
+doi: 10.1089/crispr.2017.0012 
+pmcid: pmc6319322
+pmid: 30627701 
+
+conflict interest statement: competing financial interests exist.
+

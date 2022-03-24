@@ -1,0 +1,70 @@
+
+1. J Virol. 2021 Dec 1:JVI0137821. doi: 10.1128/JVI.01378-21. [Epub ahead of print]
+
+Mooring stone-like Arg114 pulls diverse bulged peptides: first insight into
+African swine fever virus-derived T cell epitopes presented by swine MHC class I.
+
+Yue C(1)(2), Xiang W(3), Huang X(1)(2), Sun Y(4), Xiao J(3), Liu K(5), Sun Z(6), 
+Qiao P(2), Li H(2), Gan J(7), Ba L(3), Chai Y(5), Qi J(5), Liu P(2), Qi P(3),
+Zhao Y(2), Li Y(4), Qiu HJ(4), Gao GF(1)(2)(5), Gao G(1), Liu WJ(2).
+
+Author information: 
+(1)Savaid Medical School, University of Chinese Academy of Sciences, Beijing,
+China.
+(2)NHC Key Laboratory of Biosafety, National Institute for Viral Disease Control 
+and Prevention, Chinese Center for Disease Control and Prevention (China CDC),
+Beijing, China.
+(3)Key Laboratory of Veterinary Bioproduction and Chemical Medicine of the
+Ministry of Agriculture, Engineering and Technology Research Center for Beijing
+Veterinary Peptide Vaccine Design and Preparation, Zhongmu Institute of China
+Animal Husbandry Industry Co. Ltd., Beijing, China.
+(4)State Key Laboratory of Veterinary Biotechnology, National High-Containment
+Facilities for Animal Disease Control and Prevention, Harbin Veterinary Research 
+Institute, Chinese Academy of Agricultural Sciences, Harbin, China.
+(5)CAS Key Laboratory of Pathogen Microbiology and Immunology, Institute of
+Microbiology, Chinese Academy of Sciences (CAS), Beijing, China.
+(6)State Key Laboratory for Diagnosis and Treatment of Infectious Diseases,
+National Clinical Research Center for Infectious Diseases, Collaborative
+Innovation Center for Diagnosis and Treatment of Infectious Disease, The First
+Affiliated Hospital, School of Medicine, Zhejiang University, Hangzhou, China.
+(7)School of Engineering, University of Guelph, Guelph, Ontario, Canada.
+
+African swine fever virus (ASFV) is the causative agent of African swine fever
+(ASF), which is a devastating pig disease threatening the global pork industry.
+However, currently no commercial vaccines are available. During the immune
+response, major histocompatibility complex (MHC) class I molecules select viral
+peptide epitopes and present them to host cytotoxic T lymphocytes, thereby
+playing critical roles in eliminating viral infections. Here we screened peptides
+derived from ASFV and determined the molecular basis of ASFV-derived peptides
+presented by the swine leukocyte antigen (SLA)-1*0101. We found that peptide
+binding in SLA-1*0101 differs from the traditional mammalian binding patterns.
+Unlike the typical B and F pockets used by the common MHC-I molecule, SLA-1*0101 
+uses the D and F pockets as major peptide anchor pockets. Furthermore, the
+conformationally stable Arg114 residue located in the peptide-binding groove
+(PBG) was highly selective for the peptides. Arg114 draws negatively charged
+residues at positions P5 to P7 of the peptides, which led to multiple bulged
+conformations of different peptides binding to SLA-1*0101 and creating diversity 
+for T cells receptor docking. Thus, the solid Arg114 residue acts as a "mooring
+stone" and pulls the peptides into the PBG of SLA-1*0101. Notably, the T cells
+recognition and activation of p72-derived peptides were verified by SLA-1*0101
+tetramer-based flow cytometry in peripheral blood mononuclear cells (PBMCs) of
+the donor pigs. These results refresh our understanding of MHC I molecular anchor
+peptides, and provide new insights into vaccine development for the prevention
+and control of ASF. IMPORTANCE The spread of African swine fever virus (ASFV) has
+caused enormous losses to the pork industry worldwide. Here, a series of
+ASFV-derived peptides were identified, which could bind to swine leukocyte
+antigen SLA-1*0101, a prevalent SLA allele among Yorkshire pigs. The crystal
+structure of four ASFV-derived peptides and one foot-and-mouth disease virus
+(FMDV)-derived peptide complexed with SLA-1*0101 revealed an unusual peptide
+anchoring mode of SLA-1*0101 with D and F pockets as anchoring pockets.
+Negatively-charged residues are preferred within the middle portion of
+SLA-1*0101-binding peptides. Notably, we determined an unexpected role of Arg114 
+of SLA-1*0101 as a "mooring stone" which pulls the peptide anchoring into the PBG
+in diverse "M" or "n" shaped conformation. Furthermore, T cells from donor pigs
+could activate through the recognition of ASFV-derived peptides. Our study sheds 
+light on the uncommon presentation of ASFV peptides by swine MHC I and benefits
+the development of ASF vaccines.
+
+DOI: 10.1128/JVI.01378-21 
+PMID: 34851145 
+

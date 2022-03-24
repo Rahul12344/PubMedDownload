@@ -1,0 +1,45 @@
+
+1. Biomol NMR Assign. 2020 Apr;14(1):19-23. doi: 10.1007/s12104-019-09914-w. Epub
+2019 Oct 14.
+
+NMR chemical shift assignment of a constitutively active fragment of the
+antitermination protein LicT.
+
+Yang Y(1), Declerck N(2)(3), Déméné H(4).
+
+Author information: 
+(1)Centre de Biochimie Structurale (CBS), INSERM, CNRS, Univ Montpellier,
+Montpellier, France.
+(2)Centre de Biochimie Structurale (CBS), INSERM, CNRS, Univ Montpellier,
+Montpellier, France. Nathalie.Declerck@cbs.cnrs.fr.
+(3)INRA, departement MICA, 78352, Jouy-en-Josas, France.
+Nathalie.Declerck@cbs.cnrs.fr.
+(4)Centre de Biochimie Structurale (CBS), INSERM, CNRS, Univ Montpellier,
+Montpellier, France. Helene.demene@cbs.cnrs.fr.
+
+LicT belongs to an essential family of bacterial antitermination proteins which
+bind to nascent mRNAs in order to stimulate transcription of sugar-metabolizing
+operons. As most of other antitermination proteins involved in carbohydrate
+metabolism, LicT is composed of a N-terminal RNA-binding module (CAT) and two
+homologous regulatory modules (PRD1 and PRD2). The activity of the CAT effector
+module is controlled by antagonist phosphorylations by the phosphotransferase
+system on conserved histidines of the two C-terminal PRDs in response to
+available carbon sources. Previous studies on truncated and mutant constructs
+have provided partial structural insight into the mechanism of signal
+transduction between the N-terminal RNA-binding domain and the two regulation
+modules. However, no structure at atomic resolution has been ever solved that
+contain the RNA-binding domain and a regulation module. We report the NMR
+assignment of a constitutively active fragment of LicT, named D99A-CAT-PRD1 or
+CAT-PRD1*. This fragment is composed of the RNA-binding module and the first
+N-terminal regulation module which bears the mutation of Asp99 to an asparagine. 
+It is dimeric as the native protein, with a 40 kD molecular weight. The D99N
+mutation is sufficient to endow this fragment with a high RNA-binding
+constitutive activity, in a phosphorylation-free context. The assignment reported
+here should set the base of future NMR investigation of signal transduction
+between the regulatory module and the effector module in the active state of the 
+protein, and in the long term enable the structural study of the full length
+protein structure in interaction with its target RNA.
+
+DOI: 10.1007/s12104-019-09914-w 
+PMID: 31612430  [Indexed for MEDLINE]
+

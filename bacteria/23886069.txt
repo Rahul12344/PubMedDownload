@@ -1,0 +1,34 @@
+
+1. Microb Cell Fact. 2013 Jul 25;12:72. doi: 10.1186/1475-2859-12-72.
+
+Metabolic engineering of Bacillus subtilis for growth on overflow metabolites.
+
+Kabisch J(1), Pratzka I, Meyer H, Albrecht D, Lalk M, Ehrenreich A, Schweder T.
+
+Author information: 
+(1)Pharmaceutical Biotechnology, Institute of Pharmacy,
+Ernst-Moritz-Arndt-Universität, Felix-Hausdorff-Str, 3, D-17487 Greifswald,
+Germany.
+
+BACKGROUND: The genome of the important industrial host Bacillus subtilis does
+not encode the glyoxylate shunt, which is necessary to utilize overflow
+metabolites, like acetate or acetoin, as carbon source. In this study, the operon
+encoding the isocitrate lyase (aceB) and malate synthase (aceA) from Bacillus
+licheniformis was transferred into the chromosome of B. subtilis. The resulting
+strain was examined in respect to growth characteristics and qualities as an
+expression host.
+RESULTS: Our results show that the modified B. subtilis strain is able to grow on
+the C2 compound acetate. A combined transcript, protein and metabolite analysis
+indicated a functional expression of the native glyoxylate shunt of B.
+lichenifomis in B. subtilis. This metabolically engineered strain revealed better
+growth behavior and an improved activity of an acetoin-controlled expression
+system.
+CONCLUSIONS: The glyoxylate shunt of B. licheniformis can be functionally
+transferred to B. subtilis. This novel strain offers improved properties for
+industrial applications, such as growth on additional carbon sources and a
+greater robustness towards excess glucose feeding.
+
+DOI: 10.1186/1475-2859-12-72 
+PMCID: PMC3728045
+PMID: 23886069  [Indexed for MEDLINE]
+

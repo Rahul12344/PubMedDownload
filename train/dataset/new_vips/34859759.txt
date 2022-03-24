@@ -1,0 +1,55 @@
+
+1. BJPsych Open. 2021 Dec 3;8(1):e6. doi: 10.1192/bjo.2021.1053.
+
+Analysis of the impact of antidepressants and other medications on COVID-19
+infection risk in a chronic psychiatric in-patient cohort.
+
+Clelland CL(1), Ramiah K(2), Steinberg L(3), Clelland JD(2).
+
+Author information: 
+(1)Taub Institute for Research on Alzheimer's Disease and the Aging Brain,
+Columbia University Irving Medical Center, USA; Department of Pathology and Cell 
+Biology, Columbia University Irving Medical Center, USA; and Department of
+Psychiatry, Columbia University Irving Medical Center, USA.
+(2)Clinical Research Department, The Nathan S. Kline Institute for Psychiatric
+Research, USA.
+(3)Clinical Research Department, The Nathan S. Kline Institute for Psychiatric
+Research, USA; and Department of Psychiatry, NYU Grossman School of Medicine,
+USA.
+
+BACKGROUND: During the first wave of the coronavirus disease 2019 (COVID-19)
+pandemic, patients with confirmed cases in New York State accounted for roughly
+25% of total US cases, with psychiatric hospital in-patients at particularly high
+risk for COVID-19 infection.
+AIMS: The beneficial effects of mental health medications, such as selective
+serotonin reuptake inhibitors (SSRIs), on the severity of COVID-19 disease
+outcomes have been documented. Protective effects against infection have also
+been suggested for these medications. We therefore tested the hypothesis that
+medication use modifies the risk of COVID-19 infection in a long-stay, chronic
+in-patient psychiatry setting, where the potential for exposure was likely
+uniform across the facility, and where these medications were routinely
+prescribed.
+METHOD: This was a retrospective cohort study of an adult psychiatric facility
+operated by the New York State Office of Mental Health. Current medication
+information and COVID-19 status was collected from electronic medical records for
+165 people who were in-patients during the period January to July 2020, and
+logistic regression was employed to model the main effects of medication use on
+COVID-19 infection.
+RESULTS: A significant protective association was observed between antidepressant
+use and COVID-19 infection (odds ratio (OR) = 0.33, 95% CI 0.15-0.70, adjusted P 
+< 0.05). Analysis of individual antidepressant classes showed that SSRI,
+serotonin-norepinephrine reuptake inhibitor and the serotonin-2 antagonist
+reuptake inhibitor classes of antidepressants, drove this protective effect.
+Exploratory analyses of individual antidepressants demonstrated an association
+between lower risk of infection and fluoxetine use (P = 0.023), as well as
+trazodone use (P = 0.001).
+CONCLUSIONS: The novel finding of reduced COVID-19 infection risk for psychiatric
+in-patients taking antidepressants, suggests that antidepressants may be an
+important weapon in the continued fight against COVID-19 disease. This finding
+may become particularly salient for in-patient settings if vaccine-resistant
+strains of the virus appear.
+
+DOI: 10.1192/bjo.2021.1053 
+PMCID: PMC8649363
+PMID: 34859759 
+

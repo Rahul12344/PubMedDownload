@@ -1,0 +1,44 @@
+
+1. Cell Microbiol. 2014 Jul;16(7):1034-52. doi: 10.1111/cmi.12256. Epub 2014 Jan 27.
+
+Functional analysis of novel Rab GTPases identified in the proteome of purified
+Legionella-containing vacuoles from macrophages.
+
+Hoffmann C(1), Finsel I, Otto A, Pfaffinger G, Rothmeier E, Hecker M, Becher D,
+Hilbi H.
+
+Author information: 
+(1)Department of Medicine, Max von Pettenkofer Institute, Ludwig-Maximilians
+University Munich, Munich, 80336, Germany.
+
+The opportunistic pathogen Legionella pneumophila employs the Icm/Dot type IV
+secretion system and ∼300 different effector proteins to replicate in macrophages
+and amoebae in a distinct 'Legionella-containing vacuole' (LCV). LCVs from
+infected RAW 264.7 macrophages were enriched by immuno-affinity separation and
+density gradient centrifugation, using an antibody against the L. pneumophila
+effector SidC, which specifically binds to the phosphoinositide PtdIns(4)P on the
+pathogen vacuole membrane. The proteome of purified LCVs was determined by mass
+spectro-metry (data are available via ProteomeXchange with identifier PXD000647).
+The proteomics analysis revealed more than 1150 host proteins, including 13 small
+GTPases of the Rab family. Using fluorescence microscopy, 6 novel Rab proteins
+were confirmed to localize on pathogen vacuoles harbouring wild-type but not
+ΔicmT mutant L. pneumophila. Individual depletion of 20 GTPases by RNA
+interference indicated that endocytic GTPases (Rab5a, Rab14 and Rab21) restrict
+intracellular growth of L. pneumophila, whereas secretory GTPases (Rab8a, Rab10
+and Rab32) implicated in Golgi-endosome trafficking promote bacterial
+replication. Upon silencing of Rab21 or Rab32, fewer LCVs stained positive for
+Rab4 or Rab9, implicated in secretory or retrograde trafficking respectively.
+Moreover, depletion of Rab8a, Rab14 or Rab21 significantly decreased the number
+of SidC-positive LCVs, suggesting that PtdIns(4)P is reduced under these
+conditions. L. pneumophila proteins identified in purified LCVs included proteins
+putatively implicated in phosphorus metabolism and as many as 60
+Icm/Dot-translocated effectors, which are likely required early during infection.
+Taken together, the phagocyte and Legionella proteomes of purified LCVs lay the
+foundation for further hypothesis-driven investigations of the complex process of
+pathogen vacuole formation.
+
+© 2013 John Wiley & Sons Ltd.
+
+DOI: 10.1111/cmi.12256 
+PMID: 24373249  [Indexed for MEDLINE]
+

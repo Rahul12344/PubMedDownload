@@ -1,0 +1,37 @@
+
+1. Nucleic Acids Res. 2021 Dec 6. pii: gkab1190. doi: 10.1093/nar/gkab1190. [Epub
+ahead of print]
+
+Specificity and sensitivity of an RNA targeting type III CRISPR complex coupled
+with a NucC endonuclease effector.
+
+Grüschow S(1), Adamson CS(1), White MF(1).
+
+Author information: 
+(1)Biomedical Sciences Research Complex, School of Biology, University of St
+Andrews, St Andrews, KY16 9ST, UK.
+
+Type III CRISPR systems detect invading RNA, resulting in the activation of the
+enzymatic Cas10 subunit. The Cas10 cyclase domain generates cyclic oligoadenylate
+(cOA) second messenger molecules, activating a variety of effector nucleases that
+degrade nucleic acids to provide immunity. The prophage-encoded Vibrio metoecus
+type III-B (VmeCmr) locus is uncharacterised, lacks the HD nuclease domain in
+Cas10 and encodes a NucC DNA nuclease effector that is also found associated with
+Cyclic-oligonucleotide-based anti-phage signalling systems (CBASS). Here we
+demonstrate that VmeCmr is activated by target RNA binding, generating
+cyclic-triadenylate (cA3) to stimulate a robust NucC-mediated DNase activity. The
+specificity of VmeCmr is probed, revealing the importance of specific nucleotide 
+positions in segment 1 of the RNA duplex and the protospacer flanking sequence
+(PFS). We harness this programmable system to demonstrate the potential for a
+highly specific and sensitive assay for detection of the SARS-CoV-2 virus RNA
+with a limit of detection (LoD) of 2 fM using a commercial plate reader without
+any extrinsic amplification step. The sensitivity is highly dependent on the
+guide RNA used, suggesting that target RNA secondary structure plays an important
+role that may also be relevant in vivo.
+
+© The Author(s) 2021. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkab1190 
+PMID: 34871408 
+

@@ -1,0 +1,52 @@
+
+1. ACS Cent Sci. 2021 Nov 24;7(11):1863-1873. doi: 10.1021/acscentsci.1c00804. Epub 
+2021 Nov 4.
+
+Probing Affinity, Avidity, Anticooperativity, and Competition in Antibody and
+Receptor Binding to the SARS-CoV-2 Spike by Single Particle Mass Analyses.
+
+Yin V(1)(2), Lai SH(1)(2), Caniels TG(3), Brouwer PJM(3), Brinkkemper M(3), Aldon
+Y(3), Liu H(4), Yuan M(4), Wilson IA(4)(5), Sanders RW(3)(6), van Gils MJ(3),
+Heck AJR(1)(2).
+
+Author information: 
+(1)Biomolecular Mass Spectrometry and Proteomics, Bijvoet Center for Biomolecular
+Research and Utrecht Institute for Pharmaceutical Sciences, Utrecht University,
+Padualaan 8, 3584 CH Utrecht, The Netherlands.
+(2)Netherlands Proteomics Center, Padualaan 8, 3584 CH Utrecht, The Netherlands.
+(3)Department of Medical Microbiology and Infection Prevention, Amsterdam
+University Medical Centers, Location AMC, University of Amsterdam, Meibergdreef
+9, 1105 AZ Amsterdam, The Netherlands.
+(4)Department of Integrative Structural and Computational Biology, The Scripps
+Research Institute, La Jolla, California 92037, United States.
+(5)Skaggs Institute for Chemical Biology, The Scripps Research Institute, La
+Jolla, California 92037, United States.
+(6)Department of Microbiology and Immunology, Weill Medical College of Cornell
+University, 1300 York Avenue, New York, New York 10065, United States.
+
+Determining how antibodies interact with the spike (S) protein of the SARS-CoV-2 
+virus is critical for combating COVID-19. Structural studies typically employ
+simplified, truncated constructs that may not fully recapitulate the behavior of 
+the original complexes. Here, we combine two single particle mass analysis
+techniques (mass photometry and charge-detection mass spectrometry) to enable the
+measurement of full IgG binding to the trimeric SARS-CoV-2 S ectodomain. Our
+experiments reveal that antibodies targeting the S-trimer typically prefer
+stoichiometries lower than the symmetry-predicted 3:1 binding. We determine that 
+this behavior arises from the interplay of steric clashes and avidity effects
+that are not reflected in common antibody constructs (i.e., Fabs). Surprisingly, 
+these substoichiometric complexes are fully effective at blocking ACE2 binding
+despite containing free receptor binding sites. Our results highlight the
+importance of studying antibody/antigen interactions using complete, multimeric
+constructs and showcase the utility of single particle mass analyses in
+unraveling these complex interactions.
+
+© 2021 The Authors. Published by American Chemical Society.
+
+DOI: 10.1021/acscentsci.1c00804 
+PMCID: PMC8577368
+PMID: 34845440 
+
+Conflict of interest statement: The authors declare the following competing
+financial interest(s): Amsterdam UMC filed a patent application on SARS-CoV-2
+monoclonal antibodies including the ones used in this manuscript.
+

@@ -1,0 +1,61 @@
+
+1. malar j. 2018 feb 23;17(1):91. doi: 10.1186/s12936-018-2232-6.
+
+direct whole-genome sequencing plasmodium falciparum specimens dried
+erythrocyte spots.
+
+nag s(1)(2), kofoed pe(3)(4), ursing j(4)(5)(6), lemvigh ck(7), allesøe rl(7),
+rodrigues a(4), svendsen ca(8), jensen jd(8), alifrangis m(9)(10), lund o(7),
+aarestrup fm(8).
+
+author information: 
+(1)centre medical parasitology department immunology microbiology, 
+faculty health medical science, university copenhagen, copenhagen,
+denmark. jassd_nf@hotmail.com.
+(2)department infectious diseases, copenhagen university hospital
+(rigshospitalet), copenhagen, denmark. jassd_nf@hotmail.com.
+(3)department paediatrics, kolding hospital, kolding, denmark.
+(4)bandim health project, bissau, guinea-bissau.
+(5)department microbiology, tumor cell biology, karolinska institutet,
+stockholm, sweden.
+(6)department infectious diseases, danderyds hospital, danderyd, sweden.
+(7)dtu bioinformatics, technical university denmark, lyngby, denmark.
+(8)division epidemiology microbial genomics, national food institute,
+technical university denmark, kongens lyngby, denmark.
+(9)centre medical parasitology department immunology microbiology, 
+faculty health medical science, university copenhagen, copenhagen,
+denmark.
+(10)department infectious diseases, copenhagen university hospital
+(rigshospitalet), copenhagen, denmark.
+
+background: plasmodium falciparum malaria remains major health burden and
+genomic research represents one necessary approaches continued
+progress towards malaria control elimination. sample acquisition this
+purpose troublesome, majority malaria-infected individuals living 
+in rural areas, away main infrastructure electrical grid. aim of
+this study describe low-tech procedure sample p. falciparum specimens
+for direct whole genome sequencing (wgs), without use electricity and
+cold-chain.
+methods: venous blood samples collected malaria patients bandim,
+guinea-bissau leukocyte-depleted using plasmodipur filters, enriched
+parasite sample spotted whatman paper dried. samples stored
+at ambient temperatures subsequently used dna-extraction. ratios of
+parasite:human content extracted dna assessed qpcr, five
+samples varying parasitaemia, sequenced. sequencing data used to
+analyse sample content, well sample coverage depth compared to
+the 3d7 reference genome.
+results: qpcr revealed 73% 199 samples applicable wgs, as
+defined minimum ratio parasite:human dna 2:1. wgs revealed even
+distribution sequence data across 3d7 reference genome, regardless of
+parasitaemia. acquired read depths varied 16 99×, coverage varied
+from 87.5 98.9% 3d7 reference genome. snp-analysis six genes, for
+which amplicon sequencing performed previously, confirmed the
+reliability wgs-data.
+conclusion: study describes simple filter paper based protocol for
+sampling p. falciparum malaria patients subsequent direct wgs, enabling 
+acquisition samples remote settings access electricity.
+
+doi: 10.1186/s12936-018-2232-6 
+pmcid: pmc5824530
+pmid: 29471822  [indexed medline]
+

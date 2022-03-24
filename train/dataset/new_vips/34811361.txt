@@ -1,0 +1,40 @@
+
+1. Nat Commun. 2021 Nov 22;12(1):6786. doi: 10.1038/s41467-021-27072-3.
+
+Design of modular autoproteolytic gene switches responsive to anti-coronavirus
+drug candidates.
+
+Franko N(1), Teixeira AP(1), Xue S(1), Charpin-El Hamri G(2), Fussenegger
+M(3)(4).
+
+Author information: 
+(1)ETH Zurich, Department of Biosystems Science and Engineering, Mattenstrasse
+26, CH-4058, Basel, Switzerland.
+(2)Département Génie Biologique, Institut Universitaire de Technologie,
+Université Claude Bernard Lyon 1, F-69622, Villeurbanne, Cedex, France.
+(3)ETH Zurich, Department of Biosystems Science and Engineering, Mattenstrasse
+26, CH-4058, Basel, Switzerland. fussenegger@bsse.ethz.ch.
+(4)University of Basel, Faculty of Life Science, Basel, Switzerland.
+fussenegger@bsse.ethz.ch.
+
+The main (Mpro) and papain-like (PLpro) proteases encoded by SARS-CoV-2 are
+essential to process viral polyproteins into functional units, thus representing 
+key targets for anti-viral drug development. There is a need for an efficient
+inhibitor screening system that can identify drug candidates in a cellular
+context. Here we describe modular, tunable autoproteolytic gene switches (TAGS)
+relying on synthetic transcription factors that self-inactivate, unless in the
+presence of coronavirus protease inhibitors, consequently activating transgene
+expression. TAGS rapidly report the impact of drug candidates on Mpro and PLpro
+activities with a high signal-to-noise response and a sensitivity matching
+concentration ranges inhibiting viral replication. The modularity of the TAGS
+enabled the study of other Coronaviridae proteases, characterization of mutations
+and multiplexing of gene switches in human cells. Mice implanted with Mpro or
+PLpro TAGS-engineered cells enabled analysis of the activity and bioavailability 
+of protease inhibitors in vivo in a virus-free setting.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-27072-3 
+PMCID: PMC8609006
+PMID: 34811361 
+

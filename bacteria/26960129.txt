@@ -1,0 +1,36 @@
+
+1. Acta Crystallogr D Struct Biol. 2016 Mar;72(Pt 3):421-9. doi:
+10.1107/S2059798315024110. Epub 2016 Mar 1.
+
+Data-collection strategy for challenging native SAD phasing.
+
+Olieric V(1), Weinert T(1), Finke AD(1), Anders C(2), Li D(3), Olieric N(4),
+Borca CN(1), Steinmetz MO(4), Caffrey M(3), Jinek M(2), Wang M(1).
+
+Author information: 
+(1)Swiss Light Source, Paul Scherrer Institut, Villigen PSI, Switzerland.
+(2)Department of Biochemistry, University of Zurich, Zurich, Switzerland.
+(3)Membrane Structural and Functional Group, Schools of Medicine and Biochemistry
+and Immunology, Trinity College, Dublin, Ireland.
+(4)Laboratory of Biomolecular Research, Department of Biology and Chemistry, Paul
+Scherrer Institut, Villigen PSI, Switzerland.
+
+Recent improvements in data-collection strategies have pushed the limits of
+native SAD (single-wavelength anomalous diffraction) phasing, a method that uses 
+the weak anomalous signal of light elements naturally present in macromolecules. 
+These involve the merging of multiple data sets from either multiple crystals or 
+from a single crystal collected in multiple orientations at a low X-ray dose.
+Both approaches yield data of high multiplicity while minimizing radiation damage
+and systematic error, thus ensuring accurate measurements of the anomalous
+differences. Here, the combined use of these two strategies is described to solve
+cases of native SAD phasing that were particular challenges: the integral
+membrane diacylglycerol kinase (DgkA) with a low Bijvoet ratio of 1% and the
+large 200 kDa complex of the CRISPR-associated endonuclease (Cas9) bound to guide
+RNA and target DNA crystallized in the low-symmetry space group C2. The optimal
+native SAD data-collection strategy based on systematic measurements performed on
+the 266 kDa multiprotein/multiligand tubulin complex is discussed.
+
+DOI: 10.1107/S2059798315024110 
+PMCID: PMC4784673
+PMID: 26960129  [Indexed for MEDLINE]
+

@@ -1,0 +1,36 @@
+
+1. Healthcare (Basel). 2021 Oct 21;9(11). pii: 1412. doi: 10.3390/healthcare9111412.
+
+How Can Hybrid Simulation Support Organizations in Assessing COVID-19 Containment
+Measures?
+
+Cimini C(1), Pezzotta G(1), Lagorio A(1), Pirola F(1), Cavalieri S(1).
+
+Author information: 
+(1)Department of Management, Information and Production Engineering, University
+of Bergamo, 24044 Dalmine, Italy.
+
+Simulation models have always been an aid in epidemiology for understanding the
+spread of epidemics and evaluating their containment policies. This paper
+illustrates how hybrid simulation can support companies in assessing COVID-19
+containment measures in indoor environments. In particular, a Hybrid Simulation
+(HS) is presented. The HS model consists of an Agent-Based Simulation (ABS) to
+simulate the virus contagion model and a Discrete Event Simulation (DES) model to
+simulate the interactions between flows of people in an indoor environment.
+Compared with previous works in the field of simulation and COVID-19, this study 
+provides the possibility to model the specific behaviors of individuals moving in
+time and space and the proposed HS model could be adapted to several
+epidemiological conditions (just setting different parameters in the agent-based 
+model) and different kinds of facilities. The HS approach has been developed and 
+then successfully tested with a real case study related to a university campus in
+northern Italy. The case study highlights the potentials of hybrid simulation in 
+assessing the effectiveness of the containment measures adopted during the period
+under examination in the pandemic context. From a managerial perspective, this
+study, exploiting the complementarity of the ABM and DES approaches in a HS
+model, provides a complete and usable tool to support decision-makers in
+evaluating different contagion containment measures.
+
+DOI: 10.3390/healthcare9111412 
+PMCID: PMC8623759
+PMID: 34828458 
+

@@ -1,0 +1,43 @@
+
+1. J Coupled Syst Multiscale Dyn. 2013 Dec 1;1(4):459-467.
+
+Predicting mechanism of biphasic growth factor action on tumor growth using a
+multi-species model with feedback control.
+
+Konstorum A(1), Sprowl SA(2), Waterman ML(2), Lander AD(3), Lowengrub JS(4).
+
+Author information: 
+(1)Department of Mathematics, University of California, Irvine, CA 92697-3875,
+USA ; Center for Complex Biological Systems, University of California, 2620
+Biological Sciences III, Irvine, CA 92697-2280, USA.
+(2)Center for Complex Biological Systems, University of California, 2620
+Biological Sciences III, Irvine, CA 92697-2280, USA ; Department of Microbiology 
+and Molecular Genetics, University of California, Irvine, CA 92697-4025, USA.
+(3)Center for Complex Biological Systems, University of California, 2620
+Biological Sciences III, Irvine, CA 92697-2280, USA ; Department of Developmental
+and Cell Biology, University of California, 2011 Biological Sciences III, Irvine,
+CA 92697-2300, USA.
+(4)Department of Mathematics, University of California, Irvine, CA 92697-3875,
+USA ; Center for Complex Biological Systems, University of California, 2620
+Biological Sciences III, Irvine, CA 92697-2280, USA ; Department of Biomedical
+Engineering, University of California, 3120 Natural Sciences II, Irvine, CA
+92697-2715, USA.
+
+A large number of growth factors and drugs are known to act in a biphasic manner:
+at lower concentrations they cause increased division of target cells, whereas at
+higher concentrations the mitogenic effect is inhibited. Often, the molecular
+details of the mitogenic effect of the growth factor are known, whereas the
+inhibitory effect is not. Hepatoctyte Growth Factor, HGF, has recently been
+recognized as a strong mitogen that is present in the microenvironment of solid
+tumors. Recent evidence suggests that HGF acts in a biphasic manner on tumor
+growth. We build a multi-species model of HGF action on tumor cells using
+different hypotheses for high dose-HGF activation of a growth inhibitor and show 
+that the shape of the dose-response curve is directly related to the mechanism of
+inhibitor activation. We thus hypothesize that the shape of a dose-response curve
+is informative of the molecular action of the growth factor on the growth
+inhibitor.
+
+DOI: 10.1166/jcsmd.2013.1028 
+PMCID: PMC4112130
+PMID: 25075381 
+

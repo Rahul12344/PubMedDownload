@@ -1,0 +1,35 @@
+
+1. Int J Food Microbiol. 2000 Jul 15;58(3):213-21.
+
+Sensitivity analysis in quantitative microbial risk assessment.
+
+Zwieterin MH(1), van Gerwen SJ.
+
+Author information: 
+(1)CIRDC, Le Plessis Robinson, France. mzwieter@danone.com
+
+The occurrence of foodborne disease remains a widespread problem in both the
+developing and the developed world. A systematic and quantitative evaluation of
+food safety is important to control the risk of foodborne diseases. World-wide,
+many initiatives are being taken to develop quantitative risk analysis. However, 
+the quantitative evaluation of food safety in all its aspects is very complex,
+especially since in many cases specific parameter values are not available. Often
+many variables have large statistical variability while the quantitative effect
+of various phenomena is unknown. Therefore, sensitivity analysis can be a useful 
+tool to determine the main risk-determining phenomena, as well as the aspects
+that mainly determine the inaccuracy in the risk estimate. This paper presents
+three stages of sensitivity analysis. First, deterministic analysis selects the
+most relevant determinants for risk. Overlooking of exceptional, but relevant
+cases is prevented by a second, worst-case analysis. This analysis finds relevant
+process steps in worst-case situations, and shows the relevance of variations of 
+factors for risk. The third, stochastic analysis, studies the effects of
+variations of factors for the variability of risk estimates. Care must be taken
+that the assumptions made as well as the results are clearly communicated.
+Stochastic risk estimates are, like deterministic ones, just as good (or bad) as 
+the available data, and the stochastic analysis must not be used to mask lack of 
+information. Sensitivity analysis is a valuable tool in quantitative risk
+assessment by determining critical aspects and effects of variations.
+
+DOI: 10.1016/s0168-1605(00)00275-0 
+PMID: 10939271  [Indexed for MEDLINE]
+

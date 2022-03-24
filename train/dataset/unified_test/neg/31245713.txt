@@ -1,0 +1,52 @@
+
+1. plant direct. 2018 mar 7;2(3):e00047. doi: 10.1002/pld3.47. ecollection 2018 mar.
+
+crispr/cas9-mediated resistance cauliflower mosaic virus.
+
+liu h(1), soyars cl(2)(3), li j(1), fei q(4)(5), g(1), peterson ba(2)(3),
+meyers bc(4)(5)(6), nimchuk zl(2)(3)(7)(8), wang x(1).
+
+author information: 
+(1)department plant pathology, physiology weed science virginia tech
+blacksburg va usa.
+(2)department biological sciences virginia tech blacksburg va usa.
+(3)department biology university north carolina chapel hill chapel hill 
+nc usa.
+(4)department plant & soil sciences delaware biotechnology institute
+university delaware newark de usa.
+(5)donald danforth plant science center st. louis mo usa.
+(6)division plant sciences university missouri - columbia columbia mo usa.
+(7)faculty health sciences virginia tech blacksburg va usa.
+(8)curriculum genetics molecular biology university north carolina at
+chapel hill chapel hill nc usa.
+
+viral diseases leading cause worldwide yield losses crop production. 
+breeding resistance genes (r gene) elite crop cultivars the
+standard cost-effective practice. however, r gene-mediated resistance is
+limited available r genes within genetic resources many cases, by
+strain specificity. therefore, important generate new broad-spectrum
+antiviral strategies. crispr-cas9 (clustered regularly interspaced
+palindromic repeat, crispr-associated) editing system employed confer
+resistance human viruses several plant single-stranded dna geminiviruses, 
+pointing possible application crispr-cas9 system virus
+control. here, demonstrate strong viral resistance cauliflower mosaic 
+virus (camv), pararetrovirus double-stranded dna genome, achieved
+through cas9-mediated multiplex targeting viral coat protein sequence. 
+further show small interfering rnas (sirna) produced mostly map to
+the 3' end single-guide rnas (sgrna), although low levels sirnas map
+to spacer region well. however, sirnas responsible the
+inhibited camv infection resistance cas9 present.
+we also observed edited viruses systematically infected leaves some
+transgenic plants, short deletions insertions consistent with
+cas9-induced dna breaks sgrna target sites coat protein coding
+sequence. edited coat proteins, cases, led earlier translation
+stop thus, nonfunctional coat proteins. also recovered wild-type cp
+sequence infected transgenic plants, suggesting edited viral
+genomes packaged wild-type coat proteins. data demonstrate the
+crispr-cas9 system used virus control plant pararetroviruses
+with modifications.
+
+doi: 10.1002/pld3.47 
+pmcid: pmc6508564
+pmid: 31245713 
+

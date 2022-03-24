@@ -1,0 +1,63 @@
+
+1. PLoS Pathog. 2021 Nov 19;17(11):e1009743. doi: 10.1371/journal.ppat.1009743.
+eCollection 2021 Nov.
+
+Phosphatidylserine receptors enhance SARS-CoV-2 infection.
+
+Bohan D(1), Van Ert H(1), Ruggio N(1), Rogers KJ(1), Badreddine M(1), Aguilar
+Briseño JA(1), Elliff JM(1), Rojas Chavez RA(1), Gao B(2), Stokowy T(3),
+Christakou E(3)(4), Kursula P(3)(5), Micklem D(4), Gausdal G(4), Haim H(1), Minna
+J(2), Lorens JB(3), Maury W(1).
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Iowa, Iowa City,
+Iowa, United States of America.
+(2)Hamon Center for Therapeutic Oncology Research, University of Texas
+Southwestern Medical Center, Dallas, Texas, United States of America.
+(3)Department of Biomedicine, University of Bergen, Bergen, Norway.
+(4)BerGenBio ASA, Bergen, Norway.
+(5)Biocenter Oulu & Faculty of Biochemistry and Molecular Medicine, University of
+Oulu, Oulu, Finland.
+
+Update of
+    bioRxiv. 2021 Jun 24;:.
+
+Phosphatidylserine (PS) receptors enhance infection of many enveloped viruses
+through virion-associated PS binding that is termed apoptotic mimicry. Here we
+show that this broadly shared uptake mechanism is utilized by SARS-CoV-2 in cells
+that express low surface levels of ACE2. Expression of members of the TIM (TIM-1 
+and TIM-4) and TAM (AXL) families of PS receptors enhance SARS-CoV-2 binding to
+cells, facilitate internalization of fluorescently-labeled virions and increase
+ACE2-dependent infection of SARS-CoV-2; however, PS receptors alone did not
+mediate infection. We were unable to detect direct interactions of the PS
+receptor AXL with purified SARS-CoV-2 spike, contrary to a previous report.
+Instead, our studies indicate that the PS receptors interact with PS on the
+surface of SARS-CoV-2 virions. In support of this, we demonstrate that: 1)
+significant quantities of PS are located on the outer leaflet of SARS-CoV-2
+virions, 2) PS liposomes, but not phosphatidylcholine liposomes, reduced entry of
+VSV/Spike pseudovirions and 3) an established mutant of TIM-1 which does not bind
+to PS is unable to facilitate entry of SARS-CoV-2. As AXL is an abundant PS
+receptor on a number of airway lines, we evaluated small molecule inhibitors of
+AXL signaling such as bemcentinib for their ability to inhibit SARS-CoV-2
+infection. Bemcentinib robustly inhibited virus infection of Vero E6 cells as
+well as multiple human lung cell lines that expressed AXL. This inhibition
+correlated well with inhibitors that block endosomal acidification and cathepsin 
+activity, consistent with AXL-mediated uptake of SARS-CoV-2 into the endosomal
+compartment. We extended our observations to the related betacoronavirus mouse
+hepatitis virus (MHV), showing that inhibition or ablation of AXL reduces MHV
+infection of murine cells. In total, our findings provide evidence that PS
+receptors facilitate infection of the pandemic coronavirus SARS-CoV-2 and suggest
+that inhibition of the PS receptor AXL has therapeutic potential against
+SARS-CoV-2.
+
+DOI: 10.1371/journal.ppat.1009743 
+PMCID: PMC8641883
+PMID: 34797899 
+
+Conflict of interest statement: I have read the journal’s policy and the authors 
+of this manuscript have the following competing interests: GG, DM, and EC are
+employees of BerGenBio ASA, a company with financial interests in this field. JBL
+is a former employee of BerGenBio ASA. Partial funding was provided by BerGenBio 
+ASA. JM receives licensing royalties from the NIH and UTSW for distribution of
+human tumor lines. No other authors have competing interests to declare.
+

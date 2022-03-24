@@ -1,0 +1,38 @@
+
+1. J Vis Exp. 2021 Nov 5;(177). doi: 10.3791/63127.
+
+Live Imaging and Quantification of Viral Infection in K18 hACE2 Transgenic Mice
+using Reporter-Expressing Recombinant SARS-CoV-2.
+
+Morales Vasquez D(1), Chiem K(1), Silvas J(1), Park JG(1), Ye C(2),
+Martínez-Sobrido L(3).
+
+Author information: 
+(1)Texas Biomedical Research Institute.
+(2)Texas Biomedical Research Institute; CYe@txbiomed.org.
+(3)Texas Biomedical Research Institute; LMartinez@txbiomed.org.
+
+The coronavirus disease 2019 (COVID-19) pandemic has been caused by severe acute 
+respiratory syndrome coronavirus 2 (SARS-CoV-2). To date, SARS-CoV-2 has been
+responsible for over 242 million infections and more than 4.9 million deaths
+worldwide. Similar to other viruses, studying SARS-CoV-2 requires the use of
+experimental methods to detect the presence of virus in infected cells and/or in 
+animal models. To overcome this limitation, we generated replication-competent
+recombinant (r)SARS-CoV-2 that expresses bioluminescent (nanoluciferase, Nluc) or
+fluorescent (Venus) proteins. These reporter-expressing rSARS-CoV-2 allow
+tracking viral infections in vitro and in vivo based on the expression of Nluc
+and Venus reporter genes. Here the study describes the use of rSARS-CoV-2/Nluc
+and rSARS-CoV-2/Venus to detect and track SARS-CoV-2 infection in the previously 
+described K18 human angiotensin-converting enzyme 2 (hACE2) transgenic mouse
+model of infection using in vivo imaging systems (IVIS). This rSARS-CoV-2/Nluc
+and rSARS-CoV-2/Venus show rSARS-CoV-2/WT-like pathogenicity and viral
+replication in vivo. Importantly, Nluc and Venus expression allow us to directly 
+track viral infections in vivo and ex vivo, in infected mice. These
+rSARS-CoV-2/Nluc and rSARS-CoV-2/Venus represent an excellent option to study the
+biology of SARS-CoV-2 in vivo, to understand viral infection and associated
+COVID-19 disease, and to identify effective prophylactic and/or therapeutic
+treatments to combat SARS-CoV-2 infection.
+
+DOI: 10.3791/63127 
+PMID: 34806704  [Indexed for MEDLINE]
+

@@ -1,0 +1,36 @@
+
+1. Arch Microbiol. 1997 Apr;167(4):209-16.
+
+Effect of chelating agents and respiratory inhibitors on regulation of the cadA
+gene in Escherichia coli.
+
+Reams SG(1), Lee N, Mat-Jan F, Clark DP.
+
+Author information: 
+(1)Department of Microbiology, Southern Illinois University, Carbondale, IL
+62901, USA.
+
+The cadA gene that encodes lysine decarboxylase in Escherichia coli is induced by
+low pH and - during anaerobic growth - by the substrate, lysine. We used operon
+fusions of cadA to lacZ to investigate the effects of aeration on cadA
+regulation. When an insertion mutation in osmZ (= hns) was introduced, a
+cadA-lacZ fusion was derepressed in the presence of air to approximately the same
+level as seen during anaerobic growth. However, the pH-dependent regulation of
+cadA was not affected by osmZ. Introduction of mutations in rpoS, fur, or fnr had
+no significant effect on cadA expression. However, defects in arcB or arcA
+largely abolished expression of cadA during anaerobic growth. Nonetheless,
+strains defective in both arcB and osmZ showed the same high cadA-lac expression 
+in air as seen in the single osmZ derivatives. Blocking the respiratory chain
+with mutations or chemical inhibitors also caused derepression of a cadA-lacZ
+fusion in air, while agents affecting the proton gradient had no effect.
+Derepression of cadA in air was also mediated by several chelating agents, in
+particular by methoxyindole carboxylic acid. Addition of Fe2+ overcame this
+effect. Chelating agents also abolished the expression during aerobic growth of
+several genes known to be under arcAB control and which are normally repressed
+during anaerobic growth but induced in the presence of air. This implies that the
+effect of chelating agents on cadA expression is mediated via the arcAB
+regulatory system.
+
+DOI: 10.1007/s002030050437 
+PMID: 9075621  [Indexed for MEDLINE]
+

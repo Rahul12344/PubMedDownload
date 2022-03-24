@@ -1,0 +1,43 @@
+
+1. methods. 2015 jul 15;83:63-70. doi: 10.1016/j.ymeth.2015.04.002. epub 2015 apr 7.
+
+heavy path mining protein-protein associations malaria parasite.
+
+yu x(1), korkmaz t(2), lilburn tg(3), cai h(4), gu j(5), wang y(6).
+
+author information: 
+(1)department computer science, university texas san antonio, san
+antonio, tx 78249, usa. electronic address: xinran.yu@utsa.edu.
+(2)department computer science, university texas san antonio, san
+antonio, tx 78249, usa. electronic address: turgay.korkmaz@utsa.edu.
+(3)novozymes na, durham, nc 27709, usa. electronic address: tglilburn@gmail.com.
+(4)department biology, south texas emerging infectious diseases,
+university texas san antonio, san antonio, tx 78249, usa. electronic
+address: hong.cai@utsa.edu.
+(5)department biology, college staten island, city university new york, 
+staten island, ny 10314, usa. electronic address: jianying.gu@csi.cuny.edu.
+(6)department biology, south texas emerging infectious diseases,
+university texas san antonio, san antonio, tx 78249, usa. electronic
+address: yufeng.wang@utsa.edu.
+
+annotating understanding function proteins elements a
+genome difficult absence well-studied evolutionarily close
+relative. causative agent malaria, one oldest deadly
+global infectious diseases, good example problem. burden of
+malaria huge pressing need new, effective antimalarial
+strategies. however, techniques homology-dependent annotation transfer
+are severely impaired parasite well-understood close
+relatives. circumvent approach developed network-based method that
+uses heavy path network-mining algorithm. uncovered protein-protein
+associations implicated important cellular processes including genome
+integrity, dna repair, transcriptional regulation, invasion, pathogenesis,
+thus demonstrating utility method. url source code for
+super-sequence mining method is
+http://www.cs.utsa.edu/~korkmaz/research/heavy-path-mining/.
+
+copyright © 2015 elsevier inc. rights reserved.
+
+doi: 10.1016/j.ymeth.2015.04.002 
+pmcid: pmc4510024
+pmid: 25861922  [indexed medline]
+

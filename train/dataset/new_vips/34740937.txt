@@ -1,0 +1,54 @@
+
+1. BMJ Open. 2021 Nov 5;11(11):e056601. doi: 10.1136/bmjopen-2021-056601.
+
+Analysis of mental and physical disorders associated with COVID-19 in online
+health forums: a natural language processing study.
+
+Patel R(#)(1)(2), Smeraldi F(#)(3)(4), Abdollahyan M(5), Irving J(6), Bessant
+C(3)(4).
+
+Author information: 
+(1)Department of Psychological Medicine, Institute of Psychiatry Psychology and
+Neuroscience, King's College London, London, UK rashmi.patel@kcl.ac.uk.
+(2)South London and Maudsley NHS Foundation Trust, London, UK.
+(3)Queen Mary University of London, London, UK.
+(4)The Alan Turing Institute, London, UK.
+(5)Barts Cancer Institute, London, UK.
+(6)Department of Psychological Medicine, Institute of Psychiatry Psychology and
+Neuroscience, King's College London, London, UK.
+(#)Contributed equally
+
+OBJECTIVES: Online health forums provide rich and untapped real-time data on
+population health. Through novel data extraction and natural language processing 
+(NLP) techniques, we characterise the evolution of mental and physical health
+concerns relating to the COVID-19 pandemic among online health forum users.
+SETTING AND DESIGN: We obtained data from three leading online health forums:
+HealthBoards, Inspire and HealthUnlocked, from the period 1 January 2020 to 31
+May 2020. Using NLP, we analysed the content of posts related to COVID-19.
+PRIMARY OUTCOME MEASURES: (1) Proportion of forum posts containing COVID-19
+keywords; (2) proportion of forum users making their very first post about
+COVID-19; (3) proportion of COVID-19-related posts containing content related to 
+physical and mental health comorbidities.
+RESULTS: Data from 739 434 posts created by 53 134 unique users were analysed. A 
+total of 35 581 posts (4.8%) contained a COVID-19 keyword. Posts discussing
+COVID-19 and related comorbid disorders spiked in early March to mid-March around
+the time of global implementation of lockdowns prompting a large number of users 
+to post on online health forums for the first time. Over a quarter of
+COVID-19-related thread titles mentioned a physical or mental health comorbidity.
+CONCLUSIONS: We demonstrate that it is feasible to characterise the content of
+online health forum user posts regarding COVID-19 and measure changes over time. 
+The pandemic and corresponding public response has had a significant impact on
+posters' queries regarding mental health. Social media data sources such as
+online health forums can be harnessed to strengthen population-level mental
+health surveillance.
+
+© Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY. Published 
+by BMJ.
+
+DOI: 10.1136/bmjopen-2021-056601 
+PMCID: PMC8573296
+PMID: 34740937  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: RP has received funds from
+Janssen, Induction Healthcare and Holmusk outside the current study.
+

@@ -1,0 +1,38 @@
+
+1. J Am Chem Soc. 2021 Dec 8;143(48):20109-20121. doi: 10.1021/jacs.1c06264. Epub
+2021 Nov 24.
+
+Quantitative Description of Intrinsically Disordered Proteins Using
+Single-Molecule FRET, NMR, and SAXS.
+
+Naudi-Fabra S(1), Tengo M(1), Jensen MR(1), Blackledge M(1), Milles S(1).
+
+Author information: 
+(1)Institut de Biologie Structurale, Université Grenoble Alpes-CEA-CNRS, 71,
+Avenue des Martyrs, 38044 Grenoble, France.
+
+Studying the conformational landscape of intrinsically disordered and partially
+folded proteins is challenging and only accessible to a few solution state
+techniques, such as nuclear magnetic resonance (NMR), small-angle scattering
+techniques, and single-molecule Förster resonance energy transfer (smFRET). While
+each of the techniques is sensitive to different properties of the disordered
+chain, such as local structural propensities, overall dimension, or intermediate-
+and long-range contacts, conformational ensembles describing intrinsically
+disordered proteins (IDPs) accurately should ideally respect all of these
+properties. Here we develop an integrated approach using a large set of FRET
+efficiencies and fluorescence lifetimes, NMR chemical shifts, and paramagnetic
+relaxation enhancements (PREs), as well as small-angle X-ray scattering (SAXS) to
+derive quantitative conformational ensembles in agreement with all parameters.
+Our approach is tested using simulated data (five sets of PREs and 15 FRET
+efficiencies) and validated experimentally on the example of the disordered
+domain of measles virus phosphoprotein, providing new insights into the
+conformational landscape of this viral protein that comprises transient
+structural elements and is more compact than an unfolded chain throughout its
+length. Rigorous cross-validation using FRET efficiencies, fluorescence
+lifetimes, and SAXS demonstrates the predictive nature of the calculated
+conformational ensembles and underlines the potential of this strategy in
+integrative dynamic structural biology.
+
+DOI: 10.1021/jacs.1c06264 
+PMID: 34817999 
+

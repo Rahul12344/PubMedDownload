@@ -1,0 +1,56 @@
+
+1. eNeuro. 2021 Nov 24;8(6). pii: ENEURO.0363-21.2021. doi:
+10.1523/ENEURO.0363-21.2021. Print 2021 Nov-Dec.
+
+Off-Target Expression of Cre-Dependent Adeno-Associated Viruses in Wild-Type
+C57BL/6J Mice.
+
+Botterill JJ(1), Khlaifia A(1), Walters BJ(2), Brimble MA(3), Scharfman HE(4)(5),
+Arruda-Carvalho M(6)(7).
+
+Author information: 
+(1)Department of Psychology, University of Toronto Scarborough, Toronto, Ontario 
+M1C 1A4, Canada.
+(2)Department of Cell & Systems Biology, University of Toronto Mississauga,
+Mississauga, Ontario L5L 1C6, Canada.
+(3)Department of Surgery, St. Jude Children's Research Hospital, Memphis,
+Tennnessee 38105.
+(4)Center for Dementia Research, The Nathan Kline Institute for Psychiatric
+Research, Orangeburg, New York 10962.
+(5)Departments of Child & Adolescent Psychiatry, Neuroscience & Physiology, and
+Psychiatry, and New York University Neuroscience Institute, New York University
+Langone Health, New York, New York 10016.
+(6)Department of Psychology, University of Toronto Scarborough, Toronto, Ontario 
+M1C 1A4, Canada m.arrudacarvalho@utoronto.ca.
+(7)Department of Cell and Systems Biology, University of Toronto, Toronto,
+Ontario M5S 3G5, Canada.
+
+Adeno-associated viruses (AAVs) are a commonly used tool in neuroscience to
+efficiently label, trace, and/or manipulate neuronal populations. Highly specific
+targeting can be achieved through recombinase-dependent AAVs in combination with 
+transgenic rodent lines that express Cre-recombinase in specific cell types.
+Visualization of viral expression is typically achieved through fluorescent
+reporter proteins (e.g., GFP or mCherry) packaged within the AAV genome. Although
+nonamplified fluorescence is usually sufficient to observe viral expression,
+immunohistochemical amplification of the fluorescent reporter is routinely used
+to improve viral visualization. In the present study, Cre-dependent AAVs were
+injected into the neocortex of wild-type C57BL/6J mice. While we observed weak
+but consistent nonamplified off-target double inverted open reading frame (DIO)
+expression in C57BL/6J mice, antibody amplification of the GFP or mCherry
+reporter revealed notable Cre-independent viral expression. Off-target expression
+of DIO constructs in wild-type C57BL/6J mice occurred independent of vendor, AAV 
+serotype, or promoter. We also evaluated whether Cre-independent expression had
+functional effects via designer receptors exclusively activated by designer drugs
+(DREADDs). The DREADD agonist C21 (compound 21) had no effect on contextual fear 
+conditioning or c-Fos expression in DIO-hM3Dq-mCherry+ cells of C57BL/6J mice.
+Together, our results indicate that DIO constructs have off-target expression in 
+wild-type subjects. Our findings are particularly important for the design of
+experiments featuring sensitive systems and/or quantitative measurements that
+could be negatively impacted by off-target expression.
+
+Copyright © 2021 Botterill et al.
+
+DOI: 10.1523/ENEURO.0363-21.2021 
+PMCID: PMC8614227
+PMID: 34785571 
+

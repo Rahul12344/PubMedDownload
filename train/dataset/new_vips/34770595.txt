@@ -1,0 +1,43 @@
+
+1. Sensors (Basel). 2021 Nov 2;21(21). pii: 7286. doi: 10.3390/s21217286.
+
+COVID-19 Case Recognition from Chest CT Images by Deep Learning,
+Entropy-Controlled Firefly Optimization, and Parallel Feature Fusion.
+
+Khan MA(1), Alhaisoni M(2), Tariq U(3), Hussain N(1), Majid A(1), Damaševičius
+R(4), Maskeliūnas R(5).
+
+Author information: 
+(1)Department of Computer Science, HITEC University, Taxila 47080, Pakistan.
+(2)College of Computer Science and Engineering, University of Ha'il, Ha'il 55211,
+Saudi Arabia.
+(3)Information Systems Department, College of Computer Engineering and Sciences, 
+Prince Sattam Bin Abdulaziz University, Al Khraj 11942, Saudi Arabia.
+(4)Faculty of Applied Mathematics, Silesian University of Technology, 44-100
+Gliwice, Poland.
+(5)Department of Multimedia Engineering, Kaunas University of Technology, 51368
+Kaunas, Lithuania.
+
+In healthcare, a multitude of data is collected from medical sensors and devices,
+such as X-ray machines, magnetic resonance imaging, computed tomography (CT), and
+so on, that can be analyzed by artificial intelligence methods for early
+diagnosis of diseases. Recently, the outbreak of the COVID-19 disease caused many
+deaths. Computer vision researchers support medical doctors by employing deep
+learning techniques on medical images to diagnose COVID-19 patients. Various
+methods were proposed for COVID-19 case classification. A new automated technique
+is proposed using parallel fusion and optimization of deep learning models. The
+proposed technique starts with a contrast enhancement using a combination of
+top-hat and Wiener filters. Two pre-trained deep learning models (AlexNet and
+VGG16) are employed and fine-tuned according to target classes (COVID-19 and
+healthy). Features are extracted and fused using a parallel fusion
+approach-parallel positive correlation. Optimal features are selected using the
+entropy-controlled firefly optimization method. The selected features are
+classified using machine learning classifiers such as multiclass support vector
+machine (MC-SVM). Experiments were carried out using the Radiopaedia database and
+achieved an accuracy of 98%. Moreover, a detailed analysis is conducted and shows
+the improved performance of the proposed scheme.
+
+DOI: 10.3390/s21217286 
+PMCID: PMC8588229
+PMID: 34770595  [Indexed for MEDLINE]
+

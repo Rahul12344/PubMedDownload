@@ -1,0 +1,51 @@
+
+1. J Biomol Struct Dyn. 2021 Dec 3:1-17. doi: 10.1080/07391102.2021.2011416. [Epub
+ahead of print]
+
+Modelling of Hepatitis E virus RNA-dependent RNA polymerase genotype 3 from a
+chronic patient and in silico interaction analysis by molecular docking with
+Ribavirin.
+
+Cancela F(1), Rendon-Marin S(2), Quintero-Gil C(2), Houston DR(3), Gumbis G(3),
+Panzera Y(4), Pérez R(4), Arbiza J(1), Mirazo S(1)(5).
+
+Author information: 
+(1)Sección Virología, Facultad de Ciencias, Universidad de la República,
+Montevideo, Uruguay.
+(2)Grupo de Investigación en Ciencias Animales - GRICA, Facultad de Medicina
+Veterinaria y Zootecnia, Universidad Cooperativa de Colombia, sede Bucaramanga,
+Bucaramanga, Colombia.
+(3)Institute of Quantitative Biology, Biochemistry and Biotechnology, The
+University of Edinburgh, Edinburgh, UK.
+(4)Sección Genética Evolutiva, Instituto de Biología, Facultad de Ciencias,
+Universidad de la República, Montevideo, Uruguay.
+(5)Departamento de Bacteriología y Virología, Instituto de Higiene, Facultad de
+Medicina, Universidad de la República, Montevideo, Uruguay.
+
+Hepatitis E Virus (HEV) infection is an emergent zoonotic disease, where chronic 
+hepatitis E associated to solid organ transplant (SOT) recipients, related to
+genotype 3, is the clinical manifestation of major concern. In this setting,
+ribavirin (RBV) treatment is the only available therapy, though drug-resistant
+variants could emerge leading to a therapeutic failure. Crystallographic
+structures have not been reported for most of the HEV proteins, including the
+RNA-polymerase (RdRp). Therefore, the mechanism of action of RBV against HEV and 
+the molecular interactions between this drug and RdRp are largely unknown. In
+this work, we aimed to model in silico the 3 D structure of a novel HEV3 RdRp
+(HEV_C1_Uy) from a chronically HEV infected-SOT recipient treated with RBV and to
+perform a molecular docking simulation between RBV triphosphate (RBVT),
+7-methyl-guanosine-5'-triphosphate and the modelled protein. The models were
+generated using I-TASSER server and validated with multiple bioinformatics tools.
+The docking analysis were carried out with AutoDock Vina and LeDock software. We 
+obtained a suitable model for HEV_C1_Uy (C-Score=-1.33, RMSD = 10.4 ± 4.6 Å).
+RBVT displayed a binding affinity of -7.6 ± 0.2 Kcal/mol by molecular docking,
+mediated by 6 hydrogen-bonds (Q195-O14, S198-O11, E257-O13, S260-O2, O3,
+S311-O11) between the finger's-palm-domains and a free binding energy of
+31.26 ± 16.81 kcal/mol by molecular dynamics simulations. We identified the
+possible HEV RdRp interacting region for incoming nucleotides or analogs and
+provide novel insights that will contribute to better understand the molecular
+interactions of RBV and the enzyme and the mechanism of action of this antiviral 
+drug.Communicated by Ramaswamy H. Sarma.
+
+DOI: 10.1080/07391102.2021.2011416 
+PMID: 34861797 
+

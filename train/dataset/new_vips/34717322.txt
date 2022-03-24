@@ -1,0 +1,40 @@
+
+1. Chaos. 2021 Oct;31(10):101105. doi: 10.1063/5.0066992.
+
+Decisive conditions for strategic vaccination against SARS-CoV-2.
+
+Böttcher L(1), Nagler J(2).
+
+Author information: 
+(1)Computational Social Science, Centre for Human and Machine Intelligence,
+Frankfurt School of Finance & Management, 60322 Frankfurt am Main, Germany.
+(2)Deep Dynamics Group, Centre for Human and Machine Intelligence, Frankfurt
+School of Finance & Management, 60322 Frankfurt am Main, Germany.
+
+Update of
+    medRxiv. 2021 Jul 06;:.
+
+While vaccines against severe acute respiratory syndrome coronavirus (SARS-CoV-2)
+are being administered, in many countries it may still take months until their
+supply can meet demand. The majority of available vaccines elicit strong immune
+responses when administered as prime-boost regimens. Since the immunological
+response to the first ("prime") dose may provide already a substantial reduction 
+in infectiousness and protection against severe disease, it may be more
+effective-under certain immunological and epidemiological conditions-to vaccinate
+as many people as possible with only one dose instead of administering a person a
+second ("booster") dose. Such a vaccination campaign may help to more effectively
+slow down the spread of SARS-CoV-2 and reduce hospitalizations and fatalities.
+The conditions that make prime-first vaccination favorable over prime-boost
+campaigns, however, are not well understood. By combining epidemiological
+modeling, random-sampling techniques, and decision tree learning, we find that
+prime-first vaccination is robustly favored over prime-boost vaccination
+campaigns even for low single-dose efficacies. For epidemiological parameters
+that describe the spread of coronavirus disease 2019 (COVID-19), recent data on
+new variants included, we show that the difference between prime-boost and
+single-shot waning rates is the only discriminative threshold, falling in the
+narrow range of 0.01-0.02  day-1 below which prime-first vaccination should be
+considered.
+
+DOI: 10.1063/5.0066992 
+PMID: 34717322  [Indexed for MEDLINE]
+

@@ -1,0 +1,95 @@
+
+1. bmc genomics. 2015 oct 21;16:830. doi: 10.1186/s12864-015-2040-0.
+
+plasmodium parasites mount arrest response dihydroartemisinin, revealed 
+by whole transcriptome shotgun sequencing (rna-seq) microarray study.
+
+shaw pj(1), chaotheing s(2), kaewprommal p(3), piriyapongsa j(4), wongsombat
+c(5), suwannakitti n(6), koonyosying p(7), uthaipibull c(8), yuthavong y(9),
+kamchonwongpaisan s(10).
+
+author information: 
+(1)protein-ligand engineering molecular biology laboratory, medical molecular
+biology research unit, national center genetic engineering biotechnology 
+(biotec), national science technology development agency (nstda), 113
+thailand science park, thanon phahonyothin, tambon khlong neung, amphoe, khlong
+luang, pathum thani, 12120, thailand. philip@biotec.or.th.
+(2)protein-ligand engineering molecular biology laboratory, medical molecular
+biology research unit, national center genetic engineering biotechnology 
+(biotec), national science technology development agency (nstda), 113
+thailand science park, thanon phahonyothin, tambon khlong neung, amphoe, khlong
+luang, pathum thani, 12120, thailand.
+(3)biostatistics bioinformatics laboratory, genome technology research unit, 
+national center genetic engineering biotechnology (biotec), national
+science technology development agency (nstda), 113 thailand science park,
+thanon phahonyothin, tambon khlong neung, amphoe, khlong luang, pathum thani,
+12120, thailand. pavita.kae@biotec.or.th.
+(4)biostatistics bioinformatics laboratory, genome technology research unit, 
+national center genetic engineering biotechnology (biotec), national
+science technology development agency (nstda), 113 thailand science park,
+thanon phahonyothin, tambon khlong neung, amphoe, khlong luang, pathum thani,
+12120, thailand. jittima.pir@biotec.or.th.
+(5)protein-ligand engineering molecular biology laboratory, medical molecular
+biology research unit, national center genetic engineering biotechnology 
+(biotec), national science technology development agency (nstda), 113
+thailand science park, thanon phahonyothin, tambon khlong neung, amphoe, khlong
+luang, pathum thani, 12120, thailand. chayaphat.won@biotec.or.th.
+(6)protein-ligand engineering molecular biology laboratory, medical molecular
+biology research unit, national center genetic engineering biotechnology 
+(biotec), national science technology development agency (nstda), 113
+thailand science park, thanon phahonyothin, tambon khlong neung, amphoe, khlong
+luang, pathum thani, 12120, thailand. nattida.suw@biotec.or.th.
+(7)protein-ligand engineering molecular biology laboratory, medical molecular
+biology research unit, national center genetic engineering biotechnology 
+(biotec), national science technology development agency (nstda), 113
+thailand science park, thanon phahonyothin, tambon khlong neung, amphoe, khlong
+luang, pathum thani, 12120, thailand. pongpisid.koo@biotec.or.th.
+(8)protein-ligand engineering molecular biology laboratory, medical molecular
+biology research unit, national center genetic engineering biotechnology 
+(biotec), national science technology development agency (nstda), 113
+thailand science park, thanon phahonyothin, tambon khlong neung, amphoe, khlong
+luang, pathum thani, 12120, thailand. chairat@biotec.or.th.
+(9)protein-ligand engineering molecular biology laboratory, medical molecular
+biology research unit, national center genetic engineering biotechnology 
+(biotec), national science technology development agency (nstda), 113
+thailand science park, thanon phahonyothin, tambon khlong neung, amphoe, khlong
+luang, pathum thani, 12120, thailand. yongyuth@biotec.or.th.
+(10)protein-ligand engineering molecular biology laboratory, medical
+molecular biology research unit, national center genetic engineering and
+biotechnology (biotec), national science technology development agency
+(nstda), 113 thailand science park, thanon phahonyothin, tambon khlong neung,
+amphoe, khlong luang, pathum thani, 12120, thailand. sumaleek@biotec.or.th.
+
+background: control malaria threatened emerging parasite resistance to
+artemisinin derivative drug (art) therapies. molecular detail how
+plasmodium malaria parasites respond art could contribute to
+resistance well understood. address question, performed a
+transcriptomic study dihydroartemisinin (dha) response p. falciparum k1
+strain p. berghei anka strain using microarray rna-seq technology.
+results: microarray data dha-treated p. falciparum trophozoite stage
+parasites revealed response pattern overall less trophozoite-like and
+more like stages asexual development. meta-analysis data 
+with previously published data art treatments revealed set common
+differentially expressed genes. notably, ribosomal protein genes are
+down-regulated response art. similar pattern trophozoite
+transcriptomic change observed rna-seq data. rna-seq data from
+dha-treated p. falciparum rings reveal muted response, although is
+considerable overlap differentially expressed genes dha-treated
+trophozoites. genes differentially expressed dha-treated p. falciparum 
+schizonts. transcriptional response p. berghei dha treatment vivo in
+infected mice similar p. falciparum vitro culture ring and
+trophozoite responses, ribosomal protein genes notably
+down-regulated.
+conclusions: ring trophozoite stage plasmodium respond art arresting
+metabolic processes protein synthesis glycolysis. response can
+be protective rings, shown phenomenon dormancy. contrast, this
+response protective trophozoites owing commitment a
+highly active vulnerable metabolic state. lower metabolic demands of
+schizonts could explain less sensitive unresponsive art. 
+art response pattern revealed clearly rna-seq data, suggesting 
+technology great utility studying drug response plasmodium.
+
+doi: 10.1186/s12864-015-2040-0 
+pmcid: pmc4618149
+pmid: 26490244  [indexed medline]
+

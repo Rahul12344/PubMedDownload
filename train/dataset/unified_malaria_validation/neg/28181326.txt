@@ -1,0 +1,39 @@
+
+1. insect mol biol. 2017 jun;26(3):298-307. doi: 10.1111/imb.12294. epub 2017 feb 9.
+
+single molecule rna sequencing uncovers trans-splicing improves annotations
+in anopheles stephensi.
+
+jiang x(1)(2)(3), hall ab(1)(3), biedler jk(1)(2), tu z(1)(2)(3).
+
+author information: 
+(1)program genetics bioinformatics computational biology, virginia tech,
+blacksburg, va, usa.
+(2)department biochemistry, virginia tech, blacksburg, va, usa.
+(3)fralin life science institute, virginia tech, blacksburg, va, usa.
+
+single molecule real-time (smrt) sequencing recently used obtain
+full-length cdna sequences improve genome annotation reveal rna
+isoforms. here, used one method called isoform sequencing pacific
+biosciences (pacbio) sequence cdna library asian malaria mosquito
+anopheles stephensi. 600 000 full-length cdnas, referred reads of
+insert, identified. owing inherently high error rate pacbio
+sequencing, tested different approaches error correction. found that
+error correction using illumina rna sequencing (rna-seq) generated data than
+using default smrt pipeline. full-length error-corrected pacbio reads
+greatly improved gene annotation anopheles stephensi: 4867 gene models
+were updated 1785 alternatively spliced isoforms added the
+annotation. addition, six trans-splicing events, exons different
+primary transcripts joined together, identified an. stephensi. all
+six trans-splicing events appear conserved culicidae, also
+found anopheles gambiae aedes aegypti. proteins encoded by
+trans-splicing events also highly conserved orthologues these
+proteins cis-spliced outgroup species, indicating trans-splicing may 
+arise mechanism rescue genes broke evolution.
+
+© 2017 royal entomological society.
+
+doi: 10.1111/imb.12294 
+pmcid: pmc5718059
+pmid: 28181326  [indexed medline]
+

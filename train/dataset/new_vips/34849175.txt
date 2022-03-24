@@ -1,0 +1,41 @@
+
+1. Soc Netw Anal Min. 2022;12(1):10. doi: 10.1007/s13278-021-00843-y. Epub 2021 Nov 
+26.
+
+CAViaR-WS-based HAN: conditional autoregressive value at risk-water
+sailfish-based hierarchical attention network for emotion classification in
+COVID-19 text review data.
+
+Venkateswarlu B(1), Shenoi VV(1), Tumuluru P(1).
+
+Author information: 
+(1)Computer Science and Engineering, Koneru Lakshmaiah Education Foundation,
+Green Fields, Vaddeswaram, Andhra Pradesh India.
+
+The Corona Virus Disease-2019 (COVID-19) pandemic has made a remarkable impact on
+economies and societies worldwide. With numerous procedures of social distancing 
+and lockdowns, it becomes essential to know people's emotional responses on a
+very large scale. Thus, an effective emotion classification approach is developed
+using the proposed Conditional Autoregressive Value at Risk-Water Sailfish-based 
+Hierarchical Attention Network (CAViaR-WS-based HAN) for classifying the emotions
+in the COVID-19 text review data. The proposed approach, named CAViaR-WS, is
+designed by the incorporation of Conditional Autoregressive Value at Risk-Sail
+Fish (CAViaR-SF) and Water Cycle Algorithm (WCA). Here, the significant features,
+such as mean, variance, entropy, Term Frequency-Inverse Document Frequency
+(TF-IDF), SentiWordNet features, and spam word-based features, are extracted to
+further processing. Based on the extracted features, feature fusion is
+accomplished using the RideNN. In addition, CAViaR-SF-based GAN is used to
+perform the spam classification, and then, the emotion classification is carried 
+out using Hierarchal Attention Networks (HAN), where the training procedure of
+HAN is performed using proposed CAViaR-WS. Furthermore, the developed
+CAViaR-WS-based HAN offers effective performance results concerning precision,
+recall, and f-measure with the maximal values of 0.937, 0.958, and 0.948,
+respectively.
+
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Austria, part of
+Springer Nature 2021.
+
+DOI: 10.1007/s13278-021-00843-y 
+PMCID: PMC8620331
+PMID: 34849175 
+

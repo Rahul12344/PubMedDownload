@@ -1,0 +1,48 @@
+
+1. J Mol Struct. 2021 Dec 15;1246:131246. doi: 10.1016/j.molstruc.2021.131246. Epub 
+2021 Aug 5.
+
+Synthesis, crystal structure, computational study and anti-virus effect of mixed 
+ligand copper (II) complex with ONS donor Schiff base and 1, 10-phenanthroline.
+
+Mohan B(1), Choudhary M(1).
+
+Author information: 
+(1)Department of Chemistry, National Institute of Technology Patna, Patna, Bihar 
+800005, India.
+
+This work deals with the synthesis, crystal structure, computational study and
+antiviral potential of mixed ligand copper(II) complex [Cu(L)(phen)](1), (where, 
+H2L = (Z)-N'-((E)-2-hydroxy-3,5-diiodobenzylidene)-N,N-dimethylcarbamohydrazonoth
+ioic acid, phen = 1,10-phenanthroline). The Schiff base ligand (H2L) is
+coordinated with Cu(II) ion in O, N, S-tridentate mode. The copper complex (1)
+crystallized in the monoclinic system of the space group P21/c with eight
+molecules in the unit cell and reveals a square pyramidal geometry. Furthermore, 
+we also perform quantum chemical calculations to get insights into the
+structure-property relationship and functional properties of ligand (H2L) and its
+copper (II) complex [Cu(L)(phen)](1). Complex [Cu(L)(phen)](1) was also virtually
+designed in-silico evaluation by Swiss-ADME. Additionally, inspiring by recent
+developments to find a potential inhibitor for the COVID-19 virus, we have also
+performed molecular docking study of ligand and its copper complex (1) to see if 
+our compounds shows an affinity for the main protease (Mpro) of COVID-19 spike
+protein (PDB ID: 7C8U). Interestingly, the results are found quite encouraging
+where the binding affinity and inhibition constant were found to be
+-7.14 kcal/mol and 5.82 μM for ligand (H2L) and -6.18 kcal/mol and 0.76 μM for
+complex [Cu(L)(phen)](1) with Mpro protein. This binding affinity is reasonably
+well as compared to recently known antiviral drugs. For instance, the binding
+affinity of ligand and complex was found to be better than docking results of
+chloroquine (-6.293 kcal/mol), hydroxychloroquine (-5.573 kcal/mol) and
+remdesivir (-6.352 kcal/mol) with Mpro protein. The present study may offer the
+technological solutions and potential inhibition to the COVID-19 virus in the
+ongoing and future challenges of the global community. In the framework of
+synthesis and characterization of mixed ligand copper (II) complex; the major
+conclusions can be drawn as follow.
+
+© 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.molstruc.2021.131246 
+PMCID: PMC8510892
+PMID: 34658419 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

@@ -1,0 +1,48 @@
+
+1. J Pain Res. 2021 Nov 9;14:3503-3509. doi: 10.2147/JPR.S334256. eCollection 2021.
+
+A Multidisciplinary Approach to Simultaneously Monitoring Real-Time Neuronal
+Activity and Pain Behaviors During Optogenetic Stimulation of Brain Neurons in
+Freely Moving Mice.
+
+Crawford J(1), Liu S(1), Tao F(1).
+
+Author information: 
+(1)Department of Biomedical Sciences, Texas A&M University College of Dentistry, 
+Dallas, TX, 75246, USA.
+
+Background: Highlighted by the current opioid epidemic, identifying novel
+therapies to treat chronic trigeminal neuropathic pain is a critical need. To
+develop these treatments, it is necessary to have viable targets in the brain to 
+act on. Historically, neural tracing studies have been extremely useful in
+determining connections between brain areas but do not provide information about 
+the functionality of these connections. Combining optogenetics and behavioral
+observation allows researchers to determine whether a particular brain area is
+involved in the regulation of such behavior. The addition of multi-channel
+electrophysiological recording provides information on real-time neuronal
+activity in the specific neuronal pathway.
+Methods: Male C57/BL/6J mice (8-week-old) underwent either chronic constriction
+injury of infraorbital nerve (CCI-ION) or a sham surgery and were injected with
+either channelrhodopsin (ChR2) or a control virus in the hypothalamic A11
+nucleus. Two weeks after CCI-ION, they were tested in real-time place preference 
+(RTPP), while neuronal activity in the spinal trigeminal nucleus caudalis (Sp5C) 
+was recorded.
+Results: Optogenetic excitation of the A11 neurons results in more time spent in 
+the stimulation chamber during RTPP testing. Additionally, stimulation of the A11
+results in a greater number of neuronal activity increase in the Sp5C in animals 
+with the injection of AAV carrying ChR2 compared to animals injected with a
+control virus or that underwent a sham surgery.
+Conclusion: In vivo multi-channel electrophysiological recording, optogenetic
+stimulation, and behavioral observation can be combined in a mouse model of
+chronic trigeminal neuropathic pain to validate brain areas involved in the
+modulation of such pain.
+
+© 2021 Crawford et al.
+
+DOI: 10.2147/JPR.S334256 
+PMCID: PMC8590449
+PMID: 34785947 
+
+Conflict of interest statement: The authors declare that there are no conflicts
+of interest.
+

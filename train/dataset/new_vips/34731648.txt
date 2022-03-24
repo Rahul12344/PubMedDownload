@@ -1,0 +1,66 @@
+
+1. Cell Rep. 2021 Nov 9;37(6):109920. doi: 10.1016/j.celrep.2021.109920. Epub 2021
+Oct 15.
+
+An airway organoid-based screen identifies a role for the HIF1α-glycolysis axis
+in SARS-CoV-2 infection.
+
+Duan X(1), Tang X(2), Nair MS(3), Zhang T(4), Qiu Y(5), Zhang W(4), Wang P(3),
+Huang Y(3), Xiang J(4), Wang H(6), Schwartz RE(7), Ho DD(8), Evans T(9), Chen
+S(10).
+
+Author information: 
+(1)Department of Surgery, Weill Cornell Medicine, 1300 York Ave., New York, NY
+10065, USA; State Key Laboratory of Oncogenes and Related Genes, Center for
+Single-Cell Omics, School of Public Health, Shanghai Jiao Tong University School 
+of Medicine, Shanghai 200025, China.
+(2)Department of Surgery, Weill Cornell Medicine, 1300 York Ave., New York, NY
+10065, USA.
+(3)Aaron Diamond AIDS Research Center, Columbia University Vagelos College of
+Physicians and Surgeons, New York, NY 10032, USA.
+(4)Genomics Resources Core Facility, Weill Cornell Medicine, New York, NY 10065, 
+USA.
+(5)Department of Medicine, Fleischer Institute for Diabetes and Metabolism,
+Albert Einstein College of Medicine, Bronx, NY, USA.
+(6)State Key Laboratory of Oncogenes and Related Genes, Center for Single-Cell
+Omics, School of Public Health, Shanghai Jiao Tong University School of Medicine,
+Shanghai 200025, China. Electronic address: huiwang@shsmu.edu.cn.
+(7)Division of Gastroenterology and Hepatology, Department of Medicine, Weill
+Cornell Medicine, 1300 York Ave., New York, NY 10065, USA; Department of
+Physiology, Biophysics and Systems Biology, Weill Cornell Medicine, 1300 York
+Ave., New York, NY 10065, USA. Electronic address: res2025@med.cornell.edu.
+(8)Aaron Diamond AIDS Research Center, Columbia University Vagelos College of
+Physicians and Surgeons, New York, NY 10032, USA. Electronic address:
+dh2994@cumc.columbia.edu.
+(9)Department of Surgery, Weill Cornell Medicine, 1300 York Ave., New York, NY
+10065, USA. Electronic address: tre2003@med.cornell.edu.
+(10)Department of Surgery, Weill Cornell Medicine, 1300 York Ave., New York, NY
+10065, USA. Electronic address: shc2034@med.cornell.edu.
+
+It is urgent to develop disease models to dissect mechanisms regulating severe
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. Here, we derive 
+airway organoids from human pluripotent stem cells (hPSC-AOs). The hPSC-AOs,
+particularly ciliated-like cells, are permissive to SARS-CoV-2 infection. Using
+this platform, we perform a high content screen and identify GW6471, which blocks
+SARS-CoV-2 infection. GW6471 can also block infection of the B.1.351 SARS-CoV-2
+variant. RNA sequencing (RNA-seq) analysis suggests that GW6471 blocks SARS-CoV-2
+infection at least in part by inhibiting hypoxia inducible factor 1 subunit alpha
+(HIF1α), which is further validated by chemical inhibitor and genetic
+perturbation targeting HIF1α. Metabolic profiling identifies decreased rates of
+glycolysis upon GW6471 treatment, consistent with transcriptome profiling.
+Finally, xanthohumol, 5-(tetradecyloxy)-2-furoic acid, and ND-646, three
+compounds that suppress fatty acid biosynthesis, also block SARS-CoV-2 infection.
+Together, a high content screen coupled with transcriptome and metabolic
+profiling reveals a key role of the HIF1α-glycolysis axis in mediating SARS-CoV-2
+infection of human airway epithelium.
+
+Copyright © 2021 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2021.109920 
+PMCID: PMC8516798
+PMID: 34731648  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests R.E.S. is on the
+scientific advisory board of Miromatrix. T.R.E. and S.C. are the co-founders of
+OncoBeat.
+

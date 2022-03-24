@@ -1,0 +1,66 @@
+
+1. Appl Environ Microbiol. 2019 Oct 30;85(22). pii: e01705-19. doi:
+10.1128/AEM.01705-19. Print 2019 Nov 15.
+
+Carbon Starvation Induces the Expression of PprB-Regulated Genes in Pseudomonas
+aeruginosa.
+
+Wang C(#)(1), Chen W(#)(2), Xia A(2)(3), Zhang R(2)(3), Huang Y(3), Yang S(2)(3),
+Ni L(4)(3), Jin F(4)(3).
+
+Author information: 
+(1)Department of Chemical Physics, University of Science and Technology of China,
+Hefei, Anhui, People's Republic of China.
+(2)Hefei National Laboratory for Physical Sciences at the Microscale, University 
+of Science and Technology of China, Hefei, Anhui, People's Republic of China.
+(3)CAS Key Laboratory of Quantitative Engineering Biology, Shenzhen Institute of 
+Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of
+Sciences, Shenzhen, People's Republic of China.
+(4)Hefei National Laboratory for Physical Sciences at the Microscale, University 
+of Science and Technology of China, Hefei, Anhui, People's Republic of China
+nilei@mail.ustc.edu.cn fjinustc@ustc.edu.cn.
+(#)Contributed equally
+
+Pseudomonas aeruginosa can cause severe infections in humans. This bacterium
+often adopts a biofilm lifestyle that is hard to treat. In several previous
+studies, the PprA-PprB two-component system (TCS), which controls the expression 
+of type IVb pili, BapA adhesin, and CupE fimbriae, was shown to be involved in
+biofilm formation (M. Romero, H. Silistre, L. Lovelock, V. J. Wright, K.-G. Chan,
+et al., Nucleic Acids Res 46:6823-6840, 2018, https://doi.org/10.1093/nar/gky324;
+S. de Bentzmann, C. Giraud, C. S. Bernard, V. Calderon, F. Ewald F, et al., PLoS 
+Pathog 8:e1003052, 2012, https://doi.org/10.1371/journal.ppat.1003052). However, 
+signals or environmental conditions that can trigger the PprA-PprB TCS are still 
+unknown, and the molecular mechanisms of PprB-mediated biofilm formation are
+poorly characterized. Here, we report that carbon starvation stress (CSS) can
+induce the expression of pprB and genes in the PprB regulon. CSS-induced pprB
+transcription is mediated by the stress response sigma factor RpoS rather than
+the two-component sensor PprA. We also observed a strong negative regulation of
+PprB on the transcription of itself. Further experiments showed that PprB
+overexpression greatly enhanced cell-cell adhesion (CCA) and cell-surface
+adhesion (CSA) in P. aeruginosa Specifically, under the background of PprB
+overexpression, both the BapA adhesin and CupE fimbriae displayed positive
+effects on CCA and CSA, while the type IVb pili showed an unexpected negative
+effect on CCA and no effect on CSA. In addition, expression of the PprB regulon
+genes were significantly increased in 3-day colony biofilms, indicating a
+possible carbon limitation state. The CSS-RpoS-PprB-Bap/Flp/CupE pathway
+identified in this study provides a new perspective on the process of biofilm
+formation in carbon-limited environments.IMPORTANCE Typically, the determination 
+of the external signals that can trigger a regulatory system is crucial to
+understand the regulatory logic and inward function of that system. The PprA-PprB
+two-component system was reported to be involved in biofilm formation in
+Pseudomonas aeruginosa, but the signals triggering this system are unknown. In
+this study, we found that carbon starvation stress (CSS) induces transcription of
+pprB and genes in the PprB regulon through an RpoS-dependent pathway. Increased
+PprB expression leads to enhanced cell-cell adhesion (CCA) and cell-surface
+adhesion (CSA) in P. aeruginosa Both CCA and CSA are largely dependent on the Bap
+secretion system and are moderately dependent on the CupE fimbriae. Our findings 
+suggest that PprB reinforces the structure of biofilms under carbon-limited
+conditions, and the Bap secretion system and CupE fimbriae are two potential
+targets for biofilm treatment.
+
+Copyright © 2019 Wang et al.
+
+DOI: 10.1128/AEM.01705-19 
+PMCID: PMC6821963
+PMID: 31492668  [Indexed for MEDLINE]
+

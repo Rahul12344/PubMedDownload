@@ -1,0 +1,61 @@
+
+1. Front Med (Lausanne). 2021 Oct 6;8:686247. doi: 10.3389/fmed.2021.686247.
+eCollection 2021.
+
+A Retrospective Paired Comparison Between Untargeted Next Generation Sequencing
+and Conventional Microbiology Tests With Wisely Chosen Metagenomic Sequencing
+Positive Criteria.
+
+Qin H(1), Peng J(1), Liu L(2), Wu J(3), Pan L(4)(5), Huang X(4)(5), Huang M(3),
+Qiu H(2), Du B(1); China Critical Care Clinical Trials Group (CCCCTG).
+
+Author information: 
+(1)State Key Laboratory of Complex, Severe and Rare Disease, Medical ICU, Peking 
+Union Medical College Hospital, Peking Union Medical College and Chinese Academy 
+of Medical Sciences, Beijing, China.
+(2)Department of Critical Care Medicine, School of Medicine, Zhongda Hospital,
+Southeast University, Nanjing, China.
+(3)Department of Intensive Care Unit, The Second Affiliated Hospital, Zhejiang
+University School of Medicine, Hangzhou, China.
+(4)Department of Critical Care Medicine, Sichuan Provincial Hospital, University 
+of Electronic Science and Technology of China, Chengdu, China.
+(5)Sichuan Translational Medicine Research Hospital, Chinese Academy of Sciences,
+Chengdu, China.
+
+Objectives: To evaluate the performance of metagenomic next generation sequencing
+(mNGS) using adequate criteria for the detection of pathogens in lower
+respiratory tract (LRT) samples with a paired comparison to conventional
+microbiology tests (CMT). Methods: One hundred sixty-seven patients were reviewed
+from four different intensive care units (ICUs) in mainland China during 2018
+with both mNGS and CMT results of LRT samples available. The reads per million
+ratio (RPMsample/RPMnon-template-control ratio) and standardized strictly mapped 
+reads number (SDSMRN) were the two criteria chosen for identifying positive
+pathogens reported from mNGS. A McNemar test was used for a paired comparison
+analysis between mNGS and CMT. Results: One hundred forty-nine cases were counted
+into the final analysis. The RPMsample/RPMNTC ratio criterion performed better
+with a higher accuracy for bacteria, fungi, and virus than SDSMRN criterion
+[bacteria (RPMsample/RPMNTC ratio vs. SDSMRN), 65.1 vs. 55.7%; fungi, 75.8 vs.
+71.1%; DNA virus, 86.3 vs. 74.5%; RNA virus, 90.9 vs. 81.8%]. The mNGS was also
+superior in bacteria detection only if an SDSMRN ≥3 was used as a positive
+criterion with a paired comparison to culture [SDSMRN positive, 92/149 (61.7%);
+culture positive, 54/149 (36.2%); p < 0.001]; however, it was outperformed with
+significantly more fungi and DNA virus identification when choosing both criteria
+for positive outliers [fungi (RPMsample/RPMNTC ratio vs. SDSMRN vs. culture),
+23.5 vs. 29.5 vs. 8.7%, p < 0.001; DNA virus (RPMsample/RPMNTC ratio vs. SDSMRN
+vs. PCR), 14.1 vs. 20.8 vs. 11.8%, p < 0.05]. Conclusions: Metagenomic next
+generation sequencing may contribute to revealing the LRT infection etiology in
+hospitalized groups of potential fungal infections and in situations with less
+access to the multiplex PCR of LRT samples from the laboratory by choosing a wise
+criterion like the RPMsample/RPMNTC ratio.
+
+Copyright © 2021 Qin, Peng, Liu, Wu, Pan, Huang, Huang, Qiu, Du and the China
+Critical Care Clinical Trials Group (CCCCTG).
+
+DOI: 10.3389/fmed.2021.686247 
+PMCID: PMC8526841
+PMID: 34692715 
+
+Conflict of interest statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

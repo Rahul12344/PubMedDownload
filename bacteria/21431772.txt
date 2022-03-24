@@ -1,0 +1,27 @@
+
+1. Methods Mol Biol. 2011;733:195-205. doi: 10.1007/978-1-61779-089-8_14.
+
+Gene expression profiling: metatranscriptomics.
+
+Gilbert JA(1), Hughes M.
+
+Author information: 
+(1)Plymouth Marine Laboratory, The Hoe, Plymouth, UK. jagi@pml.ac.uk
+
+Metatranscriptomics has been developed to help understand how communities respond
+to changes in their environment. Metagenomic studies provided a snapshot of the
+genetic composition of the community at any given time. However, short-timescale 
+studies investigating the response of communities to rapid environmental changes 
+(e.g. pollution events or diurnal light availability) require analysis of changes
+in the abundance and composition of the active fraction of the community.
+Metatranscriptomics enables researchers to investigate the actively transcribed
+ribosomal and messenger RNA from a community. It has been applied to environments
+as diverse as soil and seawater. This chapter outlines sampling protocols and RNA
+extraction techniques from these two ecosystems, as well as details a method to
+enrich mRNA in the extracted nucleic acid. Also, a section is dedicated for
+outlining a bioinformatic procedure for the analysis of metatranscriptomic
+datasets.
+
+DOI: 10.1007/978-1-61779-089-8_14 
+PMID: 21431772  [Indexed for MEDLINE]
+

@@ -1,0 +1,42 @@
+
+1. j vis exp. 2015 feb 28;(96):e52385. doi: 10.3791/52385.
+
+a multi-detection assay malaria transmitting mosquitoes.
+
+lee y(1), weakley am(2), nieman cc(2), malvick j(3), lanzaro gc(2).
+
+author information: 
+(1)department pathology, microbiology immunology, school veterinary
+medicine, university california - davis; yoslee@ucdavis.edu.
+(2)department pathology, microbiology immunology, school veterinary
+medicine, university california - davis.
+(3)veterinary genetics laboratory, school veterinary medicine, university of
+california, davis.
+
+the anopheles gambiae species complex includes major malaria transmitting
+mosquitoes africa. species medical importance,
+several traits typically characterized using molecular assays aid in
+epidemiological studies. traits include species identification, insecticide
+resistance, parasite infection status, host preference. since populations 
+the anopheles gambiae complex morphologically indistinguishable, polymerase
+chain reaction (pcr) traditionally used identify species. species 
+is known, several downstream assays routinely performed elucidate 
+characteristics. instance, mutations known kdr para gene confer
+resistance ddt pyrethroid insecticides. additionally, enzyme-linked
+immunosorbent assays (elisas) plasmodium parasite dna detection pcr assays are
+used detect parasites present mosquito tissues. lastly, combination of
+pcr restriction enzyme digests used elucidate host preference
+(e.g., human vs. animal blood) screening mosquito bloodmeal for
+host-specific dna. developed multi-detection assay (mda) combines 
+all aforementioned assays single multiplex reaction genotyping
+33snps 96 384 samples time. mda includes multiple markers
+for species, plasmodium detection, host blood identification, likelihood 
+of generating false positives negatives greatly reduced previous
+assays include one marker per trait. robust simple assay can
+detect key mosquito traits cost-effectively fraction time
+of existing assays.
+
+doi: 10.3791/52385 
+pmcid: pmc4401152
+pmid: 25867057  [indexed medline]
+

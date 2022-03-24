@@ -1,0 +1,48 @@
+
+1. Front Biosci (Landmark Ed). 2021 Oct 30;26(10):740-751. doi: 10.52586/4984.
+
+Identification of key factors shaping integrated levels of ACE2 and TMPRSS2
+expression in head and neck squamous cell carcinoma.
+
+Zheng T(1)(2), Yue P(3), Han T(1), Zhang K(4), Jiang Y(1), Wang S(4), Jiang L(4),
+Zhao B(4), Zhang X(4), Yan X(1).
+
+Author information: 
+(1)The VIP Department, School and Hospital of Stomatology, China Medical
+University, Liaoning Provincial Key Laboratory of Oral Diseases, 110002 Shenyang,
+Liaoning, China.
+(2)Department of Emergency and General, Dalian Stomatological Hospital, 116083
+Dalian, Liaoning, China.
+(3)Department of Laboratory Medicine, The Fourth Affiliated Hospital, China
+Medical University, 110032 Shenyang, Liaoning, China.
+(4)Center of Implant Dentistry, School and Hospital of Stomatology, China Medical
+University, Liaoning Provincial Key Laboratory of Oral Diseases, 110002 Shenyang,
+Liaoning, China.
+
+Objectives: To quantify the integrated levels of ACE2 and TMPRSS2, the two
+well-recognized severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+entry-related genes, and to further identify key factors contributing to
+SARS-CoV-2 susceptibility in head and neck squamous cell carcinoma (HNSC).
+Methods: We developed a metric of the potential for tissue infected with
+SARS-CoV-2 ("TPSI") based on ACE2 and TMPRSS2 transcript levels and compared TPSI
+levels between tumor and matched normal tissues across 11 tumor types. For
+further analysis of HNSC, weighted gene co-expression network analysis (WGCNA),
+functional analysis, and single sample gene set enrichment analysis (ssGSEA) were
+conducted to investigate TPSI-relevant biological processes and their
+relationship with the immune landscape. TPSI-related factors were identified from
+clinical and mutational domains, followed by lasso regression to determine their 
+relative effects on TPSI levels. Results: TPSI levels in tumors were generally
+lower than in the normal tissues. In HNSC, the genes highly associated with TPSI 
+were enriched in viral entry-related processes, and TPSI levels were positively
+correlated with both eosinophils and T helper 17 (Th17) cell infiltration.
+Furthermore, the site of onset, human papillomaviruses (HPV) status, and nuclear 
+receptor binding SET domain protein 1 (NSD1) mutations were identified as the
+most important factors shaping TPSI levels. Conclusions: This study identified
+the infection risk of SARS-CoV-2 between tumor and normal tissues, and provided
+evidence for the risk stratification of HNSC.
+
+© 2021 The Author(s). Published by BRI.
+
+DOI: 10.52586/4984 
+PMID: 34719202  [Indexed for MEDLINE]
+

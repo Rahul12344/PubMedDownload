@@ -1,0 +1,51 @@
+
+1. j pharm bioallied sci. 2019 jul-sep;11(3):223-231. doi: 10.4103/jpbs.jpbs_205_18.
+
+homology modeling docking study shewanella-like protein phosphatase
+involved development ookinetes plasmodium.
+
+singh s(1), yadav r(1).
+
+author information: 
+(1)amity institute biotechnology, amity university uttar pradesh, lucknow
+campus, lucknow, india.
+
+objective: parasites genus plasmodium cause great deal morbidity 
+mortality worldwide, largely regions limited access indication the
+tools necessary control mosquito populations treat human infections 
+malaria. five species class eukaryotic pathogens cause different human
+diseases, plasmodium falciparum alone infecting approximately 500 million
+people per year resulting approximately one million deaths.
+materials methods: two genes encoding shewanella-like protein
+phosphatases p. falciparum, shlp1 shlp2, conserved among members of
+plasmodiidae family. shlp frequently found asexual blood stages and
+expressed stages life cycle parasite. shlp deletion results a
+reduction microneme formation, ookinetes (zygote) development, complete
+ablation oocyst formation, thereby blocking transmission parasite.
+structure modeling shlp protein helpful understanding active
+site binding site information hence used drug designing and
+for therapeutics malaria. study shlp variants carried 
+using uniprotkb database. homology modeling performed using schrödinger
+software, modeled structure verified using ramachandran plot. ten
+antioxidants searched pubchem database docking comparative
+analysis. docking carried shlp-modeled protein, the
+ligand-protein interaction map analyzed. effective role resveratrol was
+studied shlp protein using docking method identify protein-ligand
+interaction scheme bond formation.
+results: shlp protein modeled docking carried identify the
+binding sites interaction shlp protein. docking study suggested that
+resveratrol strong interaction shlp protein used a
+potential ligand drug designing.
+conclusion: shlp plays crucial role ookinetes microneme development in
+plasmodium; hence ligand, interact inhibit shlp protein, a
+potential drug malarial parasite development. studied binding of
+antioxidant, resveratrol, protein-using docking method it
+was found resveratrol antioxidant bind target shlp
+protein.
+
+doi: 10.4103/jpbs.jpbs_205_18 
+pmcid: pmc6662043
+pmid: 31555028 
+
+conflict interest statement: conflicts interest.
+

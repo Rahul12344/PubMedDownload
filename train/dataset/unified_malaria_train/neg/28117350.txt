@@ -1,0 +1,46 @@
+
+1. sci rep. 2017 jan 24;7:41108. doi: 10.1038/srep41108.
+
+overlap extension barcoding next generation sequencing genotyping 
+plasmodium falciparum individual patients western kenya.
+
+levitt b(1), obala a(2), langdon s(3), corcoran d(4), o'meara wp(5), taylor
+sm(5).
+
+author information: 
+(1)department molecular genetics microbiology, duke university medical
+center, durham, nc, usa.
+(2)moi university school medicine, college health sciences, nandi rd,
+eldoret, kenya.
+(3)duke university dna analysis facility, department immunology, duke
+university medical center, durham, nc, usa.
+(4)duke center genomic computational biology, duke university medical
+center, durham nc, usa.
+(5)division infectious diseases duke global health institute, duke
+university medical center, durham, nc, usa.
+
+large-scale molecular epidemiologic studies plasmodium falciparum parasites
+have provided insights parasite biology transmission, identify the
+spread drug resistance, useful assessing vaccine targets. the
+polyclonal nature infections high transmission settings problematic for
+traditional genotyping approaches. next-generation sequencing (ngs) approaches to
+parasite genotyping allow sensitive detection minority variants,
+disaggregation complex parasite mixtures, scalable processing large
+samples sets. therefore, designed, validated, applied field parasites
+an approach leverages sequencing individually barcoded samples a
+multiplex manner. utilize variant barcodes, invariant linker sequences and
+modular template-specific primers allow simultaneous generation of
+high-dimensional sequencing data multiple gene targets. modularity
+permits cost-effective reproducible way query many genes once. in
+mixtures reference parasite genomes, quantitatively detected unique
+haplotypes comprising little 2% polyclonal infection. applied 
+genotyping approach field-collected parasites collected western kenya in
+order simultaneously obtain parasites genotypes three unlinked loci. in
+summary, present rapid, scalable, flexible method genotyping
+individual parasites enables molecular epidemiologic studies parasite
+evolution, population structure transmission.
+
+doi: 10.1038/srep41108 
+pmcid: pmc5259759
+pmid: 28117350  [indexed medline]
+

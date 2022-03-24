@@ -1,0 +1,35 @@
+
+1. plos comput biol. 2018 jan 25;14(1):e1005952. doi: 10.1371/journal.pcbi.1005952. 
+ecollection 2018 jan.
+
+the role spatial heterogeneity evolution local global infections
+of viruses.
+
+saeki k(1), sasaki a(1)(2).
+
+author information: 
+(1)department evolutionary studies biosystems, sokendai (the graduate
+university advanced studies), hayama, kanagawa, japan.
+(2)evolution ecology program, international institute applied systems
+analysis, laxenburg, austria.
+
+viruses two modes spread host body, one release infectious
+particles infected cells (global infection) infect
+directly infected cell adjacent cell (local infection). since the
+mode spread affects evolution life history traits, virulence,
+it important reveal level global local infection selected.
+previous studies evolution global local infection paid little 
+attention dependency measures spatial configuration. we
+show evolutionarily stable proportion global local infection, 
+it depends distribution target cells. using epidemic model a
+regular lattice, consider infection dynamics pair approximation and
+check evolutionarily stable strategy. also conduct monte-carlo
+simulation observe evolutionary dynamics. show higher local
+infection selected target cells become clustered. surprisingly, the
+selected strategy depends degree clustering also the
+abundance target cells per se.
+
+doi: 10.1371/journal.pcbi.1005952 
+pmcid: pmc5800656
+pmid: 29370194  [indexed medline]
+

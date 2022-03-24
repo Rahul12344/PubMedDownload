@@ -1,0 +1,36 @@
+
+1. J Mol Biol. 2004 Jan 9;335(2):619-29.
+
+The tryptophan switch: changing ligand-binding specificity from type I to type II
+in SH3 domains.
+
+Fernandez-Ballester G(1), Blanes-Mira C, Serrano L.
+
+Author information: 
+(1)Instituto de Biología Molecular y Celular, Universidad Miguel Hernández, Edif.
+Torregaitán, Avda. del Ferrocarril s/n, 03202 Elche Alicante, Spain.
+
+The ability of certain Src homology 3 (SH3) domains to bind specifically both
+type I and type II polyproline ligands is perhaps the best characterized, but
+also the worst understood, example in the family of protein-interaction modules. 
+A detailed analysis of the structural variations in SH3 domains, with respect to 
+ligand-binding specificity, together with mutagenesis of SH3 Fyn tyrosine kinase,
+reveal the structural basis for types I and II binding specificity by SH3
+domains. The conserved Trp in the SH3 binding pocket can adopt two different
+orientations that, in turn, determine the type of ligand (I or II) able to bind
+to the domain. The only exceptions are ligands with Leu at positions P(-1) and
+P(2), that deviate from standard poly-Pro angles. The motion of the conserved Trp
+depends on the presence of certain residues located in a key position (132 for
+Fyn), near the binding pocket. SH3 domains placing aromatic residues in this key 
+position are promiscuous. By contrast, those presenting beta-branched or long
+aliphatic residues block the conserved Trp in one of the two possible
+orientations, preventing binding in a type I orientation. This is experimentally 
+demonstrated by a single mutation in Fyn SH3 (Y132I) that abolishes type I ligand
+binding, while preserving binding to type II ligands. Thus, simple conformational
+changes, governed by simple rules, can have profound effects on protein-protein
+interactions, highlighting the importance of structural details to predict
+protein-protein interactions.
+
+DOI: 10.1016/j.jmb.2003.10.060 
+PMID: 14672668  [Indexed for MEDLINE]
+

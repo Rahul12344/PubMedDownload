@@ -1,0 +1,58 @@
+
+1. Appl Environ Microbiol. 2018 Nov 30;84(24). pii: e01842-18. doi:
+10.1128/AEM.01842-18. Print 2018 Dec 15.
+
+Efflux Transporter ArsK Is Responsible for Bacterial Resistance to Arsenite,
+Antimonite, Trivalent Roxarsone, and Methylarsenite.
+
+Shi K(1), Li C(1), Rensing C(2)(3), Dai X(1), Fan X(1), Wang G(4).
+
+Author information: 
+(1)State Key Laboratory of Agricultural Microbiology, College of Life Science and
+Technology, Huazhong Agricultural University, Wuhan, China.
+(2)Institute of Environmental Microbiology, College of Resources and Environment,
+Fujian Agriculture & Forestry University, Fuzhou, Fujian, China.
+(3)Key Laboratory of Urban Environment and Health, Institute of Urban
+Environment, Chinese Academy of Sciences, Xiamen, China.
+(4)State Key Laboratory of Agricultural Microbiology, College of Life Science and
+Technology, Huazhong Agricultural University, Wuhan, China
+gejiao@mail.hzau.edu.cn.
+
+Arsenic-resistant bacteria have evolved various efflux systems for arsenic
+resistance. Five arsenic efflux proteins, ArsB, Acr3, ArsP, ArsJ, and MSF1, have 
+been reported. In this study, comprehensive analyses were performed to study the 
+function of a putative major facilitator superfamily gene, arsK, and the
+regulation of arsK transcriptional expression in Agrobacterium tumefaciens GW4.
+We found that (i) arsK is located on an arsenic gene island in strain GW4. ArsK
+orthologs are widely distributed in arsenic-resistant bacteria and are
+phylogenetically divergent from the five reported arsenic efflux proteins,
+indicating that it may be a novel arsenic efflux transporter. (ii) Reporter gene 
+assays showed that the expression of arsK was induced by arsenite [As(III)],
+antimonite [Sb(III)], trivalent roxarsone [Rox(III)], methylarsenite [MAs(III)], 
+and arsenate [As(V)]. (iii) Heterologous expression of ArsK in an
+arsenic-hypersensitive Escherichia coli strain showed that ArsK was essential for
+resistance to As(III), Sb(III), Rox(III), and MAs(III) but not to As(V),
+dimethylarsenite [dimethyl-As(III)], or Cd(II). (iv) ArsK reduced the cellular
+accumulation of As(III), Sb(III), Rox(III), and MAs(III) but not to As(V) or
+dimethyl-As(III). (v) A putative arsenic regulator gene arsR2 was cotranscribed
+with arsK, and (vi) ArsR2 interacted with the arsR2-arsK promoter region without 
+metalloids and was derepressed by As(III), Sb(III), Rox(III), and MAs(III),
+indicating the repression activity of ArsR2 for the transcription of arsK These
+results demonstrate that ArsK is a novel arsenic efflux protein for As(III),
+Sb(III), Rox(III), and MAs(III) and is regulated by ArsR2. Bacteria use the
+arsR2-arsK operon for resistance to several trivalent arsenicals or
+antimonials.IMPORTANCE The metalloid extrusion systems are very important
+bacterial resistance mechanisms. Each of the previously reported ArsB, Acr3,
+ArsP, ArsJ, and MSF1 transport proteins conferred only inorganic or organic
+arsenic/antimony resistance. In contrast, ArsK confers resistance to several
+inorganic and organic trivalent arsenicals and antimonials. The identification of
+the novel efflux transporter ArsK enriches our understanding of bacterial
+resistance to trivalent arsenite [As(III)], antimonite [Sb(III)], trivalent
+roxarsone [Rox(III)], and methylarsenite [MAs(III)].
+
+Copyright © 2018 American Society for Microbiology.
+
+DOI: 10.1128/AEM.01842-18 
+PMCID: PMC6275340
+PMID: 30315082  [Indexed for MEDLINE]
+

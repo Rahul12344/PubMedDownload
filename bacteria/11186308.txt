@@ -1,0 +1,46 @@
+
+1. Philos Trans R Soc Lond B Biol Sci. 2000 Aug 29;355(1400):1071-6.
+
+Thirty-six views of T-cell recognition.
+
+Krummel M(1), Wülfing C, Sumen C, Davis MM.
+
+Author information: 
+(1)The Department of Microbiology and Immunology, and The Howard Hughes Medical
+Institute, Stanford University School of Medicine, CA 94305, USA.
+
+While much is known about the signalling pathways within lymphocytes that are
+triggered during activation, much less is known about how the various cell
+surface molecules on T cells initiate these events. To address this, we have
+focused on the primary interaction that drives T-cell activation, namely the
+binding of a particular T-cell receptor (TCR) to peptide-MHC ligands, and find a 
+close correlation between biological activity and off-rate; that is, the most
+stimulatory TCR ligands have the slowest dissociation rates. In general, TCRs
+from multiple histocompatibility complex (MHC) class-II-restricted T cells have
+half-lives of 1-11s at 25 degrees C, a much narrower range than found with
+antibodies and suggesting a strong selection for an optimum dissociation rate.
+TCR ligands with even faster dissociation rates tend to be antagonists. To
+observe the effects of these different ligands in their physiological setting, we
+made gene fusions of various molecules with green fluorescent protein (GFP),
+transfected them into the relevant lymphocytes, and observed their movements
+during T-cell recognition using multicolour video microscopy. We find that
+clustering of CD3zeta-GFP and CD4-GFP on the Tcell occurs concomitantly or
+slightly before the first rise in calcium by the T cell, and that various
+GFP-labelled molecules on the B-cell side cluster shortly thereafter (ICAM-1,
+class II MHC, CD48), apparently driven byT-cell molecules. Most of this movement 
+towards the interface is mediated by signals through the co-stimulatory
+receptors, CD28 and LFA-1, and involves myosin motors and the cortical actin
+cytoskeleton. Thus, we have proposed that the principal mechanism by which
+co-stimulation enhances T-cell responsiveness is by increasing the local density 
+of T-cell activation molecules, their ligands and their attendant signalling
+apparatus. In collaboration with Michael Dustin and colleagues, we have also
+found that the formation and stability of the TCR-peptide-MHC cluster at the
+centre of the interaction cap between T and B cells is highly dependent on the
+dissociation rate of the TCR and its ligand. Thus, we are able to link this
+kinetic parameter to the formation of a cell surface structure that is linked to 
+and probably causal with respect to T-cell activation.
+
+DOI: 10.1098/rstb.2000.0644 
+PMCID: PMC1692810
+PMID: 11186308  [Indexed for MEDLINE]
+

@@ -1,0 +1,36 @@
+
+1. Sci Rep. 2016 Apr 1;6:23658. doi: 10.1038/srep23658.
+
+Structural and activity characterization of human PHPT1 after oxidative
+modification.
+
+Martin DR(1), Dutta P(1), Mahajan S(1), Varma S(1), Stevens SM Jr(1).
+
+Author information: 
+(1)Department of Cell Biology, Microbiology and Molecular Biology, University of 
+South Florida, Tampa, FL 33620, USA.
+
+Phosphohistidine phosphatase 1 (PHPT1), the only known phosphohistidine
+phosphatase in mammals, regulates phosphohistidine levels of several proteins
+including those involved in signaling, lipid metabolism, and potassium ion
+transport. While the high-resolution structure of human PHPT1 (hPHPT1) is
+available and residues important for substrate binding and catalytic activity
+have been reported, little is known about post-translational modifications that
+modulate hPHPT1 activity. Here we characterize the structural and functional
+impact of hPHPT1 oxidation upon exposure to a reactive oxygen species, hydrogen
+peroxide (H2O2). Specifically, liquid chromatography-tandem mass spectrometry was
+used to quantify site-specific oxidation of redox-sensitive residues of hPHPT1.
+Results from this study revealed that H2O2 exposure induces selective oxidation
+of hPHPT1 at Met95, a residue within the substrate binding region. Explicit
+solvent molecular dynamics simulations, however, predict only a minor effect of
+Met95 oxidation in the structure and dynamics of the apo-state of the hPHPT1
+catalytic site, suggesting that if Met95 oxidation alters hPHPT1 activity, then
+it will do so by altering the stability of an intermediate state. Employing a
+novel mass spectrometry-based assay, we determined that H2O2-induced oxidation
+does not impact hPHPT1 function negatively; a result contrary to the common
+conception that protein oxidation is typically a loss-of-function modification.
+
+DOI: 10.1038/srep23658 
+PMCID: PMC4817053
+PMID: 27034094  [Indexed for MEDLINE]
+

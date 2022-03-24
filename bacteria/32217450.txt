@@ -1,0 +1,50 @@
+
+1. Spectrochim Acta A Mol Biomol Spectrosc. 2020 Jun 15;234:118255. doi:
+10.1016/j.saa.2020.118255. Epub 2020 Mar 12.
+
+Study on early rice blast diagnosis based on unpre-processed Raman spectral data.
+
+Zhao X(1), Liu Z(2), He Y(2), Zhang W(2), Tong L(3).
+
+Author information: 
+(1)College of Electrical and Information, Heilongjiang Bayi Agricultural
+University, China. Electronic address: xy_zhao77@163.com.
+(2)College of Electrical and Information, Heilongjiang Bayi Agricultural
+University, China.
+(3)Communication and Electronic engineering Institute, Qiqihar University, China.
+
+Traditionally, the rice blast is diagnosed with the naked-eyes. There is an
+urgent need to provide a method that can identify the early rice blast without
+symptoms. In the paper, a method for the early rice blast diagnosis based on the 
+Raman spectroscopy was proposed. Considering the compositions of the biological
+sample are complex, characteristic peaks are severely crossed, the biological
+fluorescence background and the noise are strong, and the Raman signal is weak.
+Different data pre-processing methods will lead to different diagnostic
+accuracies of Raman models, especially for biological samples. This paper
+proposed a method for modeling a Raman model based on data without
+pre-processing. In this method, the raw data are decomposed with Empirical Mode
+Decomposition (EMD) into several Intrinsic Mode Functions (IMF). Then, based on
+the self-correlation coefficient of the IMFs and the times of the IMFs crossing
+the zero Raman Intensity line, IMFs are filtered to get the signal components.
+Taking the characteristic peaks of the β-carotene, the chlorophyll, and the
+chitin as the initial characteristic variables, the characteristic variables of
+the signal components were screened based on Successive Projections Algorithm
+(SPA). Finally, the obtained characteristic variables were used to establish a
+Partial Least Squares (PLS) regression model for the rice blast classification,
+and the test classification accuracy was 94.12%, which was higher than that of
+models based on spectral data pre-processed by Moving Average Smoothing +
+Baseline offset, Savitzky Golay Smoothing + Baseline offset, Gaussian Filter
+Smoothing + Baseline offset and the dB5 wavelet, 3-layer decomposition, Stein
+Unbiased Risk Estimate, the modulus maximum value method +7 points, 3rd-order
+Polynomial Fitting.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.saa.2020.118255 
+PMID: 32217450  [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

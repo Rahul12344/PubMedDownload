@@ -1,0 +1,57 @@
+
+1. Int J Cancer. 2020 Apr 1;146(7):2027-2035. doi: 10.1002/ijc.32775. Epub 2019 Nov 
+27.
+
+High-risk Stage III colon cancer patients identified by a novel five-gene
+mutational signature are characterized by upregulation of IL-23A and gut
+bacterial translocation of the tumor microenvironment.
+
+Ge W(1), Hu H(1)(2), Cai W(1)(2), Xu J(3), Hu W(1), Weng X(1), Qin X(4), Huang
+Y(1), Han W(5), Hu Y(1)(6), Yu J(1), Zhang W(1), Ye S(1), Qi L(1), Huang P(7),
+Chen L(1)(3), Ding K(1)(6), Wang LD(8), Zheng S(1).
+
+Author information: 
+(1)Cancer Institute (Key Laboratory of Cancer Prevention and Intervention, China 
+National Ministry of Education), The Second Affiliated Hospital, School of
+Medicine, Zhejiang University, Hangzhou, China.
+(2)Department of Medical Oncology, The Second Affiliated Hospital, School of
+Medicine, Zhejiang University, Hangzhou, China.
+(3)Department of Pathology, The Second Affiliated Hospital, School of Medicine,
+Zhejiang University, Hangzhou, China.
+(4)Medical College, Hubei University of Arts and Science, Xiangyang, China.
+(5)Department of Medical Oncology, Biomedical Research Center, Sir Run Run Shaw
+Hospital, School of Medicine, Zhejiang University, Hangzhou, China.
+(6)Department of Surgical Oncology, The Second Affiliated Hospital, School of
+Medicine, Zhejiang University, Hangzhou, China.
+(7)State Key Laboratory of Industrial Control Technology, College of Control
+Science and Engineering, Zhejiang University, Hangzhou, China.
+(8)Henan Key Laboratory for Esophageal Cancer Research of the First Affiliated
+Hospital, State Key Laboratory for Esophageal Cancer Prevention & Treatment,
+Zhengzhou University, Zhengzhou, Henan, China.
+
+The heterogeneities of colorectal cancer (CRC) lead to staging inadequately of
+patients' prognosis. Here, we performed a prognostic analysis based on the tumor 
+mutational profile and explored the characteristics of the high-risk tumors. We
+sequenced 338 colorectal carcinomas as the training dataset, constructed a novel 
+five-gene (SMAD4, MUC16, COL6A3, FLG and LRP1B) prognostic signature, and
+validated it in an independent dataset from The Cancer Genome Atlas (TCGA).
+Kaplan-Meier and Cox regression analyses confirmed that the five-gene signature
+is an independent predictor of recurrence and prognosis in patients with Stage
+III colon cancer. The mutant signature translated to an increased risk of death
+(hazard ratio = 2.45, 95% confidence interval = 1.15-5.22, p = 0.016 in our
+dataset; hazard ratio = 4.78, 95% confidence interval = 1.33-17.16, p = 0.008 in 
+TCGA dataset). RNA and bacterial 16S rRNA sequencing of high-risk tumors
+indicated that mutations of the five-gene signature may lead to intestinal
+barrier integrity, translocation of gut bacteria and deregulation of immune
+response and extracellular related genes. The high-risk tumors overexpressed
+IL23A and IL1RN genes and enriched with cancer-related bacteria (Bacteroides
+fragilis,Peptostreptococcus, Parvimonas, Alloprevotella and Gemella) compared to 
+the low-risk tumors. The signature identified the high-risk group characterized
+by gut bacterial translocation and upregulation of interleukins of the tumor
+microenvironment, which was worth further researching.
+
+© 2019 UICC.
+
+DOI: 10.1002/ijc.32775 
+PMID: 31693169  [Indexed for MEDLINE]
+

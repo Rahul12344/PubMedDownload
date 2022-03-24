@@ -1,0 +1,55 @@
+
+1. Biochemistry. 2007 Dec 18;46(50):14487-99. Epub 2007 Nov 21.
+
+Rational redesign of the 4-chlorobenzoate binding site of 4-chlorobenzoate:
+coenzyme a ligase for expanded substrate range.
+
+Wu R(1), Reger AS, Cao J, Gulick AM, Dunaway-Mariano D.
+
+Author information: 
+(1)Department of Chemistry, University of New Mexico, Albuquerque, New Mexico
+87131, USA.
+
+Environmental aromatic acids are transformed to chemical energy in bacteria that 
+possess the requisite secondary pathways. Some of these pathways rely on the
+activation of the aromatic acid by coenzyme A (CoA) thioesterification catalyzed 
+by an aromatic acid: CoA ligase. Adaptation of such pathways to the
+bioremediation of man-made pollutants such as polychlorinated biphenyl (PCB) and 
+dichlorodiphenyltrichloroethane (DDT) requires that the chlorinated benzoic acid 
+byproduct that is formed be able to be eliminated by further degradation. To take
+advantage of natural benzoic acid degrading pathways requiring initial ring
+activation by thioesterification, the pathway aromatic acid:CoA ligase must be an
+effective catalyst with the chlorinated benzoic acid. This study, which focuses
+on the 4-chlorobenzoate:CoA ligase (CBL) of the 4-monochlorobiphenyl degrading
+bacterium Alcaligenes sp. strain ALP83, was carried out to determine if the
+4-chlorobenzoate binding site of this enzyme can be transformed by rational
+design to recognize the chlorobenzoic acids formed in the course of breakdown of 
+other environmental PCB congeners. The fundamental question addressed in this
+study is whether it is possible to add or subtract space from the
+substrate-binding pocket of this ligase (to complement the topology of the
+unnatural aromatic substrate) without causing disruption of the ligase catalytic 
+machinery. Herein, we report the results of a substrate specificity analysis
+that, when interpreted within the context of the X-ray crystal structures, set
+the stage for the rational design of the ligase for thioesterification of two
+PCB-derived chlorobenzoic acids. The ligase was first optimized to catalyze CoA
+thioesterification of 3,4-dichlorobenzoic acid, a poor substrate, by truncating
+Ile303, a large hydrophobic residue that packs against the ring meta-C(H) group. 
+The structural basis for the approximately 100-fold enhancement in the rate of
+3,4-dichlorobenzoate thioesterification catalyzed by the I303A and I303G CBL
+mutants was validated by determination of the crystal structure of the
+3,4-dichlorobenzoate-bound enzymes. Determinations of the structures of I303
+mutant complexes of 3-chlorobenzoate, a very poor substrate, revealed
+nonproductive binding as a result of the inability of the substrate ring C(4)H
+group to fill the pocket that binds the C(4)Cl group of the native substrate. The
+C(4)Cl pocket of the CBL I303A mutant was then reduced in size by strategic amino
+acid replacement. A 54-fold improvement in catalytic efficiency was observed for 
+the CBL F184W/I303A/V209T triple mutant. The results of this investigation are
+interpreted as evidence that the plasticity of the ligase catalytic scaffold is
+sufficient to allow expansion of substrate range by rational design. The
+combination of structural and kinetic analyses of the constructed mutants proved 
+to be an effective approach to engineering the ligase for novel substrates.
+
+DOI: 10.1021/bi701609w 
+PMCID: PMC4710512
+PMID: 18027984  [Indexed for MEDLINE]
+

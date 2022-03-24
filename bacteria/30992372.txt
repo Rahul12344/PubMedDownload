@@ -1,0 +1,56 @@
+
+1. J Neurosci. 2019 Jun 19;39(25):4959-4975. doi: 10.1523/JNEUROSCI.2395-18.2019.
+Epub 2019 Apr 16.
+
+Conditional Deletion of CC2D1A Reduces Hippocampal Synaptic Plasticity and
+Impairs Cognitive Function through Rac1 Hyperactivation.
+
+Yang CY(1), Yu TH(1), Wen WL(2), Ling P(3), Hsu KS(4)(2).
+
+Author information: 
+(1)Institute of Basic Medical Sciences.
+(2)Department of Pharmacology, and.
+(3)Department of Microbiology & Immunology, College of Medicine, National Cheng
+Kung University, Tainan 70101, Taiwan.
+(4)Institute of Basic Medical Sciences, richard@mail.ncku.edu.tw.
+
+Coiled-coil and C2 domain containing 1A (CC2D1A) is an evolutionarily conserved
+protein, originally identified as a nuclear factor-κB activator through a
+large-scale screen of human genes. Mutations in the human Cc2d1a gene result in
+autosomal recessive nonsyndromic intellectual disability. It remains unclear,
+however, how Cc2d1a mutation leads to alterations in brain function. Here, we
+have taken advantage of Cre/loxP recombinase-based strategy to conditionally
+delete Cc2d1a exclusively from excitatory neurons of male mouse forebrain to
+examine its role in hippocampal synaptic plasticity and cognitive function. We
+confirmed the expression of CC2D1A protein and mRNA in the mouse hippocampus.
+Double immunofluorescence staining showed that CC2D1A is expressed in both
+excitatory and inhibitory neurons of the adult hippocampus. Conditional deletion 
+of Cc2d1a (cKO) from excitatory neurons leads to impaired performance in object
+location memory test and altered anxiety-like behavior. Consistently, cKO mice
+displayed a deficit in the maintenance of LTP in the CA1 region of hippocampal
+slices. Cc2d1a deletion also resulted in decreased complexity of apical and basal
+dendritic arbors of CA1 pyramidal neurons. An enhanced basal Rac1 activity was
+observed following Cc2d1a deletion, and this enhancement was mediated by reduced 
+SUMO-specific protease 1 (SENP1) and SENP3 expression, thus increasing the amount
+of Rac1 SUMOylation. Furthermore, partial blockade of Rac1 activity rescued
+impairments in LTP and object location memory performance in cKO mice. Together, 
+our results implicate Rac1 hyperactivity in synaptic plasticity and cognitive
+deficits observed in Cc2d1a cKO mice and reveal a novel role for CC2D1A in
+regulating hippocampal synaptic function.SIGNIFICANCE STATEMENT CC2D1A is
+abundantly expressed in the brain, but there is little known about its
+physiological function. Taking advantage of Cc2d1a cKO mice, the present study
+highlights the importance of CC2D1A in the maintenance of LTP at Schaffer
+collateral-CA1 synapses and the formation of hippocampus-dependent long-term
+object location memory. Our findings establish a critical link between elevated
+Rac1 activity, structural and synaptic plasticity alterations, and cognitive
+impairment caused by Cc2d1a deletion. Moreover, partial blockade of Rac1 activity
+rescues synaptic plasticity and memory deficits in Cc2d1a cKO mice. Such insights
+may have implications for the utility of Rac1 inhibitors in the treatment of
+intellectual disability caused by Cc2d1a mutations in human patients.
+
+Copyright © 2019 the authors.
+
+DOI: 10.1523/JNEUROSCI.2395-18.2019 
+PMCID: PMC6670244
+PMID: 30992372  [Indexed for MEDLINE]
+

@@ -1,0 +1,34 @@
+
+1. Cancer Gene Ther. 2004 Jul;11(7):487-96.
+
+Transgenic TCR expression: comparison of single chain with full-length receptor
+constructs for T-cell function.
+
+Zhang T(1), He X, Tsang TC, Harris DT.
+
+Author information: 
+(1)Gene Therapy Group, Department of Microbiology and Immunology, University of
+Arizona, Tucson, Arizona 85721, USA.
+
+Genetic modification of T lymphocytes with T-cell receptor (TCR) genes provides a
+novel tool for adoptive immunotherapy. However, the efficiency of full-length TCR
+(flTCR)-transduced T cells could be limited by factors such as incorrect pairing 
+between exogenous and endogenous TCR chains and downregulation of the CD3
+complex. To overcome these hurdles, one promising strategy is to use three-domain
+single-chain TCRs (3D-scTCR), in which TCR Valpha and Vbeta chains are joined by 
+a linker with signal transduction domains fused at the carboxyl termini as signal
+transducers and amplifiers. Our results showed that surface expression of scTCRs 
+on T cells after retroviral transduction was affected by the origin of the
+transmembrane (TM) region and placement of signaling domains. scTCR-modified T
+cells were functional as shown by cytokine (IL-2 and IFN-gamma) release in
+response to antigen stimulation and cytolytic activity against specific target
+cells. CD8 and CD28, but not the complete CD3 complex, could enhance the
+scTCR-induced T cell activation. Compared with flTCR-modified T cells and native 
+CTLs, scTCR-modified T cells require higher thresholds of antigen stimulation
+(approximately 10(-8) M peptide) to be functional. Despite the low efficiency of 
+scTCRs, our data provide insight into further improvements in generating
+efficient scTCRs for in vivo applications.
+
+DOI: 10.1038/sj.cgt.7700703 
+PMID: 15153936  [Indexed for MEDLINE]
+

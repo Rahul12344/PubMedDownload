@@ -1,0 +1,51 @@
+
+1. FEBS J. 2017 Nov;284(22):3931-3953. doi: 10.1111/febs.14283. Epub 2017 Oct 23.
+
+Structural basis for enzyme bifunctionality - the case of Gan1D from
+Geobacillus stearothermophilus.
+
+Lansky S(1), Zehavi A(2), Belrhali H(3), Shoham Y(2), Shoham G(1).
+
+Author information: 
+(1)Institute of Chemistry, The Laboratory for Structural Chemistry and Biology,
+The Hebrew University of Jerusalem, Israel.
+(2)Department of Biotechnology and Food Engineering, Technion - Israel Institute 
+of Technology, Haifa, Israel.
+(3)European Synchrotron Radiation Facility, Grenoble, France.
+
+6-phospho-β-glucosidases and 6-phospho-β-galactosidases are enzymes that
+hydrolyze the β-glycosidic bond between a terminal non-reducing
+glucose-6-phosphate (Glc6P) or galactose-6-phosphate (Gal6P), respectively, and
+other organic molecules. Gan1D, a glycoside hydrolase (GH) belonging to the GH1
+family, has recently been identified in a newly characterized
+galactan-utilization gene cluster in the bacterium Geobacillus stearothermophilus
+T-1. Gan1D has been shown to exhibit bifunctional activity, possessing both
+6-phospho-β-galactosidase and 6-phospho-β-glucosidase activities. We report
+herein the complete 3D crystal structure of Gan1D, together with its acid/base
+catalytic mutant Gan1D-E170Q. The tertiary structure of Gan1D conforms well to
+the (β/α)8 TIM-barrel fold commonly observed in GH enzymes, and its quaternary
+structure adopts a dimeric assembly, confirmed by gel-filtration and small-angle 
+X-ray scattering results. We present also the structures of Gan1D in complex with
+the putative substrate cellobiose-6-phosphate (Cell6P) and the degradation
+products Glc6P and Gal6P. These complexes reveal the specific enzyme-substrate
+and enzyme-product binding interactions of Gan1D, and the residues involved in
+its glycone, aglycone, and phosphate binding sites. We show that the different
+ligands trapped in the active sites adopt different binding modes to the protein,
+providing a structural basis for the dual galactosidase/glucosidase activity
+observed for this enzyme. Based on this information, specific mutations were
+performed on one of the active site residues (W433), shifting the enzyme
+specificity from dual activity to a significant preference toward
+6-phospho-β-glucosidase activity. These data and their comparison with structural
+data of related glucosidases and galactosidases are used for a more general
+discussion on the structure-function relationships in this sub-group of GH1
+enzymes.DATABASES: Atomic coordinates of Gan1D-wild-type (WT)-P1, Gan1D-WT-C2,
+Gan1D-E170Q, Gan1D-WT-Gal6P, Gan1D-WT-Glc6P, and Gan1D-E170Q-Cell6P have been
+deposited in the Research Collaboratory for Structural Bioinformatics (RCSB)
+Protein Data Bank, under accession codes 5OKB, 5OKJ/5OKH, 5OKA/5OK7, 5OKQ/5OKK,
+5OKS/5OKR, and 5OKG/5OKE, respectively.
+
+© 2017 Federation of European Biochemical Societies.
+
+DOI: 10.1111/febs.14283 
+PMID: 28975708  [Indexed for MEDLINE]
+

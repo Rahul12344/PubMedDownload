@@ -1,0 +1,44 @@
+
+1. peerj. 2018 nov 19;6:e5888. doi: 10.7717/peerj.5888. ecollection 2018.
+
+exploratory investigation region level risk factors ebola virus disease 
+west africa.
+
+levy b(1), odoi a(2).
+
+author information: 
+(1)department mathematics, fitchburg state university, fitchburg, ma, united
+states america.
+(2)department biomedical diagnostic sciences, university of
+tennessee-knoxville, knoxville, tn, united states america.
+
+background: ebola virus disease (evd) highly infectious disease has
+produced 25,000 cases past 50 years. many past outbreaks
+resulted relatively cases, 2014 outbreak west africa most
+deadly occurrence evd date, producing 15,000 confirmed cases.
+objective: study, investigated population level predictors evd risk
+at regional level sierra leone, liberia, guinea.
+methods: spatial descriptive analyses conducted assess distribution
+of evd cases. choropleth maps showing spatial distribution evd risk across
+the study area generated arcgis. poisson negative binomial models
+were used investigate population regional predictors evd risk.
+results: results indicated risk evd significantly lower areas 
+with higher proportions of: (a) population living urban areas, (b)
+households low quality toilets, (c) married men working blue 
+collar jobs. however, risk evd significantly higher areas high
+mean years education.
+conclusions: identified significant predictors high risk associated
+with areas higher levels urbanization. may due higher
+population densities urban centers hence higher potential of
+infectious contact. however, need better understand role of
+urbanization individual contact structure ebola outbreak. discuss
+shortcomings available data emphasize need consider spatial scale
+in future data collection epidemiological studies.
+
+doi: 10.7717/peerj.5888 
+pmcid: pmc6250096
+pmid: 30488016 
+
+conflict interest statement: authors declare competing
+interests.
+

@@ -1,0 +1,71 @@
+
+1. nat commun. 2018 may 15;9(1):1910. doi: 10.1038/s41467-018-04295-5.
+
+changes genome organization parasite-specific gene families the
+plasmodium transmission stages.
+
+bunnik em(1)(2), cook kb(3), varoquaux n(4)(5)(6)(7)(8), batugedara g(2),
+prudhomme j(2), cort a(2), shi l(9), andolina c(10)(11), ross ls(12), brady
+d(13), fidock da(12)(14), nosten f(10)(11), tewari r(13), sinnis p(9), ay f(15), 
+vert jp(6)(7)(8)(16), noble ws(17)(18), le roch kg(19).
+
+author information: 
+(1)department microbiology, immunology & molecular genetics, university of
+texas health science center san antonio, 7703 floyd curl drive, san antonio,
+tx, 78229, usa.
+(2)department molecular, cell systems biology, university california
+riverside, 900 university ave, riverside, ca, 92521, usa.
+(3)department genome sciences, university washington, 3720 15th ave ne,
+seattle, wa, 98195, usa.
+(4)department statistics, university california, 367 evans hall, berkeley, 
+ca, 94720, usa.
+(5)berkeley institute data science, 190 doe library, berkeley, ca, 94720,
+usa.
+(6)mines paristech, psl research university, cbio-centre computational
+biology, 60 boulevard saint-michel, 75006, paris, france.
+(7)institut curie, 75248, paris, france.
+(8)u900, inserm, paris, 75248, france.
+(9)department molecular microbiology immunology, johns hopkins bloomberg
+school public health, 615n. wolfe street, e5132, baltimore, md, 21205, usa.
+(10)centre tropical medicine global health, nuffield department of
+medicine research building, university oxford, old road campus, roosevelt
+drive, headington, oxford, ox3 7fz, uk.
+(11)shoklo malaria research unit, mahidol-oxford tropical medicine research unit,
+faculty tropical medicine, mahidol university, mae sot, tak, 63110, thailand.
+(12)department microbiology immunology, columbia university medical
+center, 701w. 168 st., hhsc 1208, new york, ny, 10032, usa.
+(13)school life sciences, queens medical centre, university nottingham,
+nottingham, ng7 2uh, uk.
+(14)division infectious diseases, department medicine, columbia university,
+new york, ny, 10032, usa.
+(15)la jolla institute allergy & immunology, 9420 athena cir, la jolla, ca,
+92037, usa.
+(16)département de mathématiques et applications, école normale supérieure, cnrs,
+psl research university, paris, 75005, france.
+(17)department genome sciences, university washington, 3720 15th ave ne,
+seattle, wa, 98195, usa. william-noble@uw.edu.
+(18)department computer science engineering, university washington,
+seattle, wa, 98195, usa. william-noble@uw.edu.
+(19)department molecular, cell systems biology, university california
+riverside, 900 university ave, riverside, ca, 92521, usa. karine.leroch@ucr.edu.
+
+the development malaria parasites throughout various life cycle stages
+is coordinated changes gene expression. previously showed the
+three-dimensional organization plasmodium falciparum genome strongly
+associated gene expression replication cycle inside red blood
+cells. here, analyze genome organization p. falciparum p. vivax
+transmission stages. major changes occur localization interactions 
+genes involved pathogenesis immune evasion, host cell invasion, sexual
+differentiation, master regulation gene expression. furthermore, we
+observe reorganization subtelomeric heterochromatin around genes involved in
+host cell remodeling. depletion heterochromatin protein 1 (pfhp1) resulted 
+loss interactions virulence genes, confirming pfhp1 essential 
+for maintenance repressive center. results suggest the
+three-dimensional genome structure human malaria parasites strongly
+connected transcriptional activity specific gene families throughout 
+life cycle.
+
+doi: 10.1038/s41467-018-04295-5 
+pmcid: pmc5954139
+pmid: 29765020  [indexed medline]
+

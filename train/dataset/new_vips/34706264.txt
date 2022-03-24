@@ -1,0 +1,48 @@
+
+1. Dev Cell. 2021 Dec 6;56(23):3250-3263.e5. doi: 10.1016/j.devcel.2021.10.006. Epub
+2021 Oct 11.
+
+ORF3a of SARS-CoV-2 promotes lysosomal exocytosis-mediated viral egress.
+
+Chen D(1), Zheng Q(1), Sun L(2), Ji M(1), Li Y(3), Deng H(2), Zhang H(4).
+
+Author information: 
+(1)National Laboratory of Biomacromolecules, CAS Center for Excellence in
+Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing 
+100101, P.R. China.
+(2)CAS Key Laboratory of Infection and Immunity, CAS Center for Excellence in
+Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing 
+100101, P.R. China; College of Life Sciences, University of Chinese Academy of
+Sciences, Beijing 100049, P.R. China.
+(3)CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of
+Microbiology, Chinese Academy of Sciences, Beijing 100101, P.R. China.
+(4)National Laboratory of Biomacromolecules, CAS Center for Excellence in
+Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing 
+100101, P.R. China; College of Life Sciences, University of Chinese Academy of
+Sciences, Beijing 100049, P.R. China. Electronic address: hongzhang@ibp.ac.cn.
+
+Viral entry and egress are important determinants of virus infectivity and
+pathogenicity. β-coronaviruses, including the COVID-19 virus SARS-CoV-2 and mouse
+hepatitis virus (MHV), exploit the lysosomal exocytosis pathway for egress. Here,
+we show that SARS-CoV-2 ORF3a, but not SARS-CoV ORF3a, promotes lysosomal
+exocytosis. SARS-CoV-2 ORF3a facilitates lysosomal targeting of the BORC-ARL8b
+complex, which mediates trafficking of lysosomes to the vicinity of the plasma
+membrane, and exocytosis-related SNARE proteins. The Ca2+ channel TRPML3 is
+required for SARS-CoV-2 ORF3a-mediated lysosomal exocytosis. Expression of
+SARS-CoV-2 ORF3a greatly elevates extracellular viral release in cells infected
+with the coronavirus MHV-A59, which itself lacks ORF3a. In SARS-CoV-2 ORF3a,
+Ser171 and Trp193 are critical for promoting lysosomal exocytosis and blocking
+autophagy. When these residues are introduced into SARS-CoV ORF3a, it acquires
+the ability to promote lysosomal exocytosis and inhibit autophagy. Our results
+reveal a mechanism by which SARS-CoV-2 interacts with host factors to promote its
+extracellular egress.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.devcel.2021.10.006 
+PMCID: PMC8502680
+PMID: 34706264 
+
+Conflict of interest statement: Declaration of interests The authors declare no
+competing interests.
+

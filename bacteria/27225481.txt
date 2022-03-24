@@ -1,0 +1,49 @@
+
+1. J Exp Clin Cancer Res. 2016 May 25;35:84. doi: 10.1186/s13046-016-0359-2.
+
+Yin Yang 1 is associated with cancer stem cell transcription factors (SOX2, OCT4,
+BMI1) and clinical implication.
+
+Kaufhold S(1), Garbán H(2), Bonavida B(3).
+
+Author information: 
+(1)Department of Microbiology, Immunology, and Molecular Genetics, David Geffen
+School of Medicine, University of California Los Angeles, Los Angeles, CA, 90095,
+USA.
+(2)NantBioScience, Inc, NantWorks, LLC & California NanoSystems Institute (CnSI),
+University of California Los Angeles, Los Angeles, CA, 90095, USA.
+hgarban@ucla.edu.
+(3)Department of Microbiology, Immunology, and Molecular Genetics, David Geffen
+School of Medicine, University of California Los Angeles, Los Angeles, CA, 90095,
+USA. bbonavida@mednet.ucla.edu.
+
+The transcription factor Yin Yang 1 (YY1) is frequently overexpressed in
+cancerous tissues compared to normal tissues and has regulatory roles in cell
+proliferation, cell viability, epithelial-mesenchymal transition, metastasis and 
+drug/immune resistance. YY1 shares many properties with cancer stem cells (CSCs) 
+that drive tumorigenesis, metastasis and drug resistance and are regulated by
+overexpression of certain transcription factors, including SOX2, OCT4 (POU5F1),
+BMI1 and NANOG. Based on these similarities, it was expected that YY1 expression 
+would be associated with SOX2, OCT4, BMI1, and NANOG's expressions and
+activities. Data mining from the proteomic tissue-based datasets from the Human
+Protein Atlas were used for protein expression patterns of YY1 and the four CSC
+markers in 17 types of cancer, including both solid and hematological
+malignancies. A close association was revealed between the frequency of
+expressions of YY1 and SOX2 as well as SOX2 and OCT4 in all cancers analyzed. Two
+types of dynamics were identified based on the nature of their association,
+namely, inverse or direct, between YY1 and SOX2. These two dynamics define
+distinctive patterns of BMI1 and OCT4 expressions. The relationship between YY1
+and SOX2 expressions as well as the expressions of BMI1 and OCT4 resulted in the 
+classification of four groups of cancers with distinct molecular signatures: (1) 
+Prostate, lung, cervical, endometrial, ovarian and glioma cancers
+(YY1(lo)SOX2(hi)BMI1(hi)OCT4(hi)) (2) Skin, testis and breast cancers
+(YY1(hi)SOX2(lo)BMI1(hi)OCT4(hi)) (3) Liver, stomach, renal, pancreatic and
+urothelial cancers (YY1(lo)SOX2(lo)BMI1(hi)OCT4(hi)) and (4) Colorectal cancer,
+lymphoma and melanoma (YY1(hi)SOX2(hi)BMI1(lo)OCT4(hi)). A regulatory loop is
+proposed consisting of the cross-talk between the NF-kB/PI3K/AKT pathways and the
+downstream inter-regulation of target gene products YY1, OCT4, SOX2 and BMI1.
+
+DOI: 10.1186/s13046-016-0359-2 
+PMCID: PMC4881184
+PMID: 27225481  [Indexed for MEDLINE]
+

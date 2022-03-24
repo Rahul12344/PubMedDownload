@@ -1,0 +1,41 @@
+
+1. J Ind Microbiol Biotechnol. 2020 Dec;47(12):1099-1108. doi:
+10.1007/s10295-020-02331-2. Epub 2020 Nov 21.
+
+Optimization of n-butanol synthesis in Lactobacillus brevis via the functional
+expression of thl, hbd, crt and ter.
+
+Li Q(1)(2), Wu M(2), Wen Z(2), Jiang Y(2), Wang X(2), Zhao Y(2), Liu J(2), Yang
+J(2), Jiang Y(3), Yang S(4)(5).
+
+Author information: 
+(1)College of Life Sciences, Sichuan Normal University, Chengdu, 610101, China.
+(2)Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular
+Plant Sciences, Chinese Academy of Sciences, Shanghai, 200032, China.
+(3)Huzhou Center of Industrial Biotechnology, Shanghai Institutes for Biological 
+Sciences, Huzhou, 313000, China.
+(4)Key Laboratory of Synthetic Biology, CAS Center for Excellence in Molecular
+Plant Sciences, Chinese Academy of Sciences, Shanghai, 200032, China.
+syang@sibs.ac.cn.
+(5)Huzhou Center of Industrial Biotechnology, Shanghai Institutes for Biological 
+Sciences, Huzhou, 313000, China. syang@sibs.ac.cn.
+
+N-butanol is an important chemical and can be naturally synthesized by
+Clostridium species; however, the poor n-butanol tolerance of Clostridium impedes
+the further improvement in titer. In this study, Lactobacillus brevis, which
+possesses a higher butanol tolerance, was selected as host for heterologous
+butanol production. The Clostridium acetobutylicum genes thl, hbd, and crt which 
+encode thiolase, β-hydroxybutyryl-CoA dehydrogenase, and crotonase, and the
+Treponema denticola gene ter, which encodes trans-enoyl-CoA reductase were cloned
+into a single plasmid to express the butanol synthesis pathway in L. brevis. A
+titer of 40 mg/L n-butanol was initially achieved with plasmid pLY15-opt, in
+which all pathway genes are codon-optimized. A titer of 450 mg/L of n-butanol was
+then synthesized when ter was further overexpressed in this pathway. The role of 
+metabolic flux was reinforced with pLY15, in which only the ter gene was
+codon-optimized, which greatly increased the n-butanol titer to 817 mg/L. Our
+strategy significantly improved n-butanol synthesis in L. brevis and the final
+titer is the highest achieved amongst butanol-tolerant lactic acid bacteria.
+
+DOI: 10.1007/s10295-020-02331-2 
+PMID: 33221994  [Indexed for MEDLINE]
+

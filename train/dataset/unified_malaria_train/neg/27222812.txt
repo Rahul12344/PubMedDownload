@@ -1,0 +1,38 @@
+
+1. genom data. 2016 apr 23;8:110-2. doi: 10.1016/j.gdata.2016.04.004. ecollection
+2016 jun.
+
+whole transcriptome expression analysis comparison two different strains
+of plasmodium falciparum using rna-seq.
+
+antony ha(1), pathak v(2), parija sc(1), ghosh k(3), bhattacherjee a(4).
+
+author information: 
+(1)department microbiology, jawaharlal institute postgraduate medical
+education research (jipmer), puducherry 605006, india.
+(2)department haematogenetics, national institute immunohaematology (nii), 
+mumbai, maharashtra 400012, india.
+(3)surat raktadan kendra & research centre, surat, gujarat 395002, india.
+(4)scigenom labs pvt. ltd., cochin, kerala 682037, india.
+
+the emergence distribution drug resistance malaria serious public
+health concerns tropical subtropical regions world. however, the
+molecular mechanism drug resistance remains unclear. present study, 
+performed high-throughput rna-seq identify characterize the
+differentially expressed genes chloroquine (cq) sensitive (3d7) and
+resistant (dd2) strains plasmodium falciparum. parasite cells were
+cultured presence absence cq vitro method. total rna was
+isolated harvested parasite cells using trizol, rna-seq was
+conducted using illumina hiseq 2500 sequencing platform paired-end reads 
+and annotated using tophat. transcriptome analysis p. falciparum revealed 
+the expression ~ 5000 genes, ~ 60% genes unknown
+function. cuffdiff program used identify differentially expressed
+genes cq-sensitive resistant strains. here, furnish detailed
+description experimental design, procedure, analysis the
+transcriptome sequencing data, deposited national center
+for biotechnology information (accession nos. prjna308455 gse77499).
+
+doi: 10.1016/j.gdata.2016.04.004 
+pmcid: pmc4872366
+pmid: 27222812 
+

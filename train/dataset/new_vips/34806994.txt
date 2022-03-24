@@ -1,0 +1,55 @@
+
+1. J Med Internet Res. 2021 Nov 19;23(11):e29554. doi: 10.2196/29554.
+
+A Markerless 2D Video, Facial Feature Recognition-Based, Artificial Intelligence 
+Model to Assist With Screening for Parkinson Disease: Development and Usability
+Study.
+
+Hou X(#)(1), Zhang Y(#)(2), Wang Y(#)(3), Wang X(#)(4), Zhao J(2), Zhu X(2), Su
+J(1).
+
+Author information: 
+(1)Department of Automation, Shanghai Jiao Tong University, Shanghai, China.
+(2)Department of Neurology, Xinhua Hospital Affiliated to Shanghai Jiao Tong
+University School of Medicine, Shanghai, China.
+(3)Department of Neurology, Second Affiliated Hospital of Jiaxing City, Jiaxing, 
+China.
+(4)Department of Neurology, Shanghai East Hospital, School of Medicine, Tongji
+University, Shanghai, China.
+(#)Contributed equally
+
+BACKGROUND: Masked face is a characteristic clinical manifestation of Parkinson
+disease (PD), but subjective evaluations from different clinicians often show low
+consistency owing to a lack of accurate detection technology. Hence, it is of
+great significance to develop methods to make monitoring easier and more
+accessible.
+OBJECTIVE: The study aimed to develop a markerless 2D video, facial feature
+recognition-based, artificial intelligence (AI) model to assess facial features
+of PD patients and investigate how AI could help neurologists improve the
+performance of early PD diagnosis.
+METHODS: We collected 140 videos of facial expressions from 70 PD patients and 70
+matched controls from 3 hospitals using a single 2D video camera. We developed
+and tested an AI model that performs masked face recognition of PD patients based
+on the acquisition and evaluation of facial features including geometric and
+texture features. Random forest, support vector machines, and k-nearest neighbor 
+were used to train the model. The diagnostic performance of the AI model was
+compared with that of 5 neurologists.
+RESULTS: The experimental results showed that our AI models can achieve feasible 
+and effective facial feature recognition ability to assist with PD diagnosis. The
+accuracy of PD diagnosis can reach 83% using geometric features. And with the
+model trained by random forest, the accuracy of texture features is up to 86%.
+When these 2 features are combined, an F1 value of 88% can be reached, where the 
+random forest algorithm is used. Further, the facial features of patients with PD
+were not associated with the motor and nonmotor symptoms of PD.
+CONCLUSIONS: PD patients commonly exhibit masked facial features. Videos of a
+facial feature recognition-based AI model can provide a valuable tool to assist
+with PD diagnosis and the potential of realizing remote monitoring of the
+patient's condition, especially during the COVID-19 pandemic.
+
+©Xinyao Hou, Yu Zhang, Yanping Wang, Xinyi Wang, Jiahao Zhao, Xiaobo Zhu, Jianbo 
+Su. Originally published in the Journal of Medical Internet Research
+(https://www.jmir.org), 19.11.2021.
+
+DOI: 10.2196/29554 
+PMID: 34806994  [Indexed for MEDLINE]
+

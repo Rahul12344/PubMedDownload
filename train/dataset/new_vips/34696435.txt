@@ -1,0 +1,52 @@
+
+1. Viruses. 2021 Oct 6;13(10). pii: 2004. doi: 10.3390/v13102004.
+
+Targeting Tat-TAR RNA Interaction for HIV-1 Inhibition.
+
+Alanazi A(1), Ivanov A(2), Kumari N(1), Lin X(2)(3), Wang S(1), Kovalskyy D(4),
+Nekhai S(1)(2)(5).
+
+Author information: 
+(1)Department of Microbiology, College of Medicine, Howard University,
+Washington, DC 20059, USA.
+(2)Center for Sickle Cell Disease, College of Medicine, Howard University,
+Washington, DC 20059, USA.
+(3)Department of Oral and Maxillofacial Pathology, College of Dentistry, Howard
+University, Washington, DC 20059, USA.
+(4)Department of Biochemistry, University of Texas Health Science Center, San
+Antonio, TX 78229, USA.
+(5)Department of Medicine, College of Medicine, Howard University, Washington, DC
+20059, USA.
+
+The HIV-1 Tat protein interacts with TAR RNA and recruits CDK9/cyclin T1 and
+other host factors to induce HIV-1 transcription. Thus, Tat-TAR RNA interaction, 
+which is unique for HIV-1, represents an attractive target for anti-HIV-1
+therapeutics. To target Tat-TAR RNA interaction, we used a crystal structure of
+acetylpromazine bound to the bulge of TAR RNA, to dock compounds from the Enamine
+database containing over two million individual compounds. The docking procedure 
+identified 173 compounds that were further analyzed for the inhibition of HIV-1
+infection. The top ten inhibitory compounds with IC50 ≤ 6 µM were selected and
+the three least toxic compounds, T6780107 (IC50 = 2.97 μM), T0516-4834 (IC50 =
+0.2 μM) and T5628834 (IC50 = 3.46 μM), were further tested for HIV-1
+transcription inhibition. Only the T0516-4834 compound showed selective
+inhibition of Tat-induced HIV-1 transcription, whereas the T6780107 compound
+inhibited equally basal and Tat-induced transcription and the T5628834 compound
+only inhibited basal HIV-1 transcription. The compounds were tested for the
+inhibition of translation and showed minimal (<25%) effect. The T0516-4834
+compound also showed the strongest inhibition of HIV-1 RNA expression and p24
+production in CEM T cells and peripheral blood mononuclear cells infected with
+HIV-1 IIIB. Of the three compounds, only the T0516-4834 compound significantly
+disrupted Tat-TAR RNA interaction. Additionally, of the three tested compounds,
+T5628834 and, to a lesser extent, T0516-4834 disrupted Tat-CDK9/cyclin T1
+interaction. None of the three compounds showed significant inhibition of the
+cellular CDK9 and cyclin T1 levels. In silico modelling showed that the
+T0516-4834 compound interacted with TAR RNA by binding to the bulge formed by
+U23, U25, C39, G26,C39 and U40 residues. Taken together, our study identified a
+novel benzoxazole compound that disrupted Tat-TAR RNA interaction and inhibited
+Tat-induced transcription and HIV-1 infection, suggesting that this compound
+might serve as a new lead for anti-HIV-1 therapeutics.
+
+DOI: 10.3390/v13102004 
+PMCID: PMC8536978
+PMID: 34696435 
+

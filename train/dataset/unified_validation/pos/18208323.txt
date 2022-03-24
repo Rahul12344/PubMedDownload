@@ -1,0 +1,43 @@
+
+1. plos pathog. 2008 jan;4(1):e5. doi: 10.1371/journal.ppat.0040005.
+
+structure function a41, vaccinia virus chemokine binding protein.
+
+bahar mw(1), kenyon jc, putz mm, abrescia ng, pease je, wise el, stuart di, smith
+gl, grimes jm.
+
+author information: 
+(1)the division structural biology oxford protein production facility,
+wellcome trust centre human genetics, university oxford, oxford, united
+kingdom.
+
+the vaccinia virus (vacv) a41l gene encodes secreted 30 kda glycoprotein that
+is nonessential virus replication affects host response infection.
+the a41 protein shares sequence similarity another vacv protein binds
+cc chemokines (called vckbp, viral cc chemokine inhibitor, vcci), strains 
+of vacv lacking a41l gene induced stronger cd8+ t-cell responses control
+viruses expressing a41. using surface plasmon resonance, screened 39 human and
+murine chemokines identified ccl21, ccl25, ccl26 ccl28 a41 ligands,
+with kds 8 nm 118 nm. nonetheless, a41 ineffective at
+inhibiting chemotaxis induced chemokines, indicating block
+the interaction chemokines receptors. however interaction
+of a41 chemokines inhibited dose-dependent manner heparin,
+suggesting a41 heparin bind overlapping sites chemokines. to
+better understand mechanism action a41 crystal structure solved
+to 1.9 resolution. protein globular beta sandwich structure similar
+to poxvirus vcci family proteins, notable structural
+differences, particularly surface loops electrostatic charge distribution.
+structural modelling suggests binding paradigm defined the
+vcci-chemokine interaction likely conserved a41 its
+chemokine partners. additionally, sequence analysis chemokines binding a41 
+identified signature a41 binding. biological structural data
+suggest a41 functions forming moderately strong (nm) interactions with
+certain chemokines, sufficient interfere chemokine-glycosaminoglycan
+interactions cell surface (microm-nm) thereby destroy chemokine
+concentration gradient, strong enough disrupt (pm)
+chemokine-chemokine receptor interactions.
+
+doi: 10.1371/journal.ppat.0040005 
+pmcid: pmc2211551
+pmid: 18208323  [indexed medline]
+

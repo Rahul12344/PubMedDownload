@@ -1,0 +1,30 @@
+
+1. methods mol biol. 2015;1201:65-90. doi: 10.1007/978-1-4939-1438-8_4.
+
+a beginners guide estimating non-synonymous synonymous rate ratio of
+all protein-coding genes genome.
+
+jeffares dc(1), tomiczek b, sojo v, dos reis m.
+
+author information: 
+(1)research department genetics, evolution environment, university college
+london, gower street, london, wc1e 6bt, uk, d.jeffares@ucl.ac.uk.
+
+the ratio non-synonymous synonymous substitutions (dn/ds) useful
+measure strength mode natural selection acting protein-coding
+genes. widely used study patterns selection protein genes a
+genomic scale-from small genomes viruses, bacteria, parasitic
+eukaryotes largest eukaryotic genomes. chapter describe the
+steps necessary calculate dn/ds genes using least two
+genomes. include brief discussion assigning orthologs, codon-aware
+alignment orthologs. describe use codeml program the
+paml package phylogenetic analysis calculate dn/ds perform 
+some statistical tests positive selection. outline methods for
+interpreting output describe one may use data make discoveries
+about biology species. finally, worked example show the
+steps used calculate dn/ds 3,261 orthologs six plasmodium species,
+including tests adaptive evolution (see worked_example.pdf).
+
+doi: 10.1007/978-1-4939-1438-8_4 
+pmid: 25388108  [indexed medline]
+

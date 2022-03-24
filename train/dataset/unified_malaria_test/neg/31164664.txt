@@ -1,0 +1,45 @@
+
+1. sci rep. 2019 jun 4;9(1):8287. doi: 10.1038/s41598-019-44599-0.
+
+an analysis large structural variation global plasmodium falciparum
+isolates identifies novel duplication chloroquine resistance associated 
+gene.
+
+ravenhall m(1), benavente ed(1), sutherland cj(2), baker da(1), campino s(1),
+clark tg(3)(4).
+
+author information: 
+(1)department pathogen molecular biology, london school hygiene and
+tropical medicine, london, wc1e 7ht, uk.
+(2)department immunology infection, london school hygiene tropical 
+medicine, london, wc1e 7ht, uk.
+(3)department pathogen molecular biology, london school hygiene and
+tropical medicine, london, wc1e 7ht, uk. taane.clark@lshtm.ac.uk.
+(4)department infectious disease epidemiology, faculty epidemiology and
+population health, london school hygiene tropical medicine, london, wc1e
+7ht, uk. taane.clark@lshtm.ac.uk.
+
+the evolution genetic mechanisms host immune evasion anti-malarial
+resistance enabled plasmodium falciparum malaria parasite inflict high
+morbidity mortality human populations. studies p. falciparum
+genetic diversity focused single-nucleotide polymorphisms (snps),
+assisting identification drug resistance-associated loci the
+chloroquine related crt sulfadoxine-pyrimethamine related dhfr. whilst larger
+structural variants known impact adaptation, example, mdr1
+duplications anti-malarial resistance, large-scale, genome-wide study 
+clinical isolates undertaken using whole genome sequencing data. by
+applying structural variant detection pipeline across whole genome sequence
+data 2,855 clinical isolates 21 malaria-endemic countries, identified 
+>70,000 specific deletions >600 duplications. structural variants are
+rare (48.5% deletions 94.7% duplications found single isolates) 
+with 2.4% deletions 0.2% duplications found >5% global isolates. 
+a subset variants present high frequency drug-resistance related
+genes including mdr1, gch1 promoter region, putative novel duplication 
+of crt. regional-specific variants identified, companion visualisation
+tool developed assist web-based investigation polymorphisms 
+by wider scientific community.
+
+doi: 10.1038/s41598-019-44599-0 
+pmcid: pmc6547842
+pmid: 31164664 
+

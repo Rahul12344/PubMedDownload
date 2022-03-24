@@ -1,0 +1,116 @@
+
+1. EMBO Mol Med. 2021 Nov 8;13(11):e13714. doi: 10.15252/emmm.202013714. Epub 2021
+Oct 18.
+
+Flower lose, a cell fitness marker, predicts COVID-19 prognosis.
+
+Yekelchyk M(1), Madan E(2), Wilhelm J(3)(4), Short KR(5), Palma AM(2), Liao L(6),
+Camacho D(2), Nkadori E(7), Winters MT(8), Rice ES(8), Rolim I(2), Cruz-Duarte
+R(9), Pelham CJ(10), Nagane M(11), Gupta K(12), Chaudhary S(12), Braun T(1)(13), 
+Pillappa R(14), Parker MS(15), Menter T(16), Matter M(16), Haslbauer JD(16),
+Tolnay M(16), Galior KD(7), Matkwoskyj KA(7), McGregor SM(7), Muller LK(7), Rakha
+EA(17), Lopez-Beltran A(2)(18), Drapkin R(19)(20)(21), Ackermann M(22)(23),
+Fisher PB(24)(25)(26), Grossman SR(27)(28), Godwin AK(29)(30), Kulasinghe A(31), 
+Martinez I(8), Marsh CB(8), Tang B(32), Wicha MS(33)(34), Won KJ(6)(35), Tzankov 
+A(16), Moreno E(2), Gogna R(2)(6)(35).
+
+Author information: 
+(1)Department of Cardiac Development and Remodelling, Max Planck Institute for
+Heart and Lung Research, Bad Nauheim, Germany.
+(2)Champalimaud Centre for the Unknown, Lisbon, Portugal.
+(3)Universities Giessen & Marburg Lung Center, German Center for Lung Research
+(DZL), Justus-Liebig-University, Giessen, Germany.
+(4)Institute for Lung Health (ILH), Universities Giessen & Marburg Lung Center,
+German Center for Lung Research (DZL), Justus-Liebig-University Giessen, Giessen,
+Germany.
+(5)School of Chemistry and Molecular Biosciences, The University of Queensland,
+Brisbane, Qld, Australia.
+(6)Biotech Research and Innovation Centre (BRIC), University of Copenhagen,
+Copenhagen N, Denmark.
+(7)Department of Pathology and Laboratory Medicine, University of Wisconsin
+Carbone Cancer Center, University of Wisconsin-Madison School of Medicine and
+Public Health, Madison, WI, USA.
+(8)Department of Microbiology, Immunology & Cell Biology and WVU Cancer
+Institute, West Virginia University, Morgantown, WV, USA.
+(9)Instituto de Medicina Molecular João Lobo Antunes, Faculdade de Medicina,
+Universidade de Lisboa, Lisboa, Portugal.
+(10)Eurofins Panlabs Inc., St. Charles, MO, USA.
+(11)Department of Biochemistry, School of Veterinary Medicine, Azabu University, 
+Kanagawa, Japan.
+(12)Department of Surgery, School of Medicine and Public Health, University of
+Wisconsin, Madison, WI, USA.
+(13)Member of the German Center for Cardiovascular Research (DZHK), Greifswald,
+Germany.
+(14)Department of Pathology, Virginia Commonwealth University School of Medicine,
+Richmond, VA, USA.
+(15)Department of Diagnostic Radiology and Internal Medicine, Early Detection
+Lung Cancer Screening Program, Thoracic Imaging Division, Thoracic Imaging
+Fellowship Program, VCU Health Systems, Richmond, VA, USA.
+(16)Pathology, Institute of Medical Genetics and Pathology, University Hospital
+Basel and University of Basel, Basel, Switzerland.
+(17)Division of Cancer and Stem Cells, Department of Pathology, School of
+Medicine, Nottingham University Hospitals, University of Nottingham, Nottingham, 
+UK.
+(18)Department of Morphological Sciences, Cordoba University, Cordoba, Spain.
+(19)Penn Ovarian Cancer Research Center, Department of Obstetrics and Gynecology,
+University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA.
+(20)Graduate Program in Cell and Molecular Biology, University of Pennsylvania
+Perelman School of Medicine, Philadelphia, PA, USA.
+(21)Basser Center for BRCA, Abramson Cancer Center, University of Pennsylvania
+School of Medicine, Philadelphia, PA, USA.
+(22)Institute of Pathology and Molecular Pathology, Helios University Clinic
+Wuppertal, University of Witten/Herdecke, Wuppertal, Germany.
+(23)Institute of Functional and Clinical Anatomy, University Medical Center of
+the Johannes Gutenberg-University Mainz, Mainz, Germany.
+(24)Department of Human and Molecular Genetics, School of Medicine, Virginia
+Commonwealth University, Richmond, VA, USA.
+(25)Massey Cancer Center, Virginia Commonwealth University, Richmond, VA, USA.
+(26)Department of Human and Molecular Genetics, Institute of Molecular Medicine, 
+School of Medicine, Virginia Commonwealth University, Richmond, VA, USA.
+(27)Department of Internal Medicine, Keck School of Medicine, Norris
+Comprehensive Cancer Center, Los Angeles, CA, USA.
+(28)University of Southern California, Los Angeles, CA, USA.
+(29)Department of Pathology and Laboratory Medicine, University of Kansas Medical
+Center, Kansas City, KS, USA.
+(30)University of Kansas Cancer Center, Kansas City, KS, USA.
+(31)The University of Queensland Diamantina Institute, The University of
+Queensland, Brisbane, Qld, Australia.
+(32)Department of Intensive Care Medicine, Nepean Hospital, Penrith, NSW,
+Australia.
+(33)Rogel Cancer Center, University of Michigan, Ann Arbor, MI, USA.
+(34)Department of Internal Medicine, Michigan Medicine, University of Michigan,
+Ann Arbor, MI, USA.
+(35)Faculty of Health and Medical Sciences, Novo Nordisk Foundation Center for
+Stem Cell Biology, DanStem, University of Copenhagen, Copenhagen N, Denmark.
+
+Risk stratification of COVID-19 patients is essential for pandemic management.
+Changes in the cell fitness marker, hFwe-Lose, can precede the host immune
+response to infection, potentially making such a biomarker an earlier triage
+tool. Here, we evaluate whether hFwe-Lose gene expression can outperform
+conventional methods in predicting outcomes (e.g., death and hospitalization) in 
+COVID-19 patients. We performed a post-mortem examination of infected lung tissue
+in deceased COVID-19 patients to determine hFwe-Lose's biological role in acute
+lung injury. We then performed an observational study (n = 283) to evaluate
+whether hFwe-Lose expression (in nasopharyngeal samples) could accurately predict
+hospitalization or death in COVID-19 patients. In COVID-19 patients with acute
+lung injury, hFwe-Lose is highly expressed in the lower respiratory tract and is 
+co-localized to areas of cell death. In patients presenting in the early phase of
+COVID-19 illness, hFwe-Lose expression accurately predicts subsequent
+hospitalization or death with positive predictive values of 87.8-100% and a
+negative predictive value of 64.1-93.2%. hFwe-Lose outperforms conventional
+inflammatory biomarkers and patient age and comorbidities, with an area under the
+receiver operating characteristic curve (AUROC) 0.93-0.97 in predicting
+hospitalization/death. Specifically, this is significantly higher than the
+prognostic value of combining biomarkers (serum ferritin, D-dimer, C-reactive
+protein, and neutrophil-lymphocyte ratio), patient age and comorbidities (AUROC
+of 0.67-0.92). The cell fitness marker, hFwe-Lose, accurately predicts outcomes
+in COVID-19 patients. This finding demonstrates how tissue fitness pathways
+dictate the response to infection and disease and their utility in managing the
+current COVID-19 pandemic.
+
+© 2021 The Authors. Published under the terms of the CC BY 4.0 license.
+
+DOI: 10.15252/emmm.202013714 
+PMCID: PMC8573598
+PMID: 34661368  [Indexed for MEDLINE]
+

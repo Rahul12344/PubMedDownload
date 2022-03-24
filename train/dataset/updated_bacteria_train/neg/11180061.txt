@@ -1,0 +1,45 @@
+
+1. Biotechnol Bioeng. 2001 Feb 20;72(4):408-15.
+
+Metabolic engineering of the nonmevalonate isopentenyl diphosphate synthesis
+pathway in Escherichia coli enhances lycopene production.
+
+Kim SW(1), Keasling JD.
+
+Author information: 
+(1)Marine Bioproducts Engineering Center, Department of Chemical Engineering,
+University of California, Berkeley, CA 94720-1462, USA.
+
+Isopentenyl diphosphate (IPP) is the common, five-carbon building block in the
+biosynthesis of all carotenoids. IPP in Escherichia coli is synthesized through
+the nonmevalonate pathway, which has not been completely elucidated. The first
+reaction of IPP biosynthesis in E. coli is the formation of
+1-deoxy-D-xylulose-5-phosphate (DXP), catalyzed by DXP synthase and encoded by
+dxs. The second reaction in the pathway is the reduction of DXP to
+2-C-methyl-D-erythritol-4-phos- phate, catalyzed by DXP reductoisomerase and
+encoded by dxr. To determine if one or more of the reactions in the nonmevalonate
+pathway controlled flux to IPP, dxs and dxr were placed on several expression
+vectors under the control of three different promoters and transformed into three
+E. coli strains (DH5alpha, XL1-Blue, and JM101) that had been engineered to
+produce lycopene. Lycopene production was improved significantly in strains
+transformed with the dxs expression vectors. When the dxs gene was expressed from
+the arabinose-inducible araBAD promoter (P(BAD)) on a medium-copy plasmid,
+lycopene production was twofold higher than when dxs was expressed from the
+IPTG-inducible trc and lac promoters (P(trc) and P(lac), respectively) on
+medium-copy and high-copy plasmids. Given the low final densities of cells
+expressing dxs from IPTG-inducible promoters, the low lycopene production was
+probably due to the metabolic burden of plasmid maintenance and an excessive
+drain of central metabolic intermediates. At arabinose concentrations between 0
+and 1.33 mM, cells expressing both dxs and dxr from P(BAD) on a medium-copy
+plasmid produced 1.4-2.0 times more lycopene than cells expressing dxs only.
+However, at higher arabinose concentrations lycopene production in cells
+expressing both dxs and dxr was lower than in cells expressing dxs only. A
+comparison of the three E. coli strains transformed with the arabinose-inducible 
+dxs on a medium-copy plasmid revealed that lycopene production was highest in
+XL1-Blue.
+
+Copyright 2001 John Wiley & Sons, Inc.
+
+DOI: 10.1002/1097-0290(20000220)72:4<408::aid-bit1003>3.0.co;2-h 
+PMID: 11180061  [Indexed for MEDLINE]
+

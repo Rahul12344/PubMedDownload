@@ -1,0 +1,110 @@
+
+1. Proc Natl Acad Sci U S A. 2020 Jun 2;117(22):12315-12323. doi:
+10.1073/pnas.1922207117. Epub 2020 May 18.
+
+Transcriptional profiling identifies an androgen receptor activity-low, stemness 
+program associated with enzalutamide resistance.
+
+Alumkal JJ(1), Sun D(2)(3)(4), Lu E(2), Beer TM(2), Thomas GV(2), Latour E(5),
+Aggarwal R(6)(7), Cetnar J(2), Ryan CJ(8), Tabatabaei S(2), Bailey S(2), Turina
+CB(2), Quigley DA(6)(7)(9), Guan X(2)(3)(4), Foye A(6)(7), Youngren JF(6)(7),
+Urrutia J(2), Huang J(10), Weinstein AS(11)(12), Friedl V(11)(12), Rettig
+M(13)(14), Reiter RE(13), Spratt DE(15), Gleave M(16), Evans CP(17), Stuart
+JM(11)(12), Chen Y(7), Feng FY(6)(18)(19), Small EJ(6)(7), Witte ON(20), Xia
+Z(2)(3)(4).
+
+Author information: 
+(1)Knight Cancer Institute, Oregon Health & Science University, Portland, OR
+97239; jalumkal@med.umich.edu owenwitte@mednet.ucla.edu.
+(2)Knight Cancer Institute, Oregon Health & Science University, Portland, OR
+97239.
+(3)Computational Biology Program, Oregon Health & Science University, Portland,
+OR 97239.
+(4)Molecular Microbiology and Immunology Department, Oregon Health & Science
+University, Portland, OR 97239.
+(5)Biostatistics Shared Resource, Knight Cancer Institute, Oregon Health &
+Science University, Portland, OR 97239.
+(6)Helen Diller Family Comprehensive Cancer Center, University of California, San
+Francisco, CA 94158.
+(7)Department of Medicine, University of California, San Francisco, CA 94143.
+(8)Division of Hematology, Oncology and Transplantation, University of Minnesota 
+Masonic Cancer Center, Minneapolis, MN 55455.
+(9)Department of Epidemiology & Biostatistics, University of California, San
+Francisco, CA 94158.
+(10)Department of Pathology, Duke University, Durham, NC 27710.
+(11)University of California Santa Cruz Genomics Institute, University of
+California, Santa Cruz, CA 95064.
+(12)Department of Biomolecular Engineering, University of California, Santa Cruz,
+CA 95064.
+(13)University of California, Los Angeles, CA 90095.
+(14)Division of Hematology/Oncology, VA Greater Los Angeles Healthcare System,
+Los Angeles, CA 90073.
+(15)Department of Radiation Oncology, Rogel Cancer Center, University of
+Michigan, Ann Arbor, MI 48109.
+(16)Department of Urologic Sciences, University of British Columbia, Vancouver,
+Canada BC V6T 1Z3.
+(17)Department of Urologic Surgery, University of California, Davis, CA 95817.
+(18)Department of Radiation Oncology, University of California, San Francisco, CA
+94158.
+(19)Department of Urology, University of California, San Francisco, CA 94158.
+(20)Department of Microbiology, Immunology, and Molecular Genetics at the David
+Geffen School of Medicine, University of California, Los Angeles, CA 90095
+jalumkal@med.umich.edu owenwitte@mednet.ucla.edu.
+
+The androgen receptor (AR) antagonist enzalutamide is one of the principal
+treatments for men with castration-resistant prostate cancer (CRPC). However, not
+all patients respond, and resistance mechanisms are largely unknown. We
+hypothesized that genomic and transcriptional features from metastatic CRPC
+biopsies prior to treatment would be predictive of de novo treatment resistance. 
+To this end, we conducted a phase II trial of enzalutamide treatment (160 mg/d)
+in 36 men with metastatic CRPC. Thirty-four patients were evaluable for the
+primary end point of a prostate-specific antigen (PSA)50 response (PSA decline
+≥50% at 12 wk vs. baseline). Nine patients were classified as nonresponders (PSA 
+decline <50%), and 25 patients were classified as responders (PSA decline ≥50%). 
+Failure to achieve a PSA50 was associated with shorter progression-free survival,
+time on treatment, and overall survival, demonstrating PSA50's utility. Targeted 
+DNA-sequencing was performed on 26 of 36 biopsies, and RNA-sequencing was
+performed on 25 of 36 biopsies that contained sufficient material. Using
+computational methods, we measured AR transcriptional function and performed gene
+set enrichment analysis (GSEA) to identify pathways whose activity state
+correlated with de novo resistance. TP53 gene alterations were more common in
+nonresponders, although this did not reach statistical significance (P = 0.055). 
+AR gene alterations and AR expression were similar between groups. Importantly,
+however, transcriptional measurements demonstrated that specific gene
+sets-including those linked to low AR transcriptional activity and a stemness
+program-were activated in nonresponders. Our results suggest that patients whose 
+tumors harbor this program should be considered for clinical trials testing
+rational agents to overcome de novo enzalutamide resistance.
+
+Copyright © 2020 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.1922207117 
+PMCID: PMC7275746
+PMID: 32424106  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interest statement: J.J.A. has received
+consulting income from Janssen Biotech and Merck, and honoraria for speaker’s
+fees from Astellas. T.M.B. has received research funding from Alliance Foundation
+Trials, Boehringer Ingelheim, Corcept Therapeutics, Endocyte Inc., Janssen
+Research & Development, Medivation, Inc./Astellas, OncoGenex, Sotio, and
+Theraclone Sciences/OncoResponse; consulting fees from AbbVie, AstraZeneca,
+Astellas Pharma, Bayer, Boehringer Ingelheim, Clovis Oncology, GlaxoSmithKline,
+Janssen Biotech, Janssen Japan, Merck, Novartis, and Pfizer; and stock ownership 
+in Salarius Pharmaceuticals, and Arvinas Inc. J.H. serves as a consultant for
+Morehealth, OptraScan, Genetron, Gencode, York Biotechnology, Kingmed
+Diagnostics, and Gem Flower Healthcare and is a founder of Sisu Pharma. M.R.
+received research funding from Novartis, Johnson & Johnson, Merck, Astellas, and 
+Medivation; is a member of a speakers’ bureau for Johnson & Johnson and Bayer;
+and served as a consultant for Constellation Pharmaceuticals. F.Y.F. has received
+consulting income from Astellas, Bayer, Celgene, Janssen, Sanofi, Genentech, and 
+EMD Serono and has ownership interest (including patents) in PFS Genomics and
+Nutcracker Therapeutics. E.J.S. has received honoraria for speaker’s fees from
+Janssen; consulting income from Janssen, Fortis Therapeutics, Beigene, and
+Tolero; and stock ownership in Fortis Therapeutics and Harpoon Therapeutics.
+O.N.W. currently has consulting, equity, and/or board relationships with Trethera
+Corporation, Kronos Biosciences, Sofie Biosciences, Breakthrough Properties, and 
+Allogene Therapeutics. None of these companies contributed to or directed any of 
+the research reported in this article. T.M.B. and M.C. are coauthors on a 2019
+article. D.E.S. and M.L. are coauthors on a 2019 article. None of the other
+authors have any relevant disclosures to declare.
+

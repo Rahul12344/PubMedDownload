@@ -1,0 +1,51 @@
+
+1. Oncotarget. 2016 Jul 19;7(29):45976-45994. doi: 10.18632/oncotarget.10275.
+
+miR146a-mediated targeting of FANCM during inflammation compromises genome
+integrity.
+
+Sundaravinayagam D(1)(2), Kim HR(1)(3), Wu T(1)(3), Kim HH(1)(3), Lee HS(1)(2),
+Jun S(1)(2), Cha JH(4), Kee Y(5), You HJ(1)(2), Lee JH(1)(3).
+
+Author information: 
+(1)Laboratory of Genomic Instability and Cancer Therapeutics, Cancer Mutation
+Research Center, Chosun University School of Medicine, Gwangju, Republic of
+Korea.
+(2)Department of Pharmacology, Chosun University School of Medicine, Gwangju,
+Republic of Korea.
+(3)Department of Cellular and Molecular Medicine, Chosun University School of
+Medicine, Gwangju, Republic of Korea.
+(4)Department of Oral Biology, Department of Applied Life Science, The Graduate
+School, Yonsei University College of Dentistry, Seoul, Republic of Korea.
+(5)Department of Cell Biology, Microbiology, and Molecular Biology, College of
+Arts and Sciences, University of South Florida, Tampa, Florida, United States of 
+America.
+
+Erratum in
+    Oncotarget. 2020 May 26;11(21):2024-2025.
+
+Inflammation is a potent inducer of tumorigenesis. Increased DNA damage or loss
+of genome integrity is thought to be one of the mechanisms linking inflammation
+and cancer development. It has been suggested that NF-κB-induced microRNA-146
+(miR146a) may be a mediator of the inflammatory response. Based on our initial
+observation that miR146a overexpression strongly increases DNA damage, we
+investigated its potential role as a modulator of DNA repair. Here, we
+demonstrate that FANCM, a component in the Fanconi Anemia pathway, is a novel
+target of miR146a. miR146a suppressed FANCM expression by directly binding to the
+3' untranslated region of the gene. miR146a-induced downregulation of FANCM was
+associated with inhibition of FANCD2 monoubiquitination, reduced DNA homologous
+recombination repair and checkpoint response, failed recovery from replication
+stress, and increased cellular sensitivity to cisplatin. These phenotypes were
+recapitulated when miR146a expression was induced by overexpressing the NF-κB
+subunit p65/RelA or Helicobacter pylori infection in a human gastric cell line;
+the phenotypes were effectively reversed with an anti-miR146a antagomir. These
+results suggest that undesired inflammation events caused by a pathogen or
+over-induction of miR146a can impair genome integrity via suppression of FANCM.
+
+DOI: 10.18632/oncotarget.10275 
+PMCID: PMC5216775
+PMID: 27351285  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that no conflicts of interest
+exist.
+

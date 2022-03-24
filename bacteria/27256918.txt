@@ -1,0 +1,37 @@
+
+1. Sci Rep. 2016 Jun 3;6:27375. doi: 10.1038/srep27375.
+
+Mutation of the Traj18 gene segment using TALENs to generate Natural Killer T
+cell deficient mice.
+
+Zhang J(1), Bedel R(1), Krovi SH(1), Tuttle KD(1), Zhang B(2), Gross J(2), Gapin 
+L(1)(2), Matsuda JL(2).
+
+Author information: 
+(1)Department of Immunology and Microbiology, University of Colorado Denver
+School of Medicine and National Jewish Health, Aurora, CO 80206, USA.
+(2)Department of Biomedical Research, National Jewish Health, Denver, CO 80206,
+USA.
+
+Invariant Natural Killer T (iNKT) cells are a unique subset of T lymphocytes that
+have been implicated in both promoting and suppressing a multitude of immune
+responses. In mice, iNKT cells express T cell antigen receptors (TCRs) comprising
+a unique TCRα rearrangement between the Trav11 and Traj18 gene segments. When
+paired with certain Trbv TCRβ chains, these TCRs recognize lipid antigens
+presented by the major histocompatibility complex (MHC) class I-like molecule,
+CD1d. Until recently, the sole model of iNKT deficiency targeted the Jα18, which 
+is absolutely required to form the TCR with the appropriate antigenic
+specificity. However, these mice were demonstrated to have a large reduction in
+TCR repertoire diversity, which could confound results arising from studies using
+these mice. Here, we have created a new NKT-deficient mouse strain using
+transcription activator-like effector nuclease (TALEN) technology to only disrupt
+the expression of Jα18, leaving the remaining Jα repertoire unperturbed. We
+confirm that these mice lack iNKT cells and do not respond to lipid antigen
+stimulation while the development of conventional T cells, regulatory T cells,
+and type Ib NKT cells is normal. This new mouse strain will serve as a new model 
+of iNKT cell deficiency to facilitate our understanding of iNKT biology.
+
+DOI: 10.1038/srep27375 
+PMCID: PMC4891675
+PMID: 27256918  [Indexed for MEDLINE]
+

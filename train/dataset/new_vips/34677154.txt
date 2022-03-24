@@ -1,0 +1,47 @@
+
+1. Med Gas Res. 2022 Apr-Jun;12(2):60-66. doi: 10.4103/2045-9912.326002.
+
+Prediction of diagnosis and prognosis of COVID-19 disease by blood gas parameters
+using decision trees machine learning model: a retrospective observational study.
+
+Huyut MT(1), Üstündağ H(2).
+
+Author information: 
+(1)Department of Biostatistics and Medical Informatics, Faculty of Medicine,
+Erzincan Binali Yıldırım University, Erzincan, Turkey.
+(2)Department of Physiology, Faculty of Medicine, Erzincan Binali Yıldırım
+University, Erzincan, Turkey.
+
+The coronavirus disease 2019 (COVID-19) epidemic went down in history as a
+pandemic caused by corona-viruses that emerged in 2019 and spread rapidly around 
+the world. The different symptoms of COVID-19 made it difficult to understand
+which variables were more influential on the diagnosis, course and mortality of
+the disease. Machine learning models can accurately assess hidden patterns among 
+risk factors by analyzing large-datasets to quickly predict diagnosis, prognosis 
+and mortality of diseases. Because of this advantage, the use of machine learning
+models as decision support systems in health services is increasing. The aim of
+this study is to determine the diagnosis and prognosis of COVID-19 disease with
+blood-gas data using the Chi-squared Automatic Interaction Detector (CHAID)
+decision-tree-model, one of the machine learning methods, which is a subfield of 
+artificial intelligence. This study was carried out on a total of 686 patients
+with COVID-19 (n = 343) and non-COVID-19 (n = 343) treated at
+Erzincan-Mengücek-Gazi-Training and Research-Hospital between April 1, 2020 and
+March 1, 2021. Arterial blood gas values of all patients were obtained from the
+hospital registry system. While the total-accuracyratio of the
+decision-tree-model was 65.0% in predicting the prognosis of the disease, it was 
+68.2% in the diagnosis of the disease. According to the results obtained, the low
+ionized-calcium value (< 1.10 mM) significantly predicted the need for intensive 
+care of COVID-19 patients. At admission, low-carboxyhemoglobin (< 1.00%), high-pH
+(> 7.43), low-sodium (< 135.0 mM), hematocrit (< 40.0%), and methemoglobin (<
+1.30%) values are important biomarkers in the diagnosis of COVID-19 and the
+results were promising. The findings in the study may aid in the early-diagnosis 
+of the disease and the intensive-care treatment of patients who are severe. The
+study was approved by the Ministry of Health and Erzincan University Faculty of
+Medicine Clinical Research Ethics Committee.
+
+DOI: 10.4103/2045-9912.326002 
+PMCID: PMC8562394
+PMID: 34677154  [Indexed for MEDLINE]
+
+Conflict of interest statement: None
+

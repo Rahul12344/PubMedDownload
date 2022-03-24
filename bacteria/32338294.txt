@@ -1,0 +1,55 @@
+
+1. Appl Microbiol Biotechnol. 2020 Jun;104(12):5385-5393. doi:
+10.1007/s00253-020-10610-2. Epub 2020 Apr 27.
+
+CRISPRi/dCpf1-mediated dynamic metabolic switch to enhance butenoic acid
+production in Escherichia coli.
+
+Ji X(1)(2), Zhao H(1)(2), Zhu H(3), Zhu K(1), Tang SY(4)(5), Lou C(2)(3).
+
+Author information: 
+(1)CAS Key Laboratory of Microbial Physiological and Metabolic Engineering, State
+Key Laboratory of Microbial Resources, Institute of Microbiology, Chinese Academy
+of Sciences, Beijing, 100101, China.
+(2)College of Life Sciences, University of Chinese Academy of Sciences, Beijing, 
+100049, China.
+(3)Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology,
+Chinese Academy of Sciences, 1068 Xueyuan Avenue, University Town, Nanshan,
+Shenzhen, 518055, People's Republic of China.
+(4)CAS Key Laboratory of Microbial Physiological and Metabolic Engineering, State
+Key Laboratory of Microbial Resources, Institute of Microbiology, Chinese Academy
+of Sciences, Beijing, 100101, China. tangsy@im.ac.cn.
+(5)College of Life Sciences, University of Chinese Academy of Sciences, Beijing, 
+100049, China. tangsy@im.ac.cn.
+
+Butenoic acid is a short-chain unsaturated fatty acid and important precursor for
+pharmaceutical and other applications. Heterologous thioesterases are able to
+convert a fatty acid biosynthesis intermediate in Escherichia coli to butenoic
+acid. In order to acquire high titer and yield of the product, dynamically
+switching the metabolic flux from fatty acid biosynthesis pathway to butenoic
+acid is critical after achieving enough cell mass of the host. A previous
+developed switch for butenoic acid fermentation is based on triclosan molecule as
+the FabI inhibitor in the fatty acid biosynthesis cycle. However, triclosan is
+toxic to human, which may limit its pharmaceutical application. Alternatively, we
+here purposed a nontoxic switch of carbon flux by harnessing recently developed
+CRISPR interference (CRISPRi) approach. In our work, we constructed a
+CRISPRi/dCpf1-mediated dynamic metabolic switch to separate the host growth and
+production phase via switching the expression of the fabI gene in fatty acid
+biosynthesis pathway. After optimizing the programmable targets, the
+CRISPRi-based switch boosted the titer of butenoic acid by 6-fold (1.41 g/L) in
+fed-batch fermentation. Our work supported that the CRISPRi/dCpf1 switch could
+replace triclosan-based switch as a nontoxic switch for butenoic acid production,
+and outcompeted the later switch in the biomass accumulation of the host cell.
+Moreover, the CRISPRi/dCpf1 system was integrated into the chromosome of the host
+to improve its genetic stability for long-term fermentation and other
+applications.Key Points• A programmable metabolic switch was developed to replace
+the toxic chemical switch to separate the growth phase and production phase of
+the butenoic acid.• The programmable CRISPRi/dCpf1 switch was efficiently and
+stably integrated into the host genome to increase their genetic stability during
+fermentation.• The optimized metabolic switch simultaneously increased the host
+biomass and butenoic acid titer, and solved the paradox of the competition
+between growth and production.
+
+DOI: 10.1007/s00253-020-10610-2 
+PMID: 32338294  [Indexed for MEDLINE]
+

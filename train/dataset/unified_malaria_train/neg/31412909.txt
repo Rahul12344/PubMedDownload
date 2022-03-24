@@ -1,0 +1,35 @@
+
+1. genome biol. 2019 aug 14;20(1):166. doi: 10.1186/s13059-019-1766-4.
+
+scalign: tool alignment, integration, rare cell identification from
+scrna-seq data.
+
+johansen n(1)(2), quon g(3)(4)(5).
+
+author information: 
+(1)graduate group computer science, university california, davis, davis,
+ca, usa. njjohansen@ucdavis.edu.
+(2)genome center, university california, davis, davis, ca, usa.
+njjohansen@ucdavis.edu.
+(3)graduate group computer science, university california, davis, davis,
+ca, usa. gquon@ucdavis.edu.
+(4)genome center, university california, davis, davis, ca, usa.
+gquon@ucdavis.edu.
+(5)department molecular cellular biology, university california, davis,
+davis, ca, usa. gquon@ucdavis.edu.
+
+scrna-seq dataset integration occurs different contexts, the
+identification cell type-specific differences gene expression across
+conditions species, batch effect correction. present scalign, an
+unsupervised deep learning method data integration incorporate
+partial, overlapping, complete set cell labels, estimate per-cell
+differences gene expression across datasets. scalign performance is
+state-of-the-art robust cross-dataset variation cell type-specific
+expression cell type composition. demonstrate scalign reveals gene
+expression programs rare populations malaria parasites. framework is
+widely applicable integration challenges domains.
+
+doi: 10.1186/s13059-019-1766-4 
+pmcid: pmc6693154
+pmid: 31412909  [indexed medline]
+

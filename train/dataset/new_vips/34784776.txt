@@ -1,0 +1,41 @@
+
+1. J R Soc Interface. 2021 Nov;18(184):20210575. doi: 10.1098/rsif.2021.0575. Epub
+2021 Nov 17.
+
+The stochastic dynamics of early epidemics: probability of establishment, initial
+growth rate, and infection cluster size at first detection.
+
+Czuppon P(1)(2)(3), Schertzer E(4), Blanquart F(2)(5), Débarre F(1).
+
+Author information: 
+(1)Institute of Ecology and Environmental Sciences of Paris (iEES-Paris, UMR
+7618), Sorbonne Université, CNRS, UPEC, IRD, INRAE, Paris 75252, France.
+(2)Center for Interdisciplinary Research in Biology, CNRS, Collège de France, PSL
+Research University, Paris 75005, France.
+(3)Institute for Evolution and Biodiversity, University of Münster, Münster
+48149, Germany.
+(4)Faculty of Mathematics, University of Vienna, Wien 1090, Austria.
+(5)Infection Antimicrobials Modelling Evolution, UMR 1137, INSERM, Université de 
+Paris, Paris 75018, France.
+
+Emerging epidemics and local infection clusters are initially prone to stochastic
+effects that can substantially impact the early epidemic trajectory. While
+numerous studies are devoted to the deterministic regime of an established
+epidemic, mathematical descriptions of the initial phase of epidemic growth are
+comparatively rarer. Here, we review existing mathematical results on the size of
+the epidemic over time, and derive new results to elucidate the early dynamics of
+an infection cluster started by a single infected individual. We show that the
+initial growth of epidemics that eventually take off is accelerated by
+stochasticity. As an application, we compute the distribution of the first
+detection time of an infected individual in an infection cluster depending on
+testing effort, and estimate that the SARS-CoV-2 variant of concern Alpha
+detected in September 2020 first appeared in the UK early August 2020. We also
+compute a minimal testing frequency to detect clusters before they exceed a given
+threshold size. These results improve our theoretical understanding of early
+epidemics and will be useful for the study and control of local infectious
+disease clusters.
+
+DOI: 10.1098/rsif.2021.0575 
+PMCID: PMC8596012
+PMID: 34784776  [Indexed for MEDLINE]
+

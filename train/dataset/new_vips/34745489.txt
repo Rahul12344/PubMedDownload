@@ -1,0 +1,47 @@
+
+1. J Healthc Eng. 2021 Oct 27;2021:1535046. doi: 10.1155/2021/1535046. eCollection
+2021.
+
+Susceptible-Infected-Removed Mathematical Model under Deep Learning in Hospital
+Infection Control of Novel Coronavirus Pneumonia.
+
+Liu T(1), Bai Y(2), Du M(2), Gao Y(3), Liu Y(2).
+
+Author information: 
+(1)First Department of Health Care, The Second Medical Center and National
+Clinical Research Center for Geriatric Diseases, Chinese PLA General Hospital,
+Beijing 100853, China.
+(2)Department of Disease Control and Prevention, The First Medical Center of
+Chinese PLA General Hospital, Beijing 100853, China.
+(3)Department of Rehabilitation Medicine, The Second Medical Center and National 
+Clinical Research Center for Geriatric Diseases, Chinese PLA General Hospital,
+Beijing 100853, China.
+
+Objective: This research aimed to explore the application of a mathematical model
+based on deep learning in hospital infection control of novel coronavirus
+(COVID-19) pneumonia.
+Methods: First, the epidemic data of Beijing, China, were utilized to make a
+definite susceptible-infected-removed (SIR) model fitting to determine the
+estimated value of the COVID-19 removal intensity β, which was then used to do a 
+determined SIR model and a stochastic SIR model fitting for the hospital. In
+addition, the reasonable β and γ estimates of the hospital were determined, and
+the spread of the epidemic in hospital was simulated, to discuss the impact of
+basal reproductive number changes, isolation, vaccination, and so forth on
+COVID-19.
+Results: There was a certain gap between the fitting of SIR to the remover and
+the actual data. The fitting of the number of infections was accurate. The growth
+rate of the number of infections decreased after measures, such as isolation,
+were taken. The effect of herd immunity was achieved after the overall immunity
+reached 70.9%.
+Conclusion: The SIR model based on deep learning and the stochastic SIR fitting
+model were accurate in judging the development trend of the epidemic, which can
+provide basis and reference for hospital epidemic infection control.
+
+Copyright © 2021 Ting Liu et al.
+
+DOI: 10.1155/2021/1535046 
+PMCID: PMC8566049
+PMID: 34745489  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+

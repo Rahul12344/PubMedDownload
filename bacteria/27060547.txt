@@ -1,0 +1,42 @@
+
+1. Biochem Biophys Res Commun. 2016 May 13;473(4):1106-1110. doi:
+10.1016/j.bbrc.2016.04.023. Epub 2016 Apr 6.
+
+Heterologous gene expression and functional analysis of a type III polyketide
+synthase from Aspergillus niger NRRL 328.
+
+Kirimura K(1), Watanabe S(2), Kobayashi K(2).
+
+Author information: 
+(1)Department of Applied Chemistry, Faculty of Science and Engineering, Waseda
+Universrity, 3-4-1 Ohkubo, Shinjuku-ku, Tokyo 169-8555, Japan. Electronic
+address: kkohtaro@waseda.jp.
+(2)Department of Applied Chemistry, Faculty of Science and Engineering, Waseda
+Universrity, 3-4-1 Ohkubo, Shinjuku-ku, Tokyo 169-8555, Japan.
+
+Type III polyketide synthases (PKSs) catalyze the formation of pyrone- and
+resorcinol-types aromatic polyketides. The genomic analysis of the filamentous
+fungus Aspergillus niger NRRL 328 revealed that this strain has a putative gene
+(chr_8_2: 2978617-2979847) encoding a type III PKS, although its functions are
+unknown. In this study, for functional analysis of this putative type III PKS
+designated as An-CsyA, cloning and heterologous expression of the An-CsyA gene
+(An-csyA) in Escherichia coli were performed. Recombinant His-tagged An-CsyA was 
+successfully expressed in E. coli BL21 (DE3), purified by Ni(2+)-affinity
+chromatography, and used for in vitro assay. Tests on the substrate specificity
+of the His-tagged An-CsyA with myriad acyl-CoAs as starter substrates and
+malonyl-CoA as extender substrate showed that His-tagged An-CsyA accepted fatty
+acyl-CoAs (C2-C14) and produced triketide pyrones (C2-C14), tetraketide pyrones
+(C2-C10), and pentaketide resorcinols (C10-C14). Furthermore, acetoacetyl-CoA,
+malonyl-CoA, isobutyryl-CoA, and benzoyl-CoA were also accepted as starter
+substrates, and both of triketide pyrones and tetraketide pyrones were produced. 
+It is noteworthy that the His-tagged An-CsyA produced polyketides from
+malonyl-CoA as starter and extender substrates and produced tetraketide pyrones
+from short-chain fatty acyl-CoAs as starter substrates. Therefore, this is the
+first report showing the functional properties of An-CsyA different from those of
+other fungal type III PKSs.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2016.04.023 
+PMID: 27060547  [Indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+1. malar j. 2013 aug 21;12:287. doi: 10.1186/1475-2875-12-287.
+
+identification piggybac-mediated insertions plasmodium berghei next
+generation sequencing.
+
+cao y(1), rui b, wellems dl, li m, chen b, zhang d, pan w.
+
+author information: 
+(1)department tropical infectious diseases, second military medical
+university, shanghai, china.
+
+background: piggybac transposon system provides powerful forward genetics
+tool study gene function plasmodium parasites via random insertion
+mutagenesis phenotypic screening. identification genotype piggybac 
+mutants plasmodium genome thus indispensable step forward genetic
+analysis. several pcr-based approaches used identify piggybac
+insertion sites plasmodium falciparum plasmodium berghei, are
+tedious inefficient. next generation sequencing produce large amounts 
+sequence data particularly suitable genome-wide association studies.
+in study, next generation sequencing technology employed to
+efficiently identify piggybac insertion sites genome p. berghei.
+methods: plasmodium berghei parasites co-transfected piggybac donor and
+helper plasmids. initially, classical inverse pcr method used identify
+the existence piggybac insertions p. berghei genome. whole genome
+of post-transfection parasites subsequently sequenced pcr-free
+paired-end module using illumina hiseq sequencing system. two distinct
+methods ('blast method' 'soap method') employed identify piggybac
+insertion sites p. berghei genome illumina sequencing data. the
+identified piggybac insertions tested half-nested pcr.
+results: inverse pcr method resulted low yield ten individual
+insertions identified. conversely, 47 piggybac insertions identified from
+about 1 gb illumina sequencing data via two distinct analysis methods. the
+majority identified piggybac insertions confirmed half-nested pcr. 
+addition, 1,850 single nucleotide polymorphisms identified alignment
+of illumina sequencing data p. berghei anka strain used study 
+with reference genome sequences.
+conclusion: study demonstrates high-throughput genome sequencing
+approach efficient tool identification piggybac-mediated
+insertions plasmodium parasites.
+
+doi: 10.1186/1475-2875-12-287 
+pmcid: pmc3765144
+pmid: 23961915  [indexed medline]
+

@@ -1,0 +1,42 @@
+
+1. Mol Microbiol. 2005 Jul;57(1):41-52.
+
+Characterization of Chlamydia MurC-Ddl, a fusion protein exhibiting
+D-alanyl-D-alanine ligase activity involved in peptidoglycan synthesis and
+D-cycloserine sensitivity.
+
+McCoy AJ(1), Maurelli AT.
+
+Author information: 
+(1)Department of Microbiology and Immunology, F. Edward Hébert School of
+Medicine, Uniformed Services University of the Health Sciences, 4301 Jones Bridge
+Road Bethesda, MD 20814-4799, USA.
+
+Recent characterization of chlamydial genes encoding functional peptidoglycan
+(PG)-synthesis proteins suggests that the Chlamydiaceae possess the ability to
+synthesize PG yet biochemical evidence for the synthesis of PG has yet to be
+demonstrated. The presence of D-amino acids in PG is a hallmark of bacteria.
+Chlamydiaceae do not appear to encode amino acid racemases however, a
+D-alanyl-D-alanine (D-Ala-D-Ala) ligase homologue (Ddl) is encoded in the genome.
+Thus, we undertook a genetics-based approach to demonstrate and characterize the 
+D-Ala-D-Ala ligase activity of chlamydial Ddl, a protein encoded as a fusion with
+MurC. The full-length murC-ddl fusion gene from Chlamydia trachomatis serovar L2 
+was cloned and placed under the control of the arabinose-inducible ara promoter
+and transformed into a D-Ala-D-Ala ligase auxotroph of Escherichia coli
+possessing deletions of both the ddlA and ddlB genes. Viability of the E.
+coliDeltaddlADeltaddlB mutant in the absence of exogenous D-Ala-D-Ala dipeptide
+became dependent on the expression of the chlamydial murC-ddl thus demonstrating 
+functional ligase activity. Domain mapping of the full-length fusion protein and 
+site-directed mutagenesis of the MurC domain revealed that the structure of the
+full fusion protein but not MurC enzymatic activity was required for ligase
+activity in vivo. Recombinant MurC-Ddl exhibited substrate specificity for D-Ala.
+Chlamydia growth is inhibited by D-cycloserine (DCS) and in vitro analysis
+provided evidence for the chlamydial MurC-Ddl as the target for DCS sensitivity. 
+In vivo sensitivity to DCS could be reversed by addition of exogenous D-Ala and
+D-Ala-D-Ala. Together, these findings further support our hypothesis that PG is
+synthesized by members of the Chlamydiaceae family and suggest that D-amino
+acids, specifically D-Ala, are present in chlamydial PG.
+
+DOI: 10.1111/j.1365-2958.2005.04661.x 
+PMID: 15948948  [Indexed for MEDLINE]
+

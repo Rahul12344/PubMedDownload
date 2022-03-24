@@ -1,0 +1,49 @@
+
+1. Exp Ther Med. 2018 Apr;15(4):3989-3996. doi: 10.3892/etm.2018.5904. Epub 2018 Feb
+28.
+
+Gene expression analysis for pneumonia caused by Gram-positive bacterial
+infection.
+
+Jia R(1), Yang J(2), Cui Y(1), Guo D(3), Li T(4).
+
+Author information: 
+(1)Department of Neuroscience, Cangzhou Central Hospital, Cangzhou, Hebei 061001,
+P.R. China.
+(2)Department of Anesthesiology, Cangzhou Central Hospital, Cangzhou, Hebei
+061001, P.R. China.
+(3)Department of Laboratory Medicine, Cangzhou Central Hospital, Cangzhou, Hebei 
+061001, P.R. China.
+(4)Teaching Office, Cangzhou Central Hospital, Cangzhou, Hebei 061001, P.R.
+China.
+
+Gram-positive bacteria are an important pathogenic factor for bacterial
+pneumonia. The aim of the present study was to identify the differentially
+expressed genes (DEGs) and to explore their associated pathways or expression
+patterns. Expression profiling of gene arrays from two independent datasets,
+GSE6269 and GSE35716, were downloaded from the Gene Expression Omnibus. The DEGs 
+between peripheral blood samples from healthy controls and patients with
+bacterial pneumonia were identified. The Functional Annotation Tool in the
+Database for Annotation, Visualization and Integrated Discovery was used to
+annotate and analyze the DEGs in Gene Ontology (GO) terms and Kyoto Encyclopedia 
+of Genes and Genomes (KEGG) pathways. Multiple proteins were used to generate a
+protein-protein interaction (PPI) network. A total of 624 (621 annotated) were
+identified in the GSE6269 dataset and 398 (295 annotated) DEGs were identified in
+the GSE35716 dataset between pneumonia and healthy samples. A total of 40 common 
+DEGs were identified between the 2 datasets, including 4 downregulated and 32
+upregulated DEGs. In the GO category cellular component, melanosome was highly
+enriched among 11 genes; in the category biological process, the three most
+enriched items were regulation of ruffle assembly, negative regulation of calcium
+ion transport and necroptotic process. In the KEGG terms, only the nuclear
+factor-κB signaling pathway (Homo sapiens 04064) was significantly enriched. In
+the PPI network, five genes (CCL4, TIMP metallopeptidase inhibitor 1,
+intercellular adhesion molecule 1, plasminogen activator, urokinase receptor and 
+cathepsin B) were identified to have a high degree of interaction with other
+DEGs. In conclusion, these five genes may represent key genes associated with
+pneumonia caused by Gram-positive bacteria. All of these results provide primary 
+information and basic knowledge to understand the mechanisms of the pathogenesis.
+
+DOI: 10.3892/etm.2018.5904 
+PMCID: PMC5863608
+PMID: 29581747 
+

@@ -1,0 +1,58 @@
+
+1. Front Microbiol. 2021 Oct 1;12:722259. doi: 10.3389/fmicb.2021.722259.
+eCollection 2021.
+
+Deep (Meta)genomics and (Meta)transcriptome Analyses of Fungal and Bacteria
+Consortia From Aircraft Tanks and Kerosene Identify Key Genes in Fuel and Tank
+Corrosion.
+
+Krohn I(1), Bergmann L(1), Qi M(2), Indenbirken D(3), Han Y(1), Perez-Garcia
+P(4), Katzowitsch E(5), Hägele B(6), Lübcke T(6), Siry C(6), Riemann R(6), Alawi 
+M(2), Streit WR(1).
+
+Author information: 
+(1)Department of Microbiology and Biotechnology, Institute of Plant Science and
+Microbiology, University of Hamburg, Hamburg, Germany.
+(2)Bioinformatics Core, University Medical Center Hamburg-Eppendorf, Hamburg,
+Germany.
+(3)Virus Genomics, Heinrich-Pette-Institute, Leibniz Institute for Experimental
+Virology, Hamburg, Germany.
+(4)Institute of General Microbiology, Molecular Microbiology, Kiel University,
+Kiel, Germany.
+(5)Faculty of Medicine, Core Unit Systems Medicine, University of Würzburg,
+Würzburg, Germany.
+(6)T/TQ-MN, Lufthansa Technik AG HAM, Hamburg, Germany.
+
+Microbial contamination of fuels, associated with a wide variety of bacteria and 
+fungi, leads to decreased product quality and can compromise equipment
+performance by biofouling or microbiologically influenced corrosion. Detection
+and quantification of microorganisms are critical in monitoring fuel systems for 
+an early detection of microbial contaminations. To address these challenges, we
+have analyzed six metagenomes, one transcriptome, and more than 1,200 fluid and
+swab samples taken from fuel tanks or kerosene. Our deep metagenome sequencing
+and binning approaches in combination with RNA-seq data and qPCR methods implied 
+a metabolic symbiosis between fungi and bacteria. The most abundant bacteria were
+affiliated with α-, β-, and γ-Proteobacteria and the filamentous fungi
+Amorphotheca. We identified a high number of genes, which are related to kerosene
+degradation and biofilm formation. Surprisingly, a large number of genes coded
+enzymes involved in polymer degradation and potential bio-corrosion processes.
+Thereby, the transcriptionally most active microorganisms were affiliated with
+the genera Methylobacteria, Pseudomonas, Kocuria, Amorpotheka, Aspergillus,
+Fusarium, and Penicillium. Many not yet cultured bacteria and fungi appeared to
+contribute to the biofilm transcriptional activities. The largest numbers of
+transcripts were observed for dehydrogenase, oxygenase, and exopolysaccharide
+production, attachment and pili/flagella-associated proteins, efflux pumps, and
+secretion systems as well as lipase and esterase activity.
+
+Copyright © 2021 Krohn, Bergmann, Qi, Indenbirken, Han, Perez-Garcia,
+Katzowitsch, Hägele, Lübcke, Siry, Riemann, Alawi and Streit.
+
+DOI: 10.3389/fmicb.2021.722259 
+PMCID: PMC8525681
+PMID: 34675897 
+
+Conflict of interest statement: BH, TL, CS, and RR were employed by company
+Lufthansa Technik AG HAM. The remaining authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

@@ -1,0 +1,46 @@
+
+1. Anal Chem. 2021 Nov 16;93(45):14955-14965. doi: 10.1021/acs.analchem.1c01650.
+Epub 2021 Oct 25.
+
+Artificial Intelligence-Based Portable Bioelectronics Platform for SARS-CoV-2
+Diagnosis with Multi-nucleotide Probe Assay for Clinical Decisions.
+
+Tripathy S(1), Supraja P(1), Mohanty S(1), Sai VM(1), Agrawal T(1), Chowdary
+CG(1), Taranikanti M(2), Bandaru R(3), Mudunuru AK(3), Tadi LJ(2)(3), Suravaram
+S(3), Siddiqui IA(3), Maddur S(3), Guntuka RK(3), Singh R(1), Singh V(4), Singh
+SG(1).
+
+Author information: 
+(1)Indian Institute of Technology Hyderabad, Kandi, Sangareddy, Telangana 502285,
+India.
+(2)All India Institute of Medical Sciences, Bibinagar, Hyderabad, Telangana
+508126, India.
+(3)ESIC Medical College, S R Nagar, Hyderabad, Telangana 500038, India.
+(4)School of Medicine, University of California, 1 Shields Avenue, Davis,
+California 95616, United States.
+
+In the context of the recent pandemic, the necessity of inexpensive and easily
+accessible rapid-test kits is well understood and need not be stressed further.
+In light of this, we report a multi-nucleotide probe-based diagnosis of
+SARS-CoV-2 using a bioelectronics platform, comprising low-cost chemiresistive
+biochips, a portable electronic readout, and an Android application for data
+acquisition with machine-learning-based decision making. The platform performs
+the desired diagnosis from standard nasopharyngeal and/or oral swabs (both on
+extracted and non-extracted RNA samples) without amplifying the viral load. Being
+a reverse transcription polymerase chain reaction-free hybridization assay, the
+proposed approach offers inexpensive, fast (time-to-result: ≤ 30 min), and early 
+diagnosis, as opposed to most of the existing SARS-CoV-2 diagnosis protocols
+recommended by the WHO. For the extracted RNA samples, the assay accounts for 87 
+and 95.2% test accuracies, using a heuristic approach and a
+machine-learning-based classification method, respectively. In case of the
+non-extracted RNA samples, 95.6% decision accuracy is achieved using the
+heuristic approach, with the machine-learning-based best-fit model producing 100%
+accuracy. Furthermore, the availability of the handheld readout and the Android
+application-based simple user interface facilitates easy accessibility and
+portable applications. Besides, by eliminating viral RNA extraction from samples 
+as a pre-requisite for specific detection, the proposed approach presents itself 
+as an ideal candidate for point-of-care SARS-CoV-2 diagnosis.
+
+DOI: 10.1021/acs.analchem.1c01650 
+PMID: 34694783  [Indexed for MEDLINE]
+

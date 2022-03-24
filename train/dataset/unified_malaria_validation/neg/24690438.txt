@@ -1,0 +1,44 @@
+
+1. parasit vectors. 2014 apr 1;7:159. doi: 10.1186/1756-3305-7-159.
+
+identification characterization expression profile micrornas in
+anopheles anthropophagus.
+
+liu w, huang h, xing c, li c, tan f, liang s(1).
+
+author information: 
+(1)department parasitology, wenzhou medical university, wenzhou, zhejiang
+province 325035, pr china. lsh@wmu.edu.cn.
+
+background: anopheles anthropophagus, one important mosquito-borne
+disease vectors asia, mainly takes blood meals humans transmits 
+malaria filariae. micrornas (mirnas) small non-coding rnas, play a
+critical role many cellular processes, including development, differentiation,
+apoptosis innate immunity.
+methods: investigated global mirna expression profile male female
+adults a. anthropophagus using illumina hiseq2000 sequencing combined with
+northern blot.
+results: using mirnas closely-related species anopheles gambiae and
+aedes aegypti reference, obtained 102 mirnas candidates 12.43
+million raw sequencing reads male 16.51 million reads female, 81
+of found known mirnas an. gambiae and/or ae. aegypti, the
+remaining 21 mirnas considered novel. analyzing revised read count
+of mirnas male female, 29 known mirnas show sexual difference expression: 
+>2-fold read count mirnas male female. especially for
+mir-989, highly expressed female mosquitoes, shows almost 
+detected expression male mosquitoes, indicating mir-989 may involved
+in physiological activity female mosquito adults. expression four
+mirnas different growth stages mosquito identified northern
+blot. several mirnas show stage-specific expression, mir-2943 only
+expressed egg stage, suggesting mir-2943 may associated the
+development mosquito eggs.
+conclusions: present study represents first global characterization of
+an. anthropophagus mirnas sexual differences stage-specific functions. a
+better understanding functions mirnas offer new insights 
+mosquito biology implications effective control mosquito-borne
+infectious diseases.
+
+doi: 10.1186/1756-3305-7-159 
+pmcid: pmc4022070
+pmid: 24690438  [indexed medline]
+

@@ -1,0 +1,49 @@
+
+1. Prostate. 2000 Oct 1;45(2):149-57.
+
+Prostate-specific suicide gene therapy using the prostate-specific membrane
+antigen promoter and enhancer.
+
+O'Keefe DS(1), Uchida A, Bacich DJ, Watt FB, Martorana A, Molloy PL, Heston WD.
+
+Author information: 
+(1)George M. O'Brien Urology Research Center, Department of Cancer Biology,
+Lerner Research Institute, Cleveland Clinic Foundation, Cleveland, Ohio, USA.
+
+BACKGROUND: Prostate-specific membrane antigen (PSMA) is abundantly expressed in 
+virtually 100% of prostate cancers and metastases. In addition, unlike
+prostate-specific antigen (PSA), PSMA is upregulated under conditions of androgen
+deprivation. Therefore, PSMA is an attractive therapeutic target for advanced
+prostate cancer. Recently, both the promoter and the enhancer driving
+prostate-specific expression of the PSMA gene were cloned. We describe here our
+analysis of the PSMA enhancer for the most active region(s) and present a way of 
+using the enhancer in combination with the E. coli cytosine deaminase gene for
+suicide-driven gene therapy that converts the nontoxic prodrug 5-fluorocytosine
+(5-FC) into the cytotoxic drug 5-fluorouracil (5-FU) in prostate cancer cells.
+METHODS: Deletion constructs of the full-length PSMA enhancer were subcloned into
+a luciferase reporter vector containing either the PSMA or SV-40 promoter. The
+most active portion of the enhancer was then determined via luciferase activity
+in the C4-2 cell line. We then replaced the luciferase gene with the E. coli
+cytosine deaminase gene in the subclone that showed the most luciferase activity.
+The specificity of this technique was examined in vitro, using the prostate
+cancer cell line LNCaP, its androgen-independent derivative C4-2, and a number of
+nonprostatic cell lines. The toxicity of 5-FC and 5-FU on transiently transfected
+cell lines was then compared.
+RESULTS: The enhancer region originally isolated from the PSMA gene was
+approximately 2 kb. Deletion constructs revealed that at least two distinct
+regions seem to contribute to expression of the gene in prostate cancer cells,
+and therefore the best construct for prostate-specific expression was determined 
+to be 1, 648 bp long. The IC(50) of 5-FC was similar in all cell lines tested
+(>10 mM). However, transfection with the 1648 nt PSMA enhancer and the PSMA
+promoter to drive the cytosine deaminase gene enhanced toxicity in a
+dose-dependent manner more than 50-fold, while cells that did not express the
+PSMA gene were not significantly sensitized by transfection.
+CONCLUSIONS: Suicide gene therapy using the PSMA enhancer may be of benefit to
+patients who have undergone androgen ablation therapy and are suffering a relapse
+of disease.
+
+Copyright 2000 Wiley-Liss, Inc.
+
+DOI: 10.1002/1097-0045(20001001)45:2<149::aid-pros9>3.0.co;2-o 
+PMID: 11027414  [Indexed for MEDLINE]
+

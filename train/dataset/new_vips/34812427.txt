@@ -1,0 +1,55 @@
+
+1. Patterns (N Y). 2021 Nov 18:100407. doi: 10.1016/j.patter.2021.100407. [Epub
+ahead of print]
+
+Metaviromic identification of discriminative genomic features in SARS-CoV-2 using
+machine learning.
+
+Park JJ(1)(2)(3)(4), Chen S(1)(2)(3)(4)(5)(6)(7)(8)(9)(10)(11)(12)(13).
+
+Author information: 
+(1)Department of Genetics, Yale University School of Medicine, New Haven,
+Connecticut, USA.
+(2)System Biology Institute, Yale University, West Haven, Connecticut, USA.
+(3)Center for Cancer Systems Biology, Yale University, West Haven, Connecticut,
+USA.
+(4)M.D.-Ph.D. Program, Yale University, West Haven, Connecticut, USA.
+(5)Immunobiology Program, Yale University, New Haven, Connecticut, USA.
+(6)Molecular Cell Biology, Genetics, and Development Program, Yale University,
+New Haven, Connecticut, USA.
+(7)Combined Program in the Biological and Biomedical Sciences, Yale University,
+New Haven, Connecticut, USA.
+(8)Department of Neurosurgery, Yale University School of Medicine, New Haven,
+Connecticut, USA.
+(9)Comprehensive Cancer Center, Yale University School of Medicine, New Haven,
+Connecticut, USA.
+(10)Stem Cell Center, Yale University School of Medicine, New Haven, Connecticut,
+USA.
+(11)Liver Center, Yale University School of Medicine, New Haven, Connecticut,
+USA.
+(12)Center for Biomedical Data Science, Yale University School of Medicine, New
+Haven, Connecticut, USA.
+(13)Center for RNA Science and Medicine, Yale University School of Medicine, New 
+Haven, Connecticut, USA.
+
+The COVID-19 pandemic caused by SARS-CoV-2 has become a major threat across the
+globe. Here, we developed machine learning approaches to identify key pathogenic 
+regions in coronavirus genomes. We trained and evaluated 7,562,625 models on
+3,665 genomes including SARS-CoV-2, MERS-CoV, SARS-CoV and other coronaviruses of
+human and animal origins to return quantitative and biologically interpretable
+signatures at nucleotide and amino acid resolutions. We identified hotspots
+across the SARS-CoV-2 genome including previously unappreciated features in
+spike, RdRp and other proteins. Finally, we integrated pathogenicity genomic
+profiles with B cell and T cell epitope predictions for enrichment of sequence
+targets to help guide vaccine development. These results provide a systematic map
+of predicted pathogenicity in SARS-CoV-2 that incorporates sequence, structural
+and immunological features, providing an unbiased collection of genetic elements 
+for functional studies. This metavirome-based framework can also be applied for
+rapid characterization of new coronavirus strains or emerging pathogenic viruses.
+
+© 2021 The Author(s).
+
+DOI: 10.1016/j.patter.2021.100407 
+PMCID: PMC8598947
+PMID: 34812427 
+

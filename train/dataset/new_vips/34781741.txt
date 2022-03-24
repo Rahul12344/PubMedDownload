@@ -1,0 +1,70 @@
+
+1. mBio. 2021 Nov 16:e0249021. doi: 10.1128/mBio.02490-21. [Epub ahead of print]
+
+HIV Proviral Burden, Genetic Diversity, and Dynamics in Viremic Controllers Who
+Subsequently Initiated Suppressive Antiretroviral Therapy.
+
+Omondi FH(#)(1)(2), Sudderuddin H(#)(2), Shahid A(1)(2), Kinloch NN(1)(2), Jones 
+BR(2)(3), Miller RL(2)(3), Tsai O(1), MacMillan D(2), Trocha A(4), Brockman
+MA(1)(5), Brumme CJ(2)(6), Joy JB(2)(3)(6), Liang R(2), Walker BD(4), Brumme
+ZL(1)(2).
+
+Author information: 
+(1)Faculty of Health Sciences, Simon Fraser Universitygrid.61971.38, Burnaby,
+British Columbia, Canada.
+(2)British Columbia Centre for Excellence in HIV/AIDS, Vancouver, British
+Columbia, Canada.
+(3)Bioinformatics Program, University of British Columbia, Vancouver, British
+Columbia, Canada.
+(4)Ragon Institute of MGH, MIT and Harvardgrid.461656.6, Cambridge,
+Massachusetts, USA.
+(5)Department of Molecular Biology and Biochemistry, Simon Fraser
+Universitygrid.61971.38, Burnaby, British Columbia, Canada.
+(6)Department of Medicine, University of British Columbia, Vancouver, British
+Columbia, Canada.
+(#)Contributed equally
+
+Curing HIV will require eliminating the reservoir of integrated,
+replication-competent proviruses that persist despite antiretroviral therapy
+(ART). Understanding the burden, genetic diversity, and longevity of persisting
+proviruses in diverse individuals with HIV is critical to this goal, but these
+characteristics remain understudied in some groups. Among them are viremic
+controllers-individuals who naturally suppress HIV to low levels but for whom
+therapy is nevertheless recommended. We reconstructed within-host HIV
+evolutionary histories from longitudinal single-genome amplified viral sequences 
+in four viremic controllers who eventually initiated ART and used this
+information to characterize the age and diversity of proviruses persisting on
+therapy. We further leveraged these within-host proviral age distributions to
+estimate rates of proviral turnover prior to ART. This is an important yet
+understudied metric, since pre-ART proviral turnover dictates reservoir
+composition at ART initiation (and thereafter), which is when curative
+interventions, once developed, would be administered. Despite natural viremic
+control, all participants displayed significant within-host HIV evolution
+pretherapy, where overall on-ART proviral burden and diversity broadly reflected 
+the extent of viral replication and diversity pre-ART. Consistent with recent
+studies of noncontrollers, the proviral pools of two participants were skewed
+toward sequences that integrated near ART initiation, suggesting dynamic proviral
+turnover during untreated infection. In contrast, proviruses recovered from the
+other two participants dated to time points that were more evenly spread
+throughout infection, suggesting slow or negligible proviral decay following
+deposition. HIV cure strategies will need to overcome within-host proviral
+diversity, even in individuals who naturally controlled HIV replication before
+therapy. IMPORTANCE HIV therapy is lifelong because integrated,
+replication-competent viral copies persist within long-lived cells. To cure HIV, 
+we need to understand when these viral reservoirs form, how large and genetically
+diverse they are, and how long they endure. Elite controllers-individuals who
+naturally suppress HIV to undetectable levels-are being intensely studied as
+models of HIV remission, but viremic controllers, individuals who naturally
+suppress HIV to low levels, remain understudied even though they too may hold
+valuable insights. We combined phylogenetics and mathematical modeling to
+reconstruct proviral seeding and decay from infection to therapy-mediated
+suppression in four viremic controllers. We recovered diverse proviruses
+persisting during therapy that broadly reflected HIV's within-host evolutionary
+history, where the estimated half-lives of the persistent proviral pool during
+untreated infection ranged from <1 year to negligible. Cure strategies will need 
+to contend with proviral diversity and between-host heterogeneity, even in
+individuals who naturally control HIV.
+
+DOI: 10.1128/mBio.02490-21 
+PMID: 34781741 
+

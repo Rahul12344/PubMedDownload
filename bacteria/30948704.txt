@@ -1,0 +1,43 @@
+
+1. Nat Commun. 2019 Apr 4;10(1):1540. doi: 10.1038/s41467-019-09471-9.
+
+Mad1 destabilizes p53 by preventing PML from sequestering MDM2.
+
+Wan J(1), Block S(2), Scribano CM(1), Thiry R(1), Esbona K(3), Audhya A(2)(4),
+Weaver BA(5)(6)(7).
+
+Author information: 
+(1)Department of Cell and Regenerative Biology, University of Wisconsin-Madison, 
+Madison, WI, 53705, USA.
+(2)Department of Biomolecular Chemistry, University of Wisconsin-Madison,
+Madison, WI, 53705, USA.
+(3)Department of Pathology and Laboratory Medicine, University of
+Wisconsin-Madison, Madison, WI, 53705, USA.
+(4)Carbone Cancer Center, University of Wisconsin-Madison, Madison, WI, 53705,
+USA.
+(5)Department of Cell and Regenerative Biology, University of Wisconsin-Madison, 
+Madison, WI, 53705, USA. baweaver@wisc.edu.
+(6)Carbone Cancer Center, University of Wisconsin-Madison, Madison, WI, 53705,
+USA. baweaver@wisc.edu.
+(7)Department of Oncology/McArdle Laboratory for Cancer Research, University of
+Wisconsin-Madison, Madison, WI, 53705, USA. baweaver@wisc.edu.
+
+Mitotic arrest deficient 1 (Mad1) plays a well-characterized role in the mitotic 
+checkpoint. However, interphase roles of Mad1 that do not impact mitotic
+checkpoint function remain largely uncharacterized. Here we show that
+upregulation of Mad1, which is common in human breast cancer, prevents
+stress-induced stabilization of the tumor suppressor p53 in multiple cell types. 
+Upregulated Mad1 localizes to ProMyelocytic Leukemia (PML) nuclear bodies in
+breast cancer and cultured cells. The C-terminus of Mad1 directly interacts with 
+PML, and this interaction is enhanced by sumoylation. PML stabilizes p53 by
+sequestering MDM2, an E3 ubiquitin ligase that targets p53 for degradation, to
+the nucleolus. Upregulated Mad1 displaces MDM2 from PML, freeing it to
+ubiquitinate p53. Upregulation of Mad1 accelerates growth of orthotopic mammary
+tumors, which show decreased levels of p53 and its downstream effector p21. These
+results demonstrate an unexpected interphase role for Mad1 in tumor promotion via
+p53 destabilization.
+
+DOI: 10.1038/s41467-019-09471-9 
+PMCID: PMC6449396
+PMID: 30948704  [Indexed for MEDLINE]
+

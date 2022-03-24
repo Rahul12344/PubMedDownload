@@ -1,0 +1,47 @@
+
+1. Microorganisms. 2019 Nov 11;7(11). pii: E552. doi: 10.3390/microorganisms7110552.
+
+Enhanced Production of Fatty Acid Ethyl Ester with Engineered fabHDG Operon in
+Escherichia coli.
+
+Rahman Z(1), Sung BH(2), Nawab J(3), Siddiqui MF(4), Ali A(5), Geraldi A(6), Kim 
+SC(7).
+
+Author information: 
+(1)Department of Microbiology, Abdul Wali Khan University Mardan, Mardan 23200,
+Khyber Pakhtunkhwa, Pakistan.
+(2)Synthetic Biology and Bioengineering Research Center, Korea Research Institute
+of Bioscience and Biotechnology, Daejeon 34141, Korea.
+(3)Department of Environmental Sciences, Abdul Wali Khan University Mardan,
+Mardan 23200, Khyber Pakhtunkhwa, Pakistan.
+(4)Department of Microbiology, Hazara University, Hazara 21120, Khyber
+Pakhtunkhwa, Pakistan.
+(5)Department of Zoology, Abdul Wali Khan University Mardan, Mardan 23200, Khyber
+Pakhtunkhwa, Pakistan.
+(6)Department of Biology, Airlangga University, Universitas Airlangga Kampus C,
+Mulyorejo Surabaya 60115, Indonesia.
+(7)Department of Biological Sciences, Korea Advanced Institute of Science and
+Technology, Daejeon 34141, Korea.
+
+Biodiesel, or fatty acid ethyl ester (FAEE), is an environmentally safe,
+next-generation biofuel. Conventionally, FAEE is produced by the conversion of
+oil/fats, obtained from plants, animals, and microorganisms, by
+transesterification. Recently, metabolic engineering of bacteria for ready-to-use
+biodiesel was developed. In Escherichia coli, it is produced by fatty
+acyl-carrier proteins and ethanol, with the help of thioesterase (TesB) and wax
+synthase (WS) enzymes. One of the foremost barriers in microbial FAEE production 
+is the feedback inhibition of the fatty acid (FA) operon (fabHDG). Here, we
+studied the effect of biodiesel biosynthesis in E. coli with an engineered fabHDG
+operon. With a basic FAEE producing BD1 strain harboring tes and ws genes,
+biodiesel of 32 mg/L were produced. Optimal FAEE biosynthesis was achieved in the
+BD2 strain that carries an overexpressed operon (fabH, fabD, and fabG genes) and 
+achieved up to 1291 mg/L of biodiesel, a 40-fold rise compared to the BD1 strain.
+The composition of FAEE obtained from the BD2 strain was 65% (C10:C2, decanoic
+acid ethyl ester) and 35% (C12:C2, dodecanoic acid ethyl ester). Our findings
+indicate that overexpression of the native FA operon, along with FAEE
+biosynthesis enzymes, improved biodiesel biosynthesis in E. coli.
+
+DOI: 10.3390/microorganisms7110552 
+PMCID: PMC6920873
+PMID: 31717929 
+

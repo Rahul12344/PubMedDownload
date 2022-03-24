@@ -1,0 +1,48 @@
+
+1. J Virol. 2021 Nov 3:JVI0170821. doi: 10.1128/JVI.01708-21. [Epub ahead of print]
+
+Host restriction factor A3G inhibits the replication of Enterovirus D68 through
+competitively binding 5' UTR with PCBP1.
+
+Li Z(1), Yang X(1), Zhao Z(1), Liu X(1), Zhang W(1).
+
+Author information: 
+(1)Center for Pathogen biology and Infectious diseases, Institute of Virology and
+AIDS Research, Key laboratory of Organ Regeneration and Transplantation of The
+Ministry of Education, The First Hospital of Jilin University, Changchun 130021, 
+P. R. China.
+
+The host restriction factor APOBEC3G (A3G) presents extensively inhibition on a
+variety of viruses, including retroviruses, DNA and RNA viruses. Our recent study
+showed that A3G inhibits enterovirus 71 (EV71) and coxsackievirus A16 (CA16) via 
+competitively binding 5'UTR with the host protein poly(C)-binding protein 1
+(PCBP1) that is required for multiple EVs replication. However, in addition to
+EV71 and CA16, whether A3G inhibits other EVs has not been investigated. Here, we
+demonstrate that A3G could inhibit EVD68 replication, which needs PCBP1 for its
+replication, but not CA6 that PCBP1 is dispensable for CA6 replication. Further
+investigation revealed that nucleic acid binding activity of A3G is required for 
+EVD68 restriction, which is similar to the mechanism presented in EV71
+restriction. Mechanistically, A3G competitively binds to the cloverleaf (1-123)
+and the stem-loop IV (234-446) domains of EVD68 5'UTR with PCBP1, thereby
+inhibiting the 5'UTR activity of EVD68, whereas A3G doesn't interact with CA6
+5'UTR results in no effect on CA6 replication. Moreover, non-structural protein
+2C encoded by EVD68 overcomes A3G suppression through inducing A3G degradation
+via the autophagy-lysosome pathway. Our finding revealed that A3G might have
+broad spectrum antiviral activity against multiple EVs through the general
+mechanism, which might provide important information for the development of
+anti-EVs strategy. Importance As the two major pathogens causing hand, food, and 
+mouth disease (HFMD), EV71 and CA16 attract more attention for the discovery of
+pathogenesis, the involvement of cellular proteins and so on. However, other EVs 
+such as CA6 or EVD68 constantly occurred sporadic or might spread widely in
+recent years worldwide. Therefore, more information related to these EVs needs to
+be further investigated so as to develop broad-spectrum anti-EVs inhibitor. In
+this study, we first reveal that PCBP1 involved in PV and EV71 virus replication,
+also is required for the replication of EVD68 but not CA6. Then we found that the
+host restriction factor A3G specifically inhibits the replication of EVD68 but
+not CA6 via competitively binding to the 5'UTR of EVD68 with PCBP1. Our findings 
+broaden the knowledge related to EVs replication and the interplay between EVs
+and host factors.
+
+DOI: 10.1128/JVI.01708-21 
+PMID: 34730395 
+

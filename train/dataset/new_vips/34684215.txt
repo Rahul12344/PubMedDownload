@@ -1,0 +1,47 @@
+
+1. Pathogens. 2021 Oct 1;10(10). pii: 1266. doi: 10.3390/pathogens10101266.
+
+Coronavirus Disease 2019 on the Heels of Ebola Virus Disease in West Africa.
+
+Dembek ZF(1), Schwartz-Watjen KT(2), Swiatecka AL(1), Broadway KM(3), Hadeed
+SJ(1), Mothershead JL(2), Chekol T(1), Owens AN(4), Wu A(4).
+
+Author information: 
+(1)Battelle Memorial Institute, Support to DTRA Technical Reachback, Columbus, OH
+43201, USA.
+(2)Applied Research Associates (ARA), Support to DTRA Technical Reachback,
+Albuquerque, NM 87110, USA.
+(3)Defense Sciences, Inc. (DSI), Support to DTRA Technical Reachback, San
+Antonio, TX 78230, USA.
+(4)Defense Threat Reduction Agency (DTRA), Fort Belvoir, VA 22060, USA.
+
+This study utilized modeling and simulation to examine the effectiveness of
+current and potential future COVID-19 response interventions in the West African 
+countries of Guinea, Liberia, and Sierra Leone. A comparison between simulations 
+can highlight which interventions could have an effect on the pandemic in these
+countries. An extended compartmental model was used to run simulations
+incorporating multiple vaccination strategies and non-pharmaceutical
+interventions (NPIs). In addition to the customary categories of susceptible,
+exposed, infected, and recovered (SEIR) compartments, this COVID-19 model
+incorporated early and late disease states, isolation, treatment, and death.
+Lessons learned from the 2014-2016 Ebola virus disease outbreak-especially the
+optimization of each country's resource allocation-were incorporated in the
+presented models. For each country, models were calibrated to an estimated number
+of infections based on actual reported cases and deaths. Simulations were run to 
+test the potential future effects of vaccination and NPIs. Multiple levels of
+vaccination were considered, based on announced vaccine allocation plans and
+notional scenarios. Increased vaccination combined with NPI mitigation strategies
+resulted in thousands of fewer COVID-19 infections in each country. This study
+demonstrates the importance of increased vaccinations. The levels of vaccination 
+in this study would require substantial increases in vaccination supplies
+obtained through national purchases or international aid. While this study does
+not aim to develop a model that predicts the future, it can provide useful
+information for decision-makers in low- and middle-income nations. Such
+information can be used to prioritize and optimize limited available resources
+for targeted interventions that will have the greatest impact on COVID-19
+pandemic response.
+
+DOI: 10.3390/pathogens10101266 
+PMCID: PMC8537256
+PMID: 34684215 
+

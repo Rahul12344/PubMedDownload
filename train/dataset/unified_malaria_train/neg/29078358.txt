@@ -1,0 +1,50 @@
+
+1. proc natl acad sci u a. 2017 oct 31;114(44):e9356-e9365. doi:
+10.1073/pnas.1711310114. epub 2017 oct 19.
+
+crispr/cas9 knockouts reveal genetic interaction strain-transcendent
+erythrocyte determinants plasmodium falciparum invasion.
+
+kanjee u(1), grüring c(1), chaand m(1), lin km(2), egan e(1), manzo j(1), jones
+pl(3), yu t(1), barker r jr(3), weekes mp(2), duraisingh mt(4).
+
+author information: 
+(1)department immunology infectious diseases, harvard t. h. chan school of
+public health, boston, 02115.
+(2)cambridge institute medical research, cambridge, cb2 oxy, united kingdom.
+(3)sanofi-genzyme, waltham, 02451.
+(4)department immunology infectious diseases, harvard t. h. chan school of
+public health, boston, 02115; mduraisi@hsph.harvard.edu.
+
+during malaria blood-stage infections, plasmodium parasites interact rbc
+surface enable invasion followed intracellular proliferation. critical
+factors involved invasion identified using biochemical genetic
+approaches including specific knockdowns genes interest primary cd34+ 
+hematopoietic stem cells (crbcs). report development robust in
+vitro culture system produce rbcs allow generation gene knockouts 
+via crispr/cas9 using immortal jk-1 erythroleukemia line. jk-1 cells
+spontaneously differentiate, generating cells different stages of
+erythropoiesis, including terminally differentiated nucleated rbcs term
+"jkrbcs." screen small-molecule epigenetic regulators identified several
+bromodomain-specific inhibitors promote differentiation enable
+production synchronous populations jkrbcs. global surface proteomic
+profiling revealed jkrbcs express known pfalciparum host receptors 
+similar fashion crbcs multiple pfalciparum strains invade jkrbcs at
+comparable levels crbcs rbcs. using crispr/cas9, deleted two host
+factors, basigin (bsg) cd44, natural nulls exist. bsg interacts 
+with parasite ligand rh5, prominent vaccine candidate. bsg knockout was
+completely refractory parasite invasion strain-transcendent manner,
+confirming essential role bsg invasion. cd44 recently
+identified rnai screen blood group genes host factor invasion, 
+and show cd44 knockout results strain-transcendent reduction in
+invasion. furthermore, demonstrate functional interaction two 
+determinants mediating pfalciparum erythrocyte invasion.
+
+published pnas license.
+
+doi: 10.1073/pnas.1711310114 
+pmcid: pmc5676921
+pmid: 29078358  [indexed medline]
+
+conflict interest statement: authors declare conflict interest.
+

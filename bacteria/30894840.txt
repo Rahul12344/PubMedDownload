@@ -1,0 +1,43 @@
+
+1. Front Microbiol. 2019 Mar 6;10:378. doi: 10.3389/fmicb.2019.00378. eCollection
+2019.
+
+High-Throughput Proteomics Identifies Proteins With Importance to Postantibiotic 
+Recovery in Depolarized Persister Cells.
+
+Spanka DT(1), Konzer A(2), Edelmann D(1), Berghoff BA(1).
+
+Author information: 
+(1)Institute for Microbiology and Molecular Biology, Justus Liebig University
+Giessen, Giessen, Germany.
+(2)Biomolecular Mass Spectrometry, Max-Planck-Institute for Heart and Lung
+Research, Bad Nauheim, Germany.
+
+Bacterial populations produce phenotypic variants called persisters to survive
+harmful conditions. Persisters are highly tolerant to antibiotics and repopulate 
+environments after the stress has vanished. In order to resume growth, persisters
+have to recover from the persistent state, but the processes behind recovery
+remain mostly elusive. Deciphering these processes is an essential step toward
+understanding the persister phenomenon in its entirety. High-throughput
+proteomics by mass spectrometry is a valuable tool to assess persister physiology
+during any stage of the persister life cycle, and is expected to considerably
+contribute to our understanding of the recovery process. In the present study, an
+Escherichia coli strain, that overproduces the membrane-depolarizing toxin TisB, 
+was established as a model for persistence by the use of high-throughput
+proteomics. Labeling of TisB persisters with stable isotope-containing amino
+acids (pulsed-SILAC) revealed an active translational response to ampicillin,
+including several RpoS-dependent proteins. Subsequent investigation of the
+persister proteome during postantibiotic recovery by label-free quantitative
+proteomics identified proteins with importance to the recovery process. Among
+them, AhpF, a component of alkyl hydroperoxide reductase, and the outer membrane 
+porin OmpF were found to affect the persistence time of TisB persisters.
+Assessing the role of AhpF and OmpF in TisB-independent persisters demonstrated
+that the importance of a particular protein for the recovery process strongly
+depends on the physiological condition of a persister cell. Our study provides
+important insights into persister physiology and the processes behind recovery of
+depolarized cells.
+
+DOI: 10.3389/fmicb.2019.00378 
+PMCID: PMC6414554
+PMID: 30894840 
+

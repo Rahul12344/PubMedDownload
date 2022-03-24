@@ -1,0 +1,35 @@
+
+1. Vaccines (Basel). 2021 Nov 19;9(11). pii: 1361. doi: 10.3390/vaccines9111361.
+
+Validation of Pretreatment Methods for the In-Process Quantification of
+Foot-and-Mouth Disease Vaccine Antigens.
+
+Kim AY(1), Park SY(1), Park SH(1), Jin JS(1), Kim ES(1), Kim JY(1), Park JH(1),
+Ko YJ(1).
+
+Author information: 
+(1)Center for FMD Vaccine Research, Animal and Plant Quarantine Agency, Gimcheon 
+39660, Korea.
+
+Foot-and-mouth disease (FMD), caused by the FMD virus (FMDV), is controlled by
+vaccine policy in many countries. For vaccine potency, the content of intact
+virus particles (146S antigens) is critical, and the sucrose density gradient
+(SDG) fractionation is the gold standard for the quantification of 146S antigens.
+However, this method has several drawbacks. Although size-exclusion
+high-performance liquid chromatography (SE-HPLC) was introduced to replace the
+classic method, its application is generally confined to purified samples owing
+to the interfering signals. Therefore, we aimed to develop optimal pretreatment
+methods for SE-HPLC quantification in less purified samples. Crude virus
+infection supernatant (CVIS) and semi-purified samples with PEG precipitation
+(PEG-P) were used. Chloroform pretreatment was essential to remove a high level
+of non-specific signals in CVIS, whereas it caused loss of 146S antigens without 
+the distinctive removal of non-specific signals in PEG-P. Benzonase pretreatment 
+was required to improve the resolution of the target peak in the chromatogram for
+both CVIS and PEG-P. Through spiking tests with pure 146S antigens, it was
+verified that the combined pretreatment with chloroform and benzonase was optimal
+for the CVIS, while the sole pretreatment of benzonase was beneficial for PEG-P.
+
+DOI: 10.3390/vaccines9111361 
+PMCID: PMC8624908
+PMID: 34835292 
+

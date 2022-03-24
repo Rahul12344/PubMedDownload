@@ -1,0 +1,40 @@
+
+1. PLoS One. 2012;7(2):e32081. doi: 10.1371/journal.pone.0032081. Epub 2012 Feb 22.
+
+Receptor-specific mechanisms regulate phosphorylation of AKT at Ser473: role of
+RICTOR in β1 integrin-mediated cell survival.
+
+Riaz A(1), Zeller KS, Johansson S.
+
+Author information: 
+(1)Department of Medical Biochemistry and Microbiology, The Biomedical Center,
+Uppsala University, Uppsala, Sweden.
+
+A tight control over AKT/PKB activation is essential for cells, and they realise 
+this in part by regulating the phosphorylation of Ser473 in the "hydrophobic
+motif" of the AKT carboxy-terminal region. The RICTOR-mTOR complex (TORC2) is a
+major kinase for AKT Ser473 phosphorylation after stimulation by several growth
+factors, in a reaction proposed to require p21-activated kinase (PAK) as a
+scaffold. However, other kinases may catalyse this reaction in stimuli-specific
+manners. Here we characterised the requirement of RICTOR, ILK, and PAK for AKT
+Ser473 phosphorylation downstream of selected family members of integrins, G
+protein-coupled receptors, and tyrosine-kinase receptors and analysed the
+importance of this phosphorylation site for adhesion-mediated survival.
+siRNA-mediated knockdown in HeLa and MCF7 cells showed that RICTOR-mTOR was
+required for phosphorylation of AKT Ser473, and for efficient phosphorylation of 
+the downstream AKT targets FOXO1 Thr24 and BAD Ser136, in response to β1
+integrin-stimulation. ILK and PAK1/2 were dispensable for these reactions. RICTOR
+knockdown increased the number of apoptotic MCF7 cells on β1 integrin ligands up 
+to 2-fold after 24 h in serum-free conditions. β1 integrin-stimulation induced
+phosphorylation of both AKT1 and AKT2 but markedly preferred AKT2. RICTOR-mTOR
+was required also for LPA-induced AKT Ser473 phosphorylation in MCF7 cells, but, 
+interestingly, not in HeLa cells. PAK was needed for the AKT Ser473
+phosphorylation in response to LPA and PDGF, but not to EGF. These results
+demonstrate that different receptors utilise different enzyme complexes to
+phosphorylate AKT at Ser473, and that AKT Ser473 phosphorylation significantly
+contributes to β1 integrin-mediated anchorage-dependent survival of cells.
+
+DOI: 10.1371/journal.pone.0032081 
+PMCID: PMC3284553
+PMID: 22384145  [Indexed for MEDLINE]
+

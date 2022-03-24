@@ -1,0 +1,49 @@
+
+1. Version 2. F1000Res. 2021 Apr 29 [revised 2021 Aug 20];10:330. doi:
+10.12688/f1000research.52412.2. eCollection 2021.
+
+A signaling pathway-driven bioinformatics pipeline for predicting therapeutics
+against emerging infectious diseases.
+
+Scott TM(1), Jensen S(1), Pickett BE(1).
+
+Author information: 
+(1)Microbiology and Molecular Biology, Brigham Young University, Provo, Utah,
+84602, USA.
+
+Background: Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), the
+etiological agent of coronavirus disease-2019 (COVID-19), is a novel
+Betacoronavirus that was first reported in Wuhan, China in December of 2019. The 
+virus has since caused a worldwide pandemic that highlights the need to quickly
+identify potential prophylactic or therapeutic treatments that can reduce the
+signs, symptoms, and/or spread of disease when dealing with a novel infectious
+agent. To combat this problem, we constructed a computational pipeline that
+uniquely combines existing tools to predict drugs and biologics that could be
+repurposed to combat an emerging pathogen. Methods: Our workflow analyzes
+RNA-sequencing data to determine differentially expressed genes, enriched Gene
+Ontology (GO) terms, and dysregulated pathways in infected cells, which can then 
+be used to identify US Food and Drug Administration (FDA)-approved drugs that
+target human proteins within these pathways. We used this pipeline to perform a
+meta-analysis of RNA-seq data from cells infected with three Betacoronavirus
+species including severe acute respiratory syndrome coronavirus (SARS-CoV; SARS),
+Middle East respiratory syndrome coronavirus (MERS-CoV; MERS), and SARS-CoV-2, as
+well as respiratory syncytial virus and influenza A virus to identify
+therapeutics that could be used to treat COVID-19.  Results: This analysis
+identified twelve existing drugs, most of which already have FDA-approval, that
+are predicted to counter the effects of SARS-CoV-2 infection. These results were 
+cross-referenced with interventional clinical trials and other studies in the
+literature to identify drugs on our list that had previously been identified or
+used as treatments for COIVD-19 including canakinumab, anakinra, tocilizumab,
+sarilumab, and baricitinib. Conclusions: While the results reported here are
+specific to Betacoronaviruses, such as SARS-CoV-2, our bioinformatics pipeline
+can be used to quickly identify candidate therapeutics for future emerging
+infectious diseases.
+
+Copyright: © 2021 Scott TM et al.
+
+DOI: 10.12688/f1000research.52412.2 
+PMCID: PMC8607308
+PMID: 34868553 
+
+Conflict of interest statement: No competing interests were disclosed.
+

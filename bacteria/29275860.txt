@@ -1,0 +1,68 @@
+
+1. Cell. 2018 Jan 25;172(3):549-563.e16. doi: 10.1016/j.cell.2017.11.043. Epub 2017 
+Dec 21.
+
+Antigen Identification for Orphan T Cell Receptors Expressed on
+Tumor-Infiltrating Lymphocytes.
+
+Gee MH(1), Han A(2), Lofgren SM(3), Beausang JF(4), Mendoza JL(5), Birnbaum
+ME(1), Bethune MT(6), Fischer S(5), Yang X(5), Gomez-Eerland R(7), Bingham DB(8),
+Sibener LV(1), Fernandes RA(5), Velasco A(5), Baltimore D(6), Schumacher TN(7),
+Khatri P(3), Quake SR(9), Davis MM(10), Garcia KC(11).
+
+Author information: 
+(1)Program in Immunology, Stanford University School of Medicine, Stanford, CA
+94305, USA; Departments of Molecular and Cellular Physiology and Structural
+Biology, Stanford University School of Medicine, Stanford, CA 94305, USA.
+(2)Institute for Immunity, Transplantation, and Infection, Stanford University
+School of Medicine, Stanford, CA 94305, USA; Department of Microbiology and
+Immunology, Stanford University School of Medicine, Stanford, CA 94305, USA.
+(3)Institute for Immunity, Transplantation, and Infection, Stanford University
+School of Medicine, Stanford, CA 94305, USA; Department of Medicine, Stanford
+University School of Medicine, Stanford, CA 94305, USA.
+(4)Department of Bioengineering, Stanford University School of Medicine,
+Stanford, CA 94305, USA.
+(5)Departments of Molecular and Cellular Physiology and Structural Biology,
+Stanford University School of Medicine, Stanford, CA 94305, USA.
+(6)Division of Biology and Biological Engineering, California Institute of
+Technology, Pasadena, CA 91125, USA.
+(7)Division of Immunology, The Netherlands Cancer Institute, Amsterdam, the
+Netherlands.
+(8)Department of Medicine, Stanford University School of Medicine, Stanford, CA
+94305, USA.
+(9)Department of Bioengineering, Stanford University School of Medicine,
+Stanford, CA 94305, USA; Chan Zuckerberg Biohub, San Francisco, CA 94158, USA.
+(10)Institute for Immunity, Transplantation, and Infection, Stanford University
+School of Medicine, Stanford, CA 94305, USA; Department of Microbiology and
+Immunology, Stanford University School of Medicine, Stanford, CA 94305, USA; The 
+Howard Hughes Medical Institute, Stanford University School of Medicine,
+Stanford, CA 94305, USA.
+(11)Departments of Molecular and Cellular Physiology and Structural Biology,
+Stanford University School of Medicine, Stanford, CA 94305, USA; The Howard
+Hughes Medical Institute, Stanford University School of Medicine, Stanford, CA
+94305, USA. Electronic address: kcgarcia@stanford.edu.
+
+Comment in
+    Sci Immunol. 2018 Feb 2;3(20):.
+
+The immune system can mount T cell responses against tumors; however, the antigen
+specificities of tumor-infiltrating lymphocytes (TILs) are not well understood.
+We used yeast-display libraries of peptide-human leukocyte antigen (pHLA) to
+screen for antigens of "orphan" T cell receptors (TCRs) expressed on TILs from
+human colorectal adenocarcinoma. Four TIL-derived TCRs exhibited strong selection
+for peptides presented in a highly diverse pHLA-A∗02:01 library. Three of the TIL
+TCRs were specific for non-mutated self-antigens, two of which were present in
+separate patient tumors, and shared specificity for a non-mutated self-antigen
+derived from U2AF2. These results show that the exposed recognition surface of
+MHC-bound peptides accessible to the TCR contains sufficient structural
+information to enable the reconstruction of sequences of peptide targets for
+pathogenic TCRs of unknown specificity. This finding underscores the surprising
+specificity of TCRs for their cognate antigens and enables the facile
+indentification of tumor antigens through unbiased screening.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2017.11.043 
+PMCID: PMC5786495
+PMID: 29275860  [Indexed for MEDLINE]
+

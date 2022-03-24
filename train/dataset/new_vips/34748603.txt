@@ -1,0 +1,58 @@
+
+1. PLoS Pathog. 2021 Nov 8;17(11):e1010053. doi: 10.1371/journal.ppat.1010053.
+eCollection 2021 Nov.
+
+Mutation Y453F in the spike protein of SARS-CoV-2 enhances interaction with the
+mink ACE2 receptor for host adaption.
+
+Ren W(1), Lan J(2), Ju X(1), Gong M(1), Long Q(3), Zhu Z(1), Yu Y(1), Wu J(4),
+Zhong J(5), Zhang R(6), Fan S(2), Zhong G(7)(8), Huang A(3), Wang X(2), Ding
+Q(1).
+
+Author information: 
+(1)Center for Infectious Disease Research, School of Medicine, Tsinghua
+University, Beijing, China.
+(2)Beijing Advanced Innovation Center for Structural Biology, School of Life
+Sciences, Tsinghua University, Beijing, China.
+(3)Key Laboratory of Molecular Biology on Infectious Diseases, Ministry of
+Education, Chongqing Medical University, Chongqing, China.
+(4)Key Laboratory of Structural Biology of Zhejiang Province, School of Life
+Sciences, Westlake University, Hangzhou, Zhejiang Province, China.
+(5)Unit of Viral Hepatitis, Institut Pasteur of Shanghai, CAS Key Laboratory of
+Molecular Virology and Immunology, Chinese Academy of Sciences, Shanghai, China.
+(6)Key Laboratory of Medical Molecular Virology (MOE/NHC/CAMS), School of Basic
+Medical Sciences, Shanghai Medical College, Biosafety Level 3 Laboratory, Fudan
+University, Shanghai, China.
+(7)Shenzhen Bay Laboratory, Shenzhen, China.
+(8)School of Chemical Biology and Biotechnology, Peking University Shenzhen
+Graduate School, Shenzhen, China.
+
+COVID-19 patients transmitted SARS-CoV-2 to minks in the Netherlands in April
+2020. Subsequently, the mink-associated virus (miSARS-CoV-2) spilled back over
+into humans. Genetic sequences of the miSARS-CoV-2 identified a new genetic
+variant known as "Cluster 5" that contained mutations in the spike protein.
+However, the functional properties of these "Cluster 5" mutations have not been
+well established. In this study, we found that the Y453F mutation located in the 
+RBD domain of miSARS-CoV-2 is an adaptive mutation that enhances binding to mink 
+ACE2 and other orthologs of Mustela species without compromising, and even
+enhancing, its ability to utilize human ACE2 as a receptor for entry. Structural 
+analysis suggested that despite the similarity in the overall binding mode of
+SARS-CoV-2 RBD to human and mink ACE2, Y34 of mink ACE2 was better suited to
+interact with a Phe rather than a Tyr at position 453 of the viral RBD due to
+less steric clash and tighter hydrophobic-driven interaction. Additionally, the
+Y453F spike exhibited resistance to convalescent serum, posing a risk for vaccine
+development. Thus, our study suggests that since the initial transmission from
+humans, SARS-CoV-2 evolved to adapt to the mink host, leading to widespread
+circulation among minks while still retaining its ability to efficiently utilize 
+human ACE2 for entry, thus allowing for transmission of the miSARS-CoV-2 back
+into humans. These findings underscore the importance of active surveillance of
+SARS-CoV-2 evolution in Mustela species and other susceptible hosts in order to
+prevent future outbreaks.
+
+DOI: 10.1371/journal.ppat.1010053 
+PMCID: PMC8601601
+PMID: 34748603  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

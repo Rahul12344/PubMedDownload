@@ -1,0 +1,59 @@
+
+1. bmc genomics. 2017 dec 1;18(1):927. doi: 10.1186/s12864-017-4311-4.
+
+the insect pathogenic bacterium xenorhabdus innexi attenuated virulence in
+multiple insect model hosts yet encodes potent mosquitocidal toxin.
+
+kim ih(1)(2), aryal sk(3), aghai dt(4), casanova-torres ám(4), hillman k(4),
+kozuch mp(4), mans ej(4)(5), mauer tj(4)(5), ogier jc(6), ensign jc(4),
+gaudriault s(6), goodman wg(1), goodrich-blair h(7)(8), dillman ar(9).
+
+author information: 
+(1)department entomology, university wisconsin-madison, madison, wi, usa.
+(2)present address: laboratory malaria vector research, national institute
+of allergy infectious diseases, rockville, md, usa.
+(3)department nematology, university california, riverside, ca, usa.
+(4)department bacteriology, university wisconsin-madison, madison, wi, usa.
+(5)department microbiology, university tennessee-knoxville, knoxville, tn, 
+usa.
+(6)dgimi, inra, université de montpellier, 34095, montpellier, france.
+(7)department bacteriology, university wisconsin-madison, madison, wi, usa.
+hgblair@utk.edu.
+(8)department microbiology, university tennessee-knoxville, knoxville, tn, 
+usa. hgblair@utk.edu.
+(9)department nematology, university california, riverside, ca, usa.
+adlerd@ucr.edu.
+
+background: xenorhabdus innexi bacterial symbiont steinernema scapterisci
+nematodes, cricket-specialist parasite together nematode and
+bacteria infect kill crickets. curiously, x. innexi expresses potent
+extracellular mosquitocidal toxin activity culture supernatants. sequenced 
+a draft genome x. innexi compared genomes related pathogens
+to elucidate nature specialization.
+results: using green fluorescent protein-expressing x. innexi confirm previous
+reports using culture-dependent techniques x. innexi colonizes nematode 
+host low levels (~3-8 cells per nematode), relative other
+xenorhabdus-steinernema associations. found compared the
+well-characterized entomopathogenic nematode symbiont x. nematophila, x. innexi
+fails suppress insect phenoloxidase immune pathway attenuated for
+virulence reproduction lepidoptera galleria mellonella manduca
+sexta, well dipteran drosophila melanogaster. assess if, compared to
+other xenorhabdus spp., x. innexi reduced capacity synthesize virulence 
+determinants, obtained analyzed draft genome sequence. found no
+evidence several hallmarks xenorhabdus spp. toxicity, including tc mcf
+toxins. similar xenorhabdus genomes, found numerous loci predicted to
+encode non-ribosomal peptide/polyketide synthetases. anti-smash predictions of
+these loci revealed one, related fcl locus encodes fabclavines and
+zmn locus encodes zeamines, likely candidate encode x. innexi
+mosquitocidal toxin biosynthetic machinery, designated xlt. support
+of hypothesis, two mutants insertion xlt biosynthesis
+gene cluster lacked mosquitocidal compound based hplc/ms analysis and
+neither produced toxin levels wild type parent.
+conclusions: x. innexi genome valuable resource identifying loci
+encoding new metabolites interest, also future comparative studies of
+nematode-bacterial symbiosis niche partitioning among bacterial pathogens.
+
+doi: 10.1186/s12864-017-4311-4 
+pmcid: pmc5709968
+pmid: 29191166  [indexed medline]
+

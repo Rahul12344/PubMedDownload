@@ -1,0 +1,48 @@
+
+1. Arch Virol. 2021 Nov 28. doi: 10.1007/s00705-021-05313-6. [Epub ahead of print]
+
+Analysis of the long noncoding RNA profiles of RD and SH-SY5Y cells infected with
+coxsackievirus B5, using RNA sequencing.
+
+Teng P(#)(1), Yang H(#)(2), Li J(1), Yang F(1), Chen W(3).
+
+Author information: 
+(1)Medical School, Kunming University of Science and Technology, No. 727,
+Southern Jingming Road, Chenggong District, Kunming, 650500, Yunnan, People's
+Republic of China.
+(2)College of Agriculture and Life Sciences, Kunming University, Kunming, Yunnan,
+People's Republic of China.
+(3)Medical School, Kunming University of Science and Technology, No. 727,
+Southern Jingming Road, Chenggong District, Kunming, 650500, Yunnan, People's
+Republic of China. 55685836@qq.com.
+(#)Contributed equally
+
+Hand, foot, and mouth disease caused by coxsackievirus B5 (CV-B5) is a
+considerable threat to infant health, especially with regard to neurological
+damage. Long noncoding RNAs (lncRNAs) are known to play pivotal roles in
+virus-host interactions. However, the roles of lncRNAs in CV-B5-host interactions
+have not yet been elucidated. In the current study, we used RNA sequencing to
+determine the expression profiles of lncRNAs in CV-B5-infected human
+rhabdomyosarcoma (RD) and SH-SY5Y cells. Our results showed that, of the
+differentially expressed lncRNAs, 508 were upregulated and 760 were downregulated
+in RD cells. Of these, 46.2% were long noncoding intergenic RNAs (lincRNAs),
+28.6% were antisense lncRNAs, 24.1% were sense overlapping lncRNAs, and 1.0% were
+sense intronic lncRNAs. Moreover, 792 lncRNAs were upregulated and 811 lncRNAs
+were downregulated in SH-SY5Y cells, 48.6% of which were lincRNAs, 34.7% were
+antisense lncRNAs, 16.0% were sense overlapping lncRNAs, and 0.8% were sense
+intronic lncRNAs. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes 
+(KEGG) pathway analysis showed that lncRNAs that were differentially expressed in
+CV-B5-infected RD cells were associated with disease, and those differentially
+expressed in SH-SY5Y cells were involved in signaling pathways. RT-qPCR analysis 
+of seven lncRNAs supported these results. Moreover, our study revealed that
+lncRNA-IL12A inhibits viral replication. We conclude that lncRNAs constitute
+potential novel molecular targets for the prevention and treatment of CV-B5
+infection and also may serve to distinguish neurogenic diseases caused by CV-B5
+infection.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Austria,
+part of Springer Nature.
+
+DOI: 10.1007/s00705-021-05313-6 
+PMID: 34839420 
+

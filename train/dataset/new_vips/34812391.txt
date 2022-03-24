@@ -1,0 +1,44 @@
+
+1. IEEE Access. 2021 Apr 16;9:59597-59611. doi: 10.1109/ACCESS.2021.3073728.
+eCollection 2021.
+
+Deep Learning for SARS COV-2 Genome Sequences.
+
+Whata A(1), Chimedza C(2).
+
+Author information: 
+(1)School of Natural and Applied SciencesSol Plaatje University Kimberley 8301
+South Africa.
+(2)School of Statistics and Actuarial ScienceUniversity of the Witwatersrand
+Johannesburg 2050 South Africa.
+
+The SARS-CoV-2 virus which originated in Wuhan, China has since spread throughout
+the world and is affecting millions of people. When there is a novel virus
+outbreak, it is crucial to quickly determine if the epidemic is a result of the
+novel virus or a well-known virus. We propose a deep learning algorithm that uses
+a convolutional neural network (CNN) as well as a bi-directional long short-term 
+memory (Bi-LSTM) neural network, for the classification of the severe acute
+respiratory syndrome coronavirus 2 (SARS CoV-2) amongst Coronaviruses. Besides,
+we classify whether a genome sequence contains candidate regulatory motifs or
+otherwise. Regulatory motifs bind to transcription factors. Transcription factors
+are responsible for the expression of genes. The experimental results show that
+at peak performance, the proposed convolutional neural network bi-directional
+long short-term memory (CNN-Bi-LSTM) model achieves a classification accuracy of 
+99.95%, area under curve receiver operating characteristic (AUC ROC) of 100.00%, 
+a specificity of 99.97%, the sensitivity of 99.97%, Cohen's Kappa equal to
+0.9978, Mathews Correlation Coefficient (MCC) equal to 0.9978 for the
+classification of SARS CoV-2 amongst Coronaviruses. Also, the CNN-Bi-LSTM
+correctly detects whether a sequence has candidate regulatory motifs or
+binding-sites with a classification accuracy of 99.76%, AUC ROC of 100.00%, a
+specificity of 99.76%, a sensitivity of 99.76%, MCC equal to 0.9980, and Cohen's 
+Kappa of 0.9970 at peak performance. These results are encouraging enough to
+recognise deep learning algorithms as alternative avenues for detecting SARS
+CoV-2 as well as detecting regulatory motifs in the SARS CoV-2 genes.
+
+This work is licensed under a Creative Commons Attribution 4.0 License. For more 
+information, see https://creativecommons.org/licenses/by/4.0/.
+
+DOI: 10.1109/ACCESS.2021.3073728 
+PMCID: PMC8545213
+PMID: 34812391 
+

@@ -1,0 +1,58 @@
+
+1. Cell Death Dis. 2021 Oct 20;12(11):974. doi: 10.1038/s41419-021-04267-6.
+
+Identification of histone methyltransferase NSD2 as an important oncogenic gene
+in colorectal cancer.
+
+Zhao LH(#)(1), Li Q(#)(2), Huang ZJ(#)(3), Sun MX(#)(1), Lu JJ(4), Zhang XH(5),
+Li G(6), Wu F(7).
+
+Author information: 
+(1)Department of Radiation Oncology, The First Affiliated Hospital of Wenzhou
+Medical University, Wenzhou, Zhejiang, China.
+(2)Center of Stomatology, The Second Affiliated Hospital of Soochow University,
+Suzhou, China.
+(3)Department of Surgery, Yancheng First People's Hospital, Yancheng, China.
+(4)Department of Radiotherapy and Oncology, Affiliated Kunshan Hospital of
+Jiangsu University, Kunshan, China. marvel_j@163.com.
+(5)Department of Surgical Oncology, The First Affiliated Hospital of Wenzhou
+Medical University, Wenzhou, Zhejiang, China. zhangxiaohua577@163.com.
+(6)Department of Radiation Oncology, The First Affiliated Hospital of Wenzhou
+Medical University, Wenzhou, Zhejiang, China. ligangwzyd@163.com.
+(7)Department of Gastroenterology, The First Affiliated Hospital of Wenzhou
+Medical University, Wenzhou, China. wufengwyd8@163.com.
+(#)Contributed equally
+
+Colorectal cancer (CRC) is the second common cause of cancer-related human
+mortalities. Dysregulation of histone 3 (H3) methylation could lead to
+transcriptional activation of multiple oncogenes, which is closely associated
+with CRC tumorigenesis and progression. Nuclear receptor-binding SET Domain
+protein 2 (NSD2) is a key histone methyltransferase catalyzing histone H3 lysine 
+36 dimethylation (H3K36me2). Its expression, the potential functions, and
+molecular mechanisms in CRC are studied here. Gene Expression Profiling
+Interactive Analysis (GEPIA) bioinformatics results showed that the NSD2 mRNA
+expression is elevated in both colon cancers and rectal cancers. Furthermore,
+NSD2 mRNA and protein expression levels in local colon cancer tissues are
+significantly higher than those in matched surrounding normal tissues. In primary
+human colon cancer cells and established CRC cell lines, shRNA-induced silencing 
+or CRISPR/Cas9-induced knockout of NSD2 inhibited cell viability, proliferation, 
+cell cycle progression, migration, and invasion. Furthermore, NSD2 shRNA or
+knockout induced mitochondrial depolarization, DNA damage, and apoptosis in the
+primary and established CRC cells. Contrarily, ectopic NSD2 overexpression in
+primary colon cancer cells further enhanced cell proliferation, migration, and
+invasion. H3K36me2, expressions of multiple oncogenes (ADAM9, EGFR, Sox2, Bcl-2, 
+SYK, and MET) and Akt activation were significantly decreased after NSD2
+silencing or knockout in primary colon cancer cells. Their levels were however
+increased after ectopic NSD2 overexpression. A catalytic inactive NSD2 (Y1179A)
+also inhibited H3K36me2, multiple oncogenes expression, and Akt activation, as
+well as cell proliferation and migration in primary colon cancer cells. In vivo, 
+intratumoral injection of adeno-associated virus (AAV)-packed NSD2 shRNA largely 
+inhibited primary colon cancer cell xenograft growth in nude mice. Together, NSD2
+exerted oncogenic functions in CRC and could be a promising therapeutic target.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41419-021-04267-6 
+PMCID: PMC8528846
+PMID: 34671018 
+

@@ -1,0 +1,45 @@
+
+1. G3 (Bethesda). 2017 Aug 7;7(8):2595-2604. doi: 10.1534/g3.117.043828.
+
+Unique Allelic eQTL Clusters in Human MHC Haplotypes.
+
+Lam TH(1), Shen M(1), Tay MZ(2), Ren EC(3)(4).
+
+Author information: 
+(1)Singapore Immunology Network, A*STAR, Singapore 138648.
+(2)Department of Molecular Genetics and Microbiology, Duke University, Durham,
+North Carolina 27710.
+(3)Singapore Immunology Network, A*STAR, Singapore 138648
+ren_ee_chee@immunol.a-star.edu.sg.
+(4)Department of Microbiology and Immunology, Yong Loo Lin School of Medicine,
+National University of Singapore, Singapore 117597.
+
+The control of gene regulation within the major histocompatibility complex (MHC) 
+remains poorly understood, despite several expression quantitative trait loci
+(eQTL) studies revealing an association of MHC gene expression with independent
+tag-single nucleotide polymorphisms (SNPs). MHC haplotype variation may exert a
+greater effect on gene expression phenotype than specific single variants. To
+explore the effect of MHC haplotype sequence diversity on gene expression
+phenotypes across the MHC, we examined the MHC transcriptomic landscape at
+haplotype-specific resolution for three prominent MHC haplotypes (A2-B46-DR9,
+A33-B58-DR3, and A1-B8-DR3) derived from MHC-homozygous B-lymphoblastoid cell
+lines (B-LCLs). We demonstrate that MHC-wide gene expression patterns are
+dictated by underlying haplotypes, and identify 36 differentially expressed
+genes. By mapping these haplotype sequence variations to known eQTL, we provide
+evidence that unique allelic combinations of eQTL, embedded within haplotypes,
+are correlated with the level of expression of 17 genes. Interestingly, the
+influence of haplotype sequence on gene expression is not homogenous across the
+MHC. We show that haplotype sequence polymorphisms within or proximate to HLA-A, 
+HLA-C, C4A, and HLA-DRB regions exert haplotype-specific gene regulatory effects,
+whereas the expression of genes in other parts of the MHC region are not affected
+by the haplotype sequence. Overall, we demonstrate that MHC haplotype sequence
+diversity can impact phenotypic outcome via the alteration of transcriptional
+variability, indicating that a haplotype-based approach is fundamental for the
+assessment of trait associations in the MHC.
+
+Copyright © 2017 Lam et al.
+
+DOI: 10.1534/g3.117.043828 
+PMCID: PMC5555465
+PMID: 28600441  [Indexed for MEDLINE]
+

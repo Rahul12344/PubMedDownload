@@ -1,0 +1,32 @@
+
+1. Viruses. 2021 Nov 15;13(11). pii: 2284. doi: 10.3390/v13112284.
+
+Heterogeneity in the Response of Different Subtypes of Drosophila melanogaster
+Midgut Cells to Viral Infections.
+
+Silva JMF(1)(2), Nagata T(1), Melo FL(1), Elena SF(2)(3).
+
+Author information: 
+(1)Departamento de Biologia Celular, Universidade de Brasília, Brasília
+70910-900, Brazil.
+(2)Instituto de Biología Integrativa de Sistemas (I2SysBio), CSIC-Universitat de 
+València, 46980 Paterna, València, Spain.
+(3)The Santa Fe Institute, Santa Fe, NM 87501, USA.
+
+Single-cell RNA sequencing (scRNA-seq) offers the possibility to monitor both
+host and pathogens transcriptomes at the cellular level. Here, public scRNA-seq
+datasets from Drosophila melanogaster midgut cells were used to compare the
+differences in replication strategy and cellular responses between two fly
+picorna-like viruses, Thika virus (TV) and D. melanogaster Nora virus (DMelNV).
+TV exhibited lower levels of viral RNA accumulation but infected a higher number 
+of cells compared to DMelNV. In both cases, viral RNA accumulation varied
+according to cell subtype. The cellular heat shock response to TV and DMelNV
+infection was cell-subtype- and virus-specific. Disruption of bottleneck genes at
+later stages of infection in the systemic response, as well as of
+translation-related genes in the cellular response to DMelNV in two cell
+subtypes, may affect the virus replication.
+
+DOI: 10.3390/v13112284 
+PMCID: PMC8623525
+PMID: 34835089 
+

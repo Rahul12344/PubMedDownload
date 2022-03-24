@@ -1,0 +1,55 @@
+
+1. Neoplasia. 2020 Oct;22(10):470-483. doi: 10.1016/j.neo.2020.07.006. Epub 2020 Aug
+17.
+
+Real-time sensing of MAPK signaling in medulloblastoma cells reveals cellular
+evasion mechanism counteracting dasatinib blockade of ERK activation during
+invasion.
+
+Schönholzer MT(1), Migliavacca J(1), Alvarez E(1), Santhana Kumar K(1), Neve
+A(1), Gries A(1), Ma M(2), Grotzer MA(3), Baumgartner M(4).
+
+Author information: 
+(1)Pediatric Neuro-Oncology Research Group, University Children's Hospital
+ZÏrich, Children's Research Center, Balgrist Campus, Lengghalde 5, CH-8008
+ZÏrich, Switzerland.
+(2)Quantitative Signaling Group, Department of Fundamental Microbiology,
+University of Lausanne, CH-1015 Lausanne, Switzerland.
+(3)Pediatric Neuro-Oncology Research Group, University Children's Hospital
+ZÏrich, Children's Research Center, Balgrist Campus, Lengghalde 5, CH-8008
+ZÏrich, Switzerland; University Children's Hospital ZÏrich, Steinwiesstrasse 75, 
+CH-8032 ZÏrich, Switzerland.
+(4)Pediatric Neuro-Oncology Research Group, University Children's Hospital
+ZÏrich, Children's Research Center, Balgrist Campus, Lengghalde 5, CH-8008
+ZÏrich, Switzerland. Electronic address: Martin.Baumgartner@kispi.uzh.ch.
+
+Aberrantly activated kinase signaling pathways drive invasion and dissemination
+in medulloblastoma (MB). A majority of tumor-promoting kinase signaling pathways 
+feed into the mitogen-activated protein kinase (MAPK) extracellular regulated
+kinase (ERK1/2) pathway. The activation status of ERK1/2 during invasion of MB
+cells is not known and its implication in invasion control unclear. We
+established a synthetic kinase activation relocation sensor (SKARS) for the MAPK 
+ERK1/2 pathway in MB cells for real-time measuring of drug response. We used 3D
+invasion assays and organotypic cerebellum slice culture to test drug effects in 
+a physiologically relevant tissue environment. We found that hepatocyte growth
+factor (HGF), epidermal growth factor (EGF), or basic fibroblast growth factor
+(bFGF) caused rapid nuclear ERK1/2 activation in MB cells, which persisted for
+several hours. Concomitant treatment with the BCR/ABL kinase inhibitor dasatinib 
+completely repressed nuclear ERK1/2 activity induced by HGF and EGF but not by
+bFGF. Increased nuclear ERK1/2 activity correlated positively with speed of
+invasion. Dasatinib blocked ERK-associated invasion in the majority of cells, but
+we also observed fast-invading cells with low ERK1/2 activity. These ERK1/2-low, 
+fast-moving cells displayed a rounded morphology, while ERK-high fast-moving
+cells displayed a mesenchymal morphology. Dasatinib effectively blocked
+EGF-induced proliferation while it only moderately repressed tissue invasion,
+indicating that a subset of cells may evade invasion repression by dasatinib
+through non-mesenchymal motility. Thus, growth factor-induced nuclear activation 
+of ERK1/2 is associated with mesenchymal motility and proliferation in MB cells
+and can be blocked with the BCR/ABL kinase inhibitor dasatinib.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neo.2020.07.006 
+PMCID: PMC7452206
+PMID: 32818841 
+

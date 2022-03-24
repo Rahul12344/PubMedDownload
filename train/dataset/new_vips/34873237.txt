@@ -1,0 +1,52 @@
+
+1. Sci Rep. 2021 Dec 6;11(1):23424. doi: 10.1038/s41598-021-02832-9.
+
+Molecular determinants of response kinetics of mouse M1
+intrinsically-photosensitive retinal ganglion cells.
+
+Sheng Y(1)(2), Chen L(1)(2)(3), Ren X(1)(4), Jiang Z(1)(5), Yau KW(6).
+
+Author information: 
+(1)Solomon H. Snyder Department of Neuroscience, Johns Hopkins University School 
+of Medicine, 725 North Wolfe St, Baltimore, MD, 21205, USA.
+(2)Graduate Neuroscience Program, Johns Hopkins University School of Medicine,
+Baltimore, MD, 21205, USA.
+(3)Department of Neurobiology, Harvard Medical School, 220 Longwood Ave, Boston, 
+MA, 02115, USA.
+(4)Vedere Bio II, Inc., 700 Main St, Cambridge, MA, 02139, USA.
+(5)Department of Ophthalmology, Baylor College of Medicine, 6565 Fannin St,
+Houston, TX, 77030, USA.
+(6)Solomon H. Snyder Department of Neuroscience, Johns Hopkins University School 
+of Medicine, 725 North Wolfe St, Baltimore, MD, 21205, USA. kwyau@jhmi.edu.
+
+Intrinsically-photosensitive retinal ganglion cells (ipRGCs) are non-rod/non-cone
+retinal photoreceptors expressing the visual pigment, melanopsin, to detect
+ambient irradiance for various non-image-forming visual functions. The
+M1-subtype, amongst the best studied, mediates primarily circadian
+photoentrainment and pupillary light reflex. Their intrinsic light responses are 
+more prolonged than those of rods and cones even at the single-photon level, in
+accordance with the typically slower time course of non-image-forming vision. The
+short (OPN4S) and long (OPN4L) alternatively-spliced forms of melanopsin proteins
+are both present in M1-ipRGCs, but their functional difference is unclear. We
+have examined this point by genetically removing the Opn4 gene (Opn4-/-) in mouse
+and re-expressing either OPN4S or OPN4L singly in Opn4-/- mice by using
+adeno-associated virus, but found no obvious difference in their intrinsic
+dim-flash responses. Previous studies have indicated that two dominant slow steps
+in M1-ipRGC phototransduction dictate these cells' intrinsic dim-flash-response
+kinetics, with time constants (τ1 and τ2) at room temperature of ~ 2 s and
+~ 20 s, respectively. Here we found that melanopsin inactivation by
+phosphorylation or by β-arrestins may not be one of these two steps, because
+their genetic disruptions did not prolong the two time constants or affect the
+response waveform. Disruption of GAP (GTPase-Activating-Protein) activity on the 
+effector enzyme, PLCβ4, in M1-ipRGC phototransduction to slow down G-protein
+deactivation also did not prolong the response decay, but caused its rising phase
+to become slightly sigmoidal by giving rise to a third time constant, τ3, of
+~ 2 s (room temperature). This last observation suggests that GAP-mediated
+G-protein deactivation does partake in the flash-response termination, although
+normally with a time constant too short to be visible in the response waveform.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-02832-9 
+PMID: 34873237 
+

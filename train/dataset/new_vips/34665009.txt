@@ -1,0 +1,76 @@
+
+1. mSystems. 2021 Oct 26;6(5):e0038221. doi: 10.1128/mSystems.00382-21. Epub 2021
+Oct 19.
+
+A Previously Undescribed Highly Prevalent Phage Identified in a Danish Enteric
+Virome Catalog.
+
+Van Espen L(#)(1), Bak EG(#)(2), Beller L(1), Close L(1), Deboutte W(1), Juel
+HB(2), Nielsen T(2), Sinar D(1), De Coninck L(1), Frithioff-Bøjsøe C(2)(3),
+Fonvig CE(2)(3), Jacobsen S(4)(5), Kjærgaard M(4)(5), Thiele M(4)(5), Fullam
+A(6), Kuhn M(6), Holm JC(2)(3)(7), Bork P(6)(8)(9)(10), Krag A(4)(5), Hansen
+T(2), Arumugam M(2), Matthijnssens J(1).
+
+Author information: 
+(1)KU Leuven, Department of Microbiology, Immunology, & Transplantation, Rega
+Institute, Division of Clinical & Epidemiological Virology, Laboratory of Viral
+Metagenomics, Leuven, Belgium.
+(2)The Novo Nordisk Foundation Center for Basic Metabolic Research, Faculty of
+Health and Medical Sciences, University of Copenhagengrid.5254.6, Copenhagen,
+Denmark.
+(3)The Children's Obesity Clinic, accredited European Centre for Obesity
+Management, Department of Paediatrics, Copenhagen University Hospital Holbaek,
+Holbaek, Denmark.
+(4)Department of Gastroenterology and Hepatology, Centre for Liver Research,
+Odense University Hospitalgrid.7143.1, Odense, Denmark.
+(5)Department of Clinical Research, University of Southern Denmark, Odense,
+Denmark.
+(6)Structural and Computational Biology Unit, European Molecular Biology
+Laboratorygrid.4709.a, Heidelberg, Germany.
+(7)Faculty of Health and Medical Sciences, University of Copenhagengrid.5254.6,
+Copenhagen, Denmark.
+(8)Max Delbrück Centre for Molecular Medicine, Berlin, Germany.
+(9)Yonsei Frontier Lab (YFL), Yonsei University, Seoul, South Korea.
+(10)Department of Bioinformatics, Biocenter, University of Würzburg, Würzburg,
+Germany.
+(#)Contributed equally
+
+Gut viruses are important, yet often neglected, players in the complex human gut 
+microbial ecosystem. Recently, the number of human gut virome studies has been
+increasing; however, we are still only scratching the surface of the immense
+viral diversity. In this study, 254 virus-enriched fecal metagenomes from 204
+Danish subjects were used to generate the Danish Enteric Virome Catalog (DEVoC)
+containing 12,986 nonredundant viral scaffolds, of which the majority was
+previously undescribed, encoding 190,029 viral genes. The DEVoC was used to
+compare 91 healthy DEVoC gut viromes from children, adolescents, and adults that 
+were used to create the DEVoC. Gut viromes of healthy Danish subjects were
+dominated by phages. While most phage genomes (PGs) only occurred in a single
+subject, indicating large virome individuality, 39 PGs were present in more than 
+10 healthy subjects. Among these 39 PGs, the prevalences of three PGs were
+associated with age. To further study the prevalence of these 39 prevalent PGs,
+1,880 gut virome data sets of 27 studies from across the world were screened,
+revealing several age-, geography-, and disease-related prevalence patterns. Two 
+PGs also showed a remarkably high prevalence worldwide-a crAss-like phage (20.6% 
+prevalence), belonging to the tentative AlphacrAssvirinae subfamily, and a
+previously undescribed circular temperate phage infecting Bacteroides dorei
+(14.4% prevalence), called LoVEphage because it encodes lots of viral elements.
+Due to the LoVEphage's high prevalence and novelty, public data sets in which the
+LoVEphage was detected were de novo assembled, resulting in an additional 18
+circular LoVEphage-like genomes (67.9 to 72.4 kb). IMPORTANCE Through generation 
+of the DEVoC, we added numerous previously uncharacterized viral genomes and
+genes to the ever-increasing worldwide pool of human gut viromes. The DEVoC, the 
+largest human gut virome catalog generated from consistently processed fecal
+samples, facilitated the analysis of the 91 healthy Danish gut viromes.
+Characterizing the biggest cohort of healthy gut viromes from children,
+adolescents, and adults to date confirmed the previously established high
+interindividual variation in human gut viromes and demonstrated that the effect
+of age on the gut virome composition was limited to the prevalence of specific
+phage (groups). The identification of a previously undescribed prevalent phage
+illustrates the usefulness of developing virome catalogs, and we foresee that the
+DEVoC will benefit future analysis of the roles of gut viruses in human health
+and disease.
+
+DOI: 10.1128/mSystems.00382-21 
+PMCID: PMC8525569
+PMID: 34665009 
+

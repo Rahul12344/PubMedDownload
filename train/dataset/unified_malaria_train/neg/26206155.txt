@@ -1,0 +1,70 @@
+
+1. genome res. 2015 sep;25(9):1347-59. doi: 10.1101/gr.189225.115. epub 2015 jul 23.
+
+identifying genomic changes associated insecticide resistance dengue 
+mosquito aedes aegypti deep targeted sequencing.
+
+faucon f(1), dusfour i(2), gaude t(1), navratil v(3), boyer f(1), chandre f(4),
+sirisopa p(5), thanispong k(6), juntarajumnong w(5), poupardin r(7),
+chareonviriyaphap t(5), girod r(2), corbel v(8), reynaud s(1), david jp(1).
+
+author information: 
+(1)laboratoire d'ecologie alpine (leca), cnrs, umr 5553, 38041 grenoble cedex 9, 
+france; université grenoble-alpes, 38041 grenoble cedex 9, france; environmental 
+and systems biology (beesy), université grenoble-alpes, 38041 grenoble cedex 9,
+france;
+(2)unité d'entomologie médicale, institut pasteur de la guyane, 97306 cayenne
+cedex, france;
+(3)pôle rhône alpes de bioinformatique, université lyon 1, 69100 villeurbanne,
+france;
+(4)institut de recherche pour le développement (ird), maladies infectieuses et
+vecteurs, ecologie, génétique, evolution et contrôle (ird 224-cnrs 5290 um1-um2),
+34394 montpellier cedex 5, france;
+(5)department entomology, faculty agriculture, kasetsart university, lat
+yao chatuchak bangkok 10900, thailand; center advanced studies for
+agriculture food, kasetsart university institute advanced studies,
+kasetsart university, bangkok 10900, thailand (casaf, nru-ku, thailand);
+(6)bureau vector borne diseases, department disease control, ministry of
+public health, mueang, nonthaburi 11000, thailand;
+(7)vector biology group, liverpool school tropical medicine, l35qa liverpool, 
+united kingdom.
+(8)institut de recherche pour le développement (ird), maladies infectieuses et
+vecteurs, ecologie, génétique, evolution et contrôle (ird 224-cnrs 5290 um1-um2),
+34394 montpellier cedex 5, france; department entomology, faculty of
+agriculture, kasetsart university, lat yao chatuchak bangkok 10900, thailand;
+center advanced studies agriculture food, kasetsart university
+institute advanced studies, kasetsart university, bangkok 10900, thailand
+(casaf, nru-ku, thailand);
+
+the capacity mosquitoes resist insecticides threatens control of
+diseases dengue malaria. alternative control tools are
+implemented, characterizing resistance mechanisms crucial managing
+resistance natural populations. insecticide biodegradation detoxification
+enzymes common resistance mechanism; however, genomic changes underlying
+this mechanism rarely identified, precluding individual resistance
+genotyping. particular, role copy number variations (cnvs) and
+polymorphisms detoxification enzymes never investigated the
+genome level, although represent robust markers metabolic resistance.
+in context, combined target enrichment high-throughput sequencing
+for conducting first comprehensive screening gene amplifications and
+polymorphisms associated insecticide resistance mosquitoes. 760
+candidate genes captured deep sequenced several populations the
+dengue mosquito ae. aegypti displaying distinct genetic backgrounds and
+contrasted resistance levels insecticide deltamethrin. cnv analysis
+identified 41 gene amplifications associated resistance, affecting
+cytochrome p450s overtranscribed resistant populations. polymorphism analysis 
+detected 30,000 variants strong selection footprints specific
+genomic regions. combining bayesian allele frequency filtering approaches
+identified 55 nonsynonymous variants strongly associated resistance. both
+cnvs polymorphisms conserved within regions differed across
+continents, confirming genomic changes underlying metabolic resistance to
+insecticides universal. identifying novel dna markers insecticide
+resistance, study opens way tracking metabolic changes
+developed mosquitoes resist insecticides within among populations.
+
+© 2015 faucon et al.; published cold spring harbor laboratory press.
+
+doi: 10.1101/gr.189225.115 
+pmcid: pmc4561493
+pmid: 26206155  [indexed medline]
+

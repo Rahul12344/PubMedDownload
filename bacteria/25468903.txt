@@ -1,0 +1,50 @@
+
+1. J Antimicrob Chemother. 2015 Apr;70(4):1021-5. doi: 10.1093/jac/dku489. Epub 2014
+Dec 2.
+
+A type 2 A/C2 plasmid carrying the aacC4 apramycin resistance gene and the
+erm(42) erythromycin resistance gene recovered from two Salmonella enterica
+serovars.
+
+Harmer CJ(1), Holt KE(2), Hall RM(3).
+
+Author information: 
+(1)School of Molecular Bioscience, The University of Sydney, Sydney, New South
+Wales, Australia christopher.harmer@sydney.edu.au.
+(2)Department of Biochemistry and Molecular Biology and Bio21 Molecular Science
+and Biotechnology Institute, The University of Melbourne, Melbourne, Victoria,
+Australia.
+(3)School of Molecular Bioscience, The University of Sydney, Sydney, New South
+Wales, Australia.
+
+OBJECTIVES: To determine the relationships between RepA/C2 plasmids carrying
+several antibiotic resistance genes found in isolates of Salmonella enterica
+serovars Ohio and Senftenberg from pigs.
+METHODS: Illumina HiSeq was used to sequence seven S. enterica isolates. BLAST
+searches identified relevant A/C2 plasmid contigs and contigs were assembled
+using PCR.
+RESULTS: Two serovar Ohio isolates were ST329 and the five Senftenberg isolates
+were ST210. The A/C2 plasmids recovered from the seven isolates belong to type 2 
+and contain two resistance islands. Their backbones are closely related,
+differing by five or fewer SNPs. The sul2-containing resistance island ARI-B is
+19.9 kb and also contains the kanamycin and neomycin resistance gene aphA1, the
+tetracycline resistance gene tetA(D) and an erythromycin resistance gene,
+erm(42), not previously seen in A/C2 plasmids. A second 30.3 kb resistance
+island, RI-119, is in a unique location in the A/C2 backbone 8.2 kb downstream of
+rhs. RI-119 contained genes conferring resistance to apramycin, netilmicin and
+tobramycin (aacC4), hygromycin (hph), sulphonamides (sul1) and spectinomycin and 
+streptomycin (aadA2). In one of the seven plasmids, this resistance region
+contained two IS26-mediated deletions. A discrete 5.7 kb segment containing the
+aacC4 and hph genes and bounded by IS26 on one side and the inverted repeat of
+Tn5393 on the other was identified.
+CONCLUSIONS: The presence of almost identical A/C2 plasmids in two serovars
+indicates a common origin. Type 2 A/C2 plasmids continue to evolve via addition
+of new resistance regions such as RI-119 and evolution of existing ones.
+
+© The Author 2014. Published by Oxford University Press on behalf of the British 
+Society for Antimicrobial Chemotherapy. All rights reserved. For Permissions,
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/jac/dku489 
+PMID: 25468903  [Indexed for MEDLINE]
+

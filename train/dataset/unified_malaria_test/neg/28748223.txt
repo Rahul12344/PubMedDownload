@@ -1,0 +1,41 @@
+
+1. wellcome open res. 2017 jul 24;2:45. doi: 10.12688/wellcomeopenres.11896.2.
+ecollection 2017.
+
+phenoplasm: database disruption phenotypes malaria parasite genes.
+
+sanderson t(1), rayner jc(1).
+
+author information: 
+(1)malaria programme, wellcome trust sanger institute, wellcome genome campus,
+hinxton, cambridge, uk.
+
+two decades first plasmodium transfection, attempts made to
+disrupt 3,151 genes malaria parasites, across five plasmodium
+species. results rodent malaria transfections curated and
+systematised, empowering large-scale analysis, phenotypic data human malaria
+parasite transfections currently exists individual reports scattered across 
+the literature. facilitate systematic analysis published experimental
+genetic data across plasmodium species, built phenoplasm (
+http://www.phenoplasm.org), database phenotypes generated transfection
+experiments plasmodium parasites. site provides simple interface
+linking citation-backed plasmodium reverse-genetic phenotypes gene ids. the
+database populated phenotypic data 367 p. falciparum genes,
+curated 176 individual publications, well existing data rodent
+plasmodium species rmgmdb plasmogem. first time all
+available data p. falciparum transfection experiments brought
+together single place. data presented using ortholog mapping to
+allow researcher interested gene one species see results across
+other plasmodium species. collaborative nature database enables any
+researcher add new phenotypes discovered. example of
+database utility, use currently available datasets identify rap
+(rna-binding domain abundant apicomplexa)-domain containing proteins as
+crucial parasite survival.
+
+doi: 10.12688/wellcomeopenres.11896.2 
+pmcid: pmc5500895
+pmid: 28748223 
+
+conflict interest statement: competing interests: competing interests 
+disclosed.
+

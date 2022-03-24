@@ -1,0 +1,48 @@
+
+1. J Virol. 2021 Dec 8:JVI0184021. doi: 10.1128/JVI.01840-21. [Epub ahead of print]
+
+The large nonstructural protein (NS1) of the human bocavirus 1 (HBoV1) directly
+interacts with Ku70, which plays an important role in virus replication in human 
+airway epithelia.
+
+Shao L(1), Ning K(2), Wang J(2), Cheng F(2), Wang S(1), Qiu J(2).
+
+Author information: 
+(1)Beijing Institute of Radiation Medicine, Beijing 100850, China.
+(2)Department of Microbiology, Molecular Genetics and Immunology, University of
+Kansas Medical Center, Kansas City, KS 66160, USA.
+
+Human bocavirus 1 (HBoV1), an autonomous human parvovirus, causes acute
+respiratory tract infections in young children. HBoV1 infects well-differentiated
+(polarized) human airway epithelium cultured at an air-liquid interface
+(HAE-ALI). HBoV1 expresses a large nonstructural protein, NS1, that is essential 
+for viral DNA replication. HBoV1 infection of polarized human airway epithelial
+cells induces a DNA damage response (DDR) that is critical to viral DNA
+replication involving DNA repair with error-free Y-family DNA polymerases. HBoV1 
+NS1 or the isoform NS1-70 per se induces a DDR. In this study, using the
+second-generation proximity-dependent biotin identification (BioID2) approach, we
+identified that Ku70 is associated with the NS1-BioID2 pulldown complex through a
+direct interaction with NS1. Bio-layer Interferometry (BLI) assay determined a
+high binding affinity of the NS1 with Ku70, which has an equilibrium dissociation
+constant (KD) value of 0.16 μM and processes the strongest interaction at the
+C-terminal domain. The association of Ku70 with NS1 was also revealed during
+HBoV1 infection of HAE-ALI. Knockdown of Ku70 and overexpression of the
+C-terminal domain of Ku70 significantly decreased HBoV1 replication in HAE-ALI.
+Thus, our study provides for the first time a direct interaction of a parvovirus 
+large nonstructural protein NS1 with Ku70. IMPORTANCE Parvovirus infection
+induces a DNA damage response (DDR) that plays a pivotal role in viral DNA
+replication. The DDR includes activation of ATM (Ataxia telangiectasia mutated), 
+ATR (ATM- and RAD3-related), and DNA-PKcs (DNA-dependent protein kinase catalytic
+subunit). The large nonstructural protein (NS1) often plays a role in the
+induction of DDR; however, how the DDR is induced during parvovirus infection or 
+simply by the NS1 is not well studied. Activation of DNA-PKcs has been shown as
+one of the key DDR pathways in DNA replication of HBoV1. We identified that HBoV1
+NS1 directly interacts with Ku70, but not Ku80, of the Ku70/Ku80 heterodimer at a
+high affinity. This interaction is also important for HBoV1 replication in
+HAE-ALI. We propose that the interaction of the NS1 with Ku70 recruits the
+Ku70/Ku80 complex to the viral DNA replication center, which activates DNA-PKcs
+and facilitates viral DNA replication.
+
+DOI: 10.1128/JVI.01840-21 
+PMID: 34878919 
+

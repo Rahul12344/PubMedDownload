@@ -1,0 +1,66 @@
+
+1. Eur J Med Res. 2021 Oct 30;26(1):128. doi: 10.1186/s40001-021-00596-6.
+
+Successive waves of COVID 19: confinement effects on virus-prevalence with a
+mathematical model.
+
+Abdalla S(1), Bakhshwin D(2), Shirbeeny W(3), Bakhshwin A(4), Bahabri F(3)(5),
+Bakhshwin A(6), Alsaggaf SM(7).
+
+Author information: 
+(1)Department of Physics, Faculty of Science, King Abdulaziz University Jeddah,
+P.O. Box 80203, Jeddah, 21589, Saudi Arabia. soulimanabd@hotmail.com.
+(2)Department of Pharmacology, Faculty of Medicine, King Abdulaziz University,
+Jeddah, Kingdom of Saudi Arabia.
+(3)Department of Physics, Faculty of Science, King Abdulaziz University Jeddah,
+P.O. Box 80203, Jeddah, 21589, Saudi Arabia.
+(4)Department of Pathology, Faculty of Medicine, King Abdulaziz University,
+Jeddah, Saudi Arabia.
+(5)Department of Physics, Faculty of Science, Jeddah University, Jeddah, Saudi
+Arabia.
+(6)Faculty of Medicine, Alfaisal University, Riyadh, Saudi Arabia.
+(7)Department of Anatomy, Faculty of Medicine, King Abdulaziz University, Jeddah,
+Saudi Arabia.
+
+BACKGROUND: A pandemic outbreak of severe acute respiratory syndrome coronavirus 
+2 (COVID 19) incidence data are largely available online. Until August 17, COVID 
+19 has hit more than 22 million individuals all over the globe. So, it is urged
+to get clear information about the prevalence of the virus. Therefore, one can
+manipulate easily a suitable mathematical model to fit these published data.
+METHODS: We propose a mathematical model that considers the total population, in 
+25 countries, either infected by COVID 19 or confined (safe) during the period
+from November 17, 2019, to August 17, 2020. The model considers the total
+population as a complex number; the imaginary part is the number of infected
+individuals and the real part is the number of confined individuals. This
+classification combined with mathematical treatments leads to a transmission
+dynamics of the virus to be as wave-like motion. The virus can hit any country
+either by one wave or by successive waves (up to 11 waves).
+FINDINGS: We find net discrimination between the 25 countries investigated in
+this report. The immediate response to the first attack is a substantial
+parameter to determine whether the epidemic attack will be in one wave or it can 
+be in successive waves. For example, the best case was such as individuals in
+China hit by one wave while the individuals in the USA were attacked by nine
+waves; it is the worst case all over the globe. In addition, the model
+differentiates between the daily reproduction numbers (Rd0) and the median
+reproduction number (R0). We have found that Rd0 decreases exponentially with
+time from high values down to zero at the wave maximum point; and R0 varies from 
+a country to another. For example, the virus hit individuals in Germany in
+R0 = 1.39 (96% CI 1.01-3.87) and in the USA R0 = 3.81 (91% CI 1.71-5.15). We have
+found that twice the virus has hit both the USA and Iran. The great protestation 
+of black matter lives in the USA and the great assemblage of the new Iranian
+year, on March 21, 2020, have been the cause of the second epidemic attack in
+both countries.
+INTERPRETATION: Our results show that COVID 19 transmission depends on the prompt
+reaction against the first viral-wave. The reaction depends on both the social
+behaviour of individuals and on the swift system-decision by the governmental
+decision-maker(s). The Chinese strictly follow the decision-maker and therefore
+the virus hit by only one wave; while in the USA, the system-decision was
+different and the American-responses were different, therefore ten waves followed
+the first wave.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s40001-021-00596-6 
+PMCID: PMC8556837
+PMID: 34717766  [Indexed for MEDLINE]
+

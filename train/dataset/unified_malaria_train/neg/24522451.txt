@@ -1,0 +1,40 @@
+
+1. parasitol res. 2014 apr;113(4):1269-81. doi: 10.1007/s00436-014-3765-4. epub 2014
+feb 13.
+
+genome-wide identification functional annotation plasmodium falciparum
+long noncoding rnas rna-seq data.
+
+liao q(1), shen j, liu j, sun x, zhao g, chang y, xu l, li x, zhao y, zheng h,
+zhao y, wu z.
+
+author information: 
+(1)department preventive medicine, school medicine, ningbo university,
+ningbo, people's republic china.
+
+the life cycle plasmodium falciparum complex, erythrocytic
+stage involves invasion red blood cells survival growth
+of parasite within host. past several decades, numbers of
+studies shown proteins exported p. falciparum surface of
+infected red blood cells play critical role recognition interaction with
+host receptors thus essential completion life cycle p. 
+falciparum. however, little known long noncoding rnas (lncrnas). this
+study, designed computational pipeline identify new lncrnas p.
+falciparum published rna-seq data analyzed sequences and
+expression features. result, 164 novel lncrnas found. sequences and
+expression features p. falciparum lncrnas similar humans 
+mice: lack sequence conservation, low expression levels, high 
+expression coefficient variance co-expression nearby coding sequences
+in genome. next, coding/noncoding gene co-expression network p.
+falciparum constructed annotate functions novel known
+lncrnas. total, functions 69 lncrnas, including 44 novel lncrnas, 
+annotated. main functions lncrnas included metabolic processes,
+biosynthetic processes, regulation biological processes, establishment of
+localization, catabolic processes, cellular component organization, and
+interspecies interactions organisms. results provide clues to
+further investigation interactions human hosts parasites and
+the mechanisms p. falciparum infection.
+
+doi: 10.1007/s00436-014-3765-4 
+pmid: 24522451  [indexed medline]
+

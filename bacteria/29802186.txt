@@ -1,0 +1,50 @@
+
+1. Appl Environ Microbiol. 2018 Jul 17;84(15). pii: e00397-18. doi:
+10.1128/AEM.00397-18. Print 2018 Aug 1.
+
+Heterologous Expression of Mycobacterium Alkene Monooxygenases in Gram-Positive
+and Gram-Negative Bacterial Hosts.
+
+McCarl V(1), Somerville MV(1), Ly MA(1), Henry R(1), Liew EF(1), Wilson NL(1),
+Holmes AJ(1), Coleman NV(2).
+
+Author information: 
+(1)School of Life and Environmental Sciences, University of Sydney, NSW,
+Australia.
+(2)School of Life and Environmental Sciences, University of Sydney, NSW,
+Australia nicholas.coleman@sydney.edu.au.
+
+Alkene monooxygenases (MOs) are soluble di-iron-containing enzymes found in
+bacteria that grow on alkenes. Here, we report improved heterologous expression
+systems for the propene MO (PmoABCD) and ethene MO (EtnABCD) from Mycobacterium
+chubuense strain NBB4. Strong functional expression of PmoABCD and EtnABCD was
+achieved in Mycobacterium smegmatis mc2155, yielding epoxidation activities (62
+and 27 nmol/min/mg protein, respectively) higher than any reported to date for
+heterologous expression of a di-iron MO system. Both PmoABCD and EtnABCD were
+specialized for the oxidation of gaseous alkenes (C2 to C4), and their activity
+was much lower on liquid alkenes (C5 to C8). Despite intensive efforts to express
+the complete EtnABCD enzyme in Escherichia coli, this was not achieved, although 
+recombinant EtnB and EtnD proteins could be purified individually in soluble
+form. The biochemical function of EtnD as an oxidoreductase was confirmed (1.36
+μmol cytochrome c reduced/min/mg protein). Cloning the EtnABCD gene cluster into 
+Pseudomonas putida KT2440 yielded detectable epoxidation of ethene (0.5
+nmol/min/mg protein), and this could be stimulated (up to 1.1 nmol/min/mg
+protein) by the coexpression of cpn60 chaperonins from either Mycobacterium spp. 
+or E. coli Successful expression of the ethene MO in a Gram-negative host was
+validated by both whole-cell activity assays and peptide mass spectrometry of
+induced proteins seen on SDS-PAGE gels.IMPORTANCE Alkene MOs are of interest for 
+their potential roles in industrial biocatalysis, most notably for the
+stereoselective synthesis of epoxides. Wild-type bacteria that grow on alkenes
+have high activities for alkene oxidation but are problematic for biocatalysis,
+since they tend to consume the epoxide products. Using recombinant biocatalysts
+is the obvious alternative, but a major bottleneck is the low activities of
+recombinant alkene MOs. Here, we provide new high-activity recombinant
+biocatalysts for alkene oxidation, and we provide insights into how to further
+improve these systems.
+
+Copyright © 2018 American Society for Microbiology.
+
+DOI: 10.1128/AEM.00397-18 
+PMCID: PMC6052275
+PMID: 29802186  [Indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+1. Proc Natl Acad Sci U S A. 2007 Feb 27;104(9):3514-9. Epub 2007 Feb 20.
+
+Point mutations in TOR confer Rheb-independent growth in fission yeast and
+nutrient-independent mammalian TOR signaling in mammalian cells.
+
+Urano J(1), Sato T, Matsuo T, Otsubo Y, Yamamoto M, Tamanoi F.
+
+Author information: 
+(1)Department of Microbiology, Immunology, and Molecular Genetics, Jonsson
+Comprehensive Cancer Center, Molecular Biology Institute, University of
+California, Los Angeles, CA 90095, USA.
+
+Rheb is a unique member of the Ras superfamily GTP-binding proteins. We as well
+as others previously have shown that Rheb is a critical component of the TSC/TOR 
+signaling pathway. In fission yeast, Rheb is encoded by the rhb1 gene. Rhb1p is
+essential for growth and directly interacts with Tor2p. In this article, we
+report identification of 22 single amino acid changes in the Tor2 protein that
+enable growth in the absence of Rhb1p. These mutants also exhibit decreased
+mating efficiency. Interestingly, the mutations are located in the C-terminal
+half of the Tor2 protein, clustering mainly within the FAT and kinase domains. We
+noted some differences in the effect of a mutation in the FAT domain (L1310P) and
+in the kinase domain (E2221K) on growth and mating. Although the Tor2p mutations 
+bypass Rhb1p's requirement for growth, they are incapable of suppressing Rhb1p's 
+requirement for resistance to stress and toxic amino acids, pointing to multiple 
+functions of Rhb1p. In mammalian systems, we find that mammalian target of
+rapamycin (mTOR) carrying analogous mutations (L1460P or E2419K), although
+sensitive to rapamycin, exhibits constitutive activation even when the cells are 
+starved for nutrients. These mutations do not show significant difference in
+their ability to form complexes with Raptor, Rictor, or mLST8. Furthermore, we
+present evidence that mutant mTOR can complex with wild-type mTOR and that this
+heterodimer is active in nutrient-starved cells.
+
+DOI: 10.1073/pnas.0608510104 
+PMCID: PMC1805553
+PMID: 17360675  [Indexed for MEDLINE]
+

@@ -1,0 +1,62 @@
+
+1. PLoS Pathog. 2020 Jun 23;16(6):e1008567. doi: 10.1371/journal.ppat.1008567.
+eCollection 2020 Jun.
+
+Potentiation of rifampin activity in a mouse model of tuberculosis by activation 
+of host transcription factor EB.
+
+Bryk R(1), Mundhra S(1)(2), Jiang X(1), Wood M(1), Pfau D(1), Weber E(1), Park
+S(1), Zhang L(1), Wilson C(3), Van der Westhuyzen R(3), Street L(3), Chibale
+K(3)(4), Zimmerman M(5), Dartois V(5), Pastore N(6)(7), Ballabio A(6)(7)(8)(9),
+Hawryluk N(10), Canan S(10), Khetani V(11), Camardo J(11), Nathan C(1)(2).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Weill Cornell Medicine, New York,
+New York, United States of America.
+(2)Immunology and Microbial Pathogenesis Program, Weill Cornell Graduate School
+of Medical Sciences, New York, New York, United States of America.
+(3)Drug Discovery and Development Centre, H3D, University of Cape Town,
+Rondebosch, South Africa.
+(4)South African Medical Research Council Drug Discovery and Development Research
+Unit, Department of Chemistry and Institute of Infectious Disease and Molecular
+Medicine, University of Cape Town, Rondebosch, South Africa.
+(5)Center for Discovery and Innovation, Hackensack Meridian Health, Nutley, New
+Jersey, United States of America.
+(6)Department of Molecular and Human Genetics, Baylor College of Medicine,
+Houston, Texas, United States of America.
+(7)Telethon Institute of Genetics and Medicine (TIGEM), Naples, Italy.
+(8)Medical Genetics, Department of Medical and Translational Sciences, Federico
+II University, Naples, Italy.
+(9)Ian and Dan Duncan Neurological Research Institute, Texas Children Hospital,
+Houston, Texas, United States of America.
+(10)Celgene Global Health, San Diego, California, United States of America.
+(11)Celgene Global Health, Summit, New Jersey, United States of America.
+
+Efforts at host-directed therapy of tuberculosis have produced little control of 
+the disease in experimental animals to date. This is not surprising, given that
+few specific host targets have been validated, and reciprocally, many of the
+compounds tested potentially impact multiple targets with both beneficial and
+detrimental consequences. This puts a premium on identifying appropriate
+molecular targets and subjecting them to more selective modulation. We discovered
+an aminopyrimidine small molecule, 2062, that had no direct antimycobacterial
+activity, but synergized with rifampin to reduce bacterial burden in Mtb infected
+macrophages and mice and also dampened lung immunopathology. We used 2062 and its
+inactive congeners as tool compounds to identify host targets. By biochemical,
+pharmacologic, transcriptomic and genetic approaches, we found that 2062's
+beneficial effects on Mtb control and clearance in macrophages and in mice are
+associated with activation of transcription factor EB via an organellar stress
+response. 2062-dependent TFEB activation led to improved autophagy, lysosomal
+acidification and lysosomal degradation, promoting bacterial clearance in
+macrophages. Deletion of TFEB resulted in the loss of IFNγ-dependent control of
+Mtb replication in macrophages. 2062 also targeted multiple kinases, such as
+PIKfyve, VPS34, JAKs and Tyk2, whose inhibition likely limited 2062's efficacy in
+vivo. These findings support a search for selective activators of TFEB for HDT of
+TB.
+
+DOI: 10.1371/journal.ppat.1008567 
+PMCID: PMC7337396
+PMID: 32574211  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+

@@ -1,0 +1,37 @@
+
+1. Viruses. 2021 Oct 20;13(11). pii: 2114. doi: 10.3390/v13112114.
+
+Mutational Hotspot in the SARS-CoV-2 Spike Protein N-Terminal Domain Conferring
+Immune Escape Potential.
+
+Kubik S(1), Arrigo N(2), Bonet J(2), Xu Z(2).
+
+Author information: 
+(1)Data Science Department, SOPHiA GENETICS, La Pièce 12, 1180 Rolle,
+Switzerland.
+(2)Data Science Department, SOPHiA GENETICS, Rue du Centre 172, 1025
+Saint-Sulpice, Switzerland.
+
+Global efforts are being made to monitor the evolution of SARS-CoV-2, aiming for 
+early identification of genotypes providing increased infectivity or virulence.
+However, viral lineage-focused tracking might fail in early detection of
+advantageous mutations emerging independently across phylogenies. Here, the
+emergence patterns of Spike mutations were investigated in sequences deposited in
+local and global databases to identify mutational hotspots across phylogenies and
+we evaluated their impact on SARS-CoV-2 evolution. We found a striking increase
+in the frequency of recruitment of diverse substitutions at a critical residue
+(W152), positioned in the N-terminal domain (NTD) of the Spike protein, observed 
+repeatedly across independent phylogenetic and geographical contexts. These
+mutations might have an impact on the evasion of neutralizing antibodies.
+Finally, we found that NTD is a region exhibiting particularly high frequency of 
+mutation recruitments, suggesting an evolutionary path in which the virus
+maintains optimal efficiency of ACE2 binding combined with the flexibility
+facilitating the immune escape. We conclude that adaptive mutations, frequently
+present outside of the receptor-binding domain, can emerge in virtually any
+SARS-CoV-2 lineage and at any geographical location. Therefore, surveillance
+should not be restricted to monitoring defined lineages alone.
+
+DOI: 10.3390/v13112114 
+PMCID: PMC8618472
+PMID: 34834921 
+

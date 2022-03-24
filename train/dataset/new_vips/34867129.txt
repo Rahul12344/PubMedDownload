@@ -1,0 +1,53 @@
+
+1. Int J Pept Res Ther. 2022;28(1):5. doi: 10.1007/s10989-021-10322-9. Epub 2021 Nov
+29.
+
+Evaluation and Designing of Epitopic-Peptide Vaccine Against Bunyamwera
+orthobunyavirus Using M-Polyprotein Target Sequences.
+
+Ghosh P(#)(1), Bhattacharya M(#)(2), Patra P(1), Sharma G(3), Patra BC(1), Lee
+SS(4), Sharma AR(4), Chakraborty C(5).
+
+Author information: 
+(1)Department of Zoology, Vidyasagar University, Midnapore, West Bengal 721102
+India.
+(2)Department of Zoology, Fakir Mohan University, Vyasa Vihar, Balasore, Odisha
+756020 India.
+(3)Neuropsychopharmacology and Toxicology Program, College of Pharmacy, Kangwon
+National University, Chuncheon-si, Republic of Korea.
+(4)Institute for Skeletal Aging & Orthopedic Surgery, Hallym University-Chuncheon
+Sacred Heart Hospital, Chuncheon-si, 24252 Gangwon-do Republic of Korea.
+(5)Department of Biotechnology, School of Life Science and Biotechnology, Adamas 
+University, Barasat-Barrackpore Rd, Kolkata, West Bengal 700126 India.
+(#)Contributed equally
+
+Bunyamwera orthobunyavirus and its serogroup can cause several diseases in
+humans, cattle, ruminants, and birds. The viral M-polyprotein helps the virus to 
+enter the host body. Therefore, this protein might serve as a potential vaccine
+target against Bunyamwera orthobunyavirus. The present study applied the
+immunoinformatics technique to design an epitopic vaccine component that could
+protect against Bunyamwera infection. Phylogenetic analysis revealed the presence
+of conserved patterns of M-polyprotein within the viral serogroup. Three epitopes
+common for both B-cell and T-cell were identified, i.e., YQPTELTRS, YKAHDKEET,
+and ILGTGTPKF merged with a specific linker peptide to construct an active
+vaccine component. The low atomic contact energy value of docking complex between
+human TLR4 (TLR4/MD2 complex) and vaccine construct confirms the elevated
+protein-protein binding interaction. Molecular dynamic simulation and normal mode
+analysis illustrate the docking complex's stability, especially by the higher
+Eigenvalue. In silico cloning of the vaccine construct was applied to amplify the
+desired vaccine component. Structural allocation of both the vaccine and epitopes
+also show the efficacy of the developed vaccine. Hence, the computational
+research design outcomes support that the peptide-based vaccine construction is a
+crucial drive target to limit the infection of Bunyamwera orthobunyavirus to an
+extent.Supplementary Information: The online version contains supplementary
+material available at 10.1007/s10989-021-10322-9.
+
+© The Author(s), under exclusive licence to Springer Nature B.V. 2021.
+
+DOI: 10.1007/s10989-021-10322-9 
+PMCID: PMC8634745
+PMID: 34867129 
+
+Conflict of interest statement: Conflict of interestThe authors declare no
+competing interests.
+

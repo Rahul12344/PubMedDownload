@@ -1,0 +1,44 @@
+
+1. J Mol Struct. 2021 Nov 28:132010. doi: 10.1016/j.molstruc.2021.132010. [Epub
+ahead of print]
+
+Synthesis, spectroscopic, and computational studies on molecular charge-transfer 
+complex of 2-((2-hydroxybenzylidene) amino)-2-(hydroxymethyl) propane-1, 3-diol
+with chloranilic acid: Potential antiviral activity simulation of CT-complex
+against SARS-CoV-2.
+
+Khalil TE(1), Elbadawy HA(1), Attia AA(1), El-Sayed DS(1).
+
+Author information: 
+(1)Chemistry Department, Faculty of Science, Alexandria University, 2 Bagdad
+Street, P.O. Box 2-Moharrem Beck, 21321-Alexandria, Egypt.
+
+An innovative charge-transfer complex between the Schiff base
+2-((2-hydroxybenzylidene) amino)-2-(hydroxymethyl) propane-1,3-diol [SAL-THAM]
+and the π-acceptor, chloranilic acid (CLA) within the mole ratio (1:1) was
+synthesized and characterized aiming to investigate its electronic transition
+spectra in acetonitrile (ACN), methanol (MeOH) and ethanol (EtOH) solutions.
+Applying Job`s method in the three solvents supported the 1:1 (CLA: SAL-THAM)
+mole ratio complex formation. The formation of stable CT- complex was shown by
+the highest values of charge-transfer complex formation constants, KCT,
+calculated using minimum-maximum absorbance method, with the sequence,
+acetonitrile > ethanol > methanol DFT study on the synthesized CT complex was
+applied based on the B3LYP method to evaluate the optimized structure and extract
+geometrical and reactivity parameters. Based on TD-DFT theory, the electronic
+properties, 1H and 13C NMR, IR, and UV-Vis spectra of the studied system in
+different solvents showing good agreement with the experimental studies. MEP map 
+described the possibility of hydrogen bonding and charge transfer in the studied 
+system. Finally, a computational approach for screening the antiviral activity of
+CT - complex towards SARS-CoV-2 coronavirus protease via molecular docking
+simulation was conducted and confirmed with molecular dynamic (MD) simulation.
+
+© 2021 Published by Elsevier B.V.
+
+DOI: 10.1016/j.molstruc.2021.132010 
+PMCID: PMC8627645
+PMID: 34866653 
+
+Conflict of interest statement: The authors declare that they have no known
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+

@@ -1,0 +1,48 @@
+
+1. j biomol struct dyn. 2015;33(4):749-69. doi: 10.1080/07391102.2014.909744. epub
+2014 apr 22.
+
+how good ensembles improving qsar models? case ecoria.
+
+khedkar vm(1), joseph j, pissurlenkar r, saran a, coutinho ec.
+
+author information: 
+(1)a department pharmaceutical chemistry , bombay college pharmacy ,
+kalina, santacruz (e), mumbai 400098 , india.
+
+a conceptually new idea quantitative structure-activity relationships (qsar)
+which makes use ensembles molecular dynamics (md) trajectories and
+information retrieved enzyme-inhibitor binding thermodynamics presented
+in study. new methodology, termed ensemble comparative residue
+interaction analysis (ecoria), attempts overcome current one chemical-one 
+structure-one parameter value dogma computational chemistry modeling the
+biological activity function molecular descriptors derived an
+ensemble conformers enzyme-inhibitor complexes. approach distinctly 
+different standard qsar methodology uses single low-energy
+conformation properties averaged set conformers correlate
+with activity. conformational ensemble derived md simulations is
+analyzed distribution non-bonded interaction energies (steric,
+electrostatic, hydrophobic) along solvation, strain, entropic energy
+of inhibitors individual amino acid residues receptor and
+these correlated activity qsar model. scope new
+method demonstrated three diverse enzyme-inhibitor data-sets - glycogen
+phosphorylase b, human immunodeficiency virus-1 protease cyclin-dependent
+kinase 2. qsar equations derived methodology revealed the
+structure activity relationships previously reported classes of
+molecules well uncovered features hitherto unknown may
+have hidden role driving ligand-receptor-binding process. impressive
+improvements predictions affinity achieved compared 
+qsar formalisms namely comfa, comsia (receptor-independent qsar techniques), 
+coria (a receptor-dependent qsar technique). ecoria could provide an
+understanding thermodynamic properties influencing ligand-receptor
+binding time scale sampled md simulation. advantage of
+analyzing enzyme-inhibitor interaction energies statistical domain that
+the noise due inaccuracies potential energy functions reduced
+and mechanistically important interaction terms related protein-ligand binding
+specificity identified assist medicinal chemists in
+designing new molecules biologists studying influence of
+position-specific mutations receptor ligand binding.
+
+doi: 10.1080/07391102.2014.909744 
+pmid: 24754910  [indexed medline]
+

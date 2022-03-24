@@ -1,0 +1,45 @@
+
+1. j vis exp. 2017 may 28;(123). doi: 10.3791/55919.
+
+retroviral scanning: mapping mlv integration sites define cell-specific
+regulatory regions.
+
+romano o(1), cifola i(2), poletti v(3), severgnini m(2), peano c(2), de bellis
+g(2), mavilio f(4), miccio a(5).
+
+author information: 
+(1)center genome research, department life sciences, university modena 
+and reggio emilia; laboratory chromatin gene regulation during
+development, imagine institute.
+(2)institute biomedical technologies, cnr.
+(3)généthon.
+(4)center genome research, department life sciences, university modena 
+and reggio emilia; généthon.
+(5)center genome research, department life sciences, university modena 
+and reggio emilia; laboratory chromatin gene regulation during
+development, imagine institute; généthon; sorbonne paris cité - université paris 
+descartes; annarita.miccio@institutimagine.org.
+
+moloney murine leukemia (mlv) virus-based retroviral vectors integrate
+predominantly acetylated enhancers promoters. reason, mlv
+integration sites used functional markers active regulatory
+elements. here, present retroviral scanning tool, allows the
+genome-wide identification cell-specific enhancers promoters. briefly, the
+target cell population transduced mlv-derived vector genomic dna
+is digested frequently cutting restriction enzyme. ligation of
+genomic fragments compatible dna linker, linker-mediated polymerase chain 
+reaction (lm-pcr) allows amplification virus-host genome junctions.
+massive sequencing amplicons used define mlv integration profile
+genome-wide. finally, clusters recurrent integrations defined identify 
+cell-specific regulatory regions, responsible activation cell-type
+specific transcriptional programs. retroviral scanning tool allows the
+genome-wide identification cell-specific promoters enhancers in
+prospectively isolated target cell populations. notably, retroviral scanning
+represents instrumental technique retrospective identification rare
+populations (e.g. somatic stem cells) lack robust markers prospective
+isolation.
+
+doi: 10.3791/55919 
+pmcid: pmc5608156
+pmid: 28605390  [indexed medline]
+

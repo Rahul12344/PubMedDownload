@@ -1,0 +1,40 @@
+
+1. Sensors (Basel). 2021 Oct 22;21(21). pii: 7015. doi: 10.3390/s21217015.
+
+Molecular Beacon Assay Development for Severe Acute Respiratory Syndrome
+Coronavirus 2 Detection.
+
+Carvalho J(1), Lopes-Nunes J(1), Figueiredo J(1), Santos T(1), Miranda A(1),
+Riscado M(1), Sousa F(1)(2), Duarte AP(1)(2), Socorro S(1), Tomaz CT(1)(2),
+Felgueiras M(3), Teixeira R(3), Faria C(3), Cruz C(1).
+
+Author information: 
+(1)CICS-UBI-Centro de Investigação em Ciências da Saúde, Universidade da Beira
+Interior, Av. Infante D. Henrique, 6200-506 Covilhã, Portugal.
+(2)C4-Cloud Computing Competence Centre, UBIMedical, Universidade da Beira
+Interior, Estrada Municipal 506, 6200-284 Covilhã, Portugal.
+(3)Serviço de Patologia Clínica do Centro Hospitalar Universitário Cova da Beira 
+(CHUCB), 6200-251 Covilhã, Portugal.
+
+The fast spread of SARS-CoV-2 has led to a global pandemic, calling for fast and 
+accurate assays to allow infection diagnosis and prevention of transmission. We
+aimed to develop a molecular beacon (MB)-based detection assay for SARS-CoV-2,
+designed to detect the ORF1ab and S genes, proposing a two-stage COVID-19 testing
+strategy. The novelty of this work lies in the design and optimization of two MBs
+for detection of SARS-CoV-2, namely, concentration, fluorescence plateaus of
+hybridization, reaction temperature and real-time results. We also identify
+putative G-quadruplex (G4) regions in the genome of SARS-CoV-2. A total of 458
+nasopharyngeal and throat swab samples (426 positive and 32 negative) were tested
+with the MB assay and the fluorescence levels compared with the cycle threshold
+(Ct) values obtained from a commercial RT-PCR test in terms of test duration,
+sensitivity, and specificity. Our results show that the samples with higher
+fluorescence levels correspond to those with low Ct values, suggesting a
+correlation between viral load and increased MB fluorescence. The proposed assay 
+represents a fast (total duration of 2 h 20 min including amplification and
+fluorescence reading stages) and simple way of detecting SARS-CoV-2 in clinical
+samples from the upper respiratory tract.
+
+DOI: 10.3390/s21217015 
+PMCID: PMC8587319
+PMID: 34770321  [Indexed for MEDLINE]
+

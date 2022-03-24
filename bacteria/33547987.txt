@@ -1,0 +1,48 @@
+
+1. Funct Integr Genomics. 2021 Mar;21(2):171-193. doi: 10.1007/s10142-021-00768-x.
+Epub 2021 Feb 6.
+
+Whole-genome sequencing, genome mining, metabolic reconstruction and evolution of
+pentachlorophenol and other xenobiotic degradation pathways in Bacillus tropicus 
+strain AOA-CPS1.
+
+Aregbesola OA(1), Kumar A(1), Mokoena MP(1), Olaniran AO(2).
+
+Author information: 
+(1)Discipline of Microbiology, School of Life Sciences, College of Agriculture,
+Engineering and Science, University of KwaZulu-Natal (Westville Campus), Private 
+Bag X54001, Durban, 4000, Republic of South Africa.
+(2)Discipline of Microbiology, School of Life Sciences, College of Agriculture,
+Engineering and Science, University of KwaZulu-Natal (Westville Campus), Private 
+Bag X54001, Durban, 4000, Republic of South Africa. olanirana@ukzn.ac.za.
+
+A pentachlorophenol degrading bacterium was isolated from effluent of a
+wastewater treatment plant in Durban, South Africa, and identified as Bacillus
+tropicus strain AOA-CPS1 (BtAOA). The isolate degraded 29% of pentachlorophenol
+(PCP) within 9 days at an initial PCP concentration of 100 mg L-1 and 62% of PCP 
+when the initial concentration was set at 350 mg L-1. The whole-genome of BtAOA
+was sequenced using Pacific Biosciences RS II sequencer with the Single Molecule,
+Real-Time (SMRT) Link (version 7.0.1.66975) and analysed using the HGAP4-de-novo 
+assembly application. The contigs were annotated at NCBI, RASTtk and PROKKA
+prokaryotic genome annotation pipelines. The BtAOA genome is comprised of a
+5,246,860-bp chromosome and a 58,449-bp plasmid with a GC content of 35.4%. The
+metabolic reconstruction for BtAOA showed that the organism has been naturally
+exposed to various chlorophenolic compounds including PCP and other xenobiotics. 
+The chromosome encodes genes for core processes, stress response and PCP
+catabolic genes. Analogues of PCP catabolic gene (cpsBDCAE, and p450) sequences
+were identified from the NCBI annotation data, PCR-amplified from the whole
+genome of BtAOA, cloned into pET15b expression vector, overexpressed in E. coli
+BL21 (DE3) expression host, purified and characterized. Sequence mining and
+comparative analysis of the metabolic reconstruction of the BtAOA genome with
+closely related strains suggests that the operon encoding the first two enzymes
+in the PCP degradation pathway were acquired from a pre-existing
+pterin-carbinolamine dehydratase subsystem. The other two enzymes were recruited 
+via horizontal gene transfer (HGT) from the pool of hypothetical proteins with no
+previous specific function, while the last enzyme was recruited from pre-existing
+enzymes from the TCA or serine-glyoxalase cycle via HGT events. This study
+provides a comprehensive understanding of the role of BtAOA in PCP degradation
+and its potential exploitation for bioremediation of other xenobiotic compounds.
+
+DOI: 10.1007/s10142-021-00768-x 
+PMID: 33547987 
+

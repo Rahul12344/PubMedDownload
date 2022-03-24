@@ -1,0 +1,36 @@
+
+1. Nat Commun. 2021 Nov 25;12(1):6836. doi: 10.1038/s41467-021-27177-9.
+
+A structured RNA motif locks Argonaute2:miR-122 onto the 5' end of the HCV
+genome.
+
+Gebert LFR(1), Law M(2), MacRae IJ(3).
+
+Author information: 
+(1)Department of Integrative Structural and Computational Biology, The Scripps
+Research Institute, La Jolla, CA, 92037, USA.
+(2)Department of Immunology and Microbiology, The Scripps Research Institute, La 
+Jolla, CA, 92037, USA.
+(3)Department of Integrative Structural and Computational Biology, The Scripps
+Research Institute, La Jolla, CA, 92037, USA. macrae@scripps.edu.
+
+microRNAs (miRNAs) form regulatory networks in metazoans. Viruses engage miRNA
+networks in numerous ways, with Flaviviridae members exploiting direct
+interactions of their RNA genomes with host miRNAs. For hepatitis C virus (HCV), 
+binding of liver-abundant miR-122 stabilizes the viral RNA and regulates viral
+translation. Here, we investigate the structural basis for these activities,
+taking into consideration that miRNAs function in complex with Argonaute (Ago)
+proteins. The crystal structure of the Ago2:miR-122:HCV complex reveals a
+structured RNA motif that traps Ago2 on the viral RNA, masking its 5' end from
+enzymatic attack. The trapped Ago2 can recruit host factor PCBP2, implicated in
+viral translation, while binding of a second Ago2:miR-122 competes with PCBP2,
+creating a potential molecular switch for translational control. Combined results
+reveal a viral RNA structure that modulates Ago2:miR-122 dynamics and repurposes 
+host proteins to generate a functional analog of the mRNA cap-binding complex.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-27177-9 
+PMCID: PMC8616905
+PMID: 34824224 
+

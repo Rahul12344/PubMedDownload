@@ -1,0 +1,40 @@
+
+1. bmc genomics. 2014 aug 26;15:719. doi: 10.1186/1471-2164-15-719.
+
+a microarray platform novel snp calling algorithm evaluate plasmodium
+falciparum field samples low dna quantity.
+
+jacob cg, tan jc, miller ba, tan a, takala-harrison s, ferdig mt, plowe cv(1).
+
+author information: 
+(1)malaria group, howard hughes medical institute / center vaccine
+development, university maryland school medicine, baltimore, md 21201, usa.
+cplowe@medicine.umaryland.edu.
+
+background: analysis single nucleotide polymorphisms (snps) derived from
+whole-genome studies allows rapid evaluation genome-wide diversity, and
+genomic epidemiology studies plasmodium falciparum provide insights into
+parasite population structure, gene flow, drug resistance vaccine
+development. areas adequate cold chain facilities, large volumes of
+leukocyte-depleted patient blood frozen use parasite genomic
+analyses. remote endemic areas smaller volumes infected blood are
+taken finger prick, dried stored filter paper. dried blood
+spots generally yield enough concentrated parasite dna whole-genome
+sequencing.
+results: dna microarray designed use field samples type a
+genome-wide set snps prior sequencing shown variable in
+africa, southeast asia, papua new guinea. algorithm designed call
+snps samples low parasite dna. new algorithm snp-calling
+accuracy 98% measured hybridizing purified dna malaria lab strains
+and comparing calls snps called full genome sequences. average
+accuracy >98% likewise obtained dna extracted malaria field
+samples collected studies southeast asia, average call rate >
+82%.
+conclusion: new high-density microarray provided high quality snp calls from
+a wide range parasite dna quantities, represents robust tool for
+genome-wide analysis malaria parasites diverse settings.
+
+doi: 10.1186/1471-2164-15-719 
+pmcid: pmc4153902
+pmid: 25159520  [indexed medline]
+

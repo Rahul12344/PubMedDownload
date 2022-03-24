@@ -1,0 +1,32 @@
+
+1. RNA. 2013 Oct;19(10):1355-62. doi: 10.1261/rna.039917.113. Epub 2013 Aug 14.
+
+2'-Phosphate cyclase activity of RtcA: a potential rationale for the operon
+organization of RtcA with an RNA repair ligase RtcB in Escherichia coli and other
+bacterial taxa.
+
+Das U, Shuman S.
+
+RNA terminal phosphate cyclase catalyzes the ATP-dependent conversion of a
+3'-phosphate RNA end to a 2',3'-cyclic phosphate via covalent
+enzyme-(histidinyl-Nε)-AMP and RNA(3')pp(5')A intermediates. Here, we report that
+Escherichia coli RtcA (and its human homolog Rtc1) are capable of cyclizing a
+2'-phosphate RNA end in high yield. The rate of 2'-phosphate cyclization by RtcA 
+is five orders of magnitude slower than 3'-phosphate cyclization, notwithstanding
+that RtcA binds with similar affinity to RNA3'p and RNA2'p substrates. These
+findings expand the functional repertoire of RNA cyclase and suggest that
+phosphate geometry during adenylate transfer to RNA is a major factor in the
+kinetics of cyclization. RtcA is coregulated in an operon with an RNA ligase,
+RtcB, that splices RNA 5'-OH ends to either 3'-phosphate or 2',3'-cyclic
+phosphate ends. Our results suggest that RtcA might serve an end healing function
+in an RNA repair pathway, by converting RNA 2'-phosphates, which cannot be
+spliced by RtcB, to 2',3'-cyclic phosphates that can be sealed. The rtcBA operon 
+is controlled by the σ(54) coactivator RtcR encoded by an adjacent gene. This
+operon arrangement is conserved in diverse bacterial taxa, many of which have
+also incorporated the RNA-binding protein Ro (which is implicated in RNA quality 
+control under stress conditions) as a coregulated component of the operon.
+
+DOI: 10.1261/rna.039917.113 
+PMCID: PMC3854526
+PMID: 23945037  [Indexed for MEDLINE]
+

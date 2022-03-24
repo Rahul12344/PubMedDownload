@@ -1,0 +1,44 @@
+
+1. J Immunol. 2016 Feb 15;196(4):1480-7. doi: 10.4049/jimmunol.1501721. Epub 2016
+Jan 18.
+
+The Length Distribution of Class I-Restricted T Cell Epitopes Is Determined by
+Both Peptide Supply and MHC Allele-Specific Binding Preference.
+
+Trolle T(1), McMurtrey CP(2), Sidney J(3), Bardet W(2), Osborn SC(2), Kaever
+T(3), Sette A(3), Hildebrand WH(2), Nielsen M(4), Peters B(5).
+
+Author information: 
+(1)Department of Systems Biology, Center for Biological Sequence Analysis,
+Technical University of Denmark, DK-2800 Kongens Lyngby, Denmark;
+(2)Department of Microbiology and Immunology, University of Oklahoma Health
+Sciences Center, Oklahoma City, OK 73104;
+(3)Division of Vaccine Discovery, La Jolla Institute for Allergy and Immunology, 
+La Jolla, CA 92037; and.
+(4)Department of Systems Biology, Center for Biological Sequence Analysis,
+Technical University of Denmark, DK-2800 Kongens Lyngby, Denmark; Instituto de
+Investigaciones Biotecnológicas, Universidad Nacional de San Martín, San Martín, 
+B 1650 HMP Buenos Aires, Argentina.
+(5)Division of Vaccine Discovery, La Jolla Institute for Allergy and Immunology, 
+La Jolla, CA 92037; and bpeters@lji.org.
+
+HLA class I-binding predictions are widely used to identify candidate peptide
+targets of human CD8(+) T cell responses. Many such approaches focus exclusively 
+on a limited range of peptide lengths, typically 9 aa and sometimes 9-10 aa,
+despite multiple examples of dominant epitopes of other lengths. In this study,
+we examined whether epitope predictions can be improved by incorporating the
+natural length distribution of HLA class I ligands. We found that, although
+different HLA alleles have diverse length-binding preferences, the length
+profiles of ligands that are naturally presented by these alleles are much more
+homogeneous. We hypothesized that this is due to a defined length profile of
+peptides available for HLA binding in the endoplasmic reticulum. Based on this,
+we created a model of HLA allele-specific ligand length profiles and demonstrate 
+how this model, in combination with HLA-binding predictions, greatly improves
+comprehensive identification of CD8(+) T cell epitopes.
+
+Copyright © 2016 by The American Association of Immunologists, Inc.
+
+DOI: 10.4049/jimmunol.1501721 
+PMCID: PMC4744552
+PMID: 26783342  [Indexed for MEDLINE]
+

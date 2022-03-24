@@ -1,0 +1,43 @@
+
+1. Comput Biol Med. 2021 Dec;139:104938. doi: 10.1016/j.compbiomed.2021.104938. Epub
+2021 Oct 12.
+
+Assessing population-sampling strategies for reducing the COVID-19 incidence.
+
+Guzmán-Merino M(1), Durán C(1), Marinescu MC(2), Delgado-Sanz C(3), Gomez-Barroso
+D(3), Carretero J(1), Singh DE(4).
+
+Author information: 
+(1)Universidad Carlos III de Madrid, Leganes, Spain.
+(2)Barcelona Supercomputing Center, Barcelona, Spain.
+(3)CIBER en Epidemiología y Salud Pública (CIBERESP), Madrid, Spain; National
+Centre for Epidemiology, Carlos III Institute of Health, Madrid, Spain.
+(4)Universidad Carlos III de Madrid, Leganes, Spain. Electronic address:
+dexposit@inf.uc3m.es.
+
+As long as critical levels of vaccination have not been reached to ensure heard
+immunity, and new SARS-CoV-2 strains are developing, the only realistic way to
+reduce the infection speed in a population is to track the infected individuals
+before they pass on the virus. Testing the population via sampling has shown good
+results in slowing the epidemic spread. Sampling can be implemented at different 
+times during the epidemic and may be done either per individual or for combined
+groups of people at a time. The work we present here makes two main
+contributions. We first extend and refine our scalable agent-based COVID-19
+simulator to incorporate an improved socio-demographic model which considers
+professions, as well as a more realistic population mixing model based on contact
+matrices per country. These extensions are necessary to develop and test various 
+sampling strategies in a scenario including the 62 largest cities in Spain; this 
+is our second contribution. As part of the evaluation, we also analyze the impact
+of different parameters, such as testing frequency, quarantine time, percentage
+of quarantine breakers, or group testing, on sampling efficacy. Our results show 
+that the most effective strategies are pooling, rapid antigen test campaigns, and
+requiring negative testing for access to public areas. The effectiveness of all
+these strategies can be greatly increased by reducing the number of contacts for 
+infected individual.
+
+Copyright © 2021 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.compbiomed.2021.104938 
+PMCID: PMC8507586
+PMID: 34678482 
+

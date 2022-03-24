@@ -1,0 +1,43 @@
+
+1. Sci Rep. 2021 Dec 1;11(1):23225. doi: 10.1038/s41598-021-02546-y.
+
+Simulation of the impact of people mobility, vaccination rate, and virus variants
+on the evolution of Covid-19 outbreak in Italy.
+
+Spinella C(1), Mio AM(2)(3).
+
+Author information: 
+(1)Dipartimento di Scienze Fisiche e Tecnologie per la Materia, Consiglio
+Nazionale delle Ricerche, Piazzale Aldo Moro 7, 00185, Rome, Italy.
+(2)Dipartimento di Scienze Fisiche e Tecnologie per la Materia, Consiglio
+Nazionale delle Ricerche, Piazzale Aldo Moro 7, 00185, Rome, Italy.
+antonio.mio@cnr.it.
+(3)Institute for Microelectronics and Microsystems (IMM), Consiglio Nazionale
+delle Ricerche (CNR), VIII Strada 5, I-95121, Catania, Italy. antonio.mio@cnr.it.
+
+We have further extended our compartmental model describing the spread of the
+infection in Italy. As in our previous work, the model assumes that the time
+evolution of the observable quantities (number of people still positive to the
+infection, hospitalized and fatalities cases, healed people, and total number of 
+people that has contracted the infection) depends on average parameters, namely
+people diffusion coefficient, infection cross-section, and population density.
+The model provides information on the tight relationship between the variation of
+the reported infection cases and a well-defined observable physical quantity: the
+average number of people that lie within the daily displacement area of any
+single person. With respect to our previous paper, we have extended the analyses 
+to several regions in Italy, characterized by different levels of restrictions
+and we have correlated them to the diffusion coefficient. Furthermore, the model 
+now includes self-consistent evaluation of the reproduction index, effect of
+immunization due to vaccination, and potential impact of virus variants on the
+dynamical evolution of the outbreak. The model fits the epidemic data in Italy,
+and allows us to strictly relate the time evolution of the number of hospitalized
+cases and fatalities to the change of people mobility, vaccination rate, and
+appearance of an initial concentration of people positives for new variants of
+the virus.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-02546-y 
+PMCID: PMC8636642
+PMID: 34853368 
+

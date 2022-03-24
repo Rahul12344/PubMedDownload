@@ -1,0 +1,48 @@
+
+1. PLoS One. 2009 Aug 6;4(8):e6534. doi: 10.1371/journal.pone.0006534.
+
+Increased numbers of IL-7 receptor molecules on CD4+CD25-CD107a+ T-cells in
+patients with autoimmune diseases affecting the central nervous system.
+
+Vudattu NK(1), Kuhlmann-Berenzon S, Khademi M, Seyfert V, Olsson T, Maeurer MJ.
+
+Author information: 
+(1)Department of Microbiology, Tumor and Cell Biology (MTC), Karolinska
+Institutet, Stockholm, Sweden.
+
+BACKGROUND: High content immune profiling in peripheral blood may reflect immune 
+aberrations associated with inflammation in multiple sclerosis (MS) and other
+autoimmune diseases affecting the central nervous system.
+METHODS AND FINDINGS: Peripheral blood mononuclear cells from 46 patients with
+multiple sclerosis (MS), 9 patients diagnosed with relapsing remitting MS (RRMS),
+13 with secondary progressive multiple sclerosis (SPMS), 9 with other
+neurological diseases (OND) and well as 15 healthy donors (HD) were analyzed by
+12 color flow cytometry (TCRalphabeta, TCRgammadelta, CD4, CD8alpha, CD8beta,
+CD45RA, CCR7, CD27, CD28, CD107a, CD127, CD14) in a cross-sectional study to
+identify variables significantly different between controls (HD) and patients
+(OND, RRMS, SPMS). We analyzed 187 individual immune cell subsets (percentages)
+and the density of the IL-7 receptor alpha chain (CD127) on 59 individual immune 
+phenotypes using a monoclonal anti-IL-7R antibody (clone R34.34) coupled to a
+single APC molecule in combination with an APC-bead array. A non-parametric
+analysis of variance (Kruskal-Wallis test) was conducted in order to test for
+differences among the groups in each of the variables. To correct for the
+multiplicity problem, the FDR correction was applied on the p-values. We
+identified 19 variables for immune cell subsets (percentages) which allowed to
+segregate healthy individuals and individuals with CNS disorders. We did not
+observe differences in the relative percentage of IL-7R-positive immune cells in 
+PBMCs. In contrast, we identified significant differences in IL-7 density,
+measured on a single cell level, in 2/59 variables: increased numbers of CD127
+molecules on TCRalphabeta+CD4+CD25 (intermed) T-cells and on
+TCRalphabeta+CD4+CD25-CD107a+ T-cells (mean: 28376 Il-7R binding sites on cells
+from HD, 48515 in patients with RRMS, 38195 in patients with SPMS and 33692 IL-7 
+receptor binding sites on cells from patients with OND).
+CONCLUSION: These data show that immunophenotyping represents a powerful tool to 
+differentiate healthy individuals from individuals suffering from neurological
+diseases and that the number of IL-7 receptor molecules on differentiated
+TCRalphabeta+CD4+CD25-CD107a+ T-cells, but not the percentage of IL-7R-positive
+cells, segregates healthy individuals from patients with neurological disorders.
+
+DOI: 10.1371/journal.pone.0006534 
+PMCID: PMC2717329
+PMID: 19657390  [Indexed for MEDLINE]
+

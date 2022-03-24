@@ -1,0 +1,55 @@
+
+1. proc natl acad sci u a. 2015 dec 8;112(49):e6736-43. doi:
+10.1073/pnas.1521077112. epub 2015 nov 23.
+
+highly efficient cas9-mediated gene drive population modification the
+malaria vector mosquito anopheles stephensi.
+
+gantz vm(1), jasinskiene n(2), tatarenkova o(2), fazekas a(2), macias vm(2), bier
+e(3), james aa(4).
+
+author information: 
+(1)section cell developmental biology, university california, san
+diego, la jolla, ca 92093-0349;
+(2)department molecular biology biochemistry, university california,
+irvine, ca 92697-3900;
+(3)section cell developmental biology, university california, san
+diego, la jolla, ca 92093-0349; ebier@ucsd.edu aajames@uci.edu.
+(4)department molecular biology biochemistry, university california,
+irvine, ca 92697-3900; department microbiology molecular genetics, school 
+of medicine, university california, irvine, ca 92697-4500 ebier@ucsd.edu
+aajames@uci.edu.
+
+comment in
+    nat methods. 2016 feb;13(2):111.
+
+genetic engineering technologies used create transgenic mosquitoes
+carrying antipathogen effector genes targeting human malaria parasites to
+generate gene-drive systems capable introgressing genes throughout wild
+vector populations. developed highly effective autonomous clustered
+regularly interspaced short palindromic repeats (crispr)-associated protein 9
+(cas9)-mediated gene-drive system asian malaria vector anopheles
+stephensi, adapted mutagenic chain reaction (mcr). specific system 
+results progeny males females derived transgenic males exhibiting 
+a high frequency germ-line gene conversion consistent homology-directed
+repair (hdr). system copies ∼ 17-kb construct site insertion 
+to homologous chromosome faithful, site-specific manner. dual
+anti-plasmodium falciparum effector genes, marker gene, autonomous
+gene-drive components introgressed ∼ 99.5% progeny following
+outcrosses transgenic lines wild-type mosquitoes. effector genes remain
+transcriptionally inducible upon blood feeding. contrast efficient
+conversion individuals expressing cas9 germ line, males and
+females derived transgenic females, expected drive
+component molecules egg, produce progeny high frequency of
+mutations targeted genome sequence, resulting near-mendelian
+inheritance ratios transgene. mutant alleles result presumably from
+nonhomologous end-joining (nhej) events segregation somatic and
+germ-line lineages early development. data support design this
+system active strictly within germ line. strains based this
+technology could sustain control elimination part malaria
+eradication agenda.
+
+doi: 10.1073/pnas.1521077112 
+pmcid: pmc4679060
+pmid: 26598698  [indexed medline]
+

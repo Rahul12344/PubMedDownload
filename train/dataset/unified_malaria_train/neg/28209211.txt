@@ -1,0 +1,46 @@
+
+1. parasit vectors. 2017 feb 16;10(1):86. doi: 10.1186/s13071-017-2027-6.
+
+comparative expression profile micrornas anopheles anthropophagus midgut
+after blood-feeding plasmodium infection.
+
+liu w(1), hao z(1), huang l(1), chen l(1), wei q(1), cai l(1), liang s(2).
+
+author information: 
+(1)department parasitology, wenzhou medical university, 325035, wenzhou,
+zhejiang province, people's republic china.
+(2)department parasitology, wenzhou medical university, 325035, wenzhou,
+zhejiang province, people's republic china. lsh@wmu.edu.cn.
+
+background: anopheles anthropophagus one major vectors malaria in
+asia. micrornas (mirnas) play important roles cell development and
+differentiation well cellular response stress infection. a
+former study, investigated global mirna profiles relation sex
+in an. anthropophagus. however, mirnas contributing blood-feeding 
+infection plasmodium still unknown.
+methods: high-throughput sequencing performed identify mirna profiles of
+an. anthropophagus midguts blood-feeding plasmodium infection. the
+expression patterns mirna different midgut libraries compared based on
+transcripts per million reads (tpm), confirmed northern blots.
+target prediction pathway analysis carried investigate role
+of regulated mirnas blood-feeding plasmodium infection.
+results: identified 67 known 21 novel mirnas three libraries
+(sugar-feeding, blood-feeding plasmodium infection) an. anthropophagus
+midguts. comparing sugar-feeding, experssion nine (6 known 3 
+novel) ten (9 known 1 novel) mirnas significantly upregulated and
+downregulated respectively blood-feeding (p < 0.05, fold change ≥ 2 and
+tpm ≥ 10). plasmodium infection induced expression thirteen (9 known 4
+novel) eleven (9 known 2 novel) mirnas significantly upregulated and
+downregulated, respectively, compared blood-feeding. representative
+upregulated mir-92a blood-feeding downregulated mir-275 plasmodium
+infection confirmed northern blot. putative targets these
+regulated mirnas investigated classified pathways.
+conclusions: study suggests mirnas involved blood-feeding
+and plasmodium infection an. anthropophagus midgut. studies the
+function differential expressed mirnas facilitate better
+understanding mosquito biology anti-parasite immunity.
+
+doi: 10.1186/s13071-017-2027-6 
+pmcid: pmc5314681
+pmid: 28209211  [indexed medline]
+

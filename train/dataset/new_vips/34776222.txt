@@ -1,0 +1,66 @@
+
+1. Methods Enzymol. 2021;661:407-431. doi: 10.1016/bs.mie.2021.09.003. Epub 2021 Sep
+27.
+
+An efficient chemical screening method for structure-based inhibitors to nucleic 
+acid enzymes targeting the DNA repair-replication interface and SARS CoV-2.
+
+Moiani D(1), Link TM(1), Brosey CA(1), Katsonis P(2), Lichtarge O(2), Kim Y(3),
+Joachimiak A(3), Ma Z(4), Kim IK(4), Ahmed Z(1), Jones DE(5), Tsutakawa SE(6),
+Tainer JA(7).
+
+Author information: 
+(1)Department of Cancer Biology, University of Texas MD Anderson Cancer Center,
+Houston, TX, United States; Department of Molecular & Cellular Oncology,
+University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+(2)Department of Molecular and Human Genetics, Baylor College of Medicine,
+Houston, TX, United States.
+(3)Center for Structural Genomics of Infectious Diseases, Consortium for Advanced
+Science and Engineering, University of Chicago, Chicago, IL, United States;
+Department of Biochemistry and Molecular Biology, University of Chicago, Chicago,
+IL, United States.
+(4)Department of Chemistry, University of Cincinnati, Cincinnati, OH, United
+States.
+(5)Department of Pharmaceutical Sciences, The University of Arkansas for Medical 
+Sciences, Little Rock, AR, United States.
+(6)Biophysics and Integrated Bioimaging, Lawrence Berkeley National Laboratory,
+Berkeley, CA, United States. Electronic address: setsutakawa@lbl.gov.
+(7)Department of Cancer Biology, University of Texas MD Anderson Cancer Center,
+Houston, TX, United States; Department of Molecular & Cellular Oncology,
+University of Texas MD Anderson Cancer Center, Houston, TX, United States;
+Biophysics and Integrated Bioimaging, Lawrence Berkeley National Laboratory,
+Berkeley, CA, United States. Electronic address: jtainer@mdanderson.org.
+
+We present a Chemistry and Structure Screen Integrated Efficiently (CASSIE)
+approach (named for Greek prophet Cassandra) to design inhibitors for cancer
+biology and pathogenesis. CASSIE provides an effective path to target master keys
+to control the repair-replication interface for cancer cells and SARS CoV-2
+pathogenesis as exemplified here by specific targeting of Poly(ADP-ribose)
+glycohydrolase (PARG) and ADP-ribose glycohydrolase ARH3 macrodomains plus SARS
+CoV-2 nonstructural protein 3 (Nsp3) Macrodomain 1 (Mac1) and Nsp15 nuclease. As 
+opposed to the classical massive effort employing libraries with large numbers of
+compounds against single proteins, we make inhibitor design for multiple targets 
+efficient. Our compact, chemically diverse, 5000 compound Goldilocks (GL) library
+has an intermediate number of compounds sized between fragments and drugs with
+predicted favorable ADME (absorption, distribution, metabolism, and excretion)
+and toxicological profiles. Amalgamating our core GL library with an approved
+drug (AD) library, we employ a combined GLAD library virtual screen, enabling an 
+effective and efficient design cycle of ranked computer docking, top hit
+biophysical and cell validations, and defined bound structures using human
+proteins or their avatars. As new drug design is increasingly pathway directed as
+well as molecular and mechanism based, our CASSIE approach facilitates testing
+multiple related targets by efficiently turning a set of interacting drug
+discovery problems into a tractable medicinal chemistry engineering problem of
+optimizing affinity and ADME properties based upon early co-crystal structures.
+Optimization efforts are made efficient by a computationally-focused iterative
+chemistry and structure screen. Thus, we herein describe and apply CASSIE to
+define prototypic, specific inhibitors for PARG vs distinct inhibitors for the
+related macrodomains of ARH3 and SARS CoV-2 Nsp3 plus the SARS CoV-2 Nsp15 RNA
+nuclease.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/bs.mie.2021.09.003 
+PMCID: PMC8474023
+PMID: 34776222  [Indexed for MEDLINE]
+

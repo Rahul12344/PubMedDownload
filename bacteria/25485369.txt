@@ -1,0 +1,26 @@
+
+1. Med Image Comput Comput Assist Interv. 2014;17(Pt 2):113-20.
+
+A matching model based on earth mover's distance for tracking Myxococcus xanthus.
+
+Chen J, Harvey CW, Alber MS, Chen DZ.
+
+Tracking the motion of Myxococcus xanthus is a crucial step for fundamental
+bacteria studies. Large number of bacterial cells involved, limited image
+resolution, and various cell behaviors (e.g., division) make tracking a highly
+challenging problem. A common strategy is to segment the cells first and
+associate detected cells into moving trajectories. However, known detection
+association algorithms that run in polynomial time are either ineffective to deal
+with particular cell behaviors or sensitive to segmentation errors. In this
+paper, we propose a polynomial time hierarchical approach for associating
+segmented cells, using a new Earth Mover's Distance (EMD) based matching model.
+Our method is able to track cell motion when cells may divide, leave/enter the
+image window, and the segmentation results may incur false alarm, detection lost,
+and falsely merged/split detections. We demonstrate it on tracking M. xanthus.
+Applied to error-prone segmented cells, our algorithm exhibits higher track
+purity and produces more complete trajectories, comparing to several
+state-of-the-art detection association algorithms.
+
+DOI: 10.1007/978-3-319-10470-6_15 
+PMID: 25485369  [Indexed for MEDLINE]
+

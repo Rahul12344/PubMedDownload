@@ -1,0 +1,43 @@
+
+1. Transbound Emerg Dis. 2021 Nov 7. doi: 10.1111/tbed.14386. [Epub ahead of print]
+
+A longitudinal study on PRRSV detection in swine herds with different
+demographics and PRRSV management strategies.
+
+Campler MR(1), Cheng TY(1), Schroeder DC(2), Yang M(2), Mor SK(2), Ferreira
+JB(3), Arruda AG(1).
+
+Author information: 
+(1)Department of Veterinary Preventive Medicine, College of Veterinary Medicine, 
+the Ohio State University, Columbus, Ohio.
+(2)Department of Veterinary Population Medicine, College of Veterinary Medicine, 
+University of Minnesota, Saint Paul, Minnesota.
+(3)Department of Population Health & Pathobiology, College of Veterinary
+Medicine, North Carolina State University, Raleigh, North Carolina.
+
+Porcine reproductive and respiratory syndrome virus (PRRSV) has been one of the
+major health-related concerns in the swine production industry. Through its rapid
+transmission and mutation, the simultaneous circulation of multiple PRRSV strains
+can be a challenge in PRRSV diagnostic, control and surveillance. The objective
+of this longitudinal study was to describe the temporal detection of PRRSV in
+swine farms with different production types and PRRS management strategies.
+Tonsil scraping (n = 344) samples were collected from three breeding and two
+growing herds for approximately one year. In addition, processing fluids
+(n = 216) were obtained from piglet processing batches within the three breeding 
+farms while pen-based oral fluids (n = 125) were collected in the two growing pig
+farms. Viral RNA extraction and reverse-transcription quantitative PCR (RT-qPCR) 
+were conducted for all samples. The sample positivity threshold was set at
+quantification cycle (Cq) of ≤ 37. Statistical analyses were performed using
+generalized linear modelling and post hoc pairwise comparisons with Bonferroni
+adjustments using R statistical software. The results suggested a higher
+probability of detection in processing fluids compared to tonsil scraping
+specimens [odds ratio (OR) = 3.86; p = .096] in breeding farms whereas oral
+fluids were outperformed by tonsil scrapings (OR = 0.26; p < .01) in growing pig 
+farms. The results described herein may lead to an improvement in PRRSV
+diagnostic and surveillance by selecting proper specimens.
+
+© 2021 Wiley-VCH GmbH.
+
+DOI: 10.1111/tbed.14386 
+PMID: 34747126 
+

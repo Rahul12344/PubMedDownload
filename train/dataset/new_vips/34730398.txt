@@ -1,0 +1,49 @@
+
+1. J Virol. 2021 Nov 3:JVI0158221. doi: 10.1128/JVI.01582-21. [Epub ahead of print]
+
+SOSIP trimer-specific antibodies isolated from a SHIV-infected monkey with versus
+without a pre-blocking step with gp41.
+
+Duggan NN(1), Weisgrau KL(2), Magnani DM(1), Rakasz EG(2), Desrosiers RC(1),
+Martinez-Navio JM(1).
+
+Author information: 
+(1)Department of Pathology, University of Miami, Miller School of Medicine,
+Miami, FL, USA.
+(2)Wisconsin National Primate Research Center, University of Wisconsin-Madison,
+Madison, Wisconsin, USA.
+
+BG505 SOSIP.664 (hereafter referred to as SOSIP), a stabilized trimeric mimic of 
+the HIV-1 envelope spike resembling the native viral spike, is a useful tool for 
+isolating anti-HIV-1 neutralizing antibodies. We screened long-term SHIV-AD8
+infected rhesus monkeys for potency and breadth of serum neutralizing activity
+against autologous and heterologous viruses: SHIV-AD8, HIV-1 YU2, HIV-1 JR-CSF,
+and HIV-1 NL4-3. Monkey rh2436 neutralized all viruses tested and showed strong
+reactivity to the SOSIP trimer, suggesting this was a promising candidate for
+attempts at monoclonal antibody (mAb) isolation. Monoclonal antibodies were
+isolated by performing single B-cell sorts from peripheral blood mononuclear
+cells (PBMC) by FACS using the SOSIP trimer as a probe. An initial round of
+sorted cells revealed the majority of isolated mAbs were directed to the gp41
+external domain portion of the SOSIP trimer and were mostly non-neutralizing
+against tested isolates. A second sort was performed, introducing a gp41 blocking
+step prior to PBMC staining and FACS sorting. These isolated mAbs bound SOSIP
+trimer but were no longer directed to the gp41 external domain portion. A
+significantly higher proportion of mAbs with neutralizing activity were obtained 
+with this strategy. Our data show this pre-blocking step with gp41 greatly
+increases the yield of non-gp41 reactive, SOSIP- specific mAbs and increases the 
+likelihood of isolating mAbs with neutralizing activity. Importance Recent
+advancements in the field have focused on the isolation and use of broadly
+neutralizing antibodies for both prophylaxis and therapy. Finding a useful probe 
+to isolate broad potent neutralizing antibodies while avoiding non-neutralizing
+antibodies is important. The SOSIP trimer has been shown to be a great tool for
+this purpose because it binds known broadly neutralizing antibodies. However, the
+SOSIP trimer can isolate non-neutralizing antibodies as well, including
+gp41-specific mAbs. Introducing a pre-blocking step with gp41 recombinant protein
+decreased the percent of gp41-specific antibodies isolated with SOSIP probe, as
+well as increased the number of neutralizing antibodies isolated. This method
+could be used as a tool to increase the chances of isolating neutralizing
+antibodies.
+
+DOI: 10.1128/JVI.01582-21 
+PMID: 34730398 
+

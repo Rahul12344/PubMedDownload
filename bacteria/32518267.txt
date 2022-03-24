@@ -1,0 +1,41 @@
+
+1. Nat Commun. 2020 Jun 9;11(1):2908. doi: 10.1038/s41467-020-16755-y.
+
+Structural basis for oligoclonal T cell recognition of a shared p53 cancer
+neoantigen.
+
+Wu D(1)(2)(3), Gallagher DT(1)(4), Gowthaman R(1)(3), Pierce BG(1)(3), Mariuzza
+RA(5)(6).
+
+Author information: 
+(1)W.M. Keck Laboratory for Structural Biology, University of Maryland Institute 
+for Bioscience and Biotechnology Research, Rockville, MD, 20850, USA.
+(2)Department of Histology and Embryology, Hengyang Medical College, University
+of South China, Hengyang, Hunan, 421001, China.
+(3)Department of Cell Biology and Molecular Genetics, University of Maryland,
+College Park, MD, 20742, USA.
+(4)National Institute of Standards and Technology, Gaitherburg, MD, 20899, USA.
+(5)W.M. Keck Laboratory for Structural Biology, University of Maryland Institute 
+for Bioscience and Biotechnology Research, Rockville, MD, 20850, USA.
+rmariuzz@umd.edu.
+(6)Department of Cell Biology and Molecular Genetics, University of Maryland,
+College Park, MD, 20742, USA. rmariuzz@umd.edu.
+
+Adoptive cell therapy (ACT) with tumor-specific T cells can mediate cancer
+regression. The main target of tumor-specific T cells are neoantigens arising
+from mutations in self-proteins. Although the majority of cancer neoantigens are 
+unique to each patient, and therefore not broadly useful for ACT, some are
+shared. We studied oligoclonal T-cell receptors (TCRs) that recognize a shared
+neoepitope arising from a driver mutation in the p53 oncogene (p53R175H)
+presented by HLA-A2. Here we report structures of wild-type and mutant p53-HLA-A2
+ligands, as well as structures of three tumor-specific TCRs bound to
+p53R175H-HLA-A2. These structures reveal how a driver mutation in p53 rendered a 
+self-peptide visible to T cells. The TCRs employ structurally distinct strategies
+that are highly focused on the mutation to discriminate between mutant and
+wild-type p53. The TCR-p53R175H-HLA-A2 complexes provide a framework for
+designing TCRs to improve potency for ACT without sacrificing specificity.
+
+DOI: 10.1038/s41467-020-16755-y 
+PMCID: PMC7283474
+PMID: 32518267  [Indexed for MEDLINE]
+

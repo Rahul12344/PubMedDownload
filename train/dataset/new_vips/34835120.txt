@@ -1,0 +1,36 @@
+
+1. Viruses. 2021 Nov 19;13(11). pii: 2314. doi: 10.3390/v13112314.
+
+Database and Statistical Analyses of Transcription Factor Binding Sites in the
+Non-Coding Control Region of JC Virus.
+
+Nakamichi K(1), Shimokawa T(2).
+
+Author information: 
+(1)Department of Virology 1, National Institute of Infectious Diseases, Tokyo
+162-8640, Japan.
+(2)Department of Medical Data Science, Graduate School of Medicine, Wakayama
+Medical University, Wakayama 641-8509, Japan.
+
+JC virus (JCV), as an archetype, establishes a lifelong latent or persistent
+infection in many healthy individuals. In immunocompromised patients, prototype
+JCV with variable mutations in the non-coding control region (NCCR) causes
+progressive multifocal leukoencephalopathy (PML), a severe demyelinating disease.
+This study was conducted to create a database of NCCR sequences annotated with
+transcription factor binding sites (TFBSs) and statistically analyze the
+mutational pattern of the JCV NCCR. JCV NCCRs were extracted from >1000 sequences
+registered in GenBank, and TFBSs within each NCCR were identified by computer
+simulation, followed by examination of their prevalence, multiplicity, and
+location by statistical analyses. In the NCCRs of the prototype JCV, the limited 
+types of TFBSs, which are mainly present in regions D through F of archetype JCV,
+were significantly reduced. By contrast, modeling count data revealed that
+several TFBSs located in regions C and E tended to overlap in the prototype
+NCCRs. Based on data from the BioGPS database, genes encoding transcription
+factors that bind to these TFBSs were expressed not only in the brain but also in
+the peripheral sites. The database and NCCR patterns obtained in this study could
+be a suitable platform for analyzing JCV mutations and pathogenicity.
+
+DOI: 10.3390/v13112314 
+PMCID: PMC8620444
+PMID: 34835120 
+

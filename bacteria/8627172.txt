@@ -1,0 +1,40 @@
+
+1. J Exp Med. 1996 Feb 1;183(2):611-20.
+
+Dominant-negative zeta-associated protein 70 inhibits T cell antigen receptor
+signaling.
+
+Qian D(1), Mollenauer MN, Weiss A.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Howard Hughes Medical Institute,
+University of California, San Francisco 94143, USA.
+
+Zeta-associated protein (ZAP)-70 is a cytoplasmic protein tyrosine required for T
+cell antigen receptor (TCR) signaling and development. Mutations in ZAP-70 result
+in severe combined immunodeficiency in humans. ZAP-70 interacts with the TCR by
+binding to tyrosine-phosphorylated immunoreceptor tyrosine-based activation
+motifs (ITAMs) present in the invariant subunits of the TCR complex. Here we
+report that two ZAP-70 mutants devoid of kinase activity, generated either by a
+point mutation in the kinase domain to create an inactive kinase, or by
+truncation of the entire kinase domain (SH2[N+C]), functioned as
+dominant-negative mutants to specifically suppress TCR-mediated activation of
+NFAT, a nuclear factor essential for inducible interleukin 2 gene expression.
+Biochemical studies with the SH2(N+C) mutant showed that it also blocked early
+TCR signaling events, such as p95vav tyrosine phosphorylation, extracellular
+signal-regulated kinase 2 activation, and the association of a number of
+tyrosine-phosphorylated proteins with growth factor receptor-binding protein 2
+(GRB2). The inhibitory effects of the SH2(N+C) mutant revealed that it requires
+an intact phosphotyrosine-binding site in its COOH-terminal SH2 domain. Using a
+CD8-zeta chimeric receptor to analyze the interaction of the SH2(N+C) mutant with
+ITAMs of TCR-zeta, we found that this mutant was constitutively bound to the
+hyperphosphorylated CD8-zeta chimera. These results indicate that
+tyrosine-phosphorylated ITAM is the target for the action of this
+dominant-negative mutant, suggesting that the assembly of a functional receptor
+signaling complex on ITAMs is a critical proximal TCR signaling event leading to 
+downstream activation.
+
+DOI: 10.1084/jem.183.2.611 
+PMCID: PMC2192449
+PMID: 8627172  [Indexed for MEDLINE]
+

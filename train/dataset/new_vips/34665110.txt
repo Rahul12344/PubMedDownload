@@ -1,0 +1,44 @@
+
+1. J Gen Virol. 2021 Oct;102(10). doi: 10.1099/jgv.0.001669.
+
+Viperin is anti-viral in vitro but is dispensable for restricting dengue virus
+replication or induction of innate and inflammatory responses in vivo.
+
+Al Shujairi WH(1)(2), Kris LP(1), van der Hoek K(3), Cowell E(1), Bracho-Granado 
+G(1), Woodgate T(1), Beard MR(3), Carr JM(1).
+
+Author information: 
+(1)College of Medicine and Public Health, Flinders University, Adelaide, SA,
+Australia.
+(2)Department of Clinical Laboratory Sciences, College of Pharmacy, University of
+Babylon, 51001 Hilla, Iraq.
+(3)School of Biological Sciences, Research Centre for Infectious Diseases, The
+University of Adelaide, Adelaide, SA 5005, Australia.
+
+Viperin has antiviral function against many viruses, including dengue virus
+(DENV), when studied in cells in culture. Here, the antiviral actions of viperin 
+were defined both in vitro and in a mouse in vivo model of DENV infection. Murine
+embryonic fibroblasts (MEFs) derived from mice lacking viperin (vip-/-) showed
+enhanced DENV infection, accompanied by increased IFN-β and induction of ISGs;
+IFIT1 and CXCL-10 but not IRF7, when compared to wild-type (WT) MEFs. In
+contrast, subcutaneous challenge of immunocompetent WT and vip-/- mice with DENV 
+did not result in enhanced infection. Intracranial infection with DENV resulted
+in body weight loss and neurological disease with a moderate increase in
+mortality in vip-/- compared with WT mice, although this was not accompanied by
+altered brain morphology, immune cell infiltration or DENV RNA level in the
+brain. Similarly, DENV induction of IFN-β, IFIT1, CXCL-10, IRF7 and TNF-α was not
+significantly different in WT and vip-/- mouse brain, although there was a modest
+but significant increase in DENV induction of IL-6 and IfI27la in the absence of 
+viperin. NanoString nCounter analysis confirmed no significant difference in
+induction of a panel of inflammatory genes in WT compared to vip-/- DENV-infected
+mouse brains. Further, polyI:C stimulation of bone marrow-derived macrophages
+(BMDMs) induced TNF-α, IFN-β, IL-6 and Nos-2, but responses were not different in
+BMDMs generated from WT or vip-/- mice. Thus, while there is significant evidence
+of anti-DENV actions of viperin in some cell types in vitro, for DENV infection
+in vivo a lack of viperin does not affect systemic or brain susceptibility to
+DENV or induction of innate and inflammatory responses.
+
+DOI: 10.1099/jgv.0.001669 
+PMCID: PMC8604189
+PMID: 34665110  [Indexed for MEDLINE]
+

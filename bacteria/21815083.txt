@@ -1,0 +1,50 @@
+
+1. Methods Mol Biol. 2011;765:3-25. doi: 10.1007/978-1-61779-197-0_1.
+
+Bacterial genome reengineering.
+
+Zhou J(1), Rudd KE.
+
+Author information: 
+(1)Department of Electrical and Computer Engineering, University of Miami, Coral 
+Gables, FL, USA.
+
+The web application PrimerPair at ecogene.org generates large sets of paired DNA 
+sequences surrounding- all protein and RNA genes of Escherichia coli K-12. Many
+DNA fragments, which these primers amplify, can be used to implement a genome
+reengineering strategy using complementary in vitro cloning and in vivo
+recombineering. The integration of a primer design tool with a model organism
+database increases the level of quality control. Computer-assisted design of gene
+primer pairs relies upon having highly accurate genomic DNA sequence information 
+that exactly matches the DNA of the cells being used in the laboratory to ensure 
+predictable DNA hybridizations. It is equally crucial to have confidence that the
+predicted start codons define the locations of genes accurately. Annotations in
+the EcoGene database are queried by PrimerPair to eliminate pseudogenes, IS
+elements, and other problematic genes before the design process starts. These
+projects progressively familiarize users with the EcoGene content, scope, and
+application interfaces that are useful for genome reengineering projects. The
+first protocol leads to the design of a pair of primer sequences that were used
+to clone and express a single gene. The N-terminal protein sequence was
+experimentally verified and the protein was detected in the periplasm. This is
+followed by instructions to design PCR primer pairs for cloning gene fragments
+encoding 50 periplasmic proteins without their signal peptides. The design
+process begins with the user simply designating one pair of forward and reverse
+primer endpoint positions relative to all start and stop codon positions. The
+gene name, genomic coordinates, and primer DNA sequences are reported to the
+user. When making chromosomal deletions, the integrity of the provisional primer 
+design is checked to see whether it will generate any unwanted double deletions
+with adjacent genes. The bad designs are recalculated and replacement primers are
+provided alongside the requested primers. A list of all genes with overlaps
+includes those expressed from the translational coupling motifs 5'-UGAUG-3' and
+5'-AUGA-3'. Rigid alignments of the 893 ribosome binding sites (RBSs) linked to
+the AUG codons of this coupled subset are assessed for information content using 
+WebLogo 3.0. These specialized logos are missing the G at the prominent
+information peak position normally seen in the rigid alignment of all genes. This
+novel GHOLE motif was apparently masked by the normal RBSs in two previously
+published rigid alignments. We propose a model constraining the distance between 
+the ATG and the RBS, obviating- the need for a flexible linker model to reveal a 
+Shine-Dalgarno-like sequence.
+
+DOI: 10.1007/978-1-61779-197-0_1 
+PMID: 21815083  [Indexed for MEDLINE]
+

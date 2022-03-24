@@ -1,0 +1,59 @@
+
+1. malar j. 2019 jan 18;18(1):12. doi: 10.1186/s12936-019-2645-x.
+
+an online mapping database molecular markers drug resistance plasmodium 
+falciparum: act partner drug molecular surveyor.
+
+otienoburu sd(1)(2), suay i(1), garcia s(1), thomas nv(1), srisutham s(3),
+björkman a(4), humphreys gs(5).
+
+author information: 
+(1)worldwide antimalarial resistance network (wwarn), oxford, uk.
+(2)department computer science engineering, johnson c. smith university,
+charlotte, nc, usa.
+(3)department molecular tropical medicine genetics, faculty tropical
+medicine, mahidol university, bangkok, 10400, thailand.
+(4)department microbiology, tumour cell biology, karolinska institutet,
+stockholm, sweden.
+(5)worldwide antimalarial resistance network (wwarn), oxford, uk.
+georginahumphreys@gmail.com.
+
+background: prior project, handful online visualizations
+existed exploring published literature molecular markers of
+antimalarial drug resistance, none specifically markers associated
+with plasmodium falciparum resistance partner drugs artemisinin-based
+combination therapy (act). molecular information collected studies with
+different designs, using variety molecular methodologies data analysis
+strategies, making difficult compare across studies. purpose this
+project develop free online tool, visualizes widely published 
+data molecular markers antimalarial drug resistance, starting two 
+genes pfcrt pfmdr-1, associated resistance three common
+partner drugs; amodiaquine, lumefantrine mefloquine.
+methods: literature review conducted, standardized method used to
+extract data publications, critical decisions visualization were
+made. global geospatial database developed specific pfmdr1 pfcrt
+single nucleotide polymorphisms pfmdr1 copy number variation. informatics 
+framework developed allowed flexibility development tool 
+time efficient adaptation different source data.
+results: database discussed paper pfmdr1 pfcrt marker
+prevalence information, 579 geographic sites 76 different countries,
+including results 86,000 samples 456 articles published january
+2001-may 2017. act partner drugs molecular surveyor launched the
+worldwide antimalarial resistance network (wwarn) march 2015 has
+attracted 3000 unique visitors since then. presented demonstration
+of surveyor database explored monitor local, temporal changes
+in prevalence molecular markers. publications may 2017 were
+included, however online act partner drug molecular surveyor continuously 
+updated new data relevant markers.
+conclusions: wwarn act partner drugs molecular surveyor summarizes data on
+resistance markers pfmdr1 pfcrt genes. database fully
+accessible, providing users rich resource explore analyze, thus
+utilize centralized, standardized database different purposes. this
+open-source software framework adapted data, demonstrated by
+the subsequent launch artemisinin molecular surveyor vivax
+surveyor.
+
+doi: 10.1186/s12936-019-2645-x 
+pmcid: pmc6339428
+pmid: 30658642  [indexed medline]
+

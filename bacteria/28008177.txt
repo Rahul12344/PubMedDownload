@@ -1,0 +1,43 @@
+
+1. Leukemia. 2017 Sep;31(9):1962-1974. doi: 10.1038/leu.2016.377. Epub 2016 Dec 23.
+
+Mass cytometry analysis reveals hyperactive NF Kappa B signaling in myelofibrosis
+and secondary acute myeloid leukemia.
+
+Fisher DAC(1), Malkova O(2), Engle EK(1), Miner CA(2), Fulbright MC(1), Behbehani
+GK(3), Collins TB(1), Bandyopadhyay S(1), Zhou A(1), Nolan GP(4), Oh ST(1).
+
+Author information: 
+(1)Division of Hematology, Department of Medicine, Washington University School
+of Medicine, St. Louis, MO, USA.
+(2)Center for Human Immunology and Immunotherapy Programs, Washington University 
+School of Medicine, St. Louis, MO, USA.
+(3)Division of Hematology, Department of Medicine, Stanford University School of 
+Medicine, Stanford, CA, USA.
+(4)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, CA, USA.
+
+Myeloproliferative neoplasms (MPNs) feature a malignant clone containing the JAK2
+V617F mutation, or another mutation causing dysregulated JAK2 kinase activity.
+The multiple disease phenotypes of MPNs, and their tendency to transform
+phenotypically, suggest pathophysiologic heterogeneities beyond a common
+phenomenon of JAK2 hyperactivation. JAK2 has the potential to activate multiple
+other signaling molecules, either directly through downstream effectors, or
+indirectly through induction of target gene expression. We have interrogated
+myeloproliferative signaling in myelofibrosis (MF) and secondary acute myeloid
+leukemia (sAML) patient samples using mass cytometry, which allows the
+quantitative measurement of multiple signaling molecules simultaneously at the
+single-cell level, in cell populations representing a nearly complete spectrum of
+hematopoiesis. MF and sAML malignant cells demonstrated a high prevalence of
+hyperactivation of the JAK-STAT, MAP kinase, PI3 kinase and NFκB signaling
+pathways. Constitutive NFκB signaling was evident across MF and sAML patients. A 
+supporting gene set enrichment analysis (GSEA) of MF showed many NFκB target
+genes to be expressed above normal levels in MF patient CD34+ cells. NFκB
+inhibition suppressed colony formation from MF CD34+ cells. This study indicates 
+that NFκB signaling contributes to human myeloproliferative disease and is
+abnormally activated in MF and sAML.
+
+DOI: 10.1038/leu.2016.377 
+PMCID: PMC5540814
+PMID: 28008177  [Indexed for MEDLINE]
+

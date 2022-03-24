@@ -1,0 +1,96 @@
+
+1. Nat Cancer. 2021 Jan;2(1):66-82. doi: 10.1038/s43018-020-00148-7. Epub 2020 Dec
+14.
+
+Targeting immunosuppressive macrophages overcomes PARP inhibitor resistance in
+BRCA1-associated triple-negative breast cancer.
+
+Mehta AK(1), Cheney EM(1), Hartl CA(1), Pantelidou C(2), Oliwa M(1), Castrillon
+JA(1), Lin JR(3), Hurst KE(4)(5), de Oliveira Taveira M(6)(7), Johnson NT(1)(3), 
+Oldham WM(8), Kalocsay M(3), Berberich MJ(3), Boswell SA(3), Kothari A(2),
+Johnson S(2), Dillon DA(9), Lipschitz M(9)(10), Rodig S(9)(10), Santagata
+S(3)(9)(11), Garber JE(2), Tung N(6), Yélamos J(12), Thaxton JE(4)(5)(13),
+Mittendorf EA(1)(14)(15), Sorger PK(3)(11), Shapiro GI(2)(11)(16), Guerriero
+JL(1)(3)(11)(14).
+
+Author information: 
+(1)Breast Tumor Immunology Laboratory, Dana-Farber Cancer Institute, Boston, MA
+02215.
+(2)Department of Medical Oncology, Dana-Farber Cancer Institute and Department of
+Medicine, Harvard Medical School, Boston, MA, 02215.
+(3)Laboratory of Systems Pharmacology, Department of Systems Biology, Harvard
+Medical School, Boston MA, 02215.
+(4)Department of Orthopedics and Physical Medicine, Medical University of South
+Carolina, Charleston, SC 29425.
+(5)Department of Microbiology & Immunology, Medical University of South Carolina,
+Charleston, SC 29425.
+(6)Division of Hematology/Oncology, Department of Medicine, Beth Israel Deaconess
+Medical Center and Harvard Medical School, Boston, MA, 02215.
+(7)Department of Imaging, A.C. Camargo Cancer Center, São Paulo, Brazil.
+(8)Division of Pulmonary and Critical Care Medicine, Department of Medicine,
+Brigham and Women's Hospital and Harvard Medical School, Boston, MA.
+(9)Department of Pathology, Brigham and Women's Hospital, Harvard Medical School,
+Boston, MA, 02115.
+(10)Center for Immuno-Oncology, Dana-Farber Cancer Institute, Boston, MA 02115.
+(11)Ludwig Center for Cancer Research at Harvard, Harvard Medical School, Boston,
+MA, 02215.
+(12)Cancer Research Program, Hospital del Mar Medical Research Institute,
+Barcelona, Spain.
+(13)Hollings Cancer Center, Charleston, SC, 29425.
+(14)Division of Breast Surgery, Department of Surgery, Brigham and Women's
+Hospital, Boston, MA, 02115.
+(15)Breast Oncology Program, Dana-Farber/Brigham and Women's Cancer Center,
+Boston, MA, 02215.
+(16)Department of Medicine, Brigham and Women's Hospital, Boston, MA, 02115.
+
+Despite objective responses to PARP inhibition and improvements in
+progression-free survival compared to standard chemotherapy in patients with
+BRCA-associated triple-negative breast cancer (TNBC), benefits are transitory.
+Using high dimensional single-cell profiling of human TNBC, here we demonstrate
+that macrophages are the predominant infiltrating immune cell type in
+BRCA-associated TNBC. Through multi-omics profiling we show that PARP inhibitors 
+enhance both anti- and pro-tumor features of macrophages through glucose and
+lipid metabolic reprogramming driven by the sterol regulatory element-binding
+protein 1 (SREBP-1) pathway. Combined PARP inhibitor therapy with CSF-1R blocking
+antibodies significantly enhanced innate and adaptive anti-tumor immunity and
+extends survival in BRCA-deficient tumors in vivo and is mediated by CD8+
+T-cells. Collectively, our results uncover macrophage-mediated immune suppression
+as a liability of PARP inhibitor treatment and demonstrate combined PARP
+inhibition and macrophage targeting therapy induces a durable reprogramming of
+the tumor microenvironment, thus constituting a promising therapeutic strategy
+for TNBC.
+
+DOI: 10.1038/s43018-020-00148-7 
+PMCID: PMC7963404 [Available on 2021-07-01]
+PMID: 33738458 
+
+Conflict of interest statement: Competing Interests Statement J.L.G. is a
+consultant for Glaxo-Smith Kline (GSK), Codagenix, Verseau, Kymera and Array
+BioPharma and receives sponsored research support from GSK, Array BioPharma and
+Eli Lilly. G.I.S. has served on advisory boards for Pfizer, Eli Lilly, G1
+Therapeutics, Roche, Merck KGaA/EMD-Serono, Sierra Oncology, Bicycle
+Therapeutics, Fusion Pharmaceuticals, Cybrexa Therapeutics, Astex, Almac, Ipsen, 
+Bayer, Angiex, Daiichi Sankyo, Seattle Genetics, Boehringer Ingelheim, ImmunoMet,
+Asana, Artios, Atrin, Concarlo Holdings, Syros and Zentalis, and has received
+sponsored research support from Merck, Eli Lilly, Merck/EMD Serono and Sierra
+Oncology. Clinical trial support from Pfizer and Array Biopharma has been
+provided to Dana-Farber Cancer Institute for the conduct of
+investigator-initiated studies led by G.I.S. He holds a patent entitled, “Dosage 
+regimen for sapacitabine and seliciclib,” also issued to Cyclacel
+Pharmaceuticals, and a pending patent, entitled, “Compositions and Methods for
+Predicting Response and Resistance to CDK4/6 Inhibition,” together with Liam
+Cornell. E.A.M is on the SAB for Astra-Zeneca/Medimmune, Celgene, Genentech,
+Genomic Health, Merck, Peregrine Pharmaceuticals, SELLAS Lifescience, and
+Tapimmune and has clinical trial support to her former institution (MDACC) from
+Astra-Zeneca/Medimmune, EMD-Serono, Galena Biopharma and Genentech as well as
+Genentech support to a SU2C grant, as well as sponsored Research Support to the
+laboratory from GSK and Eli Lilly. S.R. receives research funding from Merck,
+Bristol-Myers Squibb, Gilead and Affimed, and on the scientific advisory board
+for Immunitas. S.S is a consultant for Rarecyte, Inc. N.T. receives research
+support from Astra-Zeneca. PKS serves on the SAB or BOD of Glencoe Software,
+Applied Biomath and RareCyte Inc. and has equity in these companies; he is a
+member of the NanoString SAB and is also co-founder of Glencoe Software, which
+contributes to and supports the open-source OME/OMERO image informatics software 
+used in this paper. D.D. consults for Novartis and is on the advisory board for
+Oncology Analytics, Inc. S.J. receives consulting fees from Venn Therapeutics.
+

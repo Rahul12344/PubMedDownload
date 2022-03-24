@@ -1,0 +1,26 @@
+
+1. Appl Environ Microbiol. 2007 Sep;73(18):5711-5. Epub 2007 Jul 20.
+
+Directed evolution of AraC for improved compatibility of arabinose- and
+lactose-inducible promoters.
+
+Lee SK(1), Chou HH, Pfleger BF, Newman JD, Yoshikuni Y, Keasling JD.
+
+Author information: 
+(1)Department of Chemical Engineering, University of California, Berkeley,
+California 94720, USA.
+
+Synthetic biological systems often require multiple, independently inducible
+promoters in order to control the expression levels of several genes; however,
+cross talk between the promoters limits this ability. Here, we demonstrate the
+directed evolution of AraC to construct an arabinose-inducible (P(BAD)) system
+that is more compatible with IPTG (isopropyl-beta-D-1-thiogalactopyranoside)
+induction of a lactose-inducible (P(lac)) system. The constructed system is 10
+times more sensitive to arabinose and tolerates IPTG significantly better than
+the wild type. Detailed studies indicate that the AraC dimerization domain and C 
+terminus are important for the increased sensitivity of AraC to arabinose.
+
+DOI: 10.1128/AEM.00791-07 
+PMCID: PMC2074931
+PMID: 17644634  [Indexed for MEDLINE]
+

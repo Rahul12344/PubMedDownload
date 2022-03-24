@@ -1,0 +1,43 @@
+
+1. Appl Intell (Dordr). 2021 Mar 23:1-17. doi: 10.1007/s10489-021-02199-4. [Epub
+ahead of print]
+
+Deep learning-based improved snapshot ensemble technique for COVID-19 chest X-ray
+classification.
+
+P SAB(1), Annavarapu CSR(1).
+
+Author information: 
+(1)Department of Computer Science and Engineering, Indian Institute of Technology
+(ISM), Dhanbad, 826004 India.
+
+COVID-19 has proven to be a deadly virus, and unfortunately, it triggered a
+worldwide pandemic. Its detection for further treatment poses a severe threat to 
+researchers, scientists, health professionals, and administrators worldwide. One 
+of the daunting tasks during the pandemic for doctors in radiology is the use of 
+chest X-ray or CT images for COVID-19 diagnosis. Time is required to inspect each
+report manually. While a CT scan is the better standard, an X-ray is still useful
+because it is cheaper, faster, and more widely used. To diagnose COVID-19, this
+paper proposes to use a deep learning-based improved Snapshot Ensemble technique 
+for efficient COVID-19 chest X-ray classification. In addition, the proposed
+method takes advantage of the transfer learning technique using the ResNet-50
+model, which is a pre-trained model. The proposed model uses the publicly
+accessible COVID-19 chest X-ray dataset consisting of 2905 images, which include 
+COVID-19, viral pneumonia, and normal chest X-ray images. For performance
+evaluation, the model applied the metrics such as AU-ROC, AU-PR, and Jaccard
+Index. Furthermore, it also obtained a multi-class micro-average of 97%
+specificity, 95% f 1-score, and 95% classification accuracy. The obtained results
+demonstrate that the performance of the proposed method outperformed those of
+several existing methods. This method appears to be a suitable and efficient
+approach for COVID-19 chest X-ray classification.
+
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC 
+part of Springer Nature 2021.
+
+DOI: 10.1007/s10489-021-02199-4 
+PMCID: PMC7986181
+PMID: 34764590 
+
+Conflict of interest statement: Conflict of InterestsThe authors declare that
+they have no conflicts of interest.
+

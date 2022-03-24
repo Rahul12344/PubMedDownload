@@ -1,0 +1,49 @@
+
+1. Comput Math Methods Med. 2021 Oct 18;2021:4348910. doi: 10.1155/2021/4348910.
+eCollection 2021.
+
+Optimal Allocation of Vaccine and Antiviral Drugs for Influenza Containment over 
+Delayed Multiscale Epidemic Model considering Time-Dependent Transmission Rate.
+
+Abbasi Z(1), Zamani I(2), Amiri Mehra AH(1)(2), Ibeas A(3)(4), Shafieirad M(1).
+
+Author information: 
+(1)Department of Electrical and Computer Engineering, University of Kashan, Iran.
+(2)Electrical and Electronic Engineering Department, Shahed University, Tehran,
+Iran.
+(3)Departament de Telecomunicació i Enginyeria de Sistemes, Escolad'Enginyeria,
+Universitat Autònoma de Barcelona, Barcelona, Spain.
+(4)Universidad de Bogotá Jorge Tadeo Lozano, Bogotá D.C., Colombia.
+
+In this study, two types of epidemiological models called "within host" and
+"between hosts" have been studied. The within-host model represents the innate
+immune response, and the between-hosts model signifies the SEIR (susceptible,
+exposed, infected, and recovered) epidemic model. The major contribution of this 
+paper is to break the chain of infectious disease transmission by reducing the
+number of susceptible and infected people via transferring them to the recovered 
+people group with vaccination and antiviral treatment, respectively. Both
+transfers are considered with time delay. In the first step, optimal control
+theory is applied to calculate the optimal final time to control the disease
+within a host's body with a cost function. To this end, the vaccination that
+represents the effort that converts healthy cells into resistant-to-infection
+cells in the susceptible individual's body is used as the first control input to 
+vaccinate the susceptible individual against the disease. Moreover, the next
+control input (antiviral treatment) is applied to eradicate the concentrations of
+the virus and convert healthy cells into resistant-to-infection cells
+simultaneously in the infected person's body to treat the infected individual.
+The calculated optimal time in the first step is considered as the delay of
+vaccination and antiviral treatment in the SEIR dynamic model. Using Pontryagin's
+maximum principle in the second step, an optimal control strategy is also applied
+to an SEIR mathematical model with a nonlinear transmission rate and time delay, 
+which is computed as optimal time in the first step. Numerical results are
+consistent with the analytical ones and corroborate our theoretical results.
+
+Copyright © 2021 Zohreh Abbasi et al.
+
+DOI: 10.1155/2021/4348910 
+PMCID: PMC8545521
+PMID: 34707682 
+
+Conflict of interest statement: The authors declare that they have no conflicts
+of interest.
+

@@ -1,0 +1,41 @@
+
+1. Microb Genom. 2021 Dec;7(12). doi: 10.1099/mgen.0.000734.
+
+SARS-CoV-2 genetic variations associated with COVID-19 pathogenicity.
+
+Aiewsakun P(1)(2), Nilplub P(2), Wongtrakoongate P(3)(4), Hongeng S(5),
+Thitithanyanont A(1)(2).
+
+Author information: 
+(1)Department of Microbiology, Faculty of Science, Mahidol University, 272, Rama 
+VI Road, Ratchathewi, Bangkok, 10400, Thailand.
+(2)Pornchai Matangkasombut Center for Microbial Genomics, Department of
+Microbiology, Faculty of Science, Mahidol University, 272, Rama VI Road,
+Ratchathewi, Bangkok, 10400, Thailand.
+(3)Department of Biochemistry, Faculty of Science, Mahidol University, 272, Rama 
+VI Road, Ratchathewi, Bangkok, 10400, Thailand.
+(4)Center for Neuroscience, Faculty of Science, Mahidol University, 272, Rama VI 
+Road, Ratchathewi, Bangkok, 10400, Thailand.
+(5)Division of Hematology and Oncology, Department of Pediatrics, Faculty of
+Medicine, Ramathibodi Hospital, Mahidol University, 270, Rama VI Road,
+Ratchathewi, Bangkok, 10400, Thailand.
+
+In this study, we performed genome-wide association analyses on SARS-CoV-2
+genomes to identify genetic mutations associated with
+pre-symptomatic/asymptomatic COVID-19 cases. Various potential covariates and
+confounding factors of COVID-19 severity, including patient age, gender and
+country, as well as virus phylogenetic relatedness were adjusted for. In total,
+3021 full-length genomes of SARS-CoV-2 generated from original clinical samples
+and whose patient status could be determined conclusively as either
+'pre-symptomatic/asymptomatic' or 'symptomatic' were retrieved from the GISAID
+database. We found that the mutation 11 083G>T, located in the coding region of
+non-structural protein 6, is significantly associated with asymptomatic COVID-19.
+Patient age is positively correlated with symptomatic infection, while gender is 
+not significantly correlated with the development of the disease. We also found
+that the effects of the mutation, patient age and gender do not vary
+significantly among countries, although each country appears to have varying
+baseline chances of COVID-19 symptom development.
+
+DOI: 10.1099/mgen.0.000734 
+PMID: 34870573 
+

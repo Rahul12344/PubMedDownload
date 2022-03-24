@@ -1,0 +1,31 @@
+
+1. Mol Microbiol. 2007 Jul;65(2):373-85. Epub 2007 Jun 21.
+
+RNase E-dependent processing stabilizes MicX, a Vibrio cholerae sRNA.
+
+Davis BM(1), Waldor MK.
+
+Author information: 
+(1)Channing Laboratory, Brigham and Women's Hospital, and Howard Hughes Medical
+Institute, Boston, MA 02111, USA. bdavis@rics.bwh.harvard.edu
+
+In Vibrio cholerae, bioinformatic approaches have been used to predict the
+locations of numerous small RNA (sRNA)-encoding genes, but biological roles have 
+been determined for very few. Here, we describe the expression, processing and
+biological role of an sRNA (previously known as A10) that was identified through 
+such analyses. We have renamed this sRNA MicX as, like the Escherichia coli sRNAs
+MicA, MicC and MicF, it regulates expression of an outer membrane protein (OMP). 
+MicX appears to be a direct negative regulator of vc0972, which encodes an
+uncharacterized OMP, and vc0620, which encodes the periplasmic component of a
+peptide ABC transporter. Hfq is apparently not required for MicX's interactions
+with and regulation of these targets. The sequence encoding MicX overlaps with
+vca0943; however, primary transcripts of MicX are processed in an RNase E- and
+Hfq-dependent fashion to a shorter, still active and much more stable form
+consisting largely of the vca0943 3' untranslated region. Our data suggest that
+processing of MicX enhances its effectiveness, and that sRNA cleavage is not
+simply a means to sRNA inactivation and clearance.
+
+DOI: 10.1111/j.1365-2958.2007.05796.x 
+PMCID: PMC1976385
+PMID: 17590231  [Indexed for MEDLINE]
+

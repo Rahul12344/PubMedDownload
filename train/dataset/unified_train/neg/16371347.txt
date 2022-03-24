@@ -1,0 +1,32 @@
+
+1. nucleic acids res. 2005 dec 20;33(22):7151-63. print 2005.
+
+structural polymorphism hiv-1 leader region explored computational
+methods.
+
+kasprzak w(1), bindewald e, shapiro ba.
+
+author information: 
+(1)basic research program, saic frederick, nci-frederick, building 469, room 150,
+frederick, md 21702, usa.
+
+experimental studies revealed elements human immunodeficiency
+virus type 1 (hiv-1) 5'-untranslated leader region (5'-utr) fold vitro
+into two alternative conformations, branched (bmh) 'linearized' (ldi) and
+switch achieve different functionality. study we
+computationally explored detail, massively parallel genetic algorithm
+(mpgafold), propensity 13 hiv-1 5'-utrs fold bmh ldi
+conformation types. besides bmh conformations results predict the
+existence two functionally equivalent types ldi conformations. one is
+similar shown vitro exist hiv-1 lai, a
+novel conformation exemplified hiv-1 mal long-distance interactions. these
+novel mpgafold results corroborated consensus probability matrix
+algorithm applied set 155 hiv-1 sequences. also determined in
+detail impact various strain mutations, domain sizes folds of
+elongating sequences simulating folding transcription hiv-1 rna
+secondary structure folding dynamics.
+
+doi: 10.1093/nar/gki1015 
+pmcid: pmc1322270
+pmid: 16371347  [indexed medline]
+

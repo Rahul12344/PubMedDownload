@@ -1,0 +1,81 @@
+
+1. BMJ. 2021 Nov 17;375:e068302. doi: 10.1136/bmj-2021-068302.
+
+Effectiveness of public health measures in reducing the incidence of covid-19,
+SARS-CoV-2 transmission, and covid-19 mortality: systematic review and
+meta-analysis.
+
+Talic S(1)(2), Shah S(3), Wild H(3)(4), Gasevic D(3)(5), Maharaj A(3), Ademi
+Z(3)(2), Li X(5)(6), Xu W(5), Mesa-Eguiagaray I(5), Rostron J(5), Theodoratou
+E(5)(7), Zhang X(5), Motee A(5), Liew D(3)(2), Ilic D(3).
+
+Author information: 
+(1)School of Public Health and Preventive Medicine, Monash University, Melbourne,
+3004 VIC, Australia stella.talic@monash.edu.
+(2)Monash Outcomes Research and health Economics (MORE) Unit, Monash University, 
+VIC, Australia.
+(3)School of Public Health and Preventive Medicine, Monash University, Melbourne,
+3004 VIC, Australia.
+(4)Torrens University, VIC, Australia.
+(5)Centre for Global Health, The Usher Institute, University of Edinburgh,
+Edinburgh, UK.
+(6)School of Public Health and The Second Affiliated Hospital, Zhejiang
+University School of Medicine, Hangzhou, China.
+(7)Cancer Research UK Edinburgh Centre, MRC Institute of Genetics and Molecular
+Medicine, University of Edinburgh, Edinburgh, UK.
+
+Erratum in
+    BMJ. 2021 Dec 3;375:n2997.
+
+Comment in
+    BMJ. 2021 Nov 17;375:n2729.
+
+OBJECTIVE: To review the evidence on the effectiveness of public health measures 
+in reducing the incidence of covid-19, SARS-CoV-2 transmission, and covid-19
+mortality.
+DESIGN: Systematic review and meta-analysis.
+DATA SOURCES: Medline, Embase, CINAHL, Biosis, Joanna Briggs, Global Health, and 
+World Health Organization COVID-19 database (preprints).
+ELIGIBILITY CRITERIA FOR STUDY SELECTION: Observational and interventional
+studies that assessed the effectiveness of public health measures in reducing the
+incidence of covid-19, SARS-CoV-2 transmission, and covid-19 mortality.
+MAIN OUTCOME MEASURES: The main outcome measure was incidence of covid-19.
+Secondary outcomes included SARS-CoV-2 transmission and covid-19 mortality.
+DATA SYNTHESIS: DerSimonian Laird random effects meta-analysis was performed to
+investigate the effect of mask wearing, handwashing, and physical distancing
+measures on incidence of covid-19. Pooled effect estimates with corresponding 95%
+confidence intervals were computed, and heterogeneity among studies was assessed 
+using Cochran's Q test and the I2 metrics, with two tailed P values.
+RESULTS: 72 studies met the inclusion criteria, of which 35 evaluated individual 
+public health measures and 37 assessed multiple public health measures as a
+"package of interventions." Eight of 35 studies were included in the
+meta-analysis, which indicated a reduction in incidence of covid-19 associated
+with handwashing (relative risk 0.47, 95% confidence interval 0.19 to 1.12,
+I2=12%), mask wearing (0.47, 0.29 to 0.75, I2=84%), and physical distancing
+(0.75, 0.59 to 0.95, I2=87%). Owing to heterogeneity of the studies,
+meta-analysis was not possible for the outcomes of quarantine and isolation,
+universal lockdowns, and closures of borders, schools, and workplaces. The
+effects of these interventions were synthesised descriptively.
+CONCLUSIONS: This systematic review and meta-analysis suggests that several
+personal protective and social measures, including handwashing, mask wearing, and
+physical distancing are associated with reductions in the incidence covid-19.
+Public health efforts to implement public health measures should consider
+community health and sociocultural needs, and future research is needed to better
+understand the effectiveness of public health measures in the context of covid-19
+vaccination.
+SYSTEMATIC REVIEW REGISTRATION: PROSPERO CRD42020178692.
+
+© Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY-NC. No
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmj-2021-068302 
+PMID: 34789505  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed
+the ICMJE uniform disclosure form at www.icmje.org/disclosure-of-interest/and
+declare: ET is supported by a Cancer Research UK Career Development Fellowship
+and XZ is supported by The Darwin Trust of Edinburgh; no financial relationships 
+with any organisations that might have an interest in the submitted work in the
+previous three years; and no other relationships or activities that could appear 
+to have influenced the submitted work.
+

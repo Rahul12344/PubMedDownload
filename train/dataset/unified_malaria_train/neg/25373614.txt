@@ -1,0 +1,44 @@
+
+1. bmc genomics. 2014 nov 6;15:959. doi: 10.1186/1471-2164-15-959.
+
+genome-wide analysis plasmodium falciparum reveals early late phases of
+rna polymerase ii occupancy infectious cycle.
+
+rai r, zhu l, chen h, gupta ap, sze sk, zheng j, ruedl c, bozdech z(1),
+featherstone m.
+
+author information: 
+(1)school biological sciences, nanyang technological university, 60 nanyang
+drive, singapore 637551, singapore. zbozdech@ntu.edu.sg.
+
+background: course intraerythrocytic developmental cycle (idc),
+the malaria parasite plasmodium falciparum tightly orchestrates rise fall
+of transcript levels hundreds genes. considerable debate focused on
+the relative importance transcriptional versus post-transcriptional processes 
+in regulation transcript levels. enzymatically active forms rnapii in
+other organisms associated phosphorylation serines at
+positions 2 5 heptad repeats within c-terminal domain (ctd) of
+rnapii. reasoned insight contribution transcriptional
+mechanisms gene expression p. falciparum could obtained comparing the
+presence enzymatically active forms rnapii multiple genes the
+abundance associated transcripts.
+results: exploited phosphorylation state ctd detect
+enzymatically active forms rnapii p. falciparum genes across idc. 
+we raised highly specific monoclonal antibodies three forms the
+parasite ctd, namely unphosphorylated, ser5-p ser2/5-p, used in
+chip-on-chip type experiments map genome-wide occupancy rnapii. our
+data reveal idc divided early late phases rnapii
+occupancy evident simple bi-phasic rnapii binding profiles. comparison to
+mrna abundance, identified sub-sets genes high occupancy by
+enzymatically active forms rnapii relatively low transcript levels and
+vice versa. show presence active repressive histone
+modifications correlates rnapii occupancy idc.
+conclusions: simple early/late occupancy rnapii cannot account the
+complex dynamics mrna accumulation idc, suggesting major role for
+mechanisms acting downstream rnapii occupancy control gene
+expression parasite.
+
+doi: 10.1186/1471-2164-15-959 
+pmcid: pmc4232647
+pmid: 25373614  [indexed medline]
+

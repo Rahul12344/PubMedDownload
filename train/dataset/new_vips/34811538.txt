@@ -1,0 +1,62 @@
+
+1. Nat Immunol. 2021 Dec;22(12):1590-1598. doi: 10.1038/s41590-021-01073-2. Epub
+2021 Nov 22.
+
+High-throughput and high-dimensional single-cell analysis of antigen-specific
+CD8+ T cells.
+
+Ma KY(#)(1), Schonnesen AA(#)(2), He C(2), Xia AY(3), Sun E(2), Chen E(4),
+Sebastian KR(5), Guo YW(6)(7), Balderas R(8), Kulkarni-Date M(5), Jiang
+N(9)(10)(11)(12)(13).
+
+Author information: 
+(1)Interdisciplinary Life Sciences Graduate Programs, The University of Texas at 
+Austin, Austin, TX, USA.
+(2)Department of Biomedical Engineering, The University of Texas at Austin,
+Austin, TX, USA.
+(3)Department of Molecular Biosciences, The University of Texas atAustin, Austin,
+TX, USA.
+(4)Department of Nutritional Sciences, The University of Texas at Austin, Austin,
+TX, USA.
+(5)Department of Internal Medicine, Dell Medical School, The University of Texas 
+at Austin, Austin, TX, USA.
+(6)McKetta Department of Chemical Engineering, The University of Texas at Austin,
+Austin, TX, USA.
+(7)Department of Bioengineering, University of Pennsylvania, Philadelphia, PA,
+USA.
+(8)Becton Dickinson, San Jose, CA, USA.
+(9)Interdisciplinary Life Sciences Graduate Programs, The University of Texas at 
+Austin, Austin, TX, USA. jnjiang@upenn.edu.
+(10)Department of Biomedical Engineering, The University of Texas at Austin,
+Austin, TX, USA. jnjiang@upenn.edu.
+(11)Department of Bioengineering, University of Pennsylvania, Philadelphia, PA,
+USA. jnjiang@upenn.edu.
+(12)Department of Oncology, Dell Medical School, The University of Texas at
+Austin, Austin, TX, USA. jnjiang@upenn.edu.
+(13)Institute for Immunology, University of Pennsylvania Perelman School of
+Medicine, Philadelphia, PA, USA. jnjiang@upenn.edu.
+(#)Contributed equally
+
+Although critical to T cell function, antigen specificity is often omitted in
+high-throughput multiomics-based T cell profiling due to technical challenges. We
+describe a high-dimensional, tetramer-associated T cell antigen receptor (TCR)
+sequencing (TetTCR-SeqHD) method to simultaneously profile cognate antigen
+specificities, TCR sequences, targeted gene expression and surface-protein
+expression from tens of thousands of single cells. Using human polyclonal CD8+ T 
+cells with known antigen specificity and TCR sequences, we demonstrate over 98%
+precision for detecting the correct antigen specificity. We also evaluate gene
+expression and phenotypic differences among antigen-specific CD8+ T cells and
+characterize phenotype signatures of influenza- and Epstein-Barr virus-specific
+CD8+ T cells that are unique to their pathogen targets. Moreover, with the
+high-throughput capacity of profiling hundreds of antigens simultaneously, we
+apply TetTCR-SeqHD to identify antigens that preferentially enrich cognate CD8+ T
+cells in patients with type 1 diabetes compared to healthy controls and discover 
+a TCR that cross-reacts with diabetes-related and microbiome antigens.
+TetTCR-SeqHD is a powerful approach for profiling T cell responses in humans and 
+mice.
+
+© 2021. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41590-021-01073-2 
+PMID: 34811538 
+

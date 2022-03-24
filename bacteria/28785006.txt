@@ -1,0 +1,48 @@
+
+1. Sci Rep. 2017 Aug 7;7(1):7438. doi: 10.1038/s41598-017-07457-5.
+
+A camelid single-domain antibody neutralizes botulinum neurotoxin A by blocking
+host receptor binding.
+
+Yao G(1), Lam KH(1), Weisemann J(2), Peng L(3), Krez N(2), Perry K(4), Shoemaker 
+CB(5), Dong M(3), Rummel A(2), Jin R(6).
+
+Author information: 
+(1)Department of Physiology and Biophysics, University of California, Irvine,
+California, USA.
+(2)Institut für Toxikologie, Medizinische Hochschule Hannover, Hannover, Germany.
+(3)Department of Urology, Boston Children's Hospital, Department of Microbiology 
+and Immunobiology and Department of Surgery, Harvard Medical School, Boston,
+Massachusetts, USA.
+(4)NE-CAT and Department of Chemistry and Chemical Biology, Cornell University,
+Argonne National Laboratory, Argonne, Illinois, USA.
+(5)Department of Infectious Diseases and Global Health, Tufts Clinical and
+Translational Science Institute, North Grafton, Massachusetts, USA.
+(6)Department of Physiology and Biophysics, University of California, Irvine,
+California, USA. r.jin@uci.edu.
+
+Antibody treatment is currently the only available countermeasure for botulism, a
+fatal illness caused by flaccid paralysis of muscles due to botulinum neurotoxin 
+(BoNT) intoxication. Among the seven major serotypes of BoNT/A-G, BoNT/A poses
+the most serious threat to humans because of its high potency and long duration
+of action. Prior to entering neurons and blocking neurotransmitter release,
+BoNT/A recognizes motoneurons via a dual-receptor binding process in which it
+engages both the neuron surface polysialoganglioside (PSG) and synaptic vesicle
+glycoprotein 2 (SV2). Previously, we identified a potent neutralizing antitoxin
+against BoNT/A1 termed ciA-C2, derived from a camelid heavy-chain-only antibody
+(VHH). In this study, we demonstrate that ciA-C2 prevents BoNT/A1 intoxication by
+inhibiting its binding to neuronal receptor SV2. Furthermore, we determined the
+crystal structure of ciA-C2 in complex with the receptor-binding domain of
+BoNT/A1 (HCA1) at 1.68 Å resolution. The structure revealed that ciA-C2 partially
+occupies the SV2-binding site on HCA1, causing direct interference of HCA1
+interaction with both the N-glycan and peptide-moiety of SV2. Interestingly, this
+neutralization mechanism is similar to that of a monoclonal antibody in clinical 
+trials, despite that ciA-C2 is more than 10-times smaller. Taken together, these 
+results enlighten our understanding of BoNT/A1 interactions with its neuronal
+receptor, and further demonstrate that inhibiting toxin binding to the host
+receptor is an efficient countermeasure strategy.
+
+DOI: 10.1038/s41598-017-07457-5 
+PMCID: PMC5547058
+PMID: 28785006  [Indexed for MEDLINE]
+

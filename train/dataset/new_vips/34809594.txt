@@ -1,0 +1,54 @@
+
+1. BMC Infect Dis. 2021 Nov 22;21(1):1173. doi: 10.1186/s12879-021-06866-2.
+
+Comparison of mortality risk evaluation tools efficacy in critically ill COVID-19
+patients.
+
+Vicka V(1), Januskeviciute E(2), Miskinyte S(2), Ringaitiene D(3), Serpytis M(3),
+Klimasauskas A(3), Jancoriene L(4), Sipylaite J(3).
+
+Author information: 
+(1)Clinic of Anaesthesiology and Intensive Care, Institute of Clinical Medicine, 
+Faculty of Medicine, Vilnius University, Vilnius, Lithuania. vaidas555@gmail.com.
+(2)Faculty of Medicine, Vilnius University, Vilnius, Lithuania.
+(3)Clinic of Anaesthesiology and Intensive Care, Institute of Clinical Medicine, 
+Faculty of Medicine, Vilnius University, Vilnius, Lithuania.
+(4)Institute of Clinical Medicine, Faculty of Medicine, Vilnius University,
+Vilnius, Lithuania.
+
+BACKGROUND: As the COVID-19 pandemic continues, the number of patients admitted
+to the intensive care unit (ICU) is still increasing. The aim of our article is
+to estimate which of the conventional ICU mortality risk scores is the most
+accurate at predicting mortality in COVID-19 patients and to determine how these 
+scores can be used in combination with the 4C Mortality Score.
+METHODS: This was a retrospective study of critically ill COVID-19 patients
+treated in tertiary reference COVID-19 hospitals during the year 2020. The 4C
+Mortality Score was calculated upon admission to the hospital. The Simplified
+Acute Physiology Score (SAPS) II, Acute Physiology and Chronic Health Evaluation 
+(APACHE) II, and Sequential Organ Failure Assessment (SOFA) scores were
+calculated upon admission to the ICU. Patients were divided into two groups: ICU 
+survivors and ICU non-survivors.
+RESULTS: A total of 249 patients were included in the study, of which 63.1% were 
+male. The average age of all patients was 61.32 ± 13.3 years. The all-cause ICU
+mortality ratio was 41.4% (n = 103). To determine the accuracy of the ICU
+mortality risk scores a ROC-AUC analysis was performed. The most accurate scale
+was the APACHE II, with an AUC value of 0.772 (95% CI 0.714-0.830; p < 0.001).
+All of the ICU risk scores and 4C Mortality Score were significant mortality
+predictors in the univariate regression analysis. The multivariate regression
+analysis was completed to elucidate which of the scores can be used in
+combination with the independent predictive value. In the final model, the APACHE
+II and 4C Mortality Score prevailed. For each point increase in the APACHE II,
+mortality risk increased by 1.155 (OR 1.155, 95% CI 1.085-1.229; p < 0.001), and 
+for each point increase in the 4C Mortality Score, mortality risk increased by
+1.191 (OR 1.191, 95% CI 1.086-1.306; p < 0.001), demonstrating the best overall
+calibration of the model.
+CONCLUSIONS: The study demonstrated that the APACHE II had the best
+discrimination of mortality in ICU patients. Both the APACHE II and 4C Mortality 
+Score independently predict mortality risk and can be used concomitantly.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12879-021-06866-2 
+PMCID: PMC8607225
+PMID: 34809594  [Indexed for MEDLINE]
+

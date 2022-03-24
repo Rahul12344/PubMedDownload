@@ -1,0 +1,73 @@
+
+1. Front Immunol. 2021 Oct 27;12:741837. doi: 10.3389/fimmu.2021.741837. eCollection
+2021.
+
+The Host Response to Viral Infections Reveals Common and Virus-Specific
+Signatures in the Peripheral Blood.
+
+Tsalik EL(1)(2)(3), Fiorino C(1), Aqeel A(4), Liu Y(1), Henao R(1)(5), Ko
+ER(1)(6), Burke TW(1), Reller ME(3), Bodinayake CK(7), Nagahawatte A(7), Arachchi
+WK(8), Devasiri V(7), Kurukulasooriya R(7), McClain MT(1)(3)(9), Woods
+CW(1)(3)(9), Ginsburg GS(1), Tillekeratne LG(1)(3)(9), Schughart K(10)(11)(12).
+
+Author information: 
+(1)Duke Center for Applied Genomics and Precision Medicine, Duke University
+School of Medicine, Durham, NC, United States.
+(2)Emergency Department Service, Durham Veterans Affairs Health Care System,
+Durham, NC, United States.
+(3)Division of Infectious Diseases, Department of Medicine, Duke University
+School of Medicine, Durham, NC, United States.
+(4)Duke Molecular Genetics and Microbiology, Duke University School of Medicine, 
+Durham, NC, United States.
+(5)Department of Electrical and Computer Engineering, Duke University, Durham,
+NC, United States.
+(6)Department of Medicine, Duke Regional Hospital, Durham, NC, United States.
+(7)Faculty of Medicine, University of Ruhuna, Galle, Sri Lanka.
+(8)Teaching Hospital Karapitiya, Galle, Sri Lanka.
+(9)Medical Service, Durham Veterans Affairs Health Care System, Durham, NC,
+United States.
+(10)Department of Infection Genetics, Helmholtz Centre for Infection Research,
+Braunschweig, Germany.
+(11)University of Veterinary Medicine Hannover, Hannover, Germany.
+(12)Department of Microbiology, Immunology and Biochemistry, University of
+Tennessee Health Science Center, Memphis, TN, United States.
+
+Viruses cause a wide spectrum of clinical disease, the majority being acute
+respiratory infections (ARI). In most cases, ARI symptoms are similar for
+different viruses although severity can be variable. The objective of this study 
+was to understand the shared and unique elements of the host transcriptional
+response to different viral pathogens. We identified 162 subjects in the US and
+Sri Lanka with infections due to influenza, enterovirus/rhinovirus, human
+metapneumovirus, dengue virus, cytomegalovirus, Epstein Barr Virus, or
+adenovirus. Our dataset allowed us to identify common pathways at the molecular
+level as well as virus-specific differences in the host immune response.
+Conserved elements of the host response to these viral infections highlighted the
+importance of interferon pathway activation. However, the magnitude of the
+responses varied between pathogens. We also identified virus-specific responses
+to influenza, enterovirus/rhinovirus, and dengue infections. Influenza-specific
+differentially expressed genes (DEG) revealed up-regulation of pathways related
+to viral defense and down-regulation of pathways related to T cell and neutrophil
+responses. Functional analysis of entero/rhinovirus-specific DEGs revealed
+up-regulation of pathways for neutrophil activation, negative regulation of
+immune response, and p38MAPK cascade and down-regulation of virus defenses and
+complement activation. Functional analysis of dengue-specific up-regulated DEGs
+showed enrichment of pathways for DNA replication and cell division whereas
+down-regulated DEGs were mainly associated with erythrocyte and myeloid cell
+homeostasis, reactive oxygen and peroxide metabolic processes. In conclusion, our
+study will contribute to a better understanding of molecular mechanisms to viral 
+infections in humans and the identification of biomarkers to distinguish
+different types of viral infections.
+
+Copyright © 2021 Tsalik, Fiorino, Aqeel, Liu, Henao, Ko, Burke, Reller,
+Bodinayake, Nagahawatte, Arachchi, Devasiri, Kurukulasooriya, McClain, Woods,
+Ginsburg, Tillekeratne and Schughart.
+
+DOI: 10.3389/fimmu.2021.741837 
+PMCID: PMC8578928
+PMID: 34777354 
+
+Conflict of interest statement: ELT, GSG, CWW, and TWB consult for and hold
+equity in Biomeme, Inc. The remaining authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+

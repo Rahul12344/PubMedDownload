@@ -1,0 +1,41 @@
+
+1. viruses. 2018 nov 15;10(11). pii: e637. doi: 10.3390/v10110637.
+
+base-by-base version 3: new comparative tools large virus genomes.
+
+tu sl(1), staheli jp(2), mcclay c(3), mcleod k(4), rose tm(5)(6), upton c(7).
+
+author information: 
+(1)biochemistry microbiology, university victoria, victoria, bc v8w 2y2,
+canada. cindytu@uvic.ca.
+(2)center global infectious disease research, seattle children's research
+institute, seattle, wa 98101, usa. jeannette.staheli@seattlechildrens.org.
+(3)biochemistry microbiology, university victoria, victoria, bc v8w 2y2,
+canada. colummcclay@hotmail.com.
+(4)biochemistry microbiology, university victoria, victoria, bc v8w 2y2,
+canada. kathleen_mcleod14@hotmail.com.
+(5)center global infectious disease research, seattle children's research
+institute, seattle, wa 98101, usa. trose@u.washington.edu.
+(6)department pediatrics, university washington, seattle, wa 98195, usa.
+trose@u.washington.edu.
+(7)biochemistry microbiology, university victoria, victoria, bc v8w 2y2,
+canada. cupton@uvic.ca.
+
+base-by-base comprehensive tool creation editing multiple
+sequence alignments coded java runs multiple platforms. 
+be used gene protein sequences well large viral genomes,
+which contain gene annotations. report describes new features
+added base-by-base last 7 years. two significant additions
+are: (1) recoding inclusion "consensus-degenerate hybrid
+oligonucleotide primers" (codehop), popular tool design degenerate
+primers multiple sequence alignment proteins; (2) ability to
+perform fuzzy searches within columns sequence data multiple sequence
+alignments determine distribution sequence variants among the
+sequences. intuitive interface focuses presentation results in
+easily understood visualizations providing ability annotate the
+sequences multiple alignment analytic user data.
+
+doi: 10.3390/v10110637 
+pmcid: pmc6265842
+pmid: 30445717  [indexed medline]
+

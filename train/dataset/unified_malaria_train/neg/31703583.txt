@@ -1,0 +1,58 @@
+
+1. malar j. 2019 nov 8;18(1):356. doi: 10.1186/s12936-019-2989-2.
+
+the pfs230 n-terminal fragment, pfs230d1+: expression characterization a
+potential malaria transmission-blocking vaccine candidate.
+
+lee sm(1), wu y(2), hickey jm(3), miura k(4), whitaker n(3), joshi sb(3), volkin 
+db(3), richter king c(2), plieskatt j(2).
+
+author information: 
+(1)path's malaria vaccine initiative (mvi), 455 massachusetts avenue nw, suite
+1000, washington, dc, 20001-2621, usa. smlee@path.org.
+(2)path's malaria vaccine initiative (mvi), 455 massachusetts avenue nw, suite
+1000, washington, dc, 20001-2621, usa.
+(3)department pharmaceutical chemistry, vaccine analytics formulation
+center, university kansas, lawrence, ks, 66047, usa.
+(4)laboratory malaria vector research, national institute allergy and
+infectious diseases, national institutes health, rockville, md, 20852, usa.
+
+background: control elimination malaria accelerated by
+transmission-blocking interventions vaccines. surface antigen of
+plasmodium falciparum gametocytes, pfs230, leading vaccine target antigen,
+and recently progressed experimental clinical trials. support vaccine
+product development, n-terminal pfs230 antigen designed increase yield,
+as well improve antigen quality, integrity, homogeneity.
+methods: scalable baculovirus expression system used express the
+pfs230d1+ construct (aa 552-731), subsequently purified analysed.
+pfs230d1+ designed avoid glycosylation protease digestion, thereby
+potentially increasing homogeneity stability. resulting pfs230d1+ protein
+was compared previous iteration pfs230 n-terminal domain, pfs230c1
+(aa 443-731), physiochemical characterization vivo analysis. the
+induction functional antibody responses confirmed via standard
+membrane feeding assay (smfa).
+results: pfs230d1+ produced purified overall yield 23 mg/l
+culture supernatant, twofold yield increase pfs230c1. pfs230d1+
+protein migrated single band via sds-page detected anti-pfs230c1 
+monoclonal antibodies. evaluation sds-page, chromatography (size-exclusion and
+reversed phase) capillary isoelectric focusing demonstrated molecule 
+improved homogeneity terms size, conformation, charge. intact mass
+spectrometry confirmed molecular weight free of
+glycosylation, key difference prior pfs230c1 protein. correct
+formation two intramolecular disulfide bonds initially inferred by
+binding conformation specific monoclonal antibody directly confirmed 
+lc/ms peptide mapping. injected mice pfs230d1+ protein elicited
+antibodies demonstrated transmission-reducing activity, via smfa, comparable
+to pfs230c1.
+conclusion: elimination o-glycosylation site, potential
+n-glycosylation site, two proteolytic cleavage sites, improved n-terminal 
+pfs230 fragment produced, termed d1+, non-glycosylated, homogeneous,
+and biologically active. intact protein higher yield previously
+observed pfs230c1 fragment achieved. results indicate that
+pfs230d1+ protein produced baculovirus expression system attractive 
+antigen transmission-blocking vaccine development.
+
+doi: 10.1186/s12936-019-2989-2 
+pmcid: pmc6839146
+pmid: 31703583  [indexed medline]
+

@@ -1,0 +1,54 @@
+
+1. plos comput biol. 2018 jun 13;14(6):e1006174. doi: 10.1371/journal.pcbi.1006174. 
+ecollection 2018 jun.
+
+identifying functional groups among diverse, recombining antigenic var genes 
+of malaria parasite plasmodium falciparum local community ghana.
+
+rorick mm(1)(2), baskerville eb(1), rask ts(3)(4), day kp(3)(4), pascual m(1)(5).
+
+author information: 
+(1)department ecology evolution, university chicago, chicago, il,
+united states america.
+(2)department biology, university utah, salt lake city, ut, united states
+of america.
+(3)school biosciences, bio21 institute, university melbourne,
+melbourne, au.
+(4)department microbiology, new york university, new york, ny, united states
+of america.
+(5)the santa fe institute, santa fe, nm, united states america.
+
+a challenge studying diverse multi-copy gene families deciphering distinct 
+functional types within immense sequence variation. functional changes in
+some cases tracked evolutionary history gene family; however 
+phylogenetic approaches possible cases gene families diversify
+primarily recombination. take network theoretical approach to
+functionally classify highly recombining var antigenic gene family the
+malaria parasite plasmodium falciparum. sample var dblα sequence types 
+local population ghana, classify 9,276 variants 48
+functional types. approach first decompose sequence type 
+constituent, recombining parts; use stochastic block model identify 
+functional groups among parts; finally, classify sequence types based 
+on functional groups contain. method functional
+classification rely inferred phylogenetic history, it
+rely inferring function based conserved sequence features. instead, it
+infers functional similarity among recombining parts based sharing of
+similar co-occurrence interactions parts. method therefore
+group sequences undetectable sequence homology even distinct
+origination. describing 48 var functional types allows us simplify the
+antigenic diversity within dataset two orders magnitude. we
+consider var functional types distributed isolates, find a
+nonrandom pattern reflecting common var functional types non-randomly
+distinct one another terms functional composition. the
+coarse-graining var gene diversity biologically meaningful functional
+groups important implications understanding disease ecology and
+evolution system, well designing effective epidemiological
+monitoring intervention.
+
+doi: 10.1371/journal.pcbi.1006174 
+pmcid: pmc6016947
+pmid: 29897905  [indexed medline]
+
+conflict interest statement: authors declared competing
+interests exist.
+

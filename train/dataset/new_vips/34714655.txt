@@ -1,0 +1,45 @@
+
+1. J Chem Inf Model. 2021 Nov 22;61(11):5550-5568. doi: 10.1021/acs.jcim.1c00264.
+Epub 2021 Oct 29.
+
+Inside and Out of the Pore: Comparing Interactions and Molecular Dynamics of
+Influenza A M2 Viroporin Complexes in Standard Lipid Bilayers.
+
+Kolokouris D(1), Kalenderoglou IE(1), Kolocouris A(1).
+
+Author information: 
+(1)Laboratory of Medicinal Chemistry, Section of Pharmaceutical Chemistry,
+Department of Pharmacy, School of Health Sciences, National and Kapodistrian
+University of Athens, Panepistimiopolis-Zografou, Athens 15771, Greece.
+
+Ion channels located at viral envelopes (viroporins) have a critical function for
+the replication of infectious viruses and are important drug targets. Over the
+last decade, the number and duration of molecular dynamics (MD) simulations of
+the influenza A M2 ion channel owing to the increased computational efficiency.
+Here, we aimed to define the system setup and simulation conditions for the
+correct description of the protein-pore and the protein-lipid interactions for
+influenza A M2 in comparison with experimental data. We performed numerous MD
+simulations of the influenza A M2 protein in complex with adamantane blockers in 
+standard lipid bilayers using OPLS2005 and CHARMM36 (C36) force fields. We
+explored the effect of varying the M2 construct (M2(22-46) and M2(22-62)), the
+lipid buffer size and type (stiffer DMPC or softer POPC with or without 20%
+cholesterol), the simulation time, the H37 protonation site (Nδ or Νε), the
+conformational state of the W41 channel gate, and M2's cholesterol binding sites 
+(BSs). We report that the 200 ns MD with M2(22-62) (having Nε Η37) in the 20 Å
+lipid buffer with the C36 force field accurately describe: (a) the M2 pore
+structure and interactions inside the pore, that is, adamantane channel blocker
+location, water clathrate structure, and water or chloride anion blockage/passage
+from the M2 pore in the presence of a channel blocker and (b) interactions
+between M2 and the membrane environment as reflected by the calculation of the M2
+bundle tilt, folding of amphipathic helices, and cholesterol BSs. Strikingly, we 
+also observed that the C36 1 μs MD simulations using M2(22-62) embedded in a 20 Å
+POPC:cholesterol (5:1) scrambled membrane produced frequent interactions with
+cholesterol, which when combined with computational kinetic analysis, revealed
+the experimentally observed BSs of cholesterol and suggested three similarly
+long-interacting positions in the top leaflet that have previously not been
+observed experimentally. These findings promise to be useful for other viroporin 
+systems.
+
+DOI: 10.1021/acs.jcim.1c00264 
+PMID: 34714655  [Indexed for MEDLINE]
+

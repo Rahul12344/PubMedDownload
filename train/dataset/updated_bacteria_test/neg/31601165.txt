@@ -1,0 +1,44 @@
+
+1. Biosci Biotechnol Biochem. 2020 Feb;84(2):228-237. doi:
+10.1080/09168451.2019.1677142. Epub 2019 Oct 10.
+
+Electrostatic interactions at the interface of two enzymes are essential for
+two-step alkane biosynthesis in cyanobacteria.
+
+Chang M(1), Shimba K(2), Hayashi Y(2), Arai M(1)(2).
+
+Author information: 
+(1)Department of Physics, Graduate School of Science, The University of Tokyo,
+Tokyo, Japan.
+(2)Department of Life Sciences, Graduate School of Arts and Sciences, The
+University of Tokyo, Tokyo, Japan.
+
+Cyanobacterial alkane biosynthesis is catalyzed by acyl-(acyl carrier protein
+(ACP)) reductase (AAR) and aldehyde-deformylating oxygenase (ADO) in a two-step
+reaction. AAR reduces acyl-ACPs to fatty aldehydes, which are then converted by
+ADO to alkanes, the main components of diesel fuel. Interaction between AAR and
+ADO allows AAR to efficiently deliver the aldehyde to ADO. However, this
+interaction is poorly understood. Here, using analytical size-exclusion
+chromatography (SEC), we show that electrostatic interactions play an important
+role in the binding of the two enzymes. Alanine-scanning mutagenesis at charged
+residues around the substrate entry site of ADO revealed that E201A mutation
+greatly reduced hydrocarbon production. SEC measurement of the mutant
+demonstrated that E201 of ADO is essential for the AAR-ADO interaction. Our
+results suggest that AAR binds to the substrate entrance gate of ADO and thereby 
+facilitates the insertion of the reactive and relatively insoluble aldehyde into 
+the hydrophobic channel of ADO.Abbreviations: AAR: acyl-ACP reductase; ACP: acyl 
+carrier protein; ADO: aldehyde-deformylating oxygenase; ASA: solvent accessible
+surface area; BSA: bovine serum albumin; CD: circular dichroism; DMSO: dimethyl
+sulfoxide; DTT: dithiothreitol; GC-MS: gas chromatography-mass spectrometer;
+HPLC: high-performance liquid chromatography; IPTG:
+isopropyl-β-D-thiogalactoside; MRE: mean residue ellipticity; NpAAR: AAR from
+Nostoc punctiforme PCC 73102; NpADO: ADO from Nostoc punctiforme PCC 73102;
+PmADO: ADO from Prochlorococcus marinus MIT 9313; SDS-PAGE: sodium dodecyl
+sulfate-polyacrylamide gel electrophoresis; SeAAR: AAR from Synechococcus
+elongatus PCC 7942; SeADO: ADO from Synechococcus elongatus PCC 7942; SEC:
+size-exclusion chromatography; TeAAR: AAR from Thermosynechococcus elongatus
+BP-1; TeADO: ADO from Thermosynechococcus elongatus BP-1; UV: ultraviolet.
+
+DOI: 10.1080/09168451.2019.1677142 
+PMID: 31601165  [Indexed for MEDLINE]
+

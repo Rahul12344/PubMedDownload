@@ -1,0 +1,44 @@
+
+1. biomed res int. 2015;2015:359835. doi: 10.1155/2015/359835. epub 2015 oct 4.
+
+how use snp_tata_comparator find significant change gene expression
+caused regulatory snp gene's promoter via change affinity 
+the tata-binding protein promoter.
+
+ponomarenko m(1), rasskazov d(2), arkova o(2), ponomarenko p(3), suslov v(2),
+savinkova l(2), kolchanov n(1).
+
+author information: 
+(1)institute cytology genetics, siberian branch russian academy of
+sciences, novosibirsk 630090, russia ; department natural sciences,
+novosibirsk state university, novosibirsk 630090, russia.
+(2)institute cytology genetics, siberian branch russian academy of
+sciences, novosibirsk 630090, russia.
+(3)children's hospital los angeles, university southern california, los
+angeles, ca 90027, usa.
+
+the use biomedical snp markers diseases improve effectiveness of
+treatment. genotyping patients subsequent searching snps more
+frequent norm commonly accepted method identification 
+snp markers within framework translational research. bioinformatics
+applications aimed millions unannotated snps "1000 genomes" make
+this search snp markers focused less expensive. used web
+service involving fisher's z-score candidate snp markers find a
+significant change gene's expression. analyzed change caused 
+snps gene's promoter via change affinity tata-binding protein 
+for promoter. provide examples discuss use bioinformatics
+application course practical analysis unannotated snps the
+"1000 genomes" project. using known biomedical snp markers, identified 17
+novel candidate snp markers nearby: rs549858786 (rheumatoid arthritis);
+rs72661131 (cardiovascular events rheumatoid arthritis); rs562962093 (stroke);
+rs563558831 (cyclophosphamide bioactivation); rs55878706 (malaria resistance,
+leukopenia), rs572527200 (asthma, systemic sclerosis, psoriasis), rs371045754
+(hemophilia b), rs587745372 (cardiovascular events); rs372329931, rs200209906,
+rs367732974, rs549591993 (all four: cancer); rs17231520 rs569033466
+(both: atherosclerosis); rs63750953, rs281864525, rs34166473 (all three:
+malaria resistance, thalassemia).
+
+doi: 10.1155/2015/359835 
+pmcid: pmc4609514
+pmid: 26516624  [indexed medline]
+

@@ -1,0 +1,53 @@
+
+1. bmc genomics. 2020 jun 8;21(1):395. doi: 10.1186/s12864-020-06787-5.
+
+refining transcriptome human malaria parasite plasmodium falciparum
+using amplification-free rna-seq.
+
+chappell l(1), ross p(2)(3), orchard l(2), russell tj(2), otto td(1)(4), berriman
+m(1), rayner jc(1)(5), llinás m(6)(7).
+
+author information: 
+(1)wellcome sanger institute, wellcome genome campus, cambridge, cb10 1sa, uk.
+(2)department biochemistry & molecular biology huck center malaria
+research, pennsylvania state university, university park, pa, 16802, usa.
+(3)present address: department biochemistry molecular biology, the
+university chicago, chicago, il, 60637, usa.
+(4)present address: institute infection, immunity inflammation, mvls,
+university glasgow, glasgow, g12 8ta, uk.
+(5)present address: cambridge institute medical research, university of
+cambridge, cambridge, cb2 0xy, uk.
+(6)department biochemistry & molecular biology huck center malaria
+research, pennsylvania state university, university park, pa, 16802, usa.
+manuel@psu.edu.
+(7)department chemistry, pennsylvania state university, university park, pa,
+16802, usa. manuel@psu.edu.
+
+background: plasmodium parasites undergo several major developmental transitions 
+during complex lifecycle, enabled precisely ordered gene
+expression programs. transcriptomes 48-h blood stages major human
+malaria parasite plasmodium falciparum described using cdna microarrays
+and rna-seq, assays always performed well within non-coding
+regions, at-content often 90-95%.
+results: developed directional, amplification-free rna-seq protocol
+(daft-seq) reduce bias at-rich cdna, applied three
+strains p. falciparum (3d7, hb3 it). strain-specific differences
+were detected, overall strong conservation transcriptional
+profiles. 3d7 reference strain, transcription detected 89% of
+the genome, 78% genome transcribed mrnas. also find that
+transcription bidirectional promoters frequently results non-coding,
+antisense transcripts. datasets allowed us refine 5' 3'
+untranslated regions (utrs), variable, long (> 1000 nt), often
+overlap adjacent transcripts.
+conclusions: approaches applied study allow refined description 
+the transcriptional landscape p. falciparum demonstrate little
+of densely packed p. falciparum genome inactive redundant. capturing
+the 5' 3' ends mrnas, reveal constant dynamic use of
+transcriptional start sites across intraerythrocytic developmental cycle that
+will useful guiding definition regulatory regions use future 
+experimental gene expression studies.
+
+doi: 10.1186/s12864-020-06787-5 
+pmcid: pmc7278070
+pmid: 32513207 
+

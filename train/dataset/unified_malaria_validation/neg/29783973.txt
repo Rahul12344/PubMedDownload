@@ -1,0 +1,73 @@
+
+1. bmc med genomics. 2018 may 21;11(1):48. doi: 10.1186/s12920-018-0365-7.
+
+erythrocyte microrna sequencing reveals differential expression in
+relapsing-remitting multiple sclerosis.
+
+groen k(1)(2), maltby ve(1)(2), lea ra(2)(3), sanders ka(4), fink jl(5), scott
+rj(2)(6)(7), tajouri l(8), lechner-scott j(9)(10)(11).
+
+author information: 
+(1)school medicine public health, university newcastle, callaghan, nsw,
+2308, australia.
+(2)centre information based medicine, level 3 west, hunter medical research
+institute, 1 kookaburra circuit, new lambton heights, nsw, 2305, australia.
+(3)institute health biomedical innovations, genomics research centre,
+queensland university technology, kelvin grove, qld, 4059, australia.
+(4)centre anatomical human sciences, hull york medical school, hull, hu6 
+7rx, uk.
+(5)diamantina institute, university queensland, woolloongabba, qld, 4102,
+australia.
+(6)division molecular genetics, pathology north, john hunter hospital, new
+lambton heights, nsw, 2305, australia.
+(7)school biomedical sciences pharmacy, university newcastle,
+callaghan, nsw, 2308, australia.
+(8)faculty health sciences medicine, bond university, qld, robina, 4229,
+australia.
+(9)school medicine public health, university newcastle, callaghan, nsw,
+2308, australia. jeannette.lechner-scott@hnehealth.nsw.gov.
+(10)centre information based medicine, level 3 west, hunter medical research 
+institute, 1 kookaburra circuit, new lambton heights, nsw, 2305, australia.
+jeannette.lechner-scott@hnehealth.nsw.gov.
+(11)department neurology, john hunter hospital, new lambton heights, nsw,
+2305, australia. jeannette.lechner-scott@hnehealth.nsw.gov.
+
+background: paucity knowledge concerning erythrocytes the
+aetiology multiple sclerosis (ms) despite potential contribute to
+disease impaired antioxidant capacity altered haemorheological
+features. several studies identified abundance erythrocyte mirnas 
+variable profiles associated disease states, sickle cell disease and
+malaria. aim study compare erythrocyte mirna profile of
+relapsing-remitting ms (rrms) patients healthy sex- age-matched controls.
+methods: erythrocytes purified density-gradient centrifugation rna
+was extracted. following library preparation, samples run hiseq4000
+illumina instrument (paired-end 100 bp sequencing). sequenced erythrocyte mirna
+profiles (9 patients 9 controls) analysed deseq2. differentially
+expressed mirnas validated rt-qpcr using mir-152-3p endogenous
+control replicated larger cohort (20 patients 18 controls). after
+logarithmic transformation, differential expression determined two-tailed 
+unpaired t-tests. logistic regression analysis carried receiver
+operating characteristic (roc) curves generated determine biomarker
+potential.
+results: total 236 erythrocyte mirnas identified. twelve
+differentially expressed mirnas rrms two showed increased expression (adj.
+p < 0.05). modest fold-changes evident across differentially expressed 
+mirnas. rt-qpcr confirmed differential expression mir-30b-5p (0.61 fold,
+p < 0.05) mir-3200-3p (0.36 fold, p < 0.01) rrms compared healthy
+controls. relative expression mir-3200-5p (0.66 fold, ns p = 0.096) also
+approached significance. mir-3200-5p positively correlated cognition
+measured audio-recorded cognitive screen (r = 0.60; p < 0.01). mir-3200-3p
+showed greatest biomarker potential single mirna (accuracy = 75.5%,
+p < 0.01, sensitivity = 72.7%, specificity = 84.0%). combining mir-3200-3p,
+mir-3200-5p, mir-30b-5p composite biomarker increased accuracy to
+83.0% (p < 0.05), sensitivity 77.3%, specificity 88.0%.
+conclusions: first study report differences erythrocyte mirnas 
+in rrms. role mirnas erythrocytes remains elucidated,
+differential expression erythrocyte mirnas may exploited biomarkers 
+their potential contribution ms pathology cognition further
+investigated.
+
+doi: 10.1186/s12920-018-0365-7 
+pmcid: pmc5963124
+pmid: 29783973  [indexed medline]
+

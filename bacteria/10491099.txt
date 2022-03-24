@@ -1,0 +1,39 @@
+
+1. Eur J Biochem. 1999 Sep;264(2):516-24.
+
+Activation of active-site cysteine residues in the peroxiredoxin-type
+tryparedoxin peroxidase of Crithidia fasciculata.
+
+Montemartini M(1), Kalisz HM, Hecht HJ, Steinert P, Flohé L.
+
+Author information: 
+(1)Department of Biochemistry, Technical University of Braunschweig, Germany.
+
+Tryparedoxin peroxidase (TXNPx), recently identified as the
+hydroperoxide-detoxifying enzyme of trypanosomatidae [Nogoceke, E., Gommel, D.
+U., Kiess, M., Kalisz, H. M. & Flohé, L. (1997) Biol. Chem. 378, 827-836], is a
+member of the peroxiredoxin family and is characterized by two VCP motifs. Based 
+on a consensus sequence of TXNPx and peroxiredoxin-type peroxidases, eight TXNPx 
+variants were designed, heterologously expressed in Escherichia coli, checked for
+alpha-helix content by CD and kinetically analysed. The variant Q164E was fully
+active, C52S, W87D and R128E were inactive and C173S, W87H, W177E and W177H
+showed reduced activity. Wild-type TXNPx and Q164E exhibit ping-pong kinetics
+with infinite maximum velocities, whereas saturation kinetics were observed with 
+C173S and W177E. The data comply with a mechanism in which C52, primarily
+activated by R128 and possibly by W87, is first oxidized by hydroperoxide to a
+sulfenic acid derivative. C173, supported by W177, then forms an intersubunit
+disulfide bridge with C52. If C173 is exchanged with a redox-inactive residue
+(Ser) or is insufficiently activated, the redox shuttle remains restricted to
+C52. The shift in the kinetic pattern and decrease in specific activity of C173S 
+and W177E may result from a limited accessibility of the oxidized C52 to
+tryparedoxin, which in the oxidized wild-type TXNPx presumably attacks the C173
+sulfur of the disulfide bridge. The proposed mechanism of action of TXNPx is
+consistent with that deduced for the homologous thioredoxin peroxidase of yeast
+[Chae, H. Z., Uhm, T. B. & Rhee, S. G. (1994) Proc. Natl Acad. Sci. USA 91,
+7022-7026] and is supported by molecular modelling based on the structure of the 
+human peroxiredoxin 'hORF6' [Choi, H.-J., Kang, S. W. Yang, C.-H., Rhee, S. G. & 
+Ryu, S.-E. (1998) Nat. Struct. Biol. 5, 400-406].
+
+DOI: 10.1046/j.1432-1327.1999.00656.x 
+PMID: 10491099  [Indexed for MEDLINE]
+

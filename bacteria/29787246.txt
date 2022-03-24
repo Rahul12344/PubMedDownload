@@ -1,0 +1,33 @@
+
+1. Biochemistry. 2018 Jul 31;57(30):4431-4439. doi: 10.1021/acs.biochem.8b00347.
+Epub 2018 Jul 23.
+
+Investigation of Solvent Hydron Exchange in the Reaction Catalyzed by the
+Antibiotic Resistance Protein Cfr.
+
+Bauerle MR, Grove TL, Booker SJ.
+
+Cfr is a radical S-adenosylmethionine (RS) methylase that appends methyl groups
+to C8 and C2 of adenosine 2503 in 23S rRNA. Methylation of C8 confers resistance 
+to several classes of antibiotics that bind in or near the peptidyltransferase
+center of the bacterial ribosome, including the synthetic antibiotic linezolid.
+The Cfr reaction requires the action of five conserved cysteines, three of which 
+ligate a required [4Fe-4S] cluster cofactor. The two remaining cysteines play a
+more intricate role in the reaction; one (Cys338) becomes transiently methylated 
+during catalysis. The function of the second (Cys105) has not been rigorously
+established; however, in the related RlmN reaction, it (Cys118) initiates
+resolution of a key protein-nucleic acid cross-linked intermediate by abstracting
+the proton from the carbon center (C2) undergoing methylation. We previously
+proposed that, unlike RlmN, Cfr would utilize a polyprotic base during resolution
+of the protein-nucleic acid cross-linked intermediate during C8 methylation and, 
+like RlmN, use a monoprotic base during C2 methylation. We based this proposal on
+the fact that solvent hydrons could exchange into the product during C8
+methylation, but not during C2 methylation. Herein, we show that Cys105 of Cfr
+has a function similar to that of Cys118 of RlmN while methylating C8 of A2503
+and provide evidence for one molecule of water that is in close contact with it, 
+which provides the exchangeable protons during catalysis.
+
+DOI: 10.1021/acs.biochem.8b00347 
+PMCID: PMC6501181
+PMID: 29787246  [Indexed for MEDLINE]
+

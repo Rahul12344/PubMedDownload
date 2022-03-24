@@ -1,0 +1,45 @@
+
+1. Viruses. 2021 Oct 7;13(10). pii: 2023. doi: 10.3390/v13102023.
+
+Cryo EM Analysis Reveals Inherent Flexibility of Authentic Murine Papillomavirus 
+Capsids.
+
+Hartmann SR(1), Goetschius DJ(1)(2), Hu J(3)(4), Graff JJ(1), Bator CM(5),
+Christensen ND(3)(4)(6), Hafenstein SL(1)(2)(5).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, The Pennsylvania State
+University, University Park, PA 16802, USA.
+(2)Department of Medicine, The Pennsylvania State University College of Medicine,
+Hershey, PA 17033, USA.
+(3)Department of Pathology, The Pennsylvania State University College of
+Medicine, Hershey, PA 17033, USA.
+(4)The Jake Gittlen Laboratories for Cancer Research, Hershey, PA 17033, USA.
+(5)Huck Institutes of the Life Sciences, The Pennsylvania State University,
+University Park, PA 16802, USA.
+(6)Department of Microbiology and Immunology, The Pennsylvania State University
+College of Medicine, Hershey, PA 17033, USA.
+
+Human papillomavirus (HPV) is a significant health burden and leading cause of
+virus-induced cancers. However, studies have been hampered due to restricted
+tropism that makes production and purification of high titer virus problematic.
+This issue has been overcome by developing alternative HPV production methods
+such as virus-like particles (VLPs), which are devoid of a native viral genome.
+Structural studies have been limited in resolution due to the heterogeneity,
+fragility, and stability of the VLP capsids. The mouse papillomavirus (MmuPV1)
+presented here has provided the opportunity to study a native papillomavirus in
+the context of a common laboratory animal. Using cryo EM to solve the structure
+of MmuPV1, we achieved 3.3 Å resolution with a local symmetry refinement method
+that defined smaller, symmetry related subparticles. The resulting
+high-resolution structure allowed us to build the MmuPV1 asymmetric unit for the 
+first time and identify putative L2 density. We also used our program ISECC to
+quantify capsid flexibility, which revealed that capsomers move as rigid bodies
+connected by flexible linkers. The MmuPV1 flexibility was comparable to that of a
+HPV VLP previously characterized. The resulting MmuPV1 structure is a promising
+step forward in the study of papillomavirus and will provide a framework for
+continuing biochemical, genetic, and biophysical research for papillomaviruses.
+
+DOI: 10.3390/v13102023 
+PMCID: PMC8537154
+PMID: 34696452 
+

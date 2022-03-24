@@ -1,0 +1,47 @@
+
+1. Malar J. 2014 Jul 18;13:277. doi: 10.1186/1475-2875-13-277.
+
+Production and characterization of specific monoclonal antibodies binding the
+Plasmodium falciparum diagnostic biomarker, histidine-rich protein 2.
+
+Leow CH(1), Jones M, Cheng Q, Mahler S, McCarthy J.
+
+Author information: 
+(1)QIMR Berghofer Medical Research Institute, Brisbane, Australia.
+herng.leow@usm.my.
+
+BACKGROUND: Early and accurate diagnosis of Plasmodium falciparum infection is
+important for providing appropriate treatment to patients with malaria. However, 
+technical limitations of currently available diagnostic tests limit their use in 
+control programs. One possible explanation for the vulnerability of current
+antibodies used in RDTs is their propensity to degrade at high ambient
+temperatures. Isolation of new antibodies with better thermal stability
+represents an appealing approach to improve the performance of RDTs.
+METHODS: In this study, phage display technology was deployed to isolate novel
+binders by screening a human naïve scFv antibody library against recombinant
+Plasmodium falciparum histidine rich protein 2 (rPfHRP2). The isolated scFv
+clones were reformatted to whole IgG and the recombinant mAbs were produced in a 
+mammalian CHO cell expression system. To verify the biological activity of these 
+purified recombinant mAbs, range of functional assays were characterized.
+RESULTS: Two unique clones (D2 and F9) were isolated after five rounds of
+biopanning. The reformatted and expressed antibodies demonstrated high binding
+specificity to malaria recombinant PfHRP2 and native proteins. When 5 μg/mL of
+mAbs applied, mAb C1-13 had the highest sensitivity, with an OD value of 1, the
+detection achieved 5 ng/mL of rPfHRP2, followed by mAbs D2 and F9 at 10 ng/mL and
+100 ng/mL of rPfHRP2, respectively. Although the sensitivity of mAbs D2 and F9
+was lower than the control, these recombinant human mAbs have shown better
+stability compared to mouse mAb C1-13 at various temperatures in DSC and blot
+assays. In view of epitope mapping, the predominant motif of rPfHRP2 recognized
+by mAb D2 was AHHAADAHHA, whereas mAb F9 was one amino acid shorter, resulting in
+AHHAADAHH. mAb F9 had the strongest binding affinity to rPfHRP2 protein, with a
+KD value of 4.27 × 10(-11) M, followed by control mAb C1-13 at 1.03 × 10(-10) M
+and mAb D2 at 3.05 × 10(-10) M.
+CONCLUSIONS: Overall, the performance of these mAbs showed comparability to
+currently available PfHRP2-specific mouse mAb C1-13. The stability of these novel
+binders indicate that they merit further work to evaluate their utility in the
+development of new generation point of care diagnosis of malaria.
+
+DOI: 10.1186/1475-2875-13-277 
+PMCID: PMC4120728
+PMID: 25037150  [Indexed for MEDLINE]
+

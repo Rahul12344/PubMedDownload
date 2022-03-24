@@ -1,0 +1,44 @@
+
+1. Pharmaceutics. 2021 Oct 11;13(10). pii: 1656. doi: 10.3390/pharmaceutics13101656.
+
+Activation of Tenofovir Alafenamide and Sofosbuvir in the Human Lung and Its
+Implications in the Development of Nucleoside/Nucleotide Prodrugs for Treating
+SARS-CoV-2 Pulmonary Infection.
+
+Li J(1), Liu S(1), Shi J(1), Zhu HJ(1).
+
+Author information: 
+(1)Department of Clinical Pharmacy, College of Pharmacy, University of Michigan, 
+Ann Arbor, MI 48109, USA.
+
+ProTide technology is a powerful tool for the design of nucleoside/nucleotide
+analog prodrugs. ProTide prodrug design improves cell permeability and enhances
+intracellular activation. The hydrolysis of the ester bond of a ProTide is a
+determinant of the intracellular activation efficiency and final antiviral
+efficacy of the prodrug. The hydrolysis is dictated by the catalytic activity and
+abundance of activating enzymes. The antiviral agents tenofovir alafenamide (TAF)
+and sofosbuvir (SBV) are typical ProTides. Both TAF and SBV have also been
+proposed to treat patients with COVID-19. However, the mechanisms underlying the 
+activation of the two prodrugs in the lung remain inconclusive. In the present
+study, we profiled the catalytic activity of serine hydrolases in human lung S9
+fractions using an activity-based protein profiling assay. We evaluated the
+hydrolysis of TAF and SBV using human lung and liver S9 fractions and purified
+enzymes. The results showed that CatA and CES1 were involved in the hydrolysis of
+the two prodrugs in the human lung. More specifically, CatA exhibited a nearly
+4-fold higher hydrolytic activity towards TAF than SBV, whereas the CES1 activity
+on hydrolyzing TAF was slightly lower than that for SBV. Overall, TAF had a
+nearly 4-fold higher hydrolysis rate in human lung S9 than SBV. We further
+analyzed protein expression levels of CatA and CES1 in the human lung, liver, and
+primary cells of the two tissues using proteomics data extracted from the
+literature. The relative protein abundance of CatA to CES1 was considerably
+higher in the human lung and primary human airway epithelial cells than in the
+human liver and primary human hepatocytes. The findings demonstrated that the
+high susceptivity of TAF to CatA-mediated hydrolysis resulted in efficient TAF
+hydrolysis in the human lung, suggesting that CatA could be utilized as a target 
+activating enzyme when designing antiviral ester prodrugs for the treatment of
+respiratory virus infection.
+
+DOI: 10.3390/pharmaceutics13101656 
+PMCID: PMC8540046
+PMID: 34683949 
+

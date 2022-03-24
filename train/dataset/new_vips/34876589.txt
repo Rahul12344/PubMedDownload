@@ -1,0 +1,56 @@
+
+1. Nat Commun. 2021 Dec 7;12(1):7102. doi: 10.1038/s41467-021-27337-x.
+
+eIF2B-capturing viral protein NSs suppresses the integrated stress response.
+
+Kashiwagi K(#)(1), Shichino Y(#)(2), Osaki T(#)(3), Sakamoto A(1), Nishimoto
+M(1), Takahashi M(1), Mito M(2), Weber F(4), Ikeuchi Y(5)(6), Iwasaki S(7)(8),
+Ito T(9).
+
+Author information: 
+(1)Laboratory for Translation Structural Biology, RIKEN Center for Biosystems
+Dynamics Research, Tsurumi-ku, Yokohama, 230-0045, Japan.
+(2)RNA Systems Biochemistry Laboratory, RIKEN Cluster for Pioneering Research,
+Wako, Saitama, 351-0198, Japan.
+(3)Institute of Industrial Science, The University of Tokyo, Meguro-ku, Tokyo,
+153-8505, Japan.
+(4)Institute for Virology, FB10-Veterinary Medicine, Justus-Liebig University,
+Giessen, D-35392, Germany.
+(5)Institute of Industrial Science, The University of Tokyo, Meguro-ku, Tokyo,
+153-8505, Japan. yikeuchi@iis.u-tokyo.ac.jp.
+(6)Institute for AI and Beyond, The University of Tokyo, Bunkyo-ku, Tokyo,
+113-8655, Japan. yikeuchi@iis.u-tokyo.ac.jp.
+(7)RNA Systems Biochemistry Laboratory, RIKEN Cluster for Pioneering Research,
+Wako, Saitama, 351-0198, Japan. shintaro.iwasaki@riken.jp.
+(8)Department of Computational Biology and Medical Sciences, Graduate School of
+Frontier Sciences, The University of Tokyo, Kashiwa, Chiba, 277-8561, Japan.
+shintaro.iwasaki@riken.jp.
+(9)Laboratory for Translation Structural Biology, RIKEN Center for Biosystems
+Dynamics Research, Tsurumi-ku, Yokohama, 230-0045, Japan. takuhiro.ito@riken.jp.
+(#)Contributed equally
+
+Various stressors such as viral infection lead to the suppression of
+cap-dependent translation and the activation of the integrated stress response
+(ISR), since the stress-induced phosphorylated eukaryotic translation initiation 
+factor 2 [eIF2(αP)] tightly binds to eIF2B to prevent it from exchanging guanine 
+nucleotide molecules on its substrate, unphosphorylated eIF2. Sandfly fever
+Sicilian virus (SFSV) evades this cap-dependent translation suppression through
+the interaction between its nonstructural protein NSs and host eIF2B. However,
+its precise mechanism has remained unclear. Here, our cryo-electron microscopy
+(cryo-EM) analysis reveals that SFSV NSs binds to the α-subunit of eIF2B in a
+competitive manner with eIF2(αP). Together with SFSV NSs, eIF2B retains
+nucleotide exchange activity even in the presence of eIF2(αP), in line with the
+cryo-EM structures of the eIF2B•SFSV NSs•unphosphorylated eIF2 complex. A
+genome-wide ribosome profiling analysis clarified that SFSV NSs expressed in
+cultured human cells attenuates the ISR triggered by thapsigargin, an endoplasmic
+reticulum stress inducer. Furthermore, SFSV NSs introduced in rat hippocampal
+neurons and human induced-pluripotent stem (iPS) cell-derived motor neurons
+exhibits neuroprotective effects against the ISR-inducing stress. Since ISR
+inhibition is beneficial in various neurological disease models, SFSV NSs may be 
+a promising therapeutic ISR inhibitor.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-27337-x 
+PMID: 34876589 
+

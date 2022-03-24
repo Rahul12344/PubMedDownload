@@ -1,0 +1,45 @@
+
+1. PLoS One. 2013 Oct 14;8(10):e76235. doi: 10.1371/journal.pone.0076235.
+eCollection 2013.
+
+Identification of novel predictor classifiers for inflammatory bowel disease by
+gene expression profiling.
+
+Montero-Meléndez T(1), Llor X, García-Planella E, Perretti M, Suárez A.
+
+Author information: 
+(1)The William Harvey Research Institute, Barts and The London School of
+Medicine, Queen Mary University of London, London, United Kingdom.
+
+BACKGROUND: Improvement of patient quality of life is the ultimate goal of
+biomedical research, particularly when dealing with complex, chronic and
+debilitating conditions such as inflammatory bowel disease (IBD). This is largely
+dependent on receiving an accurate and rapid diagnose, an effective treatment and
+in the prediction and prevention of side effects and complications. The low
+sensitivity and specificity of current markers burden their general use in the
+clinical practice. New biomarkers with accurate predictive ability are needed to 
+achieve a personalized approach that take the inter-individual differences into
+consideration.
+METHODS: We performed a high throughput approach using microarray gene expression
+profiling of colon pinch biopsies from IBD patients to identify predictive
+transcriptional signatures associated with intestinal inflammation, differential 
+diagnosis (Crohn's disease or ulcerative colitis), response to glucocorticoids
+(resistance and dependence) or prognosis (need for surgery). Class prediction was
+performed with self-validating Prophet software package.
+RESULTS: Transcriptional profiling divided patients in two subgroups that
+associated with degree of inflammation. Class predictors were identified with
+predictive accuracy ranging from 67 to 100%. The expression accuracy was
+confirmed by real time-PCR quantification. Functional analysis of the predictor
+genes showed that they play a role in immune responses to bacteria (PTN, OLFM4
+and LILRA2), autophagy and endocytocis processes (ATG16L1, DNAJC6, VPS26B,
+RABGEF1, ITSN1 and TMEM127) and glucocorticoid receptor degradation (STS and
+MMD2).
+CONCLUSIONS: We conclude that using analytical algorithms for class prediction
+discovery can be useful to uncover gene expression profiles and identify
+classifier genes with potential stratification utility of IBD patients, a major
+step towards personalized therapy.
+
+DOI: 10.1371/journal.pone.0076235 
+PMCID: PMC3796518
+PMID: 24155895  [Indexed for MEDLINE]
+

@@ -1,0 +1,41 @@
+
+1. bmc genomics. 2011 dec 22;12 suppl 4:s4. doi: 10.1186/1471-2164-12-s4-s4. epub
+2011 dec 22.
+
+origin multiple periodicities fourier power spectra plasmodium
+falciparum genome.
+
+nunes mc(1), wanner ef, weber g.
+
+author information: 
+(1)department biological sciences, federal university ouro preto, 35400-000
+ouro preto, mg, brazil.
+
+background: fourier transforms associated power spectra used for
+detecting periodicities protein-coding genes generally regarded a
+well established technique. many periodicities found 
+this method quite well understood periodicity 3 nt is
+associated codon usage. origin peculiar frequency
+multiples k/21 reported tiny section chromosome 2 p.
+falciparum? present chromosomes perhaps related
+organisms? interpret fractional periodicities genomes?
+results: applied binary indicator power spectrum chromosomes p. 
+falciparum, found frequency overtones k/21 present in
+non-coding sections. find frequency overtones other
+related genomes. furthermore, frequency overtones identified as
+artifacts way genome encoded numerical sequence, is,
+they frequency aliases. choosing different way encode sequence
+the overtones appear. view results, revisited early
+applications technique proteins frequency overtones were
+reported.
+conclusions: authors hinted recently possibility mapping artifacts
+and frequency aliases power spectra. however, case p. falciparum the
+frequency aliases particularly strong mask 1/3 frequency is
+used gene detecting. shows albeit well known technique,
+with long history application proteins, researchers seem aware 
+of problems represented frequency aliases.
+
+doi: 10.1186/1471-2164-12-s4-s4 
+pmcid: pmc3287587
+pmid: 22369134  [indexed medline]
+

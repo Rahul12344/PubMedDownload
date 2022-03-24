@@ -1,0 +1,44 @@
+
+1. Mutat Res. 2013 Jun 14;754(1-2):32-8. doi: 10.1016/j.mrgentox.2013.04.001. Epub
+2013 Apr 9.
+
+Translesion DNA synthesis across various DNA adducts produced by
+3-nitrobenzanthrone in Escherichia coli.
+
+Kawanishi M(1), Kanno T, Nishida H, Takamura-Enya T, Yagi T.
+
+Author information: 
+(1)Graduate School of Science and Radiation Research Center, Osaka Prefecture
+University, 1-2 Gakuen-cho, Sakai, Osaka 599-8570, Japan.
+
+To analyze translesion DNA synthesis (TLS) across lesions derived from the air
+pollutant 3-nitrobenzanthrone in Escherichia coli, we constructed
+site-specifically modified plasmids containing single molecule adducts derived
+from 3-nitrobenzanthrone. For this experiment, we adopted a modified version of
+the method developed by Fuchs et al. [29]. Each plasmid contained one of the
+following lesions in its LacZ' gene:
+N-(2'-deoxyguanosin-8-yl)-3-aminobenzanthrone (dG-C8-N-ABA);
+2-(2'-deoxyguanosin-N(2)-yl)-3-aminobenzanthrone (dG-N(2)-C2-ABA);
+2-(2'-deoxyguanosin-8-yl)-3-aminobenzanthrone (dG-C8-C2-ABA);
+2-(2'-deoxyadenosin-N(6)-yl)-3-aminobenzanthrone (dA-N(6)-C2-ABA);
+N-(2'-deoxyguanosin-8-yl)-3-acetylaminobenzanthrone (dG-C8-N-AcABA); or
+2-(2'-deoxyguanosin-8-yl)-3-acetylaminobenzanthrone (dG-C8-C2-AcABA). All of the 
+adducts inhibited DNA synthesis by replicative DNA polymerases in E. coli;
+however, the extent of the inhibition varied among the adducts. All five
+dG-adducts strongly blocked replication by replicative DNA polymerases; however, 
+the dA-adduct only weakly blocked DNA replication. The induction of the SOS
+response increased the frequency of TLS, which was higher for the dG-C8-C2-ABA,
+dG-C8-N-AcABA and dG-C8-C2-AcABA adducts than for the other adducts. In our
+previous study, dG-C8-N-ABA blocked DNA replication more strongly and induced
+mutations more frequently than dG-N(2)-C2-ABA in human cells. In contrast, in E. 
+coli the frequency of TLS over dG-N(2)-C2-ABA was markedly reduced, even under
+the SOS(+) conditions, and dG-N(2)-C2-ABA induced G to T mutations. All of the
+other adducts were bypassed in a less mutagenic manner. In addition, using E.
+coli strains that lacked particular DNA polymerases we found that DNA polymerase 
+V was responsible for TLS over dG-C8-N-AcABA and dG-C8-C2-AcABA adducts.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.mrgentox.2013.04.001 
+PMID: 23583687  [Indexed for MEDLINE]
+

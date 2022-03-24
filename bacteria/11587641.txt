@@ -1,0 +1,37 @@
+
+1. Structure. 2001 Aug;9(8):669-78.
+
+X-ray crystal structure of proto-oncogene product c-Rel bound to the CD28
+response element of IL-2.
+
+Huang DB(1), Chen YQ, Ruetsche M, Phelps CB, Ghosh G.
+
+Author information: 
+(1)Department of Chemistry and Biochemistry, University of California, San Diego,
+La Jolla, CA 92093, USA.
+
+BACKGROUND: The proto-oncogene product c-Rel is a Rel/NF-kappaB family
+transcription factor that plays a critical role in lymphoid cell development and 
+mediates CD28-induced expression of interleukin 2 (IL-2). The CD28 response
+element (CD28RE) in the IL-2 enhancer is nonameric and similar to the kappaB DNA 
+target sites recognized by p65 homodimers.
+RESULTS: We have determined and refined the X-ray crystal structure of the c-Rel 
+homodimer complexed to the CD28RE DNA site, 5'-AGAAATTCC-3', to 2.85 A
+resolution. The c-Rel homodimer binds CD28RE in a mode similar to that observed
+in the p65/IL-8 kappaB crystallographic complex. Binding studies reveal that the 
+c-Rel homodimer recognizes the CD28RE with higher affinity as compared to other
+canonical kappaB sequences despite the nonconsensus A:T base pair at the 5' end
+of the CD28RE. Preferential recognition of the CD28RE by c-Rel results from the
+direct contacts between the protein and the DNA as well as intrasubunit
+interactions between the beta(f)-beta(g) loop in the dimerization domain and the 
+DNA-contacting loop L1 of the N-terminal domain. Not only do these loops have
+different conformations in other Rel/DNA crystallographic complexes, but they
+also contain two of the five oncogenic point mutations found in v-Rel.
+CONCLUSIONS: The current structure indicates that a non-DNA-contacting loop in
+the dimerization domain and the DNA-contacting loop L1 may play critical roles in
+defining affinity and specificity. Two amino acid changes in these segments may
+account for the differential DNA binding by v-Rel as compared to that of c-Rel.
+
+DOI: 10.1016/s0969-2126(01)00635-9 
+PMID: 11587641  [Indexed for MEDLINE]
+

@@ -1,0 +1,49 @@
+
+1. Comput Human Behav. 2021 Jun;119:106716. doi: 10.1016/j.chb.2021.106716. Epub
+2021 Jan 30.
+
+Machine learning techniques and older adults processing of online information and
+misinformation: A covid 19 study.
+
+Choudrie J(1), Banerjee S(2), Kotecha K(3), Walambe R(3), Karende H(3), Ameta
+J(3).
+
+Author information: 
+(1)University of Hertfordshire, Hertfordshire Business School, DeHavilland
+Campus, Hatfield. Herts, AL109EU, UK.
+(2)York Management School, University of York, Freboys Lane, YO10 5GD, UK.
+(3)Symbiosis Centre for Applied Artificial Intelligence (SCAAI), Symbiosis
+Institute of Technology, Pune. Symbiosis (Deemed University), Pune, Maharashtra, 
+412115, India.
+
+This study is informed by two research gaps. One, Artificial Intelligence's
+(AI's) Machine Learning (ML) techniques have the potential to help separate
+information and misinformation, but this capability has yet to be empirically
+verified in the context of COVID-19. Two, while older adults can be particularly 
+susceptible to the virus as well as its online infodemic, their information
+processing behaviour amid the pandemic has not been understood. Therefore, this
+study explores and understands how ML techniques (Study 1), and humans,
+particularly older adults (Study 2), process the online infodemic regarding
+COVID-19 prevention and cure. Study 1 employed ML techniques to classify
+information and misinformation. They achieved a classification accuracy of 86.7% 
+with the Decision Tree classifier, and 86.67% with the Convolutional Neural
+Network model. Study 2 then investigated older adults' information processing
+behaviour during the COVID-19 infodemic period using some of the posts from Study
+1. Twenty older adults were interviewed. They were found to be more willing to
+trust traditional media rather than new media. They were often left confused
+about the veracity of online content related to COVID-19 prevention and cure.
+Overall, the paper breaks new ground by highlighting how humans' information
+processing differs from how algorithms operate. It offers fresh insights into how
+during a pandemic, older adults-a vulnerable demographic segment-interact with
+online information and misinformation. On the methodological front, the paper
+represents an intersection of two very disparate paradigms-ML techniques and
+interview data analyzed using thematic analysis and concepts drawn from grounded 
+theory to enrich the scholarly understanding of human interaction with
+cutting-edge technologies.
+
+© 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.chb.2021.106716 
+PMCID: PMC8631531
+PMID: 34866770 
+

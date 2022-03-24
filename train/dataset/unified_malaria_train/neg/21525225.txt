@@ -1,0 +1,45 @@
+
+1. j clin microbiol. 2011 jul;49(7):2411-8. doi: 10.1128/jcm.02603-10. epub 2011 apr
+27.
+
+applied genomics: data mining reveals species-specific malaria diagnostic targets
+more sensitive 18s rrna.
+
+demas a(1), oberstaller j, debarry j, lucchi nw, srinivasamoorthy g, sumari d,
+kabanywanyi am, villegas l, escalante aa, kachur sp, barnwell jw, peterson ds,
+udhayakumar v, kissinger jc.
+
+author information: 
+(1)malaria branch, division parasitic diseases malaria, center global 
+health, centers disease control prevention,atlanta, georgia 30602, usa.
+
+accurate rapid diagnosis malaria infections crucial implementing
+species-appropriate treatment saving lives. molecular diagnostic tools are
+the accurate sensitive method detecting plasmodium, differentiating
+between plasmodium species, detecting subclinical infections. despite
+available whole-genome sequence data plasmodium falciparum p. vivax, 
+majority pcr-based methods still rely 18s rrna gene targets.
+historically, gene served best target diagnostic assays.
+however, limited ability detect mixed infections multiplex
+assay platforms without use nested pcr. new diagnostic targets needed.
+ideal targets species specific, highly sensitive, amenable both
+single-step multiplex pcrs. mined genomes p. falciparum p.
+vivax identify species-specific, repetitive sequences serve new pcr
+targets detection malaria. show targets (pvr47 and
+pfr364) exist 14 41 copies sensitive 18s rrna when
+utilized single-step pcr. parasites routinely detected levels 1 to
+10 parasites/μl. reaction multiplexed detect species a
+single reaction. examined 7 p. falciparum strains 91 p. falciparum
+clinical isolates tanzania 10 p. vivax strains 96 p. vivax clinical 
+isolates venezuela, verified sensitivity specificity of
+∼100% targets compared nested 18s rrna approach. show that
+bioinformatics approaches successfully applied identify novel
+diagnostic targets improve molecular methods pathogen detection. these
+novel targets provide powerful alternative molecular diagnostic method 
+detection p. falciparum p. vivax conventional multiplex pcr
+platforms.
+
+doi: 10.1128/jcm.02603-10 
+pmcid: pmc3147814
+pmid: 21525225  [indexed medline]
+

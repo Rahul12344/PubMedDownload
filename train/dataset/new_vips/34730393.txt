@@ -1,0 +1,76 @@
+
+1. J Virol. 2021 Nov 3:JVI0164321. doi: 10.1128/JVI.01643-21. [Epub ahead of print]
+
+Selection of HIV Envelope strains for standardized assessments of
+vaccine-elicited antibody-dependent cellular cytotoxicity (ADCC)-mediating
+antibodies.
+
+Mielke D(1), Stanfield-Oakley S(1), Borate B(2)(3), Fisher LH(3), Faircloth K(1),
+Tuyishime M(1), Greene K(1), Gao H(1), Williamson C(4)(5)(6), Morris
+L(5)(6)(7)(8), Ochsenbauer C(9), Tomaras G(1)(10)(11), Haynes BF(11)(12)(13),
+Montefiori D(1)(12), Pollara J(1)(12), deCamp AC(3), Ferrari G(1)(10)(12).
+
+Author information: 
+(1)Department of Surgery, Duke University, Durham, NC, United States.
+(2)Statistical Center for HIV/AIDS Research and Prevention, Fred Hutchinson
+Cancer Research Center, Seattle, WA, United States.
+(3)Vaccine and Infectious Diseases Division, Fred Hutchinson Cancer Research
+Center, Seattle, WA, United States.
+(4)Division of Medical Virology, Department of Pathology, University of Cape
+Town, Cape Town, South Africa.
+(5)National Health Laboratory Services, Johannesburg, South Africa.
+(6)Centre for the AIDS Programme of Research in South Africa (CAPRISA),
+University of KwaZulu Natal, Durban, South Africa.
+(7)HIV Virology Section, Center for HIV and STIs, National Institute for
+Communicable Diseases, Johannesburg, South Africa.
+(8)MRC Antibody Immunity Research Unit, University of Witwatersrand,
+Johannesburg, South Africa.
+(9)Department of Medicine, University of Alabama at Birmingham, Birmingham, AL,
+United States.
+(10)Department of Molecular Genetics and Microbiology, Duke University, Durham,
+NC, United States.
+(11)Department of Immunology, Duke University, Durham, NC, United States.
+(12)Duke Human Vaccine Institute, Duke University School of Medicine, Durham, NC,
+United States.
+(13)Department of Medicine, Duke University, Durham, NC, United States.
+
+Antibody-dependent cellular cytotoxicity (ADCC) has been correlated with reduced 
+risk of HIV-1 infection in several preclinical vaccine trials and the RV144
+clinical trial, indicating this is a relevant antibody function to study. Given
+the diversity of HIV-1, the breadth of vaccine-induced antibody responses is a
+critical parameter to understand if a universal vaccine is to be realised.
+Moreover, breadth of ADCC responses can be influenced by different vaccine
+strategies and regimens, including adjuvants. Therefore, to accurately evaluate
+ADCC and to compare vaccine regimens, it is important to understand the range of 
+HIV Envelope susceptibility to these responses. These evaluations have been
+limited because of the complexity of the assay and the lack of a comprehensive
+panel of viruses for the assessment of these humoral responses. Here, we used
+twenty-nine HIV-1 infectious molecular clones (IMCs) representing different
+Envelope subtypes and circulating recombinant forms to characterise
+susceptibility to ADCC from antibodies in plasma from infected individuals,
+including thirteen viraemic individuals, ten controllers and six with broadly
+neutralizing antibody responses. We found in our panel that ADCC susceptibility
+of the IMCs in our panel did not cluster by subtype, infectivity, level of CD4
+downregulation, level of shedding, or neutralization sensitivity. Using
+partition-around-medoids (PAM) clustering to distinguish smaller groups of IMCs
+with similar ADCC susceptibility, we identified nested panels of four to eight
+IMCs that broadly represent the ADCC susceptibility of the entire 29 IMC panel.
+These panels, together with reagents developed to specifically accommodate
+circulating viruses at the geographical sites of vaccine trials, will provide a
+powerful tool to harmonise ADCC data generated across different studies, and
+detect common themes of ADCC responses elicited by various vaccines. IMPORTANCE
+Antibody-dependent cellular cytotoxicity (ADCC) responses were found to correlate
+with reduced risk of infection in the RV144 trial, the only human HIV-1 vaccine
+to show any efficacy to date. However, reagents to understand the breadth and
+magnitude of these responses across preclinical and clinical vaccine trials
+remain underdeveloped. In this study, we characterise HIV-1 infectious molecular 
+clones encoding 29 distinct envelope strains (Env-IMCs) to understand factors
+which impact virus susceptibility to ADCC and use statistical methods to identify
+smaller nested panels of four to eight Env-IMCs which accurately represent the
+full set. These reagents can be used as standardized reagents across studies to
+fully understand how ADCC may affect efficacy of future vaccine studies, and how 
+studies differed in the breadth of responses developed.
+
+DOI: 10.1128/JVI.01643-21 
+PMID: 34730393 
+
